@@ -254,7 +254,7 @@ How does computer process text,video,audio
 
 
 
-* 3d movies
+    * 3d movies
 
   at begining,compuer don't have video database,so we need 3d movie,like 
       human have 2 eyes,and like every animal with eyes ,we don't have 
@@ -263,7 +263,7 @@ How does computer process text,video,audio
 
 
 
-* material scense
+    * material scense
 
 every surface has it's material sense
 
@@ -279,7 +279,7 @@ repeated feature,is a concept , a material sense ,including metal wood
 
 
 
-* courseware for computer
+    * courseware for computer
 
    we need many courseware for computer,like a mother teach her kids, 
        this is what and that is what .
