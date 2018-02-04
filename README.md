@@ -250,15 +250,11 @@ How does computer process text,video,audio
 	      you can't see it , you can't touch it ,a object in real world to describe 
 	      a abstract conception ,to understand this concept need life experience . 
 
-     
 
 
 
 
-
-
-
-*3d movies
+* 3d movies
 
   at begining,compuer don't have video database,so we need 3d movie,like 
       human have 2 eyes,and like every animal with eyes ,we don't have 
@@ -283,7 +279,7 @@ repeated feature,is a concept , a material sense ,including metal wood
 
 
 
-*courseware for computer
+* courseware for computer
 
    we need many courseware for computer,like a mother teach her kids, 
        this is what and that is what .
