@@ -134,18 +134,18 @@ How does computer process text,video,audio
             as AI number .
 
         make grammer courseware ,tell computer how to describe many concepts ,
-	    include 'date' 'time' 'temperature' 'percent'... ,every grammer
-	    has its value ,its priority is higher than automatic generated
-	    grammer .
+            include 'date' 'time' 'temperature' 'percent'... ,every grammer
+            has its value ,its priority is higher than automatic generated
+            grammer .
 
         separate sentence by word courseware and word database , not only 
-	    keep the highest value one , also keep some lower value ones ,
-	    (highest one separate sentence by a word with 3 chinese, lower 
-	    ones may separate sentence by a word with 2 chinese or a word with
+            keep the highest value one , also keep some lower value ones ,
+            (highest one separate sentence by a word with 3 chinese, lower 
+            ones may separate sentence by a word with 2 chinese or a word with
             1 chiness .) so there are many result , shorter sentence 
             have 30 result ,longer sentence may have 200 result , choose 
-	    the 20 highest value ones , calculate its grammer value , add with
-	    its word value ,the highest value one is result.
+            the 20 highest value ones , calculate its grammer value , add with
+            its word value ,the highest value one is result.
 
         separate all text . 
 
@@ -163,17 +163,18 @@ How does computer process text,video,audio
 
                 run program in webfind61 (step210)(copy to work_dir)
                     (separate sentence by word courseware and word database , 
-		    not only keep the highest value one , also keep some lower 
+                    not only keep the highest value one , also keep some lower 
                     value ones , calculate its grammer value , add with its word value ,
-		    choose max value one )
+                    choose max value one )
 
                 run program in webfind62 (step220)(copy to work_dir)
-		    ( get all the words , it is 4th word base )
+                    ( get all the words , it is 4th word base )
 
                 run program in webwind63 (step230)(copy to work_dir)
-		    ( get all the grammer , it is grammer base )
+                    ( get all the grammer , it is grammer base )
 
-			(Mar 21th 2014 version added support to repeat times of grammers, repeat times of words, and better algorithm )
+			(Mar 21th 2014 version added support to repeat times of grammers, repeat times of words, 
+                             and better algorithm )
 			(Feb  1st 2018 version added grammer courseware )
 
 
@@ -192,9 +193,9 @@ How does computer process text,video,audio
 
          * those pieces may have many combination,select some combination 
                of similar physical location, or select some combination of 
-	       relatively independent movement.
+               relatively independent movement.
 
-	 * some combination maybe 'material scense' (you can see it in after ) , 
+         * some combination maybe 'material scense' (you can see it in after), 
                in photogragh , some combination maybe not , in most painting .
 
          * add more conditions ,different brightness , other objects of the
@@ -208,7 +209,7 @@ How does computer process text,video,audio
               characteristics objects(a combination of color pieces in this 
               video clips and a combination of color pieces in that video 
               clips have similar shape or have similar characteristics), 
-	      repeated is a object , all those object means a video database , 
+              repeated is a object , all those object means a video database , 
               processe 1000 movies again (this time by video database),and 
               get objects again ,it is a new video database , I estimate this 
               is construction procedure .
@@ -219,18 +220,18 @@ How does computer process text,video,audio
               objects .
 
          * knowledge , a man in 1000 years ago , look at today's flat TV , he 
-	      don't know what it is ,look at today's iPhone , he don't know what
-	      it is , robot need human society's general knowledge .
+              don't know what it is ,look at today's iPhone , he don't know what
+              it is , robot need human society's general knowledge .
 
-	 * how to get knowledge , a procedure divided into several parts ,for example ,
-	      a man have dinner ,he walk to chair ,sit down, pick up knife and fork ,
-	      start to eat , every part have many features ,combine these parts 
-	      together , also have many features ,get the features we need ,this is how to
-	      get knowledge .
+         * how to get knowledge , a procedure divided into several parts ,for example ,
+              a man have dinner ,he walk to chair ,sit down, pick up knife and fork ,
+              start to eat , every part have many features ,combine these parts 
+              together , also have many features ,get the features we need ,this is how to
+              get knowledge .
 
-	 * summary,induce,generalization , a object has unlimited features , but after
-	      summary,induce,generalization , it is broadly combined with a few features ,
-	      a few color . a few material scense , a few geometry . a few parts , size .
+         * summary,induce,generalization , a object has unlimited features , but after
+              summary,induce,generalization , it is broadly combined with a few features ,
+              a few color . a few material scense , a few geometry . a few parts , size .
 
     D,audio
 
@@ -245,10 +246,10 @@ How does computer process text,video,audio
 
     E,abstract conception
 
-	* a famous song :"Bridge Over Troubled Water" , in the song ,"Bridge" is a 
-	      abstract conception ,"Troubled Water" is also a abstract conception ,
-	      you can't see it , you can't touch it ,a object in real world to describe 
-	      a abstract conception ,to understand this concept need life experience . 
+        * a famous song :"Bridge Over Troubled Water" , in the song ,"Bridge" is a 
+              abstract conception ,"Troubled Water" is also a abstract conception ,
+              you can't see it , you can't touch it ,a object in real world to describe 
+              a abstract conception ,to understand this concept need life experience . 
 
 
 
