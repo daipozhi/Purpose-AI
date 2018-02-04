@@ -220,7 +220,7 @@ How does computer process text,video,audio
 
          * knowledge , a man in 1000 years ago , look at today's flat TV , he 
 	      don't know what it is ,look at today's iPhone , he don't know what
-	      it is , robot need human society's general knowledge .  
+	      it is , robot need human society's general knowledge .
 
 	 * how to get knowledge , a procedure divided into several parts ,for example ,
 	      a man have dinner ,he walk to chair ,sit down, pick up knife and fork ,
@@ -256,33 +256,27 @@ How does computer process text,video,audio
 
     * 3d movies
 
-  at begining,compuer don't have video database,so we need 3d movie,like 
-      human have 2 eyes,and like every animal with eyes ,we don't have 
-      many 3d movies, and it is not fully 3d, it is 2.5d or 2.75d ,if 
-      it is not good enough,we need 3d camera to record many 3d video .
+         at begining,compuer don't have video database,so we need 3d movie,like 
+         human have 2 eyes,and like every animal with eyes ,we don't have 
+         many 3d movies, and it is not fully 3d, it is 2.5d or 2.75d ,if 
+         it is not good enough,we need 3d camera to record many 3d video .
 
 
 
     * material scense
 
-every surface has it's material sense
+         every surface has it's material sense
 
-color
-grain ,stripe
-smoothness,roughness,particle size
-reflective
-transparency
-Stereoscopic 3D surface texture
-
-repeated feature,is a concept , a material sense ,including metal wood 
-    plastic cloth paper glass water
+         color ,grain ,stripe ,smoothness,roughness,particle size ,reflective,
+         transparency ,Stereoscopic 3D surface texture ,repeated feature,is a 
+         concept , a material sense ,including metal wood plastic cloth paper glass water
 
 
 
     * courseware for computer
 
-   we need many courseware for computer,like a mother teach her kids, 
-       this is what and that is what .
+         we need many courseware for computer,like a mother teach her kids, 
+         this is what and that is what .
 
 
 
