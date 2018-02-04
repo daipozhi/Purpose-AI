@@ -1,0 +1,78 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>六间房视频 6.cn</title>
+<meta name="keywords" content="六间房,上传视频,视频分享,视频发布,在线录制,看电影" />
+<meta name="description" content="六间房，国内第一视频网站。免费观看和搜索海量视频和专辑，提供无限视频博客空间，做自己喜欢的视频相册，与朋友分享视频和获得上传收益。" />
+<meta name="robots" content="All" />
+<meta name="author" content="六间房 6.cn" />
+<link href="http://6.cn/csjs/20080129/a.css" rel="stylesheet" type="text/css" media="all" /><link href="http://6.cn/csjs/20080129/h.css" rel="stylesheet" type="text/css" media="all" /><link href="http://6.cn/csjs/20080129/v.css" rel="stylesheet" type="text/css" media="all" /><link href="http://6.cn/csjs/20080129/u.css" rel="stylesheet" type="text/css" media="all" /><link rel="alternate" type="application/rss+xml" title="六间房 - 本日推荐" href="http://6.cn/rss.php"/>
+<link rel="alternate" type="application/rss+xml" title="六间房 - 最新节目" href="http://6.cn/rss.php?action=new"/>
+<link rel="alternate" type="application/rss+xml" title="六间房 - 用户推荐" href="http://6.cn/rss.php?action=user_rec"/>
+<link rel="icon" href="http://r.6.cn/favicon.ico" type="image/x-icon" />
+<link rel="shortcut icon" href="http://r.6.cn/favicon.ico" type="image/x-icon" />
+<script type="text/javascript" src="http://6.cn/csjs/20080129/mt.js"></script><script type="text/javascript" src="http://6.cn/csjs/20080129/z.js"></script><script type="text/javascript" src="http://6.cn/csjs/20080129/m.js"></script><script type="text/javascript" src="http://6.cn/csjs/20080129/a.js"></script><meta name="verify-v1" content="EH3q1dXHbmtu0SmKjalRR4XXgBYieTHwtcwOhN1a7k4=" />
+</head>
+
+<body>
+
+<!-- heaeder -->
+<div id="headerBao">
+<div id="header">
+
+<div id="header-left">
+<p><a href="http://6.cn/"><img src="http://r.6.cn/imges/new_idx/6logobg.gif" alt="site logo" title="你的视频发布和分享空间"/></a><img id="mlogo" src="http://r.6.cn/imges/new_idx/66logos6.gif" alt="" /></p>
+</div>
+
+<div id="header-right">
+
+
+<div id="userTop">
+<script type="text/javascript">
+// write user login heaer
+var userLogin = new login()
+userLogin.write() ;
+
+// mlogo
+$('mlogo').makeDraggable({onComplete: function(){ this.element.effects({transition:Fx.Transitions.elasticOut , duration:800}).start({left:[this.element.getStyle('left').toInt(),0],top:[this.element.getStyle('top').toInt(),0]}) } }) ;
+//
+// cur url
+jcookie.set('curUrl' , window.location.href) ;
+
+// quicklist for  qlNum value
+ql.updateNum(getCookie('ql') ? getCookie("ql").split('v').length : 0) ;
+</script>
+</div>
+
+<div class="search" id="searchTop">
+<form method="get" action="http://6.cn/search.php" target="_blank">
+<ul>
+<li class="r0"><button type="button" onclick="pageFav(this)" class="host" value=""></button></li>
+<li class="r1">
+<span class="text" ><input name="k" autocomplete="off"  value="" type="text" /></span>
+<button type="submit" class="btn" onmousemove="$(this).addClass('btnOver');" onmouseout="$(this).removeClass('btnOver')"  value="" ></button>
+<div id="autoAutomatic" style="display:none;"></div>
+</li>
+<li class="r2">
+<input id="searchTopVideos" name="t" value="v" checked="checked" type="radio" /> <label for="searchTopVideos">节目</label>
+<input id="searchTopPls"  name="t" value="p" type="radio" /> <label for="searchTopPls">专辑</label>
+<input id="searchTopUsers"  name="t" value="u" type="radio" /> <label for="searchTopUsers">用户</label>
+</li>
+</ul>
+</form>
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<script type="text/javascript">
+new inputAuto($('autoAutomatic') , $E('#searchTop form') ,$E('#searchTop .r1 .text input') , $E('#searchTop .r1 .btn') ,  $$('#searchTop .r2 input'))
+</script><div id="navBao">
+<div id="nav">
+<ul>
+<li class="n1 on1"><a href="http://6.cn/">今天</a></li>
+<li class="n

@@ -1,0 +1,188 @@
+// tree 1 ----------------
+#define TREE2_SIZE_C 5000000
+#define LIST_SIZE_C  500000
+
+    int   t3_node_val2[TREE2_SIZE_C];
+    int   t3_find_pp2;
+
+    int   t3_init_tree2(void);
+    int   t3_search_node(char *pstr);
+    int   t3_insert_node(char *pstr);
+// end of tree 1 -----
+
+static	char         m701_l1[SMG_LEN];
+static	char         m701_l2[20][SMG_LEN];
+static	char         m701_l3[SMG_LEN];
+static	char         m701_s1[SMG_LEN];
+static	char	     m701_s2[SMG_LEN];
+static	char	     m701_s3[SMG_LEN];
+static  int 	     m701_ns[20];
+
+int load11(void)
+{
+	FILE		*fp1;
+    	int         i,j,k;
+	//char         l1[SMG_LEN];
+	//char         l2[SMG_LEN];
+	//char         l3[SMG_LEN];
+	//char         s1[SMG_LEN];
+	//char	       s2[SMG_LEN];
+	char         c1,c2;
+	int          pp,q;
+
+	t3_init_tree2();
+
+	for (i=0;i<20;i++) m701_l2[i][0]=0;
+
+	m701_l3[0]=0;
+
+	strcpy(m701_s1,"grammer-base03.txt");
+
+	fp1=fopen(m701_s1,"r");
+	if (fp1==NULL)
+	{
+		MessageBox(0,m701_s1,"message open file error",MB_OK);
+		return(1);
+	}
+
+	while (!feof(fp1))
+	{
+		m701_l1[0]=0;
+
+		fgets(m701_l1,SMG_LEN,fp1);
+	
+		k=0;
+		pp=0;
+		q=0;
+		i=0;
+
+		while (i<(int)strlen(m701_l1))
+		{
+			c1=m701_l1[i+0];
+			c2=m701_l1[i+1];
+
+			if (c1<0)
+			{
+				if (q==0) // words
+				{
+					m701_l2[pp][k+0]=c1;
+					m701_l2[pp][k+1]=c2;
+					m701_l2[pp][k+2]=0;
+				}
+				else   //repeat times
+				{
+					m701_l3[k+0]=c1;
+					m701_l3[k+1]=c2;
+					m701_l3[k+2]=0;
+				}
+				k=k+2;
+  				if (k>=SMG_LEN-3) k=SMG_LEN-3;
+				i=i+2;
+			}
+			else
+			{
+				if (c1<' ')
+				{
+					break;
+				}
+				else
+				{
+					if (c1==',')
+					{
+						q=1;
+						k=0;
+						i=i+2;
+						continue;
+					}
+					else
+					{
+						if (c1=='-')
+						{
+							pp++;
+							k=0;
+							i=i+2;
+							continue;
+						}
+						else
+						{
+							if (q==0)  //words
+							{
+								m701_l2[pp][k+0]=c1;
+								m701_l2[pp][k+1]=0;
+							}
+							else   // repeat times
+							{
+								m701_l3[k+0]=c1;
+								m701_l3[k+1]=0;
+							}
+							k++;
+  							if (k>=SMG_LEN-3) k=SMG_LEN-3;
+							i++;
+						}
+					}
+				}
+
+
+			}
+		}
+
+		if (pp>5) continue;
+
+		err=0;
+
+		for (j=0;j<5;j++)
+		{
+			if (j>=pp) m701_ns[j]=(-1); // end of grammer
+			else
+			{
+				if (strcmp(m701_l2[j],"$*")==0) m701_ns[j]=(-2); // $* any word
+				else
+				{
+					m=search_wd5(m701_l2[j]);
+					if (m==1) m701_ns[j]=find_m5;    
+					else
+					{
+						err=1;
+						break;
+					}
+				}
+			}
+		}
+
+		if (err!=0) continue;
+
+		t3_insert_node(m701_ns[0],m701_ns[1],m701_ns[2],m701_ns[3],m701_ns[4]);
+
+		t3_node_val2[t3_find_pp2]=str2llint(m701_l3); // repeat time
+
+		//if ((int)strlen(m701_l2)>50) continue;
+
+		//strcpy(at5[at5_pp],m701_l2);
+
+		//at5_n[at5_pp]=str2llint(m701_l3);
+
+		//sprintf(m701_s2,"pp=%d,word=%s,rpt=%lld,",at5_pp,at5[at5_pp],at5_n[at5_pp]);
+
+		//str_gb18030_to_utf8_ini();
+		//if (AI_LINUX==1)
+		//{
+		//	str_gb18030_to_utf8(m701_s2,m701_s3,SMG_LEN);
+		//}
+		//else
+		//{
+		//	strcpy(m701_s3,m701_s2);
+		//}
+		//str_gb18030_to_utf8_close();
+
+		//MessageBox(0,m701_s3,"load5 message",MB_OK);
+
+		//at5_pp++;
+
+	}
+
+	fclose(fp1);
+
+	return(0);
+}
+
+

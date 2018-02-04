@@ -1,0 +1,265 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head>
+
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=gbk" />
+<title>光明与黑暗OL-搜狐博客</title>
+<meta name="Keywords" content="博客,Blog,Blogger,搜狐,Sohu,网络日志 光明与黑暗OL" />
+<meta name="description" content="光明与黑暗OL " />
+<meta name="robots" content="index,follow" />
+<link href="http://js2.pp.sohu.com.cn/ppp/blog/themes_ppp/def/style.css" rel="stylesheet" type="text/css" />
+
+<link id="themeCss" href="http://js2.pp.sohu.com.cn/ppp/blog/themes_ppp/p1003/style.css" themeid="p1003" rel="stylesheet" type="text/css" />
+
+<style type="text/css" id="customTheme">
+#header-bak{background-image: url(http://122.img.pp.sohu.com/images/blog/2007/12/3/17/13/1173b62048b.jpg);}
+#header{height: 132px;}
+#header{background-image: url(http://122.img.pp.sohu.com/images/blog/2007/12/3/17/13/1173b62048b.jpg);}
+
+</style>
+
+<link href="http://js1.pp.sohu.com.cn/ppp/group/toolbar_080111/themes/default/style.css" rel="stylesheet" type="text/css" />
+<link rel="alternate" type="application/rss+xml" title="RSS" href="http://17mmo.blog.sohu.com/rss" />
+
+</head>
+<body>
+<a name="top"></a>
+<script type="text/javascript">
+var _blog_base_url = 'http://17mmo.blog.sohu.com/';
+var _blog_base_path = 'http://17mmo.blog.sohu.com/';
+var _blog_domain='17mmo';
+var _ebi = 'a465f9b792';
+var _ept = '17mmo!17173';
+var _xpt = 'MTdtbW9AMTcxNzMuY29t';
+var _theme='p1003';
+// var _ppsrc='http://frag.pp.sohu.com/people/17mmo!17173/4.html';
+var _musicbox_data='uid%3D17mmo%4017173.com%26md5%3D12C2D0C4E15107535D24B01517D121FB';
+var _musicbox_path = '/flash/musicbox_070718/';
+var _vchannel_path = '/flash/vchannel_061107/';
+var _vchannel_ver = '2,0,0,68';
+var _pp_set_flash = 'pp_set_061113.swf';
+var _sff = true;
+var _sff_l = true;
+var showNewWidgtTip = false;
+var showNewThemeTip = true;
+</script>
+
+<div id="toolBar" class="toolBar clearfix" pdt="blog" sohu3="false">
+	<div id="innerToolBar" class="innerToolBar clearfix">
+                <div id="tb_logo">
+                         <a href="http://blog.sohu.com" title="搜狐博客" target="_blank"><img src="http://118.img.pp.sohu.com.cn/images/video/2008/2/1/15/7/117eaee987f.jpg" alt="搜狐博客" /></a>
+ 
+                </div>
+                <div id="tb_user" class="clearfix"><span class="txt">loading ...</span></div>
+                <div id="tb_tool" style="display:none;"></div>
+                <div id="tb_sys"><span id="logoutBtn" style="display:none;"><a href="javascript:ToolBar.doLogout();">离开</a>|</span
+><a href="http://blog.sohu.com/help.html" title="帮助" target="_blank">帮助</a></div>
+                <div id="tb_search">
+                <form id="searchForm" name="searchForm" method="get" action="http://blogsearch.sogou.com/blog" target="_blank">
+                <input type="hidden" name="insite" value="blog.sohu.com" />
+                <input type="hidden" name="p" value="31240700" />
+                <input type="text" name="query" class="text" size="20" />
+                <input type="submit" name="searchSubmit" value="搜索" class="button" />
+                </form>
+                </div>
+                <div id="tb_addon">
+        <script type="text/javascript">
+                var toolbarSysRec = {
+                        
+                        "tip" : {"title": "搜狐博客送您新春贺礼", "url" : "http://admin.blog.sohu.com/78408894.html?act=1202104174981"}
+//标题长度不能超过10个汉字
+
+                        
+                };
+                document.write('<a href="'+ toolbarSysRec.tip.url +'" target="_blank" style="font-weight:bold;color:red;">'+ toolbarSysRec.tip.title +'</a>');
+                </script>
+        </div>
+        </div>
+</div>
+<div id="toolbarPadding"></div>
+
+<div id="_preLoadText" style="text-align:center;">loading...</div>
+
+<script type="text/javascript">
+var SP = 'http://js3.pp.sohu.com.cn/ppp/blog/js_ppp_v_080201/';
+var TP = 'http://js3.pp.sohu.com.cn/ppp/group/toolbar_080111/';
+var ThP = 'http://js2.pp.sohu.com.cn/ppp/blog/themes_ppp/';
+var WP = '/ppp/blog/widgets_v_080201/';
+var UWAP = 'http://js3.pp.sohu.com.cn/ppp/blog/widgets_v_080201/uwa_widget/';
+document.write('<scr'+'ipt type="text/javascript" src="'+ SP + 'sohublog.js"></scr'+'ipt>');
+var SL = [SP+'log.js', 'http://www.sohu.com/passport/pp18030_6.js', 'http://www.sohu.com/passport/pp18030_ui_7.js', SP+'common.js', TP+'welcome.js', TP+'toolbar.js'];
+</script>
+<script type="text/javascript">
+lsl(SL);
+</script>
+<script type="text/javascript">
+if (isPPLogin() && (getPPP() != getP())) {
+	document.write('<scr'+'ipt src="http://blog.sohu.com/service/passport.jsp" type="text/javascript"></scr'+'ipt>');
+}
+</script>
+<script type="text/javascript">
+/*if (typeof ToolBar != 'undefined') {
+	ToolBar.initialize();
+	if (isLoginBlogUser()) {
+		Starter.add(ToolBar.psptCardDefaultShow.bind(ToolBar));
+	}
+}*/
+</script>
+<script type="text/javascript">
+var SPL = [SP+'appOpt.v.080201.1.js', SP+'app.v.080201.js'];
+lsl(SPL);
+</script>
+<script type="text/javascript">
+if (App.Permit.ableLog) {
+$LT('js lib loaded');
+Log._t_startLoadPage = new Date().getTime();
+}
+</script>
+<div id="wrapper">
+  <div id="innerWrapper">
+    
+<div id="topPadding"></div>
+<div id="header">
+  <div id="playerBox"><div id="innerPlayerBox"></div></div>
+  <div id="innerHeader">
+	<div id="blogLogo"><a href="http://blog.sohu.com"><img src="http://js1.pp.sohu.com.cn/ppp/blog/styles_ppp/images/spacer.gif" id="logo" alt="搜狐博客" /></a></div>
+	<h1 id="blogTitle"><a href="http://blog.17173.com" target="_blank"><img src="http://js1.pp.sohu.com.cn/ppp/blog/styles_ppp/images/logo17173_big.gif" alt="17173博客" align="absmiddle" /></a> <a href="http://17mmo.blog.sohu.com/">光明与黑暗OL</a></h1>
+	<div id="blogUrl">
+		<!-- a href="http://17mmo.blog.sohu.com/">http://17mmo.blog.sohu.com/</a --> 
+        <a href="http://17mmo.blog.sohu.com/entry/" target="_blank" class="navUrl" title="查看光明与黑暗OL的日志"><img src="http://js1.pp.sohu.com.cn/ppp/blog/styles_ppp/images/ico_entry.gif" alt="日志" align="absmiddle" />日志</a> 
+        <a href="http://pp.sohu.com/people/17mmo!17173" target="_blank" class="navUrl" title="查看光明与黑暗OL的相册"><img src="http://js1.pp.sohu.com.cn/ppp/blog/styles_ppp/images/ico_picture.gif" alt="相册" align="absmiddle" />相册</a> 
+        <a href="http://v.blog.sohu.com/people/MTdtbW9AMTcxNzMuY29t" target="_blank" class="navUrl" title="查看光明与黑暗OL的视频"><img src="http://js1.pp.sohu.com.cn/ppp/blog/styles_ppp/images/ico_video.gif" alt="视频" align="absmiddle" />视频</a> 
+		<a href="http://17mmo.blog.sohu.com/rss" target="_blank"><img src="http://js1.pp.sohu.com.cn/ppp/blog/styles_ppp/images/ico_rss.gif" alt="RSS订阅" align="absmiddle" /></a>
+		<a href="javascript:void(0)" name="onlineIcon" style="display:none" rel="" param="MTdtbW9AMTcxNzMuY29t;光明与黑暗OL"></a>
+	</div>
+	<div id="blogDesc"></div>
+  </div>
+</div>
+<div id="navBar">
+  <div id="innerNavBar">
+		<ul id="mainNav">
+
+		</ul>
+	<ul id="optionNav">
+	  <li id="mngOpr"></li>
+	</ul>
+	<div class="clear"></div>
+  </div>
+</div>
+<div id="neckWrapper"><div id="innerNeckWrapper"></div></div>
+    <div id="mainWrapper">
+<div id="_preLoadImg" style="padding:30px;text-align:center;">
+请稍候，正在下载...<br /><img src="http://js1.pp.sohu.com.cn/ppp/blog/styles_ppp/images/loader.gif" alt="loading" />
+</div>
+	</div>
+	<script type="text/javascript">
+		var eccs = {
+				"74837482":0,
+				"74837461":0,
+				"74837441":0,
+				"74837422":0,
+				"74837403":0
+		}
+		
+
+		var preloadUserData = [
+			{
+				id: "m_404",
+				type: "order",
+				title: "order",
+				data: [
+{"id": "p_a465f9b792", "colStyle": "25:75", "title": "", "ico": "", "type": "0", "permit": "0", "mods": [["m_1", "m_19498930", "m_20", "m_11", "m_8", "m_4", "m_5"], ["m_0"]]}, 
+{"id": "p_0cae1bd02f9", "colStyle": "25:75", "title": "图片", "ico": "26", "type": "0", "permit": "0", "mods": [["m_19913669", "m_19", "m_17"], ["m_15"]]}, 
+{"id": "p_b051a63792", "colStyle": "67:33", "title": "音乐", "ico": "78", "type": "2", "permit": "0", "mods": [["m_19862350", "m_23"], ["m_22", "m_24"]]}, 
+{"id": "p_d151a63792", "colStyle": "33:67", "title": "视频", "ico": "125", "type": "4", "permit": "0", "mods": [["m_41", "m_38", "m_39", "m_40"], ["m_19862358", "m_19862359", "m_37"]]}
+]
+			},
+			{ id: "m_1", type: "profile", title: "个人档案", data: "" },
+			{ id: "m_19498930", type: "Text_Note", title: "光明与黑暗OL", data: {"color":"#ffe0e1","content":"　 《光明与黑暗》是一款现在网络上炒得火热、人气最旺的一款游戏。提供了丰富多变的游戏体验，包含多种特色的强大交流功能，设计了很多独有的游戏系统，来满足不同玩家的喜好。无论青年人还是成人，都能在其中找到适合自己的游戏乐趣。……"} },
+			{ id: "m_20", type: "game17173", title: "17173资讯", data: "" },
+			{ id: "m_11", type: "refer", title: "最近访客", data: "" },
+			{ id: "m_8", type: "latest_comments", title: "最新评论", data: "" },
+			{ id: "m_4", type: "links", title: "友情链接", data: "" },
+			{ id: "m_5", type: "stats", title: "统计", data: "" },
+			{ id: "m_0", type: "entries", title: "日志", data: "" },
+			{ id: "m_19913669", type: "pp_set", title: "", data: {"id":"21769761","name":"游戏壁纸","type":"0","num":"10"} },
+			{ id: "m_19", type: "pp_recommends", title: "精品相册专辑", data: "" },
+			{ id: "m_17", type: "pp_comments", title: "最新图评", data: "" },
+			{ id: "m_15", type: "pp_sets", title: "相册专辑", data: "" },
+			{ id: "m_19862350", type: "msc_album", title: "", data: "" },
+			{ id: "m_23", type: "msc_recommends", title: "推荐专辑", data: "" },
+			{ id: "m_22", type: "msc_albums", title: "音乐盒专辑", data: "" },
+			{ id: "m_24", type: "msc_newsongs", title: "新歌快递", data: "" },
+			{ id: "m_41", type: "v_profile", title: "视频档案", data: "" },
+			{ id: "m_38", type: "v_favovideo", title: "收藏的视频", data: "" },
+			{ id: "m_39", type: "v_favoplist", title: "收藏的节目单", data: "" },
+			{ id: "m_40", type: "v_vrecommend", title: "推荐视频", data: "" },
+			{ id: "m_19862358", type: "v_tv", title: "", data: "" },
+			{ id: "m_19862359", type: "v_video", title: "", data: "" },
+			{ id: "m_37", type: "v_plist", title: "最新节目单", data: "" }
+		];
+	</script>
+	
+    <div id="blogData" style="display:none">
+    	
+    </div>
+	<img src="http://js1.pp.sohu.com.cn/ppp/blog/styles/images/spacer.gif" style="display:none" id="spacerImg" />
+<script type="text/javascript">
+Starter.start();
+</script>
+    
+<div id="footer">
+  <div id="innerFooter">
+	<div id="powered"><a href="http://blog.sohu.com" target="_blank" title="搜狐博客提供技术支持"><img src="http://js1.pp.sohu.com.cn/ppp/blog/styles_ppp/images/logo_powered.gif" alt="搜狐博客提供技术支持" /></a></div>
+	<div id="contact"><a href="http://q.sohu.com/forum/21" target="_blank">客服留言板</a> | <a href="http://sohucallcenter.blog.sohu.com/" target="_blank">客服博客</a> | <a href="mailto:sohublog@sohu-inc.com">客服邮箱</a> | 24小时客服热线:010-58511234(人工8:00-24:00) | <a href="http://me.sohu.com/online_service.jsp?pid=5" target="_blank">在线客服<img src="http://js1.pp.sohu.com.cn/ppp/blog/styles_ppp/images/ico_onlineservice.gif" alt="在线客服" /></a>
+<script type="text/javascript">
+function writeReport() {
+	if (typeof entryId == 'undefined' || !entryId) return;
+	var url = 'http://act.blog.sohu.com/plus/impeach.jsp?rp='+escape(location.href)+'&p='+escape(getP());
+	var str = '';
+	str += ' | <a href="'+ url +'" target="_blank">举报不良信息</a>';
+	document.write(str);
+}
+writeReport();
+</script>
+	</div>
+	<div id="copyright">Copyright &copy; 2007 Sohu.com Inc. All rights reserved. 搜狐公司 版权所有 </div>
+  </div>
+</div>
+<script type="text/javascript">document.write('<scr'+'ipt language="javascript" src="http://js.sohu.com/pv.js" type="text/javascript"></scr'+'ipt>');</script>
+
+<!-- START 17173 Site Census V1.2 -->
+<script type="text/javascript">document.write('<scr'+'ipt language=JavaScript src="http://js.17173.com/ping.js"></scr'+'ipt>');</script>
+<noscript><img src="http://log.17173.com/ping.gif?d=blog&amp;cg=0" alt=""></noscript>
+<!-- END 17173 Site Census V1.2 -->
+
+<!-- sohu im -->
+<script language="javascript">
+SohuIM.setCandleMenParam();
+document.write("<scr"+"ipt src='http://images.sohu.com/cs/sohuim/xiaozt/version/2.0/js/loader.sohu.js'></scr"+"ipt>");
+</script>
+<script type="text/javascript">
+//sohuim.candleArmy.AddCallback('查看档案', '查看个人档案', _blog_base_url +'profile/', -1, window);
+//sohuim.candleArmy.RenderAll("onlineIcon");
+</script>
+<!-- sohu im end -->
+
+  </div>
+</div>
+<noscript>
+<div style="background:#ffffe1; border:2px solid #ccc; color:black; padding: 10px; line-height: 20px; position: absolute; top: 0px; font-family:'宋体';">
+  <p style="font-weight: bold;">提示：您需要开启Javascript</p>
+  <p>检测到您使用的浏览器不支持脚本语言(javascript)，或该功能已被禁用。</p>
+  <p><a href="http://blog.sohu.com">搜狐博客</a>提供了一套非常强大的用户界面，可以让您很方便地制作出属于自己的个性主页。<br />
+    如果您想体验这些新功能，需要开启浏览器的脚本(javascript)功能，然后<a href="">重试</a>。</p>
+</div>
+</noscript>
+
+<script type="text/javascript">
+document.write('<scr'+'ipt type="text/javascript" src="'+SP+'counter.js"></scr'+'ipt>');
+</script>
+
+</body>
+</html>

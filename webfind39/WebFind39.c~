@@ -1,0 +1,360 @@
+
+#include "../config.h"
+
+//#define   STRICT
+//#include <windows.h>
+//#include <commdlg.h>
+
+#define   MB_OK			1
+#define   MB_ICONASTERISK	2
+#define   MB_OKCANCEL		3
+#define   MB_ICONQUESTION	4
+#define   MB_YESNO		5
+#define   MB_RETRYCANCEL	6
+#define   MB_YESNOCANCEL	7
+
+#define   IDYES			1
+#define   IDNO			2
+#define   IDCANCEL		3
+#define   IDOK			4
+#define   IDRETRY		5
+
+int   MessageBox(int h1,char *h2,char *h3,int h4);
+
+#include <locale.h>
+#include <iconv.h>
+
+iconv_t cd ;
+
+int str_gb18030_to_utf8_ini(void);
+int str_gb18030_to_utf8_close(void);
+int str_utf8_to_gb18030(char *inbuffer,char *outbuffer,int outbufferlen);
+int str_gb18030_to_utf8(char *inbuffer,char *outbuffer,int outbufferlen);
+int file_gb18030_to_utf8(char *inbuffer);
+int filenameext(char *iname,char *oname,char *oext);
+char deb_lower(char c1);
+int deb_lower_string(char *p_instr);
+char deb_upper(char c1);
+int deb_upper_string(char *p_instr);
+
+
+
+
+#include <stdio.h>
+
+char mc1;
+char mc2;
+char mc3;
+
+long f1_init_ext(void);
+long f1_next_ext(void);
+long f1_get_fln(char *);
+long f1_get_fln2(char *);
+
+#define SENT_LEN         8000000
+#define SENT_LEN2        300
+#define SENT_NUM         1000000
+
+char loada7[SENT_NUM][SENT_LEN2];
+long load7_l;
+
+char sent_s[SENT_LEN];
+char sent_s2[SENT_LEN];
+long sent_l;
+
+long sent8(char *);
+long sent8add2(char *);
+
+int  m_pp;
+char m_cc;
+
+long sent8wrt1(void);
+
+char sent_cb[100][10];
+int  sent_cb_pp=0;
+int  load_cb(void);
+
+//int pascal WinMain(HINSTANCE ins
+//		  ,HINSTANCE pins
+//		  ,LPSTR cl
+//		  ,int show)
+int main(void)
+{
+	FILE *fp1;
+	long  i,j,k,l;
+	char  s1[300];
+
+	MessageBox(NULL,"load stringbase000.txt,write to stringcase000.txt","message",MB_OK);
+
+	load_cb();
+
+	f1_init_ext();
+
+	j=0;
+
+	while (1)
+	{
+		f1_get_fln2(s1);
+
+		load7_l=0;
+
+		i=sent8(s1);
+		if (i==1) break;
+
+		sent8wrt1();
+
+		i=f1_next_ext();
+		if (i==1) break;
+	}
+
+	MessageBox(NULL,"words2 ok","message",MB_OK);
+
+	return(0);
+}
+
+long f1_init_ext(void)
+{
+	mc1='0';
+	mc2='0';
+	mc3='0';
+	return(0);
+}
+
+long f1_next_ext(void)
+{
+	mc1++;
+	if (mc1>'9')
+	{
+		mc1='0';
+		mc2++;
+		if (mc2>'9')
+		{
+			mc1='0';
+			mc2='0';
+			mc3++;
+			if (mc3>'9') return(1);
+		}
+	}
+
+	return(0);
+}
+
+long f1_get_fln1(char *s1)
+{
+	strcpy(s1,"stringcase   .txt");
+
+	s1[10]=mc3;
+	s1[11]=mc2;
+	s1[12]=mc1;
+
+	return(0);
+}
+
+long f1_get_fln2(char *s1)
+{
+	strcpy(s1,"stringbase   .txt");
+
+	s1[10]=mc3;
+	s1[11]=mc2;
+	s1[12]=mc1;
+
+	return(0);
+}
+
+
+long sent8(char *fln)
+{
+	FILE *fp1;
+	int  i,j,k,l;
+    	int  p1;
+	char str[300];
+	//char str2[20000];
+
+	fp1=fopen(fln,"r");
+	if (fp1==NULL)
+	{
+		MessageBox(NULL,"open stringbase.txt fail","message",MB_OK);
+		return(1);
+	}
+
+	while(!feof(fp1))
+	{
+		fgets(sent_s,SENT_LEN,fp1);
+
+		for (i=(int)strlen(sent_s)-1;i>=0;i--)
+		{
+			if ((sent_s[i]>0)&&(sent_s[i]<=' ')) sent_s[i]=0;
+			else break;
+		}
+
+		if (sent_s[0]==0) continue;
+
+		p1=0;
+
+		j=(int)strlen(sent_s);
+
+		i=0;
+
+		while(i<=j)
+		{
+			if (sent_s[i]>=0)
+			{
+				str[0]=sent_s[i];
+				str[1]=0;
+				
+				if ((sent_cb_in(str)==1)||(i>=j))
+				{
+					sent_s2[0]=0;
+
+					for (k=p1;k<i;k++)
+					{
+						sent_s2[k-p1+0]=sent_s[k];
+						sent_s2[k-p1+1]=0;
+					}
+
+					sent8add2(sent_s2);
+
+					i++;
+					p1=i;
+				}
+				else
+				{
+					i++;
+				}
+			}
+			else
+			{
+				str[0]=sent_s[i+0];
+				str[1]=sent_s[i+1];
+				str[2]=0;
+				
+				if ((sent_cb_in(str)==1)||(i>=j))
+				{
+					sent_s2[0]=0;
+
+					for (k=p1;k<i;k++)
+					{
+						sent_s2[k-p1+0]=sent_s[k];
+						sent_s2[k-p1+1]=0;
+					}
+
+					sent8add2(sent_s2);
+
+					i=i+2;
+					p1=i;
+				}
+				else
+				{
+					i=i+2;
+				}
+			}
+		}
+
+
+	}
+
+	fclose(fp1);
+
+	return(0);
+}
+
+long sent8add2(char *str)
+{
+  	int  i,j,k;
+	char c1;
+
+	if ((int)strlen(str)>=SENT_LEN2) return(0);
+
+	strcpy(loada7[load7_l],str);
+
+	load7_l++;
+
+	if (load7_l>=SENT_NUM)
+	{
+		MessageBox(NULL,"sent_num too small","message",MB_OK);
+		load7_l--;
+	}
+
+	return(0);
+}
+
+long sent8wrt1(void)
+{
+	FILE *fp1;
+	int  i,j,k;
+	char c1,s1[300];
+
+    	f1_get_fln1(s1);
+
+	fp1=fopen(s1,"w");
+	if (fp1==NULL)
+	{
+		MessageBox(NULL,"open stringcase000.txt fail ","message",MB_OK);
+		return(0);
+	}
+
+	for (k=0;k<load7_l;k++)
+	{
+		fputs(loada7[k],fp1);
+		fputs("\n",fp1);
+	}
+
+	fclose(fp1);
+
+	load7_l=0;
+
+	return(0);
+}
+
+
+int load_cb(void)
+{
+    FILE *fp1;
+    int   i,j,k;
+    char  str[300];
+
+	fp1=fopen("cb.txt","r");
+	if (fp1==NULL)
+	{
+		MessageBox(NULL,"open cb.txt fail ","message",MB_OK);
+		return(0);
+	}
+
+
+	while(!feof(fp1))
+	{
+		fgets(str,300,fp1);
+
+		if (strncmp(str,"backup",6)==0) continue;
+
+		for (i=(int)strlen(str)-1;i>=0;i--)
+		{
+			if ((str[i]>0)&&(str[i]<=' ')) str[i]=0;
+			else break;
+		}
+
+		if (str[0]==0) continue;
+
+		strcpy(sent_cb[sent_cb_pp],str);
+
+		sent_cb_pp++;
+
+	}
+
+	fclose(fp1);
+
+	return(0);
+
+}
+
+int sent_cb_in(char *str)
+{
+	int i;
+	for (i=0;i<sent_cb_pp;i++)
+	{
+		if (strcmp(str,sent_cb[i])==0) return(1);
+	}
+
+	return(0);
+}
+

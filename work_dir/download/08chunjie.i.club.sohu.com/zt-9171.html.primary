@@ -1,0 +1,1096 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+<meta http-equiv="content-type" content="text/html; charset=gb2312" />
+<title>看春晚评春晚，辞旧贺岁闹新春，五鼠伴您得大奖-08五鼠闹新春-搜狐社区个性论坛|BETA版</title>
+<script src="http://www.sohu.com/sohuflash_1.js" type="text/javascript"></script>
+<link type="text/css" rel="stylesheet" href="http://src2.club.sohu.com/newbbs/20080128/zcss/zone_global1.css" />
+<link type="text/css" rel="stylesheet" href="http://src2.club.sohu.com/newbbs/20080128/zcss/zone_style1.css" />
+<link type="text/css" rel="stylesheet" href="http://src2.club.sohu.com/newbbs/20080128/css/club_head.css" />
+<link type="text/css" rel="stylesheet" href="http://src2.club.sohu.com/newbbs/notice/notice_style.css" />
+<link rel="stylesheet" href="http://src2.club.sohu.com/newbbs/css/css/toolbar.css" type="text/css" />
+<script type="text/javascript" id="dynamicSrc"></script>
+<script type="text/javascript">
+if (typeof(SL) === "undefined") {
+  var SL = new Array();
+}
+</script>
+<script type="text/javascript">
+SL.push('prototype');
+document.write("<scr"+"ipt type='text/javascript' src='http://js1.club.sohu.com/js/club_global_1.0.1.js'></scr"+"ipt>");
+document.write("<scr"+"ipt type='text/javascript' src='http://bbs.club.sohu.com/inc/ClubJsInc.js'></scr"+"ipt>");
+SL.push('club_notice');
+SL.push('club_notice_float');
+SL.push('club_cookie');
+SL.push('club_editor');
+</script>
+<script type="text/javascript">
+club_global.LoadJs(SL);
+</script>
+
+<style type="text/css" media="screen">
+.activityList {	margin: 15px auto 0 15px; }
+.activityList tr {height: 25px;}
+.activityList th,.activityList td {font: normal 14px '宋体';	text-align: left; vertical-align: top; }
+.activityList th {width: 120px;}
+.activityList td textarea { padding: 2px; width: 300px; height: 70px; border: 1px #c1d7ec solid; overflow: hidden;}
+.activityList td input {background: #f3f8fd; color: #369; line-height: 22px; width: 80px; height: 22px; border: 1px #c1d7ec solid;}
+.activityList td.fn {text-align: center;}
+
+.voteDiv { text-align: left; margin: 0; padding: 0 15px; }
+.voteDiv h4 {background: #d5eaff; line-height: 25px; margin: 0; padding: 5px 10px; display: inline; }
+.voteDiv h4 strong { color: #F00; }
+.voteDiv ol { margin: 0; padding: 10px 0 0 0; }
+.voteDiv ol li {margin: 5px 0;}
+.voteDiv ol li span { color: #369; margin: 0 10px 0 0; }
+.voteDiv table { margin: 15px auto 0 0; }
+.voteDiv tr {height: 25px;}
+.voteDiv th,.activityList td {font: normal 14px '宋体';	text-align: left; vertical-align: top; }
+.voteDiv th {width: 120px;}
+.voteDiv td textarea { padding: 2px; width: 300px; height: 70px; border: 1px #c1d7ec solid; overflow: hidden;}
+.voteDiv td input.btn {background: #f3f8fd; color: #369; line-height: 22px; width: 80px; height: 22px; border: 1px #c1d7ec solid;}
+.voteDiv td.fn {text-align: center;}
+</style>
+
+<script src="show_thread_comment_ajax.js" type=text/javascript></script>
+<script type="text/javascript">
+<!--
+var img_maxwidth=760;
+
+function refresh(){
+    setTimeout("location=document.URL;",1);
+}
+
+function click_adminbutton(div_id){
+    var obj = $("admin_area_"+div_id);
+    if (obj.style.display=="block") obj.style.display = "none";
+    else obj.style.display = "block";
+}
+function PasteImage(){  
+	var str = prompt("输入图片的超链接(例如http://images.sohu.com/soh1.gif):","http:\/\/");
+	if ((str != null) && (str != "http://"))
+		document.getElementById("body8fcd").value += "<img src="+str+" "+"alt="+str+">";  
+	else 
+		document.getElementById("body8fcd").focus();
+}
+function go(pnum,flag){
+	if (pnum>0&&pnum<7){
+		if (flag==1) document.ff1.action="r-zz0081-35266-"+((pnum-1)*12)+"-66-0.html";	
+		else if (flag==2) document.ff2.action="r-zz0081-35266-"+((pnum-1)*12)+"-66-0.html";
+		return true;
+	}else
+		return false;
+}
+
+var isLoaded = 0;
+function getOffset(el, isLeft) {
+	var retValue = 0;
+	while (el != null && el.offsetParent != null && el!=document.body) {
+		retValue += el["offset" + (isLeft ? "Left" : "Top")];
+		el = el.offsetParent;
+	}
+	return retValue;
+}
+
+function clip_copy()
+{
+    var clipBoardContent = 'http://08chunjie.i.club.sohu.com/zt-9171.html';
+	window.clipboardData.setData("text",clipBoardContent);
+	club_notice_float.success('恭喜', '你已复制了该页面地址，请粘贴到QQ/MSN发给好友!');
+}
+
+function copy_clip(){
+    var clipBoardContent = 'http://08chunjie.i.club.sohu.com/' ;
+    try{    
+    	window.clipboardData.setData("text",clipBoardContent);
+    	club_notice_float.success('恭喜', '你已复制了该页面地址，请粘贴到QQ/MSN发给好友!');
+    }catch(e)
+    {
+        club_notice_float.error("出错了", '对不起,您的浏览器不支持复制');
+    }
+}
+//-->
+</SCRIPT>
+</head>
+
+<body class="bodybg">
+<div id="channelNav" class="area">
+	<a href="http://www.sohu.com/" rel="external"><img src="http://images.sohu.com/uiue/sohu_logo/2005/sohu_logo2.gif" width="87" height="22" alt="搜狐网站" border="0" class="left" /></a><a href="http://club.sohu.com/" rel="external"><img src="http://js1.club.sohu.com/clubindex/news/club_logo.gif" width="73" height="22" alt="搜狐社区" border="0"  class="left" /></a>
+	<ul class="right">
+		<li><a href="http://www.sohu.com/">搜狐首页</a></li><li>-</li>
+		<li><a href="http://news.sohu.com/">新闻</a></li><li>-</li>
+		<li class="red"><a href="http://sports.sohu.com/">体育</a></li><li>-</li>
+		<li><a href="http://yule.sohu.com/">娱乐圈</a></li><li>-</li>
+		<li><a href="http://business.sohu.com/">财经</a></li><li>-</li>
+		<li><a href="http://it.sohu.com/">IT</a></li><li>-</li>
+		<li><a href="http://auto.sohu.com/">汽车</a></li><li>-</li>
+		<li><a href="http://house.sohu.com/">房产</a></li><li>-</li>
+		<li><a href="http://women.sohu.com/">女人</a></li><li>-</li>
+		<li><a href="http://rbt.sohu.com/">彩铃</a></li><li>-</li>
+		<li class="red"><a href="http://www.chinaren.com/">ChinaRen</a></li><li>-</li>
+		<li><a href="http://login.mail.sohu.com/">邮件</a></li><li>-</li>
+		<li><a href="http://blog.sohu.com/">博客</a></li><li>-</li>
+		<li><a href="http://club.sohu.com/">BBS</a></li><li>-</li>
+		<li class="red end"><a href="http://www.sogou.com/">搜狗</a></li>
+	</ul>
+</div>
+<div class="cake01 Area">
+	<div class="w145">
+	    <object classid=clsid:D27CDB6E-AE6D-11cf-96B8-444553540000 codebase=http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0 width=145 height=81>
+        <param name=movie value=http://js4.club.sohu.com/clubindex/club.swf>
+        <param name=quality value=high>
+        <param name=wmode value=transparent>
+        <embed src=http://js1.club.sohu.com/clubindex/club.swf width=145 height=81 quality=high pluginspage=http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash type=application/x-shockwave-flash wmode=transparent></embed>
+        </object>
+	</div>
+	<div class="w804">
+		<a href="http://pinyin.sogou.com/dazi?p=99021100" target="_blank"><img src=http://image.club.sohu.com/indeximages/61/f64a283957c9403c10d24d59af16a361.gif border=0></a>
+	</div>
+	<div class="clear"></div>
+</div>
+
+<div id='content_ctl' class="contantA Area"><div class="dirJump Area">
+	<div class="dirF">
+	<a href="http://club.sohu.com" target="_blank">搜狐社区</a>&nbsp;-&gt;
+	<a href="http://i.club.sohu.com" target="_blank">个性论坛</a>&nbsp;-&gt;
+	<a href="http://i.club.sohu.com/b-5.html" >时尚生活</a>&nbsp;-&gt;
+	<a  href="http://08chunjie.i.club.sohu.com"><font color="red">08五鼠闹新春</font></a>&nbsp;<span>
+	</span>&nbsp;[入住成员数：351]</div>
+	<div class="jumpF"><div class="pageA">共<font color=red>109</font>页&nbsp;&nbsp;</div><div style='float:left;'><ul><li class="libg01">1</li><li><a href="javascript:void(0);" onclick="return pageGo(2)">2</a></li><li><a href="javascript:void(0);" onclick="return pageGo(3)">3</a></li><li><a href="javascript:void(0);" onclick="return pageGo(4)">4</a></li><li><a href="javascript:void(0);" onclick="return pageGo(5)">5</a></li><li><a href="javascript:void(0);" onclick="return pageGo(6)">6</a></li><li><a href="javascript:void(0);" onclick="return pageGo(7)">7</a></li><li><a href="javascript:void(0);" onclick="return pageGo(8)">8</a></li><li><a href="javascript:void(0);" onclick="return pageGo(9)">9</a></li></ul></div><div class='pageB'><span><a href="javascript:void(0);" onclick="return pageGo(2)">[下页]</a><a href="javascript:void(0);" onclick="return pageGo(109)">[尾页]</a>&nbsp;&nbsp;转到</span><input type="text" id="page_input_num1"  class="input01" onkeydown="event.keyCode==13?pageGo(this.value,109) : 0"/><span>页</span><a href="javascript:void(0);" onclick="return pageGo($('page_input_num1').value,109);"><img src="images/src/pic20.gif" width="27" height="20" alt="转到" title="转到" /></a></div></div>
+</div>
+<div class="blank5 Area"></div>
+
+<div class="contantA Area">
+	<div class="column695">
+		
+
+    <div id=hidden_for_page_check style='display: none'>
+			<div class="title695A">
+			<div class="title">主题：<a href=http://i.club.sohu.com/show_thread.php?boardid=5&threadid=9171&pageid=0 title=看春晚评春晚，辞旧贺岁闹新春，五鼠伴您得大奖 target=_blank><span class=red>看春晚评春晚，辞旧贺岁闹新春，五鼠伴您得大奖</span></a></div>
+			<div class="more">阅读:<span>39438</span> 回复 <span>2603</span>&nbsp;&nbsp;&nbsp;<a href="new_reply.php?boardid=5&zoneid=1577&threadid=9171&pageid=1">[回复]</a></div>
+		</div>
+		<div class="cont695A">
+			<div class="PTGA">
+				<div class="picTextGroup">
+					<div style="float:left;width:120px;"><a href="#" target="_blank"><iframe width=110 scrolling=no height=154 frameborder=0 src=http://soshowlib.sohu.com/showavatar.php?passport=spirit731@sohu.com&groupid=sohu&clubid=sohu&keycode=964a6039&positioned=bbs&floor=1&width=110&height=154 allowtransparency=true marginwidth=0 marginheight=0></iframe></a></div>
+					<div style="float:left;"><span class="fb"><a href="javascript:void(0)" name="onlineIcon" rel="spirit731@sohu.com;antinori;"></a><a href="pf-spirit731@sohu.html" target="_blank">antinori</a></span><br />
+						[<span class="color01"><a href="pf-spirit731@sohu.html" target="_blank">spirit731@sohu</a></span>]<br />
+						来自：<span class="color01"><a >北京</a></span><br />
+						性别：<span class="color01"><a>女</a></span><br />
+						身份：<span class="color01"><a>成员</a></span><br />
+						称号：<span class="color01"><a>无名小卒<a></span><br />
+						贡献值：<span class="color01"><a>14</a></span><br />
+						排名：<span class="color01"><a>13</a></span><br />
+					</div>
+				</div>				
+			</div>
+			<div class="txtF">
+				<h2>[<a style='cursor:pointer' onclick='club_dialog.showLogin("http://club.sohu.com/add_friend.php?friendCN=spirit731@sohu","blank", "CR")'>加楼主为好友</a>] [<a onclick='sohuim.webmsg.SendMsg("spirit731@sohu","_antinori_","sohu/bbs",false,event,function(){});' style="cursor: pointer;">传小纸条</a>] [<a onclick='club_dialog.showLogin("http://club.sohu.com/shop/manage_gift.php?receiveCN=spirit731@sohu","blank","CR")' style="cursor: pointer;">送礼物</a>] [<a href="http://blog.sohu.com/people/spirit731" target="_blank">博客</a>]</h2>
+				<div class="line01"></div>
+				<br>
+								<p><a href="http://08chunjie.i.club.sohu.com/zt-9171.html" target="_blank"><font color=red><b>[活动] 看春晚评春晚 送积分(20W)、绝版纸鹤</b></font></a></p>
+								<p><a href="http://i.club.sohu.com/apply_zone.php" target="_blank">[入口] 在哪里可以申请创建个性论坛</a></p>
+								<p><a href="http://i.club.sohu.com/show_board_thread.php?boardid=8&threadid=3365" target="_blank"><font color=blue><B>[活动] 建论坛，免费赢索爱手机及百万积分</B></font></a></p>
+								<p><a href="http://i.club.sohu.com/show_board_thread.php?boardid=8&threadid=3341" target="_blank">[公告] 搜狐社区个性论坛调整及招聘公告</a></p>
+								<p><a href="http://i.club.sohu.com/show_board_thread.php?boardid=8&threadid=3424" target="_blank">[成长值]  什么是成长值？怎么提高成长值？</a></p>
+								<p><a href="http://i.club.sohu.com/show_board_thread.php?boardid=8&threadid=3780" target="_blank"><B>[活动] 推荐优秀斑竹、特色论坛赢社区积分</B></a></p>
+							</div>
+			<div class="blank8"></div>
+			<div class="bg01"></div>
+			<div class="blank8"></div>
+						<div class="txtCont">
+				<p>
+					<font color="green">　　作为中国的传统佳节，春节已经深深嵌入国人的思想，无论游子身处何方、相隔多远，都会在春节来临的时候踏上回家的旅程，和家人团聚，而除夕夜看央视春节联欢晚会也成为全世界华人一种舍不掉收视习惯。<br></br>　　在一年比一年盛大和神秘的春晚大餐中，各方面的评论声不绝于耳，有赞有弹，也许是审美疲劳作祟，春晚已从民众的期待和仰视中走下神台，近几年骂声一片，在看与不看之间，让人犹豫不已：看了，后悔；不看，可惜。<br></br>　 　在看过今年的春晚之后您又有哪些感触和意见呢？搜狐社区个性论坛<a href="http://08chunjie.i.club.sohu.com/" target="_blank"><font color="blue">08五鼠闹新春</font></a>现面向各地网友征集您对今年春晚各节目的看法及点评。各个环节的优胜者将获得我们精心准备的超值大奖及更多荣誉称号哦！<br></br><font face="黑体" color="red" size="3">　　参赛时间：</font>所有活动将于<font color="red">2008年2月6日20时</font>开始，具体可点击查看相关活动连接；<br></br><font face="黑体" color="red" size="3">　　投票时间：</font><font color="red">2008年2月15日—2月21日</font><br></br><font face="黑体" color="red" size="3">　　获奖名单：</font><font color="red">2008年2月25日</font><br></br><font face="黑体" color="red" size="3">　　活动版面：</font><a href="http://08chunjie.i.club.sohu.com/" target="_blank"><font color="blue">08五鼠闹新春论坛</font></a><br></br><font face="黑体" color="red" size="3">　　参与对象：</font>所有搜狐社区注册用户点击进入<a href="http://08chunjie.i.club.sohu.com/" target="_blank"><font color="blue">08五鼠闹新春</font></a>即可参加本次活动。</font><br></br><font face="黑体" color="red" size="3">　　奖项设置及评选规则：每位获奖者除以下奖品外还将得到新礼物春生鼠一个</font><br></br><font color="green"><a href="http://08chunjie.i.club.sohu.com/zt-9153.html" target="_blank"><font face="黑体" color="#0066FF" size="4">钻天鼠奖——春晚节目逐一评：</font></a>　　　　　　　　<br></br>　　<font color="red">活动简介：</font><font color="red">2月6日20时—2月9日20时</font>期间将您对今年春晚节目的点评或意见发至<a href="http://08chunjie.i.club.sohu.com/" target="_blank"><font color="blue">08五鼠闹新春</font></a>就可角逐08五鼠闹新春之钻天鼠奖。每个春晚节目对应参赛帖得分最高的作者即钻天鼠奖获得者可获得<font color="red">福娃贝贝一个</font>+<font color="red">社区3000积分。　　<a href="http://08chunjie.i.club.sohu.com/zt-9153.html" target="_blank"><font color="red">&gt;&gt;点击查看该活动详细规则</font></a><br></br><font color="green"><font color="green"><a href="http://08chunjie.i.club.sohu.com/zt-9157.html" target="_blank"><font face="黑体" color="#0066FF" size="4">彻地鼠奖——08春晚大盘点：</font></a>　　　　　　　　<br></br>　　<font color="red">活动简介：</font><font color="red">2月6日20时 —2月9日20时</font>期间在<a href="http://08chunjie.i.club.sohu.com/" target="_blank"><font color="blue">08五鼠闹新春</font></a>对今年春晚节目进行整体盘点性点评，最终获得优胜的网友可获得08五鼠闹新春之彻地鼠奖。根据网友投票及个性论坛管理人员评分方式进行排名，得分前五名的作者可获得08五鼠闹新春之彻地鼠奖。彻地鼠奖获得者可分别获得<font color="red">巨狐狸</font>、<font color="red">粉狐狸套装</font>、<font color="red">纸鹤</font>、<font color="red">社区积分</font>等众多丰厚奖品。　　<a href="http://08chunjie.i.club.sohu.com/zt-9157.html" target="_blank"><font color="red">&gt;&gt;点击查看该活动详细规则</font></a><br></br><font color="green"><a href="http://08chunjie.i.club.sohu.com/zt-9158.html" target="_blank"><font face="黑体" color="#0066FF" size="4">穿山鼠奖——热评春晚流行语：</font></a><br></br>　　<font color="red">活动简介：</font><font color="red">2月6日20时—2月13日20时</font>期间将2008年春晚节目中可能成为今年流行语的话发往<a href="http://08chunjie.i.club.sohu.com/" target="_blank"><font color="blue">08五鼠闹新春</font></a>就可角逐08五鼠闹新春之穿山鼠奖。穿山鼠奖获得者可分别获得<font color="red">纸鹤</font>、<font color="red">世界杯狐狸</font>、<font color="red">福娃贝贝</font>、<font color="red">社区积分</font>等众多丰厚奖品。　　<a href="http://08chunjie.i.club.sohu.com/zt-9158.html" target="_blank"><font color="red">&gt;&gt;点击查看该活动详细规则</font></a><br></br><font color="green"><a href="http://08chunjie.i.club.sohu.com/zt-9159.html" target="_blank"><font face="黑体" color="#0066FF" size="4">翻江鼠奖——新年水王就是你：</font></a><br></br>　　<font color="red">活动简介：</font><font color="red">2月6日20时—2月13日20时</font>期间在<a href="http://08chunjie.i.club.sohu.com/" target="_blank"><font color="blue">08五鼠闹新春</font></a><a href="http://08chunjie.i.club.sohu.com/show_zone_menber.html"><font color="blue">贡献值历史排名</font></a><a href="http://i.club.sohu.com/show_board_thread.php?boardid=8&amp;threadid=3426" target="_blank"><font color="fuchsia">(点击查询贡献值信息)</font></a>前六名的成员可获得08五鼠闹新春之翻江鼠奖。翻江鼠奖获得者可分别获得<font color="red">粉狐狸</font>、<font color="red">搜狐鼠标</font>、<font color="red">婚纱香水</font>、<font color="red">社区积分</font>等众多丰厚奖品。　　<a href="http://08chunjie.i.club.sohu.com/zt-9159.html" target="_blank"><font color="red">&gt;&gt;点击查看该活动详细规则</font></a><br></br><a href="http://08chunjie.i.club.sohu.com/zt-9160.html" target="_blank"><font face="黑体" color="#0066FF" size="4">锦毛鼠奖——大家一起来找茬：</font></a><br></br>　　<font color="red">活动简介：</font><font color="red">2月6日20时—2月13日20时</font>期间，在<a href="http://08chunjie.i.club.sohu.com/" target="_blank"><font color="blue">08五鼠闹新春</font></a>以文字、图片、视频等方式爆料08春晚中出现的口误、字幕 报错、节目中常识性错误等就可角逐08五鼠闹新春之锦毛鼠奖。锦毛鼠奖获得者可分别获得<font color="red">纸鹤</font>、<font color="red">情书</font>、<font color="red">福娃贝贝</font>、<font color="red">社区积分</font>等众多丰厚奖品。　　<a href="http://08chunjie.i.club.sohu.com/zt-9160.html" target="_blank"><font color="red">&gt;&gt;点击查看该活动详细规则</font></a></font><br></br><br></br><font face="黑体" color="red" size="3">备注：</font><br></br>　<font color="green">1、穿山鼠、锦毛鼠两项活动中同一ID不能重复获得名次奖励；<br></br>　2、每个非获奖ID在五个活动中仅可领取一次爱你的抱枕；<br></br>　3、本次活动内提到的礼物除巨狐狸、粉狐狸、鼠标等外均为搜狐社区虚拟礼物。</font><br></br><br></br><font face="黑体" color="red" size="3">获奖名单：</font>2008年2月25日18点前公布<br></br><font face="黑体" color="red" size="3">搜狐社区对本次活动享有最终解释权及修改权</font><br></br><br></br>搜狐社区<br></br>2008年2月3日</font></font></font></font></font>
+				</p>
+								<br/><br/><br/><br/><br/>
+			</div>
+			<div class="contLine">
+				<h3><span>antinori的签名档</span></h3>
+				<p></p>
+				<h5>
+				<span>antinori 于 2008-02-03 22:06:33 发布</span>[<a href="new_reply.php?boardid=5&zoneid=1577&threadid=9171&pageid=1&floor=0">引用回复</a>]   [<a onclick='window.external.addfavorite("http://i.club.sohu.com","<a href=http://i.club.sohu.com/show_thread.php?boardid=5&threadid=9171&pageid=0 title=看春晚评春晚，辞旧贺岁闹新春，五鼠伴您得大奖 target=_blank><span class=red>看春晚评春晚，辞旧贺岁闹新春，五鼠伴您得大奖</span></a>-搜狐社区个性论坛|BETA版");' style='cursor:pointer;' >收藏此帖</a>]
+			</div>
+			<div class="contLine" style="text-align:right;"></div>
+			<div class="blank10"></div>
+			<div class="blank8"></div>
+		</div>
+		<div class="blank5"></div>
+		
+        
+		<div class="cont695B">
+			<h2>回复</h2>
+						<div class="txtPic">
+				<div class="pic"><img width=48 height=67 border=0 src=http://soshowlib.sohu.com/getavatar_bin.php?passport=lengxiangninglei@sohu.com&groupid=sohu&clubid=sohu&keycode=cd9a0b86&&ext=jpg&levelid=3 /></div>
+				<div class="txt">
+					性别：<span class="color01"><a>女</a></span><br />
+					来自：<span class="color01"><a>浙江</a></span><br />
+					身份：<span class="color01"><a>成员</a></span><br />
+					称号：<span class="color01"><a>无名小卒</a></span><br />
+					贡献值：<span class="color01"><a>无</a></span><br />
+					排名：<span class="color01"><a>无</a></span><br />
+				</div>
+			</div>
+			<div class="contR">
+				<div class="contRA">
+					<div class="left"><span><a href="pf-lengxiangninglei@sohu.html" target=_blank>冷香凝泪</a></span><a href="javascript:void(0)" name="onlineIcon" rel="lengxiangninglei@sohu.com;冷香凝泪;"></a> [ID：<a href="pf-lengxiangninglei@sohu.html" target=_blank>lengxiangninglei@sohu</a>] [<a onclick='sohuim.webmsg.SendMsg("lengxiangninglei@sohu","_冷香凝泪_","sohu/bbs",false,event,function(){});' style="cursor: pointer;">传小纸条</a>] [<a onclick='club_dialog.showLogin("http://club.sohu.com/shop/manage_gift.php?receiveCN=lengxiangninglei@sohu","blank","CR")' style="cursor: pointer;">送礼物</a>]</div>
+					<div class="right">[<a href="new_reply.php?boardid=5&zoneid=1577&threadid=9171&pageid=1&floor=1"><span>回复</span></a>]<font color="red"></font>   沙发</div>
+				</div>
+				<div class="blank3"></div>
+				<div class="line01"></div>
+				<div class="blank8"></div>
+				<div class="txtCont">
+					<p style="">哦,收到<img src="http://src2.club.sohu.com/newbbs/images/emot/4.gif" /><br /><br /><br /><br /><br /></p>
+									</div>
+				<div class="contLine">
+					<h3><span>冷香凝泪的签名档</span></h3>
+					<p><img src="http://bbs.muwen.com/fileuploaddir/4B257571422.gif" border="0"></img></p>
+					<h5><span>冷香凝泪 于2008-02-03 22:16:56 发布</span></h5>
+				</div>
+			</div>
+			<div class="blank8"></div>
+			<div style="margin:0 auto;height:1px; font-size:1px;clear:both; background:#dee9f5 ; overflow:hidden;"></div>
+						<div class="txtPic">
+				<div class="pic"><img width=48 height=67 border=0 src=http://soshowlib.sohu.com/getavatar_bin.php?passport=gzlwd2004@sohu.com&groupid=sohu&clubid=sohu&keycode=a237c878&&ext=jpg&levelid=3 /></div>
+				<div class="txt">
+					性别：<span class="color01"><a>女</a></span><br />
+					来自：<span class="color01"><a>广东</a></span><br />
+					身份：<span class="color01"><a>成员</a></span><br />
+					称号：<span class="color01"><a>无名小卒</a></span><br />
+					贡献值：<span class="color01"><a>无</a></span><br />
+					排名：<span class="color01"><a>无</a></span><br />
+				</div>
+			</div>
+			<div class="contR">
+				<div class="contRA">
+					<div class="left"><span><a href="pf-gzlwd2004@sohu.html" target=_blank>摄影哈哈</a></span><a href="javascript:void(0)" name="onlineIcon" rel="gzlwd2004@sohu.com;摄影哈哈;"></a> [ID：<a href="pf-gzlwd2004@sohu.html" target=_blank>gzlwd2004@sohu</a>] [<a onclick='sohuim.webmsg.SendMsg("gzlwd2004@sohu","_摄影哈哈_","sohu/bbs",false,event,function(){});' style="cursor: pointer;">传小纸条</a>] [<a onclick='club_dialog.showLogin("http://club.sohu.com/shop/manage_gift.php?receiveCN=gzlwd2004@sohu","blank","CR")' style="cursor: pointer;">送礼物</a>]</div>
+					<div class="right">[<a href="new_reply.php?boardid=5&zoneid=1577&threadid=9171&pageid=1&floor=2"><span>回复</span></a>]<font color="red"></font>   板凳</div>
+				</div>
+				<div class="blank3"></div>
+				<div class="line01"></div>
+				<div class="blank8"></div>
+				<div class="txtCont">
+					<p style="">很好啊<br /><br /><br /><br /><br /></p>
+									</div>
+				<div class="contLine">
+					<h3><span>摄影哈哈的签名档</span></h3>
+					<p><img src="http://118.img.pp.sohu.com/images/2007/8/10/1/16/114e55f73ac.jpg" border="0"></img> <font size="4" face="楷体_GB2312" color="#0000FF">生活就像一粒种子，我愿用快乐来为生活这粒种子来浇水，让快乐永随我的身边。</font></p>
+					<h5><span>摄影哈哈 于2008-02-03 22:33:14 发布</span></h5>
+				</div>
+			</div>
+			<div class="blank8"></div>
+			<div style="margin:0 auto;height:1px; font-size:1px;clear:both; background:#dee9f5 ; overflow:hidden;"></div>
+						<div class="txtPic">
+				<div class="pic"><img width=48 height=67 border=0 src=http://soshowlib.sohu.com/getavatar_bin.php?passport=ananangle@sohu.com&groupid=sohu&clubid=sohu&keycode=e1913fd1&&ext=jpg&levelid=3 /></div>
+				<div class="txt">
+					性别：<span class="color01"><a>男</a></span><br />
+					来自：<span class="color01"><a>北京</a></span><br />
+					身份：<span class="color01"><a>管理员</a></span><br />
+					称号：<span class="color01"><a>无名小卒</a></span><br />
+					贡献值：<span class="color01"><a>36</a></span><br />
+					排名：<span class="color01"><a>1</a></span><br />
+				</div>
+			</div>
+			<div class="contR">
+				<div class="contRA">
+					<div class="left"><span><a href="pf-ananangle@sohu.html" target=_blank>京-狼放假了</a></span><a href="javascript:void(0)" name="onlineIcon" rel="ananangle@sohu.com;京-狼放假了;"></a> [ID：<a href="pf-ananangle@sohu.html" target=_blank>ananangle@sohu</a>] [<a onclick='sohuim.webmsg.SendMsg("ananangle@sohu","_京-狼放假了_","sohu/bbs",false,event,function(){});' style="cursor: pointer;">传小纸条</a>] [<a onclick='club_dialog.showLogin("http://club.sohu.com/shop/manage_gift.php?receiveCN=ananangle@sohu","blank","CR")' style="cursor: pointer;">送礼物</a>]</div>
+					<div class="right">[<a href="new_reply.php?boardid=5&zoneid=1577&threadid=9171&pageid=1&floor=3"><span>回复</span></a>]<font color="red"></font>   地板</div>
+				</div>
+				<div class="blank3"></div>
+				<div class="line01"></div>
+				<div class="blank8"></div>
+				<div class="txtCont">
+					<p style="">嘎嘎，喜欢放假的感觉<br /><br /><br /><br /><br /></p>
+									</div>
+				<div class="contLine">
+					<h3><span>京-狼放假了的签名档</span></h3>
+					<p><font color="red" face="黑体" size="3">http://jinglang.i.club.sohu.com/ 欢迎到心碎乌托邦堕落</font></p>
+					<h5><span>京-狼放假了 于2008-02-04 08:30:48 发布</span></h5>
+				</div>
+			</div>
+			<div class="blank8"></div>
+			<div style="margin:0 auto;height:1px; font-size:1px;clear:both; background:#dee9f5 ; overflow:hidden;"></div>
+						<div class="txtPic">
+				<div class="pic"><img width=48 height=67 border=0 src=http://soshowlib.sohu.com/getavatar_bin.php?passport=pyf0924@sohu.com&groupid=sohu&clubid=sohu&keycode=517b82fe&&ext=jpg&levelid=3 /></div>
+				<div class="txt">
+					性别：<span class="color01"><a>女</a></span><br />
+					来自：<span class="color01"><a>可能来自火星</a></span><br />
+					身份：<span class="color01"><a>非成员</a></span><br />
+					称号：<span class="color01"><a>无</a></span><br />
+					贡献值：<span class="color01"><a>无</a></span><br />
+					排名：<span class="color01"><a>无</a></span><br />
+				</div>
+			</div>
+			<div class="contR">
+				<div class="contRA">
+					<div class="left"><span><a href="pf-pyf0924@sohu.html" target=_blank>萌萌不会飞</a></span><a href="javascript:void(0)" name="onlineIcon" rel="pyf0924@sohu.com;萌萌不会飞;"></a> [ID：<a href="pf-pyf0924@sohu.html" target=_blank>pyf0924@sohu</a>] [<a onclick='sohuim.webmsg.SendMsg("pyf0924@sohu","_萌萌不会飞_","sohu/bbs",false,event,function(){});' style="cursor: pointer;">传小纸条</a>] [<a onclick='club_dialog.showLogin("http://club.sohu.com/shop/manage_gift.php?receiveCN=pyf0924@sohu","blank","CR")' style="cursor: pointer;">送礼物</a>]</div>
+					<div class="right">[<a href="new_reply.php?boardid=5&zoneid=1577&threadid=9171&pageid=1&floor=4"><span>回复</span></a>]<font color="red"></font>   4楼</div>
+				</div>
+				<div class="blank3"></div>
+				<div class="line01"></div>
+				<div class="blank8"></div>
+				<div class="txtCont">
+					<p style="">神<br /><br /><br /><br /><br /></p>
+									</div>
+				<div class="contLine">
+					<h3><span>萌萌不会飞的签名档</span></h3>
+					<p><img src="http://zhuanti.club.news.sohu.com/user_webpage/pic/1a/ae27730076c395cd9964af3e739b911a.gif" border="0"></img></p>
+					<h5><span>萌萌不会飞 于2008-02-04 09:44:32 发布</span></h5>
+				</div>
+			</div>
+			<div class="blank8"></div>
+			<div style="margin:0 auto;height:1px; font-size:1px;clear:both; background:#dee9f5 ; overflow:hidden;"></div>
+						<div class="txtPic">
+				<div class="pic"><img width=48 height=67 border=0 src=http://soshowlib.sohu.com/getavatar_bin.php?passport=fengshou1976@chinaren.com&groupid=sohu&clubid=sohu&keycode=c22684f9&&ext=jpg&levelid=3 /></div>
+				<div class="txt">
+					性别：<span class="color01"><a>男</a></span><br />
+					来自：<span class="color01"><a>河北</a></span><br />
+					身份：<span class="color01"><a>非成员</a></span><br />
+					称号：<span class="color01"><a>无</a></span><br />
+					贡献值：<span class="color01"><a>无</a></span><br />
+					排名：<span class="color01"><a>无</a></span><br />
+				</div>
+			</div>
+			<div class="contR">
+				<div class="contRA">
+					<div class="left"><span><a href="pf-fengshou1976@chinaren.html" target=_blank>暖丰99</a></span><a href="javascript:void(0)" name="onlineIcon" rel="fengshou1976@chinaren.com;暖丰99;"></a> [ID：<a href="pf-fengshou1976@chinaren.html" target=_blank>fengshou1976@chinaren</a>] [<a onclick='sohuim.webmsg.SendMsg("fengshou1976@chinaren","_暖丰99_","sohu/bbs",false,event,function(){});' style="cursor: pointer;">传小纸条</a>] [<a onclick='club_dialog.showLogin("http://club.sohu.com/shop/manage_gift.php?receiveCN=fengshou1976@chinaren","blank","CR")' style="cursor: pointer;">送礼物</a>]</div>
+					<div class="right">[<a href="new_reply.php?boardid=5&zoneid=1577&threadid=9171&pageid=1&floor=5"><span>回复</span></a>]<font color="red"></font>   5楼</div>
+				</div>
+				<div class="blank3"></div>
+				<div class="line01"></div>
+				<div class="blank8"></div>
+				<div class="txtCont">
+					<p style=""><img src="http://src2.club.sohu.com/newbbs/images/emot/1.gif" /><br /><br /><br /><br /><br /></p>
+									</div>
+				<div class="contLine">
+					<h3><span>暖丰99的签名档</span></h3>
+					<p><img src="http://www.houlu.net/attachments/month_0705/20070525_924674cef1ee44281ff5OjHdw9SULm6H.gif" border="0"></img></p>
+					<h5><span>暖丰99 于2008-02-04 12:35:55 发布</span></h5>
+				</div>
+			</div>
+			<div class="blank8"></div>
+			<div style="margin:0 auto;height:1px; font-size:1px;clear:both; background:#dee9f5 ; overflow:hidden;"></div>
+						<div class="txtPic">
+				<div class="pic"><img width=48 height=67 border=0 src=http://soshowlib.sohu.com/getavatar_bin.php?passport=nifco555@sohu.com&groupid=sohu&clubid=sohu&keycode=de1a1966&&ext=jpg&levelid=3 /></div>
+				<div class="txt">
+					性别：<span class="color01"><a>男</a></span><br />
+					来自：<span class="color01"><a>北京</a></span><br />
+					身份：<span class="color01"><a>非成员</a></span><br />
+					称号：<span class="color01"><a>无</a></span><br />
+					贡献值：<span class="color01"><a>无</a></span><br />
+					排名：<span class="color01"><a>无</a></span><br />
+				</div>
+			</div>
+			<div class="contR">
+				<div class="contRA">
+					<div class="left"><span><a href="pf-nifco555@sohu.html" target=_blank>庸壶</a></span><a href="javascript:void(0)" name="onlineIcon" rel="nifco555@sohu.com;庸壶;"></a> [ID：<a href="pf-nifco555@sohu.html" target=_blank>nifco555@sohu</a>] [<a onclick='sohuim.webmsg.SendMsg("nifco555@sohu","_庸壶_","sohu/bbs",false,event,function(){});' style="cursor: pointer;">传小纸条</a>] [<a onclick='club_dialog.showLogin("http://club.sohu.com/shop/manage_gift.php?receiveCN=nifco555@sohu","blank","CR")' style="cursor: pointer;">送礼物</a>]</div>
+					<div class="right">[<a href="new_reply.php?boardid=5&zoneid=1577&threadid=9171&pageid=1&floor=7"><span>回复</span></a>]<font color="red"></font>   7楼</div>
+				</div>
+				<div class="blank3"></div>
+				<div class="line01"></div>
+				<div class="blank8"></div>
+				<div class="txtCont">
+					<p style="">倒塌<br /><br /><br /><br /><br /></p>
+									</div>
+				<div class="contLine">
+					<h3><span>庸壶的签名档</span></h3>
+					<p><font face="楷体" color="blue">新闻社区=&gt;媒体论坛=&gt;身边 &#49324;&#46993;&#51004;&#47196; &#51064;&#49373;&#44600;&#51012</font></p>
+					<h5><span>庸壶 于2008-02-04 16:13:45 发布</span></h5>
+				</div>
+			</div>
+			<div class="blank8"></div>
+			<div style="margin:0 auto;height:1px; font-size:1px;clear:both; background:#dee9f5 ; overflow:hidden;"></div>
+						<div class="txtPic">
+				<div class="pic"><img width=48 height=67 border=0 src=http://soshowlib.sohu.com/getavatar_bin.php?passport=wrdy666@sohu.com&groupid=sohu&clubid=sohu&keycode=1552bf07&&ext=jpg&levelid=3 /></div>
+				<div class="txt">
+					性别：<span class="color01"><a>女</a></span><br />
+					来自：<span class="color01"><a>山东</a></span><br />
+					身份：<span class="color01"><a>非成员</a></span><br />
+					称号：<span class="color01"><a>无</a></span><br />
+					贡献值：<span class="color01"><a>无</a></span><br />
+					排名：<span class="color01"><a>无</a></span><br />
+				</div>
+			</div>
+			<div class="contR">
+				<div class="contRA">
+					<div class="left"><span><a href="pf-wrdy666@sohu.html" target=_blank>~水之湄~</a></span><a href="javascript:void(0)" name="onlineIcon" rel="wrdy666@sohu.com;~水之湄~;"></a> [ID：<a href="pf-wrdy666@sohu.html" target=_blank>wrdy666@sohu</a>] [<a onclick='sohuim.webmsg.SendMsg("wrdy666@sohu","_~水之湄~_","sohu/bbs",false,event,function(){});' style="cursor: pointer;">传小纸条</a>] [<a onclick='club_dialog.showLogin("http://club.sohu.com/shop/manage_gift.php?receiveCN=wrdy666@sohu","blank","CR")' style="cursor: pointer;">送礼物</a>]</div>
+					<div class="right">[<a href="new_reply.php?boardid=5&zoneid=1577&threadid=9171&pageid=1&floor=8"><span>回复</span></a>]<font color="red"></font>   8楼</div>
+				</div>
+				<div class="blank3"></div>
+				<div class="line01"></div>
+				<div class="blank8"></div>
+				<div class="txtCont">
+					<p style="">好啊,去参加<br /><br /><br /><br /><br /></p>
+									</div>
+				<div class="contLine">
+					<h3><span>~水之湄~的签名档</span></h3>
+					<p>世界上最远的距离，不是生与死的距离，而是梦想与现实的差距！</p>
+					<h5><span>~水之湄~ 于2008-02-04 16:23:26 发布</span></h5>
+				</div>
+			</div>
+			<div class="blank8"></div>
+			<div style="margin:0 auto;height:1px; font-size:1px;clear:both; background:#dee9f5 ; overflow:hidden;"></div>
+						<div class="txtPic">
+				<div class="pic"><img width=48 height=67 border=0 src=http://soshowlib.sohu.com/getavatar_bin.php?passport=69061988@sohu.com&groupid=sohu&clubid=sohu&keycode=931475ac&&ext=jpg&levelid=3 /></div>
+				<div class="txt">
+					性别：<span class="color01"><a>女</a></span><br />
+					来自：<span class="color01"><a>可能来自火星</a></span><br />
+					身份：<span class="color01"><a>非成员</a></span><br />
+					称号：<span class="color01"><a>无</a></span><br />
+					贡献值：<span class="color01"><a>无</a></span><br />
+					排名：<span class="color01"><a>无</a></span><br />
+				</div>
+			</div>
+			<div class="contR">
+				<div class="contRA">
+					<div class="left"><span><a href="pf-69061988@sohu.html" target=_blank>锦蛇狂舞</a></span><a href="javascript:void(0)" name="onlineIcon" rel="69061988@sohu.com;锦蛇狂舞;"></a> [ID：<a href="pf-69061988@sohu.html" target=_blank>69061988@sohu</a>] [<a onclick='sohuim.webmsg.SendMsg("69061988@sohu","_锦蛇狂舞_","sohu/bbs",false,event,function(){});' style="cursor: pointer;">传小纸条</a>] [<a onclick='club_dialog.showLogin("http://club.sohu.com/shop/manage_gift.php?receiveCN=69061988@sohu","blank","CR")' style="cursor: pointer;">送礼物</a>]</div>
+					<div class="right">[<a href="new_reply.php?boardid=5&zoneid=1577&threadid=9171&pageid=1&floor=9"><span>回复</span></a>]<font color="red"></font>   9楼</div>
+				</div>
+				<div class="blank3"></div>
+				<div class="line01"></div>
+				<div class="blank8"></div>
+				<div class="txtCont">
+					<p style=""><img src="http://src2.club.sohu.com/newbbs/images/emot/1.gif" /><br /><br /><br /><br /><br /></p>
+									</div>
+				<div class="contLine">
+					<h3><span>锦蛇狂舞的签名档</span></h3>
+					<p><font color="#800000" size="2">流水随春远，行云与谁同。相寻梦里路，飞雨落花中</font></p>
+					<h5><span>锦蛇狂舞 于2008-02-04 16:23:50 发布</span></h5>
+				</div>
+			</div>
+			<div class="blank8"></div>
+			<div style="margin:0 auto;height:1px; font-size:1px;clear:both; background:#dee9f5 ; overflow:hidden;"></div>
+						<div class="txtPic">
+				<div class="pic"><img width=48 height=67 border=0 src=http://soshowlib.sohu.com/getavatar_bin.php?passport=supersonics@sohu.com&groupid=sohu&clubid=sohu&keycode=38cc092a&&ext=jpg&levelid=3 /></div>
+				<div class="txt">
+					性别：<span class="color01"><a>男</a></span><br />
+					来自：<span class="color01"><a>湖南</a></span><br />
+					身份：<span class="color01"><a>非成员</a></span><br />
+					称号：<span class="color01"><a>无</a></span><br />
+					贡献值：<span class="color01"><a>无</a></span><br />
+					排名：<span class="color01"><a>无</a></span><br />
+				</div>
+			</div>
+			<div class="contR">
+				<div class="contRA">
+					<div class="left"><span><a href="pf-supersonics@sohu.html" target=_blank>吹不断的风</a></span><a href="javascript:void(0)" name="onlineIcon" rel="supersonics@sohu.com;吹不断的风;"></a> [ID：<a href="pf-supersonics@sohu.html" target=_blank>supersonics@sohu</a>] [<a onclick='sohuim.webmsg.SendMsg("supersonics@sohu","_吹不断的风_","sohu/bbs",false,event,function(){});' style="cursor: pointer;">传小纸条</a>] [<a onclick='club_dialog.showLogin("http://club.sohu.com/shop/manage_gift.php?receiveCN=supersonics@sohu","blank","CR")' style="cursor: pointer;">送礼物</a>]</div>
+					<div class="right">[<a href="new_reply.php?boardid=5&zoneid=1577&threadid=9171&pageid=1&floor=10"><span>回复</span></a>]<font color="red"></font>   10楼</div>
+				</div>
+				<div class="blank3"></div>
+				<div class="line01"></div>
+				<div class="blank8"></div>
+				<div class="txtCont">
+					<p style="">诱惑人的礼物啊~~~<br /><br /><br /><br /><br /></p>
+									</div>
+				<div class="contLine">
+					<h3><span>吹不断的风的签名档</span></h3>
+					<p><img src="http://122.img.pp.sohu.com/images/2007/11/21/0/23/116f9cea9fb.jpg" border="0"></img></p>
+					<h5><span>吹不断的风 于2008-02-04 16:24:11 发布</span></h5>
+				</div>
+			</div>
+			<div class="blank8"></div>
+			<div style="margin:0 auto;height:1px; font-size:1px;clear:both; background:#dee9f5 ; overflow:hidden;"></div>
+						<div class="txtPic">
+				<div class="pic"><img width=48 height=67 border=0 src=http://soshowlib.sohu.com/getavatar_bin.php?passport=myodie@sohu.com&groupid=sohu&clubid=sohu&keycode=a6b14613&&ext=jpg&levelid=3 /></div>
+				<div class="txt">
+					性别：<span class="color01"><a>女</a></span><br />
+					来自：<span class="color01"><a>北京</a></span><br />
+					身份：<span class="color01"><a>非成员</a></span><br />
+					称号：<span class="color01"><a>无</a></span><br />
+					贡献值：<span class="color01"><a>无</a></span><br />
+					排名：<span class="color01"><a>无</a></span><br />
+				</div>
+			</div>
+			<div class="contR">
+				<div class="contRA">
+					<div class="left"><span><a href="pf-myodie@sohu.html" target=_blank>烁雀儿</a></span><a href="javascript:void(0)" name="onlineIcon" rel="myodie@sohu.com;烁雀儿;"></a> [ID：<a href="pf-myodie@sohu.html" target=_blank>myodie@sohu</a>] [<a onclick='sohuim.webmsg.SendMsg("myodie@sohu","_烁雀儿_","sohu/bbs",false,event,function(){});' style="cursor: pointer;">传小纸条</a>] [<a onclick='club_dialog.showLogin("http://club.sohu.com/shop/manage_gift.php?receiveCN=myodie@sohu","blank","CR")' style="cursor: pointer;">送礼物</a>]</div>
+					<div class="right">[<a href="new_reply.php?boardid=5&zoneid=1577&threadid=9171&pageid=1&floor=11"><span>回复</span></a>]<font color="red"></font>   11楼</div>
+				</div>
+				<div class="blank3"></div>
+				<div class="line01"></div>
+				<div class="blank8"></div>
+				<div class="txtCont">
+					<p style="">挖塞<br /><br /><br /><br /><br /></p>
+									</div>
+				<div class="contLine">
+					<h3><span>烁雀儿的签名档</span></h3>
+					<p>＜img</p>
+					<h5><span>烁雀儿 于2008-02-04 16:28:57 发布</span></h5>
+				</div>
+			</div>
+			<div class="blank8"></div>
+			<div style="margin:0 auto;height:1px; font-size:1px;clear:both; background:#dee9f5 ; overflow:hidden;"></div>
+						<div class="txtPic">
+				<div class="pic"><img width=48 height=67 border=0 src=http://soshowlib.sohu.com/getavatar_bin.php?passport=kakaienn@chinaren.com&groupid=sohu&clubid=sohu&keycode=cd1cf4d8&&ext=jpg&levelid=3 /></div>
+				<div class="txt">
+					性别：<span class="color01"><a>未探明</a></span><br />
+					来自：<span class="color01"><a>可能来自火星</a></span><br />
+					身份：<span class="color01"><a>非成员</a></span><br />
+					称号：<span class="color01"><a>无</a></span><br />
+					贡献值：<span class="color01"><a>无</a></span><br />
+					排名：<span class="color01"><a>无</a></span><br />
+				</div>
+			</div>
+			<div class="contR">
+				<div class="contRA">
+					<div class="left"><span><a href="pf-kakaienn@chinaren.html" target=_blank>^*^上上签^*^</a></span><a href="javascript:void(0)" name="onlineIcon" rel="kakaienn@chinaren.com;^*^上上签^*^;"></a> [ID：<a href="pf-kakaienn@chinaren.html" target=_blank>kakaienn@chinaren</a>] [<a onclick='sohuim.webmsg.SendMsg("kakaienn@chinaren","_^*^上上签^*^_","sohu/bbs",false,event,function(){});' style="cursor: pointer;">传小纸条</a>] [<a onclick='club_dialog.showLogin("http://club.sohu.com/shop/manage_gift.php?receiveCN=kakaienn@chinaren","blank","CR")' style="cursor: pointer;">送礼物</a>]</div>
+					<div class="right">[<a href="new_reply.php?boardid=5&zoneid=1577&threadid=9171&pageid=1&floor=12"><span>回复</span></a>]<font color="red"></font>   12楼</div>
+				</div>
+				<div class="blank3"></div>
+				<div class="line01"></div>
+				<div class="blank8"></div>
+				<div class="txtCont">
+					<p style="">好<img src="http://src2.club.sohu.com/newbbs/images/emot/2.gif" /><br /><br /><br /><br /><br /></p>
+									</div>
+				<div class="contLine">
+					<h3><span>^*^上上签^*^的签名档</span></h3>
+					<p>我是谁是我！</p>
+					<h5><span>^*^上上签^*^ 于2008-02-04 16:40:01 发布</span></h5>
+				</div>
+			</div>
+			<div class="blank8"></div>
+			<div style="margin:0 auto;height:1px; font-size:1px;clear:both; background:#dee9f5 ; overflow:hidden;"></div>
+						<div class="txtPic">
+				<div class="pic"><img width=48 height=67 border=0 src=http://soshowlib.sohu.com/getavatar_bin.php?passport=yunnan@sohu.com&groupid=sohu&clubid=sohu&keycode=e61fc457&&ext=jpg&levelid=3 /></div>
+				<div class="txt">
+					性别：<span class="color01"><a>男</a></span><br />
+					来自：<span class="color01"><a>可能来自火星</a></span><br />
+					身份：<span class="color01"><a>非成员</a></span><br />
+					称号：<span class="color01"><a>无</a></span><br />
+					贡献值：<span class="color01"><a>无</a></span><br />
+					排名：<span class="color01"><a>无</a></span><br />
+				</div>
+			</div>
+			<div class="contR">
+				<div class="contRA">
+					<div class="left"><span><a href="pf-yunnan@sohu.html" target=_blank>ryan</a></span><a href="javascript:void(0)" name="onlineIcon" rel="yunnan@sohu.com;ryan;"></a> [ID：<a href="pf-yunnan@sohu.html" target=_blank>yunnan@sohu</a>] [<a onclick='sohuim.webmsg.SendMsg("yunnan@sohu","_ryan_","sohu/bbs",false,event,function(){});' style="cursor: pointer;">传小纸条</a>] [<a onclick='club_dialog.showLogin("http://club.sohu.com/shop/manage_gift.php?receiveCN=yunnan@sohu","blank","CR")' style="cursor: pointer;">送礼物</a>]</div>
+					<div class="right">[<a href="new_reply.php?boardid=5&zoneid=1577&threadid=9171&pageid=1&floor=13"><span>回复</span></a>]<font color="red"></font>   13楼</div>
+				</div>
+				<div class="blank3"></div>
+				<div class="line01"></div>
+				<div class="blank8"></div>
+				<div class="txtCont">
+					<p style="">真要闹闹了哈<img src="http://src2.club.sohu.com/newbbs/images/emot/2.gif" /><br /><br /><br /><br /><br /></p>
+									</div>
+				<div class="contLine">
+					<h3><span>ryan的签名档</span></h3>
+					<p><font color="blue" size="5" face="黑体">節約用水 造福子孫</font></p>
+					<h5><span>ryan 于2008-02-04 16:46:40 发布</span></h5>
+				</div>
+			</div>
+			<div class="blank8"></div>
+			<div style="margin:0 auto;height:1px; font-size:1px;clear:both; background:#dee9f5 ; overflow:hidden;"></div>
+						<div class="txtPic">
+				<div class="pic"><img width=48 height=67 border=0 src=http://soshowlib.sohu.com/getavatar_bin.php?passport=cywm2004@sohu.com&groupid=sohu&clubid=sohu&keycode=3692bd77&&ext=jpg&levelid=3 /></div>
+				<div class="txt">
+					性别：<span class="color01"><a>男</a></span><br />
+					来自：<span class="color01"><a>河北</a></span><br />
+					身份：<span class="color01"><a>非成员</a></span><br />
+					称号：<span class="color01"><a>无</a></span><br />
+					贡献值：<span class="color01"><a>无</a></span><br />
+					排名：<span class="color01"><a>无</a></span><br />
+				</div>
+			</div>
+			<div class="contR">
+				<div class="contRA">
+					<div class="left"><span><a href="pf-cywm2004@sohu.html" target=_blank>≮常夜无眠≯</a></span><a href="javascript:void(0)" name="onlineIcon" rel="cywm2004@sohu.com;≮常夜无眠≯;"></a> [ID：<a href="pf-cywm2004@sohu.html" target=_blank>cywm2004@sohu</a>] [<a onclick='sohuim.webmsg.SendMsg("cywm2004@sohu","_≮常夜无眠≯_","sohu/bbs",false,event,function(){});' style="cursor: pointer;">传小纸条</a>] [<a onclick='club_dialog.showLogin("http://club.sohu.com/shop/manage_gift.php?receiveCN=cywm2004@sohu","blank","CR")' style="cursor: pointer;">送礼物</a>]</div>
+					<div class="right">[<a href="new_reply.php?boardid=5&zoneid=1577&threadid=9171&pageid=1&floor=14"><span>回复</span></a>]<font color="red"></font>   14楼</div>
+				</div>
+				<div class="blank3"></div>
+				<div class="line01"></div>
+				<div class="blank8"></div>
+				<div class="txtCont">
+					<p style="">好啊<br /><br /><br /><br /><br /></p>
+									</div>
+				<div class="contLine">
+					<h3><span>≮常夜无眠≯的签名档</span></h3>
+					<p></p>
+					<h5><span>≮常夜无眠≯ 于2008-02-04 16:46:58 发布</span></h5>
+				</div>
+			</div>
+			<div class="blank8"></div>
+			<div style="margin:0 auto;height:1px; font-size:1px;clear:both; background:#dee9f5 ; overflow:hidden;"></div>
+						<div class="txtPic">
+				<div class="pic"><img width=48 height=67 border=0 src=http://soshowlib.sohu.com/getavatar_bin.php?passport=lanhong_18@sohu.com&groupid=sohu&clubid=sohu&keycode=75ee4a2f&&ext=jpg&levelid=3 /></div>
+				<div class="txt">
+					性别：<span class="color01"><a>男</a></span><br />
+					来自：<span class="color01"><a>可能来自火星</a></span><br />
+					身份：<span class="color01"><a>非成员</a></span><br />
+					称号：<span class="color01"><a>无</a></span><br />
+					贡献值：<span class="color01"><a>无</a></span><br />
+					排名：<span class="color01"><a>无</a></span><br />
+				</div>
+			</div>
+			<div class="contR">
+				<div class="contRA">
+					<div class="left"><span><a href="pf-lanhong_18@sohu.html" target=_blank>大唐民兵</a></span><a href="javascript:void(0)" name="onlineIcon" rel="lanhong_18@sohu.com;大唐民兵;"></a> [ID：<a href="pf-lanhong_18@sohu.html" target=_blank>lanhong_18@sohu</a>] [<a onclick='sohuim.webmsg.SendMsg("lanhong_18@sohu","_大唐民兵_","sohu/bbs",false,event,function(){});' style="cursor: pointer;">传小纸条</a>] [<a onclick='club_dialog.showLogin("http://club.sohu.com/shop/manage_gift.php?receiveCN=lanhong_18@sohu","blank","CR")' style="cursor: pointer;">送礼物</a>]</div>
+					<div class="right">[<a href="new_reply.php?boardid=5&zoneid=1577&threadid=9171&pageid=1&floor=15"><span>回复</span></a>]<font color="red"></font>   15楼</div>
+				</div>
+				<div class="blank3"></div>
+				<div class="line01"></div>
+				<div class="blank8"></div>
+				<div class="txtCont">
+					<p style="">看<br /><br /><br /><br /><br /></p>
+									</div>
+				<div class="contLine">
+					<h3><span>大唐民兵的签名档</span></h3>
+					<p>芸芸众生，善善恶恶一杯土 茫茫大地，真真假假总成空 <img src="http://115.img.pp.sohu.com/images/2007/8/3/17/14/114c4aed615.jpg" border="0"></img></p>
+					<h5><span>大唐民兵 于2008-02-04 16:47:55 发布</span></h5>
+				</div>
+			</div>
+			<div class="blank8"></div>
+			<div style="margin:0 auto;height:1px; font-size:1px;clear:both; background:#dee9f5 ; overflow:hidden;"></div>
+						<div class="txtPic">
+				<div class="pic"><img width=48 height=67 border=0 src=http://soshowlib.sohu.com/getavatar_bin.php?passport=ccbyk95533@sohu.com&groupid=sohu&clubid=sohu&keycode=52fd7aaa&&ext=jpg&levelid=3 /></div>
+				<div class="txt">
+					性别：<span class="color01"><a>男</a></span><br />
+					来自：<span class="color01"><a>可能来自火星</a></span><br />
+					身份：<span class="color01"><a>非成员</a></span><br />
+					称号：<span class="color01"><a>无</a></span><br />
+					贡献值：<span class="color01"><a>无</a></span><br />
+					排名：<span class="color01"><a>无</a></span><br />
+				</div>
+			</div>
+			<div class="contR">
+				<div class="contRA">
+					<div class="left"><span><a href="pf-ccbyk95533@sohu.html" target=_blank>老汹0001</a></span><a href="javascript:void(0)" name="onlineIcon" rel="ccbyk95533@sohu.com;老汹0001;"></a> [ID：<a href="pf-ccbyk95533@sohu.html" target=_blank>ccbyk95533@sohu</a>] [<a onclick='sohuim.webmsg.SendMsg("ccbyk95533@sohu","_老汹0001_","sohu/bbs",false,event,function(){});' style="cursor: pointer;">传小纸条</a>] [<a onclick='club_dialog.showLogin("http://club.sohu.com/shop/manage_gift.php?receiveCN=ccbyk95533@sohu","blank","CR")' style="cursor: pointer;">送礼物</a>]</div>
+					<div class="right">[<a href="new_reply.php?boardid=5&zoneid=1577&threadid=9171&pageid=1&floor=16"><span>回复</span></a>]<font color="red"></font>   16楼</div>
+				</div>
+				<div class="blank3"></div>
+				<div class="line01"></div>
+				<div class="blank8"></div>
+				<div class="txtCont">
+					<p style=""><img src="http://src2.club.sohu.com/newbbs/images/emot/3.gif" /><img src="http://src2.club.sohu.com/newbbs/images/emot/3.gif" /><img src="http://src2.club.sohu.com/newbbs/images/emot/3.gif" /><br /><br /><br /><br /><br /></p>
+									</div>
+				<div class="contLine">
+					<h3><span>老汹0001的签名档</span></h3>
+					<p></p>
+					<h5><span>老汹0001 于2008-02-04 17:04:46 发布</span></h5>
+				</div>
+			</div>
+			<div class="blank8"></div>
+			<div style="margin:0 auto;height:1px; font-size:1px;clear:both; background:#dee9f5 ; overflow:hidden;"></div>
+						<div class="txtPic">
+				<div class="pic"><img width=48 height=67 border=0 src=http://soshowlib.sohu.com/getavatar_bin.php?passport=lishi76@sohu.com&groupid=sohu&clubid=sohu&keycode=bf9382c6&&ext=jpg&levelid=3 /></div>
+				<div class="txt">
+					性别：<span class="color01"><a>女</a></span><br />
+					来自：<span class="color01"><a>可能来自火星</a></span><br />
+					身份：<span class="color01"><a>非成员</a></span><br />
+					称号：<span class="color01"><a>无</a></span><br />
+					贡献值：<span class="color01"><a>无</a></span><br />
+					排名：<span class="color01"><a>无</a></span><br />
+				</div>
+			</div>
+			<div class="contR">
+				<div class="contRA">
+					<div class="left"><span><a href="pf-lishi76@sohu.html" target=_blank>冰翡翠</a></span><a href="javascript:void(0)" name="onlineIcon" rel="lishi76@sohu.com;冰翡翠;"></a> [ID：<a href="pf-lishi76@sohu.html" target=_blank>lishi76@sohu</a>] [<a onclick='sohuim.webmsg.SendMsg("lishi76@sohu","_冰翡翠_","sohu/bbs",false,event,function(){});' style="cursor: pointer;">传小纸条</a>] [<a onclick='club_dialog.showLogin("http://club.sohu.com/shop/manage_gift.php?receiveCN=lishi76@sohu","blank","CR")' style="cursor: pointer;">送礼物</a>]</div>
+					<div class="right">[<a href="new_reply.php?boardid=5&zoneid=1577&threadid=9171&pageid=1&floor=17"><span>回复</span></a>]<font color="red"></font>   17楼</div>
+				</div>
+				<div class="blank3"></div>
+				<div class="line01"></div>
+				<div class="blank8"></div>
+				<div class="txtCont">
+					<p style="">......<br /><br /><br /><br /><br /></p>
+									</div>
+				<div class="contLine">
+					<h3><span>冰翡翠的签名档</span></h3>
+					<p>新闻社区——媒体论坛——新闻暴料 教育社区——理科趣解欢迎大家</p>
+					<h5><span>冰翡翠 于2008-02-04 17:16:12 发布</span></h5>
+				</div>
+			</div>
+			<div class="blank8"></div>
+			<div style="margin:0 auto;height:1px; font-size:1px;clear:both; background:#dee9f5 ; overflow:hidden;"></div>
+						<div class="txtPic">
+				<div class="pic"><img width=48 height=67 border=0 src=http://soshowlib.sohu.com/getavatar_bin.php?passport=gloria1127@sohu.com&groupid=sohu&clubid=sohu&keycode=592f46b5&&ext=jpg&levelid=3 /></div>
+				<div class="txt">
+					性别：<span class="color01"><a>女</a></span><br />
+					来自：<span class="color01"><a>可能来自火星</a></span><br />
+					身份：<span class="color01"><a>非成员</a></span><br />
+					称号：<span class="color01"><a>无</a></span><br />
+					贡献值：<span class="color01"><a>无</a></span><br />
+					排名：<span class="color01"><a>无</a></span><br />
+				</div>
+			</div>
+			<div class="contR">
+				<div class="contRA">
+					<div class="left"><span><a href="pf-gloria1127@sohu.html" target=_blank>天使CROSS妖精</a></span><a href="javascript:void(0)" name="onlineIcon" rel="gloria1127@sohu.com;天使CROSS妖精;"></a> [ID：<a href="pf-gloria1127@sohu.html" target=_blank>gloria1127@sohu</a>] [<a onclick='sohuim.webmsg.SendMsg("gloria1127@sohu","_天使CROSS妖精_","sohu/bbs",false,event,function(){});' style="cursor: pointer;">传小纸条</a>] [<a onclick='club_dialog.showLogin("http://club.sohu.com/shop/manage_gift.php?receiveCN=gloria1127@sohu","blank","CR")' style="cursor: pointer;">送礼物</a>]</div>
+					<div class="right">[<a href="new_reply.php?boardid=5&zoneid=1577&threadid=9171&pageid=1&floor=18"><span>回复</span></a>]<font color="red"></font>   18楼</div>
+				</div>
+				<div class="blank3"></div>
+				<div class="line01"></div>
+				<div class="blank8"></div>
+				<div class="txtCont">
+					<p style="">哇哇哇～～～<br><br>口水滴一地了……<br /><br /><br /><br /><br /></p>
+									</div>
+				<div class="contLine">
+					<h3><span>天使CROSS妖精的签名档</span></h3>
+					<p><img src="http://image1.club.sohu.com/pic/8d/b6/00cf69f374252d041745d2d1a61db68d.gif" border="0"></img></p>
+					<h5><span>天使CROSS妖精 于2008-02-04 17:17:15 发布</span></h5>
+				</div>
+			</div>
+			<div class="blank8"></div>
+			<div style="margin:0 auto;height:1px; font-size:1px;clear:both; background:#dee9f5 ; overflow:hidden;"></div>
+						<div class="txtPic">
+				<div class="pic"><img width=48 height=67 border=0 src=http://soshowlib.sohu.com/getavatar_bin.php?passport=yanshuimeili@sohu.com&groupid=sohu&clubid=sohu&keycode=c224e964&&ext=jpg&levelid=3 /></div>
+				<div class="txt">
+					性别：<span class="color01"><a>女</a></span><br />
+					来自：<span class="color01"><a>天津</a></span><br />
+					身份：<span class="color01"><a>非成员</a></span><br />
+					称号：<span class="color01"><a>无</a></span><br />
+					贡献值：<span class="color01"><a>无</a></span><br />
+					排名：<span class="color01"><a>无</a></span><br />
+				</div>
+			</div>
+			<div class="contR">
+				<div class="contRA">
+					<div class="left"><span><a href="pf-yanshuimeili@sohu.html" target=_blank>淡定的美丽</a></span><a href="javascript:void(0)" name="onlineIcon" rel="yanshuimeili@sohu.com;淡定的美丽;"></a> [ID：<a href="pf-yanshuimeili@sohu.html" target=_blank>yanshuimeili@sohu</a>] [<a onclick='sohuim.webmsg.SendMsg("yanshuimeili@sohu","_淡定的美丽_","sohu/bbs",false,event,function(){});' style="cursor: pointer;">传小纸条</a>] [<a onclick='club_dialog.showLogin("http://club.sohu.com/shop/manage_gift.php?receiveCN=yanshuimeili@sohu","blank","CR")' style="cursor: pointer;">送礼物</a>]</div>
+					<div class="right">[<a href="new_reply.php?boardid=5&zoneid=1577&threadid=9171&pageid=1&floor=19"><span>回复</span></a>]<font color="red"></font>   19楼</div>
+				</div>
+				<div class="blank3"></div>
+				<div class="line01"></div>
+				<div class="blank8"></div>
+				<div class="txtCont">
+					<p style="">正好赶上我出门，参加不了了，遗憾~~~~~<br /><br /><br /><br /><br /></p>
+									</div>
+				<div class="contLine">
+					<h3><span>淡定的美丽的签名档</span></h3>
+					<p><img src="http://119.img.pp.sohu.com/images/2008/1/28/17/3/1185cce0cb5.jpg" border="0"></img></p>
+					<h5><span>淡定的美丽 于2008-02-04 17:52:52 发布</span></h5>
+				</div>
+			</div>
+			<div class="blank8"></div>
+			<div style="margin:0 auto;height:1px; font-size:1px;clear:both; background:#dee9f5 ; overflow:hidden;"></div>
+						<div class="txtPic">
+				<div class="pic"><img width=48 height=67 border=0 src=http://soshowlib.sohu.com/getavatar_bin.php?passport=xeroxgaojun@sohu.com&groupid=sohu&clubid=sohu&keycode=4354eac7&&ext=jpg&levelid=3 /></div>
+				<div class="txt">
+					性别：<span class="color01"><a>男</a></span><br />
+					来自：<span class="color01"><a>可能来自火星</a></span><br />
+					身份：<span class="color01"><a>非成员</a></span><br />
+					称号：<span class="color01"><a>无</a></span><br />
+					贡献值：<span class="color01"><a>无</a></span><br />
+					排名：<span class="color01"><a>无</a></span><br />
+				</div>
+			</div>
+			<div class="contR">
+				<div class="contRA">
+					<div class="left"><span><a href="pf-xeroxgaojun@sohu.html" target=_blank>单恋一枝花</a></span><a href="javascript:void(0)" name="onlineIcon" rel="xeroxgaojun@sohu.com;单恋一枝花;"></a> [ID：<a href="pf-xeroxgaojun@sohu.html" target=_blank>xeroxgaojun@sohu</a>] [<a onclick='sohuim.webmsg.SendMsg("xeroxgaojun@sohu","_单恋一枝花_","sohu/bbs",false,event,function(){});' style="cursor: pointer;">传小纸条</a>] [<a onclick='club_dialog.showLogin("http://club.sohu.com/shop/manage_gift.php?receiveCN=xeroxgaojun@sohu","blank","CR")' style="cursor: pointer;">送礼物</a>]</div>
+					<div class="right">[<a href="new_reply.php?boardid=5&zoneid=1577&threadid=9171&pageid=1&floor=20"><span>回复</span></a>]<font color="red"></font>   20楼</div>
+				</div>
+				<div class="blank3"></div>
+				<div class="line01"></div>
+				<div class="blank8"></div>
+				<div class="txtCont">
+					<p style="">本命年哈哈<br /><br /><br /><br /><br /></p>
+									</div>
+				<div class="contLine">
+					<h3><span>单恋一枝花的签名档</span></h3>
+					<p><img src="http://images.yide.com/commerce/ProductPic/N2006526172939.jpg" border="0"></img></p>
+					<h5><span>单恋一枝花 于2008-02-04 17:57:15 发布</span></h5>
+				</div>
+			</div>
+			<div class="blank8"></div>
+			<div style="margin:0 auto;height:1px; font-size:1px;clear:both; background:#dee9f5 ; overflow:hidden;"></div>
+						<div class="txtPic">
+				<div class="pic"><img width=48 height=67 border=0 src=http://soshowlib.sohu.com/getavatar_bin.php?passport=xb33h@sohu.com&groupid=sohu&clubid=sohu&keycode=1503c0fa&&ext=jpg&levelid=3 /></div>
+				<div class="txt">
+					性别：<span class="color01"><a>男</a></span><br />
+					来自：<span class="color01"><a>陕西</a></span><br />
+					身份：<span class="color01"><a>成员</a></span><br />
+					称号：<span class="color01"><a>无名小卒</a></span><br />
+					贡献值：<span class="color01"><a>无</a></span><br />
+					排名：<span class="color01"><a>无</a></span><br />
+				</div>
+			</div>
+			<div class="contR">
+				<div class="contRA">
+					<div class="left"><span><a href="pf-xb33h@sohu.html" target=_blank>不想写</a></span><a href="javascript:void(0)" name="onlineIcon" rel="xb33h@sohu.com;不想写;"></a> [ID：<a href="pf-xb33h@sohu.html" target=_blank>xb33h@sohu</a>] [<a onclick='sohuim.webmsg.SendMsg("xb33h@sohu","_不想写_","sohu/bbs",false,event,function(){});' style="cursor: pointer;">传小纸条</a>] [<a onclick='club_dialog.showLogin("http://club.sohu.com/shop/manage_gift.php?receiveCN=xb33h@sohu","blank","CR")' style="cursor: pointer;">送礼物</a>]</div>
+					<div class="right">[<a href="new_reply.php?boardid=5&zoneid=1577&threadid=9171&pageid=1&floor=21"><span>回复</span></a>]<font color="red"></font>   21楼</div>
+				</div>
+				<div class="blank3"></div>
+				<div class="line01"></div>
+				<div class="blank8"></div>
+				<div class="txtCont">
+					<p style="">我对纸鹤比较感兴趣，呵呵~~~<br /><br /><br /><br /><br /></p>
+									</div>
+				<div class="contLine">
+					<h3><span>不想写的签名档</span></h3>
+					<p></p>
+					<h5><span>不想写 于2008-02-04 18:09:04 发布</span></h5>
+				</div>
+			</div>
+			<div class="blank8"></div>
+			<div style="margin:0 auto;height:1px; font-size:1px;clear:both; background:#dee9f5 ; overflow:hidden;"></div>
+						<div class="txtPic">
+				<div class="pic"><img width=48 height=67 border=0 src=http://soshowlib.sohu.com/getavatar_bin.php?passport=www_shjh_net@chinaren.com&groupid=sohu&clubid=sohu&keycode=a0f0bb61&&ext=jpg&levelid=3 /></div>
+				<div class="txt">
+					性别：<span class="color01"><a>男</a></span><br />
+					来自：<span class="color01"><a>其他</a></span><br />
+					身份：<span class="color01"><a>非成员</a></span><br />
+					称号：<span class="color01"><a>无</a></span><br />
+					贡献值：<span class="color01"><a>无</a></span><br />
+					排名：<span class="color01"><a>无</a></span><br />
+				</div>
+			</div>
+			<div class="contR">
+				<div class="contRA">
+					<div class="left"><span><a href="pf-www_shjh_net@chinaren.html" target=_blank>心秋</a></span><a href="javascript:void(0)" name="onlineIcon" rel="www_shjh_net@chinaren.com;心秋;"></a> [ID：<a href="pf-www_shjh_net@chinaren.html" target=_blank>www_shjh_net@chinaren</a>] [<a onclick='sohuim.webmsg.SendMsg("www_shjh_net@chinaren","_心秋_","sohu/bbs",false,event,function(){});' style="cursor: pointer;">传小纸条</a>] [<a onclick='club_dialog.showLogin("http://club.sohu.com/shop/manage_gift.php?receiveCN=www_shjh_net@chinaren","blank","CR")' style="cursor: pointer;">送礼物</a>]</div>
+					<div class="right">[<a href="new_reply.php?boardid=5&zoneid=1577&threadid=9171&pageid=1&floor=22"><span>回复</span></a>]<font color="red"></font>   22楼</div>
+				</div>
+				<div class="blank3"></div>
+				<div class="line01"></div>
+				<div class="blank8"></div>
+				<div class="txtCont">
+					<p style="">看看再说<img src="http://src2.club.sohu.com/newbbs/images/emot/11.gif" /><br /><br /><br /><br /><br /></p>
+									</div>
+				<div class="contLine">
+					<h3><span>心秋的签名档</span></h3>
+					<p><img src="http://116.img.pp.sohu.com/images/2008/1/29/17/14/117dc995c30.jpg" border="0"></img></p>
+					<h5><span>心秋 于2008-02-04 18:48:42 发布</span></h5>
+				</div>
+			</div>
+			<div class="blank8"></div>
+			<div style="margin:0 auto;height:1px; font-size:1px;clear:both; background:#dee9f5 ; overflow:hidden;"></div>
+						<div class="txtPic">
+				<div class="pic"><img width=48 height=67 border=0 src=http://soshowlib.sohu.com/getavatar_bin.php?passport=nuliyiqifendouba@sohu.com&groupid=sohu&clubid=sohu&keycode=9c5a2913&&ext=jpg&levelid=3 /></div>
+				<div class="txt">
+					性别：<span class="color01"><a>男</a></span><br />
+					来自：<span class="color01"><a>可能来自火星</a></span><br />
+					身份：<span class="color01"><a>非成员</a></span><br />
+					称号：<span class="color01"><a>无</a></span><br />
+					贡献值：<span class="color01"><a>无</a></span><br />
+					排名：<span class="color01"><a>无</a></span><br />
+				</div>
+			</div>
+			<div class="contR">
+				<div class="contRA">
+					<div class="left"><span><a href="pf-nuliyiqifendouba@sohu.html" target=_blank>一起努力奋斗吧</a></span><a href="javascript:void(0)" name="onlineIcon" rel="nuliyiqifendouba@sohu.com;一起努力奋斗吧;"></a> [ID：<a href="pf-nuliyiqifendouba@sohu.html" target=_blank>nuliyiqifendouba@sohu</a>] [<a onclick='sohuim.webmsg.SendMsg("nuliyiqifendouba@sohu","_一起努力奋斗吧_","sohu/bbs",false,event,function(){});' style="cursor: pointer;">传小纸条</a>] [<a onclick='club_dialog.showLogin("http://club.sohu.com/shop/manage_gift.php?receiveCN=nuliyiqifendouba@sohu","blank","CR")' style="cursor: pointer;">送礼物</a>]</div>
+					<div class="right">[<a href="new_reply.php?boardid=5&zoneid=1577&threadid=9171&pageid=1&floor=24"><span>回复</span></a>]<font color="red"></font>   24楼</div>
+				</div>
+				<div class="blank3"></div>
+				<div class="line01"></div>
+				<div class="blank8"></div>
+				<div class="txtCont">
+					<p style="">关注<br /><br /><br /><br /><br /></p>
+									</div>
+				<div class="contLine">
+					<h3><span>一起努力奋斗吧的签名档</span></h3>
+					<p></p>
+					<h5><span>一起努力奋斗吧 于2008-02-04 19:18:24 发布</span></h5>
+				</div>
+			</div>
+			<div class="blank8"></div>
+			<div style="margin:0 auto;height:1px; font-size:1px;clear:both; background:#dee9f5 ; overflow:hidden;"></div>
+					</div>
+		
+		<div class="contJump">
+			<div class="jumpF">
+				<div class="pageA">共<font color=red>109</font>页&nbsp;&nbsp;</div><div style='float:left;'><ul><li class="libg01">1</li><li><a href="javascript:void(0);" onclick="return pageGo(2)">2</a></li><li><a href="javascript:void(0);" onclick="return pageGo(3)">3</a></li><li><a href="javascript:void(0);" onclick="return pageGo(4)">4</a></li><li><a href="javascript:void(0);" onclick="return pageGo(5)">5</a></li><li><a href="javascript:void(0);" onclick="return pageGo(6)">6</a></li><li><a href="javascript:void(0);" onclick="return pageGo(7)">7</a></li><li><a href="javascript:void(0);" onclick="return pageGo(8)">8</a></li><li><a href="javascript:void(0);" onclick="return pageGo(9)">9</a></li></ul></div><div class='pageB'><span><a href="javascript:void(0);" onclick="return pageGo(2)">[下页]</a><a href="javascript:void(0);" onclick="return pageGo(109)">[尾页]</a>&nbsp;&nbsp;转到</span><input type="text" id="page_input_num2"  class="input01" onkeydown="event.keyCode==13?pageGo(this.value,109) : 0"/><span>页</span><a href="javascript:void(0);" onclick="return pageGo($('page_input_num2').value,109);"><img src="images/src/pic20.gif" width="27" height="20" alt="转到" title="转到" /></a></div>
+			</div>
+		</div>
+    </div>
+</div>
+</div></div>
+
+<div class="contantA Area">
+	<div class="column695">
+		<div class="cont695C">
+			<div class="blank8"></div>
+			<h2>快速回复</h2>
+			<form name="new_reply_submit" id="new_reply_submit" method="POST" action="new_reply_submit.php" onsubmit="javascript:return false;">
+			<div class="formFocus">
+			<div><textarea name="reply_content" id="reply_content" wrap="VIRTUAL" class="area01"></textarea>
+			<input type=hidden name=threadid value=9171>
+			<input type=hidden name=zoneid value=1577>
+			<input type=hidden name=boardid value=5>
+			<input type=hidden name=actid value=regular></div>
+			<p><span id="left_words">*您还可以输入4000字[完成后可按 Ctrl+Enter 发布]</span></p>			
+			</div>
+			<div class="tuBiao">
+				<ul id="smile_area">
+				<script type="text/javascript">
+					for(var i=1;i<=30;i++){
+						document.write('<li class="emotli"><a style="cursor:pointer"><img src="http://src2.club.sohu.com/newbbs/images/emot/'+i+'.gif" width="19" height="19" class="emot" id="emot'+i+'"/></a></li>');
+					}
+				</script>
+				</ul>
+			</div>
+			<div class="clear"></div>
+			<div class="btn"><img accesskey="s" id="submitbutton" style="cursor:pointer" src="http://src2.club.sohu.com/newbbs/20080128/zcss/images/pic102.gif" width="81" height="24" alt="" />&nbsp;&nbsp;[<a href="new_reply.php?boardid=5&zoneid=1577&threadid=9171">高级回复</a>]</div>
+			</form>
+			<div class="blank12"></div>
+		</div>
+		
+	</div>
+</div>
+<div class="blank10 Area"></div>
+
+<script type="text/javascript">
+<!--
+function sendRequest(init)
+{   
+	var pageid = window.location.hash.substr(1);
+	if(pageid == '') pageid = 1 ;
+	if(init==1 && pageid==1) {
+	    $("hidden_for_page_check").style.display='';
+	    return;
+	}
+		var p='zoneid=1577&threadid=9171&pageid='+pageid;
+		new Ajax.Request(
+			'show_thread_xml.php',
+			{
+				method:'get',
+				parameters:p,
+				onComplete:function(rn){
+				    var obj = rn.responseXML;
+	            	var content = obj.getElementsByTagName('content')[0].firstChild.data;
+	            	$("content_ctl").innerHTML = content;
+	            	if(pageid==1)$("hidden_for_page_check").style.display='block';
+	            	top.document.documentElement.scrollTop = 0 ;//将屏幕滚至最上方
+	            	webim.api.cm_draw(false);//使小纸条生效
+				}
+			}
+		);
+}
+
+function pageGo(num,maxno)
+{
+	if (typeof(num)!='number')
+	{
+        if(num == '') return ;
+        if (isNaN(num))
+        {
+        	num = "";
+        	return;
+        }
+        num = parseInt(num);
+	}
+	
+    if (num<1)
+    {
+        club_notice_float.error("出错了", "请输入大于 0 的整数");
+        return;
+    }
+    
+    if(maxno && (num > maxno))
+    {
+        club_notice_float.error("出错了", '共有'+maxno+'页，您所输入的页码超出查询范围，请重新输入');
+        return ;
+    }
+    window.location.hash = "#"+num;
+    pv_click();
+    sendRequest(0);
+    return false;
+}
+//-->
+__useraction.vote(5,9171,'show')
+</script>
+<script language = "javascript">sendRequest(1);</script>
+<script language="javascript">
+webim_config ={
+    product:"sohu/bbs",
+    cm_menu_width:60,
+    cm_menu:[],
+    cm_GenMenu:function(candleman, menu)
+    {
+        for (var i=menu.length-1;i>=0;i--){
+            if (menu[i].n=="传纸条"){
+                menu[i].n="传小纸条";
+                menu[i].t="给$NICK($USER)传小纸条";
+            }
+            if (menu[i].n=="加为好友"){
+                menu[i].n="加为小纸条好友";
+                menu[i].t="加$NICK($USER)为小纸条好友";
+            }
+        }
+    }
+}
+
+var cal_word = function(ele, ele1, max_word)
+{
+    var text_length = ele.value.length;
+    var notice = ele1;
+    var left_words = max_word - text_length;
+    if(left_words < 0) {
+    	ele.value = ele.value.substring(0,max_word-1);
+    }
+    notice.update('*您还可以输入'+left_words+'字');
+};
+
+$('reply_content').observe('keyup' || 'keydown', function(event){
+    cal_word($('reply_content'), $('left_words'), 4000);
+    if( (event.keyCode == 13) && (event.ctrlKey) ){
+       check_submit_form();
+    }
+});
+
+var check_submit_form = function(){
+    club_dialog.showLogin(function(){
+        club_notice_float.wait("请稍候", "正在提交，请稍候");
+        if(document.new_reply_submit.reply_content.value.length <= 0)
+        {
+            club_notice_float.error("出错了", '请输入内容后再提交', '', '1');
+            return false;
+        }
+        $('new_reply_submit').submit();
+    });
+};
+$('submitbutton').observe('click', check_submit_form);
+
+
+var my_club_editor = new club_editor($('reply_content'));
+var smile_button = $('smile_area').getElementsByClassName('emotli');
+for(var i=0;i<Number(smile_button.length);i++)
+{
+    var emot = smile_button[i].getElementsByClassName('emot');
+    Event.observe(smile_button[i],'click', 
+        my_club_editor.insert_smile.bind(my_club_editor, '[emot='+emot[0].id.substr(4)+']')
+        //my_club_editor.insert_smile.bind(my_club_editor, '<img src='+emot[0].src+' border="0" />')
+    );
+}
+
+</script>
+<script type="text/javascript">
+SL.push('pp18030');
+SL.push('pp18030_ui');
+SL.push('club_passport_roam_new');
+SL.push('club_dialog');
+SL.push('club_thread_admin');
+SL.push('club_post_admin');
+</script>
+<script type="text/javascript">
+club_global.LoadJs(SL);
+</script>
+
+<script language="javascript" src="http://images.sohu.com/cs/sohuim/xiaozt/version/2.0/js/loader.sohu.js"></script>
+<!-- 标准底 -->
+<!--标准尾-->
+<!--start 公司NEWVIEW统计代码-->
+<div id="foot" class="area"> 
+<div  class="area">	
+<table width="99%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td align="center">
+<a href="#" onClick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.sohu.com');return false;">设置首页</a> -
+<a href="http://pinyin.sogou.com/" target=_blank>搜狗输入法</a> -
+<a href="http://up.sohu.com/" target=_blank>支付中心</a> -
+<a href="http://hr.sohu.com/" target=_blank>搜狐招聘</a> -
+<a href="http://ad.sohu.com/" target=_blank>广告服务</a> -
+<a href="http://sohucallcenter.blog.sohu.com/" target=_blank>客服中心 </a> -
+<a href="http://corp.sohu.com/s2006/contactus/" target=_blank>联系方式 </a> -
+<a href="http://www.sohu.com/about/privacy.html" target=_blank>保护隐私权</a> -
+<a href="http://club.sohu.com/main.php?url=http://club.sohu.com/map/club_map.html" target=_blank>社区论坛地图</a> -
+<a class=eng href="http://corp.sohu.com/" target=_blank>About SOHU</a> -
+<a class=eng href="http://corp.sohu.com/indexcn.shtml" target=_blank>公司介绍</a>
+<br>SOHU CLUB V2.1 Copyright &copy; 2008 Sohu.com Inc. All rights reserved. 搜狐公司 <a href="http://corp.sohu.com/s2007/copyright/" target=_blank>版权所有</a><br>
+</td>
+</tr>
+<tr>
+<td align="center" height="25">
+搜狐社区客服电话：010-58511234 客服邮箱：<a href="mailto:clubadmin@contact.sohu.com" target=_blank>clubadmin@contact.sohu.com</a>
+</td>
+</tr>
+</table>
+<div>
+<!--<div id="foot" class="area">Copyright &copy; 2007 Sohu.com Inc.All rights reserved. 搜狐公司 版权所有</div>-->
+<script type="text/javascript" language=javascript src="http://js.sohu.com/pv_xhtml.js"></script>
+</body>
+</html>
