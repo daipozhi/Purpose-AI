@@ -100,8 +100,8 @@ How does computer process text,video,audio
                   'download' directory is text download by offline browser .
                   run a-step10-f3-msys.bat (list directory)(in Ubuntu run a-step10-f3-ubuntu.bat)
                   run program in  'webfind_b' (step20)(copy to 'work_dir')(get text , erase html mark)
-                                (in this version, we kept 86 text file ,from stringbase000.txt to stringbase085.txt ,
-                                 if you donnt want download by a offline browser , you can start at next step(step30))
+                      (in this version, we kept 86 text file ,from stringbase000.txt to stringbase085.txt ,
+                       if you donnt want download by a offline browser , you can start at next step(step30))
                   run program in  'webfind39' (step30)(copy to 'work_dir', include 'cb.txt' )(erase punctuation)
                   run program in  'webfind4a' (step40)(copy to 'work_dir')(erase empty line , repeated line)
                   run program in  'webfind29e'(step50)(separate to words by repeate )
@@ -114,12 +114,12 @@ How does computer process text,video,audio
 				word courseware please read readme.txt file in directory webfind50 )
                   run program in  'webfind54'(step100)(get all words ,generate 3rd word database )
 
-                  (in here , chinese is coded in GB18030 ,in Windows, you can directly open it , if you are in Ubuntu,
-                   you need convert chinese to utf8 , you can run program in directory 'tools-3',
+                  (in here , chinese is coded in GB18030 ,in Windows, you can directly open it , if you are in 
+                   Ubuntu, you need convert chinese to utf8 , you can run program in directory 'tools-3',
                    ./gb18030-to-utf8.exe myfile.txt ,it will convert chinese to utf8 and copy to myfile.utf8.txt ,
                    if you modified a text file in Ubuntu , and want to commit to the program , you can run
-                   program in directory 'tools-4' , ./utf8-to-gb18030.exe myfile.utf8.txt , it will convert chinese
-                   to GB18030 and copy to myfile.txt .) 
+                   program in directory 'tools-4' , ./utf8-to-gb18030.exe myfile.utf8.txt , it will convert 
+                   chinese to GB18030 and copy to myfile.txt .) 
 
 			(Mar 21th 2014 version added support to repeat times of words, and better algorithm )
 			(DEC 21th 2015 version changed AI Number,updated document,added tools)
