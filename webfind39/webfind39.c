@@ -175,7 +175,7 @@ long sent8(char *fln)
 	fp1=fopen(fln,"r");
 	if (fp1==NULL)
 	{
-		MessageBox(0,"open stringbase.txt fail","message",MB_OK);
+		MessageBox(0,fln,"open file error",MB_OK);
 		return(1);
 	}
 

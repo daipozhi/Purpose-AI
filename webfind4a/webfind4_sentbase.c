@@ -122,7 +122,7 @@ int main(void)
 	long  i,j,k,l;
 	char  s1[300];
 
-	MessageBox(0,"load stringcase000.txt,write to string2base.txt","message",MB_OK);
+	MessageBox(0,"load stringcase000.txt,write to string2base000.txt","message",MB_OK);
 
 	f1_init_ext();
 
@@ -207,7 +207,7 @@ long sent8(char *fln)
 	fp1=fopen(fln,"r");
 	if (fp1==NULL)
 	{
-		MessageBox(0,"open stringcase.txt fail","message",MB_OK);
+		MessageBox(0,fln,"open file error",MB_OK);
 		return(1);
 	}
 

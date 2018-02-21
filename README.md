@@ -81,14 +81,14 @@ How does computer process text,video,audio
 
         you may ask,we have word courseware ,why still need automatic generated
             word base ,in fact both are needed ,what computer can do let computer 
-            do it ,what computer cannot do let human do it ,this is a rule ,
+            do it ,what computer can't do let human do it ,this is a rule ,
             otherwise ,it is incomplete.
 
         after this step accuracy is about 90%
 
         source code:
 
-            Windows XP/Vista/7+MSYS+MINGW  or Ubuntu
+            Windows XP/7+MSYS+MINGW  or Ubuntu
 
             in MSYS ,you need open config.h file(in AI directory) set symbol AI_LINUX to 0 ,(#define AI_LINUX 0)
             in Ubuntu ,you need open config.h file(in AI directory) set symbol AI_LINUX to 1 ,(#define AI_LINUX 1)
@@ -101,7 +101,7 @@ How does computer process text,video,audio
                   run a-step10-f3-msys.bat (list directory)(in Ubuntu run a-step10-f3-ubuntu.bat)
                   run program in  'webfind_b' (step20)(copy to 'work_dir')(get text , erase html mark)
                       (in this version, we kept 86 text file ,from stringbase000.txt to stringbase085.txt ,
-                       if you donnt want download by a offline browser , you can start at next step(step30))
+                       if you don't want download by a offline browser , you can start at next step(step30))
                   run program in  'webfind39' (step30)(copy to 'work_dir', include 'cb.txt' )(erase punctuation)
                   run program in  'webfind4a' (step40)(copy to 'work_dir')(erase empty line , repeated line)
                   run program in  'webfind29e'(step50)(separate to words by repeate )

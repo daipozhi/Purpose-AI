@@ -304,7 +304,7 @@ long word8(char *pstr1)
 		fp1=fopen(s2,"r");
 		if (fp1==NULL)
 		{
-			MessageBox(0,s2,"error message : open file error ",MB_OK);
+			MessageBox(0,s2,"message open file error ",MB_OK);
 			return(1);
 		}
 
