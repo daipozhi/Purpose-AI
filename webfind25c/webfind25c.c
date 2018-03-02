@@ -179,15 +179,15 @@ int main(void)
 {
 	MessageBox(0,"load words9srt000.txt, write to words02.txt words99.txt","message",MB_OK);
 
-    	/*tree2_1.*/t1_init_tree2();
+    	t1_init_tree2();
   
     	word8("");
 
-    	/*tree2_1.*/t1_after_list();
+    	t1_after_list();
   
-    	/*tree2_1.*/t1_save_list("words99.txt");
+    	t1_save_list("words99.txt");
 
-    	/*tree2_1.*/t1_save_list("words02.txt");
+    	t1_save_list("words02.txt");
 
 	MessageBox(0,"words ok","message",MB_OK);
 
@@ -214,26 +214,13 @@ long word8(char *pstr1)
 	c2='0';
 	c3='0';
 
+	s1[11]=c1;
+	s1[10]=c2;
+	s1[ 9]=c3;
 
 	while(1)
 	{
-		s1[11]=c1;
-		s1[10]=c2;
-		s1[ 9]=c3;
 
-		c1++;
-		if (c1>'9')
-		{
-			c1='0';
-			c2++;
-			if (c2>'9')
-			{
-				c2='0';
-				c3++;
-			}
-		}
-
-		//strcpy(s2,pstr1);
 		strcpy(s2,s1);
 
 		fp1=fopen(s2,"r");
@@ -243,7 +230,7 @@ long word8(char *pstr1)
 			return(1);
 		}
 
-		/*tree2b_1.*/t2_init_tree2();
+		t2_init_tree2();
 
 		n2=0;
 
@@ -295,21 +282,21 @@ long word8(char *pstr1)
 				else
 				{
 
-					/*tree2b_1.*/t2_insert_node(m201_str2);
-					/*tree2b_1.*/t2_node_val2[/*tree2b_1.*/t2_find_pp2]=/*tree2b_1.*/t2_node_val2[/*tree2b_1.*/t2_find_pp2]+1;
+					t2_insert_node(m201_str2);
+					t2_node_val2[t2_find_pp2]=t2_node_val2[t2_find_pp2]+1;
 
-					if (/*tree2b_1.*/t2_node_val3_pp[/*tree2b_1.*/t2_find_pp2]<5)  // for words browser
+					if (t2_node_val3_pp[t2_find_pp2]<5)  // for words browser
 					{
-						o=/*tree2b_1.*/t2_node_val3_pp[/*tree2b_1.*/t2_find_pp2];
+						o=t2_node_val3_pp[t2_find_pp2];
 
 						n1=(s1[9]-'0')*100+(s1[10]-'0')*10+(s1[11]-'0');
 
-						/*tree2b_1.*/t2_node_val3[/*tree2b_1.*/t2_find_pp2][o][0]=n1;  //number of file
-						/*tree2b_1.*/t2_node_val3[/*tree2b_1.*/t2_find_pp2][o][1]=n2;  //line number
-						/*tree2b_1.*/t2_node_val3[/*tree2b_1.*/t2_find_pp2][o][2]=n3;  // same line words number
+						t2_node_val3[t2_find_pp2][o][0]=n1;  //number of file
+						t2_node_val3[t2_find_pp2][o][1]=n2;  //line number
+						t2_node_val3[t2_find_pp2][o][2]=n3;  // same line words number
 
 						o++;
-						/*tree2b_1.*/t2_node_val3_pp[/*tree2b_1.*/t2_find_pp2]=o;
+						t2_node_val3_pp[t2_find_pp2]=o;
 					}
 
 					m=0;
@@ -327,9 +314,27 @@ long word8(char *pstr1)
 
 		fclose(fp1);
     	
-		/*tree2b_1.*/t2_after_list();
+		t2_after_list();
   
-    		/*tree2b_1.*/t2_save_list("");
+    		t2_save_list("");
+
+
+		c1++;
+		if (c1>'9')
+		{
+			c1='0';
+			c2++;
+			if (c2>'9')
+			{
+				c2='0';
+				c3++;
+				if (c3>'9') return(1);
+			}
+		}
+
+		s1[11]=c1;
+		s1[10]=c2;
+		s1[ 9]=c3;
 
 
 	}

@@ -83,7 +83,7 @@ int main(void)
 
 	load5();
 
-    load11();
+	load11();
 
 	mproc();
 
@@ -370,13 +370,13 @@ int mproc(void)
 	char  s1[SMG_LEN];
 	char  s2[SMG_LEN];
 	char  s3[SMG_LEN];
-	int   i,j,k,l,m,n,o,p,q,r,t;
+	int   i,j,k,l,m,n,o,p,q,r,t,u;
 	int   err,err2,err2_n;
 	FILE  *fp1,*fp2;
 	char  c4,c5,c6,c7;
 	int   sn1,sn2,sn3,sn4,sn5,sn6;
-    int   i1,i2,i3,i4;
-    int   ns[6];
+	int   i1,i2,i3,i4;
+	int   ns[6];
 
 	err=0;
 	f1_init_ext();
@@ -409,242 +409,243 @@ int mproc(void)
 				string_trim(m101_l1);
 
 				if ((m101_l1[0]>=0)&&(m101_l1[0]<=' '))
-                {
-                    err2_n++;
-                    continue;
-                }
+                		{
+		                    err2_n++;
+                		    continue;
+                		}
 
 
 
 
-    	        l=0;
-	    		m=0;
-    			strcpy(m101_l2,m101_l1);
+	    	        	l=0;
+		    		m=0;
+	    			strcpy(m101_l2,m101_l1);
+	
+		    		while(l<(int)strlen(m101_l2))
+		    		{
+		    			c4=m101_l2[l+0];
+		    			c5=m101_l2[l+1];
 
-	    		while(l<(int)strlen(m101_l2))
-	    		{
-	    			c4=m101_l2[l+0];
-	    			c5=m101_l2[l+1];
+		    			if (c4<0)
+		    			{
+		    				l=l+2;
+		    			}
+		    			else
+		    			{
+	
+		    				if ((c4=='=')||(c4=='-'))
+		    				{
+	                		            m=1;
+	                		            l=l+4;
+	                		        }
+	                		        else
+	                		        {
+             				               	if ((c4==';')||(c4==','))
+                        				{
+				                                break;
+				                        }
+				                        else
+				                        {
+				                                l=l+2;
+				                        }
+			                        }
+			                }
+		                }
 
-	    			if (c4<0)
-	    			{
-	    				l=l+2;
-	    			}
-	    			else
-	    			{
-
-	    				if ((c4=='=')||(c4=='-'))
-	    				{
-                            m=1;
-                            l=l+4;
-                        }
-                        else
-                        {
-                            if ((c4==';')||(c4==','))
-                            {
-                                break;
-                            }
-                            else
-                            {
-                                l=l+2;
-                            }
-                        }
-                    }
-                }
-
-                if (m!=1) continue; // this line don't have grammer
+		                if (m!=1) continue; // this line don't have grammer
 
       
-    	        l=0;
-    			m=0;
+		    	        l=0;
+    				m=0;
 
-    			strcpy(m101_l2,m101_l1);
-    			m101_l3[0]=0;
-    			err2=0;
+	    			strcpy(m101_l2,m101_l1);
+    				m101_l3[0]=0;
+    				err2=0;
 
-                i1=(-1);
-                i2=0;
-                i3=0;
-                i4=0;
+		                i1=(-1);
+        		        i2=0;
+        		        i3=0;
+        		        i4=0;
     
-    			while(l<(int)strlen(m101_l2))
-    			{
-	    			c4=m101_l2[l+0];
-	    			c5=m101_l2[l+1];
-
-	    			if (c4<0)
+	    			while(l<(int)strlen(m101_l2))
 	    			{
-	    				m101_l3[m+0]=c4;
-	    				m101_l3[m+1]=c5;
-	    				m101_l3[m+2]=0;
+		    			c4=m101_l2[l+0];
+		    			c5=m101_l2[l+1];
 
-	    				l=l+2;
-	    				m=m+2;
-	    			}
-	    			else
-	    			{
+		    			if (c4<0)
+		    			{
+		    				m101_l3[m+0]=c4;
+		    				m101_l3[m+1]=c5;
+		    				m101_l3[m+2]=0;
 
-	    				if ((c4=='=')||(c4=='-'))
-	    				{
-            				c6=m101_l2[l+2];
-            				c7=m101_l2[l+3];
+		    				l=l+2;
+		    				m=m+2;
+		    			}
+		    			else
+		    			{
 
-                            i4=(c6-'0')*10+(c7-'0');
+		    				if ((c4=='=')||(c4=='-'))
+		    				{
+		            				c6=m101_l2[l+2];
+		            				c7=m101_l2[l+3];
 
-                            if ((i4<0)||(i4>=100))
-                            {
-                                err2=1;
-                                break;
-                            }
+				                        i4=(c6-'0')*10+(c7-'0');
 
-                            if (i4!=i1)
-                            {
-                                if (i4!=i1+1)
-                                {
-                                    err2=1;
-                                    break;
-                                }
-                                else
-                                {
-                                    i1=i4;
-                                    i2=0;
-                                    if (c4=='=') i3=1;
-                                    else i3=0;
+				                        if ((i4<0)||(i4>=100))
+				                        {
+				                                err2=1;
+                                				break;
+                            				}
 
-                                    if (strlen(m101_l3)>50)
-                                    {
-                                        err2=1;
-                                        break;
-                                    }
+				                        if (i4!=i1)
+				                        {
+				                                if (i4!=i1+1)
+                                				{
+                                					err2=1;
+                                					break;
+                                				}
+                                				else
+                                				{
+                                					i1=i4;
+                                					i2=0;
+                                					if (c4=='=') i3=1;
+                                					else i3=0;
 
-                                    strcpy(load_buff_str[i1][i2],m101_l3);
+                                					if (strlen(m101_l3)>50)
+                                					{
+                                						err2=1;
+                                						break;
+                                					}
 
-                                    load_buff_mrk[i1]=i3;
-                                    load_buff_len[i1]=i2+1;
+					                                strcpy(load_buff_str[i1][i2],m101_l3);
 
-                                    if (strncmp(m101_l3,"$n",2)==0) find_m5=(-3);
-                                    else
-                                    {
-                                        if (strncmp(m101_l3,"$*",2)==0) find_m5=(-2);
-                                        else
-                                        {
-                    						k=search_wd5(m101_l3);
-        	            					if (k!=1)
-        	            					{
-        	            						err2=1;
-        	            						break;
-        	            					}
-                                        }
-                                    }
+                                    					load_buff_mrk[i1]=i3;
+                                    					load_buff_len[i1]=i2+1;
 
-                                    load_buff_nns[i1][i2]=find_m5;
-                                }
-                            }
-                            else
-                            {
-                                i2++;
-                                if (c4=='=') i3=1;
-                                else i3=0;
+                                    					if (strncmp(m101_l3,"$n",2)==0) find_m5=(-3);
+                                    					else
+                                    					{
+                                        					if (strncmp(m101_l3,"$*",2)==0) find_m5=(-2);
+                                        					else
+                                        					{
+                    									k=search_wd5(m101_l3);
+        	            								if (k!=1)
+        	            								{
+        	            									err2=1;
+        	            									break;
+        	            								}
+                                        					}
+                                    					}
 
-                                if (i3!=load_buff_mrk[i1])
-                                {
-                                    err2=1;
-                                    break;
-                                }
+                                    					load_buff_nns[i1][i2]=find_m5;
+                                				}
+                            				}
+				                        else
+                            				{
+				                                i2++;
+                                				if (c4=='=') i3=1;
+                                				else i3=0;
 
-                                if (strlen(m101_l3)>50)
-                                {
-                                    err2=1;
-                                    break;
-                                }
+				                                if (i3!=load_buff_mrk[i1])
+                                				{
+				                                    err2=1;
+                                				    break;
+                                				}
 
-                                strcpy(load_buff_str[i1][i2],m101_l3);
+				                                if (strlen(m101_l3)>50)
+                                				{
+                                				    err2=1;
+                                				    break;
+                                				}
 
-                                load_buff_len[i1]=i2+1;
+				                                strcpy(load_buff_str[i1][i2],m101_l3);
 
-                                if (strncmp(m101_l3,"$n",2)==0) find_m5=(-3);
-                                else
-                                {
-                                    if (strncmp(m101_l3,"$*",2)==0) find_m5=(-2);
-                                    else
-                                    {
-                    			    	k=search_wd5(m101_l3);
-        	            				if (k!=1)
-        	            				{
-        	            					err2=1;
-        	            					break;
-        	            				}
-                                    }
-                                }
+				                                load_buff_len[i1]=i2+1;
+
+				                                if (strncmp(m101_l3,"$n",2)==0) find_m5=(-3);
+                                				else
+                                				{
+                                				    if (strncmp(m101_l3,"$*",2)==0) find_m5=(-2);
+                                				    else
+                                				    {
+			                    			    	k=search_wd5(m101_l3);
+        	        		    				if (k!=1)
+        	        		    				{
+        	        		    					err2=1;
+        	        		    					break;
+        	        		    				}
+				                                    }
+				                                }
     
-                                load_buff_nns[i1][i2]=find_m5;
-                            }
+				                                load_buff_nns[i1][i2]=find_m5;
+				                        }
 
-	    					l=l+4;
-	    				}
-	    				else
-	    				{
-                            if ((c4==';')||(c4==','))
-                            {
-                                l=l+2;
-                                m=0;
-                                m101_l3[0]=0;
-                            }
-                            else
-                            {
-            					m101_l3[m+0]=c4;
-	    	        			m101_l3[m+1]=c5;
-	    	        			m101_l3[m+2]=0;
+		    					l=l+4;
+		    				}
+		    				else
+		    				{
+        			                    if ((c4==';')||(c4==','))
+        			                    {
+        			                        l=l+2;
+        			                        m=0;
+        			                        m101_l3[0]=0;
+        			                    }
+        			                    else
+        			                    {
+        	    					m101_l3[m+0]=c4;
+	    		        			m101_l3[m+1]=c5;
+	    		        			m101_l3[m+2]=0;
 
-	    	        			l=l+2;
-	    	        			m=m+2;
-                            }
-	    				}
+	    		        			l=l+2;
+	    		        			m=m+2;
+                			            }
+	    					}
 	    
+	    				}
 	    			}
-	    		}
 
-	    		if (err2!=0)
-	    		{
-	    			err2_n++;
-	    			continue;	// error or not found in word base (words04.txt)
-	    		}
+		    		if (err2!=0)
+		    		{
+		    			err2_n++;
+		    			continue;	// error or not found in word base (words04.txt)
+		    		}
 
-                for (l=0;l<=i1;l++)
-                {
-                    if (load_buff_len[l]<2) continue;
+        		        for (l=0;l<=i1;l++)
+        		        {
+        		            if (load_buff_len[l]<2) continue;
     
-                    if (load_buff_mrk[l]==1)
-                    {
-                        for (m=0;m<6;m++)
-                        {
-                            if (m+1>load_buff_len[l]) ns[m]=(-1);
-                            else ns[m]=load_buff_nns[l][m];
-                        }
+        		            if (load_buff_mrk[l]==1)
+        		            {
+        		                for (m=0;m<6;m++)
+        		                {
+        		                    if (m+1>load_buff_len[l]) ns[m]=(-1);
+        		                    else ns[m]=load_buff_nns[l][m];
+        		                }
 
-                        n=t1_search_node(ns[0],ns[1],ns[2],ns[3],ns[4],ns[5]);
+        		                n=t1_search_node(ns[0],ns[1],ns[2],ns[3],ns[4],ns[5]);
 
-                        if (n==0) t1_node_val2[t1_find_pp]++;
-                    }
-                    else
-                    {
-                        for (m=0;m<5;m++)
-                        {
-                            if (m+1>load_buff_len[l]) ns[m]=(-1);
-                            else ns[m]=load_buff_nns[l][m];
-                        }
+        		                if (n==0) t1_node_val2[t1_find_pp]++;
+        		            }
+        		            else
+        		            {
+        		                for (m=0;m<5;m++)
+        		                {
+        		                    if (m+1>load_buff_len[l]) ns[m]=(-1);
+        		                    else ns[m]=load_buff_nns[l][m];
+        		                }
 
-                        t2_insert_node(ns[0],ns[1],ns[2],ns[3],ns[4]);
+        		                t2_insert_node(ns[0],ns[1],ns[2],ns[3],ns[4]);
 
-                        t2_node_val2[t2_find_pp2]++;
-                    }
-                }
-            }
+        		                t2_node_val2[t2_find_pp2]++;
+        		            }
+        		        }
+        		}
 
-            fclose(fp1);
+        		fclose(fp1);
 
-			f1_next_ext();
-        }
+			u=f1_next_ext();
+			if (u==1) break;
+        	}
 
 		// if repeat times >= 3 ,load to tree3
 		for (i=0;i<t2_buff_pp;i++)

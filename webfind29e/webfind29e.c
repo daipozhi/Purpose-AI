@@ -191,47 +191,11 @@ int mproc(char *strpath)
 		i=load5a(strpath);
 		if (i==1) break;
 
-
-		f1_get_fln2(s1);
-
-		strcpy(s2,s1);
-
-		m_fp1=fopen(s2,"w");
-		if (m_fp1==NULL)
-		{
-			MessageBox(0,s2,"message open file error ",MB_OK);
-			break;
-		}
-
-		// test ---
-		if (AI_DEBUG==1)
-		{
-
-		strcpy(s3,s1);
-		strcat(s3,".debug.txt");
-
-		m_fp2=fopen(s3,"w");
-		if (m_fp2==NULL)
-		{
-			MessageBox(0,s3,"message open file error ",MB_OK);
-			break;
-		}
-
-		}
-		// test end
-
 		i=frame_loop1();
 		if (i==1) break;
 
-		fclose(m_fp1);
-
-		// test ---
-		if (AI_DEBUG==1)
-		{
-			fclose(m_fp2);
-		}
-
-		f1_next_ext();
+		i=f1_next_ext();
+		if (i==1) break;
 	}
 
 	return(0);
@@ -321,6 +285,9 @@ char         m101_l2[3000];
 char         m101_s1[SMG_LEN];
 char         m101_s2[SMG_LEN];
 char         m101_s3[SMG_LEN];
+char         m101_ss1[SMG_LEN];
+char         m101_ss2[SMG_LEN];
+char         m101_ss3[SMG_LEN];
 char         m101_str1[SMG_LEN];
 char         m101_str2[SMG_LEN];
 char         m101_str3[3000];
@@ -357,6 +324,37 @@ int frame_loop1(void)
 		MessageBox(0,m101_s2,"message open file error",MB_OK);
 		return(1);
 	}
+
+
+	f1_get_fln2(m101_ss1);
+
+	strcpy(m101_ss2,m101_ss1);
+
+	m_fp1=fopen(m101_ss2,"w");
+	if (m_fp1==NULL)
+	{
+		MessageBox(0,m101_ss2,"message open file error ",MB_OK);
+		return(1);
+	}
+
+	// test ---
+	if (AI_DEBUG==1)
+	{
+
+		strcpy(m101_ss3,m101_ss1);
+		strcat(m101_ss3,".debug.txt");
+
+		m_fp2=fopen(m101_ss3,"w");
+		if (m_fp2==NULL)
+		{
+			MessageBox(0,m101_ss3,"message open file error ",MB_OK);
+			return(1);
+		}
+
+	}
+	// test end
+
+
 
 	while (!feof(fp1))
 	{
@@ -774,6 +772,15 @@ int frame_loop1(void)
 
 	fclose(fp1);
 	
+
+	fclose(m_fp1);
+
+	// test ---
+	if (AI_DEBUG==1)
+	{
+		fclose(m_fp2);
+	}
+
 	return(0);
 }
 
