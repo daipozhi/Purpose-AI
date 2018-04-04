@@ -43,147 +43,153 @@ int deb_upper_string(char *p_instr);
 #include <string.h>
 #include <stdio.h>
 
+//#define SPL1_MAX_NUM 200
 
-#define TREE2_SIZE 4000
-#define LIST_SIZE  4000
+#define TREE2_SIZE_D 30000
+#define LIST_SIZE_D  30000
 
-    char  t2_node_mark[TREE2_SIZE];
-    char  t2_node_val[TREE2_SIZE][55];
+    char  t4_node_mark[TREE2_SIZE_D];
+    float t4_node_val[TREE2_SIZE_D][4];
+    int   t4_node_val2[TREE2_SIZE_D];
+    int   t4_node_val3[TREE2_SIZE_D];
 
-    int   t2_node_pp[TREE2_SIZE][3];
-    int   t2_root_pp;
-    int   t2_buff_pp;
+    int   t4_node_pp[TREE2_SIZE_D][3];
+    int   t4_root_pp;
+    int   t4_buff_pp;
     
-    int   t2_find_pp;
-    int   t2_find_pp2;
-    int   t2_find_side;
+    int   t4_find_pp;
+    int   t4_find_pp2;
+    int   t4_find_side;
     
-    int   t2_list_stack[LIST_SIZE];
-    char  t2_list_stack_type[LIST_SIZE];
-    int   t2_list_pp;
+    int   t4_list_stack[LIST_SIZE_D];
+    char  t4_list_stack_type[LIST_SIZE_D];
+    int   t4_list_pp;
 
-    char  t2_out_buff[TREE2_SIZE][55];
+    float t4_out_buff[TREE2_SIZE_D][4];
+    int   t4_out_buff2[TREE2_SIZE_D];
+    int   t4_out_buff3[TREE2_SIZE_D];
+    int   t4_out_pp;
 
-    int   t2_out_pp;
-
-    int   t2_init_tree2(void);
-    int   t2_new_node(void);
-    int   t2_clear_node(int pp);
-    int   t2_search_node(char *pstr);
-    int   t2_insert_node(char *pstr);
-    int   t2_dsp_tree2(void);
-    int   t2_after_list(void);
-    int   t2_out_list(char *pstr,long long int ,int);
-    int   t2_dsp_list(void);
-    int   t2_save_list(char *fn);
-
+    int   t4_init_tree2(void);
+    int   t4_new_node(void);
+    int   t4_clear_node(int pp);
+    int   t4_search_node(float pn1,float pn2,float pn3,float pn4,int pn5);
+    int   t4_insert_node(float pn1,float pn2,float pn3,float pn4,int pn5);
+    int   t4_istrcmp(int i,float pn1,float pn2,float pn3,float pn4,int pn5);
+    int   t4_dsp_tree2(void);
+    int   t4_after_list(void);
+    int   t4_out_list(int);
+    int   t4_dsp_list(void);
+    int   t4_save_list(char *fn);
 
 
-int /*tree2::*/t2_init_tree2(void)
+
+int t4_init_tree2(void)
 {
   int i,j;
-  for (i=0;i<TREE2_SIZE;i++)
+  for (i=0;i<TREE2_SIZE_D;i++)
   {
-    t2_node_mark[i]=(-1);
+    t4_node_mark[i]=(-1);
   }
-  t2_root_pp=(-1);
-  t2_buff_pp=0;
+  t4_root_pp=(-1);
+  t4_buff_pp=0;
   return(0);
 }
 
-int /*tree2::*/t2_new_node(void)
+int t4_new_node(void)
 {
   int i,j;
 
   i=(-1);
-  j=t2_buff_pp;
+  j=t4_buff_pp;
   
   while (1)
   {
-    if (t2_node_mark[t2_buff_pp]<0)
+    if (t4_node_mark[t4_buff_pp]<0)
     {
-      t2_node_mark[t2_buff_pp]=0;
-      i=t2_buff_pp;
-      t2_buff_pp++;
-      if (t2_buff_pp>=TREE2_SIZE) t2_buff_pp=0;
+      t4_node_mark[t4_buff_pp]=0;
+      i=t4_buff_pp;
+      t4_buff_pp++;
+      if (t4_buff_pp>=TREE2_SIZE_D) t4_buff_pp=0;
       break;
     }
     else
     {
-      t2_buff_pp++;
-      if (t2_buff_pp>=TREE2_SIZE) t2_buff_pp=0;
-      if (t2_buff_pp==j) break;
+      t4_buff_pp++;
+      if (t4_buff_pp>=TREE2_SIZE_D) t4_buff_pp=0;
+      if (t4_buff_pp==j) break;
     }
   }
 
   return(i);
 }
 
-int /*tree2::*/t2_clear_node(int pp)
+int t4_clear_node(int pp)
 {
   int i,j;
   
-  t2_node_pp[pp][0]=(-1);
-  t2_node_pp[pp][1]=(-1);
-  t2_node_pp[pp][2]=(-1);
+  t4_node_pp[pp][0]=(-1);
+  t4_node_pp[pp][1]=(-1);
+  t4_node_pp[pp][2]=(-1);
 
-  for (i=0;i<55;i++)
+  for (i=0;i<4;i++)
   {
-    t2_node_val[pp][i]=0;
+    t4_node_val[pp][i]=0;
   }
+
+  t4_node_val2[pp]=0;
+  t4_node_val3[pp]=0;
 
   return(0);
 }
 
-int /*tree2::*/t2_search_node(char *pstr)
+int t4_search_node(float pn1,float pn2,float pn3,float pn4,int pn5)
 {
   int i,j;
 
-  if ((int)strlen(pstr)>50) return(1);
-  
-  if (t2_root_pp<0)
+  if (t4_root_pp<0)
   {
-     t2_find_pp=(-1);
+     t4_find_pp=(-1);
      return(1);
   }
 
-  i=t2_root_pp;
+  i=t4_root_pp;
 
   while (1)
   {
   
-    if (strcmp(t2_node_val[i],pstr)==0)
+    if (t4_istrcmp(i,pn1,pn2,pn3,pn4,pn5)==0)
     {
-      t2_find_pp=i;
+      t4_find_pp=i;
       return(0);
     }
 
-    if (strcmp(t2_node_val[i],pstr)<0)
+    if (t4_istrcmp(i,pn1,pn2,pn3,pn4,pn5)<0)
     {
-      if (t2_node_pp[i][2]<0)
+      if (t4_node_pp[i][2]<0)
       {
-        t2_find_pp=i;
-        t2_find_side=2;
+        t4_find_pp=i;
+        t4_find_side=2;
         return(1);
       }
       else
       {
-        i=t2_node_pp[i][2];
+        i=t4_node_pp[i][2];
         continue;
       }
     }
     
-    if (strcmp(t2_node_val[i],pstr)>0)
+    if (t4_istrcmp(i,pn1,pn2,pn3,pn4,pn5)>0)
     {
-      if (t2_node_pp[i][1]<0)
+      if (t4_node_pp[i][1]<0)
       {
-        t2_find_pp=i;
-        t2_find_side=1;
+        t4_find_pp=i;
+        t4_find_side=1;
         return(1);
       }
       else
       {
-        i=t2_node_pp[i][1];
+        i=t4_node_pp[i][1];
         continue;
       }
     }
@@ -192,24 +198,22 @@ int /*tree2::*/t2_search_node(char *pstr)
 
 }
 
-int /*tree2::*/t2_insert_node(char *pstr)
+int t4_insert_node(float pn1,float pn2,float pn3,float pn4,int pn5)
 {
   int i,j;
 
-  if ((int)strlen(pstr)>50) return(1);
-
-  i=t2_search_node(pstr);
+  i=t4_search_node(pn1,pn2,pn3,pn4,pn5);
 
   if (i==0)
   {
-    t2_find_pp2=t2_find_pp;
+    t4_find_pp2=t4_find_pp;
     return(0);
   }
   else
   {
-    if (t2_find_pp<0)
+    if (t4_find_pp<0)
     {
-      j=t2_new_node();
+      j=t4_new_node();
       if (j<0)
       {
         MessageBox(0,"error at insert_node() when call new_node()","message",MB_OK);
@@ -217,16 +221,20 @@ int /*tree2::*/t2_insert_node(char *pstr)
       }
       else
       {
-        t2_root_pp=j;
-        t2_clear_node(j);
-        strcpy(t2_node_val[j],pstr);
-	t2_find_pp2=j;
+        t4_root_pp=j;
+        t4_clear_node(j);
+        t4_node_val[j][0]=pn1;
+        t4_node_val[j][1]=pn2;
+        t4_node_val[j][2]=pn3;
+        t4_node_val[j][3]=pn4;
+        t4_node_val2[j]=pn5;
+	t4_find_pp2=j;
         return(0);
       }
     }
     else
     {
-      j=t2_new_node();
+      j=t4_new_node();
       if (j<0)
       {
         MessageBox(0,"error at insert_node() when call new_node()","message",MB_OK);
@@ -234,19 +242,124 @@ int /*tree2::*/t2_insert_node(char *pstr)
       }
       else
       {
-        t2_clear_node(j);
-        strcpy(t2_node_val[j],pstr);
-        t2_node_pp[j][0]=t2_find_pp;
+        t4_clear_node(j);
 
-        if (t2_find_side==2) t2_node_pp[t2_find_pp][2]=j;
-        else t2_node_pp[t2_find_pp][1]=j;
+        t4_node_val[j][0]=pn1;
+        t4_node_val[j][1]=pn2;
+        t4_node_val[j][2]=pn3;
+        t4_node_val[j][3]=pn4;
+        t4_node_val2[j]=pn5;
 
-	t2_find_pp2=j;
+        t4_node_pp[j][0]=t4_find_pp;
+
+        if (t4_find_side==2) t4_node_pp[t4_find_pp][2]=j;
+        else t4_node_pp[t4_find_pp][1]=j;
+
+	t4_find_pp2=j;
 
         return(0);
       }
     }
   }
+}
+
+int t4_istrcmp(int i,float pn1,float pn2,float pn3,float pn4,int pn5)
+{
+	int j;
+
+	if (t4_node_val[i][0]>pn1) return(1);
+	else
+	{
+		if (t4_node_val[i][0]<pn1) return(-1);
+		else
+		{
+
+
+
+
+
+	if (t4_node_val[i][1]>pn2) return(1);
+	else
+	{
+		if (t4_node_val[i][1]<pn2) return(-1);
+		else
+		{
+		
+		
+
+		
+		
+		
+	if (t4_node_val[i][2]>pn3) return(1);
+	else
+	{
+		if (t4_node_val[i][2]<pn3) return(-1);
+		else
+		{
+		
+		
+
+
+
+	if (t4_node_val[i][3]>pn4) return(1);
+	else
+	{
+		if (t4_node_val[i][3]<pn4) return(-1);
+		else
+		{
+		
+
+
+
+	if (t4_node_val2[i]>pn5) return(1);
+	else
+	{
+		if (t4_node_val2[i]<pn5) return(-1);
+		else
+		{
+
+
+
+
+			return(0);
+
+
+
+
+		}
+	}
+
+
+
+
+		}
+	}
+
+
+
+
+
+
+		}
+	}
+
+
+
+
+
+
+		}
+	}
+
+
+
+
+
+
+		}
+	}
+
+
 }
 
 /*
@@ -470,66 +583,66 @@ int dsp_tree2(void)
 
 static char m03_str1[300];
 
-int /*tree2::*/t2_after_list(void)
+int t4_after_list(void)
 {
   int  i,j,k;
   //char str1[300];
 
-  t2_list_pp=0;
-  t2_out_pp=0;
+  t4_list_pp=0;
+  t4_out_pp=0;
   
-  i=t2_root_pp;
+  i=t4_root_pp;
   if (i<0) return(0);
 
-  if (t2_node_pp[i][1]>=0)
+  if (t4_node_pp[i][1]>=0)
   {
-    t2_list_stack[t2_list_pp]=t2_node_pp[i][1];
-    t2_list_stack_type[t2_list_pp]=1;
-    t2_list_pp++;
+    t4_list_stack[t4_list_pp]=t4_node_pp[i][1];
+    t4_list_stack_type[t4_list_pp]=1;
+    t4_list_pp++;
   }
 
-  t2_list_stack[t2_list_pp]=i;
-  t2_list_stack_type[t2_list_pp]=2;
-  t2_list_pp++;
+  t4_list_stack[t4_list_pp]=i;
+  t4_list_stack_type[t4_list_pp]=2;
+  t4_list_pp++;
   
-  if (t2_node_pp[i][2]>=0)
+  if (t4_node_pp[i][2]>=0)
   {
-    t2_list_stack[t2_list_pp]=t2_node_pp[i][2];
-    t2_list_stack_type[t2_list_pp]=1;
-    t2_list_pp++;
+    t4_list_stack[t4_list_pp]=t4_node_pp[i][2];
+    t4_list_stack_type[t4_list_pp]=1;
+    t4_list_pp++;
   }
 
-  while (t2_list_pp>0)
+  while (t4_list_pp>0)
   {
-    t2_list_pp--;
-    j=t2_list_pp;
+    t4_list_pp--;
+    j=t4_list_pp;
 
-    if (t2_list_stack_type[j]==1)
+    if (t4_list_stack_type[j]==1)
     {
-      k=t2_list_stack[j];
+      k=t4_list_stack[j];
       
-      if (t2_node_pp[k][1]>=0)
+      if (t4_node_pp[k][1]>=0)
       {
-        t2_list_stack[t2_list_pp]=t2_node_pp[k][1];
-        t2_list_stack_type[t2_list_pp]=1;
-        t2_list_pp++;
+        t4_list_stack[t4_list_pp]=t4_node_pp[k][1];
+        t4_list_stack_type[t4_list_pp]=1;
+        t4_list_pp++;
 
         //sprintf(str1,"add left tree %s,list_pp=%d,",node_val[node_pp[k][1]],list_pp);
         //MessageBox(0,str1,"message",MB_OK);
       }
 
-      t2_list_stack[t2_list_pp]=k;
-      t2_list_stack_type[t2_list_pp]=2;
-      t2_list_pp++;
+      t4_list_stack[t4_list_pp]=k;
+      t4_list_stack_type[t4_list_pp]=2;
+      t4_list_pp++;
 
       //sprintf(str1,"add mid tree %s,list_pp=%d,",node_val[k],list_pp);
       //MessageBox(0,str1,"message",MB_OK);
 
-      if (t2_node_pp[k][2]>=0)
+      if (t4_node_pp[k][2]>=0)
       {
-        t2_list_stack[t2_list_pp]=t2_node_pp[k][2];
-        t2_list_stack_type[t2_list_pp]=1;
-        t2_list_pp++;
+        t4_list_stack[t4_list_pp]=t4_node_pp[k][2];
+        t4_list_stack_type[t4_list_pp]=1;
+        t4_list_pp++;
 
         //sprintf(str1,"add right tree %s,list_pp=%d,",node_val[node_pp[k][2]],list_pp);
         //MessageBox(0,str1,"message",MB_OK);
@@ -537,9 +650,9 @@ int /*tree2::*/t2_after_list(void)
     }
     else
     {
-      k=t2_list_stack[j];
+      k=t4_list_stack[j];
 
-      //t2_out_list(t2_node_val[k],t2_node_val2[k],k);
+      t4_out_list(k);
 
       //sprintf(str1,"out val %s,",node_val[k]);
       //MessageBox(0,str1,"message",MB_OK);
@@ -549,44 +662,44 @@ int /*tree2::*/t2_after_list(void)
   return(0);
 }
 
-int /*tree2::*/t2_out_list(char *pstr,long long int pn1,int pp)
+int t4_out_list(int pp)
 {
   int i,j;
-/*
-  if ((int)strlen(pstr)>=300) return(0);
+
+  //if ((int)strlen(pstr)>=300) return(0);
   
-  strcpy(t2_out_buff[t2_out_pp],pstr);
-  t2_out_buff2[t2_out_pp]=pn1;
+  t4_out_buff[t4_out_pp][0]=t4_node_val[pp][0];
+  t4_out_buff[t4_out_pp][1]=t4_node_val[pp][1];
+  t4_out_buff[t4_out_pp][2]=t4_node_val[pp][2];
+  t4_out_buff[t4_out_pp][3]=t4_node_val[pp][3];
 
+  t4_out_buff2[t4_out_pp]=t4_node_val2[pp];
+  t4_out_buff3[t4_out_pp]=t4_node_val3[pp];
 
-  for (i=0;i<5;i++)
-	for (j=0;j<3;j++)
-		t2_out_buff3[t2_out_pp][i][j]=t2_node_val3[pp][i][j];
+  //t4_out_buff3_pp[t4_out_pp]=t4_node_val3_pp[pp];
 
-  t2_out_buff3_pp[t2_out_pp]=t2_node_val3_pp[pp];
+  t4_out_pp++;
 
-
-  t2_out_pp++;*/
   return(0);
 }
 
 static char m04_str1[300];
 
-int /*tree2::*/t2_dsp_list(void)
+int t4_dsp_list(void)
 {
   //char str1[300];
   
   //sprintf(str1,"%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,",
-  //             t2_out_buff[0],
-  //             t2_out_buff[1],
-  //             t2_out_buff[2],
-  //             t2_out_buff[3],
-  //             t2_out_buff[4],
-  //             t2_out_buff[5],
-  //             t2_out_buff[6],
-  //             t2_out_buff[7],
-  //             t2_out_buff[8],
-  //             t2_out_buff[9]
+  //             t4_out_buff[0],
+  //             t4_out_buff[1],
+  //             t4_out_buff[2],
+  //             t4_out_buff[3],
+  //             t4_out_buff[4],
+  //             t4_out_buff[5],
+  //             t4_out_buff[6],
+  //             t4_out_buff[7],
+  //             t4_out_buff[8],
+  //             t4_out_buff[9]
   //             );
                
   //MessageBox(0,str1,"message dsp list",MB_OK);
@@ -598,7 +711,7 @@ static char m05_str1[300];
 static char m05_str2[300];
 static char m05_str3[300];
 
-int /*tree2::*/t2_save_list(char *fn)
+int t4_save_list(char *fn)
 {
   FILE *fp;
   int   i,j,k,l;
@@ -613,12 +726,12 @@ int /*tree2::*/t2_save_list(char *fn)
     return(1);
   }
 
-  for (i=0;i<t2_out_pp;i++)
+  for (i=0;i<t4_out_pp;i++)
   {
-    fputs(t2_out_buff[i],fp);
+    fputs(t4_out_buff[i],fp);
     //fputs(",",fp);
 
-    //sprintf(m05_str1,"%lld",t2_out_buff2[i]);
+    //sprintf(m05_str1,"%lld",t4_out_buff2[i]);
     //fputs(m05_str1,fp);
 
     fputs("\n",fp);

@@ -1,3 +1,45 @@
+
+#include "../config.h"
+
+//#define   STRICT
+//#include <windows.h>
+//#include <commdlg.h>
+
+#define   MB_OK			1
+#define   MB_ICONASTERISK	2
+#define   MB_OKCANCEL		3
+#define   MB_ICONQUESTION	4
+#define   MB_YESNO		5
+#define   MB_RETRYCANCEL	6
+#define   MB_YESNOCANCEL	7
+
+#define   IDYES			1
+#define   IDNO			2
+#define   IDCANCEL		3
+#define   IDOK			4
+#define   IDRETRY		5
+
+int   MessageBox(int h1,char *h2,char *h3,int h4);
+
+#include <locale.h>
+#include <iconv.h>
+
+iconv_t cd ;
+
+int str_gb18030_to_utf8_ini(void);
+int str_gb18030_to_utf8_close(void);
+int str_utf8_to_gb18030(char *inbuffer,char *outbuffer,int outbufferlen);
+int str_gb18030_to_utf8(char *inbuffer,char *outbuffer,int outbufferlen);
+int file_gb18030_to_utf8(char *inbuffer);
+int filenameext(char *iname,char *oname,char *oext);
+char deb_lower(char c1);
+int deb_lower_string(char *p_instr);
+char deb_upper(char c1);
+int deb_upper_string(char *p_instr);
+
+
+
+
 //---------------------------------
 // super pipe level 2 (spl2)
 //---------------------------------
@@ -49,7 +91,8 @@ int  grm10_pp1[6];
 char grm10_mrk[6][20][10];
 
 
-#define SPL2_NUM   600000
+#define SPL2_NUM    30000
+#define SPL2_MAX_NUM 1000
 
 int  spl2_gid[SPL2_NUM][100];
 char spl2_gid_len[SPL2_NUM][100];
@@ -75,6 +118,14 @@ int  spl2_out_seg;
 long long int spl2_out_va2;
 	  int spl2_out_va3;
 long long int spl2_out_va4;
+
+int  spl2_stk1[SPL2_NUM];  // stack of spl2
+int  spl2_stk2[SPL2_NUM];
+int  spl2_stk3[SPL2_NUM];
+
+int spl2_stk1_pp1;
+int spl2_stk2_pp1;
+int spl2_stk3_pp1;
 
 // tree 1 (t1) grammer cw 
 #define TREE2_SIZE 100000
@@ -105,6 +156,30 @@ int   t4_node_val[TREE2_SIZE][6];
 int   t4_search_node(int pn1,int pn2,int pn3,int pn4,int pn5,int pn6);
 int   t4_insert_node(int pn1,int pn2,int pn3,int pn4,int pn5,int pn6);
 // end of tree
+
+#define TREE2_SIZE_G 30000
+
+int   t7_node_val2[TREE2_SIZE_G];
+
+int   t7_find_pp;
+int   t7_find_pp2;
+
+int   t7_init_tree2(void);
+int   t7_search_node(float pn1,float pn2,float pn3,float pn4);
+int   t7_insert_node(float pn1,float pn2,float pn3,float pn4);
+
+#define TREE2_SIZE_H 30000
+
+int   t8_node_val3[TREE2_SIZE_D];
+
+int   t8_find_pp2;
+
+int   t8_out_buff3[TREE2_SIZE_D];
+int   t8_out_pp;
+
+int   t8_init_tree2(void);
+int   t8_insert_node(float pn1,float pn2,float pn3,float pn4,int pn5);
+int   t8_after_list(void);
 
 #define SPL1_OUT_NUM   20
 
@@ -157,6 +232,8 @@ long long int	      v2,v4;
 	int           find;
 	int	      bigger;
 	int	      ns[10];
+	float	      ff1,ff2,ff3,ff4;
+	int	      j2,j3,j4,j5,j6,j7;
 
 	spl2_out_val=0;
 	spl2_out_va2=0;
@@ -186,6 +263,13 @@ long long int	      v2,v4;
 
 
 
+	spl2_stk1_pp1=0; // init stack
+	spl2_stk2_pp1=0;
+	spl2_stk3_pp1=0;
+
+	for (i=0;i<SPL2_NUM;i++) spl2_stk1[i]=i;
+
+	spl2_stk1_pp1=SPL2_NUM;  
 
 	t4_init_tree2();
 
@@ -225,6 +309,17 @@ long long int	      v2,v4;
 		nn=t1_search_node(ns[0],ns[1],ns[2],ns[3],ns[4],ns[5]);
 		if (nn==0)
 		{
+			if (spl2_stk1_pp1>0)
+			{
+				spl2_stk1_pp1--;
+				spl2_pp=spl2_stk1[spl2_stk1_pp1];
+			}
+			else
+			{
+				MessageBox(0,"stk1 error in spl2","error message",MB_OK);
+				continue;
+			}
+
 			t4_insert_node(ns[0],ns[1],ns[2],ns[3],ns[4],ns[5]);
 
 			spl2_mrk[spl2_pp]=1;
@@ -246,7 +341,14 @@ long long int	      v2,v4;
 //					MessageBox(0,m101_str3,"into pop-r1",MB_OK);
 
 
-			spl2_pp++;
+			//spl2_pp++;
+			spl2_stk2[spl2_stk2_pp1]=spl2_pp;
+			spl2_stk2_pp1++;
+			if (spl2_stk2_pp1>=SPL2_NUM)
+			{
+				MessageBox(0,"stk2 over flow in spl2","error message",MB_OK);
+				spl2_stk2_pp1=SPL2_NUM-1;
+			}
 		}
 	}
 
@@ -279,6 +381,17 @@ long long int	      v2,v4;
 			nn=t3_search_node(ns[0],ns[1],ns[2],ns[3],ns[4]);
 			if (nn==0)
 			{
+				if (spl2_stk1_pp1>0)
+				{
+					spl2_stk1_pp1--;
+					spl2_pp=spl2_stk1[spl2_stk1_pp1];
+				}
+				else
+				{
+					MessageBox(0,"stk1 error in spl2","error message",MB_OK);
+					continue;
+				}
+
 				t4_insert_node(ns[0],ns[1],ns[2],ns[3],ns[4],ns[5]);
 
 				spl2_mrk[spl2_pp]=1;
@@ -300,7 +413,14 @@ long long int	      v2,v4;
 //					MessageBox(0,m101_str3,"into pop-r1",MB_OK);
 
 
-				spl2_pp++;
+				//spl2_pp++;
+				spl2_stk2[spl2_stk2_pp1]=spl2_pp;
+				spl2_stk2_pp1++;
+				if (spl2_stk2_pp1>=SPL2_NUM)
+				{
+					MessageBox(0,"stk2 over flow in spl2","error message",MB_OK);
+					spl2_stk2_pp1=SPL2_NUM-1;
+				}
 			}
 		}
 	}
@@ -317,28 +437,32 @@ long long int	      v2,v4;
 
 	i3=strlen(spl1_out_str[o][0]);
 
-	//sprintf(m101_str3,"ns[0]=%d,str[0]=%s,at5-nn=%s,\n",ns[0],spl1_out_str[o][0],at5[ns[0]]);
-	//fputs(m101_str3,m_fp1);
-
 	t4_insert_node(ns[0],ns[1],ns[2],ns[3],ns[4],ns[5]);
 
-	//sprintf(m101_str3,"t4_find_pp2=%d,val[0]=%d,str=%s,\n",t4_find_pp2,t4_node_val[t4_find_pp2][0],at5[t4_node_val[t4_find_pp2][0]]);
-	//fputs(m101_str3,m_fp1);
+	if (spl2_stk1_pp1<=0)
+	{
+		MessageBox(0,"stk1 error in spl2","error message",MB_OK);
+		//continue;
+	}
+	else
+	{
+		spl2_stk1_pp1--;
+		spl2_pp=spl2_stk1[spl2_stk1_pp1];
 
-	spl2_mrk[spl2_pp]=1;
-	spl2_gid[spl2_pp][0]=t4_find_pp2;
+		spl2_mrk[spl2_pp]=1;
+		spl2_gid[spl2_pp][0]=t4_find_pp2;
 
-	spl2_gid_len[spl2_pp][0]=1;
-	spl2_len[spl2_pp]=1;
-	spl2_seg[spl2_pp]=1;
-	spl2_val[spl2_pp]=v3+ai_number[i3/2];
-	spl2_rpt[spl2_pp]=v4+1*(i3/2);    // repeat times x len
+		spl2_gid_len[spl2_pp][0]=1;
+		spl2_len[spl2_pp]=1;
+		spl2_seg[spl2_pp]=1;
+		spl2_val[spl2_pp]=v3+ai_number[i3/2];
+		spl2_rpt[spl2_pp]=v4+1*(i3/2);    // repeat times x len
 
-       	if (1>=l) spl2_mrk[spl2_pp]=2;
+       		if (1>=l) spl2_mrk[spl2_pp]=2;
 
-	spl2_va2[spl2_pp]=v1;
-	spl2_rp2[spl2_pp]=v2;    // repeat times
-	spl2_mr2[spl2_pp][0]=0;
+		spl2_va2[spl2_pp]=v1;
+		spl2_rp2[spl2_pp]=v2;    // repeat times
+		spl2_mr2[spl2_pp][0]=0;
 
 //		sprintf(m101_str3,"spl2_pp=%d,spl2_mrk=%d,str=%s,len=%d,seg=%d,val=%d,",spl2_pp,spl2_mrk[spl2_pp],spl2_str[spl2_pp][0],spl2_len[spl2_pp],spl2_seg[spl2_pp],spl2_val[spl2_pp]);
 
@@ -346,16 +470,19 @@ long long int	      v2,v4;
 	
 	//spl2_test(spl2_pp,o);
 
-	spl2_pp++;
+		//spl2_pp++;
+		spl2_stk2[spl2_stk2_pp1]=spl2_pp;
+		spl2_stk2_pp1++;
+		if (spl2_stk2_pp1>=SPL2_NUM)
+		{
+			MessageBox(0,"stk2 over flow in spl2","error message",MB_OK);
+			spl2_stk2_pp1=SPL2_NUM-1;
+		}
+	}
 
 
-
-
-	m1=0;
-	m2=spl2_pp;
-
-
-
+	//m1=0;
+	//m2=spl2_pp;
 
 	while(1)
 	{
@@ -364,16 +491,36 @@ long long int	      v2,v4;
 		m4=0;
 		err=0;
 
-
-		for (n=m1;n<m2;n++)
+		for (j2=0;j2<spl2_stk2_pp1;j2++)
 		{
+			spl2_stk3[j2]=spl2_stk2[j2];
+		}
+
+		spl2_stk3_pp1=spl2_stk2_pp1;
+		spl2_stk2_pp1=0;
+
+		//for (n=m1;n<m2;n++)
+		for (j2=0;j2<spl2_stk3_pp1;j2++)
+		{
+			n=spl2_stk3[j2];
 
 			if (spl2_mrk[n]==2) // copy ok ones
 			{
-				if (spl2_pp>=SPL2_NUM)
+				//if (spl2_pp>=SPL2_NUM)
+				//{
+				//	err=1;
+				//	break;
+				//}
+
+				if (spl2_stk1_pp1>0)
 				{
-					err=1;
-					break;
+					spl2_stk1_pp1--;
+					spl2_pp=spl2_stk1[spl2_stk1_pp1];
+				}
+				else
+				{
+					MessageBox(0,"stk1 error in spl2","error message",MB_OK);
+					continue;
 				}
 
 				p=spl2_len[n];
@@ -408,8 +555,16 @@ long long int	      v2,v4;
 //		MessageBox(0,m101_str3,"into pop-r2",MB_OK);
 
 
-				spl2_pp++;
+				//spl2_pp++;
 				m4++; // ok ones number
+
+				spl2_stk2[spl2_stk2_pp1]=spl2_pp;
+				spl2_stk2_pp1++;
+				if (spl2_stk2_pp1>=SPL2_NUM)
+				{
+					MessageBox(0,"stk2 over flow in spl2","error message",MB_OK);
+					spl2_stk2_pp1=SPL2_NUM-1;
+				}
 
 				continue;
 			}
@@ -430,17 +585,15 @@ long long int	      v2,v4;
 				break;
 			}
 
-
-
-
 			for (i=6;i>=2;i--)     // bigger ones at first  // add grammer in grammer courseware
 			{
 				if (p+i>l) continue;
-				if (spl2_pp>=SPL2_NUM)
-				{
-					err=1;
-					break;
-				}
+
+				//if (spl2_pp>=SPL2_NUM)
+				//{
+				//	err=1;
+				//	break;
+				//}
 
 				i3=0;
 				for (m=0;m<6;m++)
@@ -465,6 +618,17 @@ long long int	      v2,v4;
 				nn=t1_search_node(ns[0],ns[1],ns[2],ns[3],ns[4],ns[5]);
 				if (nn==0)
 				{
+					if (spl2_stk1_pp1>0)
+					{
+						spl2_stk1_pp1--;
+						spl2_pp=spl2_stk1[spl2_stk1_pp1];
+					}
+					else
+					{
+						MessageBox(0,"stk1 error in spl2","error message",MB_OK);
+						continue;
+					}
+
 					t4_insert_node(ns[0],ns[1],ns[2],ns[3],ns[4],ns[5]);
 
 					for (s=0;s<r;s++)
@@ -492,8 +656,15 @@ long long int	      v2,v4;
 
 //					MessageBox(0,m101_str3,"into pop-r1",MB_OK);
 
+					//spl2_pp++;
+					spl2_stk2[spl2_stk2_pp1]=spl2_pp;
+					spl2_stk2_pp1++;
+					if (spl2_stk2_pp1>=SPL2_NUM)
+					{
+						MessageBox(0,"stk2 over flow in spl2","error message",MB_OK);
+						spl2_stk2_pp1=SPL2_NUM-1;
+					}
 
-					spl2_pp++;
 				}
 			}
 
@@ -529,6 +700,17 @@ long long int	      v2,v4;
 					nn=t3_search_node(ns[0],ns[1],ns[2],ns[3],ns[4]);
 					if (nn==0)
 					{
+						if (spl2_stk1_pp1>0)
+						{
+							spl2_stk1_pp1--;
+							spl2_pp=spl2_stk1[spl2_stk1_pp1];
+						}
+						else
+						{
+							MessageBox(0,"stk1 error in spl2","error message",MB_OK);
+							continue;
+						}
+
 						t4_insert_node(ns[0],ns[1],ns[2],ns[3],ns[4],ns[5]);
 
 						for (s=0;s<r;s++)
@@ -556,8 +738,14 @@ long long int	      v2,v4;
 
 //					MessageBox(0,m101_str3,"into pop-r1",MB_OK);
 
-
-						spl2_pp++;
+						//spl2_pp++;
+						spl2_stk2[spl2_stk2_pp1]=spl2_pp;
+						spl2_stk2_pp1++;
+						if (spl2_stk2_pp1>=SPL2_NUM)
+						{
+							MessageBox(0,"stk2 over flow in spl2","error message",MB_OK);
+							spl2_stk2_pp1=SPL2_NUM-1;
+						}
 					}
 				}
 			}
@@ -565,11 +753,11 @@ long long int	      v2,v4;
 
 
 
-			if (spl2_pp>=SPL2_NUM)
-			{
-				err=1;
-				break;
-			}
+			//if (spl2_pp>=SPL2_NUM)
+			//{
+			//	err=1;
+			//	break;
+			//}
 
 		        if (p+1>l) continue;	// add one word
 
@@ -584,57 +772,129 @@ long long int	      v2,v4;
 
 			t4_insert_node(ns[0],ns[1],ns[2],ns[3],ns[4],ns[5]);
 
-			for (s=0;s<r;s++)
+			if (spl2_stk1_pp1<=0)
 			{
-				spl2_gid[spl2_pp][s]=spl2_gid[n][s];
-				spl2_mr2[spl2_pp][s]=spl2_mr2[n][s];
-				spl2_gid_len[spl2_pp][s]=spl2_gid_len[n][s];
+				MessageBox(0,"stk1 error in spl2","error message",MB_OK);
+				//continue;
 			}
+			else
+			{
+				spl2_stk1_pp1--;
+				spl2_pp=spl2_stk1[spl2_stk1_pp1];
 
-			spl2_mrk[spl2_pp]=1;
-			spl2_gid[spl2_pp][r]=t4_find_pp2;
-			spl2_gid_len[spl2_pp][r]=1;
-			spl2_len[spl2_pp]=p+1;
-			spl2_seg[spl2_pp]=r+1;
-			spl2_val[spl2_pp]=q+ai_number[i3/2];
-			spl2_rpt[spl2_pp]=t+1*(i3/2);    // repeat times x len
+				for (s=0;s<r;s++)
+				{
+					spl2_gid[spl2_pp][s]=spl2_gid[n][s];
+					spl2_mr2[spl2_pp][s]=spl2_mr2[n][s];
+					spl2_gid_len[spl2_pp][s]=spl2_gid_len[n][s];
+				}
 
-		       	if (p+1>=l) spl2_mrk[spl2_pp]=2;
+				spl2_mrk[spl2_pp]=1;
+				spl2_gid[spl2_pp][r]=t4_find_pp2;
+				spl2_gid_len[spl2_pp][r]=1;
+				spl2_len[spl2_pp]=p+1;
+				spl2_seg[spl2_pp]=r+1;
+				spl2_val[spl2_pp]=q+ai_number[i3/2];
+				spl2_rpt[spl2_pp]=t+1*(i3/2);    // repeat times x len
 
-			spl2_va2[spl2_pp]=v;
-			spl2_rp2[spl2_pp]=w;    // repeat times
-			spl2_mr2[spl2_pp][r]=0;
+			       	if (p+1>=l) spl2_mrk[spl2_pp]=2;
+
+				spl2_va2[spl2_pp]=v;
+				spl2_rp2[spl2_pp]=w;    // repeat times
+				spl2_mr2[spl2_pp][r]=0;
 
 //		sprintf(m101_str3,"spl2_pp=%d,spl2_mrk=%d,str=%s,len=%d,seg=%d,val=%d,",spl2_pp,spl2_mrk[spl2_pp],spl2_str[spl2_pp][0],spl2_len[spl2_pp],spl2_seg[spl2_pp],spl2_val[spl2_pp]);
 
 //		MessageBox(0,m101_str3,"into pop-r1",MB_OK);
 
-			spl2_pp++;
-
-
-
-
+				//spl2_pp++;
+				spl2_stk2[spl2_stk2_pp1]=spl2_pp;
+				spl2_stk2_pp1++;
+				if (spl2_stk2_pp1>=SPL2_NUM)
+				{
+					MessageBox(0,"stk2 over flow in spl2","error message",MB_OK);
+					spl2_stk2_pp1=SPL2_NUM-1;
+				}
+			}
 		}
 
 		if (err==0)
 		{
-			m1=m2;
-			m2=spl2_pp;
+			//m1=m2;
+			//m2=spl2_pp;
 
-			if (m2>100000) break;
-			if (m4>10000) break; 
+			//if (m2>100000) break;
+			if (m4>SPL2_MAX_NUM) break; 
 			if (m3==0) break;
 		}
 		else break;
 
+		for (j2=0;j2<spl2_stk3_pp1;j2++)  // delete old stack
+		{
+			spl2_stk1[spl2_stk1_pp1]=spl2_stk3[j2];
+			spl2_stk1_pp1++;
+		}
+		spl2_stk3_pp1=0;
+
+		if (spl2_stk2_pp1<=SPL2_MAX_NUM) continue; // if stack more than 200 ,keep 200 max value ones , delete others
+
+		t7_init_tree2();
+		t8_init_tree2();
+
+		for (j2=0;j2<spl2_stk2_pp1;j2++)
+		{
+			j3=spl2_stk2[j2];
+
+			j7=0;
+			for (j6=0;j6<spl2_len[j3];j6++)
+				j7=j7+(int)strlen(spl1_out_str[o][j6]);
+
+			ff1=(float)spl2_va2[j3]/(float)j7;
+			ff2=(float)spl2_rp2[j3]/(float)j7;
+			ff3=(float)spl2_val[j3]/(float)j7;
+			ff4=(float)spl2_rpt[j3]/(float)j7;
+
+			j4=t7_search_node(ff1,ff2,ff3,ff4); // key repeat times
+			if (j4!=0) j5=0;
+			else j5=t7_node_val2[t7_find_pp]+1;
+
+			j4=t7_insert_node(ff1,ff2,ff3,ff4);
+			t7_node_val2[t7_find_pp2]=j5;
+
+			j4=t8_insert_node(ff1,ff2,ff3,ff4,j5);
+			t8_node_val3[t8_find_pp2]=j3;
+		}
+
+		t8_after_list();
+
+		spl2_stk2_pp1=0;
+
+		j3=0;
+
+		for(j2=0;j2<t8_out_pp;j2++)
+		{
+			j3++;
+			if (j3<=SPL2_MAX_NUM)
+			{
+				spl2_stk2[spl2_stk2_pp1]=t8_out_buff3[j2];
+				spl2_stk2_pp1++;
+			}
+			else
+			{
+				spl2_stk1[spl2_stk1_pp1]=t8_out_buff3[j2]; // delete 
+				spl2_stk1_pp1++;
+			}
+		}
 	}
 
 
 
-	n1=m1;
+	i2=0;
 
-	while (n1<m2)
+	while (i2<spl2_stk2_pp1)
 	{
+		n1=spl2_stk2[i2];
+
 		if (spl2_mrk[n1]==2)
 		{
 
@@ -696,7 +956,7 @@ long long int	      v2,v4;
 
 		}
 
-		n1++;
+		i2++;
 	}
 
 	//printf("spl2_pp=%d,m4=%d,t4_buff_pp=%d,\n",spl2_pp,m4,t4_buff_pp);  // for test

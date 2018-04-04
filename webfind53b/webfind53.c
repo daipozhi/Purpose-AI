@@ -226,32 +226,65 @@ int f1_get_fln3(char *s1)
 
 
 
-#define POP_NUM   600000
+#define SPL1_NUM     30000
+#define SPL1_MAX_NUM 1000
 
-//char pop_str[POP_NUM][100][55];
-int  pop_sid[POP_NUM][100];
-char pop_mrk[POP_NUM];
-int  pop_val[POP_NUM];
-long long int  pop_rpt[POP_NUM];
-int  pop_len[POP_NUM];
-char pop_seg[POP_NUM];
-int  pop_pp;
+//char spl1_str[SPL1_NUM][100][55];
+int  spl1_sid[SPL1_NUM][100];
+char spl1_mrk[SPL1_NUM];
+int  spl1_val[SPL1_NUM];
+long long int  spl1_rpt[SPL1_NUM];
+int  spl1_len[SPL1_NUM];
+char spl1_seg[SPL1_NUM];
+int  spl1_pp;
 
-char pop_mr2[POP_NUM][100];
-int  pop_va2[POP_NUM];
-long long int  pop_rp2[POP_NUM];
+char spl1_mr2[SPL1_NUM][100];
+int  spl1_va2[SPL1_NUM];
+long long int  spl1_rp2[SPL1_NUM];
 
-int  pop_buf[60];  // check repeated string
-int  pop_buf_pp;
+int  spl1_buf[60];  // check repeated string
+int  spl1_buf_pp;
+
+int  spl1_stk1[SPL1_NUM];
+int  spl1_stk2[SPL1_NUM];
+int  spl1_stk3[SPL1_NUM];
+
+int spl1_stk1_pp1;
+int spl1_stk2_pp1;
+int spl1_stk3_pp1;
 
 // notice tree 2(t2)
-#define TREE2_SIZE 4000
+#define TREE2_SIZE_B 4000
 int   t2_find_pp2;
 int   t2_buff_pp;
-char  t2_node_val[TREE2_SIZE][55];
+char  t2_node_val[TREE2_SIZE_B][55];
 
 int   t2_search_node(char *pstr);
 int   t2_insert_node(char *pstr);
+
+#define TREE2_SIZE_C 30000
+
+int   t3_node_val2[TREE2_SIZE_C];
+
+int   t3_find_pp;
+int   t3_find_pp2;
+
+int   t3_init_tree2(void);
+int   t3_search_node(float pn1,float pn2,float pn3,float pn4);
+int   t3_insert_node(float pn1,float pn2,float pn3,float pn4);
+
+#define TREE2_SIZE_D 30000
+
+int   t4_node_val3[TREE2_SIZE_D];
+
+int   t4_find_pp2;
+
+int   t4_out_buff3[TREE2_SIZE_D];
+int   t4_out_pp;
+
+int   t4_init_tree2(void);
+int   t4_insert_node(float pn1,float pn2,float pn3,float pn4,int pn5);
+int   t4_after_list(void);
 
 static char         m101_l1[3000];
 static char         m101_l2[3000];
@@ -281,7 +314,7 @@ int frame_loop1(void)
 	//char         str3[3000];
 	int          m1,m2,m3,m4;
 	int	     n1,n2;
-	int          f1,f2;
+	int          f1,f2,f3,f4;
 	long long int n3,n5;
 	int	     n4;
 	int	     t1,t2;
@@ -289,6 +322,8 @@ int frame_loop1(void)
 	int          err;
 	int          find;
 	int	     bigger;
+	int 	     i2,i3,i4,i5;
+	float	     ff1,ff2,ff3,ff4;
 
 	f1_get_fln3(m101_s1);
 
@@ -324,6 +359,7 @@ int frame_loop1(void)
 		return(1);
 	}
 
+	printf("%s,\n",m101_ss2);
 
 	while (!feof(fp1))
 	{
@@ -375,12 +411,19 @@ int frame_loop1(void)
 
 
 
+		spl1_stk1_pp1=0; // init stack
+		spl1_stk2_pp1=0;
+		spl1_stk3_pp1=0;
+
+		for (i=0;i<SPL1_NUM;i++) spl1_stk1[i]=i;
+
+		spl1_stk1_pp1=SPL1_NUM;  
 
 		t2_init_tree2();
 
-		pop_pp=0;
+		spl1_pp=0;
 
-		pop_buf_pp=0;
+		spl1_buf_pp=0;
 
 		for (i=50;i>=2;i=i-2)     // bigger ones at first  // add courseware words
 		{
@@ -395,30 +438,48 @@ int frame_loop1(void)
 			nn=search_wd6(m101_str1);
 			if (nn==1)
 			{
+					if (spl1_stk1_pp1>0)
+					{
+						spl1_stk1_pp1--;
+						spl1_pp=spl1_stk1[spl1_stk1_pp1];
+					}
+					else
+					{
+						MessageBox(0,"stk1 error in spl1","error message",MB_OK);
+						continue;
+					}
+
 					t2_insert_node(m101_str1);
 
-					pop_mrk[pop_pp]=1;
-					pop_sid[pop_pp][0]=t2_find_pp2;
-					pop_len[pop_pp]=i;
-					pop_seg[pop_pp]=1;
-					pop_val[pop_pp]=0;
-					pop_rpt[pop_pp]=0;    // repeat times
+					spl1_mrk[spl1_pp]=1;
+					spl1_sid[spl1_pp][0]=t2_find_pp2;
+					spl1_len[spl1_pp]=i;
+					spl1_seg[spl1_pp]=1;
+					spl1_val[spl1_pp]=0;
+					spl1_rpt[spl1_pp]=0;    // repeat times
 
-			        	if (i>=l) pop_mrk[pop_pp]=2;
+			        	if (i>=l) spl1_mrk[spl1_pp]=2;
 
-					pop_va2[pop_pp]=ai_number[i/2];
-					pop_rp2[pop_pp]=find_n6*(i/2);    // repeat times
-					pop_mr2[pop_pp][0]=1;
+					spl1_va2[spl1_pp]=ai_number[i/2];
+					spl1_rp2[spl1_pp]=find_n6*(i/2);    // repeat times
+					spl1_mr2[spl1_pp][0]=1;
 
-					pop_buf[pop_buf_pp]=t2_find_pp2;
-					pop_buf_pp++;
+					spl1_buf[spl1_buf_pp]=t2_find_pp2;
+					spl1_buf_pp++;
 
-//					sprintf(m101_str3,"pop_pp=%d,pop_mrk=%d,str=%s,len=%d,seg=%d,val=%d,",pop_pp,pop_mrk[pop_pp],pop_str[pop_pp][0],pop_len[pop_pp],pop_seg[pop_pp],pop_val[pop_pp]);
+//					sprintf(m101_str3,"spl1_pp=%d,spl1_mrk=%d,str=%s,len=%d,seg=%d,val=%d,",spl1_pp,spl1_mrk[spl1_pp],spl1_str[spl1_pp][0],spl1_len[spl1_pp],spl1_seg[spl1_pp],spl1_val[spl1_pp]);
 
 //					MessageBox(0,m101_str3,"into pop-r1",MB_OK);
 
 
-					pop_pp++;
+					//spl1_pp++;
+					spl1_stk2[spl1_stk2_pp1]=spl1_pp;
+					spl1_stk2_pp1++;
+					if (spl1_stk2_pp1>=SPL1_NUM)
+					{
+						MessageBox(0,"stk2 over flow in spl1","error message",MB_OK);
+						spl1_stk2_pp1=SPL1_NUM-1;
+					}
 			}
 		}
 
@@ -435,42 +496,64 @@ int frame_loop1(void)
 			nn=cww1_number_is(m101_str1);
 			if (nn==1)
 			{
+					if (spl1_stk1_pp1>0)
+					{
+						spl1_stk1_pp1--;
+						spl1_pp=spl1_stk1[spl1_stk1_pp1];
+					}
+					else
+					{
+						MessageBox(0,"stk1 error in spl1","error message",MB_OK);
+						continue;
+					}
+
 					t2_insert_node(m101_str1);
 
 					find=0;
-					for (x=0;x<pop_buf_pp;x++)
+					for (x=0;x<spl1_buf_pp;x++)
 					{
-						if (pop_buf[x]==t2_find_pp2)
+						if (spl1_buf[x]==t2_find_pp2)
 						{
 							find=1;
 							break;
 						}
 					}
 
-					if (find==1) continue;
+					if (find==1)
+					{
+						spl1_stk1_pp1++;
+						continue;
+					}
 
-					pop_mrk[pop_pp]=1;
-					pop_sid[pop_pp][0]=t2_find_pp2;
-					pop_len[pop_pp]=i;
-					pop_seg[pop_pp]=1;
-					pop_val[pop_pp]=0;
-					pop_rpt[pop_pp]=0;    // repeat times
+					spl1_mrk[spl1_pp]=1;
+					spl1_sid[spl1_pp][0]=t2_find_pp2;
+					spl1_len[spl1_pp]=i;
+					spl1_seg[spl1_pp]=1;
+					spl1_val[spl1_pp]=0;
+					spl1_rpt[spl1_pp]=0;    // repeat times
 
-			        	if (i>=l) pop_mrk[pop_pp]=2;
+			        	if (i>=l) spl1_mrk[spl1_pp]=2;
 
-					pop_va2[pop_pp]=ai_number[i/2];
-					pop_rp2[pop_pp]=10*(i/2);    // repeat times
-					pop_mr2[pop_pp][0]=1;
+					spl1_va2[spl1_pp]=ai_number[i/2];
+					spl1_rp2[spl1_pp]=10*(i/2);    // repeat times
+					spl1_mr2[spl1_pp][0]=1;
 
-					pop_buf[pop_buf_pp]=t2_find_pp2;
-					pop_buf_pp++;
+					spl1_buf[spl1_buf_pp]=t2_find_pp2;
+					spl1_buf_pp++;
 
-//					sprintf(m101_str3,"pop_pp=%d,pop_mrk=%d,str=%s,len=%d,seg=%d,val=%d,",pop_pp,pop_mrk[pop_pp],pop_str[pop_pp][0],pop_len[pop_pp],pop_seg[pop_pp],pop_val[pop_pp]);
+//					sprintf(m101_str3,"spl1_pp=%d,spl1_mrk=%d,str=%s,len=%d,seg=%d,val=%d,",spl1_pp,spl1_mrk[spl1_pp],spl1_str[spl1_pp][0],spl1_len[spl1_pp],spl1_seg[spl1_pp],spl1_val[spl1_pp]);
 
 //					MessageBox(0,m101_str3,"into pop-r1",MB_OK);
 
 
-					pop_pp++;
+					//spl1_pp++;
+					spl1_stk2[spl1_stk2_pp1]=spl1_pp;
+					spl1_stk2_pp1++;
+					if (spl1_stk2_pp1>=SPL1_NUM)
+					{
+						MessageBox(0,"stk2 over flow in spl1","error message",MB_OK);
+						spl1_stk2_pp1=SPL1_NUM-1;
+					}
 					break;
 			}
 		}
@@ -488,42 +571,64 @@ int frame_loop1(void)
 			nn=search_wd5(m101_str1);
 			if (nn==1)
 			{
+					if (spl1_stk1_pp1>0)
+					{
+						spl1_stk1_pp1--;
+						spl1_pp=spl1_stk1[spl1_stk1_pp1];
+					}
+					else
+					{
+						MessageBox(0,"stk1 error in spl1","error message",MB_OK);
+						continue;
+					}
+
 					t2_insert_node(m101_str1);
 
 					find=0;
-					for (x=0;x<pop_buf_pp;x++)
+					for (x=0;x<spl1_buf_pp;x++)
 					{
-						if (pop_buf[x]==t2_find_pp2)
+						if (spl1_buf[x]==t2_find_pp2)
 						{
 							find=1;
 							break;
 						}
 					}
 
-					if (find==1) continue;
+					if (find==1)
+					{
+						spl1_stk1_pp1++;
+						continue;
+					}
 
-					pop_mrk[pop_pp]=1;
-					pop_sid[pop_pp][0]=t2_find_pp2;
-					pop_len[pop_pp]=i;
-					pop_seg[pop_pp]=1;
-					pop_val[pop_pp]=ai_number[i/2];
-					pop_rpt[pop_pp]=find_n5*(i/2);    // repeat times
+					spl1_mrk[spl1_pp]=1;
+					spl1_sid[spl1_pp][0]=t2_find_pp2;
+					spl1_len[spl1_pp]=i;
+					spl1_seg[spl1_pp]=1;
+					spl1_val[spl1_pp]=ai_number[i/2];
+					spl1_rpt[spl1_pp]=find_n5*(i/2);    // repeat times
 
-			        	if (i>=l) pop_mrk[pop_pp]=2;
+			        	if (i>=l) spl1_mrk[spl1_pp]=2;
 
-					pop_va2[pop_pp]=0;
-					pop_rp2[pop_pp]=0;    // repeat times
-					pop_mr2[pop_pp][0]=0;
+					spl1_va2[spl1_pp]=0;
+					spl1_rp2[spl1_pp]=0;    // repeat times
+					spl1_mr2[spl1_pp][0]=0;
 
-					pop_buf[pop_buf_pp]=t2_find_pp2;
-					pop_buf_pp++;
+					spl1_buf[spl1_buf_pp]=t2_find_pp2;
+					spl1_buf_pp++;
 
-//					sprintf(m101_str3,"pop_pp=%d,pop_mrk=%d,str=%s,len=%d,seg=%d,val=%d,",pop_pp,pop_mrk[pop_pp],pop_str[pop_pp][0],pop_len[pop_pp],pop_seg[pop_pp],pop_val[pop_pp]);
+//					sprintf(m101_str3,"spl1_pp=%d,spl1_mrk=%d,str=%s,len=%d,seg=%d,val=%d,",spl1_pp,spl1_mrk[spl1_pp],spl1_str[spl1_pp][0],spl1_len[spl1_pp],spl1_seg[spl1_pp],spl1_val[spl1_pp]);
 
 //					MessageBox(0,m101_str3,"into pop-r1",MB_OK);
 
 
-					pop_pp++;
+					//spl1_pp++;
+					spl1_stk2[spl1_stk2_pp1]=spl1_pp;
+					spl1_stk2_pp1++;
+					if (spl1_stk2_pp1>=SPL1_NUM)
+					{
+						MessageBox(0,"stk2 over flow in spl1","error message",MB_OK);
+						spl1_stk2_pp1=SPL1_NUM-1;
+					}
 			}
 		}
 
@@ -538,9 +643,9 @@ int frame_loop1(void)
 		t2_insert_node(m101_str1);
 
 		find=0;
-		for (x=0;x<pop_buf_pp;x++)
+		for (x=0;x<spl1_buf_pp;x++)
 		{
-			if (pop_buf[x]==t2_find_pp2)
+			if (spl1_buf[x]==t2_find_pp2)
 			{
 				find=1;
 				break;
@@ -549,34 +654,49 @@ int frame_loop1(void)
 
 		if (find!=1)
 		{
+			if (spl1_stk1_pp1<=0)
+			{
+				MessageBox(0,"stk1 error in spl1","error message",MB_OK);
+				//continue;
+			}
+			else
+			{
+				spl1_stk1_pp1--;
+				spl1_pp=spl1_stk1[spl1_stk1_pp1];
 
-			pop_mrk[pop_pp]=1;
-			pop_sid[pop_pp][0]=t2_find_pp2;
-			pop_len[pop_pp]=2;
-			pop_seg[pop_pp]=1;
-			pop_val[pop_pp]=ai_number[1];
-			pop_rpt[pop_pp]=1;    // repeat times
+				spl1_mrk[spl1_pp]=1;
+				spl1_sid[spl1_pp][0]=t2_find_pp2;
+				spl1_len[spl1_pp]=2;
+				spl1_seg[spl1_pp]=1;
+				spl1_val[spl1_pp]=ai_number[1];
+				spl1_rpt[spl1_pp]=1;    // repeat times
 
-        		if (2>=l) pop_mrk[pop_pp]=2;
+	        		if (2>=l) spl1_mrk[spl1_pp]=2;
 
-			pop_va2[pop_pp]=0;
-			pop_rp2[pop_pp]=0;    // repeat times
-			pop_mr2[pop_pp][0]=0;
+				spl1_va2[spl1_pp]=0;
+				spl1_rp2[spl1_pp]=0;    // repeat times
+				spl1_mr2[spl1_pp][0]=0;
 
-//		sprintf(m101_str3,"pop_pp=%d,pop_mrk=%d,str=%s,len=%d,seg=%d,val=%d,",pop_pp,pop_mrk[pop_pp],pop_str[pop_pp][0],pop_len[pop_pp],pop_seg[pop_pp],pop_val[pop_pp]);
+//		sprintf(m101_str3,"spl1_pp=%d,spl1_mrk=%d,str=%s,len=%d,seg=%d,val=%d,",spl1_pp,spl1_mrk[spl1_pp],spl1_str[spl1_pp][0],spl1_len[spl1_pp],spl1_seg[spl1_pp],spl1_val[spl1_pp]);
 
 //		MessageBox(0,m101_str3,"into pop-r1",MB_OK);
 
 
-			pop_pp++;
+				//spl1_pp++;
+				spl1_stk2[spl1_stk2_pp1]=spl1_pp;
+				spl1_stk2_pp1++;
+				if (spl1_stk2_pp1>=SPL1_NUM)
+				{
+					MessageBox(0,"stk2 over flow in spl1","error message",MB_OK);
+					spl1_stk2_pp1=SPL1_NUM-1;
+				}
+			}
 
 		}
 
 
-		m1=0;
-		m2=pop_pp;
-
-
+		//m1=0;
+		//m2=spl1_pp;
 
 
 		while(1)
@@ -586,63 +706,95 @@ int frame_loop1(void)
 			m4=0;
 			err=0;
 
-			for (n=m1;n<m2;n++)
+			for (i2=0;i2<spl1_stk2_pp1;i2++)
 			{
+				spl1_stk3[i2]=spl1_stk2[i2];
+			}
 
-				if (pop_mrk[n]==2) // copy ok ones
+			spl1_stk3_pp1=spl1_stk2_pp1;
+			spl1_stk2_pp1=0;
+
+			//for (n=m1;n<m2;n++)
+			for (i2=0;i2<spl1_stk3_pp1;i2++)
+			{
+				n=spl1_stk3[i2];
+
+				if (spl1_mrk[n]==2) // copy ok ones
 				{
-					if (pop_pp>=POP_NUM)
+/*
+					if (spl1_pp>=SPL1_NUM)
 					{
 						err=1;
 						break;
 					}
+*/
+					if (spl1_stk1_pp1>0)
+					{
+						spl1_stk1_pp1--;
+						spl1_pp=spl1_stk1[spl1_stk1_pp1];
+					}
+					else
+					{
+						MessageBox(0,"stk1 error in spl1","error message",MB_OK);
+						continue;
+					}
 
-					p=pop_len[n];
-					q=pop_val[n];
-					t=pop_rpt[n];
-					r=pop_seg[n];
 
-					v=pop_va2[n];
-					w=pop_rp2[n];
+					p=spl1_len[n];
+					q=spl1_val[n];
+					t=spl1_rpt[n];
+					r=spl1_seg[n];
+
+					v=spl1_va2[n];
+					w=spl1_rp2[n];
 
 
 					for (s=0;s<r;s++)
 					{
-						pop_sid[pop_pp][s]=pop_sid[n][s];
-						pop_mr2[pop_pp][s]=pop_mr2[n][s];
+						spl1_sid[spl1_pp][s]=spl1_sid[n][s];
+						spl1_mr2[spl1_pp][s]=spl1_mr2[n][s];
 					}
 
 
-					pop_mrk[pop_pp]=2;
+					spl1_mrk[spl1_pp]=2;
 
-					pop_len[pop_pp]=p;
-					pop_val[pop_pp]=q;
-					pop_rpt[pop_pp]=t;
-					pop_seg[pop_pp]=r;
+					spl1_len[spl1_pp]=p;
+					spl1_val[spl1_pp]=q;
+					spl1_rpt[spl1_pp]=t;
+					spl1_seg[spl1_pp]=r;
 
-					pop_va2[pop_pp]=v;
-					pop_rp2[pop_pp]=w;
+					spl1_va2[spl1_pp]=v;
+					spl1_rp2[spl1_pp]=w;
 
-//		sprintf(m101_str3,"pop_pp=%d,pop_mrk=%d,str=%s,len=%d,seg=%d,val=%d,",pop_pp,pop_mrk[pop_pp],pop_str[pop_pp][r],pop_len[pop_pp],pop_seg[pop_pp],pop_val[pop_pp]);
+//		sprintf(m101_str3,"spl1_pp=%d,spl1_mrk=%d,str=%s,len=%d,seg=%d,val=%d,",spl1_pp,spl1_mrk[spl1_pp],spl1_str[spl1_pp][r],spl1_len[spl1_pp],spl1_seg[spl1_pp],spl1_val[spl1_pp]);
 
 //		MessageBox(0,m101_str3,"into pop-r2",MB_OK);
 
 
-					pop_pp++;
+					//spl1_pp++;
+
 					m4++; // ok ones number
+
+					spl1_stk2[spl1_stk2_pp1]=spl1_pp;
+					spl1_stk2_pp1++;
+					if (spl1_stk2_pp1>=SPL1_NUM)
+					{
+						MessageBox(0,"stk2 over flow in spl1","error message",MB_OK);
+						spl1_stk2_pp1=SPL1_NUM-1;
+					}
 
 					continue;
 				}
 
 				m3=1;
 
-				p=pop_len[n];
-				q=pop_val[n];
-				t=pop_rpt[n];
-				r=pop_seg[n];
+				p=spl1_len[n];
+				q=spl1_val[n];
+				t=spl1_rpt[n];
+				r=spl1_seg[n];
 	
-				v=pop_va2[n];
-				w=pop_rp2[n];
+				v=spl1_va2[n];
+				w=spl1_rp2[n];
 
 				if (r>=100)
 				{
@@ -650,16 +802,17 @@ int frame_loop1(void)
 					break;
 				}
 
-				pop_buf_pp=0;
+				spl1_buf_pp=0;
 
 				for (i=50;i>=2;i=i-2)  //bigger ones at first  //add courseware words
 				{
 					if (p+i>l) continue;
-					if (pop_pp>=POP_NUM)
-					{
-						err=1;
-						break;
-					}
+
+					//if (spl1_pp>=SPL1_NUM)
+					//{
+					//	err=1;
+					//	break;
+					//}
 
 					for (mm=0;mm<i;mm++)
 					{
@@ -670,47 +823,66 @@ int frame_loop1(void)
 					nn=search_wd6(m101_str1);
 					if (nn==1)
 					{
+						if (spl1_stk1_pp1>0)
+						{
+							spl1_stk1_pp1--;
+							spl1_pp=spl1_stk1[spl1_stk1_pp1];
+						}
+						else
+						{
+							MessageBox(0,"stk1 error in spl1","error message",MB_OK);
+							continue;
+						}
+
 						t2_insert_node(m101_str1);
 
 						for (s=0;s<r;s++)
 						{
-							pop_sid[pop_pp][s]=pop_sid[n][s];
-							pop_mr2[pop_pp][s]=pop_mr2[n][s];
+							spl1_sid[spl1_pp][s]=spl1_sid[n][s];
+							spl1_mr2[spl1_pp][s]=spl1_mr2[n][s];
 						}
 
-						pop_mrk[pop_pp]=1;
-						pop_sid[pop_pp][r]=t2_find_pp2;
-						pop_len[pop_pp]=p+i;
-						pop_seg[pop_pp]=r+1;
-						pop_val[pop_pp]=q;
-						pop_rpt[pop_pp]=t;    // repeat times
+						spl1_mrk[spl1_pp]=1;
+						spl1_sid[spl1_pp][r]=t2_find_pp2;
+						spl1_len[spl1_pp]=p+i;
+						spl1_seg[spl1_pp]=r+1;
+						spl1_val[spl1_pp]=q;
+						spl1_rpt[spl1_pp]=t;    // repeat times
 
-				        	if (p+i>=l) pop_mrk[pop_pp]=2;
+				        	if (p+i>=l) spl1_mrk[spl1_pp]=2;
 
-						pop_va2[pop_pp]=v+ai_number[i/2];
-						pop_rp2[pop_pp]=w+find_n6*(i/2);    // repeat times
-						pop_mr2[pop_pp][r]=1;
+						spl1_va2[spl1_pp]=v+ai_number[i/2];
+						spl1_rp2[spl1_pp]=w+find_n6*(i/2);    // repeat times
+						spl1_mr2[spl1_pp][r]=1;
 
-						pop_buf[pop_buf_pp]=t2_find_pp2;
-						pop_buf_pp++;
+						spl1_buf[spl1_buf_pp]=t2_find_pp2;
+						spl1_buf_pp++;
 
-//					sprintf(m101_str3,"pop_pp=%d,pop_mrk=%d,str=%s,len=%d,seg=%d,val=%d,",pop_pp,pop_mrk[pop_pp],pop_str[pop_pp][r],pop_len[pop_pp],pop_seg[pop_pp],pop_val[pop_pp]);
+//					sprintf(m101_str3,"spl1_pp=%d,spl1_mrk=%d,str=%s,len=%d,seg=%d,val=%d,",spl1_pp,spl1_mrk[spl1_pp],spl1_str[spl1_pp][r],spl1_len[spl1_pp],spl1_seg[spl1_pp],spl1_val[spl1_pp]);
 
 //					MessageBox(0,m101_str3,"into pop-r2",MB_OK);
 
 
-						pop_pp++;
+						//spl1_pp++;
+						spl1_stk2[spl1_stk2_pp1]=spl1_pp;
+						spl1_stk2_pp1++;
+						if (spl1_stk2_pp1>=SPL1_NUM)
+						{
+							MessageBox(0,"stk2 over flow in spl1","error message",MB_OK);
+							spl1_stk2_pp1=SPL1_NUM-1;
+						}
 					}
 				}
 
 				for (i=50;i>=2;i=i-2)  //bigger ones at first  //add number
 				{
 					if (p+i>l) continue;
-					if (pop_pp>=POP_NUM)
-					{
-						err=1;
-						break;
-					}
+
+					//if (spl1_pp>=SPL1_NUM)
+					//{
+					//	err=1;
+					//	break;
+					//}
 
 					for (mm=0;mm<i;mm++)
 					{
@@ -721,48 +893,70 @@ int frame_loop1(void)
 					nn=cww1_number_is(m101_str1);
 					if (nn==1)
 					{
+						if (spl1_stk1_pp1>0)
+						{
+							spl1_stk1_pp1--;
+							spl1_pp=spl1_stk1[spl1_stk1_pp1];
+						}
+						else
+						{
+							MessageBox(0,"stk1 error in spl1","error message",MB_OK);
+							continue;
+						}
+
 						t2_insert_node(m101_str1);
 
 						find=0;
-						for (x=0;x<pop_buf_pp;x++)
+						for (x=0;x<spl1_buf_pp;x++)
 						{
-							if (pop_buf[x]==t2_find_pp2)
+							if (spl1_buf[x]==t2_find_pp2)
 							{
 								find=1;
 								break;
 							}
 						}
 
-						if (find==1) continue;
-	
-						for (s=0;s<r;s++)
+						if (find==1)
 						{
-							pop_sid[pop_pp][s]=pop_sid[n][s];
-							pop_mr2[pop_pp][s]=pop_mr2[n][s];
+							spl1_stk1_pp1++;
+							continue;
 						}
 
-						pop_mrk[pop_pp]=1;
-						pop_sid[pop_pp][r]=t2_find_pp2;
-						pop_len[pop_pp]=p+i;
-						pop_seg[pop_pp]=r+1;
-						pop_val[pop_pp]=q;
-						pop_rpt[pop_pp]=t;    // repeat times
+						for (s=0;s<r;s++)
+						{
+							spl1_sid[spl1_pp][s]=spl1_sid[n][s];
+							spl1_mr2[spl1_pp][s]=spl1_mr2[n][s];
+						}
 
-				        	if (p+i>=l) pop_mrk[pop_pp]=2;
+						spl1_mrk[spl1_pp]=1;
+						spl1_sid[spl1_pp][r]=t2_find_pp2;
+						spl1_len[spl1_pp]=p+i;
+						spl1_seg[spl1_pp]=r+1;
+						spl1_val[spl1_pp]=q;
+						spl1_rpt[spl1_pp]=t;    // repeat times
 
-						pop_va2[pop_pp]=v+ai_number[i/2];
-						pop_rp2[pop_pp]=w+10*(i/2);    // repeat times
-						pop_mr2[pop_pp][r]=1;
+				        	if (p+i>=l) spl1_mrk[spl1_pp]=2;
 
-						pop_buf[pop_buf_pp]=t2_find_pp2;
-						pop_buf_pp++;
+						spl1_va2[spl1_pp]=v+ai_number[i/2];
+						spl1_rp2[spl1_pp]=w+10*(i/2);    // repeat times
+						spl1_mr2[spl1_pp][r]=1;
 
-//					sprintf(m101_str3,"pop_pp=%d,pop_mrk=%d,str=%s,len=%d,seg=%d,val=%d,",pop_pp,pop_mrk[pop_pp],pop_str[pop_pp][r],pop_len[pop_pp],pop_seg[pop_pp],pop_val[pop_pp]);
+						spl1_buf[spl1_buf_pp]=t2_find_pp2;
+						spl1_buf_pp++;
+
+//					sprintf(m101_str3,"spl1_pp=%d,spl1_mrk=%d,str=%s,len=%d,seg=%d,val=%d,",spl1_pp,spl1_mrk[spl1_pp],spl1_str[spl1_pp][r],spl1_len[spl1_pp],spl1_seg[spl1_pp],spl1_val[spl1_pp]);
 
 //					MessageBox(0,m101_str3,"into pop-r2",MB_OK);
 
 
-						pop_pp++;
+						//spl1_pp++;
+						spl1_stk2[spl1_stk2_pp1]=spl1_pp;
+						spl1_stk2_pp1++;
+						if (spl1_stk2_pp1>=SPL1_NUM)
+						{
+							MessageBox(0,"stk2 over flow in spl1","error message",MB_OK);
+							spl1_stk2_pp1=SPL1_NUM-1;
+						}
 						break;
 					}
 				}
@@ -770,11 +964,12 @@ int frame_loop1(void)
 				for (i=50;i>=2;i=i-2)  //bigger ones at first  //add word base words
 				{
 					if (p+i>l) continue;
-					if (pop_pp>=POP_NUM)
-					{
-						err=1;
-						break;
-					}
+
+					//if (spl1_pp>=SPL1_NUM)
+					//{
+					//	err=1;
+					//	break;
+					//}
 
 					for (mm=0;mm<i;mm++)
 					{
@@ -785,57 +980,79 @@ int frame_loop1(void)
 					nn=search_wd5(m101_str1);
 					if (nn==1)
 					{
+						if (spl1_stk1_pp1>0)
+						{
+							spl1_stk1_pp1--;
+							spl1_pp=spl1_stk1[spl1_stk1_pp1];
+						}
+						else
+						{
+							MessageBox(0,"stk1 error in spl1","error message",MB_OK);
+							continue;
+						}
+
 						t2_insert_node(m101_str1);
 
 						find=0;
-						for (x=0;x<pop_buf_pp;x++)
+						for (x=0;x<spl1_buf_pp;x++)
 						{
-							if (pop_buf[x]==t2_find_pp2)
+							if (spl1_buf[x]==t2_find_pp2)
 							{
 								find=1;
 								break;
 							}
 						}
 
-						if (find==1) continue;
-	
-						for (s=0;s<r;s++)
+						if (find==1)
 						{
-							pop_sid[pop_pp][s]=pop_sid[n][s];
-							pop_mr2[pop_pp][s]=pop_mr2[n][s];
+							spl1_stk1_pp1++;
+							continue;
 						}
 
-						pop_mrk[pop_pp]=1;
-						pop_sid[pop_pp][r]=t2_find_pp2;
-						pop_len[pop_pp]=p+i;
-						pop_seg[pop_pp]=r+1;
-						pop_val[pop_pp]=q+ai_number[i/2];
-						pop_rpt[pop_pp]=t+find_n5*(i/2);    // repeat times
+						for (s=0;s<r;s++)
+						{
+							spl1_sid[spl1_pp][s]=spl1_sid[n][s];
+							spl1_mr2[spl1_pp][s]=spl1_mr2[n][s];
+						}
 
-				        	if (p+i>=l) pop_mrk[pop_pp]=2;
+						spl1_mrk[spl1_pp]=1;
+						spl1_sid[spl1_pp][r]=t2_find_pp2;
+						spl1_len[spl1_pp]=p+i;
+						spl1_seg[spl1_pp]=r+1;
+						spl1_val[spl1_pp]=q+ai_number[i/2];
+						spl1_rpt[spl1_pp]=t+find_n5*(i/2);    // repeat times
 
-						pop_va2[pop_pp]=v;
-						pop_rp2[pop_pp]=w;    // repeat times
-						pop_mr2[pop_pp][r]=0;
+				        	if (p+i>=l) spl1_mrk[spl1_pp]=2;
 
-						pop_buf[pop_buf_pp]=t2_find_pp2;
-						pop_buf_pp++;
+						spl1_va2[spl1_pp]=v;
+						spl1_rp2[spl1_pp]=w;    // repeat times
+						spl1_mr2[spl1_pp][r]=0;
 
-//					sprintf(m101_str3,"pop_pp=%d,pop_mrk=%d,str=%s,len=%d,seg=%d,val=%d,",pop_pp,pop_mrk[pop_pp],pop_str[pop_pp][r],pop_len[pop_pp],pop_seg[pop_pp],pop_val[pop_pp]);
+						spl1_buf[spl1_buf_pp]=t2_find_pp2;
+						spl1_buf_pp++;
+
+//					sprintf(m101_str3,"spl1_pp=%d,spl1_mrk=%d,str=%s,len=%d,seg=%d,val=%d,",spl1_pp,spl1_mrk[spl1_pp],spl1_str[spl1_pp][r],spl1_len[spl1_pp],spl1_seg[spl1_pp],spl1_val[spl1_pp]);
 
 //					MessageBox(0,m101_str3,"into pop-r2",MB_OK);
 
 
-						pop_pp++;
+						//spl1_pp++;
+						spl1_stk2[spl1_stk2_pp1]=spl1_pp;
+						spl1_stk2_pp1++;
+						if (spl1_stk2_pp1>=SPL1_NUM)
+						{
+							MessageBox(0,"stk2 over flow in spl1","error message",MB_OK);
+							spl1_stk2_pp1=SPL1_NUM-1;
+						}
 					}
 				}
 
 
-				if (pop_pp>=POP_NUM)
-				{
-					err=1;
-					break;
-				}
+				//if (spl1_pp>=SPL1_NUM)
+				//{
+				//	err=1;
+				//	break;
+				//}
 
 		        	if (p+2>l) continue;  // add one chiness
 
@@ -846,9 +1063,9 @@ int frame_loop1(void)
 				t2_insert_node(m101_str1);
 
 				find=0;
-				for (x=0;x<pop_buf_pp;x++)
+				for (x=0;x<spl1_buf_pp;x++)
 				{
-					if (pop_buf[x]==t2_find_pp2)
+					if (spl1_buf[x]==t2_find_pp2)
 					{
 						find=1;
 						break;
@@ -857,32 +1074,50 @@ int frame_loop1(void)
 
 				if (find!=1)
 				{
-
-					for (s=0;s<r;s++)
+					if (spl1_stk1_pp1<=0)
 					{
-						pop_sid[pop_pp][s]=pop_sid[n][s];
-						pop_mr2[pop_pp][s]=pop_mr2[n][s];
+						MessageBox(0,"stk1 error in spl1","error message",MB_OK);
+						//continue;
 					}
+					else
+					{
+						spl1_stk1_pp1--;
+						spl1_pp=spl1_stk1[spl1_stk1_pp1];
 
-					pop_mrk[pop_pp]=1;
-					pop_sid[pop_pp][r]=t2_find_pp2;
-					pop_len[pop_pp]=p+2;
-					pop_seg[pop_pp]=r+1;
-					pop_val[pop_pp]=q+ai_number[1];
-					pop_rpt[pop_pp]=t+1;    // repeat times
 
-			        	if (p+2>=l) pop_mrk[pop_pp]=2;
+						for (s=0;s<r;s++)
+						{
+							spl1_sid[spl1_pp][s]=spl1_sid[n][s];
+							spl1_mr2[spl1_pp][s]=spl1_mr2[n][s];
+						}
 
-					pop_va2[pop_pp]=v;
-					pop_rp2[pop_pp]=w;    // repeat times
-					pop_mr2[pop_pp][r]=0;
+						spl1_mrk[spl1_pp]=1;
+						spl1_sid[spl1_pp][r]=t2_find_pp2;
+						spl1_len[spl1_pp]=p+2;
+						spl1_seg[spl1_pp]=r+1;
+						spl1_val[spl1_pp]=q+ai_number[1];
+						spl1_rpt[spl1_pp]=t+1;    // repeat times
+	
+				        	if (p+2>=l) spl1_mrk[spl1_pp]=2;
 
-//		sprintf(m101_str3,"pop_pp=%d,pop_mrk=%d,str=%s,len=%d,seg=%d,val=%d,",pop_pp,pop_mrk[pop_pp],pop_str[pop_pp][r],pop_len[pop_pp],pop_seg[pop_pp],pop_val[pop_pp]);
+						spl1_va2[spl1_pp]=v;
+						spl1_rp2[spl1_pp]=w;    // repeat times
+						spl1_mr2[spl1_pp][r]=0;
+
+//		sprintf(m101_str3,"spl1_pp=%d,spl1_mrk=%d,str=%s,len=%d,seg=%d,val=%d,",spl1_pp,spl1_mrk[spl1_pp],spl1_str[spl1_pp][r],spl1_len[spl1_pp],spl1_seg[spl1_pp],spl1_val[spl1_pp]);
 
 //		MessageBox(0,m101_str3,"into pop-r2",MB_OK);
 
 
-					pop_pp++;
+						//spl1_pp++;
+						spl1_stk2[spl1_stk2_pp1]=spl1_pp;
+						spl1_stk2_pp1++;
+						if (spl1_stk2_pp1>=SPL1_NUM)
+						{
+							MessageBox(0,"stk2 over flow in spl1","error message",MB_OK);
+							spl1_stk2_pp1=SPL1_NUM-1;
+						}
+					}
 
 				}
 
@@ -893,51 +1128,111 @@ int frame_loop1(void)
 
 			if (err==0)
 			{
-				m1=m2;
-				m2=pop_pp;
+				//m1=m2;
+				//m2=spl1_pp;
 
-				if (m2>100000) break;
-				if (m4>10000) break; 
+				//if (m2>100000) break;
+				if (m4>SPL1_MAX_NUM) break; 
 				if (m3==0) break;
 			}
 			else break;
 
+			for (i2=0;i2<spl1_stk3_pp1;i2++)  // delete old stack
+			{
+				spl1_stk1[spl1_stk1_pp1]=spl1_stk3[i2];
+				spl1_stk1_pp1++;
+			}
+			spl1_stk3_pp1=0;
+
+			if (spl1_stk2_pp1<=SPL1_MAX_NUM) continue; // if stack more than 200 ,keep 200 max ones , delete others
+
+			t3_init_tree2();
+			t4_init_tree2();
+
+			for (i2=0;i2<spl1_stk2_pp1;i2++)
+			{
+				i3=spl1_stk2[i2];
+
+				ff1=(float)spl1_va2[i3]/(float)spl1_len[i3];
+				ff2=(float)spl1_rp2[i3]/(float)spl1_len[i3];
+				ff3=(float)spl1_val[i3]/(float)spl1_len[i3];
+				ff4=(float)spl1_rpt[i3]/(float)spl1_len[i3];
+
+				i4=t3_search_node(ff1,ff2,ff3,ff4); // key repeat times
+				if (i4!=0) i5=0;
+				else i5=t3_node_val2[t3_find_pp]+1;
+
+				i4=t3_insert_node(ff1,ff2,ff3,ff4);
+				t3_node_val2[t3_find_pp2]=i5;
+
+				i4=t4_insert_node(ff1,ff2,ff3,ff4,i5);
+				t4_node_val3[t4_find_pp2]=i3;
+			}
+
+			t4_after_list();
+
+			//for (i2=0;i2<spl1_stk2_pp1;i2++)
+			//{
+			//	spl1_stk1[spl1_stk1_pp1]=spl1_stk2[i2];
+			//	spl1_stk1_pp1++;
+			//}
+			spl1_stk2_pp1=0;
+
+			i3=0;
+
+			for(i2=0;i2<t4_out_pp;i2++)
+			{
+				i3++;
+				if (i3<=SPL1_MAX_NUM)
+				{
+					spl1_stk2[spl1_stk2_pp1]=t4_out_buff3[i2];
+					spl1_stk2_pp1++;
+				}
+				else
+				{
+					spl1_stk1[spl1_stk1_pp1]=t4_out_buff3[i2]; // delete 
+					spl1_stk1_pp1++;
+				}
+			}
 		}
 
 
 
-		n1=m1;
-
-		f1=0;  // 4 level of value
-		n5=0;
-		f2=0;
-		n3=0;
-
+		n1=0;
 		n2=0;
 
-		while (n1<m2)
+		f1=0;  // 4 level of value
+		f2=0;
+		f3=0;
+		f4=0;
+
+		i2=0;
+
+		while (i2<spl1_stk2_pp1)
 		{
-			if (pop_mrk[n1]==2)
+			n1=spl1_stk2[i2];
+
+			if (spl1_mrk[n1]==2)
 			{
 				bigger=0;
 
-				if (pop_va2[n1]>f1) bigger=1;
+				if (spl1_va2[n1]>f1) bigger=1;
 				else
 				{
-					if (pop_va2[n1]==f1)
+					if (spl1_va2[n1]==f1)
 					{
-						if (pop_rp2[n1]>n5) bigger=1;
+						if (spl1_rp2[n1]>f2) bigger=1;
 						else
 						{
-							if (pop_rp2[n1]==n5)
+							if (spl1_rp2[n1]==f2)
 							{
 
-								if (pop_val[n1]>f2) bigger=1;
+								if (spl1_val[n1]>f3) bigger=1;
 								else
 								{
-									if (pop_val[n1]==f2)
+									if (spl1_val[n1]==f3)
 									{
-										if (pop_rpt[n1]>n3)
+										if (spl1_rpt[n1]>f4)
 										{
 											bigger=1;
 										}
@@ -951,22 +1246,22 @@ int frame_loop1(void)
 
 				if (bigger==1)
 				{
-					f1=pop_va2[n1];
-					n5=pop_rp2[n1];
-					f2=pop_val[n1];
-					n3=pop_rpt[n1];
+					f1=spl1_va2[n1];
+					f2=spl1_rp2[n1];
+					f3=spl1_val[n1];
+					f4=spl1_rpt[n1];
 
 					n2=n1;
 				}
 
 			}
 
-			n1++;
+			i2++;
 		}
 
-		//printf("pop_pp=%d,m4=%d,t2_buff_pp=%d,\n",pop_pp,m4,t2_buff_pp);  // for test
+		//printf("spl1_pp=%d,m4=%d,t2_buff_pp=%d,\n",spl1_pp,m4,t2_buff_pp);  // for test
 
-		if ((f1>0)||(f2>0))
+		if ((f1>0)||(f2>0)||(f3>0)||(f4>0))
 		{
 			out_put_seg(n2);
 		}
@@ -982,23 +1277,17 @@ int frame_loop1(void)
 	return(0);
 }
 
-
-
-
-
-
-
 int out_put_seg(int pp)
 {
 	int i,j;
 
-	for (i=0;i<pop_seg[pp];i++)
+	for (i=0;i<spl1_seg[pp];i++)
 	{
-		j=pop_sid[pp][i];
+		j=spl1_sid[pp][i];
 
 		fputs(t2_node_val[j],m_fp1);
 
-		if (pop_mr2[pp][i]==1) fputs(";;",m_fp1);
+		if (spl1_mr2[pp][i]==1) fputs(";;",m_fp1);
 		else fputs(",,",m_fp1);
 	}
 

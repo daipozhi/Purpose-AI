@@ -109,7 +109,7 @@ How does computer process text,video,audio
                   run program in  'webfind24b'(step70)(separate to words by word database )
                   run program in  'webfind25c'(step80)(get all words ,generate word database again )
 
-                  run program in  'webfind53'(step90)(separate to words by word courseware and word database )
+                  run program in  'webfind53b'(step90)(separate to words by word courseware and word database )
 				(word courseware is in file words-cw01.txt and words-cw02_sort.txt , how to make 
 				word courseware please read readme.txt file in directory webfind50 )
                   run program in  'webfind54'(step100)(get all words ,generate 3rd word database )
@@ -161,7 +161,7 @@ How does computer process text,video,audio
 
             grammer courseware is in file grammer-cw03.txt
 
-                run program in webfind61 (step210)(copy to work_dir)
+                run program in webfind61b (step210)(copy to work_dir)
                     (separate sentence by word courseware and word database , 
                     not only keep the highest value one , also keep some lower 
                     value ones , calculate its grammer value , add with its word value ,

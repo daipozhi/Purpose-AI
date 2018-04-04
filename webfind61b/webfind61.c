@@ -534,6 +534,7 @@ int frame_loop1(void)
 		return(1);
 	}
 
+	printf("%s,\n",m101_s2);
 
 	while (!feof(fp1))
 	{
@@ -875,7 +876,12 @@ int load6(void)
 						if (pp==0)  //words
 						{
 							m501_l2[k+0]=c1;
-							m501_l2[k+1]=0;
+							m501_l2[k+1]=c2;
+							m501_l2[k+2]=0;
+							k=k+2;
+			  				if (k>=SMG_LEN-3) k=SMG_LEN-3;
+							i=i+2;
+							continue;
 						}
 						else   // repeat times
 						{
