@@ -17,8 +17,7 @@ How does computer process text,video,audio
 
         download some random chinese text by a offline browser , have
         enough capacity ,more than 10GB ,in this version 
-        only have a few .(english text may been processed in same
-        way , need modify source code)
+        only have a few .
 
         get every sentence ,get every single chinese , and the after
          2 chinese and the after 3 chinese ...
