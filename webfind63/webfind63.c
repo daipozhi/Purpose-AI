@@ -19,7 +19,7 @@
 #define   IDOK			4
 #define   IDRETRY		5
 
-int   MessageBox(int h1,char *h2,char *h3,int h4);
+int    MessageBox(int h1,char *h2,char *h3,int h4);
 
 #include <locale.h>
 #include <iconv.h>
@@ -377,12 +377,25 @@ int mproc(void)
 	int   sn1,sn2,sn3,sn4,sn5,sn6;
 	int   i1,i2,i3,i4;
 	int   ns[6];
+	int   ln1,ln2;
+	int   err3[5];
+	int   err4;
 
 	err=0;
 	f1_init_ext();
 	//t1_init_tree2();
 	t3_init_tree2();
 	err2_n=0;
+	ln1=0;
+	ln2=0;
+
+	err3[0]=0;
+	err3[1]=0;
+	err3[2]=0;
+	err3[3]=0;
+	err3[4]=0;
+
+	err4=0;
 
 	while(1)
 	{
@@ -406,16 +419,15 @@ int mproc(void)
 
 				fgets(m101_l1,3000,fp1);
 
+				ln1++; //total lines
+
 				string_trim(m101_l1);
 
-				if ((m101_l1[0]>=0)&&(m101_l1[0]<=' '))
+				if ((m101_l1[0]>=0)&&(m101_l1[0]<' '))
                 		{
-		                    err2_n++;
+		                    err4++;
                 		    continue;
                 		}
-
-
-
 
 	    	        	l=0;
 		    		m=0;
@@ -452,7 +464,11 @@ int mproc(void)
 			                }
 		                }
 
-		                if (m!=1) continue; // this line don't have grammer
+		                if (m!=1)
+				{
+					ln2++;
+					continue; // this line don't have grammer
+				}
 
       
 		    	        l=0;
@@ -493,7 +509,7 @@ int mproc(void)
 
 				                        if ((i4<0)||(i4>=100))
 				                        {
-				                                err2=1;
+				                                err2=1;  //start number error
                                 				break;
                             				}
 
@@ -501,7 +517,7 @@ int mproc(void)
 				                        {
 				                                if (i4!=i1+1)
                                 				{
-                                					err2=1;
+                                					err2=2; // start number isn't next number
                                 					break;
                                 				}
                                 				else
@@ -513,7 +529,7 @@ int mproc(void)
 
                                 					if (strlen(m101_l3)>50)
                                 					{
-                                						err2=1;
+                                						err2=3; // string too long
                                 						break;
                                 					}
 
@@ -531,7 +547,7 @@ int mproc(void)
                     									k=search_wd5(m101_l3);
         	            								if (k!=1)
         	            								{
-        	            									err2=1;
+        	            									err2=4; // not in word base
         	            									break;
         	            								}
                                         					}
@@ -548,13 +564,13 @@ int mproc(void)
 
 				                                if (i3!=load_buff_mrk[i1])
                                 				{
-				                                    err2=1;
+				                                    err2=5; // mark error
                                 				    break;
                                 				}
 
 				                                if (strlen(m101_l3)>50)
                                 				{
-                                				    err2=1;
+                                				    err2=3;
                                 				    break;
                                 				}
 
@@ -571,7 +587,7 @@ int mproc(void)
 			                    			    	k=search_wd5(m101_l3);
         	        		    				if (k!=1)
         	        		    				{
-        	        		    					err2=1;
+        	        		    					err2=4;
         	        		    					break;
         	        		    				}
 				                                    }
@@ -606,7 +622,15 @@ int mproc(void)
 
 		    		if (err2!=0)
 		    		{
+					//printf("err2=%d,\n",err2);
+
 		    			err2_n++;
+
+					if (err2<1) continue;
+					if (err2>5) continue;
+
+					err3[err2-1]++;
+
 		    			continue;	// error or not found in word base (words04.txt)
 		    		}
 
@@ -667,7 +691,16 @@ int mproc(void)
 		if (err!=0) break;
 	}
 
-	printf("%d line skiped \n",err2_n);
+	printf("total %d lines \n",ln1);
+	printf("%d lines is empty \n",err4);
+	printf("%d lines don't have grammer\n",ln2);
+	printf("%d lines error \n",err2_n);
+
+	printf("          %d start number error             \n",err3[0]);
+	printf("          %d start number isn't next number \n",err3[1]);
+	printf("          %d string too long                \n",err3[2]);
+	printf("          %d not in word base               \n",err3[3]);
+	printf("          %d mark error                     \n",err3[4]);
 
 	fp2=fopen("grammer-base04.txt","w");
 	if (fp2==NULL)
