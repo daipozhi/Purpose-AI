@@ -130,7 +130,8 @@ How does computer process text,video,audio
         save all the permutation and combination of words to memory , 
             total load 3 files everytime , 000-002 ,or 003-005 , repeated is
             grammer(phrase) , every grammer(phrase) has its value ,
-            as AI number .
+            as AI number ,grammer(phrase) with 2 chinese ,its value is 15,
+            grammer(phrase) with 3 chinese  its value is 25 ...
 
         make grammer courseware ,tell computer how to describe many concepts ,
             include 'date' 'time' 'temperature' 'percent'... ,every grammer
