@@ -136,7 +136,7 @@ How does computer process text,video,audio
         make grammer courseware ,tell computer how to describe many concepts ,
             include 'date' 'time' 'temperature' 'percent'... ,every grammer
             has its value ,grammer(phrase) with 2 chinese ,its value is 15,
-            grammer(phrase) with 3 chinese  its value is 25 ...its priority is 
+            grammer(phrase) with 3 chinese ,its value is 25 ...its priority is 
             higher than automatic generated grammer .
 
         separate sentence by word courseware and word database , not only 
