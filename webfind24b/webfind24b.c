@@ -108,7 +108,7 @@ int ai_number_g(void);
 //		  ,int show)
 int main(void)
 {
-	MessageBox(0,"load string2base000.txt ,words99.txt, write to words9srt000.txt","message",MB_OK);
+	MessageBox(0,"load string2base000.txt ,words01.txt, write to words9srt000.txt","message",MB_OK);
 
 	ai_number_g();
 
@@ -1105,7 +1105,7 @@ int search_wd6(char *s_str)
 
 int f1_get_fln4(char *s1)
 {
-	strcpy(s1,"words99.txt");
+	strcpy(s1,"words01.txt");
 
 	//s1[11]=mc3;
 	//s1[12]=mc2;

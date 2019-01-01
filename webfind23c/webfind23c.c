@@ -177,7 +177,7 @@ class tree2b tree2b_1;*/
 //{
 int main(void)
 {
-	MessageBox(0,"load words9base000.txt, write to words01.txt words99.txt","message",MB_OK);
+	MessageBox(0,"load words9base000.txt, write to words01.txt ","message",MB_OK);
 
     	t1_init_tree2();
   
@@ -185,8 +185,6 @@ int main(void)
 
     	t1_after_list();
   
-    	t1_save_list("words99.txt");
-
     	t1_save_list("words01.txt");
 
 	MessageBox(0,"words ok","message",MB_OK);

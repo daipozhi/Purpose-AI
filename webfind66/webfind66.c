@@ -79,7 +79,7 @@ long long int str2llint(char *pstr);
 //		  ,int show)
 int main(void)
 {
-	MessageBox(0,"load grm-base1-000.txt ,words04.txt , write to grammer-cw04.txt grammer-base04.txt","message",MB_OK);
+	MessageBox(0,"load grm-base2-000.txt ,words05.txt , write to grammer-cw05.txt grammer-base05.txt","message",MB_OK);
 
 	load5();
 
@@ -116,7 +116,7 @@ int load5(void)
 
 	at5_pp=0;
 
-	strcpy(m401_s1,"words04.txt");
+	strcpy(m401_s1,"words05.txt");
 
 	fp1=fopen(m401_s1,"r");
 	if (fp1==NULL)
@@ -712,10 +712,10 @@ int mproc(void)
 
 
 
-	fp2=fopen("grammer-base04.txt","w");
+	fp2=fopen("grammer-base05.txt","w");
 	if (fp2==NULL)
 	{
-		MessageBox(0,"grammer-base04.txt","message open file error",MB_OK);
+		MessageBox(0,"grammer-base05.txt","message open file error",MB_OK);
 		return(1);
 	}
 
@@ -851,14 +851,14 @@ int mproc(void)
 
 
 
-	t3_after_list();
-
-	fp2=fopen("grammer-base04_sort.txt","w");
+	fp2=fopen("grammer-base05_sort.txt","w");
 	if (fp2==NULL)
 	{
-		MessageBox(0,"grammer-base04_sort.txt","message open file error",MB_OK);
+		MessageBox(0,"grammer-base05_sort.txt","message open file error",MB_OK);
 		return(1);
 	}
+
+	t3_after_list();
 
 	for (i=0;i<t3_out_pp;i++)
 	{
@@ -991,10 +991,11 @@ int mproc(void)
 
 
 
-	fp2=fopen("grammer-cw04.txt","w");
+
+	fp2=fopen("grammer-cw05.txt","w");
 	if (fp2==NULL)
 	{
-		MessageBox(0,"grammer-cw04.txt","message open file error",MB_OK);
+		MessageBox(0,"grammer-cw05.txt","message open file error",MB_OK);
 		return(1);
 	}
 
@@ -1179,7 +1180,7 @@ int load11(void)
 
 	err_n=0;
 
-	strcpy(m601_s1,"grammer-cw03.txt");
+	strcpy(m601_s1,"grammer-cw04.txt");
 
 	fp1=fopen(m601_s1,"r");
 	if (fp1==NULL)
@@ -1398,7 +1399,7 @@ int f1_get_fln(char *s1)
 
 int f1_get_fln2(char *s1)
 {
-	strcpy(s1,"grm-base1-000.txt");
+	strcpy(s1,"grm-base2-000.txt");
 
 	s1[10]=mc3;
 	s1[11]=mc2;

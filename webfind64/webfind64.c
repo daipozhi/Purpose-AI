@@ -111,7 +111,7 @@ char spl1_in[SMG_LEN];	// input
 //		  ,int show)
 int main(void)
 {
-	MessageBox(0,"load words-cw2-000.txt , word database, words courseware, grammer database, grammer courseware, write to grm-base1-000.txt","message",MB_OK);
+	MessageBox(0,"load words-cw2-000.txt , word database, words courseware, grammer database, grammer courseware, write to grm-base2-000.txt","message",MB_OK);
 
 	ai_number_g();
 
@@ -123,9 +123,9 @@ int main(void)
 
 	cww1_load(); // word courseware 1
 
-	load11();  //grammer courseware
+	load11b();  //grammer courseware
 
-	//load12();  //grammer base
+	load12b();  //grammer base
 
 	mproc("");
 
@@ -203,7 +203,7 @@ int f1_get_fln(char *s1)
 
 int f1_get_fln2(char *s1)
 {
-	strcpy(s1,"grm-base1-000.txt");
+	strcpy(s1,"grm-base2-000.txt");
 
 	s1[10]=mc3;
 	s1[11]=mc2;
@@ -280,7 +280,7 @@ static	char	     m601_s3[1000];
 static	char         m601_s4[SMG_LEN];
 static  int 	     m601_ns[20];
 
-int load11(void)
+int load11b(void)
 {
 	FILE		*fp1;
     	int         i,j,k,m;
@@ -297,7 +297,7 @@ int load11(void)
 
 	err_n=0;
 
-	strcpy(m601_s1,"grammer-cw03.txt");
+	strcpy(m601_s1,"grammer-cw04.txt");
 
 	fp1=fopen(m601_s1,"r");
 	if (fp1==NULL)
@@ -429,7 +429,7 @@ int load11(void)
 
 		t1_insert_node(m601_ns[0],m601_ns[1],m601_ns[2],m601_ns[3],m601_ns[4],m601_ns[5]);
 
-		t1_node_val2[t1_find_pp2]=10; // repeat time
+		t1_node_val2[t1_find_pp2]=str2llint(m601_l3); // repeat time
 
 
 		// test ----
@@ -450,7 +450,7 @@ int load11(void)
 		}
 		str_gb18030_to_utf8_close();
 
-		MessageBox(0,m601_s3,"load11 message",MB_OK);
+		MessageBox(0,m601_s3,"load11b message",MB_OK);
 		*/
 		// end of test ----
 
@@ -458,7 +458,7 @@ int load11(void)
 
 	fclose(fp1);
 
-	sprintf(m601_s2,"load11() %d line skiped %s,",err_n,m601_s4);
+	sprintf(m601_s2,"load11b() %d line skiped %s,",err_n,m601_s4);
 
 	str_gb18030_to_utf8_ini();
 	if (AI_LINUX==1)
@@ -511,11 +511,6 @@ int frame_loop1(void)
 	//char         str3[3000];
 	int	     t1,t2;
 	int 	     tst1;
-
-	i=(mc3-'0')*100+(mc2-'0')*10+mc1-'0'; // times of 3 , run load12() , load grammer base 
-	j=i-3*(i/3);
-
-	if (j==0) load12();
 
 	f1_get_fln3(m101_str5);
 
@@ -817,7 +812,7 @@ int load6(void)
 
 	at6_pp=0;
 
-	fp1=fopen("words-cw02rpt.txt","r");
+	fp1=fopen("words-cw02rpt2.txt","r");
 	if (fp1==NULL)
 	{
 		MessageBox(0,"words-cw02rpt.txt","message open file error",MB_OK);
@@ -1739,7 +1734,7 @@ int search_wd6(char *s_str)
 
 int f1_get_fln4(char *s1)
 {
-	strcpy(s1,"words03.txt");
+	strcpy(s1,"words04.txt");
 
 	//s1[11]=mc3;
 	//s1[12]=mc2;

@@ -246,8 +246,6 @@ int main(void)
 
     	t1_after_list();
   
-    	t1_save_list("words99.txt");
-
     	t1_save_list("words04.txt");
 
     	t3_after_list();

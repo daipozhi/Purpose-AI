@@ -10,7 +10,7 @@ How does computer process text,video,audio
  Purpose AI is distributed in the hope that it will be useful,
   but WITHOUT ANY WARRANTY; )
 
-(Feb 1st 2018 Updated)
+(Jan 1st 2019 Updated)
 
 
     A, text , words
@@ -76,10 +76,10 @@ How does computer process text,video,audio
             generated word ,chinese word with 1 chinese ,its value is 5,
             chinese word with 2 chinese  its value is 15 ... but its priority
             is higher ,separate every sentence by word courseware and automatic
-            generated word base ,get all the words, it is 3rd word base .
+            generated word database ,get all the words, it is 3rd word database .
 
         you may ask,we have word courseware ,why still need automatic generated
-            word base ,in fact both are needed ,what computer can do let computer 
+            word database ,in fact both are needed ,what computer can do let computer 
             do it ,what computer can't do let human do it ,this is a rule ,
             otherwise ,it is incomplete.
 
@@ -120,6 +120,7 @@ How does computer process text,video,audio
                    program in directory 'tools-4' , ./utf8-to-gb18030.exe myfile.utf8.txt , it will convert 
                    chinese to GB18030 and copy to myfile.txt .) 
 
+			(Nov  9th 2013 first version )
 			(Mar 21th 2014 version added support to repeat times of words, and better algorithm )
 			(DEC 21th 2015 version changed AI Number,updated document,added tools)
 			(Feb  1st 2018 version added word courseware )
@@ -150,11 +151,24 @@ How does computer process text,video,audio
 
         separate all text . 
 
-        get all words , it is 4th word base .
+        get all words , it is 4th word database .
 
-        get all grammer , it is grammer base .
+        get all grammer , it is grammer database .
 
         after this step accuracy is about 91%
+
+        separate sentence , this time by grammer database ,not by if it is repeated
+            in text file .
+
+        separate all text . 
+
+        get all words , it is 5th word database .
+
+        get all grammer , it is grammer database .
+
+        after this step , word database is almost same ,but grammer database is quite 
+            different .
+
 
         source code:
 
@@ -169,14 +183,30 @@ How does computer process text,video,audio
                     choose max value one )
 
                 run program in webfind62 (step220)(copy to work_dir)
-                    ( get all the words , it is 4th word base )
+                    ( get all the words , it is 4th word database )
 
                 run program in webwind63 (step230)(copy to work_dir)
-                    ( get all the grammer , it is grammer base )
+                    ( get all the grammer , it is grammer database )
+
+
+                run program in webfind64 (step240)(copy to work_dir)
+                    (separate sentence by word courseware and word database , 
+                    not only keep the highest value one , also keep some lower 
+                    value ones , calculate its grammer value ,this time by grammer 
+                    database ,not by if it is repeated in text file ,add with its word 
+                    value ,choose max value one )
+
+                run program in webfind65 (step250)(copy to work_dir)
+                    ( get all the words , it is 5th word database )
+
+                run program in webwind66 (step260)(copy to work_dir)
+                    ( get all the grammer , it is grammer database )
 
 			(Mar 21th 2014 version added support to repeat times of grammers, repeat times of words, 
                              and better algorithm )
 			(Feb  1st 2018 version added grammer courseware )
+			(Jan  1st 2019 version added a new step of grammer , separate sentence , by grammer 
+                             database, not by if it is repeated in text file )
 
 
 

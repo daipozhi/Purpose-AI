@@ -63,7 +63,7 @@ int f2_loaddir(void)
 	fp1=fopen("dirbuf.txt","r");
 	if (fp1==NULL)
 	{
-		MessageBox(0,"error when open file dirbuf.txt","message",MB_OK);
+		MessageBox(0,"dirbuf.txt","message open file error ",MB_OK);
 		return(1);
 	}
 

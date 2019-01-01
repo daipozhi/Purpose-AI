@@ -44,8 +44,8 @@ int deb_upper_string(char *p_instr);
 #include <stdio.h>
 
 
-#define TREE2_SIZE_C 5000000
-#define LIST_SIZE_C  500000
+#define TREE2_SIZE_C 1000000
+#define LIST_SIZE_C  100000
 
     char  t3_node_mark[TREE2_SIZE_C];
     int   t3_node_val[TREE2_SIZE_C][5];
@@ -63,8 +63,8 @@ int deb_upper_string(char *p_instr);
     char  t3_list_stack_type[LIST_SIZE_C];
     int   t3_list_pp;
 
-    int   t3_out_buff[TREE2_SIZE_C][5];
-    int   t3_out_buff2[TREE2_SIZE_C];
+    //int   t3_out_buff[TREE2_SIZE_C][5];
+
     int   t3_out_pp;
 
     int   t3_init_tree2(void);
@@ -74,7 +74,7 @@ int deb_upper_string(char *p_instr);
     int   t3_insert_node(int pn1,int pn2,int pn3,int pn4,int pn5);
     int   t3_dsp_tree2(void);
     int   t3_after_list(void);
-    int   t3_out_list(int);
+    int   t3_out_list(char *pstr,long long int ,int);
     int   t3_dsp_list(void);
     int   t3_save_list(char *fn);
 
@@ -649,7 +649,7 @@ int t3_after_list(void)
     {
       k=t3_list_stack[j];
 
-      t3_out_list(k);
+      //t3_out_list(t3_node_val[k],t3_node_val2[k],k);
 
       //sprintf(str1,"out val %s,",node_val[k]);
       //MessageBox(0,str1,"message",MB_OK);
@@ -659,7 +659,7 @@ int t3_after_list(void)
   return(0);
 }
 
-int t3_out_list(int pp)
+int t3_out_list(char *pstr,long long int pn1,int pp)
 {
   int i,j;
 /*
@@ -674,18 +674,9 @@ int t3_out_list(int pp)
 		t3_out_buff3[t3_out_pp][i][j]=t3_node_val3[pp][i][j];
 
   t3_out_buff3_pp[t3_out_pp]=t3_node_val3_pp[pp];
-*/
 
-  t3_out_buff[t3_out_pp][0]=t3_node_val[pp][0];
-  t3_out_buff[t3_out_pp][1]=t3_node_val[pp][1];
-  t3_out_buff[t3_out_pp][2]=t3_node_val[pp][2];
-  t3_out_buff[t3_out_pp][3]=t3_node_val[pp][3];
-  t3_out_buff[t3_out_pp][4]=t3_node_val[pp][4];
 
-  t3_out_buff2[t3_out_pp]=t3_node_val2[pp];
-
-  t3_out_pp++;
-
+  t3_out_pp++;*/
   return(0);
 }
 

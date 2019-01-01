@@ -42,6 +42,18 @@ cd ../webfind63
 gcc -o a-step230.exe webfind63.c tree2.c tree2b.c tree2c.c -liconv
 cp a-step230.exe ../work_dir
 
+
+cd ../webfind64
+gcc -o a-step240.exe webfind64.c load12b.c spl1.c spl2.c tree2.c tree2b.c tree2c.c tree2d.c tree2g.c tree2h.c -liconv
+cp a-step240.exe ../work_dir
+cd ../webfind65
+gcc -o a-step250.exe webfind65.c tree2.c tree2c.c -liconv
+cp a-step250.exe ../work_dir
+cd ../webfind66
+gcc -o a-step260.exe webfind66.c tree2.c tree2b.c tree2c.c -liconv
+cp a-step260.exe ../work_dir
+
+
 cd ../webfind50
 gcc words-cw01.c -liconv
 cd ../webfind52

@@ -664,17 +664,17 @@ int t3_out_list(int pp)
   int i,j;
 /*
   if ((int)strlen(pstr)>=300) return(0);
-  
+*/
+/*
   strcpy(t3_out_buff[t3_out_pp],pstr);
   t3_out_buff2[t3_out_pp]=pn1;
-
-
+*/
+/*
   for (i=0;i<5;i++)
 	for (j=0;j<3;j++)
 		t3_out_buff3[t3_out_pp][i][j]=t3_node_val3[pp][i][j];
-
-  t3_out_buff3_pp[t3_out_pp]=t3_node_val3_pp[pp];
 */
+//  t3_out_buff3_pp[t3_out_pp]=t3_node_val3_pp[pp];
 
   t3_out_buff[t3_out_pp][0]=t3_node_val[pp][0];
   t3_out_buff[t3_out_pp][1]=t3_node_val[pp][1];

@@ -225,7 +225,7 @@ int f1_get_fln3(char *s1)
 }
 
 
-
+// super pipeline level 1 (spl1)
 #define SPL1_NUM     30000
 #define SPL1_MAX_NUM 1000
 

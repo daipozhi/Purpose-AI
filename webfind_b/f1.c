@@ -141,7 +141,7 @@ int main(void)
 
   str_gb18030_to_utf8_close();
 
-  MessageBox(0,"Words2 ok","message",MB_OK);
+  MessageBox(0,"words ok","message",MB_OK);
 
   return(0);
 }

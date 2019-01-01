@@ -44,7 +44,7 @@ int deb_upper_string(char *p_instr);
 #include <string.h>
 
 #define SMG_LEN		 300
-#define PY_YIN           1000
+//#define PY_YIN           1000
 //#define STR_LEN_WORD2    25
 
 //char word8_s[STR_LEN_WORD2];
@@ -56,8 +56,8 @@ long word8(char *);
 
 //extern int MessageBox(int ,char *,char *,int );
 
-#define TREE2_SIZE 4000000
-#define LIST_SIZE  500000
+#define TREE2_SIZE 1000000
+#define LIST_SIZE  100000
 
 
 /*
@@ -112,11 +112,8 @@ class tree2
 class tree2 tree2_1;
 */
 
-#define TREE2_SIZE_B 1500000
-#define LIST_SIZE_B  150000
-
-#define TREE2_SIZE_B 1500000
-#define LIST_SIZE_B  150000
+#define TREE2_SIZE_B 1000000
+#define LIST_SIZE_B  100000
 
 /*
 class tree2b
@@ -170,6 +167,66 @@ class tree2b
 class tree2b tree2b_1;*/
 
 
+#define TREE2_SIZE_C 1000000
+#define LIST_SIZE_C  100000
+
+    char  t3_node_mark[TREE2_SIZE_C];
+    char  t3_node_val[TREE2_SIZE_C][55];
+    long long int t3_node_val2[TREE2_SIZE_C];
+
+    int   t3_node_val3[TREE2_SIZE_C][5][3];
+    int   t3_node_val3_pp[TREE2_SIZE_C];
+
+    int   t3_node_pp[TREE2_SIZE_C][3];
+    int   t3_root_pp;
+    int   t3_buff_pp;
+    
+    int   t3_find_pp;
+    int   t3_find_pp2;
+    int   t3_find_side;
+    
+    int   t3_list_stack[LIST_SIZE_C];
+    char  t3_list_stack_type[LIST_SIZE_C];
+    int   t3_list_pp;
+
+    char  t3_out_buff[TREE2_SIZE_C][55];
+    long long int t3_out_buff2[TREE2_SIZE_C];
+
+    int   t3_out_buff3[TREE2_SIZE_C][5][3];
+    int   t3_out_buff3_pp[TREE2_SIZE_C];
+
+    int   t3_out_pp;
+
+    int   t3_init_tree2(void);
+    int   t3_new_node(void);
+    int   t3_clear_node(int pp);
+    int   t3_search_node(char *pstr);
+    int   t3_insert_node(char *pstr);
+    int   t3_dsp_tree2(void);
+    int   t3_after_list(void);
+    int   t3_out_list(char *pstr,long long int ,int);
+    int   t3_dsp_list(void);
+    int   t3_save_list(char *fn);
+
+
+
+
+
+//------------------------------
+#define ARTI_LINE    1000000
+
+char at6[ARTI_LINE][55];
+long long int at6_n[ARTI_LINE];
+int  at6_pp;
+
+int  search_wd6(char *);
+int  load6(void);
+
+long long int find_n6;
+
+//------------------------------
+
+
 //int pascal WinMain(HINSTANCE ins
 //		  ,HINSTANCE pins
 //		  ,LPSTR cl
@@ -177,23 +234,31 @@ class tree2b tree2b_1;*/
 //{
 int main(void)
 {
-	MessageBox(0,"load words9srt000.txt, write to words02.txt ","message",MB_OK);
+	MessageBox(0,"load grm-base2-000.txt, write to words05.txt words-cw02rpt3.txt","message",MB_OK);
+
+	load6();
 
     	t1_init_tree2();
+  
+    	t3_init_tree2();
   
     	word8("");
 
     	t1_after_list();
   
-    	t1_save_list("words02.txt");
+    	t1_save_list("words05.txt");
 
-	MessageBox(0,"words ok","message",MB_OK);
+    	t3_after_list();
+  
+    	t3_save_list("words-cw02rpt3.txt");
+
+	MessageBox(0,"grammer ok","message",MB_OK);
 
 	return(0);
 }
 
-char m201_str1[5000];
-char m201_str2[5000];
+static char m201_str1[5000];
+static char m201_str2[5000];
 
 
 long word8(char *pstr1)
@@ -206,19 +271,19 @@ long word8(char *pstr1)
 	//char str1[5000];
 	//char str2[5000];
 
-	strcpy(s1,"words9srt000.txt");
+	strcpy(s1,"grm-base2-000.txt");
 
 	c1='0';
 	c2='0';
 	c3='0';
 
-	s1[11]=c1;
-	s1[10]=c2;
-	s1[ 9]=c3;
+	s1[12]=c1;
+	s1[11]=c2;
+	s1[10]=c3;
+
 
 	while(1)
 	{
-
 		strcpy(s2,s1);
 
 		fp1=fopen(s2,"r");
@@ -229,8 +294,6 @@ long word8(char *pstr1)
 		}
 
 		t2_init_tree2();
-
-		n2=0;
 
 		while(!feof(fp1))
 		{
@@ -250,8 +313,6 @@ long word8(char *pstr1)
 			m=0;
 			m201_str2[0]=0;
 
-			n3=0;
-
 			while(l<(int)strlen(m201_str1))
 			{
 				c4=m201_str1[l+0];
@@ -268,45 +329,43 @@ long word8(char *pstr1)
 				}
 				else
 				{
-
-				if (c4!=',')
-				{
-					m201_str2[m+0]=c4;
-					m201_str2[m+1]=0;
-
-					l++;
-					m++;
-				}
-				else
-				{
-
-					t2_insert_node(m201_str2);
-					t2_node_val2[t2_find_pp2]=t2_node_val2[t2_find_pp2]+1;
-
-					if (t2_node_val3_pp[t2_find_pp2]<5)  // for words browser
+					if ((c4=='=')||(c4=='-'))
 					{
-						o=t2_node_val3_pp[t2_find_pp2];
-
-						n1=(s1[9]-'0')*100+(s1[10]-'0')*10+(s1[11]-'0');
-
-						t2_node_val3[t2_find_pp2][o][0]=n1;  //number of file
-						t2_node_val3[t2_find_pp2][o][1]=n2;  //line number
-						t2_node_val3[t2_find_pp2][o][2]=n3;  // same line words number
-
-						o++;
-						t2_node_val3_pp[t2_find_pp2]=o;
+						l=l+4;
 					}
+					else
+					{
 
-					m=0;
-					m201_str2[0]=0;
-					l++;
-					n3++;
-				}
+						if ((c4!=',')&&(c4!=';'))
+						{
+							m201_str2[m+0]=c4;
+							m201_str2[m+1]=c5;
+							m201_str2[m+2]=0;
+
+							l=l+2;
+							m=m+2;
+						}
+						else
+						{
+
+							t2_insert_node(m201_str2);
+							t2_node_val2[t2_find_pp2]=t2_node_val2[t2_find_pp2]+1;
+
+							if (c4==';')
+							{
+								t3_insert_node(m201_str2);
+								t3_node_val2[t3_find_pp2]=t3_node_val2[t3_find_pp2]+1;
+							}
+
+							m=0;
+							m201_str2[0]=0;
+							l=l+2;
+						}
+					}
 
 				}
 			}
 
-			n2++;
       
 		}
 
@@ -315,7 +374,6 @@ long word8(char *pstr1)
 		t2_after_list();
   
     		t2_save_list("");
-
 
 		c1++;
 		if (c1>'9')
@@ -330,16 +388,217 @@ long word8(char *pstr1)
 			}
 		}
 
-		s1[11]=c1;
-		s1[10]=c2;
-		s1[ 9]=c3;
-
+		s1[12]=c1;
+		s1[11]=c2;
+		s1[10]=c3;
 
 	}
 
 	return(0);
 }
 
+
+
+static	char         m501_l1[SMG_LEN];
+static	char         m501_l2[SMG_LEN];
+static	char         m501_l3[SMG_LEN];
+static	char         m501_s1[SMG_LEN];
+static	char	     m501_s2[SMG_LEN];
+static	char	     m501_s3[SMG_LEN];
+
+int load6(void)
+{
+	FILE		*fp1;
+    	int         i,j,k;
+	//char         l1[SMG_LEN];
+	//char         l2[SMG_LEN];
+	//char         l3[SMG_LEN];
+	//char         s1[SMG_LEN];
+	//char	       s2[SMG_LEN];
+	char         c1;
+	int          pp;
+
+	j=0;
+	k=0;
+
+	at6_pp=0;
+
+	strcpy(m501_s1,"words-cw02_sort.txt");
+
+	fp1=fopen(m501_s1,"r");
+	if (fp1==NULL)
+	{
+		MessageBox(0,m501_s1,"message open file error",MB_OK);
+		return(1);
+	}
+
+	while (!feof(fp1))
+	{
+		m501_l1[0]=0;
+
+		fgets(m501_l1,SMG_LEN,fp1);
+	
+		//i=(int)strlen(m501_l1);
+
+		//for (j=i-1;j>=0;j--)
+		//{
+		//	if ((m501_l1[j]>0)&&(m501_l1[j]<' ')) m501_l1[j]=0;
+		//	else break;
+		//}
+
+		string_trim(m501_l1);
+
+		if ((int)strlen(m501_l1)>50) continue;
+
+		strcpy(at6[at6_pp],m501_l1);
+
+		at6_n[at6_pp]=0;
+
+		//sprintf(m501_s2,"pp=%d,word=%s,rpt=%lld,",at6_pp,at6[at6_pp],at6_n[at6_pp]);
+
+		//str_gb18030_to_utf8_ini();
+		//if (AI_LINUX==1)
+		//{
+		//	str_gb18030_to_utf8(m501_s2,m501_s3,SMG_LEN);
+		//}
+		//else
+		//{
+		//	strcpy(m501_s3,m501_s2);
+		//}
+		//str_gb18030_to_utf8_close();
+
+		//MessageBox(0,m501_s3,"load6 message",MB_OK);
+
+		at6_pp++;
+
+	}
+
+	fclose(fp1);
+
+	return(0);
+}
+
+int search_wd6(char *s_str)
+{
+	int p1,p2;
+	int i,j;
+	int find;
+
+	find=0;
+	find_n6=0;
+	p1=0;
+	p2=at6_pp;
+
+	if (p2<=p1) return(0);
+
+	while(1)
+	{
+		i=(p1+p2)/2;
+		if (i<=p1)
+		{
+			j=strcmp(at6[i],s_str);
+			if (j==0)
+			{
+				find=1;
+				find_n6=at6_n[i];
+				break;
+			}
+			else
+			{
+				find=0;
+				break;
+			}
+		}
+		else
+		{
+			if (i>=p2)
+			{
+				j=strcmp(at6[i],s_str);
+				if (j==0)
+				{
+					find=1;
+					find_n6=at6_n[i];
+					break;
+				}
+				else
+				{
+					find=0;
+					break;
+				}
+			}
+			else
+			{
+				j=strcmp(at6[i],s_str);
+				if (j==0)
+				{
+					find=1;
+					find_n6=at6_n[i];
+					break;
+				}
+				else
+				{
+					if (j>0)
+					{
+						p1=i;
+						continue;
+					}
+					else
+					{
+						p2=i;
+						continue;
+					}
+				}
+			}
+		}
+	}
+
+	return(find);
+}
+
+int string_trim(char *pstr)
+{
+  int i,j,k,l,m;
+
+  i=(int)strlen(pstr);
+  j=0;
+  k=0;
+  l=0;
+
+  while (j<i)
+  {
+    if (pstr[j]<0)
+    {
+      j=j+2;
+      l=0;
+    }
+    else
+    {
+      if (pstr[j]>=' ')
+      {
+	j++;
+        l=0;
+      }
+      else
+      {
+        if (l==0)
+        {
+          k=j;
+          l=1;
+
+          j++;
+        }
+        else j++;
+      }
+    }
+  }
+
+  if (l==1)
+  {
+    for (m=k;m<i;m++) pstr[m]=0;
+  }
+
+  return(0);
+}
 
 
 
@@ -462,13 +721,13 @@ int str_gb18030_to_utf8_close(void)
 }
 
 
-char m01_fn[500];
-char m01_fn2[500];
-char m01_ext[500];
-FILE *m01_fp1;
-FILE *m01_fp2;
-char m01_l_in[3000000];
-char m01_l_out[3000000];
+static char m01_fn[500];
+static char m01_fn2[500];
+static char m01_ext[500];
+static FILE *m01_fp1;
+static FILE *m01_fp2;
+static char m01_l_in[3000000];
+static char m01_l_out[3000000];
 
 int file_gb18030_to_utf8(char *inbuffer)
 {
