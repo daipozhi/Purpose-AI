@@ -1735,7 +1735,7 @@ int search_wd6(char *s_str)
 
 int f1_get_fln4(char *s1)
 {
-	strcpy(s1,"words02.txt");
+	strcpy(s1,"words03.txt");
 
 	//s1[11]=mc3;
 	//s1[12]=mc2;
