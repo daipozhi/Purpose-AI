@@ -214,7 +214,7 @@ class tree2b tree2b_1;*/
 
 //------------------------------
 #define ARTI_LINE    1000000
-
+/*
 char at6[ARTI_LINE][55];
 long long int at6_n[ARTI_LINE];
 int  at6_pp;
@@ -223,6 +223,16 @@ int  search_wd6(char *);
 int  load6(void);
 
 long long int find_n6;
+*/
+
+	 char wd6_buf[ARTI_LINE][55];
+long long int wd6_rt[ARTI_LINE];
+	  int wd6_pp;
+
+int  wd6_search(char *);
+int  wd6_load(void);
+
+long long int wd6_find_rt;
 
 //------------------------------
 
@@ -236,7 +246,7 @@ int main(void)
 {
 	MessageBox(0,"load grm-base1-000.txt, write to words04.txt words-cw02rpt2.txt","message",MB_OK);
 
-	load6();
+	wd6_load();
 
     	t1_init_tree2();
   
@@ -259,12 +269,13 @@ int main(void)
 
 static char m201_str1[5000];
 static char m201_str2[5000];
+static char m201_str3[5000];
 
 
 long word8(char *pstr1)
 {
 	FILE *fp1;
-	int  i,j,k,l,m,n,n1,n2,n3,o;
+	int  i,j,k,l,m,n,n1,n2,n3,o,p,q,r,r2;
 	char c1,c2,c3,c4,c5;
 	char s1[SMG_LEN];
 	char s2[SMG_LEN];
@@ -335,34 +346,78 @@ long word8(char *pstr1)
 					}
 					else
 					{
-
-						if ((c4!=',')&&(c4!=';'))
+						if ((c4=='{')||(c4=='}')||(c4=='[')||(c4==']'))
 						{
-							m201_str2[m+0]=c4;
-							m201_str2[m+1]=c5;
-							m201_str2[m+2]=0;
-
 							l=l+2;
-							m=m+2;
 						}
 						else
 						{
-
-							t2_insert_node(m201_str2);
-							t2_node_val2[t2_find_pp2]=t2_node_val2[t2_find_pp2]+1;
-
-							if (c4==';')
+							if ((c4!=',')&&(c4!=';'))
 							{
-								t3_insert_node(m201_str2);
-								t3_node_val2[t3_find_pp2]=t3_node_val2[t3_find_pp2]+1;
-							}
+								m201_str2[m+0]=c4;
+								m201_str2[m+1]=c5;
+								m201_str2[m+2]=0;
 
-							m=0;
-							m201_str2[0]=0;
-							l=l+2;
+								l=l+2;
+								m=m+2;
+							}
+							else
+							{
+								r=0;
+								r2=0;
+								m201_str3[0]=0;
+								if (strncmp(m201_str2,"$*((",4)==0)
+								{
+									p=4;
+									while (p+1<strlen(m201_str2))
+									{
+										if ((m201_str2[p+0]==')')&&(m201_str2[p+1]==')'))
+										{
+											r2=1;
+											break;
+										}
+										else
+										{
+											p=p+2;
+										}
+									}
+									if (r2!=1)
+									{
+										printf("error $*((word)) format\n");
+										r=3;
+									}
+									else 
+									{
+										r=1;
+										for (q=4;q<p;q++)
+										{
+											m201_str3[q-4+0]=m201_str2[q];
+											m201_str3[q-4+1]=0;
+										}
+									}
+								}
+
+								if (strncmp(m201_str2,"$n",2)==0) r=2;
+
+								if (r==0) t2_insert_node(m201_str2);
+								if (r==1) t2_insert_node(m201_str3);
+
+								t2_node_val2[t2_find_pp2]=t2_node_val2[t2_find_pp2]+1;
+
+								if (c4==';')
+								{
+									if (r==0) t3_insert_node(m201_str2);
+									if (r==1) t3_insert_node(m201_str3);
+
+									t3_node_val2[t3_find_pp2]=t3_node_val2[t3_find_pp2]+1;
+								}
+
+								m=0;
+								m201_str2[0]=0;
+								l=l+2;
+							}
 						}
 					}
-
 				}
 			}
 
@@ -406,7 +461,7 @@ static	char         m501_s1[SMG_LEN];
 static	char	     m501_s2[SMG_LEN];
 static	char	     m501_s3[SMG_LEN];
 
-int load6(void)
+int wd6_load(void)
 {
 	FILE		*fp1;
     	int         i,j,k;
@@ -421,7 +476,7 @@ int load6(void)
 	j=0;
 	k=0;
 
-	at6_pp=0;
+	wd6_pp=0;
 
 	strcpy(m501_s1,"words-cw02_sort.txt");
 
@@ -450,11 +505,11 @@ int load6(void)
 
 		if ((int)strlen(m501_l1)>50) continue;
 
-		strcpy(at6[at6_pp],m501_l1);
+		strcpy(wd6_buf[wd6_pp],m501_l1);
 
-		at6_n[at6_pp]=0;
+		wd6_rt[wd6_pp]=0;
 
-		//sprintf(m501_s2,"pp=%d,word=%s,rpt=%lld,",at6_pp,at6[at6_pp],at6_n[at6_pp]);
+		//sprintf(m501_s2,"pp=%d,word=%s,rpt=%lld,",wd6_pp,wd6_buf[wd6_pp],wd6_rt[wd6_pp]);
 
 		//str_gb18030_to_utf8_ini();
 		//if (AI_LINUX==1)
@@ -467,9 +522,9 @@ int load6(void)
 		//}
 		//str_gb18030_to_utf8_close();
 
-		//MessageBox(0,m501_s3,"load6 message",MB_OK);
+		//MessageBox(0,m501_s3,"wd6_load message",MB_OK);
 
-		at6_pp++;
+		wd6_pp++;
 
 	}
 
@@ -478,16 +533,16 @@ int load6(void)
 	return(0);
 }
 
-int search_wd6(char *s_str)
+int wd6_search(char *s_str)
 {
 	int p1,p2;
 	int i,j;
 	int find;
 
 	find=0;
-	find_n6=0;
+	wd6_find_rt=0;
 	p1=0;
-	p2=at6_pp;
+	p2=wd6_pp;
 
 	if (p2<=p1) return(0);
 
@@ -496,11 +551,11 @@ int search_wd6(char *s_str)
 		i=(p1+p2)/2;
 		if (i<=p1)
 		{
-			j=strcmp(at6[i],s_str);
+			j=strcmp(wd6_buf[i],s_str);
 			if (j==0)
 			{
 				find=1;
-				find_n6=at6_n[i];
+				wd6_find_rt=wd6_rt[i];
 				break;
 			}
 			else
@@ -513,11 +568,11 @@ int search_wd6(char *s_str)
 		{
 			if (i>=p2)
 			{
-				j=strcmp(at6[i],s_str);
+				j=strcmp(wd6_buf[i],s_str);
 				if (j==0)
 				{
 					find=1;
-					find_n6=at6_n[i];
+					wd6_find_rt=wd6_rt[i];
 					break;
 				}
 				else
@@ -528,11 +583,11 @@ int search_wd6(char *s_str)
 			}
 			else
 			{
-				j=strcmp(at6[i],s_str);
+				j=strcmp(wd6_buf[i],s_str);
 				if (j==0)
 				{
 					find=1;
-					find_n6=at6_n[i];
+					wd6_find_rt=wd6_rt[i];
 					break;
 				}
 				else

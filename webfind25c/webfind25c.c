@@ -44,7 +44,7 @@ int deb_upper_string(char *p_instr);
 #include <string.h>
 
 #define SMG_LEN		 300
-#define PY_YIN           1000
+//#define PY_YIN           1000
 //#define STR_LEN_WORD2    25
 
 //char word8_s[STR_LEN_WORD2];

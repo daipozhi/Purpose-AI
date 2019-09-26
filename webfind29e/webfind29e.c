@@ -446,7 +446,7 @@ int frame_loop1(void)
 			if (nn!=0) continue;
 			else
 			{
-				if (node_val2[find_pp]>=3)
+				if (node_val2[find_pp]>=2)
 				{
 
 
@@ -610,7 +610,7 @@ int frame_loop1(void)
 			if (nn!=0) continue;
 			else
 			{
-				if (node_val2[find_pp]>=3)
+				if (node_val2[find_pp]>=2)
 				{
 
 

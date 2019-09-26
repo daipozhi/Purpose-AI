@@ -56,8 +56,8 @@ long f1_get_fln2(char *);
 #define SENT_LEN2        300
 #define SENT_NUM         3000000
 
-char loada7[SENT_NUM][SENT_LEN2];
-long load7_l;
+char load8[SENT_NUM][SENT_LEN2];
+long load8_l;
 
 char sent_s[SENT_LEN];
 long sent_l;
@@ -127,7 +127,7 @@ int main(void)
 	f1_init_ext();
 
 	j=0;
-	load7_l=0;
+	load8_l=0;
 
 	while (1)
 	{
@@ -246,9 +246,9 @@ long sent8in1(void)
   	int  i,j,k;
 	char c1/*,s1[SENT_LEN]*/;
 /*
-	for (k=0;k<load7_l;k++)
+	for (k=0;k<load8_l;k++)
 	{
-		if (strcmp(loada7[k],sent_s)==0) return(1);
+		if (strcmp(load8[k],sent_s)==0) return(1);
 	}
 */
 	if ((int)strlen(sent_s)>=300) return(1);
@@ -272,15 +272,15 @@ long sent8add2(void)
 
 	for (i=0;i<SENT_LEN2;i++)
 	{
-		loada7[load7_l][i]=sent_s[i];
+		load8[load8_l][i]=sent_s[i];
 	}
 
-	load7_l++;
+	load8_l++;
 
-	if (load7_l>=SENT_NUM)
+	if (load8_l>=SENT_NUM)
 	{
 		MessageBox(0,"sent_num too small","message",MB_OK);
-		load7_l--;
+		load8_l--;
 	}
 
 	return(0);
@@ -301,15 +301,15 @@ long sent8wrt1(void)
 		return(0);
 	}
 
-	for (k=0;k<load7_l;k++)
+	for (k=0;k<load8_l;k++)
 	{
-		fputs(loada7[k],fp1);
+		fputs(load8[k],fp1);
 		fputs("\n",fp1);
 	}
 
 	fclose(fp1);
 
-	load7_l=0;
+	load8_l=0;
 
 	return(0);
 }

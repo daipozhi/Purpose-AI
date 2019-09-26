@@ -77,7 +77,7 @@ long long int str2llint(char *pstr);
 //------------------------------
 #define ARTI_LINE    5000000
 
-
+/*
 char at5[ARTI_LINE][55];
 long long int at5_n[ARTI_LINE];
 int  at5_pp;
@@ -86,6 +86,18 @@ int  search_wd6(char *);
 int  load5(void);
 
 long long int find_n;
+*/
+
+
+	 char wd5_buf[ARTI_LINE][55]; // word buffer
+long long int wd5_rt[ARTI_LINE];      // repeat times
+	  int wd5_pp;
+
+	  int wd5_search(char *);
+	  int wd5_load(void);
+
+long long int wd5_find_rt;  //repeat times
+
 
 //------------------------------
 
@@ -112,7 +124,7 @@ int main(void)
 
 	ai_number_g();
 
-	load5();  // load word base
+	wd5_load();  // load word base
 
 	mproc("");
 
@@ -383,7 +395,7 @@ int frame_loop1(void)
 				m101_str1[m+1]=0;
 			}
 
-			nn=search_wd6(m101_str1);
+			nn=wd5_search(m101_str1);
 			if (nn==1)
 			{
 
@@ -403,7 +415,7 @@ int frame_loop1(void)
 					pop_len[pop_pp]=i;
 					pop_seg[pop_pp]=1;
 					pop_val[pop_pp]=ai_number[i/2];
-					pop_rpt[pop_pp]=find_n*(i/2);    // repeat times
+					pop_rpt[pop_pp]=wd5_find_rt*(i/2);    // repeat times
 
 			        	if (i>=l) pop_mrk[pop_pp]=2;
 
@@ -548,7 +560,7 @@ int frame_loop1(void)
 				m101_str1[mm+1]=0;
 			}
 
-			nn=search_wd6(m101_str1);
+			nn=wd5_search(m101_str1);
 			if (nn==1)
 			{
 
@@ -571,7 +583,7 @@ int frame_loop1(void)
 					pop_len[pop_pp]=p+i;
 					pop_seg[pop_pp]=r+1;
 					pop_val[pop_pp]=q+ai_number[i/2];
-					pop_rpt[pop_pp]=t+find_n*(i/2);    // repeat times
+					pop_rpt[pop_pp]=t+wd5_find_rt*(i/2);    // repeat times
 
 			        	if (p+i>=l) pop_mrk[pop_pp]=2;
 
@@ -771,7 +783,7 @@ int out_put_seg(int pp)
 
 
 
-int load5(void)
+int wd5_load(void)
 {
 	FILE		*fp1;
     	int         i,j,k;
@@ -786,7 +798,7 @@ int load5(void)
 	j=0;
 	k=0;
 
-	at5_pp=0;
+	wd5_pp=0;
 
 	f1_get_fln4(m401_s1);
 
@@ -876,18 +888,18 @@ int load5(void)
 		//{
 			//at5[at5_pp][i+0]=l2[i];
 			//at5[at5_pp][i+1]=0;
-			strcpy(at5[at5_pp],m401_l2);
+			strcpy(wd5_buf[wd5_pp],m401_l2);
 		//}
 
-		at5_n[at5_pp]=str2llint(m401_l3);
+		wd5_rt[wd5_pp]=str2llint(m401_l3);
 
-		//sprintf(s2,"%s,%s,%lld,",at5[at5_pp],l3,at5_n[at5_pp]);
+		//sprintf(s2,"%s,%s,%lld,",wd5_buf[wd5_pp],l3,wd5_rt[wd5_pp]);
 
-		//MessageBox(NULL,s2,"load5 message",MB_OK);
+		//MessageBox(NULL,s2,"wd5_load message",MB_OK);
 
 
 
-		at5_pp++;
+		wd5_pp++;
 
 	}
 
@@ -1025,16 +1037,16 @@ char lower(char c1)
 }
 
 
-int search_wd6(char *s_str)
+int wd5_search(char *s_str)
 {
 	int p1,p2;
 	int i,j;
 	int find;
 
 	find=0;
-	find_n=0;
+	wd5_find_rt=0;
 	p1=0;
-	p2=at5_pp;
+	p2=wd5_pp;
 
 	if (p2<=p1) return(0);
 
@@ -1043,11 +1055,11 @@ int search_wd6(char *s_str)
 		i=(p1+p2)/2;
 		if (i<=p1)
 		{
-			j=strcmp(at5[i],s_str);
+			j=strcmp(wd5_buf[i],s_str);
 			if (j==0)
 			{
 				find=1;
-				find_n=at5_n[i];
+				wd5_find_rt=wd5_rt[i];
 				break;
 			}
 			else
@@ -1060,11 +1072,11 @@ int search_wd6(char *s_str)
 		{
 			if (i>=p2)
 			{
-				j=strcmp(at5[i],s_str);
+				j=strcmp(wd5_buf[i],s_str);
 				if (j==0)
 				{
 					find=1;
-					find_n=at5_n[i];
+					wd5_find_rt=wd5_rt[i];
 					break;
 				}
 				else
@@ -1075,11 +1087,11 @@ int search_wd6(char *s_str)
 			}
 			else
 			{
-				j=strcmp(at5[i],s_str);
+				j=strcmp(wd5_buf[i],s_str);
 				if (j==0)
 				{
 					find=1;
-					find_n=at5_n[i];
+					wd5_find_rt=wd5_rt[i];
 					break;
 				}
 				else

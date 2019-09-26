@@ -5,6 +5,7 @@ cd ../tools-4
 gcc -o utf8-to-gb18030.exe utf8-to-gb18030.c
 cp utf8-to-gb18030.exe ../work_dir
 
+
 cd ../webfind_b
 gcc -o a-step20.exe f1.c f2.c
 cp a-step20.exe ../work_dir
@@ -18,40 +19,34 @@ cd ../webfind29e
 gcc -o a-step50.exe webfind29e.c tree2.c
 cp a-step50.exe ../work_dir
 cd ../webfind23c
-gcc -o a-step60.exe webfind23c.c tree2.c
+gcc -o a-step60.exe webfind23c.c tree2.c tree2b.c
 cp a-step60.exe ../work_dir
 cd ../webfind24b
 gcc -o a-step70.exe webfind24b.c
 cp a-step70.exe ../work_dir
 cd ../webfind25c
-gcc -o a-step80.exe webfind25c.c tree2.c
+gcc -o a-step80.exe webfind25c.c tree2.c tree2b.c
 cp a-step80.exe ../work_dir
-cd ../webfind53b
-gcc -o a-step90.exe webfind53.c tree2.c tree2b.c tree2c.c tree2d.c
+cd ../webfind53c
+gcc -o a-step90.exe webfind53.c tree2.c tree2b.c btree3.c btree4.c 
 cp a-step90.exe ../work_dir
 cd ../webfind54
-gcc -o a-step100.exe webfind54.c tree2.c tree2c.c
+gcc -o a-step100.exe webfind54.c tree2.c tree2b.c tree2c.c
 cp a-step100.exe ../work_dir
-cd ../webfind61b
-gcc -o a-step210.exe webfind61.c load12.c spl1.c spl2.c tree2.c tree2b.c tree2c.c tree2d.c tree2e.c tree2f.c tree2g.c tree2h.c
+
+
+cd ../webfind60b
+gcc -o a-step200.exe webfind60.c load12.c tree2.c tree2c.c tree2e.c tree2f.c 
+cp a-step200.exe ../work_dir
+cd ../webfind61d
+gcc -o a-step210.exe webfind61.c load12c.c spl1.c spl2.c tree2.c tree2b.c tree2c.c tree2d.c btree5.c btree6.c btree7.c btree8.c  
 cp a-step210.exe ../work_dir
 cd ../webfind62
-gcc -o a-step220.exe webfind62.c tree2.c tree2c.c
+gcc -o a-step220.exe webfind62.c tree2.c tree2b.c tree2c.c
 cp a-step220.exe ../work_dir
-cd ../webfind63
-gcc -o a-step230.exe webfind63.c tree2.c tree2b.c tree2c.c
+cd ../webfind63b
+gcc -o a-step230.exe webfind63.c tree2.c 
 cp a-step230.exe ../work_dir
-
-
-cd ../webfind64
-gcc -o a-step240.exe webfind64.c load12b.c spl1.c spl2.c tree2.c tree2b.c tree2c.c tree2d.c tree2g.c tree2h.c 
-cp a-step240.exe ../work_dir
-cd ../webfind65
-gcc -o a-step250.exe webfind65.c tree2.c tree2c.c 
-cp a-step250.exe ../work_dir
-cd ../webfind66
-gcc -o a-step260.exe webfind66.c tree2.c tree2b.c tree2c.c 
-cp a-step260.exe ../work_dir
 
 
 cd ../webfind50

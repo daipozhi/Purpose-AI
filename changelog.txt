@@ -1,0 +1,9 @@
+
+Sep 25th 2019 version
+
+*  put all repeated permutation and combination of words together , it is grammer database , total 86 files .
+*  better binary tree (limited access)
+*  added binary tree delete node function
+*  words/grammer repeat 3 times changed to repeat 2 times 
+*  better name for "wd5..." "wd6..."
+*  "loada7" rename to "load8"...

@@ -102,24 +102,12 @@ int /*tree2::*/t3_new_node(void)
   int i,j;
 
   i=(-1);
-  j=t3_buff_pp;
-  
-  while (1)
+
+  if ((t3_buff_pp<TREE2_SIZE_C)&&(t3_node_mark[t3_buff_pp]<0))
   {
-    if (t3_node_mark[t3_buff_pp]<0)
-    {
-      t3_node_mark[t3_buff_pp]=0;
-      i=t3_buff_pp;
-      t3_buff_pp++;
-      if (t3_buff_pp>=TREE2_SIZE_C) t3_buff_pp=0;
-      break;
-    }
-    else
-    {
-      t3_buff_pp++;
-      if (t3_buff_pp>=TREE2_SIZE_C) t3_buff_pp=0;
-      if (t3_buff_pp==j) break;
-    }
+    t3_node_mark[t3_buff_pp]=0;
+    i=t3_buff_pp;
+    t3_buff_pp++;
   }
 
   return(i);
@@ -228,7 +216,7 @@ int /*tree2::*/t3_insert_node(char *pstr)
       j=t3_new_node();
       if (j<0)
       {
-        MessageBox(0,"error at insert_node() when call new_node()","message",MB_OK);
+        MessageBox(0,"In tree2c,error at insert_node() when call new_node()","message",MB_OK);
         return(1);
       }
       else
@@ -245,7 +233,7 @@ int /*tree2::*/t3_insert_node(char *pstr)
       j=t3_new_node();
       if (j<0)
       {
-        MessageBox(0,"error at insert_node() when call new_node()","message",MB_OK);
+        MessageBox(0,"In tree2c,error at insert_node() when call new_node()","message",MB_OK);
         return(1);
       }
       else
@@ -531,7 +519,11 @@ int /*tree2::*/t3_after_list(void)
         t3_list_pp++;
 
         //sprintf(str1,"add left tree %s,list_pp=%d,",node_val[node_pp[k][1]],list_pp);
-        //MessageBox(0,str1,"message",MB_OK);
+        if (t3_list_pp>=LIST_SIZE_C)
+        {
+          MessageBox(0,"In tree2c,error in after_list(),LIST_SIZE_C too small.","message",MB_OK);
+          continue;
+        }
       }
 
       t3_list_stack[t3_list_pp]=k;
@@ -539,7 +531,11 @@ int /*tree2::*/t3_after_list(void)
       t3_list_pp++;
 
       //sprintf(str1,"add mid tree %s,list_pp=%d,",node_val[k],list_pp);
-      //MessageBox(0,str1,"message",MB_OK);
+      if (t3_list_pp>=LIST_SIZE_C)
+      {
+        MessageBox(0,"In tree2c,error in after_list(),LIST_SIZE_C too small.","message",MB_OK);
+        continue;
+      }
 
       if (t3_node_pp[k][2]>=0)
       {
@@ -548,7 +544,11 @@ int /*tree2::*/t3_after_list(void)
         t3_list_pp++;
 
         //sprintf(str1,"add right tree %s,list_pp=%d,",node_val[node_pp[k][2]],list_pp);
-        //MessageBox(0,str1,"message",MB_OK);
+        if (t3_list_pp>=LIST_SIZE_C)
+        {
+          MessageBox(0,"In tree2c,error in after_list(),LIST_SIZE_C too small.","message",MB_OK);
+          continue;
+        }
       }
     }
     else
@@ -603,8 +603,13 @@ int /*tree2::*/t3_dsp_list(void)
   return(0);
 }
 
+/*
 int  search_wd6(char *);
 int  load6(void);
+*/
+
+int  wd6_search(char *);
+int  wd6_load(void);
 
 static char m05_str1[300];
 static char m05_str2[300];
@@ -627,7 +632,7 @@ int /*tree2::*/t3_save_list(char *fn)
 
   for (i=0;i<t3_out_pp;i++)
   {
-    nn=search_wd6(t3_out_buff[i]);
+    nn=wd6_search(t3_out_buff[i]);
     if (nn!=1) continue;
 
     fputs(t3_out_buff[i],fp);

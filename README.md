@@ -10,7 +10,7 @@ How does computer process text,video,audio
  Purpose AI is distributed in the hope that it will be useful,
   but WITHOUT ANY WARRANTY; )
 
-(Jan 1st 2019 Updated)
+(Sep 1st 2019 Updated)
 
 
     A, text , words
@@ -71,17 +71,20 @@ How does computer process text,video,audio
 
         after this step accuracy is about 80%
 
-        make word courseware file,put frequently-used words into it,
-            every word has its value , the value is same with automatic
-            generated word ,chinese word with 1 chinese ,its value is 5,
-            chinese word with 2 chinese  its value is 15 ... but its priority
-            is higher ,separate every sentence by word courseware and automatic
-            generated word database ,get all the words, it is 3rd word database .
+        make word courseware file,put short words(only have one chiness,
+            it has small value,offen mixed with other words, need higher
+            priority)into it,every word has its value , the value is same 
+            with automatic generated word ,chinese word with 1 chinese ,
+            its value is 5,chinese word with 2 chinese  its value is 
+            15 ... but its priority is higher ,separate every sentence 
+            by word courseware and automatic generated word database ,
+            get all the words, it is 3rd word database .
 
-        you may ask,we have word courseware ,why still need automatic generated
-            word database ,in fact both are needed ,what computer can do let computer 
-            do it ,what computer can't do let human do it ,this is a rule ,
-            otherwise ,it is incomplete.
+        this is a little different than before,if to make a normal word 
+            courseware,you can put all words into it, but for higher 
+            priority, you only put necessary words into it,like '的',
+            '地','得',they are short,their value are small, and easy to
+            mix with other words.
 
         after this step accuracy is about 90%
 
@@ -89,7 +92,7 @@ How does computer process text,video,audio
 
             Windows XP/7+MSYS+MINGW  or Ubuntu
 
-            in MSYS ,you need open config.h file(in AI directory) set symbol AI_LINUX to 0 ,(#define AI_LINUX 0)
+            in MSYS ,you need open config.h file(in AI directory) set symbol AI_LINUX to 0   ,(#define AI_LINUX 0)
             in Ubuntu ,you need open config.h file(in AI directory) set symbol AI_LINUX to 1 ,(#define AI_LINUX 1)
 
             in MSYS , to build this project use build-msys.bat .
@@ -108,7 +111,7 @@ How does computer process text,video,audio
                   run program in  'webfind24b'(step70)(separate to words by word database )
                   run program in  'webfind25c'(step80)(get all words ,generate word database again )
 
-                  run program in  'webfind53b'(step90)(separate to words by word courseware and word database )
+                  run program in  'webfind53c'(step90)(separate to words by word courseware and word database )
 				(word courseware is in file words-cw01.txt and words-cw02_sort.txt , how to make 
 				word courseware please read readme.txt file in directory webfind50 )
                   run program in  'webfind54'(step100)(get all words ,generate 3rd word database )
@@ -129,10 +132,18 @@ How does computer process text,video,audio
     B text ,grammer(phrase)
 
         save all the permutation and combination of words to memory , 
-            total load 3 files everytime , 000-002 ,or 003-005 , repeated is
+            total load 3 files everytime , 000-002 ,or 003-005 , repeated 2 times is
             grammer(phrase) , every grammer(phrase) has its value ,
             as AI number ,grammer(phrase) with 2 chinese ,its value is 15,
             grammer(phrase) with 3 chinese ,its value is 25 ...
+
+        at last , put all those grammer together , it is a grammer database .
+
+        grammer database is different with word database,
+            if "John drives car" is a grammer,
+               "John drives"     is also a grammer,
+                    "drives car" is also a grammer,
+               "John *      car" is also a grammer.
 
         make grammer courseware ,tell computer how to describe many concepts ,
             include 'date' 'time' 'temperature' 'percent'... ,every grammer
@@ -153,21 +164,9 @@ How does computer process text,video,audio
 
         get all words , it is 4th word database .
 
-        get all grammer , it is grammer database .
+        get repeat times of each grammer in grammer courseware .
 
         after this step accuracy is about 91%
-
-        separate sentence , this time by grammer database ,not by if it is repeated
-            in text file .
-
-        separate all text . 
-
-        get all words , it is 5th word database .
-
-        get all grammer , it is grammer database .
-
-        after this step , word database is almost same ,but grammer database is quite 
-            different .
 
 
         source code:
@@ -176,37 +175,34 @@ How does computer process text,video,audio
 
             grammer courseware is in file grammer-cw03.txt
 
-                run program in webfind61b (step210)(copy to work_dir)
+                run program in webfind60b (step200)(copy to work_dir)
+                    (save all the permutation and combination of words to memory , 
+                     repeated is grammer(phrase) , put all those grammer together ,it is
+                     grammer database )
+
+                run program in webfind61d (step210)(copy to work_dir)
                     (separate sentence by word courseware and word database , 
                     not only keep the highest value one , also keep some lower 
                     value ones , calculate its grammer value , add with its word value ,
                     choose max value one )
 
                 run program in webfind62 (step220)(copy to work_dir)
-                    ( get all the words , it is 4th word database )
+                    (get all the words , it is 4th word database )
 
-                run program in webwind63 (step230)(copy to work_dir)
-                    ( get all the grammer , it is grammer database )
-
-
-                run program in webfind64 (step240)(copy to work_dir)
-                    (separate sentence by word courseware and word database , 
-                    not only keep the highest value one , also keep some lower 
-                    value ones , calculate its grammer value ,this time by grammer 
-                    database ,not by if it is repeated in text file ,add with its word 
-                    value ,choose max value one )
-
-                run program in webfind65 (step250)(copy to work_dir)
-                    ( get all the words , it is 5th word database )
-
-                run program in webwind66 (step260)(copy to work_dir)
-                    ( get all the grammer , it is grammer database )
+                run program in webfind63b (step230)(copy to work_dir)
+                    (get repeat times of each grammer in grammer courseware )
 
 			(Mar 21th 2014 version added support to repeat times of grammers, repeat times of words, 
                              and better algorithm )
 			(Feb  1st 2018 version added grammer courseware )
-			(Jan  1st 2019 version added a new step of grammer , separate sentence , by grammer 
-                             database, not by if it is repeated in text file )
+			(Jan  1st 2019 version added a new step of grammer , get all grammers in last result,
+                             (after step210), separate sentence , by grammer database, not by if it is repeated 
+                             in text file )
+			(Sep 25th 2019 version put all those grammer together(after step200),it is a grammer 
+                             database ,and removed the step added in Jan 1st 2019 version,in before,a string 
+                             repeat 3 times is a word/grammer,now,a string repeat 2 times is a word/grammer, so 
+                             there are more words and grammers, the accuracy is still very high.
+                             Sep 25th 2019 version is a beta version)
 
 
 
@@ -277,10 +273,10 @@ How does computer process text,video,audio
 
     E,abstract conception
 
-        * a famous song :"Bridge Over Troubled Water" , in the song ,"Bridge" is a 
-              abstract conception ,"Troubled Water" is also a abstract conception ,
+        * a famous song :"Bridge Over Troubled Water" , in the song ,"Bridge" is an 
+              abstract conception ,"Troubled Water" is also an abstract conception ,
               you can't see it , you can't touch it ,a object in real world to describe 
-              a abstract conception ,to understand this concept need life experience . 
+              an abstract conception ,to understand this concept need life experience . 
 
 
 

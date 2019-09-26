@@ -122,55 +122,31 @@ class tree2
 int init_tree2(void)
 {
   int i,j;
-//  for (i=0;i<TREE2_SIZE;i++)
-//  {
-//    node_mark[i]=(-1);
-//  }
+  for (i=0;i<TREE2_SIZE;i++)
+  {
+    node_mark[i]=(-1);
+  }
   root_pp=(-1);
   buff_pp=0;
-//  node_info_pp=0;
-//  node_info2_pp=0;
+
   return(0);
 }
 
 int new_node(void)
 {
   int i,j;
-/*
+
   i=(-1);
-  j=buff_pp;
   
-  while (1)
+  if ((buff_pp<TREE2_SIZE)&&(node_mark[buff_pp]<0))
   {
-    if (node_mark[buff_pp]<0)
-    {
-      node_mark[buff_pp]=0;
-      i=buff_pp;
-      buff_pp++;
-      if (buff_pp>=TREE2_SIZE) buff_pp=0;
-      break;
-    }
-    else
-    {
-      buff_pp++;
-      if (buff_pp>=TREE2_SIZE) buff_pp=0;
-      if (buff_pp==j) break;
-    }
+    node_mark[buff_pp]=0;
+    i=buff_pp;
+    buff_pp++;
   }
 
   return(i);
-*/
 
-  i=buff_pp;
-
-  buff_pp++;
-
-  if (buff_pp>=TREE2_SIZE)
-  {
-	  MessageBox(0,"Param TREE2_SIZE too small","Error message",MB_OK);
-  }
-  
-  return(i);
 }
 
 int clear_node(int pp)
@@ -268,7 +244,7 @@ int insert_node(char *pstr)
       j=new_node();
       if (j<0)
       {
-        MessageBox(0,"error at insert_node() when call new_node()","message",MB_OK);
+        MessageBox(0,"In tree2,error at insert_node() when call new_node()","message",MB_OK);
         return(1);
       }
       else
@@ -276,7 +252,7 @@ int insert_node(char *pstr)
         root_pp=j;
         clear_node(j);
         strcpy(node_val[j],pstr);
-		find_pp2=j;
+	find_pp2=j;
         return(0);
       }
     }
@@ -285,7 +261,7 @@ int insert_node(char *pstr)
       j=new_node();
       if (j<0)
       {
-        MessageBox(0,"error at insert_node() when call new_node()","message",MB_OK);
+        MessageBox(0,"In tree2,error at insert_node() when call new_node()","message",MB_OK);
         return(1);
       }
       else
@@ -298,7 +274,7 @@ int insert_node(char *pstr)
         if (find_side==2) node_pp[find_pp][2]=j;
         else node_pp[find_pp][1]=j;
 
-		find_pp2=j;
+	find_pp2=j;
 
         return(0);
       }
@@ -570,7 +546,11 @@ int after_list(int pf)
         list_pp++;
 
         //sprintf(str1,"add left tree %s,list_pp=%d,",node_val[node_pp[k][1]],list_pp);
-        //MessageBox(0,str1,"message",MB_OK);
+        if (list_pp>=LIST_SIZE)
+        {
+          MessageBox(0,"In tree2,error in after_list(),LIST_SIZE too small.","message",MB_OK);
+          continue;
+        }
       }
 
       list_stack[list_pp]=k;
@@ -578,7 +558,11 @@ int after_list(int pf)
       list_pp++;
 
       //sprintf(str1,"add mid tree %s,list_pp=%d,",node_val[k],list_pp);
-      //MessageBox(0,str1,"message",MB_OK);
+      if (list_pp>=LIST_SIZE)
+      {
+        MessageBox(0,"In tree2,error in after_list(),LIST_SIZE too small.","message",MB_OK);
+        continue;
+      }
 
       if (node_pp[k][2]>=0)
       {
@@ -587,7 +571,11 @@ int after_list(int pf)
         list_pp++;
 
         //sprintf(str1,"add right tree %s,list_pp=%d,",node_val[node_pp[k][2]],list_pp);
-        //MessageBox(0,str1,"message",MB_OK);
+        if (list_pp>=LIST_SIZE)
+        {
+          MessageBox(0,"In tree2,error in after_list(),LIST_SIZE too small.","message",MB_OK);
+          continue;
+        }
       }
     }
     else
