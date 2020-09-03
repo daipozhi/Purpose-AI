@@ -1,3 +1,0 @@
-change the symbol "AI_DEBUG" from 0 to 1,and compile it, 
-it will be the debug version, all debug information in file 
- words9base???.txt.debug.txt  .

@@ -43,7 +43,7 @@ int deb_upper_string(char *p_instr);
 #include <stdio.h>
 #include <string.h>
 
-#define SMG_LEN		 300
+#define SMG_SIZE		 300
 //#define PY_YIN           1000
 //#define STR_LEN_WORD2    25
 
@@ -56,8 +56,8 @@ long word8(char *);
 
 //extern int MessageBox(int ,char *,char *,int );
 
-#define TREE2_SIZE 1000000
-#define LIST_SIZE  100000
+#define TREE2_SIZE 2000000
+#define LIST_SIZE  200000
 
 
 /*
@@ -112,8 +112,8 @@ class tree2
 class tree2 tree2_1;
 */
 
-#define TREE2_SIZE_B 1000000
-#define LIST_SIZE_B  100000
+#define TREE2_SIZE_B 2000000
+#define LIST_SIZE_B  200000
 
 /*
 class tree2b
@@ -167,8 +167,8 @@ class tree2b
 class tree2b tree2b_1;*/
 
 
-#define TREE2_SIZE_C 1000000
-#define LIST_SIZE_C  100000
+#define TREE2_SIZE_C 2000000
+#define LIST_SIZE_C  200000
 
     char  t3_node_mark[TREE2_SIZE_C];
     char  t3_node_val[TREE2_SIZE_C][55];
@@ -213,7 +213,7 @@ class tree2b tree2b_1;*/
 
 
 //------------------------------
-#define ARTI_LINE    1000000
+#define ARTI_LINE    2000000
 /*
 char at6[ARTI_LINE][55];
 long long int at6_n[ARTI_LINE];
@@ -262,7 +262,7 @@ int main(void)
   
     	t3_save_list("words-cw02rpt2.txt");
 
-	MessageBox(0,"grammer ok","message",MB_OK);
+	MessageBox(0,"grammar ok","message",MB_OK);
 
 	return(0);
 }
@@ -277,8 +277,8 @@ long word8(char *pstr1)
 	FILE *fp1;
 	int  i,j,k,l,m,n,n1,n2,n3,o,p,q,r,r2;
 	char c1,c2,c3,c4,c5;
-	char s1[SMG_LEN];
-	char s2[SMG_LEN];
+	char s1[SMG_SIZE];
+	char s2[SMG_SIZE];
 	//char str1[5000];
 	//char str2[5000];
 
@@ -352,7 +352,7 @@ long word8(char *pstr1)
 						}
 						else
 						{
-							if ((c4!=',')&&(c4!=';'))
+							if ((c4!=',')&&(c4!=';')&&(c4!='|'))
 							{
 								m201_str2[m+0]=c4;
 								m201_str2[m+1]=c5;
@@ -366,13 +366,15 @@ long word8(char *pstr1)
 								r=0;
 								r2=0;
 								m201_str3[0]=0;
-								if (strncmp(m201_str2,"$*((",4)==0)
+
+								if (strncmp(m201_str2,"$*((",4)==0)  // word $*((word))
 								{
 									p=4;
 									while (p+1<strlen(m201_str2))
 									{
 										if ((m201_str2[p+0]==')')&&(m201_str2[p+1]==')'))
 										{
+											p=p+2;
 											r2=1;
 											break;
 										}
@@ -381,6 +383,7 @@ long word8(char *pstr1)
 											p=p+2;
 										}
 									}
+
 									if (r2!=1)
 									{
 										printf("error $*((word)) format\n");
@@ -389,26 +392,74 @@ long word8(char *pstr1)
 									else 
 									{
 										r=1;
-										for (q=4;q<p;q++)
+										for (q=4;q<p-2;q++)
 										{
 											m201_str3[q-4+0]=m201_str2[q];
 											m201_str3[q-4+1]=0;
 										}
 									}
+
+									if (r==1)
+									{
+										t2_insert_node(m201_str3);   // $*
+										t2_node_val2[t2_find_pp2]=t2_node_val2[t2_find_pp2]+1;
+
+										if (c4==';')
+										{
+											t3_insert_node(m201_str3);
+											t3_node_val2[t3_find_pp2]=t3_node_val2[t3_find_pp2]+1;
+										}
+									}
+
+									m=0;
+									m201_str2[0]=0;
+									l=l+2;
+									continue;
 								}
 
-								if (strncmp(m201_str2,"$n",2)==0) r=2;
+								r=0;
+								r2=0;
+								m201_str3[0]=0;
 
-								if (r==0) t2_insert_node(m201_str2);
-								if (r==1) t2_insert_node(m201_str3);
+								if (strncmp(m201_str2,"$n((",4)==0)  //number $n((number))
+								{
+									p=4;
+									while (p+1<strlen(m201_str2))
+									{
+										if ((m201_str2[p+0]==')')&&(m201_str2[p+1]==')'))
+										{
+											p=p+2;
+											r2=1;
+											break;
+										}
+										else
+										{
+											p=p+2;
+										}
+									}
 
+									if (r2!=1)
+									{
+										printf("error $n((number)) format\n");
+										//r=3;
+									}
+									else 
+									{
+										//r=1;
+									}
+
+									m=0;
+									m201_str2[0]=0;
+									l=l+2;
+									continue;
+								}
+
+								t2_insert_node(m201_str2);   // nomal word ,not $* ,not $n
 								t2_node_val2[t2_find_pp2]=t2_node_val2[t2_find_pp2]+1;
 
 								if (c4==';')
 								{
-									if (r==0) t3_insert_node(m201_str2);
-									if (r==1) t3_insert_node(m201_str3);
-
+									t3_insert_node(m201_str2);
 									t3_node_val2[t3_find_pp2]=t3_node_val2[t3_find_pp2]+1;
 								}
 
@@ -454,22 +505,22 @@ long word8(char *pstr1)
 
 
 
-static	char         m501_l1[SMG_LEN];
-static	char         m501_l2[SMG_LEN];
-static	char         m501_l3[SMG_LEN];
-static	char         m501_s1[SMG_LEN];
-static	char	     m501_s2[SMG_LEN];
-static	char	     m501_s3[SMG_LEN];
+static	char         m501_l1[SMG_SIZE];
+static	char         m501_l2[SMG_SIZE];
+static	char         m501_l3[SMG_SIZE];
+static	char         m501_s1[SMG_SIZE];
+static	char	     m501_s2[SMG_SIZE];
+static	char	     m501_s3[SMG_SIZE];
 
 int wd6_load(void)
 {
 	FILE		*fp1;
     	int         i,j,k;
-	//char         l1[SMG_LEN];
-	//char         l2[SMG_LEN];
-	//char         l3[SMG_LEN];
-	//char         s1[SMG_LEN];
-	//char	       s2[SMG_LEN];
+	//char         l1[SMG_SIZE];
+	//char         l2[SMG_SIZE];
+	//char         l3[SMG_SIZE];
+	//char         s1[SMG_SIZE];
+	//char	       s2[SMG_SIZE];
 	char         c1;
 	int          pp;
 
@@ -491,7 +542,7 @@ int wd6_load(void)
 	{
 		m501_l1[0]=0;
 
-		fgets(m501_l1,SMG_LEN,fp1);
+		fgets(m501_l1,SMG_SIZE,fp1);
 	
 		//i=(int)strlen(m501_l1);
 
@@ -514,7 +565,7 @@ int wd6_load(void)
 		//str_gb18030_to_utf8_ini();
 		//if (AI_LINUX==1)
 		//{
-		//	str_gb18030_to_utf8(m501_s2,m501_s3,SMG_LEN);
+		//	str_gb18030_to_utf8(m501_s2,m501_s3,SMG_SIZE);
 		//}
 		//else
 		//{

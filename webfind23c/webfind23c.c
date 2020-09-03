@@ -43,7 +43,7 @@ int deb_upper_string(char *p_instr);
 #include <stdio.h>
 #include <string.h>
 
-#define SMG_LEN		 300
+#define SMG_SIZE	   300
 //#define PY_YIN           1000
 //#define STR_LEN_WORD2    25
 
@@ -56,8 +56,8 @@ long word8(char *);
 
 //extern int MessageBox(int ,char *,char *,int );
 
-#define TREE2_SIZE 4000000
-#define LIST_SIZE  400000
+#define TREE2_SIZE 3000000
+#define LIST_SIZE  300000
 
 
 /*
@@ -112,12 +112,12 @@ class tree2
 class tree2 tree2_1;
 */
 
-#define TREE2_SIZE_B 1500000
-#define LIST_SIZE_B  150000
-
-#define TREE2_SIZE_B 1500000
-#define LIST_SIZE_B  150000
-
+#define TREE2_SIZE_B 3000000
+#define LIST_SIZE_B  300000
+/*
+#define TREE2_SIZE_B 2000000
+#define LIST_SIZE_B  200000
+*/
 /*
 class tree2b
 {
@@ -201,8 +201,8 @@ long word8(char *pstr1)
 	FILE *fp1;
 	int  i,j,k,l,m,n,n1,n2,n3,o;
 	char c1,c2,c3,c4,c5;
-	char s1[SMG_LEN];
-	char s2[SMG_LEN];
+	char s1[SMG_SIZE];
+	char s2[SMG_SIZE];
 	//char str1[5000];
 	//char str2[5000];
 

@@ -1,7 +1,7 @@
 !
 backup (
 backup )
-:
+backup :
 ;
 backup <
 backup >
@@ -9,8 +9,8 @@ backup >
 ,
 .
 backup /
-"
-'
+backup "
+backup '
 backup {
 backup }
 backup [
@@ -20,7 +20,7 @@ backup \
 £¡
 backup £¨
 backup £©
-£º
+backup £º
 £»
 backup ¡¶
 backup ¡·
@@ -28,8 +28,8 @@ backup ¡·
 £¬
 ¡£
 backup £¯
-¡°
-¡±
+backup ¡°
+backup ¡±
 backup ¡®
 backup ¡¯
 backup £û
@@ -38,4 +38,6 @@ backup £Û
 backup £Ý
 backup £ü
 backup ¡¢
+
+
 

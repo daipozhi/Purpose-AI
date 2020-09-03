@@ -1,9 +1,17 @@
+Sep 3rd 2020 version
+ 
+* better formula of super pipeline 
+* add debug code to super pipeline
+* better punctuation proccess
+* 5 words grammar change to 4 words grammar
 
 Sep 25th 2019 version
 
-*  put all repeated permutation and combination of words together , it is grammer database , total 86 files .
+*  put all repeated permutation and combination of words together , it is grammar database , total 86 files .
 *  better binary tree (limited access)
 *  added binary tree delete node function
-*  words/grammer repeat 3 times changed to repeat 2 times 
+*  words/grammar repeat 3 times changed to repeat 2 times 
 *  better name for "wd5..." "wd6..."
 *  "loada7" rename to "load8"...
+
+

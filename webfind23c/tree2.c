@@ -47,8 +47,8 @@ int deb_upper_string(char *p_instr);
 
 //extern int MessageBox(int ,char *,char *,int );
 
-#define TREE2_SIZE 4000000
-#define LIST_SIZE  400000
+#define TREE2_SIZE 3000000
+#define LIST_SIZE  300000
 
 /*
 class tree2

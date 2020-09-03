@@ -72,7 +72,7 @@ char m_cc;
 long sent8wrt1(void);
 
 char sent_cb[100][10];
-int  sent_cb_pp=0;
+int  sent_cb_pp;
 int  load_cb(void);
 
 //int pascal WinMain(HINSTANCE ins
@@ -326,6 +326,7 @@ int load_cb(void)
 		return(0);
 	}
 
+	sent_cb_pp=0;
 
 	while(!feof(fp1))
 	{

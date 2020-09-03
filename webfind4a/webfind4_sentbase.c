@@ -79,34 +79,43 @@ class tree2
 {
   private:
 */
-    char  node_mark[TREE2_SIZE];
-    char  node_val[TREE2_SIZE][300];
-    int   node_pp[TREE2_SIZE][3];
-    int   root_pp;
-    int   buff_pp;
+    char  t1_node_mark[TREE2_SIZE];
+    char  t1_node_val[TREE2_SIZE][300];
 
-    int   find_pp;
-    int   find_side;
+    //int   t1_node_val2[TREE2_SIZE];
 
-    int   list_stack[LIST_SIZE];
-    char  list_stack_type[LIST_SIZE];
-    int   list_pp;
+    int   t1_node_pp[TREE2_SIZE][3];
+    int   t1_root_pp;
+    int   t1_buff_pp;
+    
+    int   t1_find_pp;
+    int   t1_find_pp2;
+    int   t1_find_side;
+    
+    int   t1_list_stack[LIST_SIZE];
+    char  t1_list_stack_type[LIST_SIZE];
+    int   t1_list_pp;
 
-    char  out_buff[TREE2_SIZE][300];
-    int   out_pp;
+    char  t1_out_buff[TREE2_SIZE][300];
+    //long long int t1_out_buff2[TREE2_SIZE];
 
-//  public:
+    //int   t1_out_buff3[TREE2_SIZE][5][3];
+    //int   t1_out_buff3_pp[TREE2_SIZE];
 
-    int   init_tree2(void);
-    int   new_node(void);
-    int   clear_node(int pp);
-    int   search_node(char *pstr);
-    int   insert_node(char *pstr);
-    int   dsp_tree2(void);
-    int   after_list(void);
-    int   out_list(char *pstr);
-    int   dsp_list(void);
-    int   save_list(char *fn);
+    int   t1_out_pp;
+
+  //public:
+
+    int   t1_init_tree2(void);
+    int   t1_new_node(void);
+    int   t1_clear_node(int pp);
+    int   t1_search_node(char *pstr);
+    int   t1_insert_node(char *pstr);
+    int   t1_dsp_tree2(void);
+    int   t1_after_list(void);
+    int   t1_out_list(char *pstr,long long int ,int);
+    int   t1_dsp_list(void);
+    int   t1_save_list(char *fn);
 
 //};
 
@@ -133,7 +142,7 @@ int main(void)
 	{
 		f1_get_fln2(s1);
 
-        	init_tree2();
+        	t1_init_tree2();
 
 		i=sent8(s1);
 		if (i==1) break;
@@ -253,10 +262,10 @@ long sent8in1(void)
 */
 	if ((int)strlen(sent_s)>=300) return(1);
 
-	i=search_node(sent_s);
+	i=t1_search_node(sent_s);
 	if (i==1)
 	{
-		insert_node(sent_s);
+		t1_insert_node(sent_s);
 		return(0);
 	}
 	else

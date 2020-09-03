@@ -44,8 +44,8 @@ int deb_upper_string(char *p_instr);
 #include <stdio.h>
 
 
-#define TREE2_SIZE_C 1000000
-#define LIST_SIZE_C  100000
+#define TREE2_SIZE_C 2000000
+#define LIST_SIZE_C  200000
 
     char  t3_node_mark[TREE2_SIZE_C];
     char  t3_node_val[TREE2_SIZE_C][55];

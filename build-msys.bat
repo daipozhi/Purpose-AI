@@ -15,30 +15,26 @@ cp a-step30.exe ../work_dir
 cd ../webfind4a
 gcc -o a-step40.exe webfind4_sentbase.c tree2.c -liconv
 cp a-step40.exe ../work_dir
-cd ../webfind29e
-gcc -o a-step50.exe webfind29e.c tree2.c -liconv
+cd ../webfind29f
+gcc -o a-step50.exe webfind29.c spl1.c tree2.c tree2b.c btree3.c btree4.c -liconv
 cp a-step50.exe ../work_dir
 cd ../webfind23c
 gcc -o a-step60.exe webfind23c.c tree2.c tree2b.c -liconv
 cp a-step60.exe ../work_dir
-cd ../webfind24b
-gcc -o a-step70.exe webfind24b.c -liconv
-cp a-step70.exe ../work_dir
-cd ../webfind25c
-gcc -o a-step80.exe webfind25c.c tree2.c tree2b.c -liconv
-cp a-step80.exe ../work_dir
-cd ../webfind53c
-gcc -o a-step90.exe webfind53.c tree2.c tree2b.c btree3.c btree4.c -liconv
+
+
+cd ../webfind53e
+gcc -o a-step90.exe webfind53.c spl1.c tree2.c tree2b.c btree3.c btree4.c -liconv
 cp a-step90.exe ../work_dir
 cd ../webfind54
 gcc -o a-step100.exe webfind54.c tree2.c tree2b.c tree2c.c -liconv
 cp a-step100.exe ../work_dir
 
 
-cd ../webfind60b
-gcc -o a-step200.exe webfind60.c load12.c tree2.c tree2c.c tree2e.c tree2f.c -liconv
+cd ../webfind60c
+gcc -o a-step200.exe webfind60.c load12.c tree2c.c tree2e.c tree2f.c -liconv
 cp a-step200.exe ../work_dir
-cd ../webfind61d
+cd ../webfind61f
 gcc -o a-step210.exe webfind61.c load12c.c spl1.c spl2.c tree2.c tree2b.c tree2c.c tree2d.c btree5.c btree6.c btree7.c btree8.c -liconv
 cp a-step210.exe ../work_dir
 cd ../webfind62

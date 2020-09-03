@@ -43,7 +43,7 @@ int deb_upper_string(char *p_instr);
 #include <stdio.h>
 #include <string.h>
 
-#define SMG_LEN		 300
+#define SMG_SIZE		 300
 //#define PY_YIN           1000
 //#define STR_LEN_WORD2    25
 
@@ -56,8 +56,8 @@ long word8(char *);
 
 //extern int MessageBox(int ,char *,char *,int );
 
-#define TREE2_SIZE 1000000
-#define LIST_SIZE  100000
+#define TREE2_SIZE 2000000
+#define LIST_SIZE  200000
 
 
 /*
@@ -112,8 +112,8 @@ class tree2
 class tree2 tree2_1;
 */
 
-#define TREE2_SIZE_B 1000000
-#define LIST_SIZE_B  100000
+#define TREE2_SIZE_B 2000000
+#define LIST_SIZE_B  200000
 
 /*
 class tree2b
@@ -167,8 +167,8 @@ class tree2b
 class tree2b tree2b_1;*/
 
 
-#define TREE2_SIZE_C 1000000
-#define LIST_SIZE_C  100000
+#define TREE2_SIZE_C 2000000
+#define LIST_SIZE_C  200000
 
     char  t3_node_mark[TREE2_SIZE_C];
     char  t3_node_val[TREE2_SIZE_C][55];
@@ -213,7 +213,7 @@ class tree2b tree2b_1;*/
 
 
 //------------------------------
-#define ARTI_LINE    1000000
+#define ARTI_LINE    3000000
 /*
 char at6[ARTI_LINE][55];
 long long int at6_n[ARTI_LINE];
@@ -278,8 +278,8 @@ long word8(char *pstr1)
 	FILE *fp1;
 	int  i,j,k,l,m,n,n1,n2,n3,o;
 	char c1,c2,c3,c4,c5;
-	char s1[SMG_LEN];
-	char s2[SMG_LEN];
+	char s1[SMG_SIZE];
+	char s2[SMG_SIZE];
 	//char str1[5000];
 	//char str2[5000];
 
@@ -406,22 +406,22 @@ long word8(char *pstr1)
 
 
 
-static	char         m501_l1[SMG_LEN];
-static	char         m501_l2[SMG_LEN];
-static	char         m501_l3[SMG_LEN];
-static	char         m501_s1[SMG_LEN];
-static	char	     m501_s2[SMG_LEN];
-static	char	     m501_s3[SMG_LEN];
+static	char         m501_l1[SMG_SIZE];
+static	char         m501_l2[SMG_SIZE];
+static	char         m501_l3[SMG_SIZE];
+static	char         m501_s1[SMG_SIZE];
+static	char	     m501_s2[SMG_SIZE];
+static	char	     m501_s3[SMG_SIZE];
 
 int wd6_load(void)
 {
 	FILE		*fp1;
     	int         i,j,k;
-	//char         l1[SMG_LEN];
-	//char         l2[SMG_LEN];
-	//char         l3[SMG_LEN];
-	//char         s1[SMG_LEN];
-	//char	       s2[SMG_LEN];
+	//char         l1[SMG_SIZE];
+	//char         l2[SMG_SIZE];
+	//char         l3[SMG_SIZE];
+	//char         s1[SMG_SIZE];
+	//char	       s2[SMG_SIZE];
 	char         c1;
 	int          pp;
 
@@ -443,7 +443,7 @@ int wd6_load(void)
 	{
 		m501_l1[0]=0;
 
-		fgets(m501_l1,SMG_LEN,fp1);
+		fgets(m501_l1,SMG_SIZE,fp1);
 	
 		//i=(int)strlen(m501_l1);
 
@@ -466,7 +466,7 @@ int wd6_load(void)
 		//str_gb18030_to_utf8_ini();
 		//if (AI_LINUX==1)
 		//{
-		//	str_gb18030_to_utf8(m501_s2,m501_s3,SMG_LEN);
+		//	str_gb18030_to_utf8(m501_s2,m501_s3,SMG_SIZE);
 		//}
 		//else
 		//{

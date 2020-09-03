@@ -49,8 +49,8 @@ int deb_upper_string(char *p_instr);
 
 
 
-#define TREE2_SIZE 1000000
-#define LIST_SIZE  100000
+#define TREE2_SIZE 2000000
+#define LIST_SIZE  200000
 
 /*
 class tree2
@@ -109,8 +109,8 @@ class tree2 tree2_1;
 
 
 
-#define TREE2_SIZE_B 1000000
-#define LIST_SIZE_B  100000
+#define TREE2_SIZE_B 2000000
+#define LIST_SIZE_B  200000
 
 /*
 class tree2b

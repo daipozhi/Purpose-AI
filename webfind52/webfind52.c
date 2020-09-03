@@ -43,7 +43,7 @@ int deb_upper_string(char *p_instr);
 #include <stdio.h>
 #include <string.h>
 
-#define SMG_LEN		 300
+#define SMG_SIZE		 300
 #define PY_YIN           1000
 //#define STR_LEN_WORD2    25
 
@@ -129,8 +129,8 @@ long word8(char *pstr1)
 	FILE *fp1;
 	int  i,j,k;
 	//char c1,c2,c3,c4;
-	//char s1[SMG_LEN];
-	//char s2[SMG_LEN];
+	//char s1[SMG_SIZE];
+	//char s2[SMG_SIZE];
 	//char str1[5000];
 	//char str2[5000];
 

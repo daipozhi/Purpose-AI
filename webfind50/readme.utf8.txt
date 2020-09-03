@@ -6,7 +6,7 @@ First courseware
     at first .
 
 Second courseware
-    copy second automatic generated word base(words02.txt) to directory webfind50,
+    copy second automatic generated word base(words01.txt) to directory webfind50,
     put separation punctuation into file words-cw02_t1.txt ,these punctuation
     are been treat as a word(in word couseware) ,program will list all words which
     include these puctuation,user can select which is a word ,which isn't a word ,
@@ -37,7 +37,7 @@ run program in this directory(words-cw01.c),program will list all the words whic
     rpt开头的行表示这个字出现的次数,如果是1表示只出现一次,pos开头的行表示
     这个字的位置,如果是1表示在第一个.
 
-第二个课件,把第二个词库(自动生成的词库)拷贝到webfind50目录(words02.txt),
+第二个课件,把第二个词库(自动生成的词库)拷贝到webfind50目录(words01.txt),
     在文件words-cw02_t1.txt中写入有分隔作用的标点符号,放在在这里表示这个
     标点符号被当作一个词(是词课件中的词),程序会把所有包含这些标点符号的词
     提取出来,用户可以选择哪个是词,哪个不是词.在文件words-cw02_t2.txt中写入
