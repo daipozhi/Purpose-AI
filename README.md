@@ -304,13 +304,13 @@ How does computer process text,video,audio
                 run program in webfind63b (step230)(copy to work_dir)
                     (get repeat times of each grammar in grammar courseware )
 
-			(Mar 21th 2014 version added support to repeat times of grammars, repeat times of words, 
+                        (Mar 21th 2014 version added support to repeat times of grammars, repeat times of words, 
                              and better algorithm )
-			(Feb  1st 2018 version added grammar courseware )
-			(Jan  1st 2019 version added a new step of grammar , get all grammars in last result,
+                        (Feb  1st 2018 version added grammar courseware )
+                        (Jan  1st 2019 version added a new step of grammar , get all grammars in last result,
                              (after step210), separate sentence , by grammar database, not by if it is repeated 
                              in text file )
-			(Sep 25th 2019 version put all those grammar together(after step200),it is a grammar 
+                        (Sep 25th 2019 version put all those grammar together(after step200),it is a grammar 
                              database ,and removed the step added in Jan 1st 2019 version,in before,a string 
                              repeat 3 times is a word/grammar,now,a string repeat 2 times is a word/grammar, so 
                              there are more words and grammars, the accuracy is still very high.
@@ -388,8 +388,8 @@ How does computer process text,video,audio
                         把所有的语法的重复次数计算出来
 
 
-			(2014-3-21 版本增加了对语法重复次数的支持,词重复次数的支持,改进了算法 )
-			(2018-2- 1 版本增加了语法课件 )
+                        (2014-3-21 版本增加了对语法重复次数的支持,词重复次数的支持,改进了算法 )
+                        (2018-2- 1 版本增加了语法课件 )
                         (2019-1- 1 版本增加了一个语法部分的新步骤,分解文本,靠语法库(在step210
                                        后提取出来),而不是看它是否在文本中重复)
                         (2019-9-25 版本把所有的语法汇集在一起是一个语法库(在step200后),删除了
