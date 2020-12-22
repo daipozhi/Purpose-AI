@@ -19,7 +19,7 @@
 #define   IDOK			4
 #define   IDRETRY		5
 
-int   MessageBox(int h1,char *h2,char *h3,int h4);
+int   MessageBoxNow(int h1,char *h2,char *h3,int h4);
 
 #include <locale.h>
 #include <iconv.h>
@@ -59,7 +59,7 @@ FILE *m_fp1;
 /*
 char at5[ARTI_LINE][55];
 long long int at5_n[ARTI_LINE];
-int  at5_pp;
+int  at5_ptr;
 
 int  search_wd5(char *);
 int  load5(void);
@@ -70,13 +70,13 @@ int 	      find_m5;
 
 	 char wd5_buf[ARTI_LINE][55];
 long long int wd5_rt[ARTI_LINE];
-	  int wd5_pp;
+	  int wd5_ptr;
 
 int  wd5_search(char *);
 int  wd5_load(void);
 
 long long int wd5_find_rt;
-int 	      wd5_find_pp;
+int 	      wd5_find_ptr;
 
 //------------------------------
 
@@ -88,7 +88,7 @@ int 	      wd5_find_pp;
 /*
 char at6[ARTI_LINE][55];
 long long int at6_n[ARTI_LINE];
-int  at6_pp;
+int  at6_ptr;
 
 int  search_wd6(char *);
 int  load6(void);
@@ -98,7 +98,7 @@ long long int find_n6;
 
 	 char wd6_buf[ARTI_LINE][55];
 long long int wd6_rt[ARTI_LINE];
-	  int wd6_pp;
+	  int wd6_ptr;
 
 int  wd6_search(char *);
 int  wd6_load(void);
@@ -108,7 +108,7 @@ long long int wd6_find_rt;
 //------------------------------
 
 
-int  grm10_pp1[6];
+int  grm10_ptr1[6];
 char grm10_mrk[6][20][10];
 
 
@@ -130,8 +130,8 @@ long long int  spl2_rpt[SPL2_NUM];
 int  spl2_va2[SPL2_NUM];
 long long int  spl2_rp2[SPL2_NUM];
 
-int  spl2_pp;
-int  spl2_pp2;
+int  spl2_ptr;
+int  spl2_ptr2;
 
 int  spl2_out_type;
 char spl2_out_str[100][55];
@@ -157,7 +157,7 @@ long long int  spl2_out_ff4;
 #define LIST_SIZE  100000
 
 int   t1_node_val2[TREE2_SIZE];
-int   t1_find_pp;
+int   t1_find_ptr;
 
 int   t1_search_node(int pn1,int pn2,int pn3,int pn4,int pn5,int pn6);
 
@@ -166,7 +166,7 @@ int   t1_search_node(int pn1,int pn2,int pn3,int pn4,int pn5,int pn6);
 #define LIST_SIZE_C  1000000
 
 int   t3_node_val2[TREE2_SIZE_C];
-int   t3_find_pp;
+int   t3_find_ptr;
 
 int   t3_search_node(int pn1,int pn2,int pn3,int pn4/*,int pn5*/);
 
@@ -174,8 +174,8 @@ int   t3_search_node(int pn1,int pn2,int pn3,int pn4/*,int pn5*/);
 #define TREE2_SIZE_D 5000
 #define LIST_SIZE_D  5000
 
-int   t4_find_pp2;
-int   t4_buff_pp;
+int   t4_find_ptr2;
+int   t4_buff_ptr;
 int   t4_node_val[TREE2_SIZE][6];
 
 int   t4_search_node(int pn1,int pn2,int pn3,int pn4,int pn5,int pn6);
@@ -191,7 +191,7 @@ int   t4_insert_node(int pn1,int pn2,int pn3,int pn4,int pn5,int pn6);
     int   t7_node_va2[BTREE7_SIZE];
     
     int   t7_stack[BTREE7_SIZE];
-    int   t7_stack_pp;
+    int   t7_stack_ptr;
 
     int   t7_parent;
     int   t7_parent_side;
@@ -199,25 +199,25 @@ int   t4_insert_node(int pn1,int pn2,int pn3,int pn4,int pn5,int pn6);
     int   t7_child_left;
     int   t7_child_right;
 
-    int   t7_node_pp[BTREE7_SIZE][3];
-    int   t7_root_pp;
+    int   t7_node_ptr[BTREE7_SIZE][3];
+    int   t7_root_ptr;
 
-    int   t7_find_pp;
-    int   t7_find_pp2;
+    int   t7_find_ptr;
+    int   t7_find_ptr2;
     int   t7_find_side;
     
     int   t7_list_stack[BTREE7_LSIZE];
     char  t7_list_stack_type[BTREE7_LSIZE];
-    int   t7_list_pp;
+    int   t7_list_ptr;
 
     int   t7_out_buff[BTREE7_SIZE];
-    int   t7_out_pp;
+    int   t7_out_ptr;
 
     int   t7_err;
 
     int   t7_init_tree(void);
     int   t7_new_node(void);
-    int   t7_clear_node(int pp);
+    int   t7_clear_node(int ptr);
     int   t7_search_node(long long int pn1,long long int pn2,long long int pn3,long long int pn4);
     int   t7_insert_node(long long int pn1,long long int pn2,long long int pn3,long long int pn4);
     int   t7_delete_node(long long int pn1,long long int pn2,long long int pn3,long long int pn4);
@@ -252,7 +252,7 @@ long long int  t8_node_v_rpt[BTREE8_SIZE];
 long long int  t8_node_v_rp2[BTREE8_SIZE];
 
     int   t8_stack[BTREE8_SIZE];
-    int   t8_stack_pp;
+    int   t8_stack_ptr;
 
     int   t8_parent;
     int   t8_parent_side;
@@ -260,25 +260,25 @@ long long int  t8_node_v_rp2[BTREE8_SIZE];
     int   t8_child_left;
     int   t8_child_right;
 
-    int   t8_node_pp[BTREE8_SIZE][3];
-    int   t8_root_pp;
+    int   t8_node_ptr[BTREE8_SIZE][3];
+    int   t8_root_ptr;
 
-    int   t8_find_pp;
-    int   t8_find_pp2;
+    int   t8_find_ptr;
+    int   t8_find_ptr2;
     int   t8_find_side;
     
     int   t8_list_stack[BTREE8_LSIZE];
     char  t8_list_stack_type[BTREE8_LSIZE];
-    int   t8_list_pp;
+    int   t8_list_ptr;
 
     int   t8_out_buff[BTREE8_SIZE];
-    int   t8_out_pp;
+    int   t8_out_ptr;
 
     int   t8_err;
 
     int   t8_init_tree(void);
     int   t8_new_node(void);
-    int   t8_clear_node(int pp);
+    int   t8_clear_node(int ptr);
     int   t8_search_node(long long int pn1,long long int pn2,long long int pn3,long long int pn4,int pn5);
     int   t8_insert_node(long long int pn1,long long int pn2,long long int pn3,long long int pn4,int pn5);
     int   t8_delete_node(long long int pn1,long long int pn2,long long int pn3,long long int pn4,int pn5);
@@ -302,7 +302,7 @@ long long int  spl1_out_va2[SPL1_OUT_NUM];
 long long int  spl1_out_va4[SPL1_OUT_NUM];
 
 	int    spl1_out_seg[SPL1_OUT_NUM];
-	int    spl1_out_pp;
+	int    spl1_out_ptr;
 
 
 static char  m101_l1[3000];
@@ -391,7 +391,7 @@ long long int	      sff1,sff2,sff3,sff4;
 	spl2_out_ff3=0;
 	spl2_out_ff4=0;
 
-	for (o=0;o<spl1_out_pp;o++)
+	for (o=0;o<spl1_out_ptr;o++)
 	{
 
 	err2=0;
@@ -405,7 +405,7 @@ long long int	      sff1,sff2,sff3,sff4;
 		}
 		else
 		{
-			spl1_out_nns[o][u]=wd5_find_pp;
+			spl1_out_nns[o][u]=wd5_find_ptr;
 		}
 	}
 
@@ -416,7 +416,7 @@ long long int	      sff1,sff2,sff3,sff4;
 
 	t4_init_tree2();
 
-	spl2_pp=0;
+	spl2_ptr=0;
 
 	l =spl1_out_seg[o];
 
@@ -454,21 +454,21 @@ long long int	      sff1,sff2,sff3,sff4;
 		{
 			t4_insert_node(ns[0],ns[1],ns[2],ns[3],ns[4],ns[5]);
 
-			spl2_gid[spl2_pp][0]=t4_find_pp2; // grammar id
-			spl2_gid_len[spl2_pp][0]=i;
-			spl2_mr2[spl2_pp][0]=1;
+			spl2_gid[spl2_ptr][0]=t4_find_ptr2; // grammar id
+			spl2_gid_len[spl2_ptr][0]=i;
+			spl2_mr2[spl2_ptr][0]=1;
 
-			spl2_mrk[spl2_pp]=1;
+			spl2_mrk[spl2_ptr]=1;
 
-			spl2_len[spl2_pp]=i;
-			spl2_seg[spl2_pp]=1;
-			spl2_val[spl2_pp]=v3;
-			spl2_rpt[spl2_pp]=v4;    // repeat times
+			spl2_len[spl2_ptr]=i;
+			spl2_seg[spl2_ptr]=1;
+			spl2_val[spl2_ptr]=v3;
+			spl2_rpt[spl2_ptr]=v4;    // repeat times
 
-	        	if (i>=l) spl2_mrk[spl2_pp]=2;
+	        	if (i>=l) spl2_mrk[spl2_ptr]=2;
 
-			spl2_va2[spl2_pp]=v1+ai_number[i3/2];
-			spl2_rp2[spl2_pp]=v2+t1_node_val2[t1_find_pp]*(i3/2);    // repeat times x len
+			spl2_va2[spl2_ptr]=v1+ai_number[i3/2];
+			spl2_rp2[spl2_ptr]=v2+t1_node_val2[t1_find_ptr]*(i3/2);    // repeat times x len
 
 			if (SPL2_DEBUG)
 			{
@@ -487,12 +487,12 @@ long long int	      sff1,sff2,sff3,sff4;
 
 				fputs("}}",m_fp1);
 
-				sprintf(m101_str6,"spl2_mrk=%d,len=%d,seg=%d,va2=%d,rp2=%lld,val=%d,rpt=%lld,\n",spl2_mr2[spl2_pp][0],spl2_len[spl2_pp],spl2_seg[spl2_pp],
-					spl2_va2[spl2_pp],spl2_rp2[spl2_pp],spl2_val[spl2_pp],spl2_rpt[spl2_pp]);
+				sprintf(m101_str6,"spl2_mrk=%d,len=%d,seg=%d,va2=%d,rp2=%lld,val=%d,rpt=%lld,\n",spl2_mr2[spl2_ptr][0],spl2_len[spl2_ptr],spl2_seg[spl2_ptr],
+					spl2_va2[spl2_ptr],spl2_rp2[spl2_ptr],spl2_val[spl2_ptr],spl2_rpt[spl2_ptr]);
 				fputs(m101_str6,m_fp1);
 			}
 
-			spl2_pp++;
+			spl2_ptr++;
 
 		}
 	}
@@ -501,7 +501,7 @@ long long int	      sff1,sff2,sff3,sff4;
 	{
 		if (i>l) continue;
 
-		i4=grm10_pp1[i];   // mark number
+		i4=grm10_ptr1[i];   // mark number
 
 		for (m=0;m<i4;m++) // for every mark
 		{
@@ -532,21 +532,21 @@ long long int	      sff1,sff2,sff3,sff4;
 			{
 				t4_insert_node(ns[0],ns[1],ns[2],ns[3],(-1)/*ns[4]*/,(-1)/*ns[5]*/);
 
-				spl2_gid[spl2_pp][0]=t4_find_pp2;
-				spl2_gid_len[spl2_pp][0]=i;
-				spl2_mr2[spl2_pp][0]=0;
+				spl2_gid[spl2_ptr][0]=t4_find_ptr2;
+				spl2_gid_len[spl2_ptr][0]=i;
+				spl2_mr2[spl2_ptr][0]=0;
 
-				spl2_mrk[spl2_pp]=1;
+				spl2_mrk[spl2_ptr]=1;
 
-				spl2_len[spl2_pp]=i;
-				spl2_seg[spl2_pp]=1;
-				spl2_val[spl2_pp]=v3+ai_number[i3/2];
-				spl2_rpt[spl2_pp]=v4+t3_node_val2[t3_find_pp]*(i3/2);    // repeat times x len
+				spl2_len[spl2_ptr]=i;
+				spl2_seg[spl2_ptr]=1;
+				spl2_val[spl2_ptr]=v3+ai_number[i3/2];
+				spl2_rpt[spl2_ptr]=v4+t3_node_val2[t3_find_ptr]*(i3/2);    // repeat times x len
 
-		        	if (i>=l) spl2_mrk[spl2_pp]=2;
+		        	if (i>=l) spl2_mrk[spl2_ptr]=2;
 
-				spl2_va2[spl2_pp]=v1;
-				spl2_rp2[spl2_pp]=v2;    // repeat times
+				spl2_va2[spl2_ptr]=v1;
+				spl2_rp2[spl2_ptr]=v2;    // repeat times
 
 				if (SPL2_DEBUG)
 				{
@@ -565,12 +565,12 @@ long long int	      sff1,sff2,sff3,sff4;
 
 					fputs("]]",m_fp1);
 
-					sprintf(m101_str6,"spl2_mrk=%d,len=%d,seg=%d,va2=%d,rp2=%lld,val=%d,rpt=%lld,\n",spl2_mr2[spl2_pp][0],spl2_len[spl2_pp],spl2_seg[spl2_pp],
-						spl2_va2[spl2_pp],spl2_rp2[spl2_pp],spl2_val[spl2_pp],spl2_rpt[spl2_pp]);
+					sprintf(m101_str6,"spl2_mrk=%d,len=%d,seg=%d,va2=%d,rp2=%lld,val=%d,rpt=%lld,\n",spl2_mr2[spl2_ptr][0],spl2_len[spl2_ptr],spl2_seg[spl2_ptr],
+						spl2_va2[spl2_ptr],spl2_rp2[spl2_ptr],spl2_val[spl2_ptr],spl2_rpt[spl2_ptr]);
 					fputs(m101_str6,m_fp1);
 				}
 
-				spl2_pp++;
+				spl2_ptr++;
 			}
 		}
 	}
@@ -586,21 +586,21 @@ long long int	      sff1,sff2,sff3,sff4;
 
 	t4_insert_node(ns[0],ns[1],ns[2],ns[3],ns[4],ns[5]);
 
-	spl2_gid[spl2_pp][0]=t4_find_pp2;
-	spl2_gid_len[spl2_pp][0]=1;
-	spl2_mr2[spl2_pp][0]=0;
+	spl2_gid[spl2_ptr][0]=t4_find_ptr2;
+	spl2_gid_len[spl2_ptr][0]=1;
+	spl2_mr2[spl2_ptr][0]=0;
 
-	spl2_mrk[spl2_pp]=1;
+	spl2_mrk[spl2_ptr]=1;
 
-	spl2_len[spl2_pp]=1;
-	spl2_seg[spl2_pp]=1;
-	spl2_val[spl2_pp]=v3+ai_number[i3/2];
-	spl2_rpt[spl2_pp]=v4+1*(i3/2);    // repeat times x len
+	spl2_len[spl2_ptr]=1;
+	spl2_seg[spl2_ptr]=1;
+	spl2_val[spl2_ptr]=v3+ai_number[i3/2];
+	spl2_rpt[spl2_ptr]=v4+1*(i3/2);    // repeat times x len
 
-       	if (1>=l) spl2_mrk[spl2_pp]=2;
+       	if (1>=l) spl2_mrk[spl2_ptr]=2;
 
-	spl2_va2[spl2_pp]=v1;
-	spl2_rp2[spl2_pp]=v2;    // repeat times
+	spl2_va2[spl2_ptr]=v1;
+	spl2_rp2[spl2_ptr]=v2;    // repeat times
 
 	if (SPL2_DEBUG)
 	{
@@ -617,15 +617,15 @@ long long int	      sff1,sff2,sff3,sff4;
 			else                        fputs(",,",m_fp1);
 		}
 
-		sprintf(m101_str6,"spl2_mrk=%d,len=%d,seg=%d,va2=%d,rp2=%lld,val=%d,rpt=%lld,\n",spl2_mr2[spl2_pp][0],spl2_len[spl2_pp],spl2_seg[spl2_pp],
-			spl2_va2[spl2_pp],spl2_rp2[spl2_pp],spl2_val[spl2_pp],spl2_rpt[spl2_pp]);
+		sprintf(m101_str6,"spl2_mrk=%d,len=%d,seg=%d,va2=%d,rp2=%lld,val=%d,rpt=%lld,\n",spl2_mr2[spl2_ptr][0],spl2_len[spl2_ptr],spl2_seg[spl2_ptr],
+			spl2_va2[spl2_ptr],spl2_rp2[spl2_ptr],spl2_val[spl2_ptr],spl2_rpt[spl2_ptr]);
 		fputs(m101_str6,m_fp1);
 	}
 
-	spl2_pp++;
+	spl2_ptr++;
 
 	//m1=0;
-	//m2=spl2_pp;
+	//m2=spl2_ptr;
 
 	while(1)
 	{
@@ -636,7 +636,7 @@ long long int	      sff1,sff2,sff3,sff4;
 		t7_init_tree();
 		t8_init_tree();
 
-		for (n=0;n<spl2_pp;n++)
+		for (n=0;n<spl2_ptr;n++)
 		{
 			//n=j2;
 
@@ -707,27 +707,27 @@ long long int	      sff1,sff2,sff3,sff4;
 /*
 				for (s=0;s<r;s++)
 				{
-					spl2_gid[spl2_pp][s]=spl2_gid[n][s];
-					spl2_gid_len[spl2_pp][s]=spl2_gid_len[n][s];
-					spl2_mr2[spl2_pp][s]=spl2_mr2[n][s];
+					spl2_gid[spl2_ptr][s]=spl2_gid[n][s];
+					spl2_gid_len[spl2_ptr][s]=spl2_gid_len[n][s];
+					spl2_mr2[spl2_ptr][s]=spl2_mr2[n][s];
 				}
 
-				spl2_mrk[spl2_pp]=2;
+				spl2_mrk[spl2_ptr]=2;
 
-				spl2_len[spl2_pp]=p;
-				spl2_seg[spl2_pp]=r;
-				spl2_val[spl2_pp]=q;
-				spl2_rpt[spl2_pp]=t;
+				spl2_len[spl2_ptr]=p;
+				spl2_seg[spl2_ptr]=r;
+				spl2_val[spl2_ptr]=q;
+				spl2_rpt[spl2_ptr]=t;
 
-				spl2_va2[spl2_pp]=v;
-				spl2_rp2[spl2_pp]=w;
+				spl2_va2[spl2_ptr]=v;
+				spl2_rp2[spl2_ptr]=w;
 */
-//		sprintf(m101_str3,"spl2_pp=%d,spl2_mrk=%d,str=%s,len=%d,seg=%d,val=%d,",spl2_pp,spl2_mrk[spl2_pp],spl2_str[spl2_pp][r],spl2_len[spl2_pp],spl2_seg[spl2_pp],spl2_val[spl2_pp]);
+//		sprintf(m101_str3,"spl2_ptr=%d,spl2_mrk=%d,str=%s,len=%d,seg=%d,val=%d,",spl2_ptr,spl2_mrk[spl2_ptr],spl2_str[spl2_ptr][r],spl2_len[spl2_ptr],spl2_seg[spl2_ptr],spl2_val[spl2_ptr]);
 
-//		MessageBox(0,m101_str3,"into pop-r2",MB_OK);
+//		MessageBoxNow(0,m101_str3,"into pop-r2",MB_OK);
 
 
-				//spl2_pp++;
+				//spl2_ptr++;
 				m4++; // ok ones number
 
 				continue;
@@ -783,7 +783,7 @@ long long int	      sff1,sff2,sff3,sff4;
 				{
 					t4_insert_node(ns[0],ns[1],ns[2],ns[3],ns[4],ns[5]);
 
-					m101_p_cur =t4_find_pp2;
+					m101_p_cur =t4_find_ptr2;
 					m101_p_le2 =i;
 					m101_p_mr2 =1;
 
@@ -797,13 +797,13 @@ long long int	      sff1,sff2,sff3,sff4;
 					if (m101_p_len+i>=l) m101_p_mrk=2;
 
 					m101_p_va2_add=ai_number[i3/2];
-					m101_p_rp2_add=t1_node_val2[t1_find_pp]*(i3/2);
+					m101_p_rp2_add=t1_node_val2[t1_find_ptr]*(i3/2);
 
 					//j7=0;
 					//for (j6=0;j6<m101_p_len;j6++)	j7=j7+(int)strlen(spl1_out_str[o][j6]);
 
 					m101_p_ff1=((m101_p_va2+                ai_number[i3/2])*1000)/(m101_p_seg+m101_p_seg_add)/*(m101_p_len+i)*/;
-					m101_p_ff2=((m101_p_rp2+t1_node_val2[t1_find_pp]*(i3/2))*1000)/(m101_p_seg+m101_p_seg_add)/*(m101_p_len+i)*/;
+					m101_p_ff2=((m101_p_rp2+t1_node_val2[t1_find_ptr]*(i3/2))*1000)/(m101_p_seg+m101_p_seg_add)/*(m101_p_len+i)*/;
 					m101_p_ff3=(m101_p_val*1000)/(m101_p_seg+m101_p_seg_add)/*(m101_p_len+i)*/;
 					m101_p_ff4=(m101_p_rpt*1000)/(m101_p_seg+m101_p_seg_add)/*(m101_p_len+i)*/;
 
@@ -812,26 +812,26 @@ long long int	      sff1,sff2,sff3,sff4;
 /*
 					for (s=0;s<r;s++)
 					{
-						spl2_gid[spl2_pp][s]=spl2_gid[n][s];
-						spl2_gid_len[spl2_pp][s]=spl2_gid_len[n][s];
-						spl2_mr2[spl2_pp][s]=spl2_mr2[n][s];
+						spl2_gid[spl2_ptr][s]=spl2_gid[n][s];
+						spl2_gid_len[spl2_ptr][s]=spl2_gid_len[n][s];
+						spl2_mr2[spl2_ptr][s]=spl2_mr2[n][s];
 					}
 
-					spl2_gid[spl2_pp][r]=t4_find_pp2; // grammar id
-					spl2_gid_len[spl2_pp][r]=i;
-					spl2_mr2[spl2_pp][r]=1;
+					spl2_gid[spl2_ptr][r]=t4_find_ptr2; // grammar id
+					spl2_gid_len[spl2_ptr][r]=i;
+					spl2_mr2[spl2_ptr][r]=1;
 
-					spl2_mrk[spl2_pp]=1;
+					spl2_mrk[spl2_ptr]=1;
 
-					spl2_len[spl2_pp]=p+i;
-					spl2_seg[spl2_pp]=r+1;
-					spl2_val[spl2_pp]=q;
-					spl2_rpt[spl2_pp]=t;    // repeat times
+					spl2_len[spl2_ptr]=p+i;
+					spl2_seg[spl2_ptr]=r+1;
+					spl2_val[spl2_ptr]=q;
+					spl2_rpt[spl2_ptr]=t;    // repeat times
 
-	        			if (p+i>=l) spl2_mrk[spl2_pp]=2;
+	        			if (p+i>=l) spl2_mrk[spl2_ptr]=2;
 
-					spl2_va2[spl2_pp]=v+ai_number[i3/2];
-					spl2_rp2[spl2_pp]=w+t1_node_val2[t1_find_pp]*(i3/2);    // repeat times x len
+					spl2_va2[spl2_ptr]=v+ai_number[i3/2];
+					spl2_rp2[spl2_ptr]=w+t1_node_val2[t1_find_ptr]*(i3/2);    // repeat times x len
 */
 					if (SPL2_DEBUG)
 					{
@@ -859,7 +859,7 @@ long long int	      sff1,sff2,sff3,sff4;
 						fputs(m101_str6,m_fp1);
 					}
 
-					//spl2_pp++;
+					//spl2_ptr++;
 				}
 			}
 
@@ -870,7 +870,7 @@ long long int	      sff1,sff2,sff3,sff4;
 			{
 				if (m101_p_len+i>l) continue;
 
-				i4=grm10_pp1[i];   // mark number
+				i4=grm10_ptr1[i];   // mark number
 
 				for (m=0;m<i4;m++) // for every mark
 				{
@@ -904,7 +904,7 @@ long long int	      sff1,sff2,sff3,sff4;
 					{
 						t4_insert_node(ns[0],ns[1],ns[2],ns[3],(-1)/*ns[4]*/,(-1)/*ns[5]*/);
 
-						m101_p_cur =t4_find_pp2;
+						m101_p_cur =t4_find_ptr2;
 						m101_p_le2 =i;
 						m101_p_mr2 =0;
 
@@ -913,7 +913,7 @@ long long int	      sff1,sff2,sff3,sff4;
 						m101_p_len_add=i;
 						m101_p_seg_add=1;
 						m101_p_val_add=ai_number[i3/2];
-						m101_p_rpt_add=t3_node_val2[t3_find_pp]*(i3/2);
+						m101_p_rpt_add=t3_node_val2[t3_find_ptr]*(i3/2);
 
 						if (m101_p_len+i>=l) m101_p_mrk=2;
 
@@ -926,32 +926,32 @@ long long int	      sff1,sff2,sff3,sff4;
 						m101_p_ff1=(m101_p_va2*1000)/(m101_p_seg+m101_p_seg_add)/*(m101_p_len+i)*/;
 						m101_p_ff2=(m101_p_rp2*1000)/(m101_p_seg+m101_p_seg_add)/*(m101_p_len+i)*/;
 						m101_p_ff3=((m101_p_val+                ai_number[i3/2])*1000)/(m101_p_seg+m101_p_seg_add)/*(m101_p_len+i)*/;
-						m101_p_ff4=((m101_p_rpt+t3_node_val2[t3_find_pp]*(i3/2))*1000)/(m101_p_seg+m101_p_seg_add)/*(m101_p_len+i)*/;
+						m101_p_ff4=((m101_p_rpt+t3_node_val2[t3_find_ptr]*(i3/2))*1000)/(m101_p_seg+m101_p_seg_add)/*(m101_p_len+i)*/;
 
 						spl2_add_to_tree(o);
 /*
 						for (s=0;s<r;s++)
 						{
-							spl2_gid[spl2_pp][s]=spl2_gid[n][s];
-							spl2_gid_len[spl2_pp][s]=spl2_gid_len[n][s];
-							spl2_mr2[spl2_pp][s]=spl2_mr2[n][s];
+							spl2_gid[spl2_ptr][s]=spl2_gid[n][s];
+							spl2_gid_len[spl2_ptr][s]=spl2_gid_len[n][s];
+							spl2_mr2[spl2_ptr][s]=spl2_mr2[n][s];
 						}
 
-						spl2_gid[spl2_pp][r]=t4_find_pp2;
-						spl2_gid_len[spl2_pp][r]=i;
-						spl2_mr2[spl2_pp][r]=0;
+						spl2_gid[spl2_ptr][r]=t4_find_ptr2;
+						spl2_gid_len[spl2_ptr][r]=i;
+						spl2_mr2[spl2_ptr][r]=0;
 
-						spl2_mrk[spl2_pp]=1;
+						spl2_mrk[spl2_ptr]=1;
 
-						spl2_len[spl2_pp]=p+i;
-						spl2_seg[spl2_pp]=r+1;
-						spl2_val[spl2_pp]=q+ai_number[i3/2];
-						spl2_rpt[spl2_pp]=t+t3_node_val2[t3_find_pp]*(i3/2);    // repeat times x len
+						spl2_len[spl2_ptr]=p+i;
+						spl2_seg[spl2_ptr]=r+1;
+						spl2_val[spl2_ptr]=q+ai_number[i3/2];
+						spl2_rpt[spl2_ptr]=t+t3_node_val2[t3_find_ptr]*(i3/2);    // repeat times x len
 
-				        	if (p+i>=l) spl2_mrk[spl2_pp]=2;
+				        	if (p+i>=l) spl2_mrk[spl2_ptr]=2;
 
-						spl2_va2[spl2_pp]=v;
-						spl2_rp2[spl2_pp]=w;    // repeat times
+						spl2_va2[spl2_ptr]=v;
+						spl2_rp2[spl2_ptr]=w;    // repeat times
 */
 						if (SPL2_DEBUG)
 						{
@@ -979,7 +979,7 @@ long long int	      sff1,sff2,sff3,sff4;
 							fputs(m101_str6,m_fp1);
 						}
 
-						//spl2_pp++;
+						//spl2_ptr++;
 					}
 				}
 			}
@@ -1000,7 +1000,7 @@ long long int	      sff1,sff2,sff3,sff4;
 
 			t4_insert_node(ns[0],ns[1],ns[2],ns[3],ns[4],ns[5]);
 
-			m101_p_cur =t4_find_pp2;
+			m101_p_cur =t4_find_ptr2;
 			m101_p_le2 =1;
 			m101_p_mr2 =0;
 
@@ -1029,26 +1029,26 @@ long long int	      sff1,sff2,sff3,sff4;
 /*
 			for (s=0;s<r;s++)
 			{
-				spl2_gid[spl2_pp][s]=spl2_gid[n][s];
-				spl2_gid_len[spl2_pp][s]=spl2_gid_len[n][s];
-				spl2_mr2[spl2_pp][s]=spl2_mr2[n][s];
+				spl2_gid[spl2_ptr][s]=spl2_gid[n][s];
+				spl2_gid_len[spl2_ptr][s]=spl2_gid_len[n][s];
+				spl2_mr2[spl2_ptr][s]=spl2_mr2[n][s];
 			}
 
-			spl2_gid[spl2_pp][r]=t4_find_pp2;
-			spl2_gid_len[spl2_pp][r]=1;
-			spl2_mr2[spl2_pp][r]=0;
+			spl2_gid[spl2_ptr][r]=t4_find_ptr2;
+			spl2_gid_len[spl2_ptr][r]=1;
+			spl2_mr2[spl2_ptr][r]=0;
 
-			spl2_mrk[spl2_pp]=1;
+			spl2_mrk[spl2_ptr]=1;
 
-			spl2_len[spl2_pp]=p+1;
-			spl2_seg[spl2_pp]=r+1;
-			spl2_val[spl2_pp]=q+ai_number[i3/2];
-			spl2_rpt[spl2_pp]=t+1*(i3/2);    // repeat times x len
+			spl2_len[spl2_ptr]=p+1;
+			spl2_seg[spl2_ptr]=r+1;
+			spl2_val[spl2_ptr]=q+ai_number[i3/2];
+			spl2_rpt[spl2_ptr]=t+1*(i3/2);    // repeat times x len
 
-			if (p+1>=l) spl2_mrk[spl2_pp]=2;
+			if (p+1>=l) spl2_mrk[spl2_ptr]=2;
 
-			spl2_va2[spl2_pp]=v;
-			spl2_rp2[spl2_pp]=w;    // repeat times
+			spl2_va2[spl2_ptr]=v;
+			spl2_rp2[spl2_ptr]=w;    // repeat times
 */
 			if (SPL2_DEBUG)
 			{
@@ -1076,13 +1076,13 @@ long long int	      sff1,sff2,sff3,sff4;
 				fputs(m101_str6,m_fp1);
 			}
 
-			//spl2_pp++;
+			//spl2_ptr++;
 		}
 
 		if (err==0)
 		{
 			//m1=m2;
-			//m2=spl2_pp;
+			//m2=spl2_ptr;
 
 			//if (m2>100000) break;
 
@@ -1091,38 +1091,38 @@ long long int	      sff1,sff2,sff3,sff4;
 		}
 		else break;
 
-		spl2_pp=0;
+		spl2_ptr=0;
 
 		for (i2=0;i2<BTREE8_SIZE;i2++)  // copy buffer
 		{
 			if (t8_node_mark[i2]==0)
 			{
-				spl2_mrk[spl2_pp]=t8_node_v_mrk[i2];
+				spl2_mrk[spl2_ptr]=t8_node_v_mrk[i2];
 
-				spl2_len[spl2_pp]=t8_node_v_len[i2];
-				spl2_seg[spl2_pp]=t8_node_v_seg[i2];
-				spl2_val[spl2_pp]=t8_node_v_val[i2];
-				spl2_rpt[spl2_pp]=t8_node_v_rpt[i2];
+				spl2_len[spl2_ptr]=t8_node_v_len[i2];
+				spl2_seg[spl2_ptr]=t8_node_v_seg[i2];
+				spl2_val[spl2_ptr]=t8_node_v_val[i2];
+				spl2_rpt[spl2_ptr]=t8_node_v_rpt[i2];
 
-				spl2_va2[spl2_pp]=t8_node_v_va2[i2];
-				spl2_rp2[spl2_pp]=t8_node_v_rp2[i2];
+				spl2_va2[spl2_ptr]=t8_node_v_va2[i2];
+				spl2_rp2[spl2_ptr]=t8_node_v_rp2[i2];
 
-				i3=spl2_seg[spl2_pp];
+				i3=spl2_seg[spl2_ptr];
 				for (i4=0;i4<i3;i4++)
 				{
-					spl2_gid[spl2_pp][i4]    =t8_node_v_gid[i2][i4];
-					spl2_gid_len[spl2_pp][i4]=t8_node_v_gid_len[i2][i4];
-					spl2_mr2[spl2_pp][i4]    =t8_node_v_mr2[i2][i4];
+					spl2_gid[spl2_ptr][i4]    =t8_node_v_gid[i2][i4];
+					spl2_gid_len[spl2_ptr][i4]=t8_node_v_gid_len[i2][i4];
+					spl2_mr2[spl2_ptr][i4]    =t8_node_v_mr2[i2][i4];
 				}
 
-				spl2_pp++;
+				spl2_ptr++;
 			}
 		}
 /*
 		t7_init_tree2();
 		t8_init_tree2();
 
-		for (j2=0;j2<spl2_stk2_pp1;j2++)
+		for (j2=0;j2<spl2_stk2_ptr1;j2++)
 		{
 			j3=spl2_stk2[j2];
 
@@ -1137,33 +1137,33 @@ long long int	      sff1,sff2,sff3,sff4;
 
 			j4=t7_search_node(ff1,ff2,ff3,ff4); // key repeat times
 			if (j4!=0) j5=0;
-			else j5=t7_node_val2[t7_find_pp]+1;
+			else j5=t7_node_val2[t7_find_ptr]+1;
 
 			j4=t7_insert_node(ff1,ff2,ff3,ff4);
-			t7_node_val2[t7_find_pp2]=j5;
+			t7_node_val2[t7_find_ptr2]=j5;
 
 			j4=t8_insert_node(ff1,ff2,ff3,ff4,j5);
-			t8_node_val3[t8_find_pp2]=j3;
+			t8_node_val3[t8_find_ptr2]=j3;
 		}
 
 		t8_after_list();
 
-		spl2_stk2_pp1=0;
+		spl2_stk2_ptr1=0;
 
 		j3=0;
 
-		for(j2=0;j2<t8_out_pp;j2++)
+		for(j2=0;j2<t8_out_ptr;j2++)
 		{
 			j3++;
 			if (j3<=SPL2_MAX_NUM)
 			{
-				spl2_stk2[spl2_stk2_pp1]=t8_out_buff3[j2];
-				spl2_stk2_pp1++;
+				spl2_stk2[spl2_stk2_ptr1]=t8_out_buff3[j2];
+				spl2_stk2_ptr1++;
 			}
 			else
 			{
-				spl2_stk1[spl2_stk1_pp1]=t8_out_buff3[j2]; // delete 
-				spl2_stk1_pp1++;
+				spl2_stk1[spl2_stk1_ptr1]=t8_out_buff3[j2]; // delete 
+				spl2_stk1_ptr1++;
 			}
 		}
 		*/
@@ -1182,7 +1182,7 @@ long long int	      sff1,sff2,sff3,sff4;
 			if (spl2_out_seg==0)
 			{
 				spl2_out_type=1;
-				spl2_pp2=o;
+				spl2_ptr2=o;
 				i8=0;
 				for (i6=0;i6<t8_node_v_seg[n1];i6++)
 				{
@@ -1251,7 +1251,7 @@ long long int	      sff1,sff2,sff3,sff4;
 				if (bigger==1)
 				{
 					spl2_out_type=1;
-					spl2_pp2=o;
+					spl2_ptr2=o;
 					i8=0;
 					for (i6=0;i6<t8_node_v_seg[n1];i6++)
 					{
@@ -1287,7 +1287,7 @@ long long int	      sff1,sff2,sff3,sff4;
 		n1++;
 	}
 
-	//printf("spl2_pp=%d,m4=%d,t4_buff_pp=%d,\n",spl2_pp,m4,t4_buff_pp);  // for test
+	//printf("spl2_ptr=%d,m4=%d,t4_buff_ptr=%d,\n",spl2_ptr,m4,t4_buff_ptr);  // for test
 
 
 
@@ -1381,14 +1381,14 @@ long long int	      sff1,sff2,sff3,sff4;
 	return(0);
 }
 /*
-int spl2_test(int pp,int o)
+int spl2_test(int ptr,int o)
 {
 	int  i6,i7,i8,i9;
 	int  n1;
 	int  i,j,k;
 	char ss1[10];
 
-	n1=pp;
+	n1=ptr;
 
 	spl2_out_type=1;
 	
@@ -1455,16 +1455,16 @@ int spl2_add_to_tree(int o)
 	int   bigger;
 	int   k1,k2,k3,k4,k5;
 
-	//printf("t7_stack_pp=%d,t8_stack_pp=%d,\n",t7_stack_pp,t8_stack_pp);
+	//printf("t7_stack_ptr=%d,t8_stack_ptr=%d,\n",t7_stack_ptr,t8_stack_ptr);
 
-	if (t8_stack_pp>0)
+	if (t8_stack_ptr>0)
 	{
 		i4=t7_search_node(m101_p_ff1,m101_p_ff2,m101_p_ff3,m101_p_ff4); // key repeat times
 		if (i4!=0) i5=0;
-		else i5=t7_node_va2[t7_find_pp]+1;
+		else i5=t7_node_va2[t7_find_ptr]+1;
 
 		i4=t7_insert_node(m101_p_ff1,m101_p_ff2,m101_p_ff3,m101_p_ff4);
-		t7_node_va2[t7_find_pp2]=i5;
+		t7_node_va2[t7_find_ptr2]=i5;
 
 		i4=t8_insert_node(m101_p_ff1,m101_p_ff2,m101_p_ff3,m101_p_ff4,i5);
 
@@ -1473,44 +1473,44 @@ int spl2_add_to_tree(int o)
 			i3=m101_p_seg;
 			for (i4=0;i4<i3;i4++)
 			{
-				t8_node_v_gid[t8_find_pp2][i4]    =spl2_gid[m101_p_src][i4];
-				t8_node_v_gid_len[t8_find_pp2][i4]=spl2_gid_len[m101_p_src][i4];
-				t8_node_v_mr2[t8_find_pp2][i4]    =spl2_mr2[m101_p_src][i4];
+				t8_node_v_gid[t8_find_ptr2][i4]    =spl2_gid[m101_p_src][i4];
+				t8_node_v_gid_len[t8_find_ptr2][i4]=spl2_gid_len[m101_p_src][i4];
+				t8_node_v_mr2[t8_find_ptr2][i4]    =spl2_mr2[m101_p_src][i4];
 			}
 
-			t8_node_v_mrk[t8_find_pp2]=spl2_mrk[m101_p_src];
+			t8_node_v_mrk[t8_find_ptr2]=spl2_mrk[m101_p_src];
 
-			t8_node_v_len[t8_find_pp2]=spl2_len[m101_p_src];
-			t8_node_v_seg[t8_find_pp2]=spl2_seg[m101_p_src];
-			t8_node_v_val[t8_find_pp2]=spl2_val[m101_p_src];
-			t8_node_v_rpt[t8_find_pp2]=spl2_rpt[m101_p_src];
+			t8_node_v_len[t8_find_ptr2]=spl2_len[m101_p_src];
+			t8_node_v_seg[t8_find_ptr2]=spl2_seg[m101_p_src];
+			t8_node_v_val[t8_find_ptr2]=spl2_val[m101_p_src];
+			t8_node_v_rpt[t8_find_ptr2]=spl2_rpt[m101_p_src];
 
-			t8_node_v_va2[t8_find_pp2]=spl2_va2[m101_p_src];
-			t8_node_v_rp2[t8_find_pp2]=spl2_rp2[m101_p_src];
+			t8_node_v_va2[t8_find_ptr2]=spl2_va2[m101_p_src];
+			t8_node_v_rp2[t8_find_ptr2]=spl2_rp2[m101_p_src];
 		}
 		else
 		{
 			i3=m101_p_seg;
 			for (i4=0;i4<i3;i4++)
 			{
-				t8_node_v_gid[t8_find_pp2][i4]    =spl2_gid[m101_p_src][i4];
-				t8_node_v_gid_len[t8_find_pp2][i4]=spl2_gid_len[m101_p_src][i4];
-				t8_node_v_mr2[t8_find_pp2][i4]    =spl2_mr2[m101_p_src][i4];
+				t8_node_v_gid[t8_find_ptr2][i4]    =spl2_gid[m101_p_src][i4];
+				t8_node_v_gid_len[t8_find_ptr2][i4]=spl2_gid_len[m101_p_src][i4];
+				t8_node_v_mr2[t8_find_ptr2][i4]    =spl2_mr2[m101_p_src][i4];
 			}
 
-			t8_node_v_gid[t8_find_pp2][m101_p_seg]    =m101_p_cur;
-			t8_node_v_gid_len[t8_find_pp2][m101_p_seg]=m101_p_le2;
-			t8_node_v_mr2[t8_find_pp2][m101_p_seg]    =m101_p_mr2;
+			t8_node_v_gid[t8_find_ptr2][m101_p_seg]    =m101_p_cur;
+			t8_node_v_gid_len[t8_find_ptr2][m101_p_seg]=m101_p_le2;
+			t8_node_v_mr2[t8_find_ptr2][m101_p_seg]    =m101_p_mr2;
 
-			t8_node_v_mrk[t8_find_pp2]=m101_p_mrk;
+			t8_node_v_mrk[t8_find_ptr2]=m101_p_mrk;
 
-			t8_node_v_len[t8_find_pp2]=m101_p_len+m101_p_len_add;
-			t8_node_v_seg[t8_find_pp2]=m101_p_seg+m101_p_seg_add;
-			t8_node_v_val[t8_find_pp2]=m101_p_val+m101_p_val_add;
-			t8_node_v_rpt[t8_find_pp2]=m101_p_rpt+m101_p_rpt_add;
+			t8_node_v_len[t8_find_ptr2]=m101_p_len+m101_p_len_add;
+			t8_node_v_seg[t8_find_ptr2]=m101_p_seg+m101_p_seg_add;
+			t8_node_v_val[t8_find_ptr2]=m101_p_val+m101_p_val_add;
+			t8_node_v_rpt[t8_find_ptr2]=m101_p_rpt+m101_p_rpt_add;
 
-			t8_node_v_va2[t8_find_pp2]=m101_p_va2+m101_p_va2_add;
-			t8_node_v_rp2[t8_find_pp2]=m101_p_rp2+m101_p_rp2_add;
+			t8_node_v_va2[t8_find_ptr2]=m101_p_va2+m101_p_va2_add;
+			t8_node_v_rp2[t8_find_ptr2]=m101_p_rp2+m101_p_rp2_add;
 		}
 
 		if (SPL2_DEBUG)
@@ -1519,12 +1519,12 @@ int spl2_add_to_tree(int o)
 
 			k5=0;
 
-			for (k2=0;k2<t8_node_v_seg[t8_find_pp2];k2++)
+			for (k2=0;k2<t8_node_v_seg[t8_find_ptr2];k2++)
 			{
-				k4=t8_node_v_gid[t8_find_pp2][k2];
-				k3=t8_node_v_gid_len[t8_find_pp2][k2];
+				k4=t8_node_v_gid[t8_find_ptr2][k2];
+				k3=t8_node_v_gid_len[t8_find_ptr2][k2];
 
-				if (t8_node_v_mr2[t8_find_pp2][k2]==1) fputs("{{",m_fp1);
+				if (t8_node_v_mr2[t8_find_ptr2][k2]==1) fputs("{{",m_fp1);
 				else
 				{
 					if (k3>1)	fputs("[[",m_fp1);
@@ -1541,7 +1541,7 @@ int spl2_add_to_tree(int o)
 					else                           fputs(",,",m_fp1);
 				}
 
-				if (t8_node_v_mr2[t8_find_pp2][k2]==1) fputs("}}",m_fp1);
+				if (t8_node_v_mr2[t8_find_ptr2][k2]==1) fputs("}}",m_fp1);
 				else
 				{
 					if (k3>1)	fputs("]]",m_fp1);
@@ -1551,9 +1551,9 @@ int spl2_add_to_tree(int o)
 			}
 
 			sprintf(m101_str6,"va2=%d,rp2=%lld,val=%d,rpt=%lld,len=%d,seg=%d,ff1=%lld,ff2=%lld,ff3=%lld,ff4=%lld,\n", 
-				t8_node_v_va2[t8_find_pp2],t8_node_v_rp2[t8_find_pp2],
-				t8_node_v_val[t8_find_pp2],t8_node_v_rpt[t8_find_pp2],
-				t8_node_v_len[t8_find_pp2],t8_node_v_seg[t8_find_pp2],
+				t8_node_v_va2[t8_find_ptr2],t8_node_v_rp2[t8_find_ptr2],
+				t8_node_v_val[t8_find_ptr2],t8_node_v_rpt[t8_find_ptr2],
+				t8_node_v_len[t8_find_ptr2],t8_node_v_seg[t8_find_ptr2],
 				m101_p_ff1,m101_p_ff2,m101_p_ff3,m101_p_ff4);
 			fputs(m101_str6,m_fp1);
 
@@ -1564,12 +1564,12 @@ int spl2_add_to_tree(int o)
 	{
 		t7_smallest();
 
-		ff1=t7_node_val[t7_find_pp][0];
-		ff2=t7_node_val[t7_find_pp][1];
-		ff3=t7_node_val[t7_find_pp][2];
-		ff4=t7_node_val[t7_find_pp][3];
+		ff1=t7_node_val[t7_find_ptr][0];
+		ff2=t7_node_val[t7_find_ptr][1];
+		ff3=t7_node_val[t7_find_ptr][2];
+		ff4=t7_node_val[t7_find_ptr][3];
 
-		//printf("pp=%d,val=%d,%d,%d,%d,\n",t7_find_pp,ff1,ff2,ff3,ff4);
+		//printf("ptr=%d,val=%d,%d,%d,%d,\n",t7_find_ptr,ff1,ff2,ff3,ff4);
 
 		bigger=0;
 
@@ -1608,9 +1608,9 @@ int spl2_add_to_tree(int o)
 				printf("error in function spl2_add_to_tree()%lld,%lld,%lld,%lld,\n",ff1,ff2,ff3,ff4);
 				return(0);
 			}
-			else i5=t7_node_va2[t7_find_pp];
+			else i5=t7_node_va2[t7_find_ptr];
 
-			if (i5>0) t7_node_va2[t7_find_pp]=t7_node_va2[t7_find_pp]-1;
+			if (i5>0) t7_node_va2[t7_find_ptr]=t7_node_va2[t7_find_ptr]-1;
 			else t7_delete_node(ff1,ff2,ff3,ff4);
 
 			if (SPL2_DEBUG)
@@ -1626,12 +1626,12 @@ int spl2_add_to_tree(int o)
 
 					k5=0;
 
-					for (k2=0;k2<t8_node_v_seg[t8_find_pp];k2++)
+					for (k2=0;k2<t8_node_v_seg[t8_find_ptr];k2++)
 					{
-						k4=t8_node_v_gid[t8_find_pp][k2];
-						k3=t8_node_v_gid_len[t8_find_pp][k2];
+						k4=t8_node_v_gid[t8_find_ptr][k2];
+						k3=t8_node_v_gid_len[t8_find_ptr][k2];
 
-						if (t8_node_v_mr2[t8_find_pp][k2]==1) fputs("{{",m_fp1);
+						if (t8_node_v_mr2[t8_find_ptr][k2]==1) fputs("{{",m_fp1);
 						else
 						{
 							if (k3>1)	fputs("[[",m_fp1);
@@ -1648,7 +1648,7 @@ int spl2_add_to_tree(int o)
 							else                           fputs(",,",m_fp1);
 						}
 
-						if (t8_node_v_mr2[t8_find_pp][k2]==1) fputs("}}",m_fp1);
+						if (t8_node_v_mr2[t8_find_ptr][k2]==1) fputs("}}",m_fp1);
 						else
 						{
 							if (k3>1)	fputs("]]",m_fp1);
@@ -1658,9 +1658,9 @@ int spl2_add_to_tree(int o)
 					}
 
 					sprintf(m101_str6,"va2=%d,rp2=%lld,val=%d,rpt=%lld,len=%d,seg=%d,ff1=%lld,ff2=%lld,ff3=%lld,ff4=%lld,\n", 
-						t8_node_v_va2[t8_find_pp],t8_node_v_rp2[t8_find_pp],
-						t8_node_v_val[t8_find_pp],t8_node_v_rpt[t8_find_pp],
-						t8_node_v_len[t8_find_pp],t8_node_v_seg[t8_find_pp],
+						t8_node_v_va2[t8_find_ptr],t8_node_v_rp2[t8_find_ptr],
+						t8_node_v_val[t8_find_ptr],t8_node_v_rpt[t8_find_ptr],
+						t8_node_v_len[t8_find_ptr],t8_node_v_seg[t8_find_ptr],
 						m101_p_ff1,m101_p_ff2,m101_p_ff3,m101_p_ff4);
 					fputs(m101_str6,m_fp1);
 
@@ -1672,10 +1672,10 @@ int spl2_add_to_tree(int o)
 			// insert
 			i4=t7_search_node(m101_p_ff1,m101_p_ff2,m101_p_ff3,m101_p_ff4); // key repeat times
 			if (i4!=0) i5=0;
-			else i5=t7_node_va2[t7_find_pp]+1;
+			else i5=t7_node_va2[t7_find_ptr]+1;
 
 			i4=t7_insert_node(m101_p_ff1,m101_p_ff2,m101_p_ff3,m101_p_ff4);
-			t7_node_va2[t7_find_pp2]=i5;
+			t7_node_va2[t7_find_ptr2]=i5;
 
 			i4=t8_insert_node(m101_p_ff1,m101_p_ff2,m101_p_ff3,m101_p_ff4,i5);
 
@@ -1684,44 +1684,44 @@ int spl2_add_to_tree(int o)
 				i3=m101_p_seg;
 				for (i4=0;i4<i3;i4++)
 				{
-					t8_node_v_gid[t8_find_pp2][i4]    =spl2_gid[m101_p_src][i4];
-					t8_node_v_gid_len[t8_find_pp2][i4]=spl2_gid_len[m101_p_src][i4];
-					t8_node_v_mr2[t8_find_pp2][i4]    =spl2_mr2[m101_p_src][i4];
+					t8_node_v_gid[t8_find_ptr2][i4]    =spl2_gid[m101_p_src][i4];
+					t8_node_v_gid_len[t8_find_ptr2][i4]=spl2_gid_len[m101_p_src][i4];
+					t8_node_v_mr2[t8_find_ptr2][i4]    =spl2_mr2[m101_p_src][i4];
 				}
 
-				t8_node_v_mrk[t8_find_pp2]=spl2_mrk[m101_p_src];
+				t8_node_v_mrk[t8_find_ptr2]=spl2_mrk[m101_p_src];
 
-				t8_node_v_len[t8_find_pp2]=spl2_len[m101_p_src];
-				t8_node_v_seg[t8_find_pp2]=spl2_seg[m101_p_src];
-				t8_node_v_val[t8_find_pp2]=spl2_val[m101_p_src];
-				t8_node_v_rpt[t8_find_pp2]=spl2_rpt[m101_p_src];
+				t8_node_v_len[t8_find_ptr2]=spl2_len[m101_p_src];
+				t8_node_v_seg[t8_find_ptr2]=spl2_seg[m101_p_src];
+				t8_node_v_val[t8_find_ptr2]=spl2_val[m101_p_src];
+				t8_node_v_rpt[t8_find_ptr2]=spl2_rpt[m101_p_src];
 
-				t8_node_v_va2[t8_find_pp2]=spl2_va2[m101_p_src];
-				t8_node_v_rp2[t8_find_pp2]=spl2_rp2[m101_p_src];
+				t8_node_v_va2[t8_find_ptr2]=spl2_va2[m101_p_src];
+				t8_node_v_rp2[t8_find_ptr2]=spl2_rp2[m101_p_src];
 			}
 			else
 			{
 				i3=m101_p_seg;
 				for (i4=0;i4<i3;i4++)
 				{
-					t8_node_v_gid[t8_find_pp2][i4]    =spl2_gid[m101_p_src][i4];
-					t8_node_v_gid_len[t8_find_pp2][i4]=spl2_gid_len[m101_p_src][i4];
-					t8_node_v_mr2[t8_find_pp2][i4]    =spl2_mr2[m101_p_src][i4];
+					t8_node_v_gid[t8_find_ptr2][i4]    =spl2_gid[m101_p_src][i4];
+					t8_node_v_gid_len[t8_find_ptr2][i4]=spl2_gid_len[m101_p_src][i4];
+					t8_node_v_mr2[t8_find_ptr2][i4]    =spl2_mr2[m101_p_src][i4];
 				}
 
-				t8_node_v_gid[t8_find_pp2][m101_p_seg]    =m101_p_cur;
-				t8_node_v_gid_len[t8_find_pp2][m101_p_seg]=m101_p_le2;
-				t8_node_v_mr2[t8_find_pp2][m101_p_seg]    =m101_p_mr2;
+				t8_node_v_gid[t8_find_ptr2][m101_p_seg]    =m101_p_cur;
+				t8_node_v_gid_len[t8_find_ptr2][m101_p_seg]=m101_p_le2;
+				t8_node_v_mr2[t8_find_ptr2][m101_p_seg]    =m101_p_mr2;
 
-				t8_node_v_mrk[t8_find_pp2]=m101_p_mrk;
+				t8_node_v_mrk[t8_find_ptr2]=m101_p_mrk;
 
-				t8_node_v_len[t8_find_pp2]=m101_p_len+m101_p_len_add;
-				t8_node_v_seg[t8_find_pp2]=m101_p_seg+m101_p_seg_add;
-				t8_node_v_val[t8_find_pp2]=m101_p_val+m101_p_val_add;
-				t8_node_v_rpt[t8_find_pp2]=m101_p_rpt+m101_p_rpt_add;
+				t8_node_v_len[t8_find_ptr2]=m101_p_len+m101_p_len_add;
+				t8_node_v_seg[t8_find_ptr2]=m101_p_seg+m101_p_seg_add;
+				t8_node_v_val[t8_find_ptr2]=m101_p_val+m101_p_val_add;
+				t8_node_v_rpt[t8_find_ptr2]=m101_p_rpt+m101_p_rpt_add;
 
-				t8_node_v_va2[t8_find_pp2]=m101_p_va2+m101_p_va2_add;
-				t8_node_v_rp2[t8_find_pp2]=m101_p_rp2+m101_p_rp2_add;
+				t8_node_v_va2[t8_find_ptr2]=m101_p_va2+m101_p_va2_add;
+				t8_node_v_rp2[t8_find_ptr2]=m101_p_rp2+m101_p_rp2_add;
 			}
 
 			if (SPL2_DEBUG)
@@ -1730,12 +1730,12 @@ int spl2_add_to_tree(int o)
 
 				k5=0;
 
-				for (k2=0;k2<t8_node_v_seg[t8_find_pp2];k2++)
+				for (k2=0;k2<t8_node_v_seg[t8_find_ptr2];k2++)
 				{
-					k4=t8_node_v_gid[t8_find_pp2][k2];
-					k3=t8_node_v_gid_len[t8_find_pp2][k2];
+					k4=t8_node_v_gid[t8_find_ptr2][k2];
+					k3=t8_node_v_gid_len[t8_find_ptr2][k2];
 
-					if (t8_node_v_mr2[t8_find_pp2][k2]==1) fputs("{{",m_fp1);
+					if (t8_node_v_mr2[t8_find_ptr2][k2]==1) fputs("{{",m_fp1);
 					else
 					{
 						if (k3>1)	fputs("[[",m_fp1);
@@ -1752,7 +1752,7 @@ int spl2_add_to_tree(int o)
 						else                           fputs(",,",m_fp1);
 					}
 
-					if (t8_node_v_mr2[t8_find_pp2][k2]==1) fputs("}}",m_fp1);
+					if (t8_node_v_mr2[t8_find_ptr2][k2]==1) fputs("}}",m_fp1);
 					else
 					{
 						if (k3>1)	fputs("]]",m_fp1);
@@ -1762,9 +1762,9 @@ int spl2_add_to_tree(int o)
 				}
 
 				sprintf(m101_str6,"va2=%d,rp2=%lld,val=%d,rpt=%lld,len=%d,seg=%d,ff1=%lld,ff2=%lld,ff3=%lld,ff4=%lld,\n", 
-					t8_node_v_va2[t8_find_pp2],t8_node_v_rp2[t8_find_pp2],
-					t8_node_v_val[t8_find_pp2],t8_node_v_rpt[t8_find_pp2],
-					t8_node_v_len[t8_find_pp2],t8_node_v_seg[t8_find_pp2],
+					t8_node_v_va2[t8_find_ptr2],t8_node_v_rp2[t8_find_ptr2],
+					t8_node_v_val[t8_find_ptr2],t8_node_v_rpt[t8_find_ptr2],
+					t8_node_v_len[t8_find_ptr2],t8_node_v_seg[t8_find_ptr2],
 					m101_p_ff1,m101_p_ff2,m101_p_ff3,m101_p_ff4);
 				fputs(m101_str6,m_fp1);
 

@@ -1,0 +1,16 @@
+in this directory, input:
+
+$ ./gc.exe ./a-step50.exe 000 085 8
+$ ./gc.exe ./a-step90.exe 000 085 8
+$ ./gc.exe ./a-step210.exe 000 085 8
+
+(usage: ./gc.exe step-name start-num end-num processor-num
+ if your PC is 4 core 8 thread ,processor-num is 8 )
+
+will create .bat files,copy these files to work_dir and run .
+
+how to show prograss:
+
+input $./moniter
+
+(ps -ef|grep a-step)

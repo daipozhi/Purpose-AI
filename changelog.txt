@@ -1,3 +1,12 @@
+
+Dec 22th 2020 snapshot
+
+  *better looking source code
+  *enabled grid computing
+  *in before,in step210 ,set param SPL1_OUT_NUM to 20,accuracy +1%,to 91%,
+    now ,set param SPL1_OUT_NUM to 200,accuracy +5%,to 95%,set param SPL1_OUT_NUM 
+    to 2000 maybe more accurate, but time is too long ,I didn't finish calculation .
+ 
 Sep 3rd 2020 version
  
 * better formula of super pipeline 

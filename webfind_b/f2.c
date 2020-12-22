@@ -40,8 +40,8 @@ int   MessageBox(int h1,char *h2,char *h3,int h4);
 #define  FLN_LEN    300
 
 char     dir_buf[DIR_NUM][FLN_LEN];
-int      f2_epp;
-int      f2_ppp;
+int      f2_eptr;
+int      f2_pointer;
 
 int  f2_loaddir(void);
 int  htm_ext(char *);
@@ -113,7 +113,7 @@ int f2_loaddir(void)
 		}
 	}
 
-	f2_epp=i;
+	f2_eptr=i;
 
 	fclose(fp1);
 

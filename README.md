@@ -1,6 +1,5 @@
 # Purpose-AI
 this project is Purpose AI , an open source project
-
 How does computer process text,video,audio
 
 (Purpose AI is free software; you can redistribute it and/or
@@ -10,7 +9,7 @@ How does computer process text,video,audio
  Purpose AI is distributed in the hope that it will be useful,
   but WITHOUT ANY WARRANTY; )
 
-(Sep 3rd 2020 Updated)
+(Dec 22th 2020 snapshot)
 
 这个工程是小戴人工智能，是开源项目
 
@@ -18,7 +17,7 @@ How does computer process text,video,audio
 
 (本开源软件的授权是LGPL,没有担保)
 
-(2020-09-3 更新)
+(2020-12-22 快照)
 
 
     A, text , words
@@ -108,6 +107,9 @@ How does computer process text,video,audio
                   run program in  'webfind39' (step30)(copy to 'work_dir', include 'cb.txt' )(erase punctuation)
                   run program in  'webfind4a' (step40)(copy to 'work_dir')(erase empty line , repeated line)
                   run program in  'webfind29f'(step50)(separate to words by repeate )
+                                                      (if you want grid computing,don't run a-step50.exe ,run
+                                                       a-step50.bat , how to make this .bat file please read 
+                                                       tools-5/readme.txt file )
                   run program in  'webfind23c'(step60)(get all words ,generate word database)
                                               (step70 deleted)
                                               (step80 deleted)
@@ -116,6 +118,9 @@ How does computer process text,video,audio
 				word courseware please read readme.txt file in directory webfind50 , text file 
                                 words-cw02_sort.utf8.txt is for you to browse word courseware on Ubuntu, program
                                 will not read *.utf8.txt files. )
+                                (if you want grid computing,don't run a-step90.exe ,run
+                                 a-step90.bat , how to make this .bat file please read 
+                                 tools-5/readme.txt file )
                   run program in  'webfind54'(step100)(get all words ,generate 3rd word database )
 
                   (in here , chinese is coded in GB18030 ,in Windows, you can directly open it , if you are in 
@@ -200,6 +205,7 @@ How does computer process text,video,audio
                   运行 webfind39 目录下的程序(step30)(拷贝到work_dir,包括cb.txt )(去掉标点符号)
                   运行 webfind4a 目录下的程序(step40)(拷贝到work_dir)(去掉空行，重复的行)
                   运行 webfind29f 目录下的程序 (step50)(根据重复分词)
+                                                      ......
                   运行 webfind23c 目录下的程序 (step60)(把所有的词汇总，形成词库)
                                               (step70)(已经删除)
                                               (step80)(已经删除)
@@ -209,6 +215,7 @@ How does computer process text,video,audio
                                  如何制作词课件请看webfind50目录下的readme.txt文件,文本文件
                                  words-cw02_sort.utf8.txt是为了让你在Ubuntu下浏览词课件,程序
                                  不会读 *.utf8.txt 文件)
+                                 ......
                   运行 webfind54  目录下的程序 (step100)(把所有的词汇总，形成第三个词库)
 
                   (在这里的程序里,汉字是用GB18030编码的,在Windows里可以直接浏览,如果你用的
@@ -266,7 +273,11 @@ How does computer process text,video,audio
 
         get repeat times of each grammar in grammar courseware .
 
-        after this step accuracy is about 91%
+        after this step accuracy is about 95%
+        (in before,in step210 ,set param SPL1_OUT_NUM to 20,choose the 20 highest value 
+            ones ,accuracy +1%,to 91%, now ,set param SPL1_OUT_NUM to 200,accuracy +5%,to 95%,
+            set param SPL1_OUT_NUM to 2000 maybe more accurate, but time is too long ,I didn't 
+            finish calculation)
 
         browse separated text(grm-base1-nnn.txt), if there is error , 
         then make relative courseware,
@@ -279,11 +290,11 @@ How does computer process text,video,audio
 
         (if you make grammar database by human separated text, don't need this step.)
 
-        after this step accuracy is about 95%
+        after this step accuracy will be about 97%
 
         source code:
 
-            Windows XP/7+MSYS+MINGW  or Ubuntu
+            Windows XP/7+MSYS+MINGW  or Ubuntu/Mint
 
             grammar courseware is in file grammar-cw03.txt
 
@@ -297,6 +308,9 @@ How does computer process text,video,audio
                     not only keep the highest value one , also keep some lower 
                     value ones , calculate its grammar value , add with its word value ,
                     choose max value one )
+                    (if you want grid computing,don't run a-step210.exe ,run
+                     a-step210.bat , how to make this .bat file please read 
+                     tools-5/readme.txt file )
 
                 run program in webfind62 (step220)(copy to work_dir)
                     (get all the words , it is 4th word database )
@@ -318,6 +332,10 @@ How does computer process text,video,audio
                         (Sep 3rd 2020 version have better formula of super pipeline,add debug code to super 
                              pipeline,5 words grammar change to 4 words grammar, and have better punctuation 
                              proccess.)
+                        (Dec 22th 2020 snapshot: better looking source code, enabled grid computing,in before,
+                             in step210 ,set param SPL1_OUT_NUM to 20,choose the 20 highest value ones ,accuracy 
+                             +1%,to 91%,now ,set param SPL1_OUT_NUM to 200, accuracy +5%,to 95% )
+
 
 
 
@@ -353,7 +371,8 @@ How does computer process text,video,audio
 
         计算语法课件重复次数,
 
-        到这个步骤时准确率约为91% 
+        到这个步骤时准确率约为95% 
+        ......
 
         浏览分解的文本(grm-base1-nnn.txt), 如果有错误, 制作相关课件,
         如果有错误:"战,,地;;" ,制作词课件 "战地"(在文件 words-cw02_sort.txt 中,如何
@@ -365,7 +384,7 @@ How does computer process text,video,audio
 
         (如果你使用人工分解的文本生成语法库,不需要这个步骤.)
 
-        到这个步骤时准确率约为95% 
+        到这个步骤时准确率......  97% 
 
         源程序：
 
@@ -380,6 +399,7 @@ How does computer process text,video,audio
                 运行webfind61f里的程序(step210)(拷贝到目录 work_dir)
                 把一句话按照词分解开来，不仅保留总体分数最大的，也保留分数较小的 ,
 			计算它们的语法分数,然后和词的分数相加,选取分数最大的,
+                        ......
 
                 运行webfind62里的程序(step220)(拷贝到目录 work_dir)
 			把词收集起来,形成第四个词库.
@@ -398,7 +418,7 @@ How does computer process text,video,audio
                                    2019-9-25版本是一个beta版本)
                         (2020-9-3  版本改进了超级管道的数学公式,在超级管道中增加了调试代码,5个
                                    词的语法改为4个词的语法,改进了标点符号的处理)
-
+                        (2020-12-22快照 ......)
 
 
     C,video

@@ -131,16 +131,16 @@ int cww1_number(void)
 
 char cww1_name[5][55];
 char cww1_incl[5][100][2];
-int  cww1_incl_pp[5];
+int  cww1_incl_ptr[5];
 int  cww1_rpt[5][100];
 int  cww1_pos[5][100];
 int  cww1_cnt[5][100];
-int  cww1_pp1;
+int  cww1_ptr1;
 
 int cww1_load(void);
-int cww1_findpp(char *ps1,int pp);
-int cww1_findpp2(char *ps1,int pp);
-int cww1_ini(int pp);
+int cww1_findptr(char *ps1,int ptr);
+int cww1_findptr2(char *ps1,int ptr);
+int cww1_ini(int ptr);
 int cww1_test(void);
 int cww1_num_ini(void);
 int cww1_num_sum(void);
@@ -170,7 +170,7 @@ int cww1_load(void)
 
   start=1;
 
-  cww1_pp1=0;
+  cww1_ptr1=0;
 
   while (!feof(fp1))
   {
@@ -230,30 +230,30 @@ int cww1_load(void)
     if (strcmp(m01_str2[0],"str")==0)
     {
       if (start==1) start=0;
-      else cww1_pp1++;
+      else cww1_ptr1++;
 
-      cww1_ini(cww1_pp1);
+      cww1_ini(cww1_ptr1);
     }
 
     if (strcmp(m01_str2[0],"name")==0)
     {
-      if (strlen(m01_str2[1])<=50) strcpy(cww1_name[cww1_pp1],m01_str2[1]);
+      if (strlen(m01_str2[1])<=50) strcpy(cww1_name[cww1_ptr1],m01_str2[1]);
     }
 
     if (strcmp(m01_str2[0],"rpt")==0)
     {
-      p=cww1_findpp(m01_str2[1],cww1_pp1);
+      p=cww1_findptr(m01_str2[1],cww1_ptr1);
       q=m01_str2[2][0]-'0';
 
-      cww1_rpt[cww1_pp1][p]=q;
+      cww1_rpt[cww1_ptr1][p]=q;
     }
 
     if (strcmp(m01_str2[0],"pos")==0)
     {
-      p=cww1_findpp(m01_str2[1],cww1_pp1);
+      p=cww1_findptr(m01_str2[1],cww1_ptr1);
       q=m01_str2[2][0]-'0';
 
-      cww1_pos[cww1_pp1][p]=q;
+      cww1_pos[cww1_ptr1][p]=q;
     }
 
     if (strcmp(m01_str2[0],"incl")==0)
@@ -268,10 +268,10 @@ int cww1_load(void)
             c1=' ';
 	    c2=m01_str2[1][j+1];
 
-	    cww1_incl[cww1_pp1][cww1_incl_pp[cww1_pp1]][0]=c1;
-	    cww1_incl[cww1_pp1][cww1_incl_pp[cww1_pp1]][1]=c2;
+	    cww1_incl[cww1_ptr1][cww1_incl_ptr[cww1_ptr1]][0]=c1;
+	    cww1_incl[cww1_ptr1][cww1_incl_ptr[cww1_ptr1]][1]=c2;
 
-	    cww1_incl_pp[cww1_pp1]++;
+	    cww1_incl_ptr[cww1_ptr1]++;
 
 	    j=j+2;
 	  }
@@ -280,10 +280,10 @@ int cww1_load(void)
             c1=m01_str2[1][j+1];
 	    c2=m01_str2[1][j+2];
 
-	    cww1_incl[cww1_pp1][cww1_incl_pp[cww1_pp1]][0]=c1;
-	    cww1_incl[cww1_pp1][cww1_incl_pp[cww1_pp1]][1]=c2;
+	    cww1_incl[cww1_ptr1][cww1_incl_ptr[cww1_ptr1]][0]=c1;
+	    cww1_incl[cww1_ptr1][cww1_incl_ptr[cww1_ptr1]][1]=c2;
 
-	    cww1_incl_pp[cww1_pp1]++;
+	    cww1_incl_ptr[cww1_ptr1]++;
 
 	    j=j+3;
           }
@@ -299,7 +299,7 @@ int cww1_load(void)
   return(0);
 }
 
-int cww1_findpp(char *ps1,int pp)
+int cww1_findptr(char *ps1,int ptr)
 {
   int  i,j;
   char ss1[2];
@@ -319,15 +319,15 @@ int cww1_findpp(char *ps1,int pp)
     ss1[1]=ps1[0];
   }
 
-  for (i=0;i<cww1_incl_pp[pp];i++)
+  for (i=0;i<cww1_incl_ptr[ptr];i++)
   {
-    if ((cww1_incl[pp][i][0]==ss1[0])&&(cww1_incl[pp][i][1]==ss1[1])) return(i);
+    if ((cww1_incl[ptr][i][0]==ss1[0])&&(cww1_incl[ptr][i][1]==ss1[1])) return(i);
   }
 
   return(0);
 }
 
-int cww1_findpp2(char *ps1,int pp)
+int cww1_findptr2(char *ps1,int ptr)
 {
   int  i,j;
   char ss1[2];
@@ -335,26 +335,26 @@ int cww1_findpp2(char *ps1,int pp)
   ss1[0]=ps1[0];
   ss1[1]=ps1[1];
 
-  for (i=0;i<cww1_incl_pp[pp];i++)
+  for (i=0;i<cww1_incl_ptr[ptr];i++)
   {
-    if ((cww1_incl[pp][i][0]==ss1[0])&&(cww1_incl[pp][i][1]==ss1[1])) return(i);
+    if ((cww1_incl[ptr][i][0]==ss1[0])&&(cww1_incl[ptr][i][1]==ss1[1])) return(i);
   }
 
   return(-1);
 }
 
 
-int cww1_ini(int pp)
+int cww1_ini(int ptr)
 {
   int i,j;
 
-  cww1_name[pp][0]=0;
+  cww1_name[ptr][0]=0;
   for (i=0;i<100;i++)
     for (j=0;j<2;j++)
-      cww1_incl[pp][i][j]=0;
-  cww1_incl_pp[pp]=0;
-  for (i=0;i<100;i++) cww1_rpt[pp][i]=0;
-  for (i=0;i<100;i++) cww1_pos[pp][i]=0;
+      cww1_incl[ptr][i][j]=0;
+  cww1_incl_ptr[ptr]=0;
+  for (i=0;i<100;i++) cww1_rpt[ptr][i]=0;
+  for (i=0;i<100;i++) cww1_pos[ptr][i]=0;
 }
 
 int cww1_num_ini(void)
@@ -413,10 +413,10 @@ int cww1_test(void)
   printf("%s,\n",m02_str2);
   
   printf("rpt\n");
-  for (i=0;i<cww1_incl_pp[0];i++) printf("%d,",cww1_rpt[0][i]);
+  for (i=0;i<cww1_incl_ptr[0];i++) printf("%d,",cww1_rpt[0][i]);
 
   printf("\npos\n");
-  for (i=0;i<cww1_incl_pp[0];i++) printf("%d,",cww1_pos[0][i]);
+  for (i=0;i<cww1_incl_ptr[0];i++) printf("%d,",cww1_pos[0][i]);
 
 }
 
@@ -463,7 +463,7 @@ int cww1_number_is(char *ps)
     ss1[1]=ps[i+1];
     ss1[2]=0;
 
-    j=cww1_findpp2(ss1,0);
+    j=cww1_findptr2(ss1,0);
     if (j<0) return(0);
 
     cww1_cnt[0][j]++;
@@ -487,7 +487,7 @@ int cww1_number_is(char *ps)
 // courseware of words 2
 
 char cww2_punc_val[100][2];
-int  cww2_punc_pp;
+int  cww2_punc_ptr;
 
 char m05_str1[500];
 
@@ -503,7 +503,7 @@ int cww2_punc_load(void)
     return(1);
   }
 
-  cww2_punc_pp=0;
+  cww2_punc_ptr=0;
 
   while (!feof(fp1))
   {
@@ -519,20 +519,20 @@ int cww2_punc_load(void)
 
     if (m05_str1[0]>' ')
     {
-      cww2_punc_val[cww2_punc_pp][0]=' ';
-      cww2_punc_val[cww2_punc_pp][1]=m05_str1[0];
+      cww2_punc_val[cww2_punc_ptr][0]=' ';
+      cww2_punc_val[cww2_punc_ptr][1]=m05_str1[0];
     }
     else
     {
-      cww2_punc_val[cww2_punc_pp][0]=m05_str1[0];
-      cww2_punc_val[cww2_punc_pp][1]=m05_str1[1];
+      cww2_punc_val[cww2_punc_ptr][0]=m05_str1[0];
+      cww2_punc_val[cww2_punc_ptr][1]=m05_str1[1];
     }
 
     found=0;
 
-    for (i=0;i<cww2_punc_pp;i++)
-      if ((cww2_punc_val[i][0]==cww2_punc_val[cww2_punc_pp][0])&&
-          (cww2_punc_val[i][1]==cww2_punc_val[cww2_punc_pp][1]))
+    for (i=0;i<cww2_punc_ptr;i++)
+      if ((cww2_punc_val[i][0]==cww2_punc_val[cww2_punc_ptr][0])&&
+          (cww2_punc_val[i][1]==cww2_punc_val[cww2_punc_ptr][1]))
       {
         found=1;
         break;
@@ -540,7 +540,7 @@ int cww2_punc_load(void)
 
     if (found==1) continue; // repeated , don't save
 
-    cww2_punc_pp++;
+    cww2_punc_ptr++;
   }
 
   fclose(fp1);
@@ -572,7 +572,7 @@ int cww2_punc(void)
 
   fputs("\n\n\n\n\n\n\n\n",fp2);
 
-  for (i=0;i<cww2_punc_pp;i++)
+  for (i=0;i<cww2_punc_ptr;i++)
   {
     ss1[0]=cww2_punc_val[i][0];
     ss1[1]=cww2_punc_val[i][1];
@@ -641,7 +641,7 @@ int cww2_punc_in_it(char *ps)
     c1=ps[i+0];
     c2=ps[i+1];
 
-    for (j=0;j<cww2_punc_pp;j++)
+    for (j=0;j<cww2_punc_ptr;j++)
     {
       if ((cww2_punc_val[j][0]==c1)&&(cww2_punc_val[j][1]==c2)) return(1);
     }
@@ -659,7 +659,7 @@ int cww2_punc_in_it(char *ps)
 // courseware of words 2
 
 char cww2_dedi_val[700][2];
-int  cww2_dedi_pp;
+int  cww2_dedi_ptr;
 
 char m07_str1[500];
 
@@ -675,7 +675,7 @@ int cww2_dedi_load(void)
     return(1);
   }
 
-  cww2_dedi_pp=0;
+  cww2_dedi_ptr=0;
 
   while (!feof(fp1))
   {
@@ -691,20 +691,20 @@ int cww2_dedi_load(void)
 
     if (m07_str1[0]>' ')
     {
-      cww2_dedi_val[cww2_dedi_pp][0]=' ';
-      cww2_dedi_val[cww2_dedi_pp][1]=m07_str1[0];
+      cww2_dedi_val[cww2_dedi_ptr][0]=' ';
+      cww2_dedi_val[cww2_dedi_ptr][1]=m07_str1[0];
     }
     else
     {
-      cww2_dedi_val[cww2_dedi_pp][0]=m07_str1[0];
-      cww2_dedi_val[cww2_dedi_pp][1]=m07_str1[1];
+      cww2_dedi_val[cww2_dedi_ptr][0]=m07_str1[0];
+      cww2_dedi_val[cww2_dedi_ptr][1]=m07_str1[1];
     }
 
     found=0;
 
-    for (i=0;i<cww2_dedi_pp;i++)
-      if ((cww2_dedi_val[i][0]==cww2_dedi_val[cww2_dedi_pp][0])&&
-          (cww2_dedi_val[i][1]==cww2_dedi_val[cww2_dedi_pp][1]))
+    for (i=0;i<cww2_dedi_ptr;i++)
+      if ((cww2_dedi_val[i][0]==cww2_dedi_val[cww2_dedi_ptr][0])&&
+          (cww2_dedi_val[i][1]==cww2_dedi_val[cww2_dedi_ptr][1]))
       {
         found=1;
         break;
@@ -712,7 +712,7 @@ int cww2_dedi_load(void)
 
     if (found==1) continue; // repeated , don't save
 
-    cww2_dedi_pp++;
+    cww2_dedi_ptr++;
   }
 
   fclose(fp1);
@@ -745,7 +745,7 @@ int cww2_dedi(void)
 
   fputs("\n\n\n\n\n\n\n\n",fp2);
 
-  for (i=0;i<cww2_dedi_pp;i++)
+  for (i=0;i<cww2_dedi_ptr;i++)
   {
     ss1[0]=cww2_dedi_val[i][0];
     ss1[1]=cww2_dedi_val[i][1];
@@ -819,7 +819,7 @@ int cww2_dedi_in_it(char *ps)
     c1=ps[i+0];
     c2=ps[i+1];
 
-    for (j=0;j<cww2_dedi_pp;j++)
+    for (j=0;j<cww2_dedi_ptr;j++)
     {
       if ((cww2_dedi_val[j][0]==c1)&&(cww2_dedi_val[j][1]==c2)) return(1);
     }

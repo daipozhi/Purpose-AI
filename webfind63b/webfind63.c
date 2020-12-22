@@ -1,44 +1,11 @@
 
 #include "../config.h"
 
+#include "../common/common.h"
+
 //#define   STRICT
 //#include <windows.h>
 //#include <commdlg.h>
-
-#define   MB_OK			1
-#define   MB_ICONASTERISK	2
-#define   MB_OKCANCEL		3
-#define   MB_ICONQUESTION	4
-#define   MB_YESNO		5
-#define   MB_RETRYCANCEL	6
-#define   MB_YESNOCANCEL	7
-
-#define   IDYES			1
-#define   IDNO			2
-#define   IDCANCEL		3
-#define   IDOK			4
-#define   IDRETRY		5
-
-int    MessageBox(int h1,char *h2,char *h3,int h4);
-
-#include <locale.h>
-#include <iconv.h>
-
-iconv_t cd ;
-
-int str_gb18030_to_utf8_ini(void);
-int str_gb18030_to_utf8_close(void);
-int str_utf8_to_gb18030(char *inbuffer,char *outbuffer,int outbufferlen);
-int str_gb18030_to_utf8(char *inbuffer,char *outbuffer,int outbufferlen);
-int file_gb18030_to_utf8(char *inbuffer);
-int filenameext(char *iname,char *oname,char *oext);
-char deb_lower(char c1);
-int deb_lower_string(char *p_instr);
-char deb_upper(char c1);
-int deb_upper_string(char *p_instr);
-
-
-
 
 #include <stdio.h>
 #include <string.h>
@@ -59,7 +26,7 @@ int f1_get_fln2(char *);
 /*
 char at5[ARTI_LINE][55];
 long long int at5_n[ARTI_LINE];
-int  at5_pp;
+int  at5_ptr;
 
 int  search_wd5(char *);
 int  load5(void);
@@ -70,13 +37,13 @@ int  find_m5;
 
 	 char wd5_buf[ARTI_LINE][55];
 long long int wd5_rt[ARTI_LINE];
-	  int wd5_pp;
+	  int wd5_ptr;
 
 int  wd5_search(char *);
 int  wd5_load(void);
 
 long long int wd5_find_rt;
-	  int wd5_find_pp;
+	  int wd5_find_ptr;
 
 //------------------------------
 
@@ -121,12 +88,12 @@ int wd5_load(void)
 	//char         s1[SMG_SIZE];
 	//char	       s2[SMG_SIZE];
 	char         c1,c2;
-	int          pp;
+	int          ptr;
 
 	j=0;
 	k=0;
 
-	wd5_pp=0;
+	wd5_ptr=0;
 
 	strcpy(m401_s1,"words04.txt");
 
@@ -149,7 +116,7 @@ int wd5_load(void)
 		fgets(m401_l1,SMG_SIZE,fp1);
 	
 		k=0;
-		pp=0;
+		ptr=0;
 		i=0;
 
 		while (i<(int)strlen(m401_l1))
@@ -159,7 +126,7 @@ int wd5_load(void)
 
 			if (c1<0)
 			{
-				if (pp==0) // words
+				if (ptr==0) // words
 				{
 					m401_l2[k+0]=c1;
 					m401_l2[k+1]=c2;
@@ -186,12 +153,12 @@ int wd5_load(void)
 				{
 					if (c1==',')
 					{
-						pp=1;
+						ptr=1;
 						k=0;
 					}
 					else
 					{
-						if (pp==0)  //words
+						if (ptr==0)  //words
 						{
 							m401_l2[k+0]=c1;
 							m401_l2[k+1]=0;
@@ -212,11 +179,11 @@ int wd5_load(void)
 
 		if ((int)strlen(m401_l2)>50) continue;
 
-		strcpy(wd5_buf[wd5_pp],m401_l2);
+		strcpy(wd5_buf[wd5_ptr],m401_l2);
 
-		wd5_rt[wd5_pp]=str2llint(m401_l3);
+		wd5_rt[wd5_ptr]=str2llint(m401_l3);
 
-		//sprintf(m401_s2,"pp=%d,word=%s,rpt=%lld,",wd5_pp,wd5_buf[wd5_pp],wd5_rt[wd5_pp]);
+		//sprintf(m401_s2,"ptr=%d,word=%s,rpt=%lld,",wd5_ptr,wd5_buf[wd5_ptr],wd5_rt[wd5_ptr]);
 
 		//str_gb18030_to_utf8_ini();
 		//if (AI_LINUX==1)
@@ -231,7 +198,7 @@ int wd5_load(void)
 
 		//MessageBox(0,m401_s3,"wd5_load message",MB_OK);
 
-		wd5_pp++;
+		wd5_ptr++;
 
 	}
 
@@ -248,9 +215,9 @@ int wd5_search(char *s_str)
 
 	find=0;
 	wd5_find_rt=0;
-	wd5_find_pp=(-5);
+	wd5_find_ptr=(-5);
 	p1=0;
-	p2=wd5_pp;
+	p2=wd5_ptr;
 
 	if (p2<=p1) return(0);
 
@@ -264,7 +231,7 @@ int wd5_search(char *s_str)
 			{
 				find=1;
 				wd5_find_rt=wd5_rt[i];
-				wd5_find_pp=i;
+				wd5_find_ptr=i;
 				break;
 			}
 			else
@@ -282,7 +249,7 @@ int wd5_search(char *s_str)
 				{
 					find=1;
 					wd5_find_rt=wd5_rt[i];
-					wd5_find_pp=i;
+					wd5_find_ptr=i;
 					break;
 				}
 				else
@@ -298,7 +265,7 @@ int wd5_search(char *s_str)
 				{
 					find=1;
 					wd5_find_rt=wd5_rt[i];
-					wd5_find_pp=i;
+					wd5_find_ptr=i;
 					break;
 				}
 				else
@@ -329,9 +296,9 @@ int wd5_search(char *s_str)
 
 int   t1_node_val[TREE2_SIZE][6];
 int   t1_node_val2[TREE2_SIZE];
-int   t1_find_pp2;
-int   t1_find_pp;
-int   t1_buff_pp;
+int   t1_find_ptr2;
+int   t1_find_ptr;
+int   t1_buff_ptr;
 
 int   t1_node_val2[TREE2_SIZE];
 
@@ -346,7 +313,7 @@ static char m101_l3[3000];
 static char m101_l4[3000];
 
 static int  m101_ns[150];
-static int  m101_ns_pp;
+static int  m101_ns_ptr;
 
 char load_buff_str[100][6][500];
 int  load_buff_nns[100][6];
@@ -501,10 +468,10 @@ int mproc(void)
 
 			                                              load_buff_len[i1]=i2+1;
 
-			                                              if (strncmp(m101_l3,"$n",2)==0) wd5_find_pp=(-3);
+			                                              if (strncmp(m101_l3,"$n",2)==0) wd5_find_ptr=(-3);
                                				              else
                                				              {
-                               				                     if (strncmp(m101_l3,"$*",2)==0) wd5_find_pp=(-2);
+                               				                     if (strncmp(m101_l3,"$*",2)==0) wd5_find_ptr=(-2);
                                				                     else
                                				                     {
 		                    			    	                    k=wd5_search(m101_l3);
@@ -516,7 +483,7 @@ int mproc(void)
 			                                                     }
 			                                              }
     
-			                                              load_buff_nns[i1][i2]=wd5_find_pp;
+			                                              load_buff_nns[i1][i2]=wd5_find_ptr;
 
 							              i2++;
 							       }
@@ -574,7 +541,7 @@ int mproc(void)
 
         	            n=t1_search_node(ns[0],ns[1],ns[2],ns[3],ns[4],ns[5]);
 
-        	            if (n==0) t1_node_val2[t1_find_pp]++;
+        	            if (n==0) t1_node_val2[t1_find_ptr]++;
 /* // for test
 				if ((ns[0]==(-3))&&(ns[2]==(-1))&&(strcmp(load_buff_str[l][1],s4)==0))
 				{
@@ -614,7 +581,7 @@ int mproc(void)
 		return(1);
 	}
 
-	for (i=0;i<t1_buff_pp;i++)
+	for (i=0;i<t1_buff_ptr;i++)
 	{
 		sn1=t1_node_val[i][0];
 		sn2=t1_node_val[i][1];
@@ -788,7 +755,7 @@ int load11(void)
 	//char         s1[SMG_SIZE];
 	//char	       s2[SMG_SIZE];
 	char         c1,c2;
-	int          pp,q;
+	int          ptr,q;
 	int	     err,err_n;
 
 	t1_init_tree2();
@@ -816,7 +783,7 @@ int load11(void)
 		if ((m601_l1[0]>=0)&&(m601_l1[0]<=' ')) continue;	
 
 		k=0;
-		pp=0;
+		ptr=0;
 		q=0;
 		i=0;
 
@@ -829,9 +796,9 @@ int load11(void)
 			{
 				if (q==0) // words
 				{
-					m601_l2[pp][k+0]=c1;
-					m601_l2[pp][k+1]=c2;
-					m601_l2[pp][k+2]=0;
+					m601_l2[ptr][k+0]=c1;
+					m601_l2[ptr][k+1]=c2;
+					m601_l2[ptr][k+2]=0;
 				}
 				else   //repeat times
 				{
@@ -862,7 +829,7 @@ int load11(void)
 					{
 						if (c1=='=')
 						{
-							pp++;
+							ptr++;
 							k=0;
 							i=i+2;
 							continue;
@@ -871,8 +838,8 @@ int load11(void)
 						{
 							if (q==0)  //words
 							{
-								m601_l2[pp][k+0]=c1;
-								m601_l2[pp][k+1]=0;
+								m601_l2[ptr][k+0]=c1;
+								m601_l2[ptr][k+1]=0;
 							}
 							else   // repeat times
 							{
@@ -890,21 +857,21 @@ int load11(void)
 			}
 		}
 
-		if (pp<2) continue;
-		if (pp>6) continue;
+		if (ptr<2) continue;
+		if (ptr>6) continue;
 
 		err=0;
 
 		for (j=0;j<6;j++)
 		{
-			if (j>=pp) m601_ns[j]=(-1); // end of grammar
+			if (j>=ptr) m601_ns[j]=(-1); // end of grammar
 			else
 			{
 				if (strcmp(m601_l2[j],"$n")==0) m601_ns[j]=(-3); // number
 				else
 				{
 					m=wd5_search(m601_l2[j]);
-					if (m==1) m601_ns[j]=wd5_find_pp;    
+					if (m==1) m601_ns[j]=wd5_find_ptr;    
 					else
 					{
 						strcpy(m601_s4,m601_l2[j]);
@@ -923,15 +890,15 @@ int load11(void)
 
 		t1_insert_node(m601_ns[0],m601_ns[1],m601_ns[2],m601_ns[3],m601_ns[4],m601_ns[5]);
 
-		t1_node_val2[t1_find_pp2]=10; // repeat time
+		t1_node_val2[t1_find_ptr2]=10; // repeat time
 
 
 		// test ----
 		/*
-		sprintf(m601_s2,"s1=%s,s2=%s,s3=%s,s4=%s,s5=%s,s6=%s,number=%s,\n pp=%d,ns=%d,%d,%d,%d,%d,%d,rpt=%d,",
+		sprintf(m601_s2,"s1=%s,s2=%s,s3=%s,s4=%s,s5=%s,s6=%s,number=%s,\n ptr=%d,ns=%d,%d,%d,%d,%d,%d,rpt=%d,",
 			m601_l2[0],m601_l2[1],m601_l2[2],m601_l2[3],m601_l2[4],m601_l2[5],m601_l3,
-			t1_find_pp2,m601_ns[0],m601_ns[1],m601_ns[2],m601_ns[3],m601_ns[4],m601_ns[5],
-			t1_node_val2[t1_find_pp2]);
+			t1_find_ptr2,m601_ns[0],m601_ns[1],m601_ns[2],m601_ns[3],m601_ns[4],m601_ns[5],
+			t1_node_val2[t1_find_ptr2]);
 
 		str_gb18030_to_utf8_ini();
 		if (AI_LINUX==1)
@@ -953,7 +920,7 @@ int load11(void)
 	fclose(fp1);
 
 	sprintf(m601_s2,"load11() %d line skiped %s,",err_n,m601_s4);
-
+/*
 	str_gb18030_to_utf8_ini();
 	if (AI_LINUX==1)
 	{
@@ -961,9 +928,10 @@ int load11(void)
 	}
 	else
 	{
+*/
 		strcpy(m601_s3,m601_s2);
-	}
-	str_gb18030_to_utf8_close();
+//	}
+//	str_gb18030_to_utf8_close();
 
 	printf("%s\n",m601_s3);
 
@@ -1023,418 +991,5 @@ int f1_get_fln2(char *s1)
 	return(0);
 }
 
-
-int string_trim(char *pstr)
-{
-  int i,j,k,l,m;
-
-  i=(int)strlen(pstr);
-  j=0;
-  k=0;
-  l=0;
-
-  while (j<i)
-  {
-    if (pstr[j]<0)
-    {
-      j=j+2;
-      l=0;
-    }
-    else
-    {
-      if (pstr[j]>=' ')
-      {
-	j++;
-        l=0;
-      }
-      else
-      {
-        if (l==0)
-        {
-          k=j;
-          l=1;
-
-          j++;
-        }
-        else j++;
-      }
-    }
-  }
-
-  if (l==1)
-  {
-    for (m=k;m<i;m++) pstr[m]=0;
-  }
-
-  return(0);
-}
-
-int string_trim_nos(char *pstr)
-{
-  int i,j,k,l,m;
-
-  i=(int)strlen(pstr);
-  j=0;
-  k=0;
-  l=0;
-
-  while (j<i)
-  {
-    if (pstr[j]<0)
-    {
-      j=j+2;
-      l=0;
-    }
-    else
-    {
-      if (pstr[j]>' ')
-      {
-	j++;
-        l=0;
-      }
-      else
-      {
-        if (l==0)
-        {
-          k=j;
-          l=1;
-
-          j++;
-        }
-        else j++;
-      }
-    }
-  }
-
-  if (l==1)
-  {
-    for (m=k;m<i;m++) pstr[m]=0;
-  }
-
-  return(0);
-}
-
-
-
-
-int   MessageBox(int h1,char *h2,char *h3,int h4)
-{
-  char s1[300];
-  int  s2;
-
-  while (1)
-  {
-
-    if (h4==MB_OK)
-    {
-      strcpy(s1,"a--OK,");
-      s2=1;
-    }
-  
-    if (h4==MB_OKCANCEL)
-    {
-      strcpy(s1,"a--OK,b--CANCEL,");
-      s2=2;
-    }
-    
-    if (h4==MB_YESNO)
-    {
-      strcpy(s1,"a--YES,b--NO,");
-      s2=2;
-    }
-
-    if (h4==MB_RETRYCANCEL)
-    {
-      strcpy(s1,"a--RETRY,b--CANCEL,");
-      s2=2;
-    }
-  
-  
-    if (h4==MB_YESNOCANCEL)
-    {
-      strcpy(s1,"a--YES,b--NO,c--CANCEL,");
-      s2=3;
-    }
-
-    printf(" Message Box \n Topic=%s, \n Content=%s, \n %s, \n Please press one key and enter ...",h3,h2,s1);
-    s1[0]=0;
-    scanf("%1s",s1);
-    printf("\n");
-    printf("\n");
-  
-    if (h4==MB_OK)
-    {
-      if (s1[0]=='a') return(IDOK);
-    }
-
-    if (h4==MB_OKCANCEL)
-    {
-      if (s1[0]=='a') return(IDOK);
-      if (s1[0]=='b') return(IDCANCEL);
-    }
-
-    if (h4==MB_YESNO)
-    {
-      if (s1[0]=='a') return(IDYES);
-      if (s1[0]=='b') return(IDNO);
-    }
-
-    if (h4==MB_RETRYCANCEL)
-    {
-      if (s1[0]=='a') return(IDRETRY);
-      if (s1[0]=='b') return(IDCANCEL);
-    }
-
-    if (h4==MB_YESNOCANCEL)
-    {
-      if (s1[0]=='a') return(IDYES);
-      if (s1[0]=='b') return(IDNO);
-      if (s1[0]=='c') return(IDCANCEL);
-    }
-  }
-}
-
-int str_utf8_to_gb18030(char *inbuffer,char *outbuffer,int outbufferlen)
-{
-    int i;
-
-    for (i=0;i<outbufferlen;i++) outbuffer[i]=0;
-
-    iconv_t cd = iconv_open("gb18030//TRANSLIT", "utf-8");  
-    int inbufferlen = strlen(inbuffer);   
-    char* inbuffertmp  = inbuffer;  
-    char* outbuffertmp = outbuffer;
-    size_t ret = iconv(cd, &inbuffertmp, (size_t *)&inbufferlen, &outbuffertmp, (size_t *)&outbufferlen);  
-    iconv_close(cd);  
-    
-    return(0);  
-}
-
-int str_gb18030_to_utf8_ini(void)
-{
-  cd = iconv_open("utf-8","gb18030//TRANSLIT");  
-}
-
-int str_gb18030_to_utf8(char *inbuffer,char *outbuffer,int outbufferlen)
-{
-    int i;
-
-    for (i=0;i<outbufferlen;i++) outbuffer[i]=0;
-
-    int inbufferlen = strlen(inbuffer);   
-    char* inbuffertmp  = inbuffer;  
-    char* outbuffertmp = outbuffer;
-    size_t ret = iconv(cd, &inbuffertmp, (size_t *)&inbufferlen, &outbuffertmp, (size_t *)&outbufferlen);  
-
-    return(0);  
-}
-
-int str_gb18030_to_utf8_close(void)
-{
-    iconv_close(cd);  
-}
-
-
-static char m01_fn[500];
-static char m01_fn2[500];
-static char m01_ext[500];
-static FILE *m01_fp1;
-static FILE *m01_fp2;
-static char m01_l_in[3000000];
-static char m01_l_out[3000000];
-
-int file_gb18030_to_utf8(char *inbuffer)
-{
-  //unsigned char c1,c2;
-  int i,j;
-
-  filenameext(inbuffer,m01_fn,m01_ext);
-
-  deb_lower_string(m01_ext);
-
-  if (strcmp(m01_ext,"txt")!=0)
-  {
-    MessageBox(0,"not txt file, can not convert","error",MB_OK);
-    return(0);
-  }
-  else
-  {
-    m01_fp1=fopen(inbuffer,"r");
-    if (m01_fp1==NULL)
-    {
-      MessageBox(0,"open input file error","error",MB_OK);
-      return(0);
-    }
-
-    strcpy(m01_fn2,m01_fn);
-    strcat(m01_fn2,".utf8.txt");
-
-    m01_fp2=fopen(m01_fn2,"w");
-    if (m01_fp2==NULL)
-    {
-      MessageBox(0,"open output file error","error",MB_OK);
-      return(0);
-    }
-
-    //c1=255;
-    //c2=254;
-
-    //fputc((char)c1,m01_fp2);
-    //fputc((char)c2,m01_fp2);
-
-    while (!feof(m01_fp1))
-    {
-      m01_l_in[0]=0;
-
-      fgets(m01_l_in,3000000,m01_fp1);
-
-      i=(int)strlen(m01_l_in);
-
-      if (i>=0)
-      {
-        for (j=i-1;j>=0;j--)
-        {
-          if ((m01_l_in[j]>0)&&(m01_l_in[j]<' ')) m01_l_in[j]=0;
-          else break;
-        }
-
-        str_gb18030_to_utf8(m01_l_in,m01_l_out,3000000);
-
-        fputs(m01_l_out,m01_fp2);
-        fputs("\n",m01_fp2);
-
-        //printf("%s,\n",m01_l_out);
-        //getchar();
-      }
-
-    }
-
-    fclose(m01_fp1);
-    fclose(m01_fp2);
-  }
-
-}
-
-
-int filenameext(char *iname,char *oname,char *oext)
-{
-	//char str1[3000];
-	int  i,j,k,l;
-	//struct stat info;
-
-	i=(int)strlen(iname);
-	k=(-1);
-
-	for (j=i-1;j>=0;j--)
-	{
-		if (iname[j]=='.')
-		{
-			k=j;
-			break;
-		}
-	}
-
-	if (k<0)
-	{
-		oext[0]=0;
-	}
-	else
-	{
-		oext[0]=0;
-
-		for (l=k+1;l<i;l++)
-		{
-			oext[l-k-1]=iname[l];
-			oext[l-k-0]=0;
-		}
-	}
-	
-	if (k<0)
-	{
-		strcpy(oname,iname);
-	}
-	else
-	{
-		oname[0]=0;
-
-		for (l=0;l<k;l++)
-		{
-			oname[l]=iname[l];
-			oname[l+1]=0;
-		}
-	}
-	
-
-	return(0);
-}
-
-long long int str2llint(char *pstr)
-{
-   char c1;
-   int i,j;
-   long long int n1;
-   n1=0;
-   j=(int)strlen(pstr);
-   for (i=0;i<j;i++)
-   {
-      c1=pstr[i];
-      if (c1<=' ') return(n1);
-      else
-      {
-         if ((c1>='0')&&(c1<='9'))
-	 {
-		n1=n1*10+c1-'0';
-	 }
-	 else return(n1);
-      }
-   }
-
-   return(n1);
-}
-
-char deb_lower(char c1)
-{
-  if ((c1>='A')&&(c1<='Z')) return(c1-'A'+'a');
-  else return(c1);
-}
-
-int deb_lower_string(char *p_instr)
-{
-	int len;
-	int i;
-
-	len=(int)strlen(p_instr);
-
-	for (i=0;i<len;i++) p_instr[i]=deb_lower(p_instr[i]);
-
-	return(0);
-}
-
-char deb_upper(char c1)
-{
-  if ((c1>='a')&&(c1<='z')) return(c1-'a'+'A');
-  else return(c1);
-}
-
-int deb_upper_string(char *p_instr)
-{
-	int len;
-	int i;
-
-	len=(int)strlen(p_instr);
-
-	for (i=0;i<len;i++) p_instr[i]=deb_upper(p_instr[i]);
-
-	return(0);
-}
-
-
-
-
-
-
-
-
-
-
+#include "../common/common.c"
 

@@ -62,16 +62,16 @@ int deb_upper_string(char *p_instr);
 
 #define  BUF_LEN    200000000
 
-int f1_endpp;
+int f1_endptr;
 
 int f1_file(char *fn);
 int f1_1stloadstr(int fh,char *s1);
-int f1_loadstr(char *buf,int pp,char *s1);
+int f1_loadstr(char *buf,int ptr,char *s1);
 int f1_sav(FILE *fp,FILE *fp2,char *s1);
 int f1_lower(char *);
 int f1_skipcmd(char *,int );
-int f1_skipword(char *buf,int pp,char *word);
-int f1_is_pre(char *buf,int pp,char *word,FILE *fp1,FILE *fp2);
+int f1_skipword(char *buf,int ptr,char *word);
+int f1_is_pre(char *buf,int ptr,char *word,FILE *fp1,FILE *fp2);
 
 int f1_init_ext(void);
 int f1_next_ext(void);
@@ -84,8 +84,8 @@ char lower(char );
 #define  FLN_LEN    300
 
 extern char    dir_buf[DIR_NUM][FLN_LEN];
-extern int     f2_epp;
-extern int     f2_ppp;
+extern int     f2_eptr;
+extern int     f2_pointer;
 
 extern int f2_loaddir(void);
 extern int lower_string(char *);
@@ -111,7 +111,7 @@ int main(void)
 
   MessageBox(0,"load htm file names ok","message",MB_OK);
 
-  f2_ppp=0;
+  f2_pointer=0;
 
   str_gb18030_to_utf8_ini();
 
@@ -119,7 +119,7 @@ int main(void)
 
   j=0;
 
-  while (j<f2_epp)
+  while (j<f2_eptr)
   {
 
 	  strncpy(s1,dir_buf[j],FLN_LEN);
@@ -295,9 +295,9 @@ int f1_file(char *fn)
 
   fclose(fp2);
 
-  if (f2_ppp>1000000)
+  if (f2_pointer>1000000)
   {
-	  f2_ppp=0;
+	  f2_pointer=0;
 
 	  //file_gb18030_to_utf8(s1);  
 
@@ -315,10 +315,10 @@ int f1_sav(FILE *fp1,FILE *fp2,char *buf)
 	char s2[20];
 	char s3[33];
 
-	i=0;   // arti pp
+	i=0;   // arti ptr
 	cc=0;  // is conten
 
-	while (i<=f1_endpp)
+	while (i<=f1_endptr)
 	{
 		f1_loadstr(buf,i,s1);
 
@@ -546,7 +546,7 @@ int f1_sav(FILE *fp1,FILE *fp2,char *buf)
 
 					cc=1;
 
-					f2_ppp++;
+					f2_pointer++;
 
 					i++;
 				}
@@ -557,24 +557,24 @@ int f1_sav(FILE *fp1,FILE *fp2,char *buf)
 	return(0);
 }
 
-int f1_skipword(char *buf,int pp,char *word)
+int f1_skipword(char *buf,int ptr,char *word)
 {
 	int  i,j,k,l,m,n;
 //	char s1[20];
 
-	i=pp;
+	i=ptr;
 	j=0;
 	k=(int)strlen(word);
 
-	while (pp<f1_endpp)
+	while (ptr<f1_endptr)
 	{
-		pp++;
+		ptr++;
 		
 		m=0;
 
-		for (l=pp;l<pp+k;l++)
+		for (l=ptr;l<ptr+k;l++)
 		{
-			if (lower(buf[l])!=word[l-pp])
+			if (lower(buf[l])!=word[l-ptr])
 			{
 				m=1;
 				break;
@@ -588,58 +588,58 @@ int f1_skipword(char *buf,int pp,char *word)
 		}
 	}
 
-	for (n=i;n<pp+k;n++) buf[n]=0;
+	for (n=i;n<ptr+k;n++) buf[n]=0;
 
-	return(pp+k);
+	return(ptr+k);
 }
 
 
 
-int m201_pp1,m201_pp2;
+int m201_ptr1,m201_ptr2;
 
 
 
-int f1_is_pre(char *buf,int pp,char *word,FILE *fp1,FILE *fp2)
+int f1_is_pre(char *buf,int ptr,char *word,FILE *fp1,FILE *fp2)
 {
 	int  i,j,k,l,m,n;
-	int  s_pp1,s_pp2,s_pp3,s_pp4,s_pp5,s_pp6,s_pp7;
+	int  s_ptr1,s_ptr2,s_ptr3,s_ptr4,s_ptr5,s_ptr6,s_ptr7;
 	char s1[20];
 
 
-	i=pp;
+	i=ptr;
 	j=0;
 
-	while (pp<f1_endpp)
+	while (ptr<f1_endptr)
 	{
-		pp++;
-		if (buf[pp]=='>')
+		ptr++;
+		if (buf[ptr]=='>')
 		{
 			j=1;
 			break;
 		}
 	}
 
-	if (j!=1) return(pp);
+	if (j!=1) return(ptr);
 
-	for (k=i;k<=pp;k++) buf[k]=0;
+	for (k=i;k<=ptr;k++) buf[k]=0;
 
-	m201_pp1=pp+1;  //text start pp
+	m201_ptr1=ptr+1;  //text start ptr
 
-	if (m201_pp1>=f1_endpp) return(m201_pp1);
+	if (m201_ptr1>=f1_endptr) return(m201_ptr1);
 
-	i=pp;
+	i=ptr;
 	j=0;
 	k=(int)strlen(word);
 
-	while (pp<f1_endpp)
+	while (ptr<f1_endptr)
 	{
-		pp++;
+		ptr++;
 		
 		m=0;
 
-		for (l=pp;l<pp+k;l++)
+		for (l=ptr;l<ptr+k;l++)
 		{
-			if (lower(buf[l])!=word[l-pp])
+			if (lower(buf[l])!=word[l-ptr])
 			{
 				m=1;
 				break;
@@ -653,17 +653,17 @@ int f1_is_pre(char *buf,int pp,char *word,FILE *fp1,FILE *fp2)
 		}
 	}
 
-	if (pp>=f1_endpp) return(pp);
+	if (ptr>=f1_endptr) return(ptr);
 
-	m201_pp2=pp-1; //text end pp
+	m201_ptr2=ptr-1; //text end ptr
 
-	for (n=pp;n<pp+k;n++) buf[n]=0;
+	for (n=ptr;n<ptr+k;n++) buf[n]=0;
 
 
 	// test
-	for (s_pp7=m201_pp1;s_pp7<=m201_pp2;s_pp7++)
+	for (s_ptr7=m201_ptr1;s_ptr7<=m201_ptr2;s_ptr7++)
 	{
-		s1[0]=buf[s_pp7];
+		s1[0]=buf[s_ptr7];
 		s1[1]=0;
 
 		fputs(s1,fp2);
@@ -673,48 +673,48 @@ int f1_is_pre(char *buf,int pp,char *word,FILE *fp1,FILE *fp2)
 	// end test
 
 
-	s_pp1=m201_pp1;
-	s_pp2=m201_pp1+1;
+	s_ptr1=m201_ptr1;
+	s_ptr2=m201_ptr1+1;
 
-	while (s_pp2<=m201_pp2)
+	while (s_ptr2<=m201_ptr2)
 	{
 
-		while ((buf[s_pp2]!='\n')&&(s_pp2<=m201_pp2))
+		while ((buf[s_ptr2]!='\n')&&(s_ptr2<=m201_ptr2))
 		{
-			s_pp2++;
+			s_ptr2++;
 		}
 
-		if (buf[s_pp2]=='\n')
+		if (buf[s_ptr2]=='\n')
 		{
-			s_pp3=s_pp1;
-			s_pp4=s_pp2;
-			s_pp5=s_pp4-1;
+			s_ptr3=s_ptr1;
+			s_ptr4=s_ptr2;
+			s_ptr5=s_ptr4-1;
 
-			while(s_pp3<s_pp4) // erase before space
+			while(s_ptr3<s_ptr4) // erase before space
 			{
-				if ((buf[s_pp3]>=0)&&(buf[s_pp3]<=' '))
+				if ((buf[s_ptr3]>=0)&&(buf[s_ptr3]<=' '))
 				{
-					buf[s_pp3]=0;
-					s_pp3++;
+					buf[s_ptr3]=0;
+					s_ptr3++;
 				}
 				else break;
 			}
 
 
-			while(s_pp5>=s_pp3) // erase after space
+			while(s_ptr5>=s_ptr3) // erase after space
 			{
-				if ((buf[s_pp5]>=0)&&(buf[s_pp5]<=' '))
+				if ((buf[s_ptr5]>=0)&&(buf[s_ptr5]<=' '))
 				{
-					buf[s_pp5]=0;
-					s_pp5--;
+					buf[s_ptr5]=0;
+					s_ptr5--;
 				}
 				else break;
 			}
 
 
-			for (s_pp6=s_pp3;s_pp6<=s_pp5;s_pp6++)
+			for (s_ptr6=s_ptr3;s_ptr6<=s_ptr5;s_ptr6++)
 			{
-				s1[0]=buf[s_pp6];
+				s1[0]=buf[s_ptr6];
 				s1[1]=0;
 
 				fputs(s1,fp1);
@@ -724,9 +724,9 @@ int f1_is_pre(char *buf,int pp,char *word,FILE *fp1,FILE *fp2)
 
 
 			// test
-			for (s_pp6=s_pp3;s_pp6<=s_pp5;s_pp6++)
+			for (s_ptr6=s_ptr3;s_ptr6<=s_ptr5;s_ptr6++)
 			{
-				s1[0]=buf[s_pp6];
+				s1[0]=buf[s_ptr6];
 				s1[1]=0;
 
 				fputs(s1,fp2);
@@ -735,10 +735,10 @@ int f1_is_pre(char *buf,int pp,char *word,FILE *fp1,FILE *fp2)
 			fputs("\n",fp2);
 			// end test
 
-			for (s_pp6=s_pp1;s_pp6<=s_pp2;s_pp6++) buf[s_pp6]=0;
+			for (s_ptr6=s_ptr1;s_ptr6<=s_ptr2;s_ptr6++) buf[s_ptr6]=0;
 
-			s_pp1=s_pp2+1;
-			s_pp2=s_pp1+1;
+			s_ptr1=s_ptr2+1;
+			s_ptr2=s_ptr1+1;
 		}
 		else
 		{
@@ -746,30 +746,30 @@ int f1_is_pre(char *buf,int pp,char *word,FILE *fp1,FILE *fp2)
 		}
 	}
 
-	return(pp+k);
+	return(ptr+k);
 }
 
 
-int f1_skipcmd(char *buf,int pp)
+int f1_skipcmd(char *buf,int ptr)
 {
 	int  i,j,k;
 //	char s1[20];
 
-	i=pp;
+	i=ptr;
 	j=0;
 
-	while (pp<f1_endpp)
+	while (ptr<f1_endptr)
 	{
-		pp++;
+		ptr++;
 
-		if (buf[pp]=='>')
+		if (buf[ptr]=='>')
 		{
 			j=1;
 			break;
 		}
 
 		//&gt;
-		if ((buf[pp]=='&')&&(buf[pp+1]=='g')&&(buf[pp+2]=='t')&&(buf[pp+3]==';'))
+		if ((buf[ptr]=='&')&&(buf[ptr+1]=='g')&&(buf[ptr+2]=='t')&&(buf[ptr+3]==';'))
 		{
 			j=4;
 			break;
@@ -777,24 +777,24 @@ int f1_skipcmd(char *buf,int pp)
 
 	}
 
-	for (k=i;k<=pp+j-1;k++) buf[k]=0;
+	for (k=i;k<=ptr+j-1;k++) buf[k]=0;
 
-	return(pp+j);
+	return(ptr+j);
 }
 
-int f1_loadstr(char *buff1,int pp,char *s1)
+int f1_loadstr(char *buff1,int ptr,char *s1)
 {
 	int  i,j;
 
 	for (i=0;i<10;i++) s1[i]=0;
 
-        if (pp+10>f1_endpp) j=f1_endpp;
-	else j=pp+10;
+        if (ptr+10>f1_endptr) j=f1_endptr;
+	else j=ptr+10;
 
-	for (i=pp;i<j;i++)
+	for (i=ptr;i<j;i++)
 	{
-		s1[i-pp+0]=buff1[i];
-		s1[i-pp+1]=0;
+		s1[i-ptr+0]=buff1[i];
+		s1[i-ptr+1]=0;
 	}
 
 	lower_string(s1);
@@ -805,11 +805,11 @@ int f1_loadstr(char *buff1,int pp,char *s1)
 int f1_1stloadstr(int fh,char *buff1)
 {
 
-	f1_endpp=read((int)fh,buff1,BUF_LEN);	
+	f1_endptr=read((int)fh,buff1,BUF_LEN);	
 
-	f1_endpp--;
+	f1_endptr--;
 
-	return(f1_endpp);
+	return(f1_endptr);
 
 }
 

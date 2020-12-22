@@ -63,7 +63,7 @@ int ff1_get_fln2(char *);
 /*
 char at5[ARTI_LINE][55];
 long long int at5_n[ARTI_LINE];
-int  at5_pp;
+int  at5_ptr;
 
 int  search_wd5(char *);
 int  load5(void);
@@ -74,13 +74,13 @@ int  find_m5;
 
 	 char wd5_buf[ARTI_LINE][55];
 long long int wd5_rt[ARTI_LINE];
-	  int wd5_pp;
+	  int wd5_ptr;
 
 int  wd5_search(char *);
 int  wd5_load(void);
 
 long long int wd5_find_rt;
-	  int wd5_find_pp;
+	  int wd5_find_ptr;
 
 //------------------------------
 
@@ -104,8 +104,8 @@ int t6_init_tree2(void);
 int t6_node_val[TREE2_SIZE_F][4/*5*/];
 int t6_node_val2[TREE2_SIZE_F];
 
-int t6_find_pp2;
-int t6_buff_pp;
+int t6_find_ptr2;
+int t6_buff_ptr;
 
 #define TREE2_SIZE_C 3000000 // main grammar tree
 #define LIST_SIZE_C  300000
@@ -117,10 +117,10 @@ int t3_init_tree2(void);
 int t3_node_val[TREE2_SIZE_C][4/*5*/];
 int t3_node_val2[TREE2_SIZE_C];
 
-int t3_find_pp2;
-int t3_buff_pp;
+int t3_find_ptr2;
+int t3_buff_ptr;
 
-int  grm10_pp1[6];
+int  grm10_ptr1[6];
 char grm10_mrk[6][20][10];
 
 #define SENT_LEN2        600
@@ -134,7 +134,7 @@ static char m101_l2[600];
 static char m101_l3[600];
 static char m101_l4[600];
 static int  m101_ns[150];
-static int  m101_ns_pp;
+static int  m101_ns_ptr;
 
 int load12(void)
 {
@@ -248,7 +248,7 @@ int load12(void)
 						break;
 					}
 
-					m101_ns[n]=wd5_find_pp;
+					m101_ns[n]=wd5_find_ptr;
 					n++;
 
 					m=0;
@@ -265,16 +265,16 @@ int load12(void)
 			continue;	// not found in word base (words03.txt)
 		}
 
-		m101_ns_pp=n;
+		m101_ns_ptr=n;
 		p=0;
 
-		while (p<=m101_ns_pp-1) // for every number
+		while (p<=m101_ns_ptr-1) // for every number
 		{
 			for (o=2;o<=4/*5*/;o++) // for every possible grammar len
 			{
-				if (p+o>m101_ns_pp) continue;
+				if (p+o>m101_ns_ptr) continue;
 
-				q=grm10_pp1[o];
+				q=grm10_ptr1[o];
 
 				for (r=0;r<q;r++) // for every mark
 				{
@@ -308,7 +308,7 @@ int load12(void)
 
 					t6_insert_node(sn1,sn2,sn3,sn4/*,sn5*/);
 
-					t6_node_val2[t6_find_pp2]=t6_node_val2[t6_find_pp2]+1;
+					t6_node_val2[t6_find_ptr2]=t6_node_val2[t6_find_ptr2]+1;
 				}
 
 			}
@@ -321,7 +321,7 @@ int load12(void)
 	printf("load12() number=%c%c%c , %d line skiped \n",mc3,mc2,mc1,err2_n);
 
 	// if repeat times >= 2 ,load to tree3
-	for (i=0;i<t6_buff_pp;i++)
+	for (i=0;i<t6_buff_ptr;i++)
 	{
 		if (t6_node_val2[i]>=2)
 		{
@@ -334,7 +334,7 @@ int load12(void)
 
 			t3_insert_node(sn1,sn2,sn3,sn4/*,(-1)*//*sn5*/);
 
-			t3_node_val2[t3_find_pp2]=t3_node_val2[t3_find_pp2]+t6_node_val2[i];
+			t3_node_val2[t3_find_ptr2]=t3_node_val2[t3_find_ptr2]+t6_node_val2[i];
 		}
 	}
 
@@ -353,7 +353,7 @@ int load12(void)
 		return(1);
 	}
 
-	for (i=0;i<t3_buff_pp;i++)
+	for (i=0;i<t3_buff_ptr;i++)
 	{
 		sn1=t3_node_val[i][0];
 		sn2=t3_node_val[i][1];
@@ -572,7 +572,7 @@ int ff1_get_fln2(char *s1)
 
 
 char sent_cb2[100][10];
-int  sent_cb2_pp;
+int  sent_cb2_ptr;
 
 int load_cb2(void)
 {
@@ -587,7 +587,7 @@ int load_cb2(void)
 		return(0);
 	}
 
-	sent_cb2_pp=0;
+	sent_cb2_ptr=0;
 
 	while(!feof(fp1))
 	{
@@ -605,9 +605,9 @@ int load_cb2(void)
 
 		if (str[0]==0) continue;
 
-		strcpy(sent_cb2[sent_cb2_pp],str);
+		strcpy(sent_cb2[sent_cb2_ptr],str);
 
-		sent_cb2_pp++;
+		sent_cb2_ptr++;
 
 	}
 
@@ -620,7 +620,7 @@ int load_cb2(void)
 int sent_cb2_in(char *str)
 {
 	int i;
-	for (i=0;i<sent_cb2_pp;i++)
+	for (i=0;i<sent_cb2_ptr;i++)
 	{
 		if (strcmp(str,sent_cb2[i])==0) return(1);
 	}

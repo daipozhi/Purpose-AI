@@ -19,7 +19,7 @@
 #define   IDOK			4
 #define   IDRETRY		5
 
-int   MessageBox(int h1,char *h2,char *h3,int h4);
+int   MessageBoxNow(int h1,char *h2,char *h3,int h4);
 
 #include <locale.h>
 #include <iconv.h>
@@ -63,7 +63,7 @@ int ff1_get_fln2(char *);
 /*
 char at5[ARTI_LINE][55];
 long long int at5_n[ARTI_LINE];
-int  at5_pp;
+int  at5_ptr;
 
 int  search_wd5(char *);
 int  load5(void);
@@ -74,13 +74,13 @@ int  find_m5;
 
 	 char wd5_buf[ARTI_LINE][55];
 long long int wd5_rt[ARTI_LINE];
-	  int wd5_pp;
+	  int wd5_ptr;
 
 int  wd5_search(char *);
 int  wd5_load(void);
 
 long long int wd5_find_rt;
-	  int wd5_find_pp;
+	  int wd5_find_ptr;
 
 //------------------------------
 
@@ -97,10 +97,10 @@ int t3_init_tree2(void);
 //int t3_node_val[TREE2_SIZE_C][4/*5*/];
 int t3_node_val2[TREE2_SIZE_C];
 
-int t3_find_pp2;
-int t3_buff_pp;
+int t3_find_ptr2;
+int t3_buff_ptr;
 
-int  grm10_pp1[6];
+int  grm10_ptr1[6];
 char grm10_mrk[6][20][10];
 
 static	char         m601_l1[SMG_SIZE];
@@ -122,7 +122,7 @@ int load12c(void)
 	//char         s1[SMG_SIZE];
 	//char	       s2[SMG_SIZE];
 	char         c1,c2;
-	int          pp,q;
+	int          ptr,q;
 	int	     err,err_n;
 	int          line_n;
 
@@ -140,7 +140,7 @@ int load12c(void)
 		fp1=fopen(m601_s1,"r");
 		if (fp1==NULL)
 		{
-			MessageBox(0,m601_s1,"message open file error",MB_OK);
+			MessageBoxNow(0,m601_s1,"message open file error",MB_OK);
 			break;
 		}
 
@@ -166,7 +166,7 @@ int load12c(void)
 */
 
 			k=0;
-			pp=0;
+			ptr=0;
 			q=0;
 			i=0;
 
@@ -179,9 +179,9 @@ int load12c(void)
 				{
 					if (q==0) // words
 					{
-						m601_l2[pp][k+0]=c1;
-						m601_l2[pp][k+1]=c2;
-						m601_l2[pp][k+2]=0;
+						m601_l2[ptr][k+0]=c1;
+						m601_l2[ptr][k+1]=c2;
+						m601_l2[ptr][k+2]=0;
 					}
 					else   //repeat times
 					{
@@ -212,7 +212,7 @@ int load12c(void)
 						{
 							if (c1=='-')
 							{
-								pp++;
+								ptr++;
 								k=0;
 								i=i+2;
 								continue;
@@ -221,9 +221,9 @@ int load12c(void)
 							{
 								if (q==0)  //words
 								{
-									m601_l2[pp][k+0]=c1;
-									m601_l2[pp][k+1]=c2;
-									m601_l2[pp][k+2]=0;
+									m601_l2[ptr][k+0]=c1;
+									m601_l2[ptr][k+1]=c2;
+									m601_l2[ptr][k+2]=0;
 									k=k+2;
   									if (k>=SMG_SIZE-3) k=SMG_SIZE-3;
 									i=i+2;
@@ -244,21 +244,21 @@ int load12c(void)
 				}
 			}
 
-			if (pp<2) continue;
-			if (pp>4/*5*/) continue;
+			if (ptr<2) continue;
+			if (ptr>4/*5*/) continue;
 
 			err=0;
 
 			for (j=0;j<4/*5*/;j++)
 			{
-				if (j>=pp) m601_ns[j]=(-1); // end of grammar
+				if (j>=ptr) m601_ns[j]=(-1); // end of grammar
 				else
 				{
 					if (strcmp(m601_l2[j],"$*")==0) m601_ns[j]=(-2); // any word
 					else
 					{
 						m=wd5_search(m601_l2[j]);
-						if (m==1) m601_ns[j]=wd5_find_pp;    
+						if (m==1) m601_ns[j]=wd5_find_ptr;    
 						else
 						{
 							strcpy(m601_s4,m601_l2[j]);
@@ -279,14 +279,14 @@ int load12c(void)
 
 			t3_insert_node(m601_ns[0],m601_ns[1],m601_ns[2],m601_ns[3]/*,(-1)*//*m601_ns[4]*/);
 
-			t3_node_val2[t3_find_pp2]=t3_node_val2[t3_find_pp2]+str2llint(m601_l3); // repeat time
+			t3_node_val2[t3_find_ptr2]=t3_node_val2[t3_find_ptr2]+str2llint(m601_l3); // repeat time
 
 			// test ----
 			/*
-			sprintf(m601_s2,"s1=%s,s2=%s,s3=%s,s4=%s,s5=%s,number=%s,\n pp=%d,ns=%d,%d,%d,%d,%d,rpt=%d,",
+			sprintf(m601_s2,"s1=%s,s2=%s,s3=%s,s4=%s,s5=%s,number=%s,\n ptr=%d,ns=%d,%d,%d,%d,%d,rpt=%d,",
 				m601_l2[0],m601_l2[1],m601_l2[2],m601_l2[3],m601_l2[4],m601_l3,
-				t3_find_pp2,m601_ns[0],m601_ns[1],m601_ns[2],m601_ns[3],m601_ns[4],
-				t3_node_val2[t3_find_pp2]);
+				t3_find_ptr2,m601_ns[0],m601_ns[1],m601_ns[2],m601_ns[3],m601_ns[4],
+				t3_node_val2[t3_find_ptr2]);
 
 			str_gb18030_to_utf8_ini();
 			if (AI_LINUX==1)
@@ -299,7 +299,7 @@ int load12c(void)
 			}
 			str_gb18030_to_utf8_close();
 
-			MessageBox(0,m601_s3,"load11 message",MB_OK);
+			MessageBoxNow(0,m601_s3,"load11 message",MB_OK);
 			*/
 			// end of test ----
 
@@ -317,7 +317,7 @@ int load12c(void)
 	}
 
 	sprintf(m601_s2,"load12c() %d line loaded, %d line skiped %s,",line_n,err_n,m601_s4);
-
+/*
 	str_gb18030_to_utf8_ini();
 	if (AI_LINUX==1)
 	{
@@ -328,7 +328,8 @@ int load12c(void)
 		strcpy(m601_s3,m601_s2);
 	}
 	str_gb18030_to_utf8_close();
-
+*/
+	strcpy(m601_s3,m601_s2);
 	printf("%s\n",m601_s3);
 
 	return(0);
