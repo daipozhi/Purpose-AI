@@ -6,7 +6,7 @@ First courseware
     at first .
 
 Second courseware
-    copy second automatic generated word base(words02.txt) to directory webfind50,
+    copy second automatic generated word base(words01.txt) to directory webfind50,
     put separation punctuation into file words-cw02_t1.txt ,these punctuation
     are been treat as a word(in word couseware) ,program will list all words which
     include these puctuation,user can select which is a word ,which isn't a word ,
@@ -26,6 +26,13 @@ run program in this directory(words-cw01.c),program will list all the words whic
     copy file words-cw02_sort.txt and words-cw01.txt to directory work_dir , 
     word courseware is done .
 
+if you already made courseware , you want add some new words ,add these words to file 
+    words-cw02_notsort.backup.utf8.txt , convert to GB18030 ,copy to 
+    words-cw02_notsort.txt , and copy file words-cw02_notsort.txt to directory webfind52 ,
+    run program in webfind52 , it will sort these words and copy to words-cw02_sort.txt ,
+    copy file words-cw02_sort.txt to directory work_dir , 
+    word courseware is done .( you don't need run program words-cw01.c )
+
 (in here , chinese is coded in GB18030 ,in Windows, you can directly open it , if you are in Ubuntu,
     you need convert chinese to utf8 , you can run program in directory 'tools-3',
     ./gb18030-to-utf8.exe myfile.txt ,it will convert chinese to utf8 and copy to myfile.utf8.txt ,
@@ -37,7 +44,7 @@ run program in this directory(words-cw01.c),program will list all the words whic
     rpt开头的行表示这个字出现的次数,如果是1表示只出现一次,pos开头的行表示
     这个字的位置,如果是1表示在第一个.
 
-第二个课件,把第二个词库(自动生成的词库)拷贝到webfind50目录(words02.txt),
+第二个课件,把第二个词库(自动生成的词库)拷贝到webfind50目录(words01.txt),
     在文件words-cw02_t1.txt中写入有分隔作用的标点符号,放在在这里表示这个
     标点符号被当作一个词(是词课件中的词),程序会把所有包含这些标点符号的词
     提取出来,用户可以选择哪个是词,哪个不是词.在文件words-cw02_t2.txt中写入
@@ -52,6 +59,11 @@ run program in this directory(words-cw01.c),program will list all the words whic
     words-cw02_notsort.backup.utf8.txt中是已经选择好了的,把这个文件转为GB18030编码,
     拷贝到words-cw02_notsort.txt文件 ,再把这个文件拷贝到webfind52中,
     运行webfind52中的程序,把这些词排序,输出到words-cw02_sort.txt文件中,
+    再把words-cw02_sort.txt和words-cw01.txt拷贝到work_dir目录,词课件就完成了.
+
+如果你已经制作了词课件,想增加一些新词,把新词加入words-cw02_notsort.backup.utf8.txt中,
+    把这个文件转为GB18030编码,拷贝到words-cw02_notsort.txt文件 ,再把这个文件拷贝到
+    webfind52中,运行webfind52中的程序,把这些词排序,输出到words-cw02_sort.txt文件中,
     再把words-cw02_sort.txt和words-cw01.txt拷贝到work_dir目录,词课件就完成了.
 
 (在这里的程序里,汉字是用GB18030编码的,在Windows里可以直接浏览,如果你用的
