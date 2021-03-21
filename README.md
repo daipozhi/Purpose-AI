@@ -84,7 +84,8 @@ How does computer process text,video,audio
             courseware,you can put all words into it, but for higher 
             priority, you only put necessary words into it,like '的',
             '地','得',they are short,their value are small, and easy to
-            mix with other words.
+            mix with other words, some words include '的','地','得',like:'目的',
+            '地主',you also need to put them into word courseware .
 
         after this step accuracy is about 90%
 
@@ -182,7 +183,8 @@ How does computer process text,video,audio
 
         这是和以前不同的地方,如果是建立普通的词库,你可以把全部的词放进去,
             但是为了更高的优先级,你仅仅把有需要的词放进去,比如'的','地','得',
-            这样的词很短,分数很低,容易和其他的词连在一起.
+            这样的词很短,分数很低,容易和其他的词连在一起.有一些词,包括'的','地','得',
+            比如:'目的','地主',把它们也放进词课件.
 
         到这个步骤时准确率约为90% 
 
@@ -275,10 +277,10 @@ How does computer process text,video,audio
 
         get repeat times of each grammar in grammar courseware .
 
-        after this step accuracy is about 95%
+        after this step accuracy is about 92%
         (in before,in step210 ,set param SPL1_OUT_NUM to 20,choose the 20 highest word value 
             ones to calculate grammar value ,accuracy +1%,to 91%, now ,set param SPL1_OUT_NUM 
-            to 200,accuracy +5%,to 95% .)
+            to 200,accuracy +2%,to 92% .)
 
         browse separated text(grm-base1-nnn.txt), if there is error , 
         then make relative courseware,
@@ -336,7 +338,7 @@ How does computer process text,video,audio
                         (Dec 22th 2020 snapshot: better looking source code, enabled grid computing,in before,
                              in step210 ,set param SPL1_OUT_NUM to 20,choose the 20 highest word value ones 
                              to calculate grammar value  ,accuracy +1%,to 91%,now ,set param SPL1_OUT_NUM 
-                             to 200, accuracy +5%,to 95% )
+                             to 200, accuracy +2%,to 92% )
 
 
 
@@ -373,9 +375,9 @@ How does computer process text,video,audio
 
         计算语法课件重复次数,
 
-        到这个步骤时准确率约为95% 
+        到这个步骤时准确率约为92% 
         (在以前，在 step210 ,参数 SPL1_OUT_NUM 设置为 20，也就是取20个词分数最大的去计算他们的语法分数，
-         准确率+1%,到 91%,现在把这个参数设为200，准确率+5%,到95%  .）
+         准确率+1%,到 91%,现在把这个参数设为200，准确率+2%,到92%  .）
 
         浏览分解的文本(grm-base1-nnn.txt), 如果有错误, 制作相关课件,
         如果有错误:"战,,地;;" ,制作词课件 "战地"(在文件 words-cw02_sort.txt 中,如何
@@ -424,7 +426,7 @@ How does computer process text,video,audio
                                    词的语法改为4个词的语法,改进了标点符号的处理)
                         (2020-12-22快照: 源程序更漂亮，增加了网格计算功能，在以前，在 step210 ,参数 SPL1_OUT_NUM 
                                    设置为 20，也就是取20个词分数最大的去计算他们的语法分数，准确率+1%,到 91%,现在把这
-                                   个参数设为200，准确率+5%,到95%。）
+                                   个参数设为200，准确率+2%,到92%。）
 
 
 
