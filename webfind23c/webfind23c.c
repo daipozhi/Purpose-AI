@@ -144,15 +144,15 @@ class tree2b tree2b_1;*/
 //{
 int main(void)
 {
-	MessageBox(0,"load words9base000.txt, write to words01.txt ","message",MB_OK);
+	MessageBox(0,"load words-repe-000000.txt, write to words01.txt ","message",MB_OK);
 
-    	t1_init_tree2();
+    t1_init_tree2();
   
-    	word8("");
+    word8("");
 
-    	t1_after_list();
+    t1_after_list();
   
-    	t1_save_list("words01.txt");
+    t1_save_list("words01.txt");
 
 	MessageBox(0,"words ok","message",MB_OK);
 
@@ -167,21 +167,27 @@ long word8(char *pstr1)
 {
 	FILE *fp1;
 	int  i,j,k,l,m,n,n1,n2,n3,o;
-	char c1,c2,c3,c4,c5;
+	char c1,c2,c3,c4,c5,c7,c8,c9;
 	char s1[SMG_SIZE];
 	char s2[SMG_SIZE];
 	//char str1[5000];
 	//char str2[5000];
 
-	strcpy(s1,"words9base000.txt");
+	strcpy(s1,"words-repe-      .txt");
 
 	c1='0';
 	c2='0';
 	c3='0';
+	c7='0';
+	c8='0';
+	c9='0';
 
-	s1[12]=c1;
-	s1[11]=c2;
-	s1[10]=c3;
+	s1[16]=c1;
+	s1[15]=c2;
+	s1[14]=c3;
+	s1[13]=c7;
+	s1[12]=c8;
+	s1[11]=c9;
 
 
 	while(1)
@@ -279,7 +285,7 @@ long word8(char *pstr1)
     	
 		t2_after_list();
   
-    		t2_save_list("");
+    	t2_save_list("");
 
 
 		c1++;
@@ -291,13 +297,31 @@ long word8(char *pstr1)
 			{
 				c2='0';
 				c3++;
-				if (c3>'9') return(1);
+				if (c3>'9')
+                {
+        c3='0';
+	    c7++;
+	    if (c7>'9')
+	    {
+		    c7='0';
+		    c8++;
+		    if (c8>'9')
+		    {
+			    c8='0';
+			    c9++;
+			    if (c9>'9') return(1);
+            }
+        }
+                }
 			}
 		}
 
-		s1[12]=c1;
-		s1[11]=c2;
-		s1[10]=c3;
+		s1[16]=c1;
+		s1[15]=c2;
+		s1[14]=c3;
+		s1[13]=c7;
+		s1[12]=c8;
+		s1[11]=c9;
 
 
 

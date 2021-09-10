@@ -48,10 +48,16 @@ int deb_upper_string(char *p_instr);
 char mc1;
 char mc2;
 char mc3;
+char mc4;
+char mc5;
+char mc6;
 
 char mmc1;
 char mmc2;
 char mmc3;
+char mmc4;
+char mmc5;
+char mmc6;
 
 int ff1_init_ext(void);
 int ff1_next_ext(void);
@@ -131,7 +137,7 @@ int load12c(void)
 	err_n=0;
 	line_n=0;
 
-	strcpy(m601_s1,"grammar-base03-000.txt");
+	strcpy(m601_s1,"grammar-base03-000000.txt");
 
 	ff1_init_ext();
 
@@ -311,9 +317,12 @@ int load12c(void)
 		ff1_next_ext();
 		ff1_next_ext();
 
-		m601_s1[15]=mmc3;
-		m601_s1[16]=mmc2;
-		m601_s1[17]=mmc1;
+		m601_s1[15]=mmc6;
+		m601_s1[16]=mmc5;
+		m601_s1[17]=mmc4;
+		m601_s1[18]=mmc3;
+		m601_s1[19]=mmc2;
+		m601_s1[20]=mmc1;
 	}
 
 	sprintf(m601_s2,"load12c() %d line loaded, %d line skiped %s,",line_n,err_n,m601_s4);
@@ -343,6 +352,9 @@ int ff1_init_ext(void)
 	mmc1='0';
 	mmc2='0';
 	mmc3='0';
+	mmc4='0';
+	mmc5='0';
+	mmc6='0';
 
 	return(0);
 }
@@ -356,10 +368,24 @@ int ff1_next_ext(void)
 		mmc2++;
 		if (mmc2>'9')
 		{
-			mmc1='0';
 			mmc2='0';
 			mmc3++;
-			if (mmc3>'9') return(1);
+			if (mmc3>'9')
+            {
+    mmc3='0';
+	mmc4++;
+	if (mmc4>'9')
+	{
+		mmc4='0';
+		mmc5++;
+		if (mmc5>'9')
+		{
+			mmc5='0';
+			mmc6++;
+			if (mmc6>'9') return(1);
+        }
+    }
+            }
 		}
 	}
 
@@ -368,11 +394,14 @@ int ff1_next_ext(void)
 
 int ff1_get_fln2(char *s1)
 {
-	strcpy(s1,"grammar-base03-000.txt");
+	strcpy(s1,"grammar-base03-000000.txt");
 
-	s1[15]=mmc3;
-	s1[16]=mmc2;
-	s1[17]=mmc1;
+	s1[15]=mmc6;
+	s1[16]=mmc5;
+	s1[17]=mmc4;
+	s1[18]=mmc3;
+	s1[19]=mmc2;
+	s1[20]=mmc1;
 
 	return(0);
 }

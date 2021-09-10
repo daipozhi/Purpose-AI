@@ -48,10 +48,16 @@ int deb_upper_string(char *p_instr);
 char mc1;
 char mc2;
 char mc3;
+char mc4;
+char mc5;
+char mc6;
 
 char mmc1;
 char mmc2;
 char mmc3;
+char mmc4;
+char mmc5;
+char mmc6;
 
 int ff1_init_ext(void);
 int ff1_next_ext(void);
@@ -192,7 +198,6 @@ int load12(void)
 
 	for (j=0;j<load9_l;j++)  // for every line
 	{
-      
             	l=0;
 		m=0;
 		n=0;
@@ -318,7 +323,7 @@ int load12(void)
 
 	}
 
-	printf("load12() number=%c%c%c , %d line skiped \n",mc3,mc2,mc1,err2_n);
+	printf("load12() number=%c%c%c%c%c%c , %d line skiped \n",mc6,mc5,mc4,mc3,mc2,mc1,err2_n);
 
 	// if repeat times >= 2 ,load to tree3
 	for (i=0;i<t6_buff_ptr;i++)
@@ -340,16 +345,19 @@ int load12(void)
 
 	// test ----
 
-	strcpy(s4,"grammar-base03-000.txt");
+	strcpy(s4,"grammar-base03-000000.txt");
 
-	s4[15]=mc3;
-	s4[16]=mc2;
-	s4[17]=mc1;
+	s4[15]=mc6;
+	s4[16]=mc5;
+	s4[17]=mc4;
+	s4[18]=mc3;
+	s4[19]=mc2;
+	s4[20]=mc1;
 
 	fp2=fopen(s4,"w");
 	if (fp2==NULL)
 	{
-		MessageBox(0,"grammar-base03-nnn.txt","message open file error",MB_OK);
+		MessageBox(0,"grammar-base03-nnnnnn.txt","message open file error",MB_OK);
 		return(1);
 	}
 
@@ -536,6 +544,9 @@ int ff1_init_ext(void)
 	mmc1=mc1;
 	mmc2=mc2;
 	mmc3=mc3;
+	mmc4=mc4;
+	mmc5=mc5;
+	mmc6=mc6;
 
 	return(0);
 }
@@ -549,10 +560,24 @@ int ff1_next_ext(void)
 		mmc2++;
 		if (mmc2>'9')
 		{
-			mmc1='0';
 			mmc2='0';
 			mmc3++;
-			if (mmc3>'9') return(1);
+			if (mmc3>'9')
+            {
+    mmc3='0';        
+	mmc4++;
+	if (mmc4>'9')
+	{
+		mmc4='0';
+		mmc5++;
+		if (mmc5>'9')
+		{
+			mmc5='0';
+			mmc6++;
+			if (mmc6>'9') return(1);
+        }
+    }
+            }
 		}
 	}
 
@@ -561,11 +586,14 @@ int ff1_next_ext(void)
 
 int ff1_get_fln2(char *s1)
 {
-	strcpy(s1,"words-cw3-000.txt");
+	strcpy(s1,"words-cww3-000000.txt");
 
-	s1[10]=mmc3;
-	s1[11]=mmc2;
-	s1[12]=mmc1;
+	s1[11]=mmc6;
+	s1[12]=mmc5;
+	s1[13]=mmc4;
+	s1[14]=mmc3;
+	s1[15]=mmc2;
+	s1[16]=mmc1;
 
 	return(0);
 }

@@ -1,3 +1,6 @@
+
+#include "../common/common.h"
+
 //#define   STRICT
 //#include <windows.h>
 //#include <commdlg.h>
@@ -36,7 +39,7 @@ int   MessageBox(int h1,char *h2,char *h3,int h4);
 #include <sys/stat.h>
 #include <fcntl.h>
 
-#define  DIR_NUM    1500000
+#define  DIR_NUM    3000000
 #define  FLN_LEN    300
 
 char     dir_buf[DIR_NUM][FLN_LEN];
@@ -45,10 +48,10 @@ int      f2_pointer;
 
 int  f2_loaddir(void);
 int  htm_ext(char *);
-char lower(char);
+//char lower(char);
 int  stringfind(char *ps1,char *ps2);
 int  no_bbs_fn(char *s1);
-int  lower_string(char *ps1);
+//int  lower_string(char *ps1);
 
 char m301_s1[5000];
 
@@ -58,7 +61,6 @@ int f2_loaddir(void)
 	FILE *fp1;
 	//char s1[5000];
 	int  i,j,k;
-
 
 	fp1=fopen("dirbuf.txt","r");
 	if (fp1==NULL)
@@ -171,13 +173,13 @@ int htm_ext(char *s1)
 	
 	return(0);
 }
-
+/*
 char lower(char c1)
 {
 	if ((c1>='A')&&(c1<='Z')) return(c1-'A'+'a');
 	else return(c1);
 }
-
+*/
 int no_bbs_fn(char *s1)
 {
 	if (stringfind(s1,"bbs")==1) return(0);
@@ -213,7 +215,7 @@ int stringfind(char *ps1,char *ps2)
 	if (m==1) return(0);
 	else return(1);
 }
-
+/*
 int lower_string(char *ps1)
 {
 	int  i,j;
@@ -224,3 +226,4 @@ int lower_string(char *ps1)
 	}
 	return(0);
 }
+*/

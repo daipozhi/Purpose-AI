@@ -211,7 +211,7 @@ long long int wd6_find_rt;
 //{
 int main(void)
 {
-	MessageBox(0,"load grm-base1-000.txt, write to words04.txt words-cw02rpt2.txt","message",MB_OK);
+	MessageBox(0,"load words-gram-000000.txt, write to words04.txt words-cw02rpt2.txt","message",MB_OK);
 
 	wd6_load();
 
@@ -243,21 +243,27 @@ long word8(char *pstr1)
 {
 	FILE *fp1;
 	int  i,j,k,l,m,n,n1,n2,n3,o,p,q,r,r2;
-	char c1,c2,c3,c4,c5;
+	char c1,c2,c3,c4,c5,c7,c8,c9;
 	char s1[SMG_SIZE];
 	char s2[SMG_SIZE];
 	//char str1[5000];
 	//char str2[5000];
 
-	strcpy(s1,"grm-base1-000.txt");
+	strcpy(s1,"words-gram-000000.txt");
 
 	c1='0';
 	c2='0';
 	c3='0';
+	c7='0';
+	c8='0';
+	c9='0';
 
-	s1[12]=c1;
-	s1[11]=c2;
-	s1[10]=c3;
+	s1[16]=c1;
+	s1[15]=c2;
+	s1[14]=c3;
+	s1[13]=c7;
+	s1[12]=c8;
+	s1[11]=c9;
 
 
 	while(1)
@@ -307,12 +313,14 @@ long word8(char *pstr1)
 				}
 				else
 				{
+/*
 					if ((c4=='=')||(c4=='-'))
 					{
 						l=l+4;
 					}
 					else
 					{
+*/
 						if ((c4=='{')||(c4=='}')||(c4=='[')||(c4==']'))
 						{
 							l=l+2;
@@ -435,7 +443,9 @@ long word8(char *pstr1)
 								l=l+2;
 							}
 						}
+/*
 					}
+*/
 				}
 			}
 
@@ -457,13 +467,31 @@ long word8(char *pstr1)
 			{
 				c2='0';
 				c3++;
-				if (c3>'9') return(1);
+				if (c3>'9')
+                {
+            c3='0';
+	    c7++;
+	    if (c7>'9')
+	    {
+		    c7='0';
+		    c8++;
+		    if (c8>'9')
+		    {
+			    c8='0';
+			    c9++;
+			    if (c9>'9') return(1);
+            }
+        }
+                }
 			}
 		}
 
-		s1[12]=c1;
-		s1[11]=c2;
-		s1[10]=c3;
+		s1[16]=c1;
+		s1[15]=c2;
+		s1[14]=c3;
+		s1[13]=c7;
+		s1[12]=c8;
+		s1[11]=c9;
 
 	}
 

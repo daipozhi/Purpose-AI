@@ -71,13 +71,13 @@ class tree2
     int   t1_list_stack[LIST_SIZE];
     char  t1_list_stack_type[LIST_SIZE];
     int   t1_list_ptr;
-
+/*
     char  t1_out_buff[TREE2_SIZE][55];
     //long long int t1_out_buff2[TREE2_SIZE];
 
     //int   t1_out_buff3[TREE2_SIZE][5][3];
     //int   t1_out_buff3_ptr[TREE2_SIZE];
-
+*/
     int   t1_out_ptr;
 
   //public:
@@ -589,7 +589,7 @@ int /*tree2::*/t1_out_list(char *pstr,long long int pn1,int ptr)
 
   if ((int)strlen(pstr)>=55) return(0);
   
-  strcpy(t1_out_buff[t1_out_ptr],pstr);
+  //strcpy(t1_out_buff[t1_out_ptr],pstr);
   //t1_out_buff2[t1_out_ptr]=pn1;
 
 /*
@@ -600,7 +600,7 @@ int /*tree2::*/t1_out_list(char *pstr,long long int pn1,int ptr)
   t1_out_buff3_ptr[t1_out_ptr]=t1_node_val3_ptr[ptr];
 */
 
-  t1_out_ptr++;
+  //t1_out_ptr++;
   return(0);
 }
 

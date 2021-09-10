@@ -1,4 +1,7 @@
-cd tools-3
+cd work_dir
+rm *.exe
+
+cd ../tools-3
 rm gb18030-to-utf8.exe
 gcc -o gb18030-to-utf8.exe gb18030-to-utf8.c -liconv
 cp gb18030-to-utf8.exe ../work_dir
@@ -6,14 +9,11 @@ cd ../tools-4
 rm utf8-to-gb18030.exe
 gcc -o utf8-to-gb18030.exe utf8-to-gb18030.c -liconv
 cp utf8-to-gb18030.exe ../work_dir
-cd ../tools-5
-rm gc.exe
-gcc -o gc.exe gc.c -liconv 
 
 
 cd ../webfind_b
 rm a-step20.exe
-gcc -o a-step20.exe f1.c f2.c -liconv
+gcc -o a-step20.exe f1.c f2.c f3.c -liconv
 cp a-step20.exe ../work_dir
 cd ../webfind39
 rm a-step30.exe

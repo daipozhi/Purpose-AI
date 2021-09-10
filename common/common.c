@@ -890,7 +890,7 @@ static int cpy_string(char *p_s1,int p_s1_size,char *p_s2,int p_s2_size)
 
   for (i=0;i<p_s2_size;i++)
   {
-    if (i+1>=p_s1_size) continue;
+    if (i+1>=p_s1_size) break;
     else
     {
       if (p_s2[i]==0) break;
@@ -925,37 +925,52 @@ int str_gb18030_to_utf8(char *inbuffer,char *outbuffer,int outbufferlen)
 }
 */
 
-static char cmmn08_str1[3000000];
-static char cmmn08_str2[3000000];
-static char cmmn08_str3[3000000];
+static char  cmmn08_str1[300000];
+static char *cmmn08_str1_ptr1[2];
+
+static char  cmmn08_str2[900000];
+static char *cmmn08_str2_ptr1[2];
+
+static char** in_buffer_tmp;
+static int    in_buffer_tmp_len;   
+static char** out_buffer_tmp;
+static int    out_buffer_tmp_len;
   
 int str_gb18030_to_utf8(char *in_buffer,char *out_buffer,int out_buffer_len)
 {
     int i,j;
-    char* in_buffer_tmp[]= { cmmn08_str1,NULL };
-    int in_buffer_tmp_len;   
-    char* out_buffer_tmp[]= { cmmn08_str2,cmmn08_str3,NULL };;
-    int out_buffer_tmp_len;
+    //char** in_buffer_tmp;
+    //int    in_buffer_tmp_len;   
+    //char** out_buffer_tmp;
+    //int    out_buffer_tmp_len;
+    // if these codes inside sub function , it is bug .
 
     strcpy(cmmn08_str1,in_buffer);  
     in_buffer_tmp_len=strlen(in_buffer);
 
+    cmmn08_str1_ptr1[0]=cmmn08_str1;
+    cmmn08_str1_ptr1[1]=NULL;
+
+    in_buffer_tmp=cmmn08_str1_ptr1;
+
     j=in_buffer_tmp_len*3+1;
-    if (j<1)       j=1;
-    if (j>3000000) j=3000000;
+    if (j<1)      j=1;
+    if (j>900000) j=900000;
 
     for (i=0;i<j;i++)
     {
       cmmn08_str2[i]=0;
-      cmmn08_str3[i]=0;
     }
+    out_buffer_tmp_len = 900000;
 
-    //out_buffer_tmp[] = { cmmn08_str2,cmmn08_str3 };
-    out_buffer_tmp_len = 3000000;
+    cmmn08_str2_ptr1[0]=cmmn08_str2;
+    cmmn08_str2_ptr1[1]=NULL;
+
+    out_buffer_tmp=cmmn08_str2_ptr1;
 
     iconv(cd, in_buffer_tmp, (size_t *)&in_buffer_tmp_len, out_buffer_tmp, (size_t *)&out_buffer_tmp_len);  
 
-    cpy_string(out_buffer,out_buffer_len,cmmn08_str2,3000000);    
+    cpy_string(out_buffer,out_buffer_len,cmmn08_str2,900000);    
 
     return(0);  
 }
@@ -972,8 +987,8 @@ static char  cmmn01_fn3[500];
 static char  cmmn01_ext[500];
 static FILE *cmmn01_fp1;
 static FILE *cmmn01_fp2;
-static char  cmmn01_l_in[3000000];
-static char  cmmn01_l_out[3000000];
+static char  cmmn01_l_in[300000];
+static char  cmmn01_l_out[900000];
 
 int file_gb18030_to_utf8(char *inbuffer)
 {
@@ -1019,7 +1034,7 @@ int file_gb18030_to_utf8(char *inbuffer)
   {
     cmmn01_l_in[0]=0;
 
-    fgets(cmmn01_l_in,3000000,cmmn01_fp1);
+    fgets(cmmn01_l_in,300000,cmmn01_fp1);
 
     i=(int)strlen(cmmn01_l_in);
 
@@ -1031,7 +1046,7 @@ int file_gb18030_to_utf8(char *inbuffer)
 
     //printf("%s,\n",cmmn01_l_in);
 
-    str_gb18030_to_utf8(cmmn01_l_in,cmmn01_l_out,3000000);
+    str_gb18030_to_utf8(cmmn01_l_in,cmmn01_l_out,900000);
 
     //printf("%s,\n",cmmn01_l_out);
     //getchar();
@@ -1106,37 +1121,47 @@ int str_utf8_to_gb18030_ini(void)
   cd = iconv_open("gb18030//TRANSLIT","utf-8");  
 }
 
-static char cmmn07_str1[3000000];
-static char cmmn07_str2[3000000];
-static char cmmn07_str3[3000000];
-  
+static char  cmmn07_str1[300000];
+static char *cmmn07_str1_ptr1[2];
+
+static char  cmmn07_str2[900000];
+static char *cmmn07_str2_ptr1[2];
+
 int str_utf8_to_gb18030(char *in_buffer,char *out_buffer,int out_buffer_len)
 {
     int i,j;
-    char* in_buffer_tmp[]= { cmmn07_str1,NULL };
-    int in_buffer_tmp_len;   
-    char* out_buffer_tmp[]= { cmmn07_str2,cmmn07_str3,NULL };;
-    int out_buffer_tmp_len;
+    //char** in_buffer_tmp;
+    //int    in_buffer_tmp_len;   
+    //char** out_buffer_tmp;
+    //int    out_buffer_tmp_len;
+    // if these codes inside sub function , it is bug .
 
     strcpy(cmmn07_str1,in_buffer);  
     in_buffer_tmp_len=strlen(in_buffer);
 
+    cmmn07_str1_ptr1[0]=cmmn07_str1;
+    cmmn07_str1_ptr1[1]=NULL;
+
+    in_buffer_tmp=cmmn07_str1_ptr1;
+
     j=in_buffer_tmp_len+1;
-    if (j<1)       j=1;
-    if (j>3000000) j=3000000;
+    if (j<1)      j=1;
+    if (j>900000) j=900000;
 
     for (i=0;i<j;i++)
     {
       cmmn07_str2[i]=0;
-      cmmn07_str3[i]=0;
     }
+    out_buffer_tmp_len = 900000;
 
-    //out_buffer_tmp[] = { cmmn07_str2,cmmn07_str3 };
-    out_buffer_tmp_len = 3000000;
+    cmmn07_str2_ptr1[0]=cmmn07_str2;
+    cmmn07_str2_ptr1[1]=NULL;
+
+    out_buffer_tmp=cmmn07_str2_ptr1;
 
     iconv(cd, in_buffer_tmp, (size_t *)&in_buffer_tmp_len, out_buffer_tmp, (size_t *)&out_buffer_tmp_len);  
 
-    cpy_string(out_buffer,out_buffer_len,cmmn07_str2,3000000);    
+    cpy_string(out_buffer,out_buffer_len,cmmn07_str2,900000);    
 
     return(0);  
 }
@@ -1200,7 +1225,7 @@ int file_utf8_to_gb18030(char *inbuffer)
   {
     cmmn01_l_in[0]=0;
 
-    fgets(cmmn01_l_in,3000000,cmmn01_fp1);
+    fgets(cmmn01_l_in,300000,cmmn01_fp1);
 
     i=(int)strlen(cmmn01_l_in);
 
@@ -1210,7 +1235,7 @@ int file_utf8_to_gb18030(char *inbuffer)
       else break;
     }
 
-    str_utf8_to_gb18030(cmmn01_l_in,cmmn01_l_out,3000000);
+    str_utf8_to_gb18030(cmmn01_l_in,cmmn01_l_out,900000);
 
     fputs(cmmn01_l_out,cmmn01_fp2);
     fputs("\n",cmmn01_fp2);

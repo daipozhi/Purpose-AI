@@ -9,7 +9,7 @@ How does computer process text,video,audio
  Purpose AI is distributed in the hope that it will be useful,
   but WITHOUT ANY WARRANTY; )
 
-(Dec 22th 2020 snapshot)
+(July 22th 2021 update)
 
 这个工程是小戴人工智能，是开源项目
 
@@ -17,7 +17,7 @@ How does computer process text,video,audio
 
 (本开源软件的授权是LGPL,没有担保)
 
-(2020-12-22 快照)
+(2021-07-22 更新)
 
 
     A, text , words
@@ -103,7 +103,7 @@ How does computer process text,video,audio
                   'download' directory is text download by offline browser .
                   run a-step10-f3-msys.bat (list directory)(in Ubuntu run a-step10-f3-ubuntu.bat)
                   run program in  'webfind_b' (step20)(copy to 'work_dir')(get text , erase html mark)
-                      (in this version, we kept 86 text file ,from stringbase000.txt to stringbase085.txt ,
+                      (in this version, we kept 200 text file ,from stringbase000000.txt to stringbase000199.txt ,
                        if you don't want download by a offline browser , you can start at next step(step30))
                   run program in  'webfind39' (step30)(copy to 'work_dir', include 'cb.txt' )(erase punctuation)
                   run program in  'webfind4a' (step40)(copy to 'work_dir')(erase empty line , repeated line)
@@ -202,7 +202,7 @@ How does computer process text,video,audio
                   download目录下是离线阅读器下载的文件
                   运行 a-step10-f3-msys.bat (在目录work_dir)(列出目录)(在Ubuntu下是a-step10-f3-ubuntu.bat)
                   运行 webfind_b 目录下的程序(step20)(拷贝到Work_dir)(提取文本)
-				(在这个版本里,保留了86个文本文件,从 stringbase000.txt 到 stringbase085.txt ,
+				(在这个版本里,保留了200个文本文件,从 stringbase000000.txt 到 stringbase000199.txt ,
                                  如果你不想用离线阅读器下载,可以直接从下一步开始,即从step30开始. )
                   运行 webfind39 目录下的程序(step30)(拷贝到work_dir,包括cb.txt )(去掉标点符号)
                   运行 webfind4a 目录下的程序(step40)(拷贝到work_dir)(去掉空行，重复的行)
@@ -268,7 +268,7 @@ How does computer process text,video,audio
             (highest one separate sentence by a word with 3 chinese, lower 
             ones may separate sentence by a word with 2 chinese or a word with
             1 chiness .) so there are thousands result , choose 
-            the 200 highest value ones , calculate its grammar value , add with
+            the 20 highest value ones , calculate its grammar value , add with
             its word value ,the highest value one is result.
 
         separate all text . 
@@ -277,10 +277,10 @@ How does computer process text,video,audio
 
         get repeat times of each grammar in grammar courseware .
 
-        after this step accuracy is about 92%
-        (in before,in step210 ,set param SPL1_OUT_NUM to 20,choose the 20 highest word value 
-            ones to calculate grammar value ,accuracy +1%,to 91%, now ,set param SPL1_OUT_NUM 
-            to 200,accuracy +2%,to 92% .)
+        after this step accuracy is about 91%
+        (in step210 ,set param SPL1_OUT_NUM to 20,choose the 20 highest word value 
+            ones to calculate grammar value ,accuracy +1%,to 91%, if you set param SPL1_OUT_NUM 
+            to 200,accuracy +2%,to 92% ,but need 10 times of time .)
 
         browse separated text(grm-base1-nnn.txt), if there is error , 
         then make relative courseware,
@@ -293,7 +293,7 @@ How does computer process text,video,audio
 
         (if you make grammar database by human separated text, don't need this step.)
 
-        after this step accuracy will be about 97%
+        after this step , I estimate accuracy will be about 97%
 
         source code:
 
@@ -335,10 +335,10 @@ How does computer process text,video,audio
                         (Sep 3rd 2020 version have better formula of super pipeline,add debug code to super 
                              pipeline,5 words grammar change to 4 words grammar, and have better punctuation 
                              proccess.)
-                        (Dec 22th 2020 snapshot: better looking source code, enabled grid computing,in before,
-                             in step210 ,set param SPL1_OUT_NUM to 20,choose the 20 highest word value ones 
-                             to calculate grammar value  ,accuracy +1%,to 91%,now ,set param SPL1_OUT_NUM 
-                             to 200, accuracy +2%,to 92% )
+                        (July 22th 2021 version: better looking source code, enabled grid computing,new setence 
+                             database,total 200 files ,in before,in step210 ,set param SPL1_OUT_NUM to 20,
+                             choose the 20 highest word value ones to calculate grammar value  ,accuracy +1%,
+                             to 91%, now ,set param SPL1_OUT_NUM to 200, accuracy +2%,to 92% . )
 
 
 
@@ -366,7 +366,7 @@ How does computer process text,video,audio
 
         把一句话按照词分解开来，不仅保留总体分数最大的，也保留分数较小的
            （用字数比较小的词分解一句话），这样可能的分解数量，短的句子
-            有30种可能，长的句子有2000种可能,选词分数最大的200个句子,计算它们
+            有30种可能，长的句子有2000种可能,选词分数最大的20个句子,计算它们
             的语法分数,然后和词的分数相加,分数最大的就是结果.
 
         用这种方法把所有的文本分解开来。
@@ -375,9 +375,9 @@ How does computer process text,video,audio
 
         计算语法课件重复次数,
 
-        到这个步骤时准确率约为92% 
-        (在以前，在 step210 ,参数 SPL1_OUT_NUM 设置为 20，也就是取20个词分数最大的去计算他们的语法分数，
-         准确率+1%,到 91%,现在把这个参数设为200，准确率+2%,到92%  .）
+        到这个步骤时准确率约为91% 
+        (在 step210 ,参数 SPL1_OUT_NUM 设置为 20，也就是取20个词分数最大的去计算他们的语法分数，
+         准确率+1%,到 91%,如果把这个参数设为200，准确率+2%,到92% ,但是需要10倍时间 .）
 
         浏览分解的文本(grm-base1-nnn.txt), 如果有错误, 制作相关课件,
         如果有错误:"战,,地;;" ,制作词课件 "战地"(在文件 words-cw02_sort.txt 中,如何
@@ -424,8 +424,9 @@ How does computer process text,video,audio
                                    2019-9-25版本是一个beta版本)
                         (2020-9-3  版本 改进了超级管道的数学公式,在超级管道中增加了调试代码,5个
                                    词的语法改为4个词的语法,改进了标点符号的处理)
-                        (2020-12-22快照: 源程序更漂亮，增加了网格计算功能，在以前，在 step210 ,参数 SPL1_OUT_NUM 
-                                   设置为 20，也就是取20个词分数最大的去计算他们的语法分数，准确率+1%,到 91%,现在把这
+                        (2021-7-22 版本: 源程序更漂亮，增加了网格计算功能，更新了语料库,总共200个文件,
+                                   在以前，在 step210 ,参数 SPL1_OUT_NUM 设置为 20，也就是取20个词
+                                   分数最大的去计算他们的语法分数，准确率+1%,到 91%,现在把这
                                    个参数设为200，准确率+2%,到92%。）
 
 

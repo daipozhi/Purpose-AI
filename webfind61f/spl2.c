@@ -290,7 +290,7 @@ long long int  t8_node_v_rp2[BTREE8_SIZE];
     //int   t8_dsp_list(void);
     //int   t8_save_list(char *fn);
 
-#define SPL1_OUT_NUM   200
+#define SPL1_OUT_NUM   20
 
 	char   spl1_out_str[SPL1_OUT_NUM][100][55];	// spl1 output
 	int    spl1_out_nns[SPL1_OUT_NUM][100];
@@ -398,14 +398,23 @@ long long int	      sff1,sff2,sff3,sff4;
 	for (u=0;u<spl1_out_seg[o];u++)
 	{
 		y=wd5_search(spl1_out_str[o][u]);
-		if (y!=1)
-		{
-			err2=1;
-			spl1_out_nns[o][u]=(-5);
-		}
-		else
+		//if (y!=1)
+                if (y==1)
 		{
 			spl1_out_nns[o][u]=wd5_find_ptr;
+		}
+                else
+		{
+			i2=cww1_number_is(spl1_out_str[o][u]);
+			if (i2==1)
+			{
+				spl1_out_nns[o][u]=(-3);
+                        }
+                        else
+                        {
+				err2=1;
+				spl1_out_nns[o][u]=(-5);
+			}
 		}
 	}
 
@@ -588,10 +597,9 @@ long long int	      sff1,sff2,sff3,sff4;
 
 	spl2_gid[spl2_ptr][0]=t4_find_ptr2;
 	spl2_gid_len[spl2_ptr][0]=1;
+
 	spl2_mr2[spl2_ptr][0]=0;
-
 	spl2_mrk[spl2_ptr]=1;
-
 	spl2_len[spl2_ptr]=1;
 	spl2_seg[spl2_ptr]=1;
 	spl2_val[spl2_ptr]=v3+ai_number[i3/2];
@@ -1001,6 +1009,7 @@ long long int	      sff1,sff2,sff3,sff4;
 			t4_insert_node(ns[0],ns[1],ns[2],ns[3],ns[4],ns[5]);
 
 			m101_p_cur =t4_find_ptr2;
+
 			m101_p_le2 =1;
 			m101_p_mr2 =0;
 

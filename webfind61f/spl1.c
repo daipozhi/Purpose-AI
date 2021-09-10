@@ -131,7 +131,7 @@ int  spl1_ptr;
 int  spl1_buf[60];  // check repeated string
 int  spl1_buf_ptr;
 
-#define SPL1_OUT_NUM   200
+#define SPL1_OUT_NUM   20
 
 	char   spl1_out_str[SPL1_OUT_NUM][100][55];	// output
 	int    spl1_out_nns[SPL1_OUT_NUM][100];

@@ -13,6 +13,9 @@
 char mc1;
 char mc2;
 char mc3;
+char mc4;
+char mc5;
+char mc6;
 
 long f1_init_ext(void);
 long f1_next_ext(void);
@@ -52,7 +55,7 @@ int main(void)
 	long  i,j,k,l;
 	char  s1[300];
 
-	MessageBox(0,"load stringbase000.txt,write to stringcase000.txt","message",MB_OK);
+	MessageBox(0,"load string1base000000.txt,write to string2punc000000.txt","message",MB_OK);
 
 	load_cb();
 
@@ -85,6 +88,10 @@ long f1_init_ext(void)
 	mc1='0';
 	mc2='0';
 	mc3='0';
+	mc4='0';
+	mc5='0';
+	mc6='0';
+
 	return(0);
 }
 
@@ -97,10 +104,24 @@ long f1_next_ext(void)
 		mc2++;
 		if (mc2>'9')
 		{
-			mc1='0';
 			mc2='0';
 			mc3++;
-			if (mc3>'9') return(1);
+			if (mc3>'9')
+            {
+    mc3='0';        
+	mc4++;
+	if (mc4>'9')
+	{
+		mc4='0';
+		mc5++;
+		if (mc5>'9')
+		{
+			mc5='0';
+			mc6++;
+			if (mc6>'9') return(1);
+        }
+    }
+            }
 		}
 	}
 
@@ -109,22 +130,28 @@ long f1_next_ext(void)
 
 long f1_get_fln1(char *s1)
 {
-	strcpy(s1,"stringcase   .txt");
+	strcpy(s1,"string2punc      .txt");
 
-	s1[10]=mc3;
-	s1[11]=mc2;
-	s1[12]=mc1;
+	s1[11]=mc6;
+	s1[12]=mc5;
+	s1[13]=mc4;
+	s1[14]=mc3;
+	s1[15]=mc2;
+	s1[16]=mc1;
 
 	return(0);
 }
 
 long f1_get_fln2(char *s1)
 {
-	strcpy(s1,"stringbase   .txt");
+	strcpy(s1,"string1base      .txt");
 
-	s1[10]=mc3;
-	s1[11]=mc2;
-	s1[12]=mc1;
+	s1[11]=mc6;
+	s1[12]=mc5;
+	s1[13]=mc4;
+	s1[14]=mc3;
+	s1[15]=mc2;
+	s1[16]=mc1;
 
 	return(0);
 }

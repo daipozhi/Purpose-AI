@@ -15,6 +15,9 @@
 char mc1;
 char mc2;
 char mc3;
+char mc4;
+char mc5;
+char mc6;
 
 int f1_init_ext(void);
 int f1_next_ext(void);
@@ -94,15 +97,12 @@ int ai_number_g(void);
 char init_c1;
 char init_c2;
 char init_c3;
+char init_c4;
+char init_c5;
+char init_c6;
 
 int  init_n1;
 int  init_n2;
-
-
-
-
-
-
 
 //int pascal WinMain(HINSTANCE ins
 //		  ,HINSTANCE pins
@@ -115,14 +115,20 @@ int main(int argc,char **argv)
       init_c1='0';
       init_c2='0';
       init_c3='0';
+      init_c4='0';
+      init_c5='0';
+      init_c6='0';
 
-      init_n1=1000;
+      init_n1=1000000;
     }
     else if (argc==3)
     {
-      init_c1=argv[1][2];
-      init_c2=argv[1][1];
-      init_c3=argv[1][0];
+      init_c1=argv[1][5];
+      init_c2=argv[1][4];
+      init_c3=argv[1][3];
+      init_c4=argv[1][2];
+      init_c5=argv[1][1];
+      init_c6=argv[1][0];
 
       init_n1=str2int(argv[2],strlen(argv[2])+1);
     }
@@ -132,7 +138,7 @@ int main(int argc,char **argv)
       return(0);
     }
 
-	MessageBoxNow(0,"load stringbase000.txt ,words01.txt ,words courseware, write to words-cw3-000.txt","message",MB_OK);
+	MessageBoxNow(0,"load string1base000000.txt ,words01.txt ,words courseware, write to words-cww3-000000.txt","message",MB_OK);
 
 	ai_number_g();
 
@@ -183,6 +189,9 @@ int f1_init_ext(void)
 	mc1=init_c1;
 	mc2=init_c2;
 	mc3=init_c3;
+	mc4=init_c4;
+	mc5=init_c5;
+	mc6=init_c6;
 
     init_n2=1;
 
@@ -198,10 +207,24 @@ int f1_next_ext(void)
 		mc2++;
 		if (mc2>'9')
 		{
-			mc1='0';
 			mc2='0';
 			mc3++;
-			if (mc3>'9') return(1);
+			if (mc3>'9')
+            {
+        mc3='0';
+	mc4++;
+	if (mc4>'9')
+	{
+		mc4='0';
+		mc5++;
+		if (mc5>'9')
+		{
+			mc5='0';
+			mc6++;
+			if (mc6>'9') return(1);
+                }
+        }
+            }
 		}
 	}
 
@@ -212,11 +235,14 @@ int f1_next_ext(void)
 
 int f1_get_fln(char *s1)
 {
-	strcpy(s1,"stringcase   .txt");
+	strcpy(s1,"string2punc      .txt");
 
-	s1[10]=mc3;
-	s1[11]=mc2;
-	s1[12]=mc1;
+	s1[11]=mc6;
+	s1[12]=mc5;
+	s1[13]=mc4;
+	s1[14]=mc3;
+	s1[15]=mc2;
+	s1[16]=mc1;
 
 	return(0);
 }
@@ -224,11 +250,14 @@ int f1_get_fln(char *s1)
 
 int f1_get_fln2(char *s1)
 {
-	strcpy(s1,"words-cw0-   .txt");
+	strcpy(s1,"words-cww0-      .txt");
 
-	s1[10]=mc3;
-	s1[11]=mc2;
-	s1[12]=mc1;
+	s1[11]=mc6;
+	s1[12]=mc5;
+	s1[13]=mc4;
+	s1[14]=mc3;
+	s1[15]=mc2;
+	s1[16]=mc1;
 
 	return(0);
 }
@@ -236,11 +265,14 @@ int f1_get_fln2(char *s1)
 
 int f1_get_fln3(char *s1)
 {
-	strcpy(s1,"stringbase000.txt");
+	strcpy(s1,"string1base      .txt");
 
-	s1[10]=mc3;
-	s1[11]=mc2;
-	s1[12]=mc1;
+	s1[11]=mc6;
+	s1[12]=mc5;
+	s1[13]=mc4;
+	s1[14]=mc3;
+	s1[15]=mc2;
+	s1[16]=mc1;
 
 	return(0);
 }
@@ -464,7 +496,7 @@ int frame_loop1(void)
 	
 
 	f1_get_fln2(m101_str5);
-	m101_str5[8]='2';
+	m101_str5[9]='2';
 
 	fp1=fopen(m101_str5,"r");
 	if (fp1==NULL)
@@ -477,7 +509,7 @@ int frame_loop1(void)
 	f1_get_fln2(m101_ss1);
 
 	strcpy(m101_ss2,m101_ss1);
-	m101_ss2[8]='3';
+	m101_ss2[9]='3';
 
 	m_fp1=fopen(m101_ss2,"w");
 	if (m_fp1==NULL)
@@ -744,7 +776,7 @@ int sent8wrt1(void)
 	char c1,s1[300];
 
 	f1_get_fln2(s1);
-	s1[8]='1';
+	s1[9]='1';
 
 	fp1=fopen(s1,"w");
 	if (fp1==NULL)
@@ -851,7 +883,7 @@ int sent9(void)
 	char s1[300];
 
 	f1_get_fln2(s1);
-	s1[8]='1';
+	s1[9]='1';
 
 	fp1=fopen(s1,"r");
 	if (fp1==NULL)
@@ -953,7 +985,7 @@ int sent9wrt1(void)
 	char s1[300];
 
 	f1_get_fln2(s1);
-	s1[8]='2';
+	s1[9]='2';
 
 	fp1=fopen(s1,"w");
 	if (fp1==NULL)

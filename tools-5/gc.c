@@ -97,21 +97,24 @@ int main(int argc,char **argv)
     fputs(" ",fp1);
 
     int2str(n6,str3,300);
-    for (i=1;i<3;i++) if (str3[7+i]==' ') str3[7+i]='0';
+    for (i=1;i<6;i++) if (str3[4+i]==' ') str3[4+i]='0';
 
-    str4[0]=str3[8];
-    str4[1]=str3[9];
-    str4[2]=str3[10];
-    str4[3]=0;
+    str4[0]=str3[5 ];
+    str4[1]=str3[6 ];
+    str4[2]=str3[7 ];
+    str4[3]=str3[8 ];
+    str4[4]=str3[9 ];
+    str4[5]=str3[10];
+    str4[6]=0;
 
     fputs(str4,fp1);
     fputs(" ",fp1);
 
     int2str(n5,str3,300);
-    j=7;
-    for (i=0;i<2;i++)
+    j=4;
+    for (i=0;i<5;i++)
     {
-      if (str3[8+i]==' ') j=8+i;
+      if (str3[5+i]==' ') j=5+i;
       else break;
     }
 
