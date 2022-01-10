@@ -10,6 +10,8 @@
 #include <stdio.h>
 #include <string.h>
 
+#include <sys/file.h>
+
 #define SMG_SIZE      300
 
 char mc1;
@@ -36,28 +38,16 @@ long long int str2llint(char *pstr);
 
 
 //------------------------------
-#define ARTI_LINE    2000000
+#define ARTI_LINE1    5000000
 
-/*
-char at5[ARTI_LINE][55];
-long long int at5_n[ARTI_LINE];
-int  at5_ptr;
-
-int  search_wd5(char *);
-int  load5(void);
-
-long long int find_n5;
-*/
-
-
-	 char wd5_buf[ARTI_LINE][55];
-long long int wd5_rt[ARTI_LINE];
+	 char wd5_buf[ARTI_LINE1][55];
+          int wd5_rt[ARTI_LINE1];
 	  int wd5_ptr;
 
 int  wd5_search(char *);
 int  wd5_load(void);
 
-long long int wd5_find_rt;
+int  wd5_find_rt;
 
 
 //------------------------------
@@ -65,28 +55,16 @@ long long int wd5_find_rt;
 
 
 //------------------------------
-//#define ARTI_LINE    1000000
+#define ARTI_LINE2    200000
 
-/*
-char at6[ARTI_LINE][55];
-long long int at6_n[ARTI_LINE];
-int  at6_ptr;
-
-int  search_wd6(char *);
-int  load6(void);
-
-long long int find_n6;
-*/
-
-
-	 char wd6_buf[ARTI_LINE][55];
-long long int wd6_rt[ARTI_LINE];
+	 char wd6_buf[ARTI_LINE2][55];
+          int wd6_rt[ARTI_LINE2];
 	  int wd6_ptr;
 
 int  wd6_search(char *);
 int  wd6_load(void);
 
-long long int wd6_find_rt;
+int  wd6_find_rt;
 
 
 //------------------------------
@@ -100,44 +78,16 @@ char init_c3;
 char init_c4;
 char init_c5;
 char init_c6;
-
+/*
 int  init_n1;
 int  init_n2;
-
+*/
 //int pascal WinMain(HINSTANCE ins
 //		  ,HINSTANCE pins
 //		  ,LPSTR cl
 //		  ,int show)
 int main(int argc,char **argv)
 {
-    if (argc==1)
-    {
-      init_c1='0';
-      init_c2='0';
-      init_c3='0';
-      init_c4='0';
-      init_c5='0';
-      init_c6='0';
-
-      init_n1=1000000;
-    }
-    else if (argc==3)
-    {
-      init_c1=argv[1][5];
-      init_c2=argv[1][4];
-      init_c3=argv[1][3];
-      init_c4=argv[1][2];
-      init_c5=argv[1][1];
-      init_c6=argv[1][0];
-
-      init_n1=str2int(argv[2],strlen(argv[2])+1);
-    }
-    else
-    {
-      printf("bad argument\n");
-      return(0);
-    }
-
 	MessageBoxNow(0,"load string1base000000.txt ,words01.txt ,words courseware, write to words-cww3-000000.txt","message",MB_OK);
 
 	ai_number_g();
@@ -164,7 +114,8 @@ int mproc(char *strpath)
 	char  s3[SMG_SIZE];
 	int   i;
 
-	f1_init_ext();
+	i=f1_init_ext();
+	if (i==1) return(0);
 
 	while(1)
 	{
@@ -178,13 +129,82 @@ int mproc(char *strpath)
 	return(0);
 }
 
+int f1_get_one(void)
+{
+  FILE *fp1;
+  int   i,j,eof;
+  char  str1[300];
+  char  str2[300];
 
 
+
+  fp1=fopen("a-step90.txt","r+");
+  if (fp1==NULL)
+  {
+    printf("open file error\n");
+    return(1);
+  }
+    
+  flock(fp1->_fileno, LOCK_EX);
+
+
+
+  i=0;
+  eof=0;
+  str2[0]='*';
+  str2[1]=0;
+
+  while (1)
+  {
+    fseek(fp1,i*8,SEEK_SET);
+    j=fread(str1,8,1,fp1);
+
+    if (j<1)
+    {
+      eof=1;
+      break;
+    }
+    if (str1[0]==' ')
+    {
+      fseek(fp1,i*8,SEEK_SET);
+      fwrite(str2,1,1,fp1);
+
+      init_c1=str1[ 6];
+      init_c2=str1[ 5];
+      init_c3=str1[ 4];
+      init_c4=str1[ 3];
+      init_c5=str1[ 2];
+      init_c6=str1[ 1];
+
+      break;
+    }
+    else i++;
+  }
+
+
+
+  flock(fp1->_fileno, LOCK_UN);
+
+  fclose(fp1);
+
+
+  if (eof==1) return(1);
+  else return(0);
+}
 
 int f1_init_ext(void)
 {
-	FILE *fp1;
-	char s1[300];
+	int i;
+
+	mc1='0';
+	mc2='0';
+	mc3='0';
+	mc4='0';
+	mc5='0';
+	mc6='0';
+
+	i=f1_get_one();
+	if (i!=0) return(1);
 
 	mc1=init_c1;
 	mc2=init_c2;
@@ -193,44 +213,24 @@ int f1_init_ext(void)
 	mc5=init_c5;
 	mc6=init_c6;
 
-    init_n2=1;
-
 	return(0);
 }
 
 int f1_next_ext(void)
 {
-	mc1++;
-	if (mc1>'9')
-	{
-		mc1='0';
-		mc2++;
-		if (mc2>'9')
-		{
-			mc2='0';
-			mc3++;
-			if (mc3>'9')
-            {
-        mc3='0';
-	mc4++;
-	if (mc4>'9')
-	{
-		mc4='0';
-		mc5++;
-		if (mc5>'9')
-		{
-			mc5='0';
-			mc6++;
-			if (mc6>'9') return(1);
-                }
-        }
-            }
-		}
-	}
+	int i;
 
-    init_n2++;
-    if (init_n2<=init_n1) return(0);
-    else return(1);
+	i=f1_get_one();
+	if (i!=0) return(1);
+
+	mc1=init_c1;
+	mc2=init_c2;
+	mc3=init_c3;
+	mc4=init_c4;
+	mc5=init_c5;
+	mc6=init_c6;
+
+	return(0);
 }
 
 int f1_get_fln(char *s1)
@@ -287,15 +287,15 @@ int f1_get_fln3(char *s1)
 		int  spl1_out_ptr;
 
 		//char spl1_str[SPL1_NUM][100][55];
-		int  spl1_sid[SPL1_NUM][100];
+		int  spl1_sid[SPL1_NUM][150];
 		char spl1_mrk[SPL1_NUM];
 		int  spl1_val[SPL1_NUM];
 long long 	int  spl1_rpt[SPL1_NUM];
 		int  spl1_len[SPL1_NUM];
-		char spl1_seg[SPL1_NUM];
+		int  spl1_seg[SPL1_NUM];
 		int  spl1_ptr;
 
-		char spl1_mr2[SPL1_NUM][100];
+		char spl1_mr2[SPL1_NUM][150];
 		int  spl1_va2[SPL1_NUM];
 long long 	int  spl1_rp2[SPL1_NUM];
 
@@ -303,10 +303,10 @@ int  spl1_buf[60];  // check repeated string
 int  spl1_buf_ptr;
 
 // notice tree 2(t2)
-#define TREE2_SIZE_B 4000
+#define TREE_SIZE_B 4000
 int   t2_find_ptr2;
 int   t2_buff_ptr;
-char  t2_node_val[TREE2_SIZE_B][55];
+char  t2_node_val[TREE_SIZE_B][55];
 
 int   t2_search_node(char *pstr);
 int   t2_insert_node(char *pstr);
@@ -366,14 +366,14 @@ int   t2_insert_node(char *pstr);
     long long int   t4_node_val[BTREE4_SIZE][4];
     int   t4_node_va2[BTREE4_SIZE];
 
-	  int  t4_node_v_sid[BTREE4_SIZE][100];
+	  int  t4_node_v_sid[BTREE4_SIZE][150];
 	  char t4_node_v_mrk[BTREE4_SIZE];
 	  int  t4_node_v_val[BTREE4_SIZE];
 long long int  t4_node_v_rpt[BTREE4_SIZE];
 	  int  t4_node_v_len[BTREE4_SIZE];
-	  char t4_node_v_seg[BTREE4_SIZE];
+	  int  t4_node_v_seg[BTREE4_SIZE];
 
-	  char t4_node_v_mr2[BTREE4_SIZE][100];
+	  char t4_node_v_mr2[BTREE4_SIZE][150];
 	  int  t4_node_v_va2[BTREE4_SIZE];
 long long int  t4_node_v_rp2[BTREE4_SIZE];
     
@@ -488,6 +488,7 @@ int frame_loop1(void)
 
 	strcpy(m101_s2,m101_s1);
 	
+
 	i=trans1(m101_s2);
 	if (i!=0) return(1);
 
@@ -606,16 +607,7 @@ int out_put_seg(int ptr)
 	return(0);
 }
 
-
-
-
-
 #define SENT_LEN         2000000
-#define SENT_LEN2        300
-#define SENT_NUM         200000
-
-char load8[SENT_NUM][SENT_LEN2];
-long load8_l;
 
 char sent_s[SENT_LEN];
 char sent_s2[SENT_LEN];
@@ -628,23 +620,20 @@ int trans1(char *pfn)
 {
 	int i;
 
-	load8_l=0;
-
 	i=sent8(pfn);
 	if (i!=0) return(1);
-
-	sent8wrt1();
 
 	return(0);
 }
 
 int sent8(char *fln)
 {
-	FILE *fp1;
+	FILE *fp1,*fp2;
 	int  i,j,k,l;
     	int  p1;
 	int  num;
 	char str[300];
+	char s1[300];
 	//char str2[20000];
 
 	fp1=fopen(fln,"r");
@@ -652,6 +641,16 @@ int sent8(char *fln)
 	{
 		MessageBoxNow(0,fln,"message open file error",MB_OK);
 		return(1);
+	}
+
+	f1_get_fln2(s1);
+	s1[9]='1';
+
+	fp2=fopen(s1,"w");
+	if (fp2==NULL)
+	{
+		MessageBoxNow(0,s1,"message open file error",MB_OK);
+		return(0);
 	}
 
 	while(!feof(fp1))
@@ -701,7 +700,9 @@ int sent8(char *fln)
 						sent_s2[k-p1+1]=0;
 					  }
 
-					  sent8add2(sent_s2);
+					  //sent8add2(sent_s2);
+					  fputs(sent_s2,fp2);
+					  fputs("\n",fp2);
 
 					  i++;
 					  p1=i;
@@ -729,7 +730,9 @@ int sent8(char *fln)
 						sent_s2[k-p1+1]=0;
 					}
 
-					sent8add2(sent_s2);
+					//sent8add2(sent_s2);
+					fputs(sent_s2,fp2);
+					fputs("\n",fp2);
 
 					i=i+2;
 					p1=i;
@@ -745,10 +748,11 @@ int sent8(char *fln)
 	}
 
 	fclose(fp1);
+	fclose(fp2);
 
 	return(0);
 }
-
+/*
 int sent8add2(char *str)
 {
   	int  i,j,k;
@@ -768,7 +772,8 @@ int sent8add2(char *str)
 
 	return(0);
 }
-
+*/
+/*
 int sent8wrt1(void)
 {
 	FILE *fp1;
@@ -797,13 +802,12 @@ int sent8wrt1(void)
 
 	return(0);
 }
-
-
+*/
 int load_cb(void)
 {
-    FILE *fp1;
-    int   i,j,k;
-    char  str[300];
+	FILE *fp1;
+	int   i,j,k;
+	char  str[300];
 
 	fp1=fopen("cb.txt","r");
 	if (fp1==NULL)
@@ -838,6 +842,8 @@ int load_cb(void)
 
 	fclose(fp1);
 
+	printf("load_cb():total %d punctuation,\n",sent_cb_ptr);
+
 	return(0);
 
 }
@@ -853,23 +859,51 @@ int sent_cb_in(char *str)
 	return(0);
 }
 
-int t1_search_node(char *);
-int t1_insert_node(char *);
-int t1_init_tree2(void);
+#define TREE_SIZE_A 400000
+#define LIST_SIZE_A  40000
 
+    char  t1_node_mark[TREE_SIZE_A];
+    char  t1_node_val[TREE_SIZE_A][300];
+
+    int   t1_node_ptr[TREE_SIZE_A][3];
+    int   t1_root_ptr;
+    int   t1_buff_ptr;
+    
+    int   t1_find_ptr;
+    int   t1_find_ptr2;
+    int   t1_find_side;
+    
+    int   t1_list_stack[LIST_SIZE_A];
+    char  t1_list_stack_type[LIST_SIZE_A];
+    int   t1_list_ptr;
+/*
+    char  t1_out_buff[TREE_SIZE_A][300];
+*/
+    int   t1_out_ptr;
+
+    int   t1_init_tree2(void);
+    int   t1_new_node(void);
+    int   t1_clear_node(int ptr);
+    int   t1_search_node(char *pstr);
+    int   t1_insert_node(char *pstr);
+    int   t1_dsp_tree2(void);
+    int   t1_after_list(void);
+    int   t1_out_list(char *pstr,int ,int);
+    int   t1_dsp_list(void);
+    int   t1_save_list(char *fn);
+/*
 char load9[SENT_NUM][SENT_LEN2];
 int  load9_l;
-
+*/
 int trans2(void)
 {
 	int i;
 
-	load9_l=0;
+	//load9_l=0;
 
        	t1_init_tree2();
 
-	i=sent9();
-	if (i!=0) return(1);
+	sent9();
 
 	sent9wrt1();
 
@@ -928,16 +962,15 @@ int sent9(void)
 
 		string_e_space(sent_s);
 
-		i=sent9in1();
-
-		if (i==0) sent9add2();
+		//sent9in1();
+		t1_insert_node(sent_s);
 	}
 
 	fclose(fp1);
 
 	return(0);
 }
-
+/*
 int sent9in1(void)
 {
   	int  i,j,k;
@@ -945,19 +978,12 @@ int sent9in1(void)
 
 	if ((int)strlen(sent_s)>=300) return(1);
 
-	i=t1_search_node(sent_s);
-
-	if (i==1)
-	{
-		t1_insert_node(sent_s);
-		return(0);
-	}
-	else
-	{
-		return(1);
-	}
+	t1_insert_node(sent_s);
+	
+	return(0);
 }
-
+*/
+/*
 int sent9add2(void)
 {
   	int  i,j,k;
@@ -976,7 +1002,7 @@ int sent9add2(void)
 
 	return(0);
 }
-
+*/
 int sent9wrt1(void)
 {
 	FILE *fp1;
@@ -990,13 +1016,13 @@ int sent9wrt1(void)
 	fp1=fopen(s1,"w");
 	if (fp1==NULL)
 	{
-		MessageBoxNow(0,"open file words-cw000.tmp2.txt fail ","message",MB_OK);
+		MessageBoxNow(0,"open file words-cww2-000000.txt fail ","message",MB_OK);
 		return(0);
 	}
 
-	for (k=0;k<load9_l;k++)
+	for (k=0;k<t1_buff_ptr;k++)
 	{
-		fputs(load9[k],fp1);
+		fputs(t1_node_val[k],fp1);
 		fputs("\n",fp1);
 	}
 
@@ -1036,6 +1062,8 @@ int wd5_load(void)
 
 	f1_get_fln4(m401_s1);
 
+	printf("wd5_load():%s,",m401_s1);
+
 	fp1=fopen(m401_s1,"r");
 	if (fp1==NULL)
 	{
@@ -1053,7 +1081,9 @@ int wd5_load(void)
 		}
 
 		fgets(m401_l1,SMG_SIZE,fp1);
-	
+
+		if (feof(fp1)) break;	
+
 		k=0;
 		ptr=0;
 		i=0;
@@ -1116,12 +1146,20 @@ int wd5_load(void)
 			}
 		}
 
+		if ((int)strlen(m401_l2)<1 ) continue;
 		if ((int)strlen(m401_l2)>50) continue;
+
+		if ( (wd5_ptr<0)||(wd5_ptr>=ARTI_LINE1) )
+		{
+			printf("ARTI_LINE1 too small\n");
+			continue;
+		}
 
 		strcpy(wd5_buf[wd5_ptr],m401_l2);
 
 		wd5_rt[wd5_ptr]=str2llint(m401_l3);
 
+		// --- test
 		//sprintf(m401_s2,"ptr=%d,word=%s,rpt=%lld,",wd5_ptr,wd5_buf[wd5_ptr],wd5_rt[wd5_ptr]);
 
 		//str_gb18030_to_utf8_ini();
@@ -1142,6 +1180,8 @@ int wd5_load(void)
 	}
 
 	fclose(fp1);
+
+	printf("total %d words,\n",wd5_ptr);
 
 	return(0);
 }
@@ -1184,7 +1224,9 @@ int wd6_load(void)
 
 	wd6_ptr=0;
 
-	strcpy(m501_s1,"words-cw02_sort.txt");
+	strcpy(m501_s1,"words-cw02.sort.txt");
+
+	printf("wd6_load():%s,",m501_s1);
 
 	fp1=fopen(m501_s1,"r");
 	if (fp1==NULL)
@@ -1207,9 +1249,18 @@ int wd6_load(void)
 		//	else break;
 		//}
 
+		if (feof(fp1)) break;
+
 		string_trim(m501_l1);
 
+		if ((int)strlen(m501_l1)<1 ) continue;
 		if ((int)strlen(m501_l1)>50) continue;
+
+		if (  (wd6_ptr<0)||(wd6_ptr>=ARTI_LINE2)  )
+		{
+			printf(" ARTI_LINE2 too small\n");
+			continue;
+		}
 
 		strcpy(wd6_buf[wd6_ptr],m501_l1);
 
@@ -1236,6 +1287,8 @@ int wd6_load(void)
 
 	fclose(fp1);
 
+	printf("total %d words,\n",wd6_ptr);
+
 	return(0);
 }
 
@@ -1255,6 +1308,7 @@ int wd5_search(char *s_str)
 	while(1)
 	{
 		i=(p1+p2)/2;
+		if ( (i<0)||(i>=wd5_ptr)||(i>=ARTI_LINE1) ) return(0);
 		if (i<=p1)
 		{
 			j=strcmp(wd5_buf[i],s_str);
@@ -1332,6 +1386,7 @@ int wd6_search(char *s_str)
 	while(1)
 	{
 		i=(p1+p2)/2;
+		if ( (i<0)||(i>=wd6_ptr)||(i>=ARTI_LINE2) ) return(0);
 		if (i<=p1)
 		{
 			j=strcmp(wd6_buf[i],s_str);

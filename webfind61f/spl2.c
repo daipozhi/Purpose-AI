@@ -54,58 +54,59 @@ int  ai_number[151];
 FILE *m_fp1;
 
 //------------------------------
-#define ARTI_LINE    2000000
+#define ARTI_LINE1    2000000
+#define ARTI_LINE2    200000
 
-/*
-char at5[ARTI_LINE][55];
-long long int at5_n[ARTI_LINE];
-int  at5_ptr;
-
-int  search_wd5(char *);
-int  load5(void);
-
-long long int find_n5;
-int 	      find_m5;
-*/
-
-	 char wd5_buf[ARTI_LINE][55];
-long long int wd5_rt[ARTI_LINE];
+	 char wd5_buf[ARTI_LINE1][55];
+          int wd5_rt[ARTI_LINE1];
 	  int wd5_ptr;
 
 int  wd5_search(char *);
 int  wd5_load(void);
 
-long long int wd5_find_rt;
+int           wd5_find_rt;
 int 	      wd5_find_ptr;
 
 //------------------------------
 
-
-
-//------------------------------
-//#define ARTI_LINE    1000000
-
-/*
-char at6[ARTI_LINE][55];
-long long int at6_n[ARTI_LINE];
-int  at6_ptr;
-
-int  search_wd6(char *);
-int  load6(void);
-
-long long int find_n6;
-*/
-
-	 char wd6_buf[ARTI_LINE][55];
-long long int wd6_rt[ARTI_LINE];
+	 char wd6_buf[ARTI_LINE2][55];
+          int wd6_rt[ARTI_LINE2];
 	  int wd6_ptr;
 
 int  wd6_search(char *);
 int  wd6_load(void);
 
-long long int wd6_find_rt;
+          int wd6_find_rt;
 
 //------------------------------
+
+
+
+#define GRM_NUM1 25000000
+
+int grm15_buf[GRM_NUM1][4];
+int grm15_rt[GRM_NUM1];
+int grm15_ptr;
+
+int grm15_search(int,int,int,int);
+int grm15_load(void);
+
+int grm15_find_rt;
+int grm15_find_ptr;
+
+
+#define GRM_NUM2 100000
+
+int grm16_buf[GRM_NUM2][6];
+int grm16_rt[GRM_NUM2];
+int grm16_ptr;
+
+int grm16_search(int,int,int,int,int,int);
+int grm16_load(void);
+
+int grm16_find_rt;
+int grm16_find_ptr;
+
 
 
 int  grm10_ptr1[6];
@@ -116,14 +117,14 @@ char grm10_mrk[6][20][10];
 #define SPL2_MAX_NUM 2000
 #define SPL2_DEBUG   0
 
-int  spl2_gid[SPL2_NUM][100];
-char spl2_gid_len[SPL2_NUM][100];
-char spl2_mr2[SPL2_NUM][100];
+int  spl2_gid[SPL2_NUM][150];
+char spl2_gid_len[SPL2_NUM][150];
+char spl2_mr2[SPL2_NUM][150];
 
 char spl2_mrk[SPL2_NUM];
 
 int  spl2_len[SPL2_NUM];
-char spl2_seg[SPL2_NUM];
+int  spl2_seg[SPL2_NUM];
 int  spl2_val[SPL2_NUM];
 long long int  spl2_rpt[SPL2_NUM];
 
@@ -134,11 +135,11 @@ int  spl2_ptr;
 int  spl2_ptr2;
 
 int  spl2_out_type;
-char spl2_out_str[100][55];
-char spl2_out_mrk[100];
-int  spl2_out_nns[100][6];
-char spl2_out_mr2[100][6];
-char spl2_out_len[100];
+char spl2_out_str[150][55];
+char spl2_out_mrk[150];
+int  spl2_out_nns[150][6];
+char spl2_out_mr2[150][6];
+char spl2_out_len[150];
 
 int  spl2_out_seg;
 
@@ -152,31 +153,13 @@ long long int  spl2_out_ff2;
 long long int  spl2_out_ff3;
 long long int  spl2_out_ff4;
 
-// tree 1 (t1) grammar cw 
-#define TREE2_SIZE 1000000
-#define LIST_SIZE  100000
-
-int   t1_node_val2[TREE2_SIZE];
-int   t1_find_ptr;
-
-int   t1_search_node(int pn1,int pn2,int pn3,int pn4,int pn5,int pn6);
-
-// tree 3 (t3) grammar database
-#define TREE2_SIZE_C 10000000
-#define LIST_SIZE_C  1000000
-
-int   t3_node_val2[TREE2_SIZE_C];
-int   t3_find_ptr;
-
-int   t3_search_node(int pn1,int pn2,int pn3,int pn4/*,int pn5*/);
-
 // tree 4 (t4) grammar buffer
-#define TREE2_SIZE_D 5000
+#define TREE_SIZE_D  5000
 #define LIST_SIZE_D  5000
 
 int   t4_find_ptr2;
 int   t4_buff_ptr;
-int   t4_node_val[TREE2_SIZE][6];
+int   t4_node_val[TREE_SIZE_D][6];
 
 int   t4_search_node(int pn1,int pn2,int pn3,int pn4,int pn5,int pn6);
 int   t4_insert_node(int pn1,int pn2,int pn3,int pn4,int pn5,int pn6);
@@ -237,14 +220,14 @@ int   t4_insert_node(int pn1,int pn2,int pn3,int pn4,int pn5,int pn6);
     long long int   t8_node_val[BTREE8_SIZE][4];
     int   t8_node_va2[BTREE8_SIZE];
 
-	  int  t8_node_v_gid[BTREE8_SIZE][100];
-	  char t8_node_v_gid_len[BTREE8_SIZE][100];
-	  char t8_node_v_mr2[BTREE8_SIZE][100];
+	  int  t8_node_v_gid[BTREE8_SIZE][150];
+	  char t8_node_v_gid_len[BTREE8_SIZE][150];
+	  char t8_node_v_mr2[BTREE8_SIZE][150];
 
 	  char t8_node_v_mrk[BTREE8_SIZE];
 
 	  int  t8_node_v_len[BTREE8_SIZE];
-	  char t8_node_v_seg[BTREE8_SIZE];
+	  int  t8_node_v_seg[BTREE8_SIZE];
 	  int  t8_node_v_val[BTREE8_SIZE];
 long long int  t8_node_v_rpt[BTREE8_SIZE];
 
@@ -292,9 +275,9 @@ long long int  t8_node_v_rp2[BTREE8_SIZE];
 
 #define SPL1_OUT_NUM   20
 
-	char   spl1_out_str[SPL1_OUT_NUM][100][55];	// spl1 output
-	int    spl1_out_nns[SPL1_OUT_NUM][100];
-	char   spl1_out_mrk[SPL1_OUT_NUM][100];
+	char   spl1_out_str[SPL1_OUT_NUM][150][55];	// spl1 output
+	int    spl1_out_nns[SPL1_OUT_NUM][150];
+	char   spl1_out_mrk[SPL1_OUT_NUM][150];
 
 	int    spl1_out_val[SPL1_OUT_NUM];
 long long int  spl1_out_va2[SPL1_OUT_NUM];
@@ -458,8 +441,8 @@ long long int	      sff1,sff2,sff3,sff4;
 			}
 		}
 
-		nn=t1_search_node(ns[0],ns[1],ns[2],ns[3],ns[4],ns[5]);
-		if (nn==0)
+		nn=grm16_search(ns[0],ns[1],ns[2],ns[3],ns[4],ns[5]);
+		if (nn==1)
 		{
 			t4_insert_node(ns[0],ns[1],ns[2],ns[3],ns[4],ns[5]);
 
@@ -477,7 +460,7 @@ long long int	      sff1,sff2,sff3,sff4;
 	        	if (i>=l) spl2_mrk[spl2_ptr]=2;
 
 			spl2_va2[spl2_ptr]=v1+ai_number[i3/2];
-			spl2_rp2[spl2_ptr]=v2+t1_node_val2[t1_find_ptr]*(i3/2);    // repeat times x len
+			spl2_rp2[spl2_ptr]=v2+grm16_find_rt*(i3/2);    // repeat times x len
 
 			if (SPL2_DEBUG)
 			{
@@ -536,10 +519,10 @@ long long int	      sff1,sff2,sff3,sff4;
 			ns[4]=(-1);
 			ns[5]=(-1);
 
-			nn=t3_search_node(ns[0],ns[1],ns[2],ns[3]/*,(-1)*//*ns[4]*/);
-			if (nn==0)
+			nn=grm15_search(ns[0],ns[1],ns[2],ns[3]);
+			if (nn==1)
 			{
-				t4_insert_node(ns[0],ns[1],ns[2],ns[3],(-1)/*ns[4]*/,(-1)/*ns[5]*/);
+				t4_insert_node(ns[0],ns[1],ns[2],ns[3],(-1),(-1));
 
 				spl2_gid[spl2_ptr][0]=t4_find_ptr2;
 				spl2_gid_len[spl2_ptr][0]=i;
@@ -550,7 +533,7 @@ long long int	      sff1,sff2,sff3,sff4;
 				spl2_len[spl2_ptr]=i;
 				spl2_seg[spl2_ptr]=1;
 				spl2_val[spl2_ptr]=v3+ai_number[i3/2];
-				spl2_rpt[spl2_ptr]=v4+t3_node_val2[t3_find_ptr]*(i3/2);    // repeat times x len
+				spl2_rpt[spl2_ptr]=v4+grm15_find_rt*(i3/2);    // repeat times x len
 
 		        	if (i>=l) spl2_mrk[spl2_ptr]=2;
 
@@ -753,10 +736,11 @@ long long int	      sff1,sff2,sff3,sff4;
 			m101_p_va2=spl2_va2[n];
 			m101_p_rp2=spl2_rp2[n];
 
-			if (m101_p_seg>=100)
+			if (m101_p_seg>=150)
 			{
-				err=1;
-				break;
+				//err=1;
+				//break;
+				continue;
 			}
 
 			for (i=6;i>=2;i--)     // bigger ones at first  // add grammar in grammar courseware
@@ -786,8 +770,8 @@ long long int	      sff1,sff2,sff3,sff4;
 					}
 				}
 
-				nn=t1_search_node(ns[0],ns[1],ns[2],ns[3],ns[4],ns[5]);
-				if (nn==0)
+				nn=grm16_search(ns[0],ns[1],ns[2],ns[3],ns[4],ns[5]);
+				if (nn==1)
 				{
 					t4_insert_node(ns[0],ns[1],ns[2],ns[3],ns[4],ns[5]);
 
@@ -805,13 +789,13 @@ long long int	      sff1,sff2,sff3,sff4;
 					if (m101_p_len+i>=l) m101_p_mrk=2;
 
 					m101_p_va2_add=ai_number[i3/2];
-					m101_p_rp2_add=t1_node_val2[t1_find_ptr]*(i3/2);
+					m101_p_rp2_add=grm16_find_rt*(i3/2);
 
 					//j7=0;
 					//for (j6=0;j6<m101_p_len;j6++)	j7=j7+(int)strlen(spl1_out_str[o][j6]);
 
-					m101_p_ff1=((m101_p_va2+                ai_number[i3/2])*1000)/(m101_p_seg+m101_p_seg_add)/*(m101_p_len+i)*/;
-					m101_p_ff2=((m101_p_rp2+t1_node_val2[t1_find_ptr]*(i3/2))*1000)/(m101_p_seg+m101_p_seg_add)/*(m101_p_len+i)*/;
+					m101_p_ff1=((m101_p_va2+     ai_number[i3/2])*1000)/(m101_p_seg+m101_p_seg_add)/*(m101_p_len+i)*/;
+					m101_p_ff2=((m101_p_rp2+grm16_find_rt*(i3/2))*1000)/(m101_p_seg+m101_p_seg_add)/*(m101_p_len+i)*/;
 					m101_p_ff3=(m101_p_val*1000)/(m101_p_seg+m101_p_seg_add)/*(m101_p_len+i)*/;
 					m101_p_ff4=(m101_p_rpt*1000)/(m101_p_seg+m101_p_seg_add)/*(m101_p_len+i)*/;
 
@@ -839,7 +823,7 @@ long long int	      sff1,sff2,sff3,sff4;
 	        			if (p+i>=l) spl2_mrk[spl2_ptr]=2;
 
 					spl2_va2[spl2_ptr]=v+ai_number[i3/2];
-					spl2_rp2[spl2_ptr]=w+t1_node_val2[t1_find_ptr]*(i3/2);    // repeat times x len
+					spl2_rp2[spl2_ptr]=w+grm16_find_rt*(i3/2);    // repeat times x len
 */
 					if (SPL2_DEBUG)
 					{
@@ -907,10 +891,10 @@ long long int	      sff1,sff2,sff3,sff4;
 					ns[4]=(-1);
 					ns[5]=(-1);
 
-					nn=t3_search_node(ns[0],ns[1],ns[2],ns[3]/*,(-1)*//*ns[4]*/);
-					if (nn==0)
+					nn=grm15_search(ns[0],ns[1],ns[2],ns[3]);
+					if (nn==1)
 					{
-						t4_insert_node(ns[0],ns[1],ns[2],ns[3],(-1)/*ns[4]*/,(-1)/*ns[5]*/);
+						t4_insert_node(ns[0],ns[1],ns[2],ns[3],(-1),(-1));
 
 						m101_p_cur =t4_find_ptr2;
 						m101_p_le2 =i;
@@ -921,7 +905,7 @@ long long int	      sff1,sff2,sff3,sff4;
 						m101_p_len_add=i;
 						m101_p_seg_add=1;
 						m101_p_val_add=ai_number[i3/2];
-						m101_p_rpt_add=t3_node_val2[t3_find_ptr]*(i3/2);
+						m101_p_rpt_add=grm15_find_rt*(i3/2);
 
 						if (m101_p_len+i>=l) m101_p_mrk=2;
 
@@ -933,8 +917,8 @@ long long int	      sff1,sff2,sff3,sff4;
 
 						m101_p_ff1=(m101_p_va2*1000)/(m101_p_seg+m101_p_seg_add)/*(m101_p_len+i)*/;
 						m101_p_ff2=(m101_p_rp2*1000)/(m101_p_seg+m101_p_seg_add)/*(m101_p_len+i)*/;
-						m101_p_ff3=((m101_p_val+                ai_number[i3/2])*1000)/(m101_p_seg+m101_p_seg_add)/*(m101_p_len+i)*/;
-						m101_p_ff4=((m101_p_rpt+t3_node_val2[t3_find_ptr]*(i3/2))*1000)/(m101_p_seg+m101_p_seg_add)/*(m101_p_len+i)*/;
+						m101_p_ff3=((m101_p_val+     ai_number[i3/2])*1000)/(m101_p_seg+m101_p_seg_add)/*(m101_p_len+i)*/;
+						m101_p_ff4=((m101_p_rpt+grm15_find_rt*(i3/2))*1000)/(m101_p_seg+m101_p_seg_add)/*(m101_p_len+i)*/;
 
 						spl2_add_to_tree(o);
 /*
@@ -954,7 +938,7 @@ long long int	      sff1,sff2,sff3,sff4;
 						spl2_len[spl2_ptr]=p+i;
 						spl2_seg[spl2_ptr]=r+1;
 						spl2_val[spl2_ptr]=q+ai_number[i3/2];
-						spl2_rpt[spl2_ptr]=t+t3_node_val2[t3_find_ptr]*(i3/2);    // repeat times x len
+						spl2_rpt[spl2_ptr]=t+grm15_find_rt*(i3/2);    // repeat times x len
 
 				        	if (p+i>=l) spl2_mrk[spl2_ptr]=2;
 

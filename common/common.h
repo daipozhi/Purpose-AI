@@ -39,3 +39,5 @@ int deb_upper_string(char *p_instr);
 
 int  ai_number[151];
 
+long long int str2llint(char *pstr);
+

@@ -138,7 +138,7 @@ int t7_old_node(int ptr)
 {
    if (t7_stack_ptr>=BTREE7_SIZE)
    {
-     MessageBoxNow(0,"In btree3,error at tn_old_node()","message",MB_OK);
+     MessageBoxNow(0,"In btree7,error at tn_old_node()","message",MB_OK);
      return(-1);
    }
    else
@@ -272,7 +272,7 @@ int t7_insert_node(long long int pn1,long long int pn2,long long int pn3,long lo
       j=t7_new_node();
       if (j<0)
       {
-        MessageBoxNow(0,"In btree3,error at insert_node() when call new_node()","message",MB_OK);
+        MessageBoxNow(0,"In btree7,error at insert_node() when call new_node()","message",MB_OK);
         return(1);
       }
       else
@@ -294,7 +294,7 @@ int t7_insert_node(long long int pn1,long long int pn2,long long int pn3,long lo
       j=t7_new_node();
       if (j<0)
       {
-        MessageBoxNow(0,"In btree3,error at insert_node() when call new_node()","message",MB_OK);
+        MessageBoxNow(0,"In btree7,error at insert_node() when call new_node()","message",MB_OK);
         return(1);
       }
       else
@@ -605,7 +605,7 @@ int t7_after_list(void)
         //sprintf(str1,"add left tree %s,list_ptr=%d,",node_val[node_ptr[k][1]],list_ptr);
         if (t7_list_ptr>=BTREE7_LSIZE)
         {
-          MessageBoxNow(0,"In btree3,error in after_list(),BTREE7_LSIZE too small.","message",MB_OK);
+          MessageBoxNow(0,"In btree7,error in after_list(),BTREE7_LSIZE too small.","message",MB_OK);
           continue;
         }
       }
@@ -617,7 +617,7 @@ int t7_after_list(void)
       //sprintf(str1,"add mid tree %s,list_ptr=%d,",node_val[k],list_ptr);
       if (t7_list_ptr>=BTREE7_LSIZE)
       {
-        MessageBoxNow(0,"In btree3,error in after_list(),BTREE7_LSIZE too small.","message",MB_OK);
+        MessageBoxNow(0,"In btree7,error in after_list(),BTREE7_LSIZE too small.","message",MB_OK);
         continue;
       }
 
@@ -630,7 +630,7 @@ int t7_after_list(void)
         //sprintf(str1,"add right tree %s,list_ptr=%d,",node_val[node_ptr[k][2]],list_ptr);
         if (t7_list_ptr>=BTREE7_LSIZE)
         {
-          MessageBoxNow(0,"In btree3,error in after_list(),BTREE7_LSIZE too small.","message",MB_OK);
+          MessageBoxNow(0,"In btree7,error in after_list(),BTREE7_LSIZE too small.","message",MB_OK);
           continue;
         }
       }

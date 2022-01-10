@@ -44,17 +44,17 @@ int deb_upper_string(char *p_instr);
 #include <stdio.h>
 
 
-#define TREE2_SIZE_C 2000000
+#define TREE_SIZE_C 2000000
 #define LIST_SIZE_C  200000
 
-    char  t3_node_mark[TREE2_SIZE_C];
-    char  t3_node_val[TREE2_SIZE_C][55];
-    long long int t3_node_val2[TREE2_SIZE_C];
-
-    int   t3_node_val3[TREE2_SIZE_C][5][3];
-    int   t3_node_val3_ptr[TREE2_SIZE_C];
-
-    int   t3_node_ptr[TREE2_SIZE_C][3];
+    char  t3_node_mark[TREE_SIZE_C];
+    char  t3_node_val[TREE_SIZE_C][55];
+    int   t3_node_val2[TREE_SIZE_C];
+/*
+    int   t3_node_val3[TREE_SIZE_C][5][3];
+    int   t3_node_val3_ptr[TREE_SIZE_C];
+*/
+    int   t3_node_ptr[TREE_SIZE_C][3];
     int   t3_root_ptr;
     int   t3_buff_ptr;
     
@@ -66,12 +66,12 @@ int deb_upper_string(char *p_instr);
     char  t3_list_stack_type[LIST_SIZE_C];
     int   t3_list_ptr;
 
-    char  t3_out_buff[TREE2_SIZE_C][55];
-    long long int t3_out_buff2[TREE2_SIZE_C];
-
-    int   t3_out_buff3[TREE2_SIZE_C][5][3];
-    int   t3_out_buff3_ptr[TREE2_SIZE_C];
-
+    char  t3_out_buff[TREE_SIZE_C][55];
+    int   t3_out_buff2[TREE_SIZE_C];
+/*
+    int   t3_out_buff3[TREE_SIZE_C][5][3];
+    int   t3_out_buff3_ptr[TREE_SIZE_C];
+*/
     int   t3_out_ptr;
 
     int   t3_init_tree2(void);
@@ -81,14 +81,14 @@ int deb_upper_string(char *p_instr);
     int   t3_insert_node(char *pstr);
     int   t3_dsp_tree2(void);
     int   t3_after_list(void);
-    int   t3_out_list(char *pstr,long long int ,int);
+    int   t3_out_list(char *pstr,int ,int);
     int   t3_dsp_list(void);
     int   t3_save_list(char *fn);
 
 int /*tree2::*/t3_init_tree2(void)
 {
   int i,j;
-  for (i=0;i<TREE2_SIZE_C;i++)
+  for (i=0;i<TREE_SIZE_C;i++)
   {
     t3_node_mark[i]=(-1);
   }
@@ -103,7 +103,7 @@ int /*tree2::*/t3_new_node(void)
 
   i=(-1);
 
-  if ((t3_buff_ptr<TREE2_SIZE_C)&&(t3_node_mark[t3_buff_ptr]<0))
+  if ((t3_buff_ptr<TREE_SIZE_C)&&(t3_node_mark[t3_buff_ptr]<0))
   {
     t3_node_mark[t3_buff_ptr]=0;
     i=t3_buff_ptr;
@@ -127,7 +127,7 @@ int /*tree2::*/t3_clear_node(int ptr)
   }
 
   t3_node_val2[ptr]=0;
-
+/*
   for (i=0;i<5;i++)
 	for (j=0;j<3;j++)
 	{
@@ -135,7 +135,7 @@ int /*tree2::*/t3_clear_node(int ptr)
 	}
 
   t3_node_val3_ptr[ptr]=0;
-
+*/
   return(0);
 }
 
@@ -216,7 +216,7 @@ int /*tree2::*/t3_insert_node(char *pstr)
       j=t3_new_node();
       if (j<0)
       {
-        MessageBox(0,"In tree2c,error at insert_node() when call new_node()","message",MB_OK);
+        MessageBox(0,"In tree3,error at insert_node() when call new_node()","message",MB_OK);
         return(1);
       }
       else
@@ -233,7 +233,7 @@ int /*tree2::*/t3_insert_node(char *pstr)
       j=t3_new_node();
       if (j<0)
       {
-        MessageBox(0,"In tree2c,error at insert_node() when call new_node()","message",MB_OK);
+        MessageBox(0,"In tree3,error at insert_node() when call new_node()","message",MB_OK);
         return(1);
       }
       else
@@ -521,7 +521,7 @@ int /*tree2::*/t3_after_list(void)
         //sprintf(str1,"add left tree %s,list_ptr=%d,",node_val[node_ptr[k][1]],list_ptr);
         if (t3_list_ptr>=LIST_SIZE_C)
         {
-          MessageBox(0,"In tree2c,error in after_list(),LIST_SIZE_C too small.","message",MB_OK);
+          MessageBox(0,"In tree3,error in after_list(),LIST_SIZE_C too small.","message",MB_OK);
           continue;
         }
       }
@@ -533,7 +533,7 @@ int /*tree2::*/t3_after_list(void)
       //sprintf(str1,"add mid tree %s,list_ptr=%d,",node_val[k],list_ptr);
       if (t3_list_ptr>=LIST_SIZE_C)
       {
-        MessageBox(0,"In tree2c,error in after_list(),LIST_SIZE_C too small.","message",MB_OK);
+        MessageBox(0,"In tree3,error in after_list(),LIST_SIZE_C too small.","message",MB_OK);
         continue;
       }
 
@@ -546,7 +546,7 @@ int /*tree2::*/t3_after_list(void)
         //sprintf(str1,"add right tree %s,list_ptr=%d,",node_val[node_ptr[k][2]],list_ptr);
         if (t3_list_ptr>=LIST_SIZE_C)
         {
-          MessageBox(0,"In tree2c,error in after_list(),LIST_SIZE_C too small.","message",MB_OK);
+          MessageBox(0,"In tree3,error in after_list(),LIST_SIZE_C too small.","message",MB_OK);
           continue;
         }
       }
@@ -565,7 +565,7 @@ int /*tree2::*/t3_after_list(void)
   return(0);
 }
 
-int /*tree2::*/t3_out_list(char *pstr,long long int pn1,int ptr)
+int /*tree2::*/t3_out_list(char *pstr,int pn1,int ptr)
 {
   int i,j;
 
@@ -618,11 +618,13 @@ static char m05_str3[300];
 int /*tree2::*/t3_save_list(char *fn)
 {
   FILE *fp;
-  int   i,j,k,l,nn;
+  int   i,j,k,l,nn,m;
   //char str1[300];
   //char str2[300];
   //char str3[300];
   
+  m=0;
+
   fp=fopen(fn,"w");
   if (fp==NULL)
   {
@@ -638,13 +640,17 @@ int /*tree2::*/t3_save_list(char *fn)
     fputs(t3_out_buff[i],fp);
     fputs(",",fp);
 
-    sprintf(m05_str1,"%lld",t3_out_buff2[i]);
+    sprintf(m05_str1,"%d",t3_out_buff2[i]);
     fputs(m05_str1,fp);
 
     fputs("\n",fp);
+
+    m++;
   }
 
   fclose(fp);
+
+  printf("%s,total %d words,\n",fn,m);
 
   return(0);
 }

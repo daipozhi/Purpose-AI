@@ -17,44 +17,44 @@ char mc4;
 char mc5;
 char mc6;
 
-long f1_init_ext(void);
-long f1_next_ext(void);
-long f1_get_fln(char *);
-long f1_get_fln2(char *);
+int f1_init_ext(void);
+int f1_next_ext(void);
+int f1_get_fln(char *);
+int f1_get_fln2(char *);
 
 #define SENT_LEN         8000000
 #define SENT_LEN2        300
 #define SENT_NUM         3000000
 
 char load8[SENT_NUM][SENT_LEN2];
-long load8_l;
+int load8_l;
 
 char sent_s[SENT_LEN];
-long sent_l;
+int sent_l;
 
-long sent8(char *);
-long sent8in1(void);
-long sent8add2(void);
+int sent8(char *);
+int sent8in1(void);
+int sent8add2(void);
 
 int  m_ptr;
 char m_cc;
 
-long sent8wrt1(void);
+int sent8wrt1(void);
 
-#define TREE2_SIZE 1000000
-#define LIST_SIZE  50000
+#define TREE_SIZE 1000000
+#define LIST_SIZE 50000
 
 /*
 class tree2
 {
   private:
 */
-    char  t1_node_mark[TREE2_SIZE];
-    char  t1_node_val[TREE2_SIZE][300];
+    char  t1_node_mark[TREE_SIZE];
+    char  t1_node_val[TREE_SIZE][300];
 
-    //int   t1_node_val2[TREE2_SIZE];
+    //int   t1_node_val2[TREE_SIZE];
 
-    int   t1_node_ptr[TREE2_SIZE][3];
+    int   t1_node_ptr[TREE_SIZE][3];
     int   t1_root_ptr;
     int   t1_buff_ptr;
     
@@ -66,11 +66,11 @@ class tree2
     char  t1_list_stack_type[LIST_SIZE];
     int   t1_list_ptr;
 
-    char  t1_out_buff[TREE2_SIZE][300];
-    //long long int t1_out_buff2[TREE2_SIZE];
+    char  t1_out_buff[TREE_SIZE][300];
+    //int   t1_out_buff2[TREE_SIZE];
 
-    //int   t1_out_buff3[TREE2_SIZE][5][3];
-    //int   t1_out_buff3_ptr[TREE2_SIZE];
+    //int   t1_out_buff3[TREE_SIZE][5][3];
+    //int   t1_out_buff3_ptr[TREE_SIZE];
 
     int   t1_out_ptr;
 
@@ -83,7 +83,7 @@ class tree2
     int   t1_insert_node(char *pstr);
     int   t1_dsp_tree2(void);
     int   t1_after_list(void);
-    int   t1_out_list(char *pstr,long long int ,int);
+    int   t1_out_list(char *pstr,int ,int);
     int   t1_dsp_list(void);
     int   t1_save_list(char *fn);
 
@@ -98,10 +98,10 @@ class tree2
 int main(void)
 {
 	FILE *fp1;
-	long  i,j,k,l;
+	int  i,j,k,l;
 	char  s1[300];
 
-	MessageBox(0,"load string2punc000000.txt,write to string3repe000000.txt","message",MB_OK);
+	MessageBox(0,"load string2punc000000.txt,write to string3rept000000.txt","message",MB_OK);
 
 	f1_init_ext();
 
@@ -128,7 +128,7 @@ int main(void)
 	return(0);
 }
 
-long f1_init_ext(void)
+int f1_init_ext(void)
 {
 	mc1='0';
 	mc2='0';
@@ -140,7 +140,7 @@ long f1_init_ext(void)
 	return(0);
 }
 
-long f1_next_ext(void)
+int f1_next_ext(void)
 {
 	mc1++;
 	if (mc1>'9')
@@ -173,9 +173,9 @@ long f1_next_ext(void)
 	return(0);
 }
 
-long f1_get_fln1(char *s1)
+int f1_get_fln1(char *s1)
 {
-	strcpy(s1,"string3repe      .txt");
+	strcpy(s1,"string3rept      .txt");
 
 	s1[11]=mc6;
 	s1[12]=mc5;
@@ -187,7 +187,7 @@ long f1_get_fln1(char *s1)
 	return(0);
 }
 
-long f1_get_fln2(char *s1)
+int f1_get_fln2(char *s1)
 {
 	strcpy(s1,"string2punc      .txt");
 
@@ -202,7 +202,7 @@ long f1_get_fln2(char *s1)
 }
 
 
-long sent8(char *fln)
+int sent8(char *fln)
 {
 	FILE *fp1;
 	int  i,j,k,l;
@@ -244,7 +244,7 @@ long sent8(char *fln)
 	return(0);
 }
 
-long sent8in1(void)
+int sent8in1(void)
 {
   	int  i,j,k;
 	char c1/*,s1[SENT_LEN]*/;
@@ -268,7 +268,7 @@ long sent8in1(void)
 	}
 }
 
-long sent8add2(void)
+int sent8add2(void)
 {
   	int  i,j,k;
 	char c1;
@@ -289,7 +289,7 @@ long sent8add2(void)
 	return(0);
 }
 
-long sent8wrt1(void)
+int sent8wrt1(void)
 {
 	FILE *fp1;
 	int  i,j,k;
@@ -300,9 +300,11 @@ long sent8wrt1(void)
 	fp1=fopen(s1,"w");
 	if (fp1==NULL)
 	{
-		MessageBox(0,"open string2base000.txt fail ","message",MB_OK);
+		MessageBox(0,"open string3rept000000.txt fail ","message",MB_OK);
 		return(0);
 	}
+
+	printf("%s\n",s1);
 
 	for (k=0;k<load8_l;k++)
 	{

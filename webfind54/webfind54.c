@@ -15,15 +15,15 @@
 //#define STR_LEN_WORD2    25
 
 //char word8_s[STR_LEN_WORD2];
-//long word8_l1;
+//int word8_l1;
 
-long word8(char *);
+int word8(char *);
 
 //#define MB_OK 1
 
 //extern int MessageBox(int ,char *,char *,int );
 
-#define TREE2_SIZE 2000000
+#define TREE_SIZE 2000000
 #define LIST_SIZE  200000
 
 
@@ -32,14 +32,14 @@ class tree2
 {
   public:
 */
-    char  t1_node_mark[TREE2_SIZE];
-    char  t1_node_val[TREE2_SIZE][55];
-    long long int t1_node_val2[TREE2_SIZE];
-
-    int   t1_node_val3[TREE2_SIZE][5][3];
-    int   t1_node_val3_ptr[TREE2_SIZE];
-
-    int   t1_node_ptr[TREE2_SIZE][3];
+    char  t1_node_mark[TREE_SIZE];
+    char  t1_node_val[TREE_SIZE][55];
+    int   t1_node_val2[TREE_SIZE];
+/*
+    int   t1_node_val3[TREE_SIZE][5][3];
+    int   t1_node_val3_ptr[TREE_SIZE];
+*/
+    int   t1_node_ptr[TREE_SIZE][3];
     int   t1_root_ptr;
     int   t1_buff_ptr;
     
@@ -51,12 +51,12 @@ class tree2
     char  t1_list_stack_type[LIST_SIZE];
     int   t1_list_ptr;
 
-    char  t1_out_buff[TREE2_SIZE][55];
-    long long int t1_out_buff2[TREE2_SIZE];
-
-    int   t1_out_buff3[TREE2_SIZE][5][3];
-    int   t1_out_buff3_ptr[TREE2_SIZE];
-
+    char  t1_out_buff[TREE_SIZE][55];
+    int   t1_out_buff2[TREE_SIZE];
+/*
+    int   t1_out_buff3[TREE_SIZE][5][3];
+    int   t1_out_buff3_ptr[TREE_SIZE];
+*/
     int   t1_out_ptr;
 
   //public:
@@ -68,7 +68,7 @@ class tree2
     int   t1_insert_node(char *pstr);
     int   t1_dsp_tree2(void);
     int   t1_after_list(void);
-    int   t1_out_list(char *pstr,long long int ,int);
+    int   t1_out_list(char *pstr,int ,int);
     int   t1_dsp_list(void);
     int   t1_save_list(char *fn);
 /*
@@ -79,7 +79,7 @@ class tree2
 class tree2 tree2_1;
 */
 
-#define TREE2_SIZE_B 2000000
+#define TREE_SIZE_B 2000000
 #define LIST_SIZE_B  200000
 
 /*
@@ -87,14 +87,14 @@ class tree2b
 {
   public:
 */
-    char  t2_node_mark[TREE2_SIZE_B];
-    char  t2_node_val[TREE2_SIZE_B][55];
-    long long int t2_node_val2[TREE2_SIZE_B];
-
-    int   t2_node_val3[TREE2_SIZE_B][5][3];
-    int   t2_node_val3_ptr[TREE2_SIZE_B];
-
-    int   t2_node_ptr[TREE2_SIZE_B][3];
+    char  t2_node_mark[TREE_SIZE_B];
+    char  t2_node_val[TREE_SIZE_B][55];
+    int   t2_node_val2[TREE_SIZE_B];
+/*
+    int   t2_node_val3[TREE_SIZE_B][5][3];
+    int   t2_node_val3_ptr[TREE_SIZE_B];
+*/
+    int   t2_node_ptr[TREE_SIZE_B][3];
     int   t2_root_ptr;
     int   t2_buff_ptr;
     
@@ -106,12 +106,12 @@ class tree2b
     char  t2_list_stack_type[LIST_SIZE_B];
     int   t2_list_ptr;
 
-    char  t2_out_buff[TREE2_SIZE_B][55];
-    long long int t2_out_buff2[TREE2_SIZE_B];
-
-    int  t2_out_buff3[TREE2_SIZE_B][5][3];
-    int  t2_out_buff3_ptr[TREE2_SIZE_B];
-
+    char  t2_out_buff[TREE_SIZE_B][55];
+    int   t2_out_buff2[TREE_SIZE_B];
+/*
+    int   t2_out_buff3[TREE_SIZE_B][5][3];
+    int   t2_out_buff3_ptr[TREE_SIZE_B];
+*/
     int   t2_out_ptr;
 
   //public:
@@ -123,7 +123,7 @@ class tree2b
     int   t2_insert_node(char *pstr);
     int   t2_dsp_tree2(void);
     int   t2_after_list(void);
-    int   t2_out_list(char *pstr,long long int ,int);
+    int   t2_out_list(char *pstr,int ,int);
     int   t2_dsp_list(void);
     int   t2_save_list(char *fn);
 
@@ -134,17 +134,17 @@ class tree2b
 class tree2b tree2b_1;*/
 
 
-#define TREE2_SIZE_C 2000000
+#define TREE_SIZE_C 2000000
 #define LIST_SIZE_C  200000
 
-    char  t3_node_mark[TREE2_SIZE_C];
-    char  t3_node_val[TREE2_SIZE_C][55];
-    long long int t3_node_val2[TREE2_SIZE_C];
-
-    int   t3_node_val3[TREE2_SIZE_C][5][3];
-    int   t3_node_val3_ptr[TREE2_SIZE_C];
-
-    int   t3_node_ptr[TREE2_SIZE_C][3];
+    char  t3_node_mark[TREE_SIZE_C];
+    char  t3_node_val[TREE_SIZE_C][55];
+    int   t3_node_val2[TREE_SIZE_C];
+/*
+    int   t3_node_val3[TREE_SIZE_C][5][3];
+    int   t3_node_val3_ptr[TREE_SIZE_C];
+*/
+    int   t3_node_ptr[TREE_SIZE_C][3];
     int   t3_root_ptr;
     int   t3_buff_ptr;
     
@@ -156,12 +156,12 @@ class tree2b tree2b_1;*/
     char  t3_list_stack_type[LIST_SIZE_C];
     int   t3_list_ptr;
 
-    char  t3_out_buff[TREE2_SIZE_C][55];
-    long long int t3_out_buff2[TREE2_SIZE_C];
-
-    int   t3_out_buff3[TREE2_SIZE_C][5][3];
-    int   t3_out_buff3_ptr[TREE2_SIZE_C];
-
+    char  t3_out_buff[TREE_SIZE_C][55];
+    int   t3_out_buff2[TREE_SIZE_C];
+/*
+    int   t3_out_buff3[TREE_SIZE_C][5][3];
+    int   t3_out_buff3_ptr[TREE_SIZE_C];
+*/
     int   t3_out_ptr;
 
     int   t3_init_tree2(void);
@@ -171,7 +171,7 @@ class tree2b tree2b_1;*/
     int   t3_insert_node(char *pstr);
     int   t3_dsp_tree2(void);
     int   t3_after_list(void);
-    int   t3_out_list(char *pstr,long long int ,int);
+    int   t3_out_list(char *pstr,int ,int);
     int   t3_dsp_list(void);
     int   t3_save_list(char *fn);
 
@@ -180,27 +180,18 @@ class tree2b tree2b_1;*/
 
 
 //------------------------------
-#define ARTI_LINE    3000000
-/*
-char at6[ARTI_LINE][55];
-long long int at6_n[ARTI_LINE];
-int  at6_ptr;
-
-int  search_wd6(char *);
-int  load6(void);
-
-long long int find_n6;
-*/
+#define ARTI_LINE1    3000000
+#define ARTI_LINE2    200000
 
 
-	 char wd6_buf[ARTI_LINE][55];
-long long int wd6_rt[ARTI_LINE];
+	 char wd6_buf[ARTI_LINE2][55];
+          int wd6_rt[ARTI_LINE2];
 	  int wd6_ptr;
 
 int  wd6_search(char *);
 int  wd6_load(void);
 
-long long int wd6_find_rt;
+          int wd6_find_rt;
 
 
 //------------------------------
@@ -213,7 +204,7 @@ long long int wd6_find_rt;
 //{
 int main(void)
 {
-	MessageBox(0,"load words-cww3-000000.txt, write to words03.txt words-cw02rpt.txt","message",MB_OK);
+	MessageBox(0,"load words-cww3-000000.txt, write to words03.txt words-cw02rpt03.txt","message",MB_OK);
 
 	wd6_load();
 
@@ -229,7 +220,7 @@ int main(void)
 
     	t3_after_list();
   
-    	t3_save_list("words-cw02rpt.txt");
+    	t3_save_list("words-cw02rpt03.txt");
 
 	MessageBox(0,"words ok","message",MB_OK);
 
@@ -240,7 +231,7 @@ static char m201_str1[5000];
 static char m201_str2[5000];
 
 
-long word8(char *pstr1)
+int word8(char *pstr1)
 {
 	FILE *fp1;
 	int  i,j,k,l,m,n,n1,n2,n3,o;
@@ -270,6 +261,8 @@ long word8(char *pstr1)
 	while(1)
 	{
 		strcpy(s2,s1);
+
+		printf("%s,\n",s2);
 
 		fp1=fopen(s2,"r");
 		if (fp1==NULL)
@@ -421,7 +414,9 @@ int wd6_load(void)
 
 	wd6_ptr=0;
 
-	strcpy(m501_s1,"words-cw02_sort.txt");
+	strcpy(m501_s1,"words-cw02.sort.txt");
+
+	printf("wd6_load():%s,",m501_s1);
 
 	fp1=fopen(m501_s1,"r");
 	if (fp1==NULL)
@@ -444,9 +439,18 @@ int wd6_load(void)
 		//	else break;
 		//}
 
+		if (feof(fp1)) break;
+
 		string_trim(m501_l1);
 
+		if ((int)strlen(m501_l1)<1 ) continue;
 		if ((int)strlen(m501_l1)>50) continue;
+
+		if (  (wd6_ptr<0)||(wd6_ptr>=ARTI_LINE2)  )
+		{
+			printf(" ARTI_LINE2 too small\n");
+			continue;
+		}
 
 		strcpy(wd6_buf[wd6_ptr],m501_l1);
 
@@ -473,6 +477,8 @@ int wd6_load(void)
 
 	fclose(fp1);
 
+	printf("total %d words,\n",wd6_ptr);
+
 	return(0);
 }
 
@@ -492,6 +498,7 @@ int wd6_search(char *s_str)
 	while(1)
 	{
 		i=(p1+p2)/2;
+		if ( (i<0)||(i>=wd6_ptr)||(i>=ARTI_LINE2) ) return(0);
 		if (i<=p1)
 		{
 			j=strcmp(wd6_buf[i],s_str);

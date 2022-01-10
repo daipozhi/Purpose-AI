@@ -49,7 +49,7 @@ int deb_upper_string(char *p_instr);
 
 
 
-#define TREE2_SIZE 2000000
+#define TREE_SIZE 2000000
 #define LIST_SIZE  200000
 
 /*
@@ -57,14 +57,14 @@ class tree2
 {
   public:
 */
-    char  t1_node_mark[TREE2_SIZE];
-    char  t1_node_val[TREE2_SIZE][55];
-    long long int t1_node_val2[TREE2_SIZE];
-
-    int   t1_node_val3[TREE2_SIZE][5][3];
-    int   t1_node_val3_ptr[TREE2_SIZE];
-
-    int   t1_node_ptr[TREE2_SIZE][3];
+    char  t1_node_mark[TREE_SIZE];
+    char  t1_node_val[TREE_SIZE][55];
+    int   t1_node_val2[TREE_SIZE];
+/*
+    int   t1_node_val3[TREE_SIZE][5][3];
+    int   t1_node_val3_ptr[TREE_SIZE];
+*/
+    int   t1_node_ptr[TREE_SIZE][3];
     int   t1_root_ptr;
     int   t1_buff_ptr;
     
@@ -76,12 +76,12 @@ class tree2
     char  t1_list_stack_type[LIST_SIZE];
     int   t1_list_ptr;
 
-    char  t1_out_buff[TREE2_SIZE][55];
-    long long int t1_out_buff2[TREE2_SIZE];
-
-    int   t1_out_buff3[TREE2_SIZE][5][3];
-    int   t1_out_buff3_ptr[TREE2_SIZE];
-
+    char  t1_out_buff[TREE_SIZE][55];
+    int   t1_out_buff2[TREE_SIZE];
+/*
+    int   t1_out_buff3[TREE_SIZE][5][3];
+    int   t1_out_buff3_ptr[TREE_SIZE];
+*/
     int   t1_out_ptr;
 
   //public:
@@ -93,7 +93,7 @@ class tree2
     int   t1_insert_node(char *pstr);
     int   t1_dsp_tree2(void);
     int   t1_after_list(void);
-    int   t1_out_list(char *pstr,long long int ,int);
+    int   t1_out_list(char *pstr,int ,int);
     int   t1_dsp_list(void);
     int   t1_save_list(char *fn);
 /*
@@ -109,7 +109,7 @@ class tree2 tree2_1;
 
 
 
-#define TREE2_SIZE_B 2000000
+#define TREE_SIZE_B 2000000
 #define LIST_SIZE_B  200000
 
 /*
@@ -117,14 +117,14 @@ class tree2b
 {
   public:
 */
-    char  t2_node_mark[TREE2_SIZE_B];
-    char  t2_node_val[TREE2_SIZE_B][55];
-    long long int t2_node_val2[TREE2_SIZE_B];
-
-    int   t2_node_val3[TREE2_SIZE_B][5][3];
-    int   t2_node_val3_ptr[TREE2_SIZE_B];
-
-    int   t2_node_ptr[TREE2_SIZE_B][3];
+    char  t2_node_mark[TREE_SIZE_B];
+    char  t2_node_val[TREE_SIZE_B][55];
+    int   t2_node_val2[TREE_SIZE_B];
+/*
+    int   t2_node_val3[TREE_SIZE_B][5][3];
+    int   t2_node_val3_ptr[TREE_SIZE_B];
+*/
+    int   t2_node_ptr[TREE_SIZE_B][3];
     int   t2_root_ptr;
     int   t2_buff_ptr;
     
@@ -136,12 +136,12 @@ class tree2b
     char  t2_list_stack_type[LIST_SIZE_B];
     int   t2_list_ptr;
 
-    char  t2_out_buff[TREE2_SIZE_B][55];
-    long long int t2_out_buff2[TREE2_SIZE_B];
-
-    int  t2_out_buff3[TREE2_SIZE_B][5][3];
-    int  t2_out_buff3_ptr[TREE2_SIZE_B];
-
+    char  t2_out_buff[TREE_SIZE_B][55];
+    int   t2_out_buff2[TREE_SIZE_B];
+/*
+    int   t2_out_buff3[TREE_SIZE_B][5][3];
+    int   t2_out_buff3_ptr[TREE_SIZE_B];
+*/
     int   t2_out_ptr;
 
   //public:
@@ -153,7 +153,7 @@ class tree2b
     int   t2_insert_node(char *pstr);
     int   t2_dsp_tree2(void);
     int   t2_after_list(void);
-    int   t2_out_list(char *pstr,long long int ,int);
+    int   t2_out_list(char *pstr,int ,int);
     int   t2_dsp_list(void);
     int   t2_save_list(char *fn);
 
@@ -169,7 +169,7 @@ class tree2b tree2b_1;*/
 int /*tree2b::*/t2_init_tree2(void)
 {
   int i,j;
-  for (i=0;i<TREE2_SIZE_B;i++)
+  for (i=0;i<TREE_SIZE_B;i++)
   {
     t2_node_mark[i]=(-1);
   }
@@ -184,7 +184,7 @@ int /*tree2b::*/t2_new_node(void)
 
   i=(-1);
 
-  if ((t2_buff_ptr<TREE2_SIZE_B)&&(t2_node_mark[t2_buff_ptr]<0))
+  if ((t2_buff_ptr<TREE_SIZE_B)&&(t2_node_mark[t2_buff_ptr]<0))
   {
     t2_node_mark[t2_buff_ptr]=0;
     i=t2_buff_ptr;
@@ -289,7 +289,7 @@ int /*tree2b::*/t2_insert_node(char *pstr)
       j=t2_new_node();
       if (j<0)
       {
-        MessageBox(0,"In tree2b,error at insert_node() when call new_node()","message",MB_OK);
+        MessageBox(0,"In tree2,error at insert_node() when call new_node()","message",MB_OK);
         return(1);
       }
       else
@@ -306,7 +306,7 @@ int /*tree2b::*/t2_insert_node(char *pstr)
       j=t2_new_node();
       if (j<0)
       {
-        MessageBox(0,"In tree2b,error at insert_node() when call new_node()","message",MB_OK);
+        MessageBox(0,"In tree2,error at insert_node() when call new_node()","message",MB_OK);
         return(1);
       }
       else
@@ -594,7 +594,7 @@ int /*tree2b::*/t2_after_list(void)
         //sprintf(str1,"add left tree %s,list_ptr=%d,",node_val[node_ptr[k][1]],list_ptr);
         if (t2_list_ptr>=LIST_SIZE_B)
         {
-          MessageBox(0,"In tree2b,error in after_list(),LIST_SIZE_B too small.","message",MB_OK);
+          MessageBox(0,"In tree2,error in after_list(),LIST_SIZE_B too small.","message",MB_OK);
           continue;
         }
       }
@@ -606,7 +606,7 @@ int /*tree2b::*/t2_after_list(void)
       //sprintf(str1,"add mid tree %s,list_ptr=%d,",node_val[k],list_ptr);
       if (t2_list_ptr>=LIST_SIZE_B)
       {
-        MessageBox(0,"In tree2b,error in after_list(),LIST_SIZE_B too small.","message",MB_OK);
+        MessageBox(0,"In tree2,error in after_list(),LIST_SIZE_B too small.","message",MB_OK);
         continue;
       }
 
@@ -619,7 +619,7 @@ int /*tree2b::*/t2_after_list(void)
         //sprintf(str1,"add right tree %s,list_ptr=%d,",node_val[node_ptr[k][2]],list_ptr);
         if (t2_list_ptr>=LIST_SIZE_B)
         {
-          MessageBox(0,"In tree2b,error in after_list(),LIST_SIZE_B too small.","message",MB_OK);
+          MessageBox(0,"In tree2,error in after_list(),LIST_SIZE_B too small.","message",MB_OK);
           continue;
         }
       }
@@ -638,7 +638,7 @@ int /*tree2b::*/t2_after_list(void)
   return(0);
 }
 
-int /*tree2b::*/t2_out_list(char *pstr,long long int pn1,int ptr)
+int /*tree2b::*/t2_out_list(char *pstr,int pn1,int ptr)
 {
   int i,j;
 

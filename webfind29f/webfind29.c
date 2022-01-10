@@ -10,6 +10,8 @@
 #include <stdio.h>
 #include <string.h>
 
+#include <sys/file.h>
+
 #define SMG_SIZE      300
 
 char mc1;
@@ -45,19 +47,19 @@ int ai_number_g(void);
 
 
 
-#define TREE2_SIZE 5000000
-#define LIST_SIZE  500000
+#define TREE_SIZE 10000000
+#define LIST_SIZE  1000000
 /*
 class tree2
 {
   private:
 */
-    char  t1_node_mark[TREE2_SIZE];
-    char  t1_node_val[TREE2_SIZE][55];
+    char  t1_node_mark[TREE_SIZE];
+    char  t1_node_val[TREE_SIZE][55];
 
-    int   t1_node_val2[TREE2_SIZE];
+    int   t1_node_val2[TREE_SIZE];
 
-    int   t1_node_ptr[TREE2_SIZE][3];
+    int   t1_node_ptr[TREE_SIZE][3];
     int   t1_root_ptr;
     int   t1_buff_ptr;
     
@@ -69,11 +71,11 @@ class tree2
     char  t1_list_stack_type[LIST_SIZE];
     int   t1_list_ptr;
 /*
-    char  t1_out_buff[TREE2_SIZE][55];
-    long long int t1_out_buff2[TREE2_SIZE];
+    char  t1_out_buff[TREE_SIZE][55];
+    int   t1_out_buff2[TREE_SIZE];
 
-    int   t1_out_buff3[TREE2_SIZE][5][3];
-    int   t1_out_buff3_ptr[TREE2_SIZE];
+    int   t1_out_buff3[TREE_SIZE][5][3];
+    int   t1_out_buff3_ptr[TREE_SIZE];
 */
     int   t1_out_ptr;
 
@@ -86,7 +88,7 @@ class tree2
     int   t1_insert_node(char *pstr);
     int   t1_dsp_tree2(void);
     int   t1_after_list(void);
-    int   t1_out_list(char *pstr,long long int ,int);
+    int   t1_out_list(char *pstr,int ,int);
     int   t1_dsp_list(void);
     int   t1_save_list(char *fn);
 //};
@@ -97,10 +99,10 @@ char init_c3;
 char init_c4;
 char init_c5;
 char init_c6;
-
+/*
 int  init_n1;
 int  init_n2;
-
+*/
 //extern class tree2 tree2a;
 
 
@@ -117,35 +119,7 @@ int  init_n2;
 //		  ,int show)
 int main(int argc,char **argv)
 {
-    if (argc==1)
-    {
-      init_c1='0';
-      init_c2='0';
-      init_c3='0';
-      init_c4='0';
-      init_c5='0';
-      init_c6='0';
-
-      init_n1=1000000;
-    }
-    else if (argc==3)
-    {
-      init_c1=argv[1][5];
-      init_c2=argv[1][4];
-      init_c3=argv[1][3];
-      init_c4=argv[1][2];
-      init_c5=argv[1][1];
-      init_c6=argv[1][0];
-
-      init_n1=str2int(argv[2],strlen(argv[2])+1);
-    }
-    else
-    {
-      printf("bad argument\n");
-      return(0);
-    }
-
-	MessageBoxNow(0,"load string3repe000000.txt , write to words-repe-000000.txt","message",MB_OK);
+	MessageBoxNow(0,"load string3rept000000.txt , write to words-rept-000000.txt","message",MB_OK);
 
 	ai_number_g();
 
@@ -163,13 +137,11 @@ int mproc(char *strpath)
 	char  s3[SMG_SIZE];
 	int   i;
 
-
-
-	f1_init_ext();
+	i=f1_init_ext();
+	if (i==1) return(0);
 
 	while(1)
 	{
-
 		i=load5a();
 		if (i==1) break;
 
@@ -183,13 +155,82 @@ int mproc(char *strpath)
 	return(0);
 }
 
+int f1_get_one(void)
+{
+  FILE *fp1;
+  int   i,j,eof;
+  char  str1[300];
+  char  str2[300];
 
 
+
+  fp1=fopen("a-step50.txt","r+");
+  if (fp1==NULL)
+  {
+    printf("open file error\n");
+    return(1);
+  }
+    
+  flock(fp1->_fileno, LOCK_EX);
+
+
+
+  i=0;
+  eof=0;
+  str2[0]='*';
+  str2[1]=0;
+
+  while (1)
+  {
+    fseek(fp1,i*8,SEEK_SET);
+    j=fread(str1,8,1,fp1);
+
+    if (j<1)
+    {
+      eof=1;
+      break;
+    }
+    if (str1[0]==' ')
+    {
+      fseek(fp1,i*8,SEEK_SET);
+      fwrite(str2,1,1,fp1);
+
+      init_c1=str1[ 6];
+      init_c2=str1[ 5];
+      init_c3=str1[ 4];
+      init_c4=str1[ 3];
+      init_c5=str1[ 2];
+      init_c6=str1[ 1];
+
+      break;
+    }
+    else i++;
+  }
+
+
+
+  flock(fp1->_fileno, LOCK_UN);
+
+  fclose(fp1);
+
+
+  if (eof==1) return(1);
+  else return(0);
+}
 
 int f1_init_ext(void)
 {
-	FILE *fp1;
-	char s1[300];
+	int i;
+
+	mc1='0';
+	mc2='0';
+	mc3='0';
+	mc4='0';
+	mc5='0';
+	mc6='0';
+
+	i=f1_get_one();
+	if (i!=0) return(1);
 
 	mc1=init_c1;
 	mc2=init_c2;
@@ -198,44 +239,24 @@ int f1_init_ext(void)
 	mc5=init_c5;
 	mc6=init_c6;
 
-    init_n2=1;
-
 	return(0);
 }
 
 int f1_next_ext(void)
 {
-	mc1++;
-	if (mc1>'9')
-	{
-		mc1='0';
-		mc2++;
-		if (mc2>'9')
-		{
-			mc2='0';
-			mc3++;
-			if (mc3>'9')
-            {
-    mc3='0';
-	mc4++;
-	if (mc4>'9')
-	{
-		mc4='0';
-		mc5++;
-		if (mc5>'9')
-		{
-			mc5='0';
-			mc6++;
-			if (mc6>'9') return(1);
-        }
-    }
-            }
-		}
-	}
+	int i;
 
-    init_n2++;
-    if (init_n2<=init_n1) return(0);
-    else return(1);
+	i=f1_get_one();
+	if (i!=0) return(1);
+
+	mc1=init_c1;
+	mc2=init_c2;
+	mc3=init_c3;
+	mc4=init_c4;
+	mc5=init_c5;
+	mc6=init_c6;
+
+	return(0);
 }
 
 int f1_get_fln(char *s1)
@@ -254,7 +275,7 @@ int f1_get_fln(char *s1)
 
 int f1_get_fln2(char *s1)
 {
-	strcpy(s1,"words-repe-      .txt");
+	strcpy(s1,"words-rept-      .txt");
 
 	s1[11]=mc6;
 	s1[12]=mc5;
@@ -268,7 +289,7 @@ int f1_get_fln2(char *s1)
 
 int f1_get_fln3(char *s1)
 {
-	strcpy(s1,"string3repe      .txt");
+	strcpy(s1,"string3rept      .txt");
 
 	s1[11]=mc6;
 	s1[12]=mc5;
@@ -293,15 +314,15 @@ int spl1_loop(void);
 		int  spl1_out_ptr;
 
 		//char spl1_str[SPL1_NUM][100][55];
-		int  spl1_sid[SPL1_NUM][100];
+		int  spl1_sid[SPL1_NUM][150];
 		char spl1_mrk[SPL1_NUM];
 		int  spl1_val[SPL1_NUM];
 long long 	int  spl1_rpt[SPL1_NUM];
 		int  spl1_len[SPL1_NUM];
-		char spl1_seg[SPL1_NUM];
+		int  spl1_seg[SPL1_NUM];
 		int  spl1_ptr;
 
-		char spl1_mr2[SPL1_NUM][100];
+		char spl1_mr2[SPL1_NUM][150];
 		int  spl1_va2[SPL1_NUM];
 long long 	int  spl1_rp2[SPL1_NUM];
 
@@ -309,10 +330,10 @@ int  spl1_buf[60];  // check repeated string
 int  spl1_buf_ptr;
 
 // notice tree 2(t2)
-#define TREE2_SIZE_B 4000
+#define TREE_SIZE_B 4000
 int   t2_find_ptr2;
 int   t2_buff_ptr;
-char  t2_node_val[TREE2_SIZE_B][55];
+char  t2_node_val[TREE_SIZE_B][55];
 
 int   t2_search_node(char *pstr);
 int   t2_insert_node(char *pstr);
@@ -372,14 +393,14 @@ int   t2_insert_node(char *pstr);
     long long int   t4_node_val[BTREE4_SIZE][4];
     int   t4_node_va2[BTREE4_SIZE];
 
-	  int  t4_node_v_sid[BTREE4_SIZE][100];
+	  int  t4_node_v_sid[BTREE4_SIZE][150];
 	  char t4_node_v_mrk[BTREE4_SIZE];
 	  int  t4_node_v_val[BTREE4_SIZE];
 long long int  t4_node_v_rpt[BTREE4_SIZE];
 	  int  t4_node_v_len[BTREE4_SIZE];
-	  char t4_node_v_seg[BTREE4_SIZE];
+	  int  t4_node_v_seg[BTREE4_SIZE];
 
-	  char t4_node_v_mr2[BTREE4_SIZE][100];
+	  char t4_node_v_mr2[BTREE4_SIZE][150];
 	  int  t4_node_v_va2[BTREE4_SIZE];
 long long int  t4_node_v_rp2[BTREE4_SIZE];
     

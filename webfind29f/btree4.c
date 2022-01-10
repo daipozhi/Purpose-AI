@@ -52,13 +52,13 @@ int deb_upper_string(char *p_instr);
     long long int   t4_node_val[BTREE4_SIZE][4];
     int   t4_node_va2[BTREE4_SIZE];
 
-	  int  t4_node_v_sid[BTREE4_SIZE][100];
-	  char t4_node_v_mr2[BTREE4_SIZE][100];
+	  int  t4_node_v_sid[BTREE4_SIZE][150];
+	  char t4_node_v_mr2[BTREE4_SIZE][150];
 
 	  char t4_node_v_mrk[BTREE4_SIZE];
 
 	  int  t4_node_v_len[BTREE4_SIZE];
-	  char t4_node_v_seg[BTREE4_SIZE];
+	  int  t4_node_v_seg[BTREE4_SIZE];
 	  int  t4_node_v_val[BTREE4_SIZE];
 long long int  t4_node_v_rpt[BTREE4_SIZE];
 

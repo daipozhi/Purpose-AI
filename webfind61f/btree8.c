@@ -52,14 +52,14 @@ int deb_upper_string(char *p_instr);
     long long int   t8_node_val[BTREE8_SIZE][4];
     int   t8_node_va2[BTREE8_SIZE];
 
-	  int  t8_node_v_gid[BTREE8_SIZE][100];
-	  char t8_node_v_gid_len[BTREE8_SIZE][100];
-	  char t8_node_v_mr2[BTREE8_SIZE][100];
+	  int  t8_node_v_gid[BTREE8_SIZE][150];
+	  char t8_node_v_gid_len[BTREE8_SIZE][150];
+	  char t8_node_v_mr2[BTREE8_SIZE][150];
 
 	  char t8_node_v_mrk[BTREE8_SIZE];
 
 	  int  t8_node_v_len[BTREE8_SIZE];
-	  char t8_node_v_seg[BTREE8_SIZE];
+	  int  t8_node_v_seg[BTREE8_SIZE];
 	  int  t8_node_v_val[BTREE8_SIZE];
 long long int  t8_node_v_rpt[BTREE8_SIZE];
 
@@ -152,7 +152,7 @@ int t8_old_node(int ptr)
 {
    if (t8_stack_ptr>=BTREE8_SIZE)
    {
-     MessageBoxNow(0,"In btree4,error at tn_old_node()","message",MB_OK);
+     MessageBoxNow(0,"In btree8,error at tn_old_node()","message",MB_OK);
      return(-1);
    }
    else
@@ -286,7 +286,7 @@ int t8_insert_node(long long int pn1,long long int pn2,long long int pn3,long lo
       j=t8_new_node();
       if (j<0)
       {
-        MessageBoxNow(0,"In btree4,error at insert_node() when call new_node()","message",MB_OK);
+        MessageBoxNow(0,"In btree8,error at insert_node() when call new_node()","message",MB_OK);
         return(1);
       }
       else
@@ -309,7 +309,7 @@ int t8_insert_node(long long int pn1,long long int pn2,long long int pn3,long lo
       j=t8_new_node();
       if (j<0)
       {
-        MessageBoxNow(0,"In btree4,error at insert_node() when call new_node()","message",MB_OK);
+        MessageBoxNow(0,"In btree8,error at insert_node() when call new_node()","message",MB_OK);
         return(1);
       }
       else
@@ -632,7 +632,7 @@ int t8_after_list(void)
         //sprintf(str1,"add left tree %s,list_ptr=%d,",node_val[node_ptr[k][1]],list_ptr);
         if (t8_list_ptr>=BTREE8_LSIZE)
         {
-          MessageBoxNow(0,"In btree4,error in after_list(),BTREE8_LSIZE too small.","message",MB_OK);
+          MessageBoxNow(0,"In btree8,error in after_list(),BTREE8_LSIZE too small.","message",MB_OK);
           continue;
         }
       }
@@ -644,7 +644,7 @@ int t8_after_list(void)
       //sprintf(str1,"add mid tree %s,list_ptr=%d,",node_val[k],list_ptr);
       if (t8_list_ptr>=BTREE8_LSIZE)
       {
-        MessageBoxNow(0,"In btree4,error in after_list(),BTREE8_LSIZE too small.","message",MB_OK);
+        MessageBoxNow(0,"In btree8,error in after_list(),BTREE8_LSIZE too small.","message",MB_OK);
         continue;
       }
 
@@ -657,7 +657,7 @@ int t8_after_list(void)
         //sprintf(str1,"add right tree %s,list_ptr=%d,",node_val[node_ptr[k][2]],list_ptr);
         if (t8_list_ptr>=BTREE8_LSIZE)
         {
-          MessageBoxNow(0,"In btree4,error in after_list(),BTREE8_LSIZE too small.","message",MB_OK);
+          MessageBoxNow(0,"In btree8,error in after_list(),BTREE8_LSIZE too small.","message",MB_OK);
           continue;
         }
       }

@@ -68,28 +68,16 @@ long long int str2llint(char *pstr);
 
 
 //------------------------------
-#define ARTI_LINE    2000000
+#define ARTI_LINE1    5000000
 
-/*
-char at5[ARTI_LINE][55];
-long long int at5_n[ARTI_LINE];
-int  at5_ptr;
-
-int  search_wd5(char *);
-int  load5(void);
-
-long long int find_n5;
-*/
-
-
-	 char wd5_buf[ARTI_LINE][55];
-long long int wd5_rt[ARTI_LINE];
+	 char wd5_buf[ARTI_LINE1][55];
+          int wd5_rt[ARTI_LINE1];
 	  int wd5_ptr;
 
 int  wd5_search(char *);
 int  wd5_load(void);
 
-long long int wd5_find_rt;
+int  wd5_find_rt;
 
 
 //------------------------------
@@ -97,28 +85,16 @@ long long int wd5_find_rt;
 
 
 //------------------------------
-//#define ARTI_LINE    1000000
+#define ARTI_LINE2    200000
 
-/*
-char at6[ARTI_LINE][55];
-long long int at6_n[ARTI_LINE];
-int  at6_ptr;
-
-int  search_wd6(char *);
-int  load6(void);
-
-long long int find_n6;
-*/
-
-
-	 char wd6_buf[ARTI_LINE][55];
-long long int wd6_rt[ARTI_LINE];
+	 char wd6_buf[ARTI_LINE2][55];
+          int wd6_rt[ARTI_LINE2];
 	  int wd6_ptr;
 
 int  wd6_search(char *);
 int  wd6_load(void);
 
-long long int wd6_find_rt;
+int  wd6_find_rt;
 
 
 //------------------------------
@@ -143,15 +119,15 @@ int ai_number_g(void);
 		int  spl1_out_ptr;
 
 		//char spl1_str[SPL1_NUM][100][55];
-		int  spl1_sid[SPL1_NUM][100];
+		int  spl1_sid[SPL1_NUM][150];
 		char spl1_mrk[SPL1_NUM];
 		int  spl1_val[SPL1_NUM];
 long long 	int  spl1_rpt[SPL1_NUM];
 		int  spl1_len[SPL1_NUM];
-		char spl1_seg[SPL1_NUM];
+		int  spl1_seg[SPL1_NUM];
 		int  spl1_ptr;
 
-		char spl1_mr2[SPL1_NUM][100];
+		char spl1_mr2[SPL1_NUM][150];
 		int  spl1_va2[SPL1_NUM];
 long long 	int  spl1_rp2[SPL1_NUM];
 
@@ -161,10 +137,10 @@ int  spl1_buf_ptr;
 int spl1_add_to_tree(void);
 
 // notice tree 2(t2)
-#define TREE2_SIZE_B 4000
+#define TREE_SIZE_B 4000
 int   t2_find_ptr2;
 int   t2_buff_ptr;
-char  t2_node_val[TREE2_SIZE_B][55];
+char  t2_node_val[TREE_SIZE_B][55];
 
 int   t2_search_node(char *pstr);
 int   t2_insert_node(char *pstr);
@@ -224,14 +200,14 @@ int   t2_insert_node(char *pstr);
     long long int   t4_node_val[BTREE4_SIZE][4];
     int   t4_node_va2[BTREE4_SIZE];
 
-	  int  t4_node_v_sid[BTREE4_SIZE][100];
+	  int  t4_node_v_sid[BTREE4_SIZE][150];
 	  char t4_node_v_mrk[BTREE4_SIZE];
 	  int  t4_node_v_val[BTREE4_SIZE];
 long long int  t4_node_v_rpt[BTREE4_SIZE];
 	  int  t4_node_v_len[BTREE4_SIZE];
-	  char t4_node_v_seg[BTREE4_SIZE];
+	  int  t4_node_v_seg[BTREE4_SIZE];
 
-	  char t4_node_v_mr2[BTREE4_SIZE][100];
+	  char t4_node_v_mr2[BTREE4_SIZE][150];
 	  int  t4_node_v_va2[BTREE4_SIZE];
 long long int  t4_node_v_rp2[BTREE4_SIZE];
     
@@ -630,10 +606,11 @@ int spl1_loop(void)
 			m101_p_va2=spl1_va2[n];
 			m101_p_rp2=spl1_rp2[n];
 
-			if (m101_p_seg>=100)
+			if (m101_p_seg>=150)
 			{
-				err=1;
-				break;
+				//err=1;
+				//break;
+				continue;
 			}
 
 			spl1_buf_ptr=0;

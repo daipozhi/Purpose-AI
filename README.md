@@ -9,7 +9,7 @@ How does computer process text,video,audio
  Purpose AI is distributed in the hope that it will be useful,
   but WITHOUT ANY WARRANTY; )
 
-(July 22th 2021 update)
+(Jan 9th 2022 update)
 
 这个工程是小戴人工智能，是开源项目
 
@@ -17,7 +17,7 @@ How does computer process text,video,audio
 
 (本开源软件的授权是LGPL,没有担保)
 
-(2021-07-22 更新)
+(2022-01-09 更新)
 
 
     A, text , words
@@ -91,37 +91,37 @@ How does computer process text,video,audio
 
         source code:
 
-            Windows XP/7+MSYS+MINGW  or Ubuntu
+            Ubuntu or Linux Mint (need install gcc)
 
-            in MSYS ,you need open config.h file(in AI directory) set symbol AI_LINUX to 0   ,(#define AI_LINUX 0)
-            in Ubuntu ,you need open config.h file(in AI directory) set symbol AI_LINUX to 1 ,(#define AI_LINUX 1)
-
-            in MSYS , to build this project use build-msys.bat .
-            in Ubuntu , to build this project use build-ubuntu.bat
+            in Ubuntu or Linux Mint , to build this project use build-ubuntu.bat
 
             in 'work_dir'
                   'download' directory is text download by offline browser .
-                  run a-step10-f3-msys.bat (list directory)(in Ubuntu run a-step10-f3-ubuntu.bat)
+                  run a-step10-f3-ubuntu.bat) (list directory)
                   run program in  'webfind_b' (step20)(copy to 'work_dir')(get text , erase html mark)
-                      (in this version, we kept 200 text file ,from stringbase000000.txt to stringbase000199.txt ,
+                      (in this version, we kept 200 text file ,from string1base000000.txt to string1base000199.txt ,
                        if you don't want download by a offline browser , you can start at next step(step30))
                   run program in  'webfind39' (step30)(copy to 'work_dir', include 'cb.txt' )(erase punctuation)
                   run program in  'webfind4a' (step40)(copy to 'work_dir')(erase empty line , repeated line)
+                  run program a-step50-ini.exe 200 8
+                              ('200' is total file number, '8' is how many CPU thread do you want use)
                   run program in  'webfind29f'(step50)(separate to words by repeate )
                                                       (if you want grid compute,don't run a-step50.exe ,run
                                                        a-step50.bat , how to make this .bat file please read 
-                                                       tools-5/readme.txt file )
+                                                       tools-6/readme.txt file )
                   run program in  'webfind23c'(step60)(get all words ,generate word database)
                                               (step70 deleted)
                                               (step80 deleted)
+                  run program a-step90-ini.exe 200 8
+                              ('200' is total file number, '8' is how many CPU thread do you want use)
                   run program in  'webfind53e'(step90)(separate to words by word courseware and word database )
-				(word courseware is in file words-cw01.txt and words-cw02_sort.txt , how to make 
+				(word courseware is in file words-cw01.txt and words-cw02.sort.txt , how to make 
 				word courseware please read readme.txt file in directory webfind50 , text file 
-                                words-cw02_sort.utf8.txt is for you to browse word courseware on Ubuntu, program
+                                words-cw02.sort.utf8.txt is for you to browse word courseware on Ubuntu, program
                                 will not read *.utf8.txt files. )
                                 (if you want grid compute,don't run a-step90.exe ,run
                                  a-step90.bat , how to make this .bat file please read 
-                                 tools-5/readme.txt file )
+                                 tools-6/readme.txt file )
                   run program in  'webfind54'(step100)(get all words ,generate 3rd word database )
 
                   (in here , chinese is coded in GB18030 ,in Windows, you can directly open it , if you are in 
@@ -190,36 +190,36 @@ How does computer process text,video,audio
 
         源程序：
 
-            Windows XP/7+MSYS+MINGW  或者 Ubuntu
+            Ubuntu  或者 Linux Mint
 
-            在MSYS下, 需要把主目录里的config.h里的AI_LINUX符号定义为0,即 #define AI_LINUX 0
-            在Ubuntu下, 需要把主目录里的config.h里的AI_LINUX符号定义为1,即 #define AI_LINUX 1
-
-            在MSYS下编译用build-msys.bat
-            在Ubuntu下编译用build-ubuntu.bat
+            在Ubuntu/Linux Mint下编译用build-ubuntu.bat
 
             在work_dir目录
                   download目录下是离线阅读器下载的文件
-                  运行 a-step10-f3-msys.bat (在目录work_dir)(列出目录)(在Ubuntu下是a-step10-f3-ubuntu.bat)
+                  运行 a-step10-f3-ubuntu.bat (在目录work_dir)(列出目录)
                   运行 webfind_b 目录下的程序(step20)(拷贝到Work_dir)(提取文本)
-				(在这个版本里,保留了200个文本文件,从 stringbase000000.txt 到 stringbase000199.txt ,
+				(在这个版本里,保留了200个文本文件,从 string1base000000.txt 到 string1base000199.txt ,
                                  如果你不想用离线阅读器下载,可以直接从下一步开始,即从step30开始. )
                   运行 webfind39 目录下的程序(step30)(拷贝到work_dir,包括cb.txt )(去掉标点符号)
                   运行 webfind4a 目录下的程序(step40)(拷贝到work_dir)(去掉空行，重复的行)
+                  运行 a-step50-ini.exe 200 8
+                              ('200' 是要计算的文件数量, '8' 是使用多少个CPU线程)
                   运行 webfind29f 目录下的程序 (step50)(根据重复分词)
                                                       （如果你想进行网格计算，不要运行 a-step50.exe, 而是运行 a-step50.bat ，
-                                                         怎样创建这个 .bat文件请看 tools-5/readme.txt 文件 )
+                                                         怎样创建这个 .bat文件请看 tools-6/readme.txt 文件 )
                   运行 webfind23c 目录下的程序 (step60)(把所有的词汇总，形成词库)
                                               (step70)(已经删除)
                                               (step80)(已经删除)
 
+                  运行 a-step90-ini.exe 200 8
+                              ('200' 是要计算的文件数量, '8' 是使用多少个CPU线程)
                   运行 webfind53e 目录下的程序 (step90)(根据词课件和自动生成的词库分词)
-				(词课件在words-cw01.txt 和 words-cw02_sort.txt 这两个文件中,
+				(词课件在words-cw01.txt 和 words-cw02.sort.txt 这两个文件中,
                                  如何制作词课件请看webfind50目录下的readme.txt文件,文本文件
-                                 words-cw02_sort.utf8.txt是为了让你在Ubuntu下浏览词课件,程序
+                                 words-cw02.sort.utf8.txt是为了让你在Ubuntu下浏览词课件,程序
                                  不会读 *.utf8.txt 文件)
                                  （如果你想进行网格计算，不要运行 a-step90.exe, 而是运行 a-step90.bat ，
-                                  怎样创建这个 .bat文件请看 tools-5/readme.txt 文件 )
+                                  怎样创建这个 .bat文件请看 tools-6/readme.txt 文件 )
                   运行 webfind54  目录下的程序 (step100)(把所有的词汇总，形成第三个词库)
 
                   (在这里的程序里,汉字是用GB18030编码的,在Windows里可以直接浏览,如果你用的
@@ -268,7 +268,7 @@ How does computer process text,video,audio
             (highest one separate sentence by a word with 3 chinese, lower 
             ones may separate sentence by a word with 2 chinese or a word with
             1 chiness .) so there are thousands result , choose 
-            the 20 highest value ones , calculate its grammar value , add with
+            the 200 highest value ones , calculate its grammar value , add with
             its word value ,the highest value one is result.
 
         separate all text . 
@@ -277,27 +277,27 @@ How does computer process text,video,audio
 
         get repeat times of each grammar in grammar courseware .
 
-        after this step accuracy is about 91%
-        (in step210 ,set param SPL1_OUT_NUM to 20,choose the 20 highest word value 
-            ones to calculate grammar value ,accuracy +1%,to 91%, if you set param SPL1_OUT_NUM 
-            to 200,accuracy +2%,to 92% ,but need 10 times of time .)
+        after this step accuracy is about 92%
+        (in before,in step210 ,set param SPL1_OUT_NUM to 20,choose the 20 highest word value 
+            ones to calculate grammar value ,accuracy +1%,to 91%, now ,set param SPL1_OUT_NUM 
+            to 200,accuracy +2%,to 92% , but need 10 times of time .)
 
-        browse separated text(grm-base1-nnn.txt), if there is error , 
+        browse separated text(words-gram-000000.txt), if there is error , 
         then make relative courseware,
-        if there is error:"战,,地;;" ,make words courseware "战地"(in text file words-cw02_sort.txt,how to make 
+        if there is error:"战,,地;;" ,make words courseware "战地"(in text file words-cw02.sort.txt,how to make 
 				word courseware please read readme.txt file in directory webfind50 )
-        if there is error:"时,,时刻,,刻,," , make words courseware "时时刻刻"(in text file words-cw02_sort.txt)
+        if there is error:"时,,时刻,,刻,," , make words courseware "时时刻刻"(in text file words-cw02.sort.txt)
         if there is error:"节,,目的;;" , make grammar courseware "节目==的=="(in text file grammar-cw03.txt)
         if there is error:"将获;;得;;" , make grammar courseware "将==获得=="(in text file grammar-cw03.txt)
         and run step90 to step230 again, the result is much better.
 
         (if you make grammar database by human separated text, don't need this step.)
 
-        after this step , I estimate accuracy will be about 97%
+        after this step accuracy will be about 97%
 
         source code:
 
-            Windows XP/7+MSYS+MINGW  or Ubuntu/Mint
+            On Ubuntu/Linux Mint
 
             grammar courseware is in file grammar-cw03.txt
 
@@ -305,7 +305,10 @@ How does computer process text,video,audio
                     (save all the permutation and combination of words to memory , 
                      repeated is grammar(phrase) , put all those grammar together ,it is
                      grammar database )
-
+                run program in webfind60c-2 (step200-2)(copy to work_dir)
+                     (sort grammar courseware)
+                run program a-step210-ini.exe 200 8
+                              ('200' is total file number, '8' is how many CPU thread do you want use)
                 run program in webfind61f (step210)(copy to work_dir)
                     (separate sentence by word courseware and word database , 
                     not only keep the highest value one , also keep some lower 
@@ -313,13 +316,17 @@ How does computer process text,video,audio
                     choose max value one )
                     (if you want grid compute,don't run a-step210.exe ,run
                      a-step210.bat , how to make this .bat file please read 
-                     tools-5/readme.txt file )
+                     tools-6/readme.txt file )
 
                 run program in webfind62 (step220)(copy to work_dir)
                     (get all the words , it is 4th word database )
-
-                run program in webfind63b (step230)(copy to work_dir)
+                run program in webfind63c (step230)(copy to work_dir)
+                    (get new grammar database)
+                run program in webfind64b (step240)(copy to work_dir)
                     (get repeat times of each grammar in grammar courseware )
+                    
+                directory 'webfind65' is a sentence separating app,if you want to separate sentence 
+                please read readme.txt in this directory .
 
                         (Mar 21th 2014 version added support to repeat times of grammars, repeat times of words, 
                              and better algorithm )
@@ -335,11 +342,13 @@ How does computer process text,video,audio
                         (Sep 3rd 2020 version have better formula of super pipeline,add debug code to super 
                              pipeline,5 words grammar change to 4 words grammar, and have better punctuation 
                              proccess.)
-                        (July 22th 2021 version: better looking source code, enabled grid computing,new setence 
-                             database,total 200 files ,in before,in step210 ,set param SPL1_OUT_NUM to 20,
-                             choose the 20 highest word value ones to calculate grammar value  ,accuracy +1%,
-                             to 91%, now ,set param SPL1_OUT_NUM to 200, accuracy +2%,to 92% . )
-
+                        (Jul 22th 2021 version have better looking source code, enabled grid computing,in before,
+                             in step210 ,set param SPL1_OUT_NUM to 20,choose the 20 highest word value ones 
+                             to calculate grammar value  ,accuracy +1%,to 91%,now ,set param SPL1_OUT_NUM 
+                             to 200, accuracy +2%,to 92% )
+                        (Jan 9th 2022 version replaced binary tree search by binary search ,smaller and faster,
+                             increased parameter to be suitable to every kind of web pages , added sentence 
+                             separating app .)
 
 
 
@@ -366,7 +375,7 @@ How does computer process text,video,audio
 
         把一句话按照词分解开来，不仅保留总体分数最大的，也保留分数较小的
            （用字数比较小的词分解一句话），这样可能的分解数量，短的句子
-            有30种可能，长的句子有2000种可能,选词分数最大的20个句子,计算它们
+            有30种可能，长的句子有2000种可能,选词分数最大的200个句子,计算它们
             的语法分数,然后和词的分数相加,分数最大的就是结果.
 
         用这种方法把所有的文本分解开来。
@@ -375,14 +384,14 @@ How does computer process text,video,audio
 
         计算语法课件重复次数,
 
-        到这个步骤时准确率约为91% 
-        (在 step210 ,参数 SPL1_OUT_NUM 设置为 20，也就是取20个词分数最大的去计算他们的语法分数，
-         准确率+1%,到 91%,如果把这个参数设为200，准确率+2%,到92% ,但是需要10倍时间 .）
+        到这个步骤时准确率约为92% 
+        (在以前，在 step210 ,参数 SPL1_OUT_NUM 设置为 20，也就是取20个词分数最大的去计算他们的语法分数，
+         准确率+1%,到 91%,现在把这个参数设为200，准确率+2%,到92%,但是需要10倍时间 .）
 
-        浏览分解的文本(grm-base1-nnn.txt), 如果有错误, 制作相关课件,
-        如果有错误:"战,,地;;" ,制作词课件 "战地"(在文件 words-cw02_sort.txt 中,如何
+        浏览分解的文本(words-gram-000000.txt), 如果有错误, 制作相关课件,
+        如果有错误:"战,,地;;" ,制作词课件 "战地"(在文件 words-cw02.sort.txt 中,如何
             制作词课件请看webfind50目录下的readme.txt文件)
-        如果有错误:"时,,时刻,,刻,," , 制作词课件 "时时刻刻"(在文件 words-cw02_sort.txt 中)
+        如果有错误:"时,,时刻,,刻,," , 制作词课件 "时时刻刻"(在文件 words-cw02.sort.txt 中)
         如果有错误:"节,,目的;;" , 制作语法课件 "节目==的=="(在文件 grammar-cw03.txt 中)
         如果有错误:"将获;;得;;" , 制作语法课件 "将==获得=="(在文件 grammar-cw03.txt 中)
         再次运行 step90 到 step230 , 结果好很多.
@@ -393,26 +402,34 @@ How does computer process text,video,audio
 
         源程序：
 
-            Windows XP/7+MSYS+MINGW 或者 Ubuntu
+            Ubuntu 或者 Linux Mint
 
                 语法课件在grammer-cw03.txt文件里
 
                 运行webfind60c里的程序(step200)(拷贝到目录 work_dir)
                         把词的排列组合装入内存,重复的是语法,把这些语法汇集到
                         一起,是语法库.
-
+                运行webfind60c-2里的程序(step200-2)(拷贝到目录 work_dir)
+                     (语法课件排序)
+                运行a-step210-ini.exe 200 8
+                              ('200' 是要计算的文件数量, '8' 是使用多少个CPU线程)
                 运行webfind61f里的程序(step210)(拷贝到目录 work_dir)
-                把一句话按照词分解开来，不仅保留总体分数最大的，也保留分数较小的 ,
+                       把一句话按照词分解开来，不仅保留总体分数最大的，也保留分数较小的 ,
 			计算它们的语法分数,然后和词的分数相加,选取分数最大的,
                         （如果你想进行网格计算，不要运行 a-step210.exe, 而是运行 a-step210.bat ，
-                          怎样创建这个 .bat文件请看 tools-5/readme.txt 文件 )
+                          怎样创建这个 .bat文件请看 tools-6/readme.txt 文件 )
 
                 运行webfind62里的程序(step220)(拷贝到目录 work_dir)
 			把词收集起来,形成第四个词库.
 
-                运行webfind63b里的程序(step230)(拷贝到目录 work_dir)
+                运行webfind63c里的程序(step230)(拷贝到目录 work_dir)
+                    (获得新的语法库)
+
+                运行webfind64b里的程序(step240)(拷贝到目录 work_dir)
                         把所有的语法的重复次数计算出来
 
+                目录 'webfind65' 是一个语句分解app , 如果你想分解语句 
+                请阅读这个目录的 readme.txt 文件 .
 
                         (2014-3-21 版本 增加了对语法重复次数的支持,词重复次数的支持,改进了算法 )
                         (2018-2- 1 版本 增加了语法课件 )
@@ -424,10 +441,11 @@ How does computer process text,video,audio
                                    2019-9-25版本是一个beta版本)
                         (2020-9-3  版本 改进了超级管道的数学公式,在超级管道中增加了调试代码,5个
                                    词的语法改为4个词的语法,改进了标点符号的处理)
-                        (2021-7-22 版本: 源程序更漂亮，增加了网格计算功能，更新了语料库,总共200个文件,
-                                   在以前，在 step210 ,参数 SPL1_OUT_NUM 设置为 20，也就是取20个词
-                                   分数最大的去计算他们的语法分数，准确率+1%,到 91%,现在把这
+                        (2021-7-22 版本: 源程序更漂亮，增加了网格计算功能，在以前，在 step210 ,参数 SPL1_OUT_NUM 
+                                   设置为 20，也就是取20个词分数最大的去计算他们的语法分数，准确率+1%,到 91%,现在把这
                                    个参数设为200，准确率+2%,到92%。）
+                        (2022-1-9  版本 用二分法检索替换了排序二叉树 , 更小更快 ,
+                                   放大了参数以便适应各种网页 , 增加了语句分解app .)
 
 
 

@@ -36,28 +36,18 @@ long long int str2llint(char *pstr);
 
 
 //------------------------------
-#define ARTI_LINE    2000000
+#define ARTI_LINE1    2000000
+#define ARTI_LINE2    200000
 
-/*
-char at5[ARTI_LINE][55];
-long long int at5_n[ARTI_LINE];
-int  at5_ptr;
 
-int  search_wd5(char *);
-int  load5(void);
-
-long long int find_n5;
-int 	      find_m5;
-*/
-
-	 char wd5_buf[ARTI_LINE][55];
-long long int wd5_rt[ARTI_LINE];
+	 char wd5_buf[ARTI_LINE1][55];
+          int wd5_rt[ARTI_LINE1];
 	  int wd5_ptr;
 
 int  wd5_search(char *);
 int  wd5_load(void);
 
-long long int wd5_find_rt;
+int           wd5_find_rt;
 int 	      wd5_find_ptr;
 
 //------------------------------
@@ -65,25 +55,15 @@ int 	      wd5_find_ptr;
 //------------------------------
 //#define ARTI_LINE    1000000
 
-/*
-char at6[ARTI_LINE][55];
-long long int at6_n[ARTI_LINE];
-int  at6_ptr;
 
-int  search_wd6(char *);
-int  load6(void);
-
-long long int find_n6;
-*/
-
-	 char wd6_buf[ARTI_LINE][55];
-long long int wd6_rt[ARTI_LINE];
+	 char wd6_buf[ARTI_LINE2][55];
+          int wd6_rt[ARTI_LINE2];
 	  int wd6_ptr;
 
 int  wd6_search(char *);
 int  wd6_load(void);
 
-long long int wd6_find_rt;
+int  wd6_find_rt;
 
 //------------------------------
 
@@ -92,6 +72,8 @@ int ai_number_g(void);
 
 extern int load_cb2(void);
 
+int t3_init_tree2(void);
+int t3_after_list(void);
 
 //int pascal WinMain(HINSTANCE ins
 //		  ,HINSTANCE pins
@@ -99,7 +81,7 @@ extern int load_cb2(void);
 //		  ,int show)
 int main(void)
 {
-	MessageBox(0,"load words-cww3-000000.txt , word database, words courseware, write to grammar-base03-000000.txt","message",MB_OK);
+	MessageBox(0,"load words-cww3-000000.txt , word database, words courseware, write to grammar-base03.sort.txt","message",MB_OK);
 
 	ai_number_g();
 
@@ -133,8 +115,11 @@ int mproc(char *strpath)
 
 	f1_init_ext();
 
+	t3_init_tree2();
+
 	while(1)
 	{
+
 		i=frame_loop1();
 		if (i==1) break;
 
@@ -144,6 +129,8 @@ int mproc(char *strpath)
 
 		if (i==1) break;
 	}
+
+	t3_after_list();
 
 	return(0);
 }
@@ -276,10 +263,10 @@ int grm10_ini(void)
 }
 /*
 // tree 1 ----------------
-#define TREE2_SIZE 100000
+#define TREE_SIZE 100000
 #define LIST_SIZE  100000
 
-    int   t1_node_val2[TREE2_SIZE];
+    int   t1_node_val2[TREE_SIZE];
     int   t1_find_ptr2;
 
     int   t1_init_tree2(void);
@@ -531,12 +518,10 @@ int frame_loop1(void)
 
 	fclose(fp1);
 
-
 	i=(mc6-'0')*100000+(mc5-'0')*10000+(mc4-'0')*1000+(mc3-'0')*100+(mc2-'0')*10+mc1-'0'; // times of 3 , run load12() , load grammar base 
 	j=i-3*(i/3);
 
 	if (j==0) load12();
-
 
 	return(0);
 }
@@ -567,6 +552,8 @@ int wd5_load(void)
 
 	f1_get_fln4(m401_s1);
 
+	printf("wd5_load():%s,",m401_s1);
+
 	fp1=fopen(m401_s1,"r");
 	if (fp1==NULL)
 	{
@@ -585,6 +572,8 @@ int wd5_load(void)
 
 		fgets(m401_l1,SMG_SIZE,fp1);
 	
+		if (feof(fp1)) break;	
+
 		k=0;
 		ptr=0;
 		i=0;
@@ -647,7 +636,14 @@ int wd5_load(void)
 			}
 		}
 
+		if ((int)strlen(m401_l2)<1 ) continue;
 		if ((int)strlen(m401_l2)>50) continue;
+
+		if (  (wd5_ptr<0)||(wd5_ptr>=ARTI_LINE1)  )
+		{
+			printf("ARTI_LINE1 too small\n");
+			continue;
+		}
 
 		strcpy(wd5_buf[wd5_ptr],m401_l2);
 
@@ -678,6 +674,8 @@ int wd5_load(void)
 
 	fclose(fp1);
 
+	printf("total %d words,\n",wd5_ptr);
+
 	return(0);
 }
 
@@ -706,10 +704,14 @@ int wd6_load(void)
 
 	wd6_ptr=0;
 
-	fp1=fopen("words-cw02rpt.txt","r");
+	strcpy(m501_s1,"words-cw02rpt03.txt");
+
+	printf("wd6_load():%s,",m501_s1);
+
+	fp1=fopen(m501_s1,"r");
 	if (fp1==NULL)
 	{
-		MessageBox(0,"words-cw02rpt.txt","message open file error",MB_OK);
+		MessageBox(0,m501_s1,"message open file error",MB_OK);
 		return(1);
 	}
 
@@ -724,6 +726,8 @@ int wd6_load(void)
 
 		fgets(m501_l1,SMG_SIZE,fp1);
 	
+		if (feof(fp1)) break;
+
 		k=0;
 		ptr=0;
 		i=0;
@@ -790,7 +794,14 @@ int wd6_load(void)
 			}
 		}
 
+		if ((int)strlen(m501_l2)<1 ) continue;
 		if ((int)strlen(m501_l2)>50) continue;
+
+		if (  (wd6_ptr<0)||(wd6_ptr>=ARTI_LINE2)  )
+		{
+			printf(" ARTI_LINE2 too small\n");
+			continue;
+		}
 
 		strcpy(wd6_buf[wd6_ptr],m501_l2);
 
@@ -821,6 +832,8 @@ int wd6_load(void)
 
 	fclose(fp1);
 
+	printf("total %d words,\n",wd6_ptr);
+
 	return(0);
 }
 
@@ -848,6 +861,7 @@ int wd5_search(char *s_str)
 	while(1)
 	{
 		i=(p1+p2)/2;
+		if ( (i<0)||(i>=wd5_ptr)||(i>=ARTI_LINE1) ) return(0);
 		if (i<=p1)
 		{
 			j=strcmp(wd5_buf[i],s_str);
@@ -928,6 +942,7 @@ int wd6_search(char *s_str)
 	while(1)
 	{
 		i=(p1+p2)/2;
+		if ( (i<0)||(i>wd6_ptr)||(i>ARTI_LINE2) ) return(0);
 		if (i<=p1)
 		{
 			j=strcmp(wd6_buf[i],s_str);

@@ -64,28 +64,18 @@ int ff1_next_ext(void);
 int ff1_get_fln2(char *);
 
 //------------------------------
-#define ARTI_LINE    2000000
+#define ARTI_LINE1    2000000
+#define ARTI_LINE2    200000
 
-/*
-char at5[ARTI_LINE][55];
-long long int at5_n[ARTI_LINE];
-int  at5_ptr;
 
-int  search_wd5(char *);
-int  load5(void);
-
-long long int find_n5;
-int  find_m5;
-*/
-
-	 char wd5_buf[ARTI_LINE][55];
-long long int wd5_rt[ARTI_LINE];
+	 char wd5_buf[ARTI_LINE1][55];
+          int wd5_rt[ARTI_LINE1];
 	  int wd5_ptr;
 
 int  wd5_search(char *);
 int  wd5_load(void);
 
-long long int wd5_find_rt;
+          int wd5_find_rt;
 	  int wd5_find_ptr;
 
 //------------------------------
@@ -96,45 +86,77 @@ long long int str2llint(char *pstr);
 
 
 
-int t5_search_node(char *);  //sentence tree
-int t5_insert_node(char *);
-int t5_init_tree2(void);
+#define TREE_SIZE_E 400000
+#define LIST_SIZE_E  40000
 
-#define TREE2_SIZE_F 3000000  // tmp grammar tree
+    char  t5_node_mark[TREE_SIZE_E];
+    char  t5_node_val[TREE_SIZE_E][600];
+
+    int   t5_node_ptr[TREE_SIZE_E][3];
+    int   t5_root_ptr;
+    int   t5_buff_ptr;
+    
+    int   t5_find_ptr;
+    int   t5_find_ptr2;
+    int   t5_find_side;
+    
+    int   t5_list_stack[LIST_SIZE_E];
+    char  t5_list_stack_type[LIST_SIZE_E];
+    int   t5_list_ptr;
+
+    //char  t5_out_buff[TREE_SIZE_E][600];
+
+    int   t5_out_ptr;
+
+    int   t5_init_tree2(void);
+    int   t5_new_node(void);
+    int   t5_clear_node(int ptr);
+    int   t5_search_node(char *pstr);
+    int   t5_insert_node(char *pstr);
+    int   t5_dsp_tree2(void);
+    int   t5_after_list(void);
+    int   t5_out_list(char *pstr,int ,int);
+    int   t5_dsp_list(void);
+    int   t5_save_list(char *fn);
+
+
+
+
+#define TREE_SIZE_F 3000000  // tmp grammar tree
 #define LIST_SIZE_F  300000
 
 int t6_search_node(int pn1,int pn2,int pn3,int pn4/*,int pn5*/);
 int t6_insert_node(int pn1,int pn2,int pn3,int pn4/*,int pn5*/);
 int t6_init_tree2(void);
 
-int t6_node_val[TREE2_SIZE_F][4/*5*/];
-int t6_node_val2[TREE2_SIZE_F];
+int t6_node_val[TREE_SIZE_F][4/*5*/];
+int t6_node_val2[TREE_SIZE_F];
 
 int t6_find_ptr2;
 int t6_buff_ptr;
 
-#define TREE2_SIZE_C 3000000 // main grammar tree
-#define LIST_SIZE_C  300000
+#define TREE_SIZE_C 25000000 // main grammar tree
+#define LIST_SIZE_C  2500000
 
 int t3_search_node(int pn1,int pn2,int pn3,int pn4/*,int pn5*/);
 int t3_insert_node(int pn1,int pn2,int pn3,int pn4/*,int pn5*/);
 int t3_init_tree2(void);
 
-int t3_node_val[TREE2_SIZE_C][4/*5*/];
-int t3_node_val2[TREE2_SIZE_C];
+int t3_node_val[TREE_SIZE_C][4/*5*/];
+int t3_node_val2[TREE_SIZE_C];
 
 int t3_find_ptr2;
 int t3_buff_ptr;
 
 int  grm10_ptr1[6];
 char grm10_mrk[6][20][10];
-
+/*
 #define SENT_LEN2        600
-#define SENT_NUM         300000
+#define SENT_NUM         400000
 
 char load9[SENT_NUM][SENT_LEN2];
 int  load9_l;
-
+*/
 static char m101_l1[3000];
 static char m101_l2[600];
 static char m101_l3[600];
@@ -156,9 +178,8 @@ int load12(void)
 
 	err=0;
 	ff1_init_ext();
-	t3_init_tree2();
 
-	load9_l=0;		// init buffer
+	//load9_l=0;		// init buffer
        	t5_init_tree2();
 	t6_init_tree2();
 	err2_n=0;
@@ -186,8 +207,10 @@ int load12(void)
 			if ((m101_l1[0]>=0)&&(m101_l1[0]<=' ')) continue;  // <=' ' ???
 			if (strlen(m101_l1)>=600) continue;
 
-			t=sent9in1(m101_l1);
-			if (t==0) sent9add2(m101_l1);		// if not repeat , load it
+			//sent9in1(m101_l1);
+			t5_insert_node(m101_l1);
+
+			//if (t==0) sent9add2(m101_l1);		// if not repeat , load it
 
 		}
 
@@ -196,13 +219,13 @@ int load12(void)
 		ff1_next_ext();
 	}
 
-	for (j=0;j<load9_l;j++)  // for every line
+	for (j=0;j<t5_buff_ptr;j++)  // for every line
 	{
             	l=0;
 		m=0;
 		n=0;
 
-		strcpy(m101_l2,load9[j]);
+		strcpy(m101_l2,t5_node_val[j]);
 		m101_l3[0]=0;
 		err2=0;
 
@@ -275,7 +298,7 @@ int load12(void)
 
 		while (p<=m101_ns_ptr-1) // for every number
 		{
-			for (o=2;o<=4/*5*/;o++) // for every possible grammar len
+			for (o=2;o<=4;o++) // for every possible grammar len
 			{
 				if (p+o>m101_ns_ptr) continue;
 
@@ -287,7 +310,6 @@ int load12(void)
 					sn2=(-1);
 					sn3=(-1);
 					sn4=(-1);
-					sn5=(-1);
 
 					if (grm10_mrk[o][r][0]=='1') sn1=m101_ns[p+0];
 					if (grm10_mrk[o][r][0]=='0') sn1=(-2);		//(-2):$* ,any word   (-3):number
@@ -304,14 +326,8 @@ int load12(void)
 					if (grm10_mrk[o][r][3]=='1') sn4=m101_ns[p+3];
 					if (grm10_mrk[o][r][3]=='0') sn4=(-2);		//$* ,any word
 					if (grm10_mrk[o][r][3]==' ') sn4=(-1);		//end of grammar
-/*
-					if (grm10_mrk[o][r][4]=='1') sn5=m101_ns[p+4];
-					if (grm10_mrk[o][r][4]=='0') sn5=(-2);		//$* ,any word
-					if (grm10_mrk[o][r][4]==' ') sn5=(-1);		//end of grammar
-*/
-					//sn5=(-1);
 
-					t6_insert_node(sn1,sn2,sn3,sn4/*,sn5*/);
+					t6_insert_node(sn1,sn2,sn3,sn4);
 
 					t6_node_val2[t6_find_ptr2]=t6_node_val2[t6_find_ptr2]+1;
 				}
@@ -334,17 +350,15 @@ int load12(void)
 			sn2=t6_node_val[i][1];
 			sn3=t6_node_val[i][2];
 			sn4=t6_node_val[i][3];
-			//sn5=t6_node_val[i][4];
-			sn5=(-1);
 
-			t3_insert_node(sn1,sn2,sn3,sn4/*,(-1)*//*sn5*/);
+			t3_insert_node(sn1,sn2,sn3,sn4);
 
 			t3_node_val2[t3_find_ptr2]=t3_node_val2[t3_find_ptr2]+t6_node_val2[i];
 		}
 	}
 
 	// test ----
-
+/*
 	strcpy(s4,"grammar-base03-000000.txt");
 
 	s4[15]=mc6;
@@ -457,7 +471,7 @@ int load12(void)
 				fputs("$*--",fp2);
 			}
 		}
-/*
+*//*
 		if (sn5>=0)
 		{
 			fputs(wd5_buf[sn5],fp2);
@@ -479,7 +493,7 @@ int load12(void)
 				fputs("$*--",fp2);
 			}
 		}
-*/
+*//*
 		fputs(",,",fp2);
 		sprintf(s2,"%d",t3_node_val2[i]);
 		fputs(s2,fp2);
@@ -491,12 +505,12 @@ int load12(void)
 	fclose(fp2);
 	
 	// end of test 
-
+*/
 	return(0);
 
 }
 
-
+/*
 int sent9in1(char *sent_s)
 {
   	int  i,j,k;
@@ -504,19 +518,12 @@ int sent9in1(char *sent_s)
 
 	if ((int)strlen(sent_s)>=600) return(1);
 
-	i=t5_search_node(sent_s);
-
-	if (i==1)
-	{
-		t5_insert_node(sent_s);
-		return(0);
-	}
-	else
-	{
-		return(1);
-	}
+	t5_insert_node(sent_s);
+	
+	return(0);
 }
-
+*/
+/*
 int sent9add2(char *sent_s)
 {
   	int  i,j,k;
@@ -535,7 +542,7 @@ int sent9add2(char *sent_s)
 
 	return(0);
 }
-
+*/
 int ff1_init_ext(void)
 {
 	FILE *fp1;
@@ -604,9 +611,9 @@ int  sent_cb2_ptr;
 
 int load_cb2(void)
 {
-    FILE *fp1;
-    int   i,j,k;
-    char  str[300];
+	FILE *fp1;
+	int   i,j,k;
+	char  str[300];
 
 	fp1=fopen("cb2.txt","r");
 	if (fp1==NULL)
@@ -640,6 +647,8 @@ int load_cb2(void)
 	}
 
 	fclose(fp1);
+
+	printf("load_cb2():total %d punctuation,\n",sent_cb2_ptr);
 
 	return(0);
 

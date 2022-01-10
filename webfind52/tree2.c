@@ -52,7 +52,7 @@ int deb_upper_string(char *p_instr);
 
     char  t1_node_mark[TREE2_SIZE];
     char  t1_node_val[TREE2_SIZE][55];
-    long long int t1_node_val2[TREE2_SIZE];
+    int   t1_node_val2[TREE2_SIZE];
 
     int   t1_node_val3[TREE2_SIZE][5][3];
     int   t1_node_val3_ptr[TREE2_SIZE];
@@ -70,7 +70,7 @@ int deb_upper_string(char *p_instr);
     int   t1_list_ptr;
 
     char  t1_out_buff[TREE2_SIZE][55];
-    long long int t1_out_buff2[TREE2_SIZE];
+    int   t1_out_buff2[TREE2_SIZE];
 
     int   t1_out_buff3[TREE2_SIZE][5][3];
     int   t1_out_buff3_ptr[TREE2_SIZE];
@@ -84,7 +84,7 @@ int deb_upper_string(char *p_instr);
     int   t1_insert_node(char *pstr);
     int   t1_dsp_tree2(void);
     int   t1_after_list(void);
-    int   t1_out_list(char *pstr,long long int ,int);
+    int   t1_out_list(char *pstr,int ,int);
     int   t1_dsp_list(void);
     int   t1_save_list(char *fn);
 
@@ -233,7 +233,7 @@ int /*tree2::*/t1_insert_node(char *pstr)
       j=t1_new_node();
       if (j<0)
       {
-        MessageBox(0,"error at insert_node() when call new_node()","message",MB_OK);
+        MessageBox(0,"tree1 error at insert_node() when call new_node()","message",MB_OK);
         return(1);
       }
       else
@@ -250,7 +250,7 @@ int /*tree2::*/t1_insert_node(char *pstr)
       j=t1_new_node();
       if (j<0)
       {
-        MessageBox(0,"error at insert_node() when call new_node()","message",MB_OK);
+        MessageBox(0,"tree1 error at insert_node() when call new_node()","message",MB_OK);
         return(1);
       }
       else
@@ -570,7 +570,7 @@ int /*tree2::*/t1_after_list(void)
   return(0);
 }
 
-int /*tree2::*/t1_out_list(char *pstr,long long int pn1,int ptr)
+int /*tree2::*/t1_out_list(char *pstr,int pn1,int ptr)
 {
   int i,j;
 

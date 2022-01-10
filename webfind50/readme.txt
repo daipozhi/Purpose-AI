@@ -22,15 +22,15 @@ run program in this directory(words-cw01.c),program will list all the words whic
     words-cw02_notsort.txt , user can choose ,which is a word ,which isn't a word ,
     in file words-cw02_notsort.backup.utf8.txt these words are chose ,convert to GB18030 ,copy to 
     words-cw02_notsort.txt , and copy file words-cw02_notsort.txt to directory webfind52 ,
-    run program in webfind52 , it will sort these words and copy to words-cw02_sort.txt ,
-    copy file words-cw02_sort.txt and words-cw01.txt to directory work_dir , 
+    run program in webfind52 , it will sort these words and copy to words-cw02.sort.txt ,
+    copy file words-cw02.sort.txt and words-cw01.txt to directory work_dir , 
     word courseware is done .
 
 if you already made courseware , you want add some new words ,add these words to file 
     words-cw02_notsort.backup.utf8.txt , convert to GB18030 ,copy to 
     words-cw02_notsort.txt , and copy file words-cw02_notsort.txt to directory webfind52 ,
-    run program in webfind52 , it will sort these words and copy to words-cw02_sort.txt ,
-    copy file words-cw02_sort.txt to directory work_dir , 
+    run program in webfind52 , it will sort these words and copy to words-cw02.sort.txt ,
+    copy file words-cw02.sort.txt to directory work_dir , 
     word courseware is done .( you don't need run program words-cw01.c )
 
 (in here , chinese is coded in GB18030 ,in Windows, you can directly open it , if you are in Ubuntu,
@@ -58,13 +58,13 @@ if you already made courseware , you want add some new words ,add these words to
     words-cw02_notsort.txt文件中,用户可以选择哪个是词,哪个不是词,在文件
     words-cw02_notsort.backup.utf8.txt中是已经选择好了的,把这个文件转为GB18030编码,
     拷贝到words-cw02_notsort.txt文件 ,再把这个文件拷贝到webfind52中,
-    运行webfind52中的程序,把这些词排序,输出到words-cw02_sort.txt文件中,
-    再把words-cw02_sort.txt和words-cw01.txt拷贝到work_dir目录,词课件就完成了.
+    运行webfind52中的程序,把这些词排序,输出到words-cw02.sort.txt文件中,
+    再把words-cw02.sort.txt和words-cw01.txt拷贝到work_dir目录,词课件就完成了.
 
 如果你已经制作了词课件,想增加一些新词,把新词加入words-cw02_notsort.backup.utf8.txt中,
     把这个文件转为GB18030编码,拷贝到words-cw02_notsort.txt文件 ,再把这个文件拷贝到
-    webfind52中,运行webfind52中的程序,把这些词排序,输出到words-cw02_sort.txt文件中,
-    再把words-cw02_sort.txt和words-cw01.txt拷贝到work_dir目录,词课件就完成了.
+    webfind52中,运行webfind52中的程序,把这些词排序,输出到words-cw02.sort.txt文件中,
+    再把words-cw02.sort.txt和words-cw01.txt拷贝到work_dir目录,词课件就完成了.
 
 (在这里的程序里,汉字是用GB18030编码的,在Windows里可以直接浏览,如果你用的
     是Ubuntu,要浏览编辑某个文本文件时,需要把它转变为utf8编码,可以使用tools-3

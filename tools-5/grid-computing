@@ -1,7 +1,0 @@
-./a-step-nn.exe  0  9 &
-./a-step-nn.exe  9  9 &
-./a-step-nn.exe 18  9 &
-......
-
-ps -ef|grep a-step-nn
-

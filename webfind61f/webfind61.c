@@ -10,6 +10,8 @@
 #include <stdio.h>
 #include <string.h>
 
+#include <sys/file.h>
+
 #define SMG_SIZE      300
 
 char mc1;
@@ -36,54 +38,29 @@ long long int str2llint(char *pstr);
 
 
 //------------------------------
-#define ARTI_LINE    2000000
+#define ARTI_LINE1    2000000
+#define ARTI_LINE2    200000
 
-/*
-char at5[ARTI_LINE][55];
-long long int at5_n[ARTI_LINE];
-int  at5_ptr;
-
-int  search_wd5(char *);
-int  load5(void);
-
-long long int find_n5;
-int 	      find_m5;
-*/
-
-	 char wd5_buf[ARTI_LINE][55];
-long long int wd5_rt[ARTI_LINE];
+	 char wd5_buf[ARTI_LINE1][55];
+          int wd5_rt[ARTI_LINE1];
 	  int wd5_ptr;
 
 int  wd5_search(char *);
 int  wd5_load(void);
 
-long long int wd5_find_rt;
+int           wd5_find_rt;
 int 	      wd5_find_ptr;
 
 //------------------------------
 
-//------------------------------
-//#define ARTI_LINE    1000000
-
-/*
-char at6[ARTI_LINE][55];
-long long int at6_n[ARTI_LINE];
-int  at6_ptr;
-
-int  search_wd6(char *);
-int  load6(void);
-
-long long int find_n6;
-*/
-
-	 char wd6_buf[ARTI_LINE][55];
-long long int wd6_rt[ARTI_LINE];
+	 char wd6_buf[ARTI_LINE2][55];
+          int wd6_rt[ARTI_LINE2];
 	  int wd6_ptr;
 
 int  wd6_search(char *);
 int  wd6_load(void);
 
-long long int wd6_find_rt;
+          int wd6_find_rt;
 
 //------------------------------
 
@@ -96,10 +73,10 @@ char init_c3;
 char init_c4;
 char init_c5;
 char init_c6;
-
+/*
 int  init_n1;
 int  init_n2;
-
+*/
 
 //int pascal WinMain(HINSTANCE ins
 //		  ,HINSTANCE pins
@@ -107,49 +84,21 @@ int  init_n2;
 //		  ,int show)
 int main(int argc,char **argv)
 {
-    if (argc==1)
-    {
-      init_c1='0';
-      init_c2='0';
-      init_c3='0';
-      init_c4='0';
-      init_c5='0';
-      init_c6='0';
-
-      init_n1=1000000;
-    }
-    else if (argc==3)
-    {
-      init_c1=argv[1][5];
-      init_c2=argv[1][4];
-      init_c3=argv[1][3];
-      init_c4=argv[1][2];
-      init_c5=argv[1][1];
-      init_c6=argv[1][0];
-
-      init_n1=str2int(argv[2],strlen(argv[2])+1);
-    }
-    else
-    {
-      printf("bad argument\n");
-      return(0);
-    }
-
 	MessageBoxNow(0,"load words-cww2-000000.txt , word database, words courseware, grammar database, grammar courseware, write to words-gram-000000.txt","message",MB_OK);
 
 	ai_number_g();
 
 	grm10_ini();
 
-	wd5_load();  // word base
+	wd5_load();  // word database
 
 	wd6_load();  // word courseware 2
 
 	cww1_load(); // word courseware 1
 
-	load11();  //grammar courseware
+	grm15_load();  //grammar database
 
-	load12c();  //grammar database
+	grm16_load();  //grammar courseware
 
         load_cb2();  // load punctuation 2
 
@@ -167,7 +116,8 @@ int mproc(char *strpath)
 	char  s3[SMG_SIZE];
 	int   i;
 
-	f1_init_ext();
+	i=f1_init_ext();
+	if (i==1) return(0);
 
 	while(1)
 	{
@@ -181,11 +131,83 @@ int mproc(char *strpath)
 	return(0);
 }
 
+int f1_get_one(void)
+{
+  FILE *fp1;
+  int   i,j,eof;
+  char  str1[300];
+  char  str2[300];
 
 
+
+  fp1=fopen("a-step210.txt","r+");
+  if (fp1==NULL)
+  {
+    printf("open file error\n");
+    return(1);
+  }
+    
+  flock(fp1->_fileno, LOCK_EX);
+
+
+
+  i=0;
+  eof=0;
+  str2[0]='*';
+  str2[1]=0;
+
+  while (1)
+  {
+    fseek(fp1,i*8,SEEK_SET);
+    j=fread(str1,8,1,fp1);
+
+    if (j<1)
+    {
+      eof=1;
+      break;
+    }
+    if (str1[0]==' ')
+    {
+      fseek(fp1,i*8,SEEK_SET);
+      fwrite(str2,1,1,fp1);
+
+      init_c1=str1[ 6];
+      init_c2=str1[ 5];
+      init_c3=str1[ 4];
+      init_c4=str1[ 3];
+      init_c5=str1[ 2];
+      init_c6=str1[ 1];
+
+      break;
+    }
+    else i++;
+  }
+
+
+
+  flock(fp1->_fileno, LOCK_UN);
+
+  fclose(fp1);
+
+
+  if (eof==1) return(1);
+  else return(0);
+}
 
 int f1_init_ext(void)
 {
+	int i;
+
+	mc1='0';
+	mc2='0';
+	mc3='0';
+	mc4='0';
+	mc5='0';
+	mc6='0';
+
+	i=f1_get_one();
+	if (i!=0) return(1);
+
 	mc1=init_c1;
 	mc2=init_c2;
 	mc3=init_c3;
@@ -193,44 +215,24 @@ int f1_init_ext(void)
 	mc5=init_c5;
 	mc6=init_c6;
 
-        init_n2=1;
-
 	return(0);
 }
 
 int f1_next_ext(void)
 {
-	mc1++;
-	if (mc1>'9')
-	{
-		mc1='0';
-		mc2++;
-		if (mc2>'9')
-		{
-			mc2='0';
-			mc3++;
-			if (mc3>'9')
-            {
-    mc3='0';
-	mc4++;
-	if (mc4>'9')
-	{
-		mc4='0';
-		mc5++;
-		if (mc5>'9')
-		{
-			mc5='0';
-			mc6++;
-			if (mc6>'9') return(1);
-        }
-    }
-            }
-		}
-	}
+	int i;
 
-    init_n2++;
-    if (init_n2<=init_n1) return(0);
-    else return(1);
+	i=f1_get_one();
+	if (i!=0) return(1);
+
+	mc1=init_c1;
+	mc2=init_c2;
+	mc3=init_c3;
+	mc4=init_c4;
+	mc5=init_c5;
+	mc6=init_c6;
+
+	return(0);
 }
 
 int f1_get_fln(char *s1)
@@ -312,237 +314,19 @@ int grm10_ini(void)
   return(0);
 }
 
-// tree 1 ----------------  //grammar cw
-#define TREE2_SIZE 1000000
-#define LIST_SIZE  100000
-
-    int   t1_node_val2[TREE2_SIZE];
-    int   t1_find_ptr2;
-
-    int   t1_init_tree2(void);
-    int   t1_search_node(int pn1,int pn2,int pn3,int pn4,int pn5,int pn6);
-    int   t1_insert_node(int pn1,int pn2,int pn3,int pn4,int pn5,int pn6);
-// end of tree 1 -----
-
-static	char         m601_l1[SMG_SIZE];
-static	char         m601_l2[20][SMG_SIZE];
-static	char         m601_l3[SMG_SIZE];
-static	char         m601_s1[SMG_SIZE];
-static	char	     m601_s2[1000];
-static	char	     m601_s3[1000];
-static	char         m601_s4[SMG_SIZE];
-static  int 	     m601_ns[20];
-
-int load11(void)
-{
-	FILE		*fp1;
-    	int         i,j,k,m;
-	//char         l1[SMG_SIZE];
-	//char         l2[SMG_SIZE];
-	//char         l3[SMG_SIZE];
-	//char         s1[SMG_SIZE];
-	//char	       s2[SMG_SIZE];
-	char         c1,c2;
-	int          ptr,q;
-	int	     err,err_n;
-
-	t1_init_tree2();
-
-	err_n=0;
-
-	strcpy(m601_s1,"grammar-cw03.txt");
-
-	fp1=fopen(m601_s1,"r");
-	if (fp1==NULL)
-	{
-		MessageBoxNow(0,m601_s1,"message open file error",MB_OK);
-		return(1);
-	}
-
-	while (!feof(fp1))
-	{
-		m601_l1[0]=0;
-		for (i=0;i<20;i++) m601_l2[i][0]=0;
-		m601_l3[0]=0;
-
-		fgets(m601_l1,SMG_SIZE,fp1);
-
-		if (strncmp(m601_l1,"//",2)==0) continue;
-		if ((m601_l1[0]>=0)&&(m601_l1[0]<=' ')) continue;	
-
-		k=0;
-		ptr=0;
-		q=0;
-		i=0;
-
-		while (i<(int)strlen(m601_l1))
-		{
-			c1=m601_l1[i+0];
-			c2=m601_l1[i+1];
-
-			if (c1<0)
-			{
-				if (q==0) // words
-				{
-					m601_l2[ptr][k+0]=c1;
-					m601_l2[ptr][k+1]=c2;
-					m601_l2[ptr][k+2]=0;
-				}
-				else   //repeat times
-				{
-					m601_l3[k+0]=c1;
-					m601_l3[k+1]=c2;
-					m601_l3[k+2]=0;
-				}
-				k=k+2;
-  				if (k>=SMG_SIZE-3) k=SMG_SIZE-3;
-				i=i+2;
-			}
-			else
-			{
-				if (c1<' ')
-				{
-					break;
-				}
-				else
-				{
-					if (c1==',')
-					{
-						q=1;
-						k=0;
-						i=i+2;
-						continue;
-					}
-					else
-					{
-						if (c1=='=')
-						{
-							ptr++;
-							k=0;
-							i=i+2;
-							continue;
-						}
-						else
-						{
-							if (q==0)  //words
-							{
-								m601_l2[ptr][k+0]=c1;
-								m601_l2[ptr][k+1]=c2;
-								m601_l2[ptr][k+2]=0;
-								k=k+2;
-  								if (k>=SMG_SIZE-3) k=SMG_SIZE-3;
-								i=i+2;
-							}
-							else   // repeat times
-							{
-								m601_l3[k+0]=c1;
-								m601_l3[k+1]=0;
-								k++;
-  								if (k>=SMG_SIZE-3) k=SMG_SIZE-3;
-								i++;
-							}
-						}
-					}
-				}
-
-
-			}
-		}
-
-		if (ptr<2) continue;
-		if (ptr>6) continue;
-
-		err=0;
-
-		for (j=0;j<6;j++)
-		{
-			if (j>=ptr) m601_ns[j]=(-1); // end of grammar
-			else
-			{
-				if (strcmp(m601_l2[j],"$n")==0) m601_ns[j]=(-3); // number
-				else
-				{
-					m=wd5_search(m601_l2[j]);
-					if (m==1) m601_ns[j]=wd5_find_ptr;    
-					else
-					{
-						strcpy(m601_s4,m601_l2[j]);
-						err=1;
-						break;
-					}
-				}
-			}
-		}
-
-		if (err!=0)
-		{
-			err_n++;
-			continue;
-		}
-
-		t1_insert_node(m601_ns[0],m601_ns[1],m601_ns[2],m601_ns[3],m601_ns[4],m601_ns[5]);
-
-		t1_node_val2[t1_find_ptr2]=10; // repeat time
-
-
-		// test ----
-		/*
-		sprintf(m601_s2,"s1=%s,s2=%s,s3=%s,s4=%s,s5=%s,s6=%s,number=%s,\n ptr=%d,ns=%d,%d,%d,%d,%d,%d,rpt=%d,",
-			m601_l2[0],m601_l2[1],m601_l2[2],m601_l2[3],m601_l2[4],m601_l2[5],m601_l3,
-			t1_find_ptr2,m601_ns[0],m601_ns[1],m601_ns[2],m601_ns[3],m601_ns[4],m601_ns[5],
-			t1_node_val2[t1_find_ptr2]);
-
-		str_gb18030_to_utf8_ini();
-		if (AI_LINUX==1)
-		{
-			str_gb18030_to_utf8(m601_s2,m601_s3,SMG_SIZE);
-		}
-		else
-		{
-			strcpy(m601_s3,m601_s2);
-		}
-		str_gb18030_to_utf8_close();
-
-		MessageBoxNow(0,m601_s3,"load11 message",MB_OK);
-		*/
-		// end of test ----
-
-	}
-
-	fclose(fp1);
-
-	sprintf(m601_s2,"load11() %d line skiped %s,",err_n,m601_s4);
-/*
-	str_gb18030_to_utf8_ini();
-	if (AI_LINUX==1)
-	{
-		str_gb18030_to_utf8(m601_s2,m601_s3,SMG_SIZE);
-	}
-	else
-	{*/
-		strcpy(m601_s3,m601_s2);
-/*
-	}
-	str_gb18030_to_utf8_close();
-*/
-	printf("%s\n",m601_s3);
-
-	return(0);
-}
-
 char spl1_in[SMG_SIZE];	// input
 
 #define SPL1_OUT_NUM   20
 
-char spl1_out_str[SPL1_OUT_NUM][100][55];	// output
-int  spl1_out_nns[SPL1_OUT_NUM][100];
+char spl1_out_str[SPL1_OUT_NUM][150][55];	// output
+int  spl1_out_nns[SPL1_OUT_NUM][150];
 
 int  spl2_out_type;
-char spl2_out_str[100][55];
-char spl2_out_mrk[100];
-int  spl2_out_nns[100][6];
-char spl2_out_mr2[100][6];
-char spl2_out_len[100];
+char spl2_out_str[150][55];
+char spl2_out_mrk[150];
+int  spl2_out_nns[150][6];
+char spl2_out_mr2[150][6];
+char spl2_out_len[150];
 int  spl2_out_seg;
 
 int  spl2_ptr2;
@@ -815,9 +599,9 @@ int  sent_cb2_ptr;
 
 int load_cb2(void)
 {
-    FILE *fp1;
-    int   i,j,k;
-    char  str[300];
+	FILE *fp1;
+	int   i,j,k;
+	char  str[300];
 
 	fp1=fopen("cb2.txt","r");
 	if (fp1==NULL)
@@ -852,6 +636,8 @@ int load_cb2(void)
 
 	fclose(fp1);
 
+	printf("load_cb2():total %d punctuation,\n",sent_cb2_ptr);
+
 	return(0);
 
 }
@@ -868,145 +654,6 @@ int sent_cb2_in(char *str)
 	return(0);
 }
 
-static	char         m401_l1[SMG_SIZE];
-static	char         m401_l2[SMG_SIZE];
-static	char         m401_l3[SMG_SIZE];
-static	char         m401_s1[SMG_SIZE];
-static	char	     m401_s2[SMG_SIZE];
-static	char	     m401_s3[SMG_SIZE];
-
-int wd5_load(void)
-{
-	FILE		*fp1;
-    	int         i,j,k;
-	//char         l1[SMG_SIZE];
-	//char         l2[SMG_SIZE];
-	//char         l3[SMG_SIZE];
-	//char         s1[SMG_SIZE];
-	//char	       s2[SMG_SIZE];
-	char         c1,c2;
-	int          ptr;
-
-	j=0;
-	k=0;
-
-	wd5_ptr=0;
-
-	f1_get_fln4(m401_s1);
-
-	fp1=fopen(m401_s1,"r");
-	if (fp1==NULL)
-	{
-		MessageBoxNow(0,m401_s1,"message open file error",MB_OK);
-		return(1);
-	}
-
-	while (!feof(fp1))
-	{
-		for (i=0;i<SMG_SIZE;i++)
-		{
-			m401_l1[i]=0;
-			m401_l2[i]=0;
-			m401_l3[i]=0;
-		}
-
-		fgets(m401_l1,SMG_SIZE,fp1);
-	
-		k=0;
-		ptr=0;
-		i=0;
-
-		while (i<(int)strlen(m401_l1))
-		{
-			c1=m401_l1[i+0];
-			c2=m401_l1[i+1];
-
-			if (c1<0)
-			{
-				if (ptr==0) // words
-				{
-					m401_l2[k+0]=c1;
-					m401_l2[k+1]=c2;
-					m401_l2[k+2]=0;
-				}
-				else   //repeat times
-				{
-					m401_l3[k+0]=c1;
-					m401_l3[k+1]=c2;
-					m401_l3[k+2]=0;
-				}
-				k=k+2;
-  				if (k>=SMG_SIZE-3) k=SMG_SIZE-3;
-
-				i=i+2;
-			}
-			else
-			{
-				if (c1<' ')
-				{
-					break;
-				}
-				else
-				{
-					if (c1==',')
-					{
-						ptr=1;
-						k=0;
-					}
-					else
-					{
-						if (ptr==0)  //words
-						{
-							m401_l2[k+0]=c1;
-							m401_l2[k+1]=0;
-						}
-						else   // repeat times
-						{
-							m401_l3[k+0]=c1;
-							m401_l3[k+1]=0;
-						}
-						k++;
-  						if (k>=SMG_SIZE-3) k=SMG_SIZE-3;
-					}
-				}
-
-				i++;
-			}
-		}
-
-		if ((int)strlen(m401_l2)>50) continue;
-
-		strcpy(wd5_buf[wd5_ptr],m401_l2);
-
-		wd5_rt[wd5_ptr]=str2llint(m401_l3);
-
-		// test----
-		/*
-		sprintf(m401_s2,"ptr=%d,word=%s,rpt=%lld,",wd5_ptr,wd5_buf[wd5_ptr],wd5_rt[wd5_ptr]);
-
-		str_gb18030_to_utf8_ini();
-		if (AI_LINUX==1)
-		{
-			str_gb18030_to_utf8(m401_s2,m401_s3,SMG_SIZE);
-		}
-		else
-		{
-			strcpy(m401_s3,m401_s2);
-		}
-		str_gb18030_to_utf8_close();
-
-		MessageBoxNow(0,m401_s3,"wd5_load message",MB_OK);
-		*/
-		// end of test ----
-
-		wd5_ptr++;
-
-	}
-
-	fclose(fp1);
-
-	return(0);
-}
 
 int f1_get_fln4(char *s1)
 {
@@ -1019,305 +666,6 @@ int f1_get_fln4(char *s1)
 	return(0);
 }
 
-static	char         m501_l1[SMG_SIZE];
-static	char         m501_l2[SMG_SIZE];
-static	char         m501_l3[SMG_SIZE];
-static	char         m501_s1[SMG_SIZE];
-static	char	     m501_s2[SMG_SIZE];
-static	char	     m501_s3[SMG_SIZE];
-
-int wd6_load(void)
-{
-	FILE		*fp1;
-    	int         i,j,k;
-	//char         l1[SMG_SIZE];
-	//char         l2[SMG_SIZE];
-	//char         l3[SMG_SIZE];
-	//char         s1[SMG_SIZE];
-	//char	       s2[SMG_SIZE];
-	char         c1,c2;
-	int          ptr;
-
-	j=0;
-	k=0;
-
-	wd6_ptr=0;
-
-	fp1=fopen("words-cw02rpt.txt","r");
-	if (fp1==NULL)
-	{
-		MessageBoxNow(0,"words-cw02rpt.txt","message open file error",MB_OK);
-		return(1);
-	}
-
-	while (!feof(fp1))
-	{
-		for (i=0;i<SMG_SIZE;i++)
-		{
-			m501_l1[i]=0;
-			m501_l2[i]=0;
-			m501_l3[i]=0;
-		}
-
-		fgets(m501_l1,SMG_SIZE,fp1);
-	
-		k=0;
-		ptr=0;
-		i=0;
-
-		while (i<(int)strlen(m501_l1))
-		{
-			c1=m501_l1[i+0];
-			c2=m501_l1[i+1];
-
-			if (c1<0)
-			{
-				if (ptr==0) // words
-				{
-					m501_l2[k+0]=c1;
-					m501_l2[k+1]=c2;
-					m501_l2[k+2]=0;
-				}
-				else   //repeat times
-				{
-					m501_l3[k+0]=c1;
-					m501_l3[k+1]=c2;
-					m501_l3[k+2]=0;
-				}
-				k=k+2;
-  				if (k>=SMG_SIZE-3) k=SMG_SIZE-3;
-				i=i+2;
-			}
-			else
-			{
-				if (c1<' ')
-				{
-					break;
-				}
-				else
-				{
-					if (c1==',')
-					{
-						ptr=1;
-						k=0;
-					}
-					else
-					{
-						if (ptr==0)  //words
-						{
-							m501_l2[k+0]=c1;
-							m501_l2[k+1]=c2;
-							m501_l2[k+2]=0;
-							k=k+2;
-			  				if (k>=SMG_SIZE-3) k=SMG_SIZE-3;
-							i=i+2;
-							continue;
-						}
-						else   // repeat times
-						{
-							m501_l3[k+0]=c1;
-							m501_l3[k+1]=0;
-						}
-						k++;
-  						if (k>=SMG_SIZE-3) k=SMG_SIZE-3;
-					}
-				}
-
-				i++;
-			}
-		}
-
-		if ((int)strlen(m501_l2)>50) continue;
-
-		strcpy(wd6_buf[wd6_ptr],m501_l2);
-
-		wd6_rt[wd6_ptr]=str2llint(m501_l3);
-
-		// test ----
-		/*
-		sprintf(m501_s2,"ptr=%d,word=%s,rpt=%lld,",wd6_ptr,wd6_buf[wd6_ptr],wd6_rt[wd6_ptr]);
-
-		str_gb18030_to_utf8_ini();
-		if (AI_LINUX==1)
-		{
-			str_gb18030_to_utf8(m501_s2,m501_s3,SMG_SIZE);
-		}
-		else
-		{
-			strcpy(m501_s3,m501_s2);
-		}
-		str_gb18030_to_utf8_close();
-
-		MessageBoxNow(0,m501_s3,"wd6_load message",MB_OK);
-		*/
-		// end of test ----
-
-		wd6_ptr++;
-
-	}
-
-	fclose(fp1);
-
-	return(0);
-}
-
-int wd5_search(char *s_str)
-{
-	int p1,p2;
-	int i,j;
-	int find;
-
-	find=0;
-	wd5_find_rt=0;
-	wd5_find_ptr=0;
-	p1=0;
-	p2=wd5_ptr;
-
-	if (p2<=p1) return(0);
-
-	while(1)
-	{
-		i=(p1+p2)/2;
-		if (i<=p1)
-		{
-			j=strcmp(wd5_buf[i],s_str);
-			if (j==0)
-			{
-				find=1;
-				wd5_find_rt=wd5_rt[i];
-				wd5_find_ptr=i;
-				break;
-			}
-			else
-			{
-				find=0;
-				break;
-			}
-		}
-		else
-		{
-			if (i>=p2)
-			{
-				j=strcmp(wd5_buf[i],s_str);
-				if (j==0)
-				{
-					find=1;
-					wd5_find_rt=wd5_rt[i];
-					wd5_find_ptr=i;
-					break;
-				}
-				else
-				{
-					find=0;
-					break;
-				}
-			}
-			else
-			{
-				j=strcmp(wd5_buf[i],s_str);
-				if (j==0)
-				{
-					find=1;
-					wd5_find_rt=wd5_rt[i];
-					wd5_find_ptr=i;
-					break;
-				}
-				else
-				{
-					if (j>0)
-					{
-						p1=i;
-						continue;
-					}
-					else
-					{
-						p2=i;
-						continue;
-					}
-				}
-			}
-		}
-	}
-
-	return(find);
-}
-
-int wd6_search(char *s_str)
-{
-	int p1,p2;
-	int i,j;
-	int find;
-
-	find=0;
-	wd6_find_rt=0;
-	p1=0;
-	p2=wd6_ptr;
-
-	if (p2<=p1) return(0);
-
-	while(1)
-	{
-		i=(p1+p2)/2;
-		if (i<=p1)
-		{
-			j=strcmp(wd6_buf[i],s_str);
-			if (j==0)
-			{
-				find=1;
-				wd6_find_rt=wd6_rt[i];
-				break;
-			}
-			else
-			{
-				find=0;
-				break;
-			}
-		}
-		else
-		{
-			if (i>=p2)
-			{
-				j=strcmp(wd6_buf[i],s_str);
-				if (j==0)
-				{
-					find=1;
-					wd6_find_rt=wd6_rt[i];
-					break;
-				}
-				else
-				{
-					find=0;
-					break;
-				}
-			}
-			else
-			{
-				j=strcmp(wd6_buf[i],s_str);
-				if (j==0)
-				{
-					find=1;
-					wd6_find_rt=wd6_rt[i];
-					break;
-				}
-				else
-				{
-					if (j>0)
-					{
-						p1=i;
-						continue;
-					}
-					else
-					{
-						p2=i;
-						continue;
-					}
-				}
-			}
-		}
-	}
-
-	return(find);
-}
 
 #include "../common/common.c"
 

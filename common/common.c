@@ -389,6 +389,8 @@ int cww1_load(void)
 
   fclose(fp1);
 
+  printf("cww1_load() ok,\n");
+
   return(0);
 }
 

@@ -17,29 +17,29 @@ char mc4;
 char mc5;
 char mc6;
 
-long f1_init_ext(void);
-long f1_next_ext(void);
-long f1_get_fln(char *);
-long f1_get_fln2(char *);
+int f1_init_ext(void);
+int f1_next_ext(void);
+int f1_get_fln(char *);
+int f1_get_fln2(char *);
 
 #define SENT_LEN         8000000
 #define SENT_LEN2        300
 #define SENT_NUM         1000000
 
 char load8[SENT_NUM][SENT_LEN2];
-long load8_l;
+int load8_l;
 
 char sent_s[SENT_LEN];
 char sent_s2[SENT_LEN];
-long sent_l;
+int sent_l;
 
-long sent8(char *);
-long sent8add2(char *);
+int sent8(char *);
+int sent8add2(char *);
 
 int  m_ptr;
 char m_cc;
 
-long sent8wrt1(void);
+int sent8wrt1(void);
 
 char sent_cb[100][10];
 int  sent_cb_ptr;
@@ -52,7 +52,7 @@ int  load_cb(void);
 int main(void)
 {
 	FILE *fp1;
-	long  i,j,k,l;
+	int  i,j,k,l;
 	char  s1[300];
 
 	MessageBox(0,"load string1base000000.txt,write to string2punc000000.txt","message",MB_OK);
@@ -83,7 +83,7 @@ int main(void)
 	return(0);
 }
 
-long f1_init_ext(void)
+int f1_init_ext(void)
 {
 	mc1='0';
 	mc2='0';
@@ -95,7 +95,7 @@ long f1_init_ext(void)
 	return(0);
 }
 
-long f1_next_ext(void)
+int f1_next_ext(void)
 {
 	mc1++;
 	if (mc1>'9')
@@ -128,7 +128,7 @@ long f1_next_ext(void)
 	return(0);
 }
 
-long f1_get_fln1(char *s1)
+int f1_get_fln1(char *s1)
 {
 	strcpy(s1,"string2punc      .txt");
 
@@ -142,7 +142,7 @@ long f1_get_fln1(char *s1)
 	return(0);
 }
 
-long f1_get_fln2(char *s1)
+int f1_get_fln2(char *s1)
 {
 	strcpy(s1,"string1base      .txt");
 
@@ -157,7 +157,7 @@ long f1_get_fln2(char *s1)
 }
 
 
-long sent8(char *fln)
+int sent8(char *fln)
 {
 	FILE *fp1;
 	int  i,j,k,l;
@@ -258,7 +258,7 @@ long sent8(char *fln)
 	return(0);
 }
 
-long sent8add2(char *str)
+int sent8add2(char *str)
 {
   	int  i,j,k;
 	char c1;
@@ -278,7 +278,7 @@ long sent8add2(char *str)
 	return(0);
 }
 
-long sent8wrt1(void)
+int sent8wrt1(void)
 {
 	FILE *fp1;
 	int  i,j,k;
@@ -289,9 +289,11 @@ long sent8wrt1(void)
 	fp1=fopen(s1,"w");
 	if (fp1==NULL)
 	{
-		MessageBox(0,"open stringcase000.txt fail ","message",MB_OK);
+		MessageBox(0,"open file string2punc000000.txt fail ","message",MB_OK);
 		return(0);
 	}
+
+	printf("%s\n",s1);
 
 	for (k=0;k<load8_l;k++)
 	{
@@ -309,9 +311,9 @@ long sent8wrt1(void)
 
 int load_cb(void)
 {
-    FILE *fp1;
-    int   i,j,k;
-    char  str[300];
+	FILE *fp1;
+	int   i,j,k;
+	char  str[300];
 
 	fp1=fopen("cb.txt","r");
 	if (fp1==NULL)
@@ -343,6 +345,8 @@ int load_cb(void)
 	}
 
 	fclose(fp1);
+
+	printf("load_cb():total %d punctuation,\n",sent_cb_ptr);
 
 	return(0);
 

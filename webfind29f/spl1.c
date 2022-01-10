@@ -72,19 +72,19 @@ int ai_number_g(void);
 
 
 //---------  tree 1 -------------------------
-#define TREE2_SIZE 5000000
-#define LIST_SIZE  500000
+#define TREE_SIZE 10000000
+#define LIST_SIZE  1000000
 /*
 class tree2
 {
   private:
 */
-    char  t1_node_mark[TREE2_SIZE];
-    char  t1_node_val[TREE2_SIZE][55];
+    char  t1_node_mark[TREE_SIZE];
+    char  t1_node_val[TREE_SIZE][55];
 
-    int   t1_node_val2[TREE2_SIZE];
+    int   t1_node_val2[TREE_SIZE];
 
-    int   t1_node_ptr[TREE2_SIZE][3];
+    int   t1_node_ptr[TREE_SIZE][3];
     int   t1_root_ptr;
     int   t1_buff_ptr;
     
@@ -95,13 +95,13 @@ class tree2
     int   t1_list_stack[LIST_SIZE];
     char  t1_list_stack_type[LIST_SIZE];
     int   t1_list_ptr;
-
-    char  t1_out_buff[TREE2_SIZE][55];
-    long long int t1_out_buff2[TREE2_SIZE];
-
-    int   t1_out_buff3[TREE2_SIZE][5][3];
-    int   t1_out_buff3_ptr[TREE2_SIZE];
-
+/*
+    char  t1_out_buff[TREE_SIZE][55];
+    int   t1_out_buff2[TREE_SIZE];
+*//*
+    int   t1_out_buff3[TREE_SIZE][5][3];
+    int   t1_out_buff3_ptr[TREE_SIZE];
+*/
     int   t1_out_ptr;
 
   //public:
@@ -113,7 +113,7 @@ class tree2
     int   t1_insert_node(char *pstr);
     int   t1_dsp_tree2(void);
     int   t1_after_list(void);
-    int   t1_out_list(char *pstr,long long int ,int);
+    int   t1_out_list(char *pstr,int ,int);
     int   t1_dsp_list(void);
     int   t1_save_list(char *fn);
 //};
@@ -136,15 +136,15 @@ class tree2
 		int  spl1_out_ptr;
 
 		//char spl1_str[SPL1_NUM][100][55];
-		int  spl1_sid[SPL1_NUM][100];
+		int  spl1_sid[SPL1_NUM][150];
 		char spl1_mrk[SPL1_NUM];
 		int  spl1_val[SPL1_NUM];
 long long 	int  spl1_rpt[SPL1_NUM];
 		int  spl1_len[SPL1_NUM];
-		char spl1_seg[SPL1_NUM];
+		int  spl1_seg[SPL1_NUM];
 		int  spl1_ptr;
 
-		char spl1_mr2[SPL1_NUM][100];
+		char spl1_mr2[SPL1_NUM][150];
 		int  spl1_va2[SPL1_NUM];
 long long 	int  spl1_rp2[SPL1_NUM];
 
@@ -152,10 +152,10 @@ int  spl1_buf[60];  // check repeated string
 int  spl1_buf_ptr;
 
 // notice tree 2(t2)
-#define TREE2_SIZE_B 4000
+#define TREE_SIZE_B 4000
 int   t2_find_ptr2;
 int   t2_buff_ptr;
-char  t2_node_val[TREE2_SIZE_B][55];
+char  t2_node_val[TREE_SIZE_B][55];
 
 int   t2_search_node(char *pstr);
 int   t2_insert_node(char *pstr);
@@ -215,14 +215,14 @@ int   t2_insert_node(char *pstr);
     long long int   t4_node_val[BTREE4_SIZE][4];
     int   t4_node_va2[BTREE4_SIZE];
 
-	  int  t4_node_v_sid[BTREE4_SIZE][100];
+	  int  t4_node_v_sid[BTREE4_SIZE][150];
 	  char t4_node_v_mrk[BTREE4_SIZE];
 	  int  t4_node_v_val[BTREE4_SIZE];
 long long int  t4_node_v_rpt[BTREE4_SIZE];
 	  int  t4_node_v_len[BTREE4_SIZE];
-	  char t4_node_v_seg[BTREE4_SIZE];
+	  int  t4_node_v_seg[BTREE4_SIZE];
 
-	  char t4_node_v_mr2[BTREE4_SIZE][100];
+	  char t4_node_v_mr2[BTREE4_SIZE][150];
 	  int  t4_node_v_va2[BTREE4_SIZE];
 long long int  t4_node_v_rp2[BTREE4_SIZE];
     
@@ -385,7 +385,7 @@ int spl1_loop(void)
 	spl1_val[spl1_ptr]=ai_number[1];
 	spl1_rpt[spl1_ptr]=2;    // repeat times
 
-       	if (2>=l) spl1_mrk[spl1_ptr]=2;
+       if (2>=l) spl1_mrk[spl1_ptr]=2;
 
 	spl1_va2[spl1_ptr]=0;
 	spl1_rp2[spl1_ptr]=0;    // repeat times
@@ -445,10 +445,11 @@ int spl1_loop(void)
 			m101_p_va2=spl1_va2[n];
 			m101_p_rp2=spl1_rp2[n];
 
-			if (m101_p_seg>=100)
+			if (m101_p_seg>=150)
 			{
-				err=1;
-				break;
+				//err=1;
+				//break;
+				continue;
 			}
 
 			for (i=50;i>=2;i=i-2)  //bigger ones at first  //add word base words

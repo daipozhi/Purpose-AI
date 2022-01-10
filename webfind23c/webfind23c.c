@@ -15,16 +15,16 @@
 //#define STR_LEN_WORD2    25
 
 //char word8_s[STR_LEN_WORD2];
-//long word8_l1;
+//int  word8_l1;
 
-long word8(char *);
+int word8(char *);
 
 //#define MB_OK 1
 
 //extern int MessageBox(int ,char *,char *,int );
 
-#define TREE2_SIZE 3000000
-#define LIST_SIZE  300000
+#define TREE_SIZE 6000000
+#define LIST_SIZE  600000
 
 
 /*
@@ -32,14 +32,14 @@ class tree2
 {
   public:
 */
-    char  t1_node_mark[TREE2_SIZE];
-    char  t1_node_val[TREE2_SIZE][55];
-    long long int t1_node_val2[TREE2_SIZE];
-
-    int   t1_node_val3[TREE2_SIZE][5][3];
-    int   t1_node_val3_ptr[TREE2_SIZE];
-
-    int   t1_node_ptr[TREE2_SIZE][3];
+    char  t1_node_mark[TREE_SIZE];
+    char  t1_node_val[TREE_SIZE][55];
+    int   t1_node_val2[TREE_SIZE];
+/*
+    int   t1_node_val3[TREE_SIZE][5][3];
+    int   t1_node_val3_ptr[TREE_SIZE];
+*/
+    int   t1_node_ptr[TREE_SIZE][3];
     int   t1_root_ptr;
     int   t1_buff_ptr;
     
@@ -50,13 +50,14 @@ class tree2
     int   t1_list_stack[LIST_SIZE];
     char  t1_list_stack_type[LIST_SIZE];
     int   t1_list_ptr;
-
-    char  t1_out_buff[TREE2_SIZE][55];
-    long long int t1_out_buff2[TREE2_SIZE];
-
-    int   t1_out_buff3[TREE2_SIZE][5][3];
-    int   t1_out_buff3_ptr[TREE2_SIZE];
-
+/*
+    char  t1_out_buff[TREE_SIZE][55];
+    int   t1_out_buff2[TREE_SIZE];
+*/
+/*
+    int   t1_out_buff3[TREE_SIZE][5][3];
+    int   t1_out_buff3_ptr[TREE_SIZE];
+*/
     int   t1_out_ptr;
 
   //public:
@@ -67,8 +68,8 @@ class tree2
     int   t1_search_node(char *pstr);
     int   t1_insert_node(char *pstr);
     int   t1_dsp_tree2(void);
-    int   t1_after_list(void);
-    int   t1_out_list(char *pstr,long long int ,int);
+    int   t1_after_list(char *);
+    int   t1_out_list(char *pstr,int ,int);
     int   t1_dsp_list(void);
     int   t1_save_list(char *fn);
 /*
@@ -79,10 +80,10 @@ class tree2
 class tree2 tree2_1;
 */
 
-#define TREE2_SIZE_B 3000000
+#define TREE_SIZE_B 3000000
 #define LIST_SIZE_B  300000
 /*
-#define TREE2_SIZE_B 2000000
+#define TREE_SIZE_B 2000000
 #define LIST_SIZE_B  200000
 */
 /*
@@ -90,14 +91,14 @@ class tree2b
 {
   public:
 */
-    char  t2_node_mark[TREE2_SIZE_B];
-    char  t2_node_val[TREE2_SIZE_B][55];
-    long long int t2_node_val2[TREE2_SIZE_B];
-
-    int   t2_node_val3[TREE2_SIZE_B][5][3];
-    int   t2_node_val3_ptr[TREE2_SIZE_B];
-
-    int   t2_node_ptr[TREE2_SIZE_B][3];
+    char  t2_node_mark[TREE_SIZE_B];
+    char  t2_node_val[TREE_SIZE_B][55];
+    int   t2_node_val2[TREE_SIZE_B];
+/*
+    int   t2_node_val3[TREE_SIZE_B][5][3];
+    int   t2_node_val3_ptr[TREE_SIZE_B];
+*/
+    int   t2_node_ptr[TREE_SIZE_B][3];
     int   t2_root_ptr;
     int   t2_buff_ptr;
     
@@ -109,12 +110,12 @@ class tree2b
     char  t2_list_stack_type[LIST_SIZE_B];
     int   t2_list_ptr;
 
-    char  t2_out_buff[TREE2_SIZE_B][55];
-    long long int t2_out_buff2[TREE2_SIZE_B];
-
-    int  t2_out_buff3[TREE2_SIZE_B][5][3];
-    int  t2_out_buff3_ptr[TREE2_SIZE_B];
-
+    char  t2_out_buff[TREE_SIZE_B][55];
+    int   t2_out_buff2[TREE_SIZE_B];
+/*
+    int  t2_out_buff3[TREE_SIZE_B][5][3];
+    int  t2_out_buff3_ptr[TREE_SIZE_B];
+*/
     int   t2_out_ptr;
 
   //public:
@@ -126,7 +127,7 @@ class tree2b
     int   t2_insert_node(char *pstr);
     int   t2_dsp_tree2(void);
     int   t2_after_list(void);
-    int   t2_out_list(char *pstr,long long int ,int);
+    int   t2_out_list(char *pstr,int ,int);
     int   t2_dsp_list(void);
     int   t2_save_list(char *fn);
 
@@ -144,26 +145,26 @@ class tree2b tree2b_1;*/
 //{
 int main(void)
 {
-	MessageBox(0,"load words-repe-000000.txt, write to words01.txt ","message",MB_OK);
+    MessageBox(0,"load words-rept-000000.txt, write to words01.txt ","message",MB_OK);
 
     t1_init_tree2();
   
     word8("");
 
-    t1_after_list();
+    t1_after_list("words01.txt");
   
-    t1_save_list("words01.txt");
+    //t1_save_list("words01.txt");
 
-	MessageBox(0,"words ok","message",MB_OK);
+    MessageBox(0,"words ok","message",MB_OK);
 
-	return(0);
+    return(0);
 }
 
 char m201_str1[5000];
 char m201_str2[5000];
 
 
-long word8(char *pstr1)
+int word8(char *pstr1)
 {
 	FILE *fp1;
 	int  i,j,k,l,m,n,n1,n2,n3,o;
@@ -173,7 +174,7 @@ long word8(char *pstr1)
 	//char str1[5000];
 	//char str2[5000];
 
-	strcpy(s1,"words-repe-      .txt");
+	strcpy(s1,"words-rept-      .txt");
 
 	c1='0';
 	c2='0';
@@ -192,6 +193,7 @@ long word8(char *pstr1)
 
 	while(1)
 	{
+		printf("%s,\n",s1);
 
 		strcpy(s2,s1);
 
@@ -253,7 +255,7 @@ long word8(char *pstr1)
 
 					t2_insert_node(m201_str2);
 					t2_node_val2[t2_find_ptr2]=t2_node_val2[t2_find_ptr2]+1;
-
+/*
 					if (t2_node_val3_ptr[t2_find_ptr2]<5)  // for words browser
 					{
 						o=t2_node_val3_ptr[t2_find_ptr2];
@@ -267,7 +269,7 @@ long word8(char *pstr1)
 						o++;
 						t2_node_val3_ptr[t2_find_ptr2]=o;
 					}
-
+*/
 					m=0;
 					m201_str2[0]=0;
 					l++;
@@ -285,7 +287,7 @@ long word8(char *pstr1)
     	
 		t2_after_list();
   
-    	t2_save_list("");
+    		t2_save_list("");
 
 
 		c1++;

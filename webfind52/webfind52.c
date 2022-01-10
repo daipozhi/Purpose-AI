@@ -15,9 +15,9 @@
 //#define STR_LEN_WORD2    25
 
 //char word8_s[STR_LEN_WORD2];
-//long word8_l1;
+//int word8_l1;
 
-long word8(char *);
+int word8(char *);
 
 //#define MB_OK 1
 
@@ -29,7 +29,7 @@ long word8(char *);
 
     char  t1_node_mark[TREE2_SIZE];
     char  t1_node_val[TREE2_SIZE][55];
-    long long int t1_node_val2[TREE2_SIZE];
+    int   t1_node_val2[TREE2_SIZE];
 
     int   t1_node_val3[TREE2_SIZE][5][3];
     int   t1_node_val3_ptr[TREE2_SIZE];
@@ -47,7 +47,7 @@ long word8(char *);
     int   t1_list_ptr;
 
     char  t1_out_buff[TREE2_SIZE][55];
-    long long int t1_out_buff2[TREE2_SIZE];
+    int   t1_out_buff2[TREE2_SIZE];
 
     int   t1_out_buff3[TREE2_SIZE][5][3];
     int   t1_out_buff3_ptr[TREE2_SIZE];
@@ -61,7 +61,7 @@ long word8(char *);
     int   t1_insert_node(char *pstr);
     int   t1_dsp_tree2(void);
     int   t1_after_list(void);
-    int   t1_out_list(char *pstr,long long int ,int);
+    int   t1_out_list(char *pstr,int ,int);
     int   t1_dsp_list(void);
     int   t1_save_list(char *fn);
 
@@ -74,7 +74,7 @@ long word8(char *);
 //{
 int main(void)
 {
-	MessageBox(0,"load words-cw02_notsort.txt, write to words-cw02_sort.txt","message",MB_OK);
+	MessageBox(0,"load words-cw02_notsort.txt, write to words-cw02.sort.txt","message",MB_OK);
 
     	t1_init_tree2();
   
@@ -82,7 +82,7 @@ int main(void)
 
     	t1_after_list();
   
-    	t1_save_list("words-cw02_sort.txt");
+    	t1_save_list("words-cw02.sort.txt");
 
 	MessageBox(0,"words ok","message",MB_OK);
 
@@ -91,7 +91,7 @@ int main(void)
 
 char m201_str1[5000];
 
-long word8(char *pstr1)
+int word8(char *pstr1)
 {
 	FILE *fp1;
 	int  i,j,k;

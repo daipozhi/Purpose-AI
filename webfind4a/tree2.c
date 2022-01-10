@@ -47,7 +47,7 @@ int deb_upper_string(char *p_instr);
 
 //extern int MessageBox(int ,char *,char *,int );
 
-#define TREE2_SIZE 1000000
+#define TREE_SIZE 1000000
 #define LIST_SIZE  50000
 
 /*
@@ -55,12 +55,12 @@ class tree2
 {
   public:
 */
-    char  t1_node_mark[TREE2_SIZE];
-    char  t1_node_val[TREE2_SIZE][300];
+    char  t1_node_mark[TREE_SIZE];
+    char  t1_node_val[TREE_SIZE][300];
 
-    //int   t1_node_val2[TREE2_SIZE];
+    //int   t1_node_val2[TREE_SIZE];
 
-    int   t1_node_ptr[TREE2_SIZE][3];
+    int   t1_node_ptr[TREE_SIZE][3];
     int   t1_root_ptr;
     int   t1_buff_ptr;
     
@@ -72,11 +72,11 @@ class tree2
     char  t1_list_stack_type[LIST_SIZE];
     int   t1_list_ptr;
 
-    char  t1_out_buff[TREE2_SIZE][300];
-    //long long int t1_out_buff2[TREE2_SIZE];
+    char  t1_out_buff[TREE_SIZE][300];
+    //int   t1_out_buff2[TREE_SIZE];
 
-    //int   t1_out_buff3[TREE2_SIZE][5][3];
-    //int   t1_out_buff3_ptr[TREE2_SIZE];
+    //int   t1_out_buff3[TREE_SIZE][5][3];
+    //int   t1_out_buff3_ptr[TREE_SIZE];
 
     int   t1_out_ptr;
 
@@ -89,7 +89,7 @@ class tree2
     int   t1_insert_node(char *pstr);
     int   t1_dsp_tree2(void);
     int   t1_after_list(void);
-    int   t1_out_list(char *pstr,long long int ,int);
+    int   t1_out_list(char *pstr,int ,int);
     int   t1_dsp_list(void);
     int   t1_save_list(char *fn);
 /*
@@ -97,14 +97,14 @@ class tree2
 };
 
 
-class tree2 tree2_1;
+class tree2 TREE_1;
 */
 
 
 int /*tree2::*/t1_init_tree2(void)
 {
   int i,j;
-  for (i=0;i<TREE2_SIZE;i++)
+  for (i=0;i<TREE_SIZE;i++)
   {
     t1_node_mark[i]=(-1);
   }
@@ -119,7 +119,7 @@ int /*tree2::*/t1_new_node(void)
 
   i=(-1);
   
-  if ((t1_buff_ptr<TREE2_SIZE)&&(t1_node_mark[t1_buff_ptr]<0))
+  if ((t1_buff_ptr<TREE_SIZE)&&(t1_node_mark[t1_buff_ptr]<0))
   {
     t1_node_mark[t1_buff_ptr]=0;
     i=t1_buff_ptr;
@@ -234,7 +234,7 @@ int /*tree2::*/t1_insert_node(char *pstr)
       j=t1_new_node();
       if (j<0)
       {
-        MessageBox(0,"In tree2,error at insert_node() when call new_node()","message",MB_OK);
+        MessageBox(0,"In tree1,error at insert_node() when call new_node()","message",MB_OK);
         return(1);
       }
       else
@@ -251,7 +251,7 @@ int /*tree2::*/t1_insert_node(char *pstr)
       j=t1_new_node();
       if (j<0)
       {
-        MessageBox(0,"In tree2,error at insert_node() when call new_node()","message",MB_OK);
+        MessageBox(0,"In tree1,error at insert_node() when call new_node()","message",MB_OK);
         return(1);
       }
       else
@@ -539,7 +539,7 @@ int /*tree2::*/t1_after_list(void)
         //sprintf(str1,"add left tree %s,list_ptr=%d,",node_val[node_ptr[k][1]],list_ptr);
         if (t1_list_ptr>=LIST_SIZE)
         {
-          MessageBox(0,"In tree2,error in after_list(),LIST_SIZE too small.","message",MB_OK);
+          MessageBox(0,"In tree1,error in after_list(),LIST_SIZE too small.","message",MB_OK);
           continue;
         }
       }
@@ -551,7 +551,7 @@ int /*tree2::*/t1_after_list(void)
       //sprintf(str1,"add mid tree %s,list_ptr=%d,",node_val[k],list_ptr);
       if (t1_list_ptr>=LIST_SIZE)
       {
-        MessageBox(0,"In tree2,error in after_list(),LIST_SIZE too small.","message",MB_OK);
+        MessageBox(0,"In tree1,error in after_list(),LIST_SIZE too small.","message",MB_OK);
         continue;
       }
 
@@ -564,7 +564,7 @@ int /*tree2::*/t1_after_list(void)
         //sprintf(str1,"add right tree %s,list_ptr=%d,",node_val[node_ptr[k][2]],list_ptr);
         if (t1_list_ptr>=LIST_SIZE)
         {
-          MessageBox(0,"In tree2,error in after_list(),LIST_SIZE too small.","message",MB_OK);
+          MessageBox(0,"In tree1,error in after_list(),LIST_SIZE too small.","message",MB_OK);
           continue;
         }
       }
@@ -583,7 +583,7 @@ int /*tree2::*/t1_after_list(void)
   return(0);
 }
 
-int /*tree2::*/t1_out_list(char *pstr,long long int pn1,int ptr)
+int /*tree2::*/t1_out_list(char *pstr,int pn1,int ptr)
 {
   int i,j;
 
