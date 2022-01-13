@@ -5,8 +5,7 @@ Jan  9th 2022 version
 * increased parameter to be suitable to every kind of web pages  
 * added sentence separating app 
 
-
-Jul 22th 2021 version
+July 22th 2021 version
 
 * better looking source code
 * add grid computing
@@ -14,14 +13,12 @@ Jul 22th 2021 version
 * in before,set param SPL1_OUT_NUM to 20,choose the 20 highest word value ones 
     to calculate grammar value , accuracy +1% , now ,set param SPL1_OUT_NUM to 200, accuracy +2%
 
-
 Sep 3rd 2020 version
  
 * better formula of super pipeline 
 * add debug code to super pipeline
 * better punctuation proccess
 * 5 words grammar change to 4 words grammar
-
 
 Sep 25th 2019 version
 

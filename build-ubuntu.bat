@@ -74,7 +74,7 @@ cd ../webfind64b
 rm a-step240.exe
 gcc -o a-step240.exe webfind64.c tree2.c  
 cp a-step240.exe ../work_dir
-
+ 
 
 cd ../webfind65
 rm app_separ.exe
@@ -87,4 +87,5 @@ cd ../webfind50
 gcc words-cw01.c
 cd ../webfind52
 gcc webfind52.c tree2.c
+
 

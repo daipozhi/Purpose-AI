@@ -9,11 +9,11 @@ cd ../tools-4
 rm utf8-to-gb18030.exe
 gcc -o utf8-to-gb18030.exe utf8-to-gb18030.c -liconv
 cp utf8-to-gb18030.exe ../work_dir
-cd ../tools-6
+cd ../tools-7
 rm *.exe
-gcc -o a-step50-ini.exe t1.c 
-gcc -o a-step90-ini.exe t2.c 
-gcc -o a-step210-ini.exe t3.c  
+gcc -o a-step50-ini.exe t1.c -liconv
+gcc -o a-step90-ini.exe t2.c -liconv
+gcc -o a-step210-ini.exe t3.c -liconv
 cp *.exe ../work_dir
 
 
@@ -31,7 +31,7 @@ gcc -o a-step40.exe webfind4_sentbase.c tree2.c -liconv
 cp a-step40.exe ../work_dir
 cd ../webfind29f
 rm a-step50.exe
-gcc -o a-step50.exe webfind29.c spl1.c tree2.c tree2b.c btree3.c btree4.c -liconv
+gcc -o a-step50.exe webfind29-msys.c spl1.c tree2.c tree2b.c btree3.c btree4.c -liconv
 cp a-step50.exe ../work_dir
 cd ../webfind23c
 rm a-step60.exe
@@ -41,7 +41,7 @@ cp a-step60.exe ../work_dir
 
 cd ../webfind53e
 rm a-step90.exe
-gcc -o a-step90.exe webfind53.c spl1.c tree2.c tree2b.c btree3.c btree4.c -liconv
+gcc -o a-step90.exe webfind53-msys.c spl1.c tree2.c tree2b.c btree3.c btree4.c -liconv
 cp a-step90.exe ../work_dir
 cd ../webfind54
 rm a-step100.exe
@@ -59,7 +59,7 @@ gcc -o a-step200-2.exe webfind60-2.c tree2.c -liconv
 cp a-step200-2.exe ../work_dir
 cd ../webfind61f
 rm a-step210.exe
-gcc -o a-step210.exe webfind61.c wd56.c grm1516.c spl1.c spl2.c tree2b.c tree2d.c btree5.c btree6.c btree7.c btree8.c -liconv
+gcc -o a-step210.exe webfind61-msys.c wd56.c grm1516.c spl1.c spl2.c tree2b.c tree2d.c btree5.c btree6.c btree7.c btree8.c -liconv
 cp a-step210.exe ../work_dir
 cd ../webfind62
 rm a-step220.exe

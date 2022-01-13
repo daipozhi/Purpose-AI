@@ -9,7 +9,7 @@ How does computer process text,video,audio
  Purpose AI is distributed in the hope that it will be useful,
   but WITHOUT ANY WARRANTY; )
 
-(Jan 9th 2022 update)
+(Jan 12th 2022 update)
 
 这个工程是小戴人工智能，是开源项目
 
@@ -17,7 +17,7 @@ How does computer process text,video,audio
 
 (本开源软件的授权是LGPL,没有担保)
 
-(2022-01-09 更新)
+(2022-01-12 更新)
 
 
     A, text , words
@@ -91,13 +91,17 @@ How does computer process text,video,audio
 
         source code:
 
-            Ubuntu or Linux Mint (need install gcc)
+            Windows XP/7+MSYS+MINGW  or Ubuntu
 
-            in Ubuntu or Linux Mint , to build this project use build-ubuntu.bat
+            in MSYS ,you need open config.h file(in AI directory) set symbol AI_LINUX to 0   ,(#define AI_LINUX 0)
+            in Ubuntu ,you need open config.h file(in AI directory) set symbol AI_LINUX to 1 ,(#define AI_LINUX 1)
+
+            in MSYS , to build this project use build-msys.bat .
+            in Ubuntu , to build this project use build-ubuntu.bat
 
             in 'work_dir'
                   'download' directory is text download by offline browser .
-                  run a-step10-f3-ubuntu.bat) (list directory)
+                  run a-step10-f3-msys.bat (list directory)(in Ubuntu run a-step10-f3-ubuntu.bat)
                   run program in  'webfind_b' (step20)(copy to 'work_dir')(get text , erase html mark)
                       (in this version, we kept 200 text file ,from string1base000000.txt to string1base000199.txt ,
                        if you don't want download by a offline browser , you can start at next step(step30))
@@ -190,13 +194,17 @@ How does computer process text,video,audio
 
         源程序：
 
-            Ubuntu  或者 Linux Mint
+            Windows XP/7+MSYS+MINGW  或者 Ubuntu
 
-            在Ubuntu/Linux Mint下编译用build-ubuntu.bat
+            在MSYS下, 需要把主目录里的config.h里的AI_LINUX符号定义为0,即 #define AI_LINUX 0
+            在Ubuntu下, 需要把主目录里的config.h里的AI_LINUX符号定义为1,即 #define AI_LINUX 1
+
+            在MSYS下编译用build-msys.bat
+            在Ubuntu下编译用build-ubuntu.bat
 
             在work_dir目录
                   download目录下是离线阅读器下载的文件
-                  运行 a-step10-f3-ubuntu.bat (在目录work_dir)(列出目录)
+                  运行 a-step10-f3-msys.bat (在目录work_dir)(列出目录)(在Ubuntu下是a-step10-f3-ubuntu.bat)
                   运行 webfind_b 目录下的程序(step20)(拷贝到Work_dir)(提取文本)
 				(在这个版本里,保留了200个文本文件,从 string1base000000.txt 到 string1base000199.txt ,
                                  如果你不想用离线阅读器下载,可以直接从下一步开始,即从step30开始. )
@@ -297,7 +305,7 @@ How does computer process text,video,audio
 
         source code:
 
-            On Ubuntu/Linux Mint
+            Windows XP/7+MSYS+MINGW  or Ubuntu/Mint
 
             grammar courseware is in file grammar-cw03.txt
 
@@ -346,7 +354,7 @@ How does computer process text,video,audio
                              in step210 ,set param SPL1_OUT_NUM to 20,choose the 20 highest word value ones 
                              to calculate grammar value  ,accuracy +1%,to 91%,now ,set param SPL1_OUT_NUM 
                              to 200, accuracy +2%,to 92% )
-                        (Jan 9th 2022 version replaced binary tree search by binary search ,smaller and faster,
+                        (Jan 12th 2022 version replaced binary tree search by binary search ,smaller and faster,
                              increased parameter to be suitable to every kind of web pages , added sentence 
                              separating app .)
 
@@ -402,7 +410,7 @@ How does computer process text,video,audio
 
         源程序：
 
-            Ubuntu 或者 Linux Mint
+            Windows XP/7+MSYS+MINGW 或者 Ubuntu
 
                 语法课件在grammer-cw03.txt文件里
 
@@ -444,7 +452,7 @@ How does computer process text,video,audio
                         (2021-7-22 版本: 源程序更漂亮，增加了网格计算功能，在以前，在 step210 ,参数 SPL1_OUT_NUM 
                                    设置为 20，也就是取20个词分数最大的去计算他们的语法分数，准确率+1%,到 91%,现在把这
                                    个参数设为200，准确率+2%,到92%。）
-                        (2022-1-9  版本 用二分法检索替换了排序二叉树 , 更小更快 ,
+                        (2022-1-12 版本 用二分法检索替换了排序二叉树 , 更小更快 ,
                                    放大了参数以便适应各种网页 , 增加了语句分解app .)
 
 
