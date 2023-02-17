@@ -41,26 +41,26 @@ long long int str2llint(char *pstr);
 #define ARTI_LINE1    2000000
 #define ARTI_LINE2    200000
 
-	 char wd5_buf[ARTI_LINE1][55];
-          int wd5_rt[ARTI_LINE1];
-	  int wd5_ptr;
+extern 	 char wd5_buf[ARTI_LINE1][55];
+extern           int wd5_rt[ARTI_LINE1];
+extern 	  int wd5_ptr;
 
-int  wd5_search(char *);
-int  wd5_load(void);
+extern int  wd5_search(char *);
+extern int  wd5_load(void);
 
-int           wd5_find_rt;
-int 	      wd5_find_ptr;
+extern int           wd5_find_rt;
+extern int 	      wd5_find_ptr;
 
 //------------------------------
 
-	 char wd6_buf[ARTI_LINE2][55];
-          int wd6_rt[ARTI_LINE2];
-	  int wd6_ptr;
+extern 	 char wd6_buf[ARTI_LINE2][55];
+extern           int wd6_rt[ARTI_LINE2];
+extern 	  int wd6_ptr;
 
-int  wd6_search(char *);
-int  wd6_load(void);
+extern int  wd6_search(char *);
+extern int  wd6_load(void);
 
-          int wd6_find_rt;
+extern           int wd6_find_rt;
 
 //------------------------------
 
@@ -77,6 +77,19 @@ char init_c6;
 int  init_n1;
 int  init_n2;
 */
+
+int grm10_ini(void);
+int grm15_load(void);
+int grm16_load(void);
+int load_cb2(void);
+int load_cb(void);
+int trans1(char *pfn,char *pfn2);
+int separ_punc(char *p_in_str,char *p_out_sent,char *p_out_punc); // separate punctuation
+int spl1_loop(void);
+int spl2_loop(void);
+int sent_cb2_in(char *str);
+int sent8(char *fln,char *fln2);
+int sent_cb_in(char *str);
 
 //int pascal WinMain(HINSTANCE ins
 //		  ,HINSTANCE pins
@@ -162,22 +175,22 @@ int grm10_ini(void)
   return(0);
 }
 
-char spl1_in[SMG_SIZE];	// input
+extern char spl1_in[SMG_SIZE];	// input
 
 #define SPL1_OUT_NUM   20
 
-char spl1_out_str[SPL1_OUT_NUM][150][55];	// output
-int  spl1_out_nns[SPL1_OUT_NUM][150];
+extern char spl1_out_str[SPL1_OUT_NUM][150][55];	// output
+extern int  spl1_out_nns[SPL1_OUT_NUM][150];
 
-int  spl2_out_type;
-char spl2_out_str[150][55];
-char spl2_out_mrk[150];
-int  spl2_out_nns[150][6];
-char spl2_out_mr2[150][6];
-char spl2_out_len[150];
-int  spl2_out_seg;
+extern int  spl2_out_type;
+extern char spl2_out_str[150][55];
+extern char spl2_out_mrk[150];
+extern int  spl2_out_nns[150][6];
+extern char spl2_out_mr2[150][6];
+extern char spl2_out_len[150];
+extern int  spl2_out_seg;
 
-int  spl2_ptr2;
+extern int  spl2_ptr2;
 
 static char         m101_l1[3000];
 static char         m101_l2[3000];

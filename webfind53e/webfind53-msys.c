@@ -319,8 +319,8 @@ int f1_get_fln3(char *s1)
 //-----------------------------------------
 // super pipeline level 1 (spl1)
 //-----------------------------------------
-#define SPL1_NUM     2000
-#define SPL1_MAX_NUM 2000
+#define SPL1_NUM     20000
+#define SPL1_MAX_NUM 20000
 
 		char spl1_in[SMG_SIZE];	// input
 		int  spl1_out_ptr;
@@ -350,8 +350,8 @@ char  t2_node_val[TREE_SIZE_B][55];
 int   t2_search_node(char *pstr);
 int   t2_insert_node(char *pstr);
 
-#define BTREE3_SIZE   2000
-#define BTREE3_LSIZE  2000
+#define BTREE3_SIZE   20000
+#define BTREE3_LSIZE  20000
 
     char  t3_node_mark[BTREE3_SIZE];
 
@@ -397,8 +397,8 @@ int   t2_insert_node(char *pstr);
     //int   t3_dsp_list(void);
     //int   t3_save_list(char *fn);
 
-#define BTREE4_SIZE   2000
-#define BTREE4_LSIZE  2000
+#define BTREE4_SIZE   20000
+#define BTREE4_LSIZE  20000
 
     char  t4_node_mark[BTREE4_SIZE];
 

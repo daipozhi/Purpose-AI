@@ -32,14 +32,16 @@ int 	      wd5_find_ptr;
 #define TREE_SIZE 1000000
 #define LIST_SIZE  100000
 
-    int   t1_node_val2[TREE_SIZE];
-    int   t1_find_ptr2;
+extern     int   t1_node_val2[TREE_SIZE];
+extern     int   t1_find_ptr2;
 
-    int   t1_init_tree2(void);
-    int   t1_search_node(int pn1,int pn2,int pn3,int pn4,int pn5,int pn6);
-    int   t1_insert_node(int pn1,int pn2,int pn3,int pn4,int pn5,int pn6);
-    int   t1_after_list(void);
+extern     int   t1_init_tree2(void);
+extern     int   t1_search_node(int pn1,int pn2,int pn3,int pn4,int pn5,int pn6);
+extern     int   t1_insert_node(int pn1,int pn2,int pn3,int pn4,int pn5,int pn6);
+extern     int   t1_after_list(void);
 // end of tree 1 -----
+
+int load11(void);
 
 int main(int argc,char **argv)
 {

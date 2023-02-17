@@ -18,11 +18,11 @@
 #include <sys/stat.h>
 #include <fcntl.h>
 
-#define  BUF_LEN    200000000
+#define  BUF_LEN    20000000
 
 int f1_endptr;
 
-int f1_file(char *fn);
+int f1_file(char *fn,char *fn2);
 int f1_1stloadstr(int fh,char *s1);
 int f1_loadstr(char *buf,int ptr,char *s1);
 int f1_sav(FILE *fp,FILE *fp2,char *s1);
@@ -38,14 +38,14 @@ int f1_get_fln2(char *);
 
 //char lower(char );
 
-#define  DIR_NUM    3000000
+#define  DIR_NUM    1000000
 #define  FLN_LEN    300
 
 extern char    dir_buf[DIR_NUM][FLN_LEN];
 extern int     f2_eptr;
 extern int     f2_pointer;
 
-extern int f2_loaddir(void);
+extern int     f2_loaddir(void);
 //extern int lower_string(char *);
 
 char mc1;
@@ -58,6 +58,7 @@ char mc6;
 char m_buff1[BUF_LEN];
 
 extern int f3_file(char *fn);
+int  mydebug;
 
 //int pascal WinMain(HINSTANCE ins
 //		  ,HINSTANCE pins
@@ -65,7 +66,7 @@ extern int f3_file(char *fn);
 //		  ,int show)
 int main(void)
 {
-  int   i,j;
+  int   i,j,k,l,m;
   char  s1[FLN_LEN];
 
   MessageBox(0,"load htm file names","message",MB_OK);
@@ -76,40 +77,50 @@ int main(void)
 
   f2_pointer=0;
 
-  str_gb18030_to_utf8_ini();
-
   f1_init_ext();
 
   j=0;
 
   while (j<f2_eptr)
   {
-	  strncpy(s1,dir_buf[j],FLN_LEN);
+	 strncpy(s1,dir_buf[j],FLN_LEN);
 
          printf("j=%d,s1=%s,\n",j,s1);
 
           i=f3_file(s1);
-          if (i!=1)
+          if (i==2)
           {
-            j++;
-            continue;
+            k=findfile("tempfile.txt");
+            if (k==1)
+            {
+              l=deletefile("tempfile.txt");
+              if (l!=0)
+              {
+                printf("delete file error \n");
+                j++;
+                continue;
+              }
+            }
+            
+            file_utf8_to_gb18030_ext(s1);
+
+	    m=f1_file("tempfile.txt",s1);
           }
-
-	  i=f1_file(s1);
-
-	  if (i==1)
-	  {
-	    //MessageBox(NULL,"file error","message",MB_OK);
+          else if (i==1)
+          {
+	    m=f1_file(s1,s1);
 	  }
-      	  else
+	  else if (i==100)
 	  {
-	    //MessageBox(NULL,"file ok","message",MB_OK);
+	  }
+	  else
+	  {
 	  }
 
 	  j++;
+	  
+	  //if (j>60) break; //for debug
   }
-
-  str_gb18030_to_utf8_close();
 
   MessageBox(0,"words ok","message",MB_OK);
 
@@ -223,13 +234,18 @@ int f1_get_fln2(char *s1)
 	return(0);
 }
 
-int f1_file(char *fn)
+int f1_file(char *fn,char *fn2)
 {
   FILE *fp1,*fp2;
 //  int  i,j;
   int  fh;
   char s1[300];
   char s2[300];
+
+
+  //mydebug=0;
+  //if (strcmp(fn2,"../My-Program-Work-3/www.163.com/19/0711/14/EJQEHKGJ009097SQ-1.html")==0) mydebug=101;
+
 
   fh=open(fn,O_RDWR,S_IREAD|S_IWRITE);
   if (fh<0) return(1);
@@ -239,30 +255,21 @@ int f1_file(char *fn)
   close(fh);
 
   f1_get_fln(s1);
-/*
-  f1_get_fln2(s2);
-*/
+
   fp1=fopen(s1,"a");
   if (fp1==NULL) return(1);
-/*
-  fp2=fopen(s2,"a");
-  if (fp2==NULL) return(1);
 
-  fputs(fn  ,fp2);
-  fputs("\n",fp2);
-*/
+  // for debug
+  //fputs(fn2 ,fp1);
+  //fputs("\n",fp1);
+
   f1_sav(fp1,fp2,m_buff1);
   
   fclose(fp1);
-/*
-  fclose(fp2);
-*/
+
   if (f2_pointer>1000000)
   {
 	  f2_pointer=0;
-
-	  //file_gb18030_to_utf8(s1);  
-
 	  f1_next_ext();
   }
 
@@ -273,14 +280,15 @@ int f1_sav(FILE *fp1,FILE *fp2,char *buf)
 {
 	int  i,j,k,l,m,n,o;
 	int  cc;
-	char s1[20];
-	char s2[20];
-	char s3[33];
+	char s1[300];
+	char s2[300];
+	char s3[300];
+        char s4[300];
 
 	i=0;   // arti ptr
 	cc=0;  // is conten
 
-	while (i<=f1_endptr)
+	while (i<f1_endptr)
 	{
 		f1_loadstr(buf,i,s1);
 
@@ -290,8 +298,10 @@ int f1_sav(FILE *fp1,FILE *fp2,char *buf)
 		m=0; // is dot
 		o=0; // is <br
 		n=0; // is <pre
+		s3[0]=0;
+                s4[0]=0;
 
-		if ((s1[0]>=0)&&(s1[0]<=' '))
+		if ((s1[0]>0)&&(s1[0]<=' '))
 		{
 
 			buf[i]=0;
@@ -332,15 +342,15 @@ int f1_sav(FILE *fp1,FILE *fp2,char *buf)
 			continue;
 		}
 
-		if (strncmp(s1,"&lt;",4)==0) j=4;
-		/*{
+		if (strncmp(s1,"&lt;",4)==0)
+		{
 			buf[i+0]=0;
 			buf[i+1]=0;
 			buf[i+2]=0;
 			buf[i+3]=0;
 			i=i+4;
 			continue;
-		}*/
+		}
 
 		if ( strncmp(s1,"<pre",4)==0) j=5;
 		if ( strncmp(s1,"</pre",5)==0) j=5;
@@ -390,6 +400,8 @@ int f1_sav(FILE *fp1,FILE *fp2,char *buf)
 		if ( strncmp(s1,"<tbody",6)==0) j=6;
 		if ( strncmp(s1,"</tbod",6)==0) j=6;
 		if ( strncmp(s1,"<objec",6)==0) j=6;
+                if ( strncmp(s1,"<o"    ,2)==0) j=2; 
+                if ( strncmp(s1,"</o"   ,3)==0) j=3; 
 		if ( strncmp(s1,"</obje",6)==0) j=6;
 		if ( strncmp(s1,"<embed",6)==0) j=6;
 		if ( strncmp(s1,"</embe",6)==0) j=6;
@@ -402,12 +414,21 @@ int f1_sav(FILE *fp1,FILE *fp2,char *buf)
 			j=5;
 			k=1;
 			strcpy(s3,"</style>");
+                        strcpy(s4,"<styl");
 		}
-		if ( strncmp(s1,"<scri",5)==0)
+		if ( strncmp(s1,"<script",7)==0)
 		{
-			j=5;
+			j=7;
 			k=1;
 			strcpy(s3,"</script>");
+                        strcpy(s4,"<script");
+		}
+		if ( strncmp(s1,"<xml",4)==0)
+		{
+			j=4;
+			k=1;
+			strcpy(s3,"</xml>");
+                        strcpy(s4,"<xml");
 		}
 		if ( strncmp(s1,"<font",5)==0) j=5;
 		if ( strncmp(s1,"<img ",5)==0) j=5;
@@ -433,7 +454,6 @@ int f1_sav(FILE *fp1,FILE *fp2,char *buf)
 		if ( strncmp(s1,"</meta",6)==0) j=6;
 		if ( strncmp(s1,"</titl",6)==0) j=6;
 		if ( strncmp(s1,"</styl",6)==0) j=6;
-		if ( strncmp(s1,"</scri",6)==0) j=6;
 		if ( strncmp(s1,"</font",6)==0) j=6;
 		if ( strncmp(s1,"</tabl",6)==0) j=6;
 		if ( strncmp(s1,"</body",6)==0) j=6;
@@ -463,11 +483,14 @@ int f1_sav(FILE *fp1,FILE *fp2,char *buf)
 
 		if (k>0)
 		{
+                        //if (mydebug==101)
+                        //    printf("position=%d,%s,\n",i,s4);
+
 			i=f1_skipword(buf,i,s3);
 
 			if (cc==1)
 			{
-				fputs(",\n",fp1);
+				fputs("\n",fp1);
 				cc=0;
 			}
 		}
@@ -508,6 +531,10 @@ int f1_sav(FILE *fp1,FILE *fp2,char *buf)
 
 					cc=1;
 
+                                        //if (mydebug==101)
+                                        //    if ((s2[0]>=' ')&&(i<5000))
+                                        //        printf("position=%d-%s\n",i,s2);
+
 					f2_pointer++;
 
 					i++;
@@ -519,24 +546,28 @@ int f1_sav(FILE *fp1,FILE *fp2,char *buf)
 	return(0);
 }
 
-int f1_skipword(char *buf,int ptr,char *word)
+int f1_skipword(char *buf,int ptr,char *kword)
 {
-	int  i,j,k,l,m,n;
-//	char s1[20];
+	int  i,j,k,l,m,n,p;
 
 	i=ptr;
+        p=ptr;
 	j=0;
-	k=(int)strlen(word);
+	k=(int)strlen(kword);
 
-	while (ptr<f1_endptr)
+        //if (mydebug==101)
+        //    printf("skip keyword start,i=%d,%s,\n",i,kword);
+
+
+	while (p<f1_endptr)
 	{
-		ptr++;
+		p++;
 		
 		m=0;
 
-		for (l=ptr;l<ptr+k;l++)
+		for (l=p;l<p+k;l++)
 		{
-			if (deb_lower(buf[l])!=word[l-ptr])
+			if (deb_lower(buf[l])!=kword[l-p])
 			{
 				m=1;
 				break;
@@ -550,16 +581,17 @@ int f1_skipword(char *buf,int ptr,char *word)
 		}
 	}
 
-	for (n=i;n<ptr+k;n++) buf[n]=0;
+	for (n=i;n<p+k;n++) buf[n]=0;
 
-	return(ptr+k);
+        //if (mydebug==101)
+        //    printf("skip keyword end,i=%d,p+k=%d,keyword=%s,\n",i,p+k,kword);
+
+	return(p+k);
 }
 
 
-
+/*
 int m201_ptr1,m201_ptr2;
-
-
 
 int f1_is_pre(char *buf,int ptr,char *word,FILE *fp1,FILE *fp2)
 {
@@ -710,7 +742,7 @@ int f1_is_pre(char *buf,int ptr,char *word,FILE *fp1,FILE *fp2)
 
 	return(ptr+k);
 }
-
+*/
 
 int f1_skipcmd(char *buf,int ptr)
 {
@@ -739,7 +771,7 @@ int f1_skipcmd(char *buf,int ptr)
 
 	}
 
-	for (k=i;k<=ptr+j-1;k++) buf[k]=0;
+	for (k=i;k<ptr+j;k++) buf[k]=0;
 
 	return(ptr+j);
 }
@@ -748,7 +780,7 @@ int f1_loadstr(char *buff1,int ptr,char *s1)
 {
 	int  i,j;
 
-	for (i=0;i<10;i++) s1[i]=0;
+	s1[0]=0;
 
         if (ptr+10>f1_endptr) j=f1_endptr;
 	else j=ptr+10;
@@ -766,9 +798,13 @@ int f1_loadstr(char *buff1,int ptr,char *s1)
 
 int f1_1stloadstr(int fh,char *buff1)
 {
+	int i;
+	
+	for (i=0;i<BUF_LEN;i++) buff1[i]=0;
+	
 	f1_endptr=read((int)fh,buff1,BUF_LEN);	
 
-	f1_endptr--;
+	//f1_endptr--;
 
 	return(f1_endptr);
 }

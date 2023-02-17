@@ -24,7 +24,7 @@ int   MessageBoxNow(int h1,char *h2,char *h3,int h4);
 #include <locale.h>
 #include <iconv.h>
 
-iconv_t cd ;
+extern iconv_t cd ;
 
 int str_gb18030_to_utf8_ini(void);
 int str_gb18030_to_utf8_close(void);
@@ -44,8 +44,8 @@ int deb_upper_string(char *p_instr);
 #include <stdio.h>
 
 
-#define BTREE4_SIZE   2000
-#define BTREE4_LSIZE  2000
+#define BTREE4_SIZE   10000
+#define BTREE4_LSIZE  10000
 
     char  t4_node_mark[BTREE4_SIZE];
 
@@ -624,21 +624,17 @@ int t4_after_list(void)
       
       if (t4_node_ptr[k][1]>=0)
       {
-        t4_list_stack[t4_list_ptr]=t4_node_ptr[k][1];
-        t4_list_stack_type[t4_list_ptr]=1;
-        t4_list_ptr++;
-
         //sprintf(str1,"add left tree %s,list_ptr=%d,",node_val[node_ptr[k][1]],list_ptr);
         if (t4_list_ptr>=BTREE4_LSIZE)
         {
           MessageBoxNow(0,"In btree4,error in after_list(),BTREE4_LSIZE too small.","message",MB_OK);
           continue;
         }
-      }
 
-      t4_list_stack[t4_list_ptr]=k;
-      t4_list_stack_type[t4_list_ptr]=2;
-      t4_list_ptr++;
+        t4_list_stack[t4_list_ptr]=t4_node_ptr[k][1];
+        t4_list_stack_type[t4_list_ptr]=1;
+        t4_list_ptr++;
+      }
 
       //sprintf(str1,"add mid tree %s,list_ptr=%d,",node_val[k],list_ptr);
       if (t4_list_ptr>=BTREE4_LSIZE)
@@ -647,18 +643,22 @@ int t4_after_list(void)
         continue;
       }
 
+      t4_list_stack[t4_list_ptr]=k;
+      t4_list_stack_type[t4_list_ptr]=2;
+      t4_list_ptr++;
+
       if (t4_node_ptr[k][2]>=0)
       {
-        t4_list_stack[t4_list_ptr]=t4_node_ptr[k][2];
-        t4_list_stack_type[t4_list_ptr]=1;
-        t4_list_ptr++;
-
         //sprintf(str1,"add right tree %s,list_ptr=%d,",node_val[node_ptr[k][2]],list_ptr);
         if (t4_list_ptr>=BTREE4_LSIZE)
         {
           MessageBoxNow(0,"In btree4,error in after_list(),BTREE4_LSIZE too small.","message",MB_OK);
           continue;
         }
+
+        t4_list_stack[t4_list_ptr]=t4_node_ptr[k][2];
+        t4_list_stack_type[t4_list_ptr]=1;
+        t4_list_ptr++;
       }
     }
     else

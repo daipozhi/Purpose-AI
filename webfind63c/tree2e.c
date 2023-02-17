@@ -24,7 +24,7 @@ int   MessageBox(int h1,char *h2,char *h3,int h4);
 #include <locale.h>
 #include <iconv.h>
 
-iconv_t cd ;
+extern iconv_t cd ;
 
 int str_gb18030_to_utf8_ini(void);
 int str_gb18030_to_utf8_close(void);
@@ -498,21 +498,17 @@ int /*tree2::*/t5_after_list(void)
       
       if (t5_node_ptr[k][1]>=0)
       {
-        t5_list_stack[t5_list_ptr]=t5_node_ptr[k][1];
-        t5_list_stack_type[t5_list_ptr]=1;
-        t5_list_ptr++;
-
         //sprintf(str1,"add left tree %s,list_ptr=%d,",node_val[node_ptr[k][1]],list_ptr);
         if (t5_list_ptr>=LIST_SIZE_E)
         {
           MessageBox(0,"In tree5,error in after_list(),LIST_SIZE_E too small.","message",MB_OK);
           continue;
         }
-      }
 
-      t5_list_stack[t5_list_ptr]=k;
-      t5_list_stack_type[t5_list_ptr]=2;
-      t5_list_ptr++;
+        t5_list_stack[t5_list_ptr]=t5_node_ptr[k][1];
+        t5_list_stack_type[t5_list_ptr]=1;
+        t5_list_ptr++;
+      }
 
       //sprintf(str1,"add mid tree %s,list_ptr=%d,",node_val[k],list_ptr);
       if (t5_list_ptr>=LIST_SIZE_E)
@@ -521,18 +517,22 @@ int /*tree2::*/t5_after_list(void)
         continue;
       }
 
+      t5_list_stack[t5_list_ptr]=k;
+      t5_list_stack_type[t5_list_ptr]=2;
+      t5_list_ptr++;
+
       if (t5_node_ptr[k][2]>=0)
       {
-        t5_list_stack[t5_list_ptr]=t5_node_ptr[k][2];
-        t5_list_stack_type[t5_list_ptr]=1;
-        t5_list_ptr++;
-
         //sprintf(str1,"add right tree %s,list_ptr=%d,",node_val[node_ptr[k][2]],list_ptr);
         if (t5_list_ptr>=LIST_SIZE_E)
         {
           MessageBox(0,"In tree5,error in after_list(),LIST_SIZE_E too small.","message",MB_OK);
           continue;
         }
+
+        t5_list_stack[t5_list_ptr]=t5_node_ptr[k][2];
+        t5_list_stack_type[t5_list_ptr]=1;
+        t5_list_ptr++;
       }
     }
     else

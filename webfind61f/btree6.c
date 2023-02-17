@@ -24,7 +24,7 @@ int   MessageBoxNow(int h1,char *h2,char *h3,int h4);
 #include <locale.h>
 #include <iconv.h>
 
-iconv_t cd ;
+extern iconv_t cd ;
 
 int str_gb18030_to_utf8_ini(void);
 int str_gb18030_to_utf8_close(void);
@@ -44,8 +44,8 @@ int deb_upper_string(char *p_instr);
 #include <stdio.h>
 
 
-#define BTREE6_SIZE   2000
-#define BTREE6_LSIZE  2000
+#define BTREE6_SIZE   10000
+#define BTREE6_LSIZE  10000
 
     char  t6_node_mark[BTREE6_SIZE];
 
@@ -85,7 +85,26 @@ long long int  t6_node_v_rp2[BTREE6_SIZE];
     char  t6_list_stack_type[BTREE6_LSIZE];
     int   t6_list_ptr;
 
-    int   t6_out_buff[BTREE6_SIZE];
+    //int   t6_out_buff[BTREE6_SIZE];
+
+    char  t6_out_mark[BTREE6_SIZE];
+
+    long long int   t6_out_val[BTREE6_SIZE][4];
+    int             t6_out_va2[BTREE6_SIZE];
+
+	  int  t6_out_v_sid[BTREE6_SIZE][150];
+	  char t6_out_v_mr2[BTREE6_SIZE][150];
+
+	  char t6_out_v_mrk[BTREE6_SIZE];
+
+	  int  t6_out_v_len[BTREE6_SIZE];
+	  int  t6_out_v_seg[BTREE6_SIZE];
+	  int  t6_out_v_val[BTREE6_SIZE];
+long long int  t6_out_v_rpt[BTREE6_SIZE];
+
+	  int  t6_out_v_va2[BTREE6_SIZE];
+long long int  t6_out_v_rp2[BTREE6_SIZE];
+
     int   t6_out_ptr;
 
     int   t6_err;
@@ -624,21 +643,17 @@ int t6_after_list(void)
       
       if (t6_node_ptr[k][1]>=0)
       {
-        t6_list_stack[t6_list_ptr]=t6_node_ptr[k][1];
-        t6_list_stack_type[t6_list_ptr]=1;
-        t6_list_ptr++;
-
         //sprintf(str1,"add left tree %s,list_ptr=%d,",node_val[node_ptr[k][1]],list_ptr);
         if (t6_list_ptr>=BTREE6_LSIZE)
         {
           MessageBoxNow(0,"In btree6,error in after_list(),BTREE6_LSIZE too small.","message",MB_OK);
           continue;
         }
-      }
 
-      t6_list_stack[t6_list_ptr]=k;
-      t6_list_stack_type[t6_list_ptr]=2;
-      t6_list_ptr++;
+        t6_list_stack[t6_list_ptr]=t6_node_ptr[k][1];
+        t6_list_stack_type[t6_list_ptr]=1;
+        t6_list_ptr++;
+      }
 
       //sprintf(str1,"add mid tree %s,list_ptr=%d,",node_val[k],list_ptr);
       if (t6_list_ptr>=BTREE6_LSIZE)
@@ -647,25 +662,29 @@ int t6_after_list(void)
         continue;
       }
 
+      t6_list_stack[t6_list_ptr]=k;
+      t6_list_stack_type[t6_list_ptr]=2;
+      t6_list_ptr++;
+
       if (t6_node_ptr[k][2]>=0)
       {
-        t6_list_stack[t6_list_ptr]=t6_node_ptr[k][2];
-        t6_list_stack_type[t6_list_ptr]=1;
-        t6_list_ptr++;
-
         //sprintf(str1,"add right tree %s,list_ptr=%d,",node_val[node_ptr[k][2]],list_ptr);
         if (t6_list_ptr>=BTREE6_LSIZE)
         {
           MessageBoxNow(0,"In btree6,error in after_list(),BTREE6_LSIZE too small.","message",MB_OK);
           continue;
         }
+
+        t6_list_stack[t6_list_ptr]=t6_node_ptr[k][2];
+        t6_list_stack_type[t6_list_ptr]=1;
+        t6_list_ptr++;
       }
     }
     else
     {
       k=t6_list_stack[j];
 
-      //t6_out_list(k);
+      t6_out_list(k);
 
       //sprintf(str1,"out val %s,",node_val[k]);
       //MessageBoxNow(0,str1,"message",MB_OK);
@@ -674,17 +693,42 @@ int t6_after_list(void)
 
   return(0);
 }
-/*
+
 int t6_out_list(int ptr)
 {
-  int i,j;
+  int i,i3,i4,j;
 
   if (t6_node_mark[ptr]!=0) t6_err=1;
 
-  t6_out_buff[t6_out_ptr]=t6_node_val[ptr];
+  //t6_out_buff[t6_out_ptr]=t6_node_val[ptr];
+  
+  t6_out_val[t6_out_ptr][0]=t6_node_val[ptr][0];
+  t6_out_val[t6_out_ptr][1]=t6_node_val[ptr][1];
+  t6_out_val[t6_out_ptr][2]=t6_node_val[ptr][2];
+  t6_out_val[t6_out_ptr][3]=t6_node_val[ptr][3];
+  
+  t6_out_va2[t6_out_ptr]=t6_node_va2[ptr];
+  
+  t6_out_v_mrk[t6_out_ptr]=t6_node_v_mrk[ptr];
+
+  t6_out_v_len[t6_out_ptr]=t6_node_v_len[ptr];
+  t6_out_v_seg[t6_out_ptr]=t6_node_v_seg[ptr];
+  t6_out_v_val[t6_out_ptr]=t6_node_v_val[ptr];
+  t6_out_v_rpt[t6_out_ptr]=t6_node_v_rpt[ptr];
+
+  t6_out_v_va2[t6_out_ptr]=t6_node_v_va2[ptr];
+  t6_out_v_rp2[t6_out_ptr]=t6_node_v_rp2[ptr];
+
+  i3=t6_out_v_seg[t6_out_ptr];
+  for (i4=0;i4<i3;i4++)
+  {
+	t6_out_v_sid[t6_out_ptr][i4]=t6_node_v_sid[ptr][i4];
+	t6_out_v_mr2[t6_out_ptr][i4]=t6_node_v_mr2[ptr][i4];
+  }
+  
   t6_out_ptr++;
 
   return(0);
 }
-*/
+
 

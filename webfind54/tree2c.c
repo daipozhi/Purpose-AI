@@ -24,7 +24,7 @@ int   MessageBox(int h1,char *h2,char *h3,int h4);
 #include <locale.h>
 #include <iconv.h>
 
-iconv_t cd ;
+extern iconv_t cd ;
 
 int str_gb18030_to_utf8_ini(void);
 int str_gb18030_to_utf8_close(void);
@@ -514,41 +514,41 @@ int /*tree2::*/t3_after_list(void)
       
       if (t3_node_ptr[k][1]>=0)
       {
-        t3_list_stack[t3_list_ptr]=t3_node_ptr[k][1];
-        t3_list_stack_type[t3_list_ptr]=1;
-        t3_list_ptr++;
-
         //sprintf(str1,"add left tree %s,list_ptr=%d,",node_val[node_ptr[k][1]],list_ptr);
-        if (t3_list_ptr>LIST_SIZE_C)
+        if (t3_list_ptr>=LIST_SIZE_C)
         {
           MessageBox(0,"In tree2c,error in after_list(),LIST_SIZE_C too small.","message",MB_OK);
           continue;
         }
+
+        t3_list_stack[t3_list_ptr]=t3_node_ptr[k][1];
+        t3_list_stack_type[t3_list_ptr]=1;
+        t3_list_ptr++;
+      }
+
+      //sprintf(str1,"add mid tree %s,list_ptr=%d,",node_val[k],list_ptr);
+      if (t3_list_ptr>=LIST_SIZE_C)
+      {
+        MessageBox(0,"In tree2c,error in after_list(),LIST_SIZE_C too small.","message",MB_OK);
+        continue;
       }
 
       t3_list_stack[t3_list_ptr]=k;
       t3_list_stack_type[t3_list_ptr]=2;
       t3_list_ptr++;
 
-      //sprintf(str1,"add mid tree %s,list_ptr=%d,",node_val[k],list_ptr);
-      if (t3_list_ptr>LIST_SIZE_C)
-      {
-        MessageBox(0,"In tree2c,error in after_list(),LIST_SIZE_C too small.","message",MB_OK);
-        continue;
-      }
-
       if (t3_node_ptr[k][2]>=0)
       {
-        t3_list_stack[t3_list_ptr]=t3_node_ptr[k][2];
-        t3_list_stack_type[t3_list_ptr]=1;
-        t3_list_ptr++;
-
         //sprintf(str1,"add right tree %s,list_ptr=%d,",node_val[node_ptr[k][2]],list_ptr);
-        if (t3_list_ptr>LIST_SIZE_C)
+        if (t3_list_ptr>=LIST_SIZE_C)
         {
           MessageBox(0,"In tree2c,error in after_list(),LIST_SIZE_C too small.","message",MB_OK);
           continue;
         }
+
+        t3_list_stack[t3_list_ptr]=t3_node_ptr[k][2];
+        t3_list_stack_type[t3_list_ptr]=1;
+        t3_list_ptr++;
       }
     }
     else

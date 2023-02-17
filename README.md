@@ -9,7 +9,7 @@ How does computer process text,video,audio
  Purpose AI is distributed in the hope that it will be useful,
   but WITHOUT ANY WARRANTY; )
 
-(Jan 12th 2022 update)
+(Feb 19th 2023 update)
 
 这个工程是小戴人工智能，是开源项目
 
@@ -17,7 +17,7 @@ How does computer process text,video,audio
 
 (本开源软件的授权是LGPL,没有担保)
 
-(2022-01-12 更新)
+(2023-02-19 更新)
 
 
     A, text , words
@@ -91,24 +91,20 @@ How does computer process text,video,audio
 
         source code:
 
-            Windows XP/7+MSYS+MINGW  or Ubuntu
+            on Ubuntu
 
-            in MSYS ,you need open config.h file(in AI directory) set symbol AI_LINUX to 0   ,(#define AI_LINUX 0)
-            in Ubuntu ,you need open config.h file(in AI directory) set symbol AI_LINUX to 1 ,(#define AI_LINUX 1)
-
-            in MSYS , to build this project use build-msys.bat .
-            in Ubuntu , to build this project use build-ubuntu.bat
+            in Ubuntu , to build this project use "./build-ubuntu.bat"
 
             in 'work_dir'
                   'download' directory is text download by offline browser .
                   run a-step10-f3-msys.bat (list directory)(in Ubuntu run a-step10-f3-ubuntu.bat)
                   run program in  'webfind_b' (step20)(copy to 'work_dir')(get text , erase html mark)
-                      (in this version, we kept 200 text file ,from string1base000000.txt to string1base000199.txt ,
+                      (in this version, we kept 400 text file ,from string1base000000.txt to string1base000399.txt ,
                        if you don't want download by a offline browser , you can start at next step(step30))
                   run program in  'webfind39' (step30)(copy to 'work_dir', include 'cb.txt' )(erase punctuation)
                   run program in  'webfind4a' (step40)(copy to 'work_dir')(erase empty line , repeated line)
-                  run program a-step50-ini.exe 200 8
-                              ('200' is total file number, '8' is how many CPU thread do you want use)
+                  run program a-step50-ini.exe 400 16
+                              ('400' is total file number, '16' is how many CPU thread do you want use)
                   run program in  'webfind29f'(step50)(separate to words by repeate )
                                                       (if you want grid compute,don't run a-step50.exe ,run
                                                        a-step50.bat , how to make this .bat file please read 
@@ -116,8 +112,8 @@ How does computer process text,video,audio
                   run program in  'webfind23c'(step60)(get all words ,generate word database)
                                               (step70 deleted)
                                               (step80 deleted)
-                  run program a-step90-ini.exe 200 8
-                              ('200' is total file number, '8' is how many CPU thread do you want use)
+                  run program a-step90-ini.exe 400 16
+                              ('400' is total file number, '16' is how many CPU thread do you want use)
                   run program in  'webfind53e'(step90)(separate to words by word courseware and word database )
 				(word courseware is in file words-cw01.txt and words-cw02.sort.txt , how to make 
 				word courseware please read readme.txt file in directory webfind50 , text file 
@@ -194,24 +190,20 @@ How does computer process text,video,audio
 
         源程序：
 
-            Windows XP/7+MSYS+MINGW  或者 Ubuntu
+            in Ubuntu
 
-            在MSYS下, 需要把主目录里的config.h里的AI_LINUX符号定义为0,即 #define AI_LINUX 0
-            在Ubuntu下, 需要把主目录里的config.h里的AI_LINUX符号定义为1,即 #define AI_LINUX 1
-
-            在MSYS下编译用build-msys.bat
             在Ubuntu下编译用build-ubuntu.bat
 
             在work_dir目录
                   download目录下是离线阅读器下载的文件
                   运行 a-step10-f3-msys.bat (在目录work_dir)(列出目录)(在Ubuntu下是a-step10-f3-ubuntu.bat)
                   运行 webfind_b 目录下的程序(step20)(拷贝到Work_dir)(提取文本)
-				(在这个版本里,保留了200个文本文件,从 string1base000000.txt 到 string1base000199.txt ,
+				(在这个版本里,保留了400个文本文件,从 string1base000000.txt 到 string1base000399.txt ,
                                  如果你不想用离线阅读器下载,可以直接从下一步开始,即从step30开始. )
                   运行 webfind39 目录下的程序(step30)(拷贝到work_dir,包括cb.txt )(去掉标点符号)
                   运行 webfind4a 目录下的程序(step40)(拷贝到work_dir)(去掉空行，重复的行)
-                  运行 a-step50-ini.exe 200 8
-                              ('200' 是要计算的文件数量, '8' 是使用多少个CPU线程)
+                  运行 a-step50-ini.exe 400 16
+                              ('400' 是要计算的文件数量, '16' 是使用多少个CPU线程)
                   运行 webfind29f 目录下的程序 (step50)(根据重复分词)
                                                       （如果你想进行网格计算，不要运行 a-step50.exe, 而是运行 a-step50.bat ，
                                                          怎样创建这个 .bat文件请看 tools-6/readme.txt 文件 )
@@ -219,8 +211,8 @@ How does computer process text,video,audio
                                               (step70)(已经删除)
                                               (step80)(已经删除)
 
-                  运行 a-step90-ini.exe 200 8
-                              ('200' 是要计算的文件数量, '8' 是使用多少个CPU线程)
+                  运行 a-step90-ini.exe 400 16
+                              ('400' 是要计算的文件数量, '16' 是使用多少个CPU线程)
                   运行 webfind53e 目录下的程序 (step90)(根据词课件和自动生成的词库分词)
 				(词课件在words-cw01.txt 和 words-cw02.sort.txt 这两个文件中,
                                  如何制作词课件请看webfind50目录下的readme.txt文件,文本文件
@@ -276,7 +268,7 @@ How does computer process text,video,audio
             (highest one separate sentence by a word with 3 chinese, lower 
             ones may separate sentence by a word with 2 chinese or a word with
             1 chiness .) so there are thousands result , choose 
-            the 200 highest value ones , calculate its grammar value , add with
+            the 100 highest value ones , calculate its grammar value , add with
             its word value ,the highest value one is result.
 
         separate all text . 
@@ -301,11 +293,10 @@ How does computer process text,video,audio
 
         (if you make grammar database by human separated text, don't need this step.)
 
-        after this step accuracy will be about 97%
 
         source code:
 
-            Windows XP/7+MSYS+MINGW  or Ubuntu/Mint
+            Ubuntu
 
             grammar courseware is in file grammar-cw03.txt
 
@@ -315,8 +306,8 @@ How does computer process text,video,audio
                      grammar database )
                 run program in webfind60c-2 (step200-2)(copy to work_dir)
                      (sort grammar courseware)
-                run program a-step210-ini.exe 200 8
-                              ('200' is total file number, '8' is how many CPU thread do you want use)
+                run program a-step210-ini.exe 400 16
+                              ('400' is total file number, '16' is how many CPU thread do you want use)
                 run program in webfind61f (step210)(copy to work_dir)
                     (separate sentence by word courseware and word database , 
                     not only keep the highest value one , also keep some lower 
@@ -357,6 +348,13 @@ How does computer process text,video,audio
                         (Jan 12th 2022 version replaced binary tree search by binary search ,smaller and faster,
                              increased parameter to be suitable to every kind of web pages , added sentence 
                              separating app .)
+                        (Feb 19th 2023 version add more word/grammar courseware, today's PC is faster, 
+                             usually has 12 thread or 16 thread , so I increase parameter ,to get better result , 
+                             but need more cpu time , can add utf8 charset file to sentence database,in before only
+                             can add gb18030 charset file to sentence database ,add file under work_dir/download/My-Program-Work-1 
+                             if default charset is gb18030 ,add file under work_dir/download/My-Program-Work-3 
+                             if default charset is utf8 ,sentence files number increase to 400 , passed test on Ubuntu 22.04.1
+                             and Ubuntu 20.04.5 )
 
 
 
@@ -410,7 +408,7 @@ How does computer process text,video,audio
 
         源程序：
 
-            Windows XP/7+MSYS+MINGW 或者 Ubuntu
+                in Ubuntu
 
                 语法课件在grammer-cw03.txt文件里
 
@@ -419,8 +417,8 @@ How does computer process text,video,audio
                         一起,是语法库.
                 运行webfind60c-2里的程序(step200-2)(拷贝到目录 work_dir)
                      (语法课件排序)
-                运行a-step210-ini.exe 200 8
-                              ('200' 是要计算的文件数量, '8' 是使用多少个CPU线程)
+                运行a-step210-ini.exe 400 16
+                              ('400' 是要计算的文件数量, '16' 是使用多少个CPU线程)
                 运行webfind61f里的程序(step210)(拷贝到目录 work_dir)
                        把一句话按照词分解开来，不仅保留总体分数最大的，也保留分数较小的 ,
 			计算它们的语法分数,然后和词的分数相加,选取分数最大的,
@@ -452,9 +450,14 @@ How does computer process text,video,audio
                         (2021-7-22 版本: 源程序更漂亮，增加了网格计算功能，在以前，在 step210 ,参数 SPL1_OUT_NUM 
                                    设置为 20，也就是取20个词分数最大的去计算他们的语法分数，准确率+1%,到 91%,现在把这
                                    个参数设为200，准确率+2%,到92%。）
-                        (2022-1-12 版本 用二分法检索替换了排序二叉树 , 更小更快 ,
-                                   放大了参数以便适应各种网页 , 增加了语句分解app .)
-
+                        (2022-01-12 版本 用二分法检索替换了排序二叉树 , 更小更快 ,
+                                    放大了参数以便适应各种网页 , 增加了语句分解app .)
+                        (2023-02-19 制做了更多的词课件语法课件,现在的PC普遍较快,12线程或16线程,
+                                    我放大了参数以便有更好的结果,但是需要更多CPU时间,可以把utf8字符集的网页
+                                    加入到语料库中,以前只能加入GB18030字符集的网页,如果缺省字符集是GB18030
+                                    把网页放到 work_dir/download/My-Program-Work-1 下面,如果缺省字符集是utf8
+                                    把网页放到 work_dir/download/My-Program-Work-3 下面,语料库的文件个数增加
+                                    到了400,在 Ubuntu 22.04.1 Ubuntu 20.04.5 测试通过 .)
 
 
     C,video
@@ -626,6 +629,8 @@ How does computer process text,video,audio
     *课件
 
          需要为计算机制作很多的课件，就象一个母亲教她的孩子，这是什么，那是什么。
+
+
 
 
 

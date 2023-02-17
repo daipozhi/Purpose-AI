@@ -12,14 +12,14 @@
 #define   IDCANCEL		3
 #define   IDOK			4
 #define   IDRETRY		5
-
+/*
 int    MessageBox(int h1,char *h2,char *h3,int h4);
-
+*/
 #include <locale.h>
 #include <iconv.h>
 
-iconv_t cd ;
-
+//iconv_t cd ;
+/*
 int str_gb18030_to_utf8_ini(void);
 int str_gb18030_to_utf8_close(void);
 int str_gb18030_to_utf8(char *inbuffer,char *outbuffer,int outbufferlen);
@@ -36,8 +36,52 @@ char deb_lower(char c1);
 int deb_lower_string(char *p_instr);
 char deb_upper(char c1);
 int deb_upper_string(char *p_instr);
-
-int  ai_number[151];
-
+*/
+//int  ai_number[151];
+/*
 long long int str2llint(char *pstr);
+*/
+
+
+
+
+int  string_e_space(char *pstr);
+int  string_trim(char *pstr);
+int  string_trim_nos(char *pstr); // no space
+int  cww1_number(void);
+int  cww1_load(void);
+int  cww1_findptr(char *ps1,int ptr);
+int  cww1_findptr2(char *ps1,int ptr);
+int  cww1_ini(int ptr);
+int  cww1_num_ini(void);
+int  cww1_num_sum(void);
+int  cww1_test(void);
+int  cww1_number_in_it(char *ps);
+int  cww1_number_is(char *ps);
+long long int str2llint(char *pstr);
+int  ai_number_g(void);
+char lower(char c1);
+int  MessageBox(int h1,char *h2,char *h3,int h4);
+int  MessageBoxNow(int h1,char *h2,char *h3,int h4); // Now : no wait
+int  cpy_string(char *p_s1,int p_s1_size,char *p_s2,int p_s2_size);
+int  str_gb18030_to_utf8_ini(void);
+int  str_gb18030_to_utf8(char *in_buffer,char *out_buffer,int out_buffer_len);
+int  str_gb18030_to_utf8_close(void);
+int  file_gb18030_to_utf8(char *inbuffer);
+int  filenameext(char *iname,char *oname,char *oext);
+int  str_utf8_to_gb18030_ini(void);
+int  str_utf8_to_gb18030(char *in_buffer,char *out_buffer,int out_buffer_len);
+int  str_utf8_to_gb18030_close(void);
+int  file_utf8_to_gb18030(char *inbuffer);
+char deb_lower(char c1);
+int  deb_lower_string(char *p_instr);
+char deb_upper(char c1);
+int  deb_upper_string(char *p_instr);
+int  str2int(char *p_string,int p_string_size);
+int  int2str(int val,char *p_string,int p_string_size);
+
+int findfile(char*);
+int deletefile(char*);
+int file_utf8_to_gb18030_ext(char *inbuffer);
+
 

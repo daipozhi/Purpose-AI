@@ -39,7 +39,7 @@ int   MessageBox(int h1,char *h2,char *h3,int h4);
 #include <sys/stat.h>
 #include <fcntl.h>
 
-#define  DIR_NUM    3000000
+#define  DIR_NUM    1000000
 #define  FLN_LEN    300
 
 char     dir_buf[DIR_NUM][FLN_LEN];
@@ -110,7 +110,7 @@ int f2_loaddir(void)
 		i++;
 		if (i>=DIR_NUM)
 		{
-			MessageBox(0,"DIR_NUM too small","message",MB_OK);
+			MessageBox(0,"Param DIR_NUM too small","message",MB_OK);
 			break;
 		}
 	}
@@ -215,6 +215,7 @@ int stringfind(char *ps1,char *ps2)
 	if (m==1) return(0);
 	else return(1);
 }
+
 /*
 int lower_string(char *ps1)
 {
@@ -227,3 +228,4 @@ int lower_string(char *ps1)
 	return(0);
 }
 */
+

@@ -24,7 +24,7 @@ int   MessageBox(int h1,char *h2,char *h3,int h4);
 #include <locale.h>
 #include <iconv.h>
 
-iconv_t cd ;
+extern iconv_t cd ;
 
 int str_gb18030_to_utf8_ini(void);
 int str_gb18030_to_utf8_close(void);

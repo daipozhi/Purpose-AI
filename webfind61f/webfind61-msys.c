@@ -352,7 +352,7 @@ int grm10_ini(void)
 
 char spl1_in[SMG_SIZE];	// input
 
-#define SPL1_OUT_NUM   20
+#define SPL1_OUT_NUM   200
 
 char spl1_out_str[SPL1_OUT_NUM][150][55];	// output
 int  spl1_out_nns[SPL1_OUT_NUM][150];

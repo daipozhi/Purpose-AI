@@ -45,6 +45,8 @@ char sent_cb[100][10];
 int  sent_cb_ptr;
 int  load_cb(void);
 
+int sent_cb_in(char *str);
+
 //int pascal WinMain(HINSTANCE ins
 //		  ,HINSTANCE pins
 //		  ,LPSTR cl

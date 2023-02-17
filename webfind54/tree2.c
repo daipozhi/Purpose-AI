@@ -24,7 +24,7 @@ int   MessageBox(int h1,char *h2,char *h3,int h4);
 #include <locale.h>
 #include <iconv.h>
 
-iconv_t cd ;
+extern iconv_t cd ;
 
 int str_gb18030_to_utf8_ini(void);
 int str_gb18030_to_utf8_close(void);
@@ -524,41 +524,41 @@ int /*tree2::*/t1_after_list(void)
       
       if (t1_node_ptr[k][1]>=0)
       {
-        t1_list_stack[t1_list_ptr]=t1_node_ptr[k][1];
-        t1_list_stack_type[t1_list_ptr]=1;
-        t1_list_ptr++;
-
         //sprintf(str1,"add left tree %s,list_ptr=%d,",node_val[node_ptr[k][1]],list_ptr);
-        if (t1_list_ptr>LIST_SIZE)
+        if (t1_list_ptr>=LIST_SIZE)
         {
           MessageBox(0,"In tree1,error in after_list(),LIST_SIZE too small.","message",MB_OK);
           continue;
         }
+
+        t1_list_stack[t1_list_ptr]=t1_node_ptr[k][1];
+        t1_list_stack_type[t1_list_ptr]=1;
+        t1_list_ptr++;
+      }
+
+      //sprintf(str1,"add mid tree %s,list_ptr=%d,",node_val[k],list_ptr);
+      if (t1_list_ptr>=LIST_SIZE)
+      {
+        MessageBox(0,"In tree1,error in after_list(),LIST_SIZE too small.","message",MB_OK);
+        continue;
       }
 
       t1_list_stack[t1_list_ptr]=k;
       t1_list_stack_type[t1_list_ptr]=2;
       t1_list_ptr++;
 
-      //sprintf(str1,"add mid tree %s,list_ptr=%d,",node_val[k],list_ptr);
-      if (t1_list_ptr>LIST_SIZE)
-      {
-        MessageBox(0,"In tree1,error in after_list(),LIST_SIZE too small.","message",MB_OK);
-        continue;
-      }
-
       if (t1_node_ptr[k][2]>=0)
       {
-        t1_list_stack[t1_list_ptr]=t1_node_ptr[k][2];
-        t1_list_stack_type[t1_list_ptr]=1;
-        t1_list_ptr++;
-
         //sprintf(str1,"add right tree %s,list_ptr=%d,",node_val[node_ptr[k][2]],list_ptr);
-        if (t1_list_ptr>LIST_SIZE)
+        if (t1_list_ptr>=LIST_SIZE)
         {
           MessageBox(0,"In tree1,error in after_list(),LIST_SIZE too small.","message",MB_OK);
           continue;
         }
+
+        t1_list_stack[t1_list_ptr]=t1_node_ptr[k][2];
+        t1_list_stack_type[t1_list_ptr]=1;
+        t1_list_ptr++;
       }
     }
     else

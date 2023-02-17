@@ -24,7 +24,7 @@ int   MessageBoxNow(int h1,char *h2,char *h3,int h4);
 #include <locale.h>
 #include <iconv.h>
 
-iconv_t cd ;
+extern iconv_t cd ;
 
 int str_gb18030_to_utf8_ini(void);
 int str_gb18030_to_utf8_close(void);
@@ -45,26 +45,26 @@ int deb_upper_string(char *p_instr);
 
 #define SMG_SIZE      300
 
-char mc1;
-char mc2;
-char mc3;
-char mc4;
-char mc5;
-char mc6;
+extern char mc1;
+extern char mc2;
+extern char mc3;
+extern char mc4;
+extern char mc5;
+extern char mc6;
 
 //------------------------------
 #define ARTI_LINE1    2000000
 #define ARTI_LINE2    200000
 
-	 char wd5_buf[ARTI_LINE1][55];
-          int wd5_rt[ARTI_LINE1];
-	  int wd5_ptr;
+extern 	 char wd5_buf[ARTI_LINE1][55];
+extern           int wd5_rt[ARTI_LINE1];
+extern 	  int wd5_ptr;
 
-int  wd5_search(char *);
-int  wd5_load(void);
+extern int  wd5_search(char *);
+extern int  wd5_load(void);
 
-          int wd5_find_rt;
-	  int wd5_find_ptr;
+extern           int wd5_find_rt;
+extern 	  int wd5_find_ptr;
 //------------------------------
 
 
@@ -111,8 +111,8 @@ int t3_find_ptr2;
 int t3_buff_ptr;
 */
 
-int  grm10_ptr1[6];
-char grm10_mrk[6][20][10];
+extern int  grm10_ptr1[6];
+extern char grm10_mrk[6][20][10];
 
 static	char         m601_l1[SMG_SIZE];
 static	char         m601_l2[20][SMG_SIZE];
@@ -122,6 +122,9 @@ static	char	     m601_s2[1000];
 static	char	     m601_s3[1000];
 static	char         m601_s4[SMG_SIZE];
 static  int 	     m601_ns[20];
+
+int grm15_cmp(int i,int pn1,int pn2,int pn3,int pn4);
+int grm16_cmp(int i,int pn1,int pn2,int pn3,int pn4,int pn5,int pn6);
 
 int grm15_load(void)
 {
@@ -143,9 +146,9 @@ int grm15_load(void)
 	line_n=0;
 
 #ifdef AI_APP
-	strcpy(m601_s1,"grammar-base04.sort.txt");
+	strcpy(m601_s1,"grammar-base04.sort.dat");
 #else
-	strcpy(m601_s1,"grammar-base03.sort.txt");
+	strcpy(m601_s1,"grammar-base03.sort.dat");
 #endif
 
 	printf("grm15_load():%s,\n",m601_s1);
@@ -168,6 +171,7 @@ int grm15_load(void)
 		fgets(m601_l1,SMG_SIZE,fp1);
 
 		if (strncmp(m601_l1,"//",2)==0) continue;
+		
 		if ((m601_l1[0]>=0)&&(m601_l1[0]<' ')) continue;	
 
 /*
@@ -335,7 +339,7 @@ int grm15_load(void)
 	fclose(fp1);
 
 
-	sprintf(m601_s2,"grm15_load() %d line loaded, %d line skiped,unknow words=%s,grm15_ptr=%d,",line_n,err_n,m601_s4,grm15_ptr);
+	sprintf(m601_s2,"grm15_load() %d line skiped,unknow words=%s,grm15_ptr=%d,",err_n,m601_s4,grm15_ptr);
 
 	str_gb18030_to_utf8_ini();
 	if (AI_LINUX==1)
@@ -527,6 +531,7 @@ int grm16_load(void)
 		fgets(m602_l1,SMG_SIZE,fp1);
 
 		if (strncmp(m602_l1,"//",2)==0) continue;
+		
 		if ((m602_l1[0]>=0)&&(m602_l1[0]<=' ')) continue;	
 
 		k=0;
@@ -685,7 +690,7 @@ int grm16_load(void)
 
 	fclose(fp1);
 
-	sprintf(m602_s2,"grm16_load() %d line skiped ,unknow words=%s,grm16_ptr=%d,",err_n,m602_s4,grm16_ptr);
+	sprintf(m602_s2,"grm16_load() %d line skiped,unknow words=%s,grm16_ptr=%d,",err_n,m602_s4,grm16_ptr);
 
 	str_gb18030_to_utf8_ini();
 	if (AI_LINUX==1)

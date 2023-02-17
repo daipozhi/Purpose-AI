@@ -70,10 +70,14 @@ int  wd6_find_rt;
 int ai_number_g(void);
 
 
+int grm10_ini(void);
+int load12(void);
+
+
 extern int load_cb2(void);
 
-int t3_init_tree2(void);
-int t3_after_list(void);
+extern int t3_init_tree2(void);
+extern int t3_after_list(void);
 
 //int pascal WinMain(HINSTANCE ins
 //		  ,HINSTANCE pins

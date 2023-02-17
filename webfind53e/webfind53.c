@@ -72,6 +72,18 @@ int  wd6_find_rt;
 
 int ai_number_g(void);
 
+
+int load_cb(void);
+int frame_loop1(void);
+int trans1(char *pfn);
+int trans2(void);
+int out_put_seg(int ptr);
+int sent8(char *fln);
+int sent_cb_in(char *str);
+int sent9(void);
+int sent9wrt1(void);
+
+
 char init_c1;
 char init_c2;
 char init_c3;
@@ -132,7 +144,7 @@ int mproc(char *strpath)
 int f1_get_one(void)
 {
   FILE *fp1;
-  int   i,j,eof;
+  int   i,j,endf;
   char  str1[300];
   char  str2[300];
 
@@ -150,7 +162,7 @@ int f1_get_one(void)
 
 
   i=0;
-  eof=0;
+  endf=0;
   str2[0]='*';
   str2[1]=0;
 
@@ -161,9 +173,10 @@ int f1_get_one(void)
 
     if (j<1)
     {
-      eof=1;
+      endf=1;
       break;
     }
+    
     if (str1[0]==' ')
     {
       fseek(fp1,i*8,SEEK_SET);
@@ -178,7 +191,8 @@ int f1_get_one(void)
 
       break;
     }
-    else i++;
+    
+    i++;
   }
 
 
@@ -187,9 +201,9 @@ int f1_get_one(void)
 
   fclose(fp1);
 
-
-  if (eof==1) return(1);
-  else return(0);
+  if (endf==1) return(1);
+  
+  return(0);
 }
 
 int f1_init_ext(void)
@@ -280,139 +294,139 @@ int f1_get_fln3(char *s1)
 //-----------------------------------------
 // super pipeline level 1 (spl1)
 //-----------------------------------------
-#define SPL1_NUM     2000
-#define SPL1_MAX_NUM 2000
+#define SPL1_NUM     10000
+#define SPL1_MAX_NUM 10000
 
-		char spl1_in[SMG_SIZE];	// input
-		int  spl1_out_ptr;
+extern 		char spl1_in[SMG_SIZE];	// input
+extern 		int  spl1_out_ptr;
 
 		//char spl1_str[SPL1_NUM][100][55];
-		int  spl1_sid[SPL1_NUM][150];
-		char spl1_mrk[SPL1_NUM];
-		int  spl1_val[SPL1_NUM];
-long long 	int  spl1_rpt[SPL1_NUM];
-		int  spl1_len[SPL1_NUM];
-		int  spl1_seg[SPL1_NUM];
-		int  spl1_ptr;
+extern 		int  spl1_sid[SPL1_NUM][150];
+extern 		char spl1_mrk[SPL1_NUM];
+extern 		int  spl1_val[SPL1_NUM];
+extern long long 	int  spl1_rpt[SPL1_NUM];
+extern 		int  spl1_len[SPL1_NUM];
+extern 		int  spl1_seg[SPL1_NUM];
+extern 		int  spl1_ptr;
 
-		char spl1_mr2[SPL1_NUM][150];
-		int  spl1_va2[SPL1_NUM];
-long long 	int  spl1_rp2[SPL1_NUM];
+extern 		char spl1_mr2[SPL1_NUM][150];
+extern 		int  spl1_va2[SPL1_NUM];
+extern long long 	int  spl1_rp2[SPL1_NUM];
 
-int  spl1_buf[60];  // check repeated string
-int  spl1_buf_ptr;
+extern int  spl1_buf[60];  // check repeated string
+extern int  spl1_buf_ptr;
 
 // notice tree 2(t2)
 #define TREE_SIZE_B 4000
-int   t2_find_ptr2;
-int   t2_buff_ptr;
-char  t2_node_val[TREE_SIZE_B][55];
+extern int   t2_find_ptr2;
+extern int   t2_buff_ptr;
+extern char  t2_node_val[TREE_SIZE_B][55];
 
-int   t2_search_node(char *pstr);
-int   t2_insert_node(char *pstr);
+extern int   t2_search_node(char *pstr);
+extern int   t2_insert_node(char *pstr);
 
-#define BTREE3_SIZE   2000
-#define BTREE3_LSIZE  2000
+#define BTREE3_SIZE   10000
+#define BTREE3_LSIZE  10000
 
-    char  t3_node_mark[BTREE3_SIZE];
+extern     char  t3_node_mark[BTREE3_SIZE];
 
-    long long int   t3_node_val[BTREE3_SIZE][4];
-    int   t3_node_va2[BTREE3_SIZE];
+extern     long long int   t3_node_val[BTREE3_SIZE][4];
+extern     int   t3_node_va2[BTREE3_SIZE];
     
-    int   t3_stack[BTREE3_SIZE];
-    int   t3_stack_ptr;
+extern     int   t3_stack[BTREE3_SIZE];
+extern     int   t3_stack_ptr;
 
-    int   t3_parent;
-    int   t3_parent_side;
-    int   t3_current;
-    int   t3_child_left;
-    int   t3_child_right;
+extern     int   t3_parent;
+extern     int   t3_parent_side;
+extern     int   t3_current;
+extern     int   t3_child_left;
+extern     int   t3_child_right;
 
-    int   t3_node_ptr[BTREE3_SIZE][3];
-    int   t3_root_ptr;
+extern     int   t3_node_ptr[BTREE3_SIZE][3];
+extern     int   t3_root_ptr;
 
-    int   t3_find_ptr;
-    int   t3_find_ptr2;
-    int   t3_find_side;
+extern     int   t3_find_ptr;
+extern     int   t3_find_ptr2;
+extern     int   t3_find_side;
     
-    int   t3_list_stack[BTREE3_LSIZE];
-    char  t3_list_stack_type[BTREE3_LSIZE];
-    int   t3_list_ptr;
+extern     int   t3_list_stack[BTREE3_LSIZE];
+extern     char  t3_list_stack_type[BTREE3_LSIZE];
+extern     int   t3_list_ptr;
 
-    int   t3_out_buff[BTREE3_SIZE];
-    int   t3_out_ptr;
+extern     int   t3_out_buff[BTREE3_SIZE];
+extern     int   t3_out_ptr;
 
-    int   t3_err;
+extern     int   t3_err;
 
-    int   t3_init_tree(void);
-    int   t3_new_node(void);
-    int   t3_clear_node(int ptr);
-    int   t3_search_node(long long int pn1,long long int pn2,long long int pn3,long long int pn4);
-    int   t3_insert_node(long long int pn1,long long int pn2,long long int pn3,long long int pn4);
-    int   t3_delete_node(long long int pn1,long long int pn2,long long int pn3,long long int pn4);
-    int   t3_smallest(void);
-    int   t3_istrcmp(int i,long long int pn1,long long int pn2,long long int pn3,long long int pn4);
-    int   t3_dsp_tree(void);
-    int   t3_after_list(void);
-    int   t3_out_list(int);
+extern     int   t3_init_tree(void);
+extern     int   t3_new_node(void);
+extern     int   t3_clear_node(int ptr);
+extern     int   t3_search_node(long long int pn1,long long int pn2,long long int pn3,long long int pn4);
+extern     int   t3_insert_node(long long int pn1,long long int pn2,long long int pn3,long long int pn4);
+extern     int   t3_delete_node(long long int pn1,long long int pn2,long long int pn3,long long int pn4);
+extern     int   t3_smallest(void);
+extern     int   t3_istrcmp(int i,long long int pn1,long long int pn2,long long int pn3,long long int pn4);
+extern     int   t3_dsp_tree(void);
+extern     int   t3_after_list(void);
+extern     int   t3_out_list(int);
     //int   t3_dsp_list(void);
     //int   t3_save_list(char *fn);
 
-#define BTREE4_SIZE   2000
-#define BTREE4_LSIZE  2000
+#define BTREE4_SIZE   10000
+#define BTREE4_LSIZE  10000
 
-    char  t4_node_mark[BTREE4_SIZE];
+extern     char  t4_node_mark[BTREE4_SIZE];
 
-    long long int   t4_node_val[BTREE4_SIZE][4];
-    int   t4_node_va2[BTREE4_SIZE];
+extern     long long int   t4_node_val[BTREE4_SIZE][4];
+extern     int   t4_node_va2[BTREE4_SIZE];
 
-	  int  t4_node_v_sid[BTREE4_SIZE][150];
-	  char t4_node_v_mrk[BTREE4_SIZE];
-	  int  t4_node_v_val[BTREE4_SIZE];
-long long int  t4_node_v_rpt[BTREE4_SIZE];
-	  int  t4_node_v_len[BTREE4_SIZE];
-	  int  t4_node_v_seg[BTREE4_SIZE];
+extern 	  int  t4_node_v_sid[BTREE4_SIZE][150];
+extern 	  char t4_node_v_mrk[BTREE4_SIZE];
+extern 	  int  t4_node_v_val[BTREE4_SIZE];
+extern long long int  t4_node_v_rpt[BTREE4_SIZE];
+extern 	  int  t4_node_v_len[BTREE4_SIZE];
+extern 	  int  t4_node_v_seg[BTREE4_SIZE];
 
-	  char t4_node_v_mr2[BTREE4_SIZE][150];
-	  int  t4_node_v_va2[BTREE4_SIZE];
-long long int  t4_node_v_rp2[BTREE4_SIZE];
+extern 	  char t4_node_v_mr2[BTREE4_SIZE][150];
+extern 	  int  t4_node_v_va2[BTREE4_SIZE];
+extern long long int  t4_node_v_rp2[BTREE4_SIZE];
     
-    int   t4_stack[BTREE4_SIZE];
-    int   t4_stack_ptr;
+extern     int   t4_stack[BTREE4_SIZE];
+extern     int   t4_stack_ptr;
 
-    int   t4_parent;
-    int   t4_parent_side;
-    int   t4_current;
-    int   t4_child_left;
-    int   t4_child_right;
+extern     int   t4_parent;
+extern     int   t4_parent_side;
+extern     int   t4_current;
+extern     int   t4_child_left;
+extern     int   t4_child_right;
 
-    int   t4_node_ptr[BTREE4_SIZE][3];
-    int   t4_root_ptr;
+extern     int   t4_node_ptr[BTREE4_SIZE][3];
+extern     int   t4_root_ptr;
 
-    int   t4_find_ptr;
-    int   t4_find_ptr2;
-    int   t4_find_side;
+extern     int   t4_find_ptr;
+extern     int   t4_find_ptr2;
+extern     int   t4_find_side;
     
-    int   t4_list_stack[BTREE4_LSIZE];
-    char  t4_list_stack_type[BTREE4_LSIZE];
-    int   t4_list_ptr;
+extern     int   t4_list_stack[BTREE4_LSIZE];
+extern     char  t4_list_stack_type[BTREE4_LSIZE];
+extern     int   t4_list_ptr;
 
-    int   t4_out_buff[BTREE4_SIZE];
-    int   t4_out_ptr;
+extern     int   t4_out_buff[BTREE4_SIZE];
+extern     int   t4_out_ptr;
 
-    int   t4_err;
+extern     int   t4_err;
 
-    int   t4_init_tree(void);
-    int   t4_new_node(void);
-    int   t4_clear_node(int ptr);
-    int   t4_search_node(long long int pn1,long long int pn2,long long int pn3,long long int pn4,int pn5);
-    int   t4_insert_node(long long int pn1,long long int pn2,long long int pn3,long long int pn4,int pn5);
-    int   t4_delete_node(long long int pn1,long long int pn2,long long int pn3,long long int pn4,int pn5);
-    int   t4_smallest(void);
-    int   t4_istrcmp(int i,long long int pn1,long long int pn2,long long int pn3,long long int pn4,int pn5);
-    int   t4_dsp_tree(void);
-    int   t4_after_list(void);
-    int   t4_out_list(int);
+extern     int   t4_init_tree(void);
+extern     int   t4_new_node(void);
+extern     int   t4_clear_node(int ptr);
+extern     int   t4_search_node(long long int pn1,long long int pn2,long long int pn3,long long int pn4,int pn5);
+extern     int   t4_insert_node(long long int pn1,long long int pn2,long long int pn3,long long int pn4,int pn5);
+extern     int   t4_delete_node(long long int pn1,long long int pn2,long long int pn3,long long int pn4,int pn5);
+extern     int   t4_smallest(void);
+extern     int   t4_istrcmp(int i,long long int pn1,long long int pn2,long long int pn3,long long int pn4,int pn5);
+extern     int   t4_dsp_tree(void);
+extern     int   t4_after_list(void);
+extern     int   t4_out_list(int);
     //int   t4_dsp_list(void);
     //int   t4_save_list(char *fn);
 
@@ -752,57 +766,7 @@ int sent8(char *fln)
 
 	return(0);
 }
-/*
-int sent8add2(char *str)
-{
-  	int  i,j,k;
-	char c1;
 
-	if ((int)strlen(str)>=SENT_LEN2) return(0);
-
-	strcpy(load8[load8_l],str);
-
-	load8_l++;
-
-	if (load8_l>=SENT_NUM)
-	{
-		MessageBoxNow(0,"sent_num too small","message",MB_OK);
-		load8_l--;
-	}
-
-	return(0);
-}
-*/
-/*
-int sent8wrt1(void)
-{
-	FILE *fp1;
-	int  i,j,k;
-	char c1,s1[300];
-
-	f1_get_fln2(s1);
-	s1[9]='1';
-
-	fp1=fopen(s1,"w");
-	if (fp1==NULL)
-	{
-		MessageBoxNow(0,"open file words-cw000.tmp1.txt fail ","message",MB_OK);
-		return(0);
-	}
-
-	for (k=0;k<load8_l;k++)
-	{
-		fputs(load8[k],fp1);
-		fputs("\n",fp1);
-	}
-
-	fclose(fp1);
-
-	load8_l=0;
-
-	return(0);
-}
-*/
 int load_cb(void)
 {
 	FILE *fp1;
@@ -862,44 +826,39 @@ int sent_cb_in(char *str)
 #define TREE_SIZE_A 400000
 #define LIST_SIZE_A  40000
 
-    char  t1_node_mark[TREE_SIZE_A];
-    char  t1_node_val[TREE_SIZE_A][300];
+extern     char  t1_node_mark[TREE_SIZE_A];
+extern     char  t1_node_val[TREE_SIZE_A][300];
 
-    int   t1_node_ptr[TREE_SIZE_A][3];
-    int   t1_root_ptr;
-    int   t1_buff_ptr;
+extern     int   t1_node_ptr[TREE_SIZE_A][3];
+extern     int   t1_root_ptr;
+extern     int   t1_buff_ptr;
     
-    int   t1_find_ptr;
-    int   t1_find_ptr2;
-    int   t1_find_side;
+extern     int   t1_find_ptr;
+extern     int   t1_find_ptr2;
+extern     int   t1_find_side;
     
-    int   t1_list_stack[LIST_SIZE_A];
-    char  t1_list_stack_type[LIST_SIZE_A];
-    int   t1_list_ptr;
+extern     int   t1_list_stack[LIST_SIZE_A];
+extern     char  t1_list_stack_type[LIST_SIZE_A];
+extern     int   t1_list_ptr;
 /*
     char  t1_out_buff[TREE_SIZE_A][300];
 */
-    int   t1_out_ptr;
+extern     int   t1_out_ptr;
 
-    int   t1_init_tree2(void);
-    int   t1_new_node(void);
-    int   t1_clear_node(int ptr);
-    int   t1_search_node(char *pstr);
-    int   t1_insert_node(char *pstr);
-    int   t1_dsp_tree2(void);
-    int   t1_after_list(void);
-    int   t1_out_list(char *pstr,int ,int);
-    int   t1_dsp_list(void);
-    int   t1_save_list(char *fn);
-/*
-char load9[SENT_NUM][SENT_LEN2];
-int  load9_l;
-*/
+extern     int   t1_init_tree2(void);
+extern     int   t1_new_node(void);
+extern     int   t1_clear_node(int ptr);
+extern     int   t1_search_node(char *pstr);
+extern     int   t1_insert_node(char *pstr);
+extern     int   t1_dsp_tree2(void);
+extern     int   t1_after_list(void);
+extern     int   t1_out_list(char *pstr,int ,int);
+extern     int   t1_dsp_list(void);
+extern     int   t1_save_list(char *fn);
+
 int trans2(void)
 {
 	int i;
-
-	//load9_l=0;
 
        	t1_init_tree2();
 
@@ -944,22 +903,6 @@ int sent9(void)
 		j=(int)strlen(sent_s);
 		if (j>=300) continue;
 
-		//for (i=0;i<j;i++)
-		//	if (sent_s[i]==' ') sent_s[i]=0;
-
-		//k=0;
-
-		//for (i=0;i<j;i++)
-		//{
-		//	if (sent_s[i]!=0)
-		//	{
-		//		sent_s2[k+0]=sent_s[i];
-		//		sent_s2[k+1]=0;
-		//		k++;
-		//	}
-		//	else continue;
-		//}
-
 		string_e_space(sent_s);
 
 		//sent9in1();
@@ -970,39 +913,7 @@ int sent9(void)
 
 	return(0);
 }
-/*
-int sent9in1(void)
-{
-  	int  i,j,k;
-	char c1;
 
-	if ((int)strlen(sent_s)>=300) return(1);
-
-	t1_insert_node(sent_s);
-	
-	return(0);
-}
-*/
-/*
-int sent9add2(void)
-{
-  	int  i,j,k;
-	char c1;
-
-	strcpy(load9[load9_l],sent_s);
-
-	load9_l++;
-
-	if (load9_l>=SENT_NUM)
-	{
-		MessageBoxNow(0,"sent_num too small","message",MB_OK);
-
-		load9_l--;
-	}
-
-	return(0);
-}
-*/
 int sent9wrt1(void)
 {
 	FILE *fp1;

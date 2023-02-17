@@ -1,6 +1,8 @@
 
 #include "../config.h"
 
+#include "../common/common.h"
+
 //#define   STRICT
 //#include <windows.h>
 //#include <commdlg.h>
@@ -24,7 +26,7 @@ int   MessageBoxNow(int h1,char *h2,char *h3,int h4);
 #include <locale.h>
 #include <iconv.h>
 
-iconv_t cd ;
+extern iconv_t cd ;
 
 int str_gb18030_to_utf8_ini(void);
 int str_gb18030_to_utf8_close(void);
@@ -49,40 +51,40 @@ int deb_upper_string(char *p_instr);
 
 #define SMG_SIZE      300
 
-int  ai_number[151];
+extern int  ai_number[151];
 
-FILE *m_fp1;
+extern FILE *m_fp1;
 
 //------------------------------
 #define ARTI_LINE1    2000000
 #define ARTI_LINE2    200000
 
-	 char wd5_buf[ARTI_LINE1][55];
-          int wd5_rt[ARTI_LINE1];
-	  int wd5_ptr;
+extern 	 char wd5_buf[ARTI_LINE1][55];
+extern           int wd5_rt[ARTI_LINE1];
+extern 	  int wd5_ptr;
 
-int  wd5_search(char *);
-int  wd5_load(void);
+extern int  wd5_search(char *);
+extern int  wd5_load(void);
 
-int           wd5_find_rt;
-int 	      wd5_find_ptr;
-
-//------------------------------
-
-	 char wd6_buf[ARTI_LINE2][55];
-          int wd6_rt[ARTI_LINE2];
-	  int wd6_ptr;
-
-int  wd6_search(char *);
-int  wd6_load(void);
-
-          int wd6_find_rt;
+extern int           wd5_find_rt;
+extern int 	      wd5_find_ptr;
 
 //------------------------------
 
+extern 	 char wd6_buf[ARTI_LINE2][55];
+extern           int wd6_rt[ARTI_LINE2];
+extern 	  int wd6_ptr;
 
-#define SPL1_NUM     2000
-#define SPL1_MAX_NUM 2000
+extern int  wd6_search(char *);
+extern int  wd6_load(void);
+
+extern           int wd6_find_rt;
+
+//------------------------------
+
+
+#define SPL1_NUM     10000
+#define SPL1_MAX_NUM 10000
 #define SPL1_DEBUG   0
 
 char spl1_in[SMG_SIZE];	// input
@@ -99,12 +101,14 @@ long long int  spl1_rpt[SPL1_NUM];
 
 int  spl1_va2[SPL1_NUM];
 long long int  spl1_rp2[SPL1_NUM];
+	
+int  spl1_iid[SPL1_NUM];
 
 int  spl1_ptr;
 int  spl1_buf[60];  // check repeated string
 int  spl1_buf_ptr;
 
-#define SPL1_OUT_NUM   20
+#define SPL1_OUT_NUM   100
 
 	char   spl1_out_str[SPL1_OUT_NUM][150][55];	// output
 	int    spl1_out_nns[SPL1_OUT_NUM][150];
@@ -116,124 +120,180 @@ long long int  spl1_out_va4[SPL1_OUT_NUM];
 	int    spl1_out_seg[SPL1_OUT_NUM];
 	int    spl1_out_ptr;
 
+int spl1_add_to_tree(void);
+int spl1_add_to_tree2(void);
+
 // notice tree 2(t2)
 #define TREE_SIZE 4000
 
-int   t2_find_ptr2;
-int   t2_buff_ptr;
-char  t2_node_val[TREE_SIZE][55];
+extern int   t2_find_ptr2;
+extern int   t2_buff_ptr;
+extern char  t2_node_val[TREE_SIZE][55];
 
-int   t2_search_node(char *pstr);
-int   t2_insert_node(char *pstr);
+extern int   t2_search_node(char *pstr);
+extern int   t2_insert_node(char *pstr);
+extern int   t2_init_tree2(void);
 
 // end of tree
 
-#define BTREE5_SIZE   2000
-#define BTREE5_LSIZE  2000
+#define BTREE6_SIZE   10000
+#define BTREE6_LSIZE  10000
 
-    char  t5_node_mark[BTREE5_SIZE];
+extern     char  t6_node_mark[BTREE6_SIZE];
 
-    long long int   t5_node_val[BTREE5_SIZE][4];
-    int   t5_node_va2[BTREE5_SIZE];
+extern     long long int   t6_node_val[BTREE6_SIZE][4];
+extern     int   t6_node_va2[BTREE6_SIZE];
+
+extern 	  int  t6_node_v_sid[BTREE6_SIZE][150];
+extern 	  char t6_node_v_mr2[BTREE6_SIZE][150];
+
+extern 	  char t6_node_v_mrk[BTREE6_SIZE];
+
+extern 	  int  t6_node_v_len[BTREE6_SIZE];
+extern 	  int  t6_node_v_seg[BTREE6_SIZE];
+extern 	  int  t6_node_v_val[BTREE6_SIZE];
+extern long long int  t6_node_v_rpt[BTREE6_SIZE];
+
+extern 	  int  t6_node_v_va2[BTREE6_SIZE];
+extern long long int  t6_node_v_rp2[BTREE6_SIZE];
     
-    int   t5_stack[BTREE5_SIZE];
-    int   t5_stack_ptr;
+extern     int   t6_stack[BTREE6_SIZE];
+extern     int   t6_stack_ptr;
 
-    int   t5_parent;
-    int   t5_parent_side;
-    int   t5_current;
-    int   t5_child_left;
-    int   t5_child_right;
+extern     int   t6_parent;
+extern     int   t6_parent_side;
+extern     int   t6_current;
+extern     int   t6_child_left;
+extern     int   t6_child_right;
 
-    int   t5_node_ptr[BTREE5_SIZE][3];
-    int   t5_root_ptr;
+extern     int   t6_node_ptr[BTREE6_SIZE][3];
+extern     int   t6_root_ptr;
 
-    int   t5_find_ptr;
-    int   t5_find_ptr2;
-    int   t5_find_side;
+extern     int   t6_find_ptr;
+extern     int   t6_find_ptr2;
+extern     int   t6_find_side;
     
-    int   t5_list_stack[BTREE5_LSIZE];
-    char  t5_list_stack_type[BTREE5_LSIZE];
-    int   t5_list_ptr;
+extern     int   t6_list_stack[BTREE6_LSIZE];
+extern     char  t6_list_stack_type[BTREE6_LSIZE];
+extern     int   t6_list_ptr;
 
-    int   t5_out_buff[BTREE5_SIZE];
-    int   t5_out_ptr;
+//extern     int   t6_out_buff[BTREE6_SIZE];
 
-    int   t5_err;
+extern    char  t6_out_mark[BTREE6_SIZE];
 
-    int   t5_init_tree(void);
-    int   t5_new_node(void);
-    int   t5_clear_node(int ptr);
-    int   t5_search_node(long long int pn1,long long int pn2,long long int pn3,long long int pn4);
-    int   t5_insert_node(long long int pn1,long long int pn2,long long int pn3,long long int pn4);
-    int   t5_delete_node(long long int pn1,long long int pn2,long long int pn3,long long int pn4);
-    int   t5_smallest(void);
-    int   t5_istrcmp(int i,long long int pn1,long long int pn2,long long int pn3,long long int pn4);
-    int   t5_dsp_tree(void);
-    int   t5_after_list(void);
-    int   t5_out_list(int);
-    //int   t5_dsp_list(void);
-    //int   t5_save_list(char *fn);
+extern    long long int   t6_out_val[BTREE6_SIZE][4];
+extern    int             t6_out_va2[BTREE6_SIZE];
 
-#define BTREE6_SIZE   2000
-#define BTREE6_LSIZE  2000
+extern	  int  t6_out_v_sid[BTREE6_SIZE][150];
+extern	  char t6_out_v_mr2[BTREE6_SIZE][150];
 
-    char  t6_node_mark[BTREE6_SIZE];
+extern	  char t6_out_v_mrk[BTREE6_SIZE];
 
-    long long int   t6_node_val[BTREE6_SIZE][4];
-    int   t6_node_va2[BTREE6_SIZE];
+extern	  int  t6_out_v_len[BTREE6_SIZE];
+extern	  int  t6_out_v_seg[BTREE6_SIZE];
+extern	  int  t6_out_v_val[BTREE6_SIZE];
+extern long long int  t6_out_v_rpt[BTREE6_SIZE];
 
-	  int  t6_node_v_sid[BTREE6_SIZE][150];
-	  char t6_node_v_mr2[BTREE6_SIZE][150];
+extern	  int  t6_out_v_va2[BTREE6_SIZE];
+extern long long int  t6_out_v_rp2[BTREE6_SIZE];
 
-	  char t6_node_v_mrk[BTREE6_SIZE];
+extern     int   t6_out_ptr;
 
-	  int  t6_node_v_len[BTREE6_SIZE];
-	  int  t6_node_v_seg[BTREE6_SIZE];
-	  int  t6_node_v_val[BTREE6_SIZE];
-long long int  t6_node_v_rpt[BTREE6_SIZE];
+extern     int   t6_err;
 
-	  int  t6_node_v_va2[BTREE6_SIZE];
-long long int  t6_node_v_rp2[BTREE6_SIZE];
-    
-    int   t6_stack[BTREE6_SIZE];
-    int   t6_stack_ptr;
-
-    int   t6_parent;
-    int   t6_parent_side;
-    int   t6_current;
-    int   t6_child_left;
-    int   t6_child_right;
-
-    int   t6_node_ptr[BTREE6_SIZE][3];
-    int   t6_root_ptr;
-
-    int   t6_find_ptr;
-    int   t6_find_ptr2;
-    int   t6_find_side;
-    
-    int   t6_list_stack[BTREE6_LSIZE];
-    char  t6_list_stack_type[BTREE6_LSIZE];
-    int   t6_list_ptr;
-
-    int   t6_out_buff[BTREE6_SIZE];
-    int   t6_out_ptr;
-
-    int   t6_err;
-
-    int   t6_init_tree(void);
-    int   t6_new_node(void);
-    int   t6_clear_node(int ptr);
-    int   t6_search_node(long long int pn1,long long int pn2,long long int pn3,long long int pn4,int pn5);
-    int   t6_insert_node(long long int pn1,long long int pn2,long long int pn3,long long int pn4,int pn5);
-    int   t6_delete_node(long long int pn1,long long int pn2,long long int pn3,long long int pn4,int pn5);
-    int   t6_smallest(void);
-    int   t6_istrcmp(int i,long long int pn1,long long int pn2,long long int pn3,long long int pn4,int pn5);
-    int   t6_dsp_tree(void);
-    int   t6_after_list(void);
-    int   t6_out_list(int);
+extern     int   t6_init_tree(void);
+extern     int   t6_new_node(void);
+extern     int   t6_clear_node(int ptr);
+extern     int   t6_search_node(long long int pn1,long long int pn2,long long int pn3,long long int pn4,int pn5);
+extern     int   t6_insert_node(long long int pn1,long long int pn2,long long int pn3,long long int pn4,int pn5);
+extern     int   t6_delete_node(long long int pn1,long long int pn2,long long int pn3,long long int pn4,int pn5);
+extern     int   t6_smallest(void);
+extern     int   t6_istrcmp(int i,long long int pn1,long long int pn2,long long int pn3,long long int pn4,int pn5);
+extern     int   t6_dsp_tree(void);
+extern     int   t6_after_list(void);
+extern     int   t6_out_list(int);
     //int   t6_dsp_list(void);
     //int   t6_save_list(char *fn);
+
+#define BTREE10_SIZE   100  //equal to spl1_out_num
+#define BTREE10_LSIZE  100
+
+extern     char  t10_node_mark[BTREE6_SIZE];
+
+extern     long long int   t10_node_val[BTREE6_SIZE][4];
+extern     int   t10_node_va2[BTREE6_SIZE];
+
+extern 	  int  t10_node_v_sid[BTREE6_SIZE][150];
+extern 	  char t10_node_v_mr2[BTREE6_SIZE][150];
+
+extern 	  char t10_node_v_mrk[BTREE6_SIZE];
+
+extern 	  int  t10_node_v_len[BTREE6_SIZE];
+extern 	  int  t10_node_v_seg[BTREE6_SIZE];
+extern 	  int  t10_node_v_val[BTREE6_SIZE];
+extern long long int  t10_node_v_rpt[BTREE6_SIZE];
+
+extern 	  int  t10_node_v_va2[BTREE6_SIZE];
+extern long long int  t10_node_v_rp2[BTREE6_SIZE];
+    
+extern     int   t10_stack[BTREE6_SIZE];
+extern     int   t10_stack_ptr;
+
+extern     int   t10_parent;
+extern     int   t10_parent_side;
+extern     int   t10_current;
+extern     int   t10_child_left;
+extern     int   t10_child_right;
+
+extern     int   t10_node_ptr[BTREE6_SIZE][3];
+extern     int   t10_root_ptr;
+
+extern     int   t10_find_ptr;
+extern     int   t10_find_ptr2;
+extern     int   t10_find_side;
+    
+extern     int   t10_list_stack[BTREE6_LSIZE];
+extern     char  t10_list_stack_type[BTREE6_LSIZE];
+extern     int   t10_list_ptr;
+
+    //int   t10_out_buff[BTREE6_SIZE];
+
+extern     char  t10_out_mark[BTREE6_SIZE];
+
+extern     long long int   t10_out_val[BTREE6_SIZE][4];
+extern     int             t10_out_va2[BTREE6_SIZE];
+
+extern 	  int  t10_out_v_sid[BTREE6_SIZE][150];
+extern 	  char t10_out_v_mr2[BTREE6_SIZE][150];
+
+extern 	  char t10_out_v_mrk[BTREE6_SIZE];
+
+extern 	  int  t10_out_v_len[BTREE6_SIZE];
+extern 	  int  t10_out_v_seg[BTREE6_SIZE];
+extern 	  int  t10_out_v_val[BTREE6_SIZE];
+extern long long int  t10_out_v_rpt[BTREE6_SIZE];
+
+extern 	  int  t10_out_v_va2[BTREE6_SIZE];
+extern long long int  t10_out_v_rp2[BTREE6_SIZE];
+
+extern     int   t10_out_ptr;
+
+extern     int   t10_err;
+
+extern     int   t10_init_tree(void);
+extern     int   t10_new_node(void);
+extern     int   t10_clear_node(int ptr);
+extern     int   t10_search_node(long long int pn1,long long int pn2,long long int pn3,long long int pn4,int pn5);
+extern     int   t10_insert_node(long long int pn1,long long int pn2,long long int pn3,long long int pn4,int pn5);
+extern     int   t10_delete_node(long long int pn1,long long int pn2,long long int pn3,long long int pn4,int pn5);
+extern     int   t10_smallest(void);
+extern     int   t10_istrcmp(int i,long long int pn1,long long int pn2,long long int pn3,long long int pn4,int pn5);
+extern     int   t10_dsp_tree(void);
+extern     int   t10_after_list(void);
+extern     int   t10_out_list(int);
+    //int   t10_dsp_list(void);
+    //int   t10_save_list(char *fn);
+
 
 static char  m101_l1[3000];
 static char  m101_l2[3000];
@@ -274,6 +334,9 @@ static long long int          m101_p_ff2;
 static long long int          m101_p_ff3;
 static long long int          m101_p_ff4;
 
+static int  m101_p_id;
+static int  item_id;
+
 int spl1_loop(void)
 {
 	FILE		*fp1;
@@ -295,7 +358,7 @@ int spl1_loop(void)
 	int	     n4;
 	int	     t1,t2;
 	int 	     tst1;
-	int          err;
+	//int          err;
 	int          find;
 	int          bigger,smaller;
 	int          ptr1,ptr2;
@@ -316,6 +379,7 @@ int spl1_loop(void)
 	spl1_ptr=0;
 	spl1_out_ptr=0;
 	spl1_buf_ptr=0;
+        item_id=2000000000;
 
 	for (i=50;i>=2;i=i-2)     // bigger ones at first  // add courseware words
 	{
@@ -357,6 +421,9 @@ int spl1_loop(void)
 					spl1_len[spl1_ptr],spl1_seg[spl1_ptr],spl1_va2[spl1_ptr],spl1_rp2[spl1_ptr],spl1_val[spl1_ptr],spl1_rpt[spl1_ptr]);
 				fputs(m101_str3,m_fp1);
 			}
+
+			item_id--;
+			spl1_iid[spl1_ptr]=item_id;
 
 			spl1_ptr++;
 		}
@@ -417,6 +484,9 @@ int spl1_loop(void)
 					spl1_len[spl1_ptr],spl1_seg[spl1_ptr],spl1_va2[spl1_ptr],spl1_rp2[spl1_ptr],spl1_val[spl1_ptr],spl1_rpt[spl1_ptr]);
 				fputs(m101_str3,m_fp1);
 			}
+
+			item_id--;
+			spl1_iid[spl1_ptr]=item_id;
 
 			spl1_ptr++;
 			break;
@@ -479,6 +549,9 @@ int spl1_loop(void)
 				fputs(m101_str3,m_fp1);
 			}
 
+			item_id--;
+			spl1_iid[spl1_ptr]=item_id;
+
 			spl1_ptr++;
 		}
 	}
@@ -490,6 +563,8 @@ int spl1_loop(void)
         m101_str1[0]=spl1_in[0];    // add 1 chiness
 	m101_str1[1]=spl1_in[1];
 	m101_str1[2]=0;
+
+	nn=wd5_search(m101_str1);
 
 	t2_insert_node(m101_str1);
 
@@ -513,7 +588,9 @@ int spl1_loop(void)
 			spl1_len[spl1_ptr]=2;
 			spl1_seg[spl1_ptr]=1;
 			spl1_val[spl1_ptr]=ai_number[1];
-			spl1_rpt[spl1_ptr]=1*1;    // repeat times x len
+
+                        if (nn==1) spl1_rpt[spl1_ptr]=wd5_find_rt*1;
+			else spl1_rpt[spl1_ptr]=1*1;    // repeat times x len
 
 		       	if (2>=l) spl1_mrk[spl1_ptr]=2;
 
@@ -528,26 +605,23 @@ int spl1_loop(void)
 				fputs(m101_str3,m_fp1);
 			}
 
+			item_id--;
+			spl1_iid[spl1_ptr]=item_id;
+
 			spl1_ptr++;
 	}
-
-	//m1=0;
-	//m2=spl1_ptr;
 
 	while(1)
 	{
 
 		m3=0;
 		m4=0;
-		err=0;
 
-		t5_init_tree();
+		//t5_init_tree();
 		t6_init_tree();
 
 		for (n=0;n<spl1_ptr;n++)
 		{
-			//n=i2;
-
 			if (SPL1_DEBUG)
 			{
 				fputs("for....",m_fp1);
@@ -586,6 +660,8 @@ int spl1_loop(void)
 				m101_p_ff3=(m101_p_val*1000)/m101_p_seg/*m101_p_len*/;
 				m101_p_ff4=(m101_p_rpt*1000)/m101_p_seg/*m101_p_len*/;
 
+				m101_p_id=spl1_iid[n];
+
 				spl1_add_to_tree();
 /*
 				for (s=0;s<r;s++)
@@ -616,8 +692,6 @@ int spl1_loop(void)
 				continue;
 			}
 
-			m3=1;
-
 			m101_p_src=n;
 
 			m101_p_len=spl1_len[n];
@@ -634,6 +708,8 @@ int spl1_loop(void)
 				//break;
 				continue;
 			}
+
+			m3=1;
 
 			spl1_buf_ptr=0;
 
@@ -679,6 +755,10 @@ int spl1_loop(void)
                                                         m101_p_va2_add,m101_p_rp2_add,m101_p_val_add,m101_p_rpt_add);
 						fputs(m101_str3,m_fp1);
 					}
+
+					item_id--;
+					m101_p_id=item_id;
+					if (item_id<0) printf("warning,item_id<0 \n");
 
 					spl1_add_to_tree();
 /*
@@ -767,6 +847,10 @@ int spl1_loop(void)
                                                         m101_p_va2_add,m101_p_rp2_add,m101_p_val_add,m101_p_rpt_add);
 						fputs(m101_str3,m_fp1);
 					}
+
+					item_id--;
+					m101_p_id=item_id;
+					if (item_id<0) printf("warning,item_id<0 \n");
 
 					spl1_add_to_tree();
 /*
@@ -857,6 +941,10 @@ int spl1_loop(void)
 						fputs(m101_str3,m_fp1);
 					}
 
+					item_id--;
+					m101_p_id=item_id;
+					if (item_id<0) printf("warning,item_id<0 \n");
+
 					spl1_add_to_tree();
 /*
 					for (s=0;s<r;s++)
@@ -893,6 +981,8 @@ int spl1_loop(void)
 			m101_str1[1]=spl1_in[m101_p_len+1];
 			m101_str1[2]=0;
 
+			nn=wd5_search(m101_str1);
+
 			t2_insert_node(m101_str1);
 
 			find=0;
@@ -915,7 +1005,9 @@ int spl1_loop(void)
 					m101_p_len_add=2;
 					m101_p_seg_add=1;
 					m101_p_val_add=ai_number[1];
-					m101_p_rpt_add=1;
+
+                                        if (nn==1) m101_p_rpt_add=wd5_find_rt*1;
+					else m101_p_rpt_add=1*1;
 
 				        if (m101_p_len+2>=l) m101_p_mrk=2;
 
@@ -924,8 +1016,8 @@ int spl1_loop(void)
 
 					m101_p_ff1=(m101_p_va2*1000)/(m101_p_seg+1)/*(m101_p_len+m101_p_len_add)*/;
 					m101_p_ff2=(m101_p_rp2*1000)/(m101_p_seg+1)/*(m101_p_len+m101_p_len_add)*/;
-					m101_p_ff3=((m101_p_val+ai_number[1])*1000)/(m101_p_seg+1)/*(m101_p_len+m101_p_len_add)*/;
-					m101_p_ff4=((m101_p_rpt+           1)*1000)/(m101_p_seg+1)/*(m101_p_len+m101_p_len_add)*/;
+					m101_p_ff3=((m101_p_val+   ai_number[1])*1000)/(m101_p_seg+1)/*(m101_p_len+m101_p_len_add)*/;
+					m101_p_ff4=((m101_p_rpt+ m101_p_rpt_add)*1000)/(m101_p_seg+1)/*(m101_p_len+m101_p_len_add)*/;
 
 					if (SPL1_DEBUG)
 					{
@@ -934,6 +1026,10 @@ int spl1_loop(void)
                                                         m101_p_va2_add,m101_p_rp2_add,m101_p_val_add,m101_p_rpt_add);
 						fputs(m101_str3,m_fp1);
 					}
+
+					item_id--;
+					m101_p_id=item_id;
+					if (item_id<0) printf("warning,item_id<0 \n");
 
 					spl1_add_to_tree();
 /*
@@ -966,17 +1062,8 @@ int spl1_loop(void)
 
 		}
 
-		if (err==0)
-		{
-			//m1=m2;
-			//m2=spl1_ptr;
-
-			//if (m2>100000) break;
-
-			if (m4>=SPL1_MAX_NUM) break; 
-			if (m3==0) break;
-		}
-		else break;
+		if (m4>=SPL1_MAX_NUM) break; 
+		if (m3==0) break;
 
 		spl1_ptr=0;
 
@@ -1001,200 +1088,90 @@ int spl1_loop(void)
 					spl1_mr2[spl1_ptr][i4]=t6_node_v_mr2[i2][i4];
 				}
 
+				spl1_iid[spl1_ptr]=t6_node_va2[i2];
+
 				spl1_ptr++;
 			}
 		}
-
-/*
-		t5_init_tree2();
-		t6_init_tree2();
-
-		for (i2=0;i2<spl1_stk2_ptr1;i2++)
-		{
-			i3=spl1_stk2[i2];
-
-			ff1=(float)spl1_va2[i3]/(float)spl1_len[i3];
-			ff2=(float)spl1_rp2[i3]/(float)spl1_len[i3];
-			ff3=(float)spl1_val[i3]/(float)spl1_len[i3];
-			ff4=(float)spl1_rpt[i3]/(float)spl1_len[i3];
-
-			i4=t5_search_node(ff1,ff2,ff3,ff4); // key repeat times
-			if (i4!=0) i5=0;
-			else i5=t5_node_val2[t5_find_ptr]+1;
-
-			i4=t5_insert_node(ff1,ff2,ff3,ff4);
-			t5_node_val2[t5_find_ptr2]=i5;
-
-			i4=t6_insert_node(ff1,ff2,ff3,ff4,i5);
-			t6_node_val3[t6_find_ptr2]=i3;
-		}
-
-		t6_after_list();
-
-		spl1_stk2_ptr1=0;
-
-		i3=0;
-
-		for(i2=0;i2<t6_out_ptr;i2++)
-		{
-			i3++;
-			if (i3<=SPL1_MAX_NUM)
-			{
-				spl1_stk2[spl1_stk2_ptr1]=t6_out_buff3[i2];
-				spl1_stk2_ptr1++;
-			}
-			else
-			{
-				spl1_stk1[spl1_stk1_ptr1]=t6_out_buff3[i2]; // delete 
-				spl1_stk1_ptr1++;
-			}
-		}
-*/
 	}
 
 
 
+	//t9_init_tree();
+	t10_init_tree();
 
-	n1=0;
-
-	// get the 20 max value ones
-	while (n1<BTREE6_SIZE)
+	for (i2=0;i2<BTREE6_SIZE;i2++)  // copy buffer to t9 t10
 	{
-		//n1=i2;
-
-		if ((t6_node_mark[n1]==0)&&(t6_node_v_mrk[n1]==2))
+		if (t6_node_mark[i2]==0)
 		{
-			if (spl1_out_ptr<SPL1_OUT_NUM)  // buffer not full , add to buffer
-			{
-				spl1_out_val[spl1_out_ptr]=t6_node_v_va2[n1];
-				spl1_out_va2[spl1_out_ptr]=t6_node_v_rp2[n1];
-				spl1_out_va3[spl1_out_ptr]=t6_node_v_val[n1];
-				spl1_out_va4[spl1_out_ptr]=t6_node_v_rpt[n1];
+			m101_p_src=i2;
+			m101_p_cur=(-1);
 
-				for (i=0;i<t6_node_v_seg[n1];i++)
-				{
-					j=t6_node_v_sid[n1][i];
-					strcpy(spl1_out_str[spl1_out_ptr][i],t2_node_val[j]);
-					spl1_out_mrk[spl1_out_ptr][i]=t6_node_v_mr2[n1][i];
-				}
+			m101_p_mrk=2;
 
-				spl1_out_seg[spl1_out_ptr]=t6_node_v_seg[n1];
+			m101_p_len=t6_node_v_len[i2];
+			m101_p_seg=t6_node_v_seg[i2];
+			m101_p_val=t6_node_v_val[i2];
+			m101_p_rpt=t6_node_v_rpt[i2];
 
-				spl1_out_ptr++;
-			}
-			else
-			{
-				f1=/*(*/spl1_out_val[0]/* *1000)/spl1_out_seg[0]*/;	// get one line
-				f2=/*(*/spl1_out_va2[0]/* *1000)/spl1_out_seg[0]*/;
-				f3=/*(*/spl1_out_va3[0]/* *1000)/spl1_out_seg[0]*/;
-				f4=/*(*/spl1_out_va4[0]/* *1000)/spl1_out_seg[0]*/;
+			m101_p_seg_add=0;
 
-				ptr1=0;
+			m101_p_va2=t6_node_v_va2[i2];
+			m101_p_rp2=t6_node_v_rp2[i2];
 
-				for (ptr2=1;ptr2<SPL1_OUT_NUM;ptr2++)  // get smallest one
-				{
-					smaller=0;
+			m101_p_ff1=/*(*/m101_p_va2/**1000)/m101_p_seg*//*m101_p_len*/;
+			m101_p_ff2=/*(*/m101_p_rp2/**1000)/m101_p_seg*//*m101_p_len*/;
+			m101_p_ff3=/*(*/m101_p_val/**1000)/m101_p_seg*//*m101_p_len*/;
+			m101_p_ff4=/*(*/m101_p_rpt/**1000)/m101_p_seg*//*m101_p_len*/;
 
-					sf1=/*(*/spl1_out_val[ptr2]/* *1000)/spl1_out_seg[ptr2]*/;
-					sf2=/*(*/spl1_out_va2[ptr2]/* *1000)/spl1_out_seg[ptr2]*/;
-					sf3=/*(*/spl1_out_va3[ptr2]/* *1000)/spl1_out_seg[ptr2]*/;
-					sf4=/*(*/spl1_out_va4[ptr2]/* *1000)/spl1_out_seg[ptr2]*/;
+			m101_p_id=t6_node_va2[i2];
 
-					if (sf1<f1) smaller=1;
-					else
-					{
-						if (sf1==f1)
-						{
-							if (sf2<f2) smaller=1;
-							else
-							{
-								if (sf2==f2)
-								{
-									if (sf3<f3) smaller=1;
-									else
-									{
-										if (sf3==f3)
-										{
-											if (sf4<f4) smaller=1;
-										}
-									}
-								}
-							}
-						}
-					}
-
-					if (smaller==1)
-					{
-						ptr1=ptr2;
-
-						f1=/*(*/spl1_out_val[ptr2]/* *1000)/spl1_out_seg[ptr2]*/;
-						f2=/*(*/spl1_out_va2[ptr2]/* *1000)/spl1_out_seg[ptr2]*/;
-						f3=/*(*/spl1_out_va3[ptr2]/* *1000)/spl1_out_seg[ptr2]*/;
-						f4=/*(*/spl1_out_va4[ptr2]/* *1000)/spl1_out_seg[ptr2]*/;
-					}
-
-				}
-
-				// if bigger than the smallest one , replace it
-
-				//f1=(spl1_out_val[ptr2]*1000)/spl1_out_seg[ptr2];
-				//f2=(spl1_out_va2[ptr2]*1000)/spl1_out_seg[ptr2];
-				//f3=(spl1_out_va3[ptr2]*1000)/spl1_out_seg[ptr2];
-				//f4=(spl1_out_va4[ptr2]*1000)/spl1_out_seg[ptr2];
-
-				bigger=0;
-
-				sf1=/*(*/t6_node_v_va2[n1]/* *1000)/t6_node_v_seg[n1]*/;
-				sf2=/*(*/t6_node_v_rp2[n1]/* *1000)/t6_node_v_seg[n1]*/;
-				sf3=/*(*/t6_node_v_val[n1]/* *1000)/t6_node_v_seg[n1]*/;
-				sf4=/*(*/t6_node_v_rpt[n1]/* *1000)/t6_node_v_seg[n1]*/;
-
-				if (sf1>f1) bigger=1;
-				else
-				{
-					if (sf1==f1)
-					{
-						if (sf2>f2) bigger=1;
-						else
-						{
-							if (sf2==f2)
-							{
-								if (sf3>f3) bigger=1;
-								else
-								{
-									if (sf3==f3)
-									{
-										if (sf4>f4) bigger=1;
-									}
-								}
-							}
-						}
-					}
-				}
-
-				if (bigger==1)
-				{
-					spl1_out_val[ptr1]=t6_node_v_va2[n1];
-					spl1_out_va2[ptr1]=t6_node_v_rp2[n1];
-					spl1_out_va3[ptr1]=t6_node_v_val[n1];
-					spl1_out_va4[ptr1]=t6_node_v_rpt[n1];
-
-					for (i=0;i<t6_node_v_seg[n1];i++)
-					{
-						j=t6_node_v_sid[n1][i];
-						strcpy(spl1_out_str[ptr1][i],t2_node_val[j]);
-						spl1_out_mrk[ptr1][i]=t6_node_v_mr2[n1][i];
-					}
-
-					spl1_out_seg[ptr1]=t6_node_v_seg[n1];
-				}
-			}
+			spl1_add_to_tree2();
 		}
-
-		n1++;
 	}
 
-	//printf("spl1_ptr=%d,m4=%d,t2_buff_ptr=%d,\n",spl1_ptr,m4,t2_buff_ptr);  // for test
+	t10_after_list();
+
+
+
+
+	// get the spl1_out_num max value ones
+	for (n1=0;n1<t10_out_ptr;n1++)
+	{
+		if (spl1_out_ptr<SPL1_OUT_NUM)  // buffer not full , add to buffer
+		{
+			spl1_out_val[spl1_out_ptr]=t10_out_v_va2[n1];
+			spl1_out_va2[spl1_out_ptr]=t10_out_v_rp2[n1];
+			spl1_out_va3[spl1_out_ptr]=t10_out_v_val[n1];
+			spl1_out_va4[spl1_out_ptr]=t10_out_v_rpt[n1];
+
+			for (i=0;i<t10_out_v_seg[n1];i++)
+			{
+				j=t10_out_v_sid[n1][i];
+				strcpy(spl1_out_str[spl1_out_ptr][i],t2_node_val[j]);
+				spl1_out_mrk[spl1_out_ptr][i]=t10_out_v_mr2[n1][i];
+			}
+
+			spl1_out_seg[spl1_out_ptr]=t10_out_v_seg[n1];
+
+			spl1_out_ptr++;
+		}
+		else break;
+	}
+
+	//test
+        /*
+        for (n1=0;n1<20;n1++)
+        {
+          if (n1>=spl1_out_ptr) break;
+          
+          printf("val1=%d,val2=%lld,val3=%d,val4=%lld,\n",spl1_out_val[n1],spl1_out_va2[n1],spl1_out_va3[n1],spl1_out_va4[n1]);
+        }
+        
+        getchar(); */
+
+
+
 
 	// test
 	if (SPL1_DEBUG)
@@ -1213,8 +1190,6 @@ int spl1_loop(void)
 
 			fputs("\n",m_fp1);
 		}
-
-		//fputs("result end\n",m_fp1);
 	}
 	// test end
 
@@ -1229,18 +1204,11 @@ int spl1_add_to_tree(void)
 	int   bigger;
 	char  str[600];
 
-	//printf("t5_stack_ptr=%d,t6_stack_ptr=%d,\n",t5_stack_ptr,t6_stack_ptr);
+	//printf("t6_stack_ptr=%d,\n",t6_stack_ptr);
 
 	if (t6_stack_ptr>0)
 	{
-		i4=t5_search_node(m101_p_ff1,m101_p_ff2,m101_p_ff3,m101_p_ff4); // key repeat times
-		if (i4!=0) i5=0;
-		else i5=t5_node_va2[t5_find_ptr]+1;
-
-		i4=t5_insert_node(m101_p_ff1,m101_p_ff2,m101_p_ff3,m101_p_ff4);
-		t5_node_va2[t5_find_ptr2]=i5;
-
-		i4=t6_insert_node(m101_p_ff1,m101_p_ff2,m101_p_ff3,m101_p_ff4,i5);
+		i4=t6_insert_node(m101_p_ff1,m101_p_ff2,m101_p_ff3,m101_p_ff4,m101_p_id);
 
 		if (m101_p_cur<0)
 		{
@@ -1302,38 +1270,30 @@ int spl1_add_to_tree(void)
 	}
 	else
 	{
-		t5_smallest();
+		t6_smallest();
 
-		ff1=t5_node_val[t5_find_ptr][0];
-		ff2=t5_node_val[t5_find_ptr][1];
-		ff3=t5_node_val[t5_find_ptr][2];
-		ff4=t5_node_val[t5_find_ptr][3];
+		ff1=t6_node_val[t6_find_ptr][0];
+		ff2=t6_node_val[t6_find_ptr][1];
+		ff3=t6_node_val[t6_find_ptr][2];
+		ff4=t6_node_val[t6_find_ptr][3];
+		i5 =t6_node_va2[t6_find_ptr];
 
-		//printf("ptr=%d,val=%d,%d,%d,%d,\n",t5_find_ptr,ff1,ff2,ff3,ff4);
+		//printf("ptr=%d,val=%d,%d,%d,%d,\n",t6_find_ptr,ff1,ff2,ff3,ff4);
 
 		bigger=0;
 
 		if (m101_p_ff1>ff1) bigger=1;
-		else
+		else if (m101_p_ff1==ff1)
 		{
-			if (m101_p_ff1==ff1)
+			if (m101_p_ff2>ff2) bigger=1;
+			else if (m101_p_ff2==ff2)
 			{
-				if (m101_p_ff2>ff2) bigger=1;
-				else
+				if (m101_p_ff3>ff3) bigger=1;
+				else if (m101_p_ff3==ff3)
 				{
-					if (m101_p_ff2==ff2)
+					if (m101_p_ff4>ff4)
 					{
-						if (m101_p_ff3>ff3) bigger=1;
-						else
-						{
-							if (m101_p_ff3==ff3)
-							{
-								if (m101_p_ff4>ff4)
-								{
-									bigger=1;
-								}
-							}
-						}
+						bigger=1;
 					}
 				}
 			}
@@ -1341,18 +1301,6 @@ int spl1_add_to_tree(void)
 
 		if (bigger==1)
 		{
-			// delete
-			i4=t5_search_node(ff1,ff2,ff3,ff4); // key repeat times
-			if (i4!=0)
-			{
-				printf("error in function spl1_add_to_tree()%lld,%lld,%lld,%lld,\n",ff1,ff2,ff3,ff4);
-				return(0);
-			}
-			else i5=t5_node_va2[t5_find_ptr];
-
-			if (i5>0) t5_node_va2[t5_find_ptr]=t5_node_va2[t5_find_ptr]-1;
-			else t5_delete_node(ff1,ff2,ff3,ff4);
-
 			if (SPL1_DEBUG)
 			{
 				i4=t6_search_node(ff1,ff2,ff3,ff4,i5);
@@ -1381,16 +1329,7 @@ int spl1_add_to_tree(void)
 
 			t6_delete_node(ff1,ff2,ff3,ff4,i5);
 
-
-			// insert
-			i4=t5_search_node(m101_p_ff1,m101_p_ff2,m101_p_ff3,m101_p_ff4); // key repeat times
-			if (i4!=0) i5=0;
-			else i5=t5_node_va2[t5_find_ptr]+1;
-
-			i4=t5_insert_node(m101_p_ff1,m101_p_ff2,m101_p_ff3,m101_p_ff4);
-			t5_node_va2[t5_find_ptr2]=i5;
-
-			i4=t6_insert_node(m101_p_ff1,m101_p_ff2,m101_p_ff3,m101_p_ff4,i5);
+			i4=t6_insert_node(m101_p_ff1,m101_p_ff2,m101_p_ff3,m101_p_ff4,m101_p_id);
 
 			if (m101_p_cur<0)
 			{
@@ -1458,6 +1397,160 @@ int spl1_add_to_tree(void)
 	return(0);
 }
 
+int spl1_add_to_tree2(void)
+{
+	long long int   ff1,ff2,ff3,ff4;
+	int   i3,i4,i5;
+        int   i6;
+	int   bigger;
+	char  str[600];
 
+	//printf("t10_stack_ptr=%d,\n",t10_stack_ptr);
 
+	if (t10_stack_ptr>0)
+	{
+		i4=t10_insert_node(m101_p_ff1,m101_p_ff2,m101_p_ff3,m101_p_ff4,m101_p_id);
+
+		if (m101_p_cur<0)
+		{
+			i3=m101_p_seg;
+			for (i4=0;i4<i3;i4++)
+			{
+				t10_node_v_sid[t10_find_ptr2][i4]=t6_node_v_sid[m101_p_src][i4];
+				t10_node_v_mr2[t10_find_ptr2][i4]=t6_node_v_mr2[m101_p_src][i4];
+			}
+
+			t10_node_v_mrk[t10_find_ptr2]=t6_node_v_mrk[m101_p_src];
+
+			t10_node_v_len[t10_find_ptr2]=t6_node_v_len[m101_p_src];
+			t10_node_v_seg[t10_find_ptr2]=t6_node_v_seg[m101_p_src];
+			t10_node_v_val[t10_find_ptr2]=t6_node_v_val[m101_p_src];
+			t10_node_v_rpt[t10_find_ptr2]=t6_node_v_rpt[m101_p_src];
+
+			t10_node_v_va2[t10_find_ptr2]=t6_node_v_va2[m101_p_src];
+			t10_node_v_rp2[t10_find_ptr2]=t6_node_v_rp2[m101_p_src];
+		}
+
+		if (SPL1_DEBUG)
+		{
+			fputs("insert....",m_fp1);
+			i3=m101_p_seg+m101_p_seg_add;
+			for (i4=0;i4<i3;i4++)
+			{
+				i6=t10_node_v_sid[t10_find_ptr2][i4];
+				fputs(t2_node_val[i6],m_fp1);
+				if (t10_node_v_mr2[t10_find_ptr2][i4]==1) fputs(";;",m_fp1);
+				else fputs(",,",m_fp1);
+			}
+			sprintf(str,"va2=%d,rp2=%lld,val=%d,rpt=%lld,len=%d,seg=%d,ff1=%lld,ff2=%lld,ff3=%lld,ff4=%lld,\n",t10_node_v_va2[t10_find_ptr2],t10_node_v_rp2[t10_find_ptr2],
+				t10_node_v_val[t10_find_ptr2],t10_node_v_rpt[t10_find_ptr2],t10_node_v_len[t10_find_ptr2],t10_node_v_seg[t10_find_ptr2],m101_p_ff1,m101_p_ff2,m101_p_ff3,m101_p_ff4);
+			fputs(str,m_fp1);
+		}
+	}
+	else
+	{
+		t10_smallest();
+
+		ff1=t10_node_val[t10_find_ptr][0];
+		ff2=t10_node_val[t10_find_ptr][1];
+		ff3=t10_node_val[t10_find_ptr][2];
+		ff4=t10_node_val[t10_find_ptr][3];
+		i5 =t10_node_va2[t10_find_ptr];
+
+		//printf("ptr=%d,val=%d,%d,%d,%d,\n",t10_find_ptr,ff1,ff2,ff3,ff4);
+
+		bigger=0;
+
+		if (m101_p_ff1>ff1) bigger=1;
+		else if (m101_p_ff1==ff1)
+		{
+			if (m101_p_ff2>ff2) bigger=1;
+			else if (m101_p_ff2==ff2)
+			{
+				if (m101_p_ff3>ff3) bigger=1;
+				else if (m101_p_ff3==ff3)
+				{
+					if (m101_p_ff4>ff4)
+					{
+						bigger=1;
+					}
+				}
+			}
+		}
+
+		if (bigger==1)
+		{
+			if (SPL1_DEBUG)
+			{
+				i4=t10_search_node(ff1,ff2,ff3,ff4,i5);
+				if (i4!=0)
+				{
+					fputs("search t10 error...\n",m_fp1);
+				}
+				else
+				{
+					fputs("delete....",m_fp1);
+					i3=t10_node_v_seg[t10_find_ptr];
+					for (i4=0;i4<i3;i4++)
+					{
+						i6=t10_node_v_sid[t10_find_ptr][i4];
+						fputs(t2_node_val[i6],m_fp1);
+						if (t10_node_v_mr2[t10_find_ptr][i4]==1) fputs(";;",m_fp1);
+						else fputs(",,",m_fp1);
+
+					}
+					sprintf(str,"va2=%d,rp2=%lld,val=%d,rpt=%lld,len=%d,seg=%d,ff1=%lld,ff2=%lld,ff3=%lld,ff4=%lld,\n",t10_node_v_va2[t10_find_ptr],t10_node_v_rp2[t10_find_ptr],
+						t10_node_v_val[t10_find_ptr],t10_node_v_rpt[t10_find_ptr],t10_node_v_len[t10_find_ptr],t10_node_v_seg[t10_find_ptr],ff1,ff2,ff3,ff4);
+					fputs(str,m_fp1);
+
+				}
+			}
+
+			t10_delete_node(ff1,ff2,ff3,ff4,i5);
+
+			i4=t10_insert_node(m101_p_ff1,m101_p_ff2,m101_p_ff3,m101_p_ff4,m101_p_id);
+
+			if (m101_p_cur<0)
+			{
+				i3=m101_p_seg;
+				for (i4=0;i4<i3;i4++)
+				{
+					t10_node_v_sid[t10_find_ptr2][i4]=t6_node_v_sid[m101_p_src][i4];
+					t10_node_v_mr2[t10_find_ptr2][i4]=t6_node_v_mr2[m101_p_src][i4];
+				}
+
+				t10_node_v_mrk[t10_find_ptr2]=t6_node_v_mrk[m101_p_src];
+
+				t10_node_v_len[t10_find_ptr2]=t6_node_v_len[m101_p_src];
+				t10_node_v_seg[t10_find_ptr2]=t6_node_v_seg[m101_p_src];
+				t10_node_v_val[t10_find_ptr2]=t6_node_v_val[m101_p_src];
+				t10_node_v_rpt[t10_find_ptr2]=t6_node_v_rpt[m101_p_src];
+
+				t10_node_v_va2[t10_find_ptr2]=t6_node_v_va2[m101_p_src];
+				t10_node_v_rp2[t10_find_ptr2]=t6_node_v_rp2[m101_p_src];
+			}
+
+			if (SPL1_DEBUG)
+			{
+				fputs("insert....",m_fp1);
+				i3=m101_p_seg+m101_p_seg_add;
+				for (i4=0;i4<i3;i4++)
+				{
+					i6=t10_node_v_sid[t10_find_ptr2][i4];
+					fputs(t2_node_val[i6],m_fp1);
+					if (t10_node_v_mr2[t10_find_ptr2][i4]==1) fputs(";;",m_fp1);
+					else fputs(",,",m_fp1);
+
+				}
+				sprintf(str,"va2=%d,rp2=%lld,val=%d,rpt=%lld,len=%d,seg=%d,ff1=%lld,ff2=%lld,ff3=%lld,ff4=%lld,\n",t10_node_v_va2[t10_find_ptr2],t10_node_v_rp2[t10_find_ptr2],
+					t10_node_v_val[t10_find_ptr2],t10_node_v_rpt[t10_find_ptr2],t10_node_v_len[t10_find_ptr2],t10_node_v_seg[t10_find_ptr2],
+					m101_p_ff1,m101_p_ff2,m101_p_ff3,m101_p_ff4);
+				fputs(str,m_fp1);
+
+			}
+		}
+	}
+
+	return(0);
+}
 

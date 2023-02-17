@@ -32,7 +32,7 @@ gcc -o a-step40.exe webfind4_sentbase.c tree2.c
 cp a-step40.exe ../work_dir
 cd ../webfind29f
 rm a-step50.exe
-gcc -o a-step50.exe webfind29.c spl1.c tree2.c tree2b.c btree3.c btree4.c
+gcc -o a-step50.exe webfind29.c spl1.c tree2.c tree2b.c btree4.c
 cp a-step50.exe ../work_dir
 cd ../webfind23c
 rm a-step60.exe
@@ -42,7 +42,7 @@ cp a-step60.exe ../work_dir
 
 cd ../webfind53e
 rm a-step90.exe
-gcc -o a-step90.exe webfind53.c spl1.c tree2.c tree2b.c btree3.c btree4.c 
+gcc -o a-step90.exe webfind53.c spl1.c tree2.c tree2b.c btree4.c 
 cp a-step90.exe ../work_dir
 cd ../webfind54
 rm a-step100.exe
@@ -60,7 +60,7 @@ gcc -o a-step200-2.exe webfind60-2.c tree2.c
 cp a-step200-2.exe ../work_dir
 cd ../webfind61f
 rm a-step210.exe
-gcc -o a-step210.exe webfind61.c wd56.c grm1516.c spl1.c spl2.c tree2b.c tree2d.c btree5.c btree6.c btree7.c btree8.c 
+gcc -o a-step210.exe webfind61.c wd56.c grm1516.c spl1.c spl2.c tree2b.c tree2d.c btree6.c btree8.c btree10.c
 cp a-step210.exe ../work_dir
 cd ../webfind62
 rm a-step220.exe
@@ -79,7 +79,7 @@ cp a-step240.exe ../work_dir
 cd ../webfind65
 rm app_separ.exe
 rm ./app/app_separ.exe
-gcc -o app_separ.exe webfind65.c my_wd56.c my_grm1516.c my_spl1.c my_spl2.c my_tree2b.c my_tree2d.c my_btree5.c my_btree6.c my_btree7.c my_btree8.c 
+gcc -o app_separ.exe webfind65.c my_wd56.c my_grm1516.c my_spl1.c my_spl2.c my_tree2b.c my_tree2d.c my_btree6.c my_btree8.c my_btree10.c
 cp app_separ.exe ./app
 
 

@@ -16,8 +16,9 @@
 #include <sys/stat.h>
 #include <fcntl.h>
 
+int  stringfind(char *ps1,char *ps2);
 
-char f3_str1[200000000];
+char f3_str1[20000000];
 char f3_str2[20][3000];
 int  f3_str2_ptr;
 char f3_str3[20][3000];
@@ -61,8 +62,9 @@ int f3_file(char *fn)
     f3_str5[i][0]=0;
   }
 
-  f3_str1[0]=0;
-  j=read(sfh,f3_str1,200000000);	
+  for (i=0;i<20000000;i++) f3_str1[i]=0;
+  
+  j=read(sfh,f3_str1,20000000);	
   i=0;
   close(sfh);
 
@@ -96,7 +98,7 @@ int f3_file(char *fn)
 
     f3_str2_ptr=0;
     f3_separ2(k,l); //meta  aa  content="11;  22"  cc 
-    printf("separ2 %s,%s,\n",f3_str2[0],f3_str2[1]);
+    //printf("separ2 %s,%s,\n",f3_str2[0],f3_str2[1]);
 
     deb_lower_string(f3_str2[0]);
     if (strcmp("meta",f3_str2[0])!=0)
@@ -109,52 +111,72 @@ int f3_file(char *fn)
     {
       f3_str3_ptr=0;
       f3_separ3(f3_str2[m]);  //content="11;  22;  33"
-      printf("separ3 %s,%s,\n",f3_str3[0],f3_str3[1]);
+      //printf("separ3 %s,%s,\n",f3_str3[0],f3_str3[1]);
 
       deb_lower_string(f3_str3[0]);
       if (strcmp("content",f3_str3[0])!=0) continue;
 
       f3_str4_ptr=0;
       f3_separ4(f3_str3[1]); // text/html;  charset=gb2312
-      printf("separ4 %s,%s,\n",f3_str4[0],f3_str4[1]);
+      //printf("separ4 %s,%s,\n",f3_str4[0],f3_str4[1]);
 
       for (n=0;n<=f3_str4_ptr;n++)
       {
         f3_str5_ptr=0;
         f3_separ5(f3_str4[n]);  // charset=gb2312
-        printf("separ5 %s,%s,\n",f3_str5[0],f3_str5[1]);
+        //printf("separ5 %s,%s,\n",f3_str5[0],f3_str5[1]);
 
         deb_lower_string(f3_str5[0]);
         if (strcmp("charset",f3_str5[0])!=0) continue;
         
         deb_lower_string(f3_str5[1]);
-        printf("%s,",f3_str5[1]);
+        //printf("%s,",f3_str5[1]);
+        //getchar();
+        
+        
         if (strcmp("gb2312",f3_str5[1])==0)
         {
-          printf("add,\n");
+          printf("gb2312 add,\n");
           return(1);
         }
         if (strcmp("gbk",f3_str5[1])==0)
         {
-          printf("add,\n");
+          printf("gbk add,\n");
           return(1);
         }
         if (strcmp("gb18030",f3_str5[1])==0)
         {
-          printf("add,\n");
+          printf("gb18030 add,\n");
           return(1);
         }
-
-        printf("not add,\n");
-        return(0);
+        
+        if (strcmp("utf-8",f3_str5[1])==0)
+        {
+          printf("utf-8 add,\n");
+          return(2);
+        }
+        
+        printf("%s ,unkown ,not add,\n",f3_str5[1]);
+        return(100);
       }
     }
 
     i=l+1;
   }
 
-  printf("default,add,\n");
-  return(1); // default
+  if (stringfind(fn,"My-Program-Work-3")==1)
+  {
+    printf("utf-8,default, add,\n");
+    return(2); // default
+  }
+
+  if (stringfind(fn,"My-Program-Work-1")==1)
+  {
+    printf("gb18030,default, add,\n");
+    return(1); // default
+  }
+  
+  return(1);
 }
 
 int f3_separ2(int p1,int p2)

@@ -24,7 +24,7 @@ int   MessageBox(int h1,char *h2,char *h3,int h4);
 #include <locale.h>
 #include <iconv.h>
 
-iconv_t cd ;
+extern iconv_t cd ;
 
 int str_gb18030_to_utf8_ini(void);
 int str_gb18030_to_utf8_close(void);
@@ -43,15 +43,15 @@ int deb_upper_string(char *p_instr);
 #define ARTI_LINE1    2000000
 #define ARTI_LINE2    200000
 
-	 char wd5_buf[ARTI_LINE1][55];
-          int wd5_rt[ARTI_LINE1];
-	  int wd5_ptr;
+extern 	 char wd5_buf[ARTI_LINE1][55];
+extern           int wd5_rt[ARTI_LINE1];
+extern 	  int wd5_ptr;
 
-int  wd5_search(char *);
-int  wd5_load(void);
+extern int  wd5_search(char *);
+extern int  wd5_load(void);
 
-          int wd5_find_rt;
-          int wd5_find_ptr;
+extern           int wd5_find_rt;
+extern           int wd5_find_ptr;
 
 //------------------------------
 
@@ -93,6 +93,7 @@ int  wd5_load(void);
     int   t3_dsp_list(void);
     int   t3_save_list(char *fn);
 
+    int t3_istrcmp(int i,int pn1,int pn2,int pn3,int pn4);
 
 
 int t3_init_tree2(void)
@@ -574,10 +575,10 @@ int t3_after_list(void)
   //char str1[300];
 
 
-  fp=fopen("grammar-base03.sort.txt","w");
+  fp=fopen("grammar-base03.sort.dat","w");
   if (fp==NULL)
   {
-    MessageBox(0,"grammar-base03.sort.txt","message open file error",MB_OK);
+    MessageBox(0,"grammar-base03.sort.dat","message open file error",MB_OK);
     return(1);
   }
 
@@ -619,21 +620,17 @@ int t3_after_list(void)
       
       if (t3_node_ptr[k][1]>=0)
       {
-        t3_list_stack[t3_list_ptr]=t3_node_ptr[k][1];
-        t3_list_stack_type[t3_list_ptr]=1;
-        t3_list_ptr++;
-
         //sprintf(str1,"add left tree %s,list_ptr=%d,",node_val[node_ptr[k][1]],list_ptr);
         if (t3_list_ptr>=LIST_SIZE_C)
         {
           MessageBox(0,"In tree3,error in after_list(),LIST_SIZE_C too small.","message",MB_OK);
           continue;
         }
-      }
 
-      t3_list_stack[t3_list_ptr]=k;
-      t3_list_stack_type[t3_list_ptr]=2;
-      t3_list_ptr++;
+        t3_list_stack[t3_list_ptr]=t3_node_ptr[k][1];
+        t3_list_stack_type[t3_list_ptr]=1;
+        t3_list_ptr++;
+      }
 
       //sprintf(str1,"add mid tree %s,list_ptr=%d,",node_val[k],list_ptr);
       if (t3_list_ptr>=LIST_SIZE_C)
@@ -642,18 +639,22 @@ int t3_after_list(void)
         continue;
       }
 
+      t3_list_stack[t3_list_ptr]=k;
+      t3_list_stack_type[t3_list_ptr]=2;
+      t3_list_ptr++;
+
       if (t3_node_ptr[k][2]>=0)
       {
-        t3_list_stack[t3_list_ptr]=t3_node_ptr[k][2];
-        t3_list_stack_type[t3_list_ptr]=1;
-        t3_list_ptr++;
-
         //sprintf(str1,"add right tree %s,list_ptr=%d,",node_val[node_ptr[k][2]],list_ptr);
         if (t3_list_ptr>=LIST_SIZE_C)
         {
           MessageBox(0,"In tree3,error in after_list(),LIST_SIZE_C too small.","message",MB_OK);
           continue;
         }
+
+        t3_list_stack[t3_list_ptr]=t3_node_ptr[k][2];
+        t3_list_stack_type[t3_list_ptr]=1;
+        t3_list_ptr++;
       }
     }
     else

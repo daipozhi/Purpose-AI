@@ -49,43 +49,43 @@ class tree2
 {
   private:
 */
-    char  t1_node_mark[TREE_SIZE];
-    char  t1_node_val[TREE_SIZE][300];
+extern     char  t1_node_mark[TREE_SIZE];
+extern     char  t1_node_val[TREE_SIZE][300];
 
     //int   t1_node_val2[TREE_SIZE];
 
-    int   t1_node_ptr[TREE_SIZE][3];
-    int   t1_root_ptr;
-    int   t1_buff_ptr;
+extern     int   t1_node_ptr[TREE_SIZE][3];
+extern     int   t1_root_ptr;
+extern     int   t1_buff_ptr;
     
-    int   t1_find_ptr;
-    int   t1_find_ptr2;
-    int   t1_find_side;
+extern     int   t1_find_ptr;
+extern     int   t1_find_ptr2;
+extern     int   t1_find_side;
     
-    int   t1_list_stack[LIST_SIZE];
-    char  t1_list_stack_type[LIST_SIZE];
-    int   t1_list_ptr;
+extern     int   t1_list_stack[LIST_SIZE];
+extern     char  t1_list_stack_type[LIST_SIZE];
+extern     int   t1_list_ptr;
 
-    char  t1_out_buff[TREE_SIZE][300];
+extern     char  t1_out_buff[TREE_SIZE][300];
     //int   t1_out_buff2[TREE_SIZE];
 
     //int   t1_out_buff3[TREE_SIZE][5][3];
     //int   t1_out_buff3_ptr[TREE_SIZE];
 
-    int   t1_out_ptr;
+extern     int   t1_out_ptr;
 
   //public:
 
-    int   t1_init_tree2(void);
-    int   t1_new_node(void);
-    int   t1_clear_node(int ptr);
-    int   t1_search_node(char *pstr);
-    int   t1_insert_node(char *pstr);
-    int   t1_dsp_tree2(void);
-    int   t1_after_list(void);
-    int   t1_out_list(char *pstr,int ,int);
-    int   t1_dsp_list(void);
-    int   t1_save_list(char *fn);
+extern     int   t1_init_tree2(void);
+extern     int   t1_new_node(void);
+extern     int   t1_clear_node(int ptr);
+extern     int   t1_search_node(char *pstr);
+extern     int   t1_insert_node(char *pstr);
+extern     int   t1_dsp_tree2(void);
+extern     int   t1_after_list(void);
+extern     int   t1_out_list(char *pstr,int ,int);
+extern     int   t1_dsp_list(void);
+extern     int   t1_save_list(char *fn);
 
 //};
 

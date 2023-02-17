@@ -1,6 +1,8 @@
 
 #include "../config.h"
 
+#include "../common/common.h"
+
 //#define   STRICT
 //#include <windows.h>
 //#include <commdlg.h>
@@ -24,7 +26,7 @@ int   MessageBox(int h1,char *h2,char *h3,int h4);
 #include <locale.h>
 #include <iconv.h>
 
-iconv_t cd ;
+extern iconv_t cd ;
 
 int str_gb18030_to_utf8_ini(void);
 int str_gb18030_to_utf8_close(void);
@@ -45,12 +47,12 @@ int deb_upper_string(char *p_instr);
 
 #define SMG_SIZE      300
 
-char mc1;
-char mc2;
-char mc3;
-char mc4;
-char mc5;
-char mc6;
+extern char mc1;
+extern char mc2;
+extern char mc3;
+extern char mc4;
+extern char mc5;
+extern char mc6;
 
 char mmc1;
 char mmc2;
@@ -68,20 +70,21 @@ int ff1_get_fln2(char *);
 #define ARTI_LINE2    200000
 
 
-	 char wd5_buf[ARTI_LINE1][55];
-          int wd5_rt[ARTI_LINE1];
-	  int wd5_ptr;
+extern 	 char wd5_buf[ARTI_LINE1][55];
+extern           int wd5_rt[ARTI_LINE1];
+extern 	  int wd5_ptr;
 
-int  wd5_search(char *);
-int  wd5_load(void);
+extern int  wd5_search(char *);
+extern int  wd5_load(void);
 
-          int wd5_find_rt;
-	  int wd5_find_ptr;
+extern           int wd5_find_rt;
+extern 	  int wd5_find_ptr;
 
 //------------------------------
 
 long long int str2llint(char *pstr);
 
+int sent_cb2_in(char *str);
 
 
 
@@ -89,35 +92,35 @@ long long int str2llint(char *pstr);
 #define TREE_SIZE_E 400000
 #define LIST_SIZE_E  40000
 
-    char  t5_node_mark[TREE_SIZE_E];
-    char  t5_node_val[TREE_SIZE_E][600];
+extern     char  t5_node_mark[TREE_SIZE_E];
+extern     char  t5_node_val[TREE_SIZE_E][600];
 
-    int   t5_node_ptr[TREE_SIZE_E][3];
-    int   t5_root_ptr;
-    int   t5_buff_ptr;
+extern     int   t5_node_ptr[TREE_SIZE_E][3];
+extern     int   t5_root_ptr;
+extern     int   t5_buff_ptr;
     
-    int   t5_find_ptr;
-    int   t5_find_ptr2;
-    int   t5_find_side;
+extern     int   t5_find_ptr;
+extern     int   t5_find_ptr2;
+extern     int   t5_find_side;
     
-    int   t5_list_stack[LIST_SIZE_E];
-    char  t5_list_stack_type[LIST_SIZE_E];
-    int   t5_list_ptr;
+extern     int   t5_list_stack[LIST_SIZE_E];
+extern     char  t5_list_stack_type[LIST_SIZE_E];
+extern     int   t5_list_ptr;
 
     //char  t5_out_buff[TREE_SIZE_E][600];
 
-    int   t5_out_ptr;
+extern     int   t5_out_ptr;
 
-    int   t5_init_tree2(void);
-    int   t5_new_node(void);
-    int   t5_clear_node(int ptr);
-    int   t5_search_node(char *pstr);
-    int   t5_insert_node(char *pstr);
-    int   t5_dsp_tree2(void);
-    int   t5_after_list(void);
-    int   t5_out_list(char *pstr,int ,int);
-    int   t5_dsp_list(void);
-    int   t5_save_list(char *fn);
+extern     int   t5_init_tree2(void);
+extern     int   t5_new_node(void);
+extern     int   t5_clear_node(int ptr);
+extern     int   t5_search_node(char *pstr);
+extern     int   t5_insert_node(char *pstr);
+extern     int   t5_dsp_tree2(void);
+extern     int   t5_after_list(void);
+extern     int   t5_out_list(char *pstr,int ,int);
+extern     int   t5_dsp_list(void);
+extern     int   t5_save_list(char *fn);
 
 
 
@@ -125,31 +128,31 @@ long long int str2llint(char *pstr);
 #define TREE_SIZE_F 3000000  // tmp grammar tree
 #define LIST_SIZE_F  300000
 
-int t6_search_node(int pn1,int pn2,int pn3,int pn4/*,int pn5*/);
-int t6_insert_node(int pn1,int pn2,int pn3,int pn4/*,int pn5*/);
-int t6_init_tree2(void);
+extern int t6_search_node(int pn1,int pn2,int pn3,int pn4/*,int pn5*/);
+extern int t6_insert_node(int pn1,int pn2,int pn3,int pn4/*,int pn5*/);
+extern int t6_init_tree2(void);
 
-int t6_node_val[TREE_SIZE_F][4/*5*/];
-int t6_node_val2[TREE_SIZE_F];
+extern int t6_node_val[TREE_SIZE_F][4/*5*/];
+extern int t6_node_val2[TREE_SIZE_F];
 
-int t6_find_ptr2;
-int t6_buff_ptr;
+extern int t6_find_ptr2;
+extern int t6_buff_ptr;
 
 #define TREE_SIZE_C 25000000 // main grammar tree
 #define LIST_SIZE_C  2500000
 
-int t3_search_node(int pn1,int pn2,int pn3,int pn4/*,int pn5*/);
-int t3_insert_node(int pn1,int pn2,int pn3,int pn4/*,int pn5*/);
-int t3_init_tree2(void);
+extern int t3_search_node(int pn1,int pn2,int pn3,int pn4/*,int pn5*/);
+extern int t3_insert_node(int pn1,int pn2,int pn3,int pn4/*,int pn5*/);
+extern int t3_init_tree2(void);
 
-int t3_node_val[TREE_SIZE_C][4/*5*/];
-int t3_node_val2[TREE_SIZE_C];
+extern int t3_node_val[TREE_SIZE_C][4/*5*/];
+extern int t3_node_val2[TREE_SIZE_C];
 
-int t3_find_ptr2;
-int t3_buff_ptr;
+extern int t3_find_ptr2;
+extern int t3_buff_ptr;
 
-int  grm10_ptr1[6];
-char grm10_mrk[6][20][10];
+extern int  grm10_ptr1[6];
+extern char grm10_mrk[6][20][10];
 /*
 #define SENT_LEN2        600
 #define SENT_NUM         400000
@@ -180,7 +183,7 @@ int load12(void)
 	ff1_init_ext();
 
 	//load9_l=0;		// init buffer
-       	t5_init_tree2();
+        t5_init_tree2();
 	t6_init_tree2();
 	err2_n=0;
 
@@ -272,11 +275,15 @@ int load12(void)
 					k=wd5_search(m101_l3);
 					if (k!=1)
 					{
-						err2=1;
-						break;
+						//err2=1;
+						//break;
+						m101_ns[n]=(-1000);
 					}
-
-					m101_ns[n]=wd5_find_ptr;
+					else
+					{
+						m101_ns[n]=wd5_find_ptr;
+					}
+					
 					n++;
 
 					m=0;
@@ -311,19 +318,35 @@ int load12(void)
 					sn3=(-1);
 					sn4=(-1);
 
-					if (grm10_mrk[o][r][0]=='1') sn1=m101_ns[p+0];
-					if (grm10_mrk[o][r][0]=='0') sn1=(-2);		//(-2):$* ,any word   (-3):number
+					if (grm10_mrk[o][r][0]=='1')
+					{
+					    if (m101_ns[p+0]==(-1000)) continue;
+					    else sn1=m101_ns[p+0];
+					}
+					if (grm10_mrk[o][r][0]=='0') sn1=(-2);		//(-2):$* ,any word   (-3):number (-1000):not found in word database
 					if (grm10_mrk[o][r][0]==' ') sn1=(-1);		//(-1):end of grammar (-5):not found in word base
 
-					if (grm10_mrk[o][r][1]=='1') sn2=m101_ns[p+1];
+					if (grm10_mrk[o][r][1]=='1')
+					{
+					    if (m101_ns[p+1]==(-1000)) continue;
+					    else sn2=m101_ns[p+1];
+					}
 					if (grm10_mrk[o][r][1]=='0') sn2=(-2);		//$* ,any word
 					if (grm10_mrk[o][r][1]==' ') sn2=(-1);		//end of grammar
 
-					if (grm10_mrk[o][r][2]=='1') sn3=m101_ns[p+2];
+					if (grm10_mrk[o][r][2]=='1')
+					{
+					  if (m101_ns[p+2]==(-1000)) continue;
+					  else sn3=m101_ns[p+2];
+					}
 					if (grm10_mrk[o][r][2]=='0') sn3=(-2);		//$* ,any word
 					if (grm10_mrk[o][r][2]==' ') sn3=(-1);		//end of grammar
 
-					if (grm10_mrk[o][r][3]=='1') sn4=m101_ns[p+3];
+					if (grm10_mrk[o][r][3]=='1')
+					{
+					    if (m101_ns[p+3]==(-1000)) continue;
+					    else sn4=m101_ns[p+3];
+					}
 					if (grm10_mrk[o][r][3]=='0') sn4=(-2);		//$* ,any word
 					if (grm10_mrk[o][r][3]==' ') sn4=(-1);		//end of grammar
 

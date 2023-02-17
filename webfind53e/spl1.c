@@ -1,6 +1,8 @@
 
 #include "../config.h"
 
+#include "../common/common.h"
+
 //#define   STRICT
 //#include <windows.h>
 //#include <commdlg.h>
@@ -24,7 +26,7 @@ int   MessageBoxNow(int h1,char *h2,char *h3,int h4);
 #include <locale.h>
 #include <iconv.h>
 
-iconv_t cd ;
+extern iconv_t cd ;
 
 int str_gb18030_to_utf8_ini(void);
 int str_gb18030_to_utf8_close(void);
@@ -45,9 +47,9 @@ int deb_upper_string(char *p_instr);
 
 #define SMG_SIZE      300
 
-char mc1;
-char mc2;
-char mc3;
+extern char mc1;
+extern char mc2;
+extern char mc3;
 
 int f1_init_ext(void);
 int f1_next_ext(void);
@@ -55,10 +57,10 @@ int f1_get_fln2(char *);
 int f1_get_fln3(char *);
 int f1_get_fln4(char *);
 
-FILE *m_fp1;
-FILE *m_fp2;
+extern FILE *m_fp1;
+extern FILE *m_fp2;
 
-int  ai_number[30];
+extern int  ai_number[151];
 
 int  mproc(char *);
 char lower(char );
@@ -70,14 +72,14 @@ long long int str2llint(char *pstr);
 //------------------------------
 #define ARTI_LINE1    5000000
 
-	 char wd5_buf[ARTI_LINE1][55];
-          int wd5_rt[ARTI_LINE1];
-	  int wd5_ptr;
+extern 	 char wd5_buf[ARTI_LINE1][55];
+extern           int wd5_rt[ARTI_LINE1];
+extern 	  int wd5_ptr;
 
-int  wd5_search(char *);
-int  wd5_load(void);
+extern int  wd5_search(char *);
+extern int  wd5_load(void);
 
-int  wd5_find_rt;
+extern int  wd5_find_rt;
 
 
 //------------------------------
@@ -87,14 +89,14 @@ int  wd5_find_rt;
 //------------------------------
 #define ARTI_LINE2    200000
 
-	 char wd6_buf[ARTI_LINE2][55];
-          int wd6_rt[ARTI_LINE2];
-	  int wd6_ptr;
+extern 	 char wd6_buf[ARTI_LINE2][55];
+extern           int wd6_rt[ARTI_LINE2];
+extern 	  int wd6_ptr;
 
-int  wd6_search(char *);
-int  wd6_load(void);
+extern int  wd6_search(char *);
+extern int  wd6_load(void);
 
-int  wd6_find_rt;
+extern int  wd6_find_rt;
 
 
 //------------------------------
@@ -112,8 +114,8 @@ int ai_number_g(void);
 //-----------------------------------------
 // super pipeline level 1 (spl1)
 //-----------------------------------------
-#define SPL1_NUM     2000
-#define SPL1_MAX_NUM 2000
+#define SPL1_NUM     10000
+#define SPL1_MAX_NUM 10000
 
 		char spl1_in[SMG_SIZE];	// input
 		int  spl1_out_ptr;
@@ -131,6 +133,8 @@ long long 	int  spl1_rpt[SPL1_NUM];
 		int  spl1_va2[SPL1_NUM];
 long long 	int  spl1_rp2[SPL1_NUM];
 
+		int  spl1_iid[SPL1_NUM];
+
 int  spl1_buf[60];  // check repeated string
 int  spl1_buf_ptr;
 
@@ -138,115 +142,69 @@ int spl1_add_to_tree(void);
 
 // notice tree 2(t2)
 #define TREE_SIZE_B 4000
-int   t2_find_ptr2;
-int   t2_buff_ptr;
-char  t2_node_val[TREE_SIZE_B][55];
+extern int   t2_find_ptr2;
+extern int   t2_buff_ptr;
+extern char  t2_node_val[TREE_SIZE_B][55];
 
-int   t2_search_node(char *pstr);
-int   t2_insert_node(char *pstr);
+extern int   t2_search_node(char *pstr);
+extern int   t2_insert_node(char *pstr);
+extern int   t2_init_tree2(void);
 
-#define BTREE3_SIZE   2000
-#define BTREE3_LSIZE  2000
+#define BTREE4_SIZE   10000
+#define BTREE4_LSIZE  10000
 
-    char  t3_node_mark[BTREE3_SIZE];
+extern     char  t4_node_mark[BTREE4_SIZE];
 
-    long long int   t3_node_val[BTREE3_SIZE][4];
-    int   t3_node_va2[BTREE3_SIZE];
+extern     long long int   t4_node_val[BTREE4_SIZE][4];
+extern     int   t4_node_va2[BTREE4_SIZE];
+
+extern 	  int  t4_node_v_sid[BTREE4_SIZE][150];
+extern 	  char t4_node_v_mrk[BTREE4_SIZE];
+extern 	  int  t4_node_v_val[BTREE4_SIZE];
+extern long long int  t4_node_v_rpt[BTREE4_SIZE];
+extern 	  int  t4_node_v_len[BTREE4_SIZE];
+extern 	  int  t4_node_v_seg[BTREE4_SIZE];
+
+extern 	  char t4_node_v_mr2[BTREE4_SIZE][150];
+extern 	  int  t4_node_v_va2[BTREE4_SIZE];
+extern long long int  t4_node_v_rp2[BTREE4_SIZE];
     
-    int   t3_stack[BTREE3_SIZE];
-    int   t3_stack_ptr;
+extern     int   t4_stack[BTREE4_SIZE];
+extern     int   t4_stack_ptr;
 
-    int   t3_parent;
-    int   t3_parent_side;
-    int   t3_current;
-    int   t3_child_left;
-    int   t3_child_right;
+extern     int   t4_parent;
+extern     int   t4_parent_side;
+extern     int   t4_current;
+extern     int   t4_child_left;
+extern     int   t4_child_right;
 
-    int   t3_node_ptr[BTREE3_SIZE][3];
-    int   t3_root_ptr;
+extern     int   t4_node_ptr[BTREE4_SIZE][3];
+extern     int   t4_root_ptr;
 
-    int   t3_find_ptr;
-    int   t3_find_ptr2;
-    int   t3_find_side;
+extern     int   t4_find_ptr;
+extern     int   t4_find_ptr2;
+extern     int   t4_find_side;
     
-    int   t3_list_stack[BTREE3_LSIZE];
-    char  t3_list_stack_type[BTREE3_LSIZE];
-    int   t3_list_ptr;
+extern     int   t4_list_stack[BTREE4_LSIZE];
+extern     char  t4_list_stack_type[BTREE4_LSIZE];
+extern     int   t4_list_ptr;
 
-    int   t3_out_buff[BTREE3_SIZE];
-    int   t3_out_ptr;
+extern     int   t4_out_buff[BTREE4_SIZE];
+extern     int   t4_out_ptr;
 
-    int   t3_err;
+extern     int   t4_err;
 
-    int   t3_init_tree(void);
-    int   t3_new_node(void);
-    int   t3_clear_node(int ptr);
-    int   t3_search_node(long long int pn1,long long int pn2,long long int pn3,long long int pn4);
-    int   t3_insert_node(long long int pn1,long long int pn2,long long int pn3,long long int pn4);
-    int   t3_delete_node(long long int pn1,long long int pn2,long long int pn3,long long int pn4);
-    int   t3_smallest(void);
-    int   t3_istrcmp(int i,long long int pn1,long long int pn2,long long int pn3,long long int pn4);
-    int   t3_dsp_tree(void);
-    int   t3_after_list(void);
-    int   t3_out_list(int);
-    //int   t3_dsp_list(void);
-    //int   t3_save_list(char *fn);
-
-#define BTREE4_SIZE   2000
-#define BTREE4_LSIZE  2000
-
-    char  t4_node_mark[BTREE4_SIZE];
-
-    long long int   t4_node_val[BTREE4_SIZE][4];
-    int   t4_node_va2[BTREE4_SIZE];
-
-	  int  t4_node_v_sid[BTREE4_SIZE][150];
-	  char t4_node_v_mrk[BTREE4_SIZE];
-	  int  t4_node_v_val[BTREE4_SIZE];
-long long int  t4_node_v_rpt[BTREE4_SIZE];
-	  int  t4_node_v_len[BTREE4_SIZE];
-	  int  t4_node_v_seg[BTREE4_SIZE];
-
-	  char t4_node_v_mr2[BTREE4_SIZE][150];
-	  int  t4_node_v_va2[BTREE4_SIZE];
-long long int  t4_node_v_rp2[BTREE4_SIZE];
-    
-    int   t4_stack[BTREE4_SIZE];
-    int   t4_stack_ptr;
-
-    int   t4_parent;
-    int   t4_parent_side;
-    int   t4_current;
-    int   t4_child_left;
-    int   t4_child_right;
-
-    int   t4_node_ptr[BTREE4_SIZE][3];
-    int   t4_root_ptr;
-
-    int   t4_find_ptr;
-    int   t4_find_ptr2;
-    int   t4_find_side;
-    
-    int   t4_list_stack[BTREE4_LSIZE];
-    char  t4_list_stack_type[BTREE4_LSIZE];
-    int   t4_list_ptr;
-
-    int   t4_out_buff[BTREE4_SIZE];
-    int   t4_out_ptr;
-
-    int   t4_err;
-
-    int   t4_init_tree(void);
-    int   t4_new_node(void);
-    int   t4_clear_node(int ptr);
-    int   t4_search_node(long long int pn1,long long int pn2,long long int pn3,long long int pn4,int pn5);
-    int   t4_insert_node(long long int pn1,long long int pn2,long long int pn3,long long int pn4,int pn5);
-    int   t4_delete_node(long long int pn1,long long int pn2,long long int pn3,long long int pn4,int pn5);
-    int   t4_smallest(void);
-    int   t4_istrcmp(int i,long long int pn1,long long int pn2,long long int pn3,long long int pn4,int pn5);
-    int   t4_dsp_tree(void);
-    int   t4_after_list(void);
-    int   t4_out_list(int);
+extern     int   t4_init_tree(void);
+extern     int   t4_new_node(void);
+extern     int   t4_clear_node(int ptr);
+extern     int   t4_search_node(long long int pn1,long long int pn2,long long int pn3,long long int pn4,int pn5);
+extern     int   t4_insert_node(long long int pn1,long long int pn2,long long int pn3,long long int pn4,int pn5);
+extern     int   t4_delete_node(long long int pn1,long long int pn2,long long int pn3,long long int pn4,int pn5);
+extern     int   t4_smallest(void);
+extern     int   t4_istrcmp(int i,long long int pn1,long long int pn2,long long int pn3,long long int pn4,int pn5);
+extern     int   t4_dsp_tree(void);
+extern     int   t4_after_list(void);
+extern     int   t4_out_list(int);
     //int   t4_dsp_list(void);
     //int   t4_save_list(char *fn);
 
@@ -291,6 +249,10 @@ static long long int          m101_p_ff2;
 static long long int          m101_p_ff3;
 static long long int          m101_p_ff4;
 
+static int  m101_p_id;
+static int  item_id;
+
+
 int spl1_loop(void)
 {
 	//FILE		*fp1;
@@ -304,7 +266,7 @@ int spl1_loop(void)
 	int	     n4;
 	int	     t1,t2;
 	int 	     tst1;
-	int          err;
+	//int          err;
 	int          find;
 	int	     bigger;
 	int 	     i2,i3,i4,i5;
@@ -319,6 +281,7 @@ int spl1_loop(void)
 	spl1_ptr=0;
 	spl1_out_ptr=(-1);
 	spl1_buf_ptr=0;
+        item_id=2000000000;
 
 	for (i=50;i>=2;i=i-2)     // bigger ones at first  // add courseware words
 	{
@@ -358,6 +321,8 @@ int spl1_loop(void)
 
 //			MessageBoxNow(0,m101_str3,"into pop-r1",MB_OK);
 
+			item_id--;
+			spl1_iid[spl1_ptr]=item_id;
 
 			spl1_ptr++;
 		}
@@ -416,6 +381,8 @@ int spl1_loop(void)
 
 //			MessageBoxNow(0,m101_str3,"into pop-r1",MB_OK);
 
+			item_id--;
+			spl1_iid[spl1_ptr]=item_id;
 
 			spl1_ptr++;
 			break;
@@ -475,6 +442,8 @@ int spl1_loop(void)
 
 //			MessageBoxNow(0,m101_str3,"into pop-r1",MB_OK);
 
+			item_id--;
+			spl1_iid[spl1_ptr]=item_id;
 
 			spl1_ptr++;
 		}
@@ -487,6 +456,8 @@ int spl1_loop(void)
         m101_str1[0]=spl1_in[0];    // add 1 chiness
 	m101_str1[1]=spl1_in[1];
 	m101_str1[2]=0;
+
+	nn=wd5_search(m101_str1);
 
 	t2_insert_node(m101_str1);
 
@@ -510,7 +481,9 @@ int spl1_loop(void)
 		spl1_len[spl1_ptr]=2;
 		spl1_seg[spl1_ptr]=1;
 		spl1_val[spl1_ptr]=ai_number[1];
-		spl1_rpt[spl1_ptr]=1;    // repeat times
+
+                if (nn==1) spl1_rpt[spl1_ptr]=wd5_find_rt*1;
+		else spl1_rpt[spl1_ptr]=1;    // repeat times
 
 	       	if (2>=l) spl1_mrk[spl1_ptr]=2;
 
@@ -521,14 +494,13 @@ int spl1_loop(void)
 
 //		MessageBoxNow(0,m101_str3,"into pop-r1",MB_OK);
 
+		item_id--;
+		spl1_iid[spl1_ptr]=item_id;
 
 		spl1_ptr++;
 
 	}
 
-
-	//m1=0;
-	//m2=spl1_ptr;
 
 
 	while(1)
@@ -536,15 +508,12 @@ int spl1_loop(void)
 
 		m3=0;
 		m4=0;
-		err=0;
 
-		t3_init_tree();
+		//t3_init_tree();
 		t4_init_tree();
 
 		for (n=0;n<spl1_ptr;n++)
 		{
-			//n=i2;
-
 			if (spl1_mrk[n]==2) // copy ok ones
 			{
 				m101_p_src=n;
@@ -564,6 +533,8 @@ int spl1_loop(void)
 				m101_p_ff2=(m101_p_rp2*1000)/m101_p_seg/*m101_p_len*/;
 				m101_p_ff3=(m101_p_val*1000)/m101_p_seg/*m101_p_len*/;
 				m101_p_ff4=(m101_p_rpt*1000)/m101_p_seg/*m101_p_len*/;
+
+				m101_p_id=spl1_iid[n];
 
 				spl1_add_to_tree();
 /*
@@ -594,8 +565,6 @@ int spl1_loop(void)
 				continue;
 			}
 
-			m3=1;
-
 			m101_p_src=n;
 
 			m101_p_len=spl1_len[n];
@@ -608,10 +577,10 @@ int spl1_loop(void)
 
 			if (m101_p_seg>=150)
 			{
-				//err=1;
-				//break;
 				continue;
 			}
+
+			m3=1;
 
 			spl1_buf_ptr=0;
 
@@ -649,6 +618,10 @@ int spl1_loop(void)
 					m101_p_ff2=((m101_p_rp2+wd6_find_rt*(i/2))*1000)/(m101_p_seg+1)/*(m101_p_len+m101_p_len_add)*/;
 					m101_p_ff3=(m101_p_val*1000)/(m101_p_seg+1)/*(m101_p_len+m101_p_len_add)*/;
 					m101_p_ff4=(m101_p_rpt*1000)/(m101_p_seg+1)/*(m101_p_len+m101_p_len_add)*/;
+
+					item_id--;
+					m101_p_id=item_id;
+					if (item_id<0) printf("warning,item_id<0 \n");
 
 					spl1_add_to_tree();
 /*
@@ -734,6 +707,10 @@ int spl1_loop(void)
 					m101_p_ff2=((m101_p_rp2+      10*(i/2))*1000)/(m101_p_seg+1)/*(m101_p_len+m101_p_len_add)*/;
 					m101_p_ff3=(m101_p_val*1000)/(m101_p_seg+1)/*(m101_p_len+m101_p_len_add)*/;
 					m101_p_ff4=(m101_p_rpt*1000)/(m101_p_seg+1)/*(m101_p_len+m101_p_len_add)*/;
+
+					item_id--;
+					m101_p_id=item_id;
+					if (item_id<0) printf("warning,item_id<0 \n");
 
 					spl1_add_to_tree();
 /*
@@ -821,6 +798,10 @@ int spl1_loop(void)
 					m101_p_ff3=((m101_p_val+   ai_number[i/2])*1000)/(m101_p_seg+1)/*(m101_p_len+m101_p_len_add)*/;
 					m101_p_ff4=((m101_p_rpt+wd5_find_rt*(i/2))*1000)/(m101_p_seg+1)/*(m101_p_len+m101_p_len_add)*/;
 
+					item_id--;
+					m101_p_id=item_id;
+					if (item_id<0) printf("warning,item_id<0 \n");
+
 					spl1_add_to_tree();
 /*
 					for (s=0;s<r;s++)
@@ -863,6 +844,8 @@ int spl1_loop(void)
 			m101_str1[1]=spl1_in[m101_p_len+1];
 			m101_str1[2]=0;
 
+			nn=wd5_search(m101_str1);
+
 			t2_insert_node(m101_str1);
 
 			find=0;
@@ -886,7 +869,9 @@ int spl1_loop(void)
 				m101_p_len_add=2;
 				m101_p_seg_add=1;
 				m101_p_val_add=ai_number[1];
-				m101_p_rpt_add=1;
+
+                                if (nn==1) m101_p_rpt_add=wd5_find_rt*1;
+				else m101_p_rpt_add=1;
 
 			        if (m101_p_len+2>=l) m101_p_mrk=2;
 
@@ -895,8 +880,12 @@ int spl1_loop(void)
 
 				m101_p_ff1=(m101_p_va2*1000)/(m101_p_seg+1)/*(m101_p_len+m101_p_len_add)*/;
 				m101_p_ff2=(m101_p_rp2*1000)/(m101_p_seg+1)/*(m101_p_len+m101_p_len_add)*/;
-				m101_p_ff3=((m101_p_val+ai_number[1])*1000)/(m101_p_seg+1)/*(m101_p_len+m101_p_len_add)*/;
-				m101_p_ff4=((m101_p_rpt+           1)*1000)/(m101_p_seg+1)/*(m101_p_len+m101_p_len_add)*/;
+				m101_p_ff3=((m101_p_val+   ai_number[1])*1000)/(m101_p_seg+1)/*(m101_p_len+m101_p_len_add)*/;
+				m101_p_ff4=((m101_p_rpt+ m101_p_rpt_add)*1000)/(m101_p_seg+1)/*(m101_p_len+m101_p_len_add)*/;
+
+				item_id--;
+				m101_p_id=item_id;
+				if (item_id<0) printf("warning,item_id<0 \n");
 
 				spl1_add_to_tree();
 /*
@@ -931,16 +920,8 @@ int spl1_loop(void)
 
 		}
 
-		if (err==0)
-		{
-			//m1=m2;
-			//m2=spl1_ptr;
-
-			//if (m2>100000) break;
-			if (m4>=SPL1_MAX_NUM) break; 
-			if (m3==0) break;
-		}
-		else break;
+		if (m4>=SPL1_MAX_NUM) break; 
+		if (m3==0) break;
 
 		spl1_ptr=0;
 
@@ -965,6 +946,8 @@ int spl1_loop(void)
 					spl1_mr2[spl1_ptr][i4]=t4_node_v_mr2[i2][i4];
 				}
 
+				spl1_iid[spl1_ptr]=t4_node_va2[i2];
+
 				spl1_ptr++;
 			}
 		}
@@ -980,12 +963,8 @@ int spl1_loop(void)
 	f3=0;
 	f4=0;
 
-	//n1=0;
-
 	while (n1<BTREE4_SIZE)
 	{
-		//n1=i2;
-
 		if ((t4_node_mark[n1]==0)&&(t4_node_v_mrk[n1]==2))
 		{
 			sf1=/*(*/t4_node_v_va2[n1]/* *1000)/t4_node_v_seg[n1]*/;
@@ -996,26 +975,17 @@ int spl1_loop(void)
 			bigger=0;
 
 			if (sf1>f1) bigger=1;
-			else
+			else if (sf1==f1)
 			{
-				if (sf1==f1)
+				if (sf2>f2) bigger=1;
+				else if (sf2==f2)
 				{
-					if (sf2>f2) bigger=1;
-					else
+					if (sf3>f3) bigger=1;
+					else if (sf3==f3)
 					{
-						if (sf2==f2)
+						if (sf4>f4)
 						{
-							if (sf3>f3) bigger=1;
-							else
-							{
-								if (sf3==f3)
-								{
-									if (sf4>f4)
-									{
-										bigger=1;
-									}
-								}
-							}
+							bigger=1;
 						}
 					}
 				}
@@ -1036,13 +1006,7 @@ int spl1_loop(void)
 		n1++;
 	}
 
-	// printf("spl1_ptr=%d,m4=%d,t2_buff_ptr=%d,\n",spl1_ptr,m4,t2_buff_ptr);  // for test
-
-	//if ((f1>0)||(f2>0)||(f3>0)||(f4>0))
-	//{
-	//	out_put_seg(n2);
 	if (n2>=0) spl1_out_ptr=n2;
-	//}
 
 	return(0);
 }
@@ -1053,18 +1017,11 @@ int spl1_add_to_tree(void)
 	int   i3,i4,i5;
 	int   bigger;
 
-	//printf("t3_stack_ptr=%d,t4_stack_ptr=%d,\n",t3_stack_ptr,t4_stack_ptr);
+	//printf("t4_stack_ptr=%d,\n",t4_stack_ptr);
 
 	if (t4_stack_ptr>0)
 	{
-		i4=t3_search_node(m101_p_ff1,m101_p_ff2,m101_p_ff3,m101_p_ff4); // key repeat times
-		if (i4!=0) i5=0;
-		else i5=t3_node_va2[t3_find_ptr]+1;
-
-		i4=t3_insert_node(m101_p_ff1,m101_p_ff2,m101_p_ff3,m101_p_ff4);
-		t3_node_va2[t3_find_ptr2]=i5;
-
-		i4=t4_insert_node(m101_p_ff1,m101_p_ff2,m101_p_ff3,m101_p_ff4,i5);
+		i4=t4_insert_node(m101_p_ff1,m101_p_ff2,m101_p_ff3,m101_p_ff4,m101_p_id);
 
 		if (m101_p_cur<0)
 		{
@@ -1110,38 +1067,30 @@ int spl1_add_to_tree(void)
 	}
 	else
 	{
-		t3_smallest();
+		t4_smallest();
 
-		ff1=t3_node_val[t3_find_ptr][0];
-		ff2=t3_node_val[t3_find_ptr][1];
-		ff3=t3_node_val[t3_find_ptr][2];
-		ff4=t3_node_val[t3_find_ptr][3];
+		ff1=t4_node_val[t4_find_ptr][0];
+		ff2=t4_node_val[t4_find_ptr][1];
+		ff3=t4_node_val[t4_find_ptr][2];
+		ff4=t4_node_val[t4_find_ptr][3];
+		i5 =t4_node_va2[t4_find_ptr];
 
-		//printf("ptr=%d,val=%d,%d,%d,%d,\n",t3_find_ptr,ff1,ff2,ff3,ff4);
+		//printf("ptr=%d,val=%d,%d,%d,%d,\n",t4_find_ptr,ff1,ff2,ff3,ff4);
 
 		bigger=0;
 
 		if (m101_p_ff1>ff1) bigger=1;
-		else
+		else if (m101_p_ff1==ff1)
 		{
-			if (m101_p_ff1==ff1)
+			if (m101_p_ff2>ff2) bigger=1;
+			else if (m101_p_ff2==ff2)
 			{
-				if (m101_p_ff2>ff2) bigger=1;
-				else
+				if (m101_p_ff3>ff3) bigger=1;
+				else if (m101_p_ff3==ff3)
 				{
-					if (m101_p_ff2==ff2)
+					if (m101_p_ff4>ff4)
 					{
-						if (m101_p_ff3>ff3) bigger=1;
-						else
-						{
-							if (m101_p_ff3==ff3)
-							{
-								if (m101_p_ff4>ff4)
-								{
-									bigger=1;
-								}
-							}
-						}
+						bigger=1;
 					}
 				}
 			}
@@ -1149,29 +1098,9 @@ int spl1_add_to_tree(void)
 
 		if (bigger==1)
 		{
-			// delete
-			i4=t3_search_node(ff1,ff2,ff3,ff4); // key repeat times
-			if (i4!=0)
-			{
-				printf("error in function spl1_add_to_tree(),%lld,%lld,%lld,%lld,\n",ff1,ff2,ff3,ff4);
-				return(0);
-			}
-			else i5=t3_node_va2[t3_find_ptr];
-
-			if (i5>0) t3_node_va2[t3_find_ptr]=t3_node_va2[t3_find_ptr]-1;
-			else t3_delete_node(ff1,ff2,ff3,ff4);
-
 			t4_delete_node(ff1,ff2,ff3,ff4,i5);
 
-			// insert
-			i4=t3_search_node(m101_p_ff1,m101_p_ff2,m101_p_ff3,m101_p_ff4); // key repeat times
-			if (i4!=0) i5=0;
-			else i5=t3_node_va2[t3_find_ptr]+1;
-
-			i4=t3_insert_node(m101_p_ff1,m101_p_ff2,m101_p_ff3,m101_p_ff4);
-			t3_node_va2[t3_find_ptr2]=i5;
-
-			i4=t4_insert_node(m101_p_ff1,m101_p_ff2,m101_p_ff3,m101_p_ff4,i5);
+			i4=t4_insert_node(m101_p_ff1,m101_p_ff2,m101_p_ff3,m101_p_ff4,m101_p_id);
 
 			if (m101_p_cur<0)
 			{

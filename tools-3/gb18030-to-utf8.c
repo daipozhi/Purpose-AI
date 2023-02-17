@@ -21,7 +21,7 @@ int main(int argc, char **argv)
     }
     else
     {
-      str_gb18030_to_utf8_ini();
+      //str_gb18030_to_utf8_ini();
 
       strcpy(m02_fn,argv[1]);
 
@@ -29,7 +29,7 @@ int main(int argc, char **argv)
 
       file_gb18030_to_utf8(m02_fn);
 
-      str_gb18030_to_utf8_close();
+      //str_gb18030_to_utf8_close();
     }
 
     return(0);

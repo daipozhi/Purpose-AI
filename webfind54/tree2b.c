@@ -24,7 +24,7 @@ int   MessageBox(int h1,char *h2,char *h3,int h4);
 #include <locale.h>
 #include <iconv.h>
 
-iconv_t cd ;
+extern iconv_t cd ;
 
 int str_gb18030_to_utf8_ini(void);
 int str_gb18030_to_utf8_close(void);
@@ -57,45 +57,45 @@ class tree2
 {
   public:
 */
-    char  t1_node_mark[TREE_SIZE];
-    char  t1_node_val[TREE_SIZE][55];
-    int   t1_node_val2[TREE_SIZE];
+extern     char  t1_node_mark[TREE_SIZE];
+extern     char  t1_node_val[TREE_SIZE][55];
+extern     int   t1_node_val2[TREE_SIZE];
 /*
     int   t1_node_val3[TREE_SIZE][5][3];
     int   t1_node_val3_ptr[TREE_SIZE];
 */
-    int   t1_node_ptr[TREE_SIZE][3];
-    int   t1_root_ptr;
-    int   t1_buff_ptr;
+extern     int   t1_node_ptr[TREE_SIZE][3];
+extern     int   t1_root_ptr;
+extern     int   t1_buff_ptr;
     
-    int   t1_find_ptr;
-    int   t1_find_ptr2;
-    int   t1_find_side;
+extern     int   t1_find_ptr;
+extern     int   t1_find_ptr2;
+extern     int   t1_find_side;
     
-    int   t1_list_stack[LIST_SIZE];
-    char  t1_list_stack_type[LIST_SIZE];
-    int   t1_list_ptr;
+extern     int   t1_list_stack[LIST_SIZE];
+extern     char  t1_list_stack_type[LIST_SIZE];
+extern     int   t1_list_ptr;
 
-    char  t1_out_buff[TREE_SIZE][55];
-    int   t1_out_buff2[TREE_SIZE];
+extern     char  t1_out_buff[TREE_SIZE][55];
+extern     int   t1_out_buff2[TREE_SIZE];
 /*
     int   t1_out_buff3[TREE_SIZE][5][3];
     int   t1_out_buff3_ptr[TREE_SIZE];
 */
-    int   t1_out_ptr;
+extern     int   t1_out_ptr;
 
   //public:
 
-    int   t1_init_tree2(void);
-    int   t1_new_node(void);
-    int   t1_clear_node(int ptr);
-    int   t1_search_node(char *pstr);
-    int   t1_insert_node(char *pstr);
-    int   t1_dsp_tree2(void);
-    int   t1_after_list(void);
-    int   t1_out_list(char *pstr,int ,int);
-    int   t1_dsp_list(void);
-    int   t1_save_list(char *fn);
+extern     int   t1_init_tree2(void);
+extern     int   t1_new_node(void);
+extern     int   t1_clear_node(int ptr);
+extern     int   t1_search_node(char *pstr);
+extern     int   t1_insert_node(char *pstr);
+extern     int   t1_dsp_tree2(void);
+extern     int   t1_after_list(void);
+extern     int   t1_out_list(char *pstr,int ,int);
+extern     int   t1_dsp_list(void);
+extern     int   t1_save_list(char *fn);
 /*
 
 };
@@ -586,41 +586,41 @@ int /*tree2b::*/t2_after_list(void)
       
       if (t2_node_ptr[k][1]>=0)
       {
-        t2_list_stack[t2_list_ptr]=t2_node_ptr[k][1];
-        t2_list_stack_type[t2_list_ptr]=1;
-        t2_list_ptr++;
-
         //sprintf(str1,"add left tree %s,list_ptr=%d,",node_val[node_ptr[k][1]],list_ptr);
-        if (t2_list_ptr>LIST_SIZE_B)
+        if (t2_list_ptr>=LIST_SIZE_B)
         {
           MessageBox(0,"In tree2,error in after_list(),LIST_SIZE_B too small.","message",MB_OK);
           continue;
         }
+
+        t2_list_stack[t2_list_ptr]=t2_node_ptr[k][1];
+        t2_list_stack_type[t2_list_ptr]=1;
+        t2_list_ptr++;
+      }
+
+      //sprintf(str1,"add mid tree %s,list_ptr=%d,",node_val[k],list_ptr);
+      if (t2_list_ptr>=LIST_SIZE_B)
+      {
+        MessageBox(0,"In tree2,error in after_list(),LIST_SIZE_B too small.","message",MB_OK);
+        continue;
       }
 
       t2_list_stack[t2_list_ptr]=k;
       t2_list_stack_type[t2_list_ptr]=2;
       t2_list_ptr++;
 
-      //sprintf(str1,"add mid tree %s,list_ptr=%d,",node_val[k],list_ptr);
-      if (t2_list_ptr>LIST_SIZE_B)
-      {
-        MessageBox(0,"In tree2,error in after_list(),LIST_SIZE_B too small.","message",MB_OK);
-        continue;
-      }
-
       if (t2_node_ptr[k][2]>=0)
       {
-        t2_list_stack[t2_list_ptr]=t2_node_ptr[k][2];
-        t2_list_stack_type[t2_list_ptr]=1;
-        t2_list_ptr++;
-
         //sprintf(str1,"add right tree %s,list_ptr=%d,",node_val[node_ptr[k][2]],list_ptr);
-        if (t2_list_ptr>LIST_SIZE_B)
+        if (t2_list_ptr>=LIST_SIZE_B)
         {
           MessageBox(0,"In tree2,error in after_list(),LIST_SIZE_B too small.","message",MB_OK);
           continue;
         }
+
+        t2_list_stack[t2_list_ptr]=t2_node_ptr[k][2];
+        t2_list_stack_type[t2_list_ptr]=1;
+        t2_list_ptr++;
       }
     }
     else

@@ -1,6 +1,8 @@
 
 #include "../config.h"
 
+#include "../common/common.h"
+
 //#define   STRICT
 //#include <windows.h>
 //#include <commdlg.h>
@@ -24,7 +26,7 @@ int   MessageBoxNow(int h1,char *h2,char *h3,int h4);
 #include <locale.h>
 #include <iconv.h>
 
-iconv_t cd ;
+extern iconv_t cd ;
 
 int str_gb18030_to_utf8_ini(void);
 int str_gb18030_to_utf8_close(void);
@@ -49,34 +51,34 @@ int deb_upper_string(char *p_instr);
 
 #define SMG_SIZE      300
 
-int  ai_number[151];
+extern int  ai_number[151];
 
-FILE *m_fp1;
+extern FILE *m_fp1;
 
 //------------------------------
 #define ARTI_LINE1    2000000
 #define ARTI_LINE2    200000
 
-	 char wd5_buf[ARTI_LINE1][55];
-          int wd5_rt[ARTI_LINE1];
-	  int wd5_ptr;
+extern 	 char wd5_buf[ARTI_LINE1][55];
+extern           int wd5_rt[ARTI_LINE1];
+extern 	  int wd5_ptr;
 
-int  wd5_search(char *);
-int  wd5_load(void);
+extern int  wd5_search(char *);
+extern int  wd5_load(void);
 
-int           wd5_find_rt;
-int 	      wd5_find_ptr;
+extern int           wd5_find_rt;
+extern int 	      wd5_find_ptr;
 
 //------------------------------
 
-	 char wd6_buf[ARTI_LINE2][55];
-          int wd6_rt[ARTI_LINE2];
-	  int wd6_ptr;
+extern 	 char wd6_buf[ARTI_LINE2][55];
+extern           int wd6_rt[ARTI_LINE2];
+extern 	  int wd6_ptr;
 
-int  wd6_search(char *);
-int  wd6_load(void);
+extern int  wd6_search(char *);
+extern int  wd6_load(void);
 
-          int wd6_find_rt;
+extern           int wd6_find_rt;
 
 //------------------------------
 
@@ -84,33 +86,33 @@ int  wd6_load(void);
 
 #define GRM_NUM1 25000000
 
-int grm15_buf[GRM_NUM1][4];
-int grm15_rt[GRM_NUM1];
-int grm15_ptr;
+extern int grm15_buf[GRM_NUM1][4];
+extern int grm15_rt[GRM_NUM1];
+extern int grm15_ptr;
 
-int grm15_search(int,int,int,int);
-int grm15_load(void);
+extern int grm15_search(int,int,int,int);
+extern int grm15_load(void);
 
-int grm15_find_rt;
-int grm15_find_ptr;
+extern int grm15_find_rt;
+extern int grm15_find_ptr;
 
 
 #define GRM_NUM2 100000
 
-int grm16_buf[GRM_NUM2][6];
-int grm16_rt[GRM_NUM2];
-int grm16_ptr;
+extern int grm16_buf[GRM_NUM2][6];
+extern int grm16_rt[GRM_NUM2];
+extern int grm16_ptr;
 
-int grm16_search(int,int,int,int,int,int);
-int grm16_load(void);
+extern int grm16_search(int,int,int,int,int,int);
+extern int grm16_load(void);
 
-int grm16_find_rt;
-int grm16_find_ptr;
+extern int grm16_find_rt;
+extern int grm16_find_ptr;
 
 
 
-int  grm10_ptr1[6];
-char grm10_mrk[6][20][10];
+extern int  grm10_ptr1[6];
+extern char grm10_mrk[6][20][10];
 
 
 #define SPL2_NUM     2000
@@ -130,6 +132,8 @@ long long int  spl2_rpt[SPL2_NUM];
 
 int  spl2_va2[SPL2_NUM];
 long long int  spl2_rp2[SPL2_NUM];
+
+int  spl2_iid[SPL2_NUM];
 
 int  spl2_ptr;
 int  spl2_ptr2;
@@ -153,139 +157,96 @@ long long int  spl2_out_ff2;
 long long int  spl2_out_ff3;
 long long int  spl2_out_ff4;
 
+int spl2_add_to_tree(int o);
+
 // tree 4 (t4) grammar buffer
 #define TREE_SIZE_D  5000
 #define LIST_SIZE_D  5000
 
-int   t4_find_ptr2;
-int   t4_buff_ptr;
-int   t4_node_val[TREE_SIZE_D][6];
+extern int   t4_find_ptr2;
+extern int   t4_buff_ptr;
+extern int   t4_node_val[TREE_SIZE_D][6];
 
-int   t4_search_node(int pn1,int pn2,int pn3,int pn4,int pn5,int pn6);
-int   t4_insert_node(int pn1,int pn2,int pn3,int pn4,int pn5,int pn6);
+extern int   t4_search_node(int pn1,int pn2,int pn3,int pn4,int pn5,int pn6);
+extern int   t4_insert_node(int pn1,int pn2,int pn3,int pn4,int pn5,int pn6);
+extern int   t4_init_tree2(void);
+
 // end of tree
-
-#define BTREE7_SIZE   2000
-#define BTREE7_LSIZE  2000
-
-    char  t7_node_mark[BTREE7_SIZE];
-
-    long long int   t7_node_val[BTREE7_SIZE][4];
-    int   t7_node_va2[BTREE7_SIZE];
-    
-    int   t7_stack[BTREE7_SIZE];
-    int   t7_stack_ptr;
-
-    int   t7_parent;
-    int   t7_parent_side;
-    int   t7_current;
-    int   t7_child_left;
-    int   t7_child_right;
-
-    int   t7_node_ptr[BTREE7_SIZE][3];
-    int   t7_root_ptr;
-
-    int   t7_find_ptr;
-    int   t7_find_ptr2;
-    int   t7_find_side;
-    
-    int   t7_list_stack[BTREE7_LSIZE];
-    char  t7_list_stack_type[BTREE7_LSIZE];
-    int   t7_list_ptr;
-
-    int   t7_out_buff[BTREE7_SIZE];
-    int   t7_out_ptr;
-
-    int   t7_err;
-
-    int   t7_init_tree(void);
-    int   t7_new_node(void);
-    int   t7_clear_node(int ptr);
-    int   t7_search_node(long long int pn1,long long int pn2,long long int pn3,long long int pn4);
-    int   t7_insert_node(long long int pn1,long long int pn2,long long int pn3,long long int pn4);
-    int   t7_delete_node(long long int pn1,long long int pn2,long long int pn3,long long int pn4);
-    int   t7_smallest(void);
-    int   t7_istrcmp(int i,long long int pn1,long long int pn2,long long int pn3,long long int pn4);
-    int   t7_dsp_tree(void);
-    int   t7_after_list(void);
-    int   t7_out_list(int);
-    //int   t7_dsp_list(void);
-    //int   t7_save_list(char *fn);
 
 #define BTREE8_SIZE   2000
 #define BTREE8_LSIZE  2000
 
-    char  t8_node_mark[BTREE8_SIZE];
+extern     char  t8_node_mark[BTREE8_SIZE];
 
-    long long int   t8_node_val[BTREE8_SIZE][4];
-    int   t8_node_va2[BTREE8_SIZE];
+extern     long long int   t8_node_val[BTREE8_SIZE][4];
+extern     int   t8_node_va2[BTREE8_SIZE];
 
-	  int  t8_node_v_gid[BTREE8_SIZE][150];
-	  char t8_node_v_gid_len[BTREE8_SIZE][150];
-	  char t8_node_v_mr2[BTREE8_SIZE][150];
+extern 	  int  t8_node_v_gid[BTREE8_SIZE][150];
+extern 	  char t8_node_v_gid_len[BTREE8_SIZE][150];
+extern 	  char t8_node_v_mr2[BTREE8_SIZE][150];
 
-	  char t8_node_v_mrk[BTREE8_SIZE];
+extern 	  char t8_node_v_mrk[BTREE8_SIZE];
 
-	  int  t8_node_v_len[BTREE8_SIZE];
-	  int  t8_node_v_seg[BTREE8_SIZE];
-	  int  t8_node_v_val[BTREE8_SIZE];
-long long int  t8_node_v_rpt[BTREE8_SIZE];
+extern 	  int  t8_node_v_len[BTREE8_SIZE];
+extern 	  int  t8_node_v_seg[BTREE8_SIZE];
+extern 	  int  t8_node_v_val[BTREE8_SIZE];
+extern long long int  t8_node_v_rpt[BTREE8_SIZE];
 
-	  int  t8_node_v_va2[BTREE8_SIZE];
-long long int  t8_node_v_rp2[BTREE8_SIZE];
+extern 	  int  t8_node_v_va2[BTREE8_SIZE];
+extern long long int  t8_node_v_rp2[BTREE8_SIZE];
 
-    int   t8_stack[BTREE8_SIZE];
-    int   t8_stack_ptr;
+extern     int   t8_stack[BTREE8_SIZE];
+extern     int   t8_stack_ptr;
 
-    int   t8_parent;
-    int   t8_parent_side;
-    int   t8_current;
-    int   t8_child_left;
-    int   t8_child_right;
+extern     int   t8_parent;
+extern     int   t8_parent_side;
+extern     int   t8_current;
+extern     int   t8_child_left;
+extern     int   t8_child_right;
 
-    int   t8_node_ptr[BTREE8_SIZE][3];
-    int   t8_root_ptr;
+extern     int   t8_node_ptr[BTREE8_SIZE][3];
+extern     int   t8_root_ptr;
 
-    int   t8_find_ptr;
-    int   t8_find_ptr2;
-    int   t8_find_side;
+extern     int   t8_find_ptr;
+extern     int   t8_find_ptr2;
+extern     int   t8_find_side;
     
-    int   t8_list_stack[BTREE8_LSIZE];
-    char  t8_list_stack_type[BTREE8_LSIZE];
-    int   t8_list_ptr;
+extern     int   t8_list_stack[BTREE8_LSIZE];
+extern     char  t8_list_stack_type[BTREE8_LSIZE];
+extern     int   t8_list_ptr;
 
-    int   t8_out_buff[BTREE8_SIZE];
-    int   t8_out_ptr;
+extern     int   t8_out_buff[BTREE8_SIZE];
+extern     int   t8_out_ptr;
 
-    int   t8_err;
+extern     int   t8_err;
 
-    int   t8_init_tree(void);
-    int   t8_new_node(void);
-    int   t8_clear_node(int ptr);
-    int   t8_search_node(long long int pn1,long long int pn2,long long int pn3,long long int pn4,int pn5);
-    int   t8_insert_node(long long int pn1,long long int pn2,long long int pn3,long long int pn4,int pn5);
-    int   t8_delete_node(long long int pn1,long long int pn2,long long int pn3,long long int pn4,int pn5);
-    int   t8_smallest(void);
-    int   t8_istrcmp(int i,long long int pn1,long long int pn2,long long int pn3,long long int pn4,int pn5);
-    int   t8_dsp_tree(void);
-    int   t8_after_list(void);
-    int   t8_out_list(int);
+extern     int   t8_init_tree(void);
+extern     int   t8_new_node(void);
+extern     int   t8_clear_node(int ptr);
+extern     int   t8_search_node(long long int pn1,long long int pn2,long long int pn3,long long int pn4,int pn5);
+extern     int   t8_insert_node(long long int pn1,long long int pn2,long long int pn3,long long int pn4,int pn5);
+extern     int   t8_delete_node(long long int pn1,long long int pn2,long long int pn3,long long int pn4,int pn5);
+extern     int   t8_smallest(void);
+extern     int   t8_istrcmp(int i,long long int pn1,long long int pn2,long long int pn3,long long int pn4,int pn5);
+extern     int   t8_dsp_tree(void);
+extern     int   t8_after_list(void);
+extern     int   t8_out_list(int);
     //int   t8_dsp_list(void);
     //int   t8_save_list(char *fn);
 
-#define SPL1_OUT_NUM   20
+#define SPL1_OUT_NUM   100
 
-	char   spl1_out_str[SPL1_OUT_NUM][150][55];	// spl1 output
-	int    spl1_out_nns[SPL1_OUT_NUM][150];
-	char   spl1_out_mrk[SPL1_OUT_NUM][150];
+extern 	char   spl1_out_str[SPL1_OUT_NUM][150][55];	// spl1 output
+extern 	int    spl1_out_nns[SPL1_OUT_NUM][150];
+extern 	char   spl1_out_mrk[SPL1_OUT_NUM][150];
 
-	int    spl1_out_val[SPL1_OUT_NUM];
-long long int  spl1_out_va2[SPL1_OUT_NUM];
-	int    spl1_out_va3[SPL1_OUT_NUM];
-long long int  spl1_out_va4[SPL1_OUT_NUM];
+extern 	int    spl1_out_val[SPL1_OUT_NUM];
+extern long long int  spl1_out_va2[SPL1_OUT_NUM];
+extern 	int    spl1_out_va3[SPL1_OUT_NUM];
+extern long long int  spl1_out_va4[SPL1_OUT_NUM];
 
-	int    spl1_out_seg[SPL1_OUT_NUM];
-	int    spl1_out_ptr;
+extern 	int    spl1_out_seg[SPL1_OUT_NUM];
+extern 	int    spl1_out_ptr;
 
 
 static char  m101_l1[3000];
@@ -329,6 +290,8 @@ static long long int m101_p_ff2;
 static long long int m101_p_ff3;
 static long long int m101_p_ff4;
 
+static int  m101_p_id2;
+static int  item_id2;
 
 int spl2_loop(void)
 {
@@ -353,14 +316,14 @@ int spl2_loop(void)
 	int	      v1,v3;
 long long int	      v2,v4;
 	int 	      tst1;
-	int           err,err2;
+	int           /*err,*/err2;
 	int           find;
 	int	      bigger;
 	int	      ns[10];
 //long long int	      ff1,ff2,ff3,ff4;
 long long int	      sff1,sff2,sff3,sff4;
 	int	      j2,j3,j4,j5,j6,j7;
-	int	      k1,k2,k3,k4,k5;
+	int	      k1,k2,k3,k4,k5,k6;
 
 	spl2_out_seg=0;
 
@@ -377,11 +340,12 @@ long long int	      sff1,sff2,sff3,sff4;
 	for (o=0;o<spl1_out_ptr;o++)
 	{
 
-	err2=0;
+
+
+
 	for (u=0;u<spl1_out_seg[o];u++)
 	{
 		y=wd5_search(spl1_out_str[o][u]);
-		//if (y!=1)
                 if (y==1)
 		{
 			spl1_out_nns[o][u]=wd5_find_ptr;
@@ -395,20 +359,18 @@ long long int	      sff1,sff2,sff3,sff4;
                         }
                         else
                         {
-				err2=1;
-				spl1_out_nns[o][u]=(-5);
+				spl1_out_nns[o][u]=(-1000);
 			}
 		}
 	}
 
-	if (err2==0)
-	{
 
 	if (SPL2_DEBUG) fputs("init...\n",m_fp1);
 
 	t4_init_tree2();
 
 	spl2_ptr=0;
+	item_id2=2000000000;
 
 	l =spl1_out_seg[o];
 
@@ -422,6 +384,7 @@ long long int	      sff1,sff2,sff3,sff4;
 		if (i>l) continue;
 
 		i3=0;
+		err2=0;
 		for (m=0;m<6;m++)
 		{
 			if (m+1>i) ns[m]=(-1);
@@ -433,13 +396,20 @@ long long int	      sff1,sff2,sff3,sff4;
 					ns[m]=(-3);
 					i3=i3+strlen(spl1_out_str[o][m]);
 				}
-				else
+				else if (spl1_out_nns[o][m]==(-1000))
+                                {
+                                	err2=1;
+                                        break;
+                                }
+                                else
 				{
 					ns[m]=spl1_out_nns[o][m];
 					i3=i3+strlen(spl1_out_str[o][m]);
 				}
 			}
 		}
+
+		if (err2==1) continue;
 
 		nn=grm16_search(ns[0],ns[1],ns[2],ns[3],ns[4],ns[5]);
 		if (nn==1)
@@ -470,6 +440,7 @@ long long int	      sff1,sff2,sff3,sff4;
 				{
 					if (ns[k1]==(-2)) fputs("$*",m_fp1);
 					if (ns[k1]==(-3)) fputs("$n",m_fp1);
+					if (ns[k1]==(-1000)) fputs("$e",m_fp1);
 					if (ns[k1]>=0) fputs(wd5_buf[ns[k1]],m_fp1);
 					if (ns[k1]==(-1)) break;
 
@@ -483,6 +454,9 @@ long long int	      sff1,sff2,sff3,sff4;
 					spl2_va2[spl2_ptr],spl2_rp2[spl2_ptr],spl2_val[spl2_ptr],spl2_rpt[spl2_ptr]);
 				fputs(m101_str6,m_fp1);
 			}
+
+			item_id2--;
+			spl2_iid[spl2_ptr]=item_id2;
 
 			spl2_ptr++;
 
@@ -498,6 +472,7 @@ long long int	      sff1,sff2,sff3,sff4;
 		for (m=0;m<i4;m++) // for every mark
 		{
 			i3 =0;
+			err2=0;
 			for (i5=0;i5<4/*5*/;i5++) // for every char
 			{
 				if (i5+1>i) ns[i5]=(-1);
@@ -505,16 +480,27 @@ long long int	      sff1,sff2,sff3,sff4;
 				{
 					if (grm10_mrk[i][m][i5]=='1')
 					{
-						ns[i5]=spl1_out_nns[o][i5];
-						i3 =i3 +strlen(spl1_out_str[o][i5]);
+                                                if (spl1_out_nns[o][i5]==(-1000))
+                                                {
+                                                	err2=1;
+                                                	break;
+                                                }
+                                                else
+                                                {
+						        ns[i5]=spl1_out_nns[o][i5];
+        						i3 =i3 +strlen(spl1_out_str[o][i5]);
+                                                }
 					}
-					if (grm10_mrk[i][m][i5]=='0')
+					else if (grm10_mrk[i][m][i5]=='0')
 					{
-						ns[i5]=(-2);					//(-2):$* ,any word   (-3):number
+                                                /*if (spl1_out_nns[o][i5]==(-1000)) ns[i5]=(-1002);
+                                                else*/   	ns[i5]=(-2);					//(-2):$* ,any word   (-3):number
 					}
-					if (grm10_mrk[i][m][i5]==' ') ns[i5]=(-1);		//(-1):end of grammar (-5):not found in word base
+					else if (grm10_mrk[i][m][i5]==' ') ns[i5]=(-1);		//(-1):end of grammar (-1000):not found in word base
 				}
 			}
+			
+			if (err2==1) continue;
 
 			ns[4]=(-1);
 			ns[5]=(-1);
@@ -548,6 +534,7 @@ long long int	      sff1,sff2,sff3,sff4;
 					{
 						if (ns[k1]==(-2)) fputs("$*",m_fp1);
 						if (ns[k1]==(-3)) fputs("$n",m_fp1);
+				        	if (ns[k1]==(-1000)) fputs("$e",m_fp1);
 						if (ns[k1]>=0) fputs(wd5_buf[ns[k1]],m_fp1);
 						if (ns[k1]==(-1)) break;
 
@@ -562,36 +549,74 @@ long long int	      sff1,sff2,sff3,sff4;
 					fputs(m101_str6,m_fp1);
 				}
 
+				item_id2--;
+				spl2_iid[spl2_ptr]=item_id2;
+
 				spl2_ptr++;
 			}
 		}
 	}
 
-	ns[0]=spl1_out_nns[o][0];   // add one word
-	ns[1]=(-1);
-	ns[2]=(-1);
-	ns[3]=(-1);
-	ns[4]=(-1);
-	ns[5]=(-1);
+        if (spl1_out_nns[o][0]!=(-1000))
+        {
+        	ns[0]=spl1_out_nns[o][0];   // add one word
+	        ns[1]=(-1);
+	        ns[2]=(-1);
+	        ns[3]=(-1);
+	        ns[4]=(-1);
+	        ns[5]=(-1);
 
-	i3=strlen(spl1_out_str[o][0]);
+                k6=wd5_search(spl1_out_str[o][0]);
 
-	t4_insert_node(ns[0],ns[1],ns[2],ns[3],ns[4],ns[5]);
+	        i3=strlen(spl1_out_str[o][0]);
 
-	spl2_gid[spl2_ptr][0]=t4_find_ptr2;
-	spl2_gid_len[spl2_ptr][0]=1;
+	        t4_insert_node(ns[0],ns[1],ns[2],ns[3],ns[4],ns[5]);
 
-	spl2_mr2[spl2_ptr][0]=0;
-	spl2_mrk[spl2_ptr]=1;
-	spl2_len[spl2_ptr]=1;
-	spl2_seg[spl2_ptr]=1;
-	spl2_val[spl2_ptr]=v3+ai_number[i3/2];
-	spl2_rpt[spl2_ptr]=v4+1*(i3/2);    // repeat times x len
+	        spl2_gid[spl2_ptr][0]=t4_find_ptr2;
+	        spl2_gid_len[spl2_ptr][0]=1;
 
-       	if (1>=l) spl2_mrk[spl2_ptr]=2;
+	        spl2_mr2[spl2_ptr][0]=0;
+	        spl2_mrk[spl2_ptr]=1;
+	        spl2_len[spl2_ptr]=1;
+	        spl2_seg[spl2_ptr]=1;
+	        spl2_val[spl2_ptr]=v3+ai_number[i3/2];
 
-	spl2_va2[spl2_ptr]=v1;
-	spl2_rp2[spl2_ptr]=v2;    // repeat times
+                if (k6==1) spl2_rpt[spl2_ptr]=v4+wd5_find_rt*(i3/2);    // repeat times x len
+                else spl2_rpt[spl2_ptr]=v4+1*(i3/2);
+
+       	        if (1>=l) spl2_mrk[spl2_ptr]=2;
+
+	        spl2_va2[spl2_ptr]=v1;
+	        spl2_rp2[spl2_ptr]=v2;    // repeat times
+        }
+        else
+        {
+        	ns[0]=(-1000);   // add one word
+	        ns[1]=(-1);
+	        ns[2]=(-1);
+	        ns[3]=(-1);
+	        ns[4]=(-1);
+	        ns[5]=(-1);
+
+	        i3=0;
+
+	        t4_insert_node(ns[0],ns[1],ns[2],ns[3],ns[4],ns[5]);
+
+	        spl2_gid[spl2_ptr][0]=t4_find_ptr2;
+	        spl2_gid_len[spl2_ptr][0]=1;
+
+	        spl2_mr2[spl2_ptr][0]=0;
+	        spl2_mrk[spl2_ptr]=1;
+	        spl2_len[spl2_ptr]=1;
+	        spl2_seg[spl2_ptr]=1;
+	        spl2_val[spl2_ptr]=v3;
+	        spl2_rpt[spl2_ptr]=v4;    // repeat times x len
+
+       	        if (1>=l) spl2_mrk[spl2_ptr]=2;
+
+	        spl2_va2[spl2_ptr]=v1;
+	        spl2_rp2[spl2_ptr]=v2;    // repeat times
+        }
 
 	if (SPL2_DEBUG)
 	{
@@ -601,6 +626,7 @@ long long int	      sff1,sff2,sff3,sff4;
 		{
 			if (ns[k1]==(-2)) fputs("$*",m_fp1);
 			if (ns[k1]==(-3)) fputs("$n",m_fp1);
+			if (ns[k1]==(-1000)) fputs("$e",m_fp1);
 			if (ns[k1]>=0) fputs(wd5_buf[ns[k1]],m_fp1);
 			if (ns[k1]==(-1)) break;
 
@@ -613,24 +639,21 @@ long long int	      sff1,sff2,sff3,sff4;
 		fputs(m101_str6,m_fp1);
 	}
 
-	spl2_ptr++;
+	item_id2--;
+	spl2_iid[spl2_ptr]=item_id2;
 
-	//m1=0;
-	//m2=spl2_ptr;
+	spl2_ptr++;
 
 	while(1)
 	{
 		m3=0;
 		m4=0;
-		err=0;
 
-		t7_init_tree();
+		//t7_init_tree();
 		t8_init_tree();
 
 		for (n=0;n<spl2_ptr;n++)
 		{
-			//n=j2;
-
 			if (SPL2_DEBUG)
 			{
 				fputs("for....",m_fp1);
@@ -652,6 +675,7 @@ long long int	      sff1,sff2,sff3,sff4;
 					{
 						if (t4_node_val[k4][k1]==(-2)) fputs("$*",m_fp1);
 						if (t4_node_val[k4][k1]==(-3)) fputs("$n",m_fp1);
+						if (t4_node_val[k4][k1]==(-1000)) fputs("$e",m_fp1);
 						if (t4_node_val[k4][k1]>=0) fputs(wd5_buf[ t4_node_val[k4][k1] ],m_fp1);
 						if (t4_node_val[k4][k1]==(-1)) break;
 
@@ -689,10 +713,12 @@ long long int	      sff1,sff2,sff3,sff4;
 				m101_p_va2=spl2_va2[n];
 				m101_p_rp2=spl2_rp2[n];
 
-				m101_p_ff1=(m101_p_va2*1000)/m101_p_seg/*m101_p_len*/;
-				m101_p_ff2=(m101_p_rp2*1000)/m101_p_seg/*m101_p_len*/;
-				m101_p_ff3=(m101_p_val*1000)/m101_p_seg/*m101_p_len*/;
-				m101_p_ff4=(m101_p_rpt*1000)/m101_p_seg/*m101_p_len*/;
+				m101_p_ff1=(m101_p_va2*1000)/ /*m101_p_seg*/m101_p_len;
+				m101_p_ff2=(m101_p_rp2*1000)/ /*m101_p_seg*/m101_p_len;
+				m101_p_ff3=(m101_p_val*1000)/ /*m101_p_seg*/m101_p_len;
+				m101_p_ff4=(m101_p_rpt*1000)/ /*m101_p_seg*/m101_p_len;
+
+				m101_p_id2=spl2_iid[n];
 
 				spl2_add_to_tree(o);
 /*
@@ -724,8 +750,6 @@ long long int	      sff1,sff2,sff3,sff4;
 				continue;
 			}
 
-			m3=1;
-
 			m101_p_src=n;
 
 			m101_p_len=spl2_len[n];
@@ -738,10 +762,10 @@ long long int	      sff1,sff2,sff3,sff4;
 
 			if (m101_p_seg>=150)
 			{
-				//err=1;
-				//break;
 				continue;
 			}
+
+			m3=1;
 
 			for (i=6;i>=2;i--)     // bigger ones at first  // add grammar in grammar courseware
 			{
@@ -749,6 +773,7 @@ long long int	      sff1,sff2,sff3,sff4;
 
 				i3 =0;
 				i10=0;
+				err2=0;
 				for (m=0;m<6;m++)
 				{
 					if (m+1>i) ns[m]=(-1);
@@ -761,7 +786,12 @@ long long int	      sff1,sff2,sff3,sff4;
 							i3 =i3 +strlen(spl1_out_str[o][m101_p_len+m]);
 							i10=i10+strlen(spl1_out_str[o][m101_p_len+m]);
 						}
-						else
+						else if (spl1_out_nns[o][m101_p_len+m]==(-1000))
+                                                {
+                                                	err2=1;
+                                                        break;
+                                                }
+                                                else
 						{
 							ns[m]=spl1_out_nns[o][m101_p_len+m];
 							i3 =i3 +strlen(spl1_out_str[o][m101_p_len+m]);
@@ -769,6 +799,8 @@ long long int	      sff1,sff2,sff3,sff4;
 						}
 					}
 				}
+				
+				if (err2==1) continue;
 
 				nn=grm16_search(ns[0],ns[1],ns[2],ns[3],ns[4],ns[5]);
 				if (nn==1)
@@ -791,13 +823,14 @@ long long int	      sff1,sff2,sff3,sff4;
 					m101_p_va2_add=ai_number[i3/2];
 					m101_p_rp2_add=grm16_find_rt*(i3/2);
 
-					//j7=0;
-					//for (j6=0;j6<m101_p_len;j6++)	j7=j7+(int)strlen(spl1_out_str[o][j6]);
+					m101_p_ff1=((m101_p_va2+     ai_number[i3/2])*1000)/ /*(m101_p_seg+m101_p_seg_add)*/(m101_p_len+i);
+					m101_p_ff2=((m101_p_rp2+grm16_find_rt*(i3/2))*1000)/ /*(m101_p_seg+m101_p_seg_add)*/(m101_p_len+i);
+					m101_p_ff3=(m101_p_val*1000)/ /*(m101_p_seg+m101_p_seg_add)*/(m101_p_len+i);
+					m101_p_ff4=(m101_p_rpt*1000)/ /*(m101_p_seg+m101_p_seg_add)*/(m101_p_len+i);
 
-					m101_p_ff1=((m101_p_va2+     ai_number[i3/2])*1000)/(m101_p_seg+m101_p_seg_add)/*(m101_p_len+i)*/;
-					m101_p_ff2=((m101_p_rp2+grm16_find_rt*(i3/2))*1000)/(m101_p_seg+m101_p_seg_add)/*(m101_p_len+i)*/;
-					m101_p_ff3=(m101_p_val*1000)/(m101_p_seg+m101_p_seg_add)/*(m101_p_len+i)*/;
-					m101_p_ff4=(m101_p_rpt*1000)/(m101_p_seg+m101_p_seg_add)/*(m101_p_len+i)*/;
+					item_id2--;
+					m101_p_id2=item_id2;
+					if (item_id2<0) printf("warning,item_id2<0 \n");
 
 					spl2_add_to_tree(o);
 
@@ -836,6 +869,7 @@ long long int	      sff1,sff2,sff3,sff4;
 						{
 							if (ns[k1]==(-2)) fputs("$*",m_fp1);
 							if (ns[k1]==(-3)) fputs("$n",m_fp1);
+							if (ns[k1]==(-1000)) fputs("$e",m_fp1);
 							if (ns[k1]>=0) fputs(wd5_buf[ns[k1]],m_fp1);
 							if (ns[k1]==(-1)) break;
 
@@ -868,6 +902,7 @@ long long int	      sff1,sff2,sff3,sff4;
 				{
 					i3 =0;
 					i10=0;
+					err2=0;
 					for (i5=0;i5<4/*5*/;i5++) // for every char
 					{
 						if (i5+1>i) ns[i5]=(-1);
@@ -875,18 +910,29 @@ long long int	      sff1,sff2,sff3,sff4;
 						{
 							if (grm10_mrk[i][m][i5]=='1')
 							{
-								ns[i5]=spl1_out_nns[o][m101_p_len+i5];
-								i3 =i3 +strlen(spl1_out_str[o][m101_p_len+i5]);
-								i10=i10+strlen(spl1_out_str[o][m101_p_len+i5]);
+                                                                if (spl1_out_nns[o][m101_p_len+i5]==(-1000))
+                                                                {
+                                                                	err2=1;
+                                                                	break;
+                                                                }
+                                                                else
+                                                                {
+		        						ns[i5]=spl1_out_nns[o][m101_p_len+i5];
+		        						i3 =i3 +strlen(spl1_out_str[o][m101_p_len+i5]);
+		        						i10=i10+strlen(spl1_out_str[o][m101_p_len+i5]);
+                                                                }
 							}
-							if (grm10_mrk[i][m][i5]=='0')
+							else if (grm10_mrk[i][m][i5]=='0')
 							{
-								ns[i5]=(-2);					//(-2):$* ,any word   (-3):number
+                                                                /*if (spl1_out_nns[o][m101_p_len+i5]==(-1000)) ns[i5]=(-1002);
+                                                                else*/	ns[i5]=(-2);					//(-2):$* ,any word   (-3):number
 								i10=i10+strlen(spl1_out_str[o][m101_p_len+i5]);
 							}
-							if (grm10_mrk[i][m][i5]==' ') ns[i5]=(-1);		//(-1):end of grammar (-5):not found 
+							else if (grm10_mrk[i][m][i5]==' ') ns[i5]=(-1);		//(-1):end of grammar (-1000):not found 
 						}
 					}
+					
+					if (err2==1) continue;
 
 					ns[4]=(-1);
 					ns[5]=(-1);
@@ -912,13 +958,14 @@ long long int	      sff1,sff2,sff3,sff4;
 						m101_p_va2_add=0;
 						m101_p_rp2_add=0;
 
-						//j7=0;
-						//for (j6=0;j6<m101_p_len;j6++)	j7=j7+(int)strlen(spl1_out_str[o][j6]);
+						m101_p_ff1=(m101_p_va2*1000)/ /*(m101_p_seg+m101_p_seg_add)*/(m101_p_len+i);
+						m101_p_ff2=(m101_p_rp2*1000)/ /*(m101_p_seg+m101_p_seg_add)*/(m101_p_len+i);
+						m101_p_ff3=((m101_p_val+     ai_number[i3/2])*1000)/ /*(m101_p_seg+m101_p_seg_add)*/(m101_p_len+i);
+						m101_p_ff4=((m101_p_rpt+grm15_find_rt*(i3/2))*1000)/ /*(m101_p_seg+m101_p_seg_add)*/(m101_p_len+i);
 
-						m101_p_ff1=(m101_p_va2*1000)/(m101_p_seg+m101_p_seg_add)/*(m101_p_len+i)*/;
-						m101_p_ff2=(m101_p_rp2*1000)/(m101_p_seg+m101_p_seg_add)/*(m101_p_len+i)*/;
-						m101_p_ff3=((m101_p_val+     ai_number[i3/2])*1000)/(m101_p_seg+m101_p_seg_add)/*(m101_p_len+i)*/;
-						m101_p_ff4=((m101_p_rpt+grm15_find_rt*(i3/2))*1000)/(m101_p_seg+m101_p_seg_add)/*(m101_p_len+i)*/;
+						item_id2--;
+						m101_p_id2=item_id2;
+						if (item_id2<0) printf("warning,item_id2<0 \n");
 
 						spl2_add_to_tree(o);
 /*
@@ -956,6 +1003,7 @@ long long int	      sff1,sff2,sff3,sff4;
 							{
 								if (ns[k1]==(-2)) fputs("$*",m_fp1);
 								if (ns[k1]==(-3)) fputs("$n",m_fp1);
+								if (ns[k1]==(-1000)) fputs("$e",m_fp1);
 								if (ns[k1]>=0) fputs(wd5_buf[ns[k1]],m_fp1);
 								if (ns[k1]==(-1)) break;
 
@@ -980,42 +1028,86 @@ long long int	      sff1,sff2,sff3,sff4;
 
 		        if (m101_p_len+1>l) continue;	// add one word
 
-			ns[0]=spl1_out_nns[o][m101_p_len+0];   
-			ns[1]=(-1);
-			ns[2]=(-1);
-			ns[3]=(-1);
-			ns[4]=(-1);
-			ns[5]=(-1);
+                        if (spl1_out_nns[o][m101_p_len+0]!=(-1000))
+                        {
+        			ns[0]=spl1_out_nns[o][m101_p_len+0];   
+	        		ns[1]=(-1);
+	        		ns[2]=(-1);
+	        		ns[3]=(-1);
+	        		ns[4]=(-1);
+	        		ns[5]=(-1);
 
-			i3 =strlen(spl1_out_str[o][m101_p_len+0]);
-			i10=strlen(spl1_out_str[o][m101_p_len+0]);
+                                k6=wd5_search(spl1_out_str[o][m101_p_len+0]);
 
-			t4_insert_node(ns[0],ns[1],ns[2],ns[3],ns[4],ns[5]);
+	        		i3 =strlen(spl1_out_str[o][m101_p_len+0]);
+	        		i10=strlen(spl1_out_str[o][m101_p_len+0]);
 
-			m101_p_cur =t4_find_ptr2;
+	        		t4_insert_node(ns[0],ns[1],ns[2],ns[3],ns[4],ns[5]);
 
-			m101_p_le2 =1;
-			m101_p_mr2 =0;
+	        		m101_p_cur =t4_find_ptr2;
 
-			m101_p_mrk    =1;
+	        		m101_p_le2 =1;
+	        		m101_p_mr2 =0;
 
-			m101_p_len_add=1;
-			m101_p_seg_add=1;
-			m101_p_val_add=ai_number[i3/2];
-			m101_p_rpt_add=1*(i3/2);
+	        		m101_p_mrk    =1;
 
-			if (m101_p_len+1>=l) m101_p_mrk=2;
+	        		m101_p_len_add=1;
+	        		m101_p_seg_add=1;
+	        		m101_p_val_add=ai_number[i3/2];
 
-			m101_p_va2_add=0;
-			m101_p_rp2_add=0;
+                                if (k6==1) m101_p_rpt_add=wd5_find_rt*(i3/2);    // repeat times x len
+                                else m101_p_rpt_add=1*(i3/2);
 
-			//j7=0;
-			//for (j6=0;j6<m101_p_len;j6++)	j7=j7+(int)strlen(spl1_out_str[o][j6]);
+	        		if (m101_p_len+1>=l) m101_p_mrk=2;
 
-			m101_p_ff1=(m101_p_va2*1000)/(m101_p_seg+m101_p_seg_add)/*(m101_p_len+1)*/;
-			m101_p_ff2=(m101_p_rp2*1000)/(m101_p_seg+m101_p_seg_add)/*(m101_p_len+1)*/;
-			m101_p_ff3=((m101_p_val+ai_number[i3/2])*1000)/(m101_p_seg+m101_p_seg_add)/*(m101_p_len+1)*/;
-			m101_p_ff4=((m101_p_rpt+       1*(i3/2))*1000)/(m101_p_seg+m101_p_seg_add)/*(m101_p_len+1)*/;
+	        		m101_p_va2_add=0;
+	        		m101_p_rp2_add=0;
+
+        	        	m101_p_ff1=(m101_p_va2*1000)/ /*(m101_p_seg+m101_p_seg_add)*/(m101_p_len+1);
+        	        	m101_p_ff2=(m101_p_rp2*1000)/ /*(m101_p_seg+m101_p_seg_add)*/(m101_p_len+1);
+        	        	m101_p_ff3=((m101_p_val+       ai_number[i3/2])*1000)/ /*(m101_p_seg+m101_p_seg_add)*/(m101_p_len+1);
+        	        	m101_p_ff4=((m101_p_rpt+ m101_p_rpt_add*(i3/2))*1000)/ /*(m101_p_seg+m101_p_seg_add)*/(m101_p_len+1);
+                        }
+                        else
+                        {
+        			ns[0]=(-1000);   
+	        		ns[1]=(-1);
+	        		ns[2]=(-1);
+	        		ns[3]=(-1);
+	        		ns[4]=(-1);
+	        		ns[5]=(-1);
+
+	        		i3 =0;
+	        		i10=strlen(spl1_out_str[o][m101_p_len+0]);
+
+	        		t4_insert_node(ns[0],ns[1],ns[2],ns[3],ns[4],ns[5]);
+
+	        		m101_p_cur =t4_find_ptr2;
+
+	        		m101_p_le2 =1;
+	        		m101_p_mr2 =0;
+
+	        		m101_p_mrk    =1;
+
+	        		m101_p_len_add=1;
+	        		m101_p_seg_add=1;
+	        		m101_p_val_add=0;
+	        		m101_p_rpt_add=0;
+
+	        		if (m101_p_len+1>=l) m101_p_mrk=2;
+
+	        		m101_p_va2_add=0;
+	        		m101_p_rp2_add=0;
+
+        	        	m101_p_ff1=(m101_p_va2*1000)/ /*(m101_p_seg+m101_p_seg_add)*/(m101_p_len+1);
+        	        	m101_p_ff2=(m101_p_rp2*1000)/ /*(m101_p_seg+m101_p_seg_add)*/(m101_p_len+1);
+        	        	m101_p_ff3=((m101_p_val+0)*1000)/ /*(m101_p_seg+m101_p_seg_add)*/(m101_p_len+1);
+        	        	m101_p_ff4=((m101_p_rpt+0)*1000)/ /*(m101_p_seg+m101_p_seg_add)*/(m101_p_len+1);
+                        }
+
+			item_id2--;
+			m101_p_id2=item_id2;
+			if (item_id2<0) printf("warning,item_id2<0 \n");
 
 			spl2_add_to_tree(o);
 
@@ -1054,6 +1146,7 @@ long long int	      sff1,sff2,sff3,sff4;
 				{
 					if (ns[k1]==(-2)) fputs("$*",m_fp1);
 					if (ns[k1]==(-3)) fputs("$n",m_fp1);
+					if (ns[k1]==(-1000)) fputs("$e",m_fp1);
 					if (ns[k1]>=0) fputs(wd5_buf[ns[k1]],m_fp1);
 					if (ns[k1]==(-1)) break;
 
@@ -1072,17 +1165,8 @@ long long int	      sff1,sff2,sff3,sff4;
 			//spl2_ptr++;
 		}
 
-		if (err==0)
-		{
-			//m1=m2;
-			//m2=spl2_ptr;
-
-			//if (m2>100000) break;
-
-			if (m4>=SPL2_MAX_NUM) break; 
-			if (m3==0) break;
-		}
-		else break;
+		if (m4>=SPL2_MAX_NUM) break; 
+		if (m3==0) break;
 
 		spl2_ptr=0;
 
@@ -1108,59 +1192,13 @@ long long int	      sff1,sff2,sff3,sff4;
 					spl2_mr2[spl2_ptr][i4]    =t8_node_v_mr2[i2][i4];
 				}
 
+				spl2_iid[spl2_ptr]=t8_node_va2[i2];
+
 				spl2_ptr++;
 			}
 		}
-/*
-		t7_init_tree2();
-		t8_init_tree2();
-
-		for (j2=0;j2<spl2_stk2_ptr1;j2++)
-		{
-			j3=spl2_stk2[j2];
-
-			j7=0;
-			for (j6=0;j6<spl2_len[j3];j6++)
-				j7=j7+(int)strlen(spl1_out_str[o][j6]);
-
-			ff1=(float)spl2_va2[j3]/(float)j7;
-			ff2=(float)spl2_rp2[j3]/(float)j7;
-			ff3=(float)spl2_val[j3]/(float)j7;
-			ff4=(float)spl2_rpt[j3]/(float)j7;
-
-			j4=t7_search_node(ff1,ff2,ff3,ff4); // key repeat times
-			if (j4!=0) j5=0;
-			else j5=t7_node_val2[t7_find_ptr]+1;
-
-			j4=t7_insert_node(ff1,ff2,ff3,ff4);
-			t7_node_val2[t7_find_ptr2]=j5;
-
-			j4=t8_insert_node(ff1,ff2,ff3,ff4,j5);
-			t8_node_val3[t8_find_ptr2]=j3;
-		}
-
-		t8_after_list();
-
-		spl2_stk2_ptr1=0;
-
-		j3=0;
-
-		for(j2=0;j2<t8_out_ptr;j2++)
-		{
-			j3++;
-			if (j3<=SPL2_MAX_NUM)
-			{
-				spl2_stk2[spl2_stk2_ptr1]=t8_out_buff3[j2];
-				spl2_stk2_ptr1++;
-			}
-			else
-			{
-				spl2_stk1[spl2_stk1_ptr1]=t8_out_buff3[j2]; // delete 
-				spl2_stk1_ptr1++;
-			}
-		}
-		*/
 	}
+
 
 
 
@@ -1168,8 +1206,6 @@ long long int	      sff1,sff2,sff3,sff4;
 
 	while (n1<BTREE8_SIZE)
 	{
-		//n1=i2;
-
 		if ((t8_node_mark[n1]==0)&&(t8_node_v_mrk[n1]==2))
 		{
 			if (spl2_out_seg==0)
@@ -1219,24 +1255,15 @@ long long int	      sff1,sff2,sff3,sff4;
 				sff4=/*(*/t8_node_v_rpt[n1]/* *1000)/t8_node_v_seg[n1]*/;
 
 				if (sff1>spl2_out_ff1) bigger=1;
-				else
+				else if (sff1==spl2_out_ff1)
 				{
-					if (sff1==spl2_out_ff1)
+					if (sff2>spl2_out_ff2) bigger=1;
+					else if (sff2==spl2_out_ff2)
 					{
-						if (sff2>spl2_out_ff2) bigger=1;
-						else
+						if (sff3>spl2_out_ff3) bigger=1;
+						else if (sff3==spl2_out_ff3)
 						{
-							if (sff2==spl2_out_ff2)
-							{
-								if (sff3>spl2_out_ff3) bigger=1;
-								else
-								{
-									if (sff3==spl2_out_ff3)
-									{
-										if (sff4>spl2_out_ff4) bigger=1;
-									}
-								}
-							}
+							if (sff4>spl2_out_ff4) bigger=1;
 						}
 					}
 				}
@@ -1286,161 +1313,12 @@ long long int	      sff1,sff2,sff3,sff4;
 
 
 	}
-	else
-	{
-		if (spl2_out_seg==0)
-		{
-			spl2_out_type=0;
-
-			for (z=0;z<spl1_out_seg[o];z++)
-			{
-				strcpy(spl2_out_str[z],spl1_out_str[o][z]);
-				spl2_out_mrk[z]=spl1_out_mrk[o][z];
-			}
-
-			spl2_out_seg=spl1_out_seg[o];
-
-			spl2_out_val=spl1_out_val[o];
-			spl2_out_va2=spl1_out_va2[o];
-			spl2_out_va3=spl1_out_va3[o];
-			spl2_out_va4=spl1_out_va4[o];
-
-			spl2_out_ff1=/*(*/spl2_out_val/* *1000)/spl2_out_seg*/;
-			spl2_out_ff2=/*(*/spl2_out_va2/* *1000)/spl2_out_seg*/;
-			spl2_out_ff3=/*(*/spl2_out_va3/* *1000)/spl2_out_seg*/;
-			spl2_out_ff4=/*(*/spl2_out_va4/* *1000)/spl2_out_seg*/;
-		}
-		else
-		{
-			bigger=0;
-
-			sff1=/*(*/spl1_out_val[o]/* *1000)/spl1_out_seg[o]*/;
-			sff2=/*(*/spl1_out_va2[o]/* *1000)/spl1_out_seg[o]*/;
-			sff3=/*(*/spl1_out_va3[o]/* *1000)/spl1_out_seg[o]*/;
-			sff4=/*(*/spl1_out_va4[o]/* *1000)/spl1_out_seg[o]*/;
-
-			if (sff1>spl2_out_ff1) bigger=1;
-			else
-			{
-				if (sff1==spl2_out_ff1)
-				{
-					if (sff2>spl2_out_ff2) bigger=1;
-					else
-					{
-						if (sff2==spl2_out_ff2)
-						{
-							if (sff3>spl2_out_ff3) bigger=1;
-							else
-							{
-								if (sff3==spl2_out_ff3)
-								{
-									if (sff4>spl2_out_ff4) bigger=1;
-								}
-							}
-						}
-					}
-				}
-			}
-
-			if (bigger==1)
-			{
-				spl2_out_type=0;
-
-				for (z=0;z<spl1_out_seg[o];z++)
-				{
-					strcpy(spl2_out_str[z],spl1_out_str[o][z]);
-					spl2_out_mrk[z]=spl1_out_mrk[o][z];
-				}
-
-				spl2_out_seg=spl1_out_seg[o];
-
-				spl2_out_val=spl1_out_val[o];
-				spl2_out_va2=spl1_out_va2[o];
-				spl2_out_va3=spl1_out_va3[o];
-				spl2_out_va4=spl1_out_va4[o];
-
-				spl2_out_ff1=/*(*/spl2_out_val/* *1000)/spl2_out_seg*/;
-				spl2_out_ff2=/*(*/spl2_out_va2/* *1000)/spl2_out_seg*/;
-				spl2_out_ff3=/*(*/spl2_out_va3/* *1000)/spl2_out_seg*/;
-				spl2_out_ff4=/*(*/spl2_out_va4/* *1000)/spl2_out_seg*/;
-			}
-		}
-	}
-
-	}
 
 
 
 	return(0);
 }
-/*
-int spl2_test(int ptr,int o)
-{
-	int  i6,i7,i8,i9;
-	int  n1;
-	int  i,j,k;
-	char ss1[10];
 
-	n1=ptr;
-
-	spl2_out_type=1;
-	
-	i8=0;
-	for (i6=0;i6<spl2_seg[n1];i6++)
-	{
-		i9=spl2_gid[n1][i6];
-
-		for (i7=0;i7<spl2_gid_len[n1][i6];i7++)
-		{
-
-			spl2_out_nns[i6][i7]=t4_node_val[i9][i7];   // grammar number string
-
-			spl2_out_mr2[i6][i7]=spl1_out_mrk[o][i8+i7]; // word mark ,in cw or in base
-		}
-
-		spl2_out_mrk[i6]=spl2_mr2[n1][i6]; //grammar mark ,in cw or in base
-		spl2_out_len[i6]=spl2_gid_len[n1][i6];
-		i8=i8+spl2_gid_len[n1][i6];
-	}
-
-	spl2_out_seg=spl2_seg[n1];
-
-	spl2_out_val=spl2_va2[n1];
-	spl2_out_va2=spl2_rp2[n1];
-	spl2_out_va3=spl2_val[n1];
-	spl2_out_va4=spl2_rpt[n1];
-
-
-	fputs("spl2 test start\n",m_fp1);
-
-	for (i=0;i<spl2_out_seg;i++)
-	{
-		for (j=0;j<spl2_out_len[i];j++)
-		{
-			k=spl2_out_nns[i][j];
-			if (k==(-2)) fputs("$*",m_fp1);
-			if (k==(-3)) fputs("$n",m_fp1);
-			if (k>=0)    fputs(wd5_buf[k],m_fp1);
-
-			if (spl2_out_mrk[i]==1) fputs("==",m_fp1);  // in grammar cw or in base
-			else                    fputs("--",m_fp1);
-
-			ss1[0]='0'+i/10;
-			ss1[1]='0'+i-10*(i/10);
-			ss1[2]=0;
-
-			fputs(ss1,m_fp1);
-
-			if (spl2_out_mr2[i][j]==1) fputs(";;",m_fp1);
-			else 			   fputs(",,",m_fp1);
-		}
-	}
-
-	fputs("test end\n",m_fp1);
-
-	return(0);
-}
-*/
 int spl2_add_to_tree(int o)
 {
 	long long int   ff1,ff2,ff3,ff4;
@@ -1448,18 +1326,11 @@ int spl2_add_to_tree(int o)
 	int   bigger;
 	int   k1,k2,k3,k4,k5;
 
-	//printf("t7_stack_ptr=%d,t8_stack_ptr=%d,\n",t7_stack_ptr,t8_stack_ptr);
+	//printf("t8_stack_ptr=%d,\n",t8_stack_ptr);
 
 	if (t8_stack_ptr>0)
 	{
-		i4=t7_search_node(m101_p_ff1,m101_p_ff2,m101_p_ff3,m101_p_ff4); // key repeat times
-		if (i4!=0) i5=0;
-		else i5=t7_node_va2[t7_find_ptr]+1;
-
-		i4=t7_insert_node(m101_p_ff1,m101_p_ff2,m101_p_ff3,m101_p_ff4);
-		t7_node_va2[t7_find_ptr2]=i5;
-
-		i4=t8_insert_node(m101_p_ff1,m101_p_ff2,m101_p_ff3,m101_p_ff4,i5);
+		i4=t8_insert_node(m101_p_ff1,m101_p_ff2,m101_p_ff3,m101_p_ff4,m101_p_id2);
 
 		if (m101_p_cur<0)
 		{
@@ -1527,6 +1398,7 @@ int spl2_add_to_tree(int o)
 				{
 					if (t4_node_val[k4][k1]==(-2)) fputs("$*",m_fp1);
 					if (t4_node_val[k4][k1]==(-3)) fputs("$n",m_fp1);
+					if (t4_node_val[k4][k1]==(-1000)) fputs("$e",m_fp1);
 					if (t4_node_val[k4][k1]>=0) fputs(wd5_buf[ t4_node_val[k4][k1] ],m_fp1);
 					if (t4_node_val[k4][k1]==(-1)) break;
 
@@ -1555,38 +1427,30 @@ int spl2_add_to_tree(int o)
 	}
 	else
 	{
-		t7_smallest();
+		t8_smallest();
 
-		ff1=t7_node_val[t7_find_ptr][0];
-		ff2=t7_node_val[t7_find_ptr][1];
-		ff3=t7_node_val[t7_find_ptr][2];
-		ff4=t7_node_val[t7_find_ptr][3];
+		ff1=t8_node_val[t8_find_ptr][0];
+		ff2=t8_node_val[t8_find_ptr][1];
+		ff3=t8_node_val[t8_find_ptr][2];
+		ff4=t8_node_val[t8_find_ptr][3];
+		i5 =t8_node_va2[t8_find_ptr];
 
-		//printf("ptr=%d,val=%d,%d,%d,%d,\n",t7_find_ptr,ff1,ff2,ff3,ff4);
+		//printf("ptr=%d,val=%d,%d,%d,%d,\n",t8_find_ptr,ff1,ff2,ff3,ff4);
 
 		bigger=0;
 
 		if (m101_p_ff1>ff1) bigger=1;
-		else
+		else if (m101_p_ff1==ff1)
 		{
-			if (m101_p_ff1==ff1)
+			if (m101_p_ff2>ff2) bigger=1;
+			else if (m101_p_ff2==ff2)
 			{
-				if (m101_p_ff2>ff2) bigger=1;
-				else
+				if (m101_p_ff3>ff3) bigger=1;
+				else if (m101_p_ff3==ff3)
 				{
-					if (m101_p_ff2==ff2)
+					if (m101_p_ff4>ff4)
 					{
-						if (m101_p_ff3>ff3) bigger=1;
-						else
-						{
-							if (m101_p_ff3==ff3)
-							{
-								if (m101_p_ff4>ff4)
-								{
-									bigger=1;
-								}
-							}
-						}
+						bigger=1;
 					}
 				}
 			}
@@ -1594,18 +1458,6 @@ int spl2_add_to_tree(int o)
 
 		if (bigger==1)
 		{
-			// delete
-			i4=t7_search_node(ff1,ff2,ff3,ff4); // key repeat times
-			if (i4!=0)
-			{
-				printf("error in function spl2_add_to_tree()%lld,%lld,%lld,%lld,\n",ff1,ff2,ff3,ff4);
-				return(0);
-			}
-			else i5=t7_node_va2[t7_find_ptr];
-
-			if (i5>0) t7_node_va2[t7_find_ptr]=t7_node_va2[t7_find_ptr]-1;
-			else t7_delete_node(ff1,ff2,ff3,ff4);
-
 			if (SPL2_DEBUG)
 			{
 				i6=t8_search_node(ff1,ff2,ff3,ff4,i5);
@@ -1634,6 +1486,7 @@ int spl2_add_to_tree(int o)
 						{
 							if (t4_node_val[k4][k1]==(-2)) fputs("$*",m_fp1);
 							if (t4_node_val[k4][k1]==(-3)) fputs("$n",m_fp1);
+							if (t4_node_val[k4][k1]==(-1000)) fputs("$e",m_fp1);
 							if (t4_node_val[k4][k1]>=0) fputs(wd5_buf[ t4_node_val[k4][k1] ],m_fp1);
 							if (t4_node_val[k4][k1]==(-1)) break;
 
@@ -1662,15 +1515,7 @@ int spl2_add_to_tree(int o)
 
 			t8_delete_node(ff1,ff2,ff3,ff4,i5);
 
-			// insert
-			i4=t7_search_node(m101_p_ff1,m101_p_ff2,m101_p_ff3,m101_p_ff4); // key repeat times
-			if (i4!=0) i5=0;
-			else i5=t7_node_va2[t7_find_ptr]+1;
-
-			i4=t7_insert_node(m101_p_ff1,m101_p_ff2,m101_p_ff3,m101_p_ff4);
-			t7_node_va2[t7_find_ptr2]=i5;
-
-			i4=t8_insert_node(m101_p_ff1,m101_p_ff2,m101_p_ff3,m101_p_ff4,i5);
+			i4=t8_insert_node(m101_p_ff1,m101_p_ff2,m101_p_ff3,m101_p_ff4,m101_p_id2);
 
 			if (m101_p_cur<0)
 			{
@@ -1738,6 +1583,7 @@ int spl2_add_to_tree(int o)
 					{
 						if (t4_node_val[k4][k1]==(-2)) fputs("$*",m_fp1);
 						if (t4_node_val[k4][k1]==(-3)) fputs("$n",m_fp1);
+						if (t4_node_val[k4][k1]==(-1000)) fputs("$e",m_fp1);
 						if (t4_node_val[k4][k1]>=0) fputs(wd5_buf[ t4_node_val[k4][k1] ],m_fp1);
 						if (t4_node_val[k4][k1]==(-1)) break;
 

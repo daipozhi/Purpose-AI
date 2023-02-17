@@ -43,6 +43,8 @@ int  wd5_load(void);
 long long int str2llint(char *pstr);
 
 
+int load11(void);
+int mproc(void);
 
 
 //int pascal WinMain(HINSTANCE ins
@@ -301,18 +303,18 @@ int wd5_search(char *s_str)
 #define TREE_SIZE 1000000  // grammar cw
 #define LIST_SIZE  100000
 
-int   t1_node_val[TREE_SIZE][6];
-int   t1_node_val2[TREE_SIZE];
-int   t1_find_ptr2;
-int   t1_find_ptr;
-int   t1_buff_ptr;
+extern int   t1_node_val[TREE_SIZE][6];
+extern int   t1_node_val2[TREE_SIZE];
+extern int   t1_find_ptr2;
+extern int   t1_find_ptr;
+extern int   t1_buff_ptr;
 
 //int   t1_node_val2[TREE_SIZE];
 
-int   t1_init_tree2(void);
-int   t1_search_node(int pn1,int pn2,int pn3,int pn4,int pn5,int pn6);
-int   t1_insert_node(int pn1,int pn2,int pn3,int pn4,int pn5,int pn6);
-int   t1_after_list(void);
+extern int   t1_init_tree2(void);
+extern int   t1_search_node(int pn1,int pn2,int pn3,int pn4,int pn5,int pn6);
+extern int   t1_insert_node(int pn1,int pn2,int pn3,int pn4,int pn5,int pn6);
+extern int   t1_after_list(void);
 
 // end of tree 1 -----
 
@@ -483,11 +485,19 @@ int mproc(void)
                                				                     if (strncmp(m101_l3,"$*",2)==0) wd5_find_ptr=(-2);
                                				                     else
                                				                     {
-		                    			    	                    k=wd5_search(m101_l3);
-        	       		    				                    if (k!=1)
-        	       		    				                    {
-        	       		    					                   err2=4;
-        	       		    					                   break;
+	                               				                     if (strncmp(m101_l3,"$e",2)==0)
+	                               				                     {
+	                               				                     	err2=4;
+	                               				                     	break;
+	                               				                     }
+	                               				                     else
+	                               				                     {
+		                    			    	           	         k=wd5_search(m101_l3);
+        	       		    				           	         if (k!=1)
+        	       		    				           	         {
+        	       		    					        	           err2=4;
+        	       		    					        	           break;
+        	       		    					        	 }
         	       		    				                    }
 			                                                     }
 			                                              }
@@ -529,7 +539,7 @@ int mproc(void)
 
 	    			err2_n++;
 
-				if (err2<1) continue;
+				if (err2<1) continue; // error number
 				if (err2>5) continue;
 
 				err3[err2-1]++;
@@ -796,7 +806,8 @@ int load11(void)
 		fgets(m601_l1,SMG_SIZE,fp1);
 
 		if (strncmp(m601_l1,"//",2)==0) continue;
-		if ((m601_l1[0]>=0)&&(m601_l1[0]<=' ')) continue;	
+		
+		if ((m601_l1[0]>=0)&&(m601_l1[0]<' ')) continue;    // ??? <' ' or <=' ' (chiness or $n $*)	
 
 		k=0;
 		ptr=0;

@@ -24,7 +24,7 @@ int   MessageBox(int h1,char *h2,char *h3,int h4);
 #include <locale.h>
 #include <iconv.h>
 
-iconv_t cd ;
+extern iconv_t cd ;
 
 int str_gb18030_to_utf8_ini(void);
 int str_gb18030_to_utf8_close(void);
@@ -78,6 +78,7 @@ int deb_upper_string(char *p_instr);
     int   t6_dsp_list(void);
     int   t6_save_list(char *fn);
 
+    int t6_istrcmp(int i,int pn1,int pn2,int pn3,int pn4/*,int pn5*/);
 
 
 int t6_init_tree2(void)
@@ -609,21 +610,17 @@ int t6_after_list(void)
       
       if (t6_node_ptr[k][1]>=0)
       {
-        t6_list_stack[t6_list_ptr]=t6_node_ptr[k][1];
-        t6_list_stack_type[t6_list_ptr]=1;
-        t6_list_ptr++;
-
         //sprintf(str1,"add left tree %s,list_ptr=%d,",node_val[node_ptr[k][1]],list_ptr);
         if (t6_list_ptr>=LIST_SIZE_F)
         {
           MessageBox(0,"In tree6,error in after_list(),LIST_SIZE_F too small.","message",MB_OK);
           continue;
         }
-      }
 
-      t6_list_stack[t6_list_ptr]=k;
-      t6_list_stack_type[t6_list_ptr]=2;
-      t6_list_ptr++;
+        t6_list_stack[t6_list_ptr]=t6_node_ptr[k][1];
+        t6_list_stack_type[t6_list_ptr]=1;
+        t6_list_ptr++;
+      }
 
       //sprintf(str1,"add mid tree %s,list_ptr=%d,",node_val[k],list_ptr);
       if (t6_list_ptr>=LIST_SIZE_F)
@@ -632,18 +629,22 @@ int t6_after_list(void)
         continue;
       }
 
+      t6_list_stack[t6_list_ptr]=k;
+      t6_list_stack_type[t6_list_ptr]=2;
+      t6_list_ptr++;
+
       if (t6_node_ptr[k][2]>=0)
       {
-        t6_list_stack[t6_list_ptr]=t6_node_ptr[k][2];
-        t6_list_stack_type[t6_list_ptr]=1;
-        t6_list_ptr++;
-
         //sprintf(str1,"add right tree %s,list_ptr=%d,",node_val[node_ptr[k][2]],list_ptr);
         if (t6_list_ptr>=LIST_SIZE_F)
         {
           MessageBox(0,"In tree6,error in after_list(),LIST_SIZE_F too small.","message",MB_OK);
           continue;
         }
+
+        t6_list_stack[t6_list_ptr]=t6_node_ptr[k][2];
+        t6_list_stack_type[t6_list_ptr]=1;
+        t6_list_ptr++;
       }
     }
     else

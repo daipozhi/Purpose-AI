@@ -5,6 +5,8 @@ below files are copied from work_dir
   words04.txt
   grammar-base03.sort.txt
   grammar-base04.sort.txt
+  grammar-cw03.sort.txt
+  grammar-cw04.sort.txt
   ...
 
 这是一个app目录，用 app_separ.exe 去分解句子，用法：
@@ -14,4 +16,6 @@ below files are copied from work_dir
   words04.txt
   grammar-base03.sort.txt
   grammar-base04.sort.txt
+  grammar-cw03.sort.txt
+  grammar-cw04.sort.txt
   ...

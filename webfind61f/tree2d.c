@@ -24,7 +24,7 @@ int   MessageBoxNow(int h1,char *h2,char *h3,int h4);
 #include <locale.h>
 #include <iconv.h>
 
-iconv_t cd ;
+extern iconv_t cd ;
 
 int str_gb18030_to_utf8_ini(void);
 int str_gb18030_to_utf8_close(void);
@@ -78,6 +78,7 @@ int deb_upper_string(char *p_instr);
     int   t4_dsp_list(void);
     int   t4_save_list(char *fn);
 
+    int t4_istrcmp(int i,int pn1,int pn2,int pn3,int pn4,int pn5,int pn6);
 
 
 int t4_init_tree2(void)
@@ -627,21 +628,17 @@ int t4_after_list(void)
       
       if (t4_node_ptr[k][1]>=0)
       {
-        t4_list_stack[t4_list_ptr]=t4_node_ptr[k][1];
-        t4_list_stack_type[t4_list_ptr]=1;
-        t4_list_ptr++;
-
         //sprintf(str1,"add left tree %s,list_ptr=%d,",node_val[node_ptr[k][1]],list_ptr);
         if (t4_list_ptr>=LIST_SIZE_D)
         {
           MessageBoxNow(0,"In tree4,error in after_list(),LIST_SIZE_D too small.","message",MB_OK);
           continue;
         }
-      }
 
-      t4_list_stack[t4_list_ptr]=k;
-      t4_list_stack_type[t4_list_ptr]=2;
-      t4_list_ptr++;
+        t4_list_stack[t4_list_ptr]=t4_node_ptr[k][1];
+        t4_list_stack_type[t4_list_ptr]=1;
+        t4_list_ptr++;
+      }
 
       //sprintf(str1,"add mid tree %s,list_ptr=%d,",node_val[k],list_ptr);
       if (t4_list_ptr>=LIST_SIZE_D)
@@ -650,18 +647,22 @@ int t4_after_list(void)
         continue;
       }
 
+      t4_list_stack[t4_list_ptr]=k;
+      t4_list_stack_type[t4_list_ptr]=2;
+      t4_list_ptr++;
+
       if (t4_node_ptr[k][2]>=0)
       {
-        t4_list_stack[t4_list_ptr]=t4_node_ptr[k][2];
-        t4_list_stack_type[t4_list_ptr]=1;
-        t4_list_ptr++;
-
         //sprintf(str1,"add right tree %s,list_ptr=%d,",node_val[node_ptr[k][2]],list_ptr);
         if (t4_list_ptr>=LIST_SIZE_D)
         {
           MessageBoxNow(0,"In tree4,error in after_list(),LIST_SIZE_D too small.","message",MB_OK);
           continue;
         }
+
+        t4_list_stack[t4_list_ptr]=t4_node_ptr[k][2];
+        t4_list_stack_type[t4_list_ptr]=1;
+        t4_list_ptr++;
       }
     }
     else

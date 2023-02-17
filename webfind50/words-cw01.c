@@ -41,6 +41,15 @@ char deb_upper(char c1);
 int deb_upper_string(char *p_instr);
 
 
+int cww1_load(void);
+int cww2_punc_load(void);
+int cww2_dedi_load(void);
+int cww2_dedi(void);
+int cww2_punc(void);
+int cww1_number(void);
+int cww1_number_in_it(char *ps);
+int cww2_punc_in_it(char *ps);
+int cww2_dedi_in_it(char *ps);
 
 
 #include <stdio.h>

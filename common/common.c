@@ -1,4 +1,8 @@
 
+iconv_t cd ;
+
+int  ai_number[151];
+
 static char cmmn06_str1[300];
 
 int string_e_space(char *pstr)
@@ -56,6 +60,17 @@ int string_e_space(char *pstr)
   return(0);
 }
 
+// string_trim has 2 ways
+//
+// 1 way
+//   i=strlen(s)
+//   for (j=i-1;j>=0;j--)
+//     if ((s[j]>0)&&(s[j]<' ')) s[j]=0; // not <=' '  // ??? need search gb18030 doc
+//     else break;
+// 2 way
+//   like below fuction
+//   count chiness from begin
+//
 int string_trim(char *pstr)
 {
   int i,j,k,l,m;
@@ -864,44 +879,20 @@ int   MessageBoxNow(int h1,char *h2,char *h3,int h4) // Now : no wait
 
 }
 
-iconv_t cd;
-
-/*
-int str_utf8_to_gb18030(char *inbuffer,char *outbuffer,int outbufferlen)
-{
-    int i;
-
-    for (i=0;i<outbufferlen;i++) outbuffer[i]=0;
-
-    iconv_t cd = iconv_open("gb18030//TRANSLIT", "utf-8");  
-    int inbufferlen = strlen(inbuffer);   
-    char* inbuffertmp  = inbuffer;  
-    char* outbuffertmp = outbuffer;
-    size_t ret = iconv(cd, &inbuffertmp, (size_t *)&inbufferlen, &outbuffertmp, (size_t *)&outbufferlen);  
-    iconv_close(cd);  
-    
-    return(0);  
-}
-*/
-
-static int cpy_string(char *p_s1,int p_s1_size,char *p_s2,int p_s2_size)
+int cpy_string(char *p_outstr,int p_outstr_size,char *p_instr,int p_instr_size)
 {
   int i;
 
-  p_s1[0]=0;
+  p_outstr[0]=0;
 
-  for (i=0;i<p_s2_size;i++)
+  for (i=0;i<p_instr_size;i++)
   {
-    if (i+1>=p_s1_size) break;
-    else
-    {
-      if (p_s2[i]==0) break;
-      else
-      {
-        p_s1[i+0]=p_s2[i];
-        p_s1[i+1]=0;
-      }
-    }
+    if (p_instr[i]==0) break;
+    if ((i<0)||(i>=p_outstr_size)) continue;
+    if ((i+1<0)||(i+1>=p_outstr_size)) continue;
+    
+    p_outstr[i+0]=p_instr[i];
+    p_outstr[i+1]=0;
   }
 
   return(0);
@@ -911,26 +902,11 @@ int str_gb18030_to_utf8_ini(void)
 {
   cd = iconv_open("utf-8","gb18030//TRANSLIT");  
 }
-/*
-int str_gb18030_to_utf8(char *inbuffer,char *outbuffer,int outbufferlen)
-{
-    int i;
 
-    for (i=0;i<outbufferlen;i++) outbuffer[i]=0;
-
-    int inbufferlen = strlen(inbuffer);   
-    char* inbuffertmp  = inbuffer;  
-    char* outbuffertmp = outbuffer;
-    size_t ret = iconv(cd, &inbuffertmp, (size_t *)&inbufferlen, &outbuffertmp, (size_t *)&outbufferlen);  
-
-    return(0);  
-}
-*/
-
-static char  cmmn08_str1[300000];
+static char  cmmn08_str1[10000000];
 static char *cmmn08_str1_ptr1[2];
 
-static char  cmmn08_str2[900000];
+static char  cmmn08_str2[10000000];
 static char *cmmn08_str2_ptr1[2];
 
 static char** in_buffer_tmp;
@@ -957,13 +933,13 @@ int str_gb18030_to_utf8(char *in_buffer,char *out_buffer,int out_buffer_len)
 
     j=in_buffer_tmp_len*3+1;
     if (j<1)      j=1;
-    if (j>900000) j=900000;
+    if (j>10000000) j=10000000;
 
     for (i=0;i<j;i++)
     {
       cmmn08_str2[i]=0;
     }
-    out_buffer_tmp_len = 900000;
+    out_buffer_tmp_len = 10000000;
 
     cmmn08_str2_ptr1[0]=cmmn08_str2;
     cmmn08_str2_ptr1[1]=NULL;
@@ -972,7 +948,7 @@ int str_gb18030_to_utf8(char *in_buffer,char *out_buffer,int out_buffer_len)
 
     iconv(cd, in_buffer_tmp, (size_t *)&in_buffer_tmp_len, out_buffer_tmp, (size_t *)&out_buffer_tmp_len);  
 
-    cpy_string(out_buffer,out_buffer_len,cmmn08_str2,900000);    
+    cpy_string(out_buffer,out_buffer_len,cmmn08_str2,10000000);    
 
     return(0);  
 }
@@ -989,8 +965,8 @@ static char  cmmn01_fn3[500];
 static char  cmmn01_ext[500];
 static FILE *cmmn01_fp1;
 static FILE *cmmn01_fp2;
-static char  cmmn01_l_in[300000];
-static char  cmmn01_l_out[900000];
+static char  cmmn01_l_in[10000000];
+static char  cmmn01_l_out[10000000];
 
 int file_gb18030_to_utf8(char *inbuffer)
 {
@@ -1024,19 +1000,13 @@ int file_gb18030_to_utf8(char *inbuffer)
     return(0);
   }
 
-  //c1=255;
-  //c2=254;
-
-  //fputc((char)c1,cmmn01_fp2);
-  //fputc((char)c2,cmmn01_fp2);
-
-  //str_gb18030_to_utf8_ini();
+  str_gb18030_to_utf8_ini();
 
   while (!feof(cmmn01_fp1))
   {
     cmmn01_l_in[0]=0;
 
-    fgets(cmmn01_l_in,300000,cmmn01_fp1);
+    fgets(cmmn01_l_in,10000000,cmmn01_fp1);
 
     i=(int)strlen(cmmn01_l_in);
 
@@ -1048,7 +1018,7 @@ int file_gb18030_to_utf8(char *inbuffer)
 
     //printf("%s,\n",cmmn01_l_in);
 
-    str_gb18030_to_utf8(cmmn01_l_in,cmmn01_l_out,900000);
+    str_gb18030_to_utf8(cmmn01_l_in,cmmn01_l_out,10000000);
 
     //printf("%s,\n",cmmn01_l_out);
     //getchar();
@@ -1060,7 +1030,7 @@ int file_gb18030_to_utf8(char *inbuffer)
   fclose(cmmn01_fp1);
   fclose(cmmn01_fp2);
 
-  //str_gb18030_to_utf8_close();
+  str_gb18030_to_utf8_close();
 
   return(0);
 }
@@ -1123,10 +1093,10 @@ int str_utf8_to_gb18030_ini(void)
   cd = iconv_open("gb18030//TRANSLIT","utf-8");  
 }
 
-static char  cmmn07_str1[300000];
+static char  cmmn07_str1[10000000];
 static char *cmmn07_str1_ptr1[2];
 
-static char  cmmn07_str2[900000];
+static char  cmmn07_str2[10000000];
 static char *cmmn07_str2_ptr1[2];
 
 int str_utf8_to_gb18030(char *in_buffer,char *out_buffer,int out_buffer_len)
@@ -1148,13 +1118,13 @@ int str_utf8_to_gb18030(char *in_buffer,char *out_buffer,int out_buffer_len)
 
     j=in_buffer_tmp_len+1;
     if (j<1)      j=1;
-    if (j>900000) j=900000;
+    if (j>10000000) j=10000000;
 
     for (i=0;i<j;i++)
     {
       cmmn07_str2[i]=0;
     }
-    out_buffer_tmp_len = 900000;
+    out_buffer_tmp_len = 10000000;
 
     cmmn07_str2_ptr1[0]=cmmn07_str2;
     cmmn07_str2_ptr1[1]=NULL;
@@ -1163,7 +1133,7 @@ int str_utf8_to_gb18030(char *in_buffer,char *out_buffer,int out_buffer_len)
 
     iconv(cd, in_buffer_tmp, (size_t *)&in_buffer_tmp_len, out_buffer_tmp, (size_t *)&out_buffer_tmp_len);  
 
-    cpy_string(out_buffer,out_buffer_len,cmmn07_str2,900000);    
+    cpy_string(out_buffer,out_buffer_len,cmmn07_str2,strlen(cmmn07_str2));    
 
     return(0);  
 }
@@ -1215,19 +1185,13 @@ int file_utf8_to_gb18030(char *inbuffer)
     return(0);
   }
 
-  //c1=255;
-  //c2=254;
-
-  //fputc((char)c1,cmmn01_fp2);
-  //fputc((char)c2,cmmn01_fp2);
-
-  //str_utf8_to_gb18030_ini();
+  str_utf8_to_gb18030_ini();
 
   while (!feof(cmmn01_fp1))
   {
     cmmn01_l_in[0]=0;
 
-    fgets(cmmn01_l_in,300000,cmmn01_fp1);
+    fgets(cmmn01_l_in,10000000,cmmn01_fp1);
 
     i=(int)strlen(cmmn01_l_in);
 
@@ -1237,7 +1201,7 @@ int file_utf8_to_gb18030(char *inbuffer)
       else break;
     }
 
-    str_utf8_to_gb18030(cmmn01_l_in,cmmn01_l_out,900000);
+    str_utf8_to_gb18030(cmmn01_l_in,cmmn01_l_out,10000000);
 
     fputs(cmmn01_l_out,cmmn01_fp2);
     fputs("\n",cmmn01_fp2);
@@ -1250,7 +1214,97 @@ int file_utf8_to_gb18030(char *inbuffer)
   fclose(cmmn01_fp1);
   fclose(cmmn01_fp2);
 
-  //str_utf8_to_gb18030_close();
+  str_utf8_to_gb18030_close();
+
+  return(0);
+}
+
+/*
+int file_utf8_to_gb18030_ext(char *inbuffer)
+{
+  //unsigned char c1,c2;
+  int i,j;
+  int fh1;
+  int fh2;
+  int rn1;
+
+  fh1=open(inbuffer,O_RDWR,S_IREAD|S_IWRITE);
+  if (fh1<0) return(1);
+
+  fh2=open("tempfile.txt",O_RDWR|O_CREAT,S_IREAD|S_IWRITE);
+  if (fh2<0)
+  {
+    close(fh1);
+    return(1);
+  }
+
+  for (i=0;i<10000000;i++) cmmn01_l_in[i]=0;
+  
+  rn1=read(fh1,cmmn01_l_in,10000000);
+
+  str_utf8_to_gb18030_ini();
+
+  str_utf8_to_gb18030(cmmn01_l_in,cmmn01_l_out,10000000);
+
+  str_utf8_to_gb18030_close();
+
+  write(fh2,cmmn01_l_out,strlen(cmmn01_l_out));
+
+  close(fh1);
+  close(fh2);
+
+  return(0);
+}
+*/
+
+int file_utf8_to_gb18030_ext(char *inbuffer)
+{
+  int i,j;
+
+  cmmn01_fp1=fopen(inbuffer,"r");
+  if (cmmn01_fp1==NULL)
+  {
+    MessageBox(0,"open input file error","error",MB_OK);
+    return(0);
+  }
+
+  cmmn01_fp2=fopen("tempfile.txt","w");
+  if (cmmn01_fp2==NULL)
+  {
+    MessageBox(0,"open output file error","error",MB_OK);
+    return(0);
+  }
+
+  str_utf8_to_gb18030_ini();
+
+  while (!feof(cmmn01_fp1))
+  {
+    cmmn01_l_in[0]=0;
+
+    fgets(cmmn01_l_in,10000000,cmmn01_fp1);
+
+    i=(int)strlen(cmmn01_l_in);
+
+    for (j=i-1;j>=0;j--)
+    {
+      if ((cmmn01_l_in[j]>0)&&(cmmn01_l_in[j]<' ')) cmmn01_l_in[j]=0;
+      else break;
+    }
+
+    str_utf8_to_gb18030(cmmn01_l_in,cmmn01_l_out,10000000);
+
+    fputs(cmmn01_l_out,cmmn01_fp2);
+    fputs("\n",cmmn01_fp2);
+
+    //printf("%s,\n",cmmn01_l_out);
+    //getchar();
+
+  }
+
+  fclose(cmmn01_fp1);
+  fclose(cmmn01_fp2);
+
+  str_utf8_to_gb18030_close();
 
   return(0);
 }
@@ -1383,5 +1437,27 @@ int int2str(int val,char *p_string,int p_string_size)
   }
 
   return(1);
+}
+
+int findfile(char *fn)
+{
+  FILE *fp;
+
+  fp=fopen(fn,"r");
+  if (fp==NULL) return(0);
+  else
+  {
+    fclose(fp);
+    return(1);
+  }  
+}
+
+int deletefile(char *fn)
+{
+  int s_state1;
+
+  s_state1=remove(fn);
+
+  return(s_state1);
 }
 
