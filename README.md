@@ -111,8 +111,9 @@ How does computer process text,video,audio
                               ('400' is total file number, '16' is how many CPU thread do you want use)
                   run program in  'webfind29f'(step50)(separate to words by repeate )
                                                       (if you want grid compute,don't run a-step50.exe ,run
-                                                       a-step50.bat , how to make this .bat file , if you on ubuntu ,please read 
-                                                       tools-6/readme.txt file,if you on msys please read tools-7/readme.txt )
+                                                       a-step50.bat , how to make this .bat file ,
+                                                       if you on ubuntu ,please read tools-6/readme.txt file,
+                                                       if you on msys please read tools-7/readme.txt )
                   run program in  'webfind23c'(step60)(get all words ,generate word database)
                                               (step70 deleted)
                                               (step80 deleted)
@@ -124,8 +125,9 @@ How does computer process text,video,audio
                                 words-cw02.sort.utf8.txt is for you to browse word courseware on Ubuntu, program
                                 will not read *.utf8.txt files. )
                                 (if you want grid compute,don't run a-step90.exe ,run
-                                 a-step90.bat , how to make this .bat file ,if you on ubuntu ,please read 
-                                 tools-6/readme.txt file ,if you on msys,please read tools-7/readme.txt)
+                                 a-step90.bat , how to make this .bat file ,
+                                 if you on ubuntu ,please read tools-6/readme.txt file ,
+                                 if you on msys,please read tools-7/readme.txt)
                   run program in  'webfind54'(step100)(get all words ,generate 3rd word database )
 
                   (in here , chinese is coded in GB18030 ,in Windows, you can directly open it , if you are in 
@@ -213,8 +215,9 @@ How does computer process text,video,audio
                   运行 a-step50-ini.exe 400 16
                               ('400' 是要计算的文件数量, '16' 是使用多少个CPU线程)
                   运行 webfind29f 目录下的程序 (step50)(根据重复分词)
-                                                      （如果你想进行网格计算，不要运行 a-step50.exe, 而是运行 a-step50.bat ，
-                                                         怎样创建这个 .bat文件,在Ubuntu下, 请看 tools-6/readme.txt 文件 
+                                                      （如果你想进行网格计算，不要运行 a-step50.exe, 
+                                                         而是运行 a-step50.bat ，怎样创建这个 .bat文件,
+                                                         在Ubuntu下, 请看 tools-6/readme.txt 文件 
                                                          在MSYS下, 请看 tools-7/readme.txt 文件)
                   运行 webfind23c 目录下的程序 (step60)(把所有的词汇总，形成词库)
                                               (step70)(已经删除)
@@ -229,7 +232,7 @@ How does computer process text,video,audio
                                  不会读 *.utf8.txt 文件)
                                  （如果你想进行网格计算，不要运行 a-step90.exe, 而是运行 a-step90.bat ，
                                   怎样创建这个 .bat文件,在Ubuntu下, 请看 tools-6/readme.txt 文件 
-                                                         在MSYS下, 请看 tools-7/readme.txt 文件)
+                                                     在MSYS下, 请看 tools-7/readme.txt 文件)
                   运行 webfind54  目录下的程序 (step100)(把所有的词汇总，形成第三个词库)
 
                   (在这里的程序里,汉字是用GB18030编码的,在Windows里可以直接浏览,如果你用的
@@ -324,9 +327,9 @@ How does computer process text,video,audio
                     value ones , calculate its grammar value , add with its word value ,
                     choose max value one )
                     (if you want grid compute,don't run a-step210.exe ,run
-                     a-step210.bat , how to make this .bat file , if you on ubuntu please read 
-                     tools-6/readme.txt file ,if you on msys please read 
-                     tools-7/readme.txt file)
+                     a-step210.bat , how to make this .bat file , 
+                     if you on ubuntu please read tools-6/readme.txt file ,
+                     if you on msys please read tools-7/readme.txt file)
 
                 run program in webfind62 (step220)(copy to work_dir)
                     (get all the words , it is 4th word database )
