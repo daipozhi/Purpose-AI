@@ -41,26 +41,26 @@ long long int str2llint(char *pstr);
 #define ARTI_LINE1    2000000
 #define ARTI_LINE2    200000
 
-	 char wd5_buf[ARTI_LINE1][55];
-          int wd5_rt[ARTI_LINE1];
-	  int wd5_ptr;
+extern 	 char wd5_buf[ARTI_LINE1][55];
+extern           int wd5_rt[ARTI_LINE1];
+extern 	  int wd5_ptr;
 
-int  wd5_search(char *);
-int  wd5_load(void);
+extern int  wd5_search(char *);
+extern int  wd5_load(void);
 
-int           wd5_find_rt;
-int 	      wd5_find_ptr;
+extern int           wd5_find_rt;
+extern int 	      wd5_find_ptr;
 
 //------------------------------
 
-	 char wd6_buf[ARTI_LINE2][55];
-          int wd6_rt[ARTI_LINE2];
-	  int wd6_ptr;
+extern 	 char wd6_buf[ARTI_LINE2][55];
+extern           int wd6_rt[ARTI_LINE2];
+extern 	  int wd6_ptr;
 
-int  wd6_search(char *);
-int  wd6_load(void);
+extern int  wd6_search(char *);
+extern int  wd6_load(void);
 
-          int wd6_find_rt;
+extern           int wd6_find_rt;
 
 //------------------------------
 
@@ -77,6 +77,15 @@ char init_c6;
 int  init_n1;
 int  init_n2;
 
+
+int grm10_ini(void);
+int grm15_load(void);
+int grm16_load(void);
+int load_cb2(void);
+int separ_punc(char *p_in_str,char *p_out_sent,char *p_out_punc); // separate punctuation
+int spl1_loop(void);
+int spl2_loop(void);
+int sent_cb2_in(char *str);
 
 //int pascal WinMain(HINSTANCE ins
 //		  ,HINSTANCE pins
@@ -162,7 +171,7 @@ int mproc(char *strpath)
 int f1_get_one(void)
 {
   FILE *fp1;
-  int   i,j,eof;
+  int   i,j,endf;
   char  str1[300];
   char  str2[300];
 
@@ -180,7 +189,7 @@ int f1_get_one(void)
 
 
   i=0;
-  eof=0;
+  endf=0;
   str2[0]='*';
   str2[1]=0;
 
@@ -191,9 +200,10 @@ int f1_get_one(void)
 
     if (j<1)
     {
-      eof=1;
+      endf=1;
       break;
     }
+    
     if (str1[0]==' ')
     {
       fseek(fp1,i*8,SEEK_SET);
@@ -208,7 +218,8 @@ int f1_get_one(void)
 
       break;
     }
-    else i++;
+    
+    i++;
   }
 
 
@@ -217,9 +228,9 @@ int f1_get_one(void)
 
   fclose(fp1);
 
-
-  if (eof==1) return(1);
-  else return(0);
+  if (endf==1) return(1);
+  
+  return(0);
 }
 */
 int f1_init_ext(void)
@@ -350,22 +361,22 @@ int grm10_ini(void)
   return(0);
 }
 
-char spl1_in[SMG_SIZE];	// input
+extern char spl1_in[SMG_SIZE];	// input
 
-#define SPL1_OUT_NUM   200
+#define SPL1_OUT_NUM   100
 
-char spl1_out_str[SPL1_OUT_NUM][150][55];	// output
-int  spl1_out_nns[SPL1_OUT_NUM][150];
+extern char spl1_out_str[SPL1_OUT_NUM][150][55];	// output
+extern int  spl1_out_nns[SPL1_OUT_NUM][150];
 
-int  spl2_out_type;
-char spl2_out_str[150][55];
-char spl2_out_mrk[150];
-int  spl2_out_nns[150][6];
-char spl2_out_mr2[150][6];
-char spl2_out_len[150];
-int  spl2_out_seg;
+extern int  spl2_out_type;
+extern char spl2_out_str[150][55];
+extern char spl2_out_mrk[150];
+extern int  spl2_out_nns[150][6];
+extern char spl2_out_mr2[150][6];
+extern char spl2_out_len[150];
+extern int  spl2_out_seg;
 
-int  spl2_ptr2;
+extern int  spl2_ptr2;
 
 static char         m101_l1[3000];
 static char         m101_l2[3000];
@@ -382,7 +393,7 @@ static char	    m101_str5[SMG_SIZE];
 
 int frame_loop1(void)
 {
-	FILE		*fp1;
+	FILE		*s_fp1;
     	int          i,j,k,k2,l,m;
 	//char         l1[3000];
 	//char         l2[3000];
@@ -399,8 +410,8 @@ int frame_loop1(void)
 
 	f1_get_fln3(m101_str5);
 
-	fp1=fopen(m101_str5,"r");
-	if (fp1==NULL)
+	s_fp1=fopen(m101_str5,"r");
+	if (s_fp1==NULL)
 	{
 		MessageBoxNow(0,m101_str5,"message open file error",MB_OK);
 		return(1);
@@ -418,9 +429,9 @@ int frame_loop1(void)
 		return(1);
 	}
 
-	printf("%s,\n",m101_s2);
+	printf("Into %s,\n",m101_s2);
 
-	while (!feof(fp1))
+	while (!feof(s_fp1))
 	{
 		for (i=0;i<3000;i++)
 		{
@@ -428,7 +439,7 @@ int frame_loop1(void)
 			m101_l2[i]=0;
 		}
 
-		fgets(m101_l1,3000,fp1);
+		fgets(m101_l1,3000,s_fp1);
 
 		k=0;
 		i=0;
@@ -480,91 +491,90 @@ int frame_loop1(void)
 			// output
 			//fputs("final...",m_fp1);
 
-			if (spl2_out_type==0)
+			//sprintf(m101_str3,"grammar seg=%d,",spl2_out_seg);
+			//MessageBoxNow(0,m101_str3,"test",MB_OK);
+
+			m=0;
+
+			for (i=0;i<spl2_out_seg;i++)
 			{
-				for (i=0;i<spl2_out_seg;i++)
+			    //sprintf(m101_str3,"grammar seg=%d,len=%d,",i,spl2_out_len[i]);
+			    //MessageBoxNow(0,m101_str3,"test",MB_OK);
+
+			    if (spl2_out_len[i]<=1)
+			    {
+				for (j=0;j<spl2_out_len[i];j++)
 				{
-					fputs(spl2_out_str[i],m_fp1);
+					k =spl2_out_nns[i][j];
+					k2=spl1_out_nns[spl2_ptr2][m+j];
 
-					if (spl2_out_mrk[i]==1) fputs(";;",m_fp1);
-					else 			fputs(",,",m_fp1);
+					if (k==(-2))
+						if (k2==(-1000))
+							{  fputs("$*$e((",m_fp1);fputs(spl1_out_str[spl2_ptr2][m+j],m_fp1);  fputs("))",m_fp1); }
+						else
+							{  fputs("$*((",m_fp1);  fputs(spl1_out_str[spl2_ptr2][m+j],m_fp1);  fputs("))",m_fp1); }
+
+					if (k==(-3))    {  fputs("$n((",m_fp1);  fputs(spl1_out_str[spl2_ptr2][m+j],m_fp1);  fputs("))",m_fp1); }
+					if (k==(-1000)) {  fputs("$e((",m_fp1);  fputs(spl1_out_str[spl2_ptr2][m+j],m_fp1);  fputs("))",m_fp1); }
+					if (k>=0)       {  fputs(wd5_buf[k],m_fp1); }
+
+					//if (spl2_out_mrk[i]==1) fputs("==",m_fp1);  // in grammar cw or in database
+					//else                    fputs("--",m_fp1);
+
+					//ss1[0]='0'+i/10;
+					//ss1[1]='0'+i-10*(i/10);
+					//ss1[2]=0;
+
+					//fputs(ss1,m_fp1);
+
+					if (spl2_out_mr2[i][j]==1) fputs(";;",m_fp1);
+					else 			   fputs(",,",m_fp1);
+
+					//sprintf(m101_str3,"grammar seg=%d,len=%d,n1-6=%d,",i,j,k);
+					//MessageBoxNow(0,m101_str3,"test",MB_OK);
 				}
-			}
-			else
-			{
-				//sprintf(m101_str3,"grammar seg=%d,",spl2_out_seg);
-				//MessageBoxNow(0,m101_str3,"test",MB_OK);
+			    }
+			    else
+			    {
+				if (spl2_out_mrk[i]==1) fputs("{{",m_fp1);
+				else                    fputs("[[",m_fp1);
 
-				m=0;
-
-				for (i=0;i<spl2_out_seg;i++)
+				for (j=0;j<spl2_out_len[i];j++)
 				{
-				    //sprintf(m101_str3,"grammar seg=%d,len=%d,",i,spl2_out_len[i]);
-				    //MessageBoxNow(0,m101_str3,"test",MB_OK);
+					k =spl2_out_nns[i][j];
+					k2=spl1_out_nns[spl2_ptr2][m+j];
 
-				    if (spl2_out_len[i]<=1)
-				    {
-					for (j=0;j<spl2_out_len[i];j++)
-					{
-						k =spl2_out_nns[i][j];
-						k2=spl1_out_nns[spl2_ptr2][m+j];
+					if (k==(-2))
+						if (k2==(-1000))
+							{  fputs("$*$e((",m_fp1);fputs(spl1_out_str[spl2_ptr2][m+j],m_fp1);  fputs("))",m_fp1); }
+						else
+							{  fputs("$*((",m_fp1);  fputs(spl1_out_str[spl2_ptr2][m+j],m_fp1);  fputs("))",m_fp1); }
+						
+					if (k==(-3))    {  fputs("$n((",m_fp1);  fputs(spl1_out_str[spl2_ptr2][m+j],m_fp1);  fputs("))",m_fp1); }
+					if (k==(-1000)) {  fputs("$e((",m_fp1);  fputs(spl1_out_str[spl2_ptr2][m+j],m_fp1);  fputs("))",m_fp1); }
+					if (k>=0)       {  fputs(wd5_buf[k],m_fp1); }
 
-						if (k==(-2)) {  fputs("$*((",m_fp1);  fputs(                wd5_buf[k2],m_fp1);  fputs("))",m_fp1); }
-						if (k==(-3)) {  fputs("$n((",m_fp1);  fputs(spl1_out_str[spl2_ptr2][m+j],m_fp1);  fputs("))",m_fp1); }
-						if (k>=0)    {  fputs(wd5_buf[k],m_fp1); }
+					//if (spl2_out_mrk[i]==1) fputs("==",m_fp1);  // in grammar cw or in database
+					//else                    fputs("--",m_fp1);
 
-						//if (spl2_out_mrk[i]==1) fputs("==",m_fp1);  // in grammar cw or in database
-						//else                    fputs("--",m_fp1);
+					//ss1[0]='0'+i/10;
+					//ss1[1]='0'+i-10*(i/10);
+					//ss1[2]=0;
 
-						//ss1[0]='0'+i/10;
-						//ss1[1]='0'+i-10*(i/10);
-						//ss1[2]=0;
+					//fputs(ss1,m_fp1);
 
-						//fputs(ss1,m_fp1);
+					if (spl2_out_mr2[i][j]==1) fputs(";;",m_fp1);
+					else 			   fputs(",,",m_fp1);
 
-						if (spl2_out_mr2[i][j]==1) fputs(";;",m_fp1);
-						else 			   fputs(",,",m_fp1);
-
-						//sprintf(m101_str3,"grammar seg=%d,len=%d,n1-6=%d,",i,j,k);
-						//MessageBoxNow(0,m101_str3,"test",MB_OK);
-					}
-				    }
-				    else
-				    {
-					if (spl2_out_mrk[i]==1) fputs("{{",m_fp1);
-					else                    fputs("[[",m_fp1);
-
-					for (j=0;j<spl2_out_len[i];j++)
-					{
-						k =spl2_out_nns[i][j];
-						k2=spl1_out_nns[spl2_ptr2][m+j];
-
-						if (k==(-2)) {  fputs("$*((",m_fp1);  fputs(                wd5_buf[k2],m_fp1);  fputs("))",m_fp1); }
-						if (k==(-3)) {  fputs("$n((",m_fp1);  fputs(spl1_out_str[spl2_ptr2][m+j],m_fp1);  fputs("))",m_fp1); }
-						if (k>=0)    {  fputs(wd5_buf[k],m_fp1); }
-
-						//if (spl2_out_mrk[i]==1) fputs("==",m_fp1);  // in grammar cw or in database
-						//else                    fputs("--",m_fp1);
-
-						//ss1[0]='0'+i/10;
-						//ss1[1]='0'+i-10*(i/10);
-						//ss1[2]=0;
-
-						//fputs(ss1,m_fp1);
-
-						if (spl2_out_mr2[i][j]==1) fputs(";;",m_fp1);
-						else 			   fputs(",,",m_fp1);
-
-						//sprintf(m101_str3,"grammar seg=%d,len=%d,n1-6=%d,",i,j,k);
-						//MessageBoxNow(0,m101_str3,"test",MB_OK);
-					}
-
-					if (spl2_out_mrk[i]==1) fputs("}}",m_fp1);
-					else                    fputs("]]",m_fp1);
-				    }
-
-				    m=m+spl2_out_len[i];
+					//sprintf(m101_str3,"grammar seg=%d,len=%d,n1-6=%d,",i,j,k);
+					//MessageBoxNow(0,m101_str3,"test",MB_OK);
 				}
+
+				if (spl2_out_mrk[i]==1) fputs("}}",m_fp1);
+				else                    fputs("]]",m_fp1);
+			    }
+
+			    m=m+spl2_out_len[i];
 			}
 		}
 
@@ -577,9 +587,11 @@ int frame_loop1(void)
 		fputs("\n",m_fp1);
 	}
 
-	fclose(fp1);
+	fclose(s_fp1);
 	
 	fclose(m_fp1);
+
+	printf("%s Ok,\n",m101_s2);
 
 	return(0);
 }
