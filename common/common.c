@@ -1,4 +1,13 @@
 
+
+#include <unistd.h>
+#include <fcntl.h>
+#include <sys/types.h>
+#include <sys/stat.h>
+//#include <sys/io.h>
+
+
+
 iconv_t cd ;
 
 int  ai_number[151];
@@ -676,12 +685,12 @@ int ai_number_g(void)
 	//char str1[3000];
 
 	ai_number[0]=0;
-	ai_number[1]=5;
+	ai_number[1]=1000;
 
 	for (i=2;i<=150;i++)
 	{
 
-		ai_number[i]=ai_number[i-1]+ai_number[1]+5;
+		ai_number[i]=ai_number[i-1]+ai_number[1]+1000;
 	}
 /*
 	sprintf(m301_str1," 1=%d\n 2=%d\n 3=%d\n 4=%d\n 5=%d\n 6=%d\n 7=%d\n 8=%d\n 9=%d\n 10=%d\n 11=%d\n 12=%d\n 13=%d\n 14=%d\n 15=%d\n 16=%d\n 17=%d\n 18=%d\n 19=%d\n 20=%d\n 21=%d\n 22=%d\n 23=%d\n 24=%d\n 25=%d\n ",
@@ -714,6 +723,11 @@ int ai_number_g(void)
 	MessageBox(0,m301_str1,"AI number",MB_OK);
 */
 	return(0);
+}
+
+int ai_number_adjust(void)
+{
+	ai_number[1]=1;
 }
 
 char lower(char c1)
@@ -971,7 +985,8 @@ static char  cmmn01_l_out[10000000];
 int file_gb18030_to_utf8(char *inbuffer)
 {
   //unsigned char c1,c2;
-  int i,j;
+  int  i,j;
+  char str1[550];
 
   filenameext(inbuffer,cmmn01_fn,cmmn01_ext);
 
@@ -986,7 +1001,8 @@ int file_gb18030_to_utf8(char *inbuffer)
   cmmn01_fp1=fopen(inbuffer,"r");
   if (cmmn01_fp1==NULL)
   {
-    MessageBox(0,"open input file error","error",MB_OK);
+    sprintf(str1,"file_gb18030_to_utf8(): open input file error:%s",inbuffer);
+    MessageBox(0,str1,"error",MB_OK);
     return(0);
   }
 
@@ -996,7 +1012,9 @@ int file_gb18030_to_utf8(char *inbuffer)
   cmmn01_fp2=fopen(cmmn01_fn2,"w");
   if (cmmn01_fp2==NULL)
   {
-    MessageBox(0,"open output file error","error",MB_OK);
+    sprintf(str1,"file_gb18030_to_utf8(): open output file error:%s",cmmn01_fn2);
+    MessageBox(0,str1,"error",MB_OK);
+    fclose(cmmn01_fp1);
     return(0);
   }
 
@@ -1171,7 +1189,7 @@ int file_utf8_to_gb18030(char *inbuffer)
   cmmn01_fp1=fopen(inbuffer,"r");
   if (cmmn01_fp1==NULL)
   {
-    MessageBox(0,"open input file error","error",MB_OK);
+    MessageBox(0,"file_utf8_to_gb18030(): open input file error","error",MB_OK);
     return(0);
   }
 
@@ -1181,7 +1199,8 @@ int file_utf8_to_gb18030(char *inbuffer)
   cmmn01_fp2=fopen(cmmn01_fn3,"w");
   if (cmmn01_fp2==NULL)
   {
-    MessageBox(0,"open output file error","error",MB_OK);
+    MessageBox(0,"file_utf8_to_gb18030(): open output file error","error",MB_OK);
+    fclose(cmmn01_fp1);
     return(0);
   }
 
@@ -1211,10 +1230,10 @@ int file_utf8_to_gb18030(char *inbuffer)
 
   }
 
+  str_utf8_to_gb18030_close();
+
   fclose(cmmn01_fp1);
   fclose(cmmn01_fp2);
-
-  str_utf8_to_gb18030_close();
 
   return(0);
 }
@@ -1257,21 +1276,25 @@ int file_utf8_to_gb18030_ext(char *inbuffer)
 }
 */
 
-int file_utf8_to_gb18030_ext(char *inbuffer)
+int file_utf8_to_gb18030_ext(char *inbuffer,char *outbuffer)
 {
-  int i,j;
+  int  i,j;
+  char str1[550];
 
   cmmn01_fp1=fopen(inbuffer,"r");
   if (cmmn01_fp1==NULL)
   {
-    MessageBox(0,"open input file error","error",MB_OK);
+    sprintf(str1,"file_utf8_to_gb18030_ext(): open input file error:%s",inbuffer);
+    MessageBox(0,str1,"error",MB_OK);
     return(0);
   }
 
-  cmmn01_fp2=fopen("tempfile.txt","w");
+  cmmn01_fp2=fopen(outbuffer,"w");
   if (cmmn01_fp2==NULL)
   {
-    MessageBox(0,"open output file error","error",MB_OK);
+    sprintf(str1,"file_utf8_to_gb18030_ext(): open output file error:%s",outbuffer);
+    MessageBox(0,str1,"error",MB_OK);
+    fclose(cmmn01_fp1);
     return(0);
   }
 
@@ -1301,10 +1324,10 @@ int file_utf8_to_gb18030_ext(char *inbuffer)
 
   }
 
+  str_utf8_to_gb18030_close();
+
   fclose(cmmn01_fp1);
   fclose(cmmn01_fp2);
-
-  str_utf8_to_gb18030_close();
 
   return(0);
 }
@@ -1459,5 +1482,48 @@ int deletefile(char *fn)
   s_state1=remove(fn);
 
   return(s_state1);
+}
+
+#define  CPY_BSIZE    20000
+static char  tmp_buff[CPY_BSIZE];
+
+int copyfile(char *infile,char *outfile)
+{
+  int           i,fh1,fh2;
+  unsigned int  rn1;
+  int           rn2;
+
+  fh1=open(infile,O_RDWR,S_IREAD|S_IWRITE);
+  if (fh1<0) return(1);
+
+  fh2=open(outfile,O_RDWR|O_CREAT,S_IREAD|S_IWRITE);
+  if (fh2<0)
+  {
+    close(fh1);
+    return(1);
+  }
+
+  while (1)
+  {
+    rn2=read(fh1,tmp_buff,CPY_BSIZE);
+    rn1=rn2;
+    write(fh2,tmp_buff,rn1);
+    if (/*eof(fh1)&&*/(rn2<CPY_BSIZE)) break;
+  }
+
+  close(fh1);
+  close(fh2);
+
+  return(0);
+}
+
+static  struct stat   deb_m_info;
+
+int deb_filename_dir(char *path)
+{
+  stat(path,&deb_m_info);
+
+  if (S_ISDIR(deb_m_info.st_mode)) return(1);
+  else return(0);
 }
 

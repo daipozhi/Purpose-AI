@@ -80,8 +80,8 @@ extern     int   t1_save_list(char *fn);
 class tree2 tree2_1;
 */
 
-#define TREE_SIZE_B 3000000
-#define LIST_SIZE_B  300000
+#define TREE_SIZE_B 6000000
+#define LIST_SIZE_B  600000
 /*
 #define TREE_SIZE_B 2000000
 #define LIST_SIZE_B  200000

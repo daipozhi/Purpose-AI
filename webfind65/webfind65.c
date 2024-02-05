@@ -65,7 +65,7 @@ extern           int wd6_find_rt;
 //------------------------------
 
 int ai_number_g(void);
-
+int ai_number_adjust(void);
 
 char init_c1;
 char init_c2;
@@ -104,7 +104,8 @@ int main(int argc,char **argv)
 	}
 	
 	ai_number_g();
-
+	ai_number_adjust();
+	
 	grm10_ini();
 
 	wd5_load();  // word database
@@ -113,7 +114,7 @@ int main(int argc,char **argv)
 
 	cww1_load(); // word courseware 1
 
-	grm15_load();  //grammar database
+	//grm15_load();  //grammar database
 
 	grm16_load();  //grammar courseware
 
@@ -148,25 +149,11 @@ int grm10_ini(void)
   grm10_ptr1[2]=1;
   strcpy(grm10_mrk[2][0],"11   ");
 
-  grm10_ptr1[3]=2;
-  strcpy(grm10_mrk[3][0],"101  ");
-  strcpy(grm10_mrk[3][1],"111  ");
+  grm10_ptr1[3]=1;
+  strcpy(grm10_mrk[3][0],"111  ");
 
-  grm10_ptr1[4]=4;
-  strcpy(grm10_mrk[4][0],"1001 ");
-  strcpy(grm10_mrk[4][1],"1011 ");
-  strcpy(grm10_mrk[4][2],"1101 ");
-  strcpy(grm10_mrk[4][3],"1111 ");
-
-  grm10_ptr1[5]=8;
-  strcpy(grm10_mrk[5][0],"10001");
-  strcpy(grm10_mrk[5][1],"10011");
-  strcpy(grm10_mrk[5][2],"10101");
-  strcpy(grm10_mrk[5][3],"10111");
-  strcpy(grm10_mrk[5][4],"11001");
-  strcpy(grm10_mrk[5][5],"11011");
-  strcpy(grm10_mrk[5][6],"11101");
-  strcpy(grm10_mrk[5][7],"11111");
+  grm10_ptr1[4]=1;
+  strcpy(grm10_mrk[4][0],"1111 ");
 
   // "010" "0010"   have no meaning , it is "1"
   // "0110" "00110" have no meaning , it is "11" 
@@ -175,22 +162,111 @@ int grm10_ini(void)
   return(0);
 }
 
+//------------------------------
+#define SPL1_NUM     20000
+#define SPL1_MAX_NUM 20000
+#define SPL1_KEEP_NUM 5000
+#define SPL1_DEBUG   0
+
 extern char spl1_in[SMG_SIZE];	// input
+extern int  spl1_ptr;
+extern int  spl1_step;
+extern int  spl1_out_ptr;
 
-#define SPL1_OUT_NUM   20
+extern int  spl1_sid[SPL1_NUM][150];
+extern char spl1_mr2[SPL1_NUM][150];
 
-extern char spl1_out_str[SPL1_OUT_NUM][150][55];	// output
-extern int  spl1_out_nns[SPL1_OUT_NUM][150];
+extern char spl1_mrk[SPL1_NUM];
 
-extern int  spl2_out_type;
-extern char spl2_out_str[150][55];
-extern char spl2_out_mrk[150];
-extern int  spl2_out_nns[150][6];
-extern char spl2_out_mr2[150][6];
-extern char spl2_out_len[150];
-extern int  spl2_out_seg;
+extern int  spl1_len[SPL1_NUM];
+extern int  spl1_seg[SPL1_NUM];
 
-extern int  spl2_ptr2;
+extern long long int  spl1_val1[SPL1_NUM];
+extern long long int  spl1_val2[SPL1_NUM];
+extern long long int  spl1_val3[SPL1_NUM];
+extern long long int  spl1_val4[SPL1_NUM];
+	
+extern long long int  spl1_iid[SPL1_NUM];
+extern long long int  spl1_sval[SPL1_NUM][150][4]; //sub value , every word's value
+
+extern 	  char spl1_pat[SPL1_NUM][150][10][2];
+extern 	  char spl1_pat_ptr[SPL1_NUM][150];
+
+extern int  spl1_buf[100];  // check repeated string
+extern int  spl1_buf_ptr;
+
+extern int spl1_add_to_tree(void);
+extern int spl1_add_to_tree2(void);
+extern long long int spl1_sum_val(int n1,int ptr);
+extern int spl1_copy_val(int);
+extern int spl1_con_val(int);
+
+//--------------------------------------------
+#define SPL2_NUM      5000
+#define SPL2_MAX_NUM  5000
+#define SPL2_KEEP_NUM 1500
+#define SPL2_DEBUG   0
+
+extern char spl2_in[SMG_SIZE];	// input
+extern int  spl2_ptr;
+extern int  spl2_step;
+extern int  spl2_out_ptr;
+
+extern int  spl2_sid[SPL2_NUM][150];
+extern char spl2_mr2[SPL2_NUM][150];
+
+extern char spl2_mrk[SPL2_NUM];
+
+extern int  spl2_len[SPL2_NUM];
+extern int  spl2_seg[SPL2_NUM];
+
+extern long long int  spl2_val1[SPL2_NUM];
+extern long long int  spl2_val2[SPL2_NUM];
+extern long long int  spl2_val3[SPL2_NUM];
+extern long long int  spl2_val4[SPL2_NUM];
+	
+extern long long int  spl2_iid[SPL2_NUM];
+extern long long int  spl2_sval[SPL2_NUM][150][4]; //sub value , every word's value
+/*
+	  char spl2_pat[SPL2_NUM][150][10][2];
+	  char spl2_pat_ptr[SPL2_NUM][150];
+*/
+extern int  spl2_buf[100];  // check repeated string
+extern int  spl2_buf_ptr;
+
+extern int spl2_add_to_tree(void);
+extern int spl2_add_to_tree2(void);
+extern long long int spl2_sum_val(int n1,int ptr);
+extern int spl2_copy_val(int);
+extern int spl2_con_val(int);
+
+extern int spl2_out_sid[150][25];
+extern int spl2_out_mr2[150][25];
+extern int spl2_out_sid_ptr[150];
+
+extern int shortword();
+
+
+
+//--------------------------------------------------------
+#define TREE_SIZE_B  6000
+#define LIST_SIZE_B  6000
+
+extern     char  t2_node_mark[TREE_SIZE_B];
+extern     char  t2_node_val[TREE_SIZE_B][55];
+
+extern     int   t2_node_ptr[TREE_SIZE_B][3];
+extern     int   t2_root_ptr;
+extern     int   t2_buff_ptr;
+    
+extern     int   t2_find_ptr;
+extern     int   t2_find_ptr2;
+extern     int   t2_find_side;
+    
+extern     int   t2_list_stack[LIST_SIZE_B];
+extern     char  t2_list_stack_type[LIST_SIZE_B];
+extern     int   t2_list_ptr;
+
 
 static char         m101_l1[3000];
 static char         m101_l2[3000];
@@ -204,11 +280,12 @@ static char         m101_str2[SMG_SIZE];
 static char         m101_str3[3000];
 //static char         m101_str4[SMG_SIZE];
 static char	    m101_str5[SMG_SIZE];
+static char         m101_str6[8][600];
 
 int frame_loop1(char *path)
 {
 	FILE		*fp1;
-    	int          i,j,k,k2,l,m;
+    	int          i,j,k,k2,l,m,n,o,p,q,r,u;
 	//char         l1[3000];
 	//char         l2[3000];
 	//char         s1[SMG_SIZE];
@@ -319,96 +396,20 @@ int frame_loop1(char *path)
 			strcpy(spl1_in,m101_sent);
 
 			spl1_loop();
+			
+			shortword();
 
-			spl2_loop();
-
-			// output
-			//fputs("final...",m_fp1);
-
-			if (spl2_out_type==0)
+			if (spl1_out_ptr>=0)
 			{
-				for (i=0;i<spl2_out_seg;i++)
+				fputs("$1,,",m_fp1);
+				
+				for (i=0;i<spl1_seg[spl1_out_ptr];i++)
 				{
-					fputs(spl2_out_str[i],m_fp1);
+					j=spl1_sid[spl1_out_ptr][i];
+					fputs(t2_node_val[j],m_fp1);
 
-					if (spl2_out_mrk[i]==1) fputs(";;",m_fp1);
-					else 			fputs(",,",m_fp1);
-				}
-			}
-			else
-			{
-				//sprintf(m101_str3,"grammar seg=%d,",spl2_out_seg);
-				//MessageBoxNow(0,m101_str3,"test",MB_OK);
-
-				m=0;
-
-				for (i=0;i<spl2_out_seg;i++)
-				{
-				    //sprintf(m101_str3,"grammar seg=%d,len=%d,",i,spl2_out_len[i]);
-				    //MessageBoxNow(0,m101_str3,"test",MB_OK);
-
-				    if (spl2_out_len[i]<=1)
-				    {
-					for (j=0;j<spl2_out_len[i];j++)
-					{
-						k =spl2_out_nns[i][j];
-						k2=spl1_out_nns[spl2_ptr2][m+j];
-
-						if (k==(-2)) {  fputs("$*((",m_fp1);  fputs(                wd5_buf[k2],m_fp1);  fputs("))",m_fp1); }
-						if (k==(-3)) {  fputs("$n((",m_fp1);  fputs(spl1_out_str[spl2_ptr2][m+j],m_fp1);  fputs("))",m_fp1); }
-						if (k>=0)    {  fputs(wd5_buf[k],m_fp1); }
-
-						//if (spl2_out_mrk[i]==1) fputs("==",m_fp1);  // in grammar cw or in database
-						//else                    fputs("--",m_fp1);
-
-						//ss1[0]='0'+i/10;
-						//ss1[1]='0'+i-10*(i/10);
-						//ss1[2]=0;
-
-						//fputs(ss1,m_fp1);
-
-						if (spl2_out_mr2[i][j]==1) fputs(";;",m_fp1);
-						else 			   fputs(",,",m_fp1);
-
-						//sprintf(m101_str3,"grammar seg=%d,len=%d,n1-6=%d,",i,j,k);
-						//MessageBoxNow(0,m101_str3,"test",MB_OK);
-					}
-				    }
-				    else
-				    {
-					if (spl2_out_mrk[i]==1) fputs("{{",m_fp1);
-					else                    fputs("[[",m_fp1);
-
-					for (j=0;j<spl2_out_len[i];j++)
-					{
-						k =spl2_out_nns[i][j];
-						k2=spl1_out_nns[spl2_ptr2][m+j];
-
-						if (k==(-2)) {  fputs("$*((",m_fp1);  fputs(                wd5_buf[k2],m_fp1);  fputs("))",m_fp1); }
-						if (k==(-3)) {  fputs("$n((",m_fp1);  fputs(spl1_out_str[spl2_ptr2][m+j],m_fp1);  fputs("))",m_fp1); }
-						if (k>=0)    {  fputs(wd5_buf[k],m_fp1); }
-
-						//if (spl2_out_mrk[i]==1) fputs("==",m_fp1);  // in grammar cw or in database
-						//else                    fputs("--",m_fp1);
-
-						//ss1[0]='0'+i/10;
-						//ss1[1]='0'+i-10*(i/10);
-						//ss1[2]=0;
-
-						//fputs(ss1,m_fp1);
-
-						if (spl2_out_mr2[i][j]==1) fputs(";;",m_fp1);
-						else 			   fputs(",,",m_fp1);
-
-						//sprintf(m101_str3,"grammar seg=%d,len=%d,n1-6=%d,",i,j,k);
-						//MessageBoxNow(0,m101_str3,"test",MB_OK);
-					}
-
-					if (spl2_out_mrk[i]==1) fputs("}}",m_fp1);
-					else                    fputs("]]",m_fp1);
-				    }
-
-				    m=m+spl2_out_len[i];
+					if (spl1_mr2[spl1_out_ptr][i]==1) fputs(";;",m_fp1);
+					else fputs(",,",m_fp1);
 				}
 			}
 		}
@@ -420,6 +421,93 @@ int frame_loop1(char *path)
 		}
 
 		fputs("\n",m_fp1);
+		
+		// write debug info
+		// aaaa;;bb,,... (outputed sentence)
+		// A4    A2...   (A4: 4 words grammar in grammar courseware)
+		// A2    B2...   (B2: 2 words grammar in grammar database)
+		// B2
+				
+		n=0;
+		for (i=0;i<8;i++)
+			for (j=0;j<600;j++)
+			  m101_str6[i][j]=0;
+				
+		o=0;
+		for (i=0;i<spl1_seg[spl1_out_ptr];i++)
+		{
+			if (o<spl1_pat_ptr[spl1_out_ptr][i]) o=spl1_pat_ptr[spl1_out_ptr][i];
+		}
+				
+		for (p=0;p<o;p++)
+		{
+			if ((p+1>n)&&(n<8))
+			{
+			/*
+				for (q=0;q<l;q++) // clean 1 line
+				{
+					m101_str6[n][q+0]=' ';
+					m101_str6[n][q+1]=0;
+				}
+			*/			
+				n++;
+			}
+					
+			for (i=0;i<spl1_seg[spl1_out_ptr];i++)
+		        {
+		        	u=0;
+				        	
+		        	for (r=0;r<i;r++)
+		        	{
+					j=spl1_sid[spl1_out_ptr][r];
+					u=u+strlen(t2_node_val[j])+2;
+				}
+				
+				for (q=0;q<u+2;q++)
+					if (m101_str6[p][q]<' ') m101_str6[p][q]=' ';
+
+				if (spl1_pat_ptr[spl1_out_ptr][i]>p)
+				{
+					m101_str6[p][u+0]=spl1_pat[spl1_out_ptr][i][p][0];
+					m101_str6[p][u+1]=spl1_pat[spl1_out_ptr][i][p][1];
+				}
+			}
+		}
+					
+		for (p=0;p<n;p++)
+		{
+			fputs("$2,,",m_fp1);
+				
+			fputs(m101_str6[p],m_fp1);
+			fputs("\n",m_fp1);
+		}
+		
+		if (spl1_out_ptr>=0)
+		{
+			fputs("$3,,",m_fp1);
+				
+			for (i=0;i<spl1_seg[spl1_out_ptr];i++)
+			{
+				for (j=0;j<spl2_out_sid_ptr[i];j++)
+				{
+					k=spl2_out_sid[i][j];
+					fputs(t2_node_val[k],m_fp1);
+
+					if (spl2_out_mr2[i][j]==1) fputs(";;",m_fp1);
+					else fputs(",,",m_fp1);
+				}
+			}
+			
+			if (m101_punc[0]!=0)
+			{
+				fputs(m101_punc,m_fp1);
+				fputs("||",m_fp1);
+			}
+
+			fputs("\n",m_fp1);
+		}
+		
+		//break; // for testing
 	}
 
 	fclose(fp1);

@@ -1,6 +1,8 @@
 
 #include "../config.h"
 
+#include "../common/common.h"
+
 //#define   STRICT
 //#include <windows.h>
 //#include <commdlg.h>
@@ -45,7 +47,7 @@ int deb_upper_string(char *p_instr);
 
 
 #define TREE_SIZE_C 2000000
-#define LIST_SIZE_C  200000
+#define LIST_SIZE_C 2000000
 
     char  t3_node_mark[TREE_SIZE_C];
     char  t3_node_val[TREE_SIZE_C][55];
@@ -634,8 +636,11 @@ int /*tree2::*/t3_save_list(char *fn)
 
   for (i=0;i<t3_out_ptr;i++)
   {
-    nn=wd6_search(t3_out_buff[i]);
-    if (nn!=1) continue;
+    //nn=wd6_search(t3_out_buff[i]);
+    //if (nn!=1) continue;
+    
+    nn=cww1_number_is(t3_out_buff[i]);
+    if (nn==1) continue;
 
     fputs(t3_out_buff[i],fp);
     fputs(",",fp);

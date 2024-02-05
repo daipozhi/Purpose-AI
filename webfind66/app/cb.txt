@@ -1,0 +1,43 @@
+!
+backup (
+backup )
+backup :
+;
+backup <
+backup >
+?
+,
+.
+backup /
+backup "
+backup '
+backup {
+backup }
+backup [
+backup ]
+backup |
+backup \
+£¡
+backup £¨
+backup £©
+backup £º
+£»
+backup ¡¶
+backup ¡·
+£¿
+£¬
+¡£
+backup £¯
+backup ¡°
+backup ¡±
+backup ¡®
+backup ¡¯
+backup £û
+backup £ý
+backup £Û
+backup £Ý
+backup £ü
+backup ¡¢
+
+
+

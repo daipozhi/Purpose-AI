@@ -42,6 +42,7 @@ extern     int   t1_after_list(void);
 // end of tree 1 -----
 
 int load11(void);
+int grm10_ini(void);
 
 int main(int argc,char **argv)
 {
@@ -49,7 +50,7 @@ int main(int argc,char **argv)
 
 	//ai_number_g();
 
-	//grm10_ini();
+	grm10_ini();
 
 	wd5_load();  // word database
 
@@ -64,13 +65,34 @@ int main(int argc,char **argv)
 
 int f1_get_fln4(char *s1)
 {
-	strcpy(s1,"words03.txt");
+	strcpy(s1,"words03a.txt");
 
 	//s1[11]=mc3;
 	//s1[12]=mc2;
 	//s1[13]=mc1;
 
 	return(0);
+}
+
+int  grm10_ptr1[6];
+char grm10_mrk[6][20][10];
+
+int grm10_ini(void)
+{
+  grm10_ptr1[2]=1;
+  strcpy(grm10_mrk[2][0],"11   ");
+
+  grm10_ptr1[3]=1;
+  strcpy(grm10_mrk[3][0],"111  ");
+
+  grm10_ptr1[4]=1;
+  strcpy(grm10_mrk[4][0],"1111 ");
+
+  // "010" "0010"   have no meaning , it is "1"
+  // "0110" "00110" have no meaning , it is "11" 
+  // "01010"        have no meaning , it is "101"
+
+  return(0);
 }
 
 static	char         m401_l1[SMG_SIZE];
@@ -320,7 +342,7 @@ static  int 	     m601_ns[20];
 int load11(void)
 {
 	FILE		*fp1;
-    	int         i,j,k,m;
+    	int         i,i3,i4,i5,j,k,m,m4,m5;
 	//char         l1[SMG_SIZE];
 	//char         l2[SMG_SIZE];
 	//char         l3[SMG_SIZE];
@@ -329,10 +351,13 @@ int load11(void)
 	char         c1,c2;
 	int          ptr,q;
 	int	     err,err_n;
+	int          num;
+	int          ln;
 
 	t1_init_tree2();
 
 	err_n=0;
+	ln=0;
 
 	strcpy(m601_s1,"grammar-cw03.txt");
 
@@ -346,13 +371,18 @@ int load11(void)
 	while (!feof(fp1))
 	{
 		m601_l1[0]=0;
-		for (i=0;i<20;i++) m601_l2[i][0]=0;
 		m601_l3[0]=0;
+		for (i=0;i<20;i++) m601_l2[i][0]=0;
 
 		fgets(m601_l1,SMG_SIZE,fp1);
+		
+      		string_trim_nos(m601_l1);
+		
+		ln++;
+		//printf("ln=%d,\n",ln);
 
 		if (strncmp(m601_l1,"//",2)==0) continue;
-		if ((m601_l1[0]>=0)&&(m601_l1[0]<=' ')) continue;	
+		if ((m601_l1[0]>=0)&&(m601_l1[0]<' ')) continue;	// m601_l1[0]<=' ' is bug , erase '='
 
 		k=0;
 		ptr=0;
@@ -437,6 +467,7 @@ int load11(void)
 		if (ptr>6) continue;
 
 		err=0;
+		num=0;
 
 		for (j=0;j<6;j++)
 		{
@@ -457,7 +488,7 @@ int load11(void)
 				}
 			}
 		}
-
+	
 		if (err!=0)
 		{
 			err_n++;
@@ -465,16 +496,15 @@ int load11(void)
 		}
 
 		t1_insert_node(m601_ns[0],m601_ns[1],m601_ns[2],m601_ns[3],m601_ns[4],m601_ns[5]);
-
+	
 		t1_node_val2[t1_find_ptr2]=10; // repeat time
-
 
 		// test ----
 		/*
 		sprintf(m601_s2,"s1=%s,s2=%s,s3=%s,s4=%s,s5=%s,s6=%s,number=%s,\n ptr=%d,ns=%d,%d,%d,%d,%d,%d,rpt=%d,",
-			m601_l2[0],m601_l2[1],m601_l2[2],m601_l2[3],m601_l2[4],m601_l2[5],m601_l3,
-			t1_find_ptr2,m601_ns[0],m601_ns[1],m601_ns[2],m601_ns[3],m601_ns[4],m601_ns[5],
-			t1_node_val2[t1_find_ptr2]);
+				m601_l2[0],m601_l2[1],m601_l2[2],m601_l2[3],m601_l2[4],m601_l2[5],m601_l3,
+				t1_find_ptr2,m601_ns[0],m601_ns[1],m601_ns[2],m601_ns[3],m601_ns[4],m601_ns[5],
+				t1_node_val2[t1_find_ptr2]);
 
 		str_gb18030_to_utf8_ini();
 		if (AI_LINUX==1)
@@ -490,7 +520,6 @@ int load11(void)
 		MessageBox(0,m601_s3,"load11 message",MB_OK);
 		*/
 		// end of test ----
-
 	}
 
 	fclose(fp1);

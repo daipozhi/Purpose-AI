@@ -82,6 +82,8 @@ int  int2str(int val,char *p_string,int p_string_size);
 
 int findfile(char*);
 int deletefile(char*);
-int file_utf8_to_gb18030_ext(char *inbuffer);
+int file_utf8_to_gb18030_ext(char *inbuffer,char *outbuffer);
+
+int deb_filename_dir(char *path);
 
 

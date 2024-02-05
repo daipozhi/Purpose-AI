@@ -84,6 +84,7 @@ extern int 	      wd5_find_ptr;
     //int   t1_out_buff[TREE_SIZE][6];
 
     int   t1_out_ptr;
+    int   t1_ln;
 
     int   t1_init_tree2(void);
     int   t1_new_node(void);
@@ -620,6 +621,8 @@ int t1_after_list(void)
     return(1);
   }
 
+  printf("load11():write: grammar-cw03.sort.txt,");
+  t1_ln=0;
 
   t1_list_ptr=0;
   t1_out_ptr=0;
@@ -707,6 +710,7 @@ int t1_after_list(void)
 
   fclose(fp);
 
+  printf("%d,\n",t1_ln);
 
   return(0);
 }
@@ -717,6 +721,8 @@ int t1_out_list(int ptr,FILE *fp)
 	int  sn1,sn2,sn3,sn4,sn5,sn6;
         char s2[SMG_SIZE];
 
+	t1_ln++;
+	
 	sn1=t1_node_val[ptr][0];
 	sn2=t1_node_val[ptr][1];
 	sn3=t1_node_val[ptr][2];
@@ -740,6 +746,10 @@ int t1_out_list(int ptr,FILE *fp)
 
 			return(0);
 		}
+		else if (sn1==(-2))
+		{
+			fputs("$*==",fp);
+		}
 		else
 		{
 			fputs("$n==",fp);
@@ -761,6 +771,10 @@ int t1_out_list(int ptr,FILE *fp)
 			fputs("\n",fp);
 
 			return(0);
+		}
+		else if (sn2==(-2))
+		{
+			fputs("$*==",fp);
 		}
 		else
 		{
@@ -784,6 +798,10 @@ int t1_out_list(int ptr,FILE *fp)
 
 			return(0);
 		}
+		else if (sn3==(-2))
+		{
+			fputs("$*==",fp);
+		}
 		else
 		{
 			fputs("$n==",fp);
@@ -805,6 +823,10 @@ int t1_out_list(int ptr,FILE *fp)
 			fputs("\n",fp);
 
 			return(0);
+		}
+		else if (sn4==(-2))
+		{
+			fputs("$*==",fp);
 		}
 		else
 		{
@@ -828,6 +850,10 @@ int t1_out_list(int ptr,FILE *fp)
 
 			return(0);
 		}
+		else if (sn5==(-2))
+		{
+			fputs("$*==",fp);
+		}
 		else
 		{
 			fputs("$n==",fp);
@@ -849,6 +875,10 @@ int t1_out_list(int ptr,FILE *fp)
 			fputs("\n",fp);
 
 			return(0);
+		}
+		else if (sn6==(-2))
+		{
+			fputs("$*==",fp);
 		}
 		else
 		{

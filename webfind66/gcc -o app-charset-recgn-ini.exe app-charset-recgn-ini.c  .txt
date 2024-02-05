@@ -1,0 +1,1 @@
+gcc -o app-charset-recgn-ini.exe app-charset_recgn-ini.c
