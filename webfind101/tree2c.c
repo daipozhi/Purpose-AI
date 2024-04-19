@@ -67,9 +67,10 @@ int deb_upper_string(char *p_instr);
     int   t3_list_stack[LIST_SIZE_C];
     char  t3_list_stack_type[LIST_SIZE_C];
     int   t3_list_ptr;
-
+/*
     char  t3_out_buff[TREE_SIZE_C][55];
     int   t3_out_buff2[TREE_SIZE_C];
+*/
 /*
     int   t3_out_buff3[TREE_SIZE_C][5][3];
     int   t3_out_buff3_ptr[TREE_SIZE_C];
@@ -79,13 +80,15 @@ int deb_upper_string(char *p_instr);
     int   t3_init_tree2(void);
     int   t3_new_node(void);
     int   t3_clear_node(int ptr);
-    int   t3_search_node(char *pstr);
-    int   t3_insert_node(char *pstr);
+    int   t3_search_node(char *pstr,int);
+    int   t3_insert_node(char *pstr,int);
     int   t3_dsp_tree2(void);
-    int   t3_after_list(void);
+    int   t3_after_list(char *);
     int   t3_out_list(char *pstr,int ,int);
     int   t3_dsp_list(void);
     int   t3_save_list(char *fn);
+
+extern int deb_str_has_null(const char *str,int str_size);
 
 int /*tree2::*/t3_init_tree2(void)
 {
@@ -141,11 +144,17 @@ int /*tree2::*/t3_clear_node(int ptr)
   return(0);
 }
 
-int /*tree2::*/t3_search_node(char *pstr)
+int /*tree2::*/t3_search_node(char *pstr,int pstr_size)
 {
   int i,j;
+  int z;
 
-  if ((int)strlen(pstr)>50) return(1);
+  if (pstr_size>51) z=51;
+  else z=pstr_size;
+  
+  if (deb_str_has_null(pstr,z)!=1) return(1);
+  
+  //if ((int)strlen(pstr)>50) return(1);
   
   if (t3_root_ptr<0)
   {
@@ -198,13 +207,19 @@ int /*tree2::*/t3_search_node(char *pstr)
 
 }
 
-int /*tree2::*/t3_insert_node(char *pstr)
+int /*tree2::*/t3_insert_node(char *pstr,int pstr_size)
 {
   int i,j;
+  int z;
 
-  if ((int)strlen(pstr)>50) return(1);
+  if (pstr_size>51) z=51;
+  else z=pstr_size;
+  
+  if (deb_str_has_null(pstr,z)!=1) return(1);
+  
+  //if ((int)strlen(pstr)>50) return(1);
 
-  i=t3_search_node(pstr);
+  i=t3_search_node(pstr,pstr_size);
 
   if (i==0)
   {
@@ -474,12 +489,26 @@ int dsp_tree2(void)
 }
 */
 
-static char m03_str1[300];
+static char  m03_str1[300];
+static FILE *m03_fp;
+static int   m03_wdn;
 
-int /*tree2::*/t3_after_list(void)
+int /*tree2::*/t3_after_list(char *fn)
 {
   int  i,j,k;
+  int  nn;
   //char str1[300];
+
+
+  m03_wdn=0;
+  
+  m03_fp=fopen(fn,"w");
+  if (m03_fp==NULL)
+  {
+    MessageBox(0,fn,"Error when open file",MB_OK);
+    return(1);
+  }
+
 
   t3_list_ptr=0;
   t3_out_ptr=0;
@@ -557,17 +586,36 @@ int /*tree2::*/t3_after_list(void)
     {
       k=t3_list_stack[j];
 
-      t3_out_list(t3_node_val[k],t3_node_val2[k],k);
+      //t3_out_list(t3_node_val[k],t3_node_val2[k],k);
 
       //sprintf(str1,"out val %s,",node_val[k]);
       //MessageBox(0,str1,"message",MB_OK);
+
+
+  nn=cww1_number_is2(t3_node_val[k]);
+  if (nn!=1) 
+  {
+    fputs(t3_node_val[k],m03_fp);
+    fputs("," ,m03_fp);
+
+    sprintf(m03_str1,"%d",t3_node_val2[k]);
+    fputs(m03_str1,m03_fp);
+
+    fputs("\n",m03_fp);
+      
+    m03_wdn++;
+  }
+
+      
     }
   }
 
+  printf("%s,total %d words,\n",fn,m03_wdn);
+
   return(0);
 }
-
-int /*tree2::*/t3_out_list(char *pstr,int pn1,int ptr)
+/*
+int t3_out_list(char *pstr,int pn1,int ptr)
 {
   int i,j;
 
@@ -580,10 +628,11 @@ int /*tree2::*/t3_out_list(char *pstr,int pn1,int ptr)
 
   return(0);
 }
-
+*/
+/*
 static char m04_str1[300];
 
-int /*tree2::*/t3_dsp_list(void)
+int t3_dsp_list(void)
 {
   //char str1[300];
   
@@ -604,12 +653,12 @@ int /*tree2::*/t3_dsp_list(void)
 
   return(0);
 }
-
+*/
 /*
 int  search_wd6(char *);
 int  load6(void);
 */
-
+/*
 int  wd6_search(char *);
 int  wd6_load(void);
 
@@ -617,7 +666,7 @@ static char m05_str1[300];
 static char m05_str2[300];
 static char m05_str3[300];
 
-int /*tree2::*/t3_save_list(char *fn)
+int t3_save_list(char *fn)
 {
   FILE *fp;
   int   i,j,k,l,nn,m;
@@ -639,7 +688,7 @@ int /*tree2::*/t3_save_list(char *fn)
     //nn=wd6_search(t3_out_buff[i]);
     //if (nn!=1) continue;
 
-    nn=cww1_number_is(t3_out_buff[i]);
+    nn=cww1_number_is2(t3_out_buff[i]);
     if (nn==1) continue;
 
     fputs(t3_out_buff[i],fp);
@@ -659,7 +708,7 @@ int /*tree2::*/t3_save_list(char *fn)
 
   return(0);
 }
-
+*/
 //class tree2 tree2a;
 /*
 int main(void)

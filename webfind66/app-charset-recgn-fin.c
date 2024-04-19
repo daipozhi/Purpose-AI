@@ -38,8 +38,8 @@ int main(int argc,char **argv)
   while (1)
   {
     str1[0]=0;
-    fseek(fp1,i*331,SEEK_SET);
-    j=fread(str1,331,1,fp1);
+    fseek(fp1,i*341,SEEK_SET);
+    j=fread(str1,341,1,fp1);
 
     if (j<1)
     {
@@ -49,7 +49,7 @@ int main(int argc,char **argv)
     
     if (str1[0]!=' ')
     {
-      str1[331]=0;
+      str1[341]=0;
       string_trim_nos(str1);
       fputs(str1,fp2);
       fputs("\n",fp2);

@@ -19231,52 +19231,31 @@ Reserved
 ·积分榜
 ·公告
 08奥运在即，每人心中都有一个奥运愿望，选择腾讯为你准备的2008梦想，装进漂流瓶投入大海，在全球365个地方自在漂流。你每天都有机会挣取积分、赢取丰厚的Q币奖励，每天还抽取一个幸运漂流瓶实现他的08愿望，还等什么，快快参加吧！
-<xmp
-id="Login_Box_View">
-{if
-LoginUserInfo.code
-==
-1}
+<xmp id="Login_Box_View">
+{if LoginUserInfo.code == 1}
 QQ号码
 QQ密码
 验证码
 看不清，换一张
-{elseif
-LoginUserInfo.code
-==
-0}
+{elseif LoginUserInfo.code == 0}
 欢迎您登录！
 QQ号：${LoginUserInfo.userinfo.user_id}
 昵称：${LoginUserInfo.userinfo.user_nick.escapeHTML()}
 漂流总积分：${LoginUserInfo.userinfo.bot_rank}
 当前停靠站点：${Floater.City[LoginUserInfo.userinfo.bot_city-1]}
 当前状态：
-{if
-LoginUserInfo.userinfo.bot_audit
->=
+{if LoginUserInfo.userinfo.bot_audit >=
 1}
 漂流中
-{elseif
-LoginUserInfo.userinfo.bot_audit
-==
-0}
+{elseif LoginUserInfo.userinfo.bot_audit == 0}
 资料审核中
-{elseif
-LoginUserInfo.userinfo.bot_audit
-==
--1}
+{elseif LoginUserInfo.userinfo.bot_audit == -1}
 资料审核失败
 {/if}
-{if
-document.location.pathname
-!=
-"/floater/mybot.shtml"}
+{if document.location.pathname != "/floater/mybot.shtml"}
 {else}
 {/if}
-{elseif
-LoginUserInfo.code
-==
--1}
+{elseif LoginUserInfo.code == -1}
 ${Floater.currentUser},
 欢迎您登录！
 {/if}
@@ -19500,52 +19479,31 @@ Reserved
 ·积分榜
 ·公告
 08奥运在即，每人心中都有一个奥运愿望，选择腾讯为你准备的2008梦想，装进漂流瓶投入大海，在全球365个地方自在漂流。你每天都有机会挣取积分、赢取丰厚的Q币奖励，每天还抽取一个幸运漂流瓶实现他的08愿望，还等什么，快快参加吧！
-<xmp
-id="Login_Box_View">
-{if
-LoginUserInfo.code
-==
-1}
+<xmp id="Login_Box_View">
+{if LoginUserInfo.code == 1}
 QQ号码
 QQ密码
 验证码
 看不清，换一张
-{elseif
-LoginUserInfo.code
-==
-0}
+{elseif LoginUserInfo.code == 0}
 欢迎您登录！
 QQ号：${LoginUserInfo.userinfo.user_id}
 昵称：${LoginUserInfo.userinfo.user_nick.escapeHTML()}
 漂流总积分：${LoginUserInfo.userinfo.bot_rank}
 当前停靠站点：${Floater.City[LoginUserInfo.userinfo.bot_city-1]}
 当前状态：
-{if
-LoginUserInfo.userinfo.bot_audit
->=
+{if LoginUserInfo.userinfo.bot_audit >=
 1}
 漂流中
-{elseif
-LoginUserInfo.userinfo.bot_audit
-==
-0}
+{elseif LoginUserInfo.userinfo.bot_audit == 0}
 资料审核中
-{elseif
-LoginUserInfo.userinfo.bot_audit
-==
--1}
+{elseif LoginUserInfo.userinfo.bot_audit == -1}
 资料审核失败
 {/if}
-{if
-document.location.pathname
-!=
-"/floater/mybot.shtml"}
+{if document.location.pathname != "/floater/mybot.shtml"}
 {else}
 {/if}
-{elseif
-LoginUserInfo.code
-==
--1}
+{elseif LoginUserInfo.code == -1}
 ${Floater.currentUser},
 欢迎您登录！
 {/if}
@@ -22180,8 +22138,7 @@ Reserved
 |
 腾讯奥运
 职业生涯
-姓名：郭跃（Guo
-Yue）
+姓名：郭跃（Guo Yue）
 性别：女
 籍贯：辽宁鞍山
 生日：1988.7.17
@@ -27463,8 +27420,7 @@ Reserved
 |
 腾讯奥运
 职业生涯
-姓名：孔令辉(Kong
-Linghui)
+姓名：孔令辉(Kong Linghui)
 性别：男
 籍贯：黑龙江哈尔滨
 生日：1975.10.18
@@ -29781,8 +29737,7 @@ Reserved
 |
 腾讯奥运
 职业生涯
-姓名：刘国梁（Liu
-Guoliang）
+姓名：刘国梁（Liu Guoliang）
 性别：男
 出生年月：1976.01.10
 身高：168cm
@@ -29790,11 +29745,11 @@ Guoliang）
 刘国梁6岁开始学打球，13岁进入国家青年队，1991年破格晋升国家队。刘国梁的技术特点是右手直握球拍，两面近台快攻。出色的发球结合革新的直拍横打以及反面发球技术，使直拍型打法获得新生。
 1996年奥运会上获男双(与孔令辉)、男单双料冠军，还是中国第一位世乒赛、世界杯和奥运会“大满贯”获得者，1996年世界杯后在国际乒联排名榜上跃居首位，2002年退役担任中国乒乓球队教练。2003年6月23日出任中国国家乒乓球队男队主教练，2004年3月7日，率领中国男子乒乓球队夺得第47届世乒赛男团冠军。
 1992年亚洲杯男团、混双冠军，亚锦赛男团、混双冠军；
-1993年第42届世乒赛男团亚军、男双第3(与林志刚，中国公开赛男团冠军、男单第3，瑞典公开赛男双冠军(与林志刚)、男团冠军，芬兰公开赛男单冠军、男双冠军(与林志刚)，亚洲杯男单第三，七运会男双冠军(与王涛)；
+1993年第42届世乒赛男团亚军、男双第3(与林志刚，中国公开赛男团冠军、男单第3，瑞典公开赛男双冠军(与林志刚)、男团冠军，芬兰公开赛男单冠军、男双冠军(与林志刚)，亚洲杯男单第三，七运会男双冠军(与王涛)； 
 1994年爱普生世界明星赛男单第三名，全国锦标赛男团、男双冠军(与林志刚)、混双第三(与乔云萍)、男团冠军，第12届亚锦赛男双冠军(与林志刚)、男单亚军，第3届世界杯团体赛男团冠军，意大利公开赛男双亚军(与熊柯)；
 1995年中国明星赛男单亚军，第43届世乒赛男团冠军、男单亚军、男双第三名(与林志刚)，中国大奖赛男双冠军(与王涛)、男单第三名，世界杯男单第三名，亚洲杯团体赛男团冠军；
 1996年中国乒协杯赛男双冠军(与孔令辉)、男单第三名，第26届奥运会男单冠军，男双(与孔令辉)冠军，第17届世界杯男单冠军，亚锦赛男双冠军，男团、男单、混双亚军，中国公开赛男双冠军；
-1997年第44届世乒赛男团，混双冠军(与邬娜)，男双冠军(与孔令辉，中国公开赛男双冠军(与孔令辉)，巴西公开赛男单、男双冠军，南斯拉夫公开赛男单冠军，八运会男双冠军(与王涛)，国际乒联总决赛男双冠军；
+1997年第44届世乒赛男团，混双冠军(与邬娜)，男双冠军(与孔令辉，中国公开赛男双冠军(与孔令辉)，巴西公开赛男单、男双冠军，南斯拉夫公开赛男单冠军，八运会男双冠军(与王涛)，国际乒联总决赛男双冠军； 
 1998年马来西亚公开赛男双冠军(与孔令辉)，日本公开赛男单亚军，全国俱乐部甲级联赛男团冠军，澳大利亚公开赛男双冠军(与孔令辉)、男单四强，中国公开赛赛男单冠军、男双四强(与孔令辉)，卡塔尔公开赛男双亚军，意大利公开赛男单冠军，国际乒联总决赛男单亚军，第13届亚运会男团冠军、男双冠军(与孔令辉)、男单亚军，第14届亚锦赛男团、男双冠军(与马琳)、男单并列第3名，世界杯男单第四；
 1999年国际乒联巡回赛总决赛男单亚军，首届世界乒乓球俱乐部赛冠军，第45届世乒赛男单、男双冠军(与孔令辉)，奥地利公开赛男单亚军、男双冠军，德国公开赛男单冠军；
 2000年第45届世乒赛团体赛男团亚军，第26届奥运会男单第三名，男双亚军，巴西公开赛男单、男双冠军，中国公开赛男单亚军，日本、美国公开赛男双冠军；
@@ -32093,8 +32048,7 @@ Reserved
 |
 腾讯奥运
 职业生涯
-姓名：马琳（Ma
-Lin）
+姓名：马琳（Ma Lin）
 籍贯：沈阳
 性别：男
 生日：1980.2.19
@@ -42805,9 +42759,7 @@ Reserved
 自行车
 CYCLING
 项目介绍
-自行车运动起源于欧洲。1790年法国的西夫拉克伯爵(Comte
-de
-Sivrac)将两个轮子装在木马上，人骑在上面用脚蹬地前行，称木马轮……
+自行车运动起源于欧洲。1790年法国的西夫拉克伯爵(Comte de Sivrac)将两个轮子装在木马上，人骑在上面用脚蹬地前行，称木马轮……
 详细
 自行车历史
 1815年，世界上第一辆自行车出现在法国，它没有中轴和脚蹬，骑车人和行走一样，借助脚蹬地的反作用力，使车轮向前滚动……
@@ -43086,9 +43038,7 @@ Reserved
 自行车
 CYCLING
 项目介绍
-自行车运动起源于欧洲。1790年法国的西夫拉克伯爵(Comte
-de
-Sivrac)将两个轮子装在木马上，人骑在上面用脚蹬地前行，称木马轮……
+自行车运动起源于欧洲。1790年法国的西夫拉克伯爵(Comte de Sivrac)将两个轮子装在木马上，人骑在上面用脚蹬地前行，称木马轮……
 详细
 自行车历史
 1815年，世界上第一辆自行车出现在法国，它没有中轴和脚蹬，骑车人和行走一样，借助脚蹬地的反作用力，使车轮向前滚动……
@@ -44919,8 +44869,7 @@ HOCKEY
 曲棍球历史
 时间：1861年地点；英国
 在埃及金字塔和古希腊壁雕上都有类似于现代曲
-棍球比赛的图像。中国在唐代就流行“步打球”（比赛时
-详细
+棍球比赛的图像。中国在唐代就流行“步打球”（比赛时 详细  
 曲棍球现状
 十九世纪下半叶，现代曲棍球几乎与现代足球同时起源于英国。1875年，在伦敦的一次会议上制订了最初的比赛规则；1886年，伦敦成立详细
 场馆介绍
@@ -45174,8 +45123,7 @@ HOCKEY
 曲棍球历史
 时间：1861年地点；英国
 在埃及金字塔和古希腊壁雕上都有类似于现代曲
-棍球比赛的图像。中国在唐代就流行“步打球”（比赛时
-详细
+棍球比赛的图像。中国在唐代就流行“步打球”（比赛时 详细  
 曲棍球现状
 十九世纪下半叶，现代曲棍球几乎与现代足球同时起源于英国。1875年，在伦敦的一次会议上制订了最初的比赛规则；1886年，伦敦成立详细
 场馆介绍

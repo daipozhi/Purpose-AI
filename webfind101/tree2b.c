@@ -75,9 +75,10 @@ extern     int   t1_find_side;
 extern     int   t1_list_stack[LIST_SIZE];
 extern     char  t1_list_stack_type[LIST_SIZE];
 extern     int   t1_list_ptr;
-
+/*
 extern     char  t1_out_buff[TREE_SIZE][55];
 extern     int   t1_out_buff2[TREE_SIZE];
+*/
 /*
     int   t1_out_buff3[TREE_SIZE][5][3];
     int   t1_out_buff3_ptr[TREE_SIZE];
@@ -89,10 +90,10 @@ extern     int   t1_out_ptr;
 extern     int   t1_init_tree2(void);
 extern     int   t1_new_node(void);
 extern     int   t1_clear_node(int ptr);
-extern     int   t1_search_node(char *pstr);
-extern     int   t1_insert_node(char *pstr);
+extern     int   t1_search_node(char *pstr,int);
+extern     int   t1_insert_node(char *pstr,int);
 extern     int   t1_dsp_tree2(void);
-extern     int   t1_after_list(void);
+extern     int   t1_after_list(char *);
 extern     int   t1_out_list(char *pstr,int ,int);
 extern     int   t1_dsp_list(void);
 extern     int   t1_save_list(char *fn);
@@ -149,8 +150,8 @@ class tree2b
     int   t2_init_tree2(void);
     int   t2_new_node(void);
     int   t2_clear_node(int ptr);
-    int   t2_search_node(char *pstr);
-    int   t2_insert_node(char *pstr);
+    int   t2_search_node(char *pstr,int);
+    int   t2_insert_node(char *pstr,int);
     int   t2_dsp_tree2(void);
     int   t2_after_list(void);
     int   t2_out_list(char *pstr,int ,int);
@@ -165,6 +166,7 @@ class tree2b tree2b_1;*/
 
 
 
+extern int deb_str_has_null(const char *str,int str_size);
 
 int /*tree2b::*/t2_init_tree2(void)
 {
@@ -212,11 +214,17 @@ int /*tree2b::*/t2_clear_node(int ptr)
   return(0);
 }
 
-int /*tree2b::*/t2_search_node(char *pstr)
+int /*tree2b::*/t2_search_node(char *pstr,int pstr_size)
 {
   int i,j;
+  int z;
 
-  if ((int)strlen(pstr)>50) return(1);
+  if (pstr_size>51) z=51;
+  else z=pstr_size;
+  
+  if (deb_str_has_null(pstr,z)!=1) return(1);
+
+  //if ((int)strlen(pstr)>50) return(1);
   
   if (t2_root_ptr<0)
   {
@@ -269,13 +277,19 @@ int /*tree2b::*/t2_search_node(char *pstr)
 
 }
 
-int /*tree2b::*/t2_insert_node(char *pstr)
+int /*tree2b::*/t2_insert_node(char *pstr,int pstr_size)
 {
   int i,j;
+  int z;
 
-  if ((int)strlen(pstr)>50) return(1);
+  if (pstr_size>51) z=51;
+  else z=pstr_size;
+  
+  if (deb_str_has_null(pstr,z)!=1) return(1);
 
-  i=t2_search_node(pstr);
+  //if ((int)strlen(pstr)>50) return(1);
+
+  i=t2_search_node(pstr,pstr_size);
 
   if (i==0)
   {
@@ -707,7 +721,7 @@ int /*tree2b::*/t2_save_list(char *fn)
     if (t2_out_buff2[i]>=2)
     {
 
-	/*tree2_1.*/t1_insert_node(t2_out_buff[i]);
+	/*tree2_1.*/t1_insert_node(t2_out_buff[i],55);
 	/*tree2_1.*/t1_node_val2[/*tree2_1.*/t1_find_ptr2]=/*tree2_1.*/t1_node_val2[/*tree2_1.*/t1_find_ptr2]+t2_out_buff2[i];
 
     }

@@ -42,9 +42,10 @@ extern     int   t1_find_side;
 extern     int   t1_list_stack[LIST_SIZE];
 extern     char  t1_list_stack_type[LIST_SIZE];
 extern     int   t1_list_ptr;
-
+/*
 extern     char  t1_out_buff[TREE_SIZE][55];
 extern     int   t1_out_buff2[TREE_SIZE];
+*/
 /*
     int   t1_out_buff3[TREE_SIZE][5][3];
     int   t1_out_buff3_ptr[TREE_SIZE];
@@ -56,10 +57,10 @@ extern     int   t1_out_ptr;
 extern     int   t1_init_tree2(void);
 extern     int   t1_new_node(void);
 extern     int   t1_clear_node(int ptr);
-extern     int   t1_search_node(char *pstr);
-extern     int   t1_insert_node(char *pstr);
+extern     int   t1_search_node(char *pstr,int);
+extern     int   t1_insert_node(char *pstr,int);
 extern     int   t1_dsp_tree2(void);
-extern     int   t1_after_list(void);
+extern     int   t1_after_list(char *);
 extern     int   t1_out_list(char *pstr,int ,int);
 extern     int   t1_dsp_list(void);
 extern     int   t1_save_list(char *fn);
@@ -111,8 +112,8 @@ extern     int   t2_out_ptr;
 extern     int   t2_init_tree2(void);
 extern     int   t2_new_node(void);
 extern     int   t2_clear_node(int ptr);
-extern     int   t2_search_node(char *pstr);
-extern     int   t2_insert_node(char *pstr);
+extern     int   t2_search_node(char *pstr,int);
+extern     int   t2_insert_node(char *pstr,int);
 extern     int   t2_dsp_tree2(void);
 extern     int   t2_after_list(void);
 extern     int   t2_out_list(char *pstr,int ,int);
@@ -147,9 +148,10 @@ extern     int   t3_find_side;
 extern     int   t3_list_stack[LIST_SIZE_C];
 extern     char  t3_list_stack_type[LIST_SIZE_C];
 extern     int   t3_list_ptr;
-
+/*
 extern     char  t3_out_buff[TREE_SIZE_C][55];
 extern     int   t3_out_buff2[TREE_SIZE_C];
+*/
 /*
     int   t3_out_buff3[TREE_SIZE_C][5][3];
     int   t3_out_buff3_ptr[TREE_SIZE_C];
@@ -159,10 +161,10 @@ extern     int   t3_out_ptr;
 extern     int   t3_init_tree2(void);
 extern     int   t3_new_node(void);
 extern     int   t3_clear_node(int ptr);
-extern     int   t3_search_node(char *pstr);
-extern     int   t3_insert_node(char *pstr);
+extern     int   t3_search_node(char *pstr,int);
+extern     int   t3_insert_node(char *pstr,int);
 extern     int   t3_dsp_tree2(void);
-extern     int   t3_after_list(void);
+extern     int   t3_after_list(char *);
 extern     int   t3_out_list(char *pstr,int ,int);
 extern     int   t3_dsp_list(void);
 extern     int   t3_save_list(char *fn);
@@ -202,15 +204,15 @@ int main(void)
   
     	word8("");
 
-    	t1_after_list();
+    	t1_after_list("words04.txt");
   
-    	t1_save_list("words04.txt");
+    	//t1_save_list("words04.txt");
     	
     	load17();
 
-    	t3_after_list();
+    	t3_after_list("words-cw02rpt04.txt");
   
-    	t3_save_list("words-cw02rpt04.txt");
+    	//t3_save_list("words-cw02rpt04.txt");
 
 	MessageBox(0,"grammar ok","message",MB_OK);
 
@@ -294,7 +296,7 @@ int word8(char *pstr1)
 				}
 				else
 				{
-					if ((c4!=',')&&(c4!=';')&&(c4!='|'))
+					if ((c4!=',')&&(c4!=';')&&(c4!=':')&&(c4!='|')&&(c4!='+')&&(c4!='#'))
 					{
 						m201_str2[m+0]=c4;
 						m201_str2[m+1]=c5;
@@ -305,12 +307,12 @@ int word8(char *pstr1)
 					}
 					else
 					{
-						t2_insert_node(m201_str2);   // nomal word ,not $* ,not $n
+						t2_insert_node(m201_str2,5000);   // nomal word ,not $* ,not $n
 						t2_node_val2[t2_find_ptr2]=t2_node_val2[t2_find_ptr2]+1;
 
-						if (c4==';')
+						if ((c4==';')||(c4=='#'))
 						{
-							t3_insert_node(m201_str2);
+							t3_insert_node(m201_str2,5000);
 							t3_node_val2[t3_find_ptr2]=t3_node_val2[t3_find_ptr2]+1;
 						}
 
@@ -454,7 +456,7 @@ int wd6_load(void)
 	return(0);
 }
 
-int wd6_search(char *s_str)
+int wd6_search(char *p_str)
 {
 	int p1,p2;
 	int i,j;
@@ -473,7 +475,7 @@ int wd6_search(char *s_str)
 		if ( (i<0)||(i>=wd6_ptr)||(i>=ARTI_LINE2) ) return(0);
 		if (i<=p1)
 		{
-			j=strcmp(wd6_buf[i],s_str);
+			j=strcmp(wd6_buf[i],p_str);
 			if (j==0)
 			{
 				find=1;
@@ -490,7 +492,7 @@ int wd6_search(char *s_str)
 		{
 			if (i>=p2)
 			{
-				j=strcmp(wd6_buf[i],s_str);
+				j=strcmp(wd6_buf[i],p_str);
 				if (j==0)
 				{
 					find=1;
@@ -505,7 +507,7 @@ int wd6_search(char *s_str)
 			}
 			else
 			{
-				j=strcmp(wd6_buf[i],s_str);
+				j=strcmp(wd6_buf[i],p_str);
 				if (j==0)
 				{
 					find=1;
@@ -638,7 +640,7 @@ int load17(void)
 
 		printf("%s\n",m201_str4);
 		*/			
-		t3_insert_node(m201_str9[0]);
+		t3_insert_node(m201_str9[0],5000);
 		t3_node_val2[t3_find_ptr2]=t3_node_val2[t3_find_ptr2]+q;
 
 		ins++;

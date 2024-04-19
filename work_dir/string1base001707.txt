@@ -5913,28 +5913,22 @@ stock.qq.com
 更多关于“暴跌”的新闻
 &#183;暴跌之后指南
 2月投资机会在哪里？(附股)
-(2008-01-31
-18:04:22)
+(2008-01-31 18:04:22)
 &#183;年线终于彻底告破
 全面暴跌将沪指拖入深渊
-(2008-01-31
-16:10:22)
+(2008-01-31 16:10:22)
 &#183;中石油孤掌难鸣题材股暴跌
 沪指跌破年线
-(2008-01-31
-15:07:32)
+(2008-01-31 15:07:32)
 &#183;市场杀伤力超5&#183;30
 谁是本轮暴跌做空主力？
-(2008-01-31
-07:27:14)
+(2008-01-31 07:27:14)
 &#183;连续暴跌后大盘企稳反弹
 题材股再受追捧
-(2008-01-30
-10:43:54)
+(2008-01-30 10:43:54)
 &#183;面对A股市场暴跌
 基金提前布局抵抗下跌
-(2008-01-30
-08:54:36)
+(2008-01-30 08:54:36)
 热点推荐
 鼠年投资策略
 巴菲特公布救市计划
@@ -18669,86 +18663,16 @@ http://stock.QQ.com
 评论0条
 银河封闭式基金业绩排行榜1月18日
 <COLGROUP>
-<COL
-style="WIDTH:
-20pt;
-mso-width-source:
-userset;
-mso-width-alt:
-832"
-width=26>
-<COL
-style="WIDTH:
-47pt;
-mso-width-source:
-userset;
-mso-width-alt:
-1984"
-width=62>
-<COL
-style="WIDTH:
-50pt;
-mso-width-source:
-userset;
-mso-width-alt:
-2144"
-width=67>
-<COL
-style="WIDTH:
-47pt;
-mso-width-source:
-userset;
-mso-width-alt:
-1984"
-width=62>
-<COL
-style="WIDTH:
-47pt;
-mso-width-source:
-userset;
-mso-width-alt:
-2016"
-width=63>
-<COL
-style="WIDTH:
-44pt;
-mso-width-source:
-userset;
-mso-width-alt:
-1856"
-width=58>
-<COL
-style="WIDTH:
-24pt;
-mso-width-source:
-userset;
-mso-width-alt:
-1024"
-width=32>
-<COL
-style="WIDTH:
-40pt;
-mso-width-source:
-userset;
-mso-width-alt:
-1696"
-width=53>
-<COL
-style="WIDTH:
-23pt;
-mso-width-source:
-userset;
-mso-width-alt:
-960"
-width=30>
-<COL
-style="WIDTH:
-53pt;
-mso-width-source:
-userset;
-mso-width-alt:
-2272"
-width=71>
+<COL style="WIDTH: 20pt; mso-width-source: userset; mso-width-alt: 832" width=26>
+<COL style="WIDTH: 47pt; mso-width-source: userset; mso-width-alt: 1984" width=62>
+<COL style="WIDTH: 50pt; mso-width-source: userset; mso-width-alt: 2144" width=67>
+<COL style="WIDTH: 47pt; mso-width-source: userset; mso-width-alt: 1984" width=62>
+<COL style="WIDTH: 47pt; mso-width-source: userset; mso-width-alt: 2016" width=63>
+<COL style="WIDTH: 44pt; mso-width-source: userset; mso-width-alt: 1856" width=58>
+<COL style="WIDTH: 24pt; mso-width-source: userset; mso-width-alt: 1024" width=32>
+<COL style="WIDTH: 40pt; mso-width-source: userset; mso-width-alt: 1696" width=53>
+<COL style="WIDTH: 23pt; mso-width-source: userset; mso-width-alt: 960" width=30>
+<COL style="WIDTH: 53pt; mso-width-source: userset; mso-width-alt: 2272" width=71>
 序号
 基金代码
 基金简称
@@ -35717,8 +35641,7 @@ http://stock.QQ.com
 投机像山岳一样古老，短短的一句话道尽了投机市场的百态……
 证监会规定，公司申请进行IPO必须聘请一家拥有承销业务执照的券商在规定的一年准备期内帮助其满足上市条件。中海信托在公告中表示，该公司已经聘请了中信证券帮助筹备IPO，目前正在接受中信证券辅导。但具体的上市时间表还不得而知，IPO规模也未透露。
 据悉，中海信托为中国海洋石油总公司和中国中信集团公司共同投资设立的国有非银行金融机构。公司注册资本为12亿元人民币，中国海洋石油总公司和中国中信集团公司各占95%和5%。(记者马岚)
-（京华时报
-）
+（京华时报 ）
 行情·大盘·个股
 stock.qq.com
 腾讯声明：频道所载文章、数据等内容纯属作者个人观点，仅供投资者参考，并不构成投资建议。

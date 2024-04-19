@@ -1132,9 +1132,7 @@ http:www.shang360.com
 2007年3月，赛富
 (SAIF)
 成功募集了赛富亚洲投资基金第三期
-(SAIF
-Partners
-III)
+(SAIF Partners III)
 ，基金规模达到11.00亿美元，是目前首支募资超过10亿美元并主要面向中国大陆地区的创投基金。目前，赛富旗下管理的基金已超过20亿美元。
 赛富三期的投资人阵容极其豪华，包括了哈佛、普林斯顿、康耐尔、达特茅斯等四家常青藤学校基金，全世界最大的养老金——加州政府的职工退休金，以及全世界第二大的纽约州养老金，以及麦卡瑟基金、杜邦基金和强生基金、共同基金、Horsley
 Bridge和瑞士信贷等著名基金和投资机构。
@@ -1151,8 +1149,7 @@ Bridge和瑞士信贷等著名基金和投资机构。
 2007年9月29日，中国投资有限责任公司在北京宣告成立，中国的主权财富基金开始崭露头角。公司通过财政部发行1.55万亿元特别国债购买2000亿美元外汇储备募集资本金，计划用约三分之二的资金重组国内的金融行业，剩余约700亿美元的资金将投资于全球金融市场，主要将以国际金融产品组合投资为主，也包括股权投资。而私募股权投资作为金融投资组合的一部分，开始被中国投资有限公司所关注。
 刚刚成立的中投公司已经完成三笔投资，首笔投资是在美国最大私募股权投资基金之一黑石集团的首次公开发行(IPO)中，认购了后者价值30亿美元无投票权的股份。虽然目前在对黑石的投资在短期出现账面亏损，但中国投资有限公司作为主权基金，奉行的是长期投资的理念。另一笔是作为基础投资人，在N中铁香港公开上市前，认购价值7.8亿港元的H股股份。最新的一笔投资是购买世界顶级投行之一摩根士丹利公司价值50亿美元的可转换股权单位，该公司正遭受美国次级抵押贷款危机的冲击，股价连续下跌，但公司本身仍保持长期增长潜力。在该投资合约到期后如果全部转换成普通股，中国投资有限公司将成为摩根士丹利公司的第二大股东。我们相信，按照商业原则运作的中国主权财富基金将为中国巨额的外汇储备投资寻找到新的出路，同时在可接受的风险范围内，实现公司股东权益的最大化。
 事件六
-巨型私募股权基金投资中国，KKR和黑石(Black
-Stone)中国首例投资成行
+巨型私募股权基金投资中国，KKR和黑石(Black Stone)中国首例投资成行
 中国企业的高成长性和国企改革吸引着黑石、KKR、凯雷和德州N太平洋集团这些世界领先的巨型私募股权基金相继来到中国进行投资。继1999年凯雷集团投资亚商在线和2003年德州太平洋集团(TPG)收购深圳发展银行之后，2007年，同为国际私募股权投资基金巨头的黑石和KKR也开始在中国的进行首例投资。2007年9月10日，黑石集团宣布将向中国蓝星(集团)总公司(蓝星集团)投资6亿美元，占其20%的股份。仅隔7天，KKR也正式宣布完成了对河南天瑞水泥的投资，持有后者43.2%左右的股份，投资总额达1.15亿美元。这类巨型私募股权基金投资中国企业，为企业带来的不仅是资金，更重要的是能够利用其丰富的行业经验和全球资源改善被投资企业的组织架构，提高企业运营，帮助中国企业创造价值。
 事件七
 政府逐步批准产业基金试点和券商直接投资基金，本土私募股权基金加速设立
@@ -1173,10 +1170,7 @@ Stone)中国首例投资成行
 网游行业进入收获季节，完美时空、巨人网络、金山、网龙相继上市
 2007年下半年，网络游戏行业进入收获季节，共有四家网游相关企业在纳斯达克、纽交所、香港主板及创业板上市，共募集资金约14亿美元，跻身我国网游行业的“新贵”，同时也给投资其中的创投机构带来了丰厚的回报。
 2007年7月26日，完美时空(NASDAQ：PWRD)在纳斯达克挂牌上市，发行价为16.00美元，融资额1.89亿美元。首日开盘价17.50美元，当日收盘20.40美元，较发行价上涨27.5%。上市首日，参投完美时空的赛富亚洲投资基金其账面回报倍数即在30倍以上。
-2007年10月9日，金山软件(HK：3888)在香港主板上市，发行价3.60港元，融资8.83亿港元(约1.14亿美元)。首日开盘价3.90港元，全日收报5.00港元，较发行价上涨38.9%。英特尔投资、新加坡政府投资有限公司和新宏远创(New
-Horizon
-Fund
-L.P.)盼来收割季节。
+2007年10月9日，金山软件(HK：3888)在香港主板上市，发行价3.60港元，融资8.83亿港元(约1.14亿美元)。首日开盘价3.90港元，全日收报5.00港元，较发行价上涨38.9%。英特尔投资、新加坡政府投资有限公司和新宏远创(New Horizon Fund L.P.)盼来收割季节。
 2007年11月1日，巨人网络(NYSE：GA)在纽约证券交易所上市，发行价15.50美元，融资8.87亿美元。首日开盘价18.25美元，收盘报18.23美元，较发行价上涨17.6%。海纳亚洲(SIG)等四家创投、私募股权基金分得一杯羹。
 时隔一天，2007年11月2日，网龙(HK：8288)在香港创业板上市，发行价13.18港元，融资16.37亿港元(约2.10亿美元)。首日开盘价19.00港元，收盘报16.48港元，较发行价上涨25.0%。IDG创投基金、深圳创新投旗下Happy
 Sunshine创投基金等三家创投有望获得丰厚回报。
@@ -3176,9 +3170,7 @@ TTL
 快门
 4-1/2000秒
 连拍
-连拍（约16幅/秒）；16幅连拍（约1.9幅/秒，只在影像大小为
-6M
-时可用）
+连拍（约16幅/秒）；16幅连拍（约1.9幅/秒，只在影像大小为 6M 时可用）
 手动功能
 全自动
 测光模式
@@ -3207,15 +3199,12 @@ TTL
 图像尺寸
 2560
 x
-1920（高：2560*
-/
-标准：2560）；2048
+1920（高：2560* / 标准：2560）；2048
 x
 1536（标准：2048）；1024
 x
 768
-(PC
-屏幕：1024)；640
+(PC 屏幕：1024)；640
 x
 480（电视屏幕：640）
 短片摄录
@@ -3260,9 +3249,7 @@ SD/MMC卡
 体积
 89.5×60.5×26mm
 重量
-115g(不包括电池、镜头盖和
-SD
-记忆卡)
+115g(不包括电池、镜头盖和 SD 记忆卡)
 电池类型
 LR6
 AA电池
@@ -3764,8 +3751,7 @@ WAP
 内存容量
 60MB
 存储卡功能
-T-Flash(Micro
-SD)卡
+T-Flash(Micro SD)卡
 其他功能
 USSD功能/SyncML功能/EFR
 STK服务
@@ -4677,76 +4663,21 @@ window.screen.width>800
 imgheight=100:imgheight=100
 function
 myload()
-{
-if
-(navigator.appName
-==
-"Netscape")
-{document.myitcom.pageY=pageYOffset+window.innerHeight-imgheight;
-document.myitcom.pageX=+window.innerWidth-120;
-mymove();
-}
-else
-{
-myitcom.style.top=document.body.scrollTop+document.body.offsetHeight-imgheight;
-myitcom.style.left=document.body.offsetWidth-120;
-mymove();
-}
-}
+{ if (navigator.appName == "Netscape") {document.myitcom.pageY=pageYOffset+window.innerHeight-imgheight; document.myitcom.pageX=+window.innerWidth-120; mymove(); } else { myitcom.style.top=document.body.scrollTop+document.body.offsetHeight-imgheight; myitcom.style.left=document.body.offsetWidth-120; mymove(); } }
 function
 mymove()
-{
-if(document.ns)
-{
-document.myitcom.top=pageYOffset+window.innerHeight-imgheight;
-document.myitcom.left=pageXOffset+window.innerWidth-120;
-setTimeout("mymove();",50)
-}
-else
-{
-myitcom.style.top=document.body.scrollTop+document.body.offsetHeight-imgheight;
-myitcom.style.left=document.body.scrollLeft+document.body.offsetWidth-100;
-setTimeout("mymove();",50)
-}
-}
+{ if(document.ns) { document.myitcom.top=pageYOffset+window.innerHeight-imgheight; document.myitcom.left=pageXOffset+window.innerWidth-120; setTimeout("mymove();",50) } else { myitcom.style.top=document.body.scrollTop+document.body.offsetHeight-imgheight; myitcom.style.left=document.body.scrollLeft+document.body.offsetWidth-100; setTimeout("mymove();",50) } }
 function
 MM_reloadPage(init)
-{
-//reloads
-the
-window
-if
-Nav4
-resized
-if
-(init==true)
-with
-(navigator)
-{if
-((appName=="Netscape")&&(parseInt(appVersion)==4))
-{
-document.MM_pgW=innerWidth;
-document.MM_pgH=innerHeight;
-onresize=MM_reloadPage;
-}}
-else
-if
-(innerWidth!=document.MM_pgW
-||
-innerHeight!=document.MM_pgH)
-location.reload();
-}
+{ //reloads the window if Nav4 resized if (init==true) with (navigator) {if ((appName=="Netscape")&&(parseInt(appVersion)==4)) { document.MM_pgW=innerWidth; document.MM_pgH=innerHeight; onresize=MM_reloadPage; }} else if (innerWidth!=document.MM_pgW || innerHeight!=document.MM_pgH) location.reload(); }
 MM_reloadPage(true)
 if
-(navigator.appName
-==
-"Netscape")
+(navigator.appName == "Netscape")
 {document.write("
 ");
 myload()}
 else
-{
-document.write("
+{ document.write("
 ");
 myload()
 }
@@ -6772,8 +6703,7 @@ IT商城特价抢购
 -
 戴尔
 PowerEdge
-2950(Xeon
-5110/1GB/73GB)
+2950(Xeon 5110/1GB/73GB)
 ￥18000
 --
 暂无报价
@@ -6792,8 +6722,7 @@ SCSI\电源类型：热插拔冗余电源
 -
 戴尔
 PowerEdge
-1950(Xeon
-5110/1GB/73GB)
+1950(Xeon 5110/1GB/73GB)
 ￥16000
 --
 暂无报价
@@ -6812,8 +6741,7 @@ SCSI\电源类型：热插拔冗余电源
 -
 戴尔
 PowerEdge
-860(PD
-915/512MB/80GB)
+860(PD 915/512MB/80GB)
 ￥8900
 --
 暂无报价
@@ -6830,8 +6758,7 @@ D
 -
 戴尔
 PowerEdge
-860(Xeon
-3050/512MB/73GB)
+860(Xeon 3050/512MB/73GB)
 ￥11800
 --
 暂无报价
@@ -6850,8 +6777,7 @@ SCSI\电源类型：服务器专用电源
 -
 戴尔
 PowerEdge
-SC440(PD
-915/512MB/160GB)
+SC440(PD 915/512MB/160GB)
 ￥4500
 --
 暂无报价
@@ -6868,8 +6794,7 @@ D
 -
 戴尔
 PowerEdge
-SC440(Xeon
-3040/1GB/160GB)
+SC440(Xeon 3040/1GB/160GB)
 ￥6200
 --
 暂无报价
@@ -6886,8 +6811,7 @@ DP
 -
 戴尔
 PowerEdge
-840(PD
-915/1GB/160GB)
+840(PD 915/1GB/160GB)
 ￥7500
 --
 暂无报价
@@ -6904,8 +6828,7 @@ D
 -
 戴尔
 PowerEdge
-1900(Xeon
-5110/1GB/73GB)
+1900(Xeon 5110/1GB/73GB)
 ￥15000
 --
 暂无报价
@@ -6924,8 +6847,7 @@ SCSI\电源类型：服务器专用电源
 -
 戴尔
 PowerEdge
-1900(Xeon
-5110/2GB/146GB*2)
+1900(Xeon 5110/2GB/146GB*2)
 ￥25000
 --
 暂无报价
@@ -6944,8 +6866,7 @@ SCSI\电源类型：服务器专用电源
 -
 戴尔
 PowerEdge
-1900(Xeon
-5140*2/4GB/146GB*6)
+1900(Xeon 5140*2/4GB/146GB*6)
 ￥45500
 --
 暂无报价
@@ -6964,8 +6885,7 @@ SCSI\电源类型：服务器专用电源
 -
 戴尔
 PowerEdge
-2900(Xeon
-5130*2/2GB/146GB*2)
+2900(Xeon 5130*2/2GB/146GB*2)
 ￥25000
 --
 暂无报价
@@ -6984,8 +6904,7 @@ SCSI\电源类型：热插拔非冗余电源
 -
 戴尔
 PowerEdge
-2900(Xeon
-5140*2/4GB/146GB*8)
+2900(Xeon 5140*2/4GB/146GB*8)
 ￥62000
 --
 暂无报价
@@ -7004,8 +6923,7 @@ SCSI\电源类型：热插拔非冗余电源
 -
 戴尔
 PowerEdge
-1950(Xeon
-5120*2/2GB/73GB*2)
+1950(Xeon 5120*2/2GB/73GB*2)
 ￥23000
 --
 暂无报价
@@ -7024,8 +6942,7 @@ SCSI\电源类型：热插拔冗余电源
 -
 戴尔
 PowerEdge
-1950(Xeon
-5140*2/4GB/146GB*2)
+1950(Xeon 5140*2/4GB/146GB*2)
 ￥34000
 --
 暂无报价
@@ -7044,8 +6961,7 @@ SCSI\电源类型：热插拔冗余电源
 -
 戴尔
 PowerEdge
-2950(Xeon
-5120*2/4GB/146GB*6)
+2950(Xeon 5120*2/4GB/146GB*6)
 ￥29000
 --
 暂无报价
@@ -7064,8 +6980,7 @@ SCSI\电源类型：热插拔冗余电源
 -
 戴尔
 PowerEdge
-2950(Xeon
-5160*2/8GB/300GB*3)
+2950(Xeon 5160*2/8GB/300GB*3)
 ￥62000
 --
 暂无报价
@@ -7090,8 +7005,7 @@ SCSI\电源类型：热插拔冗余电源
 -
 戴尔
 PowerEdge
-2900(Xeon
-5140*2/4GB/146GB*8)
+2900(Xeon 5140*2/4GB/146GB*8)
 ￥62000
 --
 暂无报价
@@ -7110,8 +7024,7 @@ SCSI\电源类型：热插拔非冗余电源
 -
 戴尔
 PowerEdge
-2950(Xeon
-5160*2/8GB/300GB*3)
+2950(Xeon 5160*2/8GB/300GB*3)
 ￥62000
 --
 暂无报价
@@ -7130,8 +7043,7 @@ SCSI\电源类型：热插拔冗余电源
 -
 戴尔
 PowerEdge
-1900(Xeon
-5140*2/4GB/146GB*6)
+1900(Xeon 5140*2/4GB/146GB*6)
 ￥45500
 --
 暂无报价
@@ -7150,8 +7062,7 @@ SCSI\电源类型：服务器专用电源
 -
 戴尔
 PowerEdge
-1950(Xeon
-5140*2/4GB/146GB*2)
+1950(Xeon 5140*2/4GB/146GB*2)
 ￥34000
 --
 暂无报价
@@ -7170,8 +7081,7 @@ SCSI\电源类型：热插拔冗余电源
 -
 戴尔
 PowerEdge
-2950(Xeon
-5120*2/4GB/146GB*6)
+2950(Xeon 5120*2/4GB/146GB*6)
 ￥29000
 --
 暂无报价
@@ -7190,8 +7100,7 @@ SCSI\电源类型：热插拔冗余电源
 -
 戴尔
 PowerEdge
-1900(Xeon
-5110/2GB/146GB*2)
+1900(Xeon 5110/2GB/146GB*2)
 ￥25000
 --
 暂无报价
@@ -7210,8 +7119,7 @@ SCSI\电源类型：服务器专用电源
 -
 戴尔
 PowerEdge
-2900(Xeon
-5130*2/2GB/146GB*2)
+2900(Xeon 5130*2/2GB/146GB*2)
 ￥25000
 --
 暂无报价
@@ -7230,8 +7138,7 @@ SCSI\电源类型：热插拔非冗余电源
 -
 戴尔
 PowerEdge
-1950(Xeon
-5120*2/2GB/73GB*2)
+1950(Xeon 5120*2/2GB/73GB*2)
 ￥23000
 --
 暂无报价
@@ -7250,8 +7157,7 @@ SCSI\电源类型：热插拔冗余电源
 -
 戴尔
 PowerEdge
-2950(Xeon
-5110/1GB/73GB)
+2950(Xeon 5110/1GB/73GB)
 ￥18000
 --
 暂无报价
@@ -7270,8 +7176,7 @@ SCSI\电源类型：热插拔冗余电源
 -
 戴尔
 PowerEdge
-1950(Xeon
-5110/1GB/73GB)
+1950(Xeon 5110/1GB/73GB)
 ￥16000
 --
 暂无报价
@@ -7290,8 +7195,7 @@ SCSI\电源类型：热插拔冗余电源
 -
 戴尔
 PowerEdge
-1900(Xeon
-5110/1GB/73GB)
+1900(Xeon 5110/1GB/73GB)
 ￥15000
 --
 暂无报价
@@ -7310,8 +7214,7 @@ SCSI\电源类型：服务器专用电源
 -
 戴尔
 PowerEdge
-860(Xeon
-3050/512MB/73GB)
+860(Xeon 3050/512MB/73GB)
 ￥11800
 --
 暂无报价
@@ -7330,8 +7233,7 @@ SCSI\电源类型：服务器专用电源
 -
 戴尔
 PowerEdge
-860(PD
-915/512MB/80GB)
+860(PD 915/512MB/80GB)
 ￥8900
 --
 暂无报价
@@ -7348,8 +7250,7 @@ D
 -
 戴尔
 PowerEdge
-840(PD
-915/1GB/160GB)
+840(PD 915/1GB/160GB)
 ￥7500
 --
 暂无报价
@@ -7366,8 +7267,7 @@ D
 -
 戴尔
 PowerEdge
-SC440(Xeon
-3040/1GB/160GB)
+SC440(Xeon 3040/1GB/160GB)
 ￥6200
 --
 暂无报价
@@ -7384,8 +7284,7 @@ DP
 -
 戴尔
 PowerEdge
-SC440(PD
-915/512MB/160GB)
+SC440(PD 915/512MB/160GB)
 ￥4500
 --
 暂无报价
@@ -7408,8 +7307,7 @@ D
 -
 戴尔
 PowerEdge
-2950(Xeon
-5110/1GB/73GB)
+2950(Xeon 5110/1GB/73GB)
 ￥18000
 --
 暂无报价
@@ -7428,8 +7326,7 @@ SCSI\电源类型：热插拔冗余电源
 -
 戴尔
 PowerEdge
-1950(Xeon
-5110/1GB/73GB)
+1950(Xeon 5110/1GB/73GB)
 ￥16000
 --
 暂无报价
@@ -7448,8 +7345,7 @@ SCSI\电源类型：热插拔冗余电源
 -
 戴尔
 PowerEdge
-860(PD
-915/512MB/80GB)
+860(PD 915/512MB/80GB)
 ￥8900
 --
 暂无报价
@@ -7466,8 +7362,7 @@ D
 -
 戴尔
 PowerEdge
-860(Xeon
-3050/512MB/73GB)
+860(Xeon 3050/512MB/73GB)
 ￥11800
 --
 暂无报价
@@ -7486,8 +7381,7 @@ SCSI\电源类型：服务器专用电源
 -
 戴尔
 PowerEdge
-SC440(PD
-915/512MB/160GB)
+SC440(PD 915/512MB/160GB)
 ￥4500
 --
 暂无报价
@@ -7504,8 +7398,7 @@ D
 -
 戴尔
 PowerEdge
-SC440(Xeon
-3040/1GB/160GB)
+SC440(Xeon 3040/1GB/160GB)
 ￥6200
 --
 暂无报价
@@ -7522,8 +7415,7 @@ DP
 -
 戴尔
 PowerEdge
-840(PD
-915/1GB/160GB)
+840(PD 915/1GB/160GB)
 ￥7500
 --
 暂无报价
@@ -7540,8 +7432,7 @@ D
 -
 戴尔
 PowerEdge
-1900(Xeon
-5110/1GB/73GB)
+1900(Xeon 5110/1GB/73GB)
 ￥15000
 --
 暂无报价
@@ -7560,8 +7451,7 @@ SCSI\电源类型：服务器专用电源
 -
 戴尔
 PowerEdge
-1900(Xeon
-5110/2GB/146GB*2)
+1900(Xeon 5110/2GB/146GB*2)
 ￥25000
 --
 暂无报价
@@ -7580,8 +7470,7 @@ SCSI\电源类型：服务器专用电源
 -
 戴尔
 PowerEdge
-1900(Xeon
-5140*2/4GB/146GB*6)
+1900(Xeon 5140*2/4GB/146GB*6)
 ￥45500
 --
 暂无报价
@@ -7600,8 +7489,7 @@ SCSI\电源类型：服务器专用电源
 -
 戴尔
 PowerEdge
-2900(Xeon
-5130*2/2GB/146GB*2)
+2900(Xeon 5130*2/2GB/146GB*2)
 ￥25000
 --
 暂无报价
@@ -7620,8 +7508,7 @@ SCSI\电源类型：热插拔非冗余电源
 -
 戴尔
 PowerEdge
-2900(Xeon
-5140*2/4GB/146GB*8)
+2900(Xeon 5140*2/4GB/146GB*8)
 ￥62000
 --
 暂无报价
@@ -7640,8 +7527,7 @@ SCSI\电源类型：热插拔非冗余电源
 -
 戴尔
 PowerEdge
-1950(Xeon
-5120*2/2GB/73GB*2)
+1950(Xeon 5120*2/2GB/73GB*2)
 ￥23000
 --
 暂无报价
@@ -7660,8 +7546,7 @@ SCSI\电源类型：热插拔冗余电源
 -
 戴尔
 PowerEdge
-1950(Xeon
-5140*2/4GB/146GB*2)
+1950(Xeon 5140*2/4GB/146GB*2)
 ￥34000
 --
 暂无报价
@@ -7680,8 +7565,7 @@ SCSI\电源类型：热插拔冗余电源
 -
 戴尔
 PowerEdge
-2950(Xeon
-5120*2/4GB/146GB*6)
+2950(Xeon 5120*2/4GB/146GB*6)
 ￥29000
 --
 暂无报价
@@ -7700,8 +7584,7 @@ SCSI\电源类型：热插拔冗余电源
 -
 戴尔
 PowerEdge
-2950(Xeon
-5160*2/8GB/300GB*3)
+2950(Xeon 5160*2/8GB/300GB*3)
 ￥62000
 --
 暂无报价
@@ -11971,8 +11854,7 @@ IT商城特价抢购
 比较
 -
 浪潮
-英信NP110(P4
-3.0GHz/256MB/80GB)
+英信NP110(P4 3.0GHz/256MB/80GB)
 ￥5588
 ↓37%
 暂无报价
@@ -11987,9 +11869,7 @@ IT商城特价抢购
 比较
 -
 浪潮
-英信NC3000(Xeon
-MP
-3.16GHz/1GB/73GB/10*HSB)
+英信NC3000(Xeon MP 3.16GHz/1GB/73GB/10*HSB)
 ￥73500
 --
 暂无报价
@@ -12006,8 +11886,7 @@ SCSI\电源类型：标准电源
 比较
 -
 浪潮
-英信NP110D(PD
-2.8GHz/512MB/80GB)
+英信NP110D(PD 2.8GHz/512MB/80GB)
 ￥7940
 --
 暂无报价
@@ -12024,8 +11903,7 @@ SCSI\电源类型：服务器专用电源
 比较
 -
 浪潮
-英信NP110D(PD
-2.8GHz/512MB/80GB*2)
+英信NP110D(PD 2.8GHz/512MB/80GB*2)
 ￥8830
 --
 暂无报价
@@ -12042,8 +11920,7 @@ SCSI\电源类型：服务器专用电源
 比较
 -
 浪潮
-英信NP370G2(Xeon
-2.8GHz/512MB/73GB/6×HSB)
+英信NP370G2(Xeon 2.8GHz/512MB/73GB/6×HSB)
 ￥13580
 --
 暂无报价
@@ -12060,8 +11937,7 @@ SCSI\电源类型：服务器专用电源
 比较
 -
 浪潮
-英信NF190(Xeon
-2.8GHz/512MB/73GB)
+英信NF190(Xeon 2.8GHz/512MB/73GB)
 ￥20200
 --
 暂无报价
@@ -12078,9 +11954,7 @@ SCSI\电源类型：标准电源
 比较
 -
 浪潮
-英信NF500(Xeon
-MP
-3.16GHz/1GB/73GB/10*HSB)
+英信NF500(Xeon MP 3.16GHz/1GB/73GB/10*HSB)
 ￥69500
 --
 暂无报价
@@ -12097,8 +11971,7 @@ SCSI\电源类型：标准电源
 比较
 -
 浪潮
-英信SP3000(Itanium2
-1.5GHz*2/4GB/73GB/3*HSB)
+英信SP3000(Itanium2 1.5GHz*2/4GB/73GB/3*HSB)
 ￥835000
 --
 暂无报价
@@ -12115,8 +11988,7 @@ SCSI\电源类型：服务器专用电源
 比较
 -
 浪潮
-英信SP3000(Itanium2
-1.6GHz*2/4GB/73GB/3*HSB)
+英信SP3000(Itanium2 1.6GHz*2/4GB/73GB/3*HSB)
 ￥1235000
 --
 暂无报价
@@ -12133,8 +12005,7 @@ SCSI\电源类型：服务器专用电源
 比较
 -
 浪潮
-英信NP120D(Xeon
-3040/512MB/80GB)
+英信NP120D(Xeon 3040/512MB/80GB)
 ￥9980
 --
 暂无报价
@@ -12149,9 +12020,7 @@ SCSI\电源类型：服务器专用电源
 比较
 -
 浪潮
-英信NP120D(Pentium
-D
-3.0GHz/512MB/80GB)
+英信NP120D(Pentium D 3.0GHz/512MB/80GB)
 ￥8890
 --
 暂无报价
@@ -12166,8 +12035,7 @@ D\处理器频率(MHz)：3000\内存容量(MB)：512\随机硬盘容量：80GB\硬盘扩展类型：SATA\
 比较
 -
 浪潮
-英信NP370DH(Xeon
-5050/1GB/73GB/6*HSB)
+英信NP370DH(Xeon 5050/1GB/73GB/6*HSB)
 ￥16588
 --
 暂无报价
@@ -12185,8 +12053,7 @@ SCSI\电源类型：标准电源
 比较
 -
 浪潮
-英信NP370DHR(Xeon
-5050/1GB/73GB*2/6*HSB)
+英信NP370DHR(Xeon 5050/1GB/73GB*2/6*HSB)
 ￥19800
 --
 暂无报价
@@ -12204,9 +12071,7 @@ SCSI\电源类型：标准电源
 比较
 -
 浪潮
-英信NL230D(Xeon
-5110/1GB/73GB
-SAS/8*HSB)
+英信NL230D(Xeon 5110/1GB/73GB SAS/8*HSB)
 ￥25000
 --
 暂无报价
@@ -12224,9 +12089,7 @@ SCSI\电源类型：热插拔冗余电源
 比较
 -
 浪潮
-英信NL230DPR(Xeon
-5110/1GB/73GB*3
-SAS/8*HSB)
+英信NL230DPR(Xeon 5110/1GB/73GB*3 SAS/8*HSB)
 ￥39000
 --
 暂无报价
@@ -12244,9 +12107,7 @@ SCSI\电源类型：热插拔冗余电源
 比较
 -
 浪潮
-英信NL230DP(Xeon
-5120/1GB/73GB
-SAS/8*HSB)
+英信NL230DP(Xeon 5120/1GB/73GB SAS/8*HSB)
 ￥31300
 --
 暂无报价
@@ -12264,8 +12125,7 @@ SCSI\电源类型：热插拔冗余电源
 比较
 -
 浪潮
-英信NL380DP(Xeon
-5120/1GB/73GB/8*HSB)
+英信NL380DP(Xeon 5120/1GB/73GB/8*HSB)
 ￥33500
 --
 暂无报价
@@ -12283,8 +12143,7 @@ SCSI\电源类型：热插拔冗余电源
 比较
 -
 浪潮
-英信NP370G2(Xeon
-3.0GHz/512MB/73GB/6*HSB)
+英信NP370G2(Xeon 3.0GHz/512MB/73GB/6*HSB)
 ￥13990
 --
 暂无报价
@@ -12301,8 +12160,7 @@ SCSI\电源类型：服务器专用电源
 比较
 -
 浪潮
-英信NP370G2(Xeon
-3.0GHz/1GB/73GB*2/6*HSB)
+英信NP370G2(Xeon 3.0GHz/1GB/73GB*2/6*HSB)
 ￥17980
 --
 暂无报价
@@ -12319,8 +12177,7 @@ SCSI\电源类型：服务器专用电源
 比较
 -
 浪潮
-英信NL380DP(Xeon
-5120/1GB/73GB/10*HSB)
+英信NL380DP(Xeon 5120/1GB/73GB/10*HSB)
 ￥31800
 --
 暂无报价
@@ -12338,8 +12195,7 @@ SCSI\电源类型：热插拔冗余电源
 比较
 -
 浪潮
-英信NL380DP(Xeon
-5130/1GB/73GB/8*HSB)
+英信NL380DP(Xeon 5130/1GB/73GB/8*HSB)
 ￥34600
 --
 暂无报价
@@ -12357,9 +12213,7 @@ SCSI\电源类型：热插拔冗余电源
 比较
 -
 浪潮
-英信NC3500D(Xeon
-MP
-7110M/2GB/73GB*2/10*HSB)
+英信NC3500D(Xeon MP 7110M/2GB/73GB*2/10*HSB)
 ￥115000
 --
 暂无报价
@@ -12377,9 +12231,7 @@ SCSI\电源类型：热插拔冗余电源
 比较
 -
 浪潮
-英信NC3500D(Xeon
-MP
-7120M/2GB/73GB*2/10*HSB)
+英信NC3500D(Xeon MP 7120M/2GB/73GB*2/10*HSB)
 ￥121000
 --
 暂无报价
@@ -12397,9 +12249,7 @@ SCSI\电源类型：热插拔冗余电源
 比较
 -
 浪潮
-英信NC3500D(Xeon
-MP
-7130M/2GB/73GB*2/10*HSB)
+英信NC3500D(Xeon MP 7130M/2GB/73GB*2/10*HSB)
 ￥162000
 --
 暂无报价
@@ -12417,8 +12267,7 @@ SCSI\电源类型：热插拔冗余电源
 比较
 -
 浪潮
-英信NF190D(Xeon
-5110/1GB/73GB/4*HSB)
+英信NF190D(Xeon 5110/1GB/73GB/4*HSB)
 ￥22400
 --
 暂无报价
@@ -12436,8 +12285,7 @@ SCSI\电源类型：服务器专用电源
 比较
 -
 浪潮
-英信NF190D(Xeon
-5120/1GB/73GB/4*HSB)
+英信NF190D(Xeon 5120/1GB/73GB/4*HSB)
 ￥24000
 --
 暂无报价
@@ -12455,8 +12303,7 @@ SCSI\电源类型：服务器专用电源
 比较
 -
 浪潮
-英信NF280D(Xeon
-5110/1GB/73GB/8*HSB)
+英信NF280D(Xeon 5110/1GB/73GB/8*HSB)
 ￥27200
 --
 暂无报价
@@ -12474,8 +12321,7 @@ SCSI\电源类型：服务器专用电源
 比较
 -
 浪潮
-英信NF280DP(Xeon
-5120/1GB/73GB/8*HSB)
+英信NF280DP(Xeon 5120/1GB/73GB/8*HSB)
 ￥31600
 --
 暂无报价
@@ -12493,8 +12339,7 @@ SCSI\电源类型：服务器专用电源
 比较
 -
 浪潮
-英信NF380D(Xeon
-5120/1GB/73GB/8*HSB)
+英信NF380D(Xeon 5120/1GB/73GB/8*HSB)
 ￥30200
 --
 暂无报价
@@ -12512,9 +12357,7 @@ SCSI\电源类型：标准电源
 比较
 -
 浪潮
-英信NF380D(Xeon
-5120/1GB/73GB
-SAS/8*HSB)
+英信NF380D(Xeon 5120/1GB/73GB SAS/8*HSB)
 ￥31700
 --
 暂无报价
@@ -12532,9 +12375,7 @@ SCSI\电源类型：标准电源
 比较
 -
 浪潮
-英信NF380DP(Xeon
-5130/1GB/73GB
-SAS/8*HSB)
+英信NF380DP(Xeon 5130/1GB/73GB SAS/8*HSB)
 ￥38900
 --
 暂无报价
@@ -12558,8 +12399,7 @@ SCSI\电源类型：标准电源
 比较
 -
 浪潮
-英信SP3000(Itanium2
-1.6GHz*2/4GB/73GB/3*HSB)
+英信SP3000(Itanium2 1.6GHz*2/4GB/73GB/3*HSB)
 ￥1235000
 --
 暂无报价
@@ -12576,8 +12416,7 @@ SCSI\电源类型：服务器专用电源
 比较
 -
 浪潮
-英信SP3000(Itanium2
-1.5GHz*2/4GB/73GB/3*HSB)
+英信SP3000(Itanium2 1.5GHz*2/4GB/73GB/3*HSB)
 ￥835000
 --
 暂无报价
@@ -12594,8 +12433,7 @@ SCSI\电源类型：服务器专用电源
 比较
 -
 浪潮
-英信SP2200(Itanium2
-1.6GHz/2GB/73GB)
+英信SP2200(Itanium2 1.6GHz/2GB/73GB)
 ￥230000
 --
 暂无报价
@@ -12612,9 +12450,7 @@ SCSI\电源类型：服务器专用电源
 比较
 -
 浪潮
-英信NC3500D(Xeon
-MP
-7130M/2GB/73GB*2/10*HSB)
+英信NC3500D(Xeon MP 7130M/2GB/73GB*2/10*HSB)
 ￥162000
 --
 暂无报价
@@ -12632,8 +12468,7 @@ SCSI\电源类型：热插拔冗余电源
 比较
 -
 浪潮
-英信NF520D(Xeon
-7130M/2GB/73GB*2/10*HSB)
+英信NF520D(Xeon 7130M/2GB/73GB*2/10*HSB)
 ￥156000
 --
 暂无报价
@@ -12651,9 +12486,7 @@ SCSI\电源类型：热插拔冗余电源
 比较
 -
 浪潮
-英信NC3500D(Xeon
-MP
-7120M/2GB/73GB*2/10*HSB)
+英信NC3500D(Xeon MP 7120M/2GB/73GB*2/10*HSB)
 ￥121000
 --
 暂无报价
@@ -12671,8 +12504,7 @@ SCSI\电源类型：热插拔冗余电源
 比较
 -
 浪潮
-英信NF520D(Xeon
-7120M/2GB/73GB*2/10*HSB)
+英信NF520D(Xeon 7120M/2GB/73GB*2/10*HSB)
 ￥118000
 --
 暂无报价
@@ -12690,9 +12522,7 @@ SCSI\电源类型：热插拔冗余电源
 比较
 -
 浪潮
-英信NC3500D(Xeon
-MP
-7110M/2GB/73GB*2/10*HSB)
+英信NC3500D(Xeon MP 7110M/2GB/73GB*2/10*HSB)
 ￥115000
 --
 暂无报价
@@ -12710,9 +12540,7 @@ SCSI\电源类型：热插拔冗余电源
 比较
 -
 浪潮
-英信NF510D(Xeom
-MP
-7110M/2GB/73GB*2/5*HSB)
+英信NF510D(Xeom MP 7110M/2GB/73GB*2/5*HSB)
 ￥112000
 --
 暂无报价
@@ -12730,8 +12558,7 @@ SCSI\电源类型：热插拔冗余电源
 比较
 -
 浪潮
-英信NF520D(Xeon
-7110M/2GB/73GB*2/10*HSB)
+英信NF520D(Xeon 7110M/2GB/73GB*2/10*HSB)
 ￥112000
 --
 暂无报价
@@ -12749,8 +12576,7 @@ SCSI\电源类型：热插拔冗余电源
 比较
 -
 浪潮
-英信SP2200(Itanium2
-1.3GHz/2GB/73GB)
+英信SP2200(Itanium2 1.3GHz/2GB/73GB)
 ￥105200
 --
 暂无报价
@@ -12767,9 +12593,7 @@ SCSI\电源类型：服务器专用电源
 比较
 -
 浪潮
-英信NC3000(Xeon
-MP
-3.16GHz/1GB/73GB/10*HSB)
+英信NC3000(Xeon MP 3.16GHz/1GB/73GB/10*HSB)
 ￥73500
 --
 暂无报价
@@ -12786,9 +12610,7 @@ SCSI\电源类型：标准电源
 比较
 -
 浪潮
-英信NF500(Xeon
-MP
-3.16GHz/1GB/73GB/10*HSB)
+英信NF500(Xeon MP 3.16GHz/1GB/73GB/10*HSB)
 ￥69500
 --
 暂无报价
@@ -12805,9 +12627,7 @@ SCSI\电源类型：标准电源
 比较
 -
 浪潮
-英信NL230DPR(Xeon
-5110/1GB/73GB*3
-SAS/8*HSB)
+英信NL230DPR(Xeon 5110/1GB/73GB*3 SAS/8*HSB)
 ￥39000
 --
 暂无报价
@@ -12825,9 +12645,7 @@ SCSI\电源类型：热插拔冗余电源
 比较
 -
 浪潮
-英信NF380DP(Xeon
-5130/1GB/73GB
-SAS/8*HSB)
+英信NF380DP(Xeon 5130/1GB/73GB SAS/8*HSB)
 ￥38900
 --
 暂无报价
@@ -12845,8 +12663,7 @@ SCSI\电源类型：标准电源
 比较
 -
 浪潮
-英信NL380DP(Xeon
-5130/1GB/73GB/8*HSB)
+英信NL380DP(Xeon 5130/1GB/73GB/8*HSB)
 ￥34600
 --
 暂无报价
@@ -12864,8 +12681,7 @@ SCSI\电源类型：热插拔冗余电源
 比较
 -
 浪潮
-英信NL380DP(Xeon
-5120/1GB/73GB/8*HSB)
+英信NL380DP(Xeon 5120/1GB/73GB/8*HSB)
 ￥33500
 --
 暂无报价
@@ -12883,8 +12699,7 @@ SCSI\电源类型：热插拔冗余电源
 比较
 -
 浪潮
-英信NL380DP(Xeon
-5120/1GB/73GB/10*HSB)
+英信NL380DP(Xeon 5120/1GB/73GB/10*HSB)
 ￥31800
 --
 暂无报价
@@ -12902,9 +12717,7 @@ SCSI\电源类型：热插拔冗余电源
 比较
 -
 浪潮
-英信NF380D(Xeon
-5120/1GB/73GB
-SAS/8*HSB)
+英信NF380D(Xeon 5120/1GB/73GB SAS/8*HSB)
 ￥31700
 --
 暂无报价
@@ -12922,8 +12735,7 @@ SCSI\电源类型：标准电源
 比较
 -
 浪潮
-英信NF280DP(Xeon
-5120/1GB/73GB/8*HSB)
+英信NF280DP(Xeon 5120/1GB/73GB/8*HSB)
 ￥31600
 --
 暂无报价
@@ -12941,9 +12753,7 @@ SCSI\电源类型：服务器专用电源
 比较
 -
 浪潮
-英信NL230DP(Xeon
-5120/1GB/73GB
-SAS/8*HSB)
+英信NL230DP(Xeon 5120/1GB/73GB SAS/8*HSB)
 ￥31300
 --
 暂无报价
@@ -12961,8 +12771,7 @@ SCSI\电源类型：热插拔冗余电源
 比较
 -
 浪潮
-英信NF380D(Xeon
-5120/1GB/73GB/8*HSB)
+英信NF380D(Xeon 5120/1GB/73GB/8*HSB)
 ￥30200
 --
 暂无报价
@@ -12980,8 +12789,7 @@ SCSI\电源类型：标准电源
 比较
 -
 浪潮
-英信NF280D(Xeon
-5110/1GB/73GB/8*HSB)
+英信NF280D(Xeon 5110/1GB/73GB/8*HSB)
 ￥27200
 --
 暂无报价
@@ -12999,9 +12807,7 @@ SCSI\电源类型：服务器专用电源
 比较
 -
 浪潮
-英信NL230D(Xeon
-5110/1GB/73GB
-SAS/8*HSB)
+英信NL230D(Xeon 5110/1GB/73GB SAS/8*HSB)
 ￥25000
 --
 暂无报价
@@ -13019,8 +12825,7 @@ SCSI\电源类型：热插拔冗余电源
 比较
 -
 浪潮
-英信NF190D(Xeon
-5120/1GB/73GB/4*HSB)
+英信NF190D(Xeon 5120/1GB/73GB/4*HSB)
 ￥24000
 --
 暂无报价
@@ -13038,8 +12843,7 @@ SCSI\电源类型：服务器专用电源
 比较
 -
 浪潮
-英信NF190D(Xeon
-5110/1GB/73GB/4*HSB)
+英信NF190D(Xeon 5110/1GB/73GB/4*HSB)
 ￥22400
 --
 暂无报价
@@ -13057,8 +12861,7 @@ SCSI\电源类型：服务器专用电源
 比较
 -
 浪潮
-英信NF190(Xeon
-2.8GHz/512MB/73GB)
+英信NF190(Xeon 2.8GHz/512MB/73GB)
 ￥20200
 --
 暂无报价
@@ -13075,8 +12878,7 @@ SCSI\电源类型：标准电源
 比较
 -
 浪潮
-英信NP370DHR(Xeon
-5050/1GB/73GB*2/6*HSB)
+英信NP370DHR(Xeon 5050/1GB/73GB*2/6*HSB)
 ￥19800
 --
 暂无报价
@@ -13094,8 +12896,7 @@ SCSI\电源类型：标准电源
 比较
 -
 浪潮
-英信NP370G2(Xeon
-3.0GHz/1GB/73GB*2/6*HSB)
+英信NP370G2(Xeon 3.0GHz/1GB/73GB*2/6*HSB)
 ￥17980
 --
 暂无报价
@@ -13112,8 +12913,7 @@ SCSI\电源类型：服务器专用电源
 比较
 -
 浪潮
-英信NP370DH(Xeon
-5050/1GB/73GB/6*HSB)
+英信NP370DH(Xeon 5050/1GB/73GB/6*HSB)
 ￥16588
 --
 暂无报价
@@ -13131,8 +12931,7 @@ SCSI\电源类型：标准电源
 比较
 -
 浪潮
-英信NP370G2(Xeon
-3.0GHz/512MB/73GB/6*HSB)
+英信NP370G2(Xeon 3.0GHz/512MB/73GB/6*HSB)
 ￥13990
 --
 暂无报价
@@ -13155,9 +12954,7 @@ SCSI\电源类型：服务器专用电源
 比较
 -
 浪潮
-英信NC3000(Xeon
-MP
-3.16GHz/1GB/73GB/10*HSB)
+英信NC3000(Xeon MP 3.16GHz/1GB/73GB/10*HSB)
 ￥73500
 --
 暂无报价
@@ -13174,8 +12971,7 @@ SCSI\电源类型：标准电源
 比较
 -
 浪潮
-英信NF190(Xeon
-2.8GHz/512MB/73GB)
+英信NF190(Xeon 2.8GHz/512MB/73GB)
 ￥20200
 --
 暂无报价
@@ -13192,9 +12988,7 @@ SCSI\电源类型：标准电源
 比较
 -
 浪潮
-英信NF500(Xeon
-MP
-3.16GHz/1GB/73GB/10*HSB)
+英信NF500(Xeon MP 3.16GHz/1GB/73GB/10*HSB)
 ￥69500
 --
 暂无报价
@@ -13211,8 +13005,7 @@ SCSI\电源类型：标准电源
 比较
 -
 浪潮
-英信SP3000(Itanium2
-1.5GHz*2/4GB/73GB/3*HSB)
+英信SP3000(Itanium2 1.5GHz*2/4GB/73GB/3*HSB)
 ￥835000
 --
 暂无报价
@@ -13229,8 +13022,7 @@ SCSI\电源类型：服务器专用电源
 比较
 -
 浪潮
-英信SP3000(Itanium2
-1.6GHz*2/4GB/73GB/3*HSB)
+英信SP3000(Itanium2 1.6GHz*2/4GB/73GB/3*HSB)
 ￥1235000
 --
 暂无报价
@@ -13247,8 +13039,7 @@ SCSI\电源类型：服务器专用电源
 比较
 -
 浪潮
-英信NL380DP(Xeon
-5120/1GB/73GB/8*HSB)
+英信NL380DP(Xeon 5120/1GB/73GB/8*HSB)
 ￥33500
 --
 暂无报价
@@ -13266,8 +13057,7 @@ SCSI\电源类型：热插拔冗余电源
 比较
 -
 浪潮
-英信NL380DP(Xeon
-5120/1GB/73GB/10*HSB)
+英信NL380DP(Xeon 5120/1GB/73GB/10*HSB)
 ￥31800
 --
 暂无报价
@@ -13285,8 +13075,7 @@ SCSI\电源类型：热插拔冗余电源
 比较
 -
 浪潮
-英信NL380DP(Xeon
-5130/1GB/73GB/8*HSB)
+英信NL380DP(Xeon 5130/1GB/73GB/8*HSB)
 ￥34600
 --
 暂无报价
@@ -13304,9 +13093,7 @@ SCSI\电源类型：热插拔冗余电源
 比较
 -
 浪潮
-英信NC3500D(Xeon
-MP
-7110M/2GB/73GB*2/10*HSB)
+英信NC3500D(Xeon MP 7110M/2GB/73GB*2/10*HSB)
 ￥115000
 --
 暂无报价
@@ -13324,9 +13111,7 @@ SCSI\电源类型：热插拔冗余电源
 比较
 -
 浪潮
-英信NC3500D(Xeon
-MP
-7120M/2GB/73GB*2/10*HSB)
+英信NC3500D(Xeon MP 7120M/2GB/73GB*2/10*HSB)
 ￥121000
 --
 暂无报价
@@ -13344,9 +13129,7 @@ SCSI\电源类型：热插拔冗余电源
 比较
 -
 浪潮
-英信NC3500D(Xeon
-MP
-7130M/2GB/73GB*2/10*HSB)
+英信NC3500D(Xeon MP 7130M/2GB/73GB*2/10*HSB)
 ￥162000
 --
 暂无报价
@@ -13364,8 +13147,7 @@ SCSI\电源类型：热插拔冗余电源
 比较
 -
 浪潮
-英信NF190D(Xeon
-5110/1GB/73GB/4*HSB)
+英信NF190D(Xeon 5110/1GB/73GB/4*HSB)
 ￥22400
 --
 暂无报价
@@ -13383,8 +13165,7 @@ SCSI\电源类型：服务器专用电源
 比较
 -
 浪潮
-英信NF190D(Xeon
-5120/1GB/73GB/4*HSB)
+英信NF190D(Xeon 5120/1GB/73GB/4*HSB)
 ￥24000
 --
 暂无报价
@@ -13402,8 +13183,7 @@ SCSI\电源类型：服务器专用电源
 比较
 -
 浪潮
-英信NF280D(Xeon
-5110/1GB/73GB/8*HSB)
+英信NF280D(Xeon 5110/1GB/73GB/8*HSB)
 ￥27200
 --
 暂无报价
@@ -13421,8 +13201,7 @@ SCSI\电源类型：服务器专用电源
 比较
 -
 浪潮
-英信NF280DP(Xeon
-5120/1GB/73GB/8*HSB)
+英信NF280DP(Xeon 5120/1GB/73GB/8*HSB)
 ￥31600
 --
 暂无报价
@@ -13440,8 +13219,7 @@ SCSI\电源类型：服务器专用电源
 比较
 -
 浪潮
-英信NF380D(Xeon
-5120/1GB/73GB/8*HSB)
+英信NF380D(Xeon 5120/1GB/73GB/8*HSB)
 ￥30200
 --
 暂无报价
@@ -13459,9 +13237,7 @@ SCSI\电源类型：标准电源
 比较
 -
 浪潮
-英信NF380D(Xeon
-5120/1GB/73GB
-SAS/8*HSB)
+英信NF380D(Xeon 5120/1GB/73GB SAS/8*HSB)
 ￥31700
 --
 暂无报价
@@ -13479,9 +13255,7 @@ SCSI\电源类型：标准电源
 比较
 -
 浪潮
-英信NF380DP(Xeon
-5130/1GB/73GB
-SAS/8*HSB)
+英信NF380DP(Xeon 5130/1GB/73GB SAS/8*HSB)
 ￥38900
 --
 暂无报价
@@ -13499,9 +13273,7 @@ SCSI\电源类型：标准电源
 比较
 -
 浪潮
-英信NF510D(Xeom
-MP
-7110M/2GB/73GB*2/5*HSB)
+英信NF510D(Xeom MP 7110M/2GB/73GB*2/5*HSB)
 ￥112000
 --
 暂无报价
@@ -13519,8 +13291,7 @@ SCSI\电源类型：热插拔冗余电源
 比较
 -
 浪潮
-英信NF520D(Xeon
-7110M/2GB/73GB*2/10*HSB)
+英信NF520D(Xeon 7110M/2GB/73GB*2/10*HSB)
 ￥112000
 --
 暂无报价
@@ -13538,8 +13309,7 @@ SCSI\电源类型：热插拔冗余电源
 比较
 -
 浪潮
-英信NF520D(Xeon
-7120M/2GB/73GB*2/10*HSB)
+英信NF520D(Xeon 7120M/2GB/73GB*2/10*HSB)
 ￥118000
 --
 暂无报价
@@ -13557,8 +13327,7 @@ SCSI\电源类型：热插拔冗余电源
 比较
 -
 浪潮
-英信NF520D(Xeon
-7130M/2GB/73GB*2/10*HSB)
+英信NF520D(Xeon 7130M/2GB/73GB*2/10*HSB)
 ￥156000
 --
 暂无报价
@@ -13576,8 +13345,7 @@ SCSI\电源类型：热插拔冗余电源
 比较
 -
 浪潮
-英信SP2200(Itanium2
-1.3GHz/2GB/73GB)
+英信SP2200(Itanium2 1.3GHz/2GB/73GB)
 ￥105200
 --
 暂无报价
@@ -13594,8 +13362,7 @@ SCSI\电源类型：服务器专用电源
 比较
 -
 浪潮
-英信SP2200(Itanium2
-1.6GHz/2GB/73GB)
+英信SP2200(Itanium2 1.6GHz/2GB/73GB)
 ￥230000
 --
 暂无报价
@@ -13612,8 +13379,7 @@ SCSI\电源类型：服务器专用电源
 比较
 -
 浪潮
-英信NP110D(PD
-2.8GHz/512MB/80GB)
+英信NP110D(PD 2.8GHz/512MB/80GB)
 ￥7940
 --
 暂无报价
@@ -13630,8 +13396,7 @@ SCSI\电源类型：服务器专用电源
 比较
 -
 浪潮
-英信NP110D(PD
-2.8GHz/512MB/80GB*2)
+英信NP110D(PD 2.8GHz/512MB/80GB*2)
 ￥8830
 --
 暂无报价
@@ -13648,8 +13413,7 @@ SCSI\电源类型：服务器专用电源
 比较
 -
 浪潮
-英信NP370G2(Xeon
-2.8GHz/512MB/73GB/6×HSB)
+英信NP370G2(Xeon 2.8GHz/512MB/73GB/6×HSB)
 ￥13580
 --
 暂无报价
@@ -13666,8 +13430,7 @@ SCSI\电源类型：服务器专用电源
 比较
 -
 浪潮
-英信NP120D(Xeon
-3040/512MB/80GB)
+英信NP120D(Xeon 3040/512MB/80GB)
 ￥9980
 --
 暂无报价
@@ -13682,9 +13445,7 @@ SCSI\电源类型：服务器专用电源
 比较
 -
 浪潮
-英信NP120D(Pentium
-D
-3.0GHz/512MB/80GB)
+英信NP120D(Pentium D 3.0GHz/512MB/80GB)
 ￥8890
 --
 暂无报价
@@ -13699,8 +13460,7 @@ D\处理器频率(MHz)：3000\内存容量(MB)：512\随机硬盘容量：80GB\硬盘扩展类型：SATA\
 比较
 -
 浪潮
-英信NP370DH(Xeon
-5050/1GB/73GB/6*HSB)
+英信NP370DH(Xeon 5050/1GB/73GB/6*HSB)
 ￥16588
 --
 暂无报价
@@ -13718,8 +13478,7 @@ SCSI\电源类型：标准电源
 比较
 -
 浪潮
-英信NP370DHR(Xeon
-5050/1GB/73GB*2/6*HSB)
+英信NP370DHR(Xeon 5050/1GB/73GB*2/6*HSB)
 ￥19800
 --
 暂无报价
@@ -16238,10 +15997,8 @@ LBP-3500
 OKI
 惠普(HP)
 三星(SAMSUNG)
-柯尼卡美能达(KONICA
-MINOLTA)
-富士施乐(FUJI
-XEROX)
+柯尼卡美能达(KONICA MINOLTA)
+富士施乐(FUJI XEROX)
 佳能(Canon)
 爱普生(Epson)
 利盟(Lexmark)
@@ -16264,10 +16021,8 @@ XEROX)
 OKI
 惠普(HP)
 三星(SAMSUNG)
-柯尼卡美能达(KONICA
-MINOLTA)
-富士施乐(FUJI
-XEROX)
+柯尼卡美能达(KONICA MINOLTA)
+富士施乐(FUJI XEROX)
 佳能(Canon)
 爱普生(Epson)
 利盟(Lexmark)
@@ -16556,13 +16311,7 @@ UZ
 英寸\有效像素：800
 万像素\光学变焦倍数：18
 倍
-(
-结合
-1-5.6
-倍数码变焦可达
-100.8
-倍：3倍短片拍摄变焦数码变焦最高可达54倍
-)
+( 结合 1-5.6 倍数码变焦可达 100.8 倍：3倍短片拍摄变焦数码变焦最高可达54倍 )
 （结合1.5倍精细变焦可达27倍*影像精度为300万像素）\相当于35mm镜头焦距：27~486
 mm\液晶屏尺寸：2.5
 英寸液晶显示屏
@@ -16590,19 +16339,11 @@ CCD
 1240
 万像素\有效像素：1200
 万像素\光学变焦倍数：3倍
-(
-加
-1-4
-倍数码变焦可达
-12
-倍
-)\相当于35mm镜头焦距：35~105
+( 加 1-4 倍数码变焦可达 12 倍 )\相当于35mm镜头焦距：35~105
 mm\液晶屏尺寸：2.5英寸，约
 23
 万像素\存储介质：xD
-（
-16MB-2GB
-），含约
+（ 16MB-2GB ），含约
 48MB
 内存\电池类型：Li-42B
 锂离子充电电池
@@ -16630,11 +16371,7 @@ FE-290
 万像素\光学变焦倍数：4倍(加1-4倍数码变焦可达16倍)\相当于35mm镜头焦距：28~112
 mm\液晶屏尺寸：3.0英寸，约23.4万像素大型液晶显示屏\存储介质：xD
 卡
-(16
-MB
-–
-2
-GB)
+(16 MB – 2 GB)
 ，含
 6.9MB
 内存\电池类型：Li-42B锂离子充电电池,可选的外接AC电源
@@ -16661,22 +16398,14 @@ CCD
 万像素\有效像素：710
 万像素\光学变焦倍数：3
 倍
-(
-加
-1-4
-倍数码变焦可达
-12
-倍
-)\相当于35mm镜头焦距：38~114
+( 加 1-4 倍数码变焦可达 12 倍 )\相当于35mm镜头焦距：38~114
 mm\液晶屏尺寸：2.5英寸\液晶屏类型：2.5
 英寸液晶显示屏
 ,
 约
 15.4
 万像素\存储介质：xD
-（
-16MB-2GB
-），含约
+（ 16MB-2GB ），含约
 6.9MB
 内存\电池类型：2
 节
@@ -16705,11 +16434,7 @@ CCD,
 mm\液晶屏尺寸：2.7英寸\液晶屏类型：2.7英寸液晶显示屏,
 约23万像素\存储介质：xD
 卡
-(16
-MB
-–
-2
-GB)
+(16 MB – 2 GB)
 ，含
 47
 内存\电池类型：Li-42B锂离子充电电池,可选的外接AC电源
@@ -17047,21 +16772,13 @@ CCD
 万像素\有效像素：600
 万像素\光学变焦倍数：2.8
 倍
-(
-加
-1-4
-倍数码变焦可达
-11
-倍
-)\相当于35mm镜头焦距：35~98mm\液晶屏尺寸：2.0英寸\液晶屏类型：2.0
+( 加 1-4 倍数码变焦可达 11 倍 )\相当于35mm镜头焦距：35~98mm\液晶屏尺寸：2.0英寸\液晶屏类型：2.0
 英寸液晶显示屏
 ,
 约
 11.5
 万像素\存储介质：xD
-（
-16MB-2GB
-），含约
+（ 16MB-2GB ），含约
 12
 内存\电池类型：2
 节
@@ -17089,9 +16806,7 @@ AA
 mm
 镜头\液晶屏尺寸：2.5英寸\液晶屏类型：2.5英寸液晶显示屏,
 约23万像素\存储介质：xD
-（
-16MB-2GB
-），含1.47MB
+（ 16MB-2GB ），含1.47MB
 内存\电池类型：Li-42B锂离子充电电池,可选的外接AC电源
 纠错换MP3
 |
@@ -17277,13 +16992,7 @@ UZ
 英寸\有效像素：800
 万像素\光学变焦倍数：18
 倍
-(
-结合
-1-5.6
-倍数码变焦可达
-100.8
-倍：3倍短片拍摄变焦数码变焦最高可达54倍
-)
+( 结合 1-5.6 倍数码变焦可达 100.8 倍：3倍短片拍摄变焦数码变焦最高可达54倍 )
 （结合1.5倍精细变焦可达27倍*影像精度为300万像素）\相当于35mm镜头焦距：27~486
 mm\液晶屏尺寸：2.5
 英寸液晶显示屏
@@ -17313,9 +17022,7 @@ mm\液晶屏尺寸：2.5
 mm
 镜头\液晶屏尺寸：2.5英寸\液晶屏类型：2.5英寸液晶显示屏,
 约23万像素\存储介质：xD
-（
-16MB-2GB
-），含1.47MB
+（ 16MB-2GB ），含1.47MB
 内存\电池类型：Li-42B锂离子充电电池,可选的外接AC电源
 纠错换MP3
 |
@@ -17340,11 +17047,7 @@ CCD,
 mm\液晶屏尺寸：2.7英寸\液晶屏类型：2.7英寸液晶显示屏,
 约23万像素\存储介质：xD
 卡
-(16
-MB
-–
-2
-GB)
+(16 MB – 2 GB)
 ，含
 47
 内存\电池类型：Li-42B锂离子充电电池,可选的外接AC电源
@@ -17387,19 +17090,11 @@ CCD
 1240
 万像素\有效像素：1200
 万像素\光学变焦倍数：3倍
-(
-加
-1-4
-倍数码变焦可达
-12
-倍
-)\相当于35mm镜头焦距：35~105
+( 加 1-4 倍数码变焦可达 12 倍 )\相当于35mm镜头焦距：35~105
 mm\液晶屏尺寸：2.5英寸，约
 23
 万像素\存储介质：xD
-（
-16MB-2GB
-），含约
+（ 16MB-2GB ），含约
 48MB
 内存\电池类型：Li-42B
 锂离子充电电池
@@ -17519,11 +17214,7 @@ FE-290
 万像素\光学变焦倍数：4倍(加1-4倍数码变焦可达16倍)\相当于35mm镜头焦距：28~112
 mm\液晶屏尺寸：3.0英寸，约23.4万像素大型液晶显示屏\存储介质：xD
 卡
-(16
-MB
-–
-2
-GB)
+(16 MB – 2 GB)
 ，含
 6.9MB
 内存\电池类型：Li-42B锂离子充电电池,可选的外接AC电源
@@ -17629,22 +17320,14 @@ CCD
 万像素\有效像素：710
 万像素\光学变焦倍数：3
 倍
-(
-加
-1-4
-倍数码变焦可达
-12
-倍
-)\相当于35mm镜头焦距：38~114
+( 加 1-4 倍数码变焦可达 12 倍 )\相当于35mm镜头焦距：38~114
 mm\液晶屏尺寸：2.5英寸\液晶屏类型：2.5
 英寸液晶显示屏
 ,
 约
 15.4
 万像素\存储介质：xD
-（
-16MB-2GB
-），含约
+（ 16MB-2GB ），含约
 6.9MB
 内存\电池类型：2
 节
@@ -17671,21 +17354,13 @@ CCD
 万像素\有效像素：600
 万像素\光学变焦倍数：2.8
 倍
-(
-加
-1-4
-倍数码变焦可达
-11
-倍
-)\相当于35mm镜头焦距：35~98mm\液晶屏尺寸：2.0英寸\液晶屏类型：2.0
+( 加 1-4 倍数码变焦可达 11 倍 )\相当于35mm镜头焦距：35~98mm\液晶屏尺寸：2.0英寸\液晶屏类型：2.0
 英寸液晶显示屏
 ,
 约
 11.5
 万像素\存储介质：xD
-（
-16MB-2GB
-），含约
+（ 16MB-2GB ），含约
 12
 内存\电池类型：2
 节
@@ -17770,19 +17445,11 @@ CCD
 1240
 万像素\有效像素：1200
 万像素\光学变焦倍数：3倍
-(
-加
-1-4
-倍数码变焦可达
-12
-倍
-)\相当于35mm镜头焦距：35~105
+( 加 1-4 倍数码变焦可达 12 倍 )\相当于35mm镜头焦距：35~105
 mm\液晶屏尺寸：2.5英寸，约
 23
 万像素\存储介质：xD
-（
-16MB-2GB
-），含约
+（ 16MB-2GB ），含约
 48MB
 内存\电池类型：Li-42B
 锂离子充电电池
@@ -17886,22 +17553,14 @@ CCD
 万像素\有效像素：710
 万像素\光学变焦倍数：3
 倍
-(
-加
-1-4
-倍数码变焦可达
-12
-倍
-)\相当于35mm镜头焦距：38~114
+( 加 1-4 倍数码变焦可达 12 倍 )\相当于35mm镜头焦距：38~114
 mm\液晶屏尺寸：2.5英寸\液晶屏类型：2.5
 英寸液晶显示屏
 ,
 约
 15.4
 万像素\存储介质：xD
-（
-16MB-2GB
-），含约
+（ 16MB-2GB ），含约
 6.9MB
 内存\电池类型：2
 节
@@ -17930,11 +17589,7 @@ CCD,
 mm\液晶屏尺寸：2.7英寸\液晶屏类型：2.7英寸液晶显示屏,
 约23万像素\存储介质：xD
 卡
-(16
-MB
-–
-2
-GB)
+(16 MB – 2 GB)
 ，含
 47
 内存\电池类型：Li-42B锂离子充电电池,可选的外接AC电源
@@ -17960,9 +17615,7 @@ GB)
 mm
 镜头\液晶屏尺寸：2.5英寸\液晶屏类型：2.5英寸液晶显示屏,
 约23万像素\存储介质：xD
-（
-16MB-2GB
-），含1.47MB
+（ 16MB-2GB ），含1.47MB
 内存\电池类型：Li-42B锂离子充电电池,可选的外接AC电源
 纠错换MP3
 |
@@ -18000,21 +17653,13 @@ CCD
 万像素\有效像素：600
 万像素\光学变焦倍数：2.8
 倍
-(
-加
-1-4
-倍数码变焦可达
-11
-倍
-)\相当于35mm镜头焦距：35~98mm\液晶屏尺寸：2.0英寸\液晶屏类型：2.0
+( 加 1-4 倍数码变焦可达 11 倍 )\相当于35mm镜头焦距：35~98mm\液晶屏尺寸：2.0英寸\液晶屏类型：2.0
 英寸液晶显示屏
 ,
 约
 11.5
 万像素\存储介质：xD
-（
-16MB-2GB
-），含约
+（ 16MB-2GB ），含约
 12
 内存\电池类型：2
 节
@@ -18040,11 +17685,7 @@ FE-290
 万像素\光学变焦倍数：4倍(加1-4倍数码变焦可达16倍)\相当于35mm镜头焦距：28~112
 mm\液晶屏尺寸：3.0英寸，约23.4万像素大型液晶显示屏\存储介质：xD
 卡
-(16
-MB
-–
-2
-GB)
+(16 MB – 2 GB)
 ，含
 6.9MB
 内存\电池类型：Li-42B锂离子充电电池,可选的外接AC电源
@@ -18071,13 +17712,7 @@ UZ
 英寸\有效像素：800
 万像素\光学变焦倍数：18
 倍
-(
-结合
-1-5.6
-倍数码变焦可达
-100.8
-倍：3倍短片拍摄变焦数码变焦最高可达54倍
-)
+( 结合 1-5.6 倍数码变焦可达 100.8 倍：3倍短片拍摄变焦数码变焦最高可达54倍 )
 （结合1.5倍精细变焦可达27倍*影像精度为300万像素）\相当于35mm镜头焦距：27~486
 mm\液晶屏尺寸：2.5
 英寸液晶显示屏
@@ -18641,9 +18276,7 @@ QQ
 --
 暂无报价
 设备类别：模块化路由器\固定广域网接口：可选广域接口WIC卡\固定局域网接口：10/100Base-T/TX\支持网络标准及协议：IEEE
-802.3，ISDN；加密标准AH（MD5），ESP（Null，DES，3DES，ARC4，proprietary
-fast
-encoding，+MD5/HMAC，-MD5）；PPP
+802.3，ISDN；加密标准AH（MD5），ESP（Null，DES，3DES，ARC4，proprietary fast encoding，+MD5/HMAC，-MD5）；PPP
 （PAP，CHAP，LCP，IPCP，MLPPP）；\是否内置防火墙：是
 纠错换MP3
 |
@@ -19137,9 +18770,7 @@ x
 --
 暂无报价
 设备类别：模块化路由器\固定广域网接口：可选广域接口WIC卡\固定局域网接口：10/100Base-T/TX\支持网络标准及协议：IEEE
-802.3，ISDN；加密标准AH（MD5），ESP（Null，DES，3DES，ARC4，proprietary
-fast
-encoding，+MD5/HMAC，-MD5）；PPP
+802.3，ISDN；加密标准AH（MD5），ESP（Null，DES，3DES，ARC4，proprietary fast encoding，+MD5/HMAC，-MD5）；PPP
 （PAP，CHAP，LCP，IPCP，MLPPP）；\是否内置防火墙：是
 纠错换MP3
 |
@@ -19331,9 +18962,7 @@ IP\是否内置防火墙：是
 --
 暂无报价
 设备类别：模块化路由器\固定广域网接口：可选广域接口WIC卡\固定局域网接口：10/100Base-T/TX\支持网络标准及协议：IEEE
-802.3，ISDN；加密标准AH（MD5），ESP（Null，DES，3DES，ARC4，proprietary
-fast
-encoding，+MD5/HMAC，-MD5）；PPP
+802.3，ISDN；加密标准AH（MD5），ESP（Null，DES，3DES，ARC4，proprietary fast encoding，+MD5/HMAC，-MD5）；PPP
 （PAP，CHAP，LCP，IPCP，MLPPP）；\是否内置防火墙：是
 纠错换MP3
 |
@@ -20063,8 +19692,7 @@ STAR-S3550-48
 ￥48000
 ↓4%
 暂无报价
-设备类型：千兆以太网交换机\VLAN支持：支持\是否支持全双工：全、半双工\网管功能：SNMPv1/v2、Web(JAVA)、CLI(Telnet
-/Console)、RMON(1,2,3,9)、集群\传输速率(Mbps)：10/100/1000\端口类型：10/100Base-TX，1000Base-SX/LX
+设备类型：千兆以太网交换机\VLAN支持：支持\是否支持全双工：全、半双工\网管功能：SNMPv1/v2、Web(JAVA)、CLI(Telnet /Console)、RMON(1,2,3,9)、集群\传输速率(Mbps)：10/100/1000\端口类型：10/100Base-TX，1000Base-SX/LX
 纠错换MP3
 |
 |
@@ -20078,8 +19706,7 @@ STAR-S3550-24
 ￥25000
 ↓4%
 暂无报价
-设备类型：千兆以太网交换机\VLAN支持：支持\是否支持全双工：全、半双工\网管功能：SNMPv1/v2、Web(JAVA)、CLI(Telnet
-/Console)、RMON(1,2,3,9)、集群\传输速率(Mbps)：10/100/1000\端口类型：10/100Base-TX，1000Base-SX/LX
+设备类型：千兆以太网交换机\VLAN支持：支持\是否支持全双工：全、半双工\网管功能：SNMPv1/v2、Web(JAVA)、CLI(Telnet /Console)、RMON(1,2,3,9)、集群\传输速率(Mbps)：10/100/1000\端口类型：10/100Base-TX，1000Base-SX/LX
 纠错换MP3
 |
 |
@@ -20151,8 +19778,7 @@ STAR-S4909
 ￥54000
 ↓2%
 暂无报价
-设备类型：模块化交换机\VLAN支持：支持\是否支持全双工：全双工\网管功能：SNMPv1/v2、Web(JAVA)、CLI(Telnet
-/Console)、RMON(1,2,3,9)\传输速率(Mbps)：10/100/1000\端口类型：全模块化
+设备类型：模块化交换机\VLAN支持：支持\是否支持全双工：全双工\网管功能：SNMPv1/v2、Web(JAVA)、CLI(Telnet /Console)、RMON(1,2,3,9)\传输速率(Mbps)：10/100/1000\端口类型：全模块化
 纠错换MP3
 |
 |
@@ -20195,8 +19821,7 @@ STAR-S4900
 ￥46000
 ↓2%
 暂无报价
-设备类型：模块化交换机\VLAN支持：支持\是否支持全双工：全、半双工\网管功能：SNMPv1/v2、Web(JAVA)、CLI(Telnet
-/Console)、RMON(1,2,3,9)\传输速率(Mbps)：10/100/1000\端口类型：全模块化
+设备类型：模块化交换机\VLAN支持：支持\是否支持全双工：全、半双工\网管功能：SNMPv1/v2、Web(JAVA)、CLI(Telnet /Console)、RMON(1,2,3,9)\传输速率(Mbps)：10/100/1000\端口类型：全模块化
 纠错换MP3
 |
 |
@@ -20225,8 +19850,7 @@ STAR-S2800
 ↓6%
 暂无报价
 设备类型：模块化交换机\VLAN支持：支持\是否支持全双工：全双工\网管功能：SNMP管理信息库(MIB)II，SNMP
-MIB扩展，桥接MIB(RFC
-1493)\传输速率(Mbps)：10/100/1000\端口类型：10/100Base-TX，100/1000Base-FX
+MIB扩展，桥接MIB(RFC 1493)\传输速率(Mbps)：10/100/1000\端口类型：10/100Base-TX，100/1000Base-FX
 纠错换MP3
 |
 |
@@ -20328,8 +19952,7 @@ RG-S3550-12SFP/GT
 ￥118000
 ↓2%
 暂无报价
-设备类型：千兆以太网交换机\VLAN支持：支持\是否支持全双工：全、半双工\网管功能：SNMPv1/v2、Web(JAVA)、CLI(Telnet
-/Console)、RMON(1,2,3,9)、集群、SSH、Syslog\传输速率(Mbps)：10/100/1000\端口类型：12个SFP接口和12个
+设备类型：千兆以太网交换机\VLAN支持：支持\是否支持全双工：全、半双工\网管功能：SNMPv1/v2、Web(JAVA)、CLI(Telnet /Console)、RMON(1,2,3,9)、集群、SSH、Syslog\传输速率(Mbps)：10/100/1000\端口类型：12个SFP接口和12个
 纠错换MP3
 |
 |
@@ -20475,8 +20098,7 @@ RG-S3550-12SFP/GT
 ￥118000
 ↓2%
 暂无报价
-设备类型：千兆以太网交换机\VLAN支持：支持\是否支持全双工：全、半双工\网管功能：SNMPv1/v2、Web(JAVA)、CLI(Telnet
-/Console)、RMON(1,2,3,9)、集群、SSH、Syslog\传输速率(Mbps)：10/100/1000\端口类型：12个SFP接口和12个
+设备类型：千兆以太网交换机\VLAN支持：支持\是否支持全双工：全、半双工\网管功能：SNMPv1/v2、Web(JAVA)、CLI(Telnet /Console)、RMON(1,2,3,9)、集群、SSH、Syslog\传输速率(Mbps)：10/100/1000\端口类型：12个SFP接口和12个
 纠错换MP3
 |
 |
@@ -20519,8 +20141,7 @@ STAR-S4909
 ￥54000
 ↓2%
 暂无报价
-设备类型：模块化交换机\VLAN支持：支持\是否支持全双工：全双工\网管功能：SNMPv1/v2、Web(JAVA)、CLI(Telnet
-/Console)、RMON(1,2,3,9)\传输速率(Mbps)：10/100/1000\端口类型：全模块化
+设备类型：模块化交换机\VLAN支持：支持\是否支持全双工：全双工\网管功能：SNMPv1/v2、Web(JAVA)、CLI(Telnet /Console)、RMON(1,2,3,9)\传输速率(Mbps)：10/100/1000\端口类型：全模块化
 纠错换MP3
 |
 |
@@ -20548,8 +20169,7 @@ STAR-S3550-48
 ￥48000
 ↓4%
 暂无报价
-设备类型：千兆以太网交换机\VLAN支持：支持\是否支持全双工：全、半双工\网管功能：SNMPv1/v2、Web(JAVA)、CLI(Telnet
-/Console)、RMON(1,2,3,9)、集群\传输速率(Mbps)：10/100/1000\端口类型：10/100Base-TX，1000Base-SX/LX
+设备类型：千兆以太网交换机\VLAN支持：支持\是否支持全双工：全、半双工\网管功能：SNMPv1/v2、Web(JAVA)、CLI(Telnet /Console)、RMON(1,2,3,9)、集群\传输速率(Mbps)：10/100/1000\端口类型：10/100Base-TX，1000Base-SX/LX
 纠错换MP3
 |
 |
@@ -20563,8 +20183,7 @@ STAR-S4900
 ￥46000
 ↓2%
 暂无报价
-设备类型：模块化交换机\VLAN支持：支持\是否支持全双工：全、半双工\网管功能：SNMPv1/v2、Web(JAVA)、CLI(Telnet
-/Console)、RMON(1,2,3,9)\传输速率(Mbps)：10/100/1000\端口类型：全模块化
+设备类型：模块化交换机\VLAN支持：支持\是否支持全双工：全、半双工\网管功能：SNMPv1/v2、Web(JAVA)、CLI(Telnet /Console)、RMON(1,2,3,9)\传输速率(Mbps)：10/100/1000\端口类型：全模块化
 纠错换MP3
 |
 |
@@ -20592,8 +20211,7 @@ STAR-S3550-24
 ￥25000
 ↓4%
 暂无报价
-设备类型：千兆以太网交换机\VLAN支持：支持\是否支持全双工：全、半双工\网管功能：SNMPv1/v2、Web(JAVA)、CLI(Telnet
-/Console)、RMON(1,2,3,9)、集群\传输速率(Mbps)：10/100/1000\端口类型：10/100Base-TX，1000Base-SX/LX
+设备类型：千兆以太网交换机\VLAN支持：支持\是否支持全双工：全、半双工\网管功能：SNMPv1/v2、Web(JAVA)、CLI(Telnet /Console)、RMON(1,2,3,9)、集群\传输速率(Mbps)：10/100/1000\端口类型：10/100Base-TX，1000Base-SX/LX
 纠错换MP3
 |
 |
@@ -20636,8 +20254,7 @@ STAR-S2800
 ↓6%
 暂无报价
 设备类型：模块化交换机\VLAN支持：支持\是否支持全双工：全双工\网管功能：SNMP管理信息库(MIB)II，SNMP
-MIB扩展，桥接MIB(RFC
-1493)\传输速率(Mbps)：10/100/1000\端口类型：10/100Base-TX，100/1000Base-FX
+MIB扩展，桥接MIB(RFC 1493)\传输速率(Mbps)：10/100/1000\端口类型：10/100Base-TX，100/1000Base-FX
 纠错换MP3
 |
 |
@@ -20967,8 +20584,7 @@ RG-S3550-12SFP/GT
 ￥118000
 ↓2%
 暂无报价
-设备类型：千兆以太网交换机\VLAN支持：支持\是否支持全双工：全、半双工\网管功能：SNMPv1/v2、Web(JAVA)、CLI(Telnet
-/Console)、RMON(1,2,3,9)、集群、SSH、Syslog\传输速率(Mbps)：10/100/1000\端口类型：12个SFP接口和12个
+设备类型：千兆以太网交换机\VLAN支持：支持\是否支持全双工：全、半双工\网管功能：SNMPv1/v2、Web(JAVA)、CLI(Telnet /Console)、RMON(1,2,3,9)、集群、SSH、Syslog\传输速率(Mbps)：10/100/1000\端口类型：12个SFP接口和12个
 纠错换MP3
 |
 |
@@ -21164,8 +20780,7 @@ STAR-S3550-48
 ￥48000
 ↓4%
 暂无报价
-设备类型：千兆以太网交换机\VLAN支持：支持\是否支持全双工：全、半双工\网管功能：SNMPv1/v2、Web(JAVA)、CLI(Telnet
-/Console)、RMON(1,2,3,9)、集群\传输速率(Mbps)：10/100/1000\端口类型：10/100Base-TX，1000Base-SX/LX
+设备类型：千兆以太网交换机\VLAN支持：支持\是否支持全双工：全、半双工\网管功能：SNMPv1/v2、Web(JAVA)、CLI(Telnet /Console)、RMON(1,2,3,9)、集群\传输速率(Mbps)：10/100/1000\端口类型：10/100Base-TX，1000Base-SX/LX
 纠错换MP3
 |
 |
@@ -21179,8 +20794,7 @@ STAR-S3550-24
 ￥25000
 ↓4%
 暂无报价
-设备类型：千兆以太网交换机\VLAN支持：支持\是否支持全双工：全、半双工\网管功能：SNMPv1/v2、Web(JAVA)、CLI(Telnet
-/Console)、RMON(1,2,3,9)、集群\传输速率(Mbps)：10/100/1000\端口类型：10/100Base-TX，1000Base-SX/LX
+设备类型：千兆以太网交换机\VLAN支持：支持\是否支持全双工：全、半双工\网管功能：SNMPv1/v2、Web(JAVA)、CLI(Telnet /Console)、RMON(1,2,3,9)、集群\传输速率(Mbps)：10/100/1000\端口类型：10/100Base-TX，1000Base-SX/LX
 纠错换MP3
 |
 |
@@ -21252,8 +20866,7 @@ STAR-S4909
 ￥54000
 ↓2%
 暂无报价
-设备类型：模块化交换机\VLAN支持：支持\是否支持全双工：全双工\网管功能：SNMPv1/v2、Web(JAVA)、CLI(Telnet
-/Console)、RMON(1,2,3,9)\传输速率(Mbps)：10/100/1000\端口类型：全模块化
+设备类型：模块化交换机\VLAN支持：支持\是否支持全双工：全双工\网管功能：SNMPv1/v2、Web(JAVA)、CLI(Telnet /Console)、RMON(1,2,3,9)\传输速率(Mbps)：10/100/1000\端口类型：全模块化
 纠错换MP3
 |
 |
@@ -21318,10 +20931,8 @@ TP-LINK
 美国网件(NETGEAR)
 阿尔法(ALPHA)
 金浪(KINGNET)
-清华同方(TSINGHUA
-TONGFANG)
-清华紫光比威(UNIS
-BITWAY)
+清华同方(TSINGHUA TONGFANG)
+清华紫光比威(UNIS BITWAY)
 英迈(INMI)
 华硕(ASUS)
 磊科(Netcore)
@@ -21329,13 +20940,11 @@ SMC
 中兴
 腾达(TENDA)
 XINGNET
-神州数码(Digital
-China)
+神州数码(Digital China)
 ipTIME
 爱迪麦斯(EDIMAX)
 Extreme
-固网(HARD
-LINK)
+固网(HARD LINK)
 趋势(TRENDnet)
 TP-LINK
 下一页
@@ -21360,10 +20969,8 @@ TP-LINK
 美国网件(NETGEAR)
 阿尔法(ALPHA)
 金浪(KINGNET)
-清华同方(TSINGHUA
-TONGFANG)
-清华紫光比威(UNIS
-BITWAY)
+清华同方(TSINGHUA TONGFANG)
+清华紫光比威(UNIS BITWAY)
 英迈(INMI)
 华硕(ASUS)
 磊科(Netcore)
@@ -21371,13 +20978,11 @@ SMC
 中兴
 腾达(TENDA)
 XINGNET
-神州数码(Digital
-China)
+神州数码(Digital China)
 ipTIME
 爱迪麦斯(EDIMAX)
 Extreme
-固网(HARD
-LINK)
+固网(HARD LINK)
 趋势(TRENDnet)
 热门IT品牌快速通道
 ·三星
@@ -21942,8 +21547,7 @@ IT商城特价抢购
 TP-LINK
 磊科(Netcore)
 3COM
-神州数码(Digital
-China)
+神州数码(Digital China)
 阿尔法(ALPHA)
 腾达(TENDA)
 神州数码
@@ -21963,8 +21567,7 @@ China)
 TP-LINK
 磊科(Netcore)
 3COM
-神州数码(Digital
-China)
+神州数码(Digital China)
 阿尔法(ALPHA)
 腾达(TENDA)
 热门IT品牌快速通道
@@ -23023,8 +22626,7 @@ Cisco-Linksys
 阿尔法(ALPHA)
 腾达(TENDA)
 SMC
-神州数码(Digital
-China)
+神州数码(Digital China)
 XINGNET
 友讯网络
 下一页
@@ -23049,8 +22651,7 @@ Cisco-Linksys
 阿尔法(ALPHA)
 腾达(TENDA)
 SMC
-神州数码(Digital
-China)
+神州数码(Digital China)
 XINGNET
 热门IT品牌快速通道
 ·三星
@@ -23709,76 +23310,21 @@ window.screen.width>800
 imgheight=100:imgheight=100
 function
 myload()
-{
-if
-(navigator.appName
-==
-"Netscape")
-{document.myitcom.pageY=pageYOffset+window.innerHeight-imgheight;
-document.myitcom.pageX=+window.innerWidth-120;
-mymove();
-}
-else
-{
-myitcom.style.top=document.body.scrollTop+document.body.offsetHeight-imgheight;
-myitcom.style.left=document.body.offsetWidth-120;
-mymove();
-}
-}
+{ if (navigator.appName == "Netscape") {document.myitcom.pageY=pageYOffset+window.innerHeight-imgheight; document.myitcom.pageX=+window.innerWidth-120; mymove(); } else { myitcom.style.top=document.body.scrollTop+document.body.offsetHeight-imgheight; myitcom.style.left=document.body.offsetWidth-120; mymove(); } }
 function
 mymove()
-{
-if(document.ns)
-{
-document.myitcom.top=pageYOffset+window.innerHeight-imgheight;
-document.myitcom.left=pageXOffset+window.innerWidth-120;
-setTimeout("mymove();",50)
-}
-else
-{
-myitcom.style.top=document.body.scrollTop+document.body.offsetHeight-imgheight;
-myitcom.style.left=document.body.scrollLeft+document.body.offsetWidth-100;
-setTimeout("mymove();",50)
-}
-}
+{ if(document.ns) { document.myitcom.top=pageYOffset+window.innerHeight-imgheight; document.myitcom.left=pageXOffset+window.innerWidth-120; setTimeout("mymove();",50) } else { myitcom.style.top=document.body.scrollTop+document.body.offsetHeight-imgheight; myitcom.style.left=document.body.scrollLeft+document.body.offsetWidth-100; setTimeout("mymove();",50) } }
 function
 MM_reloadPage(init)
-{
-//reloads
-the
-window
-if
-Nav4
-resized
-if
-(init==true)
-with
-(navigator)
-{if
-((appName=="Netscape")&&(parseInt(appVersion)==4))
-{
-document.MM_pgW=innerWidth;
-document.MM_pgH=innerHeight;
-onresize=MM_reloadPage;
-}}
-else
-if
-(innerWidth!=document.MM_pgW
-||
-innerHeight!=document.MM_pgH)
-location.reload();
-}
+{ //reloads the window if Nav4 resized if (init==true) with (navigator) {if ((appName=="Netscape")&&(parseInt(appVersion)==4)) { document.MM_pgW=innerWidth; document.MM_pgH=innerHeight; onresize=MM_reloadPage; }} else if (innerWidth!=document.MM_pgW || innerHeight!=document.MM_pgH) location.reload(); }
 MM_reloadPage(true)
 if
-(navigator.appName
-==
-"Netscape")
+(navigator.appName == "Netscape")
 {document.write("
 ");
 myload()}
 else
-{
-document.write("
+{ document.write("
 ");
 myload()
 }
@@ -23786,10 +23332,7 @@ myload()
 惠普
 Compaq
 Presario
-V3643TU(惠普
-Compaq
-Presario
-V3643TU(GX900PA))笔记本
+V3643TU(惠普 Compaq Presario V3643TU(GX900PA))笔记本
 栏目
 -
 IT.com.cn
@@ -24080,8 +23623,7 @@ Voodoo笔记本SavRow笔记本HAMMER笔记本AJP笔记本Quest笔记本
 惠普关注排行
 -
 神舟
-天运Q540X(神舟
-天运Q540X)笔记本
+天运Q540X(神舟 天运Q540X)笔记本
 栏目
 -
 IT.com.cn
@@ -24284,9 +23826,7 @@ Voodoo笔记本SavRow笔记本HAMMER笔记本AJP笔记本Quest笔记本
 -
 戴尔
 Vostro
-1400(戴尔
-Vostro
-1400(Q521087))笔记本
+1400(戴尔 Vostro 1400(Q521087))笔记本
 栏目
 -
 IT.com.cn
@@ -24536,9 +24076,7 @@ Voodoo笔记本SavRow笔记本HAMMER笔记本AJP笔记本Quest笔记本
 -
 戴尔
 Inspiron
-1420(戴尔
-Inspiron
-1420(T5250/1GB/80GB/COMBO))笔记本
+1420(戴尔 Inspiron 1420(T5250/1GB/80GB/COMBO))笔记本
 栏目
 -
 IT.com.cn
@@ -24806,8 +24344,7 @@ Voodoo笔记本SavRow笔记本HAMMER笔记本AJP笔记本Quest笔记本
 戴尔关注排行
 -
 联想
-天逸F31G-MT(联想
-天逸F31G-MT)笔记本
+天逸F31G-MT(联想 天逸F31G-MT)笔记本
 栏目
 -
 IT.com.cn
@@ -24936,8 +24473,7 @@ IT商城价：到IT商城购买笔记本
 联想
 旭日C466M-MX(Disney)联想
 旭日C510A-UX联想
-天逸F51A-ST(TV
-TUNER)联想
+天逸F51A-ST(TV TUNER)联想
 天逸F21-ST联想
 天逸F51A-UT
 联想
@@ -25015,9 +24551,7 @@ Voodoo笔记本SavRow笔记本HAMMER笔记本AJP笔记本Quest笔记本
 -
 华硕
 Eee
-PC(华硕
-Eee
-PC)笔记本
+PC(华硕 Eee PC)笔记本
 栏目
 -
 IT.com.cn
@@ -25786,9 +25320,7 @@ Xpress
 -
 戴尔
 Latitude
-D430(R720141C
-暂无报价
-暂无报价
+D430(R720141C 暂无报价 暂无报价  
 处理器类型：Core
 2
 Duo
@@ -26618,8 +26150,7 @@ X700\显存容量：128MB\光驱类型：DVD-Multi\整机重量：3.2Kg\型号系列：W1Vc系列
 比较
 -
 惠普
-NC8230(PMD
-2.0GHz/512MB/60GB/15.4&quot;)
+NC8230(PMD 2.0GHz/512MB/60GB/15.4&quot;)
 ￥28790
 -
 28790
@@ -27174,9 +26705,7 @@ G\显存容量：128MB\光驱类型：DVD±RW\整机重量：2.4Kg
 页
 惠普
 Pavilion
-g3138cx(惠普
-Pavilion
-g3138cx)台式机
+g3138cx(惠普 Pavilion g3138cx)台式机
 栏目
 -
 IT.com.cn
@@ -27424,9 +26953,7 @@ IBM台式机戴尔台式机联想台式机神舟台式机TCL台式机
 -
 惠普
 Compaq
-d2000(PK873PA)(惠普
-Compaq
-d2000(PK873PA))台式机
+d2000(PK873PA)(惠普 Compaq d2000(PK873PA))台式机
 栏目
 -
 IT.com.cn
@@ -27670,11 +27197,7 @@ IBM台式机戴尔台式机联想台式机神舟台式机TCL台式机
 惠普关注排行
 -
 联想
-家悦U2240(联想
-家悦U2240
-PD
-E2140
-1024160sGD(R)(DV)A)台式机
+家悦U2240(联想 家悦U2240 PD E2140 1024160sGD(R)(DV)A)台式机
 栏目
 -
 IT.com.cn
@@ -27887,16 +27410,12 @@ E2140
 开天M4500
 PD925
 512s160VN(DOS/17&quot;LCD)联想
-启天M4600(PD
-925/512MB/160GB/17&quot;LCD)联想
-启天M4300(CD
-3.06GHz/512MB/160GB/17&quot;CRT)联想
+启天M4600(PD 925/512MB/160GB/17&quot;LCD)联想
+启天M4300(CD 3.06GHz/512MB/160GB/17&quot;CRT)联想
 启天M4400
-(P4
-3.0GHz/512MB/160GB/17&quot;LCD)联想
+(P4 3.0GHz/512MB/160GB/17&quot;LCD)联想
 启天M4400
-(CD
-347/256MB/80GB/17&quot;CRT)
+(CD 347/256MB/80GB/17&quot;CRT)
 联想
 扬天E4600C
 PD
@@ -28009,11 +27528,7 @@ IBM台式机戴尔台式机惠普台式机神舟台式机TCL台式机
 联想关注排行
 -
 联想
-家悦U5050A(联想
-家悦U5050A
-AX2
-4400+
-1024160sGD(R)(VB))台式机
+家悦U5050A(联想 家悦U5050A AX2 4400+ 1024160sGD(R)(VB))台式机
 栏目
 -
 IT.com.cn
@@ -28235,16 +27750,12 @@ E2140
 开天M4500
 PD925
 512s160VN(DOS/17&quot;LCD)联想
-启天M4600(PD
-925/512MB/160GB/17&quot;LCD)联想
-启天M4300(CD
-3.06GHz/512MB/160GB/17&quot;CRT)联想
+启天M4600(PD 925/512MB/160GB/17&quot;LCD)联想
+启天M4300(CD 3.06GHz/512MB/160GB/17&quot;CRT)联想
 启天M4400
-(P4
-3.0GHz/512MB/160GB/17&quot;LCD)联想
+(P4 3.0GHz/512MB/160GB/17&quot;LCD)联想
 启天M4400
-(CD
-347/256MB/80GB/17&quot;CRT)
+(CD 347/256MB/80GB/17&quot;CRT)
 联想
 扬天E4600C
 PD
@@ -28362,10 +27873,7 @@ IBM台式机戴尔台式机惠普台式机神舟台式机TCL台式机
 -
 戴尔
 Inspiron
-531(戴尔
-Inspiron
-531(X2
-3800+/512MBB/80GB))台式机
+531(戴尔 Inspiron 531(X2 3800+/512MBB/80GB))台式机
 栏目
 -
 IT.com.cn
@@ -28417,8 +27925,7 @@ DV
 戴尔(DELL)
 戴尔
 Inspiron
-531(X2
-3800+/512MBB/80GB)
+531(X2 3800+/512MBB/80GB)
 台式机跨品牌比较
 纠错换MP3
 请选择：
@@ -28428,8 +27935,7 @@ Inspiron
 台式机产品：
 戴尔
 Inspiron
-531(X2
-3800+/512MBB/80GB)
+531(X2 3800+/512MBB/80GB)
 精品图库
 详细参数
 网友评论
@@ -28437,8 +27943,7 @@ Inspiron
 各地经销商
 戴尔
 Inspiron
-531(X2
-3800+/512MBB/80GB)
+531(X2 3800+/512MBB/80GB)
 点击查看更多图片（0张）
 机器类型：家用台式机
 处理器类型：Athlon
@@ -28458,16 +27963,14 @@ IT商城价：到IT商城购买台式机
 更详细参数
 戴尔
 Inspiron
-531(X2
-3800+/512MBB/80GB)
+531(X2 3800+/512MBB/80GB)
 热点文章
 更多
 精华评论：
 商情信息
 戴尔
 Inspiron
-531(X2
-3800+/512MBB/80GB)
+531(X2 3800+/512MBB/80GB)
 各地报价
 郑州
 长沙
@@ -28527,44 +28030,31 @@ MT(C420/512M/80GB/17"LCD)戴尔
 Optiplex
 745(E6300/1GB/160GB/独显256M/19&quot;LCD)戴尔
 Optiplex
-745(PD
-945/1GB/160GB/17&quot;LCD/独显)戴尔
+745(PD 945/1GB/160GB/17&quot;LCD/独显)戴尔
 Optiplex
-745(PD
-925/512MB/160GB/17&quot;LCD)
+745(PD 925/512MB/160GB/17&quot;LCD)
 戴尔
 OptiPlex
-320(PD
-925/512MB/160GB/DVD/17&quot;LCD)戴尔
+320(PD 925/512MB/160GB/DVD/17&quot;LCD)戴尔
 Dimension
 9200(E4300/2GB/160GB/DVD刻录/22&quot;LCD)戴尔
 Dimension
-E520(PD
-925/1GB/160GB/DVD/19&quot;LCD)戴尔
+E520(PD 925/1GB/160GB/DVD/19&quot;LCD)戴尔
 Dimension
-E520(PD
-925/512MB/80GB/DVD/17&quot;LCD)戴尔
+E520(PD 925/512MB/80GB/DVD/17&quot;LCD)戴尔
 Dimension
-C521(A64
-X2
-3600+/1GB/160GB/19&quot;LCD)
+C521(A64 X2 3600+/1GB/160GB/19&quot;LCD)
 戴尔
 Dimension
-C521(A64
-X2
-3600+/512MB/80GB/19&quot;LCD)戴尔
+C521(A64 X2 3600+/512MB/80GB/19&quot;LCD)戴尔
 Dimension
-C521(S64
-3400+/512MB/80GB/15&quot;LCD)戴尔
+C521(S64 3400+/512MB/80GB/15&quot;LCD)戴尔
 Dimension
-C521(A64
-X2
-3600+/512MB/80GB/17"LCD)戴尔
+C521(A64 X2 3600+/512MB/80GB/17"LCD)戴尔
 Dimension
 E520(E4300/1GB/160GB/DVD/22&quot;LCD)戴尔
 Dimension
-E520(PD
-820/512MB/80GB/COMBO/19&quot;LCD)
+E520(PD 820/512MB/80GB/COMBO/19&quot;LCD)
 戴尔
 Dimension
 XPS
@@ -28572,56 +28062,40 @@ XPS
 Dimension
 9200C(E4300/1GB/160GB/DVD刻录/19"LCD)戴尔
 OptiPlex
-320(P4
-536/512MB/80GB/17&quot;LCD)戴尔
+320(P4 536/512MB/80GB/17&quot;LCD)戴尔
 OptiPlex
-320(PD
-925/512MB/160GB/COMBO/17&quot;LCD)戴尔
+320(PD 925/512MB/160GB/COMBO/17&quot;LCD)戴尔
 Dimension
-C521(A64
-X2
-3800+/1GB/160GB/20"WLCD)
+C521(A64 X2 3800+/1GB/160GB/20"WLCD)
 戴尔
 EC280(C-M205/512M/80GB/DVD/17"LCD)戴尔
 OptiPlex
-320(P4
-531/512MB/160GB/DVD/17&quot;LCD)戴尔
+320(P4 531/512MB/160GB/DVD/17&quot;LCD)戴尔
 Optiplex
-745N(PD
-915/512M/160GB/COMBO/17&quot;LCD)戴尔
+745N(PD 915/512M/160GB/COMBO/17&quot;LCD)戴尔
 XPS710(E6400/1GB/250GB/20"LCD)戴尔
 Dimension
-3100(P4
-521/512MB/80G/COMBO/15&quot;LCD)
+3100(P4 521/512MB/80G/COMBO/15&quot;LCD)
 戴尔
 Dimension
 9200C(E4300/512M/160GB/DVD刻录/19&quot;LCD)戴尔
 Dimension
 9200(E4300/1GB/160GB/DVD刻录/20&quot;LCD)戴尔
 Dimension
-C521(A64
-3500+/512MB/80GB/17&quot;LCD)戴尔
+C521(A64 3500+/512MB/80GB/17&quot;LCD)戴尔
 Dimension
-C521(A64
-X2
-3800+/512MB/160GB/19&quot;LCD)戴尔
+C521(A64 X2 3800+/512MB/160GB/19&quot;LCD)戴尔
 Dimension
-E520(P4
-631/512MB/80G/COMBO/19&quot;LCD)
+E520(P4 631/512MB/80G/COMBO/19&quot;LCD)
 戴尔
 Dimension
-E520(P4
-631/512MB/80G/COMBO/17&quot;LCD)戴尔
+E520(P4 631/512MB/80G/COMBO/17&quot;LCD)戴尔
 Dimension
-E520(PD
-915/512MB/80G/COMBO/20&quot;LCD)戴尔
+E520(PD 915/512MB/80G/COMBO/20&quot;LCD)戴尔
 Dimension
-E521(Sempron
-3400+/512MB/80GB/17"LCD)戴尔
+E521(Sempron 3400+/512MB/80GB/17"LCD)戴尔
 Dimension
-E521(A64
-X2
-3800+/512MB/160GB/20"LCD)
+E521(A64 X2 3800+/512MB/160GB/20"LCD)
 台式机
 更多品牌
 IBM台式机惠普台式机联想台式机神舟台式机TCL台式机
@@ -28645,8 +28119,7 @@ IBM台式机惠普台式机联想台式机神舟台式机TCL台式机
 戴尔关注排行
 -
 神舟
-新瑞D2000(神舟
-新瑞D2000)台式机
+新瑞D2000(神舟 新瑞D2000)台式机
 栏目
 -
 IT.com.cn
@@ -28808,8 +28281,7 @@ hd唐朝L400D
 新梦G600(17&quot;LCD)神舟
 唐朝G430T(T2060/1GB/160GB)神舟
 新梦G4000神舟
-唐朝G380D(P-M
-740/1GB/80GB)神舟
+唐朝G380D(P-M 740/1GB/80GB)神舟
 新梦G2000(17"LCD)
 神舟
 新梦D2000(17"LCD)神舟
@@ -30081,9 +29553,7 @@ E2160\处理器频率(GHz)：1.8\二级缓存：1MB\内存类型：DDR2\标配内存容量(MB)：512\硬
 开天S5300
 AX2
 4000+
-1Gs160VN(BIZ
-暂无报价
-暂无报价
+1Gs160VN(BIZ 暂无报价 暂无报价  
 机器类型：家用台式机\处理器类型：Athlon
 64
 X2
@@ -30349,8 +29819,7 @@ M
 第10
 页
 斯巴达克
-黑潮BI-100(斯巴达克
-黑潮BI-100)主板
+黑潮BI-100(斯巴达克 黑潮BI-100)主板
 栏目
 -
 IT.com.cn
@@ -30555,8 +30024,7 @@ QDI主板源兴主板新泰主板佰钰主板祺祥主板
 海口|佛山|哈尔滨|郑州
 -
 华硕
-M2N-E(华硕
-M2N-E)主板
+M2N-E(华硕 M2N-E)主板
 栏目
 -
 IT.com.cn
@@ -30723,8 +30191,7 @@ HDMI
 华硕
 P5GC-MX(R3)华硕
 Maximus
-Formula(Special
-Edition)华硕
+Formula(Special Edition)华硕
 Maximus
 Extreme华硕
 P5K-E华硕
@@ -30830,9 +30297,7 @@ QDI主板源兴主板新泰主板佰钰主板祺祥主板
 -
 华硕
 P5K3
-Deluxe/WiFi-AP(华硕
-P5K3
-Deluxe/WiFi-AP)主板
+Deluxe/WiFi-AP(华硕 P5K3 Deluxe/WiFi-AP)主板
 栏目
 -
 IT.com.cn
@@ -30968,8 +30433,7 @@ M2N-VM
 HDMI华硕
 P5GC-MX(R3)华硕
 Maximus
-Formula(Special
-Edition)
+Formula(Special Edition)
 华硕
 Maximus
 Extreme华硕
@@ -31084,9 +30548,7 @@ QDI主板源兴主板新泰主板佰钰主板祺祥主板
 -
 微星
 P35
-Neo2-FIR(微星
-P35
-Neo2-FIR)主板
+Neo2-FIR(微星 P35 Neo2-FIR)主板
 栏目
 -
 IT.com.cn
@@ -31355,8 +30817,7 @@ QDI主板源兴主板新泰主板佰钰主板祺祥主板
 微星关注排行
 -
 昂达
-N68PV(昂达
-N68PV)主板
+N68PV(昂达 N68PV)主板
 栏目
 -
 IT.com.cn
@@ -31596,8 +31057,7 @@ QDI主板源兴主板新泰主板佰钰主板祺祥主板
 昂达关注排行
 -
 技嘉
-945GCMX-S2(技嘉
-945GCMX-S2)主板
+945GCMX-S2(技嘉 945GCMX-S2)主板
 栏目
 -
 IT.com.cn
@@ -31725,17 +31185,13 @@ IT商城价：到IT商城购买主板
 主板
 更多产品
 技嘉
-73VM-S2(rev.
-1.0)技嘉
-73PVM-S2H(rev.
-1.0)技嘉
-73UM-S2H(rev.
-1.0)技嘉
+73VM-S2(rev. 1.0)技嘉
+73PVM-S2H(rev. 1.0)技嘉
+73UM-S2H(rev. 1.0)技嘉
 G31-S3L技嘉
 G33M-S2L
 技嘉
-P31-S3G(rev.
-1.0)技嘉
+P31-S3G(rev. 1.0)技嘉
 Q35M-S2技嘉
 P35-S3G技嘉
 MA770-DS3技嘉
@@ -31756,21 +31212,14 @@ G31M-S2L
 X38T-DQ6技嘉
 X38-DS5技嘉
 X38-DQ6技嘉
-P35T-DS3P(rev.
-1.0)技嘉
-P35-S3L(rev.
-2.0)
+P35T-DS3P(rev. 1.0)技嘉
+P35-S3L(rev. 2.0)
 技嘉
-P35-S3L(rev.
-1.0)技嘉
-P35-DS3L(rev.
-1.0)技嘉
-P35-DS3(rev.
-1.0)技嘉
-P35C-S3(rev.
-2.0)技嘉
-P35C-DS3(rev.
-2.0)
+P35-S3L(rev. 1.0)技嘉
+P35-DS3L(rev. 1.0)技嘉
+P35-DS3(rev. 1.0)技嘉
+P35C-S3(rev. 2.0)技嘉
+P35C-DS3(rev. 2.0)
 技嘉
 P31-S3L(rev.1.0)技嘉
 P31-DS3L(rev.1.0)技嘉
@@ -31958,8 +31407,7 @@ QDI(QDI)
 宏嘉
 奥兰治(ORA)
 新华盛
-神火磐龙(Link
-King)
+神火磐龙(Link King)
 双捷
 技鑫
 奔驰
@@ -33691,8 +33139,7 @@ X16\主板结构：m-ATX\板载网卡：10/100Mbps自适应网卡
 比较
 -
 技嘉
-73VM-S2(rev.
-1.0)
+73VM-S2(rev. 1.0)
 暂无报价
 暂无报价
 北桥芯片：nVidia
@@ -33718,8 +33165,7 @@ RTL8201N
 比较
 -
 技嘉
-73PVM-S2H(rev.
-1.0)
+73PVM-S2H(rev. 1.0)
 暂无报价
 暂无报价
 北桥芯片：nVidia
@@ -33745,8 +33191,7 @@ RTL8211B
 比较
 -
 技嘉
-73UM-S2H(rev.
-1.0)
+73UM-S2H(rev. 1.0)
 暂无报价
 暂无报价
 北桥芯片：nVidia
@@ -33824,8 +33269,7 @@ RTL8111B
 比较
 -
 技嘉
-P31-S3G(rev.
-1.0)
+P31-S3G(rev. 1.0)
 ￥660
 -
 660
@@ -34238,12 +33682,7 @@ HD
 3850
 PCS
 512MB
-GDDR3(迪兰恒进
-HD
-3850
-PCS
-512MB
-GDDR3)显卡
+GDDR3(迪兰恒进 HD 3850 PCS 512MB GDDR3)显卡
 栏目
 -
 IT.com.cn
@@ -34490,11 +33929,7 @@ ATI显卡太阳花显卡建碁显卡华东承启显卡旌宇显卡
 逸彩8600GT-GD3
 UP烈焰战神
 256M
-F10(七彩虹
-逸彩8600GT-GD3
-UP烈焰战神
-256M
-F10)显卡
+F10(七彩虹 逸彩8600GT-GD3 UP烈焰战神 256M F10)显卡
 栏目
 -
 IT.com.cn
@@ -34873,8 +34308,7 @@ ATI显卡太阳花显卡建碁显卡华东承启显卡旌宇显卡
 海口|佛山|哈尔滨|郑州
 -
 铭瑄
-狂镭HD2600PRO高清版(铭瑄
-狂镭HD2600PRO高清版(MS-HD2600PRO-D-D3256B-HD))显卡
+狂镭HD2600PRO高清版(铭瑄 狂镭HD2600PRO高清版(MS-HD2600PRO-D-D3256B-HD))显卡
 栏目
 -
 IT.com.cn
@@ -35092,8 +34526,7 @@ ATI显卡太阳花显卡建碁显卡华东承启显卡旌宇显卡
 铭瑄关注排行
 -
 耕昇
-8800GT超频版(耕昇
-神驹8800GT超频版)显卡
+8800GT超频版(耕昇 神驹8800GT超频版)显卡
 栏目
 -
 IT.com.cn
@@ -35351,10 +34784,7 @@ ATI显卡太阳花显卡建碁显卡华东承启显卡旌宇显卡
 蓝宝石
 HD2600PRO
 256MB
-GDDR3(蓝宝石
-HD2600PRO
-256MB
-GDDR3)显卡
+GDDR3(蓝宝石 HD2600PRO 256MB GDDR3)显卡
 栏目
 -
 IT.com.cn
@@ -35613,8 +35043,7 @@ ATI显卡太阳花显卡建碁显卡华东承启显卡旌宇显卡
 海口|佛山|哈尔滨|郑州
 -
 影驰
-GF8600GT魔灵(影驰
-GF8600GT魔灵)显卡
+GF8600GT魔灵(影驰 GF8600GT魔灵)显卡
 栏目
 -
 IT.com.cn
@@ -35961,8 +35390,7 @@ ATI(ATI)
 锋尚
 99°半
 新华盛
-神火磐龙(Link
-King)
+神火磐龙(Link King)
 天徉
 超卓天彩
 火龙王
@@ -37671,8 +37099,7 @@ X16\显存封装：MicroBGA/FBGA
 第10
 页
 Razer
-炼狱蝰蛇(Razer
-炼狱蝰蛇)鼠标
+炼狱蝰蛇(Razer 炼狱蝰蛇)鼠标
 栏目
 -
 IT.com.cn
@@ -37809,8 +37236,7 @@ SUNFLOWER鼠标新贵鼠标英普特鼠标太阳花鼠标技嘉鼠标
 海口|佛山|哈尔滨|郑州
 -
 罗技
-G1(光电)(罗技
-G1(光电))鼠标
+G1(光电)(罗技 G1(光电))鼠标
 栏目
 -
 IT.com.cn
@@ -37947,8 +37373,7 @@ G1(光学)罗技
 V200(红色)罗技
 MX518
 玩家級光學滑鼠罗技
-快乐光电鼠(足球版
-)
+快乐光电鼠(足球版 )
 罗技
 快乐光电鼠(瓢虫版)罗技
 无限慧貂罗技
@@ -37995,8 +37420,7 @@ SUNFLOWER鼠标新贵鼠标英普特鼠标太阳花鼠标技嘉鼠标
 海口|佛山|哈尔滨|郑州
 -
 罗技
-极光镭貂G5(罗技
-极光镭貂G5)鼠标
+极光镭貂G5(罗技 极光镭貂G5)鼠标
 栏目
 -
 IT.com.cn
@@ -38173,8 +37597,7 @@ G1(光学)罗技
 V200(红色)罗技
 MX518
 玩家級光學滑鼠罗技
-快乐光电鼠(足球版
-)
+快乐光电鼠(足球版 )
 罗技
 快乐光电鼠(瓢虫版)罗技
 无限慧貂罗技
@@ -38221,8 +37644,7 @@ SUNFLOWER鼠标新贵鼠标英普特鼠标太阳花鼠标技嘉鼠标
 海口|佛山|哈尔滨|郑州
 -
 罗技
-G3(罗技
-G3)鼠标
+G3(罗技 G3)鼠标
 栏目
 -
 IT.com.cn
@@ -38363,8 +37785,7 @@ G1(光学)罗技
 V200(红色)罗技
 MX518
 玩家級光學滑鼠罗技
-快乐光电鼠(足球版
-)
+快乐光电鼠(足球版 )
 罗技
 快乐光电鼠(瓢虫版)罗技
 无限慧貂罗技
@@ -38411,8 +37832,7 @@ SUNFLOWER鼠标新贵鼠标英普特鼠标太阳花鼠标技嘉鼠标
 海口|佛山|哈尔滨|郑州
 -
 微软
-IE3.0复刻版(微软
-IE3.0复刻版)鼠标
+IE3.0复刻版(微软 IE3.0复刻版)鼠标
 栏目
 -
 IT.com.cn
@@ -38541,27 +37961,11 @@ IE3.0复刻版
 微软
 极动鲨二代微软
 无线激光简报鲨8000微软
-激光游戏鼠标(Habu
-Laser
-Gaming
-Mouse)微软
+激光游戏鼠标(Habu Laser Gaming Mouse)微软
 无线流动简报鲨8000微软
-舒适光学鲨1000(Comfort
-Optical
-Mouse
-1000)
+舒适光学鲨1000(Comfort Optical Mouse 1000)
 微软
-无线舒适鲨2000(Wireless
-Optical
-Mouse
-2000微软
-无线霸雷鲨5000(Wireless
-Laser
-Mouse
-5000)微软
-无线迅雷鲨6000微软
-无线霸雷鲨6000微软
-光学迷你鲨3000
+无线舒适鲨2000(Wireless Optical Mouse 2000微软 无线霸雷鲨5000(Wireless Laser Mouse 5000)微软 无线迅雷鲨6000微软 无线霸雷鲨6000微软 光学迷你鲨3000
 微软
 暴雷鲨6000微软
 无线光学迷你鲨4000微软
@@ -38622,9 +38026,7 @@ SUNFLOWER鼠标新贵鼠标英普特鼠标太阳花鼠标技嘉鼠标
 -
 微软
 光学极动鲨
-(白)(微软
-光学极动鲨
-(白))鼠标
+(白)(微软 光学极动鲨 (白))鼠标
 栏目
 -
 IT.com.cn
@@ -38776,27 +38178,12 @@ IT商城价：到IT商城购买鼠标
 微软
 极动鲨二代微软
 无线激光简报鲨8000微软
-激光游戏鼠标(Habu
-Laser
-Gaming
-Mouse)微软
+激光游戏鼠标(Habu Laser Gaming Mouse)微软
 无线流动简报鲨8000微软
 IE3.0复刻版
 微软
-舒适光学鲨1000(Comfort
-Optical
-Mouse
-1000)微软
-无线舒适鲨2000(Wireless
-Optical
-Mouse
-2000微软
-无线霸雷鲨5000(Wireless
-Laser
-Mouse
-5000)微软
-无线迅雷鲨6000微软
-无线霸雷鲨6000
+舒适光学鲨1000(Comfort Optical Mouse 1000)微软
+无线舒适鲨2000(Wireless Optical Mouse 2000微软 无线霸雷鲨5000(Wireless Laser Mouse 5000)微软 无线迅雷鲨6000微软 无线霸雷鲨6000
 微软
 光学迷你鲨3000微软
 暴雷鲨6000微软
@@ -38931,8 +38318,7 @@ ENVISION
 NESO
 EIZO
 EMC
-神州数码(Digital
-China)
+神州数码(Digital China)
 美齐(JEAN)
 美格(MAG)
 现代(HY)
@@ -38985,8 +38371,7 @@ HACK(HACK)
 彩虹
 雅美达
 上广电(SVA)
-派威(Power
-View)
+派威(Power View)
 成功之星
 KTC(KTC)
 爱达(ADM)
@@ -41135,8 +40520,7 @@ SG
 ·西部数据
 ·清华紫光
 明基
-W10000(明基
-W10000)投影机
+W10000(明基 W10000)投影机
 栏目
 -
 IT.com.cn
@@ -41345,8 +40729,7 @@ JVC投影机
 明基关注排行
 -
 明基
-MP510(明基
-MP510)投影机
+MP510(明基 MP510)投影机
 栏目
 -
 IT.com.cn
@@ -41580,8 +40963,7 @@ JVC投影机
 明基关注排行
 -
 索尼
-VPL-CX71(索尼
-VPL-CX71)投影机
+VPL-CX71(索尼 VPL-CX71)投影机
 栏目
 -
 IT.com.cn
@@ -41811,8 +41193,7 @@ JVC投影机
 索尼关注排行
 -
 东芝
-TDP-P8(东芝
-TDP-P8)投影机
+TDP-P8(东芝 TDP-P8)投影机
 栏目
 -
 IT.com.cn
@@ -42029,8 +41410,7 @@ JVC投影机
 东芝关注排行
 -
 日立
-HCP-60X(日立
-HCP-60X)投影机
+HCP-60X(日立 HCP-60X)投影机
 栏目
 -
 IT.com.cn
@@ -42238,8 +41618,7 @@ JVC投影机
 日立关注排行
 -
 爱普生
-EMP-TW700(爱普生
-EMP-TW700)投影机
+EMP-TW700(爱普生 EMP-TW700)投影机
 栏目
 -
 IT.com.cn
@@ -43735,8 +43114,7 @@ DV
 联想(lenovo)
 利盟(Lexmark)
 三星(SAMSUNG)
-富士施乐(FUJI
-XEROX)
+富士施乐(FUJI XEROX)
 方正(Founder)
 柯达(KODAK)
 明基(BENQ)
@@ -43976,9 +43354,7 @@ C63
 产品类型：彩色喷墨打印机\墨盒类型：四色墨盒\喷头配置：共177个喷嘴,黑色90个,彩色29个×3色(青色、洋红色、黄色)\最高分辨率：5760×1440dpi\黑白打印速度：17ppm\彩色打印速度：9ppm\最大打印幅面：A4\接口类型：USB*5/
 Centronics-
 type
-8位并口(IEEE
--
-1284兼容模式)
+8位并口(IEEE - 1284兼容模式)
 纠错换MP3
 评论
 比较
@@ -44045,8 +43421,7 @@ Photo
 ￥5800
 -
 5800
-产品类型：彩色喷墨打印机\墨盒类型：七色墨盒\喷头配置：672个喷嘴(96个喷嘴×7色)\最高分辨率：2880×1440dpi\黑白打印速度：7.4ppm\彩色打印速度：3.1ppm\最大打印幅面：A3+\接口类型：USB2.0$接口（需操作系统支持、向下兼容USB1.1
-标准），IEEE1394并行接口
+产品类型：彩色喷墨打印机\墨盒类型：七色墨盒\喷头配置：672个喷嘴(96个喷嘴×7色)\最高分辨率：2880×1440dpi\黑白打印速度：7.4ppm\彩色打印速度：3.1ppm\最大打印幅面：A3+\接口类型：USB2.0$接口（需操作系统支持、向下兼容USB1.1 标准），IEEE1394并行接口
 纠错换MP3
 评论
 比较
@@ -44231,8 +43606,7 @@ PRO
 暂无报价
 产品类型：大幅面彩色喷墨打印机\墨盒类型：&quot;世纪虹彩K3
 VM&quot;颜料墨水
-(青,鲜洋红,黄,淡青,
-淡鲜洋红,淡黑,淡淡黑,照片黑,粗面黑)
+(青,鲜洋红,黄,淡青, 淡鲜洋红,淡黑,淡淡黑,照片黑,粗面黑)
 9个墨水插槽；每次打印只使用照片黑或粗面黑墨水打印,
 墨水选择由驱动根据打印介质自行决定
 700ml大容量分体墨盒
@@ -44277,10 +43651,7 @@ DesignJet
 -
 132000
 暂无报价
-产品类型：大幅面彩色喷墨打印机\墨盒类型：四色墨盒\最高分辨率：1200×2400dpi\最大打印幅面：A3\接口类型：快速以太网(10/100
-Mbps),火线(符合
-IEEE-1394a
-标准),1个EIO插槽
+产品类型：大幅面彩色喷墨打印机\墨盒类型：四色墨盒\最高分辨率：1200×2400dpi\最大打印幅面：A3\接口类型：快速以太网(10/100 Mbps),火线(符合 IEEE-1394a 标准),1个EIO插槽
 纠错换MP3
 评论
 比较
@@ -44371,8 +43742,7 @@ PRO
 44790
 暂无报价
 产品类型：大幅面彩色喷墨打印机\墨盒类型：爱普生“世纪万彩”颜料墨水（CAD/GIS行业专用墨水）青、洋红、黄、黑
-4色\喷头配置：共1440个(
-360个喷嘴/色×4色)\最高分辨率：1440dpi×720dpi\最大打印幅面：B0+\接口类型：USB2.0（需操作系统支持，向下兼容1.1标准）/IEEE
+4色\喷头配置：共1440个( 360个喷嘴/色×4色)\最高分辨率：1440dpi×720dpi\最大打印幅面：B0+\接口类型：USB2.0（需操作系统支持，向下兼容1.1标准）/IEEE
 1394火线，选配
 扩展槽：TYPE
 B
@@ -44448,8 +43818,7 @@ PRO
 21790
 暂无报价
 产品类型：大幅面彩色喷墨打印机\墨盒类型：爱普生“世纪万彩”颜料墨水（CAD/GIS行业专用墨水）青、洋红、黄、黑
-4色\喷头配置：共1440个(
-360个喷嘴/色×4色)\最高分辨率：1440dpi×720dpi\最大打印幅面：A1+\接口类型：USB2.0（需操作系统支持，向下兼容1.1标准）/IEEE
+4色\喷头配置：共1440个( 360个喷嘴/色×4色)\最高分辨率：1440dpi×720dpi\最大打印幅面：A1+\接口类型：USB2.0（需操作系统支持，向下兼容1.1标准）/IEEE
 1394火线，选配
 扩展槽：TYPE
 B
@@ -44637,8 +44006,7 @@ Photo
 ￥5800
 -
 5800
-产品类型：彩色喷墨打印机\墨盒类型：七色墨盒\喷头配置：672个喷嘴(96个喷嘴×7色)\最高分辨率：2880×1440dpi\黑白打印速度：7.4ppm\彩色打印速度：3.1ppm\最大打印幅面：A3+\接口类型：USB2.0$接口（需操作系统支持、向下兼容USB1.1
-标准），IEEE1394并行接口
+产品类型：彩色喷墨打印机\墨盒类型：七色墨盒\喷头配置：672个喷嘴(96个喷嘴×7色)\最高分辨率：2880×1440dpi\黑白打印速度：7.4ppm\彩色打印速度：3.1ppm\最大打印幅面：A3+\接口类型：USB2.0$接口（需操作系统支持、向下兼容USB1.1 标准），IEEE1394并行接口
 纠错换MP3
 评论
 比较
@@ -44683,8 +44051,7 @@ inkjet
 4999
 暂无报价
 产品类型：彩色喷墨打印机\墨盒类型：四色墨盒\最高分辨率：1200×2400dpi\黑白打印速度：21ppm\彩色打印速度：18ppm\最大打印幅面：A4\接口类型：一个符合IEEE
-1284标准的双向并口、一个USB(符合USB
-2.0规范)、两个开放EIO插槽，支持快速以太网10/100Base-TX，采用一个EIO插槽、三个DIMM插槽
+1284标准的双向并口、一个USB(符合USB 2.0规范)、两个开放EIO插槽，支持快速以太网10/100Base-TX，采用一个EIO插槽、三个DIMM插槽
 纠错换MP3
 评论
 比较
@@ -44761,8 +44128,7 @@ PRO
 21790
 暂无报价
 产品类型：大幅面彩色喷墨打印机\墨盒类型：爱普生“世纪万彩”颜料墨水（CAD/GIS行业专用墨水）青、洋红、黄、黑
-4色\喷头配置：共1440个(
-360个喷嘴/色×4色)\最高分辨率：1440dpi×720dpi\最大打印幅面：A1+\接口类型：USB2.0（需操作系统支持，向下兼容1.1标准）/IEEE
+4色\喷头配置：共1440个( 360个喷嘴/色×4色)\最高分辨率：1440dpi×720dpi\最大打印幅面：A1+\接口类型：USB2.0（需操作系统支持，向下兼容1.1标准）/IEEE
 1394火线，选配
 扩展槽：TYPE
 B
@@ -44780,8 +44146,7 @@ PRO
 44790
 暂无报价
 产品类型：大幅面彩色喷墨打印机\墨盒类型：爱普生“世纪万彩”颜料墨水（CAD/GIS行业专用墨水）青、洋红、黄、黑
-4色\喷头配置：共1440个(
-360个喷嘴/色×4色)\最高分辨率：1440dpi×720dpi\最大打印幅面：B0+\接口类型：USB2.0（需操作系统支持，向下兼容1.1标准）/IEEE
+4色\喷头配置：共1440个( 360个喷嘴/色×4色)\最高分辨率：1440dpi×720dpi\最大打印幅面：B0+\接口类型：USB2.0（需操作系统支持，向下兼容1.1标准）/IEEE
 1394火线，选配
 扩展槽：TYPE
 B
@@ -44885,8 +44250,7 @@ PRO
 暂无报价
 产品类型：大幅面彩色喷墨打印机\墨盒类型：&quot;世纪虹彩K3
 VM&quot;颜料墨水
-(青,鲜洋红,黄,淡青,
-淡鲜洋红,淡黑,淡淡黑,照片黑,粗面黑)
+(青,鲜洋红,黄,淡青, 淡鲜洋红,淡黑,淡淡黑,照片黑,粗面黑)
 9个墨水插槽；每次打印只使用照片黑或粗面黑墨水打印,
 墨水选择由驱动根据打印介质自行决定
 700ml大容量分体墨盒
@@ -45195,9 +44559,7 @@ CP740
 第10
 页
 佳能
-SX100(佳能
-SX100
-IS)数码相机
+SX100(佳能 SX100 IS)数码相机
 栏目
 -
 IT.com.cn
@@ -45524,10 +44886,7 @@ A410
 佳能
 IXUS
 860
-IS(佳能
-IXUS
-860
-IS)数码相机
+IS(佳能 IXUS 860 IS)数码相机
 栏目
 -
 IT.com.cn
@@ -45869,10 +45228,7 @@ A410
 佳能
 PowerShot
 A720
-IS(佳能
-PowerShot
-A720
-IS)数码相机
+IS(佳能 PowerShot A720 IS)数码相机
 栏目
 -
 IT.com.cn
@@ -46203,8 +45559,7 @@ A410
 海口|佛山|哈尔滨|郑州
 -
 索尼
-DSC-T70(索尼
-DSC-T70)数码相机
+DSC-T70(索尼 DSC-T70)数码相机
 栏目
 -
 IT.com.cn
@@ -46434,8 +45789,7 @@ DSC-W12
 海口|佛山|哈尔滨|郑州
 -
 索尼
-DSC-T200(索尼
-DSC-T200)数码相机
+DSC-T200(索尼 DSC-T200)数码相机
 栏目
 -
 IT.com.cn
@@ -46662,8 +46016,7 @@ DSC-P93A
 索尼关注排行
 -
 松下
-FZ18(松下
-DMC-FZ18)数码相机
+FZ18(松下 DMC-FZ18)数码相机
 栏目
 -
 IT.com.cn
@@ -46944,8 +46297,7 @@ DV
 佳能(Canon)
 尼康(NIKON)
 索尼(SONY)
-柯尼卡美能达(KONICA
-MINOLTA)
+柯尼卡美能达(KONICA MINOLTA)
 奥林巴斯(OLYMPUS)
 富士(FUJIFILM)
 柯达(KODAK)
@@ -47428,8 +46780,7 @@ W170
 α300
 暂无报价
 暂无报价
-感光器件类型：CCD\感光器件尺寸：23.6×15.8mm\有效像素：1020万像素\光学变焦倍数：视镜头而定\相当于35mm镜头焦距：视镜头而定\液晶屏尺寸：2.7英寸\液晶屏类型：23万像素液晶屏,可上下翻动\存储介质：CF卡\电池类型：专用可充电锂电池,NP-FM500H(7.2
-V,1600mAh)
+感光器件类型：CCD\感光器件尺寸：23.6×15.8mm\有效像素：1020万像素\光学变焦倍数：视镜头而定\相当于35mm镜头焦距：视镜头而定\液晶屏尺寸：2.7英寸\液晶屏类型：23万像素液晶屏,可上下翻动\存储介质：CF卡\电池类型：专用可充电锂电池,NP-FM500H(7.2 V,1600mAh)
 纠错换MP3
 评论
 比较
@@ -47522,8 +46873,7 @@ Duo记忆棒\电池类型：2节5号AA电池
 α350
 暂无报价
 暂无报价
-感光器件类型：CCD\感光器件尺寸：23.6×15.8mm\有效像素：1420万像素\光学变焦倍数：视镜头而定\相当于35mm镜头焦距：视镜头而定\液晶屏尺寸：2.7英寸\液晶屏类型：23万像素液晶屏,可上下翻动\存储介质：CF卡\电池类型：专用可充电锂电池,NP-FM500H(7.2
-V,1600mAh)
+感光器件类型：CCD\感光器件尺寸：23.6×15.8mm\有效像素：1420万像素\光学变焦倍数：视镜头而定\相当于35mm镜头焦距：视镜头而定\液晶屏尺寸：2.7英寸\液晶屏类型：23万像素液晶屏,可上下翻动\存储介质：CF卡\电池类型：专用可充电锂电池,NP-FM500H(7.2 V,1600mAh)
 纠错换MP3
 评论
 比较
@@ -47599,10 +46949,7 @@ D3
 感光器件类型：尼康
 FX
 格式
-(36.0
-x
-23.9
-mm)
+(36.0 x 23.9 mm)
 CMOS影像感应器\有效像素：1210万\液晶屏尺寸：3.0英寸\液晶屏类型：约
 920,000
 像素
@@ -47613,8 +46960,7 @@ CMOS影像感应器\有效像素：1210万\液晶屏尺寸：3.0英寸\液晶屏类型：约
 画面覆盖率,
 亮度可调的低温多晶硅
 TFT
-LCD显示屏\存储介质：CF卡(I/II
-类型,与UDMA兼容)\电池类型：可充电锂离子电池
+LCD显示屏\存储介质：CF卡(I/II 类型,与UDMA兼容)\电池类型：可充电锂离子电池
 EN-EL4a/EL4
 纠错换MP3
 评论
@@ -47649,20 +46995,15 @@ TFT
 LCD
 连白
 LED
-照明;可作光度调节，视角覆盖可达170度\存储介质：CF卡/Microdrive微硬盘\电池类型：锂离子(
-Li-ion
-)充电池
+照明;可作光度调节，视角覆盖可达170度\存储介质：CF卡/Microdrive微硬盘\电池类型：锂离子( Li-ion )充电池
 EN-EL4a
-(11.1V
-DC),
+(11.1V DC),
 快速充电器
 MH-21,
 AC
 变压器
 EH-6
-(
-另购
-)
+( 另购 )
 纠错换MP3
 评论
 比较
@@ -47692,8 +47033,7 @@ D2Hs
 暂无报价
 感光器件类型：CCD\感光器件尺寸：23.3×15.5mm\有效像素：410万\光学变焦倍数：视镜头而定\相当于35mm镜头焦距：视镜头而定\液晶屏尺寸：2.5英寸\液晶屏类型：2.5英寸，232000像素，低温多晶矽TFT
 LCD附白LED底光照明；可作底光/光度调整\存储介质：CF卡(I/II型)及Microdrive\电池类型：锂离子可充电电池EN-EL4
-(11.1V
-DC)，快速充电器MH-21，
+(11.1V DC)，快速充电器MH-21，
 AC变压器
 EH-6(另购)
 纠错换MP3
@@ -47750,8 +47090,7 @@ Pro
 -
 15480
 暂无报价
-感光器件类型：CCD\感光器件尺寸：23×15.5mm\有效像素：617万像素\光学变焦倍数：视镜头而定\相当于35mm镜头焦距：视镜头而定\液晶屏尺寸：1.8英寸\液晶屏类型：1.8-英寸低温多晶硅TFT(约117,600
-像素)\存储介质：CF,SM卡\电池类型：4节5号碱性电池、镍氢电池或2节3V锂电池
+感光器件类型：CCD\感光器件尺寸：23×15.5mm\有效像素：617万像素\光学变焦倍数：视镜头而定\相当于35mm镜头焦距：视镜头而定\液晶屏尺寸：1.8英寸\液晶屏类型：1.8-英寸低温多晶硅TFT(约117,600 像素)\存储介质：CF,SM卡\电池类型：4节5号碱性电池、镍氢电池或2节3V锂电池
 纠错换MP3
 评论
 比较
@@ -47926,9 +47265,7 @@ Duo,
 Memory
 Stick
 PRO
-Duo(包括CF卡槽的Memory
-Stick
-Duo转接器)，CF卡
+Duo(包括CF卡槽的Memory Stick Duo转接器)，CF卡
 (I和Ⅱ型)*，微硬盘\电池类型：NP-FM55H
 ；
 电源性能：记录约750张（CIPA测量值）
@@ -47943,8 +47280,7 @@ D70
 -
 8100
 暂无报价
-感光器件类型：CCD\感光器件尺寸：23.7mm×15.6mm\有效像素：610万像素\光学变焦倍数：视镜头而定\相当于35mm镜头焦距：35mm\液晶屏尺寸：1.8英寸\液晶屏类型：1.8英寸13万像素彩色液晶显示屏\存储介质：CF/Microdrive卡\电池类型：一枚可充电尼康EN-EL3锂离子电池,三枚CR2锂电池(附MS-D70
-CR2电池架),EH-5
+感光器件类型：CCD\感光器件尺寸：23.7mm×15.6mm\有效像素：610万像素\光学变焦倍数：视镜头而定\相当于35mm镜头焦距：35mm\液晶屏尺寸：1.8英寸\液晶屏类型：1.8英寸13万像素彩色液晶显示屏\存储介质：CF/Microdrive卡\电池类型：一枚可充电尼康EN-EL3锂离子电池,三枚CR2锂电池(附MS-D70 CR2电池架),EH-5
 交流电变压器(另购)
 纠错换MP3
 评论
@@ -48081,8 +47417,7 @@ A470
 α350
 暂无报价
 暂无报价
-感光器件类型：CCD\感光器件尺寸：23.6×15.8mm\有效像素：1420万像素\光学变焦倍数：视镜头而定\相当于35mm镜头焦距：视镜头而定\液晶屏尺寸：2.7英寸\液晶屏类型：23万像素液晶屏,可上下翻动\存储介质：CF卡\电池类型：专用可充电锂电池,NP-FM500H(7.2
-V,1600mAh)
+感光器件类型：CCD\感光器件尺寸：23.6×15.8mm\有效像素：1420万像素\光学变焦倍数：视镜头而定\相当于35mm镜头焦距：视镜头而定\液晶屏尺寸：2.7英寸\液晶屏类型：23万像素液晶屏,可上下翻动\存储介质：CF卡\电池类型：专用可充电锂电池,NP-FM500H(7.2 V,1600mAh)
 纠错换MP3
 评论
 比较
@@ -48091,8 +47426,7 @@ V,1600mAh)
 α300
 暂无报价
 暂无报价
-感光器件类型：CCD\感光器件尺寸：23.6×15.8mm\有效像素：1020万像素\光学变焦倍数：视镜头而定\相当于35mm镜头焦距：视镜头而定\液晶屏尺寸：2.7英寸\液晶屏类型：23万像素液晶屏,可上下翻动\存储介质：CF卡\电池类型：专用可充电锂电池,NP-FM500H(7.2
-V,1600mAh)
+感光器件类型：CCD\感光器件尺寸：23.6×15.8mm\有效像素：1020万像素\光学变焦倍数：视镜头而定\相当于35mm镜头焦距：视镜头而定\液晶屏尺寸：2.7英寸\液晶屏类型：23万像素液晶屏,可上下翻动\存储介质：CF卡\电池类型：专用可充电锂电池,NP-FM500H(7.2 V,1600mAh)
 纠错换MP3
 评论
 比较
@@ -48446,9 +47780,7 @@ mm\液晶屏尺寸：3.0英寸\液晶屏类型：液晶显示屏,
 第10
 页
 JVC
-GZ-MG275(JVC
-Everio
-GZ-MG275)数码摄像机
+GZ-MG275(JVC Everio GZ-MG275)数码摄像机
 栏目
 -
 IT.com.cn
@@ -48657,9 +47989,7 @@ GR-D70AC
 海口|佛山|哈尔滨|郑州
 -
 JVC
-GZ-MG575(JVC
-Everio
-GZ-MG575)数码摄像机
+GZ-MG575(JVC Everio GZ-MG575)数码摄像机
 栏目
 -
 IT.com.cn
@@ -48872,8 +48202,7 @@ GR-D70AC
 海口|佛山|哈尔滨|郑州
 -
 JVC
-GZ-HD7(JVC
-GZ-HD7)数码摄像机
+GZ-HD7(JVC GZ-HD7)数码摄像机
 栏目
 -
 IT.com.cn
@@ -49078,8 +48407,7 @@ GR-D70AC
 海口|佛山|哈尔滨|郑州
 -
 索尼
-SR8E(索尼
-HDR-SR8E)数码摄像机
+SR8E(索尼 HDR-SR8E)数码摄像机
 栏目
 -
 IT.com.cn
@@ -49274,8 +48602,7 @@ DCR-SR100E
 索尼关注排行
 -
 索尼
-DCR-SR42E(索尼
-DCR-SR42E)数码摄像机
+DCR-SR42E(索尼 DCR-SR42E)数码摄像机
 栏目
 -
 IT.com.cn
@@ -49498,8 +48825,7 @@ DCR-SR100E
 索尼关注排行
 -
 索尼
-DCR-SR62E(索尼
-DCR-SR62E)数码摄像机
+DCR-SR62E(索尼 DCR-SR62E)数码摄像机
 栏目
 -
 IT.com.cn
@@ -50203,13 +49529,7 @@ H1
 -
 80800
 暂无报价
-传感器类型：3CCD\传感器总象素：167万×3\传感器尺寸：1/3英寸\光学变焦：20倍\液晶屏类型：2.4英寸16:9彩色LCD；约215000像素\存储介质：传统磁带\重量：2435g(机身)/3750g(包含20倍镜头，
-遮光罩，
-取景器，
-麦克风，
-BP-950G电池，
-磁带，
-SD卡)\体积：226×220×496mm
+传感器类型：3CCD\传感器总象素：167万×3\传感器尺寸：1/3英寸\光学变焦：20倍\液晶屏类型：2.4英寸16:9彩色LCD；约215000像素\存储介质：传统磁带\重量：2435g(机身)/3750g(包含20倍镜头， 遮光罩， 取景器， 麦克风， BP-950G电池， 磁带， SD卡)\体积：226×220×496mm
 纠错换MP3
 评论
 比较
@@ -50551,8 +49871,7 @@ AG-DVC33
 -
 15500
 暂无报价
-类型：miniDV\传感器类型：3CCD\传感器总象素：141万像素\传感器尺寸：1/4英寸\光学变焦：16倍\液晶屏类型：3.5英寸彩色液晶显示屏\存储介质：6.35mm金属磁带（mini
-DV磁带）\重量：1050g\体积：110×116×235mm
+类型：miniDV\传感器类型：3CCD\传感器总象素：141万像素\传感器尺寸：1/4英寸\光学变焦：16倍\液晶屏类型：3.5英寸彩色液晶显示屏\存储介质：6.35mm金属磁带（mini DV磁带）\重量：1050g\体积：110×116×235mm
 纠错换MP3
 评论
 比较
@@ -50946,11 +50265,7 @@ HDR-CX7E
 苹果
 iPod
 nano
-3(苹果
-iPod
-nano
-3
-(4GB))MP3
+3(苹果 iPod nano 3 (4GB))MP3
 栏目
 -
 IT.com.cn
@@ -51272,10 +50587,7 @@ MP3关注排行
 -
 魅族
 Miniplayer
-SL(魅族
-Miniplayer
-SL
-(2GB))MP3
+SL(魅族 Miniplayer SL (2GB))MP3
 栏目
 -
 IT.com.cn
@@ -51627,10 +50939,7 @@ MP3关注排行
 -
 魅族
 Music
-Card(魅族
-Music
-Card
-(1GB))MP3
+Card(魅族 Music Card (1GB))MP3
 栏目
 -
 IT.com.cn
@@ -51998,9 +51307,7 @@ MP3关注排行
 魅族关注排行
 -
 蓝魔
-V3(二代)(蓝魔
-V3(二代)
-(1GB))MP3
+V3(二代)(蓝魔 V3(二代) (1GB))MP3
 栏目
 -
 IT.com.cn
@@ -52300,9 +51607,7 @@ MP3各地报价
 海口|佛山|哈尔滨|郑州
 -
 艾利和
-Mplayer(艾利和
-Mplayer
-(1GB))MP3
+Mplayer(艾利和 Mplayer (1GB))MP3
 栏目
 -
 IT.com.cn
@@ -52604,9 +51909,7 @@ MP3关注排行
 艾利和关注排行
 -
 昂达
-VX989+(昂达
-VX989+
-(2GB))MP3
+VX989+(昂达 VX989+ (2GB))MP3
 栏目
 -
 IT.com.cn
@@ -53010,8 +52313,7 @@ ANN(ANN)
 中恒(DEC)
 德劲
 汤姆逊(THOMSON)
-清华同方(TSINGHUA
-TONGFANG)
+清华同方(TSINGHUA TONGFANG)
 长虹(CHANGHONG)
 微软(Microsoft)
 联想(lenovo)
@@ -53045,8 +52347,7 @@ KISS
 京华
 畅想(CX)
 朗科迷你
-德易城(The
-Easy)
+德易城(The Easy)
 旅之星
 兴芳星
 M-bird
@@ -53116,8 +52417,7 @@ FD时尚数码
 玉龙
 天朗
 名宝(minbo)
-讯都(XUN
-DU)
+讯都(XUN DU)
 台讯
 漫音
 小霸王(SUBOR)
@@ -53138,8 +52438,7 @@ SUNTIME
 迪普生
 美优萨(MEIUSA)
 超盘(PowerDisk)
-坤雅(KUN
-YA)
+坤雅(KUN YA)
 COYO
 研诺(INNOSYS)
 西蒙(simon)
@@ -53532,10 +52831,7 @@ YP-E3Z(1GB)
 暂无报价
 机身存储容量：1GB\存储媒介：闪存\FM接收功能：有\显示屏材质：OLED\显示屏色彩：双色\播放时间(小时)：音频:
 11小时
-(MP3
-128kbps,
-音量20,
-正常声音模式)\重量(g)：20g\外形尺寸(mm)：23.2×72.3×11.9mm
+(MP3 128kbps, 音量20, 正常声音模式)\重量(g)：20g\外形尺寸(mm)：23.2×72.3×11.9mm
 纠错换MP3
 评论
 比较
@@ -53996,10 +53292,7 @@ YP-P2
 2299
 暂无报价
 机身存储容量：8GB\存储媒介：闪存\FM接收功能：有\视频播放：支持\显示屏尺寸：3.0英寸\显示屏材质：TFT\播放时间(小时)：35小时
-(MP3
-128kbps,
-音量20,
-正常声音模式为基准);视频5小时\重量(g)：85\外形尺寸(mm)：100×54×9.9
+(MP3 128kbps, 音量20, 正常声音模式为基准);视频5小时\重量(g)：85\外形尺寸(mm)：100×54×9.9
 纠错换MP3
 评论
 比较
@@ -54450,8 +53743,7 @@ D29
 第10
 页
 索尼爱立信
-P1c(索尼爱立信
-P1c)手机
+P1c(索尼爱立信 P1c)手机
 栏目
 -
 IT.com.cn
@@ -54709,9 +54001,7 @@ Vertu手机嘉源手机纽曼手机
 索尼爱立信关注排行
 -
 苹果
-iPhone(苹果
-iPhone
-(4GB))手机
+iPhone(苹果 iPhone (4GB))手机
 栏目
 -
 IT.com.cn
@@ -54866,9 +54156,7 @@ i-mate手机mobiado手机NBA手机
 海口|佛山|哈尔滨|郑州
 -
 诺基亚
-5310(诺基亚
-5310
-XpressMusic)手机
+5310(诺基亚 5310 XpressMusic)手机
 栏目
 -
 IT.com.cn
@@ -55138,9 +54426,7 @@ Vertu手机嘉源手机纽曼手机赛格手机惠科手机
 -
 诺基亚
 5610
-XpressMusic(诺基亚
-5610
-XpressMusic)手机
+XpressMusic(诺基亚 5610 XpressMusic)手机
 栏目
 -
 IT.com.cn
@@ -55407,8 +54693,7 @@ Vertu手机嘉源手机纽曼手机赛格手机惠科手机
 诺基亚关注排行
 -
 诺基亚
-N82(诺基亚
-N82)手机
+N82(诺基亚 N82)手机
 栏目
 -
 IT.com.cn
@@ -55673,9 +54958,7 @@ Vertu手机嘉源手机纽曼手机赛格手机惠科手机
 -
 摩托罗拉
 RAZR2
-V8(摩托罗拉
-RAZR2
-V8黄金典藏版)手机
+V8(摩托罗拉 RAZR2 V8黄金典藏版)手机
 栏目
 -
 IT.com.cn
@@ -56034,8 +55317,7 @@ CEC(CEC)
 金立
 清华普天
 万利达
-神达(Mio
-DigiWalker)
+神达(Mio DigiWalker)
 中电通信(CECT)
 桑达(SED)
 萨基姆(Sagem)
@@ -57099,8 +56381,7 @@ E616
 -
 5680
 网络类型：GSM\网络制式：GSM
-900/1800/1900MHz\主屏材质：TFT\主摄像头像素：200万\重量：200g(with
-battery)\体积：129.7×
+900/1800/1900MHz\主屏材质：TFT\主摄像头像素：200万\重量：200g(with battery)\体积：129.7×
 69.8×18.8mm
 纠错换MP3
 评论
@@ -57678,184 +56959,7 @@ IT产品库
 投影机
 function
 checkEmail(emailStr)
-{
-if
-(emailStr.length
-==
-0)
-{
-return
-true;
-}
-var
-emailPat=/^(.+)@(.+)$/;
-var
-specialChars="\\(\\)<>@,;:\\\\\\\"\\.\\[\\]";
-var
-validChars="\[^\\s"
-+
-specialChars
-+
-"\]";
-var
-quotedUser="(\"[^\"]*\")";
-var
-ipDomainPat=/^(\d{1,3})[.](\d{1,3})[.](\d{1,3})[.](\d{1,3})$/;
-var
-atom=validChars
-+
-'+';
-var
-word="("
-+
-atom
-+
-"|"
-+
-quotedUser
-+
-")";
-var
-userPat=new
-RegExp("^"
-+
-word
-+
-"(\\."
-+
-word
-+
-")*$");
-var
-domainPat=new
-RegExp("^"
-+
-atom
-+
-"(\\."
-+
-atom
-+
-")*$");
-var
-matchArray=emailStr.match(emailPat);
-if
-(matchArray
-==
-null)
-{
-return
-false;
-}
-var
-user=matchArray[1];
-var
-domain=matchArray[2];
-if
-(user.match(userPat)
-==
-null)
-{
-return
-false;
-}
-var
-IPArray
-=
-domain.match(ipDomainPat);
-if
-(IPArray
-!=
-null)
-{
-for
-(var
-i
-=
-1;
-i
-<=
-4;
-i++)
-{
-if
-(IPArray[i]
->
-255)
-{
-return
-false;
-}
-}
-return
-true;
-}
-var
-domainArray=domain.match(domainPat);
-if
-(domainArray
-==
-null)
-{
-return
-false;
-}
-var
-atomPat=new
-RegExp(atom,"g");
-var
-domArr=domain.match(atomPat);
-var
-len=domArr.length;
-if
-((domArr[domArr.length-1].length
-<
-2)
-||
-(domArr[domArr.length-1].length
->
-3))
-{
-return
-false;
-}
-if
-(len
-<
-2)
-{
-return
-false;
-}
-return
-true;
-}
-function
-changes(n){
-if
-(checkEmail(document.form2.email.value))
-{
-if(n==1){
-document.form2.cmd.value="1";
-}
-if(n==0){
-document.form2.cmd.value="2";
-}
-document.form2.submit();
-}
-else
-{
-alert("Email
-错误，请确认。");
-return
-false;
-}
-}
-function
-kkk(){
-form2.email.value="";
-}
-//
+{ if (emailStr.length == 0) { return true; } var emailPat=/^(.+)@(.+)$/; var specialChars="\\(\\)<>@,;:\\\\\\\"\\.\\[\\]"; var validChars="\[^\\s" + specialChars + "\]"; var quotedUser="(\"[^\"]*\")"; var ipDomainPat=/^(\d{1,3})[.](\d{1,3})[.](\d{1,3})[.](\d{1,3})$/; var atom=validChars + '+'; var word="(" + atom + "|" + quotedUser + ")"; var userPat=new RegExp("^" + word + "(\\." + word + ")*$"); var domainPat=new RegExp("^" + atom + "(\\." + atom + ")*$"); var matchArray=emailStr.match(emailPat); if (matchArray == null) { return false; } var user=matchArray[1]; var domain=matchArray[2]; if (user.match(userPat) == null) { return false; } var IPArray = domain.match(ipDomainPat); if (IPArray != null) { for (var i = 1; i <= 4; i++) { if (IPArray[i] > 255) { return false; } } return true; } var domainArray=domain.match(domainPat); if (domainArray == null) { return false; } var atomPat=new RegExp(atom,"g"); var domArr=domain.match(atomPat); var len=domArr.length; if ((domArr[domArr.length-1].length < 2) || (domArr[domArr.length-1].length > 3)) { return false; } if (len < 2) { return false; } return true; } function changes(n){ if (checkEmail(document.form2.email.value)) { if(n==1){ document.form2.cmd.value="1"; } if(n==0){ document.form2.cmd.value="2"; } document.form2.submit(); } else { alert("Email 错误，请确认。"); return false; } } function kkk(){ form2.email.value=""; } // 
 Email:
 IT产品论坛
 笔记本论坛
@@ -57883,14 +56987,10 @@ SSG重磅出击
 苹果Macbook惊现爆炸!·卖场买本防骗秘籍
 情人节到了
 送哪款机型给你的他（她）
-[存储市场调查][征集PC质量问题
-][桌面精美下载
-]
+[存储市场调查][征集PC质量问题 ][桌面精美下载 ]
 在情人节送数码产品
 巩固你的爱情
-[2007年上半年安全威胁
-报告
-][上半年十大盗号木马]
+[2007年上半年安全威胁 报告 ][上半年十大盗号木马]
 专题
 别让病毒“爱”上你
 安全频道情
@@ -58108,8 +57208,7 @@ H500R酷
 TCL液晶一体电脑Verone即将
 个性化的选择
 拥有彩色外观的PC大搜罗
-[199美元KPC][索尼Hometheater
-PC][全球最小整机]
+[199美元KPC][索尼Hometheater PC][全球最小整机]
 特色推荐
 服务器频道
 新品
@@ -58135,10 +57234,8 @@ PC][全球最小整机]
 195
 3D图形渲染专用！四核渲染服
 刀片服务器是否是高性能计算的完美搭配
-[服务器盘点
-评论得奖品]
-[周刊No.24
-服务器标准讨论]
+[服务器盘点 评论得奖品]
+[周刊No.24 服务器标准讨论]
 特色推荐
 存储频道
 资讯

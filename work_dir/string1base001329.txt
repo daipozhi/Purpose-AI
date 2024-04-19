@@ -11508,17 +11508,11 @@ Cover封面女郎选拔大赛
 #fodsx
 {}
 #fodsx
-td.sx0{background:url(../../../mat1.qq.com/lady/indexpic910/ncard01.jpg)
-right
-no-repeat;}
+td.sx0{background:url(../../../mat1.qq.com/lady/indexpic910/ncard01.jpg) right no-repeat;}
 #fodsx
-td.sx1{background:url(../../../mat1.qq.com/lady/indexpic910/ncard02.jpg)
-right
-no-repeat;}
+td.sx1{background:url(../../../mat1.qq.com/lady/indexpic910/ncard02.jpg) right no-repeat;}
 #fodsx
-td.sx2{background:url(../../../mat1.qq.com/lady/indexpic910/ncard03.jpg)
-right
-no-repeat;}
+td.sx2{background:url(../../../mat1.qq.com/lady/indexpic910/ncard03.jpg) right no-repeat;}
 #fodsx
 #Fod_listx
 p{margin:0;padding:0;width:191px;float:left;text-align:center;padding-top:6px;line-height:14px;color:#fff;font-weight:bold;font-size:12px;}
@@ -11530,8 +11524,7 @@ div.x{font-size:12px;color:#e62c71;text-align:center;width:88px;height:18px;padd
 .sx{font-size:12px;color:#e62c71;text-align:center;width:88px;height:18px;padding-top:4px;line-height:16px;float:left;cursor:pointer;}
 #fodsx
 ul,li{list-style-type:none;margin:0;padding:0;}
-.dis{disop;
-background-repeat:no-repeat;margin-bottom:4px;">
+.dis{disop; background-repeat:no-repeat;margin-bottom:4px;">
 节
 日
 服
@@ -11729,17 +11722,11 @@ Cover封面女郎选拔大赛
 #fodsx
 {}
 #fodsx
-td.sx0{background:url(../../../../mat1.qq.com/lady/indexpic910/ncard01.jpg)
-right
-no-repeat;}
+td.sx0{background:url(../../../../mat1.qq.com/lady/indexpic910/ncard01.jpg) right no-repeat;}
 #fodsx
-td.sx1{background:url(../../../../mat1.qq.com/lady/indexpic910/ncard02.jpg)
-right
-no-repeat;}
+td.sx1{background:url(../../../../mat1.qq.com/lady/indexpic910/ncard02.jpg) right no-repeat;}
 #fodsx
-td.sx2{background:url(../../../../mat1.qq.com/lady/indexpic910/ncard03.jpg)
-right
-no-repeat;}
+td.sx2{background:url(../../../../mat1.qq.com/lady/indexpic910/ncard03.jpg) right no-repeat;}
 #fodsx
 #Fod_listx
 p{margin:0;padding:0;width:191px;float:left;text-align:center;padding-top:6px;line-height:14px;color:#fff;font-weight:bold;font-size:12px;}
@@ -11751,8 +11738,7 @@ div.x{font-size:12px;color:#e62c71;text-align:center;width:88px;height:18px;padd
 .sx{font-size:12px;color:#e62c71;text-align:center;width:88px;height:18px;padding-top:4px;line-height:16px;float:left;cursor:pointer;}
 #fodsx
 ul,li{list-style-type:none;margin:0;padding:0;}
-.dis{disop;
-background-repeat:no-repeat;margin-bottom:4px;">
+.dis{disop; background-repeat:no-repeat;margin-bottom:4px;">
 节
 日
 服
@@ -11950,17 +11936,11 @@ Cover封面女郎选拔大赛
 #fodsx
 {}
 #fodsx
-td.sx0{background:url(../../../../../mat1.qq.com/lady/indexpic910/ncard01.jpg)
-right
-no-repeat;}
+td.sx0{background:url(../../../../../mat1.qq.com/lady/indexpic910/ncard01.jpg) right no-repeat;}
 #fodsx
-td.sx1{background:url(../../../../../mat1.qq.com/lady/indexpic910/ncard02.jpg)
-right
-no-repeat;}
+td.sx1{background:url(../../../../../mat1.qq.com/lady/indexpic910/ncard02.jpg) right no-repeat;}
 #fodsx
-td.sx2{background:url(../../../../../mat1.qq.com/lady/indexpic910/ncard03.jpg)
-right
-no-repeat;}
+td.sx2{background:url(../../../../../mat1.qq.com/lady/indexpic910/ncard03.jpg) right no-repeat;}
 #fodsx
 #Fod_listx
 p{margin:0;padding:0;width:191px;float:left;text-align:center;padding-top:6px;line-height:14px;color:#fff;font-weight:bold;font-size:12px;}
@@ -11972,8 +11952,7 @@ div.x{font-size:12px;color:#e62c71;text-align:center;width:88px;height:18px;padd
 .sx{font-size:12px;color:#e62c71;text-align:center;width:88px;height:18px;padding-top:4px;line-height:16px;float:left;cursor:pointer;}
 #fodsx
 ul,li{list-style-type:none;margin:0;padding:0;}
-.dis{disop;
-background-repeat:no-repeat;margin-bottom:4px;">
+.dis{disop; background-repeat:no-repeat;margin-bottom:4px;">
 节
 日
 服
@@ -12171,17 +12150,11 @@ Cover封面女郎选拔大赛
 #fodsx
 {}
 #fodsx
-td.sx0{background:url(../../../../../../mat1.qq.com/lady/indexpic910/ncard01.jpg)
-right
-no-repeat;}
+td.sx0{background:url(../../../../../../mat1.qq.com/lady/indexpic910/ncard01.jpg) right no-repeat;}
 #fodsx
-td.sx1{background:url(../../../../../../mat1.qq.com/lady/indexpic910/ncard02.jpg)
-right
-no-repeat;}
+td.sx1{background:url(../../../../../../mat1.qq.com/lady/indexpic910/ncard02.jpg) right no-repeat;}
 #fodsx
-td.sx2{background:url(../../../../../../mat1.qq.com/lady/indexpic910/ncard03.jpg)
-right
-no-repeat;}
+td.sx2{background:url(../../../../../../mat1.qq.com/lady/indexpic910/ncard03.jpg) right no-repeat;}
 #fodsx
 #Fod_listx
 p{margin:0;padding:0;width:191px;float:left;text-align:center;padding-top:6px;line-height:14px;color:#fff;font-weight:bold;font-size:12px;}
@@ -12193,8 +12166,7 @@ div.x{font-size:12px;color:#e62c71;text-align:center;width:88px;height:18px;padd
 .sx{font-size:12px;color:#e62c71;text-align:center;width:88px;height:18px;padding-top:4px;line-height:16px;float:left;cursor:pointer;}
 #fodsx
 ul,li{list-style-type:none;margin:0;padding:0;}
-.dis{disop;
-background-repeat:no-repeat;margin-bottom:4px;">
+.dis{disop; background-repeat:no-repeat;margin-bottom:4px;">
 节
 日
 服
@@ -12392,17 +12364,11 @@ Cover封面女郎选拔大赛
 #fodsx
 {}
 #fodsx
-td.sx0{background:url(../../../../../../../../../../mat1.qq.com/lady/indexpic910/ncard01.jpg)
-right
-no-repeat;}
+td.sx0{background:url(../../../../../../../../../../mat1.qq.com/lady/indexpic910/ncard01.jpg) right no-repeat;}
 #fodsx
-td.sx1{background:url(../../../../../../../../../../mat1.qq.com/lady/indexpic910/ncard02.jpg)
-right
-no-repeat;}
+td.sx1{background:url(../../../../../../../../../../mat1.qq.com/lady/indexpic910/ncard02.jpg) right no-repeat;}
 #fodsx
-td.sx2{background:url(../../../../../../../../../../mat1.qq.com/lady/indexpic910/ncard03.jpg)
-right
-no-repeat;}
+td.sx2{background:url(../../../../../../../../../../mat1.qq.com/lady/indexpic910/ncard03.jpg) right no-repeat;}
 #fodsx
 #Fod_listx
 p{margin:0;padding:0;width:191px;float:left;text-align:center;padding-top:6px;line-height:14px;color:#fff;font-weight:bold;font-size:12px;}
@@ -12414,8 +12380,7 @@ div.x{font-size:12px;color:#e62c71;text-align:center;width:88px;height:18px;padd
 .sx{font-size:12px;color:#e62c71;text-align:center;width:88px;height:18px;padding-top:4px;line-height:16px;float:left;cursor:pointer;}
 #fodsx
 ul,li{list-style-type:none;margin:0;padding:0;}
-.dis{disop;
-background-repeat:no-repeat;margin-bottom:4px;">
+.dis{disop; background-repeat:no-repeat;margin-bottom:4px;">
 节
 日
 服
@@ -12613,17 +12578,11 @@ Cover封面女郎选拔大赛
 #fodsx
 {}
 #fodsx
-td.sx0{background:url(../../../../../../../../../mat1.qq.com/lady/indexpic910/ncard01.jpg)
-right
-no-repeat;}
+td.sx0{background:url(../../../../../../../../../mat1.qq.com/lady/indexpic910/ncard01.jpg) right no-repeat;}
 #fodsx
-td.sx1{background:url(../../../../../../../../../mat1.qq.com/lady/indexpic910/ncard02.jpg)
-right
-no-repeat;}
+td.sx1{background:url(../../../../../../../../../mat1.qq.com/lady/indexpic910/ncard02.jpg) right no-repeat;}
 #fodsx
-td.sx2{background:url(../../../../../../../../../mat1.qq.com/lady/indexpic910/ncard03.jpg)
-right
-no-repeat;}
+td.sx2{background:url(../../../../../../../../../mat1.qq.com/lady/indexpic910/ncard03.jpg) right no-repeat;}
 #fodsx
 #Fod_listx
 p{margin:0;padding:0;width:191px;float:left;text-align:center;padding-top:6px;line-height:14px;color:#fff;font-weight:bold;font-size:12px;}
@@ -12635,8 +12594,7 @@ div.x{font-size:12px;color:#e62c71;text-align:center;width:88px;height:18px;padd
 .sx{font-size:12px;color:#e62c71;text-align:center;width:88px;height:18px;padding-top:4px;line-height:16px;float:left;cursor:pointer;}
 #fodsx
 ul,li{list-style-type:none;margin:0;padding:0;}
-.dis{disop;
-background-repeat:no-repeat;margin-bottom:4px;">
+.dis{disop; background-repeat:no-repeat;margin-bottom:4px;">
 节
 日
 服
@@ -12834,17 +12792,11 @@ Cover封面女郎选拔大赛
 #fodsx
 {}
 #fodsx
-td.sx0{background:url(../../../../../../../../mat1.qq.com/lady/indexpic910/ncard01.jpg)
-right
-no-repeat;}
+td.sx0{background:url(../../../../../../../../mat1.qq.com/lady/indexpic910/ncard01.jpg) right no-repeat;}
 #fodsx
-td.sx1{background:url(../../../../../../../../mat1.qq.com/lady/indexpic910/ncard02.jpg)
-right
-no-repeat;}
+td.sx1{background:url(../../../../../../../../mat1.qq.com/lady/indexpic910/ncard02.jpg) right no-repeat;}
 #fodsx
-td.sx2{background:url(../../../../../../../../mat1.qq.com/lady/indexpic910/ncard03.jpg)
-right
-no-repeat;}
+td.sx2{background:url(../../../../../../../../mat1.qq.com/lady/indexpic910/ncard03.jpg) right no-repeat;}
 #fodsx
 #Fod_listx
 p{margin:0;padding:0;width:191px;float:left;text-align:center;padding-top:6px;line-height:14px;color:#fff;font-weight:bold;font-size:12px;}
@@ -12856,8 +12808,7 @@ div.x{font-size:12px;color:#e62c71;text-align:center;width:88px;height:18px;padd
 .sx{font-size:12px;color:#e62c71;text-align:center;width:88px;height:18px;padding-top:4px;line-height:16px;float:left;cursor:pointer;}
 #fodsx
 ul,li{list-style-type:none;margin:0;padding:0;}
-.dis{disop;
-background-repeat:no-repeat;margin-bottom:4px;">
+.dis{disop; background-repeat:no-repeat;margin-bottom:4px;">
 节
 日
 服
@@ -13055,17 +13006,11 @@ Cover封面女郎选拔大赛
 #fodsx
 {}
 #fodsx
-td.sx0{background:url(../../../../../../../mat1.qq.com/lady/indexpic910/ncard01.jpg)
-right
-no-repeat;}
+td.sx0{background:url(../../../../../../../mat1.qq.com/lady/indexpic910/ncard01.jpg) right no-repeat;}
 #fodsx
-td.sx1{background:url(../../../../../../../mat1.qq.com/lady/indexpic910/ncard02.jpg)
-right
-no-repeat;}
+td.sx1{background:url(../../../../../../../mat1.qq.com/lady/indexpic910/ncard02.jpg) right no-repeat;}
 #fodsx
-td.sx2{background:url(../../../../../../../mat1.qq.com/lady/indexpic910/ncard03.jpg)
-right
-no-repeat;}
+td.sx2{background:url(../../../../../../../mat1.qq.com/lady/indexpic910/ncard03.jpg) right no-repeat;}
 #fodsx
 #Fod_listx
 p{margin:0;padding:0;width:191px;float:left;text-align:center;padding-top:6px;line-height:14px;color:#fff;font-weight:bold;font-size:12px;}
@@ -13077,8 +13022,7 @@ div.x{font-size:12px;color:#e62c71;text-align:center;width:88px;height:18px;padd
 .sx{font-size:12px;color:#e62c71;text-align:center;width:88px;height:18px;padding-top:4px;line-height:16px;float:left;cursor:pointer;}
 #fodsx
 ul,li{list-style-type:none;margin:0;padding:0;}
-.dis{disop;
-background-repeat:no-repeat;margin-bottom:4px;">
+.dis{disop; background-repeat:no-repeat;margin-bottom:4px;">
 节
 日
 服
@@ -13276,17 +13220,11 @@ Cover封面女郎选拔大赛
 #fodsx
 {}
 #fodsx
-td.sx0{background:url(../../mat1.qq.com/lady/indexpic910/ncard01.jpg)
-right
-no-repeat;}
+td.sx0{background:url(../../mat1.qq.com/lady/indexpic910/ncard01.jpg) right no-repeat;}
 #fodsx
-td.sx1{background:url(../../mat1.qq.com/lady/indexpic910/ncard02.jpg)
-right
-no-repeat;}
+td.sx1{background:url(../../mat1.qq.com/lady/indexpic910/ncard02.jpg) right no-repeat;}
 #fodsx
-td.sx2{background:url(../../mat1.qq.com/lady/indexpic910/ncard03.jpg)
-right
-no-repeat;}
+td.sx2{background:url(../../mat1.qq.com/lady/indexpic910/ncard03.jpg) right no-repeat;}
 #fodsx
 #Fod_listx
 p{margin:0;padding:0;width:191px;float:left;text-align:center;padding-top:6px;line-height:14px;color:#fff;font-weight:bold;font-size:12px;}
@@ -13298,8 +13236,7 @@ div.x{font-size:12px;color:#e62c71;text-align:center;width:88px;height:18px;padd
 .sx{font-size:12px;color:#e62c71;text-align:center;width:88px;height:18px;padding-top:4px;line-height:16px;float:left;cursor:pointer;}
 #fodsx
 ul,li{list-style-type:none;margin:0;padding:0;}
-.dis{disop;
-background-repeat:no-repeat;margin-bottom:4px;">
+.dis{disop; background-repeat:no-repeat;margin-bottom:4px;">
 节
 日
 服
@@ -13497,17 +13434,11 @@ Cover封面女郎选拔大赛
 #fodsx
 {}
 #fodsx
-td.sx0{background:url(../../mat1.qq.com/lady/indexpic910/ncard01.jpg)
-right
-no-repeat;}
+td.sx0{background:url(../../mat1.qq.com/lady/indexpic910/ncard01.jpg) right no-repeat;}
 #fodsx
-td.sx1{background:url(../../mat1.qq.com/lady/indexpic910/ncard02.jpg)
-right
-no-repeat;}
+td.sx1{background:url(../../mat1.qq.com/lady/indexpic910/ncard02.jpg) right no-repeat;}
 #fodsx
-td.sx2{background:url(../../mat1.qq.com/lady/indexpic910/ncard03.jpg)
-right
-no-repeat;}
+td.sx2{background:url(../../mat1.qq.com/lady/indexpic910/ncard03.jpg) right no-repeat;}
 #fodsx
 #Fod_listx
 p{margin:0;padding:0;width:191px;float:left;text-align:center;padding-top:6px;line-height:14px;color:#fff;font-weight:bold;font-size:12px;}
@@ -13519,8 +13450,7 @@ div.x{font-size:12px;color:#e62c71;text-align:center;width:88px;height:18px;padd
 .sx{font-size:12px;color:#e62c71;text-align:center;width:88px;height:18px;padding-top:4px;line-height:16px;float:left;cursor:pointer;}
 #fodsx
 ul,li{list-style-type:none;margin:0;padding:0;}
-.dis{disop;
-background-repeat:no-repeat;margin-bottom:4px;">
+.dis{disop; background-repeat:no-repeat;margin-bottom:4px;">
 节
 日
 服
@@ -13718,17 +13648,11 @@ Cover封面女郎选拔大赛
 #fodsx
 {}
 #fodsx
-td.sx0{background:url(../../mat1.qq.com/lady/indexpic910/ncard01.jpg)
-right
-no-repeat;}
+td.sx0{background:url(../../mat1.qq.com/lady/indexpic910/ncard01.jpg) right no-repeat;}
 #fodsx
-td.sx1{background:url(../../mat1.qq.com/lady/indexpic910/ncard02.jpg)
-right
-no-repeat;}
+td.sx1{background:url(../../mat1.qq.com/lady/indexpic910/ncard02.jpg) right no-repeat;}
 #fodsx
-td.sx2{background:url(../../mat1.qq.com/lady/indexpic910/ncard03.jpg)
-right
-no-repeat;}
+td.sx2{background:url(../../mat1.qq.com/lady/indexpic910/ncard03.jpg) right no-repeat;}
 #fodsx
 #Fod_listx
 p{margin:0;padding:0;width:191px;float:left;text-align:center;padding-top:6px;line-height:14px;color:#fff;font-weight:bold;font-size:12px;}
@@ -13740,8 +13664,7 @@ div.x{font-size:12px;color:#e62c71;text-align:center;width:88px;height:18px;padd
 .sx{font-size:12px;color:#e62c71;text-align:center;width:88px;height:18px;padding-top:4px;line-height:16px;float:left;cursor:pointer;}
 #fodsx
 ul,li{list-style-type:none;margin:0;padding:0;}
-.dis{disop;
-background-repeat:no-repeat;margin-bottom:4px;">
+.dis{disop; background-repeat:no-repeat;margin-bottom:4px;">
 节
 日
 服
@@ -13939,17 +13862,11 @@ Cover封面女郎选拔大赛
 #fodsx
 {}
 #fodsx
-td.sx0{background:url(../../mat1.qq.com/lady/indexpic910/ncard01.jpg)
-right
-no-repeat;}
+td.sx0{background:url(../../mat1.qq.com/lady/indexpic910/ncard01.jpg) right no-repeat;}
 #fodsx
-td.sx1{background:url(../../mat1.qq.com/lady/indexpic910/ncard02.jpg)
-right
-no-repeat;}
+td.sx1{background:url(../../mat1.qq.com/lady/indexpic910/ncard02.jpg) right no-repeat;}
 #fodsx
-td.sx2{background:url(../../mat1.qq.com/lady/indexpic910/ncard03.jpg)
-right
-no-repeat;}
+td.sx2{background:url(../../mat1.qq.com/lady/indexpic910/ncard03.jpg) right no-repeat;}
 #fodsx
 #Fod_listx
 p{margin:0;padding:0;width:191px;float:left;text-align:center;padding-top:6px;line-height:14px;color:#fff;font-weight:bold;font-size:12px;}
@@ -13961,8 +13878,7 @@ div.x{font-size:12px;color:#e62c71;text-align:center;width:88px;height:18px;padd
 .sx{font-size:12px;color:#e62c71;text-align:center;width:88px;height:18px;padding-top:4px;line-height:16px;float:left;cursor:pointer;}
 #fodsx
 ul,li{list-style-type:none;margin:0;padding:0;}
-.dis{disop;
-background-repeat:no-repeat;margin-bottom:4px;">
+.dis{disop; background-repeat:no-repeat;margin-bottom:4px;">
 节
 日
 服
@@ -14160,17 +14076,11 @@ Cover封面女郎选拔大赛
 #fodsx
 {}
 #fodsx
-td.sx0{background:url(../../mat1.qq.com/lady/indexpic910/ncard01.jpg)
-right
-no-repeat;}
+td.sx0{background:url(../../mat1.qq.com/lady/indexpic910/ncard01.jpg) right no-repeat;}
 #fodsx
-td.sx1{background:url(../../mat1.qq.com/lady/indexpic910/ncard02.jpg)
-right
-no-repeat;}
+td.sx1{background:url(../../mat1.qq.com/lady/indexpic910/ncard02.jpg) right no-repeat;}
 #fodsx
-td.sx2{background:url(../../mat1.qq.com/lady/indexpic910/ncard03.jpg)
-right
-no-repeat;}
+td.sx2{background:url(../../mat1.qq.com/lady/indexpic910/ncard03.jpg) right no-repeat;}
 #fodsx
 #Fod_listx
 p{margin:0;padding:0;width:191px;float:left;text-align:center;padding-top:6px;line-height:14px;color:#fff;font-weight:bold;font-size:12px;}
@@ -14182,8 +14092,7 @@ div.x{font-size:12px;color:#e62c71;text-align:center;width:88px;height:18px;padd
 .sx{font-size:12px;color:#e62c71;text-align:center;width:88px;height:18px;padding-top:4px;line-height:16px;float:left;cursor:pointer;}
 #fodsx
 ul,li{list-style-type:none;margin:0;padding:0;}
-.dis{disop;
-background-repeat:no-repeat;margin-bottom:4px;">
+.dis{disop; background-repeat:no-repeat;margin-bottom:4px;">
 节
 日
 服
@@ -14646,12 +14555,10 @@ Reserved
 [热点视频]
 痛并快乐着：姐弟恋能走多远
 网友热评
-[网友
-酸奶坏了]
+[网友 酸奶坏了]
 “那你现在准备怎么办啊？要是一直找不到他呢？你千万别和自己犯轴啊。找到了，让他得到应有的惩罚更好，找不到，就就此忘了他吧！”
 [网络寻夫：只为送他进监狱？]
-[网友
-迷迷糊狐]
+[网友 迷迷糊狐]
 “如果有了男友或女友，决不要让他(她)到自己的朋友中搅和，最多介绍彼此认识就足够了。客客气气，保持距离，对人对己都好。防患于未然。一切的可能性，都必须扼杀在摇篮里。”
 [死党变情敌：谁在为女人摧毁兄弟情？]
 关于腾讯
@@ -14808,12 +14715,10 @@ Reserved
 [热点视频]
 痛并快乐着：姐弟恋能走多远
 网友热评
-[网友
-酸奶坏了]
+[网友 酸奶坏了]
 “那你现在准备怎么办啊？要是一直找不到他呢？你千万别和自己犯轴啊。找到了，让他得到应有的惩罚更好，找不到，就就此忘了他吧！”
 [网络寻夫：只为送他进监狱？]
-[网友
-迷迷糊狐]
+[网友 迷迷糊狐]
 “如果有了男友或女友，决不要让他(她)到自己的朋友中搅和，最多介绍彼此认识就足够了。客客气气，保持距离，对人对己都好。防患于未然。一切的可能性，都必须扼杀在摇篮里。”
 [死党变情敌：谁在为女人摧毁兄弟情？]
 关于腾讯
@@ -18515,14 +18420,12 @@ Reserved
 一枚6克拉的火钻，让她完全失防，导致自己和同盟者的毁灭。“色易守，情难防。”
 除了有网友质疑《色戒》中屡次出现穿帮镜头外，还有女孩要告李安激情戏中未标明“请勿模仿”，法学博士状告影城及广电总局，因自己看完“删减版”不爽。
 老师带我们去观摩了彩色宽银幕抗战故事片《色戒》，不过老师告诉我们，广电总局的爷爷奶奶为了使内容更精彩结构更紧凑，已经把精彩的部分戒掉了，我一直不套明白为什么把精彩部分戒掉了影片反而更精彩了……
-《色
-戒》的前世今生
+《色 戒》的前世今生
 张爱玲写就的小小说《色戒》，经李安之手幻化成影像之后，让一段尘封的往事重新鲜活起来，三对男女走进我们的视线。
 郑苹如
 参与暗杀丁默邨
 张爱玲
-《色
-戒》作者
+《色 戒》作者
 王佳芝
 清纯女大学生
 丁默邨
@@ -18905,7 +18808,7 @@ DIY青春可爱的螺旋顶发型
 短发MM纯真俏皮蓬蓬卷发DIY
 浪漫卷发变身清纯法国公主
 Baby
-face女星巧妙发型配</
+face女星巧妙发型配</ 
 不要以为BABY
 FACE只是你一个人的烦恼，很多女明星也和你一样为自己的婴儿肥脸蛋而着急……>>详细
 [46女星各式短发惹争议]
@@ -19080,8 +18983,7 @@ face女星巧妙发型配[组图]
 幕后为王
 揭秘明星造型师[组图]
 [Ricky]：造型不仅是发型针对脸型
-[小
-强]：punk
+[小 强]：punk
 look
 将流行[组图]
 [老黑]
@@ -19190,7 +19092,7 @@ DIY青春可爱的螺旋顶发型
 短发MM纯真俏皮蓬蓬卷发DIY
 浪漫卷发变身清纯法国公主
 Baby
-face女星巧妙发型配</
+face女星巧妙发型配</ 
 不要以为BABY
 FACE只是你一个人的烦恼，很多女明星也和你一样为自己的婴儿肥脸蛋而着急……>>详细
 [46女星各式短发惹争议]
@@ -19365,8 +19267,7 @@ face女星巧妙发型配[组图]
 幕后为王
 揭秘明星造型师[组图]
 [Ricky]：造型不仅是发型针对脸型
-[小
-强]：punk
+[小 强]：punk
 look
 将流行[组图]
 [老黑]
@@ -21025,8 +20926,7 @@ BAZAAR
 星工场
 论坛
 博客
-2007年，《Harper’s
-BAZAAR》迎来了140周年的庆典，值此盛典,《时尚芭莎》将举办“BAZAAR
+2007年，《Harper’s BAZAAR》迎来了140周年的庆典，值此盛典,《时尚芭莎》将举办“BAZAAR
 140年时尚的秘密”大型纪念展。《时尚芭莎》以645000册月发行量成为中国发行量最大的顶级时尚杂志……详细
 第一部分：设计的秘密
 第二部分：品牌的秘密
@@ -24069,77 +23969,45 @@ CHIC2007：共同的创新时代
 [专业服务]
 腾讯现场独家人物专访
 CHIC2007腾讯女性频道现场直播间请来众多嘉宾。详细
-[
-李梅]
-[
-刘薇]
-[
-苏东]
-[
-沈辉]
-[
-张磊]
+[ 李梅]
+[ 刘薇]
+[ 苏东]
+[ 沈辉]
+[ 张磊]
 [林洪亮]
-[
-衫衫集团]
-[
-姚玉玲]
-[
-王可]
-[
-薛宝晶]
-[
-彭志宏]
-[
-肖青]
-[
-彭硕]
-[
-岳定准]
-[
-章宁]
-[
-王思懿]
+[ 衫衫集团]
+[ 姚玉玲]
+[ 王可]
+[ 薛宝晶]
+[ 彭志宏]
+[ 肖青]
+[ 彭硕]
+[ 岳定准]
+[ 章宁]
+[ 王思懿]
 [张纪中]
-[
-毛戈平]
-[
-王敏]
-[
-张义超]
-[
-施杰]
-[
-沈坚]
+[ 毛戈平]
+[ 王敏]
+[ 张义超]
+[ 施杰]
+[ 沈坚]
 腾讯独家现场特别评论
-[
-窈窕身姿束腰带]
-[
-时尚女包添风采]
-[
-奢华裘皮夺人眼]
-[
-经典流行话色彩]
-[
-创意无限，魅力无边]
-[
-幕后花絮依旧精彩]
-[
-怎一个累字了得]
-[
-特色logo荟萃]
-[
-唯美浪漫女人味]
+[ 窈窕身姿束腰带]
+[ 时尚女包添风采]
+[ 奢华裘皮夺人眼]
+[ 经典流行话色彩]
+[ 创意无限，魅力无边]
+[ 幕后花絮依旧精彩]
+[ 怎一个累字了得]
+[ 特色logo荟萃]
+[ 唯美浪漫女人味]
 展会信息
 更多
-[CHIC2007
-展品类别]
-[CHIC参考
-数据分析报告(06年)]
+[CHIC2007 展品类别]
+[CHIC参考 数据分析报告(06年)]
 [CHIC07展馆概貌与展馆平面图]
 [CHIC2007展会日程安排表]
-[CHIC2007
-展会地点及交通]
+[CHIC2007 展会地点及交通]
 [专业服务，着色CHIC2007]
 爱慕事业部品牌总监沈辉
 玫瑰黛薇总设计师刘薇
@@ -26800,8 +26668,7 @@ Reserved
 全站导航
 近日，《网络惊现90后炫富女！钞票满天飞！》的帖子在各大网站流传，帖子内容写到：“不管你们怎么说、怎么想、怎么骂，20年后你们就会明白的。请问你们、现在还天天上班等着每个月发那点工资养家所谓的白领们：你有资格吗？你银行卡上的钱还没我手上的多吧？你们慢慢奋斗吧！你们每天6点起床、手里拿着俩韭菜大饼、挤着人山人海的公交车、忍受着老板的毒骂和虚伪的同事的笑声、生一个比你还自私的小孩，你们一辈子这样慢慢地过下去吧！”
 ……[详细][视频][我先来说两句]
-[后续：女孩手捧钞票网上炫富续
-称遭人陷害]
+[后续：女孩手捧钞票网上炫富续 称遭人陷害]
 [专家评论：90后少男少女势利的炫富观]
 [咨询师评论：“90后炫富”现象心态把玩]
 雅阁女：月薪没三千是下等人
@@ -26897,8 +26764,7 @@ Reserved
 全站导航
 近日，《网络惊现90后炫富女！钞票满天飞！》的帖子在各大网站流传，帖子内容写到：“不管你们怎么说、怎么想、怎么骂，20年后你们就会明白的。请问你们、现在还天天上班等着每个月发那点工资养家所谓的白领们：你有资格吗？你银行卡上的钱还没我手上的多吧？你们慢慢奋斗吧！你们每天6点起床、手里拿着俩韭菜大饼、挤着人山人海的公交车、忍受着老板的毒骂和虚伪的同事的笑声、生一个比你还自私的小孩，你们一辈子这样慢慢地过下去吧！”
 ……[详细][视频][我先来说两句]
-[后续：女孩手捧钞票网上炫富续
-称遭人陷害]
+[后续：女孩手捧钞票网上炫富续 称遭人陷害]
 [专家评论：90后少男少女势利的炫富观]
 [咨询师评论：“90后炫富”现象心态把玩]
 雅阁女：月薪没三千是下等人
@@ -28754,7 +28620,7 @@ Reserved
 杨志杰
 摄影师
 [构思]不久前我认识了舞蹈演员洪林老师。于是我和本节目…[详细]
-[拍摄]这是我前段为《时尚好管家》拍摄的一组《美丽的梦…[详细]
+[拍摄]这是我前段为《时尚好管家》拍摄的一组《美丽的梦…[详细] 
 陈瑶
 服装师
 [服饰]曾有一部片子，名唤《黑暗中的舞者》，讲述的是…[详细]
@@ -29653,8 +29519,7 @@ Reserved
 感谢大家的支持!
 有什么意见或者建议,大胆放马过来吧!
 娇娇和高洁是模特，更是好姐妹。镜头记录她们一天的生活，讲述模特自己的故事。
-(Q=美丽的梦
-A=高洁）
+(Q=美丽的梦 A=高洁）
 Q:你和娇娇平时就是很好的朋友嘛？亲密到什么程度？
 A:非常好的朋友，出去演出的时候经常睡一个床，只要在一起做活动，不管去哪都是双人出动.
 Q:那你们俩一起演出生活的时候，谁照顾谁比较多那？
@@ -30319,8 +30184,7 @@ D·PARK
 06/07秋冬系列
 2006春夏系列
 新生代：中国职业模特大赛完美落幕时装周
-[独家策划：金顶得主梁子庆功宴
-独家获奖后续报道][完全获奖名单]
+[独家策划：金顶得主梁子庆功宴 独家获奖后续报道][完全获奖名单]
 [专访]：金顶奖梁子
 最佳男装设计师曾凤飞
 首席女模特
@@ -30378,9 +30242,7 @@ kristy
 2007年度时尚大奖各有归属
 设计师梁子荣登金顶
 [最佳女装设计师][最佳男装设计师][最佳化妆造型师][最佳时装摄影师]
-[最佳时装评论员][最佳职业时装模特男/
-女][最具时尚成功人士男/
-女]
+[最佳时装评论员][最佳职业时装模特男/ 女][最具时尚成功人士男/ 女]
 [十佳时装设计师][十佳职业时装模特][中国时装设计“金顶奖”：梁子]
 [最具时尚成功品牌][最佳男装奖][最佳女装奖][最佳礼服][最佳休闲装]
 梁子作品
@@ -30730,8 +30592,7 @@ D·PARK
 06/07秋冬系列
 2006春夏系列
 新生代：中国职业模特大赛完美落幕时装周
-[独家策划：金顶得主梁子庆功宴
-独家获奖后续报道][完全获奖名单]
+[独家策划：金顶得主梁子庆功宴 独家获奖后续报道][完全获奖名单]
 [专访]：金顶奖梁子
 最佳男装设计师曾凤飞
 首席女模特
@@ -30789,9 +30650,7 @@ kristy
 2007年度时尚大奖各有归属
 设计师梁子荣登金顶
 [最佳女装设计师][最佳男装设计师][最佳化妆造型师][最佳时装摄影师]
-[最佳时装评论员][最佳职业时装模特男/
-女][最具时尚成功人士男/
-女]
+[最佳时装评论员][最佳职业时装模特男/ 女][最具时尚成功人士男/ 女]
 [十佳时装设计师][十佳职业时装模特][中国时装设计“金顶奖”：梁子]
 [最具时尚成功品牌][最佳男装奖][最佳女装奖][最佳礼服][最佳休闲装]
 梁子作品
@@ -31632,8 +31491,7 @@ Reserved
 《嘉人》杂志和她倡导的美丽生活
 芳华流转
 经典演绎
-这个世界并不完美，而关于幸福的梦想就在可以守望的地方，总会因努力而靠近。来自法国的《marie
-claire》，在70年的漫长时光中为女人拉近现实与梦想的距离。
+这个世界并不完美，而关于幸福的梦想就在可以守望的地方，总会因努力而靠近。来自法国的《marie claire》，在70年的漫长时光中为女人拉近现实与梦想的距离。
 精彩征文展示
 ·嘉人，一张城市时尚风向标
 ·爱在《嘉人》时
@@ -31719,8 +31577,7 @@ Reserved
 《嘉人》杂志和她倡导的美丽生活
 芳华流转
 经典演绎
-这个世界并不完美，而关于幸福的梦想就在可以守望的地方，总会因努力而靠近。来自法国的《marie
-claire》，在70年的漫长时光中为女人拉近现实与梦想的距离。
+这个世界并不完美，而关于幸福的梦想就在可以守望的地方，总会因努力而靠近。来自法国的《marie claire》，在70年的漫长时光中为女人拉近现实与梦想的距离。
 精彩征文展示
 ·嘉人，一张城市时尚风向标
 ·爱在《嘉人》时
@@ -34095,12 +33952,7 @@ Reserved
 [修远：修正源自美丽][孙毅：这个平台很好]
 [男模亚军保锴：很开心][何穗：自信最重要]
 [女模亚军李柠杉：挺激动][谢峰：看重潜力]
-[康俊龙
-王思懿
-莫万丹
-许建海
-祁刚
-彭勇]
+[康俊龙 王思懿 莫万丹 许建海 祁刚 彭勇]
 冠
 亚
 季
@@ -34557,12 +34409,7 @@ Reserved
 [修远：修正源自美丽][孙毅：这个平台很好]
 [男模亚军保锴：很开心][何穗：自信最重要]
 [女模亚军李柠杉：挺激动][谢峰：看重潜力]
-[康俊龙
-王思懿
-莫万丹
-许建海
-祁刚
-彭勇]
+[康俊龙 王思懿 莫万丹 许建海 祁刚 彭勇]
 冠
 亚
 季
@@ -36299,8 +36146,7 @@ Q宝贝参赛宝宝鞠佳圆
 张蕾
 《摄影之友》主编
 罗元熙
-《COOKIE
-WORLD》主编
+《COOKIE WORLD》主编
 赵洋
 关于腾讯
 |
@@ -36409,8 +36255,7 @@ Q宝贝参赛宝宝鞠佳圆
 张蕾
 《摄影之友》主编
 罗元熙
-《COOKIE
-WORLD》主编
+《COOKIE WORLD》主编
 赵洋
 关于腾讯
 |
@@ -37212,8 +37057,7 @@ SHOW
 满18岁的男人都有参赛资格，就可以名参加此次评选。报名者需穿着自己认为具品味的服装2套，拍成生活照片并填写报名参加此次评选。报名者需穿着自己认为材料，通过腾讯网进行提交报名。也可以选正赛...[详细]
 荣誉：
 参加正赛的选手有机会为《时尚先生》08年1
-月刊拍摄，将由《时尚先生Esqu
-ire》杂志策划，拍摄一组时装大片，冠亚季军更有广州迪柯尼提供的价值5000元的神秘大奖！
+月刊拍摄，将由《时尚先生Esqu ire》杂志策划，拍摄一组时装大片，冠亚季军更有广州迪柯尼提供的价值5000元的神秘大奖！
 首届回顾RECALLING
 Alex
 鲁鑫
@@ -37368,8 +37212,7 @@ SHOW
 满18岁的男人都有参赛资格，就可以名参加此次评选。报名者需穿着自己认为具品味的服装2套，拍成生活照片并填写报名参加此次评选。报名者需穿着自己认为材料，通过腾讯网进行提交报名。也可以选正赛...[详细]
 荣誉：
 参加正赛的选手有机会为《时尚先生》08年1
-月刊拍摄，将由《时尚先生Esqu
-ire》杂志策划，拍摄一组时装大片，冠亚季军更有广州迪柯尼提供的价值5000元的神秘大奖！
+月刊拍摄，将由《时尚先生Esqu ire》杂志策划，拍摄一组时装大片，冠亚季军更有广州迪柯尼提供的价值5000元的神秘大奖！
 首届回顾RECALLING
 Alex
 鲁鑫
@@ -37491,9 +37334,7 @@ Reserved
 中国同里水乡丽人评选活动宗旨是为以“弘扬中华民族优秀传统文化”，展现江南女子之秀美。本次评选活动面对中国大陆（含港澳台区）[详细]
 报名须知－
 报名时间：2007年7月20日-9月15日
-填写《2007中国同里水乡丽人选拔大赛报名表》一式两份，于2007年9月3日前寄至活动组委会。随报名表交正面化妆头像特写彩照一张，全身自由照一张（以上照片规格统一为15CM
-X
-20CM）。[详细]
+填写《2007中国同里水乡丽人选拔大赛报名表》一式两份，于2007年9月3日前寄至活动组委会。随报名表交正面化妆头像特写彩照一张，全身自由照一张（以上照片规格统一为15CM X 20CM）。[详细]
 点击下载《2007中国同里水乡丽人选拔大赛报名表》
 官方网站－
 冠军宿雅
@@ -37728,9 +37569,7 @@ Reserved
 中国同里水乡丽人评选活动宗旨是为以“弘扬中华民族优秀传统文化”，展现江南女子之秀美。本次评选活动面对中国大陆（含港澳台区）[详细]
 报名须知－
 报名时间：2007年7月20日-9月15日
-填写《2007中国同里水乡丽人选拔大赛报名表》一式两份，于2007年9月3日前寄至活动组委会。随报名表交正面化妆头像特写彩照一张，全身自由照一张（以上照片规格统一为15CM
-X
-20CM）。[详细]
+填写《2007中国同里水乡丽人选拔大赛报名表》一式两份，于2007年9月3日前寄至活动组委会。随报名表交正面化妆头像特写彩照一张，全身自由照一张（以上照片规格统一为15CM X 20CM）。[详细]
 点击下载《2007中国同里水乡丽人选拔大赛报名表》
 官方网站－
 冠军宿雅
@@ -38607,10 +38446,8 @@ Reserved
 从此以后，我除了保养头发、脸部、颈部之外，也将身体保养纳入每天必做的工作，我绝对不要变成一个皮肤粗糙、让男人觉得没触感的女人……[详细]
 [发表评论]
 [经典美容品创造美丽不败]
-[la
-prairie蓓莉]
-[dr.
-brandt]
+[la prairie蓓莉]
+[dr. brandt]
 [Biopeudic葆疗美]
 [倩碧]
 [欧舒丹]
@@ -38802,10 +38639,8 @@ Reserved
 从此以后，我除了保养头发、脸部、颈部之外，也将身体保养纳入每天必做的工作，我绝对不要变成一个皮肤粗糙、让男人觉得没触感的女人……[详细]
 [发表评论]
 [经典美容品创造美丽不败]
-[la
-prairie蓓莉]
-[dr.
-brandt]
+[la prairie蓓莉]
+[dr. brandt]
 [Biopeudic葆疗美]
 [倩碧]
 [欧舒丹]
@@ -42590,19 +42425,14 @@ Rights
 Reserved
 腾讯公司
 版权所有
-《健康与美容bea’s
-up》上市_女性频道_腾讯网
+《健康与美容bea’s up》上市_女性频道_腾讯网
 女性频道
 腾讯首页
 全站导航
 视频直击
-《健康与美容bea’s
-up》上市发布会
-《健康与美容bea’s
-up》上市
-2008年1月，《健康与美容》杂志通过版权贸易的形式，成功的引进了日本最具人气的美容时尚杂志《bea’s
-up》。《健康与美容bea’s
-up》，成功地将日本和中国的流行元素进行了融合、并将国际美容流行时尚与明星时尚进行混搭，在东京、上海和北京之间建立了起流行走廊。
+《健康与美容bea’s up》上市发布会
+《健康与美容bea’s up》上市
+2008年1月，《健康与美容》杂志通过版权贸易的形式，成功的引进了日本最具人气的美容时尚杂志《bea’s up》。《健康与美容bea’s up》，成功地将日本和中国的流行元素进行了融合、并将国际美容流行时尚与明星时尚进行混搭，在东京、上海和北京之间建立了起流行走廊。
 《健康与美容》杂志主编：我们主张时尚和使用，给读者最贴心的关爱和关怀[详细]
 明星助阵
 李小璐
@@ -42613,10 +42443,8 @@ up》，成功地将日本和中国的流行元素进行了融合、并将国际美容流行时尚与明星时尚进行
 范霞
 张磊
 牛萌萌
-《健康与美容bea’s
-up》上市发布会
-《健康与美容bea’s
-up》上市
+《健康与美容bea’s up》上市发布会
+《健康与美容bea’s up》上市
 日本模特演绎航悦彩妆
 主编致辞
 与著名造型师签约
@@ -42652,19 +42480,14 @@ Rights
 Reserved
 腾讯公司
 版权所有
-《健康与美容bea’s
-up》上市_女性频道_腾讯网
+《健康与美容bea’s up》上市_女性频道_腾讯网
 女性频道
 腾讯首页
 全站导航
 视频直击
-《健康与美容bea’s
-up》上市发布会
-《健康与美容bea’s
-up》上市
-2008年1月，《健康与美容》杂志通过版权贸易的形式，成功的引进了日本最具人气的美容时尚杂志《bea’s
-up》。《健康与美容bea’s
-up》，成功地将日本和中国的流行元素进行了融合、并将国际美容流行时尚与明星时尚进行混搭，在东京、上海和北京之间建立了起流行走廊。
+《健康与美容bea’s up》上市发布会
+《健康与美容bea’s up》上市
+2008年1月，《健康与美容》杂志通过版权贸易的形式，成功的引进了日本最具人气的美容时尚杂志《bea’s up》。《健康与美容bea’s up》，成功地将日本和中国的流行元素进行了融合、并将国际美容流行时尚与明星时尚进行混搭，在东京、上海和北京之间建立了起流行走廊。
 《健康与美容》杂志主编：我们主张时尚和使用，给读者最贴心的关爱和关怀[详细]
 明星助阵
 李小璐
@@ -42675,10 +42498,8 @@ up》，成功地将日本和中国的流行元素进行了融合、并将国际美容流行时尚与明星时尚进行
 范霞
 张磊
 牛萌萌
-《健康与美容bea’s
-up》上市发布会
-《健康与美容bea’s
-up》上市
+《健康与美容bea’s up》上市发布会
+《健康与美容bea’s up》上市
 日本模特演绎航悦彩妆
 主编致辞
 与著名造型师签约
@@ -43154,10 +42975,7 @@ Reserved
 网友评论：
 阿雅很快升迁与此不无关系。升职后，阿雅在工作中像男人一样严厉，却鲜有人抱怨。大家都觉得这样一个爱哭的女生做到今天实在很不容易，偶尔，还会跟她开玩笑，问“你在工作中受了委屈，是不是经常躲在被子里哭。”她的回答是，“留在男朋友面前哭，不是更有效？”
 小编点评：
-《The
-Devil
-Wears
-Prada》中，灰姑娘Andrea对恶魔上司Miranda的好感正是从意外发现他情感受挫后的眼泪开始。“敢于表现脆弱的人往往会收获更多，尤其是那些职场中的铁女人，他们的眼泪更容易产生惊人的力量。”导演David
+《The Devil Wears Prada》中，灰姑娘Andrea对恶魔上司Miranda的好感正是从意外发现他情感受挫后的眼泪开始。“敢于表现脆弱的人往往会收获更多，尤其是那些职场中的铁女人，他们的眼泪更容易产生惊人的力量。”导演David
 Frankel精通职场之道。
 运用眼泪的时候，也要注意时间、地点、人物，如何才能让你的眼泪发挥最大威力，成为职场面的有利武器，必须掌握以下规律。
 【详细】
@@ -43279,10 +43097,7 @@ Reserved
 网友评论：
 阿雅很快升迁与此不无关系。升职后，阿雅在工作中像男人一样严厉，却鲜有人抱怨。大家都觉得这样一个爱哭的女生做到今天实在很不容易，偶尔，还会跟她开玩笑，问“你在工作中受了委屈，是不是经常躲在被子里哭。”她的回答是，“留在男朋友面前哭，不是更有效？”
 小编点评：
-《The
-Devil
-Wears
-Prada》中，灰姑娘Andrea对恶魔上司Miranda的好感正是从意外发现他情感受挫后的眼泪开始。“敢于表现脆弱的人往往会收获更多，尤其是那些职场中的铁女人，他们的眼泪更容易产生惊人的力量。”导演David
+《The Devil Wears Prada》中，灰姑娘Andrea对恶魔上司Miranda的好感正是从意外发现他情感受挫后的眼泪开始。“敢于表现脆弱的人往往会收获更多，尤其是那些职场中的铁女人，他们的眼泪更容易产生惊人的力量。”导演David
 Frankel精通职场之道。
 运用眼泪的时候，也要注意时间、地点、人物，如何才能让你的眼泪发挥最大威力，成为职场面的有利武器，必须掌握以下规律。
 【详细】
@@ -43652,7 +43467,7 @@ Reserved
 杨志杰
 摄影师
 [构思]不久前我认识了舞蹈演员洪林老师。于是我和本节目…[详细]
-[拍摄]这是我前段为《时尚好管家》拍摄的一组《美丽的梦…[详细]
+[拍摄]这是我前段为《时尚好管家》拍摄的一组《美丽的梦…[详细] 
 陈瑶
 服装师
 [服饰]曾有一部片子，名唤《黑暗中的舞者》，讲述的是…[详细]
@@ -43772,7 +43587,7 @@ Reserved
 杨志杰
 摄影师
 [构思]不久前我认识了舞蹈演员洪林老师。于是我和本节目…[详细]
-[拍摄]这是我前段为《时尚好管家》拍摄的一组《美丽的梦…[详细]
+[拍摄]这是我前段为《时尚好管家》拍摄的一组《美丽的梦…[详细] 
 陈瑶
 服装师
 [服饰]曾有一部片子，名唤《黑暗中的舞者》，讲述的是…[详细]

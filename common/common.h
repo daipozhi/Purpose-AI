@@ -58,6 +58,7 @@ int  cww1_num_sum(void);
 int  cww1_test(void);
 int  cww1_number_in_it(char *ps);
 int  cww1_number_is(char *ps);
+int  cww1_number_is2(char *ps);
 long long int str2llint(char *pstr);
 int  ai_number_g(void);
 char lower(char c1);
@@ -85,5 +86,6 @@ int deletefile(char*);
 int file_utf8_to_gb18030_ext(char *inbuffer,char *outbuffer);
 
 int deb_filename_dir(char *path);
+int deb_str_has_null(const char *str,int str_size);
 
 

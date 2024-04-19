@@ -17,31 +17,19 @@ gcc -o a-step210-ini.exe t3.c -liconv
 cp *.exe ../work_dir
 
 
-cd ../webfind1c
+cd ../webfind1d
 rm a-step20.exe
 gcc -o a-step20.exe f1.c f2.c f3.c -liconv
 cp a-step20.exe ../work_dir
-cd ../webfind39
-rm a-step30.exe
-gcc -o a-step30.exe webfind39.c -liconv
-cp a-step30.exe ../work_dir
-cd ../webfind4a
-rm a-step40.exe
-gcc -o a-step40.exe webfind4_sentbase.c tree2.c -liconv
-cp a-step40.exe ../work_dir
-cd ../webfind29h
-rm a-step50.exe
-gcc -o a-step50.exe webfind29-msys.c spl1.c tree2.c tree2b.c btree3.c btree4.c -liconv
-cp a-step50.exe ../work_dir
-cd ../webfind23c
-rm a-step60.exe
-gcc -o a-step60.exe webfind23c.c tree2.c tree2b.c -liconv
-cp a-step60.exe ../work_dir
 
+cd ../webfind52
+rm *.exe
+gcc -o a-step60-2.exe webfind52.c tree2.c -liconv
+cp a-step60-2.exe ../work_dir
 
 cd ../webfind53h
 rm a-step90.exe
-gcc -o a-step90.exe webfind53-msys.c spl1.c tree2.c tree2b.c btree3.c btree4.c -liconv
+gcc -o a-step90.exe webfind53-msys.c spl1.c tree2.c tree2b.c btree3.c btree4.c tree2e.c load5.c -liconv
 cp a-step90.exe ../work_dir
 cd ../webfind54
 rm a-step100.exe
@@ -59,9 +47,14 @@ rm a-step200-2.exe
 gcc -o a-step200-2.exe webfind60-2.c tree2.c -liconv
 cp a-step200-2.exe ../work_dir
 
+cd ../webfind60c-3
+rm *.exe
+gcc -o a-step200-3.exe webfind52.c tree2.c -liconv
+cp a-step200-3.exe ../work_dir
+
 cd ../webfind61h
 rm a-step210.exe
-gcc -o a-step210.exe webfind61-msys.c wd56.c grm1516.c spl1.c spl2.c tree2b.c btree5.c btree6.c btree7.c btree8.c -liconv
+gcc -o a-step210.exe webfind61-msys.c wd567.c grm1516.c spl1.c spl2.c tree2b.c btree5.c btree6.c btree7.c btree8.c -liconv
 cp a-step210.exe ../work_dir
 
 cd ../webfind101
@@ -79,7 +72,7 @@ cp a-step310-2.exe ../work_dir
 cd ../webfind65
 rm app_separ.exe
 rm ./app/app_separ.exe
-gcc -o app_separ.exe webfind65.c my_wd56.c my_grm1516.c my_spl1.c my_spl2.c my_tree2b.c my_btree5.c my_btree6.c my_btree7.c my_btree8.c -liconv
+gcc -o app_separ.exe webfind65.c my_wd567.c my_grm1516.c my_spl1.c my_spl2.c my_tree2b.c my_btree5.c my_btree6.c my_btree7.c my_btree8.c -liconv
 cp app_separ.exe ./app
 
 
@@ -87,7 +80,7 @@ cp app_separ.exe ./app
 cd ../webfind66
 rm app*.exe
 rm ./app/app*.exe
-gcc -o app-charset-recgn.exe webfind66.c my_wd56.c my_grm1516.c my_spl1.c my_spl2.c my_tree2b.c my_btree5.c my_btree6.c my_btree7.c my_btree8.c f1.c f2.c f3.c -liconv
+gcc -o app-charset-recgn.exe webfind66.c my_wd567.c my_grm1516.c my_spl1.c my_spl2.c my_tree2b.c my_btree5.c my_btree6.c my_btree7.c my_btree8.c f1.c f2.c f3.c -liconv
 cp app-charset-recgn.exe ./app
 
 gcc -o app-charset-recgn-ini.exe app-charset-recgn-ini.c -liconv

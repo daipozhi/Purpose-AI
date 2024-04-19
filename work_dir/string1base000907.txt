@@ -562,90 +562,44 @@ Reserved
 验证码
 ：
 (按Ctrl+Enter可直接发表)
-<xmp
-id="xmp_topic_list"
-style="display:none">
-<?xml
-version="1.0"
-encoding="GB2312"?>
-<xsl:stylesheet
-version="1.0"
-xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-<xsl:output
-method="html"
-encoding="gb2312"
-/>
-<xsl:template
-match="/sobar_interface">
+<xmp id="xmp_topic_list" style="display:none">
+<?xml version="1.0" encoding="GB2312"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:output method="html" encoding="gb2312" />
+<xsl:template match="/sobar_interface">
 标题
 点击/回复
-<xsl:apply-templates
-select="//topic"
-/>
+<xsl:apply-templates select="//topic" />
 </xsl:template>
-<xsl:template
-match="topic">
+<xsl:template match="topic">
 <xsl:choose>
-<xsl:when
-test="position()
-mod
-2
-=
-1">
-<xsl:if
-test="status='4'">
+<xsl:when test="position() mod 2 = 1">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:when>
 <xsl:otherwise>
-<xsl:if
-test="status='4'">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:otherwise>
 </xsl:choose>
 </xsl:template>
@@ -1167,90 +1121,44 @@ Reserved
 验证码
 ：
 (按Ctrl+Enter可直接发表)
-<xmp
-id="xmp_topic_list"
-style="display:none">
-<?xml
-version="1.0"
-encoding="GB2312"?>
-<xsl:stylesheet
-version="1.0"
-xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-<xsl:output
-method="html"
-encoding="gb2312"
-/>
-<xsl:template
-match="/sobar_interface">
+<xmp id="xmp_topic_list" style="display:none">
+<?xml version="1.0" encoding="GB2312"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:output method="html" encoding="gb2312" />
+<xsl:template match="/sobar_interface">
 标题
 点击/回复
-<xsl:apply-templates
-select="//topic"
-/>
+<xsl:apply-templates select="//topic" />
 </xsl:template>
-<xsl:template
-match="topic">
+<xsl:template match="topic">
 <xsl:choose>
-<xsl:when
-test="position()
-mod
-2
-=
-1">
-<xsl:if
-test="status='4'">
+<xsl:when test="position() mod 2 = 1">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:when>
 <xsl:otherwise>
-<xsl:if
-test="status='4'">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:otherwise>
 </xsl:choose>
 </xsl:template>
@@ -1833,90 +1741,44 @@ Reserved
 验证码
 ：
 (按Ctrl+Enter可直接发表)
-<xmp
-id="xmp_topic_list"
-style="display:none">
-<?xml
-version="1.0"
-encoding="GB2312"?>
-<xsl:stylesheet
-version="1.0"
-xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-<xsl:output
-method="html"
-encoding="gb2312"
-/>
-<xsl:template
-match="/sobar_interface">
+<xmp id="xmp_topic_list" style="display:none">
+<?xml version="1.0" encoding="GB2312"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:output method="html" encoding="gb2312" />
+<xsl:template match="/sobar_interface">
 标题
 点击/回复
-<xsl:apply-templates
-select="//topic"
-/>
+<xsl:apply-templates select="//topic" />
 </xsl:template>
-<xsl:template
-match="topic">
+<xsl:template match="topic">
 <xsl:choose>
-<xsl:when
-test="position()
-mod
-2
-=
-1">
-<xsl:if
-test="status='4'">
+<xsl:when test="position() mod 2 = 1">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:when>
 <xsl:otherwise>
-<xsl:if
-test="status='4'">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:otherwise>
 </xsl:choose>
 </xsl:template>
@@ -2914,90 +2776,44 @@ Reserved
 验证码
 ：
 (按Ctrl+Enter可直接发表)
-<xmp
-id="xmp_topic_list"
-style="display:none">
-<?xml
-version="1.0"
-encoding="GB2312"?>
-<xsl:stylesheet
-version="1.0"
-xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-<xsl:output
-method="html"
-encoding="gb2312"
-/>
-<xsl:template
-match="/sobar_interface">
+<xmp id="xmp_topic_list" style="display:none">
+<?xml version="1.0" encoding="GB2312"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:output method="html" encoding="gb2312" />
+<xsl:template match="/sobar_interface">
 标题
 点击/回复
-<xsl:apply-templates
-select="//topic"
-/>
+<xsl:apply-templates select="//topic" />
 </xsl:template>
-<xsl:template
-match="topic">
+<xsl:template match="topic">
 <xsl:choose>
-<xsl:when
-test="position()
-mod
-2
-=
-1">
-<xsl:if
-test="status='4'">
+<xsl:when test="position() mod 2 = 1">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:when>
 <xsl:otherwise>
-<xsl:if
-test="status='4'">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:otherwise>
 </xsl:choose>
 </xsl:template>
@@ -4257,8 +4073,7 @@ Reserved
 骏逸简介
 品牌：东风日产
 类型：
-东风日产将骏逸（LIVINA
-GENISS）定义为“随心空间休旅车”，是日产新推出的全球车系中的首款小型MPV车型，也是日产第一款在中国全球首发的车型。骏逸的外观延续了近期东风日产的一贯思路，流畅车身线条配合饱满的棱角赋予了骏逸大气而雅致的车身造型。特别是时尚版的车型，在一套别致的包围和尾翼的点缀下，更显得时尚动感。
+东风日产将骏逸（LIVINA GENISS）定义为“随心空间休旅车”，是日产新推出的全球车系中的首款小型MPV车型，也是日产第一款在中国全球首发的车型。骏逸的外观延续了近期东风日产的一贯思路，流畅车身线条配合饱满的棱角赋予了骏逸大气而雅致的车身造型。特别是时尚版的车型，在一套别致的包围和尾翼的点缀下，更显得时尚动感。
 骏逸采用的是和骐达、颐达相同的B系列平台加长款，轴距也是同样的2600毫米。骏逸长、宽、高的分别是4420、1690和1590毫米，在这个空间中满足小型MPV的实用功能是一个不小的挑战。经过内部空间的优化设计，骏逸拥有了同级车中出色的空间布局。骏逸拥有三排共七个座位，共八种组合方式。前两排的座椅驾乘感觉表现的中规中矩，第三排的空间和座椅舒适度肯定不适合成年人的长途乘坐，因此还是将最后一排的空间留给行李比较好。
 骏逸的第二、三排座椅都放倒之后就会形成一个面积为双人床大小，容积为946升的空间。在五座状态下，骏逸有充足的行李箱空间收纳您的众多装备。
 桃木和铝合金的装饰让骏逸的内部有着很强的家居味道，你总会在需要的地方找到合适的储物空间。但地板式的排档和较复杂按钮操作让舒适性打了一些折扣。在高配置车款中，你还可以看到真皮座椅、六喇叭音响系统、智能遥控钥匙系统等装备。
@@ -4387,90 +4202,44 @@ GENISS）定义为“随心空间休旅车”，是日产新推出的全球车系中的首款小型MPV车型，也�
 验证码
 ：
 (按Ctrl+Enter可直接发表)
-<xmp
-id="xmp_topic_list"
-style="display:none">
-<?xml
-version="1.0"
-encoding="GB2312"?>
-<xsl:stylesheet
-version="1.0"
-xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-<xsl:output
-method="html"
-encoding="gb2312"
-/>
-<xsl:template
-match="/sobar_interface">
+<xmp id="xmp_topic_list" style="display:none">
+<?xml version="1.0" encoding="GB2312"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:output method="html" encoding="gb2312" />
+<xsl:template match="/sobar_interface">
 标题
 点击/回复
-<xsl:apply-templates
-select="//topic"
-/>
+<xsl:apply-templates select="//topic" />
 </xsl:template>
-<xsl:template
-match="topic">
+<xsl:template match="topic">
 <xsl:choose>
-<xsl:when
-test="position()
-mod
-2
-=
-1">
-<xsl:if
-test="status='4'">
+<xsl:when test="position() mod 2 = 1">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:when>
 <xsl:otherwise>
-<xsl:if
-test="status='4'">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:otherwise>
 </xsl:choose>
 </xsl:template>
@@ -4909,8 +4678,7 @@ Reserved
 骏逸简介
 品牌：东风日产
 类型：
-东风日产将骏逸（LIVINA
-GENISS）定义为“随心空间休旅车”，是日产新推出的全球车系中的首款小型MPV车型，也是日产第一款在中国全球首发的车型。骏逸的外观延续了近期东风日产的一贯思路，流畅车身线条配合饱满的棱角赋予了骏逸大气而雅致的车身造型。特别是时尚版的车型，在一套别致的包围和尾翼的点缀下，更显得时尚动感。
+东风日产将骏逸（LIVINA GENISS）定义为“随心空间休旅车”，是日产新推出的全球车系中的首款小型MPV车型，也是日产第一款在中国全球首发的车型。骏逸的外观延续了近期东风日产的一贯思路，流畅车身线条配合饱满的棱角赋予了骏逸大气而雅致的车身造型。特别是时尚版的车型，在一套别致的包围和尾翼的点缀下，更显得时尚动感。
 骏逸采用的是和骐达、颐达相同的B系列平台加长款，轴距也是同样的2600毫米。骏逸长、宽、高的分别是4420、1690和1590毫米，在这个空间中满足小型MPV的实用功能是一个不小的挑战。经过内部空间的优化设计，骏逸拥有了同级车中出色的空间布局。骏逸拥有三排共七个座位，共八种组合方式。前两排的座椅驾乘感觉表现的中规中矩，第三排的空间和座椅舒适度肯定不适合成年人的长途乘坐，因此还是将最后一排的空间留给行李比较好。
 骏逸的第二、三排座椅都放倒之后就会形成一个面积为双人床大小，容积为946升的空间。在五座状态下，骏逸有充足的行李箱空间收纳您的众多装备。
 桃木和铝合金的装饰让骏逸的内部有着很强的家居味道，你总会在需要的地方找到合适的储物空间。但地板式的排档和较复杂按钮操作让舒适性打了一些折扣。在高配置车款中，你还可以看到真皮座椅、六喇叭音响系统、智能遥控钥匙系统等装备。
@@ -5039,90 +4807,44 @@ GENISS）定义为“随心空间休旅车”，是日产新推出的全球车系中的首款小型MPV车型，也�
 验证码
 ：
 (按Ctrl+Enter可直接发表)
-<xmp
-id="xmp_topic_list"
-style="display:none">
-<?xml
-version="1.0"
-encoding="GB2312"?>
-<xsl:stylesheet
-version="1.0"
-xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-<xsl:output
-method="html"
-encoding="gb2312"
-/>
-<xsl:template
-match="/sobar_interface">
+<xmp id="xmp_topic_list" style="display:none">
+<?xml version="1.0" encoding="GB2312"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:output method="html" encoding="gb2312" />
+<xsl:template match="/sobar_interface">
 标题
 点击/回复
-<xsl:apply-templates
-select="//topic"
-/>
+<xsl:apply-templates select="//topic" />
 </xsl:template>
-<xsl:template
-match="topic">
+<xsl:template match="topic">
 <xsl:choose>
-<xsl:when
-test="position()
-mod
-2
-=
-1">
-<xsl:if
-test="status='4'">
+<xsl:when test="position() mod 2 = 1">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:when>
 <xsl:otherwise>
-<xsl:if
-test="status='4'">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:otherwise>
 </xsl:choose>
 </xsl:template>
@@ -5687,90 +5409,44 @@ AT
 验证码
 ：
 (按Ctrl+Enter可直接发表)
-<xmp
-id="xmp_topic_list"
-style="display:none">
-<?xml
-version="1.0"
-encoding="GB2312"?>
-<xsl:stylesheet
-version="1.0"
-xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-<xsl:output
-method="html"
-encoding="gb2312"
-/>
-<xsl:template
-match="/sobar_interface">
+<xmp id="xmp_topic_list" style="display:none">
+<?xml version="1.0" encoding="GB2312"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:output method="html" encoding="gb2312" />
+<xsl:template match="/sobar_interface">
 标题
 点击/回复
-<xsl:apply-templates
-select="//topic"
-/>
+<xsl:apply-templates select="//topic" />
 </xsl:template>
-<xsl:template
-match="topic">
+<xsl:template match="topic">
 <xsl:choose>
-<xsl:when
-test="position()
-mod
-2
-=
-1">
-<xsl:if
-test="status='4'">
+<xsl:when test="position() mod 2 = 1">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:when>
 <xsl:otherwise>
-<xsl:if
-test="status='4'">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:otherwise>
 </xsl:choose>
 </xsl:template>
@@ -6335,90 +6011,44 @@ AT
 验证码
 ：
 (按Ctrl+Enter可直接发表)
-<xmp
-id="xmp_topic_list"
-style="display:none">
-<?xml
-version="1.0"
-encoding="GB2312"?>
-<xsl:stylesheet
-version="1.0"
-xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-<xsl:output
-method="html"
-encoding="gb2312"
-/>
-<xsl:template
-match="/sobar_interface">
+<xmp id="xmp_topic_list" style="display:none">
+<?xml version="1.0" encoding="GB2312"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:output method="html" encoding="gb2312" />
+<xsl:template match="/sobar_interface">
 标题
 点击/回复
-<xsl:apply-templates
-select="//topic"
-/>
+<xsl:apply-templates select="//topic" />
 </xsl:template>
-<xsl:template
-match="topic">
+<xsl:template match="topic">
 <xsl:choose>
-<xsl:when
-test="position()
-mod
-2
-=
-1">
-<xsl:if
-test="status='4'">
+<xsl:when test="position() mod 2 = 1">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:when>
 <xsl:otherwise>
-<xsl:if
-test="status='4'">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:otherwise>
 </xsl:choose>
 </xsl:template>
@@ -6981,90 +6611,44 @@ GIRL!&quot;
 验证码
 ：
 (按Ctrl+Enter可直接发表)
-<xmp
-id="xmp_topic_list"
-style="display:none">
-<?xml
-version="1.0"
-encoding="GB2312"?>
-<xsl:stylesheet
-version="1.0"
-xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-<xsl:output
-method="html"
-encoding="gb2312"
-/>
-<xsl:template
-match="/sobar_interface">
+<xmp id="xmp_topic_list" style="display:none">
+<?xml version="1.0" encoding="GB2312"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:output method="html" encoding="gb2312" />
+<xsl:template match="/sobar_interface">
 标题
 点击/回复
-<xsl:apply-templates
-select="//topic"
-/>
+<xsl:apply-templates select="//topic" />
 </xsl:template>
-<xsl:template
-match="topic">
+<xsl:template match="topic">
 <xsl:choose>
-<xsl:when
-test="position()
-mod
-2
-=
-1">
-<xsl:if
-test="status='4'">
+<xsl:when test="position() mod 2 = 1">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:when>
 <xsl:otherwise>
-<xsl:if
-test="status='4'">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:otherwise>
 </xsl:choose>
 </xsl:template>
@@ -7627,90 +7211,44 @@ GIRL!&quot;
 验证码
 ：
 (按Ctrl+Enter可直接发表)
-<xmp
-id="xmp_topic_list"
-style="display:none">
-<?xml
-version="1.0"
-encoding="GB2312"?>
-<xsl:stylesheet
-version="1.0"
-xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-<xsl:output
-method="html"
-encoding="gb2312"
-/>
-<xsl:template
-match="/sobar_interface">
+<xmp id="xmp_topic_list" style="display:none">
+<?xml version="1.0" encoding="GB2312"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:output method="html" encoding="gb2312" />
+<xsl:template match="/sobar_interface">
 标题
 点击/回复
-<xsl:apply-templates
-select="//topic"
-/>
+<xsl:apply-templates select="//topic" />
 </xsl:template>
-<xsl:template
-match="topic">
+<xsl:template match="topic">
 <xsl:choose>
-<xsl:when
-test="position()
-mod
-2
-=
-1">
-<xsl:if
-test="status='4'">
+<xsl:when test="position() mod 2 = 1">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:when>
 <xsl:otherwise>
-<xsl:if
-test="status='4'">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:otherwise>
 </xsl:choose>
 </xsl:template>
@@ -8273,90 +7811,44 @@ PALADIN，一款凝聚NISSAN越野车成功经验而诞生的经典运动型多功能车，集技术，品质与�
 验证码
 ：
 (按Ctrl+Enter可直接发表)
-<xmp
-id="xmp_topic_list"
-style="display:none">
-<?xml
-version="1.0"
-encoding="GB2312"?>
-<xsl:stylesheet
-version="1.0"
-xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-<xsl:output
-method="html"
-encoding="gb2312"
-/>
-<xsl:template
-match="/sobar_interface">
+<xmp id="xmp_topic_list" style="display:none">
+<?xml version="1.0" encoding="GB2312"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:output method="html" encoding="gb2312" />
+<xsl:template match="/sobar_interface">
 标题
 点击/回复
-<xsl:apply-templates
-select="//topic"
-/>
+<xsl:apply-templates select="//topic" />
 </xsl:template>
-<xsl:template
-match="topic">
+<xsl:template match="topic">
 <xsl:choose>
-<xsl:when
-test="position()
-mod
-2
-=
-1">
-<xsl:if
-test="status='4'">
+<xsl:when test="position() mod 2 = 1">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:when>
 <xsl:otherwise>
-<xsl:if
-test="status='4'">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:otherwise>
 </xsl:choose>
 </xsl:template>
@@ -8907,90 +8399,44 @@ PALADIN，一款凝聚NISSAN越野车成功经验而诞生的经典运动型多功能车，集技术，品质与�
 验证码
 ：
 (按Ctrl+Enter可直接发表)
-<xmp
-id="xmp_topic_list"
-style="display:none">
-<?xml
-version="1.0"
-encoding="GB2312"?>
-<xsl:stylesheet
-version="1.0"
-xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-<xsl:output
-method="html"
-encoding="gb2312"
-/>
-<xsl:template
-match="/sobar_interface">
+<xmp id="xmp_topic_list" style="display:none">
+<?xml version="1.0" encoding="GB2312"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:output method="html" encoding="gb2312" />
+<xsl:template match="/sobar_interface">
 标题
 点击/回复
-<xsl:apply-templates
-select="//topic"
-/>
+<xsl:apply-templates select="//topic" />
 </xsl:template>
-<xsl:template
-match="topic">
+<xsl:template match="topic">
 <xsl:choose>
-<xsl:when
-test="position()
-mod
-2
-=
-1">
-<xsl:if
-test="status='4'">
+<xsl:when test="position() mod 2 = 1">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:when>
 <xsl:otherwise>
-<xsl:if
-test="status='4'">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:otherwise>
 </xsl:choose>
 </xsl:template>
@@ -9615,90 +9061,44 @@ AT（NAVI）
 验证码
 ：
 (按Ctrl+Enter可直接发表)
-<xmp
-id="xmp_topic_list"
-style="display:none">
-<?xml
-version="1.0"
-encoding="GB2312"?>
-<xsl:stylesheet
-version="1.0"
-xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-<xsl:output
-method="html"
-encoding="gb2312"
-/>
-<xsl:template
-match="/sobar_interface">
+<xmp id="xmp_topic_list" style="display:none">
+<?xml version="1.0" encoding="GB2312"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:output method="html" encoding="gb2312" />
+<xsl:template match="/sobar_interface">
 标题
 点击/回复
-<xsl:apply-templates
-select="//topic"
-/>
+<xsl:apply-templates select="//topic" />
 </xsl:template>
-<xsl:template
-match="topic">
+<xsl:template match="topic">
 <xsl:choose>
-<xsl:when
-test="position()
-mod
-2
-=
-1">
-<xsl:if
-test="status='4'">
+<xsl:when test="position() mod 2 = 1">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:when>
 <xsl:otherwise>
-<xsl:if
-test="status='4'">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:otherwise>
 </xsl:choose>
 </xsl:template>
@@ -10335,90 +9735,44 @@ AT（NAVI）
 验证码
 ：
 (按Ctrl+Enter可直接发表)
-<xmp
-id="xmp_topic_list"
-style="display:none">
-<?xml
-version="1.0"
-encoding="GB2312"?>
-<xsl:stylesheet
-version="1.0"
-xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-<xsl:output
-method="html"
-encoding="gb2312"
-/>
-<xsl:template
-match="/sobar_interface">
+<xmp id="xmp_topic_list" style="display:none">
+<?xml version="1.0" encoding="GB2312"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:output method="html" encoding="gb2312" />
+<xsl:template match="/sobar_interface">
 标题
 点击/回复
-<xsl:apply-templates
-select="//topic"
-/>
+<xsl:apply-templates select="//topic" />
 </xsl:template>
-<xsl:template
-match="topic">
+<xsl:template match="topic">
 <xsl:choose>
-<xsl:when
-test="position()
-mod
-2
-=
-1">
-<xsl:if
-test="status='4'">
+<xsl:when test="position() mod 2 = 1">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:when>
 <xsl:otherwise>
-<xsl:if
-test="status='4'">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:otherwise>
 </xsl:choose>
 </xsl:template>
@@ -11039,90 +10393,44 @@ PK锐志
 验证码
 ：
 (按Ctrl+Enter可直接发表)
-<xmp
-id="xmp_topic_list"
-style="display:none">
-<?xml
-version="1.0"
-encoding="GB2312"?>
-<xsl:stylesheet
-version="1.0"
-xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-<xsl:output
-method="html"
-encoding="gb2312"
-/>
-<xsl:template
-match="/sobar_interface">
+<xmp id="xmp_topic_list" style="display:none">
+<?xml version="1.0" encoding="GB2312"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:output method="html" encoding="gb2312" />
+<xsl:template match="/sobar_interface">
 标题
 点击/回复
-<xsl:apply-templates
-select="//topic"
-/>
+<xsl:apply-templates select="//topic" />
 </xsl:template>
-<xsl:template
-match="topic">
+<xsl:template match="topic">
 <xsl:choose>
-<xsl:when
-test="position()
-mod
-2
-=
-1">
-<xsl:if
-test="status='4'">
+<xsl:when test="position() mod 2 = 1">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:when>
 <xsl:otherwise>
-<xsl:if
-test="status='4'">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:otherwise>
 </xsl:choose>
 </xsl:template>
@@ -11743,90 +11051,44 @@ PK锐志
 验证码
 ：
 (按Ctrl+Enter可直接发表)
-<xmp
-id="xmp_topic_list"
-style="display:none">
-<?xml
-version="1.0"
-encoding="GB2312"?>
-<xsl:stylesheet
-version="1.0"
-xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-<xsl:output
-method="html"
-encoding="gb2312"
-/>
-<xsl:template
-match="/sobar_interface">
+<xmp id="xmp_topic_list" style="display:none">
+<?xml version="1.0" encoding="GB2312"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:output method="html" encoding="gb2312" />
+<xsl:template match="/sobar_interface">
 标题
 点击/回复
-<xsl:apply-templates
-select="//topic"
-/>
+<xsl:apply-templates select="//topic" />
 </xsl:template>
-<xsl:template
-match="topic">
+<xsl:template match="topic">
 <xsl:choose>
-<xsl:when
-test="position()
-mod
-2
-=
-1">
-<xsl:if
-test="status='4'">
+<xsl:when test="position() mod 2 = 1">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:when>
 <xsl:otherwise>
-<xsl:if
-test="status='4'">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:otherwise>
 </xsl:choose>
 </xsl:template>
@@ -12891,90 +12153,44 @@ NAVI
 验证码
 ：
 (按Ctrl+Enter可直接发表)
-<xmp
-id="xmp_topic_list"
-style="display:none">
-<?xml
-version="1.0"
-encoding="GB2312"?>
-<xsl:stylesheet
-version="1.0"
-xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-<xsl:output
-method="html"
-encoding="gb2312"
-/>
-<xsl:template
-match="/sobar_interface">
+<xmp id="xmp_topic_list" style="display:none">
+<?xml version="1.0" encoding="GB2312"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:output method="html" encoding="gb2312" />
+<xsl:template match="/sobar_interface">
 标题
 点击/回复
-<xsl:apply-templates
-select="//topic"
-/>
+<xsl:apply-templates select="//topic" />
 </xsl:template>
-<xsl:template
-match="topic">
+<xsl:template match="topic">
 <xsl:choose>
-<xsl:when
-test="position()
-mod
-2
-=
-1">
-<xsl:if
-test="status='4'">
+<xsl:when test="position() mod 2 = 1">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:when>
 <xsl:otherwise>
-<xsl:if
-test="status='4'">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:otherwise>
 </xsl:choose>
 </xsl:template>
@@ -14048,90 +13264,44 @@ NAVI
 验证码
 ：
 (按Ctrl+Enter可直接发表)
-<xmp
-id="xmp_topic_list"
-style="display:none">
-<?xml
-version="1.0"
-encoding="GB2312"?>
-<xsl:stylesheet
-version="1.0"
-xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-<xsl:output
-method="html"
-encoding="gb2312"
-/>
-<xsl:template
-match="/sobar_interface">
+<xmp id="xmp_topic_list" style="display:none">
+<?xml version="1.0" encoding="GB2312"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:output method="html" encoding="gb2312" />
+<xsl:template match="/sobar_interface">
 标题
 点击/回复
-<xsl:apply-templates
-select="//topic"
-/>
+<xsl:apply-templates select="//topic" />
 </xsl:template>
-<xsl:template
-match="topic">
+<xsl:template match="topic">
 <xsl:choose>
-<xsl:when
-test="position()
-mod
-2
-=
-1">
-<xsl:if
-test="status='4'">
+<xsl:when test="position() mod 2 = 1">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:when>
 <xsl:otherwise>
-<xsl:if
-test="status='4'">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:otherwise>
 </xsl:choose>
 </xsl:template>
@@ -15560,90 +14730,44 @@ LS-NAVI
 验证码
 ：
 (按Ctrl+Enter可直接发表)
-<xmp
-id="xmp_topic_list"
-style="display:none">
-<?xml
-version="1.0"
-encoding="GB2312"?>
-<xsl:stylesheet
-version="1.0"
-xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-<xsl:output
-method="html"
-encoding="gb2312"
-/>
-<xsl:template
-match="/sobar_interface">
+<xmp id="xmp_topic_list" style="display:none">
+<?xml version="1.0" encoding="GB2312"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:output method="html" encoding="gb2312" />
+<xsl:template match="/sobar_interface">
 标题
 点击/回复
-<xsl:apply-templates
-select="//topic"
-/>
+<xsl:apply-templates select="//topic" />
 </xsl:template>
-<xsl:template
-match="topic">
+<xsl:template match="topic">
 <xsl:choose>
-<xsl:when
-test="position()
-mod
-2
-=
-1">
-<xsl:if
-test="status='4'">
+<xsl:when test="position() mod 2 = 1">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:when>
 <xsl:otherwise>
-<xsl:if
-test="status='4'">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:otherwise>
 </xsl:choose>
 </xsl:template>
@@ -16209,90 +15333,44 @@ LS-NAVI
 验证码
 ：
 (按Ctrl+Enter可直接发表)
-<xmp
-id="xmp_topic_list"
-style="display:none">
-<?xml
-version="1.0"
-encoding="GB2312"?>
-<xsl:stylesheet
-version="1.0"
-xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-<xsl:output
-method="html"
-encoding="gb2312"
-/>
-<xsl:template
-match="/sobar_interface">
+<xmp id="xmp_topic_list" style="display:none">
+<?xml version="1.0" encoding="GB2312"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:output method="html" encoding="gb2312" />
+<xsl:template match="/sobar_interface">
 标题
 点击/回复
-<xsl:apply-templates
-select="//topic"
-/>
+<xsl:apply-templates select="//topic" />
 </xsl:template>
-<xsl:template
-match="topic">
+<xsl:template match="topic">
 <xsl:choose>
-<xsl:when
-test="position()
-mod
-2
-=
-1">
-<xsl:if
-test="status='4'">
+<xsl:when test="position() mod 2 = 1">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:when>
 <xsl:otherwise>
-<xsl:if
-test="status='4'">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:otherwise>
 </xsl:choose>
 </xsl:template>
@@ -16926,90 +16004,44 @@ AT（NAVI）
 验证码
 ：
 (按Ctrl+Enter可直接发表)
-<xmp
-id="xmp_topic_list"
-style="display:none">
-<?xml
-version="1.0"
-encoding="GB2312"?>
-<xsl:stylesheet
-version="1.0"
-xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-<xsl:output
-method="html"
-encoding="gb2312"
-/>
-<xsl:template
-match="/sobar_interface">
+<xmp id="xmp_topic_list" style="display:none">
+<?xml version="1.0" encoding="GB2312"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:output method="html" encoding="gb2312" />
+<xsl:template match="/sobar_interface">
 标题
 点击/回复
-<xsl:apply-templates
-select="//topic"
-/>
+<xsl:apply-templates select="//topic" />
 </xsl:template>
-<xsl:template
-match="topic">
+<xsl:template match="topic">
 <xsl:choose>
-<xsl:when
-test="position()
-mod
-2
-=
-1">
-<xsl:if
-test="status='4'">
+<xsl:when test="position() mod 2 = 1">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:when>
 <xsl:otherwise>
-<xsl:if
-test="status='4'">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:otherwise>
 </xsl:choose>
 </xsl:template>
@@ -17643,90 +16675,44 @@ AT（NAVI）
 验证码
 ：
 (按Ctrl+Enter可直接发表)
-<xmp
-id="xmp_topic_list"
-style="display:none">
-<?xml
-version="1.0"
-encoding="GB2312"?>
-<xsl:stylesheet
-version="1.0"
-xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-<xsl:output
-method="html"
-encoding="gb2312"
-/>
-<xsl:template
-match="/sobar_interface">
+<xmp id="xmp_topic_list" style="display:none">
+<?xml version="1.0" encoding="GB2312"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:output method="html" encoding="gb2312" />
+<xsl:template match="/sobar_interface">
 标题
 点击/回复
-<xsl:apply-templates
-select="//topic"
-/>
+<xsl:apply-templates select="//topic" />
 </xsl:template>
-<xsl:template
-match="topic">
+<xsl:template match="topic">
 <xsl:choose>
-<xsl:when
-test="position()
-mod
-2
-=
-1">
-<xsl:if
-test="status='4'">
+<xsl:when test="position() mod 2 = 1">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:when>
 <xsl:otherwise>
-<xsl:if
-test="status='4'">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:otherwise>
 </xsl:choose>
 </xsl:template>
@@ -18312,90 +17298,44 @@ C2车友论坛
 验证码
 ：
 (按Ctrl+Enter可直接发表)
-<xmp
-id="xmp_topic_list"
-style="display:none">
-<?xml
-version="1.0"
-encoding="GB2312"?>
-<xsl:stylesheet
-version="1.0"
-xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-<xsl:output
-method="html"
-encoding="gb2312"
-/>
-<xsl:template
-match="/sobar_interface">
+<xmp id="xmp_topic_list" style="display:none">
+<?xml version="1.0" encoding="GB2312"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:output method="html" encoding="gb2312" />
+<xsl:template match="/sobar_interface">
 标题
 点击/回复
-<xsl:apply-templates
-select="//topic"
-/>
+<xsl:apply-templates select="//topic" />
 </xsl:template>
-<xsl:template
-match="topic">
+<xsl:template match="topic">
 <xsl:choose>
-<xsl:when
-test="position()
-mod
-2
-=
-1">
-<xsl:if
-test="status='4'">
+<xsl:when test="position() mod 2 = 1">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:when>
 <xsl:otherwise>
-<xsl:if
-test="status='4'">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:otherwise>
 </xsl:choose>
 </xsl:template>
@@ -18975,90 +17915,44 @@ C2车友论坛
 验证码
 ：
 (按Ctrl+Enter可直接发表)
-<xmp
-id="xmp_topic_list"
-style="display:none">
-<?xml
-version="1.0"
-encoding="GB2312"?>
-<xsl:stylesheet
-version="1.0"
-xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-<xsl:output
-method="html"
-encoding="gb2312"
-/>
-<xsl:template
-match="/sobar_interface">
+<xmp id="xmp_topic_list" style="display:none">
+<?xml version="1.0" encoding="GB2312"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:output method="html" encoding="gb2312" />
+<xsl:template match="/sobar_interface">
 标题
 点击/回复
-<xsl:apply-templates
-select="//topic"
-/>
+<xsl:apply-templates select="//topic" />
 </xsl:template>
-<xsl:template
-match="topic">
+<xsl:template match="topic">
 <xsl:choose>
-<xsl:when
-test="position()
-mod
-2
-=
-1">
-<xsl:if
-test="status='4'">
+<xsl:when test="position() mod 2 = 1">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:when>
 <xsl:otherwise>
-<xsl:if
-test="status='4'">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:otherwise>
 </xsl:choose>
 </xsl:template>
@@ -19646,90 +18540,44 @@ AT
 验证码
 ：
 (按Ctrl+Enter可直接发表)
-<xmp
-id="xmp_topic_list"
-style="display:none">
-<?xml
-version="1.0"
-encoding="GB2312"?>
-<xsl:stylesheet
-version="1.0"
-xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-<xsl:output
-method="html"
-encoding="gb2312"
-/>
-<xsl:template
-match="/sobar_interface">
+<xmp id="xmp_topic_list" style="display:none">
+<?xml version="1.0" encoding="GB2312"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:output method="html" encoding="gb2312" />
+<xsl:template match="/sobar_interface">
 标题
 点击/回复
-<xsl:apply-templates
-select="//topic"
-/>
+<xsl:apply-templates select="//topic" />
 </xsl:template>
-<xsl:template
-match="topic">
+<xsl:template match="topic">
 <xsl:choose>
-<xsl:when
-test="position()
-mod
-2
-=
-1">
-<xsl:if
-test="status='4'">
+<xsl:when test="position() mod 2 = 1">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:when>
 <xsl:otherwise>
-<xsl:if
-test="status='4'">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:otherwise>
 </xsl:choose>
 </xsl:template>
@@ -20317,90 +19165,44 @@ AT
 验证码
 ：
 (按Ctrl+Enter可直接发表)
-<xmp
-id="xmp_topic_list"
-style="display:none">
-<?xml
-version="1.0"
-encoding="GB2312"?>
-<xsl:stylesheet
-version="1.0"
-xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-<xsl:output
-method="html"
-encoding="gb2312"
-/>
-<xsl:template
-match="/sobar_interface">
+<xmp id="xmp_topic_list" style="display:none">
+<?xml version="1.0" encoding="GB2312"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:output method="html" encoding="gb2312" />
+<xsl:template match="/sobar_interface">
 标题
 点击/回复
-<xsl:apply-templates
-select="//topic"
-/>
+<xsl:apply-templates select="//topic" />
 </xsl:template>
-<xsl:template
-match="topic">
+<xsl:template match="topic">
 <xsl:choose>
-<xsl:when
-test="position()
-mod
-2
-=
-1">
-<xsl:if
-test="status='4'">
+<xsl:when test="position() mod 2 = 1">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:when>
 <xsl:otherwise>
-<xsl:if
-test="status='4'">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:otherwise>
 </xsl:choose>
 </xsl:template>
@@ -20955,90 +19757,44 @@ AT
 验证码
 ：
 (按Ctrl+Enter可直接发表)
-<xmp
-id="xmp_topic_list"
-style="display:none">
-<?xml
-version="1.0"
-encoding="GB2312"?>
-<xsl:stylesheet
-version="1.0"
-xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-<xsl:output
-method="html"
-encoding="gb2312"
-/>
-<xsl:template
-match="/sobar_interface">
+<xmp id="xmp_topic_list" style="display:none">
+<?xml version="1.0" encoding="GB2312"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:output method="html" encoding="gb2312" />
+<xsl:template match="/sobar_interface">
 标题
 点击/回复
-<xsl:apply-templates
-select="//topic"
-/>
+<xsl:apply-templates select="//topic" />
 </xsl:template>
-<xsl:template
-match="topic">
+<xsl:template match="topic">
 <xsl:choose>
-<xsl:when
-test="position()
-mod
-2
-=
-1">
-<xsl:if
-test="status='4'">
+<xsl:when test="position() mod 2 = 1">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:when>
 <xsl:otherwise>
-<xsl:if
-test="status='4'">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:otherwise>
 </xsl:choose>
 </xsl:template>
@@ -21593,90 +20349,44 @@ AT
 验证码
 ：
 (按Ctrl+Enter可直接发表)
-<xmp
-id="xmp_topic_list"
-style="display:none">
-<?xml
-version="1.0"
-encoding="GB2312"?>
-<xsl:stylesheet
-version="1.0"
-xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-<xsl:output
-method="html"
-encoding="gb2312"
-/>
-<xsl:template
-match="/sobar_interface">
+<xmp id="xmp_topic_list" style="display:none">
+<?xml version="1.0" encoding="GB2312"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:output method="html" encoding="gb2312" />
+<xsl:template match="/sobar_interface">
 标题
 点击/回复
-<xsl:apply-templates
-select="//topic"
-/>
+<xsl:apply-templates select="//topic" />
 </xsl:template>
-<xsl:template
-match="topic">
+<xsl:template match="topic">
 <xsl:choose>
-<xsl:when
-test="position()
-mod
-2
-=
-1">
-<xsl:if
-test="status='4'">
+<xsl:when test="position() mod 2 = 1">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:when>
 <xsl:otherwise>
-<xsl:if
-test="status='4'">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:otherwise>
 </xsl:choose>
 </xsl:template>
@@ -22265,90 +20975,44 @@ AT
 验证码
 ：
 (按Ctrl+Enter可直接发表)
-<xmp
-id="xmp_topic_list"
-style="display:none">
-<?xml
-version="1.0"
-encoding="GB2312"?>
-<xsl:stylesheet
-version="1.0"
-xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-<xsl:output
-method="html"
-encoding="gb2312"
-/>
-<xsl:template
-match="/sobar_interface">
+<xmp id="xmp_topic_list" style="display:none">
+<?xml version="1.0" encoding="GB2312"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:output method="html" encoding="gb2312" />
+<xsl:template match="/sobar_interface">
 标题
 点击/回复
-<xsl:apply-templates
-select="//topic"
-/>
+<xsl:apply-templates select="//topic" />
 </xsl:template>
-<xsl:template
-match="topic">
+<xsl:template match="topic">
 <xsl:choose>
-<xsl:when
-test="position()
-mod
-2
-=
-1">
-<xsl:if
-test="status='4'">
+<xsl:when test="position() mod 2 = 1">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:when>
 <xsl:otherwise>
-<xsl:if
-test="status='4'">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:otherwise>
 </xsl:choose>
 </xsl:template>
@@ -22937,90 +21601,44 @@ AT
 验证码
 ：
 (按Ctrl+Enter可直接发表)
-<xmp
-id="xmp_topic_list"
-style="display:none">
-<?xml
-version="1.0"
-encoding="GB2312"?>
-<xsl:stylesheet
-version="1.0"
-xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-<xsl:output
-method="html"
-encoding="gb2312"
-/>
-<xsl:template
-match="/sobar_interface">
+<xmp id="xmp_topic_list" style="display:none">
+<?xml version="1.0" encoding="GB2312"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:output method="html" encoding="gb2312" />
+<xsl:template match="/sobar_interface">
 标题
 点击/回复
-<xsl:apply-templates
-select="//topic"
-/>
+<xsl:apply-templates select="//topic" />
 </xsl:template>
-<xsl:template
-match="topic">
+<xsl:template match="topic">
 <xsl:choose>
-<xsl:when
-test="position()
-mod
-2
-=
-1">
-<xsl:if
-test="status='4'">
+<xsl:when test="position() mod 2 = 1">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:when>
 <xsl:otherwise>
-<xsl:if
-test="status='4'">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:otherwise>
 </xsl:choose>
 </xsl:template>
@@ -23576,90 +22194,44 @@ Reserved
 验证码
 ：
 (按Ctrl+Enter可直接发表)
-<xmp
-id="xmp_topic_list"
-style="display:none">
-<?xml
-version="1.0"
-encoding="GB2312"?>
-<xsl:stylesheet
-version="1.0"
-xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-<xsl:output
-method="html"
-encoding="gb2312"
-/>
-<xsl:template
-match="/sobar_interface">
+<xmp id="xmp_topic_list" style="display:none">
+<?xml version="1.0" encoding="GB2312"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:output method="html" encoding="gb2312" />
+<xsl:template match="/sobar_interface">
 标题
 点击/回复
-<xsl:apply-templates
-select="//topic"
-/>
+<xsl:apply-templates select="//topic" />
 </xsl:template>
-<xsl:template
-match="topic">
+<xsl:template match="topic">
 <xsl:choose>
-<xsl:when
-test="position()
-mod
-2
-=
-1">
-<xsl:if
-test="status='4'">
+<xsl:when test="position() mod 2 = 1">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:when>
 <xsl:otherwise>
-<xsl:if
-test="status='4'">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:otherwise>
 </xsl:choose>
 </xsl:template>
@@ -24645,90 +23217,44 @@ Reserved
 验证码
 ：
 (按Ctrl+Enter可直接发表)
-<xmp
-id="xmp_topic_list"
-style="display:none">
-<?xml
-version="1.0"
-encoding="GB2312"?>
-<xsl:stylesheet
-version="1.0"
-xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-<xsl:output
-method="html"
-encoding="gb2312"
-/>
-<xsl:template
-match="/sobar_interface">
+<xmp id="xmp_topic_list" style="display:none">
+<?xml version="1.0" encoding="GB2312"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:output method="html" encoding="gb2312" />
+<xsl:template match="/sobar_interface">
 标题
 点击/回复
-<xsl:apply-templates
-select="//topic"
-/>
+<xsl:apply-templates select="//topic" />
 </xsl:template>
-<xsl:template
-match="topic">
+<xsl:template match="topic">
 <xsl:choose>
-<xsl:when
-test="position()
-mod
-2
-=
-1">
-<xsl:if
-test="status='4'">
+<xsl:when test="position() mod 2 = 1">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:when>
 <xsl:otherwise>
-<xsl:if
-test="status='4'">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:otherwise>
 </xsl:choose>
 </xsl:template>
@@ -26103,90 +24629,44 @@ c柱设计很宽大，在倒车和进库等动作的时候会影响一部分驾驶员的观察。普遍反映的做工�
 验证码
 ：
 (按Ctrl+Enter可直接发表)
-<xmp
-id="xmp_topic_list"
-style="display:none">
-<?xml
-version="1.0"
-encoding="GB2312"?>
-<xsl:stylesheet
-version="1.0"
-xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-<xsl:output
-method="html"
-encoding="gb2312"
-/>
-<xsl:template
-match="/sobar_interface">
+<xmp id="xmp_topic_list" style="display:none">
+<?xml version="1.0" encoding="GB2312"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:output method="html" encoding="gb2312" />
+<xsl:template match="/sobar_interface">
 标题
 点击/回复
-<xsl:apply-templates
-select="//topic"
-/>
+<xsl:apply-templates select="//topic" />
 </xsl:template>
-<xsl:template
-match="topic">
+<xsl:template match="topic">
 <xsl:choose>
-<xsl:when
-test="position()
-mod
-2
-=
-1">
-<xsl:if
-test="status='4'">
+<xsl:when test="position() mod 2 = 1">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:when>
 <xsl:otherwise>
-<xsl:if
-test="status='4'">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:otherwise>
 </xsl:choose>
 </xsl:template>
@@ -26710,90 +25190,44 @@ c柱设计很宽大，在倒车和进库等动作的时候会影响一部分驾驶员的观察。普遍反映的做工�
 验证码
 ：
 (按Ctrl+Enter可直接发表)
-<xmp
-id="xmp_topic_list"
-style="display:none">
-<?xml
-version="1.0"
-encoding="GB2312"?>
-<xsl:stylesheet
-version="1.0"
-xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-<xsl:output
-method="html"
-encoding="gb2312"
-/>
-<xsl:template
-match="/sobar_interface">
+<xmp id="xmp_topic_list" style="display:none">
+<?xml version="1.0" encoding="GB2312"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:output method="html" encoding="gb2312" />
+<xsl:template match="/sobar_interface">
 标题
 点击/回复
-<xsl:apply-templates
-select="//topic"
-/>
+<xsl:apply-templates select="//topic" />
 </xsl:template>
-<xsl:template
-match="topic">
+<xsl:template match="topic">
 <xsl:choose>
-<xsl:when
-test="position()
-mod
-2
-=
-1">
-<xsl:if
-test="status='4'">
+<xsl:when test="position() mod 2 = 1">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:when>
 <xsl:otherwise>
-<xsl:if
-test="status='4'">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:otherwise>
 </xsl:choose>
 </xsl:template>
@@ -27346,90 +25780,44 @@ RIO千里马车友论坛
 验证码
 ：
 (按Ctrl+Enter可直接发表)
-<xmp
-id="xmp_topic_list"
-style="display:none">
-<?xml
-version="1.0"
-encoding="GB2312"?>
-<xsl:stylesheet
-version="1.0"
-xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-<xsl:output
-method="html"
-encoding="gb2312"
-/>
-<xsl:template
-match="/sobar_interface">
+<xmp id="xmp_topic_list" style="display:none">
+<?xml version="1.0" encoding="GB2312"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:output method="html" encoding="gb2312" />
+<xsl:template match="/sobar_interface">
 标题
 点击/回复
-<xsl:apply-templates
-select="//topic"
-/>
+<xsl:apply-templates select="//topic" />
 </xsl:template>
-<xsl:template
-match="topic">
+<xsl:template match="topic">
 <xsl:choose>
-<xsl:when
-test="position()
-mod
-2
-=
-1">
-<xsl:if
-test="status='4'">
+<xsl:when test="position() mod 2 = 1">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:when>
 <xsl:otherwise>
-<xsl:if
-test="status='4'">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:otherwise>
 </xsl:choose>
 </xsl:template>
@@ -27980,90 +26368,44 @@ RIO千里马车友论坛
 验证码
 ：
 (按Ctrl+Enter可直接发表)
-<xmp
-id="xmp_topic_list"
-style="display:none">
-<?xml
-version="1.0"
-encoding="GB2312"?>
-<xsl:stylesheet
-version="1.0"
-xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-<xsl:output
-method="html"
-encoding="gb2312"
-/>
-<xsl:template
-match="/sobar_interface">
+<xmp id="xmp_topic_list" style="display:none">
+<?xml version="1.0" encoding="GB2312"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:output method="html" encoding="gb2312" />
+<xsl:template match="/sobar_interface">
 标题
 点击/回复
-<xsl:apply-templates
-select="//topic"
-/>
+<xsl:apply-templates select="//topic" />
 </xsl:template>
-<xsl:template
-match="topic">
+<xsl:template match="topic">
 <xsl:choose>
-<xsl:when
-test="position()
-mod
-2
-=
-1">
-<xsl:if
-test="status='4'">
+<xsl:when test="position() mod 2 = 1">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:when>
 <xsl:otherwise>
-<xsl:if
-test="status='4'">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:otherwise>
 </xsl:choose>
 </xsl:template>
@@ -28614,90 +26956,44 @@ V6
 验证码
 ：
 (按Ctrl+Enter可直接发表)
-<xmp
-id="xmp_topic_list"
-style="display:none">
-<?xml
-version="1.0"
-encoding="GB2312"?>
-<xsl:stylesheet
-version="1.0"
-xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-<xsl:output
-method="html"
-encoding="gb2312"
-/>
-<xsl:template
-match="/sobar_interface">
+<xmp id="xmp_topic_list" style="display:none">
+<?xml version="1.0" encoding="GB2312"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:output method="html" encoding="gb2312" />
+<xsl:template match="/sobar_interface">
 标题
 点击/回复
-<xsl:apply-templates
-select="//topic"
-/>
+<xsl:apply-templates select="//topic" />
 </xsl:template>
-<xsl:template
-match="topic">
+<xsl:template match="topic">
 <xsl:choose>
-<xsl:when
-test="position()
-mod
-2
-=
-1">
-<xsl:if
-test="status='4'">
+<xsl:when test="position() mod 2 = 1">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:when>
 <xsl:otherwise>
-<xsl:if
-test="status='4'">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:otherwise>
 </xsl:choose>
 </xsl:template>
@@ -29669,90 +27965,44 @@ V6
 验证码
 ：
 (按Ctrl+Enter可直接发表)
-<xmp
-id="xmp_topic_list"
-style="display:none">
-<?xml
-version="1.0"
-encoding="GB2312"?>
-<xsl:stylesheet
-version="1.0"
-xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-<xsl:output
-method="html"
-encoding="gb2312"
-/>
-<xsl:template
-match="/sobar_interface">
+<xmp id="xmp_topic_list" style="display:none">
+<?xml version="1.0" encoding="GB2312"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:output method="html" encoding="gb2312" />
+<xsl:template match="/sobar_interface">
 标题
 点击/回复
-<xsl:apply-templates
-select="//topic"
-/>
+<xsl:apply-templates select="//topic" />
 </xsl:template>
-<xsl:template
-match="topic">
+<xsl:template match="topic">
 <xsl:choose>
-<xsl:when
-test="position()
-mod
-2
-=
-1">
-<xsl:if
-test="status='4'">
+<xsl:when test="position() mod 2 = 1">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:when>
 <xsl:otherwise>
-<xsl:if
-test="status='4'">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:otherwise>
 </xsl:choose>
 </xsl:template>
@@ -31217,90 +29467,44 @@ RIO千里马最高优惠1.28万
 验证码
 ：
 (按Ctrl+Enter可直接发表)
-<xmp
-id="xmp_topic_list"
-style="display:none">
-<?xml
-version="1.0"
-encoding="GB2312"?>
-<xsl:stylesheet
-version="1.0"
-xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-<xsl:output
-method="html"
-encoding="gb2312"
-/>
-<xsl:template
-match="/sobar_interface">
+<xmp id="xmp_topic_list" style="display:none">
+<?xml version="1.0" encoding="GB2312"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:output method="html" encoding="gb2312" />
+<xsl:template match="/sobar_interface">
 标题
 点击/回复
-<xsl:apply-templates
-select="//topic"
-/>
+<xsl:apply-templates select="//topic" />
 </xsl:template>
-<xsl:template
-match="topic">
+<xsl:template match="topic">
 <xsl:choose>
-<xsl:when
-test="position()
-mod
-2
-=
-1">
-<xsl:if
-test="status='4'">
+<xsl:when test="position() mod 2 = 1">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:when>
 <xsl:otherwise>
-<xsl:if
-test="status='4'">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:otherwise>
 </xsl:choose>
 </xsl:template>
@@ -31918,90 +30122,44 @@ RIO千里马最高优惠1.28万
 验证码
 ：
 (按Ctrl+Enter可直接发表)
-<xmp
-id="xmp_topic_list"
-style="display:none">
-<?xml
-version="1.0"
-encoding="GB2312"?>
-<xsl:stylesheet
-version="1.0"
-xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-<xsl:output
-method="html"
-encoding="gb2312"
-/>
-<xsl:template
-match="/sobar_interface">
+<xmp id="xmp_topic_list" style="display:none">
+<?xml version="1.0" encoding="GB2312"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:output method="html" encoding="gb2312" />
+<xsl:template match="/sobar_interface">
 标题
 点击/回复
-<xsl:apply-templates
-select="//topic"
-/>
+<xsl:apply-templates select="//topic" />
 </xsl:template>
-<xsl:template
-match="topic">
+<xsl:template match="topic">
 <xsl:choose>
-<xsl:when
-test="position()
-mod
-2
-=
-1">
-<xsl:if
-test="status='4'">
+<xsl:when test="position() mod 2 = 1">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:when>
 <xsl:otherwise>
-<xsl:if
-test="status='4'">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:otherwise>
 </xsl:choose>
 </xsl:template>
@@ -32700,90 +30858,44 @@ AT
 验证码
 ：
 (按Ctrl+Enter可直接发表)
-<xmp
-id="xmp_topic_list"
-style="display:none">
-<?xml
-version="1.0"
-encoding="GB2312"?>
-<xsl:stylesheet
-version="1.0"
-xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-<xsl:output
-method="html"
-encoding="gb2312"
-/>
-<xsl:template
-match="/sobar_interface">
+<xmp id="xmp_topic_list" style="display:none">
+<?xml version="1.0" encoding="GB2312"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:output method="html" encoding="gb2312" />
+<xsl:template match="/sobar_interface">
 标题
 点击/回复
-<xsl:apply-templates
-select="//topic"
-/>
+<xsl:apply-templates select="//topic" />
 </xsl:template>
-<xsl:template
-match="topic">
+<xsl:template match="topic">
 <xsl:choose>
-<xsl:when
-test="position()
-mod
-2
-=
-1">
-<xsl:if
-test="status='4'">
+<xsl:when test="position() mod 2 = 1">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:when>
 <xsl:otherwise>
-<xsl:if
-test="status='4'">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:otherwise>
 </xsl:choose>
 </xsl:template>
@@ -33482,90 +31594,44 @@ AT
 验证码
 ：
 (按Ctrl+Enter可直接发表)
-<xmp
-id="xmp_topic_list"
-style="display:none">
-<?xml
-version="1.0"
-encoding="GB2312"?>
-<xsl:stylesheet
-version="1.0"
-xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-<xsl:output
-method="html"
-encoding="gb2312"
-/>
-<xsl:template
-match="/sobar_interface">
+<xmp id="xmp_topic_list" style="display:none">
+<?xml version="1.0" encoding="GB2312"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:output method="html" encoding="gb2312" />
+<xsl:template match="/sobar_interface">
 标题
 点击/回复
-<xsl:apply-templates
-select="//topic"
-/>
+<xsl:apply-templates select="//topic" />
 </xsl:template>
-<xsl:template
-match="topic">
+<xsl:template match="topic">
 <xsl:choose>
-<xsl:when
-test="position()
-mod
-2
-=
-1">
-<xsl:if
-test="status='4'">
+<xsl:when test="position() mod 2 = 1">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:when>
 <xsl:otherwise>
-<xsl:if
-test="status='4'">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:otherwise>
 </xsl:choose>
 </xsl:template>
@@ -33996,8 +32062,7 @@ Reserved
 远舰简介
 品牌：东风悦达起亚
 类型：
-06款远舰的整体造型与05款相比，更显出庄重稳健的大家风范。车身线条优雅流畅；全新设计的高品位镀铬全新散热隔栅使整车气质更稳重气派，具有前瞻眼光；车身侧面及后部的镀铬装饰条更为时尚大气；直线条为主的后部车身设计干净利落，展现出远舰坚韧、强劲的个性。在配置方面，06款远舰更丰富、更人性化。长2700mm的轴距，暖色调的内饰，为乘员提供了超大温馨的空间；全系列车型都配备了高级桃木内饰、铝合金轮圈和倒车雷达，展现出商务用车的尊贵气息及私家车的非凡品位。和同级车相比，06款远舰率先将DVD多媒体影像系统（TOP
-级别装备DVD10碟连放系统）列为GLS车系的标准配置，最大程度提高产品价值，为乘员提供超前的视听享受，创造出愉悦的车内氛围。而可加热座椅、自动恒温空调、即触式全开电动天窗、雨量感知型雨刷、智能电脑、电瓶防耗装置、锁眼照明等其它智能舒适性的配置也让乘员驾乘过程倍添乐趣。
+06款远舰的整体造型与05款相比，更显出庄重稳健的大家风范。车身线条优雅流畅；全新设计的高品位镀铬全新散热隔栅使整车气质更稳重气派，具有前瞻眼光；车身侧面及后部的镀铬装饰条更为时尚大气；直线条为主的后部车身设计干净利落，展现出远舰坚韧、强劲的个性。在配置方面，06款远舰更丰富、更人性化。长2700mm的轴距，暖色调的内饰，为乘员提供了超大温馨的空间；全系列车型都配备了高级桃木内饰、铝合金轮圈和倒车雷达，展现出商务用车的尊贵气息及私家车的非凡品位。和同级车相比，06款远舰率先将DVD多媒体影像系统（TOP 级别装备DVD10碟连放系统）列为GLS车系的标准配置，最大程度提高产品价值，为乘员提供超前的视听享受，创造出愉悦的车内氛围。而可加热座椅、自动恒温空调、即触式全开电动天窗、雨量感知型雨刷、智能电脑、电瓶防耗装置、锁眼照明等其它智能舒适性的配置也让乘员驾乘过程倍添乐趣。
 远舰相关新闻:更多
 ·起亚远舰跌破11万
 4S店最高优惠1.78万元
@@ -34166,90 +32231,44 @@ AT
 验证码
 ：
 (按Ctrl+Enter可直接发表)
-<xmp
-id="xmp_topic_list"
-style="display:none">
-<?xml
-version="1.0"
-encoding="GB2312"?>
-<xsl:stylesheet
-version="1.0"
-xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-<xsl:output
-method="html"
-encoding="gb2312"
-/>
-<xsl:template
-match="/sobar_interface">
+<xmp id="xmp_topic_list" style="display:none">
+<?xml version="1.0" encoding="GB2312"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:output method="html" encoding="gb2312" />
+<xsl:template match="/sobar_interface">
 标题
 点击/回复
-<xsl:apply-templates
-select="//topic"
-/>
+<xsl:apply-templates select="//topic" />
 </xsl:template>
-<xsl:template
-match="topic">
+<xsl:template match="topic">
 <xsl:choose>
-<xsl:when
-test="position()
-mod
-2
-=
-1">
-<xsl:if
-test="status='4'">
+<xsl:when test="position() mod 2 = 1">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:when>
 <xsl:otherwise>
-<xsl:if
-test="status='4'">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:otherwise>
 </xsl:choose>
 </xsl:template>
@@ -34676,8 +32695,7 @@ Reserved
 系列图库
 数据纠错
 车系简介
-06款远舰的整体造型与05款相比，更显出庄重稳健的大家风范。车身线条优雅流畅；全新设计的高品位镀铬全新散热隔栅使整车气质更稳重气派，具有前瞻眼光；车身侧面及后部的镀铬装饰条更为时尚大气；直线条为主的后部车身设计干净利落，展现出远舰坚韧、强劲的个性。在配置方面，06款远舰更丰富、更人性化。长2700mm的轴距，暖色调的内饰，为乘员提供了超大温馨的空间；全系列车型都配备了高级桃木内饰、铝合金轮圈和倒车雷达，展现出商务用车的尊贵气息及私家车的非凡品位。和同级车相比，06款远舰率先将DVD多媒体影像系统（TOP
-级别装备DVD10碟连放系统）列为GLS车系的标准配置，最大程度提高产品价值，为乘员提供超前的视听享受，创造出愉悦的车内氛围。而可加热座椅、自动恒温空调、即触式全开电动天窗、雨量感知型雨刷、智能电脑、电瓶防耗装置、锁眼照明等其它智能舒适性的配置也让乘员驾乘过程倍添乐趣。
+06款远舰的整体造型与05款相比，更显出庄重稳健的大家风范。车身线条优雅流畅；全新设计的高品位镀铬全新散热隔栅使整车气质更稳重气派，具有前瞻眼光；车身侧面及后部的镀铬装饰条更为时尚大气；直线条为主的后部车身设计干净利落，展现出远舰坚韧、强劲的个性。在配置方面，06款远舰更丰富、更人性化。长2700mm的轴距，暖色调的内饰，为乘员提供了超大温馨的空间；全系列车型都配备了高级桃木内饰、铝合金轮圈和倒车雷达，展现出商务用车的尊贵气息及私家车的非凡品位。和同级车相比，06款远舰率先将DVD多媒体影像系统（TOP 级别装备DVD10碟连放系统）列为GLS车系的标准配置，最大程度提高产品价值，为乘员提供超前的视听享受，创造出愉悦的车内氛围。而可加热座椅、自动恒温空调、即触式全开电动天窗、雨量感知型雨刷、智能电脑、电瓶防耗装置、锁眼照明等其它智能舒适性的配置也让乘员驾乘过程倍添乐趣。
 同品牌其他车型
 赛拉图
 26款车型
@@ -35101,8 +33119,7 @@ Reserved
 远舰简介
 品牌：东风悦达起亚
 类型：
-06款远舰的整体造型与05款相比，更显出庄重稳健的大家风范。车身线条优雅流畅；全新设计的高品位镀铬全新散热隔栅使整车气质更稳重气派，具有前瞻眼光；车身侧面及后部的镀铬装饰条更为时尚大气；直线条为主的后部车身设计干净利落，展现出远舰坚韧、强劲的个性。在配置方面，06款远舰更丰富、更人性化。长2700mm的轴距，暖色调的内饰，为乘员提供了超大温馨的空间；全系列车型都配备了高级桃木内饰、铝合金轮圈和倒车雷达，展现出商务用车的尊贵气息及私家车的非凡品位。和同级车相比，06款远舰率先将DVD多媒体影像系统（TOP
-级别装备DVD10碟连放系统）列为GLS车系的标准配置，最大程度提高产品价值，为乘员提供超前的视听享受，创造出愉悦的车内氛围。而可加热座椅、自动恒温空调、即触式全开电动天窗、雨量感知型雨刷、智能电脑、电瓶防耗装置、锁眼照明等其它智能舒适性的配置也让乘员驾乘过程倍添乐趣。
+06款远舰的整体造型与05款相比，更显出庄重稳健的大家风范。车身线条优雅流畅；全新设计的高品位镀铬全新散热隔栅使整车气质更稳重气派，具有前瞻眼光；车身侧面及后部的镀铬装饰条更为时尚大气；直线条为主的后部车身设计干净利落，展现出远舰坚韧、强劲的个性。在配置方面，06款远舰更丰富、更人性化。长2700mm的轴距，暖色调的内饰，为乘员提供了超大温馨的空间；全系列车型都配备了高级桃木内饰、铝合金轮圈和倒车雷达，展现出商务用车的尊贵气息及私家车的非凡品位。和同级车相比，06款远舰率先将DVD多媒体影像系统（TOP 级别装备DVD10碟连放系统）列为GLS车系的标准配置，最大程度提高产品价值，为乘员提供超前的视听享受，创造出愉悦的车内氛围。而可加热座椅、自动恒温空调、即触式全开电动天窗、雨量感知型雨刷、智能电脑、电瓶防耗装置、锁眼照明等其它智能舒适性的配置也让乘员驾乘过程倍添乐趣。
 远舰相关新闻:更多
 ·起亚远舰跌破11万
 4S店最高优惠1.78万元
@@ -35271,90 +33288,44 @@ AT
 验证码
 ：
 (按Ctrl+Enter可直接发表)
-<xmp
-id="xmp_topic_list"
-style="display:none">
-<?xml
-version="1.0"
-encoding="GB2312"?>
-<xsl:stylesheet
-version="1.0"
-xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-<xsl:output
-method="html"
-encoding="gb2312"
-/>
-<xsl:template
-match="/sobar_interface">
+<xmp id="xmp_topic_list" style="display:none">
+<?xml version="1.0" encoding="GB2312"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:output method="html" encoding="gb2312" />
+<xsl:template match="/sobar_interface">
 标题
 点击/回复
-<xsl:apply-templates
-select="//topic"
-/>
+<xsl:apply-templates select="//topic" />
 </xsl:template>
-<xsl:template
-match="topic">
+<xsl:template match="topic">
 <xsl:choose>
-<xsl:when
-test="position()
-mod
-2
-=
-1">
-<xsl:if
-test="status='4'">
+<xsl:when test="position() mod 2 = 1">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:when>
 <xsl:otherwise>
-<xsl:if
-test="status='4'">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:otherwise>
 </xsl:choose>
 </xsl:template>
@@ -36734,90 +34705,44 @@ Reserved
 验证码
 ：
 (按Ctrl+Enter可直接发表)
-<xmp
-id="xmp_topic_list"
-style="display:none">
-<?xml
-version="1.0"
-encoding="GB2312"?>
-<xsl:stylesheet
-version="1.0"
-xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-<xsl:output
-method="html"
-encoding="gb2312"
-/>
-<xsl:template
-match="/sobar_interface">
+<xmp id="xmp_topic_list" style="display:none">
+<?xml version="1.0" encoding="GB2312"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:output method="html" encoding="gb2312" />
+<xsl:template match="/sobar_interface">
 标题
 点击/回复
-<xsl:apply-templates
-select="//topic"
-/>
+<xsl:apply-templates select="//topic" />
 </xsl:template>
-<xsl:template
-match="topic">
+<xsl:template match="topic">
 <xsl:choose>
-<xsl:when
-test="position()
-mod
-2
-=
-1">
-<xsl:if
-test="status='4'">
+<xsl:when test="position() mod 2 = 1">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:when>
 <xsl:otherwise>
-<xsl:if
-test="status='4'">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:otherwise>
 </xsl:choose>
 </xsl:template>
@@ -37767,90 +35692,44 @@ Reserved
 验证码
 ：
 (按Ctrl+Enter可直接发表)
-<xmp
-id="xmp_topic_list"
-style="display:none">
-<?xml
-version="1.0"
-encoding="GB2312"?>
-<xsl:stylesheet
-version="1.0"
-xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-<xsl:output
-method="html"
-encoding="gb2312"
-/>
-<xsl:template
-match="/sobar_interface">
+<xmp id="xmp_topic_list" style="display:none">
+<?xml version="1.0" encoding="GB2312"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:output method="html" encoding="gb2312" />
+<xsl:template match="/sobar_interface">
 标题
 点击/回复
-<xsl:apply-templates
-select="//topic"
-/>
+<xsl:apply-templates select="//topic" />
 </xsl:template>
-<xsl:template
-match="topic">
+<xsl:template match="topic">
 <xsl:choose>
-<xsl:when
-test="position()
-mod
-2
-=
-1">
-<xsl:if
-test="status='4'">
+<xsl:when test="position() mod 2 = 1">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:when>
 <xsl:otherwise>
-<xsl:if
-test="status='4'">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:otherwise>
 </xsl:choose>
 </xsl:template>
@@ -39256,90 +37135,44 @@ EXi
 验证码
 ：
 (按Ctrl+Enter可直接发表)
-<xmp
-id="xmp_topic_list"
-style="display:none">
-<?xml
-version="1.0"
-encoding="GB2312"?>
-<xsl:stylesheet
-version="1.0"
-xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-<xsl:output
-method="html"
-encoding="gb2312"
-/>
-<xsl:template
-match="/sobar_interface">
+<xmp id="xmp_topic_list" style="display:none">
+<?xml version="1.0" encoding="GB2312"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:output method="html" encoding="gb2312" />
+<xsl:template match="/sobar_interface">
 标题
 点击/回复
-<xsl:apply-templates
-select="//topic"
-/>
+<xsl:apply-templates select="//topic" />
 </xsl:template>
-<xsl:template
-match="topic">
+<xsl:template match="topic">
 <xsl:choose>
-<xsl:when
-test="position()
-mod
-2
-=
-1">
-<xsl:if
-test="status='4'">
+<xsl:when test="position() mod 2 = 1">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:when>
 <xsl:otherwise>
-<xsl:if
-test="status='4'">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:otherwise>
 </xsl:choose>
 </xsl:template>
@@ -39902,90 +37735,44 @@ EXi
 验证码
 ：
 (按Ctrl+Enter可直接发表)
-<xmp
-id="xmp_topic_list"
-style="display:none">
-<?xml
-version="1.0"
-encoding="GB2312"?>
-<xsl:stylesheet
-version="1.0"
-xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-<xsl:output
-method="html"
-encoding="gb2312"
-/>
-<xsl:template
-match="/sobar_interface">
+<xmp id="xmp_topic_list" style="display:none">
+<?xml version="1.0" encoding="GB2312"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:output method="html" encoding="gb2312" />
+<xsl:template match="/sobar_interface">
 标题
 点击/回复
-<xsl:apply-templates
-select="//topic"
-/>
+<xsl:apply-templates select="//topic" />
 </xsl:template>
-<xsl:template
-match="topic">
+<xsl:template match="topic">
 <xsl:choose>
-<xsl:when
-test="position()
-mod
-2
-=
-1">
-<xsl:if
-test="status='4'">
+<xsl:when test="position() mod 2 = 1">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:when>
 <xsl:otherwise>
-<xsl:if
-test="status='4'">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:otherwise>
 </xsl:choose>
 </xsl:template>
@@ -40980,90 +38767,44 @@ AT
 验证码
 ：
 (按Ctrl+Enter可直接发表)
-<xmp
-id="xmp_topic_list"
-style="display:none">
-<?xml
-version="1.0"
-encoding="GB2312"?>
-<xsl:stylesheet
-version="1.0"
-xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-<xsl:output
-method="html"
-encoding="gb2312"
-/>
-<xsl:template
-match="/sobar_interface">
+<xmp id="xmp_topic_list" style="display:none">
+<?xml version="1.0" encoding="GB2312"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:output method="html" encoding="gb2312" />
+<xsl:template match="/sobar_interface">
 标题
 点击/回复
-<xsl:apply-templates
-select="//topic"
-/>
+<xsl:apply-templates select="//topic" />
 </xsl:template>
-<xsl:template
-match="topic">
+<xsl:template match="topic">
 <xsl:choose>
-<xsl:when
-test="position()
-mod
-2
-=
-1">
-<xsl:if
-test="status='4'">
+<xsl:when test="position() mod 2 = 1">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:when>
 <xsl:otherwise>
-<xsl:if
-test="status='4'">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:otherwise>
 </xsl:choose>
 </xsl:template>
@@ -42059,90 +39800,44 @@ AT
 验证码
 ：
 (按Ctrl+Enter可直接发表)
-<xmp
-id="xmp_topic_list"
-style="display:none">
-<?xml
-version="1.0"
-encoding="GB2312"?>
-<xsl:stylesheet
-version="1.0"
-xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-<xsl:output
-method="html"
-encoding="gb2312"
-/>
-<xsl:template
-match="/sobar_interface">
+<xmp id="xmp_topic_list" style="display:none">
+<?xml version="1.0" encoding="GB2312"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:output method="html" encoding="gb2312" />
+<xsl:template match="/sobar_interface">
 标题
 点击/回复
-<xsl:apply-templates
-select="//topic"
-/>
+<xsl:apply-templates select="//topic" />
 </xsl:template>
-<xsl:template
-match="topic">
+<xsl:template match="topic">
 <xsl:choose>
-<xsl:when
-test="position()
-mod
-2
-=
-1">
-<xsl:if
-test="status='4'">
+<xsl:when test="position() mod 2 = 1">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:when>
 <xsl:otherwise>
-<xsl:if
-test="status='4'">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:otherwise>
 </xsl:choose>
 </xsl:template>
@@ -43588,90 +41283,44 @@ Glxi
 验证码
 ：
 (按Ctrl+Enter可直接发表)
-<xmp
-id="xmp_topic_list"
-style="display:none">
-<?xml
-version="1.0"
-encoding="GB2312"?>
-<xsl:stylesheet
-version="1.0"
-xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-<xsl:output
-method="html"
-encoding="gb2312"
-/>
-<xsl:template
-match="/sobar_interface">
+<xmp id="xmp_topic_list" style="display:none">
+<?xml version="1.0" encoding="GB2312"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:output method="html" encoding="gb2312" />
+<xsl:template match="/sobar_interface">
 标题
 点击/回复
-<xsl:apply-templates
-select="//topic"
-/>
+<xsl:apply-templates select="//topic" />
 </xsl:template>
-<xsl:template
-match="topic">
+<xsl:template match="topic">
 <xsl:choose>
-<xsl:when
-test="position()
-mod
-2
-=
-1">
-<xsl:if
-test="status='4'">
+<xsl:when test="position() mod 2 = 1">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:when>
 <xsl:otherwise>
-<xsl:if
-test="status='4'">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:otherwise>
 </xsl:choose>
 </xsl:template>
@@ -44274,90 +41923,44 @@ Glxi
 验证码
 ：
 (按Ctrl+Enter可直接发表)
-<xmp
-id="xmp_topic_list"
-style="display:none">
-<?xml
-version="1.0"
-encoding="GB2312"?>
-<xsl:stylesheet
-version="1.0"
-xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-<xsl:output
-method="html"
-encoding="gb2312"
-/>
-<xsl:template
-match="/sobar_interface">
+<xmp id="xmp_topic_list" style="display:none">
+<?xml version="1.0" encoding="GB2312"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:output method="html" encoding="gb2312" />
+<xsl:template match="/sobar_interface">
 标题
 点击/回复
-<xsl:apply-templates
-select="//topic"
-/>
+<xsl:apply-templates select="//topic" />
 </xsl:template>
-<xsl:template
-match="topic">
+<xsl:template match="topic">
 <xsl:choose>
-<xsl:when
-test="position()
-mod
-2
-=
-1">
-<xsl:if
-test="status='4'">
+<xsl:when test="position() mod 2 = 1">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:when>
 <xsl:otherwise>
-<xsl:if
-test="status='4'">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:otherwise>
 </xsl:choose>
 </xsl:template>
@@ -44943,90 +42546,44 @@ S-MAX、奥德赛、途安该选谁
 验证码
 ：
 (按Ctrl+Enter可直接发表)
-<xmp
-id="xmp_topic_list"
-style="display:none">
-<?xml
-version="1.0"
-encoding="GB2312"?>
-<xsl:stylesheet
-version="1.0"
-xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-<xsl:output
-method="html"
-encoding="gb2312"
-/>
-<xsl:template
-match="/sobar_interface">
+<xmp id="xmp_topic_list" style="display:none">
+<?xml version="1.0" encoding="GB2312"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:output method="html" encoding="gb2312" />
+<xsl:template match="/sobar_interface">
 标题
 点击/回复
-<xsl:apply-templates
-select="//topic"
-/>
+<xsl:apply-templates select="//topic" />
 </xsl:template>
-<xsl:template
-match="topic">
+<xsl:template match="topic">
 <xsl:choose>
-<xsl:when
-test="position()
-mod
-2
-=
-1">
-<xsl:if
-test="status='4'">
+<xsl:when test="position() mod 2 = 1">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:when>
 <xsl:otherwise>
-<xsl:if
-test="status='4'">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:otherwise>
 </xsl:choose>
 </xsl:template>
@@ -45612,90 +43169,44 @@ S-MAX、奥德赛、途安该选谁
 验证码
 ：
 (按Ctrl+Enter可直接发表)
-<xmp
-id="xmp_topic_list"
-style="display:none">
-<?xml
-version="1.0"
-encoding="GB2312"?>
-<xsl:stylesheet
-version="1.0"
-xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-<xsl:output
-method="html"
-encoding="gb2312"
-/>
-<xsl:template
-match="/sobar_interface">
+<xmp id="xmp_topic_list" style="display:none">
+<?xml version="1.0" encoding="GB2312"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:output method="html" encoding="gb2312" />
+<xsl:template match="/sobar_interface">
 标题
 点击/回复
-<xsl:apply-templates
-select="//topic"
-/>
+<xsl:apply-templates select="//topic" />
 </xsl:template>
-<xsl:template
-match="topic">
+<xsl:template match="topic">
 <xsl:choose>
-<xsl:when
-test="position()
-mod
-2
-=
-1">
-<xsl:if
-test="status='4'">
+<xsl:when test="position() mod 2 = 1">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:when>
 <xsl:otherwise>
-<xsl:if
-test="status='4'">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:otherwise>
 </xsl:choose>
 </xsl:template>
@@ -46124,9 +43635,7 @@ Reserved
 飞度简介
 品牌：广州本田
 类型：
-飞度秉承了本田公司的“mm”(man
-maximum;mechanism
-minimum）设计理念，采用了短前鼻、低地板的“全球通用小型轿车平台”。所以
+飞度秉承了本田公司的“mm”(man maximum;mechanism minimum）设计理念，采用了短前鼻、低地板的“全球通用小型轿车平台”。所以
 飞度的内部空间表现一流，没有丝毫的局促感，
 短前鼻使车厢有了更大的空间，不过这也产生了一个问题，就是a柱在转向时有视线盲点，需要注意。值得一提的是飞度突破性地将油箱放在全车中部的前排座椅底下，取代传统位于后座底下的设计，所以后备厢的容积达到了惊人的500Ｌ，同时给后排提供了更多的变化机会。
 飞度来到国内，外型上似乎并没有作太多的妥协来专门讨好国人的审美观，虽然广本引进的是更容易被接受的三厢版，但这仍是一款造型另类的小车。小巧的前脸上没有过多的装饰，只有前冷却格栅一
@@ -46293,90 +43802,44 @@ CVT
 验证码
 ：
 (按Ctrl+Enter可直接发表)
-<xmp
-id="xmp_topic_list"
-style="display:none">
-<?xml
-version="1.0"
-encoding="GB2312"?>
-<xsl:stylesheet
-version="1.0"
-xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-<xsl:output
-method="html"
-encoding="gb2312"
-/>
-<xsl:template
-match="/sobar_interface">
+<xmp id="xmp_topic_list" style="display:none">
+<?xml version="1.0" encoding="GB2312"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:output method="html" encoding="gb2312" />
+<xsl:template match="/sobar_interface">
 标题
 点击/回复
-<xsl:apply-templates
-select="//topic"
-/>
+<xsl:apply-templates select="//topic" />
 </xsl:template>
-<xsl:template
-match="topic">
+<xsl:template match="topic">
 <xsl:choose>
-<xsl:when
-test="position()
-mod
-2
-=
-1">
-<xsl:if
-test="status='4'">
+<xsl:when test="position() mod 2 = 1">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:when>
 <xsl:otherwise>
-<xsl:if
-test="status='4'">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:otherwise>
 </xsl:choose>
 </xsl:template>
@@ -46801,9 +44264,7 @@ Reserved
 系列图库
 数据纠错
 车系简介
-飞度秉承了本田公司的“mm”(man
-maximum;mechanism
-minimum）设计理念，采用了短前鼻、低地板的“全球通用小型轿车平台”。所以
+飞度秉承了本田公司的“mm”(man maximum;mechanism minimum）设计理念，采用了短前鼻、低地板的“全球通用小型轿车平台”。所以
 飞度的内部空间表现一流，没有丝毫的局促感，
 短前鼻使车厢有了更大的空间，不过这也产生了一个问题，就是a柱在转向时有视线盲点，需要注意。值得一提的是飞度突破性地将油箱放在全车中部的前排座椅底下，取代传统位于后座底下的设计，所以后备厢的容积达到了惊人的500Ｌ，同时给后排提供了更多的变化机会。
 飞度来到国内，外型上似乎并没有作太多的妥协来专门讨好国人的审美观，虽然广本引进的是更容易被接受的三厢版，但这仍是一款造型另类的小车。小巧的前脸上没有过多的装饰，只有前冷却格栅一
@@ -47235,9 +44696,7 @@ Reserved
 飞度简介
 品牌：广州本田
 类型：
-飞度秉承了本田公司的“mm”(man
-maximum;mechanism
-minimum）设计理念，采用了短前鼻、低地板的“全球通用小型轿车平台”。所以
+飞度秉承了本田公司的“mm”(man maximum;mechanism minimum）设计理念，采用了短前鼻、低地板的“全球通用小型轿车平台”。所以
 飞度的内部空间表现一流，没有丝毫的局促感，
 短前鼻使车厢有了更大的空间，不过这也产生了一个问题，就是a柱在转向时有视线盲点，需要注意。值得一提的是飞度突破性地将油箱放在全车中部的前排座椅底下，取代传统位于后座底下的设计，所以后备厢的容积达到了惊人的500Ｌ，同时给后排提供了更多的变化机会。
 飞度来到国内，外型上似乎并没有作太多的妥协来专门讨好国人的审美观，虽然广本引进的是更容易被接受的三厢版，但这仍是一款造型另类的小车。小巧的前脸上没有过多的装饰，只有前冷却格栅一
@@ -47404,90 +44863,44 @@ CVT
 验证码
 ：
 (按Ctrl+Enter可直接发表)
-<xmp
-id="xmp_topic_list"
-style="display:none">
-<?xml
-version="1.0"
-encoding="GB2312"?>
-<xsl:stylesheet
-version="1.0"
-xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-<xsl:output
-method="html"
-encoding="gb2312"
-/>
-<xsl:template
-match="/sobar_interface">
+<xmp id="xmp_topic_list" style="display:none">
+<?xml version="1.0" encoding="GB2312"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:output method="html" encoding="gb2312" />
+<xsl:template match="/sobar_interface">
 标题
 点击/回复
-<xsl:apply-templates
-select="//topic"
-/>
+<xsl:apply-templates select="//topic" />
 </xsl:template>
-<xsl:template
-match="topic">
+<xsl:template match="topic">
 <xsl:choose>
-<xsl:when
-test="position()
-mod
-2
-=
-1">
-<xsl:if
-test="status='4'">
+<xsl:when test="position() mod 2 = 1">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:when>
 <xsl:otherwise>
-<xsl:if
-test="status='4'">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:otherwise>
 </xsl:choose>
 </xsl:template>
@@ -51549,12 +48962,10 @@ Cruiser
 Maverick(翼虎)
 [福特]
 HUMMER
-H2(悍马
-H2)
+H2(悍马 H2)
 [悍马]
 HUMMER
-H3(悍马
-H3)
+H3(悍马 H3)
 [悍马]
 Wrangler(牧马人)
 [吉普]
@@ -52033,13 +49444,9 @@ DiMAGE系列
 α系列
 柯美α系列已经停产。
 柯尼卡美能达相机关注排行
-柯尼卡美能达α-7D(Maxxum
-7D/Dynax
-7D)/套机
+柯尼卡美能达α-7D(Maxxum 7D/Dynax 7D)/套机
 停产
-柯尼卡美能达α-7D(Maxxum
-7D/Dynax
-7D)
+柯尼卡美能达α-7D(Maxxum 7D/Dynax 7D)
 停产
 柯尼卡美能达α-5
 Digital(α-Sweet)/套机
@@ -52080,8 +49487,7 @@ Digital(α-Sweet)
 02月14日
 ·柯尼卡美能达明年结束影像业务
 发改革先声
-柯尼卡(Konica
-Corporation)于1873年在日本东京创立，前身为小西屋六兵卫店。然而要到了1948年，柯尼卡这个名字才首次出现于当年推出的35mm照相机Konica
+柯尼卡(Konica Corporation)于1873年在日本东京创立，前身为小西屋六兵卫店。然而要到了1948年，柯尼卡这个名字才首次出现于当年推出的35mm照相机Konica
 I上。柯尼卡向来以底片与感光技术著称，但随着数码相机的迅速普及和传统-｛123;zh-cn:胶卷;zh-hk:菲林125;｝-市场的急剧萎缩，柯尼卡在近年来的业务受到很大的冲击。
 除了轻便型照相机、-｛123;zh-cn:胶卷;zh-hk:菲林125;｝-及冲印系统之外，柯尼卡的产品还有商业器材及光学仪器。2003年8月，柯尼卡与美能达合并，成为现在的柯尼卡美能达。
 2006年1月19日，柯尼卡美能达正式宣布退出照相机及摄影事业，其-｛123;zh-cn:胶卷;zh-hk:菲林125;｝-及相纸将于2007年3月31日停产。
@@ -52101,12 +49507,8 @@ Digital(α-Sweet)[参数][评测][对比]
 柯尼卡美能达E50[参数][评测][对比]
 柯尼卡美能达E40[参数][评测][对比]
 柯尼卡美能达DG-5W[参数][评测][对比]
-柯尼卡美能达α-7D(Maxxum
-7D/Dynax
-7D)/套机[参数][评测][对比]
-柯尼卡美能达α-7D(Maxxum
-7D/Dynax
-7D)[参数][评测][对比]
+柯尼卡美能达α-7D(Maxxum 7D/Dynax 7D)/套机[参数][评测][对比]
+柯尼卡美能达α-7D(Maxxum 7D/Dynax 7D)[参数][评测][对比]
 柯尼卡美能达Z3[参数][评测][对比]
 柯尼卡美能达Z10[参数][评测][对比]
 柯尼卡美能达X50[参数][评测][对比]
@@ -52280,13 +49682,9 @@ DiMAGE系列
 α系列
 柯美α系列已经停产。
 柯尼卡美能达相机关注排行
-柯尼卡美能达α-7D(Maxxum
-7D/Dynax
-7D)/套机
+柯尼卡美能达α-7D(Maxxum 7D/Dynax 7D)/套机
 停产
-柯尼卡美能达α-7D(Maxxum
-7D/Dynax
-7D)
+柯尼卡美能达α-7D(Maxxum 7D/Dynax 7D)
 停产
 柯尼卡美能达α-5
 Digital(α-Sweet)/套机
@@ -52327,8 +49725,7 @@ Digital(α-Sweet)
 02月14日
 ·柯尼卡美能达明年结束影像业务
 发改革先声
-柯尼卡(Konica
-Corporation)于1873年在日本东京创立，前身为小西屋六兵卫店。然而要到了1948年，柯尼卡这个名字才首次出现于当年推出的35mm照相机Konica
+柯尼卡(Konica Corporation)于1873年在日本东京创立，前身为小西屋六兵卫店。然而要到了1948年，柯尼卡这个名字才首次出现于当年推出的35mm照相机Konica
 I上。柯尼卡向来以底片与感光技术著称，但随着数码相机的迅速普及和传统-｛123;zh-cn:胶卷;zh-hk:菲林125;｝-市场的急剧萎缩，柯尼卡在近年来的业务受到很大的冲击。
 除了轻便型照相机、-｛123;zh-cn:胶卷;zh-hk:菲林125;｝-及冲印系统之外，柯尼卡的产品还有商业器材及光学仪器。2003年8月，柯尼卡与美能达合并，成为现在的柯尼卡美能达。
 2006年1月19日，柯尼卡美能达正式宣布退出照相机及摄影事业，其-｛123;zh-cn:胶卷;zh-hk:菲林125;｝-及相纸将于2007年3月31日停产。
@@ -52348,12 +49745,8 @@ Digital(α-Sweet)[参数][评测][对比]
 柯尼卡美能达E50[参数][评测][对比]
 柯尼卡美能达E40[参数][评测][对比]
 柯尼卡美能达DG-5W[参数][评测][对比]
-柯尼卡美能达α-7D(Maxxum
-7D/Dynax
-7D)/套机[参数][评测][对比]
-柯尼卡美能达α-7D(Maxxum
-7D/Dynax
-7D)[参数][评测][对比]
+柯尼卡美能达α-7D(Maxxum 7D/Dynax 7D)/套机[参数][评测][对比]
+柯尼卡美能达α-7D(Maxxum 7D/Dynax 7D)[参数][评测][对比]
 柯尼卡美能达Z3[参数][评测][对比]
 柯尼卡美能达Z10[参数][评测][对比]
 柯尼卡美能达X50[参数][评测][对比]
@@ -52554,11 +49947,7 @@ DCC系列
 亿元，从业人员
 6900
 余人。
-多年卓有成效的创新、变革和战略整合，西光集团实现了跨越式高速发展，已成为一个以光电应用技术为主导，拥有光电防务、光伏太阳能、光电材料与器件三大主营业务（涵盖
-31
-家投资企业，包含
-1
-家上市公司），具有较强竞争能力，事业领域不断延伸的国防高科技大型光电企业集团。
+多年卓有成效的创新、变革和战略整合，西光集团实现了跨越式高速发展，已成为一个以光电应用技术为主导，拥有光电防务、光伏太阳能、光电材料与器件三大主营业务（涵盖 31 家投资企业，包含 1 家上市公司），具有较强竞争能力，事业领域不断延伸的国防高科技大型光电企业集团。
 西光集团以创新发展历程为厚积，以专业化重组战略发展为抓手，不断提升科研制造水平，打造了领先的核心技术能力，拥有了尖端的科研开发能力、先进的加工制造技术、领先的计量检测水平。西光集团拥有一批达到国际水平的科研、生产、试验设施，形成了较为雄厚的产品研发、制造及试验能力。“国防科技工业认定企业技术中心”、博士后科研工作站、国家高技能人才培训基地、特有工种职业技能鉴定站为西光的发展储备了强大的技术能量和人力资本，为企业的持续发展奠定了坚实的基础。
 理想引领着西光人拼搏与跋涉，文化召唤着西光人进取与攀登。西光集团以兵器文化为指引，整合文化优势资源，深植具有兵器光电特色的企业文化，创新与科技、拼搏与发展、诚信与和谐，西光人用自己的行动诠释并丰富着其中的内涵，不断注入新的内涵与活力，以文化树品牌，以品牌促发展，超越一个又一个成功、创造一个又一个辉煌！
 继往开来，传承风采，我们信心百倍，志在云霄！西光集团将继续全面贯彻落实科学发展观，提升发展能力，提高发展质量和效益，致力于为国家和社会提供最新、最好的产品和服务，实现又好又快发展，成就充满生机和创造力的国际知名光电企业的发展愿景，铸就西光新的辉煌！
@@ -52740,11 +50129,7 @@ DCC系列
 亿元，从业人员
 6900
 余人。
-多年卓有成效的创新、变革和战略整合，西光集团实现了跨越式高速发展，已成为一个以光电应用技术为主导，拥有光电防务、光伏太阳能、光电材料与器件三大主营业务（涵盖
-31
-家投资企业，包含
-1
-家上市公司），具有较强竞争能力，事业领域不断延伸的国防高科技大型光电企业集团。
+多年卓有成效的创新、变革和战略整合，西光集团实现了跨越式高速发展，已成为一个以光电应用技术为主导，拥有光电防务、光伏太阳能、光电材料与器件三大主营业务（涵盖 31 家投资企业，包含 1 家上市公司），具有较强竞争能力，事业领域不断延伸的国防高科技大型光电企业集团。
 西光集团以创新发展历程为厚积，以专业化重组战略发展为抓手，不断提升科研制造水平，打造了领先的核心技术能力，拥有了尖端的科研开发能力、先进的加工制造技术、领先的计量检测水平。西光集团拥有一批达到国际水平的科研、生产、试验设施，形成了较为雄厚的产品研发、制造及试验能力。“国防科技工业认定企业技术中心”、博士后科研工作站、国家高技能人才培训基地、特有工种职业技能鉴定站为西光的发展储备了强大的技术能量和人力资本，为企业的持续发展奠定了坚实的基础。
 理想引领着西光人拼搏与跋涉，文化召唤着西光人进取与攀登。西光集团以兵器文化为指引，整合文化优势资源，深植具有兵器光电特色的企业文化，创新与科技、拼搏与发展、诚信与和谐，西光人用自己的行动诠释并丰富着其中的内涵，不断注入新的内涵与活力，以文化树品牌，以品牌促发展，超越一个又一个成功、创造一个又一个辉煌！
 继往开来，传承风采，我们信心百倍，志在云霄！西光集团将继续全面贯彻落实科学发展观，提升发展能力，提高发展质量和效益，致力于为国家和社会提供最新、最好的产品和服务，实现又好又快发展，成就充满生机和创造力的国际知名光电企业的发展愿景，铸就西光新的辉煌！
@@ -54595,11 +51980,7 @@ Creative
 Ensoniq、E-MU&amp;reg;
 Systems、Cambridge
 Soundworks、Ectiva
-Inc.（其前身为
-OPTi
-下的
-NetMedia
-集团）、ShareVision&amp;reg;
+Inc.（其前身为 OPTi 下的 NetMedia 集团）、ShareVision&amp;reg;
 Technology、Digicom
 Systems、Silicon
 Engineering
@@ -54952,11 +52333,7 @@ Creative
 Ensoniq、E-MU&amp;reg;
 Systems、Cambridge
 Soundworks、Ectiva
-Inc.（其前身为
-OPTi
-下的
-NetMedia
-集团）、ShareVision&amp;reg;
+Inc.（其前身为 OPTi 下的 NetMedia 集团）、ShareVision&amp;reg;
 Technology、Digicom
 Systems、Silicon
 Engineering
@@ -55991,13 +53368,11 @@ Pro系列目标消费者是高级摄影爱好者和专业人士。
 IS
 ￥2500
 佳能IXUS
-75(SD
-750)
+75(SD 750)
 ￥1900
 佳能IXUS
 950
-IS(SD850
-IS)
+IS(SD850 IS)
 ￥2400
 佳能G9
 ￥3600
@@ -56008,8 +53383,7 @@ IS
 400D
 ￥4500
 佳能960
-IS(SD950
-IS)
+IS(SD950 IS)
 ￥3000
 佳能S5
 IS
@@ -56041,12 +53415,7 @@ II再度震撼泄露配置信息
 08月22日
 ·佳能发布2100万像旗舰EOS-1DsMarkIII
 Canon
--佳能名称源于美女。佳能公司的创始人是位医学博士，取此名的灵感出自他抬头眺望天空而来。佳能公司原来的名字叫生本·古岳·橙久城（SEIKI
-KOGAKU
-KENKYUJO），是一个精密光学仪器研究所。佳能原有一个十分英语化的名字KWANON，意为一位仁慈佛教女神的名。公司以此名，命其第一架35毫米测距式相机。到目前为止，世界上只有唯一一架KWANON相机幸存。大约在1936年，公司用汉莎·佳能（HANSA
-CANON）为品牌的相机正式上市了。从此，佳能成为举世闻名的相机品牌和公司的象征。毫无疑问，响亮的名字与日俱增，目前使用的EOS（Electronic
-Optical
-System）不仅仅表示电子光学系统英文字首字母的缩写，也是一位在希腊被称作黎明的女神。
+-佳能名称源于美女。佳能公司的创始人是位医学博士，取此名的灵感出自他抬头眺望天空而来。佳能公司原来的名字叫生本·古岳·橙久城（SEIKI KOGAKU KENKYUJO），是一个精密光学仪器研究所。佳能原有一个十分英语化的名字KWANON，意为一位仁慈佛教女神的名。公司以此名，命其第一架35毫米测距式相机。到目前为止，世界上只有唯一一架KWANON相机幸存。大约在1936年，公司用汉莎·佳能（HANSA CANON）为品牌的相机正式上市了。从此，佳能成为举世闻名的相机品牌和公司的象征。毫无疑问，响亮的名字与日俱增，目前使用的EOS（Electronic Optical System）不仅仅表示电子光学系统英文字首字母的缩写，也是一位在希腊被称作黎明的女神。
 佳能成立于1937年，2003年公司实现净销售额
 298.89
 亿美元及净收入
@@ -56114,13 +53483,9 @@ System）不仅仅表示电子光学系统英文字首字母的缩写，也是一位在希腊被称作黎明的女神
 2004年4月29日，经合资双方友好协商，北京北佳信息系统有限公司进行了股权变更，成为由佳能（中国）有限公司100%出资的外商独资企业，并更名为佳能信息技术（北京）有限公司，继续汇集中国优秀人才，致力于研究开发国际水准的软件产品。
 2005年
 在北京中关村设立第一个佳能快修中心——“QR中心”
-QR中心（Quick
-Repair，迅速维修；Quick
-Response，及时应对），它在原有的佳能客户服务中心的基础上提供规模更大，产品维修更全面，更快捷的快速维修服务。
+QR中心（Quick Repair，迅速维修；Quick Response，及时应对），它在原有的佳能客户服务中心的基础上提供规模更大，产品维修更全面，更快捷的快速维修服务。
 广州“佳能影像广场”宣布开业.
-该企业品牌在世界品牌实验室（World
-Brand
-Lab）编制的2006年度《世界品牌500强》排行榜中名列第六十四，在《巴伦周刊》公布的2006年度全球100家大公司受尊重度排行榜中名列第五十四。该企业在2007年度《财富》全球最大五百家公司排名中名列第一百八十二。
+该企业品牌在世界品牌实验室（World Brand Lab）编制的2006年度《世界品牌500强》排行榜中名列第六十四，在《巴伦周刊》公布的2006年度全球100家大公司受尊重度排行榜中名列第五十四。该企业在2007年度《财富》全球最大五百家公司排名中名列第一百八十二。
 机型展示
 按上市时间
 按销售价格
@@ -56134,11 +53499,9 @@ IS￥2500[参数][评测][对比]
 IS￥3200[参数][评测][对比]
 佳能IXUS
 950
-IS(SD850
-IS)￥2400[参数][评测][对比]
+IS(SD850 IS)￥2400[参数][评测][对比]
 佳能IXUS
-75(SD
-750)￥1900[参数][评测][对比]
+75(SD 750)￥1900[参数][评测][对比]
 佳能IXUS
 70(SD1000)￥1600[参数][评测][对比]
 佳能G9￥3600[参数][评测][对比]
@@ -56184,11 +53547,9 @@ II￥55600[参数][评测][对比]
 IS￥2500[参数][评测][对比]
 佳能IXUS
 950
-IS(SD850
-IS)￥2400[参数][评测][对比]
+IS(SD850 IS)￥2400[参数][评测][对比]
 佳能IXUS
-75(SD
-750)￥1900[参数][评测][对比]
+75(SD 750)￥1900[参数][评测][对比]
 佳能IXUS
 70(SD1000)￥1600[参数][评测][对比]
 佳能A720
@@ -56202,11 +53563,9 @@ IS￥3200[参数][评测][对比]
 佳能A650
 IS￥2760[参数][评测][对比]
 佳能960
-IS(SD950
-IS)￥3000[参数][评测][对比]
+IS(SD950 IS)￥3000[参数][评测][对比]
 佳能860
-IS(SD870
-IS)￥2650[参数][评测][对比]
+IS(SD870 IS)￥2650[参数][评测][对比]
 3500-4500元机型
 佳能G9￥3600[参数][评测][对比]
 4500-5500元机型
@@ -56261,14 +53620,11 @@ G系列
 IXUS系列
 佳能IXUS
 950
-IS(SD850
-IS)￥2400[参数][评测][对比]
+IS(SD850 IS)￥2400[参数][评测][对比]
 佳能IXUS
-75(SD
-750)￥1900[参数][评测][对比]
+75(SD 750)￥1900[参数][评测][对比]
 佳能960
-IS(SD950
-IS)￥3000[参数][评测][对比]
+IS(SD950 IS)￥3000[参数][评测][对比]
 PowerShot
 A系列
 佳能A720
@@ -56296,8 +53652,7 @@ i7(SD40)[参数][评测][对比]
 Ti[参数][评测][对比]
 佳能IXUS
 850
-IS(SD800
-IS)[参数][评测][对比]
+IS(SD800 IS)[参数][评测][对比]
 佳能G7[参数][评测][对比]
 佳能A710
 IS[参数][评测][对比]
@@ -56307,10 +53662,7 @@ IS[参数][评测][对比]
 IS[参数][评测][对比]
 佳能IXUS
 800
-IS(SD700
-IS
-Digital
-ELPH)[参数][评测][对比]
+IS(SD700 IS Digital ELPH)[参数][评测][对比]
 佳能IXUS
 65(SD630)[参数][评测][对比]
 佳能IXUS
@@ -56348,11 +53700,9 @@ IS[参数][评测][对比]
 佳能IXUS
 50(SD400)[参数][评测][对比]
 佳能EOS
-350D(REBEL
-XT)/套机[参数][评测][对比]
+350D(REBEL XT)/套机[参数][评测][对比]
 佳能EOS
-350D(REBEL
-XT)[参数][评测][对比]
+350D(REBEL XT)[参数][评测][对比]
 佳能EOS
 20Da[参数][评测][对比]
 佳能A520[参数][评测][对比]
@@ -56543,13 +53893,11 @@ Pro系列目标消费者是高级摄影爱好者和专业人士。
 IS
 ￥2500
 佳能IXUS
-75(SD
-750)
+75(SD 750)
 ￥1900
 佳能IXUS
 950
-IS(SD850
-IS)
+IS(SD850 IS)
 ￥2400
 佳能G9
 ￥3600
@@ -56560,8 +53908,7 @@ IS
 400D
 ￥4500
 佳能960
-IS(SD950
-IS)
+IS(SD950 IS)
 ￥3000
 佳能S5
 IS
@@ -56570,12 +53917,7 @@ IS
 经销商加入
 佳能简介
 Canon
--佳能名称源于美女。佳能公司的创始人是位医学博士，取此名的灵感出自他抬头眺望天空而来。佳能公司原来的名字叫生本·古岳·橙久城（SEIKI
-KOGAKU
-KENKYUJO），是一个精密光学仪器研究所。佳能原有一个十分英语化的名字KWANON，意为一位仁慈佛教女神的名。公司以此名，命其第一架35毫米测距式相机。到目前为止，世界上只有唯一一架KWANON相机幸存。大约在1936年，公司用汉莎·佳能（HANSA
-CANON）为品牌的相机正式上市了。从此，佳能成为举世闻名的相机品牌和公司的象征。毫无疑问，响亮的名字与日俱增，目前使用的EOS（Electronic
-Optical
-System）不仅仅表示电子光学系统英文字首字母的缩写，也是一位在希腊被称作黎明的女神。
+-佳能名称源于美女。佳能公司的创始人是位医学博士，取此名的灵感出自他抬头眺望天空而来。佳能公司原来的名字叫生本·古岳·橙久城（SEIKI KOGAKU KENKYUJO），是一个精密光学仪器研究所。佳能原有一个十分英语化的名字KWANON，意为一位仁慈佛教女神的名。公司以此名，命其第一架35毫米测距式相机。到目前为止，世界上只有唯一一架KWANON相机幸存。大约在1936年，公司用汉莎·佳能（HANSA CANON）为品牌的相机正式上市了。从此，佳能成为举世闻名的相机品牌和公司的象征。毫无疑问，响亮的名字与日俱增，目前使用的EOS（Electronic Optical System）不仅仅表示电子光学系统英文字首字母的缩写，也是一位在希腊被称作黎明的女神。
 佳能成立于1937年，2003年公司实现净销售额
 298.89
 亿美元及净收入
@@ -56643,13 +53985,9 @@ System）不仅仅表示电子光学系统英文字首字母的缩写，也是一位在希腊被称作黎明的女神
 2004年4月29日，经合资双方友好协商，北京北佳信息系统有限公司进行了股权变更，成为由佳能（中国）有限公司100%出资的外商独资企业，并更名为佳能信息技术（北京）有限公司，继续汇集中国优秀人才，致力于研究开发国际水准的软件产品。
 2005年
 在北京中关村设立第一个佳能快修中心——“QR中心”
-QR中心（Quick
-Repair，迅速维修；Quick
-Response，及时应对），它在原有的佳能客户服务中心的基础上提供规模更大，产品维修更全面，更快捷的快速维修服务。
+QR中心（Quick Repair，迅速维修；Quick Response，及时应对），它在原有的佳能客户服务中心的基础上提供规模更大，产品维修更全面，更快捷的快速维修服务。
 广州“佳能影像广场”宣布开业.
-该企业品牌在世界品牌实验室（World
-Brand
-Lab）编制的2006年度《世界品牌500强》排行榜中名列第六十四，在《巴伦周刊》公布的2006年度全球100家大公司受尊重度排行榜中名列第五十四。该企业在2007年度《财富》全球最大五百家公司排名中名列第一百八十二。
+该企业品牌在世界品牌实验室（World Brand Lab）编制的2006年度《世界品牌500强》排行榜中名列第六十四，在《巴伦周刊》公布的2006年度全球100家大公司受尊重度排行榜中名列第五十四。该企业在2007年度《财富》全球最大五百家公司排名中名列第一百八十二。
 关于腾讯
 |
 About
@@ -56804,13 +54142,11 @@ Pro系列目标消费者是高级摄影爱好者和专业人士。
 IS
 ￥2500
 佳能IXUS
-75(SD
-750)
+75(SD 750)
 ￥1900
 佳能IXUS
 950
-IS(SD850
-IS)
+IS(SD850 IS)
 ￥2400
 佳能G9
 ￥3600
@@ -56821,8 +54157,7 @@ IS
 400D
 ￥4500
 佳能960
-IS(SD950
-IS)
+IS(SD950 IS)
 ￥3000
 佳能S5
 IS
@@ -56854,12 +54189,7 @@ II再度震撼泄露配置信息
 08月22日
 ·佳能发布2100万像旗舰EOS-1DsMarkIII
 Canon
--佳能名称源于美女。佳能公司的创始人是位医学博士，取此名的灵感出自他抬头眺望天空而来。佳能公司原来的名字叫生本·古岳·橙久城（SEIKI
-KOGAKU
-KENKYUJO），是一个精密光学仪器研究所。佳能原有一个十分英语化的名字KWANON，意为一位仁慈佛教女神的名。公司以此名，命其第一架35毫米测距式相机。到目前为止，世界上只有唯一一架KWANON相机幸存。大约在1936年，公司用汉莎·佳能（HANSA
-CANON）为品牌的相机正式上市了。从此，佳能成为举世闻名的相机品牌和公司的象征。毫无疑问，响亮的名字与日俱增，目前使用的EOS（Electronic
-Optical
-System）不仅仅表示电子光学系统英文字首字母的缩写，也是一位在希腊被称作黎明的女神。
+-佳能名称源于美女。佳能公司的创始人是位医学博士，取此名的灵感出自他抬头眺望天空而来。佳能公司原来的名字叫生本·古岳·橙久城（SEIKI KOGAKU KENKYUJO），是一个精密光学仪器研究所。佳能原有一个十分英语化的名字KWANON，意为一位仁慈佛教女神的名。公司以此名，命其第一架35毫米测距式相机。到目前为止，世界上只有唯一一架KWANON相机幸存。大约在1936年，公司用汉莎·佳能（HANSA CANON）为品牌的相机正式上市了。从此，佳能成为举世闻名的相机品牌和公司的象征。毫无疑问，响亮的名字与日俱增，目前使用的EOS（Electronic Optical System）不仅仅表示电子光学系统英文字首字母的缩写，也是一位在希腊被称作黎明的女神。
 佳能成立于1937年，2003年公司实现净销售额
 298.89
 亿美元及净收入
@@ -56927,13 +54257,9 @@ System）不仅仅表示电子光学系统英文字首字母的缩写，也是一位在希腊被称作黎明的女神
 2004年4月29日，经合资双方友好协商，北京北佳信息系统有限公司进行了股权变更，成为由佳能（中国）有限公司100%出资的外商独资企业，并更名为佳能信息技术（北京）有限公司，继续汇集中国优秀人才，致力于研究开发国际水准的软件产品。
 2005年
 在北京中关村设立第一个佳能快修中心——“QR中心”
-QR中心（Quick
-Repair，迅速维修；Quick
-Response，及时应对），它在原有的佳能客户服务中心的基础上提供规模更大，产品维修更全面，更快捷的快速维修服务。
+QR中心（Quick Repair，迅速维修；Quick Response，及时应对），它在原有的佳能客户服务中心的基础上提供规模更大，产品维修更全面，更快捷的快速维修服务。
 广州“佳能影像广场”宣布开业.
-该企业品牌在世界品牌实验室（World
-Brand
-Lab）编制的2006年度《世界品牌500强》排行榜中名列第六十四，在《巴伦周刊》公布的2006年度全球100家大公司受尊重度排行榜中名列第五十四。该企业在2007年度《财富》全球最大五百家公司排名中名列第一百八十二。
+该企业品牌在世界品牌实验室（World Brand Lab）编制的2006年度《世界品牌500强》排行榜中名列第六十四，在《巴伦周刊》公布的2006年度全球100家大公司受尊重度排行榜中名列第五十四。该企业在2007年度《财富》全球最大五百家公司排名中名列第一百八十二。
 机型展示
 按上市时间
 按销售价格
@@ -56947,11 +54273,9 @@ IS￥2500[参数][评测][对比]
 IS￥3200[参数][评测][对比]
 佳能IXUS
 950
-IS(SD850
-IS)￥2400[参数][评测][对比]
+IS(SD850 IS)￥2400[参数][评测][对比]
 佳能IXUS
-75(SD
-750)￥1900[参数][评测][对比]
+75(SD 750)￥1900[参数][评测][对比]
 佳能IXUS
 70(SD1000)￥1600[参数][评测][对比]
 佳能G9￥3600[参数][评测][对比]
@@ -56997,11 +54321,9 @@ II￥55600[参数][评测][对比]
 IS￥2500[参数][评测][对比]
 佳能IXUS
 950
-IS(SD850
-IS)￥2400[参数][评测][对比]
+IS(SD850 IS)￥2400[参数][评测][对比]
 佳能IXUS
-75(SD
-750)￥1900[参数][评测][对比]
+75(SD 750)￥1900[参数][评测][对比]
 佳能IXUS
 70(SD1000)￥1600[参数][评测][对比]
 佳能A720
@@ -57015,11 +54337,9 @@ IS￥3200[参数][评测][对比]
 佳能A650
 IS￥2760[参数][评测][对比]
 佳能960
-IS(SD950
-IS)￥3000[参数][评测][对比]
+IS(SD950 IS)￥3000[参数][评测][对比]
 佳能860
-IS(SD870
-IS)￥2650[参数][评测][对比]
+IS(SD870 IS)￥2650[参数][评测][对比]
 3500-4500元机型
 佳能G9￥3600[参数][评测][对比]
 4500-5500元机型
@@ -57074,14 +54394,11 @@ G系列
 IXUS系列
 佳能IXUS
 950
-IS(SD850
-IS)￥2400[参数][评测][对比]
+IS(SD850 IS)￥2400[参数][评测][对比]
 佳能IXUS
-75(SD
-750)￥1900[参数][评测][对比]
+75(SD 750)￥1900[参数][评测][对比]
 佳能960
-IS(SD950
-IS)￥3000[参数][评测][对比]
+IS(SD950 IS)￥3000[参数][评测][对比]
 PowerShot
 A系列
 佳能A720
@@ -57109,8 +54426,7 @@ i7(SD40)[参数][评测][对比]
 Ti[参数][评测][对比]
 佳能IXUS
 850
-IS(SD800
-IS)[参数][评测][对比]
+IS(SD800 IS)[参数][评测][对比]
 佳能G7[参数][评测][对比]
 佳能A710
 IS[参数][评测][对比]
@@ -57120,10 +54436,7 @@ IS[参数][评测][对比]
 IS[参数][评测][对比]
 佳能IXUS
 800
-IS(SD700
-IS
-Digital
-ELPH)[参数][评测][对比]
+IS(SD700 IS Digital ELPH)[参数][评测][对比]
 佳能IXUS
 65(SD630)[参数][评测][对比]
 佳能IXUS
@@ -57161,11 +54474,9 @@ IS[参数][评测][对比]
 佳能IXUS
 50(SD400)[参数][评测][对比]
 佳能EOS
-350D(REBEL
-XT)/套机[参数][评测][对比]
+350D(REBEL XT)/套机[参数][评测][对比]
 佳能EOS
-350D(REBEL
-XT)[参数][评测][对比]
+350D(REBEL XT)[参数][评测][对比]
 佳能EOS
 20Da[参数][评测][对比]
 佳能A520[参数][评测][对比]
@@ -57356,13 +54667,11 @@ Pro系列目标消费者是高级摄影爱好者和专业人士。
 IS
 ￥2500
 佳能IXUS
-75(SD
-750)
+75(SD 750)
 ￥1900
 佳能IXUS
 950
-IS(SD850
-IS)
+IS(SD850 IS)
 ￥2400
 佳能G9
 ￥3600
@@ -57373,8 +54682,7 @@ IS
 400D
 ￥4500
 佳能960
-IS(SD950
-IS)
+IS(SD950 IS)
 ￥3000
 佳能S5
 IS
@@ -58637,13 +55945,7 @@ China
 注册资金:
 1000万美元(约11亿日元,由尼康株式会社全额出资)
 法人代表：董事长
-御给伸好(兼任
-Nikon
-Hong
-Kong
-Ltd
-.
-社长)
+御给伸好(兼任 Nikon Hong Kong Ltd . 社长)
 董事
 总经理:
 金子博明
@@ -59025,13 +56327,7 @@ China
 注册资金:
 1000万美元(约11亿日元,由尼康株式会社全额出资)
 法人代表：董事长
-御给伸好(兼任
-Nikon
-Hong
-Kong
-Ltd
-.
-社长)
+御给伸好(兼任 Nikon Hong Kong Ltd . 社长)
 董事
 总经理:
 金子博明
@@ -59277,13 +56573,7 @@ China
 注册资金:
 1000万美元(约11亿日元,由尼康株式会社全额出资)
 法人代表：董事长
-御给伸好(兼任
-Nikon
-Hong
-Kong
-Ltd
-.
-社长)
+御给伸好(兼任 Nikon Hong Kong Ltd . 社长)
 董事
 总经理:
 金子博明
@@ -63526,8 +60816,7 @@ F系列
 Δ贯彻到底的执行能力
 Δ以消费者为中心，满足其应用需求
 华旗资讯在北京、南京、广州、上海、成都、杭州、武汉、福州、沈阳、济南、西安、乌鲁木齐、重庆、深圳、郑州、哈尔滨、长沙、长春等各大区域核心市场成立分公司和地区平台，拥有400多家爱国者专卖店和3000余家经销商，覆盖全国200多个城市，在全国三十个省（市）、自治区、直辖市建立了完善的营销体系和服务网络，更加全面专业的为各地用户提供优秀资讯产品及服务。
-在成立的十二年中，华旗资讯一直秉承“以消费者为中心，积极发现并充分满足其应用需求”的服务理念，致力于整合产品、品质、服务及渠道等众多资源，推动服务品质的纵深，为用户带来真正的“国际品质，服务大众”。华旗资讯在全国范围率先广泛推行“阳光服务”，实行完善的全国联保。公司在北京拥有全国客户服务中心，以及先进的800呼叫中心（Call
-Center）、网络服务支持中心，并先后在各大城市成立大区服务中心；同时，华旗资讯支持并要求各地通过严格审核的经销商加入爱国者“阳光服务”体系，形成遍布全国的服务网络，使用户无论在什么地方购买、使用爱国者系列产品，都能得到更加及时、优质、满意的全国统一服务。
+在成立的十二年中，华旗资讯一直秉承“以消费者为中心，积极发现并充分满足其应用需求”的服务理念，致力于整合产品、品质、服务及渠道等众多资源，推动服务品质的纵深，为用户带来真正的“国际品质，服务大众”。华旗资讯在全国范围率先广泛推行“阳光服务”，实行完善的全国联保。公司在北京拥有全国客户服务中心，以及先进的800呼叫中心（Call Center）、网络服务支持中心，并先后在各大城市成立大区服务中心；同时，华旗资讯支持并要求各地通过严格审核的经销商加入爱国者“阳光服务”体系，形成遍布全国的服务网络，使用户无论在什么地方购买、使用爱国者系列产品，都能得到更加及时、优质、满意的全国统一服务。
 机型展示
 按上市时间
 按销售价格
@@ -63795,8 +61084,7 @@ F系列
 Δ贯彻到底的执行能力
 Δ以消费者为中心，满足其应用需求
 华旗资讯在北京、南京、广州、上海、成都、杭州、武汉、福州、沈阳、济南、西安、乌鲁木齐、重庆、深圳、郑州、哈尔滨、长沙、长春等各大区域核心市场成立分公司和地区平台，拥有400多家爱国者专卖店和3000余家经销商，覆盖全国200多个城市，在全国三十个省（市）、自治区、直辖市建立了完善的营销体系和服务网络，更加全面专业的为各地用户提供优秀资讯产品及服务。
-在成立的十二年中，华旗资讯一直秉承“以消费者为中心，积极发现并充分满足其应用需求”的服务理念，致力于整合产品、品质、服务及渠道等众多资源，推动服务品质的纵深，为用户带来真正的“国际品质，服务大众”。华旗资讯在全国范围率先广泛推行“阳光服务”，实行完善的全国联保。公司在北京拥有全国客户服务中心，以及先进的800呼叫中心（Call
-Center）、网络服务支持中心，并先后在各大城市成立大区服务中心；同时，华旗资讯支持并要求各地通过严格审核的经销商加入爱国者“阳光服务”体系，形成遍布全国的服务网络，使用户无论在什么地方购买、使用爱国者系列产品，都能得到更加及时、优质、满意的全国统一服务。
+在成立的十二年中，华旗资讯一直秉承“以消费者为中心，积极发现并充分满足其应用需求”的服务理念，致力于整合产品、品质、服务及渠道等众多资源，推动服务品质的纵深，为用户带来真正的“国际品质，服务大众”。华旗资讯在全国范围率先广泛推行“阳光服务”，实行完善的全国联保。公司在北京拥有全国客户服务中心，以及先进的800呼叫中心（Call Center）、网络服务支持中心，并先后在各大城市成立大区服务中心；同时，华旗资讯支持并要求各地通过严格审核的经销商加入爱国者“阳光服务”体系，形成遍布全国的服务网络，使用户无论在什么地方购买、使用爱国者系列产品，都能得到更加及时、优质、满意的全国统一服务。
 机型展示
 按上市时间
 按销售价格
@@ -68690,14 +65978,8 @@ E317
 06月05日
 ·凑个热闹
 惠普连推三款消费级别相机
-1939年，在美国加州帕洛阿尔托市(Palo
-Alto)爱迪生大街367号的一间狭窄车库里，两位年轻的发明家比尔.休利特（Bill
-Hewlett）和戴维.帕卡德（David
-Packard），怀着对未来技术发展的美好憧憬和发明创造的激情创建了HP公司，开始了硅谷的创新之路。
-惠普研发有限合伙公司（Hewlett-Packard
-Development
-Company,
-L.P.）（简称HP）（NYSE：HPQ）位于美国加州的帕罗奥多，是一间全球性的资讯科技公司，主要专注于打印机、数位影像、软件、计算机与资讯服务等业务。2002年收购了美国著名的电脑公司康柏电脑。
+1939年，在美国加州帕洛阿尔托市(Palo Alto)爱迪生大街367号的一间狭窄车库里，两位年轻的发明家比尔.休利特（Bill Hewlett）和戴维.帕卡德（David Packard），怀着对未来技术发展的美好憧憬和发明创造的激情创建了HP公司，开始了硅谷的创新之路。
+惠普研发有限合伙公司（Hewlett-Packard Development Company, L.P.）（简称HP）（NYSE：HPQ）位于美国加州的帕罗奥多，是一间全球性的资讯科技公司，主要专注于打印机、数位影像、软件、计算机与资讯服务等业务。2002年收购了美国著名的电脑公司康柏电脑。
 中国惠普有限公司总部位于北京，在上海、广州、沈阳、南京、武汉、西安、成都和深圳设有分公司。
 惠普风范
 惠普公司“以员工为导向”的哲学，这样的信念，惠普公司称之为“惠普风范”。
@@ -68958,14 +66240,8 @@ E317
 06月05日
 ·凑个热闹
 惠普连推三款消费级别相机
-1939年，在美国加州帕洛阿尔托市(Palo
-Alto)爱迪生大街367号的一间狭窄车库里，两位年轻的发明家比尔.休利特（Bill
-Hewlett）和戴维.帕卡德（David
-Packard），怀着对未来技术发展的美好憧憬和发明创造的激情创建了HP公司，开始了硅谷的创新之路。
-惠普研发有限合伙公司（Hewlett-Packard
-Development
-Company,
-L.P.）（简称HP）（NYSE：HPQ）位于美国加州的帕罗奥多，是一间全球性的资讯科技公司，主要专注于打印机、数位影像、软件、计算机与资讯服务等业务。2002年收购了美国著名的电脑公司康柏电脑。
+1939年，在美国加州帕洛阿尔托市(Palo Alto)爱迪生大街367号的一间狭窄车库里，两位年轻的发明家比尔.休利特（Bill Hewlett）和戴维.帕卡德（David Packard），怀着对未来技术发展的美好憧憬和发明创造的激情创建了HP公司，开始了硅谷的创新之路。
+惠普研发有限合伙公司（Hewlett-Packard Development Company, L.P.）（简称HP）（NYSE：HPQ）位于美国加州的帕罗奥多，是一间全球性的资讯科技公司，主要专注于打印机、数位影像、软件、计算机与资讯服务等业务。2002年收购了美国著名的电脑公司康柏电脑。
 中国惠普有限公司总部位于北京，在上海、广州、沈阳、南京、武汉、西安、成都和深圳设有分公司。
 惠普风范
 惠普公司“以员工为导向”的哲学，这样的信念，惠普公司称之为“惠普风范”。
@@ -69655,9 +66931,7 @@ DVD
 1966年--开始从事电梯自动扶梯的制造和销售
 1977年--开始销售微电脑控制的电梯群管理系统
 1978年--提供高速电梯
-1980年--采用可控硅控制方式（Static
-Ward-Leonard
-system）的直流无齿轮电
+1980年--采用可控硅控制方式（Static Ward-Leonard system）的直流无齿轮电
 梯1号机交货
 1985年--交频控制高速无齿轮电梯问世（世界首台）
 1987年--智能化大楼使用的高速无齿轮电梯交货（梅田中心大楼）
@@ -69667,9 +66941,7 @@ system）的直流无齿轮电
 1993年--向梅田天空大楼提供空中自动扶梯
 1994年--通过ISO-9001认定
 continue...
-该企业品牌在世界品牌实验室（World
-Brand
-Lab）编制的2006年度《世界品牌500强》排行榜中名列第一百九十四。该企业在2007年度《财富》全球最大五百家公司排名中名列第九十一。
+该企业品牌在世界品牌实验室（World Brand Lab）编制的2006年度《世界品牌500强》排行榜中名列第一百九十四。该企业在2007年度《财富》全球最大五百家公司排名中名列第九十一。
 机型展示
 按上市时间
 按销售价格
@@ -69893,9 +67165,7 @@ DVD
 1966年--开始从事电梯自动扶梯的制造和销售
 1977年--开始销售微电脑控制的电梯群管理系统
 1978年--提供高速电梯
-1980年--采用可控硅控制方式（Static
-Ward-Leonard
-system）的直流无齿轮电
+1980年--采用可控硅控制方式（Static Ward-Leonard system）的直流无齿轮电
 梯1号机交货
 1985年--交频控制高速无齿轮电梯问世（世界首台）
 1987年--智能化大楼使用的高速无齿轮电梯交货（梅田中心大楼）
@@ -69905,9 +67175,7 @@ system）的直流无齿轮电
 1993年--向梅田天空大楼提供空中自动扶梯
 1994年--通过ISO-9001认定
 continue...
-该企业品牌在世界品牌实验室（World
-Brand
-Lab）编制的2006年度《世界品牌500强》排行榜中名列第一百九十四。该企业在2007年度《财富》全球最大五百家公司排名中名列第九十一。
+该企业品牌在世界品牌实验室（World Brand Lab）编制的2006年度《世界品牌500强》排行榜中名列第一百九十四。该企业在2007年度《财富》全球最大五百家公司排名中名列第九十一。
 机型展示
 按上市时间
 按销售价格
@@ -72076,8 +69344,7 @@ IXUS
 索尼H7
 ￥2450
 佳能IXUS
-75(SD
-750)
+75(SD 750)
 ￥1900
 佳能IXUS
 70
@@ -72163,22 +69430,18 @@ IXUS
 佳能EOS
 400D(套机)￥5030[参数][评测][对比]
 佳能IXUS
-75(SD
-750)￥1900[参数][评测][对比]
+75(SD 750)￥1900[参数][评测][对比]
 佳能860
-IS(SD870
-IS)￥2650[参数][评测][对比]
+IS(SD870 IS)￥2650[参数][评测][对比]
 佳能SX100
 IS￥2500[参数][评测][对比]
 佳能IXUS
 950
-IS(SD850
-IS)￥2400[参数][评测][对比]
+IS(SD850 IS)￥2400[参数][评测][对比]
 索尼T2￥2350[参数][评测][对比]
 索尼T70￥2098[参数][评测][对比]
 佳能IXUS
-75(SD
-750)￥1900[参数][评测][对比]
+75(SD 750)￥1900[参数][评测][对比]
 索尼W80￥1780[参数][评测][对比]
 索尼H7￥2450[参数][评测][对比]
 暂无同价位机型
@@ -72347,8 +69610,7 @@ IXUS
 索尼H7
 ￥2450
 佳能IXUS
-75(SD
-750)
+75(SD 750)
 ￥1900
 佳能IXUS
 70
@@ -72434,22 +69696,18 @@ IXUS
 佳能EOS
 400D(套机)￥5030[参数][评测][对比]
 佳能IXUS
-75(SD
-750)￥1900[参数][评测][对比]
+75(SD 750)￥1900[参数][评测][对比]
 佳能860
-IS(SD870
-IS)￥2650[参数][评测][对比]
+IS(SD870 IS)￥2650[参数][评测][对比]
 佳能SX100
 IS￥2500[参数][评测][对比]
 佳能IXUS
 950
-IS(SD850
-IS)￥2400[参数][评测][对比]
+IS(SD850 IS)￥2400[参数][评测][对比]
 索尼T2￥2350[参数][评测][对比]
 索尼T70￥2098[参数][评测][对比]
 佳能IXUS
-75(SD
-750)￥1900[参数][评测][对比]
+75(SD 750)￥1900[参数][评测][对比]
 索尼W80￥1780[参数][评测][对比]
 索尼H7￥2450[参数][评测][对比]
 暂无同价位机型
@@ -72611,8 +69869,7 @@ IXUS
 论坛
 同品牌相机推荐
 佳能IXUS
-75(SD
-750)
+75(SD 750)
 ￥1900
 佳能G9
 ￥3600
@@ -72626,8 +69883,7 @@ IXUS
 ￥3000
 佳能IXUS
 950
-IS(SD850
-IS)
+IS(SD850 IS)
 ￥2400
 同价位相机推荐
 索尼T100
@@ -72637,8 +69893,7 @@ IS)
 索尼H7
 ￥2450
 佳能IXUS
-75(SD
-750)
+75(SD 750)
 ￥1900
 GE通用电气E840S
 暂无价格
@@ -72786,8 +70041,7 @@ IXUS
 论坛
 同品牌相机推荐
 佳能IXUS
-75(SD
-750)
+75(SD 750)
 ￥1900
 佳能G9
 ￥3600
@@ -72801,8 +70055,7 @@ IXUS
 ￥3000
 佳能IXUS
 950
-IS(SD850
-IS)
+IS(SD850 IS)
 ￥2400
 同价位相机推荐
 索尼T100
@@ -72812,8 +70065,7 @@ IS)
 索尼H7
 ￥2450
 佳能IXUS
-75(SD
-750)
+75(SD 750)
 ￥1900
 GE通用电气E840S
 暂无价格
@@ -73061,12 +70313,10 @@ Shutter”识别笑脸模式
 索尼H7￥2450[参数][评测][对比]
 索尼T100￥2450[参数][评测][对比]
 佳能860
-IS(SD870
-IS)￥2650[参数][评测][对比]
+IS(SD870 IS)￥2650[参数][评测][对比]
 索尼H9￥3130[参数][评测][对比]
 佳能960
-IS(SD950
-IS)￥3000[参数][评测][对比]
+IS(SD950 IS)￥3000[参数][评测][对比]
 佳能S5
 IS￥3200[参数][评测][对比]
 佳能A650
@@ -73324,12 +70574,10 @@ Shutter”识别笑脸模式
 索尼H7￥2450[参数][评测][对比]
 索尼T100￥2450[参数][评测][对比]
 佳能860
-IS(SD870
-IS)￥2650[参数][评测][对比]
+IS(SD870 IS)￥2650[参数][评测][对比]
 索尼H9￥3130[参数][评测][对比]
 佳能960
-IS(SD950
-IS)￥3000[参数][评测][对比]
+IS(SD950 IS)￥3000[参数][评测][对比]
 佳能S5
 IS￥3200[参数][评测][对比]
 佳能A650
@@ -73838,8 +71086,7 @@ IS
 索尼H7
 ￥2450
 佳能IXUS
-75(SD
-750)
+75(SD 750)
 ￥1900
 佳能IXUS
 70
@@ -73928,11 +71175,9 @@ IS
 佳能EOS
 400D(套机)￥5030[参数][评测][对比]
 佳能IXUS
-75(SD
-750)￥1900[参数][评测][对比]
+75(SD 750)￥1900[参数][评测][对比]
 佳能860
-IS(SD870
-IS)￥2650[参数][评测][对比]
+IS(SD870 IS)￥2650[参数][评测][对比]
 佳能SX100
 IS￥2500[参数][评测][对比]
 索尼T2￥2350[参数][评测][对比]
@@ -73940,8 +71185,7 @@ IS￥2500[参数][评测][对比]
 70(SD1000)￥1600[参数][评测][对比]
 索尼T70￥2098[参数][评测][对比]
 佳能IXUS
-75(SD
-750)￥1900[参数][评测][对比]
+75(SD 750)￥1900[参数][评测][对比]
 索尼W80￥1780[参数][评测][对比]
 暂无同价位机型
 更多
@@ -74112,8 +71356,7 @@ IS
 索尼H7
 ￥2450
 佳能IXUS
-75(SD
-750)
+75(SD 750)
 ￥1900
 佳能IXUS
 70
@@ -74202,11 +71445,9 @@ IS
 佳能EOS
 400D(套机)￥5030[参数][评测][对比]
 佳能IXUS
-75(SD
-750)￥1900[参数][评测][对比]
+75(SD 750)￥1900[参数][评测][对比]
 佳能860
-IS(SD870
-IS)￥2650[参数][评测][对比]
+IS(SD870 IS)￥2650[参数][评测][对比]
 佳能SX100
 IS￥2500[参数][评测][对比]
 索尼T2￥2350[参数][评测][对比]
@@ -74214,8 +71455,7 @@ IS￥2500[参数][评测][对比]
 70(SD1000)￥1600[参数][评测][对比]
 索尼T70￥2098[参数][评测][对比]
 佳能IXUS
-75(SD
-750)￥1900[参数][评测][对比]
+75(SD 750)￥1900[参数][评测][对比]
 索尼W80￥1780[参数][评测][对比]
 暂无同价位机型
 更多
@@ -74379,8 +71619,7 @@ IS
 论坛
 同品牌相机推荐
 佳能IXUS
-75(SD
-750)
+75(SD 750)
 ￥1900
 佳能G9
 ￥3600
@@ -74403,8 +71642,7 @@ IS
 索尼H7
 ￥2450
 佳能IXUS
-75(SD
-750)
+75(SD 750)
 ￥1900
 GE通用电气E840S
 暂无价格
@@ -74554,8 +71792,7 @@ IS
 论坛
 同品牌相机推荐
 佳能IXUS
-75(SD
-750)
+75(SD 750)
 ￥1900
 佳能G9
 ￥3600
@@ -74578,8 +71815,7 @@ IS
 索尼H7
 ￥2450
 佳能IXUS
-75(SD
-750)
+75(SD 750)
 ￥1900
 GE通用电气E840S
 暂无价格

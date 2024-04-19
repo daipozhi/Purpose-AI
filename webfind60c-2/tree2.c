@@ -42,14 +42,14 @@ int deb_upper_string(char *p_instr);
 #define SMG_SIZE      300
 
 //------------------------------
-#define ARTI_LINE1    2000000
+#define ARTI_LINE1    10000000
 #define ARTI_LINE2    200000
 
 extern 	 char wd5_buf[ARTI_LINE1][55];
 extern           int wd5_rt[ARTI_LINE1];
 extern 	  int wd5_ptr;
 
-extern int  wd5_search(char *);
+extern int  wd5_search(char *,int);
 extern int  wd5_load(void);
 
 extern int           wd5_find_rt;
@@ -99,6 +99,7 @@ extern int 	      wd5_find_ptr;
 
     int t1_istrcmp(int i,int pn1,int pn2,int pn3,int pn4,int pn5,int pn6);
 
+extern int deb_str_has_null(const char *str,int str_size);
 
 int t1_init_tree2(void)
 {

@@ -14955,9 +14955,7 @@ RIO千里马
 RIO千里马
 2007年1月18日，东风悦达起亚在北京举行了RIO千里马“心动出发”上市发布会。会上，日前刚上任的东风悦达起亚总经理崔成起先生正式宣布RIO千里马在全国同步上市。此次RIO千里马推出1.4L和1.6L共6款车型，价格区间在7.18万—11.88万元间。
 作为2007年最令人期待的全新车型，
-RIO已经受到了来自全球各汽车专业媒体及消费者的好评。2006年2月，在世界冰上赛车锦标赛（Iceracing
-Andros
-Trophee）中，RIO连续第三次夺冠；6月，在美国
+RIO已经受到了来自全球各汽车专业媒体及消费者的好评。2006年2月，在世界冰上赛车锦标赛（Iceracing Andros Trophee）中，RIO连续第三次夺冠；6月，在美国
 J.D
 POWER
 新车品质调查中，RIO获得小型车新车质量满意度第一；7月，在澳大利亚维省皇家汽车协会对小型轿车调查中，RIO的使用成本最低；10月，RIO被美国权威的汽车媒体Edmunds.com评为消费者“最受欢迎轿车”；11月18日，RIO在北京车展上首度亮相便吸引了众多目光，荣获当届北京车展最受关注新车奖。
@@ -15179,9 +15177,7 @@ RIO千里马
 RIO千里马
 2007年1月18日，东风悦达起亚在北京举行了RIO千里马“心动出发”上市发布会。会上，日前刚上任的东风悦达起亚总经理崔成起先生正式宣布RIO千里马在全国同步上市。此次RIO千里马推出1.4L和1.6L共6款车型，价格区间在7.18万—11.88万元间。
 作为2007年最令人期待的全新车型，
-RIO已经受到了来自全球各汽车专业媒体及消费者的好评。2006年2月，在世界冰上赛车锦标赛（Iceracing
-Andros
-Trophee）中，RIO连续第三次夺冠；6月，在美国
+RIO已经受到了来自全球各汽车专业媒体及消费者的好评。2006年2月，在世界冰上赛车锦标赛（Iceracing Andros Trophee）中，RIO连续第三次夺冠；6月，在美国
 J.D
 POWER
 新车品质调查中，RIO获得小型车新车质量满意度第一；7月，在澳大利亚维省皇家汽车协会对小型轿车调查中，RIO的使用成本最低；10月，RIO被美国权威的汽车媒体Edmunds.com评为消费者“最受欢迎轿车”；11月18日，RIO在北京车展上首度亮相便吸引了众多目光，荣获当届北京车展最受关注新车奖。
@@ -16969,9 +16965,7 @@ Reserved
 4
 最大功率（Kw/rpm）
 218/6500
-最大扭矩（N
-·
-m/rpm）
+最大扭矩（N · m/rpm）
 250/2750
 压缩比
 增压方式
@@ -16995,9 +16989,7 @@ m/rpm）
 自动
 悬挂型式（前/后）
 /
-制动器类型（前
-/
-后）
+制动器类型（前 / 后）
 盘式/盘式
 手刹方式
 机械式
@@ -17514,9 +17506,7 @@ Reserved
 4
 最大功率（Kw/rpm）
 218/6500
-最大扭矩（N
-·
-m/rpm）
+最大扭矩（N · m/rpm）
 250/2750
 压缩比
 增压方式
@@ -17540,9 +17530,7 @@ m/rpm）
 自动
 悬挂型式（前/后）
 /
-制动器类型（前
-/
-后）
+制动器类型（前 / 后）
 盘式/盘式
 手刹方式
 机械式
@@ -18043,16 +18031,9 @@ H
 1.5L
 豪华型GLX
 豪华型EQ491i
-豪华型(自动挡
-4*2
-丰田4Y绵阳发动机
-2.4L)
-豪华型(HC1020S
-4*2)
-豪华型(手动挡
-4*2
-丰田4Y绵阳发动机
-2.4L)
+豪华型(自动挡 4*2 丰田4Y绵阳发动机 2.4L)
+豪华型(HC1020S 4*2)
+豪华型(手动挡 4*2 丰田4Y绵阳发动机 2.4L)
 豪华型
 23座
 柴油
@@ -18123,8 +18104,7 @@ V6
 风景(Scenic)II
 2.0
 5座
-风景(Grand
-Scenic)2.0
+风景(Grand Scenic)2.0
 7座
 风度3.0GV
 风度2.0G
@@ -18177,22 +18157,10 @@ LZ6460Q7GE
 超级领航者SY5031XJH-B2C(P)
 超级领航者SY5031XJH-B2C
 超豪华型4G63
-超豪华型(自动挡
-4*4
-4G64三菱发动机
-2.4L)
-超豪华型(自动挡
-4*2
-4G64三菱发动机
-2.4L)
-超豪华型(手动挡
-4*4
-4G64三菱发动机
-2.4L)
-超豪华型(手动挡
-4*2
-4G64三菱发动机
-2.4L)
+超豪华型(自动挡 4*4 4G64三菱发动机 2.4L)
+超豪华型(自动挡 4*2 4G64三菱发动机 2.4L)
+超豪华型(手动挡 4*4 4G64三菱发动机 2.4L)
+超豪华型(手动挡 4*2 4G64三菱发动机 2.4L)
 超豪华型
 4*2
 超豪华型
@@ -18298,14 +18266,8 @@ GT
 标准型II
 标准型I
 标准型EQ491i
-标准型(自动挡
-4*2
-丰田4Y绵阳发动机
-2.4L)
-标准型(手动挡
-4*2
-丰田4Y绵阳发动机
-2.4L)
+标准型(自动挡 4*2 丰田4Y绵阳发动机 2.4L)
+标准型(手动挡 4*2 丰田4Y绵阳发动机 2.4L)
 标准型
 侧开门
 标准型
@@ -18943,10 +18905,8 @@ QCJ7081BD1基本型
 QCJ7081BD1基本型
 QCJ7081BD1标准型
 QCJ7081BD1选装型AS
-PT漫步者敞篷版(PT
-Cruiser)
-PT漫步者(PT
-Cruiser)
+PT漫步者敞篷版(PT Cruiser)
+PT漫步者(PT Cruiser)
 Prestige2.0L
 自动型
 Prestige2.0L
@@ -19127,14 +19087,8 @@ VK45DE
 夏朗2.8T
 豪华型
 夏朗1.8T
-IV型(自动挡
-4*4
-4G64三菱发动机
-2.4L)
-IV型(手动挡
-4*4
-4G64三菱发动机
-2.4L)
+IV型(自动挡 4*4 4G64三菱发动机 2.4L)
+IV型(手动挡 4*4 4G64三菱发动机 2.4L)
 IS300
 豪华运动版
 IS300
@@ -19147,30 +19101,12 @@ II代
 7座汽油自动
 II代
 7座汽油手动
-III型(自动挡
-4*2
-4G64三菱发动机
-2.4L)
-III型(手动挡
-4*2
-4G64三菱发动机
-2.4L)
-II型(自动挡
-4*2
-丰田4Y绵阳发动机
-2.237L)
-II型(手动挡
-4*2
-丰田4Y绵阳发动机
-2.237L)
-II型(手动挡
-4*2
-丰田4Y绵阳发动机
-2.237L)
-II型(手动挡
-4*2
-丰田4Y绵阳发动机
-2.237L)
+III型(自动挡 4*2 4G64三菱发动机 2.4L)
+III型(手动挡 4*2 4G64三菱发动机 2.4L)
+II型(自动挡 4*2 丰田4Y绵阳发动机 2.237L)
+II型(手动挡 4*2 丰田4Y绵阳发动机 2.237L)
+II型(手动挡 4*2 丰田4Y绵阳发动机 2.237L)
+II型(手动挡 4*2 丰田4Y绵阳发动机 2.237L)
 祥和2.4L
 七座
 先锋系列
@@ -19190,18 +19126,9 @@ II型(手动挡
 先锋GDQ6470V33
 先锋GDQ6470
 先锋GDQ6470
-I型(手动挡
-4*2
-丰田4Y长城发动机
-2.237L)
-I型(手动挡
-4*2
-丰田4Y长城发动机
-2.237L)
-I型(手动挡
-4*2
-丰田4Y长城发动机
-2.237L)
+I型(手动挡 4*2 丰田4Y长城发动机 2.237L)
+I型(手动挡 4*2 丰田4Y长城发动机 2.237L)
+I型(手动挡 4*2 丰田4Y长城发动机 2.237L)
 温馨版
 1.0L基本型
 温馨版
@@ -19345,15 +19272,10 @@ HFJ1011H
 HFJ1011GB
 厢货
 HFJ1011GB
-HC1020S(4×4
-4G64三菱发动机
-2.4L)
-HC1020S(4*2
-4JB1柴油机)
+HC1020S(4×4 4G64三菱发动机 2.4L)
+HC1020S(4*2 4JB1柴油机)
 HC1020S
-(4×2
-4G64三菱发动机
-2.4L)
+(4×2 4G64三菱发动机 2.4L)
 H3x
 H3
 H2
@@ -19865,26 +19787,19 @@ AT
 新发现
 新城市猎人BJ2020VE/V
 新城市猎人BJ2020VB/VA
-新主席(New
-Chairman)CM600S
+新主席(New Chairman)CM600S
 CH
-新主席(New
-Chairman)CM600S
+新主席(New Chairman)CM600S
 CD
-新主席(New
-Chairman)CM600L
+新主席(New Chairman)CM600L
 HDLX
-新主席(New
-Chairman)CM500S
+新主席(New Chairman)CM500S
 CS
-新主席(New
-Chairman)CM500S
+新主席(New Chairman)CM500S
 CH
-新主席(New
-Chairman)CM500S
+新主席(New Chairman)CM500S
 CD
-新主席(New
-Chairman)CM500L
+新主席(New Chairman)CM500L
 DLX
 新普力马
 自动豪华型SDX5
@@ -19944,17 +19859,13 @@ AT
 新胜达顶级型
 新胜达舒适型
 新世纪
-新雷斯特(New
-Rexton)RX320
+新雷斯特(New Rexton)RX320
 XS
-新雷斯特(New
-Rexton)RX320
+新雷斯特(New Rexton)RX320
 XH
-新雷斯特(New
-Rexton)RX320
+新雷斯特(New Rexton)RX320
 XD
-新雷斯特(New
-Rexton)RX280
+新雷斯特(New Rexton)RX280
 XS
 新325i
 手自一体时尚型
@@ -23892,9 +23803,7 @@ Power-Tech
 V8发动机。这些都充分地体现了Jeep4700是一款融合了高科技、高品质的国际知名品牌的高档SUV。它六次被美国权威的《四轮越野》杂志评为世界最佳四轮驱动越野车。该车型在2002年和2003年国产最佳SUV与越野车评选中，均以绝对优势的得票率荣登最佳国产SUV和越野车的榜首。这充分表明，北京吉普公司始终领导着中国四轮驱动车型生产的发展方向。8缸Jeep大切诺基定名为Jeep4700,
 6缸豪华型Jeep大切诺基定名为Jeep4000L,
 6缸舒适型Jeep大切诺基定名为Jeep4000。
-2.三菱帕杰罗SPORT(速跑)(Mitsubishi
-Pajero
-Sport)
+2.三菱帕杰罗SPORT(速跑)(Mitsubishi Pajero Sport)
 三菱帕杰罗SPORT是日本三菱汽车公司最新推出的全天候、全地形设计理念运动型多功能车的帕杰罗系列车型,
 是与国际同步生产的专业SUV。2002年6月4日，北京吉普公司与日本三菱汽车公司签署了在中国生产帕杰罗SPORT车型的协议，这是在中国生产的第一个以三菱品牌命名的产品。它是中国第一个使用三菱汽车商标，按三菱汽车标准制造的汽车；中国第一个使用帕杰罗品牌命名的SUV产品；中国第一个与日本同步生产的全新SUV产品；中国第一个由日本、美国、德国、新加坡及中国五国专家以质量门管理程序领导、组织生产的高质量产品；中国第一个以三菱汽车公司和北京吉普公司共同确定的网络进行销售和服务的产品；中国第一个共享三菱帕杰罗品牌、市场营销广告策略的产品。
 帕杰罗SPORT的优势还体现在以下方面：自动档车型配合制动防抱死系统(ABS)和电子制动力分配系统(EBD)；六缸车型采用加大尺寸(前16英寸、后15英寸)盘式制动器，大大增强紧急制动时的稳定性和安全性；环保型材质的内饰设计，确保乘员身体健康。如：座椅填充物由氟里昂发泡改为二氧化碳发泡工艺，消除车内的污染源，地毯、顶衬采用无甲醛制造工艺，采用环保型油漆及染色剂等等；2.4L发动机装备二个点火线圈，3.0L发动机装备三个点火线圈，配合电子点火系统，极大提高发动机工作可靠性；根据中国使用环境，空气滤清器增加预过滤器，以改善多尘环境下的发动机工作状况；带有驾驶习惯学习/反馈控制功能的自动变速器，可实现最佳驾驶感觉，提高驾驶乐趣；可在40－200Km/h大范围自由设定巡航控制系统；采用带同步器的四轮驱动系统，可在时速100公里以内轻松进行两轮驱动或四轮驱动切换，无需减速；前轮轮毂离合器采用电磁/真空控制系统，在切换两轮驱动或四轮驱动时，对前轮实现分离/结合自动控制，既提高燃油经济性，又无需驾驶员下车手动控制；全车采取了全方位减噪音设计，在进、排气系统、发动机平衡机构和变速箱谐振等方面采取了多方面改进设计，排放达到欧II标准；在车身、车架、桥壳和悬挂系统等方面进行了多项适应中国道路情况的改进。该车为适应中国路面情况，共进行了126项改进。2003年3月14日，BJC生产的帕杰罗SPORT正式在中国市场上市。
@@ -23907,18 +23816,10 @@ Sport)
 可以征服任何路面的、物美价廉的唯一民族品牌，中国越野车的先驱。合资后利用引进技术采用年度型改进方式先后推出了&quot;L&quot;、&quot;N&quot;、&quot;S&quot;、&quot;T&quot;、&quot;V&quot;等五轮改进产品，在性能、质量及符合国家法规等方面有了明显改善。目前，该产品分为：&quot;新城市猎人&quot;系列产品，包括BJ2020VA、BJ2020VB、BJ2020V、BJ2020VE四种车型；&quot;狂潮&quot;系列产品，包括BJ2020SGZ、BJ2020SMZ两种车型。
 5.军用轻型越野指挥车
 北京吉普汽车有限公司是中国人民解放军最早、最大的轻型越野指挥车定点生产和服务企业。2002年9月，中央军委批准了总装备部在北京吉普汽车有限公司正式启动中国人民解放军第二代0.5吨级军用越野车项目的研制、生产、列装工作，充分显示了企业强大的开发实力与综合技术水平。
-6.三菱欧蓝德（Mitsubishi
-Outlander)
+6.三菱欧蓝德（Mitsubishi Outlander)
 欧蓝德是中国制造的第一款全时全能轿车，我们说欧蓝德全时是因为它的优雅前卫的合理设计、综合技术性能让它成为全天侯的车型，无论在何时都能为驾驶员提供行车的乐趣，让乘客享受舒适的旅行；我们把欧蓝德定义为全能是因为它的全轮驱动和较高的离地间距，配合精悍动力，让它可以通过令一般轿车畏难止步的复杂路面，而它的宽敞内部空间和超大行李箱使它乘坐舒适和有相对充裕的载货能力。
 独辟蹊径的外观时尚前卫的欧蓝德为新生代的爱车一族带来自如穿梭于广阔天地的无穷乐趣。它安装有粘性联轴节装置的全轮驱动系统，大大增加了欧蓝德在严酷气候条件下的安全、牵引和操控性能；较高的离地间隙和车身，让欧蓝德拥有广阔的全方位视角，进出更为自如，可轻松通过阻碍一般轿车行进的障碍；欧蓝德运动模式的INVECS-II
-智能化自动手动一体化变速箱(INVECS：
-Intelligent
-and
-Innovative
-Vehicles
-Electronic
-Control
-System)全面提升了驾驶的便捷性，为驾驶者带来在手动和自动变速之间实现随心所欲转换的乐趣；2.4升、16气门的电控多点燃料喷射(ECI-MULTI)发动机能轻松满足不同动力要求，发动机在欧蓝德开始加速后能迅速达到最高扭矩，能在动力范围内的大多数条件下保持最高扭矩；异常牢固的单壳体车身，前后车厢均建造成可吸收冲击力的撞击缓冲区，配备安全带预张紧装置和束力限制器的安全带、前气囊、电子制动力分配控制功能、和防抱死系统都提升了欧蓝德的整体安全性能，为乘客提供最大化的保护。2004年1月10日，欧蓝德正式在中国市场上市销售。
+智能化自动手动一体化变速箱(INVECS： Intelligent and Innovative Vehicles Electronic Control System)全面提升了驾驶的便捷性，为驾驶者带来在手动和自动变速之间实现随心所欲转换的乐趣；2.4升、16气门的电控多点燃料喷射(ECI-MULTI)发动机能轻松满足不同动力要求，发动机在欧蓝德开始加速后能迅速达到最高扭矩，能在动力范围内的大多数条件下保持最高扭矩；异常牢固的单壳体车身，前后车厢均建造成可吸收冲击力的撞击缓冲区，配备安全带预张紧装置和束力限制器的安全带、前气囊、电子制动力分配控制功能、和防抱死系统都提升了欧蓝德的整体安全性能，为乘客提供最大化的保护。2004年1月10日，欧蓝德正式在中国市场上市销售。
 质量保证体系：
 &quot;追求卓越&quot;是北京吉普公司始终坚持的质量方针。2002年，在1999年已经通过国家ISO9000质量体系认证基础上，北京吉普公司开始全面贯彻实施ISO9000-2000版国际质量标准和更为严格的JB9001A-2001国家军用车质量标准，成为国内汽车行业第一批通过国军标双指标系列标准认证的企业之一。其生产产品能够全面满足军品车的要求。
 &quot;不把市场当试验场&quot;是指新产品投放市场之前，要经过3万公里法规试验、8万公里可靠性强化试验等多项产品验证(相当于正常行驶50万公里)，引进产品都要进行针对性改进。例如，为使引进的&quot;帕杰罗SPORT&quot;更加适合中国的道路条件和用户要求，中日双方合作对这一新车型进行了126项改进。
@@ -24620,8 +24521,7 @@ Reserved
 长安福特
 长安福特汽车有限公司（简称长安福特）成立于2001年4月25日，由中国最大的汽车公司之一长安汽车集团和世界领先的福特汽车公司共同出资成立。长安福特坐落于重庆市北部新区，厂区包括车身车间、涂装车间、总装车间、技术开发中心以及行政大楼等主体建筑。长安福特采用了世界一流的产品生产、开发和测试设备，以及全球领先的技术、流程和系统。凭借这些极具实力的软、硬件设施，长安福特对于为中国消费者提供切合需求的产品以及前所未有的驾驶体验充满信心。长安福特已经建立起了遍布全国的福特品牌经销商网络，让中国消费者享受到世界级的标准服务。同时公司为供应商建立起了一套严格的标准，以确保其零部件的品质与世界水平同步。长安福特是富于社会责任感的企业公民，强调环境保护。从产品，服务到工艺、设备全部按照环保标准设计运行。中国政府对长安福特及其产品非常关注，期望很高。中共中央总书记、国家主席胡锦涛，李鹏委员长，钱其琛副总理，石广生部长等多位国家领导人先后亲自视察了公司，并给予了很高的评价。2003年1月18日，长安福特首款车型福特嘉年华正式下线。李鹏委员长亲自为当日下线的新车揭幕，并为新车签名留念。2003年3月，福特嘉年华正式上市。2003年6月16日，福特汽车公司百年华诞。2004年2月，长安福特在桂林发布了全球同步的2004款全新福特蒙迪欧（Mondeo）。
 旗下车型:
-[蒙迪欧][Mazda3][S-MAX][VOLVO
-S40][福克斯][嘉年华]
+[蒙迪欧][Mazda3][S-MAX][VOLVO S40][福克斯][嘉年华]
 关于腾讯
 |
 About
@@ -25169,8 +25069,7 @@ Reserved
 25-30万
 30万以上
 东风本田
-东风本田发动机有限公司（简称东风本田）是由东风汽车公司和本田技研工业株式会社共同投资，于1998年7月1日创建的合资企业。东风本田负责开发、生产、销售轿车用的发动机、变速箱及其零部件，并提供相应的售后服务，与广州本田汽车有限公司（简称广州本田）共同构成新的广州轿车项目，产品主要用于广州本田生产的雅阁(ACCORD)、奥德赛(ODYSSEY)及飞度（Fit
-Saloon)系列车型。东风本田一贯致力于引领当今乘用车动力领域技术发展方向，走科技创新道路，在充分消化、吸收本田公司技术的基础上，以高效、柔软化的生产线，实现了包含毛坯压铸、机械加工、装配及试验在内的有别于其他同类企业的全过程一体化生产，生产的产品达到本田公司质量标准和实物水平。秉承&quot;以建立国际企业为目标，通过向顾客提供世界最高水平发动机和服务，贡献社会&quot;的宗旨，东风本田始终追求高品质、高技术、高附加值的产品，在发动机、变速箱、等速传动轴等领域，正在向具有世界水平的轿车动力总成制造厂不断迈进。
+东风本田发动机有限公司（简称东风本田）是由东风汽车公司和本田技研工业株式会社共同投资，于1998年7月1日创建的合资企业。东风本田负责开发、生产、销售轿车用的发动机、变速箱及其零部件，并提供相应的售后服务，与广州本田汽车有限公司（简称广州本田）共同构成新的广州轿车项目，产品主要用于广州本田生产的雅阁(ACCORD)、奥德赛(ODYSSEY)及飞度（Fit Saloon)系列车型。东风本田一贯致力于引领当今乘用车动力领域技术发展方向，走科技创新道路，在充分消化、吸收本田公司技术的基础上，以高效、柔软化的生产线，实现了包含毛坯压铸、机械加工、装配及试验在内的有别于其他同类企业的全过程一体化生产，生产的产品达到本田公司质量标准和实物水平。秉承&quot;以建立国际企业为目标，通过向顾客提供世界最高水平发动机和服务，贡献社会&quot;的宗旨，东风本田始终追求高品质、高技术、高附加值的产品，在发动机、变速箱、等速传动轴等领域，正在向具有世界水平的轿车动力总成制造厂不断迈进。
 旗下车型:
 [CIVIC(思域)][CR-V]
 关于腾讯
@@ -27366,8 +27265,7 @@ Reserved
 年4月，总资产近30亿元，双方各持股50%。按照&quot;一次规划，滚动发展&quot;的战略，公司将在未来的两至三年内达到年产15万辆轿车的生产能力，以多品种、全系列的车型跻身于国内骨干轿车企业之列。公司坐落于南京市江宁区高新技术工业园，占地面积64万平方米，总建筑面积27万平方米，主要工装设备均从国外引进。公司各部门运作模式均与国际接轨，建立了完善的质量管理与评测体系，实行菲亚特汽车公司全球通用的三项指标检测方法，确保轿车品质与世界水平同步。运用菲亚特全球技术开发平台的优势，南京菲亚特合资公司于2002年开始陆续在国内推出与世界同步的派力奥轿车、西耶那轿车和菲亚特·周末风旅行轿车。派力奥是入世以后在国内面市的第一款具有国际水准的紧凑型两厢车，以卓异的性价比为家庭轿车树立了崭新标准；而西耶那则是一款充满经典韵味又不失现代感的三厢轿车，涵盖了从家庭到公务和商务的广阔用途。菲亚特·周末风是南京菲亚特推出的最新一代旅行轿车。她的问世，契合了中国消费者对美好生活的更高向往，成为引领国内旅行轿车市场迅猛发展的潮流先锋。
 三款车型的外形设计均出自二十世纪汽车设计大师乔治亚罗先生的手笔，洋溢着经典的意大利时尚风格，同时大量采用了同级别轿车中所罕见的高级配置。派力奥、西耶那和菲亚特·周末风的顶级版本Speedgear车型系列，配备了全球最高端技术手动/自动一体化电控无级变速器（ECVT），打破了高档轿车和运动型跑车对此类高新技术的垄断局面，堪称是中国汽车核心技术领域的一次普及性革命。与菲亚特的世界级的产品相匹配，南京菲亚特合资公司构筑了具有国际水准的市场营销服务平台，建立集&quot;整车销售、维修服务、配件供应、客户满意&quot;于一体的&quot;4S&quot;销售服务体系，在营销观念和服务质量上达到菲亚特汽车的全球标准。截至2003年底共有80家4S店，31家以售后服务为主的2S店，遍布全国的数十家南京菲亚特4S店具有宽敞舒适的购车环境、专业维修设备、正宗零部件，具有专业技能的服务人员，满足客户从购车到用车的一切需求。2003年初南京菲亚特进一步提出了打造顶级服务品牌的战略目标，全面提升企业服务水准和内涵，探求服务价值的跃升,相继推出了为客户提供一年四季六次免费检测服务的&quot;爱车呵护&quot;服务计划，旨在提高服务质量的经销商全国岗位技能竞赛。同时为客户提供便捷专业的咨询投诉服务的CALL
 CENTER客户服务中心也已启用，实现企业与市场、客户的互动。服务已成为南京菲亚特角逐市场成败的关键谋局。2003年4月，南京菲亚特通过了中国质量认证中心对公司产品认证的质量管理体系和3C认证产品的现场评审；
-2003年8月，通过了中国汽车产品认证委员会质量体系认证中心（天津华诚认证中心）对公司年度的质量体系运行的监督审核；2003年12月又通过了华诚认证中心对公司环境/职业健康安全管理体系（ISO
-14000/OSHMS18000）的审核。秉承百年菲亚特澎湃不息的创新精神和人文关怀，凝聚合作双方的心血智慧，南京菲亚特不断将世界最优秀的科技、最前沿的理念带给中国汽车消费者。派力奥、西耶那轿车以及菲亚特·周末风旅行轿车投放市场以来，受到了广大消费者的喜爱，获得多项车型评比大奖。市场占有率和美誉度与日俱增。从派力奥登上长城，西耶那浮现西子湖畔，直到菲亚特·周末风在南京音乐台奏响华章，南京菲亚特不断寻求品牌与文化的对接。在研发、制造、营销、服务等各个领域，南京菲亚特每天都在寻求对昨天的超越。2004年初，南京菲亚特
+2003年8月，通过了中国汽车产品认证委员会质量体系认证中心（天津华诚认证中心）对公司年度的质量体系运行的监督审核；2003年12月又通过了华诚认证中心对公司环境/职业健康安全管理体系（ISO 14000/OSHMS18000）的审核。秉承百年菲亚特澎湃不息的创新精神和人文关怀，凝聚合作双方的心血智慧，南京菲亚特不断将世界最优秀的科技、最前沿的理念带给中国汽车消费者。派力奥、西耶那轿车以及菲亚特·周末风旅行轿车投放市场以来，受到了广大消费者的喜爱，获得多项车型评比大奖。市场占有率和美誉度与日俱增。从派力奥登上长城，西耶那浮现西子湖畔，直到菲亚特·周末风在南京音乐台奏响华章，南京菲亚特不断寻求品牌与文化的对接。在研发、制造、营销、服务等各个领域，南京菲亚特每天都在寻求对昨天的超越。2004年初，南京菲亚特
 综合分析中国消费市场特性，以用户使用的反馈信息为依据，以满足消费者集中需求为根本，对汽车的各项功能做更具贴切的改进，推出了南京菲亚特派力奥、西耶那、菲亚特
 ·周末风2004升级款，以&quot;想你所想&quot;的理念完善了产品系列，给消费者提供了更多的选择空间。南京菲亚特立足客户满意，以丰富的产品链涵盖不同的细分市场，满足不同客户的多重需求，使客户不必再迁就。派力奥、西耶那与菲亚特·周末风，南京菲亚特的三款力作形成三驾马车，在中国汽车细分市场纵横驰骋，展现了公司雄厚的市场竞争能力。南京菲亚特刻意求新，不断进取，在中国汽车细分市场独领风骚。
 旗下车型:
@@ -27585,10 +27483,7 @@ Reserved
 25-30万
 30万以上
 奇瑞汽车
-奇瑞（CHERY）公司成立于1997年，全称上汽集团奇瑞汽车有限公司（SAIC
-CHERY
-AUTOMOBILE
-CO;LTD）。一期工程总投资17.52亿元人民币，总占地面积80多万平方米，具备年产30万台发动机和10万辆整车的生产能力。2001年12月，二期工程正式启动，工程投资25亿元人民币，占地面积30多万平方米，建筑面积20多万平方米。2003年3月，二期工程全面竣工并投入使用，至此，奇瑞公司形成年产15万辆整车的生产能力。2003年4月1日，第三期工程开工建设。奇瑞公司全部采用最新工艺的钢结构厂房，冲压、涂装、焊接，总装四大工艺采用国际先进技术和设备。公司拥有整车外形等十多项专利技术,先后推出了SQR系列发动机和&quot;奇瑞·风云&quot;系列轿车，2003年4月推出&quot;奇瑞·QQ&quot;系列和&quot;奇瑞·东方之子&quot;系列轿车。奇瑞公司成立以来，在不到两年的时间里顺利实现3万辆轿车下线。2002年，奇瑞轿车产销量双双突破5万辆，比上年同比增长78.11%，在国内汽车市场占有率达到4.4%，成功跻身国内轿车行业&quot;八强&quot;之列，成为行业内公认的车坛&quot;黑马&quot;。与此同时，奇瑞轿车还连创五个国内第一，六次走出国门，以自己的不懈努力创造了中国汽车史上的奇迹。
+奇瑞（CHERY）公司成立于1997年，全称上汽集团奇瑞汽车有限公司（SAIC CHERY AUTOMOBILE CO;LTD）。一期工程总投资17.52亿元人民币，总占地面积80多万平方米，具备年产30万台发动机和10万辆整车的生产能力。2001年12月，二期工程正式启动，工程投资25亿元人民币，占地面积30多万平方米，建筑面积20多万平方米。2003年3月，二期工程全面竣工并投入使用，至此，奇瑞公司形成年产15万辆整车的生产能力。2003年4月1日，第三期工程开工建设。奇瑞公司全部采用最新工艺的钢结构厂房，冲压、涂装、焊接，总装四大工艺采用国际先进技术和设备。公司拥有整车外形等十多项专利技术,先后推出了SQR系列发动机和&quot;奇瑞·风云&quot;系列轿车，2003年4月推出&quot;奇瑞·QQ&quot;系列和&quot;奇瑞·东方之子&quot;系列轿车。奇瑞公司成立以来，在不到两年的时间里顺利实现3万辆轿车下线。2002年，奇瑞轿车产销量双双突破5万辆，比上年同比增长78.11%，在国内汽车市场占有率达到4.4%，成功跻身国内轿车行业&quot;八强&quot;之列，成为行业内公认的车坛&quot;黑马&quot;。与此同时，奇瑞轿车还连创五个国内第一，六次走出国门，以自己的不懈努力创造了中国汽车史上的奇迹。
 旗下车型:
 [A5][瑞虎][瑞虎3][QQ][QQ6][V5][旗云][奇瑞A1][东方之子][东方之子Cross][风云]
 关于腾讯
@@ -27805,9 +27700,7 @@ Reserved
 30万以上
 上海大众
 上海大众汽车有限公司
-(
-以下简称上海大众
-)
+( 以下简称上海大众 )
 是中德合资的轿车生产企业,
 成立于1985年3月。
 公司中德双方的投资比例各占50%,
@@ -28169,8 +28062,7 @@ Reserved
 上海通用
 上海通用汽车有限公司是上海汽车工业（集团）总公司和美国通用汽车公司各投资50%组建而成的迄今为止我国最大的中美合资企业，总投资为15.2亿美元。上海通用汽车成立于1997年6月，从打下第一根桩到1998年12月第一辆中国别克新世纪下线仅用了23个月，创造了我国汽车工业建设史上的新速度。1998年上海市政府把上海通用汽车列为上海市一号重点工程，同时也被美国通用汽车公司列为全球一号战略项目。上海通用汽车又是我国汽车工业产业政策颁布后首家在开始批产时即达到40%以上国产化率的轿车制造企业。1999年12月，公司又推出别克GL8公务商务旅行车，离第一辆别克新世纪下线仅一年时间。2000年4月，上海通用汽车根据市场需求，又推出新款别克GS轿车，三个月后，为了满足市场的需求，又推出别克G型轿车，这种连续推出新款的速度创造了我国汽车史上的新记录。上海通用汽车占地面积55万平方米，建筑面积23万平方米，共有冲压、车身、油漆、总装和动力总成五大车间。公司不但引进了国际上最先进的轿车产品、汽车制造工艺和设备，而且同时引进了通用汽车公司先进的管理方法。公司严格按照精益生产原则规划、设计、建设和管理工厂，五大车间采用模块化设计，柔性化生产，可以实现多个车型共线生产，满足市场多元需要。产品销售实行单层次市场拉动式营销体系和品牌经营战略，直接面向用户，对市场信息和用户需求快速反应。逐步扩大和完善的销售服务和售后服务网络，向用户提供了高品质的产品和服务。上海通用汽车将计算机信息技术应用于公司业务的各个领域，公司的信息系统无论硬件还是软件都是目前国内汽车行业最先进的，不仅为公司各项业务提供强有力的技术支持，而且可以和通用汽车公司全球网络联网。上海通用汽车于2000年5月26日通过了上海质量体系审核中心(SAC)和挪威船级社(DNV)的联合质量体系评审，成为中国汽车行业中第一个获得QS-9000认可的汽车制造公司，同时也成为GM系统首家满足QS-9000标准的总装厂。上海通用汽车生产的别克汽车是在通用汽车公司同步生产的最新车型的基础上，根据中国路况、法规要求和市场需要进行了多项适应性改进。目前系列产品包括别克GS、别克新世纪、别克GLX、别克GL和别克G等五款中高档轿车、别克GL8公务商务旅行车和别克赛欧紧凑型轿车。在&quot;以顾客为中心&quot;的经营原则指导下，上海通用汽车将不懈努力继续推出新车型，以多元产品满足市场多元需求，并不断创造中国汽车工业新记录。
 旗下车型:
-[林荫大道][乐骋][乐风][新赛欧][荣御][赛欧][GL8][SLS
-赛威][别克][君威][君越][景程][凯越][凯迪拉克CTS][凯迪拉克SRX][凯迪拉克XLR]
+[林荫大道][乐骋][乐风][新赛欧][荣御][赛欧][GL8][SLS 赛威][别克][君威][君越][景程][凯越][凯迪拉克CTS][凯迪拉克SRX][凯迪拉克XLR]
 关于腾讯
 |
 About
@@ -30015,12 +29907,9 @@ Reserved
 25-30万
 30万以上
 一汽轿车
-一汽轿车股份有限公司(FAW
-CAR
-CO.,LTD.)成立于1997年6月10日，6月18日在深圳证券交易所上市；公司简称&quot;一汽轿车&quot;，股票代码000800，注册资本金注册10.5亿元。这是中国轿车制造业第一个上市公司。公司隶属行业为制造业；企业性质为国有有限股份制上市公司。公司经营范围为轿车、发动机、变速器、汽车配件的制造和销售及相关服务。公司新基地位于长春高新技术产业开发区，2004年7月建成投产，一期规划占地面积88万平方米，建有冲压、焊装、涂装、总装四大工艺，由10万辆的整车生产能力起步。公司主导产品为红旗系列轿车及其补充型新产品。&quot;红旗&quot;属于一汽的自有品牌、自有商标，诞生于1958年。&quot;红旗&quot;作为一汽的无形资产，自公司成立后，其品牌价值随着企业的经营业绩逐年提升，2003年已经达到人民币52.48亿元，位居中国轿车制造业最有价值品牌首位。
+一汽轿车股份有限公司(FAW CAR CO.,LTD.)成立于1997年6月10日，6月18日在深圳证券交易所上市；公司简称&quot;一汽轿车&quot;，股票代码000800，注册资本金注册10.5亿元。这是中国轿车制造业第一个上市公司。公司隶属行业为制造业；企业性质为国有有限股份制上市公司。公司经营范围为轿车、发动机、变速器、汽车配件的制造和销售及相关服务。公司新基地位于长春高新技术产业开发区，2004年7月建成投产，一期规划占地面积88万平方米，建有冲压、焊装、涂装、总装四大工艺，由10万辆的整车生产能力起步。公司主导产品为红旗系列轿车及其补充型新产品。&quot;红旗&quot;属于一汽的自有品牌、自有商标，诞生于1958年。&quot;红旗&quot;作为一汽的无形资产，自公司成立后，其品牌价值随着企业的经营业绩逐年提升，2003年已经达到人民币52.48亿元，位居中国轿车制造业最有价值品牌首位。
 旗下车型:
-[马自达6][马自达6轿跑车][明仕][世纪星][Mazda6
-多功能轿车][奔腾][红旗HQ3]
+[马自达6][马自达6轿跑车][明仕][世纪星][Mazda6 多功能轿车][奔腾][红旗HQ3]
 关于腾讯
 |
 About
@@ -31980,9 +31869,7 @@ Reserved
 2003
 年
 3
-月通过了国家质量认证中心（
-CQC
-）的第三方认证，并于
+月通过了国家质量认证中心（ CQC ）的第三方认证，并于
 5
 月份颁发了
 3C
@@ -33180,8 +33067,7 @@ Reserved
 1949年8月，二汽缸98CC的&quot;梦&quot;Ｄ型机车初具雏型，本田立即著手改良，1951年的10月，&quot;梦&quot;Ｅ型机车开发成功，这是日本第一部四冲程引擎机车，较原型车的排气量增加了50%，而马力则提升了80%，这款高功率OHV式引擎，领先日本其他机车厂十年之遥。正当业务日益开展之际，1954年的5月，本田技研因经济不景气，而遭遇首次财务危机，本田以全力准备参加当时最具规模的英国&quot;曼岛观光杯机车赛&quot;，来提振士气，结果大伙克服汽化器的毛病，重新推出改良后的便利型及新型的努力号机车，更将原本滞销的卡雾号机车停产。就在这事业的低潮期，本田将销售的责任交托给副总经理藤泽武夫，自己则专门研究制造，这种产销分离的产业模式，不仅成为其他同业研究采行的范本，也使本田技研巧度难关，正式迈向辉煌成功的坦途。1959年是本田工业的关键年，6月间投资成立了美国本田机车公司。不久又打败拥有五十多年比赛经验的欧美机车公司，勇夺英国曼岛观光杯125CC机车组冠军，默默无名的本田机车，自此扬眉吐气，迈入领先群雄的光辉年代。1960年的7月，本田创立了&quot;研究发展中心&quot;，并正式更名为&quot;本田技研工业&quot;，这个人事独立，在每年编列公司营收2.5%经费支持下的研发中心，不断的推陈出新，为本田技研在世界车坛的激烈竞争中稳操胜算。次年6月，本田机车囊括曼岛机车大赛125CC及250CC组一至五名，就是最好的证明。在世界性的机车大赛中一再夺魁，使得本田朝向高一级的汽车世界伸展雄心；首先是1963年8月，T360型轻卡车问市，同年10月间，轻型跑车S500推出。次年1月间，本田郑重宣布&quot;加入F1GP大赛！&quot;不久，更强劲的S600跑车现身，在1965年10月的墨西哥GP大赛中首次抡元。1966年1月800系列的各款跑车陆续问世，而9月间的世界机车冠军赛，本田更囊括了50,125,250,350及500CC各组的冠军，造就机车赛车史上的空前佳绩。接著，1967年3月，使用气冷式引擎，可以输出31匹马力，极速达115公里的N360型小轿车推出，塑造了经济、省油的&quot;本田汽车&quot;的良好形象。1972年7月，配置CVCC引擎的第一代喜美车上市，这款高燃率而低公害的引擎，竟然符合预定三年后(1975年)实施的美国废气排放标准，不仅在美国市场建立信誉,更在世界车坛树立了全新的汽车产业竞争标的。自从1965年，在墨西哥GP大赛中，代表日本的赛车初获F1冠军后，1967年9月再于义大利赢得胜利。在F2赛车方面，本田赛车于1966年的全球赛事中连胜八场，1967年则连胜十一场。就在捷报频传之时，本田赛车突然由1968年起，从F1赛事中&quot;缺席&quot;，虽然本田的XL500R赛车，夺得1982年巴黎－达卡越野赛的冠军。但是，直到1983年的7月，英国银石赛车场的赛道上，才又见本田F1赛车的雄姿，&quot;失踪&quot;十五年的原因何在，迄今仍是个谜。1984年七月，由罗斯堡驾驶的威廉斯－本田F1赛车，勇夺美国达拉斯GP大赛冠军，为本田重返F1赛事再启胜利的大门，在这期间，本田的迷你车&quot;Today&quot;及大型豪华轿车&quot;Legend&quot;相继问市，本田汽车王国架构愈加密实。本田于1982年11月，首先在俄亥俄州开工生产雅哥汽车，初期年产六万辆，而今已成为美国仅次于通用、福特的第三大汽车厂。并且于1988年4月，将在美国制造的双门雅哥跑车回销日本，造成世界车坛极大的轰动，更在有&quot;汽车王国&quot;令誉的美国车界，谱起一曲&quot;传奇&quot;乐章.随著本田ACURA
 NSX跑车攻入美国汽车消费市场金字塔的顶端－超级跑车客层，本田汽车已完全成功的打进世界两大车市之一的北美汽车市场。至于另一个重要的车市－欧洲共同市场，本田也已做好布署，随时可以由早年的布放在英国、比利时、法国的据点，建立销售网路。反倒是在日本国内，受限于昂贵的地价，尚待努力开拓行销据点，加强行销通路，这种外销亨通，内售拘紧的产销情境，却也是世界车坛少有的奇景。笔者曾有机会访问质量均属上乘的德国福斯，奥迪，BMW等三家车厂的高阶人员，当询及&quot;最强劲的对手是谁？&quot;时，答案竟然不约而同的是&quot;本田&quot;：除了自1986年以来，六连胜的F1赛车冠军实绩，让人敬仰与深思的该是本田的造车哲学－放眼世界，依顾客的需求，生产性能优良而价格廉宜的汽车。
 旗下车型:
-[讴歌][本田
-CR-V][本田里程][本田小溪][本田时韵][本田思域][本田元素]
+[讴歌][本田 CR-V][本田里程][本田小溪][本田时韵][本田思域][本田元素]
 关于腾讯
 |
 About
@@ -33399,9 +33285,7 @@ Reserved
 大众汽车集团在德国、比利时、英国、波黑、西班牙、匈牙利、意大利、波兰、葡萄牙、捷克、斯洛伐克、美国、墨西哥、巴西、阿根廷、南非、以色列、印度、澳大利亚、日本和中国建有68家全资和参股企业，业务领域包括汽车的研发、生产、销售、物流、服务、汽车零部件、汽车租赁、金融服务、汽车保险、银行、IT服务等，同时集团在全世界各地设有联络机构和销售服务网络。截止2002年年底，大众汽车集团在全球提供了32.48万个工作岗位。
 大众汽车始终坚持技术创新和质量第一的宗旨，致力于研制并生产技术先进、质量优异、具有最佳性能价格比、力争满足所有消费者需求的汽车产品。世界汽车史上产销量最高的轿车-甲壳虫和高尔夫，均是大众汽车的杰作。进入新世纪以来，大众汽车没有满足于已取得的辉煌成果，而是以富于前瞻性的眼光和极大的勇气进行战略调整，努力提高研究开发水平，扩大车型品种，加大在中国等新兴市场的投资。
 旗下车型:
-[蓝博基尼Murcielago][蓝博基尼盖拉多][斯柯达速派][斯柯达欧雅][斯柯达法比亚][夏朗][途锐][PASSTA][奥迪A4(进口)][奥迪A6(进口)][奥迪A8][奥迪Allroad
-quattro][奥迪Q7][奥迪TT][宾利Arange][宾利欧陆][高尔夫
-GTI][辉腾][甲壳虫]
+[蓝博基尼Murcielago][蓝博基尼盖拉多][斯柯达速派][斯柯达欧雅][斯柯达法比亚][夏朗][途锐][PASSTA][奥迪A4(进口)][奥迪A6(进口)][奥迪A8][奥迪Allroad quattro][奥迪Q7][奥迪TT][宾利Arange][宾利欧陆][高尔夫 GTI][辉腾][甲壳虫]
 关于腾讯
 |
 About
@@ -33511,10 +33395,7 @@ Reserved
 合并之前，戴姆勒-奔驰公司在世界高级轿车和6吨以上卡车市场占领导地位。克莱斯勒公司在美国三大汽车公司排名第三，在面包车市场占领先地位。合并后的公司为世界第三大汽车生产商。
 2000年4月戴姆勒-克莱斯勒宣布参股日本三菱汽车公司(33%)。同年6月戴姆勒-克莱斯勒宣布参股汉韩国现代汽车公司(10%)。
 旗下车型:
-[迈巴赫57][迈巴赫62][CLS
-系列][三菱蓝瑟][三菱帕杰罗][三菱戈兰][三菱格蓝迪][Grand
-Cherokee][Lancer
-Evolution][指挥官][奔驰凌特(Sprinter)][奔驰A系列][奔驰马可波罗][奔驰C系列][奔驰CLK系列][奔驰CLS系列][奔驰E系列][奔驰G系列][奔驰ML系列][奔驰S系列][奔驰SL系列][奔驰SLK系列][奔驰VITO][大捷龙][道奇公羊][公羊皮卡][精灵纯洁][精灵节奏][克莱斯勒300C][克莱斯勒300M][克莱斯勒PT漫步者][克莱斯勒大捷龙][克莱斯勒交叉火力][克莱斯勒君王]
+[迈巴赫57][迈巴赫62][CLS 系列][三菱蓝瑟][三菱帕杰罗][三菱戈兰][三菱格蓝迪][Grand Cherokee][Lancer Evolution][指挥官][奔驰凌特(Sprinter)][奔驰A系列][奔驰马可波罗][奔驰C系列][奔驰CLK系列][奔驰CLS系列][奔驰E系列][奔驰G系列][奔驰ML系列][奔驰S系列][奔驰SL系列][奔驰SLK系列][奔驰VITO][大捷龙][道奇公羊][公羊皮卡][精灵纯洁][精灵节奏][克莱斯勒300C][克莱斯勒300M][克莱斯勒PT漫步者][克莱斯勒大捷龙][克莱斯勒交叉火力][克莱斯勒君王]
 关于腾讯
 |
 About
@@ -33622,12 +33503,7 @@ Reserved
 菲亚特汽车
 世界十大汽车公司之一，菲亚特汽车公司始建于1899年7月意大利都灵市，创始人是乔瓦尼·阿涅利。它是世界上第一个生产微型车的汽车生产厂家。这家公司的全称是意大利都灵汽车制造厂，菲亚特(FIAT)是该公司缩写的译音，FIAT也是该公司产品的商标。菲亚特集团总部设在意大利都灵市，现任董事长是创始人的长孙，和他同名，也叫乔瓦尼·阿涅利。汽车部雇员27万右，在100多个国家有子公司和销售机构。其轿车部门主要有菲亚特、法拉利、阿尔法和蓝旗亚等公司。工程车辆公司有伊维柯公司。菲亚特汽车集团是意大利最大的综合工商金融企业集团，它是所有汽车公司中涉足其他领域最多的汽车集团。在意大利它几乎垄断了汽车、拖拉机、工程机械、飞机制造、生物工程和土木工程、能源工程等许多技术生产领域，并在全世界开办了许多分支机构。
 旗下车型:
-[玛莎拉蒂GT][玛莎拉蒂spyder][蓝旗亚Thesis][阿尔法&#183;罗米欧156][阿尔法&#183;罗米欧166][阿尔法&#183;罗米欧Gtv][菲亚特Doblo][菲亚特Stilo][法拉利360
-Modena][法拉利456M
-GT][法拉利456M
-GTA][法拉利575M
-Maranello][法拉利612
-Scaglietti][法拉利F430]
+[玛莎拉蒂GT][玛莎拉蒂spyder][蓝旗亚Thesis][阿尔法&#183;罗米欧156][阿尔法&#183;罗米欧166][阿尔法&#183;罗米欧Gtv][菲亚特Doblo][菲亚特Stilo][法拉利360 Modena][法拉利456M GT][法拉利456M GTA][法拉利575M Maranello][法拉利612 Scaglietti][法拉利F430]
 关于腾讯
 |
 About
@@ -33855,9 +33731,7 @@ Reserved
 1914年
 宣布8小时日工资为5美元（取代了9小时2.34美元的工资标准），吸引了数万名求职者。
 旗下车型:
-[马自达][马自达MPV][马自达RX-8][林肯领航员][林肯LS][林肯城市][林肯黑森林][路虎揽胜][路虎神行者][路虎卫士][路虎发现][S40][S80][Volvo
-XC90][VolvoS60][VolvoV70][阿斯顿&#183;马丁DB9][阿斯顿&#183;马丁V12
-Vanquish][福特E系列商务车][福特探索者][福特翼虎][福特野马][捷豹S-TYPE][捷豹XJ][捷豹XK]
+[马自达][马自达MPV][马自达RX-8][林肯领航员][林肯LS][林肯城市][林肯黑森林][路虎揽胜][路虎神行者][路虎卫士][路虎发现][S40][S80][Volvo XC90][VolvoS60][VolvoV70][阿斯顿&#183;马丁DB9][阿斯顿&#183;马丁V12 Vanquish][福特E系列商务车][福特探索者][福特翼虎][福特野马][捷豹S-TYPE][捷豹XJ][捷豹XK]
 关于腾讯
 |
 About
@@ -34083,12 +33957,10 @@ Six带着这独特的吉祥物在参加Blue
 Train车赛时穿越法国。
 最大的Rover维京人形象吉祥物，出现在1963年的Rover
 2000型上，它安装在散热器格栅的中央。
-威廉·莫丽斯(William
-Morris)，可被视为英国汽车工业的开创之父。1910年，他成为Morris
+威廉·莫丽斯(William Morris)，可被视为英国汽车工业的开创之父。1910年，他成为Morris
 Garages的老板，是牛津的首位汽车销售商。三年之后，他实现了他的雄心壮志，当第一辆Morris轿车在牛津附近的Cowley投入生产时，宣告他又成为了一个汽车制造商。
 由于莫丽斯把他的时间和精力投入到汽车制造业中，他原先的商务委托给了总经理。1922年，塞西尔
-金伯(Cecil
-Kimber)被任命该职位。金伯是一个汽车爱好者，曾在英国好几家汽车公司工作过。他尤其热衷于跑车，并拥有相当的设计天赋，设计出了吸引人们眼球的漂亮车身。
+金伯(Cecil Kimber)被任命该职位。金伯是一个汽车爱好者，曾在英国好几家汽车公司工作过。他尤其热衷于跑车，并拥有相当的设计天赋，设计出了吸引人们眼球的漂亮车身。
 金伯为了强调他的汽车不仅仅是对Morris车的改进。所以他以八角形形状来作为MG车的标志，从而使得原先椭圆形仪表让位于八角形式样。1923年，第一个MG标志出现在车身上。
 人们认为，八角形象征着热情、忠诚。顾客们也认为拥有了他们精选的上等品牌。于是，以一传十，以十传百，大大强化了汽车爱好者一族的吸引力，产生一往情深的魅力。另外，英国乃至世界的汽车运动也迅速提升了MG品牌的声誉和威望。
 引人入胜的八角形标志，很快成为一个真正不同于一般的标识，公司很快注意到用户喜欢炫耀MG品牌。因此，根据使用八角形徽章的传统或是简化八角形的形状，使得在车子的周围作出了创造性的应用：八角形徽章被镶嵌在铝制的下部围护侧板和加速踏板上，MG轮毂代替了标准的Morris轮毂，甚至在杂物箱也有MG的标志。八角形MG的品牌标志是世界上最流行的运动汽车品牌，它映衬着无数车赛获胜者的音容笑貌，更记录了经典赛车的历史篇章。
@@ -34199,10 +34071,7 @@ Reserved
 25-30万
 30万以上
 双龙汽车
-双龙汽车公司(SSANG
-YONG
-Motor
-Company)其前身为创立于1954年的东亚汽车公司，1986年10月并入双龙集团，1988年3月更名为双龙汽车公司。以犀牛牌四轮驱动吉普车和克兰多牌家用型吉普车为代表的双龙汽车，已出口到欧洲、亚洲、中南美洲及非洲等60多个国家和地区。双龙汽车从专门生产四轮驱动越野车和特种车起家，后与德国奔驰汽车公司合资，引进先进技术，发展成为综合性的汽车制造企业。
+双龙汽车公司(SSANG YONG Motor Company)其前身为创立于1954年的东亚汽车公司，1986年10月并入双龙集团，1988年3月更名为双龙汽车公司。以犀牛牌四轮驱动吉普车和克兰多牌家用型吉普车为代表的双龙汽车，已出口到欧洲、亚洲、中南美洲及非洲等60多个国家和地区。双龙汽车从专门生产四轮驱动越野车和特种车起家，后与德国奔驰汽车公司合资，引进先进技术，发展成为综合性的汽车制造企业。
 旗下车型:
 [双龙路帝（Rodius）][双龙雷斯特][双龙新雷斯特II][双龙享御KYRON][双龙主席][双龙爱腾(Actyon)][双龙科兰德]
 关于腾讯
@@ -34310,9 +34179,7 @@ Reserved
 25-30万
 30万以上
 通用汽车
-通用汽车公司是世界上最大的汽车公司，年工业总产值达1000多亿美圆。其标志GM取自其英文名称（General
-Motro
-Corporation）的前两个单词的第一个字母。它是由威廉·杜兰特于1908年9月在别克汽车公司的基础上发展起来的，成立于美国的汽车城底特律。现总部仍设在底特律。通用汽车公司在美国最大五百家企业中居首位，在世界最大工业企业中位居第二。它在美国及世界各地雇员达80万人，分布在世界上40个国家和地区，通用家族每年的汽车总产量达900万辆。通用汽车公司是美国最早实行股份制和专家集团管理的特大型企业之一。通用汽车公司生产的汽车，典型地表现了美国汽车豪华、宽大、内部舒适、速度快、储备功率大等特点。而且通用汽车公司尤其重视质量和新技术的采用。因而通用汽车公司的产品始终在用户心中享有盛誉。通用汽车公司与菲亚特、铃木、五十铃、富士重工汽车公司结成合作伙伴关系。
+通用汽车公司是世界上最大的汽车公司，年工业总产值达1000多亿美圆。其标志GM取自其英文名称（General Motro Corporation）的前两个单词的第一个字母。它是由威廉·杜兰特于1908年9月在别克汽车公司的基础上发展起来的，成立于美国的汽车城底特律。现总部仍设在底特律。通用汽车公司在美国最大五百家企业中居首位，在世界最大工业企业中位居第二。它在美国及世界各地雇员达80万人，分布在世界上40个国家和地区，通用家族每年的汽车总产量达900万辆。通用汽车公司是美国最早实行股份制和专家集团管理的特大型企业之一。通用汽车公司生产的汽车，典型地表现了美国汽车豪华、宽大、内部舒适、速度快、储备功率大等特点。而且通用汽车公司尤其重视质量和新技术的采用。因而通用汽车公司的产品始终在用户心中享有盛誉。通用汽车公司与菲亚特、铃木、五十铃、富士重工汽车公司结成合作伙伴关系。
 旗下车型:
 [C70][DTS][萨博9-3][萨博9-5][雪佛兰克尔维特][旁蒂克][欧宝赛飞利][欧宝威达][欧宝雅特][欧宝欧捷利][大宇旅行家][大宇蓝龙][大宇典雅][悍马H1][悍马H2][悍马H3][凯雷德（Escalade）][凯迪拉克CTS][凯迪拉克SIXTEEN][凯迪拉克SRX][凯迪拉克XLR][凯迪拉克帝威]
 关于腾讯
@@ -36664,16 +36531,14 @@ A/T
 国产
 东风悦达起亚
 远舰2.0L
-手动（GLS
-1型）
+手动（GLS 1型）
 15.88
 15.88
 07.04.11
 国产
 东风悦达起亚
 远舰2.0L
-手动（GLS
-2型）
+手动（GLS 2型）
 16.88
 16.88
 07.04.11
@@ -36687,8 +36552,7 @@ A/T
 国产
 东风悦达起亚
 远舰2.0L
-自动（GLS
-TOP）
+自动（GLS TOP）
 19.98
 19.98
 07.04.11
@@ -36758,16 +36622,14 @@ TOP）
 国产
 东风悦达起亚
 嘉华2.7L
-自动（GLS
-1型）
+自动（GLS 1型）
 23.5
 23.5
 07.04.11
 国产
 东风悦达起亚
 嘉华2.7L
-自动（GLS
-2型）
+自动（GLS 2型）
 24.5
 24.5
 07.04.11
@@ -37086,90 +36948,44 @@ GL
 验证码
 ：
 (按Ctrl+Enter可直接发表)
-<xmp
-id="xmp_topic_list"
-style="display:none">
-<?xml
-version="1.0"
-encoding="GB2312"?>
-<xsl:stylesheet
-version="1.0"
-xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-<xsl:output
-method="html"
-encoding="gb2312"
-/>
-<xsl:template
-match="/sobar_interface">
+<xmp id="xmp_topic_list" style="display:none">
+<?xml version="1.0" encoding="GB2312"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:output method="html" encoding="gb2312" />
+<xsl:template match="/sobar_interface">
 标题
 点击/回复
-<xsl:apply-templates
-select="//topic"
-/>
+<xsl:apply-templates select="//topic" />
 </xsl:template>
-<xsl:template
-match="topic">
+<xsl:template match="topic">
 <xsl:choose>
-<xsl:when
-test="position()
-mod
-2
-=
-1">
-<xsl:if
-test="status='4'">
+<xsl:when test="position() mod 2 = 1">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:when>
 <xsl:otherwise>
-<xsl:if
-test="status='4'">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:otherwise>
 </xsl:choose>
 </xsl:template>
@@ -37471,90 +37287,44 @@ GL
 验证码
 ：
 (按Ctrl+Enter可直接发表)
-<xmp
-id="xmp_topic_list"
-style="display:none">
-<?xml
-version="1.0"
-encoding="GB2312"?>
-<xsl:stylesheet
-version="1.0"
-xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-<xsl:output
-method="html"
-encoding="gb2312"
-/>
-<xsl:template
-match="/sobar_interface">
+<xmp id="xmp_topic_list" style="display:none">
+<?xml version="1.0" encoding="GB2312"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:output method="html" encoding="gb2312" />
+<xsl:template match="/sobar_interface">
 标题
 点击/回复
-<xsl:apply-templates
-select="//topic"
-/>
+<xsl:apply-templates select="//topic" />
 </xsl:template>
-<xsl:template
-match="topic">
+<xsl:template match="topic">
 <xsl:choose>
-<xsl:when
-test="position()
-mod
-2
-=
-1">
-<xsl:if
-test="status='4'">
+<xsl:when test="position() mod 2 = 1">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:when>
 <xsl:otherwise>
-<xsl:if
-test="status='4'">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:otherwise>
 </xsl:choose>
 </xsl:template>
@@ -38036,90 +37806,44 @@ DYK狮跑成SUV市场最大黑马(图)
 验证码
 ：
 (按Ctrl+Enter可直接发表)
-<xmp
-id="xmp_topic_list"
-style="display:none">
-<?xml
-version="1.0"
-encoding="GB2312"?>
-<xsl:stylesheet
-version="1.0"
-xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-<xsl:output
-method="html"
-encoding="gb2312"
-/>
-<xsl:template
-match="/sobar_interface">
+<xmp id="xmp_topic_list" style="display:none">
+<?xml version="1.0" encoding="GB2312"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:output method="html" encoding="gb2312" />
+<xsl:template match="/sobar_interface">
 标题
 点击/回复
-<xsl:apply-templates
-select="//topic"
-/>
+<xsl:apply-templates select="//topic" />
 </xsl:template>
-<xsl:template
-match="topic">
+<xsl:template match="topic">
 <xsl:choose>
-<xsl:when
-test="position()
-mod
-2
-=
-1">
-<xsl:if
-test="status='4'">
+<xsl:when test="position() mod 2 = 1">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:when>
 <xsl:otherwise>
-<xsl:if
-test="status='4'">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:otherwise>
 </xsl:choose>
 </xsl:template>
@@ -38688,90 +38412,44 @@ DYK狮跑成SUV市场最大黑马(图)
 验证码
 ：
 (按Ctrl+Enter可直接发表)
-<xmp
-id="xmp_topic_list"
-style="display:none">
-<?xml
-version="1.0"
-encoding="GB2312"?>
-<xsl:stylesheet
-version="1.0"
-xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-<xsl:output
-method="html"
-encoding="gb2312"
-/>
-<xsl:template
-match="/sobar_interface">
+<xmp id="xmp_topic_list" style="display:none">
+<?xml version="1.0" encoding="GB2312"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:output method="html" encoding="gb2312" />
+<xsl:template match="/sobar_interface">
 标题
 点击/回复
-<xsl:apply-templates
-select="//topic"
-/>
+<xsl:apply-templates select="//topic" />
 </xsl:template>
-<xsl:template
-match="topic">
+<xsl:template match="topic">
 <xsl:choose>
-<xsl:when
-test="position()
-mod
-2
-=
-1">
-<xsl:if
-test="status='4'">
+<xsl:when test="position() mod 2 = 1">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:when>
 <xsl:otherwise>
-<xsl:if
-test="status='4'">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:otherwise>
 </xsl:choose>
 </xsl:template>
@@ -39322,90 +39000,44 @@ RIO千里马车友论坛
 验证码
 ：
 (按Ctrl+Enter可直接发表)
-<xmp
-id="xmp_topic_list"
-style="display:none">
-<?xml
-version="1.0"
-encoding="GB2312"?>
-<xsl:stylesheet
-version="1.0"
-xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-<xsl:output
-method="html"
-encoding="gb2312"
-/>
-<xsl:template
-match="/sobar_interface">
+<xmp id="xmp_topic_list" style="display:none">
+<?xml version="1.0" encoding="GB2312"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:output method="html" encoding="gb2312" />
+<xsl:template match="/sobar_interface">
 标题
 点击/回复
-<xsl:apply-templates
-select="//topic"
-/>
+<xsl:apply-templates select="//topic" />
 </xsl:template>
-<xsl:template
-match="topic">
+<xsl:template match="topic">
 <xsl:choose>
-<xsl:when
-test="position()
-mod
-2
-=
-1">
-<xsl:if
-test="status='4'">
+<xsl:when test="position() mod 2 = 1">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:when>
 <xsl:otherwise>
-<xsl:if
-test="status='4'">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:otherwise>
 </xsl:choose>
 </xsl:template>
@@ -39956,90 +39588,44 @@ RIO千里马车友论坛
 验证码
 ：
 (按Ctrl+Enter可直接发表)
-<xmp
-id="xmp_topic_list"
-style="display:none">
-<?xml
-version="1.0"
-encoding="GB2312"?>
-<xsl:stylesheet
-version="1.0"
-xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-<xsl:output
-method="html"
-encoding="gb2312"
-/>
-<xsl:template
-match="/sobar_interface">
+<xmp id="xmp_topic_list" style="display:none">
+<?xml version="1.0" encoding="GB2312"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:output method="html" encoding="gb2312" />
+<xsl:template match="/sobar_interface">
 标题
 点击/回复
-<xsl:apply-templates
-select="//topic"
-/>
+<xsl:apply-templates select="//topic" />
 </xsl:template>
-<xsl:template
-match="topic">
+<xsl:template match="topic">
 <xsl:choose>
-<xsl:when
-test="position()
-mod
-2
-=
-1">
-<xsl:if
-test="status='4'">
+<xsl:when test="position() mod 2 = 1">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:when>
 <xsl:otherwise>
-<xsl:if
-test="status='4'">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:otherwise>
 </xsl:choose>
 </xsl:template>
@@ -40738,90 +40324,44 @@ AT
 验证码
 ：
 (按Ctrl+Enter可直接发表)
-<xmp
-id="xmp_topic_list"
-style="display:none">
-<?xml
-version="1.0"
-encoding="GB2312"?>
-<xsl:stylesheet
-version="1.0"
-xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-<xsl:output
-method="html"
-encoding="gb2312"
-/>
-<xsl:template
-match="/sobar_interface">
+<xmp id="xmp_topic_list" style="display:none">
+<?xml version="1.0" encoding="GB2312"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:output method="html" encoding="gb2312" />
+<xsl:template match="/sobar_interface">
 标题
 点击/回复
-<xsl:apply-templates
-select="//topic"
-/>
+<xsl:apply-templates select="//topic" />
 </xsl:template>
-<xsl:template
-match="topic">
+<xsl:template match="topic">
 <xsl:choose>
-<xsl:when
-test="position()
-mod
-2
-=
-1">
-<xsl:if
-test="status='4'">
+<xsl:when test="position() mod 2 = 1">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:when>
 <xsl:otherwise>
-<xsl:if
-test="status='4'">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:otherwise>
 </xsl:choose>
 </xsl:template>
@@ -41520,90 +41060,44 @@ AT
 验证码
 ：
 (按Ctrl+Enter可直接发表)
-<xmp
-id="xmp_topic_list"
-style="display:none">
-<?xml
-version="1.0"
-encoding="GB2312"?>
-<xsl:stylesheet
-version="1.0"
-xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-<xsl:output
-method="html"
-encoding="gb2312"
-/>
-<xsl:template
-match="/sobar_interface">
+<xmp id="xmp_topic_list" style="display:none">
+<?xml version="1.0" encoding="GB2312"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:output method="html" encoding="gb2312" />
+<xsl:template match="/sobar_interface">
 标题
 点击/回复
-<xsl:apply-templates
-select="//topic"
-/>
+<xsl:apply-templates select="//topic" />
 </xsl:template>
-<xsl:template
-match="topic">
+<xsl:template match="topic">
 <xsl:choose>
-<xsl:when
-test="position()
-mod
-2
-=
-1">
-<xsl:if
-test="status='4'">
+<xsl:when test="position() mod 2 = 1">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:when>
 <xsl:otherwise>
-<xsl:if
-test="status='4'">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:otherwise>
 </xsl:choose>
 </xsl:template>
@@ -45646,7 +45140,7 @@ Reserved
 紫晶丽苑-均价:3000元/平方米...
 开发商代表作
 中冶&#183;林荫大道（未售）
-本项目位于重庆经济技术开发区（南坪）新南湖社区（市租营...
+本项目位于重庆经济技术开发区（南坪）新南湖社区（市租营... 
 关于腾讯
 |
 About
@@ -45925,7 +45419,7 @@ Reserved
 紫晶丽苑-均价:3000元/平方米...
 开发商代表作
 中冶&#183;林荫大道（未售）
-本项目位于重庆经济技术开发区（南坪）新南湖社区（市租营...
+本项目位于重庆经济技术开发区（南坪）新南湖社区（市租营... 
 关于腾讯
 |
 About
@@ -46770,8 +46264,7 @@ Reserved
 023—86107777
 023—68629777
 项目地址：
-重庆市九龙坡区兰美路988号（高九路
-美茵河谷2期）
+重庆市九龙坡区兰美路988号（高九路 美茵河谷2期）
 预售许可证：
 渝国土房管（2007）预字第（616）号
 房屋价格：
@@ -47063,8 +46556,7 @@ Reserved
 023—86107777
 023—68629777
 项目地址：
-重庆市九龙坡区兰美路988号（高九路
-美茵河谷2期）
+重庆市九龙坡区兰美路988号（高九路 美茵河谷2期）
 预售许可证：
 渝国土房管（2007）预字第（616）号
 房屋价格：
@@ -55744,7 +55236,7 @@ Reserved
 装修状况：
 毛坯
 交通状况：
-1.开车路线：大坪—马家堡—中新城上城（重庆医科大学附属一院）—奥体路；或：渝州路——科园一街（科……
+1.开车路线：大坪—马家堡—中新城上城（重庆医科大学附属一院）—奥体路；或：渝州路——科园一街（科…… 
 周边配套：
 1.小区内部配套:共享渝洲宾馆内部各项配套设施、特色幼稚园、社区配套商业等2.教育配套:重医附小、马家……
 项目介绍
@@ -56029,7 +55521,7 @@ Reserved
 装修状况：
 毛坯
 交通状况：
-1.开车路线：大坪—马家堡—中新城上城（重庆医科大学附属一院）—奥体路；或：渝州路——科园一街（科……
+1.开车路线：大坪—马家堡—中新城上城（重庆医科大学附属一院）—奥体路；或：渝州路——科园一街（科…… 
 周边配套：
 1.小区内部配套:共享渝洲宾馆内部各项配套设施、特色幼稚园、社区配套商业等2.教育配套:重医附小、马家……
 项目介绍
@@ -60651,7 +60143,7 @@ Reserved
 交通状况：
 151线路朝天门←→南桥寺117线路九龙工业园←→玉带山113B线路鲁能新城←→沙坪坝区府604线路刘家台←……
 周边配套：
-生活配套情况：招商银行、工商银行、（渝安龙都）、邮政储蓄（新城丽都楼下）、沃尔玛超市（龙湖紫都城……
+生活配套情况：招商银行、工商银行、（渝安龙都）、邮政储蓄（新城丽都楼下）、沃尔玛超市（龙湖紫都城…… 
 项目介绍
 客户群体——7080代都市白（领）、骨（干）、精（英）；生活主张——简单生活哲学（建筑理性，改变生活理性）形象定位——现代、都市、时尚“小户型不做吸尘器、小户型也需要享受”等产品理念。产品着重营造“家”的感觉，将一些大户型才有的设施引入产品设计，突出了产品的性……
 电子地图
@@ -60944,7 +60436,7 @@ Reserved
 交通状况：
 151线路朝天门←→南桥寺117线路九龙工业园←→玉带山113B线路鲁能新城←→沙坪坝区府604线路刘家台←……
 周边配套：
-生活配套情况：招商银行、工商银行、（渝安龙都）、邮政储蓄（新城丽都楼下）、沃尔玛超市（龙湖紫都城……
+生活配套情况：招商银行、工商银行、（渝安龙都）、邮政储蓄（新城丽都楼下）、沃尔玛超市（龙湖紫都城…… 
 项目介绍
 客户群体——7080代都市白（领）、骨（干）、精（英）；生活主张——简单生活哲学（建筑理性，改变生活理性）形象定位——现代、都市、时尚“小户型不做吸尘器、小户型也需要享受”等产品理念。产品着重营造“家”的感觉，将一些大户型才有的设施引入产品设计，突出了产品的性……
 电子地图
@@ -63825,13 +63317,11 @@ Pro系列目标消费者是高级摄影爱好者和专业人士。
 IS
 ￥2500
 佳能IXUS
-75(SD
-750)
+75(SD 750)
 ￥1900
 佳能IXUS
 950
-IS(SD850
-IS)
+IS(SD850 IS)
 ￥2400
 佳能G9
 ￥3600
@@ -63842,8 +63332,7 @@ IS
 400D
 ￥4500
 佳能960
-IS(SD950
-IS)
+IS(SD950 IS)
 ￥3000
 佳能S5
 IS
@@ -63875,12 +63364,7 @@ II再度震撼泄露配置信息
 08月22日
 ·佳能发布2100万像旗舰EOS-1DsMarkIII
 Canon
--佳能名称源于美女。佳能公司的创始人是位医学博士，取此名的灵感出自他抬头眺望天空而来。佳能公司原来的名字叫生本·古岳·橙久城（SEIKI
-KOGAKU
-KENKYUJO），是一个精密光学仪器研究所。佳能原有一个十分英语化的名字KWANON，意为一位仁慈佛教女神的名。公司以此名，命其第一架35毫米测距式相机。到目前为止，世界上只有唯一一架KWANON相机幸存。大约在1936年，公司用汉莎·佳能（HANSA
-CANON）为品牌的相机正式上市了。从此，佳能成为举世闻名的相机品牌和公司的象征。毫无疑问，响亮的名字与日俱增，目前使用的EOS（Electronic
-Optical
-System）不仅仅表示电子光学系统英文字首字母的缩写，也是一位在希腊被称作黎明的女神。
+-佳能名称源于美女。佳能公司的创始人是位医学博士，取此名的灵感出自他抬头眺望天空而来。佳能公司原来的名字叫生本·古岳·橙久城（SEIKI KOGAKU KENKYUJO），是一个精密光学仪器研究所。佳能原有一个十分英语化的名字KWANON，意为一位仁慈佛教女神的名。公司以此名，命其第一架35毫米测距式相机。到目前为止，世界上只有唯一一架KWANON相机幸存。大约在1936年，公司用汉莎·佳能（HANSA CANON）为品牌的相机正式上市了。从此，佳能成为举世闻名的相机品牌和公司的象征。毫无疑问，响亮的名字与日俱增，目前使用的EOS（Electronic Optical System）不仅仅表示电子光学系统英文字首字母的缩写，也是一位在希腊被称作黎明的女神。
 佳能成立于1937年，2003年公司实现净销售额
 298.89
 亿美元及净收入
@@ -63948,13 +63432,9 @@ System）不仅仅表示电子光学系统英文字首字母的缩写，也是一位在希腊被称作黎明的女神
 2004年4月29日，经合资双方友好协商，北京北佳信息系统有限公司进行了股权变更，成为由佳能（中国）有限公司100%出资的外商独资企业，并更名为佳能信息技术（北京）有限公司，继续汇集中国优秀人才，致力于研究开发国际水准的软件产品。
 2005年
 在北京中关村设立第一个佳能快修中心——“QR中心”
-QR中心（Quick
-Repair，迅速维修；Quick
-Response，及时应对），它在原有的佳能客户服务中心的基础上提供规模更大，产品维修更全面，更快捷的快速维修服务。
+QR中心（Quick Repair，迅速维修；Quick Response，及时应对），它在原有的佳能客户服务中心的基础上提供规模更大，产品维修更全面，更快捷的快速维修服务。
 广州“佳能影像广场”宣布开业.
-该企业品牌在世界品牌实验室（World
-Brand
-Lab）编制的2006年度《世界品牌500强》排行榜中名列第六十四，在《巴伦周刊》公布的2006年度全球100家大公司受尊重度排行榜中名列第五十四。该企业在2007年度《财富》全球最大五百家公司排名中名列第一百八十二。
+该企业品牌在世界品牌实验室（World Brand Lab）编制的2006年度《世界品牌500强》排行榜中名列第六十四，在《巴伦周刊》公布的2006年度全球100家大公司受尊重度排行榜中名列第五十四。该企业在2007年度《财富》全球最大五百家公司排名中名列第一百八十二。
 机型展示
 按上市时间
 按销售价格
@@ -63968,11 +63448,9 @@ IS￥2500[参数][评测][对比]
 IS￥3200[参数][评测][对比]
 佳能IXUS
 950
-IS(SD850
-IS)￥2400[参数][评测][对比]
+IS(SD850 IS)￥2400[参数][评测][对比]
 佳能IXUS
-75(SD
-750)￥1900[参数][评测][对比]
+75(SD 750)￥1900[参数][评测][对比]
 佳能IXUS
 70(SD1000)￥1600[参数][评测][对比]
 佳能G9￥3600[参数][评测][对比]
@@ -64018,11 +63496,9 @@ II￥55600[参数][评测][对比]
 IS￥2500[参数][评测][对比]
 佳能IXUS
 950
-IS(SD850
-IS)￥2400[参数][评测][对比]
+IS(SD850 IS)￥2400[参数][评测][对比]
 佳能IXUS
-75(SD
-750)￥1900[参数][评测][对比]
+75(SD 750)￥1900[参数][评测][对比]
 佳能IXUS
 70(SD1000)￥1600[参数][评测][对比]
 佳能A720
@@ -64036,11 +63512,9 @@ IS￥3200[参数][评测][对比]
 佳能A650
 IS￥2760[参数][评测][对比]
 佳能960
-IS(SD950
-IS)￥3000[参数][评测][对比]
+IS(SD950 IS)￥3000[参数][评测][对比]
 佳能860
-IS(SD870
-IS)￥2650[参数][评测][对比]
+IS(SD870 IS)￥2650[参数][评测][对比]
 3500-4500元机型
 佳能G9￥3600[参数][评测][对比]
 4500-5500元机型
@@ -64095,14 +63569,11 @@ G系列
 IXUS系列
 佳能IXUS
 950
-IS(SD850
-IS)￥2400[参数][评测][对比]
+IS(SD850 IS)￥2400[参数][评测][对比]
 佳能IXUS
-75(SD
-750)￥1900[参数][评测][对比]
+75(SD 750)￥1900[参数][评测][对比]
 佳能960
-IS(SD950
-IS)￥3000[参数][评测][对比]
+IS(SD950 IS)￥3000[参数][评测][对比]
 PowerShot
 A系列
 佳能A720
@@ -64130,8 +63601,7 @@ i7(SD40)[参数][评测][对比]
 Ti[参数][评测][对比]
 佳能IXUS
 850
-IS(SD800
-IS)[参数][评测][对比]
+IS(SD800 IS)[参数][评测][对比]
 佳能G7[参数][评测][对比]
 佳能A710
 IS[参数][评测][对比]
@@ -64141,10 +63611,7 @@ IS[参数][评测][对比]
 IS[参数][评测][对比]
 佳能IXUS
 800
-IS(SD700
-IS
-Digital
-ELPH)[参数][评测][对比]
+IS(SD700 IS Digital ELPH)[参数][评测][对比]
 佳能IXUS
 65(SD630)[参数][评测][对比]
 佳能IXUS
@@ -64182,11 +63649,9 @@ IS[参数][评测][对比]
 佳能IXUS
 50(SD400)[参数][评测][对比]
 佳能EOS
-350D(REBEL
-XT)/套机[参数][评测][对比]
+350D(REBEL XT)/套机[参数][评测][对比]
 佳能EOS
-350D(REBEL
-XT)[参数][评测][对比]
+350D(REBEL XT)[参数][评测][对比]
 佳能EOS
 20Da[参数][评测][对比]
 佳能A520[参数][评测][对比]
@@ -64376,13 +63841,11 @@ Pro系列目标消费者是高级摄影爱好者和专业人士。
 IS
 ￥2500
 佳能IXUS
-75(SD
-750)
+75(SD 750)
 ￥1900
 佳能IXUS
 950
-IS(SD850
-IS)
+IS(SD850 IS)
 ￥2400
 佳能G9
 ￥3600
@@ -64393,8 +63856,7 @@ IS
 400D
 ￥4500
 佳能960
-IS(SD950
-IS)
+IS(SD950 IS)
 ￥3000
 佳能S5
 IS
@@ -64426,12 +63888,7 @@ II再度震撼泄露配置信息
 08月22日
 ·佳能发布2100万像旗舰EOS-1DsMarkIII
 Canon
--佳能名称源于美女。佳能公司的创始人是位医学博士，取此名的灵感出自他抬头眺望天空而来。佳能公司原来的名字叫生本·古岳·橙久城（SEIKI
-KOGAKU
-KENKYUJO），是一个精密光学仪器研究所。佳能原有一个十分英语化的名字KWANON，意为一位仁慈佛教女神的名。公司以此名，命其第一架35毫米测距式相机。到目前为止，世界上只有唯一一架KWANON相机幸存。大约在1936年，公司用汉莎·佳能（HANSA
-CANON）为品牌的相机正式上市了。从此，佳能成为举世闻名的相机品牌和公司的象征。毫无疑问，响亮的名字与日俱增，目前使用的EOS（Electronic
-Optical
-System）不仅仅表示电子光学系统英文字首字母的缩写，也是一位在希腊被称作黎明的女神。
+-佳能名称源于美女。佳能公司的创始人是位医学博士，取此名的灵感出自他抬头眺望天空而来。佳能公司原来的名字叫生本·古岳·橙久城（SEIKI KOGAKU KENKYUJO），是一个精密光学仪器研究所。佳能原有一个十分英语化的名字KWANON，意为一位仁慈佛教女神的名。公司以此名，命其第一架35毫米测距式相机。到目前为止，世界上只有唯一一架KWANON相机幸存。大约在1936年，公司用汉莎·佳能（HANSA CANON）为品牌的相机正式上市了。从此，佳能成为举世闻名的相机品牌和公司的象征。毫无疑问，响亮的名字与日俱增，目前使用的EOS（Electronic Optical System）不仅仅表示电子光学系统英文字首字母的缩写，也是一位在希腊被称作黎明的女神。
 佳能成立于1937年，2003年公司实现净销售额
 298.89
 亿美元及净收入
@@ -64499,13 +63956,9 @@ System）不仅仅表示电子光学系统英文字首字母的缩写，也是一位在希腊被称作黎明的女神
 2004年4月29日，经合资双方友好协商，北京北佳信息系统有限公司进行了股权变更，成为由佳能（中国）有限公司100%出资的外商独资企业，并更名为佳能信息技术（北京）有限公司，继续汇集中国优秀人才，致力于研究开发国际水准的软件产品。
 2005年
 在北京中关村设立第一个佳能快修中心——“QR中心”
-QR中心（Quick
-Repair，迅速维修；Quick
-Response，及时应对），它在原有的佳能客户服务中心的基础上提供规模更大，产品维修更全面，更快捷的快速维修服务。
+QR中心（Quick Repair，迅速维修；Quick Response，及时应对），它在原有的佳能客户服务中心的基础上提供规模更大，产品维修更全面，更快捷的快速维修服务。
 广州“佳能影像广场”宣布开业.
-该企业品牌在世界品牌实验室（World
-Brand
-Lab）编制的2006年度《世界品牌500强》排行榜中名列第六十四，在《巴伦周刊》公布的2006年度全球100家大公司受尊重度排行榜中名列第五十四。该企业在2007年度《财富》全球最大五百家公司排名中名列第一百八十二。
+该企业品牌在世界品牌实验室（World Brand Lab）编制的2006年度《世界品牌500强》排行榜中名列第六十四，在《巴伦周刊》公布的2006年度全球100家大公司受尊重度排行榜中名列第五十四。该企业在2007年度《财富》全球最大五百家公司排名中名列第一百八十二。
 机型展示
 按上市时间
 按销售价格
@@ -64519,11 +63972,9 @@ IS￥2500[参数][评测][对比]
 IS￥3200[参数][评测][对比]
 佳能IXUS
 950
-IS(SD850
-IS)￥2400[参数][评测][对比]
+IS(SD850 IS)￥2400[参数][评测][对比]
 佳能IXUS
-75(SD
-750)￥1900[参数][评测][对比]
+75(SD 750)￥1900[参数][评测][对比]
 佳能IXUS
 70(SD1000)￥1600[参数][评测][对比]
 佳能G9￥3600[参数][评测][对比]
@@ -64569,11 +64020,9 @@ II￥55600[参数][评测][对比]
 IS￥2500[参数][评测][对比]
 佳能IXUS
 950
-IS(SD850
-IS)￥2400[参数][评测][对比]
+IS(SD850 IS)￥2400[参数][评测][对比]
 佳能IXUS
-75(SD
-750)￥1900[参数][评测][对比]
+75(SD 750)￥1900[参数][评测][对比]
 佳能IXUS
 70(SD1000)￥1600[参数][评测][对比]
 佳能A720
@@ -64587,11 +64036,9 @@ IS￥3200[参数][评测][对比]
 佳能A650
 IS￥2760[参数][评测][对比]
 佳能960
-IS(SD950
-IS)￥3000[参数][评测][对比]
+IS(SD950 IS)￥3000[参数][评测][对比]
 佳能860
-IS(SD870
-IS)￥2650[参数][评测][对比]
+IS(SD870 IS)￥2650[参数][评测][对比]
 3500-4500元机型
 佳能G9￥3600[参数][评测][对比]
 4500-5500元机型
@@ -64646,14 +64093,11 @@ G系列
 IXUS系列
 佳能IXUS
 950
-IS(SD850
-IS)￥2400[参数][评测][对比]
+IS(SD850 IS)￥2400[参数][评测][对比]
 佳能IXUS
-75(SD
-750)￥1900[参数][评测][对比]
+75(SD 750)￥1900[参数][评测][对比]
 佳能960
-IS(SD950
-IS)￥3000[参数][评测][对比]
+IS(SD950 IS)￥3000[参数][评测][对比]
 PowerShot
 A系列
 佳能A720
@@ -64681,8 +64125,7 @@ i7(SD40)[参数][评测][对比]
 Ti[参数][评测][对比]
 佳能IXUS
 850
-IS(SD800
-IS)[参数][评测][对比]
+IS(SD800 IS)[参数][评测][对比]
 佳能G7[参数][评测][对比]
 佳能A710
 IS[参数][评测][对比]
@@ -64692,10 +64135,7 @@ IS[参数][评测][对比]
 IS[参数][评测][对比]
 佳能IXUS
 800
-IS(SD700
-IS
-Digital
-ELPH)[参数][评测][对比]
+IS(SD700 IS Digital ELPH)[参数][评测][对比]
 佳能IXUS
 65(SD630)[参数][评测][对比]
 佳能IXUS
@@ -64733,11 +64173,9 @@ IS[参数][评测][对比]
 佳能IXUS
 50(SD400)[参数][评测][对比]
 佳能EOS
-350D(REBEL
-XT)/套机[参数][评测][对比]
+350D(REBEL XT)/套机[参数][评测][对比]
 佳能EOS
-350D(REBEL
-XT)[参数][评测][对比]
+350D(REBEL XT)[参数][评测][对比]
 佳能EOS
 20Da[参数][评测][对比]
 佳能A520[参数][评测][对比]
@@ -65675,13 +65113,7 @@ China
 注册资金:
 1000万美元(约11亿日元,由尼康株式会社全额出资)
 法人代表：董事长
-御给伸好(兼任
-Nikon
-Hong
-Kong
-Ltd
-.
-社长)
+御给伸好(兼任 Nikon Hong Kong Ltd . 社长)
 董事
 总经理:
 金子博明
@@ -66083,13 +65515,7 @@ China
 注册资金:
 1000万美元(约11亿日元,由尼康株式会社全额出资)
 法人代表：董事长
-御给伸好(兼任
-Nikon
-Hong
-Kong
-Ltd
-.
-社长)
+御给伸好(兼任 Nikon Hong Kong Ltd . 社长)
 董事
 总经理:
 金子博明

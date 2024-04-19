@@ -38,7 +38,8 @@ long long int str2llint(char *pstr);
 
 
 //------------------------------
-#define ARTI_LINE1    5000000
+/*
+#define ARTI_LINE1    15000000
 
 	 char wd5_buf[ARTI_LINE1][55];
           int wd5_rt[ARTI_LINE1];
@@ -48,24 +49,23 @@ int  wd5_search(char *);
 int  wd5_load(void);
 
 int  wd5_find_rt;
-
-
+*/
 //------------------------------
 
 
 
 //------------------------------
+
 #define ARTI_LINE2    200000
 
 	 char wd6_buf[ARTI_LINE2][55];
           int wd6_rt[ARTI_LINE2];
 	  int wd6_ptr;
 
-int  wd6_search(char *);
+int  wd6_search(char *,int );
 int  wd6_load(void);
 
 int  wd6_find_rt;
-
 
 //------------------------------
 
@@ -94,23 +94,71 @@ char init_c6;
 int  init_n1;
 int  init_n2;
 */
+
+int f1_load_kuo(void);
+
+char kuo1[100][30];
+char kuo2[100][30];
+
+int  kuo_ptr1;
+int  kuo_ptr2;
+
+int load_cb2(void);
+
+int load5(char *fn);
+
+int load_chn_name1(void);
+int chn_name1_in(char *str);
+
+int load_chn_name2(void);
+int chn_name2_in(char *str);
+
+int load_chn_xiaolao(void);
+int chn_xiaolao_in(char *str);
+
+int load_chn_chenghu(void);
+int chn_chenghu_in(char *str);
+
 //int pascal WinMain(HINSTANCE ins
 //		  ,HINSTANCE pins
 //		  ,LPSTR cl
 //		  ,int show)
 int main(int argc,char **argv)
 {
+	int i;
+	
 	MessageBoxNow(0,"load string1base000000.txt ,words01.txt ,words courseware, write to words-cww3-000000.txt","message",MB_OK);
 
 	ai_number_g();
 
-	load_cb();
+	i=load_cb();
+	if (i!=0) return(1);
 
-	wd5_load();
+	//wd5_load();
 
-	wd6_load();
+	i=wd6_load();
+	if (i!=0) return(1);
 
-	cww1_load();
+	i=cww1_load();
+	if (i!=0) return(1);
+
+        i=f1_load_kuo();
+        if (i!=0) return(1);
+  
+        i=load_cb2();  // load punctuation 2
+        if (i!=0) return(1);
+
+	i=load_chn_name1();
+	if (i!=0) return(1);
+
+	i=load_chn_name2();
+	if (i!=0) return(1);
+
+	i=load_chn_xiaolao();
+	if (i!=0) return(1);
+
+	i=load_chn_chenghu();
+	if (i!=0) return(1);
 
 	mproc("");
 
@@ -121,13 +169,15 @@ int main(int argc,char **argv)
 
 int mproc(char *strpath)
 {
-	char  s1[SMG_SIZE];
-	char  s2[SMG_SIZE];
-	char  s3[SMG_SIZE];
+	//char  s1[SMG_SIZE];
+	//char  s2[SMG_SIZE];
+	//char  s3[SMG_SIZE];
 	int   i;
 
 	i=f1_init_ext();
 	if (i==1) return(0);
+
+	//printf("init_ext ok\n");
 
 	while(1)
 	{
@@ -296,8 +346,7 @@ int f1_get_fln3(char *s1)
 //-----------------------------------------
 // super pipeline level 1 (spl1)
 //-----------------------------------------
-#define SPL1_NUM     5000
-#define SPL1_MAX_NUM 5000
+#define SPL1_NUM       2500
 
 extern 		char spl1_in[SMG_SIZE];	// input
 extern 		int  spl1_out_ptr;
@@ -325,12 +374,12 @@ extern int   t2_find_ptr2;
 extern int   t2_buff_ptr;
 extern char  t2_node_val[TREE_SIZE_B][55];
 
-extern int   t2_search_node(char *pstr);
-extern int   t2_insert_node(char *pstr);
+extern int   t2_search_node(char *pstr,int);
+extern int   t2_insert_node(char *pstr,int);
 
 
-#define BTREE4_SIZE   5000
-#define BTREE4_LSIZE  5000
+#define BTREE4_SIZE   2500
+#define BTREE4_LSIZE  2500
 
 extern     char  t4_node_mark[BTREE4_SIZE];
 
@@ -461,16 +510,25 @@ int frame_loop1(void)
 
 	strcpy(m101_s2,m101_s1);
 	
+	//printf("into frame_loop\n");
 
 	i=trans1(m101_s2);
 	if (i!=0) return(1);
 
+	//printf("trans1 ok\n");
+
 	i=trans2();
 	if (i!=0) return(1);
 	
+	//printf("trans2 ok\n");
+	
+	//test
+	//return(0);
 
 	f1_get_fln2(m101_str5);
 	m101_str5[9]='2';
+	
+	load5(m101_str5);
 
 	fp1=fopen(m101_str5,"r");
 	if (fp1==NULL)
@@ -571,7 +629,8 @@ int out_put_seg(int ptr)
 
 			fputs(t2_node_val[j],m_fp1);
 
-			if (spl1_mr2[ptr][i]==1) fputs(";;",m_fp1);
+			if ((spl1_mr2[ptr][i]==1)) fputs(";;",m_fp1);
+			else if ((spl1_mr2[ptr][i]==2)||(spl1_mr2[ptr][i]==3)||(spl1_mr2[ptr][i]==4)) fputs("::",m_fp1);
 			else fputs(",,",m_fp1);
 		}
 	}
@@ -588,9 +647,6 @@ char sent_s[SENT_LEN];
 char sent_s2[SENT_LEN];
 long sent_l;
 
-char sent_cb[100][10];
-int  sent_cb_ptr;
-
 int trans1(char *pfn)
 {
 	int i;
@@ -598,18 +654,28 @@ int trans1(char *pfn)
 	i=sent8(pfn);
 	if (i!=0) return(1);
 
+	//printf("out of trans1 , return 0\n");
+
 	return(0);
 }
+
+char m102_str1[2000000];
+char m102_str2[2000000];
 
 int sent8(char *fln)
 {
 	FILE *fp1,*fp2;
-	int  i,j,k,l;
+	int  i,j,k,l,m,o,p,q,r;
+	int  n1,n2;
     	int  p1;
-	int  num;
-	char str[300];
+	int  num,kuo;
+	//char str[300];
+	//char str2[300];
 	char s1[300];
+	char c1,c2;
 	//char str2[20000];
+
+	//printf("into sent8\n");
 
 	fp1=fopen(fln,"r");
 	if (fp1==NULL)
@@ -617,6 +683,8 @@ int sent8(char *fln)
 		MessageBoxNow(0,fln,"message open file error",MB_OK);
 		return(1);
 	}
+
+	//printf("open file %s ok\n",fln);
 
 	f1_get_fln2(s1);
 	s1[9]='1';
@@ -628,11 +696,17 @@ int sent8(char *fln)
 		return(0);
 	}
 
+	//printf("open file %s ok\n",s1);
+
+	r=0;
+	
 	while(!feof(fp1))
 	{
 		sent_s[0]=0;
 
 		fgets(sent_s,SENT_LEN,fp1);
+		
+		r++;
 
 		//for (i=(int)strlen(sent_s)-1;i>=0;i--)
 		//{
@@ -640,7 +714,9 @@ int sent8(char *fln)
 		//	else break;
 		//}
 
-		string_trim_nos(sent_s);
+		//printf("read line %d ok\n",r);
+		
+		string_trim(sent_s);
 
 		if (sent_s[0]==0) continue;
 
@@ -648,54 +724,188 @@ int sent8(char *fln)
 
 		i=0;
 		p1=0;
+		kuo=0;
 
-		while(i<=j)
+		while(i<j)
 		{
 			if (sent_s[i]>=0)
 			{
-				str[0]=sent_s[i];
-				str[1]=0;
+				m102_str1[0]=sent_s[i];
+				m102_str1[1]=0;
 				
-				if ((sent_cb_in(str)==1)||(i>=j))
+				for (p=0;p<kuo_ptr1;p++) // if it is < ( [ { 
+				{
+				  if (strcmp(m102_str1,kuo1[p])==0)
+				  {
+				    kuo++;
+				    break;
+				  }
+				}
+				
+				for (p=0;p<kuo_ptr2;p++) // if it is > ) ] }
+				{
+				  if (strcmp(m102_str1,kuo2[p])==0)
+				  {
+				    kuo--;
+				    if (kuo<0) kuo=0;
+				    break;
+				  }
+				}
+				
+				if ((sent_cb_in(m102_str1)==1)/*||(i>=j-1)*/)
 				{
 					num=0;
 
-					if ((str[0]==',')||(str[0]=='.'))
+					if ((m102_str1[0]==',')||(m102_str1[0]=='.'))
 					{
-					  if ((sent_s[i+1]>='0')&&(sent_s[i+1]<='9')) num=1;
+					  //if ((sent_s[i+1]>='0')&&(sent_s[i+1]<='9')) num=1;
+					  
+					  for (n1=i+1;n1<j;n1++)  //number string last char
+					  {
+					    if (((sent_s[n1]>='0')&&(sent_s[n1]<='9'))||(sent_s[n1]==',')||(sent_s[n1]=='.')) continue;
+					    else
+					    {
+					      n1--;
+					      break;
+					    }
+					  }
+					  
+					  for (n2=i-1;n2>=0;n2--) //number string first char
+					  {
+					    if (((sent_s[n2]>='0')&&(sent_s[n2]<='9'))||(sent_s[n2]==',')||(sent_s[n2]=='.')) continue;
+					    else
+					    {
+					      n2++;
+					      break;
+					    }
+					  }
+					  
+					  m102_str2[0]=0;
+					  q=0;
+					  m=n2;
+					  
+					  while (m<=n1) // store to str2
+					  {
+					    c1=sent_s[m+0];
+					    c2=sent_s[m+1];
+					    
+					    if (c1>0)
+					    {
+					      m102_str2[q+0]=' ';
+					      m102_str2[q+1]=c1;
+					      m102_str2[q+2]=0;
+					      q=q+2;
+					      m=m+1;
+					    }
+					    else
+					    {
+					      m102_str2[q+0]=c1;
+					      m102_str2[q+1]=c2;
+					      m102_str2[q+2]=0;
+					      q=q+2;
+					      m=m+2;
+					    }
+					  }
+					  
+					  o=cww1_number_is2(m102_str2); //if its number
+					  if (o==1) num=1;
 					}
 
 					if (num==0)
 					{
-					  sent_s2[0]=0;
-
-					  for (k=p1;k<=i;k++)
+					  if (kuo==0)
 					  {
+					    sent_s2[0]=0;
+
+					    for (k=p1;k<=i;k++)
+					    {
 						sent_s2[k-p1+0]=sent_s[k];
 						sent_s2[k-p1+1]=0;
+					    }
+
+					    //sent8add2(sent_s2);
+					    fputs(sent_s2,fp2);
+					    fputs("\n",fp2);
+
+					    i++;
+					    p1=i;
+					    
+					    continue;
 					  }
-
-					  //sent8add2(sent_s2);
-					  fputs(sent_s2,fp2);
-					  fputs("\n",fp2);
-
-					  i++;
-					  p1=i;
 					}
-					else i++;
 				}
-				else
+				
+				if (i>=j-1)  //at end of string
 				{
+					sent_s2[0]=0;
+
+					for (k=p1;k<=i;k++)
+					{
+						sent_s2[k-p1+0]=sent_s[k];
+						sent_s2[k-p1+1]=0;
+					}
+
+					//sent8add2(sent_s2);
+					fputs(sent_s2,fp2);
+					fputs("\n",fp2);
+
 					i++;
+					p1=i;
+					
+					continue;
 				}
+				
+				i++;
 			}
 			else
 			{
-				str[0]=sent_s[i+0];
-				str[1]=sent_s[i+1];
-				str[2]=0;
+				m102_str1[0]=sent_s[i+0];
+				m102_str1[1]=sent_s[i+1];
+				m102_str1[2]=0;
 				
-				if ((sent_cb_in(str)==1)||(i>=j))
+				for (p=0;p<kuo_ptr1;p++) // if it is < ( [ { 
+				{
+				  if (strcmp(m102_str1,kuo1[p])==0)
+				  {
+				    kuo++;
+				    break;
+				  }
+				}
+				
+				for (p=0;p<kuo_ptr2;p++) // if it is > ) ] }
+				{
+				  if (strcmp(m102_str1,kuo2[p])==0)
+				  {
+				    kuo--;
+				    if (kuo<0) kuo=0;
+				    break;
+				  }
+				}
+				
+				if ((sent_cb_in(m102_str1)==1)/*||(i>=j-1)*/)
+				{
+				    if (kuo==0)
+				    {
+					sent_s2[0]=0;
+
+					for (k=p1;k<i+2;k++)
+					{
+						sent_s2[k-p1+0]=sent_s[k];
+						sent_s2[k-p1+1]=0;
+					}
+
+					//sent8add2(sent_s2);
+					fputs(sent_s2,fp2);
+					fputs("\n",fp2);
+
+					i=i+2;
+					p1=i;
+					
+					continue;
+				    }
+				}
+				
+				if (i>=j-2)
 				{
 					sent_s2[0]=0;
 
@@ -711,11 +921,11 @@ int sent8(char *fln)
 
 					i=i+2;
 					p1=i;
+					
+					continue;
 				}
-				else
-				{
-					i=i+2;
-				}
+				
+				i++;
 			}
 		}
 
@@ -725,61 +935,7 @@ int sent8(char *fln)
 	fclose(fp1);
 	fclose(fp2);
 
-	return(0);
-}
-
-int load_cb(void)
-{
-	FILE *fp1;
-	int   i,j,k;
-	char  str[300];
-
-	fp1=fopen("cb.txt","r");
-	if (fp1==NULL)
-	{
-		MessageBoxNow(0,"open cb.txt fail ","message",MB_OK);
-		return(0);
-	}
-
-	sent_cb_ptr=0;
-
-	while(!feof(fp1))
-	{
-		str[0]=0;
-
-		fgets(str,300,fp1);
-
-		if (strncmp(str,"backup",6)==0) continue;
-
-		for (i=(int)strlen(str)-1;i>=0;i--)
-		{
-			if ((str[i]>0)&&(str[i]<=' ')) str[i]=0;
-			else break;
-		}
-
-		if (str[0]==0) continue;
-
-		strcpy(sent_cb[sent_cb_ptr],str);
-
-		sent_cb_ptr++;
-
-	}
-
-	fclose(fp1);
-
-	printf("load_cb():total %d punctuation,\n",sent_cb_ptr);
-
-	return(0);
-
-}
-
-int sent_cb_in(char *str)
-{
-	int i;
-	for (i=0;i<sent_cb_ptr;i++)
-	{
-		if (strcmp(str,sent_cb[i])==0) return(1);
-	}
+	//printf("out of sent8 \n");
 
 	return(0);
 }
@@ -809,8 +965,8 @@ extern     int   t1_out_ptr;
 extern     int   t1_init_tree2(void);
 extern     int   t1_new_node(void);
 extern     int   t1_clear_node(int ptr);
-extern     int   t1_search_node(char *pstr);
-extern     int   t1_insert_node(char *pstr);
+extern     int   t1_search_node(char *pstr,int);
+extern     int   t1_insert_node(char *pstr,int);
 extern     int   t1_dsp_tree2(void);
 extern     int   t1_after_list(void);
 extern     int   t1_out_list(char *pstr,int ,int);
@@ -842,7 +998,7 @@ int sent9(void)
 	fp1=fopen(s1,"r");
 	if (fp1==NULL)
 	{
-		MessageBoxNow(0,"open file words-cw000.tmp1.txt fail","message",MB_OK);
+		MessageBoxNow(0,"open file words-cww2-000000.txt fail","message",MB_OK);
 		return(1);
 	}
 
@@ -864,10 +1020,10 @@ int sent9(void)
 		j=(int)strlen(sent_s);
 		if (j>=300) continue;
 
-		string_e_space(sent_s);
+		//string_e_space(sent_s);
 
 		//sent9in1();
-		t1_insert_node(sent_s);
+		t1_insert_node(sent_s,SENT_LEN);
 	}
 
 	fclose(fp1);
@@ -878,9 +1034,9 @@ int sent9(void)
 int sent9wrt1(void)
 {
 	FILE *fp1;
-	int  i,j,k;
-	char c1;
-	char s1[300];
+	int   i,j,k;
+	char  c1;
+	char  s1[300];
 
 	f1_get_fln2(s1);
 	s1[9]='2';
@@ -905,7 +1061,7 @@ int sent9wrt1(void)
 
 
 
-
+/*
 static 	char         m401_l1[SMG_SIZE];
 static 	char         m401_l2[SMG_SIZE];
 static 	char         m401_l3[SMG_SIZE];
@@ -972,17 +1128,20 @@ int wd5_load(void)
 					m401_l2[k+0]=c1;
 					m401_l2[k+1]=c2;
 					m401_l2[k+2]=0;
+
+					k=k+2;
+	  				if (k>=SMG_SIZE-3) k=SMG_SIZE-3;
+					i=i+2;
 				}
 				else   //repeat times
 				{
 					m401_l3[k+0]=c1;
-					m401_l3[k+1]=c2;
-					m401_l3[k+2]=0;
+					m401_l3[k+1]=0;
+					
+					k=k+1;
+  					if (k>=SMG_SIZE-3) k=SMG_SIZE-3;
+					i=i+1;
 				}
-				k=k+2;
-  				if (k>=SMG_SIZE-3) k=SMG_SIZE-3;
-
-				i=i+2;
 			}
 			else
 			{
@@ -996,25 +1155,29 @@ int wd5_load(void)
 					{
 						ptr=1;
 						k=0;
+						i++;
 					}
 					else
 					{
 						if (ptr==0)  //words
 						{
 							m401_l2[k+0]=c1;
-							m401_l2[k+1]=0;
+							m401_l2[k+1]=c2;
+							m401_l2[k+2]=0;
+							k=k+2;
+	  						if (k>=SMG_SIZE-3) k=SMG_SIZE-3;
+							i=i+2;
 						}
 						else   // repeat times
 						{
 							m401_l3[k+0]=c1;
 							m401_l3[k+1]=0;
+							k=k+1;
+	  						if (k>=SMG_SIZE-3) k=SMG_SIZE-3;
+							i=i+1;
 						}
-						k++;
-  						if (k>=SMG_SIZE-3) k=SMG_SIZE-3;
 					}
 				}
-
-				i++;
 			}
 		}
 
@@ -1057,7 +1220,7 @@ int wd5_load(void)
 
 	return(0);
 }
-
+*/
 int f1_get_fln4(char *s1)
 {
 	strcpy(s1,"words01.txt");
@@ -1076,8 +1239,6 @@ static 	char         m501_l3[SMG_SIZE];
 static 	char         m501_s1[SMG_SIZE];
 static 	char	     m501_s2[SMG_SIZE];
 static 	char	     m501_s3[SMG_SIZE];
-
-
 
 int wd6_load(void)
 {
@@ -1163,8 +1324,8 @@ int wd6_load(void)
 
 	return(0);
 }
-
-int wd5_search(char *s_str)
+/*
+int wd5_search(char *p_str)
 {
 	int p1,p2;
 	int i,j;
@@ -1183,7 +1344,7 @@ int wd5_search(char *s_str)
 		if ( (i<0)||(i>=wd5_ptr)||(i>=ARTI_LINE1) ) return(0);
 		if (i<=p1)
 		{
-			j=strcmp(wd5_buf[i],s_str);
+			j=strcmp(wd5_buf[i],p_str);
 			if (j==0)
 			{
 				find=1;
@@ -1200,7 +1361,7 @@ int wd5_search(char *s_str)
 		{
 			if (i>=p2)
 			{
-				j=strcmp(wd5_buf[i],s_str);
+				j=strcmp(wd5_buf[i],p_str);
 				if (j==0)
 				{
 					find=1;
@@ -1215,7 +1376,7 @@ int wd5_search(char *s_str)
 			}
 			else
 			{
-				j=strcmp(wd5_buf[i],s_str);
+				j=strcmp(wd5_buf[i],p_str);
 				if (j==0)
 				{
 					find=1;
@@ -1241,12 +1402,14 @@ int wd5_search(char *s_str)
 
 	return(find);
 }
-
-int wd6_search(char *s_str)
+*/
+int wd6_search(char *p_str,int p_str_size)
 {
 	int p1,p2;
 	int i,j;
 	int find;
+
+	if (deb_str_has_null(p_str,p_str_size)!=1) return(0);
 
 	find=0;
 	wd6_find_rt=0;
@@ -1261,7 +1424,7 @@ int wd6_search(char *s_str)
 		if ( (i<0)||(i>=wd6_ptr)||(i>=ARTI_LINE2) ) return(0);
 		if (i<=p1)
 		{
-			j=strcmp(wd6_buf[i],s_str);
+			j=strcmp(wd6_buf[i],p_str);
 			if (j==0)
 			{
 				find=1;
@@ -1278,7 +1441,7 @@ int wd6_search(char *s_str)
 		{
 			if (i>=p2)
 			{
-				j=strcmp(wd6_buf[i],s_str);
+				j=strcmp(wd6_buf[i],p_str);
 				if (j==0)
 				{
 					find=1;
@@ -1293,7 +1456,7 @@ int wd6_search(char *s_str)
 			}
 			else
 			{
-				j=strcmp(wd6_buf[i],s_str);
+				j=strcmp(wd6_buf[i],p_str);
 				if (j==0)
 				{
 					find=1;
@@ -1318,6 +1481,410 @@ int wd6_search(char *s_str)
 	}
 
 	return(find);
+}
+
+int f1_load_kuo(void)
+{
+  int  i,j;
+  char str1[300];
+  FILE *fp1;
+  
+  fp1=fopen("cb_kuo_1.txt","r");
+  if (fp1==NULL)
+  {
+    printf("open file cb_kuo_1.txt error\n");
+    return(1);
+  }
+  
+  kuo_ptr1=0;
+  
+  while(!feof(fp1))
+  {
+    fgets(str1,300,fp1);
+    if ((str1[0]>=0)&&(str1[0]<=' ')) continue;
+    string_trim_nos(str1);
+    strcpy(kuo1[kuo_ptr1],str1);
+    kuo_ptr1++;
+  }
+  
+  fclose(fp1);
+  
+  fp1=fopen("cb_kuo_2.txt","r");
+  if (fp1==NULL)
+  {
+    printf("open file cb_kuo_2.txt error\n");
+    return(1);
+  }
+  
+  kuo_ptr2=0;
+  
+  while(!feof(fp1))
+  {
+    fgets(str1,300,fp1);
+    if ((str1[0]>=0)&&(str1[0]<=' ')) continue;
+    string_trim_nos(str1);
+    strcpy(kuo2[kuo_ptr2],str1);
+    kuo_ptr2++;
+  }
+  
+  fclose(fp1);
+  
+  return(0);
+}
+
+char sent_cb[100][10];
+int  sent_cb_ptr;
+
+int load_cb(void)
+{
+	FILE *fp1;
+	int   i,j,k;
+	char  str[300];
+
+	fp1=fopen("cb.txt","r");
+	if (fp1==NULL)
+	{
+		MessageBoxNow(0,"open cb.txt fail ","message",MB_OK);
+		return(1);
+	}
+
+	sent_cb_ptr=0;
+
+	while(!feof(fp1))
+	{
+		str[0]=0;
+
+		fgets(str,300,fp1);
+
+		if (strncmp(str,"backup",6)==0) continue;
+
+		for (i=(int)strlen(str)-1;i>=0;i--)
+		{
+			if ((str[i]>0)&&(str[i]<=' ')) str[i]=0;
+			else break;
+		}
+
+		if (str[0]==0) continue;
+
+		strcpy(sent_cb[sent_cb_ptr],str);
+
+		sent_cb_ptr++;
+
+	}
+
+	fclose(fp1);
+
+	printf("load_cb():total %d punctuation,\n",sent_cb_ptr);
+
+	return(0);
+
+}
+
+int sent_cb_in(char *str)
+{
+	int i;
+	for (i=0;i<sent_cb_ptr;i++)
+	{
+		if (strcmp(str,sent_cb[i])==0) return(1);
+	}
+
+	return(0);
+}
+
+char sent_cb2[100][10];
+int  sent_cb2_ptr;
+
+int load_cb2(void)
+{
+	FILE *fp1;
+	int   i,j,k;
+	char  str[300];
+
+	fp1=fopen("cb2.txt","r");
+	if (fp1==NULL)
+	{
+		MessageBoxNow(0,"open cb2.txt fail ","message",MB_OK);
+		return(1);
+	}
+
+	sent_cb2_ptr=0;
+
+	while(!feof(fp1))
+	{
+		str[0]=0;
+
+		fgets(str,300,fp1);
+
+		if (strncmp(str,"backup",6)==0) continue;
+
+		for (i=(int)strlen(str)-1;i>=0;i--)
+		{
+			if ((str[i]>0)&&(str[i]<=' ')) str[i]=0;
+			else break;
+		}
+
+		if (str[0]==0) continue;
+
+		strcpy(sent_cb2[sent_cb2_ptr],str);
+
+		sent_cb2_ptr++;
+
+	}
+
+	fclose(fp1);
+
+	printf("load_cb2():total %d punctuation,\n",sent_cb2_ptr);
+
+	return(0);
+
+}
+
+int sent_cb2_in(char *str)
+{
+	int i;
+
+	for (i=0;i<sent_cb2_ptr;i++)
+	{
+		if (strcmp(str,sent_cb2[i])==0) return(1);
+	}
+
+	return(0);
+}
+
+char chn_name1[100][10];
+int  chn_name1_ptr;
+
+int load_chn_name1(void)
+{
+	FILE *fp1;
+	int   i,j,k;
+	char  str[300];
+
+	fp1=fopen("chn-name1.txt","r");
+	if (fp1==NULL)
+	{
+		MessageBoxNow(0,"open chn-name1.txt fail ","message",MB_OK);
+		return(1);
+	}
+
+	chn_name1_ptr=0;
+
+	while(!feof(fp1))
+	{
+		str[0]=0;
+
+		fgets(str,300,fp1);
+
+		if (strncmp(str,"backup",6)==0) continue;
+
+		for (i=(int)strlen(str)-1;i>=0;i--)
+		{
+			if ((str[i]>0)&&(str[i]<=' ')) str[i]=0;
+			else break;
+		}
+
+		if (str[0]==0) continue;
+
+		strcpy(chn_name1[chn_name1_ptr],str);
+
+		chn_name1_ptr++;
+
+	}
+
+	fclose(fp1);
+
+	printf("load_chn_name1():total %d,\n",chn_name1_ptr);
+
+	return(0);
+
+}
+
+int chn_name1_in(char *str)
+{
+	int i;
+	for (i=0;i<chn_name1_ptr;i++)
+	{
+		if (strcmp(str,chn_name1[i])==0) return(1);
+	}
+
+	return(0);
+}
+
+char chn_name2[100][10];
+int  chn_name2_ptr;
+
+int load_chn_name2(void)
+{
+	FILE *fp1;
+	int   i,j,k;
+	char  str[300];
+
+	fp1=fopen("chn-name2.txt","r");
+	if (fp1==NULL)
+	{
+		MessageBoxNow(0,"open chn-name2.txt fail ","message",MB_OK);
+		return(1);
+	}
+
+	chn_name2_ptr=0;
+
+	while(!feof(fp1))
+	{
+		str[0]=0;
+
+		fgets(str,300,fp1);
+
+		if (strncmp(str,"backup",6)==0) continue;
+
+		for (i=(int)strlen(str)-1;i>=0;i--)
+		{
+			if ((str[i]>0)&&(str[i]<=' ')) str[i]=0;
+			else break;
+		}
+
+		if (str[0]==0) continue;
+
+		strcpy(chn_name2[chn_name2_ptr],str);
+
+		chn_name2_ptr++;
+
+	}
+
+	fclose(fp1);
+
+	printf("load_chn_name2():total %d,\n",chn_name2_ptr);
+
+	return(0);
+
+}
+
+int chn_name2_in(char *str)
+{
+	int i;
+	for (i=0;i<chn_name2_ptr;i++)
+	{
+		if (strcmp(str,chn_name2[i])==0) return(1);
+	}
+
+	return(0);
+}
+
+char chn_xiaolao[100][10];
+int  chn_xiaolao_ptr;
+
+int load_chn_xiaolao(void)
+{
+	FILE *fp1;
+	int   i,j,k;
+	char  str[300];
+
+	fp1=fopen("chn-xiaolao.txt","r");
+	if (fp1==NULL)
+	{
+		MessageBoxNow(0,"open chn-xiaolao.txt fail ","message",MB_OK);
+		return(1);
+	}
+
+	chn_xiaolao_ptr=0;
+
+	while(!feof(fp1))
+	{
+		str[0]=0;
+
+		fgets(str,300,fp1);
+
+		if (strncmp(str,"backup",6)==0) continue;
+
+		for (i=(int)strlen(str)-1;i>=0;i--)
+		{
+			if ((str[i]>0)&&(str[i]<=' ')) str[i]=0;
+			else break;
+		}
+
+		if (str[0]==0) continue;
+
+		strcpy(chn_xiaolao[chn_xiaolao_ptr],str);
+
+		chn_xiaolao_ptr++;
+
+	}
+
+	fclose(fp1);
+
+	printf("load_chn_xiaolao():total %d,\n",chn_xiaolao_ptr);
+
+	return(0);
+
+}
+
+int chn_xiaolao_in(char *str)
+{
+	int i;
+	for (i=0;i<chn_xiaolao_ptr;i++)
+	{
+		if (strcmp(str,chn_xiaolao[i])==0) return(1);
+	}
+
+	return(0);
+}
+
+char chn_chenghu[1000][30];
+int  chn_chenghu_ptr;
+
+int load_chn_chenghu(void)
+{
+	FILE *fp1;
+	int   i,j,k;
+	char  str[300];
+
+	fp1=fopen("chn-chenghu.txt","r");
+	if (fp1==NULL)
+	{
+		MessageBoxNow(0,"open chn-chenghu.txt fail ","message",MB_OK);
+		return(1);
+	}
+
+	chn_chenghu_ptr=0;
+
+	while(!feof(fp1))
+	{
+		str[0]=0;
+
+		fgets(str,300,fp1);
+
+		if (strncmp(str,"backup",6)==0) continue;
+
+		for (i=(int)strlen(str)-1;i>=0;i--)
+		{
+			if ((str[i]>0)&&(str[i]<=' ')) str[i]=0;
+			else break;
+		}
+
+		if (str[0]==0) continue;
+
+		strcpy(chn_chenghu[chn_chenghu_ptr],str);
+
+		chn_chenghu_ptr++;
+
+	}
+
+	fclose(fp1);
+
+	printf("load_chn_chenghu():total %d,\n",chn_chenghu_ptr);
+
+	return(0);
+
+}
+
+int chn_chenghu_in(char *str)
+{
+	int i;
+	for (i=0;i<chn_chenghu_ptr;i++)
+	{
+		if (strcmp(str,chn_chenghu[i])==0) return(1);
+	}
+
+	return(0);
 }
 
 #include "../common/common.c"

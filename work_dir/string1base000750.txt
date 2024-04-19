@@ -6350,9 +6350,7 @@ TC103´¥ÃþÆÁÊÖ»úÉÏÊÐ_Òµ½ç_´óÓåÍø_ÌÚÑ¶Íø
 ¿ñÇÔÈÈÃÅÍøÓÎÕËºÅ_ÓÎÏ·ÖÐÐÄÐÂÎÅ_´óÓåÍø_ÌÚÑ¶Íø
 ÈÈ½­°¸±»ÁÁ»ÆÅÆ
 ±»ËßÍâÆóÐÂÆ·ÔÝ²»ÉóÅú_ÓÎÏ·ÖÐÐÄÐÂÎÅ_´óÓåÍø_ÌÚÑ¶Íø
-¾Å³Ç¡¶FIFA
-OL
-2¡·ÊÔÍæÒý±¬ÏÖ³¡_ÓÎÏ·ÖÐÐÄÐÂÎÅ_´óÓåÍø_ÌÚÑ¶Íø
+¾Å³Ç¡¶FIFA OL 2¡·ÊÔÍæÒý±¬ÏÖ³¡_ÓÎÏ·ÖÐÐÄÐÂÎÅ_´óÓåÍø_ÌÚÑ¶Íø
 Âò·¿Í¶×Ê»¹ÊÇ³´¹É³´»ã
 80ºóÀí²ÆÂ·ÔÚºÎ·½_´óÓåÍø_ÌÚÑ¶Íø
 ´óÑ§ÉúÀí²ÆÈý¼¶ÌøÇÐ¼ÉÉá±¾ÖðÄ©_´óÓåÍø_ÌÚÑ¶Íø
@@ -9387,8 +9385,7 @@ IntelÆ½Ì¨³¬ÖµÅäÖÃÍÆ¼ö_DIYÓ²¼þ_´óÓåÍø_ÌÚÑ¶Íø
 95ËêÀÏÌ«Âô±¨
 ÊÕÇ®ÕÒ²¹Ã»ÎÊÌâ
 ÃÎÏë»îµ½150_ÖØÇì½¡¿µÐÂÎÅ_´óÓåÍø_ÌÚÑ¶Íø
-ÊÓÆµ£ºÍòÊ¥½ÚÖ®ÁéÒìÆ¬¡¶»îÈË¼À
-A¡·_´óÓåÍø_ÌÚÑ¶Íø
+ÊÓÆµ£ºÍòÊ¥½ÚÖ®ÁéÒìÆ¬¡¶»îÈË¼À A¡·_´óÓåÍø_ÌÚÑ¶Íø
 ¡°ÂãÌæ¡±×Þ¿ªÔÆµÀÇ¸£ºÎÒµÄÉí²Ä±ÈÌÀÎ¨ºÃ(Í¼)_ÓéÀÖÐÂÎÅ_´óÓåÍø_ÌÚÑ¶Íø
 ÐÂÎÅ·¢ÑÔÈËÖÆ¶È²»Ö»ÊÇÕÙ¿ªÐÂÎÅ·¢²¼»á_×îÐÂÆÀÂÛ_´óÓåÍø_ÌÚÑ¶Íø
 È«¹úÈË´óÄÚË¾Î¯½¨Òé»§¼®·¨ÁÐÈëÏÂ½ìÁ¢·¨¼Æ»®_Éî¶È±¨µÀ_´óÓåÍø_ÌÚÑ¶Íø
@@ -11432,8 +11429,7 @@ QQÂÛÌ³
 2.
 °³´óÑ§Ò»±ÏÒµ£¨Ö¤Êé»¹Ã»Áì£©¾ÍÀ´ÃÀ¹ú£¬ÔÚ¹úÄÚÇîÑ§ÉúÒ»¸ö£¬´ÓÃ»¹¤×÷¹ý£¬Ã»Ð¡×Ê¹ý£¬ËùÒÔ²»ÏóÏÖÔÚµÄÁôÑ§ÉúºÍ¹úÄÚÐ¡×Ê°×Áìmm¡£
 3.
-°³¸¸Ä¸¶¼ÊÇ½ÌÊéµÄ£¬ÊôÓÚÕõµÃ²»¶à£¬ÓÖ×ÔÃüÇå¸ß£¬ÓÖ¶Ô°³¹ÜÌØÑÏ£¬ÉùÉ«³¡ËùÍêÈ«Ã»¼ûÊ¶¹ý¡£ÏÖÔÚÌ¸Ì¸°³¸ÕÀ´µÎÍÁÊÂ¸ø´ó¼ÒÀÖÀÖ£¨ÊÜÃÀ¹úÈËÓ°Ïì¹þ£¬±È½Ïpositive£¬Ï²»¶¼ÇÒäÈ¤ÊÂ£¬ÉËÐÄÊÂÒÔºó×¨ÃÅ¿ªÌù·ÖÏí
-:-)¡£
+°³¸¸Ä¸¶¼ÊÇ½ÌÊéµÄ£¬ÊôÓÚÕõµÃ²»¶à£¬ÓÖ×ÔÃüÇå¸ß£¬ÓÖ¶Ô°³¹ÜÌØÑÏ£¬ÉùÉ«³¡ËùÍêÈ«Ã»¼ûÊ¶¹ý¡£ÏÖÔÚÌ¸Ì¸°³¸ÕÀ´µÎÍÁÊÂ¸ø´ó¼ÒÀÖÀÖ£¨ÊÜÃÀ¹úÈËÓ°Ïì¹þ£¬±È½Ïpositive£¬Ï²»¶¼ÇÒäÈ¤ÊÂ£¬ÉËÐÄÊÂÒÔºó×¨ÃÅ¿ªÌù·ÖÏí :-)¡£
 ÎÒµÄµÚÒ»¸öroomate
 À´ÃÀ¹úÇ°¾Í¶¨ÁË·¿×Ó£¬ÊÇÐ£ÑÐ¾¿ÉúÂ¥£¬ÒòÎªÑ§Ð£²¹Ìù£¬±ÈÍâÃæ±ãÒË£¬µ«ÓÅÏÈÒ»Äê¼¶ÑÐ¾¿Éú¡£roomate²»ÖªµÀ£¬ÓÉËûÃÇ¶¨£¬µ«»ù±¾ÉÏ°´Ñ§Ôº·Ö¡£ÏÂÁË·É»ú£¬ÎÒÃÇÏµÖÐ¹úÍ¬Ñ§³Â´ó¸çÀ´½Ó»ú£¬µÚ¶þÌì£¬³Â´ó¸çºÍ³ÂÉ©´øÎÒÈ¥ËÞÉá£¬µÚÒ»´Î¼ûµ½ÎÒµÄroomate£¬Ò»¸öÅ£¸ßÂí´óµÄÑóæ¤£¬¿´×Å²»Ì«¸ßÐËµÄÑù×Ó£¬´òÁËÕÐºô£¬Ëý¾Í½øËýµÄ·¿¼äÁË¡£³Â´ó¸çËµ£ºÄãÓÐµã²Ò£¬Õâ¸öÅ®µÄ£¬ºÜÄÑÏà´¦µÄ£¬´ó¸Åµ±µØÑ§Éú¶¼²»Ô¸¸úËý×¡£¬²ÅÁô¸øÄãÁË£¬±¾À´µ¥ÉíÅ®ÉúÒ²ÉÙ¡£ºÜ¶àÃÀ¹úÑ§ÉúÀ´Ö®Ç°ÒÑ¾­¶ÔÏµÀï±È½ÏÊìÁË£¬ËûÃÇ¶¼×Ô¼º×éºÏÁË£¬±ÈÈçÀÏ¹«µÄroomate,¾ÍÊÇËûÃÇÀ´Ñ§Ð£visitÊ±×Ô¼º½áºÏµÄ¡£¹ûÈ»£¬Ò»»á¶ù£¬Ëý³öÀ´Ëµ£º"ÇëÄã¾¡¿ì×Ô¼º×°Ò»ÌõÐÂµÄphone
 line.
@@ -11457,28 +11453,27 @@ eyes,
 "
 ÎÒÏë:¿É²»ÊÇÂð£¬¶«·½ÈË²»¶¼ÊÇslant
 eyes
-Âð,È·Êµ°Ñ´ó¼Ò¶¼ÂîÁË¡£ÄÇÒÔºóºÃ¼¸Ìì£¬ÎÒÃ»¸Òµ±ËýÃæ³Ô¹ýÃæÌõ£¬ÒòÎªÎÒ·¢ÏÖÎÒ³ÔµÄÒ²ÓÐÏìÉù£¬Ïñ¶¯Îï:-(
-ºóÀ´²ÅÖªµÀÎ÷·½ÈËÔõÃ´°ÑÃæÈÆÔÚ²æ×ÓÉÏ³Ô¡£
+Âð,È·Êµ°Ñ´ó¼Ò¶¼ÂîÁË¡£ÄÇÒÔºóºÃ¼¸Ìì£¬ÎÒÃ»¸Òµ±ËýÃæ³Ô¹ýÃæÌõ£¬ÒòÎªÎÒ·¢ÏÖÎÒ³ÔµÄÒ²ÓÐÏìÉù£¬Ïñ¶¯Îï:-( ºóÀ´²ÅÖªµÀÎ÷·½ÈËÔõÃ´°ÑÃæÈÆÔÚ²æ×ÓÉÏ³Ô¡£ 
 À´ÃÀ¹úºóºÜ¿ì¾Í¸úÀÏ¹«ÈÏÊ¶ÁË£¬ÒòÎª¶¼ÊÇÍ¬Ò»¸öfield
 µÄÒ»Äê¼¶ÑÐ¾¿Éú¡£Ò»¿éÉÏ¿Î£¬Ò»¿éTA......µ«ÊÇ¸úËûµÄÕýÊ½datingÊÇºÜ¾ÃÖ®ºó£¬ËùÒÔÒÔÏÂÌáµ½ÀÏ¹«£¬ÆäÊµ¶¼»¹Ö»ÊÇ´¿½àµÄÍ¬Ö¾¹ØÏµ¡£
 À´µÄµÚ¶þÖÜ£¬¿ªÊ¼TA,ºÍÀÏ¹«´øÍ¬Ò»¸ö´ó°à,ºóÀ´ÖªµÀ´ó¿Î½ÌÊÚÒ»°ã»áÕâÑù°²ÅÅ£¬°Ñ¸ÕÀ´µÄ¹ú¼ÊÑ§ÉúTA¸úµ±µØÑÐ¾¿Éú´îÅä¡£ÖÐ²ÍÊ±¼ä½ô£¬ÀÏ¹«¾Í³ÔÁËÅÝÃæ£¬²Å·¢ÏÖËûÔõÃ´³Ô¡£ÏÈ°ÑË®·ÅÎ¢²¨Â¯ÉÕÈÈ£¬Í¬Ê±°ÑÃæ¸ô×ÅËÜÁÏ´üÄóËé£¬È»ºóµ¹½øÈ¥£¬×îºóÓÃspoon³Ô¡£ÎÒÏëÎÒÂòÅÝÃæÊ±¶¼ÒªÌôÕû¿é²»ËéµÄ£¬Ã»Ïëµ½ÓÐÈËÕâÑù³Ô¿ì²ÍÃæ¡£ËûËµ£º"ÕâÑù¿ÉÒÔÁ¬Ãæ´øÌÀÒ»ÆðÓÃspoon³Ô"¡£ÎÒËæ¿Ú¼ÓÁËÒ»¾ä£¬"»¹¿ÉÒÔÃ»Ê²Ã´ÉùÒô"¡£ËûÍ£ÏÂÀ´£¬Ëµ£º"Äã²»±ØÌ«ÔÚÒâ±ðÈËµÄ»°¡£ÓÈÆäÊÇÄãÄÇ¸öroomate,
 Ëý¾ÍÊÇÒ»¸önarrow-minded,
 µÄÖÐ²¿Å©Ãñ£¨Ëý×æ±²È·Êµ¶¼ÊÇfarmer)£¬»¹×ÔÒÔÎªÊÇÌìÏÂ×î¸ß¹ó×îÓÐclassµÄÈË£¬²»ËµËýÊÇracistÊÇ²»Ïë¸øËýÕÒÂé·³"¡£ÎÒºÜÉÙÌýµ½ËûÕâÑùËµÒ»¸öÈË£¬ºÜ¾ªÑÈ£¬ÎÊ£º"ÄãÒÔÇ°¾ÍÖªµÀËýÂð£¿"
 ËûËµ£º"ÎÒÒ²¸ÕÀ´£¬Ã»¸úËý´ò¹ý½»µÀ£¬ËýÃûÉù²»ºÃµÄ£¬¸úËýÍ¬×¡È·Êµ²»ÐÒÔË
-:-(
+:-( 
 ¿¼ÊÔ×÷±×ÊÂ¼þ
 ºÍÀÏ¹«Ò»ÆðTAÊ±£¬Ò»´ÎÐ¡¿¼£¬Ëû¸ÄÊÔ¾í£¬·¢ÏÖÓÐÁ½¸öÑ§Éú×÷±×£¬ÎÒµ±Ê±×Ô¼º¶¼½¹Í·ÀÃ¶î£¬Ïë»ì¹ýÈ¥ËãÁË¡£¾ÍÎÊËû£ºÄãÈ·ÐÅÂð£¿ËûËµËû¾ø¶Ôpositive.Ëû¼á³ÖÒª¸ú½ÌÊÚ½²£¬ËµÕâÊÇµÚÒ»´Î¿¼ÊÔ£¬Èç¹û²»µã³öÀ´£¬ÒÔºó»áÓÐ¶ñ¹û¡£ÕýºÃÖ®ºó½ÌÊÚÒªout
 of
 town
 Á½Ìì£¬ÈÃÀÏ¹«¸úÍ¬Ñ§½²Õâ¼þÊÂ¡£ÓÚÊÇÄÇÌìÉÏ¿Î£¬ÀÏ¹«Ðû²¼Ì¹°×´Ó¿í£¬¿¹¾Ü´ÓÑÏÀàËÆµÄ»°£¬ÈÃÈËÀ´×ÔÊ×£¬Ëµ£º"Èç¹ûÍíÉÏÊµÔÚË¯²»×Å£¬¾ÍÀ´ÕÒÎÒ£¬·ñÔò¿ÉÒÔµÈµ½½ÌÊÚ»ØÀ´."
 µ±Ê±¾õµÃËûÍ¦Ð×µÄ£¬»¹¸øÁËÒ»¸ödeadline.
-ºóÀ´ËûËµÀ´ÁËÁ½¸ö×ÔÊ×µÄ¼Ò»ï£¬ÎÒËµÌ«ºÃÁË£¬½áÊøÁË¡£ËûËµ£º²»ÊÇ£¬ÕâÁ½¸öÊÇbonus,²»ÊÇÔ­ÏÈÄÇÁ½¸ö:-(¡£ºóÀ´ºÃÏñÄÇÁ½¸öÒ²×ÔÊ×ÁË¡£
+ºóÀ´ËûËµÀ´ÁËÁ½¸ö×ÔÊ×µÄ¼Ò»ï£¬ÎÒËµÌ«ºÃÁË£¬½áÊøÁË¡£ËûËµ£º²»ÊÇ£¬ÕâÁ½¸öÊÇbonus,²»ÊÇÔ­ÏÈÄÇÁ½¸ö:-(¡£ºóÀ´ºÃÏñÄÇÁ½¸öÒ²×ÔÊ×ÁË¡£ 
 ÎÒÃÇÑ§Ð£ÖÐ¹úÈË²»ÉÙ£¬µ«µ¥ÉíÈ´ºÜÉÙ£¬ºóÀ´¾õµÃÔ­ÒòÊÇºÜÉÙÖ±½Ó´ÓÖÐ¹ú´óÂ½À´£¬´ó²¿·ÖÊÇÒÑ¾­À´ÃÀ¹úÒ»Õó×Óºó£¬×ªÀ´µÄ¡£ËùÒÔ´ó²¿·Ö³É¼ÒÁË¡£¶øÇÒ£¶£´ÂÌ¿¨ÈÃÒ»²¿·ÖÈË»ðËÙ½á»é¡£ÎÒÖÜÎ§µ¥ÉíÖÐ¹ú¸ç¸çºÜÉÙ£¬½Ó´¥µÄ¶¼ÊÇ³Â´ó¸çÕâÖÖÒÑ»éÈËÊ¿¡£
 µÚÒ»´Î¸ú³Â´ó¸çÈ¥Âò²Ë£¬´í°ÑSour
 Creamµ±³ÉËáÄÌ£¬»ØÀ´³ÔÁËÒ»¿Ú£¬Î¶µÀÌ«ÄÑ³Ô£¬µ«ÏëÆð³Â´ó¸çµÄ½Ìµ¼£¬À´ÃÀ¹ú×î²»Ï°¹ßµÄ¾ÍÊÇÒûÊ³£¬¶à³Ô³Ô£¬¾ÍÏ°¹ßÁË¡£ËùÒÔ°³¾ÍÓ²×ÅÍ·Æ¤³Ô£¬ÕýºÃroomate»ØÀ´£¬¿´ÁË£¬´ó³ÔÒ»¾ª£¬ÖÐ¹úÈËÕâÑù³ÔSour
 Cream°¡£¡Oh,
 ma---n!Ò¡×ÅÍ·½øËýÎÝÁË£¬ÁôÏÂ°³ÀãÔÚÄÇ¡£ºóÀ´²ÅÖªµÀÄÇÊÇÃÀ¹úÈË³ÔÉúÇÛÕ´×Å³ÔµÄ¡£²»ÊÇyogurt
-:-(
+:-( 
 [1]
 [2]
 ¡¾ÊÖ»ú¿´ÐÂÎÅ¡¿¡¾ÊÕ²Øµ½QQÊéÇ©¡¿¡¾ÐÂÎÅ¶©ÔÄ¡¿
@@ -14473,8 +14468,7 @@ http://cq.QQ.com
 2007Äê11ÔÂ05ÈÕ13:16
 ¶àÂ×¶àÐÅÏ¢¸Û
 ÆÀÂÛ0Ìõ
-ÃÀ¹ú¡¶The
-Scientist¡·£¨¿ÆÑ§¼Ò£©ÔÓÖ¾½«Á½Ëù¼ÓÄÃ´ó´óÑ§ÁÐÈëÁËÆä×îÊÊºÏ×öÑ§ÊõÑÐ¾¿µÄ´óÑ§µÄÇ°Ê®Î»¡£
+ÃÀ¹ú¡¶The Scientist¡·£¨¿ÆÑ§¼Ò£©ÔÓÖ¾½«Á½Ëù¼ÓÄÃ´ó´óÑ§ÁÐÈëÁËÆä×îÊÊºÏ×öÑ§ÊõÑÐ¾¿µÄ´óÑ§µÄÇ°Ê®Î»¡£
 ¡¤
 -->
 ¡¤
@@ -14487,26 +14481,12 @@ Scientist¡·£¨¿ÆÑ§¼Ò£©ÔÓÖ¾½«Á½Ëù¼ÓÄÃ´ó´óÑ§ÁÐÈëÁËÆä×îÊÊºÏ×öÑ§ÊõÑÐ¾¿µÄ´óÑ§µÄÇ°Ê®Î»¡
 -->
 ¡¤
 -->
-¼ÓÄÃ´ó´÷¶ûºÀË¹´óÑ§£¨Dalhousie
-University£©ÃûÁÐµÚÒ»Î»£¬ÆäºóÊÇÓ¢¹úµÄÅµ¶¡ºº´óÑ§£¨University
-of
-Nottingham£©ºÍ·ÒÀ¼µÄºÕ¶ûÐÁ»ù´óÑ§£¨University
-of
-Helsinki£©¡£°¢¶û²®Ëþ´óÑ§£¨University
-of
-Alberta£©ÅÅÔÚµÚÎåÎ»¡£ËØÓÐÉùÍûµÄÅ£½ò´óÑ§ÅÅÔÚµÚ10Î»¡£
-ÆäËû¼ÓÄÃ´ó´óÑ§ÔÚÃûµ¥ÖÐÒ²ÊÇËæ´¦¿É¼û£¬ÆäÖÐ°üÀ¨¶àÂ×¶à´óÑ§£¨University
-of
-Toronto£©£¬Âó¿ËÂíË¹ÌØ´óÑ§£¨McMaster
-University£©ÒÔ¼°ÎÂ¸ç»ªµÄÓ¢Êô¸çÂ×±ÈÑÇ´óÑ§£¨University
-of
-British
-Columbia£©¡£¸ÃÔÓÖ¾½«ÃÀ¹úÑ§Ð£¶À×ÔÁÐÁËÒ»·ÝÅÅÃûÃûµ¥¡£
+¼ÓÄÃ´ó´÷¶ûºÀË¹´óÑ§£¨Dalhousie University£©ÃûÁÐµÚÒ»Î»£¬ÆäºóÊÇÓ¢¹úµÄÅµ¶¡ºº´óÑ§£¨University of Nottingham£©ºÍ·ÒÀ¼µÄºÕ¶ûÐÁ»ù´óÑ§£¨University of Helsinki£©¡£°¢¶û²®Ëþ´óÑ§£¨University of Alberta£©ÅÅÔÚµÚÎåÎ»¡£ËØÓÐÉùÍûµÄÅ£½ò´óÑ§ÅÅÔÚµÚ10Î»¡£
+ÆäËû¼ÓÄÃ´ó´óÑ§ÔÚÃûµ¥ÖÐÒ²ÊÇËæ´¦¿É¼û£¬ÆäÖÐ°üÀ¨¶àÂ×¶à´óÑ§£¨University of Toronto£©£¬Âó¿ËÂíË¹ÌØ´óÑ§£¨McMaster University£©ÒÔ¼°ÎÂ¸ç»ªµÄÓ¢Êô¸çÂ×±ÈÑÇ´óÑ§£¨University of British Columbia£©¡£¸ÃÔÓÖ¾½«ÃÀ¹úÑ§Ð£¶À×ÔÁÐÁËÒ»·ÝÅÅÃûÃûµ¥¡£
 ÉÔÎ¢²»ºÃµÄÏûÏ¢¾ÍÊÇÔÚ¸ÃÔÓÖ¾×îÊÊÒË×öÑÐ¾¿µÄ¹ú¼ÒÃûµ¥ÖÐ£¬¼ÓÄÃ´ó´ÓµÚÒ»Î»£¨2005ºÍ2006Äê£©½µµ½ÁËµÚÈýÎ»£¬ÅÅÔÚ±ÈÀûÊ±ºÍÃÀ¹úÖ®ºó¡£
 ´÷¶ûºÀË¹´óÑ§Ð£³¤Tom
 TravesËµÕâÏîµ÷²éÈÏ¿ÉÁËÑ§Ð£Ëù×öµÄÅ¬Á¦²¢ËµÕâÔòÏûÏ¢¶ÔÕÐÉúºÍÑ§Ð£µÄÔ±¹¤À´Ëµ¶¼·Ç³£ÓÐÒæ¡£´÷¶ûºÀË¹´óÑ§ºÍ°¢¶û²®Ëþ´óÑ§¶¼Ã»ÓÐ²Î¼Ó½ñÄêµÄMaclean¼ÓÄÃ´ó´óÑ§ÅÅÃû¡£Traves³Æ¸ÃÔÓÖ¾µÄµ÷²é¡°²»¿ÆÑ§£¬²»ÄÜ·þÖÚ¡±²¢ËµÆäÅÐ¶Ï·Ç³£Îä¶Ï¡£
-¡¶The
-Scientist¡·µÄ·¢ÐÐÈËºÍ±à¼­Richard
+¡¶The Scientist¡·µÄ·¢ÐÐÈËºÍ±à¼­Richard
 GallagherËµËûÃÇÔÓÖ¾µÄÅÅÃûÊÇÓÉÑ§Ð£ÄÚµÄÈËÆÀÑ¡³öÀ´µÄ£¬ÕâÖÖÐÎÊ½ÓÐ²»ÀûµÄ³É·Ö£¬Ò²ÓÐÓÐÀûµÄÒòËØ¡£¡°ÓÅÊÆ¾ÍÊÇÎÒÃÇÄÜ´ÓÕâÏîµ÷²éÖÐ¿´µ½ÈËÃÇµÄÕæÊµÒâ¼û¡£µ«Í¨³£Ëµ£¬ÓÐÐ©ÈË¾ÓÐÄØÏ²â£¬Èç¹ûËûÃÇÓÐÆ«¼ûµÄ»°Ò²»áÓ°Ïìµ÷²é½á¹û¡£¡±
 ÕâÏîµ÷²é·ÃÎÊÁË18¸ö¹ú¼Ò£¬83¸öÑ§Ð£µÄ2072ÈË¡£»Ø´ðÕß¸ù¾Ý39¸ö±ê×¼ÆÀ¼ÛÁËËûÃÇµÄ¹¤×÷»·¾³£¬°üÀ¨¹¤×÷ÂúÒâ¶È£¬Ð½³êºÍÖ°ÎñµÈ¡£
 [ÔðÈÎ±à¼­:maciyapang]
@@ -16316,8 +16296,7 @@ TVB½ðÅÆ¼àÖÆ±¬£ºÁº³¯Î°ÔøÒò¸ö×Ó°«¶ø×Ô±°(Í¼)_ÓéÀÖÐÂÎÅ_´óÓåÍø_ÌÚÑ¶Íø
 ÖÐ¹ú·Ç¹«ÓÐÖÆ¾­¼Ã·¢Õ¹ÂÛÌ³ÔÚÓå¾ÙÐÐ
 ÍôÑóÖÂ´Ç_ÖØÇìÐÂÎÅ_´óÓåÍø_ÌÚÑ¶Íø
 ×¨¼ÒÁ¼ÑÔ:ÍíË¯×å»¤·ô3·½°¸_´óÓåÍø_ÌÚÑ¶Íø
-ÖÜ½ÜÂ×¡¶ÕæÈý¹úÎÞË«
-OL¡·Ö÷ÌâÇúÆØ¹â_ÓÎÏ·ÖÐÐÄÈÈµãÐÂÎÅ_´óÓåÍø_ÌÚÑ¶Íø
+ÖÜ½ÜÂ×¡¶ÕæÈý¹úÎÞË« OL¡·Ö÷ÌâÇúÆØ¹â_ÓÎÏ·ÖÐÐÄÈÈµãÐÂÎÅ_´óÓåÍø_ÌÚÑ¶Íø
 ¡¶¾ÞÈË¡·Íæ¼ÒÁã·çÏÕ³´¡°¾ÞÈË¹ÉÆ±¡±_ÓÎÏ·ÖÐÐÄÈÈµãÐÂÎÅ_´óÓåÍø_ÌÚÑ¶Íø
 ÖØÇì:ÒøÐÐÍ£°ì¶þÊÖ·¿´û
 ¶þÊÖ·¿½»Ò×Á¿´ó·ùÏÂ½µ_±¾ÍÁ&#183;Òµ½ç_´óÓåÍø_ÌÚÑ¶Íø
@@ -21527,8 +21506,7 @@ AMDÍÆ³öÊÀ½çÊ×¿î×¨ÓÃÁ÷´¦Àí¿¨_×îÐÂ¸üÐÂ_´óÓåÍø_ÌÚÑ¶Íø
 ÌáÇ°»¹´û10Íò¿ÉÊ¡Ï¢11Íò
 ¿´×¨¼ÒÎªÄãÖ§ÕÐ(Í¼)_¹º·¿×ÊÑ¶_´óÓåÍø_ÌÚÑ¶Íø
 ÒøÐÐÃâ·Ñ·þÎñÖð½¥ÖÕ½á_Àí²ÆÖØÇì_´óÓåÍø_ÌÚÑ¶Íø
-ÊÀ¼ÍÌì³É´úÀíÊ·Ê«¼¶FPS¾Þ×÷¡¶CS
-OL¡·_ÓÎÏ·ÖÐÐÄÈÈµãÐÂÎÅ_´óÓåÍø_ÌÚÑ¶Íø
+ÊÀ¼ÍÌì³É´úÀíÊ·Ê«¼¶FPS¾Þ×÷¡¶CS OL¡·_ÓÎÏ·ÖÐÐÄÈÈµãÐÂÎÅ_´óÓåÍø_ÌÚÑ¶Íø
 É«Î¶¾ãÈ«µÄ×Ï²ËÊÙË¾¾í_ÃÀÊ³DIY_´óÓåÍø_ÌÚÑ¶Íø
 Ë­ÊÇÍõÕß
 Ä¦ÍÐV8¶Ô±ÈÅµ»ùÑÇN76_×îÐÂ¸üÐÂ_´óÓåÍø_ÌÚÑ¶Íø

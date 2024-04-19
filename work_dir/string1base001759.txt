@@ -368,8 +368,7 @@ more
 ·我的笔记本收到了！
 ·我的礼品收到了
 医生研究室
-[教育考试
-]
+[教育考试 ]
 中医:<<执业医师>>能否开西医处方？
 [热点话题]
 急救病人时被病人家属打了一耳光怎么办（附标准答案）
@@ -378,8 +377,7 @@ more
 [皮肤性病科]
 少女服用避孕药治疗“青春痘”好吗
 ?
-[药品
-]
+[药品 ]
 临床药物禁用忌用慎用该如何对待？
 更多>>
 健康知识
@@ -708,17 +706,12 @@ Reserved
 01-15
 [电脑数码]
 [图文]
-数码相机三包规定（修理
-退货
-换货..
-01-07
+数码相机三包规定（修理 退货 换货.. 01-07 
 [电脑数码]
-电脑/外设/数码产品三包规定（附件..
-01-07
+电脑/外设/数码产品三包规定（附件.. 01-07 
 [电脑数码]
 [图文]
-电脑/外设/数码产品三包规定（正文..
-01-07
+电脑/外设/数码产品三包规定（正文.. 01-07 
 常用电话
 [宁夏]
 固原常用电话
@@ -1062,11 +1055,9 @@ Copyright
 [在线成语词典]
 站长查询
 [查域名注册信息]
-[Google
-PageRank]
+[Google PageRank]
 [Alexa排名资料]
-[Google
-Adsense预览]
+[Google Adsense预览]
 [搜索引擎收录查询]
 民俗娱乐
 [万年历对照表]
@@ -1675,8 +1666,7 @@ S.H.E
 张靓颖
 没有你的日子我..
 韩晶
-改变自己(精彩..
-王力宏
+改变自己(精彩.. 王力宏 
 我们说好的
 张靓颖
 有一种爱叫做放手
@@ -1737,20 +1727,15 @@ N+1
 不能说的秘密
 周杰伦
 更多
-烦恼歌(扣人..
-张学友
-黄色枫叶(扣..
-薛之谦
+烦恼歌(扣人.. 张学友 
+黄色枫叶(扣.. 薛之谦 
 忘记你我做不..
 张学友
-西海情歌(扣..
-刀郎
-K歌之王(扣人..
-陈奕迅
+西海情歌(扣.. 刀郎 
+K歌之王(扣人.. 陈奕迅 
 红日
 李克勤
-快乐男生(扣..
-陈奕迅
+快乐男生(扣.. 陈奕迅 
 真的爱你
 Beyond
 黄玫瑰
@@ -1765,8 +1750,7 @@ Beyond
 苏慧伦
 蓝色土耳其
 周传雄
-好姑娘(精彩..
-李晓杰
+好姑娘(精彩.. 李晓杰 
 天若有情
 胡彦斌
 上海姑娘
@@ -1819,15 +1803,14 @@ Tank
 Loving
 李宇春
 畅享08奥运
-[12530Gadget(for
-V..]
+[12530Gadget(for V..]
 [S.H.E台北..][希亚同名专..]
 ·
 方子颖自曝曾为张柏芝当替身（图）
 ·
-蕙儿情歌将在内地再度“绽放”（..
+蕙儿情歌将在内地再度“绽放”（..  
 ·
-Akon新专辑《Konvicted爱的告白..
+Akon新专辑《Konvicted爱的告白..  
 ·
 Bon
 Jovi邦&#8226;乔维新专辑
@@ -1899,8 +1882,7 @@ Twins
 堕落天使
 徐怀钰
 5
-将军令(梦幻..
-吴克群
+将军令(梦幻.. 吴克群 
 6
 一千遍我爱你
 伊能静
@@ -2190,17 +2172,12 @@ Beyond
 月亮代表我的心
 邓丽君
 音乐卒业旅行
-<col
-width="101"
-span="4">
+<col width="101" span="4">
 歌曲名
 歌手
 试听
 订制
-天香(God
-Is
-A
-Girl中文版)
+天香(God Is A Girl中文版)
 安以轩
 Take
 Me
@@ -2338,9 +2315,7 @@ Birthday
 欢喜城
 戒不了你
 狂想世界
-<col
-width="72"
-/>
+<col width="72" />
 流泪手心
 龙的传人
 梦想被冷冻
@@ -2365,9 +2340,7 @@ width="72"
 永远的第一天
 这就是爱
 竹林深处
-<col
-width="72"
-/>
+<col width="72" />
 落叶归根
 Kiss
 Goodbye(高潮版)
@@ -2734,8 +2707,7 @@ TOM猫
 Tank
 好久不见
 张学友
-绝不放手(完美..
-黄征
+绝不放手(完美.. 黄征 
 太刺激2007
 酷兔兔..
 幸福的地图
@@ -2830,8 +2802,7 @@ Track。
 3.
 [超人]
 4.
-[归宿
-]5.
+[归宿 ]5.
 [一块钱]
 歌名
 试听
@@ -3333,10 +3304,10 @@ cellpadding="0">
 《大灌篮》预告片出炉
 周董变身都
 三地笑匠齐聚首
-四大高手护周董(图
+四大高手护周董(图 
 吴宗宪不满造型
 《大灌篮》给周杰
-刘德华携吉祥物唱拜年歌《恭喜发财
+刘德华携吉祥物唱拜年歌《恭喜发财 
 张敬轩夺内地大奖
 新碟大卖将推国
 ﻿
@@ -3349,13 +3320,13 @@ style="display:none">
 《大灌篮》马拉松式宣传
 阿SA接棒
 大年初一《大灌篮》
-周董拼命贺岁(
+周董拼命贺岁( 
 《大灌篮》特技精彩
 周董称赞陈柏
 《大灌篮》即将杀青角
-色人物简介(
+色人物简介( 
 鼠年贺岁歌大比拼
-郝云PK王宝强(图
+郝云PK王宝强(图 
 周笔畅广州勇战垂直过山车
 希望今
 ﻿
@@ -3373,7 +3344,7 @@ style="display:none">
 一个偶像九个情人
 触碰王力宏的情
 赵薇享受音乐快乐
-给旅行新意义(
+给旅行新意义( 
 Super
 Junior搜狐专访
 挑战北京名
@@ -6365,8 +6336,7 @@ Hot!
 玄幻·奇幻
 异界之极品奶爸
 异界之极品奶爸
-[
-内容简介]BR
+[ 内容简介]BR
 BR
 ...
 《校园侠医》
@@ -6436,8 +6406,7 @@ BR
 军事·历史
 异界之极品奶爸
 异界之极品奶爸
-[
-内容简介]BR
+[ 内容简介]BR
 BR
 ...
 《星辰变》
@@ -6574,14 +6543,14 @@ BR
 第四集
 百女盛宴
 第九十五章
-女神是我禁脔（
+女神是我禁脔（ 
 剑侠痕迹
 [2月13日]
 [游戏竞技]
 绝世妖孽
 正文
 第125话
-七种武器之首——八宝粥（上
+七种武器之首——八宝粥（上 
 落月追风
 [2月13日]
 [武侠仙侠]
@@ -6847,8 +6816,7 @@ Hot!
 玄幻·奇幻
 异界之极品奶爸
 异界之极品奶爸
-[
-内容简介]BR
+[ 内容简介]BR
 BR
 ...
 《校园侠医》
@@ -6918,8 +6886,7 @@ BR
 军事·历史
 异界之极品奶爸
 异界之极品奶爸
-[
-内容简介]BR
+[ 内容简介]BR
 BR
 ...
 《星辰变》
@@ -7056,14 +7023,14 @@ BR
 第四集
 百女盛宴
 第九十五章
-女神是我禁脔（
+女神是我禁脔（ 
 剑侠痕迹
 [2月13日]
 [游戏竞技]
 绝世妖孽
 正文
 第125话
-七种武器之首——八宝粥（上
+七种武器之首——八宝粥（上 
 落月追风
 [2月13日]
 [武侠仙侠]
@@ -7259,8 +7226,7 @@ dvbbs
 ')">道具中心
 我能做什么
 简单也是美
-(2008-1-20
-18:43:58)
+(2008-1-20 18:43:58)
 欢迎访问
 文化财富论坛
 您还没有［注册］或［登录］
@@ -7272,13 +7238,11 @@ Cookie
 保存一天
 保存一月
 保存一年
-[
-忘记密码
-]
+[  忘记密码 ]
 会员总数：
 472
 人
-最新会员：[
+最新会员：[ 
 yibeishui
 ]
 今日发贴：
@@ -7368,9 +7332,7 @@ v
 18
 版主：郑壹壹
 云想
-主题：[原创]《
-西江月
-》...
+主题：[原创]《 西江月 》...
 发贴：〓清风
 日期：2008-1-19
 19:38:35
@@ -7522,8 +7484,7 @@ Version
 7.1.0
 Sp1
 支持健康网络,繁荣网络文化,构建和谐社会!!!
-[论坛所有者:2690923
-职场老虎]
+[论坛所有者:2690923 职场老虎]
 信息产业部备案序号:粤ICP备05137028号
 页面执行时间
 0.06250
@@ -7602,9 +7563,7 @@ Ang
 OK
 ．[飞儿乐团]
 爱·歌姬
-．[
-周蕙
-]
+．[ 周蕙 ]
 绽放
 ．[薛之谦]
 你过得好吗
@@ -8000,8 +7959,7 @@ E72导航证券WIN5系统
 联
 价：
 2180
-多普达-566[高清晰QVGA屏
-新年特价]
+多普达-566[高清晰QVGA屏 新年特价]
 市
 场
 价：
@@ -8111,8 +8069,7 @@ E72导航证券WIN5系统
 联
 价：
 999
-飞利浦-S900[手写
-蓝牙送大礼包]
+飞利浦-S900[手写 蓝牙送大礼包]
 市
 场
 价：
@@ -8239,8 +8196,7 @@ LG-KE508[采用触控感应五位导航键]
 联
 价：
 4388
-多普达-S1[睿指灵机
-纤薄时尚]
+多普达-S1[睿指灵机 纤薄时尚]
 市
 场
 价：
@@ -8881,75 +8837,14 @@ posY;
 var
 fdiv;
 $id("SNbox_comment").onmousedown=function(e)
-{
-fdiv
-=
-$id("SNbox");
-if(!e)
-e
-=
-window.event;posX
-=
-e.clientX
--
-parseInt(fdiv.style.left);posY
-=
-e.clientY
--
-parseInt(fdiv.style.top);$event("add","mousemove",mousemove,document);
-fdiv.style.cssText
-+=
-"opacity:
-0.8;-moz-opacity:
-0.8;";
-fdiv.style.background
-=
-'#000';
-}
+{ fdiv = $id("SNbox"); if(!e) e = window.event;posX = e.clientX - parseInt(fdiv.style.left);posY = e.clientY - parseInt(fdiv.style.top);$event("add","mousemove",mousemove,document); fdiv.style.cssText += "opacity: 0.8;-moz-opacity: 0.8;"; fdiv.style.background = '#000'; }
 document.onmouseup
 =
 function()
-{
-fdiv
-=
-$id("SNbox");
-fdiv.style.cssText
-+=
-"opacity:
-1;-moz-opacity:
-1;";
-document.onmousemove
-=null;
-fdiv.style.background
-=
-'';
-$event("","mousemove",mousemove,document);
-}
+{ fdiv = $id("SNbox"); fdiv.style.cssText += "opacity: 1;-moz-opacity: 1;"; document.onmousemove =null; fdiv.style.background = ''; $event("","mousemove",mousemove,document); }
 function
 mousemove(ev)
-{
-ev
-=
-ev
-?
-ev
-:
-window.event;
-fdiv.style.left
-=
-(ev.clientX
--
-posX)
-+
-"px";
-fdiv.style.top
-=
-ev.clientY
--
-posY
-+
-"px";
-}
+{ ev = ev ? ev : window.event; fdiv.style.left = (ev.clientX - posX) + "px"; fdiv.style.top = ev.clientY - posY + "px"; }
 -->
 天朗特价手机网
 全国最大手机批发商
@@ -9649,17 +9544,11 @@ E848现售价仅2160元
 Shrek
 3
 下载
-(320
-x
-240
-AV
+(320 x 240 AV
 ·终于搞到了《东方时空》片尾曲，清晨作闹
 ·姨妈的后现代生活
 下载
-(320
-x
-240
-AVI格
+(320 x 240 AVI格
 ·你要是用了这个短信音~~！那真是绝了~~！
 ·自己收藏的经典短信手机铃声,喜欢就下吧!
 ·007新铁金刚之黑日危机
@@ -10810,7 +10699,7 @@ heart
 龙日一，你死定了
 青春
 别碰我的女朋友
-【sohu人气论坛精选】《处
+【sohu人气论坛精选】《处 
 青春
 小王子
 新游·业界·攻略·技巧·游戏·资讯
@@ -10830,7 +10719,7 @@ heart
 评测
 《火焰VS》1.1内测版竞技场活动开启
 攻略
-经典磨练巨作《梦幻模拟战II》攻略篇（三
+经典磨练巨作《梦幻模拟战II》攻略篇（三 
 网游
 《创神》腊八节惊现熬粥高手
 手机导购
@@ -10849,8 +10738,7 @@ heart
 手机网游《创神》新年
 《火焰VS》神秘女性新
 网游
-万众期待！《火焰编年
-万众期待！《火焰编年
+万众期待！《火焰编年 万众期待！《火焰编年 
 社区·空间·相册·书签
 请问只支持NES格式的手机怎
 请专家评说----手机小二
@@ -10866,7 +10754,7 @@ heart
 咱俩是一对啊＜＜
 特效
 游戏精品
-游戏的详细安装方法(新手必
+游戏的详细安装方法(新手必 
 N-Gage/QD专用游戏介绍和下
 05.9.2更新空中力量中文完美版（SIS）！">S60游戏最新快报05.9.
 带图片带介绍的JAR格式游戏,绝对全部都
@@ -10932,8 +10820,7 @@ google
 下载
 彩图·主题
 迷糊娃娃
-森下千里[Wonderful
-Tim
+森下千里[Wonderful Tim 
 春装娃娃DDUNG
 Leah
 Dizon
@@ -10977,9 +10864,7 @@ SNES模拟器
 战神杨戬独家攻略
 《波比》论坛新增游戏及宣传中心，边玩
 新游
-电影手游巨作《长江
-我的游戏我做主
-《苍
+电影手游巨作《长江 我的游戏我做主 《苍 
 攻略
 《火焰VS》玩家自创
 《火焰vs》前期择兵
@@ -10994,10 +10879,10 @@ SNES模拟器
 E680i挑战索爱WALKMAN手机
 技巧
 我的摇杆更换经历
-小i分组铃声歪解(拐
+小i分组铃声歪解(拐 
 评测
 《火焰VS》1.1内测版
-07年末的神作!《火焰
+07年末的神作!《火焰 
 评测
 秀出真"色"彩
 Jabra
@@ -11013,8 +10898,7 @@ BUG
 手机网游《创神》仙
 手机网游《创神》自
 攻略
-经典磨练巨作《梦幻
-《火焰之纹章III》二
+经典磨练巨作《梦幻 《火焰之纹章III》二 
 攻略
 《火焰之纹章III》二
 手机网游《创神》赤
@@ -11086,9 +10970,7 @@ Reserved
 ICP证号：粤ICP备05001424号
 手机邮箱
 ">
-<ww:property
-value="wmailError.i18NText"
-/>
+<ww:property value="wmailError.i18NText" />
 首页
 业务特色
 各省资费
@@ -12056,7 +11938,7 @@ iPhone制作音乐专辑和封面的方法
 ·图片压缩软件BetterJPEG
 ·[图片制作软件]图象捕捉工具WinSnap1.18汉化版
 ·[铃声制作软件]GoldWave5.16汉化版
-·以M630为例向您介绍-待机图片制作方法(附软件下..
+·以M630为例向您介绍-待机图片制作方法(附软件下..  
 ·如何使用GoldWave来制作手机铃声
 ·音频格式转换Alt
 WAV
@@ -12103,7 +11985,7 @@ W550cUSB问题
 ·[北斗273111店长]
 3250软件综合贴
 ·[北斗273111店长]
-最新软件整理（萃取精华,彰...
+最新软件整理（萃取精华,彰... 
 ·[北斗273111店长]
 6681软件超市
 ·[Jordan_WQ]
@@ -12115,7 +11997,7 @@ PHO..
 ·[北斗273111店长]
 分享几个E6软件
 ·[北斗273111店长]
-明A1200e的应用软件专贴(所...
+明A1200e的应用软件专贴(所... 
 ·[8ie]
 【原创】恒基伟业A2000购机之当天体...
 ·[haohao2002]
@@ -12935,7 +12817,7 @@ iPhone制作音乐专辑和封面的方法
 ·图片压缩软件BetterJPEG
 ·[图片制作软件]图象捕捉工具WinSnap1.18汉化版
 ·[铃声制作软件]GoldWave5.16汉化版
-·以M630为例向您介绍-待机图片制作方法(附软件下..
+·以M630为例向您介绍-待机图片制作方法(附软件下..  
 ·如何使用GoldWave来制作手机铃声
 ·音频格式转换Alt
 WAV
@@ -12982,7 +12864,7 @@ W550cUSB问题
 ·[北斗273111店长]
 3250软件综合贴
 ·[北斗273111店长]
-最新软件整理（萃取精华,彰...
+最新软件整理（萃取精华,彰... 
 ·[北斗273111店长]
 6681软件超市
 ·[Jordan_WQ]
@@ -12992,7 +12874,7 @@ PPC
 PPC
 PHO..
 ·[北斗273111店长]
-明A1200e的应用软件专贴(所...
+明A1200e的应用软件专贴(所... 
 ·[8ie]
 【原创】恒基伟业A2000购机之当天体...
 ·[haohao2002]
@@ -13004,7 +12886,7 @@ V8
 高手指点一下，谢谢了，闪电..
 ·[北斗273111店长]
 N72论坛最新
-最全的软件(上...
+最全的软件(上... 
 手机常识
 更多>>
 ·李鬼的遭遇
@@ -13528,8 +13410,7 @@ var
 adInterPath="IMAGES/xiala.jpg"
 if
 (document.all)
-{
-document.write('
+{ document.write('
 ');
 }
 -->
@@ -13596,9 +13477,7 @@ var
 pics="",
 links="",
 texts="";
-for(var
-i=1;
-i
+for(var i=1; i
 ');
 document.write('
 ');
@@ -13897,8 +13776,7 @@ QQ超人
 正在载入财经金融信息,请稍候...
 2008春晚我叫刘跃进2007图书排行榜手机话费充值运势测算移动QQ超级版快车搜索
 实用酷站精选
-[文
-学]
+[文 学]
 小说阅读网
 起点中文
 一起看文学网
@@ -13907,8 +13785,7 @@ QQ超人
 逐浪小说
 更多
 »
-[游
-戏]
+[游 戏]
 小游戏
 4399小游戏
 新浪游戏
@@ -13917,8 +13794,7 @@ QQ超人
 太平洋游戏
 更多
 »
-[下
-载]
+[下 载]
 华军软件
 天空软件
 太平洋下载
@@ -13927,8 +13803,7 @@ QQ超人
 硅谷下载
 更多
 »
-[军
-事]
+[军 事]
 新浪军事
 铁血军事
 中华网军事
@@ -13937,8 +13812,7 @@ QQ超人
 新华网军事
 更多
 »
-[音
-乐]
+[音 乐]
 百度音乐
 天籁之音
 久久音乐
@@ -13947,8 +13821,7 @@ QQ超人
 雅虎音乐
 更多
 »
-[邮
-箱]
+[邮 箱]
 163邮箱
 126邮箱
 雅虎邮箱
@@ -13957,8 +13830,7 @@ QQ超人
 TOM邮箱
 更多
 »
-[视
-频]
+[视 频]
 优酷网
 土豆网
 六间房
@@ -13976,8 +13848,7 @@ Flash休闲
 闪吧
 更多
 »
-[新
-闻]
+[新 闻]
 新华网
 新浪新闻
 搜狐新闻
@@ -13986,8 +13857,7 @@ Flash休闲
 163新闻
 更多
 »
-[论
-坛]
+[论 坛]
 天涯社区
 娱乐论坛
 猫扑大杂烩
@@ -13996,8 +13866,7 @@ Flash休闲
 搜狐社区
 更多
 »
-[财
-经]
+[财 经]
 东方财富网
 证券之星
 新浪财经
@@ -14006,8 +13875,7 @@ Flash休闲
 中金在线
 更多
 »
-[交
-友]
+[交 友]
 QQ交友
 爱情公寓
 世纪佳缘
@@ -14016,8 +13884,7 @@ QQ交友
 友你友我
 更多
 »
-[图
-铃]
+[图 铃]
 美通精选图铃
 五千铃声
 七城图铃
@@ -14026,8 +13893,7 @@ QQ短信超人
 彩秀图铃
 更多
 »
-[两
-性]
+[两 性]
 性爱39健康
 两性世界
 七彩谷商城
@@ -14036,8 +13902,7 @@ QQ短信超人
 两性健康网
 更多
 »
-[博
-客]
+[博 客]
 51博客
 QQ空间
 百度空间
@@ -14046,8 +13911,7 @@ QQ空间
 博客网
 更多
 »
-[银
-行]
+[银 行]
 工商银行
 招商银行
 建设银行
@@ -14056,8 +13920,7 @@ QQ空间
 交通银行
 更多
 »
-[体
-育]
+[体 育]
 新浪体育
 NBA中文网
 搜狐体育
@@ -14066,8 +13929,7 @@ CCTV体育
 ESPN中文网
 更多
 »
-[购
-物]
+[购 物]
 卓越网
 当当网
 易趣
@@ -14076,8 +13938,7 @@ ESPN中文网
 淘宝网
 更多
 »
-[手
-机]
+[手 机]
 北斗手机网
 手机之家
 手机图片
@@ -14086,8 +13947,7 @@ ESPN中文网
 泡泡网
 更多
 »
-[人
-才]
+[人 才]
 51job
 中华英才
 智联招聘
@@ -14096,8 +13956,7 @@ ESPN中文网
 行业人才网
 更多
 »
-[汽
-车]
+[汽 车]
 中国汽车网
 汽车之家
 新浪汽车
@@ -14106,8 +13965,7 @@ ESPN中文网
 爱卡汽车
 更多
 »
-[健
-康]
+[健 康]
 三九健康
 寻医问药网
 心理健康测试
@@ -14116,8 +13974,7 @@ ESPN中文网
 搜狐健康
 更多
 »
-[房
-产]
+[房 产]
 搜房网
 我爱我家
 和讯房产
@@ -14241,8 +14098,7 @@ LOCKER合作开设了一间以篮球为主题
 XLARGE
 X
 爆炸头武士
-XLARGE与热门动画《Afro
-Samurai（爆炸头武士）》推出合作系列，包括
+XLARGE与热门动画《Afro Samurai（爆炸头武士）》推出合作系列，包括
 A#新技术滑板
 艺术图案滑板ART
 DECK已经成为每个街牌都会推出的展示品，重出江湖的
@@ -14362,69 +14218,27 @@ hemp，世界¨
 在黑暗中綻放，在陽光下枯萎。
 合作伙伴
 文字链接：
-[
-普及潮流
-]
-[
-xs365小说网
-]
-[
-in-fzl社区
-]
-[
-yhood
-]
-[
-You主流
-]
-[
-3g
-]
-[
-希望
-]
-[
-情迷TVB
-]
-[
-讯驰手机
-]
-[
-流行音乐榜
-]
-[
-SINSUO!型索网
-]
-[
-F-XING
-]
-[
-爱情交友嫁我网
-]
-[
-潮流音樂社區
-]
-[
-乐乐星球网
-]
-[
-阿里巴巴
-]
-[
-淘宝网
-]
-[
-网易女人
-]
-[
-视迅中国
-]
-[
-eno
-]
-[
-花生网
-]
+[ 普及潮流 ]
+[ xs365小说网 ]
+[ in-fzl社区 ]
+[ yhood ]
+[ You主流 ]
+[ 3g ]
+[ 希望 ]
+[ 情迷TVB ]
+[ 讯驰手机 ]
+[ 流行音乐榜 ]
+[ SINSUO!型索网 ]
+[ F-XING ]
+[ 爱情交友嫁我网 ]
+[ 潮流音樂社區 ]
+[ 乐乐星球网 ]
+[ 阿里巴巴 ]
+[ 淘宝网 ]
+[ 网易女人 ]
+[ 视迅中国 ]
+[ eno ]
+[ 花生网 ]
 关于我们
 |
 相关法律
@@ -14591,9 +14405,7 @@ A股能否开门红？]
 24只股票跌破增发价格
 机构投资者浮亏16亿元
 1月15日以来，沪深两市出现了大幅下跌。统计显示，2007年以来增发的24只股票的收盘价处于增发价之下...&#91;全文]
-<fieldset
-style="width:420px;
-float:left;">
+<fieldset style="width:420px; float:left;">
 为股票市场健康发展提几点建议
 A股市场不乐观
 成长性股票可抵御风险
@@ -14615,9 +14427,7 @@ A股市场不乐观
 2月13日股市交易提示
  
 2月13日股市交易提示如下，...&#91;全文]
-<fieldset
-style="width:420px;
-float:left;">
+<fieldset style="width:420px; float:left;">
 短期大盘将继续以箱体震荡为主
 地产股年报预增数幅度显现行情可期待
 周四操盘必读
@@ -14639,9 +14449,7 @@ float:left;">
 </fieldset>
 节后首日最值得关注的板块和个股!
 伴随国民经济的持续高速增长，我国旅游业将迎来行业发展的重要战略提升期...&#91;全文]
-<fieldset
-style="width:420px;
-float:left;">
+<fieldset style="width:420px; float:left;">
 赣粤高速减免通行费损失5000万元
 金马集团雪灾致84台电解槽停产
 益邦投资
@@ -14918,7 +14726,7 @@ ICP证书
 [评论]
 2008年会不会掀起换车大潮
 [休闲]
-李菲儿与迈腾的真情告白(组图
+李菲儿与迈腾的真情告白(组图 
 商讯头条
 雪铁龙C2让利1.1万元
 斯巴鲁森林人只降6000
@@ -15170,7 +14978,7 @@ R35
 看运势
 选爱车
 星座人生的...
-李菲儿与迈腾的真情告白(...
+李菲儿与迈腾的真情告白(... 
 荷兰即将批量生产“会飞的...
 周董签名CROSSPOLO
 淘宝拍...
@@ -15261,9 +15069,9 @@ WRC
 [上海]业务接待
 上海腾欢汽车装潢有限公司
 求职:
-刘吉林:计算机(...
+刘吉林:计算机(... 
 求职:
-三哥:计算机((高...
+三哥:计算机((高... 
 车友库
 嘿咻嘿咻灌水第一
 今日车神:
@@ -17296,10 +17104,7 @@ NANA娜娜
 ·
 攻壳机动队第二部
 ·
-校园迷糊大王(一学期
-·
-Blood+
-50集
+校园迷糊大王(一学期 · Blood+ 50集 
 本站必装播放器
 本站解码器伴侣
 IE
@@ -17346,8 +17151,7 @@ IE
 ·
 x战记电影版
 ·
-黑猫(Black
-J
+黑猫(Black J 
 ·
 霹雳异数之万里征途
 ·
@@ -17699,12 +17503,7 @@ flash酷站
 绿色(1214)|
 青色(130)|
 紫色(269)|
-最新酷站收藏(韩国酷站
-欧美酷站
-中国酷站
-日本酷站
-酷站欣赏
-)更多酷站
+最新酷站收藏(韩国酷站 欧美酷站 中国酷站 日本酷站 酷站欣赏 )更多酷站
 红袖衣服
 芊佰设计
 .asp
@@ -17729,12 +17528,7 @@ org/
 用品酷站
 lash
 com/
-酷站收藏推荐(酷站收藏
-酷站推荐
-酷站营
-酷站秀
-酷站收藏夹
-)
+酷站收藏推荐(酷站收藏 酷站推荐 酷站营 酷站秀 酷站收藏夹 )
 门诊酷站
 饭店酷站
 酷站欣赏
@@ -18515,9 +18309,7 @@ Powered
 By
 BBSXP
 关中国媒体人联盟(CCMM)
-[
-联合媒体群，成就媒体人辉煌!
-]
+[ 联合媒体群，成就媒体人辉煌! ]
 技术支持:
 Yuzi
 网站管理:
@@ -19702,8 +19494,7 @@ Wii视频游戏平台用于病人康复治疗
 专区推荐
 [真·三国无双OL]
 战场散兵直枪攻防概论
-[天龙八部
-]
+[天龙八部 ]
 无宝石天龙PK
 对闪避的分析
 [魔兽世界]
@@ -19713,8 +19504,7 @@ Wii视频游戏平台用于病人康复治疗
 [魔域]
 不花钱战斗提高到350
 BOSS与灵魂
-[FIFA
-OL2]
+[FIFA OL2]
 小小游戏心得
 守门员分析
 社区论坛
@@ -19733,8 +19523,7 @@ OL2]
 SS升级,PK分别是哪个天赋好?
 [梦幻西游]
 蓝和气血上限受强身冥想影响吗?
-[传
-奇]
+[传 奇]
 法师要几级才能招巨型多角虫?
 网吧联盟
 ·十年风雨兼程路
@@ -19840,8 +19629,7 @@ IronLady2
 网易最新休闲《疯狂石头》截图
 投票
 [日本]
-卡丁车网游《Kart
-Steer》
+卡丁车网游《Kart Steer》
 截图
 投票
 [韩国]
@@ -19852,9 +19640,7 @@ Steer》
 MMORPG海报
 投票
 手机游戏
-[热点]3D足球手游《Football
-Pro
-Contest》
+[热点]3D足球手游《Football Pro Contest》
 [专题]小城故事回归原人新年专题休闲棋牌
 [摄影]性感派对之丰乳肥臀模拟刺青同性激情
 [视频]《仙境传说》单机版MV劲暴3D射击游戏
@@ -19874,8 +19660,7 @@ CDN高速下载
 17173：启航客户端
 奇迹世界：2008贺岁版
 魔域2.0：3832公测客户端
-[推
-荐]
+[推 荐]
 17173：新魔界客户端
 [02-04]
 奇迹：MU决战幻影寺院版
@@ -19893,8 +19678,7 @@ CDN高速下载
 光线飞车：新春贺岁版
 [02-02]
 奇迹世界：2008贺岁版
-[推
-荐]
+[推 荐]
 17173：功夫世界新客户端
 [02-01]
 QQ堂：2.2客户端
@@ -21360,8 +21144,7 @@ Wii视频游戏平台用于病人康复治疗
 [魔域]
 不花钱战斗提高到350
 BOSS与灵魂
-[FIFA
-OL2]
+[FIFA OL2]
 小小游戏心得
 守门员分析
 [魔幻圣典]
@@ -21385,8 +21168,7 @@ BB50级后吃仙豆不升级怎么办?
 FS怎么杀那些有BB的职业啊?
 [梦幻西游]
 70级的无等级刀可以打8级石吗?
-[传
-奇]
+[传 奇]
 法师应该走哪一条路线来生存?
 网吧联盟
 ·十年风雨兼程路
@@ -21495,8 +21277,7 @@ IronLady2
 马拉松《菲迪彼德斯传奇》截图
 投票
 [韩国]
-SRPG《NeverEnding
-Saga》
+SRPG《NeverEnding Saga》
 截图
 投票
 [韩国]
@@ -21507,9 +21288,7 @@ Saga》
 MMORPG海报
 投票
 手机游戏
-[热点]3D足球手游《Football
-Pro
-Contest》
+[热点]3D足球手游《Football Pro Contest》
 [专题]小城故事回归原人新年专题休闲棋牌
 [摄影]性感派对之丰乳肥臀模拟刺青同性激情
 [视频]《仙境传说》单机版MV劲暴3D射击游戏
@@ -21529,8 +21308,7 @@ CDN高速下载
 17173：启航客户端
 奇迹世界：2008贺岁版
 魔域2.0：3832公测客户端
-[推
-荐]
+[推 荐]
 17173：新魔界客户端
 [02-04]
 奇迹：MU决战幻影寺院版
@@ -21548,8 +21326,7 @@ CDN高速下载
 光线飞车：新春贺岁版
 [02-02]
 奇迹世界：2008贺岁版
-[推
-荐]
+[推 荐]
 17173：功夫世界新客户端
 [02-01]
 QQ堂：2.2客户端
@@ -23323,11 +23100,7 @@ www.17173.com
 &quot;业界参考&quot;显示的效果样例（字体显示的颜色跟随您所放的站点页面的变动，本站只为参考）:
 你还不动心，现在就加入吧！
 17173.com友情链接&内容合作站点
-<?xml:namespace
-prefix
-=
-bobo
-/>
+<?xml:namespace prefix = bobo />
 |
 17173首页
 |
@@ -25457,12 +25230,8 @@ Hot!
 想看看别样的修真大法么？想看看别开生面的成仙之路么？
 来吧，不会让你失望的。
 ......
-[
-点击阅读《梦幻王》，作者：苍天白鹤
-]
-[
-阅读更多历史封推作品
-]
+[ 点击阅读《梦幻王》，作者：苍天白鹤 ]
+[ 阅读更多历史封推作品 ]
 <公告>
 感谢大家一直的支持！为了更好的交流！开通群33633259
 <公告>
@@ -25481,8 +25250,7 @@ Hot!
 梦幻王(2566)
 神墓(2395)
 师士传说(2254)
-[
-公众作品图片推荐]
+[ 公众作品图片推荐]
 尸虐
 星辰变
 神墓
@@ -25539,8 +25307,7 @@ New!
 历史军事
 网游竞技
 科幻灵异
-[
-公众作品更新]
+[ 公众作品更新]
 [虚拟网游]
 网游之创世vip章节第三百零七章说客
 2月13日
@@ -26019,13 +25786,11 @@ VIP专区
 <cite>一爪梅</cite>
 ．用耳朵收听疯狂的人妖播音版
 <cite>17K文学网</cite>
-．血红新作《巫
-颂》精装电子书推出
+．血红新作《巫 颂》精装电子书推出
 <cite>包子</cite>
 ．女频巨奖！！！网编&问答得主大奖！！！
 <cite>长工</cite>
-．[互动军事恶搞
-故事][接龙]大兵攻克可乐城堡
+．[互动军事恶搞 故事][接龙]大兵攻克可乐城堡
 <cite>包子</cite>
 ．故事接龙贺新年！拿大奖！
 <cite>夜青魂</cite>
@@ -26525,13 +26290,11 @@ VIP专区
 <cite>一爪梅</cite>
 ．用耳朵收听疯狂的人妖播音版
 <cite>17K文学网</cite>
-．血红新作《巫
-颂》精装电子书推出
+．血红新作《巫 颂》精装电子书推出
 <cite>包子</cite>
 ．女频巨奖！！！网编&问答得主大奖！！！
 <cite>长工</cite>
-．[互动军事恶搞
-故事][接龙]大兵攻克可乐城堡
+．[互动军事恶搞 故事][接龙]大兵攻克可乐城堡
 <cite>包子</cite>
 ．故事接龙贺新年！拿大奖！
 <cite>夜青魂</cite>
@@ -28953,7 +28716,7 @@ IT网站软文发布问题
 ·
 危机公关的经典案例
 ·
-汽车公关人俱乐部(！！QQ群:20729
+汽车公关人俱乐部(！！QQ群:20729 
 ·
 一汽高工离职后
 揭密中国汽车绝对
@@ -29001,7 +28764,7 @@ MySpace揪出2.9万性侵犯用户
 ·
 [下载]房地产项目策划和市场报告
 ·
-跪求房地产的公关传播计划（包括前
+跪求房地产的公关传播计划（包括前 
 ·
 昨日黄花，风光不再的新浪房产
 ·
@@ -29036,7 +28799,7 @@ MySpace揪出2.9万性侵犯用户
 感悟随笔
 （原创）
 ·
-经典的搭讪！你不服都不行(老段子
+经典的搭讪！你不服都不行(老段子 
 ·
 自作诗一首
 相思
@@ -29053,7 +28816,7 @@ MySpace揪出2.9万性侵犯用户
 ·
 17PR生日对对碰，已有169天相同生
 ·
-[注意]刚入行的新人请进来聊聊:)(
+[注意]刚入行的新人请进来聊聊:)( 
 ·
 [贴图]新人帖图，大家支持啊~！！
 ·
@@ -29067,8 +28830,7 @@ MySpace揪出2.9万性侵犯用户
 ·
 公司培训时候在湖边照的呵呵!!老了
 ·
-精英公关-寻找优秀AM（Account
-ma
+精英公关-寻找优秀AM（Account ma 
 ·
 我是一个公关新人
 ·
@@ -29076,7 +28838,7 @@ ma
 ·
 招媒介1名-北京金典永恒公关
 ·
-欢迎你的加入，有兴趣进来看看（策
+欢迎你的加入，有兴趣进来看看（策 
 ·
 北京海川时代公关诚聘客户代表、媒
 ·
@@ -29475,13 +29237,13 @@ QQ华夏,..
 ·QQ华夏城战
 ·公会空间搬家成功，同时增加..
 ·QQ华夏群问题回答
-·UT服务器——情义★联盟（网..
-·UT服务器——情义★联盟（网..
+·UT服务器——情义★联盟（网.. 
+·UT服务器——情义★联盟（网.. 
 ·公会创新2D游戏记录进驻QQ华夏
 游戏讯息
 游戏关注·最新网游测试
-《RUSH-冲
-《仙剑奇
+《RUSH-冲 
+《仙剑奇 
 ·龙骑士OL
 ·韩国音乐网游《Astroranger》
 ·<战神传说>
@@ -29517,8 +29279,7 @@ QY币兑换
 史克威尔
 04.03内
 下
-载</<
-P>
+载</< P>
 点击购买
 雅典娜
 海科数码
@@ -29559,8 +29320,8 @@ P>
 ·第一次网恋,却留下的满是遗憾
 游戏测试报告
 游戏测试报告
-<测试评估
-《如来神
+<测试评估 
+《如来神 
 进驻惊天
 ·仙道的封测报告
 ·封神2的报告
@@ -29569,7 +29330,7 @@ P>
 ·《如来神掌》测试报告
 ·
 [测后评估]大话西游3
-·[测后评估]幻想大陆(负责人情义★布衣、情义
+·[测后评估]幻想大陆(负责人情义★布衣、情义 
 游戏经验心得
 游戏经验心得
 玩酷原型
@@ -30123,13 +29884,7 @@ more
 广州—大连
 -->
 转让火车票更多
-<col
-width=""
-/><col
-width="40"
-/><col
-width="80"
-/>
+<col width="" /><col width="40" /><col width="80" />
 [转让]急转让火车票昆明10张08/2/13发车
 [转让]2月17号兰州至1张08/2/17发车
 [转让]火车票转让1张08/2/17发车
@@ -30151,13 +29906,7 @@ width="80"
 请输入车次：
 我要搜:
 请输入站名：
-<col
-width="120"
-/><col
-width="50"
-/><col
-width="50"
-/>
+<col width="120" /><col width="50" /><col width="50" />
 景区名优惠额
 more
 浙西大峡谷￥18
@@ -30180,8 +29929,7 @@ more
 最高优惠额:￥5
 人气:282
 频道轮播
-[酒
-店]
+[酒 店]
 【检索2007】十月北行八千里（2）抵达哈尔滨
 告别会员卡时代
 同程订房真的很方便
@@ -30245,19 +29993,16 @@ more
 常州旅游同程订房记
 哈哈，第一次自己订房
 杭州行同程订房奇遇记
-[机
-票]
+[机 票]
 国内最实惠的机票预订
-[资
-讯]
+[资 讯]
 韩国第一号国宝崇礼...
 全球最大摩天轮在新...
 春节游呈现三大新变...
 世外“陶”园玩泥巴...
 游客驾车到灾区玩雪...
 北京地铁10号线预...
-[线
-路]
+[线 路]
 横店二日游
 乌镇、西塘二日游
 温州出发-西藏7日游
@@ -30272,30 +30017,23 @@ more
 英国首都--伦敦
 [火车票]
 出行查询从这里开始
-[博
-客]
+[博 客]
 海南游之告别南山
 雅鲁藏布江大峡谷
 延续的记忆
 居尘出尘话怡园
 首都博物馆印象
-[攻
-略]
+[攻 略]
 夏威夷东西海岸
-[自
-驾]
+[自 驾]
 雅鲁藏布江大峡谷
-[客
-栈]
+[客 栈]
 住宿不选酒店选客栈
-[计
-划]
+[计 划]
 正月里清东陵自助旅游
-[美
-食]
+[美 食]
 京福华火锅
-[论
-坛]
+[论 坛]
 自然树皮画
 综合
 企业
@@ -30337,12 +30075,8 @@ more
 -->
 更多博客
 精华博客
-<col
-width="330"
-/>
-<col
-width="80"
-/>
+<col width="330" />
+<col width="80" />
 文章名称
 作者
 -->
@@ -30386,15 +30120,9 @@ littlem...
 神农架
 更多提问我要提问
 最新提问
-<col
-width="486"
-/>
-<col
-width="60"
-/>
-<col
-width="95"
-/>
+<col width="486" />
+<col width="60" />
+<col width="95" />
 提问标题
 状态
 发布时间
@@ -32078,9 +31806,7 @@ QDII撞上“次贷门”
 立即提交手机号码，短信15秒回复
 18900手机网-您可信赖的行货手机、原装电池平价专卖店
 -->
-<
-Live800在线客服图标:首页浮动图标代码[浮动型]
-结束-->
+< Live800在线客服图标:首页浮动图标代码[浮动型] 结束-->
 延续经典
 摩托罗拉A1200升级版跌破1K9
 导航炒股智能我全行
@@ -32160,21 +31886,15 @@ GOPASS
 夏新
 鼎天
 电话机
-[
-数字无绳电话
-]
+[ 数字无绳电话 ]
 西门子
 友利电
 松下
 通用
-[
-普通无绳电话
-]
+[ 普通无绳电话 ]
 西门子
 通用
-[
-会议电话
-]
+[ 会议电话 ]
 宝利通
 手机配件
 手机电池
@@ -34354,7 +34074,7 @@ ActionScript
 ￥53.80
 会员价：
 ￥43.04
-CSS网站布局实录（第2..
+CSS网站布局实录（第2..  
 市场价：
 ￥39.00
 会员价：
@@ -34387,7 +34107,7 @@ ASP.NET
 会员价：
 ￥79.20
 Spring
-2.0技术手册(C..
+2.0技术手册(C..  
 市场价：
 ￥49.80
 会员价：
@@ -34404,7 +34124,7 @@ CPU源代码分析与芯片设..
 会员价：
 ￥71.84
 CCNA
-INTRO学习指南(中..
+INTRO学习指南(中..  
 市场价：
 ￥42.00
 会员价：
@@ -34426,7 +34146,7 @@ MAX
 ￥45.00
 会员价：
 ￥36.00
-软件设计精要与模式（..
+软件设计精要与模式（..  
 市场价：
 ￥55.00
 会员价：
@@ -34443,12 +34163,12 @@ ActionScript
 ￥53.80
 会员价：
 ￥43.04
-测量系统应用与设计（..
+测量系统应用与设计（..  
 市场价：
 ￥68.00
 会员价：
 ￥54.40
-UNIX完全手册（第二版..
+UNIX完全手册（第二版..  
 市场价：
 ￥69.00
 会员价：
@@ -34473,7 +34193,7 @@ SAP系统项目实施与操作..
 ￥35.00
 会员价：
 ￥28.00
-CSS网站布局实录（第2..
+CSS网站布局实录（第2..  
 市场价：
 ￥39.00
 会员价：
@@ -34770,8 +34490,7 @@ susan苏
 同心圆圈2-11
 《鬼物语》
 滕艺珊2-11
-《ONLY
-YOU》
+《ONLY YOU》
 李渊明2-10
 《安全攻略之校园勒索》
 笑鱼2-7
@@ -35067,8 +34786,7 @@ susan苏
 同心圆圈2-11
 《鬼物语》
 滕艺珊2-11
-《ONLY
-YOU》
+《ONLY YOU》
 李渊明2-10
 《安全攻略之校园勒索》
 笑鱼2-7
@@ -35294,8 +35012,7 @@ HOT!
 橙色大雪警报，紧急便民通告
 ·蚩尤杯征文获奖公告
 2007年度网络原创风云人物
-<template
-id="vouch_indexcover">
+<template id="vouch_indexcover">
 起点架空历史小说《艳史记》，
 石章鱼
 著
@@ -35308,14 +35025,10 @@ id="vouch_indexcover">
 长江有意化作泪，长江有情起歌声。
 历史的天空闪烁几颗星，人间一股英雄气在驰骋纵横。
 </template>
-<template
-id="vouch_mmcoverlink">
-[
-阅读女生频道封推小说《决红尘》]
+<template id="vouch_mmcoverlink">
+[ 阅读女生频道封推小说《决红尘》]
 </template>
-[
-更多历史封推作品…
-]
+[  更多历史封推作品… ]
 【作品·搜索】
 关键字：
 综合搜索
@@ -35358,9 +35071,7 @@ id="vouch_mmcoverlink">
 异界之极品修理工
 表演女班的男助教
 更多VIP作品...
-[
-关注作品分类推荐
-]
+[ 关注作品分类推荐 ]
 玄幻·奇幻
 |
 武侠·仙侠
@@ -35372,15 +35083,13 @@ id="vouch_mmcoverlink">
 游戏·竞技
 |
 科幻·灵异
-<template
-id="channel12_cover">
+<template id="channel12_cover">
 玄幻小说《异界之科技大时代》
 现代大学讲师，意外携带超级电脑流落，先被误认为亡灵法师，后面又成为公主老师，他坚信科技是第一生产力，异界也一样…
 仙侠小说《绿袍老祖》
 一次意外，却成为蜀山剑侠传里的第一反派老妖——绿袍老祖，正派的三英四秀四处挑衅，背后的巨头虎视眈眈，绿袍该何去…
 </template>
-<template
-id="channel12_adbook">
+<template id="channel12_adbook">
 [西方奇幻]
 被精灵养育的人类少年，成了半兽人的英雄…
 [西方奇幻]
@@ -35398,15 +35107,13 @@ id="channel12_adbook">
 [现代修真]
 高中生得到远古大巫传承，猜他要干吗？
 </template>
-<template
-id="channel34_cover">
+<template id="channel34_cover">
 都市小说《纨绔才子》
 纨绔有名，大隐无形。这是一场豪华的订婚引出了诡秘的权势争斗，这是一个富家子弟另类的纨绔人生！
 历史小说《高衙内新传》
 只不过误点了一个网址，竟然把我传到了北宋徽宗年间，变成了高俅的养子。这么说，我不就成了调戏林冲娘子的高衙内！
 </template>
-<template
-id="channel34_adbook">
+<template id="channel34_adbook">
 [都市生活]
 贴身经理人，非美女不贴
 [都市重生]
@@ -35424,15 +35131,13 @@ id="channel34_adbook">
 [三国梦想]
 灵魂的穿越，意外成为三国孙策
 </template>
-<template
-id="channel56_cover">
+<template id="channel56_cover">
 游戏小说《网游之风流骑士》
 看一个只想结识美女、赚钱、偷神器的家伙。如何成为一个拥有无数让人羡慕的绝世美女的幸运骑士
 科幻小说《魔机传说》
 从荒芜的宇宙监狱中生还的最强的暴力犯人，操纵着最强的机甲，纵横宇宙间。
 </template>
-<template
-id="channel56_adbook">
+<template id="channel56_adbook">
 [游戏生涯]
 超级游戏高手装成新嫩，参加美女工作室
 [足球运动]
@@ -35450,11 +35155,8 @@ id="channel56_adbook">
 [恐怖惊悚]
 一个不相信世上有鬼的法医，晚上碰到了鬼！
 </template>
-[
-热门作品分类推荐
-]
-<template
-id="vouch_bookname">
+[ 热门作品分类推荐 ]
+<template id="vouch_bookname">
 [玄幻奇幻]
 尸虐
 穿越修罗道
@@ -35548,12 +35250,8 @@ id="vouch_bookname">
 魔仙道
 龙域
 佛本是道
-[
-起点出版专区
-]
-[
-更多出版作品...
-]
+[ 起点出版专区 ]
+[ 更多出版作品... ]
 兵锋
 纷舞妖姬
 著
@@ -35581,12 +35279,8 @@ id="vouch_bookname">
 ·2007年末，《黑暗学徒》隆重上市
 ·《星剑》繁体版实体书12月上市
 ·大汉帝国风云录第四、五集出版上市
-[
-VIP月票总榜TOP20
-]
-[
-更多上榜作品...
-]
+[ VIP月票总榜TOP20 ]
+[ 更多上榜作品... ]
 女生频道PK榜
 寸芒
 天擎
@@ -35619,17 +35313,11 @@ iInt
 parseInt(2*Math.random())
 //返回0～1之间的随机数
 if
-(iInt
-==
-1)
-{
-document.write
-('
+(iInt == 1)
+{ document.write ('
 ');
 }else
-{
-document.write
-('
+{ document.write ('
 ');
 }
 作品专辑推荐
@@ -35647,12 +35335,8 @@ document.write
 传统武侠
 都市生活
 仙侠修真
-[
-手机短信投票PK榜
-]
-[
-更多推荐小说...
-]
+[ 手机短信投票PK榜 ]
+[ 更多推荐小说... ]
 起点VIP会员申请
 ·
 什么是VIP？
@@ -35730,15 +35414,9 @@ Mofile视频|
 更多>>
 上海市互联网违法与违规举报中心
 [女频包月热门作品TOP20]
-[
-更多女频作品...
-]
-[
-最新更新图书列表
-]
-[
-更多更新作品...
-]
+[ 更多女频作品... ]
+[ 最新更新图书列表 ]
+[ 更多更新作品... ]
 起点中文网原创文学书库
 更多VIP作品更新...
 更多公众作品更新...
@@ -35898,8 +35576,7 @@ blank">ICP粤B2-20060754
 农教课题
 两会关注热点：本课题研究成果成为
 03-16
-教育部《农村中小学教师队伍建设对
-03-14
+教育部《农村中小学教师队伍建设对  03-14 
 “关注农村教师队伍建设”系列报道
 01-10
 “关注农村教师队伍建设”系列报道
@@ -36537,79 +36214,7 @@ beginPosition
 cookieString.indexOf(cookieHeader)
 ;
 if
-(beginPosition
-==
--1){
-var
-Then
-=
-new
-Date()
-;
-var
-hours
-=
-Then.getHours();
-var
-minutes
-=
-Then.getMinutes();
-var
-seconds
-=
-Then.getSeconds();
-var
-lefttime
-=
-1000
-*
-(
-86400
--
-hours*3600
--
-minutes*60
--
-seconds);
-Then.setTime(Then.getTime()
-+
-lefttime
-);
-document.cookie
-=
-"Cookie_itsun_1611592=y;expires="+
-Then.toGMTString()
-+";
-path=/";
-var
-fromr=top.document.referrer;
-fromr=(fromr=="")?document.referrer:fromr;
-var
-c_page=top.location.href;
-c_page
-=
-c_page
-==""
-?
-location.href
-:
-c_page;
-var
-query
-=
-'&c_page='
-+
-escape(c_page)
-+
-'&refer1='
-+
-escape(fromr)
-+
-'&c_screen='
-+
-screen.width+
-'x'+screen.height;
-document.write('
+(beginPosition == -1){ var Then = new Date() ; var hours = Then.getHours(); var minutes = Then.getMinutes(); var seconds = Then.getSeconds(); var lefttime = 1000 * ( 86400 - hours*3600 - minutes*60 - seconds); Then.setTime(Then.getTime() + lefttime ); document.cookie = "Cookie_itsun_1611592=y;expires="+ Then.toGMTString() +"; path=/"; var fromr=top.document.referrer; fromr=(fromr=="")?document.referrer:fromr; var c_page=top.location.href; c_page = c_page =="" ? location.href : c_page; var query = '&c_page=' + escape(c_page) + '&refer1=' + escape(fromr) + '&c_screen=' + screen.width+ 'x'+screen.height; document.write('
 ');
 }
 document.close();
@@ -36882,9 +36487,7 @@ angel8015
 周瑞
 &middot;[香港之行二]
 高凡妈妈
-&middot;[New
-Year
-Party]
+&middot;[New Year Party]
 黄子豪
 &middot;[小猫]
 迈克
@@ -36912,16 +36515,14 @@ Party]
 李老师
 &middot;学习英语小窍门
 秋阳老师
-&middot;生命中跳动的音符(网友
-漫舞蓝天
+&middot;生命中跳动的音符(网友 漫舞蓝天
 &middot;微笑日记:为灾区的孩子献
 良师e友
 &middot;浅谈趣味学拼音
 碧晴
 &middot;祝福短信里的数学
 虚无
-&middot;育人，应以“爱”为本（转
-王老师
+&middot;育人，应以“爱”为本（转 王老师
 &middot;一位老师对“德育”教育
 舞落天堂
 &middot;英语歌曲——培养小学生
@@ -37416,72 +37017,56 @@ MTK
 直板
 19美元
 ok
-<
-5%
-代采购代工
+< 5% 代采购代工 
 200811730
 主板方案
 英飞凌
 直板
 13美元
 ok
-<
-5%
-仅方案
+< 5% 仅方案 
 200814819
 主板方案
 MTK
 直板
 25美元
 ok
-<
-5%
-代采购代工
+< 5% 代采购代工 
 20081811
 主板方案
 MTK
 其他
 26美元
 ok
-<
-5%
-仅方案
+< 5% 仅方案 
 20081819
 主板方案
 MTK
 直板
 15美元
 ok
-<
-5%
-仅方案
+< 5% 仅方案 
 20081946
 整机方案
 英飞凌
 滑盖
 120美元
 基本ok
-<
-5%
-仅方案
+< 5% 仅方案 
 200814249
 主板方案
 MTK
 直板
 19美元
 ok
-<
-5%
-代采购代工
+< 5% 代采购代工 
 2008120
 整机方案
 MTK
 直板
 26美元
 ok
-<
-5%
-代采购代工
+< 5% 代采购代工 
 酷机直击
 ...更多
 翻盖机身主..
@@ -44403,9 +43988,7 @@ PCauto版权所有,未经授权禁止转载、摘编、复制或建立镜像..如有违反,追究法律责任.
 ---系列/车型---
 0?'http://price.pcauto.com.cn/model.jsp?mid='+smid2.value:smid2.value<0?'http://price.pcauto.com.cn/serial.jsp?sid='+(-smid2.value):bid2.value>0?'http://price.pcauto.com.cn/brand.jsp?bid='+bid2.value:'';
 if(s=='')
-{alert('请选择品牌');
-return;
-}
+{alert('请选择品牌'); return; }
 top.location=s+'&ad=1';">
 第二代本田FIT
 车型参数表
@@ -44438,9 +44021,7 @@ cc
 全高
 1525
 mm
-最大功率(kw(ps)
-/
-rpm)
+最大功率(kw(ps) / rpm)
 88
 (120)
 /
@@ -45079,9 +44660,7 @@ PCauto版权所有,未经授权禁止转载、摘编、复制或建立镜像..如有违反,追究法律责任.
 ---系列/车型---
 0?'http://price.pcauto.com.cn/model.jsp?mid='+smid2.value:smid2.value<0?'http://price.pcauto.com.cn/serial.jsp?sid='+(-smid2.value):bid2.value>0?'http://price.pcauto.com.cn/brand.jsp?bid='+bid2.value:'';
 if(s=='')
-{alert('请选择品牌');
-return;
-}
+{alert('请选择品牌'); return; }
 top.location=s;">
 过年回家开什么车？
 衣锦还乡型
@@ -45113,8 +44692,7 @@ i-VTEC发动机，配备全新的五速自动变速箱，达到更高动力输出、更低油耗、更低污染和更
 上海大众新途安
 途安新一代在延续这一品牌沉稳大气之风的同时，更具欧风时尚，更年轻、自信、时尚和富于动感。极富视觉冲击力的经典家族U型镀铬前脸、圆润优雅的流线型车身、银色一体式车顶行李架、闪亮星彩后灯等造型元素，赋予途安新一代经典又不失高雅的气质。特别是其全新的方圆一体的耀眼晶钻前灯，替代了原来双圆分离的前大灯造型，质感强烈，简洁醒目，强化了整车独特的品味和奔放的气质，更彰显出途安新一代与众不同的风格。作为德国大众继传统的MPV产品线之外开发的首款紧凑型多功能轿车，途安正凭借着卓越的产品品质得到越来越多懂车爱车人士的喜爱。此次上海大众适时推出途安新一代，大大提升了产品的性价比，无疑将进一步增强产品的市场开拓力，有望开启多功能轿车市场新一轮消费热潮，而它使用的内部空间布局也是您携家带口回家的首选车型。
 长安福特S-MAX
-福特S-MAX是福特第一款采用了福特欧洲动感设计（Kinetic
-Design）的车型，取代了较早的新边锋设计，其充满运动和时尚风格的造型设计体现了“运动中的能量”。S-MAX前端以鲜明的楔角车头为特征，富于动感的前照灯为它的外表增添了一种果断。雾灯是嵌入式的，高高地布置在前保险杠上，赋予汽车一种动感美。牌照板下的大型梯形格栅与上格栅形成互补——这是福特的特征，同时也给前部外观平添一分霸气。下格栅两侧类似于“鲨鱼鳃”的设计，形成了自己独有的特色。从福特S-MAX运动式的侧影，使人不难看出福特动感设计的意图所在。流线的车顶线条带着拱曲汇入发动机罩，突出的轮拱带有后沿出风口并以独特的上弯与窗玻璃后部相接。所有这一切都无不体现出福特S-MAX是一部魅力四射、活力迸发的汽车。S-MAX是年轻人的专属品，年轻的你一定不容错过。
+福特S-MAX是福特第一款采用了福特欧洲动感设计（Kinetic Design）的车型，取代了较早的新边锋设计，其充满运动和时尚风格的造型设计体现了“运动中的能量”。S-MAX前端以鲜明的楔角车头为特征，富于动感的前照灯为它的外表增添了一种果断。雾灯是嵌入式的，高高地布置在前保险杠上，赋予汽车一种动感美。牌照板下的大型梯形格栅与上格栅形成互补——这是福特的特征，同时也给前部外观平添一分霸气。下格栅两侧类似于“鲨鱼鳃”的设计，形成了自己独有的特色。从福特S-MAX运动式的侧影，使人不难看出福特动感设计的意图所在。流线的车顶线条带着拱曲汇入发动机罩，突出的轮拱带有后沿出风口并以独特的上弯与窗玻璃后部相接。所有这一切都无不体现出福特S-MAX是一部魅力四射、活力迸发的汽车。S-MAX是年轻人的专属品，年轻的你一定不容错过。
 上海大众POLO劲情
 POLO劲情是上海大众专为“第五代人”打造的时尚精品小车，其革新匹配的16V-HLD智能逻辑控制驱动系统是以德国大众FSI发动机为原型而开发的，具备高扭矩低转速、高耐用性低保养成本、高效率低油耗的特性，上市以后备受消费者喜爱。此次，上海大众对这两款发动机进行了卓有成效的动力提升，为08款POLO劲情提供了更为强劲有力的“心脏”。其中，1.4L发动机进行了功率提升，从原先的55kw提升到63kw，获得高扭矩的转速区域也更为宽广；1.6L发动机则充分发挥了德系车低转高扭的优势，。配置上，一向走在时尚潮流前端的POLO劲情此次也有出色表现：所有新车型都配备了4/6拆分后座椅，大大提高了空间利用的灵活性，充分体现了POLO品牌“以小见大”的设计理念；而秉承“安全至上”的产品理念，08款POLO劲情还增加了驾驶员安全带未系警告装置。
 东风日产骐达
@@ -45159,8 +44737,7 @@ i-VTEC发动机，配备全新的五速自动变速箱，达到更高动力输出、更低油耗、更低污染和更
 上海大众新途安
 途安新一代在延续这一品牌沉稳大气之风的同时，更具欧风时尚，更年轻、自信、时尚和富于动感。极富视觉冲击力的经典家族U型镀铬前脸、圆润优雅的流线型车身、银色一体式车顶行李架、闪亮星彩后灯等造型元素，赋予途安新一代经典又不失高雅的气质。特别是其全新的方圆一体的耀眼晶钻前灯，替代了原来双圆分离的前大灯造型，质感强烈，简洁醒目，强化了整车独特的品味和奔放的气质，更彰显出途安新一代与众不同的风格。作为德国大众继传统的MPV产品线之外开发的首款紧凑型多功能轿车，途安正凭借着卓越的产品品质得到越来越多懂车爱车人士的喜爱。此次上海大众适时推出途安新一代，大大提升了产品的性价比，无疑将进一步增强产品的市场开拓力，有望开启多功能轿车市场新一轮消费热潮，而它使用的内部空间布局也是您携家带口回家的首选车型。
 长安福特S-MAX
-福特S-MAX是福特第一款采用了福特欧洲动感设计（Kinetic
-Design）的车型，取代了较早的新边锋设计，其充满运动和时尚风格的造型设计体现了“运动中的能量”。S-MAX前端以鲜明的楔角车头为特征，富于动感的前照灯为它的外表增添了一种果断。雾灯是嵌入式的，高高地布置在前保险杠上，赋予汽车一种动感美。牌照板下的大型梯形格栅与上格栅形成互补——这是福特的特征，同时也给前部外观平添一分霸气。下格栅两侧类似于“鲨鱼鳃”的设计，形成了自己独有的特色。从福特S-MAX运动式的侧影，使人不难看出福特动感设计的意图所在。流线的车顶线条带着拱曲汇入发动机罩，突出的轮拱带有后沿出风口并以独特的上弯与窗玻璃后部相接。所有这一切都无不体现出福特S-MAX是一部魅力四射、活力迸发的汽车。S-MAX是年轻人的专属品，年轻的你一定不容错过。
+福特S-MAX是福特第一款采用了福特欧洲动感设计（Kinetic Design）的车型，取代了较早的新边锋设计，其充满运动和时尚风格的造型设计体现了“运动中的能量”。S-MAX前端以鲜明的楔角车头为特征，富于动感的前照灯为它的外表增添了一种果断。雾灯是嵌入式的，高高地布置在前保险杠上，赋予汽车一种动感美。牌照板下的大型梯形格栅与上格栅形成互补——这是福特的特征，同时也给前部外观平添一分霸气。下格栅两侧类似于“鲨鱼鳃”的设计，形成了自己独有的特色。从福特S-MAX运动式的侧影，使人不难看出福特动感设计的意图所在。流线的车顶线条带着拱曲汇入发动机罩，突出的轮拱带有后沿出风口并以独特的上弯与窗玻璃后部相接。所有这一切都无不体现出福特S-MAX是一部魅力四射、活力迸发的汽车。S-MAX是年轻人的专属品，年轻的你一定不容错过。
 上海大众POLO劲情
 POLO劲情是上海大众专为“第五代人”打造的时尚精品小车，其革新匹配的16V-HLD智能逻辑控制驱动系统是以德国大众FSI发动机为原型而开发的，具备高扭矩低转速、高耐用性低保养成本、高效率低油耗的特性，上市以后备受消费者喜爱。此次，上海大众对这两款发动机进行了卓有成效的动力提升，为08款POLO劲情提供了更为强劲有力的“心脏”。其中，1.4L发动机进行了功率提升，从原先的55kw提升到63kw，获得高扭矩的转速区域也更为宽广；1.6L发动机则充分发挥了德系车低转高扭的优势，。配置上，一向走在时尚潮流前端的POLO劲情此次也有出色表现：所有新车型都配备了4/6拆分后座椅，大大提高了空间利用的灵活性，充分体现了POLO品牌“以小见大”的设计理念；而秉承“安全至上”的产品理念，08款POLO劲情还增加了驾驶员安全带未系警告装置。
 东风日产骐达
@@ -45618,9 +45195,7 @@ PCauto版权所有,未经授权禁止转载、摘编、复制或建立镜像..如有违反,追究法律责任.
 ---系列/车型---
 0?'http://price.pcauto.com.cn/model.jsp?mid='+smid2.value:smid2.value<0?'http://price.pcauto.com.cn/serial.jsp?sid='+(-smid2.value):bid2.value>0?'http://price.pcauto.com.cn/brand.jsp?bid='+bid2.value:'';
 if(s=='')
-{alert('请选择品牌');
-return;
-}
+{alert('请选择品牌'); return; }
 top.location=s;">
 另类的豪华感受
 PCauto吹响百万SUV集结号
@@ -49250,9 +48825,7 @@ Christmas
 ·Super
 Christmas
 屏幕保护
-[
-专题制作：Ajia
-]
+[ 专题制作：Ajia ]
 [数据调研]PDC2007年度IT市场关注度报告
 1
 2
@@ -51619,10 +51192,7 @@ All
 rights
 reserved.
 版权所有
-(DataInfo:2008-02-12
-19:00:14/client2
-via
-TCP/IP/27)
+(DataInfo:2008-02-12 19:00:14/client2 via TCP/IP/27)
 经营许可证编号:粤B2-20050141
 声明：本网站仅为大众提供国际足球赛事资讯，禁止赌博或用于商业用途，网友进行赌博或参与违反本地区法律的一切行为均与本网站无关
 遏制炒房投资：个人房贷按揭市场将有重大变化-地产资讯-房地产门户搜房网
@@ -51780,44 +51350,34 @@ http://www.soufun.com房地产门户-搜房网2008年02月02日00:10
 24小时排行榜
 [快讯]08买房贷款怎样最省钱?
 公积金贷是最佳"武器"
-<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(),
-"MM-dd")%>
+<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(), "MM-dd")%>
 [快讯]购买二手房如何价廉物美
 专业人士提醒三要点
-<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(),
-"MM-dd")%>
+<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(), "MM-dd")%>
 [快讯]香港经济基调稳健
 市场人士看好鼠年香港楼市
-<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(),
-"MM-dd")%>
+<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(), "MM-dd")%>
 [快讯]广州：投资客捂紧荷包
 楼市继续冷淡未见转机
-<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(),
-"MM-dd")%>
+<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(), "MM-dd")%>
 [家居]降低装修污染物
 提高生活质量从源头把环保关
-<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(),
-"MM-dd")%>
+<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(), "MM-dd")%>
 [家居]绿色装修行动
 装修之中化学分解是除甲醛的关键
-<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(),
-"MM-dd")%>
+<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(), "MM-dd")%>
 [家居]建材商家促销活动频出新招
 百姓购物多得实惠
-<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(),
-"MM-dd")%>
+<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(), "MM-dd")%>
 [二手房]春节购二手房重点房源推荐
 全方位置业注意事项
-<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(),
-"MM-dd")%>
+<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(), "MM-dd")%>
 [二手房]房价半年涨了一半
 毁约房主被判赔54万元升值费
-<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(),
-"MM-dd")%>
+<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(), "MM-dd")%>
 [二手房]春节之后购房置业宝典
 二手房可兼做过渡及投资
-<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(),
-"MM-dd")%>
+<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(), "MM-dd")%>
 经济时评:“房价20年后翻番”没什么了不
 3680
 深圳楼市春日遇尴尬寒冬
@@ -52114,44 +51674,34 @@ http://www.soufun.com房地产门户-搜房网2008年02月02日00:16
 24小时排行榜
 [快讯]08买房贷款怎样最省钱?
 公积金贷是最佳"武器"
-<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(),
-"MM-dd")%>
+<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(), "MM-dd")%>
 [快讯]购买二手房如何价廉物美
 专业人士提醒三要点
-<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(),
-"MM-dd")%>
+<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(), "MM-dd")%>
 [快讯]香港经济基调稳健
 市场人士看好鼠年香港楼市
-<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(),
-"MM-dd")%>
+<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(), "MM-dd")%>
 [快讯]广州：投资客捂紧荷包
 楼市继续冷淡未见转机
-<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(),
-"MM-dd")%>
+<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(), "MM-dd")%>
 [家居]降低装修污染物
 提高生活质量从源头把环保关
-<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(),
-"MM-dd")%>
+<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(), "MM-dd")%>
 [家居]绿色装修行动
 装修之中化学分解是除甲醛的关键
-<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(),
-"MM-dd")%>
+<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(), "MM-dd")%>
 [家居]建材商家促销活动频出新招
 百姓购物多得实惠
-<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(),
-"MM-dd")%>
+<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(), "MM-dd")%>
 [二手房]春节购二手房重点房源推荐
 全方位置业注意事项
-<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(),
-"MM-dd")%>
+<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(), "MM-dd")%>
 [二手房]房价半年涨了一半
 毁约房主被判赔54万元升值费
-<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(),
-"MM-dd")%>
+<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(), "MM-dd")%>
 [二手房]春节之后购房置业宝典
 二手房可兼做过渡及投资
-<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(),
-"MM-dd")%>
+<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(), "MM-dd")%>
 经济时评:“房价20年后翻番”没什么了不
 3680
 深圳楼市春日遇尴尬寒冬
@@ -52451,44 +52001,34 @@ http://www.soufun.com房地产门户-搜房网2008年02月02日00:27
 24小时排行榜
 [快讯]08买房贷款怎样最省钱?
 公积金贷是最佳"武器"
-<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(),
-"MM-dd")%>
+<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(), "MM-dd")%>
 [快讯]购买二手房如何价廉物美
 专业人士提醒三要点
-<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(),
-"MM-dd")%>
+<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(), "MM-dd")%>
 [快讯]香港经济基调稳健
 市场人士看好鼠年香港楼市
-<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(),
-"MM-dd")%>
+<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(), "MM-dd")%>
 [快讯]广州：投资客捂紧荷包
 楼市继续冷淡未见转机
-<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(),
-"MM-dd")%>
+<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(), "MM-dd")%>
 [家居]降低装修污染物
 提高生活质量从源头把环保关
-<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(),
-"MM-dd")%>
+<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(), "MM-dd")%>
 [家居]绿色装修行动
 装修之中化学分解是除甲醛的关键
-<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(),
-"MM-dd")%>
+<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(), "MM-dd")%>
 [家居]建材商家促销活动频出新招
 百姓购物多得实惠
-<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(),
-"MM-dd")%>
+<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(), "MM-dd")%>
 [二手房]春节购二手房重点房源推荐
 全方位置业注意事项
-<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(),
-"MM-dd")%>
+<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(), "MM-dd")%>
 [二手房]房价半年涨了一半
 毁约房主被判赔54万元升值费
-<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(),
-"MM-dd")%>
+<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(), "MM-dd")%>
 [二手房]春节之后购房置业宝典
 二手房可兼做过渡及投资
-<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(),
-"MM-dd")%>
+<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(), "MM-dd")%>
 经济时评:“房价20年后翻番”没什么了不
 3680
 深圳楼市春日遇尴尬寒冬
@@ -52786,44 +52326,34 @@ http://www.soufun.com房地产门户-搜房网2008年02月02日00:39
 24小时排行榜
 [快讯]08买房贷款怎样最省钱?
 公积金贷是最佳"武器"
-<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(),
-"MM-dd")%>
+<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(), "MM-dd")%>
 [快讯]购买二手房如何价廉物美
 专业人士提醒三要点
-<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(),
-"MM-dd")%>
+<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(), "MM-dd")%>
 [快讯]香港经济基调稳健
 市场人士看好鼠年香港楼市
-<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(),
-"MM-dd")%>
+<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(), "MM-dd")%>
 [快讯]广州：投资客捂紧荷包
 楼市继续冷淡未见转机
-<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(),
-"MM-dd")%>
+<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(), "MM-dd")%>
 [家居]降低装修污染物
 提高生活质量从源头把环保关
-<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(),
-"MM-dd")%>
+<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(), "MM-dd")%>
 [家居]绿色装修行动
 装修之中化学分解是除甲醛的关键
-<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(),
-"MM-dd")%>
+<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(), "MM-dd")%>
 [家居]建材商家促销活动频出新招
 百姓购物多得实惠
-<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(),
-"MM-dd")%>
+<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(), "MM-dd")%>
 [二手房]春节购二手房重点房源推荐
 全方位置业注意事项
-<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(),
-"MM-dd")%>
+<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(), "MM-dd")%>
 [二手房]房价半年涨了一半
 毁约房主被判赔54万元升值费
-<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(),
-"MM-dd")%>
+<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(), "MM-dd")%>
 [二手房]春节之后购房置业宝典
 二手房可兼做过渡及投资
-<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(),
-"MM-dd")%>
+<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(), "MM-dd")%>
 经济时评:“房价20年后翻番”没什么了不
 3680
 深圳楼市春日遇尴尬寒冬
@@ -53043,8 +52573,7 @@ http://www.soufun.com房地产门户-搜房网2008年02月02日01:38
 奢侈豪华纸醉金迷(图)
 ［今日所有资讯］
 ［装修论坛］［家装图库］
-［家居博客
-］
+［家居博客 ］
 上一页
 [1]
 [2]
@@ -53134,44 +52663,34 @@ http://www.soufun.com房地产门户-搜房网2008年02月02日01:38
 24小时排行榜
 [快讯]08买房贷款怎样最省钱?
 公积金贷是最佳"武器"
-<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(),
-"MM-dd")%>
+<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(), "MM-dd")%>
 [快讯]购买二手房如何价廉物美
 专业人士提醒三要点
-<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(),
-"MM-dd")%>
+<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(), "MM-dd")%>
 [快讯]香港经济基调稳健
 市场人士看好鼠年香港楼市
-<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(),
-"MM-dd")%>
+<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(), "MM-dd")%>
 [快讯]广州：投资客捂紧荷包
 楼市继续冷淡未见转机
-<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(),
-"MM-dd")%>
+<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(), "MM-dd")%>
 [家居]降低装修污染物
 提高生活质量从源头把环保关
-<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(),
-"MM-dd")%>
+<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(), "MM-dd")%>
 [家居]绿色装修行动
 装修之中化学分解是除甲醛的关键
-<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(),
-"MM-dd")%>
+<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(), "MM-dd")%>
 [家居]建材商家促销活动频出新招
 百姓购物多得实惠
-<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(),
-"MM-dd")%>
+<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(), "MM-dd")%>
 [二手房]春节购二手房重点房源推荐
 全方位置业注意事项
-<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(),
-"MM-dd")%>
+<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(), "MM-dd")%>
 [二手房]房价半年涨了一半
 毁约房主被判赔54万元升值费
-<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(),
-"MM-dd")%>
+<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(), "MM-dd")%>
 [二手房]春节之后购房置业宝典
 二手房可兼做过渡及投资
-<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(),
-"MM-dd")%>
+<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(), "MM-dd")%>
 经济时评:“房价20年后翻番”没什么了不
 3680
 深圳楼市春日遇尴尬寒冬
@@ -53461,44 +52980,34 @@ http://www.soufun.com房地产门户-搜房网2008年02月02日07:57
 24小时排行榜
 [快讯]08买房贷款怎样最省钱?
 公积金贷是最佳"武器"
-<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(),
-"MM-dd")%>
+<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(), "MM-dd")%>
 [快讯]购买二手房如何价廉物美
 专业人士提醒三要点
-<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(),
-"MM-dd")%>
+<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(), "MM-dd")%>
 [快讯]香港经济基调稳健
 市场人士看好鼠年香港楼市
-<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(),
-"MM-dd")%>
+<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(), "MM-dd")%>
 [快讯]广州：投资客捂紧荷包
 楼市继续冷淡未见转机
-<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(),
-"MM-dd")%>
+<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(), "MM-dd")%>
 [家居]降低装修污染物
 提高生活质量从源头把环保关
-<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(),
-"MM-dd")%>
+<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(), "MM-dd")%>
 [家居]绿色装修行动
 装修之中化学分解是除甲醛的关键
-<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(),
-"MM-dd")%>
+<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(), "MM-dd")%>
 [家居]建材商家促销活动频出新招
 百姓购物多得实惠
-<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(),
-"MM-dd")%>
+<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(), "MM-dd")%>
 [二手房]春节购二手房重点房源推荐
 全方位置业注意事项
-<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(),
-"MM-dd")%>
+<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(), "MM-dd")%>
 [二手房]房价半年涨了一半
 毁约房主被判赔54万元升值费
-<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(),
-"MM-dd")%>
+<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(), "MM-dd")%>
 [二手房]春节之后购房置业宝典
 二手房可兼做过渡及投资
-<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(),
-"MM-dd")%>
+<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(), "MM-dd")%>
 经济时评:“房价20年后翻番”没什么了不
 3680
 深圳楼市春日遇尴尬寒冬
@@ -53800,44 +53309,34 @@ http://www.soufun.com房地产门户-搜房网2008年02月02日08:07
 24小时排行榜
 [快讯]08买房贷款怎样最省钱?
 公积金贷是最佳"武器"
-<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(),
-"MM-dd")%>
+<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(), "MM-dd")%>
 [快讯]购买二手房如何价廉物美
 专业人士提醒三要点
-<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(),
-"MM-dd")%>
+<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(), "MM-dd")%>
 [快讯]香港经济基调稳健
 市场人士看好鼠年香港楼市
-<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(),
-"MM-dd")%>
+<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(), "MM-dd")%>
 [快讯]广州：投资客捂紧荷包
 楼市继续冷淡未见转机
-<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(),
-"MM-dd")%>
+<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(), "MM-dd")%>
 [家居]降低装修污染物
 提高生活质量从源头把环保关
-<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(),
-"MM-dd")%>
+<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(), "MM-dd")%>
 [家居]绿色装修行动
 装修之中化学分解是除甲醛的关键
-<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(),
-"MM-dd")%>
+<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(), "MM-dd")%>
 [家居]建材商家促销活动频出新招
 百姓购物多得实惠
-<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(),
-"MM-dd")%>
+<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(), "MM-dd")%>
 [二手房]春节购二手房重点房源推荐
 全方位置业注意事项
-<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(),
-"MM-dd")%>
+<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(), "MM-dd")%>
 [二手房]房价半年涨了一半
 毁约房主被判赔54万元升值费
-<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(),
-"MM-dd")%>
+<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(), "MM-dd")%>
 [二手房]春节之后购房置业宝典
 二手房可兼做过渡及投资
-<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(),
-"MM-dd")%>
+<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(), "MM-dd")%>
 经济时评:“房价20年后翻番”没什么了不
 3680
 深圳楼市春日遇尴尬寒冬
@@ -54131,44 +53630,34 @@ http://www.soufun.com房地产门户-搜房网2008年02月02日08:53
 24小时排行榜
 [快讯]08买房贷款怎样最省钱?
 公积金贷是最佳"武器"
-<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(),
-"MM-dd")%>
+<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(), "MM-dd")%>
 [快讯]购买二手房如何价廉物美
 专业人士提醒三要点
-<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(),
-"MM-dd")%>
+<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(), "MM-dd")%>
 [快讯]香港经济基调稳健
 市场人士看好鼠年香港楼市
-<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(),
-"MM-dd")%>
+<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(), "MM-dd")%>
 [快讯]广州：投资客捂紧荷包
 楼市继续冷淡未见转机
-<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(),
-"MM-dd")%>
+<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(), "MM-dd")%>
 [家居]降低装修污染物
 提高生活质量从源头把环保关
-<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(),
-"MM-dd")%>
+<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(), "MM-dd")%>
 [家居]绿色装修行动
 装修之中化学分解是除甲醛的关键
-<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(),
-"MM-dd")%>
+<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(), "MM-dd")%>
 [家居]建材商家促销活动频出新招
 百姓购物多得实惠
-<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(),
-"MM-dd")%>
+<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(), "MM-dd")%>
 [二手房]春节购二手房重点房源推荐
 全方位置业注意事项
-<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(),
-"MM-dd")%>
+<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(), "MM-dd")%>
 [二手房]房价半年涨了一半
 毁约房主被判赔54万元升值费
-<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(),
-"MM-dd")%>
+<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(), "MM-dd")%>
 [二手房]春节之后购房置业宝典
 二手房可兼做过渡及投资
-<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(),
-"MM-dd")%>
+<//%=DateFormatUtils.format((Date)newsInfoBean.getNewsCreatedTime(), "MM-dd")%>
 经济时评:“房价20年后翻番”没什么了不
 3680
 深圳楼市春日遇尴尬寒冬
@@ -54450,9 +53939,7 @@ http://www.soufun.com/house/
 第[1][2]页下一页
 责任编辑/jiangpeng.bj
 [收藏]
-[字体：大
-中
-小]
+[字体：大 中 小]
 [rss订阅]
 [打印]
 [推荐给朋友]
@@ -54682,8 +54169,7 @@ House首府
 上上城
 4400
 02
-华尔街公寓(
-17000
+华尔街公寓( 17000 
 03
 美利山
 13800
@@ -54850,9 +54336,7 @@ KATY算是大休斯敦地区的一个城市，相当于国内城市中的一个区。它目前最有名的两大居民
 第[1][2][3]页下一页
 责任编辑/kunming_news
 [收藏]
-[字体：大
-中
-小]
+[字体：大 中 小]
 [rss订阅]
 [打印]
 [推荐给朋友]
@@ -55088,8 +54572,7 @@ House首府
 上上城
 4400
 02
-华尔街公寓(
-17000
+华尔街公寓( 17000 
 03
 美利山
 13800
@@ -55256,9 +54739,7 @@ http://www.soufun.com/house/
 [11][12]页下一页
 责任编辑/wangxie.bj
 [收藏]
-[字体：大
-中
-小]
+[字体：大 中 小]
 [rss订阅]
 [打印]
 [推荐给朋友]
@@ -55499,8 +54980,7 @@ House首府
 上上城
 4400
 02
-华尔街公寓(
-17000
+华尔街公寓( 17000 
 03
 美利山
 13800
@@ -55669,9 +55149,7 @@ http://www.soufun.com/house/
 [11][12][13][14][15][16]页下一页
 责任编辑/guoke.bj
 [收藏]
-[字体：大
-中
-小]
+[字体：大 中 小]
 [rss订阅]
 [打印]
 [推荐给朋友]
@@ -55902,8 +55380,7 @@ House首府
 上上城
 4400
 02
-华尔街公寓(
-17000
+华尔街公寓( 17000 
 03
 美利山
 13800
@@ -56076,9 +55553,7 @@ http://www.soufun.com/house/
 第[1][2][3][4][5][6]页下一页
 责任编辑/yuanlei.bj
 [收藏]
-[字体：大
-中
-小]
+[字体：大 中 小]
 [rss订阅]
 [打印]
 [推荐给朋友]
@@ -56317,8 +55792,7 @@ House首府
 上上城
 4400
 02
-华尔街公寓(
-17000
+华尔街公寓( 17000 
 03
 美利山
 13800

@@ -862,7 +862,7 @@ VIP¾«Æ·Ð¡ËµÍÆ¼ö°ñ
 °ÁÁúÐÞÉñ¼Ç
 ÒìÄÜ»ÊÕß
 ¼¤ÇéºÍ°®µÄÊ±¿Õ
-¡¶×î½üÌìÊ¹ÔÚ³ÁÂÙ
+¡¶×î½üÌìÊ¹ÔÚ³ÁÂÙ 
 Òì½çÐÞÀí¹¤
 ÃîÆ·Ð¡ËµÍÆ¼ö
 Íò»¨½Ù
@@ -1646,8 +1646,8 @@ VIPÐ¡Ëµ×îÐÂ¸üÐÂ
 ´æ¿î±£ÏÕÌõÀýÒÑÈëÁ¢·¨½ø³Ì
 ÒøÐÐ³µÉÌ´úÊÛ±£ÏÕ
 ÊÖÐø·ÑÊÕÈë¹ý°Ù...
-°²»Õ±£¼à¾Ö£ºÒýÁìÐÐÒµÕ½Ñ©ÔÖ£¨±£ÏÕ...
-¹ãÎ÷±£¼à¾Ö£ºÓÐÌõ²»ÎÉ×¥¿¹ÔÖ£¨±£ÏÕ...
+°²»Õ±£¼à¾Ö£ºÒýÁìÐÐÒµÕ½Ñ©ÔÖ£¨±£ÏÕ...  
+¹ãÎ÷±£¼à¾Ö£ºÓÐÌõ²»ÎÉ×¥¿¹ÔÖ£¨±£ÏÕ...  
 Õã½­±£¼à¾Ö£ºÔÚÓêÑ©ÖÐ²ÁÁÁÐÐÒµÆ·ÅÆ...
 ±£¼à»á£º×ÅÁ¦Ìá¸ß±£ÏÕÀíÅâÖÊÁ¿ÓëÐ§...
 ]
@@ -1744,7 +1744,7 @@ VIPÐ¡Ëµ×îÐÂ¸üÐÂ
 ÈÈÃÅÏÂÔØ
 ¸ü¶à
 ¡¾±£ÏÕÓªÏú¡¿
-±£ÏÕ¹«Ë¾³¿»áÖ÷³Ö´Ê(...
+±£ÏÕ¹«Ë¾³¿»áÖ÷³Ö´Ê(... 
 ¡¾±£ÏÕÓªÏú¡¿
 ±£ÏÕ¹«Ë¾³¿»á´®´Ê
 ¡¾±£ÏÕÓªÏú¡¿
@@ -1758,7 +1758,7 @@ PDFÔÄ¶ÁÆ÷
 ¡¾±£ÏÕÓªÏú¡¿
 ±£ÏÕ¹«Ë¾³¿»áÄÚÈÝÊµÂ¼
 ¡¾±£ÏÕÂÛÎÄ¡¿
-±£ÏÕµÄ10¸öÃØÃÜ(×Ê...
+±£ÏÕµÄ10¸öÃØÃÜ(×Ê... 
 ¡¾ÊµÎñ¹¤¾ß¡¿
 SybaseÖúÁ¦Æ½°²...
 ¡¾±£ÏÕÓªÏú¡¿
@@ -3028,7 +3028,7 @@ www.21cbh.com/mobile
 ICPÖ¤ºÅ£ºÔÁICP±¸05099524ºÅ
 2007Äê¶ÈÖÐ¹ú°ÙÍòÖÐ²ú¼ÒÍ¥Ê×Ñ¡Æû³µ°ñ
 2008-2-13
-æ˜ŸæœŸä¸‰
+æ˜ŸæœŸä¸‰</span>
 ÕÊºÅ:
 ÃÜÂë:
 ×¢²á
@@ -3162,7 +3162,7 @@ VOLVOÊÐ³¡×Ü¼à
 °ÂÒ»
 2007Äê¶ÈÖÐ¹ú°ÙÍòÖÐ²ú¼ÒÍ¥Ê×Ñ¡Æû³µ°ñ
 2008-2-13
-æ˜ŸæœŸä¸‰
+æ˜ŸæœŸä¸‰</span>
 ÕÊºÅ:
 ÃÜÂë:
 ×¢²á
@@ -3553,7 +3553,7 @@ moved
 Æ¤Æ¤Â³£º¶¯Ô±º¢×Ó»Ø¹éÔÄ¶Á--Ö£Ô¨½àºÍÕÅÇïÁÖ¶Ô»°Â¼
 ÎÄÑ§µÄÁé»êÓëÓ°×Ó---¹ØÓÚÇà´ºÎÄÑ§µÄ¶Ô»°
 ÂÒ»¨½¥ÓûÃÔÈËÑÛ--¶þÊ®Ò»ÊÀ¼Í³ö°æÉçÐÂÊéÒ»Æ³
-¡¶¡¶Ç¾Þ±Ö®Áµ¡·±à¼­ÊÖÔý
+¡¶¡¶Ç¾Þ±Ö®Áµ¡·±à¼­ÊÖÔý 
 ¡¶²¼Â³ÅµÓë²¼´Ä¡·ÖØ°æ¸ÐÑÔ
 ÓëÊéÍ¬ÐÐµ½Î´À´
 ¸ßÈËÍþÏÈÉú--µÂ¹ú³ö°æ¼ÒÌØ²¼À³Ï£ÌØÓ¡Ïó
@@ -3867,10 +3867,8 @@ PSP[¼«Æ··É³µ11]½ØÍ¼
 [ºìÉ«¾¯½ä3]¼´½«µÇ³¡
 [¶¯Âþ]
 ´º¼¾¹ãÖÝ¶¯Âþ¼ÎÄê»ª
-<fieldset
->
-<legend
-class="t12pBlue">
+<fieldset >
+<legend class="t12pBlue">
 Ð¡ÓÎÏ·
 </legend>
 ³¤½­ÆßºÅ
@@ -4338,10 +4336,8 @@ PSP[¼«Æ··É³µ11]½ØÍ¼
 [ºìÉ«¾¯½ä3]¼´½«µÇ³¡
 [¶¯Âþ]
 ´º¼¾¹ãÖÝ¶¯Âþ¼ÎÄê»ª
-<fieldset
->
-<legend
-class="t12pBlue">
+<fieldset >
+<legend class="t12pBlue">
 Ð¡ÓÎÏ·
 </legend>
 ³¤½­ÆßºÅ
@@ -4656,9 +4652,7 @@ BBSÒµÎñ·ÖÀà
 ½«Éè×¨ÊôÌ×²Í(12ÔÂ19ÈÕ)[217]
 ¿í´ø¹²Ïí¸Ã¡°¶Â¡±»¹ÊÇ¡°Êè¡±£¿(12ÔÂ19ÈÕ)[227]
 ½»Í¨²¿¹æ·¶º£ÉÏÒÆ¶¯Í¨ÐÅÒµÎñ±êÊ¶¹ÜÀí(12ÔÂ19ÈÕ)[197]
-[
-¸ü¶à...
-]
+[ ¸ü¶à... ]
 ÌØ±ð¹Ø×¢
 ´òÔì¡°ÖÐ¹ú¶Ô½²»úÆ·ÅÆ¡±ÈÔÈ»ÈÎÖØµÀÔ¶(12ÔÂ19ÈÕ)[179]
 Ä¿Ç°µÄÔËÓª»·¾³ÖÐÐ¡ÆóÒµÈçºÎÍ»ÆÆ(12ÔÂ19ÈÕ)[366]
@@ -4671,9 +4665,7 @@ BBSÒµÎñ·ÖÀà
 ¶Ô½²»úÆóÒµÓ¦ÕäÏ§ÏÖÓÐÉú´æ¿Õ¼ä(12ÔÂ6ÈÕ)[156]
 ÉóÊ±¶ÈÊÆ£¬ÖØ½¨ÆóÒµ¾ºÕùÁ¦(12ÔÂ6ÈÕ)[135]
 ¶Ô½²»úÒµºô»½¹«Æ½¼°ºÏÀíµÄ±ÈÈüÆ½Ì¨(12ÔÂ6ÈÕ)[165]
-[
-¸ü¶à...
-]
+[ ¸ü¶à... ]
 ÊÐ³¡
 ÓÅÊÆ»¥²¹¹²´´Ë«Ó®
 ÆÚ´ý¶Ô½²»úÒµÑÝÒïÐÂ°æ¡°¹êÍÃÈüÅÜ¡±...(9ÔÂ19ÈÕ)[489]
@@ -4689,9 +4681,7 @@ BBSÒµÎñ·ÖÀà
 ¼Û¸ñÕ½·Ç³¤¾ÃÖ®¼Æ
 ¶Ô½²»úÒµ×öÇ¿Ðèµ÷Õû³§ÉÌ¹ØÏµ...(8ÔÂ22ÈÕ)[646]
 È¡ÊÆ¡¢Ã÷µÀ¡¢ÓÅÊõ¡ª¡ªµØÇø¶Ô½²»úÊÐ³¡¾­ÓªÖ®ÎÒ¼û...(8ÔÂ22ÈÕ)[892]
-[
-¸ü¶à...
-]
+[ ¸ü¶à... ]
 ÆóÒµ
 ÎÞÖÐÐÄÏµÍ³µÄÁìÍ·Ñò¡ª¡ªÈýÍþÓÖ»ñÒ»Ïî¼¼Êõ·¢Ã÷×¨Àû...(8ÔÂ6ÈÕ)[810]
 ÈÄÆ½ÏØ½¨Á¢Ó¦¼±Í¨ÐÅÍø
@@ -4706,9 +4696,7 @@ BBSÒµÎñ·ÖÀà
 £¹£°£°£Í£È£úÎÞÖÐÐÄ³µÔØÌ¨ÃæÊÐ(11ÔÂ2ÈÕ)[2581]
 ÈýÍþ³É¹¦ÑÐ·¢£¹£°£°£Í£È£úÎÞÖÐÐÄÍ¨ÐÅÏµÍ³¼ÆËã»úºôºÅ±àÂëÆ÷...(11ÔÂ2ÈÕ)[2575]
 Õã½­Ê¡ÐÅÏ¢²úÒµÌüÎÞÏßµç¹ÜÀí´¦µ½ÈýÍþ²Î¹Û¿¼²ìÎÞÖÐÐÄ²úÆ·...(11ÔÂ2ÈÕ)[2668]
-[
-¸ü¶à...
-]
+[ ¸ü¶à... ]
 ²úÆ·Óë¼¼Êõ
 ´æ´¢ÓâÇ§Ö¸ÎÆ
 £Ò£Ã£ÇÖÇÄÜÃÅ½û°ÑÃÅ´óÐÍ»ú¹¹(12ÔÂ19ÈÕ)[155]
@@ -4723,9 +4711,7 @@ BBSÒµÎñ·ÖÀà
 ÈªÊ¢×îÐÂÍÆ³ö£Ô£Ç£­£Á£³£¸£°¶Ô½²»ú(12ÔÂ6ÈÕ)[235]
 ÍþÌ©¿ËË¹×îÐÂÊÖ³Ö¶Ô½²»ú£Ö£Ø£­£³£µ£±/£³£µ£´...(12ÔÂ6ÈÕ)[155]
 £Ê£Ú£¸£¸£±Î¢¹¦ÂÊÎÞÏßÊý´«Ä£¿é(12ÔÂ6ÈÕ)[145]
-[
-¸ü¶à...
-]
+[ ¸ü¶à... ]
 ½»Á÷
 £Í£É£ÔÐÂ¾ÉÄ£¿éÐ¡Îö(2ÔÂ1ÈÕ)[1968]
 Ê²Ã´½ÐÓïÒôÑ¹À©¼¼Êõ£¿(2ÔÂ1ÈÕ)[2005]
@@ -4738,9 +4724,7 @@ BBSÒµÎñ·ÖÀà
 ¹ØÓÚÐ¡ÐÍ£Ã²¨¶ÎÕýÀ¡ÌìÏßÊ¹ÓÃ¾­ÑéÌ¸(12ÔÂ15ÈÕ)[2324]
 ÈçºÎÑ¡¹º³µÔØÌìÏßºÍ»ùµØÌ¨ÌìÏß(12ÔÂ15ÈÕ)[2535]
 ÒµÓàÎÞÏßµçÍ¨ÐÅµÄ³£ÓÃÌìÏßÐÎÊ½(11ÔÂ2ÈÕ)[2758]
-[
-¸ü¶à...
-]
+[ ¸ü¶à... ]
 Õ¹»áÐÅÏ¢
 IPTVÈ«ÇòÂÛÌ³[753]
 IME
@@ -4756,9 +4740,7 @@ IPTV·¢Õ¹ÂÛÌ³[3242]
 2006ÄêÖÐ¹úVoIPÕ¹ÀÀ¼°ÑÐÌÖ»á[3445]
 2006µÚÎå½ìÖÐ¹ú£¨Îäºº£©¹ú¼ÊÐÅÏ¢²úÒµ²©...[3494]
 2006ÄêÖÐ¹ú¹ú¼ÊIPTV¼¼ÊõÑÐÌÖ»á[3326]
-[
-¸ü¶à...
-]
+[ ¸ü¶à... ]
 -ÓÑÇéÁ´½Ó-
 ±±¾©º£µíÇøÈý»·±±Â·105ºÅ¿ÆÔ­´óÏÃB×ù1001µ¥Ôª
 µç»°£º
@@ -5149,8 +5131,7 @@ NBA¡¤¹ú×ã¡¤ÐãÉ«
 &#149;2007Äê¶È½ðÈÚ´óÊÂ¼þ2007ÄêÉú»î´óÊÂ
 &#149;½âÎöÐÐÒµB2BÍøÕ¾µÄÄ£Ê½ÖÐ¹ú³µÌ³Äê¶È»Ø¹Ë
 ÆµµÀ¾«Ñ¡
-[2008±±¾©Á½»á×¨Ìâ±¨µÀ][¡°¿ÆÑ§·¢Õ¹
-¹²½¨ºÍÐ³¡±ÍøÂç×÷Æ·´óÈüÁì½±¹«¸æ]
+[2008±±¾©Á½»á×¨Ìâ±¨µÀ][¡°¿ÆÑ§·¢Õ¹ ¹²½¨ºÍÐ³¡±ÍøÂç×÷Æ·´óÈüÁì½±¹«¸æ]
 ¹úÄÚ¡¤Éç»á
 &#149;Ñ¹ËêÇ®³ÉÐÐ»ßÐÂÊÖ¶Î
 º¢×Óµ±´´ÊÕË½ÏÂÊÕºì°ü²»¸æËß¼Ò³¤
@@ -5236,8 +5217,7 @@ NBA¡¤¹ú×ã¡¤ÐãÉ«
 &#149;2008Äê±±¾©µçÊÓÌ¨´º½ÚÍí»á
 &#149;¹²ÉÍÓ¢Â×
 Ó®È¡Ó¢¹úÎèµ¸ÍÅ·Ã»ªÑÝ³öÆ±
-&#149;¡¶ÆÚ´ý±±¾©
-ºúÍ¬2007¡·ÉãÓ°×÷Æ·Õ¹
+&#149;¡¶ÆÚ´ý±±¾© ºúÍ¬2007¡·ÉãÓ°×÷Æ·Õ¹
 &#149;ÁúÌ¶Ãí»áÀúÊ·»Ø¹ËÕ¹×÷Æ·Õ÷¼¯»î¶¯
 &#149;¾©»ªÂÛÌ³2007Äê¶È°Ë´óºÍÐ³ÈËÎï½ÒÏþ
 &#149;Btv5²Æ¾­ÆµµÀ
@@ -5703,8 +5683,7 @@ more¡­
 ¡¶Ï¸½Ú¾ö¶¨³É°Ü¡·¶Áºó¸Ð
 ÊöÖ°±¨¸æ¡ª¡ªÐû´«²¿³¤ÊöÖ°±¨¸æ
 XXXX½Ö2004ÄêÕÐÉÌ¹¤×÷×Ü½á
-¹¤³Ì½¨ÉèÕÐ±êÍ¶±êºÏÍ¬£¨ÍÁµØ¹¤³ÌÊ©¹¤¼àÀí·þÎñ´ó±ðÉ½ÏÂµÄ¼ì²ìÐÛÊ¦£¨¼ì²ìÔºäÂÕì¾ÖÏÈ½øÊÂ¼££©Ïç³¤ÊöÖ°±¨¸æ
-Ä³ÊÐ¹ú¼ÒË°Îñ¾ÖÕþÎñ¹«¿ª¹¤×÷×Ü½á
+¹¤³Ì½¨ÉèÕÐ±êÍ¶±êºÏÍ¬£¨ÍÁµØ¹¤³ÌÊ©¹¤¼àÀí·þÎñ´ó±ðÉ½ÏÂµÄ¼ì²ìÐÛÊ¦£¨¼ì²ìÔºäÂÕì¾ÖÏÈ½øÊÂ¼££©Ïç³¤ÊöÖ°±¨¸æ Ä³ÊÐ¹ú¼ÒË°Îñ¾ÖÕþÎñ¹«¿ª¹¤×÷×Ü½á 
 ¾ºÖ°ÑÝ½²¸å--µ³Î¯ÍÅÎ¯
 ¾ºÕù¹¤ÉÌ·Ö¾Ö¾Ö³¤·¢ÑÔ¸å
 ¾ºÖ°ÑÝ½²¸å-¹¤»áÖ÷Ï¯2
@@ -6558,8 +6537,7 @@ best
 wishes
 for
 them!
-(Reuters
-photo)
+(Reuters photo)
 Miily
 2007-01-02
 13:07:48
@@ -6909,20 +6887,7 @@ QQÈºÈýºÅÂë:4238920
 ÔÚÏßÍ¶¸å
 ¹ÜÀíµÇÂ½
 ICP±¸05016634ºÅ
-Ê×Ò³--21ÊÀ¼Í·¿³µÍø-È«Çò×î´óµÄÖÐÎÄ·¿³µÍøÕ¾(Rv
-·¿³µ
-Caravan
-ÂÃ¾Ó³µ
-·¿³µÂ¶ÓªµØ
-·¿³µ½»Ò×
-·¿³µ×âÁÞ
-¹ú²ú·¿³µ
-½ø¿Ú·¿³µ
-·¿³µ»î¶¯
-·¿³µÓÃÆ·
-·¿³µÉÌ³Ç
-·¿³µÂÛÌ³
-·¿³µ´óÈ«)
+Ê×Ò³--21ÊÀ¼Í·¿³µÍø-È«Çò×î´óµÄÖÐÎÄ·¿³µÍøÕ¾(Rv ·¿³µ Caravan ÂÃ¾Ó³µ ·¿³µÂ¶ÓªµØ ·¿³µ½»Ò× ·¿³µ×âÁÞ ¹ú²ú·¿³µ ½ø¿Ú·¿³µ ·¿³µ»î¶¯ ·¿³µÓÃÆ· ·¿³µÉÌ³Ç ·¿³µÂÛÌ³ ·¿³µ´óÈ«)
 ÏÖÔÚÊÇ:
 ÓÃ»§Ãû
 ÃÜÂë
@@ -6961,7 +6926,7 @@ Caravan
 ¡¤[ÐÂÎÅÖÐÐÄ]¼ÝÊ»·¿³µÂÃÓÎ·¢ÏÖÐÂÃÀ¹úµÄ×îºÃÂÃÐÐ·½Ê½
 ¡¤[ÐÂÎÅÖÐÐÄ]ÃÎÏë¡¤ºÍÐ³¡¤ÐÂ¾³½ç·¿³µ½«×éÍÅ³ÊÏÖ±±¾©³µ
 ¡¤[ÐÂÎÅÖÐÐÄ]Coachmen¼¯ÍÅËÄ¼¾¶ÈÏúÊÛ²»¼Ñ¾»¿÷ËðÓÐËù½µ
-¡¤[ÐÂÎÅÖÐÐÄ]´Ç¾ÉÓ­ÐÂ¡ª¡ª2007ÖÐ¹ú·¿³µÊÐ³¡ÄêÖÕÅÌµã£¨Ò»
+¡¤[ÐÂÎÅÖÐÐÄ]´Ç¾ÉÓ­ÐÂ¡ª¡ª2007ÖÐ¹ú·¿³µÊÐ³¡ÄêÖÕÅÌµã£¨Ò» 
 ¡¤[ÐÂÎÅÖÐÐÄ]ÃÀ¹ú·¿³µÐÐÒµÐ­»áÐû²¼È¥Äê11ÔÂ³ö»õÁ¿ÏÂ»¬
 ¡¤[ÐÂÎÅÖÐÐÄ]µÚ¾Å½ì±±ÃÀ·¿³µ´ó¼¯»áÓÚ3ÔÂÔÚÇÇÖÎÑÇÖÝ¿ªÄ»
 ¡¤[ÐÂÎÅÖÐÐÄ]RVIAÖ÷Ï¯¿â¶÷ÏÈÉúÖÂÐÅ2008ÉÏº£·¿³µ¹¤ÒµÕ¹×é
@@ -6983,9 +6948,9 @@ Caravan
 ÐÂ
 ÎÅ
 ¡¤ËÄÎ¬ÌØÖÖ³µÏîÄ¿ÔÚ¾©Ç©Ô¼Ì«²ÖÂõÏòÕû³µÖÆÔì
-¡¤´Ç¾ÉÓ­ÐÂ¡ª¡ª2007ÖÐ¹ú·¿³µÊÐ³¡ÄêÖÕÅÌµã£¨
-¡¤´Ç¾ÉÓ­ÐÂ¡ª¡ª2007ÖÐ¹ú·¿³µÊÐ³¡ÄêÖÕÅÌµã£¨
-¡¤´Ç¾ÉÓ­ÐÂ¡ª¡ª2007ÖÐ¹ú·¿³µÊÐ³¡ÄêÖÕÅÌµã£¨
+¡¤´Ç¾ÉÓ­ÐÂ¡ª¡ª2007ÖÐ¹ú·¿³µÊÐ³¡ÄêÖÕÅÌµã£¨ 
+¡¤´Ç¾ÉÓ­ÐÂ¡ª¡ª2007ÖÐ¹ú·¿³µÊÐ³¡ÄêÖÕÅÌµã£¨ 
+¡¤´Ç¾ÉÓ­ÐÂ¡ª¡ª2007ÖÐ¹ú·¿³µÊÐ³¡ÄêÖÕÅÌµã£¨ 
 ¡¤³¤³Ç·¿³µ¶«¶ÉÈÕ±¾ÀÛ¼Æ³ö¿Ú65Ì¨³¤³ÇNEBUL
 ¡¤Èð°²ÈËÉú²ú¹úÄÚÊ×Åú¸ß¶Ë·¿³µÅ·ÂÃ¡¤±¼³Û·¿
 È«
@@ -7091,10 +7056,7 @@ Caravan
 ¡°×·Ñ°ÄãµÄÃÎÏë¡±
 µÂ¹úNiesmann+Bis
 µÂ¹úFendt·¿³µ¹«Ë¾
-µÂ¹ú±öÊË¶Ü£¨Buer
-2008¿îµÂ¹úKANUS¶à
-¡°ÕæÕýµÄÅÓÈ»´óÎï
-2008¿îÍÏ¹ÒBÐÍX-A
+µÂ¹ú±öÊË¶Ü£¨Buer  2008¿îµÂ¹úKANUS¶à  ¡°ÕæÕýµÄÅÓÈ»´óÎï  2008¿îÍÏ¹ÒBÐÍX-A 
 ×¨
 Ìâ
 À¸
@@ -7208,20 +7170,7 @@ Reserved
 TEL:010-84644302
 81615821¾­ÓªÐí¿ÉÖ¤£º¾©ICPÖ¤05009085ºÅ
 Î´¾­21ÊÀ¼Í·¿³µÍøÊéÃæÊÚÈ¨£¬ÇëÎð×ªÔØ»ò½¨Á¢¾µÏñ£¬Î¥ÕßÒÀ·¨×·¾¿ÆäÔðÈÎ
-Ê×Ò³--21ÊÀ¼Í·¿³µÍø-È«Çò×î´óµÄÖÐÎÄ·¿³µÍøÕ¾(Rv
-·¿³µ
-Caravan
-ÂÃ¾Ó³µ
-·¿³µÂ¶ÓªµØ
-·¿³µ½»Ò×
-·¿³µ×âÁÞ
-¹ú²ú·¿³µ
-½ø¿Ú·¿³µ
-·¿³µ»î¶¯
-·¿³µÓÃÆ·
-·¿³µÉÌ³Ç
-·¿³µÂÛÌ³
-·¿³µ´óÈ«)
+Ê×Ò³--21ÊÀ¼Í·¿³µÍø-È«Çò×î´óµÄÖÐÎÄ·¿³µÍøÕ¾(Rv ·¿³µ Caravan ÂÃ¾Ó³µ ·¿³µÂ¶ÓªµØ ·¿³µ½»Ò× ·¿³µ×âÁÞ ¹ú²ú·¿³µ ½ø¿Ú·¿³µ ·¿³µ»î¶¯ ·¿³µÓÃÆ· ·¿³µÉÌ³Ç ·¿³µÂÛÌ³ ·¿³µ´óÈ«)
 ÏÖÔÚÊÇ:
 ÓÃ»§Ãû
 ÃÜÂë
@@ -7260,7 +7209,7 @@ Caravan
 ¡¤[ÐÂÎÅÖÐÐÄ]¼ÝÊ»·¿³µÂÃÓÎ·¢ÏÖÐÂÃÀ¹úµÄ×îºÃÂÃÐÐ·½Ê½
 ¡¤[ÐÂÎÅÖÐÐÄ]ÃÎÏë¡¤ºÍÐ³¡¤ÐÂ¾³½ç·¿³µ½«×éÍÅ³ÊÏÖ±±¾©³µ
 ¡¤[ÐÂÎÅÖÐÐÄ]Coachmen¼¯ÍÅËÄ¼¾¶ÈÏúÊÛ²»¼Ñ¾»¿÷ËðÓÐËù½µ
-¡¤[ÐÂÎÅÖÐÐÄ]´Ç¾ÉÓ­ÐÂ¡ª¡ª2007ÖÐ¹ú·¿³µÊÐ³¡ÄêÖÕÅÌµã£¨Ò»
+¡¤[ÐÂÎÅÖÐÐÄ]´Ç¾ÉÓ­ÐÂ¡ª¡ª2007ÖÐ¹ú·¿³µÊÐ³¡ÄêÖÕÅÌµã£¨Ò» 
 ¡¤[ÐÂÎÅÖÐÐÄ]ÃÀ¹ú·¿³µÐÐÒµÐ­»áÐû²¼È¥Äê11ÔÂ³ö»õÁ¿ÏÂ»¬
 ¡¤[ÐÂÎÅÖÐÐÄ]µÚ¾Å½ì±±ÃÀ·¿³µ´ó¼¯»áÓÚ3ÔÂÔÚÇÇÖÎÑÇÖÝ¿ªÄ»
 ¡¤[ÐÂÎÅÖÐÐÄ]RVIAÖ÷Ï¯¿â¶÷ÏÈÉúÖÂÐÅ2008ÉÏº£·¿³µ¹¤ÒµÕ¹×é
@@ -7282,9 +7231,9 @@ Caravan
 ÐÂ
 ÎÅ
 ¡¤ËÄÎ¬ÌØÖÖ³µÏîÄ¿ÔÚ¾©Ç©Ô¼Ì«²ÖÂõÏòÕû³µÖÆÔì
-¡¤´Ç¾ÉÓ­ÐÂ¡ª¡ª2007ÖÐ¹ú·¿³µÊÐ³¡ÄêÖÕÅÌµã£¨
-¡¤´Ç¾ÉÓ­ÐÂ¡ª¡ª2007ÖÐ¹ú·¿³µÊÐ³¡ÄêÖÕÅÌµã£¨
-¡¤´Ç¾ÉÓ­ÐÂ¡ª¡ª2007ÖÐ¹ú·¿³µÊÐ³¡ÄêÖÕÅÌµã£¨
+¡¤´Ç¾ÉÓ­ÐÂ¡ª¡ª2007ÖÐ¹ú·¿³µÊÐ³¡ÄêÖÕÅÌµã£¨ 
+¡¤´Ç¾ÉÓ­ÐÂ¡ª¡ª2007ÖÐ¹ú·¿³µÊÐ³¡ÄêÖÕÅÌµã£¨ 
+¡¤´Ç¾ÉÓ­ÐÂ¡ª¡ª2007ÖÐ¹ú·¿³µÊÐ³¡ÄêÖÕÅÌµã£¨ 
 ¡¤³¤³Ç·¿³µ¶«¶ÉÈÕ±¾ÀÛ¼Æ³ö¿Ú65Ì¨³¤³ÇNEBUL
 ¡¤Èð°²ÈËÉú²ú¹úÄÚÊ×Åú¸ß¶Ë·¿³µÅ·ÂÃ¡¤±¼³Û·¿
 È«
@@ -7390,10 +7339,7 @@ Caravan
 ¡°×·Ñ°ÄãµÄÃÎÏë¡±
 µÂ¹úNiesmann+Bis
 µÂ¹úFendt·¿³µ¹«Ë¾
-µÂ¹ú±öÊË¶Ü£¨Buer
-2008¿îµÂ¹úKANUS¶à
-¡°ÕæÕýµÄÅÓÈ»´óÎï
-2008¿îÍÏ¹ÒBÐÍX-A
+µÂ¹ú±öÊË¶Ü£¨Buer  2008¿îµÂ¹úKANUS¶à  ¡°ÕæÕýµÄÅÓÈ»´óÎï  2008¿îÍÏ¹ÒBÐÍX-A 
 ×¨
 Ìâ
 À¸
@@ -7868,21 +7814,11 @@ TEL:010-84644302
 ¡¶´óÃÎÍõÐ¡Êé°ü¡·
 ¡¶´óÃÎÍõÐ¡Êé°ü¡·ÊÇÓÉ³É¶¼ÖÐÂþÎ°ÒµÎÄ»¯²úÒµ¿ª·¢ÓÐÏÞ¹«...
 ÏêÏ¸ÔÄ¶Á
-[
-ÎÄ¾ß
-]
-[
-·þ×°
-]
-[
-Íæ¾ß
-]
-[
-Ê³Æ·
-]
-[
-ÒûÁÏ
-]
+[ ÎÄ¾ß ]
+[ ·þ×° ]
+[ Íæ¾ß ]
+[ Ê³Æ· ]
+[ ÒûÁÏ ]
 ÒôÏñ²úÆ·
 ¶¯ÂþÍ¼Êé
 ÖÜ±ßÎÄ¾ß
@@ -7944,54 +7880,36 @@ TEL:010-84644302
 2005ÄêÖÐ¹úÒÆ¶¯Ç¿Á¦½éÈëÊÖ»ú¶¯Âþ²úÒµ£¬ÑÐ¾¿ÒÆ¶¯ÔöÖµÒµÎñÓë´«Í³¶¯Âþ²úÒµµÄ×î¼ÑºÏ×÷Ä£Ê½¡£ÖÐ¹úÒÆ¶¯´Ó&ldquo;ÒÆ¶¯Í¨ÐÅ×¨¼Ò&rdquo;Ò¡ÉíÒ»±ä³ÉÎª&ldquo;ÒÆ¶¯ÐÅÏ¢×¨¼Ò&rdqu...
 ÏêÏ¸ÐÅÏ¢
 2007-9-28
-[
-Çé±¨
-]
+[ Çé±¨ ]
 ÊÖ»ú¶¯ÂþÓ¯ÀûÐÂÄ£Ê½ÁÁÏà
 ´´×÷ÕßÄÃ´óÍ··Ö³É65%
 2007-9-27
-[
-Õþ²ß
-]
+[ Õþ²ß ]
 ¹ãÖÝ¡°¶¯Âþ¡±¶¯×÷²»Âý
 2007-9-4
-[
-Çé±¨
-]
+[ Çé±¨ ]
 ¡¶ÖÐ»ªÐ¡×Ó¡·ÃÀ¹ú²¥³ö
 10ÔÂµÇÂ½ÑëÊÓ
 2007-9-4
-[
-Çé±¨
-]
+[ Çé±¨ ]
 ¹ÛÖÚÔÚ¹ãÖÝ2007¹ú¼Ê¶¯ÂþÕ¹ÉÏ´óºô¹ýñ«
 Ë÷ÄáÓ°ÊÓÁªÊÖYouTubeÍø¿ª²¥¶¯»­
 Ë÷ÄáÓ°ÊÓµçÊÓ¹«Ë¾´ËÇ°Ðû²¼½«ÔÚ2008ÄêÀ­Ë¹Î¬¼ÓË¹µÄÏû·Ñµç×ÓÕ¹ÉÏÓÚÊÓÆµÍøÕ¾YouTubeÉÏ¿ª²¥ÁË¼¸¸öµçÊÓÆµµÀ£¬¶ø×îÏÈ¿ª²¥µÄMinisodeµçÊÓÌ¨£¨TMN£©»¹½«²¥Ó³¶¯»­Æ¬µÈÄÚ...
 ÏêÏ¸ÐÅÏ¢
 2007-10-8
-[
-»áÕ¹
-]
+[ »áÕ¹ ]
 07Ê×½ì½­ËÕ¶¯ÂþÓÎÏ·½ÚÊ®Ò»ÔÂ¾ÙÐÐ
 2007-9-28
-[
-»áÕ¹
-]
+[ »áÕ¹ ]
 µÚ¶þ½ìÖÐ¹úÔ­´´ÊÖ»ú¶¯Âþ´óÈü9ÔÂ27ÈÕÔÚ³¤É³¿ªÄ»
 2007-9-27
-[
-°¸Àý
-]
+[ °¸Àý ]
 ¶¯Âþ²úÒµ£ºµçÊÓÃ½Ìå¸ßµ÷³öÊÖ
 2007-9-4
-[
-°¸Àý
-]
+[ °¸Àý ]
 ÈÕ±¾Êý×ÖÂþ»­×÷¼ÒÓëÐ¡Ñ§Éú¹²Í¬ÖÆ×÷ÍøÕ¾¶¯»­
 2007-8-29
-[
-°¸Àý
-]
+[ °¸Àý ]
 ¶¯ÂþÓÎÏ·²úÆ·ÓÐÁË¡°·õ»¯Æ÷¡±
 Õþ²ßµ¼Ïò
 ²úÒµÇé±¨
@@ -8884,17 +8802,11 @@ Email£º
 Ë÷ÄáÓ°ÊÓÁªÊÖYouTubeÍø¿ª²¥¶¯»­
 Ë÷ÄáÓ°ÊÓµçÊÓ¹«Ë¾´ËÇ°Ðû²¼½«ÔÚ2008ÄêÀ­Ë¹Î¬¼ÓË¹µÄÏû·Ñµç×ÓÕ¹ÉÏÓÚÊÓÆµÍøÕ¾YouTubeÉÏ¿ª²¥ÁË¼¸¸öµçÊÓÆµµÀ£¬¶ø×îÏÈ¿ª²¥µÄMinisodeµçÊÓÌ¨£¨TMN£©»¹½«²¥Ó³¶¯»­Æ¬µÈÄÚÈÝ¡£
 ¾ÝÁË½â£¬½ì...
-[
-Çé±¨
-]
+[ Çé±¨ ]
 ÖÐ¹úÒÆ¶¯Ç¿Á¦½éÈëÊÖ»ú¶¯Âþ²úÒµ
-[
-»áÕ¹
-]
+[ »áÕ¹ ]
 07Ê×½ì½­ËÕ¶¯ÂþÓÎÏ·½ÚÊ®Ò»ÔÂ¾ÙÐÐ
-[
-»áÕ¹
-]
+[ »áÕ¹ ]
 µÚ¶þ½ìÖÐ¹úÔ­´´ÊÖ»ú¶¯Âþ´óÈü9ÔÂ27ÈÕÔÚ³¤É³¿ªÄ»
 ÐÂ
 Æ·
@@ -8973,17 +8885,11 @@ Email£º
 Ë÷ÄáÓ°ÊÓÁªÊÖYouTubeÍø¿ª²¥¶¯»­
 Ë÷ÄáÓ°ÊÓµçÊÓ¹«Ë¾´ËÇ°Ðû²¼½«ÔÚ2008ÄêÀ­Ë¹Î¬¼ÓË¹µÄÏû·Ñµç×ÓÕ¹ÉÏÓÚÊÓÆµÍøÕ¾YouTubeÉÏ¿ª²¥ÁË¼¸¸öµçÊÓÆµµÀ£¬¶ø×îÏÈ¿ª²¥µÄMinisodeµçÊÓÌ¨£¨TMN£©»¹½«²¥Ó³¶¯»­Æ¬µÈÄÚÈÝ¡£
 ¾ÝÁË½â£¬½ì...
-[
-Çé±¨
-]
+[ Çé±¨ ]
 ÖÐ¹úÒÆ¶¯Ç¿Á¦½éÈëÊÖ»ú¶¯Âþ²úÒµ
-[
-»áÕ¹
-]
+[ »áÕ¹ ]
 07Ê×½ì½­ËÕ¶¯ÂþÓÎÏ·½ÚÊ®Ò»ÔÂ¾ÙÐÐ
-[
-»áÕ¹
-]
+[ »áÕ¹ ]
 µÚ¶þ½ìÖÐ¹úÔ­´´ÊÖ»ú¶¯Âþ´óÈü9ÔÂ27ÈÕÔÚ³¤É³¿ªÄ»
 ÐÂ
 Æ·
@@ -9062,17 +8968,11 @@ Email£º
 Ë÷ÄáÓ°ÊÓÁªÊÖYouTubeÍø¿ª²¥¶¯»­
 Ë÷ÄáÓ°ÊÓµçÊÓ¹«Ë¾´ËÇ°Ðû²¼½«ÔÚ2008ÄêÀ­Ë¹Î¬¼ÓË¹µÄÏû·Ñµç×ÓÕ¹ÉÏÓÚÊÓÆµÍøÕ¾YouTubeÉÏ¿ª²¥ÁË¼¸¸öµçÊÓÆµµÀ£¬¶ø×îÏÈ¿ª²¥µÄMinisodeµçÊÓÌ¨£¨TMN£©»¹½«²¥Ó³¶¯»­Æ¬µÈÄÚÈÝ¡£
 ¾ÝÁË½â£¬½ì...
-[
-Çé±¨
-]
+[ Çé±¨ ]
 ÖÐ¹úÒÆ¶¯Ç¿Á¦½éÈëÊÖ»ú¶¯Âþ²úÒµ
-[
-»áÕ¹
-]
+[ »áÕ¹ ]
 07Ê×½ì½­ËÕ¶¯ÂþÓÎÏ·½ÚÊ®Ò»ÔÂ¾ÙÐÐ
-[
-»áÕ¹
-]
+[ »áÕ¹ ]
 µÚ¶þ½ìÖÐ¹úÔ­´´ÊÖ»ú¶¯Âþ´óÈü9ÔÂ27ÈÕÔÚ³¤É³¿ªÄ»
 ÐÂ
 Æ·
@@ -9151,17 +9051,11 @@ Email£º
 Ë÷ÄáÓ°ÊÓÁªÊÖYouTubeÍø¿ª²¥¶¯»­
 Ë÷ÄáÓ°ÊÓµçÊÓ¹«Ë¾´ËÇ°Ðû²¼½«ÔÚ2008ÄêÀ­Ë¹Î¬¼ÓË¹µÄÏû·Ñµç×ÓÕ¹ÉÏÓÚÊÓÆµÍøÕ¾YouTubeÉÏ¿ª²¥ÁË¼¸¸öµçÊÓÆµµÀ£¬¶ø×îÏÈ¿ª²¥µÄMinisodeµçÊÓÌ¨£¨TMN£©»¹½«²¥Ó³¶¯»­Æ¬µÈÄÚÈÝ¡£
 ¾ÝÁË½â£¬½ì...
-[
-Çé±¨
-]
+[ Çé±¨ ]
 ÖÐ¹úÒÆ¶¯Ç¿Á¦½éÈëÊÖ»ú¶¯Âþ²úÒµ
-[
-»áÕ¹
-]
+[ »áÕ¹ ]
 07Ê×½ì½­ËÕ¶¯ÂþÓÎÏ·½ÚÊ®Ò»ÔÂ¾ÙÐÐ
-[
-»áÕ¹
-]
+[ »áÕ¹ ]
 µÚ¶þ½ìÖÐ¹úÔ­´´ÊÖ»ú¶¯Âþ´óÈü9ÔÂ27ÈÕÔÚ³¤É³¿ªÄ»
 ÐÂ
 Æ·
@@ -10780,17 +10674,11 @@ moved
 Ë÷ÄáÓ°ÊÓÁªÊÖYouTubeÍø¿ª²¥¶¯»­
 Ë÷ÄáÓ°ÊÓµçÊÓ¹«Ë¾´ËÇ°Ðû²¼½«ÔÚ2008ÄêÀ­Ë¹Î¬¼ÓË¹µÄÏû·Ñµç×ÓÕ¹ÉÏÓÚÊÓÆµÍøÕ¾YouTubeÉÏ¿ª²¥ÁË¼¸¸öµçÊÓÆµµÀ£¬¶ø×îÏÈ¿ª²¥µÄMinisodeµçÊÓÌ¨£¨TMN£©»¹½«²¥Ó³¶¯»­Æ¬µÈÄÚÈÝ¡£
 ¾ÝÁË½â£¬½ì...
-[
-Çé±¨
-]
+[ Çé±¨ ]
 ÖÐ¹úÒÆ¶¯Ç¿Á¦½éÈëÊÖ»ú¶¯Âþ²úÒµ
-[
-»áÕ¹
-]
+[ »áÕ¹ ]
 07Ê×½ì½­ËÕ¶¯ÂþÓÎÏ·½ÚÊ®Ò»ÔÂ¾ÙÐÐ
-[
-»áÕ¹
-]
+[ »áÕ¹ ]
 µÚ¶þ½ìÖÐ¹úÔ­´´ÊÖ»ú¶¯Âþ´óÈü9ÔÂ27ÈÕÔÚ³¤É³¿ªÄ»
 ÐÂ
 Æ·
@@ -11643,8 +11531,7 @@ Style[12.27]
 ³¬ÊÓÄÜÊý×ÖÓéÀÖÉè
 ¡¤Ë÷ÄáÐÂ¹óÏè
 AC/DCÆ½ÃæÌØÀöçç
-¡¤Ê¢´óÒ×±¦(EZ
-Pod)¿í´øÓéÀÖÖÐ
+¡¤Ê¢´óÒ×±¦(EZ Pod)¿í´øÓéÀÖÖÐ
 ¡¤ËÉÏÂ¹«Ë¾ÍÆ³öÐÂ¿î65Ó¢´ç³¬´ó
 ¡¤ÂíÀ¼Ê¿720P
 DLPÍ¶Ó°VP-13S1
@@ -12147,7 +12034,7 @@ A-one
 |
 Èëµ³»ý¼«·Ö×ÓµÄË¼Ïë»ã±¨
 Èëµ³ÉêÇëÊé
-£¨Í¨Ë×..
+£¨Í¨Ë×.. 
 ¡¤ÄÐ
 Éú
 |
@@ -12190,39 +12077,15 @@ A-one
 ÎÄ»¯
 Éú»î
 screen.width*0.7)
-{this.resized=true;
-this.width=screen.width*0.7;
-this.style.cursor='hand';
-this.alt='Click
-here
-to
-open
-new
-window\nCTRL+Mouse
-wheel
-to
-zoom
-in/out';}"
+{this.resized=true; this.width=screen.width*0.7; this.style.cursor='hand'; this.alt='Click here to open new window\nCTRL+Mouse wheel to zoom in/out';}"
 onClick="if(!this.resized)
-{return
-true;}
+{return true;}
 else
 {window.open('http://club.adsenser.org/attachments/forumid_25/aixin_jMET2CT1jlcY.gif');}"
 alt=""
 src="UploadFile/aixin.gif"
 onload="if(this.width>screen.width*0.7)
-{this.resized=true;
-this.width=screen.width*0.7;
-this.alt='Click
-here
-to
-open
-new
-window\nCTRL+Mouse
-wheel
-to
-zoom
-in/out';}"
+{this.resized=true; this.width=screen.width*0.7; this.alt='Click here to open new window\nCTRL+Mouse wheel to zoom in/out';}"
 border="0"
 resized="true"
 pop="Click
@@ -12721,7 +12584,7 @@ aiai9.cn¶¼ÊÐÉú»îÐÅÏ¢Íø..
 ¨¨Ž¡ï¨¨´ó×¨±¾¿ÆËÙ°ì
 µÍ¼Û×ªÈÃ¹ãÖÞ±¾Ìï
 ¶«ºþ»¨Ô°ÓÐÁ½·¿Á½Ìüö¦·¿³öÊÛ
-ÑØº£ÀöË®¼ÑÔ°ÁªÅÅ±ðÊû³ö×â(µÀœò..
+ÑØº£ÀöË®¼ÑÔ°ÁªÅÅ±ðÊû³ö×â(µÀœò.. 
 ¾¢¼ÎÁúÔ°Ó¡ÏóÃûÔ·
 ¾¢¼ÎÁúÔ°Ó¡ÏóÃûÔ·
 ¨Ž¨¨Ž¡ï×¡ÐÂ·¿·¿550Ôª°üÉÏÍø..
@@ -13032,7 +12895,7 @@ aiai9.cn¶¼ÊÐÉú»îÐÅÏ¢Íø..
 ¨¨Ž¡ï¨¨´ó×¨±¾¿ÆËÙ°ì
 µÍ¼Û×ªÈÃ¹ãÖÞ±¾Ìï
 ¶«ºþ»¨Ô°ÓÐÁ½·¿Á½Ìüö¦·¿³öÊÛ
-ÑØº£ÀöË®¼ÑÔ°ÁªÅÅ±ðÊû³ö×â(µÀœò..
+ÑØº£ÀöË®¼ÑÔ°ÁªÅÅ±ðÊû³ö×â(µÀœò.. 
 ¾¢¼ÎÁúÔ°Ó¡ÏóÃûÔ·
 ¾¢¼ÎÁúÔ°Ó¡ÏóÃûÔ·
 ¨Ž¨¨Ž¡ï×¡ÐÂ·¿·¿550Ôª°üÉÏÍø..
@@ -13228,14 +13091,10 @@ Copyrights
 ´«ÆæÊÀ½ç¿Í»§¶ËºÍ²¹¶¡¼°Ïà¹ØÏÂÔØ£º1¡¢¡¶´«ÆæÊÀ½ç¡·Ãâ·Ñ¸ß»­ÖÊ°æ
 2¡¢
 ¡¶´«ÆæÊÀ½ç¡·Ãâ·ÑµÍ»­ÖÊ°æ
-3¡¢¡¶´«ÆæÊÀ½ç¡·Ãâ·ÑµÍ»­ÖÊÉý¼¶£¨Á½ÖÜÄêÇìÌØ±ð°æ¨D¨D
-ÊÊÓÃÓÚ´«ÊÀÓÎÏ·1.80¼°ÒÔÉÏ°æ±¾¸üÐÂ
-£©
+3¡¢¡¶´«ÆæÊÀ½ç¡·Ãâ·ÑµÍ»­ÖÊÉý¼¶£¨Á½ÖÜÄêÇìÌØ±ð°æ¨D¨D ÊÊÓÃÓÚ´«ÊÀÓÎÏ·1.80¼°ÒÔÉÏ°æ±¾¸üÐÂ £©
 4¡¢
 ¡¶´«ÆæÊÀ½ç¡·Ãâ·ÑµÍ»­ÖÊÉý¼¶
-£¨Á½ÖÜÄêÇìÌØ±ð°æ¨D¨D
-ÊÊÓÃÓÚ1.80¼°ÒÔÉÏ°æ±¾¸üÐÂ
-£©
+£¨Á½ÖÜÄêÇìÌØ±ð°æ¨D¨D ÊÊÓÃÓÚ1.80¼°ÒÔÉÏ°æ±¾¸üÐÂ £©
 Ì¸Ì¸Ð¡·¨Ê¦µÄÁ½¸ö¼¼ÄÜ
 ·¨Ê¦µÄÃüÊÇÊ²Ã´¾ö¶¨ÎäÆ÷µÄÍþÁ¦£¿
 ½»Á÷ÏÂÉýÑªÓ¡µÄ·½·¨(±¾ÈËÑªÓ¡Éýµ½10)
@@ -13892,8 +13751,7 @@ dfdf169
 dfdf169
 ÌìÇÅ¾ç³¡Ð¡¾ç³¡
 dfdf169
-ÌìÇÅÔÓ¼¼¾ç³¡£¨ÍòÊ¤¾ç³¡
-£©
+ÌìÇÅÔÓ¼¼¾ç³¡£¨ÍòÊ¤¾ç³¡ £©
 dfdf169
 ÌúÈËÈýÏîÈü³¡
 dfdf169
@@ -14261,7 +14119,7 @@ Email£ºwebmaster@228.com.cn
 ³äÆøÒÂ·þ£¨Ò»£©
 ×÷Õß£º22dm
 Ê±¼ä£º2008-1-31
-ÄÚÈÝ£º³äÆøÒÂ·þ£¨Ò»...
+ÄÚÈÝ£º³äÆøÒÂ·þ£¨Ò»... 
 ÈËÆøÖ¸Êý:2071
 È«²¿Flash
 Âþ»­×ÊÔ´
@@ -14269,14 +14127,11 @@ Email£ºwebmaster@228.com.cn
 ¶¯ÂþÇé±¨
 ÔË¶¯»á(Ò»)
 112000
-ºìÌ«ÀÇÈëÇÖÆ¬¶Î(...
-72586
+ºìÌ«ÀÇÈëÇÖÆ¬¶Î(... 72586
 ¿ËÂ¡Ï²ÑòÑò(Ò»)
 64278
-ºìÌ«ÀÇÈëÇÖÆ¬¶Î(...
-48476
-ºìÌ«ÀÇÈëÇÖÆ¬¶Î(...
-42459
+ºìÌ«ÀÇÈëÇÖÆ¬¶Î(... 48476
+ºìÌ«ÀÇÈëÇÖÆ¬¶Î(... 42459
 °ÖµÄ³èÎï(1)
 40826
 Æ¯ÁÁµÄÃÀÑòÑò
@@ -14979,8 +14834,7 @@ yanyan23
 21:04:23·¢²¼Ëµ
 ±©Ñ©Ô¤¾¯
 ±©Ñ©Ô¤¾¯ÐÅºÅ·ÖËÄ¼¶£¬·Ö±ðÒÔÀ¶É«¡¢»ÆÉ«¡¢³ÈÉ«¡¢ºìÉ«±íÊ¾¡£
-£¨Ò»£©±©Ñ©À¶É«Ô¤¾¯ÐÅºÅ</¡£¡£¡£
-(È«ÎÄ)
+£¨Ò»£©±©Ñ©À¶É«Ô¤¾¯ÐÅºÅ</¡£¡£¡£ (È«ÎÄ)
 0
 ÌõÆÀÂÛ
 |
@@ -15015,8 +14869,7 @@ Tags£ºÑ°Ò½ÇóÒ©
 yanyan23
 ÔÚ2008-1-31
 20:46:04·¢²¼Ëµ
-[
-ÄÚÈÝ¼ò½é]
+[ ÄÚÈÝ¼ò½é]
 ¡¾ÆðµãµÚËÄ±à¼­×éÇ©Ô¼×÷Æ·¡¿
 Ò»²¿±³¾°¼«´óµÄÆæ»ÃÐÞÕæÐ¡Ëµ£¬¶øÖ÷½ÇÇØÓðÔòÊÇÒ»Î»ÍõÒ¯µÄÈýÊÀ×Ó£¬¡¶ÐÇ³½±ä¡·½²ÊöµÄ¾ÍÊÇËûµÃµ½Ò»¿éÁ÷ÐÇÀáºóµÄ¹ÊÊÂ¡­¡­
 ÎÞÒâÖ®ÖÐ£¬ÇØÓð¸üÊÇ·¢ÏÖ¡£¡£¡£
@@ -15853,7 +15706,7 @@ more
 ¡÷·¨Ë¶Áª¿¼Ö®Ãñ·¨°¸Àý·ÖÎö·½·¨
 ¡÷×¨¼ÒÌ¸·¨Ë¶¸´Ï°
 ¡÷·¨ÂÉË¶Ê¿£º·Ç·¨ÂÉ×¨Òµ¿¼ÉúµÄÃ÷ÖÇÑ¡Ôñ
-¡÷·¨ÂÉË¶Ê¿Áª¿¼Ãñ·¨±ØÐëÕÆÎÕµÄ155¸ö¸ÅÄî(
+¡÷·¨ÂÉË¶Ê¿Áª¿¼Ãñ·¨±ØÐëÕÆÎÕµÄ155¸ö¸ÅÄî( 
 ¡÷·¨ÂÉË¶Ê¿¿¼ÑÐ¸¨µ¼£ºÕýµ±·ÀÎÀºÍ½ô¼±±ÜÏÕ
 ¡÷2007Äê·¨ÂÉ×¨Òµ¿¼ÑÐ¸´Ï°×¢ÒâÊÂÏî
 ¡÷·¨ÂÉË¶Ê¿ÔñÐ£Ö®ÎÒ¼û
@@ -15904,7 +15757,7 @@ MBAÓ¢ÎÄÃæÊÔ³£ÓÃ´Ê»ã¡¢¶ÌÓï
 ¡¤¹þ¹¤´ó07ÄêË¶Ê¿ÑÐ¾¿ÉúÈëÑ§¿¼ÊÔ¸´ÊÔÖ¸µ¼
 ¡¤ÖÐ¿ÆÔº¼°¸÷µØ¿ÆÑÐÔºËù¿¼²©ÊÔÌâ¿â
 ¡¤»ª¶«Ê¦·¶´óÑ§2008ÄêË¶Ê¿ÑÐ¾¿ÉúÕÐÉú¼òÕÂ
-¡¤¹â»ª¹ÜÀíÑ§ÔºÄÚ²¿×ÊÁÏ£¨±Ê¼Ç½²Òå¡¢Ìâ¿â
+¡¤¹â»ª¹ÜÀíÑ§ÔºÄÚ²¿×ÊÁÏ£¨±Ê¼Ç½²Òå¡¢Ìâ¿â 
 µç»°£º
 136
 9928
@@ -16114,7 +15967,7 @@ MMÏ´ÔèÇ°Ô¡ÊÒÀïÐÔ¸ÐÄÚ
 AVÅ®ÓÅÁ¢»¨Àï×ÓÐ´Õæ¸§
 Ð¡ÇøÄÚÇî¼«ÎÞÁÄµÄÉÙ¸¾[10]
 Å®ÃØ•øÈâ½zÃÀÍÈ
-ÃÀ¾ÞÈéÜ¥¾®ÃÀÔÂ(Mizuk
+ÃÀ¾ÞÈéÜ¥¾®ÃÀÔÂ(Mizuk 
 ÒøÐÐÅ®Ö°¹¤ÏÂ°à»¹´òÁÙ[1]
 ÄÑµÄÒ»¼ûµÄº«¹úÃÀÅ®µÄ[1]
 ÓÑÇéÁ´½Ó
@@ -16147,8 +16000,7 @@ PS´òÔì·ÇÖ÷Á÷ÕÕÆ¬Ð§¹û
 2.9
 ²»ÓÃ¿ÙÍ¼ÈÃ±³¾°±äÆ¯ÁÁ
 2.6
-Ç©ÃûÖÐ³£ÓÃµ½µÄ¶þÖÖÎÄ×Ö£¨ÐÂÊÖ½Ì
-2.2
+Ç©ÃûÖÐ³£ÓÃµ½µÄ¶þÖÖÎÄ×Ö£¨ÐÂÊÖ½Ì 2.2 
 ·ÇÖ÷Á÷Ã¼Ã«×ì´½Á³µ°´¦
 Ìá¸ß½Ì³Ì
 ÃùÈËµÄ°®Çé-----µ­ÑÅÇ©
@@ -16328,8 +16180,7 @@ Copyright&copy;2006-2007
 ¡¤¿¼ÑÐ³õÊÔ³É¼¨3ÔÂ½ÒÏþ
 ³É¿¼ÒµÓàÕÐÉúÁ¿½«·Å´ó
 ¡¤±¾ÖÜ»ù±¾ÉÏ¶¼ÊÇºÃÌì
-</
--->
+</ -->
 ¡¤°ïÀ§Ï×°®ÐÄ
 ¹ýÄêÑ¹ËêÇ®¾è¸øÍ¬ÁäÐ¡ÅóÓÑ
 ¡¤ËÕÖÝÂÃÓÎÐÂÁÁµãÏÈ¶ÃÎª¿ì
@@ -16747,8 +16598,7 @@ Flash
 motoÈí¼þÏÂÔØ
 motoÇý¶¯ÏÂÔØ
 ´º½ÚËÍÀñ¼ÑÑ¡£­Õñ»ªOBEE800»Æ½ð¼×ÉÌÎñÀñÆ·ÊÖ»ú£¬Ö»¸ø³É¹¦ÄÐÊ¿
-(2008-1-25
-17:35:00)
+(2008-1-25 17:35:00)
 »¶Ó­·ÃÎÊ
 ÎÒ°®Ä¦ÍÐÂÞÀ­ÊÖ»úÂÛÌ³
 Äú»¹Ã»ÓÐ£Û×¢²á£Ý»ò£ÛµÇÂ¼£Ý
@@ -16761,13 +16611,11 @@ Cookie
 ±£´æÒ»ÔÂ
 ±£´æÒ»Äê
 Í¨ÐÐÖ¤£º
-[
-Íü¼ÇÃÜÂë
-]
+[  Íü¼ÇÃÜÂë ]
 »áÔ±×ÜÊý£º
 348260
 ÈË
-×îÐÂ»áÔ±£º[
+×îÐÂ»áÔ±£º[ 
 aolra
 ]
 ½ñÈÕ·¢Ìù£º
@@ -21319,9 +21167,7 @@ http://www.eauto.com.cn/
 5
 º£µí·þÎñÖÐÐÄ
 ¿Í»§ÂúÒâÊÇÎÒÓÀºãµÄ×·Çó¡£
-[ÓÑÇéÌáÐÑ£º·¢²¼Í¼Æ¬ÐÅÏ¢£¬ÈÃÄúµÄ³É½»ÂÊÌá¸ß
-7
-±¶£¡]
+[ÓÑÇéÌáÐÑ£º·¢²¼Í¼Æ¬ÐÅÏ¢£¬ÈÃÄúµÄ³É½»ÂÊÌá¸ß 7 ±¶£¡]
 ±±¾©
 Ìì½òÒ»Æû
 ÊÛ
@@ -22222,12 +22068,7 @@ T
 ¡¶ÎÞ¼É´«ÈË¡·
 ¡õ
 Ê¢ÕßÎªÍõ
-[Ãæ°ü¼ÓÑ©±Ì--46002
-ÓÚ
-01-04
-21:11
-ÆÀ
-¡¶Ê¢ÕßÎªÍõ¡·
+[Ãæ°ü¼ÓÑ©±Ì--46002 ÓÚ 01-04 21:11 ÆÀ ¡¶Ê¢ÕßÎªÍõ¡·
 ¡õ
 Ç×ÈËµÄÎ¶µÀ.....¡®×í»ØÆß¾Åµ±Å©Ãñ¡¯--46002
 ÓÚ
@@ -22968,8 +22809,7 @@ SOHOÒ»×åÈçºÎÇáËÉ×¬°ÙÍò
 ¹ú·¨ÖÆ°ì¹ØÓÚÌØÐí¾­ÓªÎÊÌâ½â´ð
 ¡¶ÉÌÒµÌØÐí¾­Óª¹ÜÀíÌõÀý¡·
 ÂÉÊ¦×ÉÑ¯ÈÈÏß
-¡¶ÉÌÒµÌØÐí¾­ÓªÐÅÏ¢ÅûÂ¶¹ÜÀí°ì·¨
-ÂÉÊ¦Ëµ·¨
+¡¶ÉÌÒµÌØÐí¾­ÓªÐÅÏ¢ÅûÂ¶¹ÜÀí°ì·¨ ÂÉÊ¦Ëµ·¨ 
 "ÓÀºÍ¶¹½¬"¼ÓÃË¾À·×°¸
 ÌØÐí¾­Óª±ØÖª·¨ÂÉÎÊÌâ
 6Ôò¾­µä¼ÓÃË°¸Àý
@@ -23250,8 +23090,7 @@ reserved.
 »¨ÒâÍ¨ÏÊ»¨Íø£¬²»ÂÛÊÇÇéÈË½Ú¡¢Ä¸Ç×½Ú¡¢¸¸Ç×½Ú¡¢ÇéÈË½Ú»òÉúÈÕ£¬¾ùÊÇÄúËÍ»¨¼°Ñ¡¹ºÏÊ»¨ÀñÆ·µÄ×î¼ÑÍøÉÏ»¨µê¡£Äú¿ÉÒÔÑ¡ÔñÉîÛÚ»¨µê¡¢ÉÏº£»¨µê¡¢±±¾©»¨µê¡¢º¼ÖÝ»¨µê¡¢³¤É³»¨µê¡¢¹ãÖÝ»¨µê¡¢Îäºº»¨µê¡¢Î÷°²»¨µêµÈ£¬½øÐÐ¶©»¨ËÍ»¨·þÎñ£»ÈýÐ¡Ê±¿ÉÒÔËÍ´ïÈ«¹ú¸÷µØ£¬±£Ö¤ÏÊ»¨µÄÐÂÏÊºÍ°ü×°µÄ¾«ÃÀ¡£
 &middot;
 »¨ÒâÍ¨ÏÊ»¨Íø£¬»¨ÒÕÊ¦ÎªÄúËÍÉÏ×î¾«ÃÀµÄÉúÈÕÏÊ»¨¡¢ÇéÈËÏÊ»¨£¬Ãµ¹å»¨Êø£»ÏÊ»¨´«µÝÕæÇé£¬ÎªÄúµÄÖ¿ÓÑËÍÉÏÌùÐÄµÄ×£¸££¬ÒòÄúµÄ°®¶øÃÀÀö¶¯ÈË£¡ÏÊ»¨ËÙµÝµ½»¨ÒâÍ¨ÏÊ»¨Íø£¬ÍøÉÏ¶©»¨ÎªÄú´«Çé´ïÒâ£¬Ãâ·ÑËÍ»¨ÎªÄúÐÄÌùÐÄ·þÎñ£¡
-<--script
-type="text/javascript">
+<--script type="text/javascript">
 imgUrl1="ad/004.jpg";
 imgtext1="Í¼Æ¬A"
 imgLink1=escape("http://www.293.net.cn/2007valentinesday.asp");
@@ -23945,8 +23784,7 @@ window.open("guoqing.html","a","width=629,height=433")
 ·¢²¼Ê±¼ä
 02B10
 ½Î³µ
-Âí×Ô´ïRX8[500´Î
-]
+Âí×Ô´ïRX8[500´Î ]
 [Í¼]
 2006-4-6
 ºì
@@ -23954,8 +23792,7 @@ window.open("guoqing.html","a","width=629,height=433")
 2008-2-4
 02B10
 ½Î³µ
-¿­ÃÀÈð2.4[360´Î
-]
+¿­ÃÀÈð2.4[360´Î ]
 [Í¼]
 2006-9-20
 ºÚ
@@ -23963,24 +23800,21 @@ window.open("guoqing.html","a","width=629,height=433")
 2008-2-4
 02H16
 ½Î³µ
-±¾ÌïÑÅ¸ó2.2[264´Î
-]
+±¾ÌïÑÅ¸ó2.2[264´Î ]
 1997-2-11
 Ä«ÂÌ
 4.6Íò
 2008-2-4
 02H16
 ½Î³µ
-·ÆÑÇÌØÅÉÁ¦°Â1.5[120´Î
-]
+·ÆÑÇÌØÅÉÁ¦°Â1.5[120´Î ]
 2006-6-26
 ½ðÉ«
 4.3Íò
 2008-2-4
 026116
 ½Î³µ
-±ð¿ËÐÂÊÀ¼Í[440´Î
-]
+±ð¿ËÐÂÊÀ¼Í[440´Î ]
 [Í¼]
 2000-2-8
 ºÚÉ«
@@ -23988,8 +23822,7 @@ window.open("guoqing.html","a","width=629,height=433")
 2008-2-4
 026116
 ½Î³µ
-ÉÏº£´óÖÚ¸ß¶û[417´Î
-]
+ÉÏº£´óÖÚ¸ß¶û[417´Î ]
 [Í¼]
 2005-10-3
 ºÚÉ«
@@ -23997,8 +23830,7 @@ window.open("guoqing.html","a","width=629,height=433")
 2008-2-4
 026116
 ½Î³µ
-±ð¿Ë¾ýÍþ[464´Î
-]
+±ð¿Ë¾ýÍþ[464´Î ]
 [Í¼]
 2003-7-7
 °×É«
@@ -24006,8 +23838,7 @@ window.open("guoqing.html","a","width=629,height=433")
 2008-2-4
 026116
 ½Î³µ
-±ð¿ËGLX[408´Î
-]
+±ð¿ËGLX[408´Î ]
 [Í¼]
 1999-10-18
 À¼
@@ -24015,8 +23846,7 @@ window.open("guoqing.html","a","width=629,height=433")
 2008-2-4
 026630
 ÉÌÎñ³µ
-±ð¿ËÉÌÎñ³µÂ½×ð[220´Î
-]
+±ð¿ËÉÌÎñ³µÂ½×ð[220´Î ]
 [Í¼]
 2007-1-23
 ÒøÉ«
@@ -24024,8 +23854,7 @@ window.open("guoqing.html","a","width=629,height=433")
 2008-2-4
 126630
 Ô½Ò°³µ
-ÄáÉ£ÅÁÀ­¶¡[1453´Î
-]
+ÄáÉ£ÅÁÀ­¶¡[1453´Î ]
 [Í¼]
 2003-10-9
 ºÚÉ«
@@ -24035,8 +23864,7 @@ window.open("guoqing.html","a","width=629,height=433")
 016630
 Ô½Ò°³µ
 ÅÁ½ÜÂÞËÙÅÜGLX
-2.4[1065´Î
-]
+2.4[1065´Î ]
 [Í¼]
 2004-3-30
 À¶É«
@@ -24044,8 +23872,7 @@ window.open("guoqing.html","a","width=629,height=433")
 2008-2-4
 026630
 ÉÌÎñ³µ
-±ð¿ËÉÌÎñ³µ7×ù[221´Î
-]
+±ð¿ËÉÌÎñ³µ7×ù[221´Î ]
 [Í¼]
 2006-6-15
 ÒøÉ«
@@ -24053,8 +23880,7 @@ window.open("guoqing.html","a","width=629,height=433")
 2008-2-4
 016630
 ½Î³µ
-ÄáÉ£æë´ï1.6[532´Î
-]
+ÄáÉ£æë´ï1.6[532´Î ]
 [Í¼]
 2006-9-21
 ºìÉ«
@@ -24062,24 +23888,21 @@ window.open("guoqing.html","a","width=629,height=433")
 2008-2-4
 02H11
 ½Î³µ
-ºìÆìÃûÊË[109´Î
-]
+ºìÆìÃûÊË[109´Î ]
 2002-2-5
 ºÚ
 5Íò
 2008-2-3
 02H11
 Ãæ°ü³µ
-³¤°²Ö®ÐÇ1.3[111´Î
-]
+³¤°²Ö®ÐÇ1.3[111´Î ]
 2005-2-22
 °×
 34Íò
 2008-2-3
 02H08
 ½Î³µ
-Âí×Ô´ïM62.3[280´Î
-]
+Âí×Ô´ïM62.3[280´Î ]
 [Í¼]
 2005-1-5
 Òø»ÒÉ«
@@ -24088,8 +23911,7 @@ window.open("guoqing.html","a","width=629,height=433")
 02H07
 ½Î³µ
 °ÂµÏ200
-1.8T[338´Î
-]
+1.8T[338´Î ]
 [Í¼]
 2000-5-10
 ºÚ
@@ -24097,8 +23919,7 @@ window.open("guoqing.html","a","width=629,height=433")
 2008-2-3
 02H06
 ½Î³µ
-»ªÀûÐÒ¸£Ê¹Õß[297´Î
-]
+»ªÀûÐÒ¸£Ê¹Õß[297´Î ]
 [Í¼]
 2005-2-22
 °×
@@ -24106,8 +23927,7 @@ window.open("guoqing.html","a","width=629,height=433")
 2008-2-3
 02H05
 ½Î³µ
-¶«·çÑ©ÌúÁú°®ÀöÉá16V[204´Î
-]
+¶«·çÑ©ÌúÁú°®ÀöÉá16V[204´Î ]
 [Í¼]
 2005-10-3
 ÒøÉ«
@@ -24115,8 +23935,7 @@ window.open("guoqing.html","a","width=629,height=433")
 2008-2-3
 02H02
 ½Î³µ
-ÁèÖ¾300[528´Î
-]
+ÁèÖ¾300[528´Î ]
 [Í¼]
 1995-7-3
 °×É«
@@ -25035,8 +24854,7 @@ Q£º
 ºÚÉ«
 £¤166,000
 ³µ¿öÌØºÃ,µçÈÈ×øÒÎ.´øÌì´°
-<...
-2008-2-13
+<... 2008-2-13 
 ½Î³µ
 É£ËþÄÉ99ÐÂ¿î
 2006Äê6ÔÂ
@@ -25643,14 +25461,7 @@ Flash8.net
 ìÚ¶¯Âþ³öÆ·µÄ¡¶Î÷ÁëÑ©¡·£¬»ñµÃÄê¶ÈÎ¨Ò»µÄÒ»Ïî½ÌÓý¶¯»­Æ¬´ó½±£¬ÊÇ¼Ì2007ÑÇÖÞÇàÄê¶¯Âþ´óÈü»ñµÃµÄÆÀÎ¯»á´ó½±Ö®ºó£¬ÔÙ´ÎÕ¶»ñÁË½ñÄê¶¯ÂþÓÎÏ·ÐÐÒµµÄ´ËÏîÈÙÓþ¡£
 °ä½±µäÀñÓÉÖÐ¹úÈí¼þÐÐÒµÐ­»áÓÎÏ·Èí¼þ·Ö»áÖ÷³Ö£¬ÓÚ2007Äê12ÔÂ6ÈÕÏÂÎçÔÚ±±¾©ÈËÃñ´ó»áÌÃ¾ÙÐÐÁËÂ¡ÖØµÄ°ä½±ÒÇÊ½¡£±¾½ìÄê»áÓÉÐÅÏ¢²úÒµ²¿¡¢ÎÄ»¯²¿¡¢¿Æ¼¼²¿Ö§³Ö£¬²ÆÕþ²¿¡¢½ÌÓý²¿¡¢¹ãµç×Ü¾Ö¡¢Ë°Îñ×Ü¾ÖµÈ¶à²¿Î»Áìµ¼³öÏ¯¡£
 Ë®Ä«¶¯»­Æ¬¡¶Î÷ÁëÑ©¡·£¬ÊÇìÚ¶¯Âþ¹«Ë¾²ÉÓÃFlashºÍPhotoshopÁ½¸öÖ÷ÒªÈí¼þÍê³ÉµÄÒ»²¿13·ÖÖÓË®Ä«·ç¸ñ¶¯»­Æ¬¡£Õâ²¿¶¯»­Æ¬ÊÇìÚ¶¯ÂþÎÄ»¯´«²¥ÓÐÏÞ¹«Ë¾³ÉÁ¢Ö®³õµÄ¿ªÉ½Ö®×÷£¬Äý¾ÛÁËÒ»¸öÈÈÇéºÍÍÅ½áµÄÍÅ¶ÓµÄÖÇ»ÛºÍº¹Ë®¡£ÄÜÔÚ¶Ì¶ÌµÄÊ±¼äÄÚÍê³É´Ë¸ßÖÊÁ¿µÄÇãÇéÖ®×÷£¬ÊÇìÚ¶¯Âþ¹«Ë¾ËùÓÐ³ÉÔ±¶ÔÀíÏë×îÕæÖ¿µÄ×·ÇóºÍ·îÏ×£¡
-¡¶Î÷ÁëÑ©¡·½²ÊöµÄ¹ÊÊÂ·¢ÉúÔÚÒ£Ô¶µÄ¿É¿ÉÎ÷Àï£¬ÄÇÀïÊÇÊÀ½çÕä±¦²ØÁçÑòµÄÆÜÏ¢µØ£¬Æß°ËÔÂµÄÊ±ºò£¬Ä¸²ØÁçÑò²ú×Ó»ØÀ´£¬´ø×ÅÐÂ³öÉúµÄÉúÃüºÍ¹«²ØÁçÑò»áºÏ¡£È»¶ø£¬ÁçºóÒòÎªÍí²ú£¬ÓëÄ¸ÑòÈºÊ§É¢¡£Ò»Á¾ÔØ×ÅµÁÁÔÕßµÄ¼ªÆÕ³µ´³Èë£¬ÁçºóÖ»ÄÜ´Ò´Ò°Ñ»¹²»ÄÜÐÐ×ßµÄÐ¡Ñò²ØÔÚÁËÊ¯´ÔºóÃæ£¬×Ô¼ºÒý¿ªµÁÁÔÕßÊÓÏß²¢ÅÜ»ØÑòÈºÑ°ÕÒ°ïÖú¡£<?xml:namespace
-prefix
-=
-o
-ns
-=
-"urn:schemas-microsoft-com:office:office"
-/>
+¡¶Î÷ÁëÑ©¡·½²ÊöµÄ¹ÊÊÂ·¢ÉúÔÚÒ£Ô¶µÄ¿É¿ÉÎ÷Àï£¬ÄÇÀïÊÇÊÀ½çÕä±¦²ØÁçÑòµÄÆÜÏ¢µØ£¬Æß°ËÔÂµÄÊ±ºò£¬Ä¸²ØÁçÑò²ú×Ó»ØÀ´£¬´ø×ÅÐÂ³öÉúµÄÉúÃüºÍ¹«²ØÁçÑò»áºÏ¡£È»¶ø£¬ÁçºóÒòÎªÍí²ú£¬ÓëÄ¸ÑòÈºÊ§É¢¡£Ò»Á¾ÔØ×ÅµÁÁÔÕßµÄ¼ªÆÕ³µ´³Èë£¬ÁçºóÖ»ÄÜ´Ò´Ò°Ñ»¹²»ÄÜÐÐ×ßµÄÐ¡Ñò²ØÔÚÁËÊ¯´ÔºóÃæ£¬×Ô¼ºÒý¿ªµÁÁÔÕßÊÓÏß²¢ÅÜ»ØÑòÈºÑ°ÕÒ°ïÖú¡£<?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" />
 Í¬Ê±£¬µÁÁÔÕßµÄ³µÏÝÈëÁËÁ÷É³£¬µÁÁÔÕßÃÇÖ»µÃÏÂ³µ×·Ñò¡£¶ø³µÉÏµÄÒ»¸öµÁÁÔÕß´ø×ÅµÄÐ¡º¢Ö»ÄÜ±»ÔÝÇÒÁôÔÚÁË³µ±ß¡£¾ª»Å¹Â¶ÀµÄÐ¡º¢Ìýµ½ÁËÐ¡ÑòµÄ½ÐÉù£¬ÕÒµ½ÁËËü£¬²¢½«Ëü±§×ßÁË¡£
 Ð¡º¢½«Ð¡Ñòµ±×÷»ï°é£¬Ò»ÐÄÈ¥Ñ°ÕÒ°Ö°Ö£¬È´²»ÖªÒ»Ö»¼¢¶öµÄÀÇÒÑ¾­Ãé×¼ÁËËûÃÇ¡£½ô¼±Íò·ÖÖ®Ê±£¬¸ÏÀ´µÄ²ØÁçÍõ¾ÈÏÂÁËËûÃÇ¡£
 ÔÚ×î³õµÄ·À±¸Ö®ºó£¬Ð¡º¢ºÍÑòÈºÆæ¼£°ãµÄ½¨Á¢ÁËÓÑÒê£¬ÕâÊ±£¬µÁÁÔÕßÕÒµ½ÁËÕâÈºÑò£¬ÎÞÇéµÄÇ¹ÉùÏìÆð£¬¶øÐ¡º¢È´ÒòÎªÇ¹Éù¶øÖªµÀÊÇ¸¸Ç×À´ÁË¶ø±¼ÏòµÁÁÔÕßÃÇ£¬¶øÔÚÕâÍ¾ÖÐ£¬Ð¡º¢µô½øÁËÁ÷É³¡£Ãæ¶Ô×ÅµÁÁÔÕßµÄÇ¹ºÍ¿ÞÆüµÄÐ¡º¢£¬²ØÁçÍõÍ´¿à¾ñÔñ£¬×îºó½«Ñò½ÇÉìÏÂÐ¡º¢Òª½«ËûÀ­³öÁ÷É³¡£Ç¹ÉùÔÙ´ÎÏëÆð£¬²ØÁçÍõµ¹ÏÂÁË¡£
@@ -26506,10 +26317,8 @@ BambooÊÇWacom×îÐÂÍÆ³öµÄÏµÁÐ²úÆ·£¬ÊÇWacom·¢Õ¹Ê·ÉÏµÄÖØÒªÀï³Ì±®¡£WacomÑÐ·¢BambooµÄÄ
 ÈËÆø:1746
 |
 ÆÀÂÛ:0
-2007-12-29¡¶
-Q¹·¶¯Âþ¡·ÕýÊ½ÁÁÏàÑëÊÓ¶¯»­ÆµµÀ¡¶¶¯»­³Ç¡·¡¶ìÅ²Ê¶¯»­¡·ÔÓÖ¾
-ÉÏº£ìÅÀ¤¶¯»­¹«Ë¾¡¶
-Q¹·¶¯Âþ¡·ÕýÊ½ÁÁÏàÑëÊÓ¶¯»­ÆµµÀ¡¶¶¯»­³Ç¡·¡¶ìÅ²Ê¶¯»­¡·ÔÓÖ¾¡£
+2007-12-29¡¶ Q¹·¶¯Âþ¡·ÕýÊ½ÁÁÏàÑëÊÓ¶¯»­ÆµµÀ¡¶¶¯»­³Ç¡·¡¶ìÅ²Ê¶¯»­¡·ÔÓÖ¾
+ÉÏº£ìÅÀ¤¶¯»­¹«Ë¾¡¶ Q¹·¶¯Âþ¡·ÕýÊ½ÁÁÏàÑëÊÓ¶¯»­ÆµµÀ¡¶¶¯»­³Ç¡·¡¶ìÅ²Ê¶¯»­¡·ÔÓÖ¾¡£
 À´Ô´:ÉÏº£ìÅÀ¤¶¯»­
 |
 Àà±ð:¶¯ÂþÐÂÎÅ
@@ -26548,9 +26357,7 @@ Galbraith(µÏ¿ËÀ¼-¸ÇÀÕ²¼À×Ë¹)2008ÖÐ¹úÑ²»ØÑÝ³ª»áFLASH¶¯»­´óÈü
 |
 ÆÀÂÛ:0
 2007-12-21¡°ÖÐ¹úÄê£¬°ÂÔËÄê¡±Ã÷ÐÅÆ¬Éè¼Æ´óÈüÕýÊ½Æô¶¯£¡
-¾ºÈüÖ÷Ìâ£ºÊÓ¾õÍ¬ÃË2007-2008¡¶NEWYEAR,
-NEW
-GAME/ÖÐ¹úÄê£¬°ÂÔËÄê¡·Ã÷ÐÅÆ¬Éè¼Æ´óÈü
+¾ºÈüÖ÷Ìâ£ºÊÓ¾õÍ¬ÃË2007-2008¡¶NEWYEAR, NEW GAME/ÖÐ¹úÄê£¬°ÂÔËÄê¡·Ã÷ÐÅÆ¬Éè¼Æ´óÈü
 À´Ô´:ÊÓ¾õÍ¬ÃË
 |
 Àà±ð:»î¶¯ÐÂÎÅ
@@ -26671,10 +26478,8 @@ Flash
 Flash8.net
 ÐÂÎÅÇøÊ×Ò³
 ÁÐ±íÒ³
-2007-12-29¡¶
-Q¹·¶¯Âþ¡·ÕýÊ½ÁÁÏàÑëÊÓ¶¯»­ÆµµÀ¡¶¶¯»­³Ç¡·¡¶ìÅ²Ê¶¯»­¡·ÔÓÖ¾
-ÉÏº£ìÅÀ¤¶¯»­¹«Ë¾¡¶
-Q¹·¶¯Âþ¡·ÕýÊ½ÁÁÏàÑëÊÓ¶¯»­ÆµµÀ¡¶¶¯»­³Ç¡·¡¶ìÅ²Ê¶¯»­¡·ÔÓÖ¾¡£
+2007-12-29¡¶ Q¹·¶¯Âþ¡·ÕýÊ½ÁÁÏàÑëÊÓ¶¯»­ÆµµÀ¡¶¶¯»­³Ç¡·¡¶ìÅ²Ê¶¯»­¡·ÔÓÖ¾
+ÉÏº£ìÅÀ¤¶¯»­¹«Ë¾¡¶ Q¹·¶¯Âþ¡·ÕýÊ½ÁÁÏàÑëÊÓ¶¯»­ÆµµÀ¡¶¶¯»­³Ç¡·¡¶ìÅ²Ê¶¯»­¡·ÔÓÖ¾¡£
 À´Ô´:ÉÏº£ìÅÀ¤¶¯»­
 |
 Àà±ð:¶¯ÂþÐÂÎÅ
@@ -27233,8 +27038,7 @@ bobototoÐÂµÄÒ»ÆÚ±íÇéÔÚ´ó¼ÒµÄÆÚ´ýÏÂÖÕÓÚºÍ·¹ÍÅÃÇ¼ûÃæÀ­¡£¡£¡£
 ÆÀÂÛ:0
 2007-9-13¡¶ÉúÐ¤ÅÉ¡·³é½î¶¯ÎïÃÇµÄ±©Ð¦Éú»î
 ÕýÔÚ½øÐÐÖÐ
-ÒÀÈð¿¨ÀÕ£¨easy
-color£©ÎÞÀåÍ·±©Ð¦¶¯»­ÏµÁÐÆ¬¡¶ÉúÐ¤ÅÉ¡·£¬ÒÔÎÒÃÇÖÐ¹ú´«Í³ÎÄ»¯ÖÐ12ÉúÐ¤ÎªÔ­ÐÎ£¬Õ¹¿ªºÁÎÞ¸ù¾ÝÇÒºÁÎÞ¹æÂÉ¿ÉÑÔµÄºúË¼ÂÒÏë½øÐÐ´´×÷£¬×Ô07Äê1ÔÂÍÆ³öÔ¤¸æÆ¬ÖÁ½ñ£¬ÒÑ³É¹¦ºú±àÂÒÔìµ½µÚ4¼¯¡£¾«²Ê½ÚÄ¿²»¶Ï¼ÌÐøÖÐ¡£
+ÒÀÈð¿¨ÀÕ£¨easy color£©ÎÞÀåÍ·±©Ð¦¶¯»­ÏµÁÐÆ¬¡¶ÉúÐ¤ÅÉ¡·£¬ÒÔÎÒÃÇÖÐ¹ú´«Í³ÎÄ»¯ÖÐ12ÉúÐ¤ÎªÔ­ÐÎ£¬Õ¹¿ªºÁÎÞ¸ù¾ÝÇÒºÁÎÞ¹æÂÉ¿ÉÑÔµÄºúË¼ÂÒÏë½øÐÐ´´×÷£¬×Ô07Äê1ÔÂÍÆ³öÔ¤¸æÆ¬ÖÁ½ñ£¬ÒÑ³É¹¦ºú±àÂÒÔìµ½µÚ4¼¯¡£¾«²Ê½ÚÄ¿²»¶Ï¼ÌÐøÖÐ¡£
 À´Ô´:ÉúÐ¤ÅÉ
 |
 Àà±ð:ÉÁ¿ÍÐÂÎÅ
@@ -27630,9 +27434,7 @@ Galbraith(µÏ¿ËÀ¼-¸ÇÀÕ²¼À×Ë¹)2008ÖÐ¹úÑ²»ØÑÝ³ª»áFLASH¶¯»­´óÈü
 |
 ÆÀÂÛ:0
 2007-12-21¡°ÖÐ¹úÄê£¬°ÂÔËÄê¡±Ã÷ÐÅÆ¬Éè¼Æ´óÈüÕýÊ½Æô¶¯£¡
-¾ºÈüÖ÷Ìâ£ºÊÓ¾õÍ¬ÃË2007-2008¡¶NEWYEAR,
-NEW
-GAME/ÖÐ¹úÄê£¬°ÂÔËÄê¡·Ã÷ÐÅÆ¬Éè¼Æ´óÈü
+¾ºÈüÖ÷Ìâ£ºÊÓ¾õÍ¬ÃË2007-2008¡¶NEWYEAR, NEW GAME/ÖÐ¹úÄê£¬°ÂÔËÄê¡·Ã÷ÐÅÆ¬Éè¼Æ´óÈü
 À´Ô´:ÊÓ¾õÍ¬ÃË
 |
 Àà±ð:»î¶¯ÐÂÎÅ
@@ -28247,8 +28049,7 @@ Flash8.net
 2007-12-4ÃÍ»¢³öÁý-CGArt
 0…3µÚ10ÆÚ·¢ÐÐ
 CGArt
-0…3-CGÒÕÊõÔÓÖ¾´´ÓÉCGFinal(ÖÕ¼«CG,
-Ô­CGerÖÐ¹ú)Ö÷°ì£¬Ò²ÊÇÖÐ¹úµÚÒ»±¾ÍøÂç°æ×¨ÒµCGÊÓ¾õÒÕÊõÔÓÖ¾¡¢ÖÐ¹úCGÊÓ¾õÒÕÊõÖ÷µ¼ÆÚ¿¯¡£
+0…3-CGÒÕÊõÔÓÖ¾´´ÓÉCGFinal(ÖÕ¼«CG, Ô­CGerÖÐ¹ú)Ö÷°ì£¬Ò²ÊÇÖÐ¹úµÚÒ»±¾ÍøÂç°æ×¨ÒµCGÊÓ¾õÒÕÊõÔÓÖ¾¡¢ÖÐ¹úCGÊÓ¾õÒÕÊõÖ÷µ¼ÆÚ¿¯¡£
 À´Ô´:CGArt
 |
 Àà±ð:×¨ÒµÊéÑ¶
@@ -28392,9 +28193,7 @@ flat¡±µÄ»î¶¯ºó£¬¡¶NewWebPick¡·µç×ÓÔÓÖ¾ÕýÊ½ÍÆ³ö¡¶Connection¡·ÌØ¿¯£¬Ê×ÆÚÎªÒâ´óÀû×¨
 |
 ÆÀÂÛ:0
 2006-12-20¡¶´´ÒâÖ¾¡·12ÔÂÐÂ¿¯ÉÏÊÐ
-¡¶´´ÒâÖ¾¡·ÊÇÒ»±¾ÏÂÔØÔÓÖ¾£¬ÊÇ¹ú¼ÊÖøÃûCGÀà¿¯Îï¡¶3d
-creative¡·ºÍ¡¶2d
-artist¡·µÄÖÐÎÄ°æ£¬ÄÚÈÝÉæ¼°Ó°ÊÓ¡¢ÓÎÏ·¡¢¶¯»­¡¢¹¤ÒµÉè¼Æ¡¢¸ÅÄîÉè¼Æ¡¢²åÍ¼Éè¼ÆµÈ£¬¡¶´´ÒâÖ¾¡·Ã¿ÔÂÔÂ³õ³ö°æ¡£
+¡¶´´ÒâÖ¾¡·ÊÇÒ»±¾ÏÂÔØÔÓÖ¾£¬ÊÇ¹ú¼ÊÖøÃûCGÀà¿¯Îï¡¶3d creative¡·ºÍ¡¶2d artist¡·µÄÖÐÎÄ°æ£¬ÄÚÈÝÉæ¼°Ó°ÊÓ¡¢ÓÎÏ·¡¢¶¯»­¡¢¹¤ÒµÉè¼Æ¡¢¸ÅÄîÉè¼Æ¡¢²åÍ¼Éè¼ÆµÈ£¬¡¶´´ÒâÖ¾¡·Ã¿ÔÂÔÂ³õ³ö°æ¡£
 À´Ô´:´´ÒâÖ¾
 |
 Àà±ð:×¨ÒµÊéÑ¶
@@ -29282,8 +29081,7 @@ Illustrator
 Ñ¡Ôñ¿ªÊ¼»æÖÆµÄ4x4Íø¸ñ£¬ÓÃ¼Ó°´Alt²¢ÍÏ×§µÄ·½·¨½«ÄÚÍâ×ª½Ç¶¼Éè¶¨ºÃ¡£
 ÔÙ´ÎÉè¶¨ÆðµãºÍÖÕµãÆ´Ìù¡£
 ½«»­±ÊÓ¦ÓÃµ½Ò»ÌõÖ±ÏßºÍÒ»¸öÍÖÔ²ÉÏ¡£
-»¹¼ÇµÃÎÒÃÇ¶¨Òå±ÊË¢µÄÊ±ºòÊ±½«×ÅÉ«´¦Àí·½·¨Éè¶¨Îªµ­É«Âð£¿ÔÚÑÕÉ«µ÷°åÉÏÈ¡É«»ò½«É«Ñùµ÷°åÉÏµÄÄ³¸öÉ«¿éÍÏ×§µ½Â·¾¶ÉÏ£¬Â·¾¶µÄÑÕÉ«»áËæÖ®¸Ä±ä£¬µ«ÊÇÑÕÉ«»á±ä³ÉÏàµ±½Ïµ­µÄÑÕÉ«£¬Õâ¾ÍÏñÓ¦ÓÃÁË¸ÃÈ«¾ÖÉ«ÖÐµÄÄ³Ò»¸öÑÕÉ«Ò»Ñù¡£ÐèÒª×¢ÒâµÄÊ±£¬Ó¦ÓÃÑÕÉ«Ê±Òª½«ÂÖÀªÉ«ÉèÖÃÔÚÇ°Ãæ(Ê¹ÓÃX
-¼ü)¡£
+»¹¼ÇµÃÎÒÃÇ¶¨Òå±ÊË¢µÄÊ±ºòÊ±½«×ÅÉ«´¦Àí·½·¨Éè¶¨Îªµ­É«Âð£¿ÔÚÑÕÉ«µ÷°åÉÏÈ¡É«»ò½«É«Ñùµ÷°åÉÏµÄÄ³¸öÉ«¿éÍÏ×§µ½Â·¾¶ÉÏ£¬Â·¾¶µÄÑÕÉ«»áËæÖ®¸Ä±ä£¬µ«ÊÇÑÕÉ«»á±ä³ÉÏàµ±½Ïµ­µÄÑÕÉ«£¬Õâ¾ÍÏñÓ¦ÓÃÁË¸ÃÈ«¾ÖÉ«ÖÐµÄÄ³Ò»¸öÑÕÉ«Ò»Ñù¡£ÐèÒª×¢ÒâµÄÊ±£¬Ó¦ÓÃÑÕÉ«Ê±Òª½«ÂÖÀªÉ«ÉèÖÃÔÚÇ°Ãæ(Ê¹ÓÃX ¼ü)¡£
 ³¢ÊÔ½«±ÊË¢ÓÃÔÚ²»Í¬µÄÐÎ×´ÉÏ£¬¿´¿´Í¼°¸ÔÚ²»Í¬½Ç¶ÈÊ±ÈçºÎ±»Æ´ÌùµÄ¡£ÕâÑù¼´Ê¹Ê¹ÓÃºÜ¼òµ¥µÄÍ¼°¸Ò²¿ÉÒÔ×ö³öÒ»Ð©ÓÐÈ¤µÄÐ§¹û¡£
 ÔÚ×îºóÒ»½ÚÎÒ½«¸æËß´ó¼Ò£¬¸ü¶àÓÐÈ¤µÄ¶«Î÷¡­¡­
 Í¼°¸±ÊË¢µÄÁé»îÔËÓÃ
@@ -29403,10 +29201,7 @@ Magician£¨Ðò£©
 FlashÓÐËùÁË½â£¬ÄÇÃ´ÎÒ±£Ö¤ÄãÔÚÕâÀïÄÜµÃµ½Ò»Ð©¶ÔÄãµÄFlashË®Æ½ÓÐËùÌá¸ßµÄ¶«Î÷£¬¶øÄãÐèÒª×öµÄ£¬¾ÍÖ»ÊÇÄÍÐÄµÄ¿´ÍêºÍFlash
 MagicianÏà¹ØµÄÎÄÕÂ£¬È»ºó×Ô¼ºÈ¥Êµ¼ù¡£Ïà¹ØµÄÎÄÕÂ¶¼½«¼ÇÂ¼ÔÚÕâ¸öblogÀïÃæ¡£µ±È»ÄãÒ²¿ÉÒÔ×ªÔØ£¬²»¹ýÇë×¢Ã÷Ô­×÷Õß¡£ÎÒÊÇd2r£¬Ò²ÊÇExtremania¡£
 Ð´ÕâÐ©ÎÄÕÂµÄÄ¿µÄºÜ¼òµ¥£¬²»¹ýÇëÌýÎÒ½²ÍêÎÒµÄÐ¡¹ÊÊÂ¡£ÎÒÊÇ2003Äê¿ªÊ¼½Ó´¥Flash£¬ËäÈ»Ã»ÓÐÐ¡Ð¡£¬ÀÏ½¯ÄÇÐ©ÔªÀÏ¾Ã£¬µ«ÊÇÖÁÉÙÒ²Ëã¸öÖÐ±ý°É£¬ÎÒ¶Ô×Ô¼ºµÄFlashË®Æ½ºÜÓÐÐÅÐÄ£¬ÖÁÉÙÎÒ²»»áÏñÓÐÐ©³ÌÐòÔ±°ÑÃÀ¹¤¸ãµÃÒ»ËúºýÍ¿¡£µ±³õ½Ó´¥FlashµÄÀíÓÉºÜ¼òµ¥£¬ÓÐÒ»¸öÆ¯ÁÁµÄMMËµËýÏ²»¶Flash£¬ÎÒ¾ÍÈ¥Ñ§£¬ËäÈ»ÎÒºÍÄÇMMÒ»Ö±¶¼Ã»ÓÐ¼û¹ý£¬µ±È»¸üÌ¸²»ÉÏ·¢Õ¹ÁË£¬¶øÇÒÎÒºÜ°®ÎÒµÄÀÏÆÅ£¬³¶Ô¶ÁË¡£Ò»¿ªÊ¼ÎÒÒ²ÊÇÓÃFlash×ö×öMTV£¬¶Ì¾çÖ®ÀàµÄ¡£ÒòÎª×¨ÒµÊÇ¼ÆËã»ú£¬ËùÒÔÎÒºÜ¿ì¾Í¿ªÊ¼ÁË½âAction
-Script£¬·¢ÏÖÁËASÓÐ×Å·Ç³£¶ÀÌØµÄ÷ÈÁ¦£¨ÎÒÍêÈ«Ã»ÓÐÔÞÑïASµÄÒâË¼£¬Ã»ÓÐÒ»¸ö³¬Ö»ÄÜµÄ±à¼­Æ÷¾ÍÈÃÎÒBSËüÁË£©¡£ÔÚ½Ó´¥AS²»µ½Ò»¸öÔÂ£¬ÎÒ¾Í¿ªÊ¼¿ª·¢ÁËµÚÒ»¸öÓÎÏ·£¨The
-Legend
-of
-ITown£©£¬Ò²Â½Â½ÐøÐø¿ª·¢Ò»Ð©¼òµ¥µÄÓÎÏ·¡£ÔÚÈ¥Äê£¬¿ª·¢ÁËÒ»¸ö¹¦ÄÜÇ¿´óµÄÉãÏñÍ·¹¤¾ßPhotoShot£»ÎÒÒ²ÉêÇëÁËÒ»¸öÓòÃûblendmode.com£¨ÏÖÔÚÒÑ¾­¹ýÆÚ£¬±»ÇÀ×¢ÁË£©£¬¿ª·¢¡°EieiÀÖÔ°¡±ÉçÇø£¬²»¹ýÓÉÓÚÕÒ¹¤×÷µÄÔ­Òò£¬ÖÐÍ¾ÖÐÖ¹ÁË¡£ÎÒÔÚÏë£¬¿ª·¢FlashÓ¦ÓÃµ½µ×ÎªÁËÊ²Ã´ÄØ£¿ÎÒµÃ²»µ½´ð°¸¡£µ±ÉîÈëµÄË¼¿¼ÏÂÈ¥µÄÊ±ºò£¬È´·¢ÏÖÁË¹úÄÚµÄFlash½çÊÇ¶àÃ´µÄ²Ô°×£¬ÕâµãÎÒÒ²²»ÔÚÕâÀïÌÖÂÛ¡£Ö®Ç°ÎÒÒ²ÓÐÈ¥Ò»¼Ò¹«Ë¾ÊµÏ°£¬×¨Ö°×öflash£¬¹«Ë¾¸øÎÒ¿ª¼ÛÊÇ×ªÕýºó2K5£¬ÔÚ¹ãÖÝ£¬ÒªÎÒ¿ª·¢Ïñ¡°Ò×¶È¡±Ò»¸öµÄÉçÇø¡£Ò»¸öÐÇÆÚºó£¬ÎÒ±ã´ÇÖ°ÁË¡£´Ó´Ë¶ÔFlashÃ»ÓÐÈÎºÎ¼¤Çé£¬¾ÍËãFlash
+Script£¬·¢ÏÖÁËASÓÐ×Å·Ç³£¶ÀÌØµÄ÷ÈÁ¦£¨ÎÒÍêÈ«Ã»ÓÐÔÞÑïASµÄÒâË¼£¬Ã»ÓÐÒ»¸ö³¬Ö»ÄÜµÄ±à¼­Æ÷¾ÍÈÃÎÒBSËüÁË£©¡£ÔÚ½Ó´¥AS²»µ½Ò»¸öÔÂ£¬ÎÒ¾Í¿ªÊ¼¿ª·¢ÁËµÚÒ»¸öÓÎÏ·£¨The Legend of ITown£©£¬Ò²Â½Â½ÐøÐø¿ª·¢Ò»Ð©¼òµ¥µÄÓÎÏ·¡£ÔÚÈ¥Äê£¬¿ª·¢ÁËÒ»¸ö¹¦ÄÜÇ¿´óµÄÉãÏñÍ·¹¤¾ßPhotoShot£»ÎÒÒ²ÉêÇëÁËÒ»¸öÓòÃûblendmode.com£¨ÏÖÔÚÒÑ¾­¹ýÆÚ£¬±»ÇÀ×¢ÁË£©£¬¿ª·¢¡°EieiÀÖÔ°¡±ÉçÇø£¬²»¹ýÓÉÓÚÕÒ¹¤×÷µÄÔ­Òò£¬ÖÐÍ¾ÖÐÖ¹ÁË¡£ÎÒÔÚÏë£¬¿ª·¢FlashÓ¦ÓÃµ½µ×ÎªÁËÊ²Ã´ÄØ£¿ÎÒµÃ²»µ½´ð°¸¡£µ±ÉîÈëµÄË¼¿¼ÏÂÈ¥µÄÊ±ºò£¬È´·¢ÏÖÁË¹úÄÚµÄFlash½çÊÇ¶àÃ´µÄ²Ô°×£¬ÕâµãÎÒÒ²²»ÔÚÕâÀïÌÖÂÛ¡£Ö®Ç°ÎÒÒ²ÓÐÈ¥Ò»¼Ò¹«Ë¾ÊµÏ°£¬×¨Ö°×öflash£¬¹«Ë¾¸øÎÒ¿ª¼ÛÊÇ×ªÕýºó2K5£¬ÔÚ¹ãÖÝ£¬ÒªÎÒ¿ª·¢Ïñ¡°Ò×¶È¡±Ò»¸öµÄÉçÇø¡£Ò»¸öÐÇÆÚºó£¬ÎÒ±ã´ÇÖ°ÁË¡£´Ó´Ë¶ÔFlashÃ»ÓÐÈÎºÎ¼¤Çé£¬¾ÍËãFlash
 CS3³öÁË£¬ÎÒÒ²Ã»ÓÐ°²×°£¨µ±È»£¬ÎÒ²»¶®AS3µÄ£©¡£ËµÄÇÃ´¶à£¬½áÂÛ¾ÍÊÇ£¬ÎÒÒª·ÅÆúFlashÁË£¬¶øÇÒÎÒÒÔÇ°Ã»ÓÐÔÚFlashÖÐÀÌµ½ÈÎºÎºÃ´¦£¡ÔÚÎÒ·ÅÆúÖ®Ç°£¬ÎÒÏ£Íû°ÑÎÒÕâ¼¸ÄêÀ´µÄ¾­Ñé£¬·ÖÏí¸ø´ó¼Ò£¬Èç¹ûÄã¶ÔFlash
 AS±à³Ì»¹´æÔÚÈÈÇé£¬ÎÒÏàÐÅÄã»áÊÜÒæ·ÇÇ³µÄ¡£ÕâÑùÎÒÒ²ÆúµÃî¨Ä¿ÁË¡£
 Ê²Ã´ÊÇFlash
@@ -29427,13 +29222,13 @@ Magician(1)
 £¨3£©ºÃÁË£¬»Øµ½Ö÷Ó°ÆÀ£¬°Ñbutton_mcÀ­µ½³¡¾°ÖÐ£¬ÆðÃûbutton_mc£¬ÔÚµÚÒ»Ö¡ÖÐ²åÈë´úÂë£º
 ==========================================================
 button_mc.stop();
-button_mc.onRollOver=function(){
+button_mc.onRollOver=function(){ 
 gotoAndStop(2);
 }
-button_mc.onRollOut=button_mc.onReleaseOutside=function(){
+button_mc.onRollOut=button_mc.onReleaseOutside=function(){ 
 gotoAndStop(1);
 }
-button_mc.onRelease=function(){
+button_mc.onRelease=function(){ 
 //yourcode
 }
 ==========================================================
@@ -29445,43 +29240,43 @@ button_mc.onRollOut=button_mc.onReleaseOutsideÕâÒ»¾ä£¬Èç¹ûÄã²»ÕâÑùÐ©£¬ÄÇÃ´ÄãÔÚ°´
 ÎªÁËÈÃÎÒÃÇ²»ÓÃÖØ¸´Ð©onRollOverºÍonRollOutÊÂ¼þ£¬ÎÒÃÇ¿ÉÒÔ°ÑÕâÐ©ÊÂ¼þ¼¯ºÏµ½Ò»Æð£¬³ÉÎªÒ»¸ö³éÏóµÄ°´Å¥¡£¿´¿´ÎÒÃÇÔõÃ´¹¹½¨Ò»¸ö³éÏóµÄ°´Å¥°É£º
 ÐÂ½¨Ò»¸öasÎÄ¼þ£¬ÃüÃûÎªAbstractButton.as£¨ËæÄãÏ²»¶£©£¬±£´æÔÚÃüÃû¿Õ¼äcom.netiod.exampleÏÂ¡£´úÂëÈçÏÂ£º
 =========================================================
-classcom.netiod.example.AbstractButtonextendsMovieClip{
+classcom.netiod.example.AbstractButtonextendsMovieClip{ 
 privatevar_enable:Boolean=true;
-privatefunctionAbstractButton(){
+privatefunctionAbstractButton(){ 
 this.onRollOver=this._rollover;
 this.onRollOut=this.onReleaseOutside=this._rollout;
 }
-privatefunctiononLoad(){
+privatefunctiononLoad(){ 
 this.stop();
 }
-publicfunctiontoString():String{
+publicfunctiontoString():String{ 
 return"[Object,SimpleButton]"+"name:"+this._name;
 }
-privatefunction_rollover():Void{
+privatefunction_rollover():Void{ 
 if(!isEnable())return;
 this.gotoAndStop(2);
 _extrollover();
 }
-privatefunction_rollout():Void{
+privatefunction_rollout():Void{ 
 if(!isEnable())return;
 this.gotoAndStop(1);
 _extrollout();
 }
 //herearetheinterfaceforthesubclasstoextandtheevents
-publicfunction_extrollover():Void{
+publicfunction_extrollover():Void{ 
 }
-publicfunction_extrollout():Void{
+publicfunction_extrollout():Void{ 
 }
 //switch
-publicfunctionenable():Void{
+publicfunctionenable():Void{ 
 this._enable=true;
 this.useHandCursor=true;
 }
-publicfunctiondisable():Void{
+publicfunctiondisable():Void{ 
 this._enable=false;
 this.useHandCursor=false;
 }
-privatefunctionisEnable():Boolean{
+privatefunctionisEnable():Boolean{ 
 returnthis._enable;
 }
 }
@@ -29495,18 +29290,18 @@ _extrollout
 £¨2£©ÐÂ½¨Ò»¸öÀàÐÍcom.netiod.example.ImpButton£¨²»ÔÙÉùÃ÷½¨ÀàµÄ¹ý³Ì£©
 ´úÂëÈçÏÂ£º
 =========================================================
-classcom.netiod.example.ImpButtonextendscom.netiod.example.AbstractButton{
-privatefunctionImpButton(){
+classcom.netiod.example.ImpButtonextendscom.netiod.example.AbstractButton{ 
+privatefunctionImpButton(){ 
 _extrollover=moreOnRollOver;
 _extrollout=moreOnRollOut;
 }
-privatefunctionmoreOnRollOver():Void{
+privatefunctionmoreOnRollOver():Void{ 
 trace("onRollOver");
 }
-privatefunctionmoreOnRollOut():Void{
+privatefunctionmoreOnRollOut():Void{ 
 trace("onRollOut");
 }
-privatefunctionmoreOnRelease():Void{
+privatefunctionmoreOnRelease():Void{ 
 //yourcodehere
 }
 }
@@ -29526,10 +29321,10 @@ _extrollout
 ºÜ¶à´«Í³µÄ³ÌÐòÔ±¸Õ½Ó´¥Action
 ScriptµÄÊ±ºò¶¼Ó¦¸ÃÊÇ·Ç³£µÃÐÄÓ¦ÊÖµÄ¡£º¯ÊýÖØÔØ£¬Õâ¸ö¸ÅÄî¶ÔËûÃÇÀ´ËµÓ¦¸ÃÒÑ¾­¸ùÉîµÙ¹ÌÁË°É£¬²»¶àµ±°Ñº¯ÊýÖØÔØµÄ¸ÅÄîÔËÓÃÔÚAction
 ScriptÉÏÃæµÄÊ±ºò£¬¾Í»áµÃµ½ÓÐÈ¤µÄÐ§¹û£¬ÏÈÈÃÎÒÃÇ¿´¿´Ò»¶Î³ÌÐò°É£º
-functionoutput(n:Number):Void{
+functionoutput(n:Number):Void{ 
 trace("Outputanumber:"+n);
 }
-functionoutput(str:String):Void{
+functionoutput(str:String):Void{ 
 trace("Outputastring:"+str);
 }
 output(10);
@@ -29540,10 +29335,10 @@ number:10¡±£¬²»¹ýºÜ¿ÉÏ§£¬Êä³öµÄ½á¹ûÊÇ¡°Output
 a
 string:10¡±¡£ÕâÑù»¹ºÃ£¬¿ÉÄÜ´ó¼Ò»á²Â²â£¬Action
 Script²¢²»Ö§³Öº¯ÊýÖØÔØ£¬ËùÒÔº¯Êýoutput±»ÖØÐ´ÁË£¬ÔËÐÐµÄÊÇµÚ¶þ¸öoutputº¯Êý¡£Èç¹û°Ñ³ÌÐò¸Ä³ÉÕâÑùÄØ£º
-functionoutput(n:Number):Void{
+functionoutput(n:Number):Void{ 
 trace("Outputanumber:"+n);
 }
-functionoutput(str:String):Void{
+functionoutput(str:String):Void{ 
 trace("Outputastring:"+str);
 }
 //output(10);
@@ -29575,10 +29370,10 @@ Object
 Function
 <CODE>function</CODE>
 ÕÆÎÕÁËÒÔÉÏÖªÊ¶Ö®ºó£¬ÎÒÃÇ¾Í¿ÉÒÔÐ´³ö·Ç³£ÍêÃÀµÄº¯ÊýÖØÔØÁË£¡ÏÈ¿´¿´ÎÒÃÇÔõÑùÖØÔØÎÄÕÂ¿ªÍ·µÄÀý×Ó£º
-functionoutput():Void{
-if(typeof(arguments[0])=="string"){
+functionoutput():Void{ 
+if(typeof(arguments[0])=="string"){ 
 trace("OutputaString:"+arguments[0]);
-}elseif(typeof(arguments[0])=="number"){
+}elseif(typeof(arguments[0])=="number"){ 
 trace("OutputaNumber:"+arguments[0]);
 }
 }
@@ -29587,7 +29382,7 @@ output("abc");
 ¿´¿´Êä³öµÄ½á¹û£¬ÊÇ²»ÊÇÁîÄã·Ç³£ÂúÒâÄØ£¿µ±È»£¬ÖØÔØÒ²Ö§³Ö²»Í¬¸öÊýµÄÊäÈë±äÁ¿£¬²ÉÓÃÕâÖÖ·½Ê½£¬±ã¿ÉÒÔËæÐÄËùÓûµÄÐ´³ö×Ô¼ºµÄÖØ×°º¯ÊýÁË¡£ÌØ±ðÔÚ±àÐ´ÀàÐÍµÄ¹¹Ôìº¯ÊýÊ±£¬ÕâÖÖ·½Ê½¸üÊÇÏÔÊ¾³öËüµÄ¼ÛÖµ¡£
 »¹Ã»ÍêÄØ¡£ÎÒÓÐÒ»´Î±ÊÊÔµÄÊ±ºò£¬ÓÐÒ»µÀÌâ½ÐÎÒÃÇÓÃCÓïÑÔÐ´³öprintfº¯ÊýµÄ£¬ÄÇÊ±ÎÒÕæµÄÉµÁË£¬ÎÒ¼ÇµÃprintfº¯Êý¿ÉÒÔÊäÈëÈÎÒâ¸öÊýµÄ²ÎÊý£¬¶øÎÒÃÇÍêÈ«Ã»ÓÐÑ§¹ýÔõÑùÊµÏÖ£¬ÄÑµÀÏñmainº¯ÊýÖÐµÄargs[]Êý×é£¬¿ÉÊÇº¯Êýµ÷ÓÃµÄÊ±ºòÊä³öµÄÓÖ²»ÊÇÊý×é...×îºóÎÒ»¹ÊÇ·ÅÆúÁË¡£»ØÈ¥²é¿´ÁËprintfº¯ÊýµÄÔ´Âë£¬ÓÐµãÓû¿ÞÎÞÀá...ÔÚÕâÀïÎÒ²»Ïë½²CÓïÑÔÊÇÔõÃ´ÊµÏÖµÄ£¬ÎÒÃÇ¿´¿´ÎÒÃÇÎ°´óµÄASÊÇÔõÃ´ÊµÏÖµÄ°É¡£ÎÒÃÇÒªÐ´Ò»¸öº¯Êý£¬Ëü¿ÉÒÔÊäÈëÈÎÒâ¸öÊýµÄNumber£¬È»ºóÇó³öNumberµÄ×î´óÖµ£¬Èç¹û²ÎÊýÖÐÓÐÒ»¸ö»òÕß¶àÓÚÒ»¸ö·ÇNumberµÄ±äÁ¿£¬Ôò·µ»ØNaN¡£Å¶£¬ÔÙ¼ÓÉÏÒ»¸öÌõ¼þ°É£¬´úÂë²»ÄÜ³¬¹ý5ÐÐ£¡
 ºÃ°É£¬¿´¿´Ò»¸ö±È½ÏÉµµÄÊµÏÖ·½Ê½£º
-functionmax():Number{
+functionmax():Number{ 
 for(vari:Number=0,m:Number=Number.NEGATIVE_INFINITY;iarguments.length&amp;&amp;typeof("number"==arguments[i]);m=Math.max(m,argument[i]),i++){;}
 returnm;
 }
@@ -29675,9 +29470,7 @@ mcPlayer.onEnterFrame
 function()
 {
 if
-(this.objUpTopDown.run()
-!=
-0)
+(this.objUpTopDown.run() != 0)
 {
 this._xscale
 =
@@ -29704,9 +29497,7 @@ delete
 //Êó±ê#############################
 //mouseStyle,
 Êó±êÑùÊ½
-_root.attachMovie("mouse",
-"mouseStyle",
-numMaxDepth);
+_root.attachMovie("mouse", "mouseStyle", numMaxDepth);
 var
 objMouse:Object
 =
@@ -29775,8 +29566,7 @@ function
 run()
 {
 if
-(numV+1
-numV++;
+(numV+1 numV++;
 return
 numV
 }
@@ -29809,8 +29599,7 @@ http://www.mygamemylove.com/104.html
 var
 mcHys:MovieClip
 =
-_root.createEmptyMovieClip("mcHys",
-999);
+_root.createEmptyMovieClip("mcHys", 999);
 2.Õâ¸ömcÀïÉèÖÃÒ»Ð©¹«ÓÐÊôÐÔ£º
 //ÐÐ¾à
 mcHys.numHJ
@@ -29827,29 +29616,19 @@ mcHys.numDownSd
 //Ëæ»úÆðÊ¼µÄÊ±¼ä
 mcHys.arrMoveStarTime
 =
-[0,
-48,
-60,
-20,
-48];
+[0, 48, 60, 20, 48];
 ÆäÖÐ£ºmcHys.swapDepths(mcPlayer);
 Ä¿µÄÊÇ°ÑºÉÒ¶ÈÝÆ÷mcHysµÄÓëmcPlayerµÄÉî¶È½»»»¡£ÒòÎªÇàÍÜÒªÔÚºÉÒ¶µÄÉÏÃæ¡£
 3.Ð´ÈëºÉÒ¶
 ÓÃÁËÁ½¸öº¯Êý£º
-¸´ÖÆÒ»ÅúºÉÒ¶£ºgetSomeHy(numCount:Number,
-mcHys:MovieClip)
-ÉèÖÃÃ¿¸öºÉÒ¶µÄÐÐÎª£ºsetHeYeMove(mcHy:MovieClip,
-numSD:Number,
-numStarTime:Number)
+¸´ÖÆÒ»ÅúºÉÒ¶£ºgetSomeHy(numCount:Number, mcHys:MovieClip)
+ÉèÖÃÃ¿¸öºÉÒ¶µÄÐÐÎª£ºsetHeYeMove(mcHy:MovieClip, numSD:Number, numStarTime:Number)
 //³õÊ¹»¯ºÉÒ¶
-getSomeHy(4,
-mcHys);
+getSomeHy(4, mcHys);
 ×¢£ºÕâÐ©·½·¨ÔÚºóÀ´¶¼»áÐÞ¸Ä£¬ÎÒÃÇÏÖÔÚµÄÄ¿µÄÖ»ÊÇ°ÑÒªÍê³ÉµÄÄ¿±êÍê³ÉÁË£¬ÐÞ¸ÄÊÇºóÃæµÄÊÂ¡£
 //ÒÆ¶¯µÄºÉÒ¶############################
 function
-setHeYeMove(mcHy:MovieClip,
-numSD:Number,
-numStarTime:Number)
+setHeYeMove(mcHy:MovieClip, numSD:Number, numStarTime:Number)
 {
 mcHy.objUpTopDown
 =
@@ -29873,9 +29652,7 @@ if
 (this.numStarTime--0)
 {
 if
-(this.objUpTopDown.run()
-==
-0)
+(this.objUpTopDown.run() == 0)
 {
 this.objUpTopDown.isFx
 =
@@ -29891,8 +29668,7 @@ this._x
 var
 mcHys:MovieClip
 =
-_root.createEmptyMovieClip("mcHys",
-999);
+_root.createEmptyMovieClip("mcHys", 999);
 mcHys.swapDepths(mcPlayer);
 //ÐÐ¾à
 mcHys.numHJ
@@ -29909,43 +29685,26 @@ mcHys.numDownSd
 //Ëæ»úÆðÊ¼µÄÊ±¼ä
 mcHys.arrMoveStarTime
 =
-[0,
-48,
-60,
-20,
-48];
+[0, 48, 60, 20, 48];
 //¸´ÖÆÒ»Åú
 function
-getSomeHy(numCount:Number,
-mcHys:MovieClip)
+getSomeHy(numCount:Number, mcHys:MovieClip)
 {
 for
-(var
-numI:Number
-=
-0;
-numIvar
-mcTem:MovieClip
-=
-mcHys.attachMovie("hy",
-"mcHy"+numI,
-numI);
+(var numI:Number = 0; numIvar mcTem:MovieClip = mcHys.attachMovie("hy", "mcHy"+numI, numI);
 mcTem._y
 =
 (Stage.height-mcHys.numWH)-numI*(mcHys.numHJ+mcHys.numWH);
 mcTem._width
 =
 mcTem._height=mcHys.numWH;
-setHeYeMove(mcTem,
-1,
-getNoSameRandNum(mcHys.arrMoveStarTime));
+setHeYeMove(mcTem, 1, getNoSameRandNum(mcHys.arrMoveStarTime));
 }
 //end
 for
 }
 //³õÊ¹»¯ºÉÒ¶
-getSomeHy(4,
-mcHys);
+getSomeHy(4, mcHys);
 //
 Èý.ÐÞ¸Ä"À´»ØÒÆ¶¯µÄºÉÒ¶¡±
 ÎÒÃÇ·¢ÏÖÎÒÃÇÐ´³öÀ´µÄºÉÒ¶£¬²¢²»ÊÇÎÒÃÇÏëÒªµÄ£¬ÈçÀïÃ¿Ò»ÐÐÖ»ÓÐÒ»¸öºÉÒ¶µÄ»°£¬ÇàÍÜµÄÑ¡Ôñ¾ÍºÜÉÙÁË¡£ËùÒÔÎÒÃÇÓ¦¸Ã
@@ -29953,26 +29712,18 @@ mcHys);
 Ð§¹û¼°Ô´´úÂëÏÂÔØ£º
 http://www.mygamemylove.com/103.html
 ÎÒÃÇÖ÷ÒªÊÇÐÞ¸Ä£ºÒÆ¶¯µÄºÉÒ¶
-setHeYeMove(mcHy:MovieClip,
-numSD:Number,
-numStarTime:Number,
+setHeYeMove(mcHy:MovieClip, numSD:Number, numStarTime:Number, 
 numLeftRight:Number)
 ºÍ¸´ÖÆÒ»Åú£ºfunction
 getSomeHy
-(numCountI:Number,
-numCountJ:Number,
-mcHys:MovieClip)
+(numCountI:Number, numCountJ:Number, mcHys:MovieClip)
 Õâ¸öÁ½¸öº¯Êý£º
 1setHeYeMoveÖ÷ÒªÐÞ¸ÄµÄ²¿·Ö¾ÍÊÇºÉÒ¶ÒÆ¶¯µÄ×´Ì¬£ºÄ¿Ç°ÔÚÓÚÃ¿×éºÉÒ¶ÓëÆäËüºÉÒ¶ÊÇ½»ÌæÀ´»ØÒÆ¶¯¡£ÎÒÃÇÔÚÕâÀï¶¨Òå
 ÁËÒ»¸öÊý×é£º
 //Ëæ»úÆðÊ¼µÄÊ±¼ä
 mcHys.arrMoveStarTime
 =
-[0,
-48,
-60,
-20,
-48];
+[0, 48, 60, 20, 48];
 ÅäºÏ£º
 //»ñµÃ²»ÏàÍ¬µÄËæ»úÊý
 function
@@ -30002,10 +29753,7 @@ playerMove()¡£¼ÓÈë£º
 //¼ì²âÌøÉÏ
 //
 for
-(var
-mcI
-in
-_root.mcHys)
+(var mcI in _root.mcHys)
 {
 if(this.hitTest(_root.mcHys[mcI])){
 //ÌùÉÏ
@@ -30035,8 +29783,7 @@ _root.mcHys._y
 this.numMoveSd;
 ±³¾°ÒÆ¶¯ÁË£º
 ×îÍüÁË¸´ÖÆÒ»ÐÐÐÂµÄºÉÒ¶
-getOneHy(3,
-mcHys);
+getOneHy(3, mcHys);
 µ±È»Ò²²»ÒªÍüÁËÉ¾³ýÌø¹ýµÄºÉÒ¶£º£¨ºóÃæµÄ°æ±¾»á¼ÓÉÏÕâ¸ö£©
 ×¢£º¶ÁÕß»á·¢ÏÖ£ºgetSomeHyÕâ¸öº¯Êý²»¼û£¬¶ø»»³ÉÁËÒ»¸ö£ºgetOneHy£¬ÒòÎª±ÊÕß·¢ÏÖÔÚ¸´ÖÆÒ»ÐÐÒª±È¸´ÖÆ¼¸ÐÐµÄ¹¦ÄÜ
 ¸üÊÊºÏ£¬Õâ¸öÓÎÏ·¡£
@@ -30049,10 +29796,7 @@ http://www.mygamemylove.com/101.html
 //¼ì²âÌøÉÏ
 //
 for
-(var
-mcI
-in
-_root.mcHys)
+(var mcI in _root.mcHys)
 {
 if
 (this.hitTest(_root.mcHys[mcI]))
@@ -30063,8 +29807,7 @@ numTemPlayHeCha:Number
 =
 this._x-_root.mcHys[mcI]._x;
 //
-getOneHy(3,
-mcHys);
+getOneHy(3, mcHys);
 //ÌùÉÏ
 this.onEnterFrame
 =
@@ -30078,9 +29821,7 @@ _root.mcHys[mcI]._x+numTemPlayHeCha;
 if
 //ÒÆ¶¯ºÉÒ¶ÖÐÐÄ_y
 if
-(this.numOnHysY
-!=
-_root.mcHys[mcI]._y)
+(this.numOnHysY != _root.mcHys[mcI]._y)
 {
 if
 ((this.numOnHysY-this.numToHySd)_root.mcHys[mcI]._y)
@@ -30163,333 +29904,117 @@ Flash8.net
 1:ÐÂ½¨Í¼²ã´ò×Ö,
 (¹þ£¬ÎÒÉ¾¹ýÍ¼²ãËùÒÔÐÂ½¨³öÀ´ÊÇ"Í¼²ã3"ÕâÀï¾ÍÍµ¸öÀÁ²»¸ÄÁË)
 screen.width*0.7)
-{this.resized=true;
-this.width=screen.width*0.7;
-this.style.cursor=&#39;hand&#39;;
-this.alt=&#39;Click
-here
-to
-open
-new
-window\nCTRL+Mouse
-wheel
-to
-zoom
-in/out&#39;;}"
+{this.resized=true; this.width=screen.width*0.7; this.style.cursor=&#39;hand&#39;; this.alt=&#39;Click here to open new window\nCTRL+Mouse wheel to zoom in/out&#39;;}"
 onclick="if(!this.resized)
-{return
-true;}
+{return true;}
 else
 {window.open(this.src);}"
 alt=""
 src="../../www.dfcmjg.com/jc/wz/1.jpg"
 onload="if(this.width>screen.width*0.7)
-{this.resized=true;
-this.width=screen.width*0.7;
-this.alt=&#39;Click
-here
-to
-open
-new
-window\nCTRL+Mouse
-wheel
-to
-zoom
-in/out&#39;;}"
+{this.resized=true; this.width=screen.width*0.7; this.alt=&#39;Click here to open new window\nCTRL+Mouse wheel to zoom in/out&#39;;}"
 border=0>
 2:ÔÙÐÂ½¨Í¼²ã£¬»­Ò»¸öÎÞ±ß¿òÉ«Ô².Ñ¡ÖÐF8×ª»»Îª"Ó°Æ¬¼ô¼­"
 Ôª¼þ1
 screen.width*0.7)
-{this.resized=true;
-this.width=screen.width*0.7;
-this.style.cursor=&#39;hand&#39;;
-this.alt=&#39;Click
-here
-to
-open
-new
-window\nCTRL+Mouse
-wheel
-to
-zoom
-in/out&#39;;}"
+{this.resized=true; this.width=screen.width*0.7; this.style.cursor=&#39;hand&#39;; this.alt=&#39;Click here to open new window\nCTRL+Mouse wheel to zoom in/out&#39;;}"
 onclick="if(!this.resized)
-{return
-true;}
+{return true;}
 else
 {window.open(this.src);}"
 alt=""
 src="../../www.dfcmjg.com/jc/wz/2.jpg"
 onload="if(this.width>screen.width*0.7)
-{this.resized=true;
-this.width=screen.width*0.7;
-this.alt=&#39;Click
-here
-to
-open
-new
-window\nCTRL+Mouse
-wheel
-to
-zoom
-in/out&#39;;}"
+{this.resized=true; this.width=screen.width*0.7; this.alt=&#39;Click here to open new window\nCTRL+Mouse wheel to zoom in/out&#39;;}"
 border=0>
 3:Ë«»÷½øÈë"Ôª¼þ1"ÔÙÑ¡ÖÐÔ²F8½Ó×Å×ª»»Îª"Ó°Æ¬¼ô¼­"
 "Ôª¼þ2"
 screen.width*0.7)
-{this.resized=true;
-this.width=screen.width*0.7;
-this.style.cursor=&#39;hand&#39;;
-this.alt=&#39;Click
-here
-to
-open
-new
-window\nCTRL+Mouse
-wheel
-to
-zoom
-in/out&#39;;}"
+{this.resized=true; this.width=screen.width*0.7; this.style.cursor=&#39;hand&#39;; this.alt=&#39;Click here to open new window\nCTRL+Mouse wheel to zoom in/out&#39;;}"
 onclick="if(!this.resized)
-{return
-true;}
+{return true;}
 else
 {window.open(this.src);}"
 alt=""
 src="../../www.dfcmjg.com/jc/wz/3.jpg"
 onload="if(this.width>screen.width*0.7)
-{this.resized=true;
-this.width=screen.width*0.7;
-this.alt=&#39;Click
-here
-to
-open
-new
-window\nCTRL+Mouse
-wheel
-to
-zoom
-in/out&#39;;}"
+{this.resized=true; this.width=screen.width*0.7; this.alt=&#39;Click here to open new window\nCTRL+Mouse wheel to zoom in/out&#39;;}"
 border=0>
 4:Ë«»÷½øÈë"Ôª¼þ2"¼ÌÐøF8×ª»»Îª"Ôª¼þ3"
 (ÀÛÁË°É£¬µ½´ËÎªÖÁ)
 screen.width*0.7)
-{this.resized=true;
-this.width=screen.width*0.7;
-this.style.cursor=&#39;hand&#39;;
-this.alt=&#39;Click
-here
-to
-open
-new
-window\nCTRL+Mouse
-wheel
-to
-zoom
-in/out&#39;;}"
+{this.resized=true; this.width=screen.width*0.7; this.style.cursor=&#39;hand&#39;; this.alt=&#39;Click here to open new window\nCTRL+Mouse wheel to zoom in/out&#39;;}"
 onclick="if(!this.resized)
-{return
-true;}
+{return true;}
 else
 {window.open(this.src);}"
 alt=""
 src="../../www.dfcmjg.com/jc/wz/4.jpg"
 onload="if(this.width>screen.width*0.7)
-{this.resized=true;
-this.width=screen.width*0.7;
-this.alt=&#39;Click
-here
-to
-open
-new
-window\nCTRL+Mouse
-wheel
-to
-zoom
-in/out&#39;;}"
+{this.resized=true; this.width=screen.width*0.7; this.alt=&#39;Click here to open new window\nCTRL+Mouse wheel to zoom in/out&#39;;}"
 border=0>
 5:½Ó×Å¸øËû×öÐ©²»¹æÔòÔË¶¯£¬¾ÍÊÇÉÏÏÂ×óÓÒËæ±ãÅÜ£¬µ«ÊÇ¾àÀë²»ÒªÌ«Ô¶£¬Ö¡ÊýÒ²×Ô¼º³ÅÎÕ°É.
 ¶à¿´Ð§¹û¾Í»áÃ÷°×ÁË.
 screen.width*0.7)
-{this.resized=true;
-this.width=screen.width*0.7;
-this.style.cursor=&#39;hand&#39;;
-this.alt=&#39;Click
-here
-to
-open
-new
-window\nCTRL+Mouse
-wheel
-to
-zoom
-in/out&#39;;}"
+{this.resized=true; this.width=screen.width*0.7; this.style.cursor=&#39;hand&#39;; this.alt=&#39;Click here to open new window\nCTRL+Mouse wheel to zoom in/out&#39;;}"
 onclick="if(!this.resized)
-{return
-true;}
+{return true;}
 else
 {window.open(this.src);}"
 alt=""
 src="../../www.dfcmjg.com/jc/wz/5.jpg"
 onload="if(this.width>screen.width*0.7)
-{this.resized=true;
-this.width=screen.width*0.7;
-this.alt=&#39;Click
-here
-to
-open
-new
-window\nCTRL+Mouse
-wheel
-to
-zoom
-in/out&#39;;}"
+{this.resized=true; this.width=screen.width*0.7; this.alt=&#39;Click here to open new window\nCTRL+Mouse wheel to zoom in/out&#39;;}"
 border=0>
 6:ÐÂ½¨²ãÓÒ¼ü-¶¯×÷.¼Óaction
 ,ºÜ¼òµ¥¾ÍÒ»¾äÈÃËûËæ»úµÄ·µ»ØÖ¡Êý:
 this.gotoAndPlay(random(this._totalframes));
 screen.width*0.7)
-{this.resized=true;
-this.width=screen.width*0.7;
-this.style.cursor=&#39;hand&#39;;
-this.alt=&#39;Click
-here
-to
-open
-new
-window\nCTRL+Mouse
-wheel
-to
-zoom
-in/out&#39;;}"
+{this.resized=true; this.width=screen.width*0.7; this.style.cursor=&#39;hand&#39;; this.alt=&#39;Click here to open new window\nCTRL+Mouse wheel to zoom in/out&#39;;}"
 onclick="if(!this.resized)
-{return
-true;}
+{return true;}
 else
 {window.open(this.src);}"
 alt=""
 src="../../www.dfcmjg.com/jc/wz/6.jpg"
 onload="if(this.width>screen.width*0.7)
-{this.resized=true;
-this.width=screen.width*0.7;
-this.alt=&#39;Click
-here
-to
-open
-new
-window\nCTRL+Mouse
-wheel
-to
-zoom
-in/out&#39;;}"
+{this.resized=true; this.width=screen.width*0.7; this.alt=&#39;Click here to open new window\nCTRL+Mouse wheel to zoom in/out&#39;;}"
 border=0>
 7:»Øµ½"Ôª¼þ1"°´×¡alt¸´ÖÆÓ°Æ¬¼ô¼­µ½ÍêÈ«¸´¸Ç×¡ÏÂÃæµÄÎÄ×Ö.
 screen.width*0.7)
-{this.resized=true;
-this.width=screen.width*0.7;
-this.style.cursor=&#39;hand&#39;;
-this.alt=&#39;Click
-here
-to
-open
-new
-window\nCTRL+Mouse
-wheel
-to
-zoom
-in/out&#39;;}"
+{this.resized=true; this.width=screen.width*0.7; this.style.cursor=&#39;hand&#39;; this.alt=&#39;Click here to open new window\nCTRL+Mouse wheel to zoom in/out&#39;;}"
 onclick="if(!this.resized)
-{return
-true;}
+{return true;}
 else
 {window.open(this.src);}"
 alt=""
 src="../../www.dfcmjg.com/jc/wz/7.jpg"
 onload="if(this.width>screen.width*0.7)
-{this.resized=true;
-this.width=screen.width*0.7;
-this.alt=&#39;Click
-here
-to
-open
-new
-window\nCTRL+Mouse
-wheel
-to
-zoom
-in/out&#39;;}"
+{this.resized=true; this.width=screen.width*0.7; this.alt=&#39;Click here to open new window\nCTRL+Mouse wheel to zoom in/out&#39;;}"
 border=0>
 8:»Øµ½³¡¾°ÔÚÔ²µã²ãÓÒ¼üÕÚÕÖÎÄ×Ö²ã.
 screen.width*0.7)
-{this.resized=true;
-this.width=screen.width*0.7;
-this.style.cursor=&#39;hand&#39;;
-this.alt=&#39;Click
-here
-to
-open
-new
-window\nCTRL+Mouse
-wheel
-to
-zoom
-in/out&#39;;}"
+{this.resized=true; this.width=screen.width*0.7; this.style.cursor=&#39;hand&#39;; this.alt=&#39;Click here to open new window\nCTRL+Mouse wheel to zoom in/out&#39;;}"
 onclick="if(!this.resized)
-{return
-true;}
+{return true;}
 else
 {window.open(this.src);}"
 alt=""
 src="../../www.dfcmjg.com/jc/wz/8.jpg"
 onload="if(this.width>screen.width*0.7)
-{this.resized=true;
-this.width=screen.width*0.7;
-this.alt=&#39;Click
-here
-to
-open
-new
-window\nCTRL+Mouse
-wheel
-to
-zoom
-in/out&#39;;}"
+{this.resized=true; this.width=screen.width*0.7; this.alt=&#39;Click here to open new window\nCTRL+Mouse wheel to zoom in/out&#39;;}"
 border=0>
 9:¼Ó¸öÍ¼²ã·Åµ½×îµ×·ÅÕÅ±³¾°Í¼£¬´ó¹¦¸æ³É
 screen.width*0.7)
-{this.resized=true;
-this.width=screen.width*0.7;
-this.style.cursor=&#39;hand&#39;;
-this.alt=&#39;Click
-here
-to
-open
-new
-window\nCTRL+Mouse
-wheel
-to
-zoom
-in/out&#39;;}"
+{this.resized=true; this.width=screen.width*0.7; this.style.cursor=&#39;hand&#39;; this.alt=&#39;Click here to open new window\nCTRL+Mouse wheel to zoom in/out&#39;;}"
 onclick="if(!this.resized)
-{return
-true;}
+{return true;}
 else
 {window.open(this.src);}"
 alt=""
 src="../../www.dfcmjg.com/jc/wz/9.jpg"
 onload="if(this.width>screen.width*0.7)
-{this.resized=true;
-this.width=screen.width*0.7;
-this.alt=&#39;Click
-here
-to
-open
-new
-window\nCTRL+Mouse
-wheel
-to
-zoom
-in/out&#39;;}"
+{this.resized=true; this.width=screen.width*0.7; this.alt=&#39;Click here to open new window\nCTRL+Mouse wheel to zoom in/out&#39;;}"
 border=0>
 ¿´Ò»ÏÂ×îºóµÄÐ§¹û:
 /UploadTeach/200801/2008012203825281.swf
@@ -30549,8 +30074,7 @@ showKeys(strThisKeys:String)
 var
 mcKeys:MovieClip
 =
-root.createEmptyMovieClip("mcKeys",
-root.getNextHighestDepth());
+root.createEmptyMovieClip("mcKeys", root.getNextHighestDepth());
 mcKeys._x
 =
 (numFlashW-strThisKeys.length*(numMcKeyWH+numKeysJJ))/2;
@@ -30567,27 +30091,14 @@ down
 270
 left
 for
-(var
-i:Number
-=
-0;
-istrThisKeys.length;
-i++)
+(var i:Number = 0; istrThisKeys.length; i++)
 {
 var
 numTemRotation
 =
-Number(strThisKeys.substr(i,
-1))*90;
+Number(strThisKeys.substr(i, 1))*90;
 with
-(root.mcKeys.attachMovie("showkey",
-"mcKey"+String(i),
-i,
-{_width:numMcKeyWH,
-_height:numMcKeyWH,
-_x:i*(numMcKeyWH+numKeysJJ),
-_y:0,
-_rotation:numTemRotation}))
+(root.mcKeys.attachMovie("showkey", "mcKey"+String(i), i, {_width:numMcKeyWH, _height:numMcKeyWH, _x:i*(numMcKeyWH+numKeysJJ), _y:0, _rotation:numTemRotation}))
 {
 mcUp.gotoAndStop(1);
 //mcBak.stop();
@@ -30617,9 +30128,7 @@ txtTalkYou.text=strA+"_"+numNowKeys+""+numNowKeyOneI
 var
 arrKeysList:Array
 =
-["0123",
-"1231",
-"1233","332211","11103","00321"];
+["0123", "1231", "1233","332211","11103","00321"];
 var
 numNowKeys:Number
 =
@@ -30635,8 +30144,7 @@ function
 getDownKey():Number
 {
 return
-Number(arrKeysList[numNowKeys].substr(numNowKeyOneI,
-1));
+Number(arrKeysList[numNowKeys].substr(numNowKeyOneI, 1));
 }
 //
 function
@@ -30673,19 +30181,10 @@ isTemAllIsDownKeysNow:Boolean
 =
 false;
 for
-(var
-prop
-in
-root.mcKeys)
+(var prop in root.mcKeys)
 {
 if
-(root.mcKeys[prop].mcUp._currentframe
-==
-2
-&amp;&amp;
-root.mcKeys[prop].mcBak._currentframe
-==
-2)
+(root.mcKeys[prop].mcUp._currentframe == 2 &amp;&amp; root.mcKeys[prop].mcBak._currentframe == 2)
 {
 isTemAllIsDownKeysNow
 =
@@ -30724,9 +30223,7 @@ Key.LEFT
 :
 //trace("left");
 if
-(getDownKey()
-==
-3)
+(getDownKey() == 3)
 {
 ifKeyOk();
 }
@@ -30736,9 +30233,7 @@ Key.UP
 :
 //trace("UP");
 if
-(getDownKey()
-==
-0)
+(getDownKey() == 0)
 {
 ifKeyOk();
 }
@@ -30748,9 +30243,7 @@ Key.RIGHT
 :
 //trace("RIGHT");
 if
-(getDownKey()
-==
-1)
+(getDownKey() == 1)
 {
 ifKeyOk();
 }
@@ -30760,9 +30253,7 @@ Key.DOWN
 :
 //trace("DOWN");
 if
-(getDownKey()
-==
-2)
+(getDownKey() == 2)
 {
 ifKeyOk();
 }
@@ -30793,182 +30284,62 @@ Flash
 ºÃÁË£¬ÏÖÔÚ¿ªÊ¼£¬È«Ð´ÔÚÍ¼Æ¬ÉÏÁË¡£ÓÉÓÚ»á×Ô¶¯ËõÍ¼£¬ËùÒÔ´óÍ¼±»ËõÐ¡µÄµã¿ª¿´¾ÍÊÇÁË¡£
 ¾ßÌåÓÐÐ©²½ÖèÊÇ¿ÉÒÔËæÊ±Ê¹ÓÃµÄ£¬²¢²»ÊÇËÀ°åºÍ½Ì³ÌÉÏÒ»ÖÂ¡£±ÈÈç¶ÔÆëµÈ¡£
 screen.width*0.7)
-{this.resized=true;
-this.width=screen.width*0.7;
-this.style.cursor=&#39;hand&#39;;
-this.alt=&#39;Click
-here
-to
-open
-new
-window\nCTRL+Mouse
-wheel
-to
-zoom
-in/out&#39;;}"
+{this.resized=true; this.width=screen.width*0.7; this.style.cursor=&#39;hand&#39;; this.alt=&#39;Click here to open new window\nCTRL+Mouse wheel to zoom in/out&#39;;}"
 onclick="if(!this.resized)
-{return
-true;}
+{return true;}
 else
 {window.open(this.src);}"
 alt=""
 src="../../bbs.rub2b.com/attachments/month_0712/20071206_bcc55c13171e029cd1bdLeFGGaegbykl.jpg"
 onload="if(this.width>screen.width*0.7)
-{this.resized=true;
-this.width=screen.width*0.7;
-this.alt=&#39;Click
-here
-to
-open
-new
-window\nCTRL+Mouse
-wheel
-to
-zoom
-in/out&#39;;}"
+{this.resized=true; this.width=screen.width*0.7; this.alt=&#39;Click here to open new window\nCTRL+Mouse wheel to zoom in/out&#39;;}"
 border=0>
 screen.width*0.7)
-{this.resized=true;
-this.width=screen.width*0.7;
-this.style.cursor=&#39;hand&#39;;
-this.alt=&#39;Click
-here
-to
-open
-new
-window\nCTRL+Mouse
-wheel
-to
-zoom
-in/out&#39;;}"
+{this.resized=true; this.width=screen.width*0.7; this.style.cursor=&#39;hand&#39;; this.alt=&#39;Click here to open new window\nCTRL+Mouse wheel to zoom in/out&#39;;}"
 onclick="if(!this.resized)
-{return
-true;}
+{return true;}
 else
 {window.open(this.src);}"
 alt=""
 src="../../bbs.rub2b.com/attachments/month_0712/20071206_b06aaf17e754f9413323OBB7z8loEJfT.jpg"
 onload="if(this.width>screen.width*0.7)
-{this.resized=true;
-this.width=screen.width*0.7;
-this.alt=&#39;Click
-here
-to
-open
-new
-window\nCTRL+Mouse
-wheel
-to
-zoom
-in/out&#39;;}"
+{this.resized=true; this.width=screen.width*0.7; this.alt=&#39;Click here to open new window\nCTRL+Mouse wheel to zoom in/out&#39;;}"
 border=0>
 screen.width*0.7)
-{this.resized=true;
-this.width=screen.width*0.7;
-this.style.cursor=&#39;hand&#39;;
-this.alt=&#39;Click
-here
-to
-open
-new
-window\nCTRL+Mouse
-wheel
-to
-zoom
-in/out&#39;;}"
+{this.resized=true; this.width=screen.width*0.7; this.style.cursor=&#39;hand&#39;; this.alt=&#39;Click here to open new window\nCTRL+Mouse wheel to zoom in/out&#39;;}"
 onclick="if(!this.resized)
-{return
-true;}
+{return true;}
 else
 {window.open(this.src);}"
 alt=""
 src="../../bbs.rub2b.com/attachments/month_0712/20071206_ecdeed4c80ae2fabb6e9IO0ZO1X3iwbl.jpg"
 onload="if(this.width>screen.width*0.7)
-{this.resized=true;
-this.width=screen.width*0.7;
-this.alt=&#39;Click
-here
-to
-open
-new
-window\nCTRL+Mouse
-wheel
-to
-zoom
-in/out&#39;;}"
+{this.resized=true; this.width=screen.width*0.7; this.alt=&#39;Click here to open new window\nCTRL+Mouse wheel to zoom in/out&#39;;}"
 border=0>
 ÏÖÔÚ¾Í²½Èë²¹¼ä¶¯»­ÁË¡£
 ÒòÎªºÜ¶à½ÌflashµÄ¶¼ÊÇÓÃµÄ×îÍµÀÁµÄ·½·¨£¬ËùÒÔºÜ¶àÈË¶¼³öÏÖÁËÎÞÓÃµÄ´óÁ¿µÄ²¹¼äÔª¼þ£¬ÓÖÂÒÓÖ²»ºÃ¹ÜÀí¡£Òª×¢Òâ£¬Ò»¶¨Òª¸øÔª¼þÆðºÃÃû×Ö£¬·½±ã¹ÜÀí£¬ÕâÑù£¬ÒÔºó×öµ½¼¸°Ù¸öÔª¼þµÄÊ±ºò£¬ÄÜºÜÈÝÒ×ÕÒµ½£¬¶øÇÒÒ»¶¨Òª×¢ÒâÊ¹ÓÃ·ÖÀàÎÄ¼þ¼ÐÀ´¹ÜÀíÏàÍ¬Ôª¼þ¡£Í¼²ãÒ²ÊÇÈç´Ë¡£
 ³ö×Ô£ºhttp://bbs.rub2b.com
 screen.width*0.7)
-{this.resized=true;
-this.width=screen.width*0.7;
-this.style.cursor=&#39;hand&#39;;
-this.alt=&#39;Click
-here
-to
-open
-new
-window\nCTRL+Mouse
-wheel
-to
-zoom
-in/out&#39;;}"
+{this.resized=true; this.width=screen.width*0.7; this.style.cursor=&#39;hand&#39;; this.alt=&#39;Click here to open new window\nCTRL+Mouse wheel to zoom in/out&#39;;}"
 onclick="if(!this.resized)
-{return
-true;}
+{return true;}
 else
 {window.open(this.src);}"
 alt=""
 src="../../bbs.rub2b.com/attachments/month_0712/20071207_00b532fcb85b9948a127DF674FNoQp8i.jpg"
 onload="if(this.width>screen.width*0.7)
-{this.resized=true;
-this.width=screen.width*0.7;
-this.alt=&#39;Click
-here
-to
-open
-new
-window\nCTRL+Mouse
-wheel
-to
-zoom
-in/out&#39;;}"
+{this.resized=true; this.width=screen.width*0.7; this.alt=&#39;Click here to open new window\nCTRL+Mouse wheel to zoom in/out&#39;;}"
 border=0>
 screen.width*0.7)
-{this.resized=true;
-this.width=screen.width*0.7;
-this.style.cursor=&#39;hand&#39;;
-this.alt=&#39;Click
-here
-to
-open
-new
-window\nCTRL+Mouse
-wheel
-to
-zoom
-in/out&#39;;}"
+{this.resized=true; this.width=screen.width*0.7; this.style.cursor=&#39;hand&#39;; this.alt=&#39;Click here to open new window\nCTRL+Mouse wheel to zoom in/out&#39;;}"
 onclick="if(!this.resized)
-{return
-true;}
+{return true;}
 else
 {window.open(this.src);}"
 alt=""
 src="../../bbs.rub2b.com/attachments/month_0712/20071207_1948e37289869c2e94912rfeVI6TcK1A.jpg"
 onload="if(this.width>screen.width*0.7)
-{this.resized=true;
-this.width=screen.width*0.7;
-this.alt=&#39;Click
-here
-to
-open
-new
-window\nCTRL+Mouse
-wheel
-to
-zoom
-in/out&#39;;}"
+{this.resized=true; this.width=screen.width*0.7; this.alt=&#39;Click here to open new window\nCTRL+Mouse wheel to zoom in/out&#39;;}"
 border=0>
 ÏÂ½Ú¿Î¿ªÊ¼Ê¹ÓÃ¸Ö±Ê¹¤¾ß¡£
 ÔðÈÎ±à¼­:sw
@@ -31040,23 +30411,13 @@ var
 so
 =
 new
-SWFObject("swftest.swf",
-"index",
-"100%",
-"100%",
-"9",
-"#ffffff");so.write
+SWFObject("swftest.swf", "index", "100%", "100%", "9", "#ffffff");so.write
 ("flashcontent");/script/div
 /body
 /html
 ×¢Òâ¼¸µãµÄ¾ÍÊÇ£º1.ÓÃcss:bodyÀ´¶¨ÒåÒ³ÃæµÄÉÏÏÂ×óÓÒµÄ±ß¾àÎª0¡£2.¾ÍÊÇÒª²åÈëµÄflashµØÖ·divµÄidÃû³ÆÒªÓë£ºso.write("flashcontent");Ò»ÖÂ¡£
 Æä´Î»¹Òª×¢ÒâÒ»µã¶ùµÄ¾ÍÊÇ±³¾°É«µÄÉèÖÃ£ºnew
-SWFObject("swftest.swf",
-"index",
-"100%",
-"100%",
-"9",
-"#ffffff")×îºóÒ»¸ö²ÎÊý£¬ÒªÓëflash
+SWFObject("swftest.swf", "index", "100%", "100%", "9", "#ffffff")×îºóÒ»¸ö²ÎÊý£¬ÒªÓëflash
 ±¾ÉíµÄ±³¾°É«ÏàÍ¬£¬²»È»ºó»á³öÏÖ²»ÏëÒªµÄÐ§¹û
 2.ÈÃflashÖÐµÄÔª¼þÊ¼ÖÕ´¦ÓÚÏà¶ÔÎ»ÖÃ
 flash´úÂëÎª£º
@@ -31070,7 +30431,7 @@ Stage.align="LT";
 //
 varcasSwfXY:casSwf=newcasSwf();
 //²»Í£¸ü¸Ä¡£
-_root.onEnterFrame=function(){
+_root.onEnterFrame=function(){ 
 ////ÉèÖÃ×ó
 casSwfXY.setL(Stage.width,Stage.height,mcL);
 //ÉèÖÃÉÏ
@@ -31084,29 +30445,29 @@ casSwfXY.setD(Stage.width,Stage.height,mcD);
 };
 »ñµÃÓ°Æ¬µÄÏà¶ÔÎ»ÖÃµÄÀà£º
 ×¢Òâ£ºÎÄ¼þÒª·ÅÔÚmygamemylove_comÕâ¸öÎÄ¼þ¼ÐÄÚ£¬Ãû×ÓÎª£ºcasSwf.as
-classmygamemylove_com.casSwf{
+classmygamemylove_com.casSwf{ 
 //ÉèÖÃ×ó
-functionsetL(numW:Number,numH:Number,_mc:MovieClip){
+functionsetL(numW:Number,numH:Number,_mc:MovieClip){ 
 _mc._x=0;
 _mc._y=numH/2-_mc._height/2;
 }
 //ÉèÖÃÉÏ
-functionsetT(numW:Number,numH:Number,_mc:MovieClip){
+functionsetT(numW:Number,numH:Number,_mc:MovieClip){ 
 _mc._y=0;
 _mc._x=numW/2-_mc._width/2;
 }
 //ÉèÖÃÓÒ
-functionsetR(numW:Number,numH:Number,_mc:MovieClip){
+functionsetR(numW:Number,numH:Number,_mc:MovieClip){ 
 _mc._x=numW-_mc._width;
 _mc._y=(numH-_mc._height)/2;
 }
 //ÉèÖÃÏÂ
-functionsetD(numW:Number,numH:Number,_mc:MovieClip){
+functionsetD(numW:Number,numH:Number,_mc:MovieClip){ 
 _mc._x=(numW-_mc._width)/2;
 _mc._y=numH-_mc._height;
 }
 //ÉèÖÃÖÐ
-functionsetC(numW:Number,numH:Number,_mc:MovieClip){
+functionsetC(numW:Number,numH:Number,_mc:MovieClip){ 
 _mc._x=(numW-_mc._width)/2;
 _mc._y=(numH-_mc._height)/2;
 }
@@ -31129,10 +30490,7 @@ Flash8.net
 ¸ñ¶·¶¯»­µÄ¸ÅÄîÉè¼Æ
 ×÷Õß£ºjustsoloÀàÐÍ:ÉÁ°ÉBBSÀ´Ô´:ÉÁ°É
 /UploadTeach/200801/20080122032021520.swf
-Õâ¿ÎµÄ½Ì³ÌÎÒ»á½áºÏ"¹í¶·BOS"(the
-Battle
-of
-Swords)
+Õâ¿ÎµÄ½Ì³ÌÎÒ»á½áºÏ"¹í¶·BOS"(the Battle of Swords)
 À´×÷Ò»¸ö·¶ÀýµÄËµÃ÷,
 Í¬Ê±×÷ÎªÎÒµÚÒ»´ÎµÄ¸ÅÄîÉè¼Æ.ÔÚÎÒÒÔÍùµÄ¶¯»­ÖÐ,
 ²¢²»´æÔÚÕâÐ©Ïë·¨,
@@ -31156,9 +30514,7 @@ friend¼äµÄµÚ¶þ´Î½ÏÁ¿,
 ¾¡¹ÜÁ½ÈËÊÇºÃÓÑ,
 µ«Ã»ÓÐÈÎºÎÊÖÏÂÁôÇéµÄÀíÓÉ,
 ÎªÁËÒ»³¡ºäºäÁÒÁÒµÄÕ½¶·...
-(ÒÔÏÂÄÚÈÝÎªBOSµÄ¸ÅÄîÉè¼ÆÄÚÈÝ,
-Çë×Ô¼ºÀí½âÆäÖÐµÄÖØµã.
-)
+(ÒÔÏÂÄÚÈÝÎªBOSµÄ¸ÅÄîÉè¼ÆÄÚÈÝ, Çë×Ô¼ºÀí½âÆäÖÐµÄÖØµã. )
 "ÊÀ½çÌåÏµ"
 ¶¨Òå
 1:
@@ -31170,74 +30526,26 @@ friend¼äµÄµÚ¶þ´Î½ÏÁ¿,
 µ«µ±ÔÚ¿ÕÖÐ²úÉú½Ï´óµÄ·´×÷ÓÃÊ±,
 ¿É²úÉú¶þ¶ÎÌÚ¿Õ.
 screen.width*0.7)
-{this.resized=true;
-this.width=screen.width*0.7;
-this.style.cursor=&#39;hand&#39;;
-this.alt=&#39;Click
-here
-to
-open
-new
-window\nCTRL+Mouse
-wheel
-to
-zoom
-in/out&#39;;}"
+{this.resized=true; this.width=screen.width*0.7; this.style.cursor=&#39;hand&#39;; this.alt=&#39;Click here to open new window\nCTRL+Mouse wheel to zoom in/out&#39;;}"
 onclick="if(!this.resized)
-{return
-true;}
+{return true;}
 else
 {window.open(this.src);}"
 alt=""
 src="../../imo8.cn/attachments/All_Files/stick/1.jpg"
 onload="if(this.width>screen.width*0.7)
-{this.resized=true;
-this.width=screen.width*0.7;
-this.alt=&#39;Click
-here
-to
-open
-new
-window\nCTRL+Mouse
-wheel
-to
-zoom
-in/out&#39;;}"
+{this.resized=true; this.width=screen.width*0.7; this.alt=&#39;Click here to open new window\nCTRL+Mouse wheel to zoom in/out&#39;;}"
 border=0>
 screen.width*0.7)
-{this.resized=true;
-this.width=screen.width*0.7;
-this.style.cursor=&#39;hand&#39;;
-this.alt=&#39;Click
-here
-to
-open
-new
-window\nCTRL+Mouse
-wheel
-to
-zoom
-in/out&#39;;}"
+{this.resized=true; this.width=screen.width*0.7; this.style.cursor=&#39;hand&#39;; this.alt=&#39;Click here to open new window\nCTRL+Mouse wheel to zoom in/out&#39;;}"
 onclick="if(!this.resized)
-{return
-true;}
+{return true;}
 else
 {window.open(this.src);}"
 alt=""
 src="../../imo8.cn/attachments/All_Files/stick/2.jpg"
 onload="if(this.width>screen.width*0.7)
-{this.resized=true;
-this.width=screen.width*0.7;
-this.alt=&#39;Click
-here
-to
-open
-new
-window\nCTRL+Mouse
-wheel
-to
-zoom
-in/out&#39;;}"
+{this.resized=true; this.width=screen.width*0.7; this.alt=&#39;Click here to open new window\nCTRL+Mouse wheel to zoom in/out&#39;;}"
 border=0>
 2:
 ÖØÁ¿
@@ -31248,74 +30556,26 @@ border=0>
 ÄÇ¾ÍÊÇÒ»¸öÈ±ÏÝÁË,
 ÁíÍâ»¹ÓÐÆäËûÎïÆ·µÄÖØÁ¿±í´ï.
 screen.width*0.7)
-{this.resized=true;
-this.width=screen.width*0.7;
-this.style.cursor=&#39;hand&#39;;
-this.alt=&#39;Click
-here
-to
-open
-new
-window\nCTRL+Mouse
-wheel
-to
-zoom
-in/out&#39;;}"
+{this.resized=true; this.width=screen.width*0.7; this.style.cursor=&#39;hand&#39;; this.alt=&#39;Click here to open new window\nCTRL+Mouse wheel to zoom in/out&#39;;}"
 onclick="if(!this.resized)
-{return
-true;}
+{return true;}
 else
 {window.open(this.src);}"
 alt=""
 src="../../imo8.cn/attachments/All_Files/stick/3.jpg"
 onload="if(this.width>screen.width*0.7)
-{this.resized=true;
-this.width=screen.width*0.7;
-this.alt=&#39;Click
-here
-to
-open
-new
-window\nCTRL+Mouse
-wheel
-to
-zoom
-in/out&#39;;}"
+{this.resized=true; this.width=screen.width*0.7; this.alt=&#39;Click here to open new window\nCTRL+Mouse wheel to zoom in/out&#39;;}"
 border=0>
 screen.width*0.7)
-{this.resized=true;
-this.width=screen.width*0.7;
-this.style.cursor=&#39;hand&#39;;
-this.alt=&#39;Click
-here
-to
-open
-new
-window\nCTRL+Mouse
-wheel
-to
-zoom
-in/out&#39;;}"
+{this.resized=true; this.width=screen.width*0.7; this.style.cursor=&#39;hand&#39;; this.alt=&#39;Click here to open new window\nCTRL+Mouse wheel to zoom in/out&#39;;}"
 onclick="if(!this.resized)
-{return
-true;}
+{return true;}
 else
 {window.open(this.src);}"
 alt=""
 src="../../imo8.cn/attachments/All_Files/stick/4.jpg"
 onload="if(this.width>screen.width*0.7)
-{this.resized=true;
-this.width=screen.width*0.7;
-this.alt=&#39;Click
-here
-to
-open
-new
-window\nCTRL+Mouse
-wheel
-to
-zoom
-in/out&#39;;}"
+{this.resized=true; this.width=screen.width*0.7; this.alt=&#39;Click here to open new window\nCTRL+Mouse wheel to zoom in/out&#39;;}"
 border=0>
 3:
 »·¾³
@@ -31339,39 +30599,15 @@ BOSÖÐÊÇ·ñ»¹»áÓÐÕâÑùµÄÏÖÏóÒª¿´»­ÃæµÄÐ§¹û.
 ±ðÈËÒ²²»Ò»¶¨ÖªµÀ,
 Âß¼­ÐÔÒª±í´ïµÄÇåÎú.
 screen.width*0.7)
-{this.resized=true;
-this.width=screen.width*0.7;
-this.style.cursor=&#39;hand&#39;;
-this.alt=&#39;Click
-here
-to
-open
-new
-window\nCTRL+Mouse
-wheel
-to
-zoom
-in/out&#39;;}"
+{this.resized=true; this.width=screen.width*0.7; this.style.cursor=&#39;hand&#39;; this.alt=&#39;Click here to open new window\nCTRL+Mouse wheel to zoom in/out&#39;;}"
 onclick="if(!this.resized)
-{return
-true;}
+{return true;}
 else
 {window.open(this.src);}"
 alt=""
 src="../../imo8.cn/attachments/All_Files/stick/5.jpg"
 onload="if(this.width>screen.width*0.7)
-{this.resized=true;
-this.width=screen.width*0.7;
-this.alt=&#39;Click
-here
-to
-open
-new
-window\nCTRL+Mouse
-wheel
-to
-zoom
-in/out&#39;;}"
+{this.resized=true; this.width=screen.width*0.7; this.alt=&#39;Click here to open new window\nCTRL+Mouse wheel to zoom in/out&#39;;}"
 border=0>
 ¹âÏß:
 ËäÈ»ÊÇÍíÉÏÌì¿Õ¹Ò×Å¸öÔÂÁÁ,
@@ -31385,39 +30621,15 @@ border=0>
 ²¢ÇÒºÍÖÜÎ§»·¾³ÓÐÒ»¶¨µÄÓ³ÕÕ,
 ¼ÓÇ¿ÌØÐ§µÄÊµ¸Ð.
 screen.width*0.7)
-{this.resized=true;
-this.width=screen.width*0.7;
-this.style.cursor=&#39;hand&#39;;
-this.alt=&#39;Click
-here
-to
-open
-new
-window\nCTRL+Mouse
-wheel
-to
-zoom
-in/out&#39;;}"
+{this.resized=true; this.width=screen.width*0.7; this.style.cursor=&#39;hand&#39;; this.alt=&#39;Click here to open new window\nCTRL+Mouse wheel to zoom in/out&#39;;}"
 onclick="if(!this.resized)
-{return
-true;}
+{return true;}
 else
 {window.open(this.src);}"
 alt=""
 src="../../imo8.cn/attachments/All_Files/stick/6.jpg"
 onload="if(this.width>screen.width*0.7)
-{this.resized=true;
-this.width=screen.width*0.7;
-this.alt=&#39;Click
-here
-to
-open
-new
-window\nCTRL+Mouse
-wheel
-to
-zoom
-in/out&#39;;}"
+{this.resized=true; this.width=screen.width*0.7; this.alt=&#39;Click here to open new window\nCTRL+Mouse wheel to zoom in/out&#39;;}"
 border=0>
 Ê÷:
 Õâ´ÎµÄ¶¯×÷Éè¼Æ¼ÓÇ¿ÁËÓëÖÜÎ§»·¾³µÄ»¥¶¯,
@@ -31428,39 +30640,15 @@ border=0>
 ÐÂµÄÌôÕ½,
 Î¨ÓÐÕâÑù²ÅÄÜ»ñµÃ¸ü´óµÄÍ»ÆÆ!
 screen.width*0.7)
-{this.resized=true;
-this.width=screen.width*0.7;
-this.style.cursor=&#39;hand&#39;;
-this.alt=&#39;Click
-here
-to
-open
-new
-window\nCTRL+Mouse
-wheel
-to
-zoom
-in/out&#39;;}"
+{this.resized=true; this.width=screen.width*0.7; this.style.cursor=&#39;hand&#39;; this.alt=&#39;Click here to open new window\nCTRL+Mouse wheel to zoom in/out&#39;;}"
 onclick="if(!this.resized)
-{return
-true;}
+{return true;}
 else
 {window.open(this.src);}"
 alt=""
 src="../../imo8.cn/attachments/All_Files/stick/7.jpg"
 onload="if(this.width>screen.width*0.7)
-{this.resized=true;
-this.width=screen.width*0.7;
-this.alt=&#39;Click
-here
-to
-open
-new
-window\nCTRL+Mouse
-wheel
-to
-zoom
-in/out&#39;;}"
+{this.resized=true; this.width=screen.width*0.7; this.alt=&#39;Click here to open new window\nCTRL+Mouse wheel to zoom in/out&#39;;}"
 border=0>
 "ÈËÎï"
 Éè¼Æ
@@ -31472,39 +30660,15 @@ border=0>
 Ò»¸öÏà¶Ô±©Ôê.
 portraiture?
 screen.width*0.7)
-{this.resized=true;
-this.width=screen.width*0.7;
-this.style.cursor=&#39;hand&#39;;
-this.alt=&#39;Click
-here
-to
-open
-new
-window\nCTRL+Mouse
-wheel
-to
-zoom
-in/out&#39;;}"
+{this.resized=true; this.width=screen.width*0.7; this.style.cursor=&#39;hand&#39;; this.alt=&#39;Click here to open new window\nCTRL+Mouse wheel to zoom in/out&#39;;}"
 onclick="if(!this.resized)
-{return
-true;}
+{return true;}
 else
 {window.open(this.src);}"
 alt=""
 src="../../imo8.cn/attachments/All_Files/stick/8.jpg"
 onload="if(this.width>screen.width*0.7)
-{this.resized=true;
-this.width=screen.width*0.7;
-this.alt=&#39;Click
-here
-to
-open
-new
-window\nCTRL+Mouse
-wheel
-to
-zoom
-in/out&#39;;}"
+{this.resized=true; this.width=screen.width*0.7; this.alt=&#39;Click here to open new window\nCTRL+Mouse wheel to zoom in/out&#39;;}"
 border=0>
 2:
 ÎäÆ÷
@@ -31516,39 +30680,15 @@ border=0>
 ÎªÁËÊ¹¶¯×÷Éè¼Æ²»¹ýÓÚµ¥Ò»,
 ËùÒÔ¶ÔÎäÆ÷×÷Ò»¶¨µÄµ÷Õû.
 screen.width*0.7)
-{this.resized=true;
-this.width=screen.width*0.7;
-this.style.cursor=&#39;hand&#39;;
-this.alt=&#39;Click
-here
-to
-open
-new
-window\nCTRL+Mouse
-wheel
-to
-zoom
-in/out&#39;;}"
+{this.resized=true; this.width=screen.width*0.7; this.style.cursor=&#39;hand&#39;; this.alt=&#39;Click here to open new window\nCTRL+Mouse wheel to zoom in/out&#39;;}"
 onclick="if(!this.resized)
-{return
-true;}
+{return true;}
 else
 {window.open(this.src);}"
 alt=""
 src="../../imo8.cn/attachments/All_Files/stick/9.jpg"
 onload="if(this.width>screen.width*0.7)
-{this.resized=true;
-this.width=screen.width*0.7;
-this.alt=&#39;Click
-here
-to
-open
-new
-window\nCTRL+Mouse
-wheel
-to
-zoom
-in/out&#39;;}"
+{this.resized=true; this.width=screen.width*0.7; this.alt=&#39;Click here to open new window\nCTRL+Mouse wheel to zoom in/out&#39;;}"
 border=0>
 3:
 ÄÜÁ¦
@@ -31562,39 +30702,15 @@ border=0>
 ¾ÍÃ»ÓÐÈÎºÎ¸öÐÔ¿ÉÑÔÁË,
 µ«ÕâÍ¬Ê±ÊÇÒ»¸öÄÑÌâ.
 screen.width*0.7)
-{this.resized=true;
-this.width=screen.width*0.7;
-this.style.cursor=&#39;hand&#39;;
-this.alt=&#39;Click
-here
-to
-open
-new
-window\nCTRL+Mouse
-wheel
-to
-zoom
-in/out&#39;;}"
+{this.resized=true; this.width=screen.width*0.7; this.style.cursor=&#39;hand&#39;; this.alt=&#39;Click here to open new window\nCTRL+Mouse wheel to zoom in/out&#39;;}"
 onclick="if(!this.resized)
-{return
-true;}
+{return true;}
 else
 {window.open(this.src);}"
 alt=""
 src="../../imo8.cn/attachments/All_Files/stick/10.jpg"
 onload="if(this.width>screen.width*0.7)
-{this.resized=true;
-this.width=screen.width*0.7;
-this.alt=&#39;Click
-here
-to
-open
-new
-window\nCTRL+Mouse
-wheel
-to
-zoom
-in/out&#39;;}"
+{this.resized=true; this.width=screen.width*0.7; this.alt=&#39;Click here to open new window\nCTRL+Mouse wheel to zoom in/out&#39;;}"
 border=0>
 [¶¯×÷Éè¼Æ]
 :
@@ -31618,39 +30734,15 @@ border=0>
 ÕâÐèÒª´óÁ¿µÄÊµ¼ù²ÅÄÜÈ¥ÉîÈëÕâ¸öÎÊÌâ,
 ËùÒÔÏÈ±£Áô.
 screen.width*0.7)
-{this.resized=true;
-this.width=screen.width*0.7;
-this.style.cursor=&#39;hand&#39;;
-this.alt=&#39;Click
-here
-to
-open
-new
-window\nCTRL+Mouse
-wheel
-to
-zoom
-in/out&#39;;}"
+{this.resized=true; this.width=screen.width*0.7; this.style.cursor=&#39;hand&#39;; this.alt=&#39;Click here to open new window\nCTRL+Mouse wheel to zoom in/out&#39;;}"
 onclick="if(!this.resized)
-{return
-true;}
+{return true;}
 else
 {window.open(this.src);}"
 alt=""
 src="../../imo8.cn/attachments/All_Files/stick/11.jpg"
 onload="if(this.width>screen.width*0.7)
-{this.resized=true;
-this.width=screen.width*0.7;
-this.alt=&#39;Click
-here
-to
-open
-new
-window\nCTRL+Mouse
-wheel
-to
-zoom
-in/out&#39;;}"
+{this.resized=true; this.width=screen.width*0.7; this.alt=&#39;Click here to open new window\nCTRL+Mouse wheel to zoom in/out&#39;;}"
 border=0>
 2"Éè¼ÆÓÐÈç²Ý¸å,
 Äã²¢·ÇÒªÔÚÒ»¿ªÊ¼¾ÍÍêÈ«È·¶¨Ò»Æª¶¯»­µÄ¶¯×÷,
@@ -31661,39 +30753,15 @@ border=0>
 ¸üÓ¦¸ÃËµÏñSpeedPaintingÒ»Ñù,
 Èç¹ûÄãÓÐËùÁË½âµÄ»°...
 screen.width*0.7)
-{this.resized=true;
-this.width=screen.width*0.7;
-this.style.cursor=&#39;hand&#39;;
-this.alt=&#39;Click
-here
-to
-open
-new
-window\nCTRL+Mouse
-wheel
-to
-zoom
-in/out&#39;;}"
+{this.resized=true; this.width=screen.width*0.7; this.style.cursor=&#39;hand&#39;; this.alt=&#39;Click here to open new window\nCTRL+Mouse wheel to zoom in/out&#39;;}"
 onclick="if(!this.resized)
-{return
-true;}
+{return true;}
 else
 {window.open(this.src);}"
 alt=""
 src="../../imo8.cn/attachments/All_Files/stick/12.jpg"
 onload="if(this.width>screen.width*0.7)
-{this.resized=true;
-this.width=screen.width*0.7;
-this.alt=&#39;Click
-here
-to
-open
-new
-window\nCTRL+Mouse
-wheel
-to
-zoom
-in/out&#39;;}"
+{this.resized=true; this.width=screen.width*0.7; this.alt=&#39;Click here to open new window\nCTRL+Mouse wheel to zoom in/out&#39;;}"
 border=0>
 3"Ö»ÐèÒª±í´ï¹Ø¼ü¶¯×÷,
 ÔÚÓ¡ÏóÖÐÄã×ÔÈ»ÄÜ±£ÁôÕâ¸ö¶¯×÷µÄÇ°ºó¹ØÏµ,¾¡¿ÉÄÜµÄÔÚ¿ªÊ¼½×¶Î·¢»Ó´´Òâ,
@@ -31703,8 +30771,7 @@ border=0>
 ----
 ÓÎÏ·,
 µçÓ°,
-ÆäËû¶¯×÷Æ¬(ÌåÓý,
-¾º¼¼µÈ)
+ÆäËû¶¯×÷Æ¬(ÌåÓý, ¾º¼¼µÈ)
 ,
 ÎÒÏàÐÅÈÎºÎÒ»¸öÈËÔÚÍê³É×Ô¼ºµÄ×÷Æ·ºó¶¼²»ÏëÌýµ½Ê²Ã´³­Ï®Ö®ÀàµÄ,
 ×ÝÊ¹ËûÖªµÀ×Ô¼ºÊÇ½è¼øÄ£·ÂµÄ,
@@ -31725,80 +30792,31 @@ border=0>
 µ«ÓÐµÄÈË¼¼ÊõËäÈ»²»¸ß,
 µ«×÷Æ·µÄ´´ÒâÈ´ÈÃÈËÓ¡ÏóÉî¿Ì.
 screen.width*0.7)
-{this.resized=true;
-this.width=screen.width*0.7;
-this.style.cursor=&#39;hand&#39;;
-this.alt=&#39;Click
-here
-to
-open
-new
-window\nCTRL+Mouse
-wheel
-to
-zoom
-in/out&#39;;}"
+{this.resized=true; this.width=screen.width*0.7; this.style.cursor=&#39;hand&#39;; this.alt=&#39;Click here to open new window\nCTRL+Mouse wheel to zoom in/out&#39;;}"
 onclick="if(!this.resized)
-{return
-true;}
+{return true;}
 else
 {window.open(this.src);}"
 alt=""
 src="../../imo8.cn/attachments/All_Files/stick/13.jpg"
 onload="if(this.width>screen.width*0.7)
-{this.resized=true;
-this.width=screen.width*0.7;
-this.alt=&#39;Click
-here
-to
-open
-new
-window\nCTRL+Mouse
-wheel
-to
-zoom
-in/out&#39;;}"
+{this.resized=true; this.width=screen.width*0.7; this.alt=&#39;Click here to open new window\nCTRL+Mouse wheel to zoom in/out&#39;;}"
 border=0>
 ´´ÒâÊÇÃ¿¸öÁìÓòËù±Ø±¸µÄ,
 È»¶øÈ´ÊÇÐí¶àÈËËùÈ±·¦µÄ,
 include
 me.
-ËÆºõÊÜ»·¾³µÄÓ°ÏìºÜ´ó.(ÌâÍâ»°
-)
+ËÆºõÊÜ»·¾³µÄÓ°ÏìºÜ´ó.(ÌâÍâ»° )
 screen.width*0.7)
-{this.resized=true;
-this.width=screen.width*0.7;
-this.style.cursor=&#39;hand&#39;;
-this.alt=&#39;Click
-here
-to
-open
-new
-window\nCTRL+Mouse
-wheel
-to
-zoom
-in/out&#39;;}"
+{this.resized=true; this.width=screen.width*0.7; this.style.cursor=&#39;hand&#39;; this.alt=&#39;Click here to open new window\nCTRL+Mouse wheel to zoom in/out&#39;;}"
 onclick="if(!this.resized)
-{return
-true;}
+{return true;}
 else
 {window.open(this.src);}"
 alt=""
 src="../../imo8.cn/attachments/All_Files/stick/14.jpg"
 onload="if(this.width>screen.width*0.7)
-{this.resized=true;
-this.width=screen.width*0.7;
-this.alt=&#39;Click
-here
-to
-open
-new
-window\nCTRL+Mouse
-wheel
-to
-zoom
-in/out&#39;;}"
+{this.resized=true; this.width=screen.width*0.7; this.alt=&#39;Click here to open new window\nCTRL+Mouse wheel to zoom in/out&#39;;}"
 border=0>
 Ñ§×Å´ÓÓÎÏ·,
 µçÓ°,
@@ -31815,39 +30833,15 @@ border=0>
 ÕâÌõÂ·ËÆºõÖ»ÓÐÄãÇ×Éí×ß¹ýÁË²ÅÄÜÓÐËùÌå»á,
 ÎÒÒ²Ö»ÄÜ×÷ÊÊµ±µÄÒýµ¼¶øÒÑ.
 screen.width*0.7)
-{this.resized=true;
-this.width=screen.width*0.7;
-this.style.cursor=&#39;hand&#39;;
-this.alt=&#39;Click
-here
-to
-open
-new
-window\nCTRL+Mouse
-wheel
-to
-zoom
-in/out&#39;;}"
+{this.resized=true; this.width=screen.width*0.7; this.style.cursor=&#39;hand&#39;; this.alt=&#39;Click here to open new window\nCTRL+Mouse wheel to zoom in/out&#39;;}"
 onclick="if(!this.resized)
-{return
-true;}
+{return true;}
 else
 {window.open(this.src);}"
 alt=""
 src="../../imo8.cn/attachments/All_Files/stick/15.jpg"
 onload="if(this.width>screen.width*0.7)
-{this.resized=true;
-this.width=screen.width*0.7;
-this.alt=&#39;Click
-here
-to
-open
-new
-window\nCTRL+Mouse
-wheel
-to
-zoom
-in/out&#39;;}"
+{this.resized=true; this.width=screen.width*0.7; this.alt=&#39;Click here to open new window\nCTRL+Mouse wheel to zoom in/out&#39;;}"
 border=0>
 4"
 ¶¯×÷²Ý¸å´óÖÂÍê³Éºó,
@@ -31866,77 +30860,29 @@ border=0>
 ´´Òâ¼¼Êõ
 ÄÍÁ¦µÄ¿¼Ñé.
 screen.width*0.7)
-{this.resized=true;
-this.width=screen.width*0.7;
-this.style.cursor=&#39;hand&#39;;
-this.alt=&#39;Click
-here
-to
-open
-new
-window\nCTRL+Mouse
-wheel
-to
-zoom
-in/out&#39;;}"
+{this.resized=true; this.width=screen.width*0.7; this.style.cursor=&#39;hand&#39;; this.alt=&#39;Click here to open new window\nCTRL+Mouse wheel to zoom in/out&#39;;}"
 onclick="if(!this.resized)
-{return
-true;}
+{return true;}
 else
 {window.open(this.src);}"
 alt=""
 src="../../imo8.cn/attachments/All_Files/stick/16.jpg"
 onload="if(this.width>screen.width*0.7)
-{this.resized=true;
-this.width=screen.width*0.7;
-this.alt=&#39;Click
-here
-to
-open
-new
-window\nCTRL+Mouse
-wheel
-to
-zoom
-in/out&#39;;}"
+{this.resized=true; this.width=screen.width*0.7; this.alt=&#39;Click here to open new window\nCTRL+Mouse wheel to zoom in/out&#39;;}"
 border=0>
 ÕýÊ½µÄ¶¯»­ÖÆ×÷ÄÚÈÝµÈ¶¯»­Íê³ÉºóÔÙ²¹³ä.
 ÕâÊÇÎÒµÄ¹¦¿ÎÍ¬Ê±Ò²ÊÇÒ»Æª·¶ÀýµÄ¼¼ÊõÎÄÕÂ,
 Ï£Íû¶ÔÄãÓÐËù°ïÖú!!
 screen.width*0.7)
-{this.resized=true;
-this.width=screen.width*0.7;
-this.style.cursor=&#39;hand&#39;;
-this.alt=&#39;Click
-here
-to
-open
-new
-window\nCTRL+Mouse
-wheel
-to
-zoom
-in/out&#39;;}"
+{this.resized=true; this.width=screen.width*0.7; this.style.cursor=&#39;hand&#39;; this.alt=&#39;Click here to open new window\nCTRL+Mouse wheel to zoom in/out&#39;;}"
 onclick="if(!this.resized)
-{return
-true;}
+{return true;}
 else
 {window.open(this.src);}"
 alt=""
 src="../../imo8.cn/attachments/All_Files/stick/17.jpg"
 onload="if(this.width>screen.width*0.7)
-{this.resized=true;
-this.width=screen.width*0.7;
-this.alt=&#39;Click
-here
-to
-open
-new
-window\nCTRL+Mouse
-wheel
-to
-zoom
-in/out&#39;;}"
+{this.resized=true; this.width=screen.width*0.7; this.alt=&#39;Click here to open new window\nCTRL+Mouse wheel to zoom in/out&#39;;}"
 border=0>
 ×ªÔØÇë×¢Ã÷³ö´¦:
 http://www.wu-dou.com
@@ -31967,7 +30913,7 @@ www.mygamemylove.com
 email:mygamemylove@qq.com
 */
 //»­¾ØÐÎ
-functioncreateRectangle(x:Number,y:Number,w:Number,h:Number,mc:MovieClip){
+functioncreateRectangle(x:Number,y:Number,w:Number,h:Number,mc:MovieClip){ 
 mc.beginFill(0xffffff);
 mc.moveTo(x,y);
 mc.lineTo(x+w,y);
@@ -31984,12 +30930,12 @@ varmygamemylove_com:Object=newObject()
 //µã»÷Ä³Ò»¸ö±íµ¥Òª´¦ÀíµÄ¶¯×÷
 //Àý×Ó
 //vararrTem:Array=[{label:"Ð´Õæ×ÔÅÄ",data:1},{label:"Éú»îÓéÀÖ",data:2},{label:"×ÔÈ»·ç¾°",data:3},{label:"¿Æ¼¼Ê±´ú",data:4}];
-//mygamemylove_com.iniDropList(mcXiaLa,arrTem,function(){
+//mygamemylove_com.iniDropList(mcXiaLa,arrTem,function(){ 
 //trace(mcXiaLa.value);
 //});
-mygamemylove_com.iniDropList=function(_mc:MovieClip,arrList:Array,funWhenPress:Function){
+mygamemylove_com.iniDropList=function(_mc:MovieClip,arrList:Array,funWhenPress:Function){ 
 //Éú³ÉÎÄ±¾
-_mc.setTxt=function(target_mc:MovieClip,strTalkYor:String,x:Number,y:Number,color1:Number){
+_mc.setTxt=function(target_mc:MovieClip,strTalkYor:String,x:Number,y:Number,color1:Number){ 
 target_mc.createTextField("my_txt",1,x,y,100,30);
 target_mc.my_txt.multiline=true;
 //
@@ -32017,12 +30963,12 @@ _mc.setTxt(_mc,_mc.arrList[0].label,0,0,0);
 _mc.value=_mc.arrList[0].data;
 //
 _mc.mcXiaLa.gotoAndStop(1);
-_mc.mcXiaLa.onRollOver=function(){
+_mc.mcXiaLa.onRollOver=function(){ 
 //Éú³ÉÒ»¸ö±³¾°,Ä¿µÄÔÚÓÚ£¬¿ÉÒÔÆÁ±ÎµôÈç¹ûËüµÄÏÂ±ßÓÐÒ»Ð©°´¼üµÄÎÊÌâ
 //flash±³¾°µ÷µ½»ÒÉ«Äã¿ÉÒÔ¿´µ½Õâ¸ö°×¿ò¡£
 this._parent.createEmptyMovieClip("mcBak",2);
 createRectangle(0,23,100,this._parent.arrList.length*24,this._parent.mcBak);
-this._parent.mcBak.onRelease=function(){
+this._parent.mcBak.onRelease=function(){ 
 };
 //
 this.gotoAndStop(2);
@@ -32030,20 +30976,20 @@ this.gotoAndStop(2);
 this._parent.createEmptyMovieClip("mcRongQi",3);
 varnumStarY:Number=24;
 //ÏÔÊ¾ÁÐ±í¡£
-for(vari:Number=0;ithis._parent.arrList.length;i++){
+for(vari:Number=0;ithis._parent.arrList.length;i++){ 
 varmcTem:MovieClip=this._parent.mcRongQi.attachMovie("buton","buton"+i,this._parent.mcRongQi.getNextHighestDepth(),{_y:numStarY*(i+1),_width:_mc.mcXiaLa._width,value:_mc.arrList.data,numI:i});
 //
 //
 this._parent.setTxt(mcTem,_mc.arrList.label,0,0,0);
 //
 mcTem.gotoAndStop(1);
-mcTem.onRollOver=function(){
+mcTem.onRollOver=function(){ 
 this.gotoAndStop(2);
 };
-mcTem.onRollOut=function(){
+mcTem.onRollOut=function(){ 
 this.gotoAndStop(1);
 };
-mcTem.onPress=function(){
+mcTem.onPress=function(){ 
 this.gotoAndStop(3);
 //
 this._parent._parent.my_txt.text=this._parent._parent.arrList[this.numI].label;
@@ -32055,19 +31001,19 @@ this._parent._parent.mcBak.removeMovieClip();
 //
 this._parent.removeMovieClip();
 };
-mcTem.onRelease=function(){
+mcTem.onRelease=function(){ 
 this.gotoAndStop(1);
 };
 }
 //
 };
-_mc.mcXiaLa.onRollOut=function(){
+_mc.mcXiaLa.onRollOut=function(){ 
 this.gotoAndStop(1);
 };
-_mc.mcXiaLa.onPress=function(){
+_mc.mcXiaLa.onPress=function(){ 
 this.gotoAndStop(3);
 };
-_mc.mcXiaLa.onRelease=function(){
+_mc.mcXiaLa.onRelease=function(){ 
 this.gotoAndStop(1);
 //
 };
@@ -32077,7 +31023,7 @@ this.gotoAndStop(1);
 //ÏêÇé×îºÃ²Î¿´Ô´ÎÄ¼þ¡£ÏÂÔØµØÖ·£ºhttp://www.mygamemylove.com/121.html
 //ÏÂÀ­ÁÐ±í,Í¼Æ¬·ÖÀà
 vararrTem:Array=[{label:"Ð´Õæ×ÔÅÄ",data:1},{label:"Éú»îÓéÀÖ",data:2},{label:"×ÔÈ»·ç¾°",data:3},{label:"¿Æ¼¼Ê±´ú",data:4}];
-mygamemylove_com.iniDropList(mcXiaLa,arrTem,function(){
+mygamemylove_com.iniDropList(mcXiaLa,arrTem,function(){ 
 //trace(mcXiaLa.value);
 });
 ÔðÈÎ±à¼­:sw
@@ -32099,8 +31045,7 @@ Flash8.net
 ×÷Õß£ºÆ°³ÇÀË×ÓÀàÐÍ:ÉÁ°ÉBBSÀ´Ô´:ÉÁ°É
 ¾«ÃÀºÉ»¨----PSÊó»æ½Ì³Ì
 1¡¢ÐÂ½¨ÎÄµµÓÃ¡°¸Ö±Ê¡±¹¤¾ß»æÖÆÈçÍ¼µÄÂ·¾¶£¬ºÉ»¨±ßÔµÆð·ü²»Æ½ËùÒÔÎÒÃÇÔÚ»­µÄÊ±ºòÒ²°¼Í¹²»Æ½¡£
-2¡¢°ÑÂ·¾¶×ª»¯ÎªÑ¡Çø£¨ctrl+Enter),Ìî³äÑÕÉ«£¨R¡¢G¡¢B¡¢·Ö±ðÎª
-26¡¢89¡¢98¡¢£©Õâ¸öÑÕÉ«²»Ò»¶¨ÊÇ×îÖÕºÉ»¨ÑÕÉ«£¬×îºóÎÒÃÇ¿ÉÒÔÍ¨¹ý¡°ÇúÏß¡±×öµ÷Õû£¬ÔÝÊ±ÏÈÓÃÕâ¸öÏà½üµÄÑÕÉ«ÌîÉÏ¡£Ìí¼Ó¡°ÔÓÉ«¡±ÊýÁ¿Îª¡°1.5"×óÓÒ¡£
+2¡¢°ÑÂ·¾¶×ª»¯ÎªÑ¡Çø£¨ctrl+Enter),Ìî³äÑÕÉ«£¨R¡¢G¡¢B¡¢·Ö±ðÎª 26¡¢89¡¢98¡¢£©Õâ¸öÑÕÉ«²»Ò»¶¨ÊÇ×îÖÕºÉ»¨ÑÕÉ«£¬×îºóÎÒÃÇ¿ÉÒÔÍ¨¹ý¡°ÇúÏß¡±×öµ÷Õû£¬ÔÝÊ±ÏÈÓÃÕâ¸öÏà½üµÄÑÕÉ«ÌîÉÏ¡£Ìí¼Ó¡°ÔÓÉ«¡±ÊýÁ¿Îª¡°1.5"×óÓÒ¡£
 3¡¢È¡ÏûÑ¡Çø£¨ctrl+D£©ÏÂÃæÎÒÃÇÒª×öµÄ¹¤×÷¾ÍÊÇ¿Ì»®³öºÉ»¨°¼Í¹¸Ð£¬ÔÚÖÐ¼äÓÃ¸Ö±Ê¹¤¾ß»­³öÈçÍ¼Â·¾¶£¬ÓÒ»÷¡°½¨Á¢Ñ¡Çø¡±£¬Óð»¯°ë¾¶Îª¡°20¡±Ôö¼ÓÓð»¯ÖµÊÇÎªÁËÔÚºóÃæÓÃ¡°¼ÓÉî¡±ºÍ¡°¼õµ­¡±¹¤¾ßÊ±±ßÔµ²»ÉúÓ²£¬²»»á³öÏÖÃ÷ÏÔµÄ·Ö½çÏß¡£
 4¡¢»»ÓÃ¡°¼ÓÉî¡±ºÍ¡°¼õµ­¡±¹¤¾ß£¬×¢Òâ»­±Ê´óÐ¡Òª´óÐ©£¬ÆØ¹â¶ÈÒªÐ¡Ò»Ð©£¬ÆØ¹â¶ÈÊÇÒªÌØ±ð×¢ÒâµÄ£¬²»ÒªÌ«´ó£¬·ñÔò»áÁôÏÂÃ÷ÏÔµÄºÛ¼££»ÈçÍ¼°ÑÑ¡ÇøÄÚÒ»²¿·Ö¼õµ­£¬Ò»²¿·Ö¼ÓÉî¡£
 5¡¢·´Ñ¡£¨ctrl+shift+i)Í¬ÑùÓÃ¡°¼ÓÉî¡±ºÍ¡°¼õµ­¡±£¬°Ñ±ßÔµÕÛµþµÄµØ·½¡°¼ÓÉî¡±¡£×¢Òâ¡°¼ÓÉî¡±²¿·ÖÊÇÒ»¶ÎÒ»¶ÎµÄÕâÑùºÉ»¨±ßÔµ²ÅÓÐÉÏÏÂÆð·ü¸Ð£¬ÕâÀïÖ»ÊÇ¼òµ¥µÄ´¦Àí£¬Ï¸½Ú¿Ì»®ÁôÔÚºóÃæ×ö¡£Õâ¸öÊ±ºòºÉÒ¶ÒÑ¾­ÓÐÁËÒ»µãÁ¢Ìå¸Ð¡£
@@ -32156,10 +31101,7 @@ smallerbird
 [¾­Ñé¼¼ÇÉ]
 ¸ñ¶·¶¯»­µÄ¸ÅÄîÉè¼Æ
 justsolo
-Õâ¿ÎµÄ½Ì³ÌÎÒ»á½áºÏ"¹í¶·BOS"(the
-Battle
-of
-Swords)
+Õâ¿ÎµÄ½Ì³ÌÎÒ»á½áºÏ"¹í¶·BOS"(the Battle of Swords)
 À´×÷Ò»¸ö·¶ÀýµÄËµÃ÷,
 Í¬Ê±×÷ÎªÎÒµÚÒ»´ÎµÄ¸ÅÄîÉè¼Æ.ÔÚÎÒÒÔÍùµÄ¶¯»­ÖÐ,
 ²¢²»´æÔÚÕâÐ©Ïë·¨,
@@ -32243,7 +31185,7 @@ smallerbird
 2007-12-28
 [³õ¼¶²Ù×÷]
 ÔõÑùÔÄ¶Áswf¸ñÊ½µÄ½Ì³Ì
-txwh2006£¨Ì¤Ñ©ÎÞ
+txwh2006£¨Ì¤Ñ©ÎÞ  
 Flash³õ¼¶½Ì³Ì£ºÔõÑùÔÄ¶Áswf¸ñÊ½µÄ½Ì³Ì
 2007-12-28
 [ÓÎÏ·ÖÆ×÷]
@@ -32449,41 +31391,35 @@ Sweetwitch
 ±¾ÎÄÖÐÎÒÃÇÓÃICoreldrawÓëR.A.V.EÀ´ÖÆ×÷Ò»¸ö¶¯Ì¬±íÇé£¬´ó¼Ò¿ÉÒÔ´ÓÖÐÌå»áR.A.V.EÖÆ×÷¶¯»­µÄ¸Ð¾õ¡£
 MORE
 2007-12-28
-[3d
-max]
+[3d max]
 ºã¾Ã£º3dmaxÔìÐÍÉè¼ÆÖ®ÇéÈË×ê½ä
 ÍõºñÓÂ
 3dmaxÀ´Éè¼ÆÒ»¿îÇéÈËºã¾ÃÖ®×ê½ä¡£
 2007-12-21
-[3d
-max]
+[3d max]
 3DSMAXÔìÐÍÉè¼ÆÖ®´òÔì½­ÄÏË¿³ñ
 ÍõºñÓÂ
 ¸úËæ±ÊÕßÀ´ÓÃ3dmax9.0Éè¼ÆÒ»¿éÃÀÀöµÄË¿³ñ¡£
 2007-12-19
-[3d
-max]
+[3d max]
 Maya³õ¼¶ÊµÀý½Ì³Ì£ºÖÆ×÷ÀóÖ¦
 ÎÌ½¡ÈÝ
 ±¾½Ì³ÌÊÇ¹ØÓÚMAYAÖÆ×÷ÀóÖ¦£¬°üÀ¨ÀóÖ¦¡¢Ê÷Ò¶µÄ½¨Ä£ºÍäÖÈ¾£¬½èÖúÁËphotoshop½øÐÐÌùÍ¼µÄÖÆ×÷¡£
 2007-12-5
-[3d
-max]
+[3d max]
 3ds
 MaxÔìÐÍÉè¼ÆÍêÃÀÇéÈËÏîÁ´
 ÃÀÀö°¢¸Ê
 ½ñÌì£¬´ó¼Ò¾Í¸úËæ±ÊÕßÀ´Í¨¹ý3dmaxÕâ¸öÄ§·¨Ê¯À´Ä¥ÖÆÒ»¿îÏîÁ´°É¡£
 2007-11-30
-[3d
-max]
+[3d max]
 3Ds
 Max½Ì³Ì£º¡¶ÔáÔÂ¡·ÖÆ×÷È«¹ý³Ì
 ÀîÔªÁú
 ±¾½Ì³ÌÖ÷ÒªÊÇÊ¹ÓÃ3ds
 Max¡¢ZbrushÒÔ¼°PhotoshopÈí¼þÀ´Íê³É´´×÷£¬½Ì³ÌÊÊºÏÓÐÒ»¶¨3d»ù´¡µÄÍøÓÑÑ§Ï°¡£
 2007-11-8
-[3d
-max]
+[3d max]
 3ds
 Max½Ì³Ì£ºÖÆ×÷±¥Âú¶àÖ­µÄÆÏÌÑ
 Raul
@@ -32501,15 +31437,13 @@ Maya½Ì³Ì----Â·¾¶»ð»¨¶¯»­Ð§¹ûµÄÖÆ×÷
 ·ÂµÁ°æ
 Maya½Ì³Ì----Â·¾¶»ð»¨¶¯»­Ð§¹ûµÄÖÆ×÷
 2007-10-25
-[3d
-max]
+[3d max]
 3DS
 MAX½Ì³Ì£º´òÔììÅ²Ê×Ï¹âÐ§¹û
 CG±©×ßÅ®
 ½Ì³ÌÖ÷ÒªÓÉÑÌÎíÐ§¹û»¹ÓÐÐÇÐÇÔË¶¯ÖÆ×÷×é³É£¬ÖÆ×÷²½Öè±È½ÏÏêÏ¸£¬Ï£Íû½Ì³ÌÄÜ¸ø´ó¼Ò´øÀ´°ïÖú¡«
 2007-10-24
-[3d
-max]
+[3d max]
 3ds
 MAX½Ì³Ì£ºÌÆ¼ªçæµÂ½ÇÉ«´´½¨
 ÑøÉßµÄÅ®º¢
@@ -32572,8 +31506,7 @@ Flash
 ¹ã¸æ±»ÆÁ±Î£¿
 MORE
 2007-12-26
-[After
-Effects]
+[After Effects]
 After
 EffectsÖÆ×÷¶¯»­£ºÊ¥µ®ÀÏÈË·ÅÀñ»¨
 ³ÂÓÚÆ½
@@ -32586,8 +31519,7 @@ Alon
 Chou
 ¡¶ÖÂÃüµÄÒ»»÷¡·¾«²Ê»­ÃæÖÆ×÷¹ý³Ì£¬CG½Ì³Ì£¬Ä»ºóÖÆ×÷¡£
 2007-12-7
-[After
-Effects]
+[After Effects]
 After
 Effect7.0ÖÆ×÷³¬Ñ£¹âÐ§ÎÄ×ÖÌØÐ§
 ³ÂÓÚÆ½
@@ -32595,8 +31527,7 @@ Effect7.0ÖÆ×÷³¬Ñ£¹âÐ§ÎÄ×ÖÌØÐ§
 Effect7.0ÄÚÖÃµÄLens
 Flare(¾µÍ··¢¹â)¡¢Hue/Saturation(É«µ÷/±¥ºÍ¶È)À´´´½¨¹âÐ§ÎÄ×ÖÌØÐ§¡£
 2007-11-30
-[After
-Effects]
+[After Effects]
 After
 Effects
 ÄÚÖÃÌØÐ§´´½¨È¼ÉÕµÄóô»ð
@@ -32605,14 +31536,12 @@ Effects
 Noise£¨·ÖÐÎÔë²¨£©Displacement
 Maps£¨ÖÃ»»ÌùÍ¼£©ColoramaµÈÌØÐ§À´´´½¨È¼ÉÕµÄóô»ð¡£
 2007-11-26
-[After
-Effects]
+[After Effects]
 ParticleÁ£×Ó²å¼þ°ïAE´òÔìÃ÷ÑÞÀñ»¨ÊÓÆµ
 ³ÂÓÚÆ½
 ¸ÃÊµÀý½éÉÜÁËÔËÓÃParticleÁ£×Ó²å¼þ´´½¨Àñ»¨È¼·ÅµÄË¼Â·ºÍ·½·¨¡£
 2007-11-20
-[After
-Effects]
+[After Effects]
 After
 Effect´òÔìÔÂÒ¹¾ªÄñ¶¯¸ÐÐ§¹û
 ³ÂÓÚÆ½
@@ -32622,8 +31551,7 @@ Noise
 Unmult²å¼þ£¬ÒÔ¼°Type
 WrittingÌØÐ§µÄÓ¦ÓÃ£¬×÷Õß½²µÄÖ÷ÒªÊÇÒ»ÖÖË¼Â·ºÍ×ö·¨£¬³¡¾°µÄÒªËØ´ó¼Ò¿ÉÒÔ×öµÃ¸üÏ¸ÖÂ£¬Ï£Íû±¾½Ì³Ì¶ÔÄúÓÐËù°ïÖú£¡
 2007-11-6
-[After
-Effects]
+[After Effects]
 After
 Effec´´½¨¾«²ÊÈýÎ¬¶¯»­Ð§¹û
 ³ÂÓÚÆ½
@@ -32633,15 +31561,13 @@ V1.0ÊÇAfter
 Effect
 µÄ3DÌØÐ§²å¼þ£¬¿ÉÒÔÑ¸ËÙ´´½¨³öÈýÎ¬¿Õ¼äÐ§¹û£¬²¢ÇÒ×Ô¶¯Éú³ÉÔË¶¯±í´ïÊ½£¨Expressions£©´Ó¶ø¿ì½ÝÊµÏÖÍ¼²ãÖ®¼ä¾«È·µÄÔË¶¯¿ØÖÆ,ÏÂÃæÀ´¿´¿´AEÈçºÎ²»Ðè±à³Ì¾ÍÄÜ´´½¨¾«²Ê¶¯»­¡£
 2007-10-26
-[After
-Effects]
+[After Effects]
 After
 EffectsÖÆ×÷ÃÎ»ÃÈýÎ¬Logo¶¯»­
 ³ÂÓÚÆ½
 ±¾Àý½éÉÜÁË´´½¨ÈýÎ¬LogoÐ§¹ûµÄÒ»ÖÖ»ù±¾Ë¼Â·ºÍ·½·¨¡£
 2007-8-15
-[After
-Effects]
+[After Effects]
 ¼òµ¥µÄAfter
 Effects
 ÎÄ×Ö·¢¹âÐ§¹û
@@ -32650,8 +31576,7 @@ superain
 Effects
 ÎÄ×Ö·¢¹âÐ§¹û
 2007-5-30
-[After
-Effects]
+[After Effects]
 AfterEffects´òÔìÀñ»¨ÎÄ×ÖÌØÐ§
 czpcheng
 AfterEffects´òÔìÀñ»¨ÎÄ×ÖÌØÐ§
@@ -35260,10 +34185,7 @@ Flash8.net
 ÁÐ±íÒ³
 2008-1-22¸ñ¶·¶¯»­µÄ¸ÅÄîÉè¼Æ
 ÍÆ¼ö
-Õâ¿ÎµÄ½Ì³ÌÎÒ»á½áºÏ"¹í¶·BOS"(the
-Battle
-of
-Swords)
+Õâ¿ÎµÄ½Ì³ÌÎÒ»á½áºÏ"¹í¶·BOS"(the Battle of Swords)
 À´×÷Ò»¸ö·¶ÀýµÄËµÃ÷,
 Í¬Ê±×÷ÎªÎÒµÚÒ»´ÎµÄ¸ÅÄîÉè¼Æ.ÔÚÎÒÒÔÍùµÄ¶¯»­ÖÐ,
 ²¢²»´æÔÚÕâÐ©Ïë·¨,
@@ -36429,12 +35351,8 @@ Player
 ÈËÆø:4631
 |
 ÆÀÂÛ:0
-2007-8-7Flash°æ£¨ÃÔÄãÒôÀÖ²¥·ÅÆ÷mp3Player1.0
-Beta1
-£©¸½Ô´Âë
-Flash°æ£¨ÃÔÄãÒôÀÖ²¥·ÅÆ÷mp3Player1.0
-Beta1
-£©¸½Ô´Âë¡£
+2007-8-7Flash°æ£¨ÃÔÄãÒôÀÖ²¥·ÅÆ÷mp3Player1.0 Beta1 £©¸½Ô´Âë
+Flash°æ£¨ÃÔÄãÒôÀÖ²¥·ÅÆ÷mp3Player1.0 Beta1 £©¸½Ô´Âë¡£
 ·¢²¼ÈË:flashman1104
 |
 À´Ô´:
@@ -36892,8 +35810,7 @@ sujun.org
 ÈËÆø:4761
 |
 ÆÀÂÛ:0
-2007-9-27¸úËæÊó±êµÄµ¯ÐÔÇòÔË¶¯Ð¡ÓÎÏ·£¨Flash
-CS3£©
+2007-9-27¸úËæÊó±êµÄµ¯ÐÔÇòÔË¶¯Ð¡ÓÎÏ·£¨Flash CS3£©
 ÓÃFlash
 CS3µÄASÖÆ×÷¸úËæÊó±êµ¯ÐÔÐ¡ÓÎÏ·£¬Ö÷ÒªÊÇÁ·Ï°ASµÄÊ¹ÓÃ¡£
 ·¢²¼ÈË:ÉÁµç¶ù
@@ -37591,9 +36508,7 @@ FlashÎÊ´ð×¨À¸
 |
 ÆÀÂÛ:2
 2006-11-20Flash
-ASPXPiisÏÂÂÒÂë£¨Óöµ½
-Flash+asp
-ÂÒÂëµÄÅóÓÑ±Ø¿´£©
+ASPXPiisÏÂÂÒÂë£¨Óöµ½ Flash+asp ÂÒÂëµÄÅóÓÑ±Ø¿´£©
 ´ÓFPV
 v2¿ªÊ¼£¬Flash+aspÂÒÂëµÄÎÊÌâÒ»Ö±½â¾ö²»ÁË£¬ËùÓÐ¿ÉÄÜµÄ·½·¨¶¼ÊÔ¹ý£¬×îºóµ÷ÊÔÎªÔÚ±ê×¼µÄ
 2000
@@ -37773,10 +36688,7 @@ ActionÓ¦ÓÃ
 ÆÀÂÛ:0
 2008-1-22¸ñ¶·¶¯»­µÄ¸ÅÄîÉè¼Æ
 ÍÆ¼ö
-Õâ¿ÎµÄ½Ì³ÌÎÒ»á½áºÏ"¹í¶·BOS"(the
-Battle
-of
-Swords)
+Õâ¿ÎµÄ½Ì³ÌÎÒ»á½áºÏ"¹í¶·BOS"(the Battle of Swords)
 À´×÷Ò»¸ö·¶ÀýµÄËµÃ÷,
 Í¬Ê±×÷ÎªÎÒµÚÒ»´ÎµÄ¸ÅÄîÉè¼Æ.ÔÚÎÒÒÔÍùµÄ¶¯»­ÖÐ,
 ²¢²»´æÔÚÕâÐ©Ïë·¨,
@@ -38651,13 +37563,11 @@ Reserved.
 Ê×ÏÈÀ´Ëµ£¬Ò²¾ÍÊÇ¿´µ½Õâ²¿Ð¡ËµµÄµÚÓ¡Ïó£¬ÓÈÈçÄÃÆðÒ»±¾Êé»¹Ã»ÓÐ·­¿ª£¬¸§Ãþ×Å·âÃæ£¬ÄýË¼×ÅÄÇÌâÄ¿ºÍ×÷ÕßµÄÃû×Ö£¬ÈÃÈË²úÉúºÜ¶àÓÐÒâË¼µÄÒâÄî¡£×÷Õß³Ì³Ì.²¼ÍÞÍÞ£¬¿ÉÄÜ×÷ÕßÐÕ³Ì°É£¬²¼ÍÞÍÞ£¬¿É°®µÄÐÎÏó£¬ÕâÑùµÄÈËÄÜÐ´ÄÇ»Ô»Í×³À«µÛ¹úÖ®Ö÷ÇØÊ¼»Ê£¿³ÉÍ¬¾ÓÕâ´Ê»ã²»ÖªµÀÊÇ²»ÊÇÏÖÔÚ²ÅÓÐµÄ£¬¿ÉËüÈÃÈËÏëµ½µÄÊÇÏÖ´úÉç»áÄÇÐ©ÊÂ¡£Ò²ÄÑ¹ÖÁË£¬Ö»ÓÐÕâÑùµÄ×÷Õß²Å»áÓÐÕâÑùµÄ´´Òâ£¬Ö»ÓÐÕâÑùµÄÌâÄ¿²ÅÄÜ±í´ï×÷ÕßµÄÈç´ËÐÂÒâ¡£×ÜÖ®£¬¿´µ½ÌâÄ¿ºÍ×÷ÕßµÄÃû×Ö£¬ÄÜÈÃÈËÏëµ½µÄ¾ÍÊÇ×÷ÕßµÄÊÇÏëÓÃÒ»ÖÖÀËÂþµÄ¹¹Ë¼ºÍ½²Êö£¬¸æËßÒ»¸ö±ðÑùµÄÇØÊ¼»Ê£¬±ðÑùµÄÇØµÛ¹ú¡£ÔÚÐÐÎÄÖÐ£¬×÷ÕßÒ²ÊÇÕâÃ´×öµÄ¡£
 ¡¶Ê¼»ÊµÛµÄÍ¬¾ÓÑÞºó¡·ÕýÎÄ
 ³Ì³ÌÁ¦×÷ÆÀÂÛ»ã¼¯
-×÷Æ·Ãû³Æ£º¡¶ÓüÛÖÄÑÌî
-¡¾Ô­Ãû£ºÐÔÓü¡¿¡·×÷Õß£º°²Òâ×Ó
+×÷Æ·Ãû³Æ£º¡¶ÓüÛÖÄÑÌî ¡¾Ô­Ãû£ºÐÔÓü¡¿¡·×÷Õß£º°²Òâ×Ó
 ·¢±íÆÀÂÛ
 ÍÆ¼ö±à¼­£ºÂþÂþÀæ»¨
 ÕâÊÇÒ»²¿ÉÏ¼ÜµÄVIP×÷Æ·£¬ÉÏ¼ÜµÄ×÷Æ·ÊÇ²»¿ÉÐ¡ÊÓµÄ¡­¡­ÎªÁËÕâÆªÆÀÂÛÎÒ¿´ÁËºÃ¼¸ÌìÕâ²¿Êé£¬ÎÞÂÛÈçºÎ£¬ËüÊÇÄÜ¹»ÈÃÎÒÐÄ³±ÅìÅÈµÄ£¬ÎÒÒ»Ö±ÔÚË¼¿¼¡´ÓüÛÖÄÑÌî¡µÕâ¸öÓüÛÖµÄËùÖ¸£¬²»¹ýÕâÒ²ÕýºÃ¸øÁËÎÒÏëÏóµÄ³ä·Ö¿Õ¼ä¡£ÎÒÏëËü¾ÍÊÇÖ¸ÈËµÄÄÇµãÊÂ¡£Ëæ±ãµã¿ªÆäÖÐµÄÒ»ÕÂ£¬¶¼ÄÜ¿´µÄµ½ÄÇ·ç¸ñ¶ÀÌØµÄÓïÑÔ£¬ÄÇÓïÑÔ²»ÊÇÁ÷ÐÐµÄÄÇÖÖ·ôÇ³µÄµ÷Ù©£¬¶øÊÇÉú»îÔÄÀú³ÁµíÏÂÀ´µÄÉú¶¯ÏÊ»î£¬¡°ÎÒËµÆßÊ®Äê´úµÄ´ó²Å×Ó£¬ÂíÉÏ¿çÈë¶þÊ®Ò»ÊÀ¼ÍÁË£¬Äã»¹Æï×ÅÍ·´ó»¨Â¿µ±±¦Âí°¡£¡¡±
-¡¶ÓüÛÖÄÑÌî
-¡·ÕýÎÄÔÄ¶Á
+¡¶ÓüÛÖÄÑÌî ¡·ÕýÎÄÔÄ¶Á
 °²Òâ×ÓÇéÉ«Ð¡Ëµ»ðÈÈÆÀÂÛ
 ×÷Æ·Ãû³Æ£º¡¶ÉÏµÛ¡ª¡ªÄ§¹íÎÂÈáµÄÇé¸¾¡·
 ×÷Õß£º²ÔÀÏµÄºÚÂí
@@ -38728,9 +37638,7 @@ Reserved.
 ÇéÈË½ÚµÄÔ¨Ô´
 ·¢±íÆÀÂÛ
 ÇéÈË½ÚµÄÀ´Àú:
-´«Ëµ¹«ÔªÈýÊÀ¼ÍÊ±£¬¹ÅÂÞÂíÓÐÒ»Î»±©¾ý½Ð¿ËÀÍ¶àË¹£¨
-Claudius£©¡£Àë±©¾ýµÄ¹¬µî²»Ô¶£¬ÓÐÒ»×ù·Ç³£Æ¯ÁÁµÄÉñÃí¡£ÐÞÊ¿ÍßÂ×¶¡£¨
-Valentine£©¾Í×¡ÔÚÕâÀï¡£ÂÞÂíÈË·Ç³£³ç¾´Ëû£¬ÄÐÅ®ÀÏÓ×£¬²»ÂÛÆ¶¸»¹ó¼ú£¬×Ü»áÈº¼¯ÔÚËûµÄÖÜÎ§£¬ÔÚ¼ÀÌ³µÄÐÜÐÜÊ¥»ðÇ°£¬ñöÌýÍßÂ×¶¡µÄÆíµ»¡­¡­
+´«Ëµ¹«ÔªÈýÊÀ¼ÍÊ±£¬¹ÅÂÞÂíÓÐÒ»Î»±©¾ý½Ð¿ËÀÍ¶àË¹£¨ Claudius£©¡£Àë±©¾ýµÄ¹¬µî²»Ô¶£¬ÓÐÒ»×ù·Ç³£Æ¯ÁÁµÄÉñÃí¡£ÐÞÊ¿ÍßÂ×¶¡£¨ Valentine£©¾Í×¡ÔÚÕâÀï¡£ÂÞÂíÈË·Ç³£³ç¾´Ëû£¬ÄÐÅ®ÀÏÓ×£¬²»ÂÛÆ¶¸»¹ó¼ú£¬×Ü»áÈº¼¯ÔÚËûµÄÖÜÎ§£¬ÔÚ¼ÀÌ³µÄÐÜÐÜÊ¥»ðÇ°£¬ñöÌýÍßÂ×¶¡µÄÆíµ»¡­¡­
 ÇéÈË½ÚµÄÀúÊ·£º
 ÇéÈË½ÚÊÇÒ»¸öÊôÓÚÅóÓÑµÄÈÕ×Ó£¬ÊôÓÚ¼ÒÈËµÄÈÕ×Ó£¬ÊôÓÚÇéÈËµÄÈÕ×Ó¡£ÕýÈçÖÐ¹úÈËÏÖÔÚÓÃ½üºõ¿ñÈÈµÄÈÈÇé¹ýÆðÁËÊ¥µ®½ÚÒ»Ñù£¬ÇéÈË½ÚÒ²ÒÑ¾­ÇÄÇÄÉøÍ¸µ½ÁËÎÞÊýÄêÇáÈËµÄÐÄÄ¿µ±ÖÐ£¬³ÉÎªÖÐ¹ú´«Í³½ÚÈÕÖ®ÍâµÄÓÖÒ»¸öÖØÒª½ÚÈÕ¡£ÇéÈË½ÚµÄÀ´ÀúºÍÒâÒå¿ÉÄÜ²¢²»Ò»¶¨Îª´ó¶àÊýÈËËùÖª¡£ÏÂÃæËùÒª½éÉÜµÄ£¬²»¹ýÊÇÖÚ¶à¹ØÓÚÇéÈË½ÚµÄ´«ËµÖÐµÄÒ»¸ö¡­¡­
 ÇéÈË½ÚµÄÔ¨Ô´>>>µã»÷ÔÄ¶ÁÈ«ÎÄ
@@ -39285,30 +38193,21 @@ ENGLISH
 £¨¡¶ÈËÃñÈÕ±¨¡·2007Äê2ÔÂ15ÈÕ£©
 ¸ü¶à
 ÃñÒâ»ØÉù£ºÓÐÌýÎÞÖ¤ºÎÎ½ÌýÖ¤
-£¨¡¶ÖÐ¹úÇàÄê±¨¡·
-2008.1.25£©
+£¨¡¶ÖÐ¹úÇàÄê±¨¡· 2008.1.25£©
 ³ÇÏç¡¢µØÇøÖ®¼äÉç±£²»ÄÜ¶Ô½ÓÊÇÍË±£µÄÖÆ¶ÈÐÔÔ­Òò
-£¨ÐÂ»ªÍø
-2008.1.9£©
+£¨ÐÂ»ªÍø 2008.1.9£©
 ´óÂ½ÍøÃñÈÈÒéÁ½½¯ÁéèÑ¡°»Ø¼Ò¡±
-£¨¡¶¹ú¼ÊÏÈÇýµ¼±¨¡·
-2008.1.4£©
+£¨¡¶¹ú¼ÊÏÈÇýµ¼±¨¡· 2008.1.4£©
 ¡°×îÅ£¡±Ö®Äê£º2007ÍøÂçÈÈµãÊÂ¼þÍøÆÀÍøÒé´óÉ¨Ãè
-£¨¡¶ËÄ´¨ÈÕ±¨¡·
-2008.1.2£©
+£¨¡¶ËÄ´¨ÈÕ±¨¡· 2008.1.2£©
 Ã·µÂÎ¤½Ü·ò£ºËû¸üÏñÒ»¸öÑ§Õß
-£¨¡¶»·ÇòÈËÎï¡·
-2008.1.1£©
+£¨¡¶»·ÇòÈËÎï¡· 2008.1.1£©
 ¡°¶ÔµÈ¿ª·Å¡±µÄ»ù´¡ÊÇÖÐ¹ú¾­¼ÃµÄÇ¿´ó
-£¨¡¶Ã¿ÈÕ¾­¼ÃÐÂÎÅ¡·
-2007.12.19£©
+£¨¡¶Ã¿ÈÕ¾­¼ÃÐÂÎÅ¡· 2007.12.19£©
 ¡°»îÀ×·æ¡±ÁîÍøÃñ±¶¸Ð½¾°Á
-£¨
-ÐÂ»ªÉç
-2007.12.19£©
+£¨ ÐÂ»ªÉç 2007.12.19£©
 2007£º¸ÐÊÜ»¥ÁªÍøµÄÁ¦Á¿
-£¨ÐÂ»ªÉç
-2007.12.19£©
+£¨ÐÂ»ªÉç 2007.12.19£©
 ¡¶¸´ÐËÖ®Â·¡·´óÐÍÕ¹ÀÀÍøÉÏÌ¸¾ÙÐÐ
 £¨¡¶ÈËÃñÈÕ±¨¡·2007.12.18£©
 ÍøÃñ¹Ø×¢¡¶¸´ÐËÖ®Â·¡·´óÐÍÕ¹ÀÀÍøÉÏÌ¸»î¶¯
@@ -39748,7 +38647,7 @@ S
 ÉÏº£Í¨ÓÃÆû³µÍÆ³öÈ«¹úÊ×¸ö
 |
 ³µÖ÷ÓÐÍû²»ÔÙ±»ºöÓÆ
-¡¶¶þ
+¡¶¶þ 
 [¶¯Ì¬]
 ¿ËÀ³Ë¹ÀÕÍÆ³öÁË6.5ÕÛ±£
 |
@@ -40393,7 +39292,7 @@ Copyright
 ÁÖ¿Ï³ÇÊÐ
 ÊÛ¼Û:£¤5.65ÍòÔª
 1995Äê
-ÁåÄ¾¼ªÆÕ(ËÄ
+ÁåÄ¾¼ªÆÕ(ËÄ 
 ÊÛ¼Û:£¤5.5ÍòÔª
 1996Äê
 ÁèÖ¾LS40
@@ -40411,7 +39310,7 @@ Copyright
 ±¾Ìï°ÂµÂÈû
 ÊÛ¼Û:£¤12.8ÍòÔª
 2001Äê
-2000[¿¡
+2000[¿¡ 
 ÊÛ¼Û:£¤6.6ÍòÔª
 1996Äê
 ÈýÁâV32
@@ -40618,14 +39517,11 @@ Copyright
 2003Äê01ÔÂ
 °×É«
 4Y»úÆ÷
-ÀÏ¿î4500£¨¿É»»³µ
-(Í¼)
-£¤3.96ÍòÔª
+ÀÏ¿î4500£¨¿É»»³µ (Í¼)   £¤3.96ÍòÔª    
 1999Äê09ÔÂ
 ÕäÖé°×
 ±¾ÈË³öÊÛ
-Ìá¹©¹ý»§ÊÖÐø£¨·áÌï4500ÍâÐÍ
-¼ò×°ÅäÖÃ
+Ìá¹©¹ý»§ÊÖÐø£¨·áÌï4500ÍâÐÍ ¼ò×°ÅäÖÃ 
 Ë«Áú¼ªÆÕ
 (Í¼)
 £¤4.8ÍòÔª
@@ -41244,8 +40140,7 @@ C2
 PS3½ñÏÄ¶¨È«Ãæ»÷°ÜXbox
 ¡¤±©Ñ©Ê¤Ëß
 ÓÀ¾ÃÇý³ýÄ§ÊÞÂô½ðºÍ´úÁ·
-¡¤¡¶Õ½Éñ
-°ÂÁÖÆ¥Ë¹Ö®Á´¡·½«ÏòÉÏÒÆÖ²
+¡¤¡¶Õ½Éñ °ÂÁÖÆ¥Ë¹Ö®Á´¡·½«ÏòÉÏÒÆÖ²
 0ÌõÆÀÂÛ
 0ÌõÆÀÂÛ
 0ÌõÆÀÂÛ
@@ -41347,8 +40242,7 @@ PS3½ñÏÄ¶¨È«Ãæ»÷°ÜXbox
 [»ÊÅÆ]
 X360¶ÀÕ¼ÓÎÏ·¡¶»ÊÅÆ¿ÕÕ½6¡·µÇÂ½PS3
 [Wii]
-ÒôÀÖ¶ÔÕ½ÓÎÏ·¡¶Band
-Mashups¡·µÇ³¡
+ÒôÀÖ¶ÔÕ½ÓÎÏ·¡¶Band Mashups¡·µÇ³¡
 [PS2]
 ¡¶´óÉßÎÞË«Ä§ÍõÔÙÁÙ¡·Ô¤Ô¼ÌØµä¹«²¼
 [PS2]
@@ -41365,8 +40259,7 @@ X360ÍøÓÎ¡¶¿ÆÄÏÊ±´ú¡·×îÐÂ½ØÍ¼4ÕÅ
 2D¾­µäµ¥»úÓÎÏ·
 ¡¶Crysis¡·×Ô´øDEMOÔìÊ·ÉÏ×îÇ¿PC»­Ãæ
 [ÖÊÁ¿]
-RPG´ó×÷¡¶Mass
-Effect¡·ÎåÔÂµÇÂ½PC
+RPG´ó×÷¡¶Mass Effect¡·ÎåÔÂµÇÂ½PC
 [ÐÂÎÅ]
 ÆÚ´ý¡¶ÃüÁîÓëÕ÷·þ£ººìÉ«¾¯½ä3¡·È·ÈÏ
 [ÐÂÎÅ]
@@ -42094,9 +40987,7 @@ PSPÓÎÏ·ÏÂÔØ
 µ¥»úÓÎÏ·ÏÂÔØ
 ÓÎÏ·¹¤¾ßÏÂÔØÅÅÐÐ£º
 ¸ü¶à
-¡¤¡¶±ù·âÍõ×ù£­Ä§ÊÞÕù°Ô
-¹Ø×¢3036381
-ÏÂÔØ
+¡¤¡¶±ù·âÍõ×ù£­Ä§ÊÞÕù°Ô ¹Ø×¢3036381 ÏÂÔØ 
 ¡¤°´¼ü¾«Áé
 6.71
 ¹Ø×¢2150516
@@ -42381,16 +41272,14 @@ cctvµçÊÓÖ¸ÄÏ¡ª¡ªÊýÂëÓéÀÖ
 cctvµçÊÓÖ¸ÄÏ¡ª¡ªÊýÂëÓéÀÖ
 1097
 12
-PSP¡¶Õ½Éñ
-°ÂÁÖÆ¥Ë¹Ö®Á´¡·
+PSP¡¶Õ½Éñ °ÂÁÖÆ¥Ë¹Ö®Á´¡·
 770
 13
 TGS
 2007¶«¾©ÓÎÏ·Õ¹²ÎÕ¹µÄ
 225
 14
-¡¶FFTA2
-·âÑ¨µÄÄ§·¨Êé¡·¹Ù
+¡¶FFTA2 ·âÑ¨µÄÄ§·¨Êé¡·¹Ù
 260
 ÓÑÇéÁ´½Ó:
 ÍÃÓÑÍøºÏ×÷QQ£º769514469
@@ -43013,27 +41902,22 @@ msn:service300hu@hotmail.com
 ´óÇÇñûÎÄ¾²»ñµÃ¹ú¼ÊÂÃÓÎÐ¡½ã×î¼ÑÉÏ¾µ½±
 Áì¾üµ¼ÑÝ¹ÜÏþ½Ü´òÔì80ºóÐÂµçÓ°ÎÄ»¯
 ¡¶´ó»°Èý¹úÖ®Ð£Ô°´óÕ½¡·ÒÔµ±´ú´óÑ§Ð£Ô°Éú»îÎª±³¾°£¬ÒÔÈý¹úÈËÎïºó´úÎª...
-[Õý
-Æ¬]£º
+[Õý Æ¬]£º
 µÚÒ»¼¯
 µÚ¶þ¼¯
 ¸üÐÂÍê³É
-[Æä
-Ëû]£º
+[Æä Ëû]£º
 Æ¬Î²ÇúMV
 Ô¤¸æÆ¬
 ¡¶ÊÍ·ÅµÄ°ÙºÏÐÄ¡·ÒÔÊ§Ñ§Å®Í¯Îª±³¾°µÄ´óÑ§ÉúÁªºÏ×ÔÅÄDVµçÓ°,ÊÇÄ¿Ç°...
-[Õý
-Æ¬]£º
+[Õý Æ¬]£º
 µÚÒ»¼¯
 µÚ¶þ¼¯
 ¸üÐÂÍê³É
-[Æä
-Ëû]£º
+[Æä Ëû]£º
 Ô¤¸æÆ¬
 ¡¶µçÓ°ÉÙÅ®¡·½²ÊöµÄÊÇÄ³¸ßµÈÑ§Ð£Ñ§Éú²ÌºÛ×·ÇóÅ®ÓÑ£¬Õýµ±Ëû×¼±¸¸æ°×Ê±...
-[Õý
-Æ¬]£º
+[Õý Æ¬]£º
 Ã¿ÈÕ¸üÐÂ---µã»÷¼´¿É¹Û¿´
 [ÆäËû]£º
 µçÓ°ÉÙÅ®MV
@@ -43041,14 +41925,11 @@ msn:service300hu@hotmail.com
 ÑÝÔ±ºØËê
 [¾«²Ê¾çÕÕÐÀÉÍ]£ºµçÓ°ÉÙÅ®¾­µä¾çÕÕ
 ¡¶ÌìÉÏµôÏÂ¸ö°×Äï×Ó¡·ÒÔÏÖ´úÎª±³¾°£¬ÒÔ°×Äï×ÓÈËÎïÎªÔ­ÐÎ£¬½²ÊöÁËÒ»¸ö...
-[Éù
-Ã÷]£º°æÈ¨ÒÑ³öÊÛ
-[¹Û
-¿´]£ºÆäÐÀÈ»Ó°ÔºÔÚÏß¹Û¿´
+[Éù Ã÷]£º°æÈ¨ÒÑ³öÊÛ
+[¹Û ¿´]£ºÆäÐÀÈ»Ó°ÔºÔÚÏß¹Û¿´
 [¾«²Ê¾çÕÕÐÀÉÍ]£ºÌìÉÏµôÏÂ¸ö°×Äï×Ó¾çÕÕ
 ¡¶·çÁ÷²Å×ÓÌÆÐ¡»¢¡·ÎªÁË±ü³Ð×æÏÈµÄ·ç¸ñ£¬ÌÆÐ¡»¢¾ö¶¨½«ÅÝæ¤½øÐÐµ½µ×£¬...
-[Õý
-Æ¬]£º
+[Õý Æ¬]£º
 µÚÒ»¼¯
 µÚ¶þ¼¯
 ¸üÐÂÍê³É
@@ -43056,8 +41937,7 @@ msn:service300hu@hotmail.com
 ÌÆÐ¡»¢¾­µä»¨Ðõ
 [¾«²Ê¾çÕÕÐÀÉÍ]£º·çÁ÷²Å×ÓÌÆÐ¡»¢¾çÕÕ
 ¡¶ÎÒÓëÐ£»¨µÄÇà´ºÐÔÊÂ¡·ÊÇÒÔµ±´ú´óÑ§Ð£Ô°Éú»îÎª±³¾°£¬Î§ÈÆ×ÅÐ£»¨ÕâÒ»...
-[Õý
-Æ¬]£º
+[Õý Æ¬]£º
 ·ÇÀñ
 ³õÓö
 ¸üÐÂÍê³É
@@ -43179,27 +42059,22 @@ msn:service300hu@hotmail.com
 ´óÇÇñûÎÄ¾²»ñµÃ¹ú¼ÊÂÃÓÎÐ¡½ã×î¼ÑÉÏ¾µ½±
 Áì¾üµ¼ÑÝ¹ÜÏþ½Ü´òÔì80ºóÐÂµçÓ°ÎÄ»¯
 ¡¶´ó»°Èý¹úÖ®Ð£Ô°´óÕ½¡·ÒÔµ±´ú´óÑ§Ð£Ô°Éú»îÎª±³¾°£¬ÒÔÈý¹úÈËÎïºó´úÎª...
-[Õý
-Æ¬]£º
+[Õý Æ¬]£º
 µÚÒ»¼¯
 µÚ¶þ¼¯
 ¸üÐÂÍê³É
-[Æä
-Ëû]£º
+[Æä Ëû]£º
 Æ¬Î²ÇúMV
 Ô¤¸æÆ¬
 ¡¶ÊÍ·ÅµÄ°ÙºÏÐÄ¡·ÒÔÊ§Ñ§Å®Í¯Îª±³¾°µÄ´óÑ§ÉúÁªºÏ×ÔÅÄDVµçÓ°,ÊÇÄ¿Ç°...
-[Õý
-Æ¬]£º
+[Õý Æ¬]£º
 µÚÒ»¼¯
 µÚ¶þ¼¯
 ¸üÐÂÍê³É
-[Æä
-Ëû]£º
+[Æä Ëû]£º
 Ô¤¸æÆ¬
 ¡¶µçÓ°ÉÙÅ®¡·½²ÊöµÄÊÇÄ³¸ßµÈÑ§Ð£Ñ§Éú²ÌºÛ×·ÇóÅ®ÓÑ£¬Õýµ±Ëû×¼±¸¸æ°×Ê±...
-[Õý
-Æ¬]£º
+[Õý Æ¬]£º
 Ã¿ÈÕ¸üÐÂ---µã»÷¼´¿É¹Û¿´
 [ÆäËû]£º
 µçÓ°ÉÙÅ®MV
@@ -43207,14 +42082,11 @@ msn:service300hu@hotmail.com
 ÑÝÔ±ºØËê
 [¾«²Ê¾çÕÕÐÀÉÍ]£ºµçÓ°ÉÙÅ®¾­µä¾çÕÕ
 ¡¶ÌìÉÏµôÏÂ¸ö°×Äï×Ó¡·ÒÔÏÖ´úÎª±³¾°£¬ÒÔ°×Äï×ÓÈËÎïÎªÔ­ÐÎ£¬½²ÊöÁËÒ»¸ö...
-[Éù
-Ã÷]£º°æÈ¨ÒÑ³öÊÛ
-[¹Û
-¿´]£ºÆäÐÀÈ»Ó°ÔºÔÚÏß¹Û¿´
+[Éù Ã÷]£º°æÈ¨ÒÑ³öÊÛ
+[¹Û ¿´]£ºÆäÐÀÈ»Ó°ÔºÔÚÏß¹Û¿´
 [¾«²Ê¾çÕÕÐÀÉÍ]£ºÌìÉÏµôÏÂ¸ö°×Äï×Ó¾çÕÕ
 ¡¶·çÁ÷²Å×ÓÌÆÐ¡»¢¡·ÎªÁË±ü³Ð×æÏÈµÄ·ç¸ñ£¬ÌÆÐ¡»¢¾ö¶¨½«ÅÝæ¤½øÐÐµ½µ×£¬...
-[Õý
-Æ¬]£º
+[Õý Æ¬]£º
 µÚÒ»¼¯
 µÚ¶þ¼¯
 ¸üÐÂÍê³É
@@ -43222,8 +42094,7 @@ msn:service300hu@hotmail.com
 ÌÆÐ¡»¢¾­µä»¨Ðõ
 [¾«²Ê¾çÕÕÐÀÉÍ]£º·çÁ÷²Å×ÓÌÆÐ¡»¢¾çÕÕ
 ¡¶ÎÒÓëÐ£»¨µÄÇà´ºÐÔÊÂ¡·ÊÇÒÔµ±´ú´óÑ§Ð£Ô°Éú»îÎª±³¾°£¬Î§ÈÆ×ÅÐ£»¨ÕâÒ»...
-[Õý
-Æ¬]£º
+[Õý Æ¬]£º
 ·ÇÀñ
 ³õÓö
 ¸üÐÂÍê³É
@@ -43507,8 +42378,7 @@ msn:service300hu@hotmail.com
 ¡¤300hu×¨Çø¡¤ÓéÀÖÈ¦¡¤ÒÕÈËÃÎ¹¤³§¡¤ÐÂµ¼ÑÝÊÖ²á¡¤º«¾çÔÚÏß¡¤¼¼Êõ½»Á÷
 ´ó»°Èý¹úÖ®Ð£Ô°´óÕ½
 ¾çÇé½éÉÜ£ºÒÔµ±´ú´óÑ§Ð£Ô°Éú»îÎª±³¾°£¬ÒÔÈý¹úÈËÎïºó´úÎªÔ­ÐÍ£¬½²ÊöÁËÒ»¸ö¿çÔ½Ç§ÄêµÄ¸ÐÈË¹ÊÊÂ¡£Ó°Æ¬½«ÖÜè¤ÓëÐ¡ÇÇÊ×´Î°áÉÏÒøÄ»£¬Í¨¹ýÐ£Ô°ÌØÓÐµÄºóÏÖ´úÏ²¾ç±íÏÖÊÖ·¨£¬½èÖúÖÐ»ªÃñ×åÎåÇ§ÄêµÄÎÄ»¯µ×ÔÌ£¬¿Ì»­ÁËµ±´ú´óÑ§ÉúµÄ´óÈÊ¡¢´óÒå¡¢´óÖÇ¡¢´óÓÂ¡£
-[Õý
-Æ¬]
+[Õý Æ¬]
 µÚÒ»¼¯
 µÚ¶þ¼¯
 µÚÈý¼¯
@@ -43518,8 +42388,7 @@ msn:service300hu@hotmail.com
 µÚÆß¼¯
 µÚ°Ë¼¯
 µÚ¾Å¼¯
-[Æä
-Ëû]
+[Æä Ëû]
 Ô¤¸æÆ¬
 Æ¬Î²ÇúMV
 ¡¶´ó»°Èý¹ú¡·¾«²ÊÍ¼¼¯
@@ -43542,8 +42411,7 @@ msn:service300hu@hotmail.com
 Ð¡Ì¸ÕÅ·ÉºóÈËÖ®ÊÀ½ç¶¼ÔÚ½ø»¯
 ÊÍ·ÅµÄ°ÙºÏÐÄ
 ¾çÇé½éÉÜ£ºÒÔÊ§Ñ§Å®Í¯Îª±³¾°µÄ´óÑ§ÉúÁªºÏ×ÔÅÄDVµçÓ°,ÊÇÄ¿Ç°ÖÐ¹úÑ§ÉúDVµçÓ°×î´óÕóÈÝµÄÒ»´ÎÖÆ×÷£¬Ó°Æ¬ÄÚÈÝº¬¸Ç³¬ÏÖ´úµÄÏ²¾ç¡¢¶¯×÷¡¢Çé¸ÐµÈ¶àÖÖ×ÛºÏ³É·Ö¡£ÑÝÔ±ÕóÈÝ¿ÕÇ°Ç¿´ó£¬¾ç×é³ÉÔ±ÓÉÎäºº¸÷´ó×¨ÔºÐ£°®ºÃDVÈËÊ¿¹²Í¬×é³É¡£
-[Õý
-Æ¬]
+[Õý Æ¬]
 µÚÒ»¼¯
 µÚ¶þ¼¯
 µÚÈý¼¯
@@ -43559,8 +42427,7 @@ msn:service300hu@hotmail.com
 µÚÊ®Èý¼¯
 µÚÊ®ËÄ¼¯
 µÚÊ®Îå¼¯
-[Æä
-Ëû]
+[Æä Ëû]
 Ô¤¸æÆ¬
 ¡¶ÊÍ·ÅµÄ°ÙºÏÐÄ¡·¾«²ÊÍ¼¼¯
 Ð¡°ÙºÏÐ¡³¯Ñô¿ìÀÖÌÓÍö
@@ -43809,8 +42676,7 @@ PW
 µçÊÓ¾çÁ¬Ðø¾ç¡¶ÌìÑÛ¡·¹£¸Å
 ...
 [ÏêÇé]
-¡¾¡¶±±¾©
-ºûµû¡·¾ç×é¡¿ÕÐÆ¸²»ÏÞ
+¡¾¡¶±±¾© ºûµû¡·¾ç×é¡¿ÕÐÆ¸²»ÏÞ
 ºûµûÊÇ±ÈÓ÷£¬ÃÀÀöµÄºûµû£¬×Ü¸øÈËÒ»ÖÖÆà...
 [ÏêÇé]
 »ú¹¹»áÔ±Í¨¸æ
@@ -44674,9 +43540,7 @@ PW
 ×îÐÂ¾ç×éÍ¨¸æ
 È«¹ú|±±¾©|ÉÏº£|¹ã¶«|ºþÄÏ|½­ËÕ|¼ªÁÖ
 ¡¾µçÓ°
-¡¶ÀËÂþ
-0
-¹«Àï¡·¡¿
+¡¶ÀËÂþ 0 ¹«Àï¡·¡¿
 ÕÐÆ¸²»ÏÞ
 Ö°Î»ÒªÇó²»ÏÞ
 ·¢²¼Ê±¼ä£º2008-1-17
@@ -44823,8 +43687,7 @@ PW
 µçÊÓ¾çÁ¬Ðø¾ç¡¶ÌìÑÛ¡·¹£¸Å
 ...
 [ÏêÇé]
-¡¾¡¶±±¾©
-ºûµû¡·¾ç×é¡¿ÕÐÆ¸²»ÏÞ
+¡¾¡¶±±¾© ºûµû¡·¾ç×é¡¿ÕÐÆ¸²»ÏÞ
 ºûµûÊÇ±ÈÓ÷£¬ÃÀÀöµÄºûµû£¬×Ü¸øÈËÒ»ÖÖÆà...
 [ÏêÇé]
 »ú¹¹»áÔ±Í¨¸æ
@@ -45765,15 +44628,12 @@ Premiere¾­µä
 µ¼ÑÝ£ºÑîºÆ
 ¹ÊÊÂ·¢ÉúÔÚÐúÄÖ¡¢·±»ª¡¢³äÂúÉ§¶¯µÄ´ó¶¼ÊÐ£¬³ÇÊÐÉ­ÁÖÀïÂþÌìµÄ³´¹ÉÉù
 £ÛÏêÇé£Ý
-£Û±±¾©£Ý¡¶±±¾©
-ºûµû¡·¾ç×éÕÐÆ¸Ó°ÊÓÑÝÔ±
+£Û±±¾©£Ý¡¶±±¾© ºûµû¡·¾ç×éÕÐÆ¸Ó°ÊÓÑÝÔ±
 £Û±±¾©£Ý¡¶±í¿ÇÀïµÄ¿û»¨¡·¾ç×éÕÐÆ¸ÑÝÒÕÈËÔ±
 £Û±±¾©£Ý¡¶¾«ÎäÃÅ¡·¾ç×éÕÐÆ¸ÑÝÒÕÈËÔ±
 £Û±±¾©£ÝÒÕÈËÇ©Ô¼ÕÐÆ¸²»ÏÞ
 £Û±±¾©£ÝµçÓ°
-¡¶ÀËÂþ
-0
-¹«Àï¡·ÕÐÆ¸²»ÏÞ
+¡¶ÀËÂþ 0 ¹«Àï¡·ÕÐÆ¸²»ÏÞ
 ÑÝÔ±¸èÊÖÄ£ÌØÎèµ¸Ö÷³ÖÈË
 »ÆÎ¬µÂ
 ÈÎ·Æ·Æ
@@ -46115,15 +44975,12 @@ HebeÑ©ÖÐÀËÂþ¸æ°×
 µ¼ÑÝ£ºÑîºÆ
 ¹ÊÊÂ·¢ÉúÔÚÐúÄÖ¡¢·±»ª¡¢³äÂúÉ§¶¯µÄ´ó¶¼ÊÐ£¬³ÇÊÐÉ­ÁÖÀïÂþÌìµÄ³´¹ÉÉù
 £ÛÏêÇé£Ý
-£Û±±¾©£Ý¡¶±±¾©
-ºûµû¡·¾ç×éÕÐÆ¸Ó°ÊÓÑÝÔ±
+£Û±±¾©£Ý¡¶±±¾© ºûµû¡·¾ç×éÕÐÆ¸Ó°ÊÓÑÝÔ±
 £Û±±¾©£Ý¡¶±í¿ÇÀïµÄ¿û»¨¡·¾ç×éÕÐÆ¸ÑÝÒÕÈËÔ±
 £Û±±¾©£Ý¡¶¾«ÎäÃÅ¡·¾ç×éÕÐÆ¸ÑÝÒÕÈËÔ±
 £Û±±¾©£ÝÒÕÈËÇ©Ô¼ÕÐÆ¸²»ÏÞ
 £Û±±¾©£ÝµçÓ°
-¡¶ÀËÂþ
-0
-¹«Àï¡·ÕÐÆ¸²»ÏÞ
+¡¶ÀËÂþ 0 ¹«Àï¡·ÕÐÆ¸²»ÏÞ
 ÑÝÔ±¸èÊÖÄ£ÌØÎèµ¸Ö÷³ÖÈË
 »ÆÎ¬µÂ
 ÈÎ·Æ·Æ
@@ -46439,24 +45296,20 @@ vcvcv
 [¡¶Ôô¡·ÕýÆ¬Ò»]
 [ËÕÐ¡ÇÇÖ®êÓÃÁ]
 Ó°ÊÓ£ºÖÐ¹ú"µØÏÂµçÓ°"²»ÍêÈ«ÊÖ²á
-[¶ÀÁ¢µçÓ°ÄÜ·ñ×ß½ø´óÖÚÓ°Ôº
-]
+[¶ÀÁ¢µçÓ°ÄÜ·ñ×ß½ø´óÖÚÓ°Ôº ]
 [¹ØÓÚ¶ÀÁ¢µçÓ°µÄÒ»ÌÃ¿Î]
 [Á÷ÐÐÎÄ»¯12Äê£º¶ÀÁ¢µçÓ°]
-[ÖÐ¹ú¶ÀÁ¢µçÓ°Ê®Äê¼Ç
-]
+[ÖÐ¹ú¶ÀÁ¢µçÓ°Ê®Äê¼Ç ]
 Ê¥µ¤Ë¹¶ÀÁ¢µçÓ°½ÚµÄ¶ÀÁ¢¾«Éñ
 [¶ÀÁ¢µçÓ°µ¼ÑÝ³Â´äÃ·]
 [ÐÂÈñÇàÄêµ¼ÑÝ°¢Ä¾]
-[ÆäÊµ£¬ÎÒÊÇÒ»¸öµ¼ÑÝ
-]
+[ÆäÊµ£¬ÎÒÊÇÒ»¸öµ¼ÑÝ ]
 [¼ÖÕÁ¿Â¿ªÆôÒµÓàµçÓ°Ê±´ú]
 ¶ÀÁ¢µçÓ°Æß¾ý×ÓÉÏÊé
 [ÐÂµ¼ÑÝ¡°µØÏÂµçÓ°¡±·ÃÌ¸]
 [¶ÀÁ¢µ¼ÑÝ²É·Ã¡ªÑîß®Êà]
 [¶ÀÁ¢µçÓ°ÈËÖìÒ»Ò¶×¨·Ã]
-[º«¿¥£º¶ÀÁ¢µçÓ°Áìº½Õß
-]
+[º«¿¥£º¶ÀÁ¢µçÓ°Áìº½Õß ]
 ÐÂµ¼ÑÝÓ°ÏñÁì¾üÖÜÐÇ
 µ¼
 ÑÝ£ºÂ¬ÕýÓê
@@ -46682,8 +45535,7 @@ vcvcv
 ÑÝ£º
 Ó°Æ¬½éÉÜ£º
 [°ÂË¹¿¨ÈðÜç-ÍþÉªË¹ÅíÕýÊ½Àë]
-[¡°°²Å®ÀÉ¡±ÌÀÎ¨ÉíÊÀ´óÆðµ×
-]
+[¡°°²Å®ÀÉ¡±ÌÀÎ¨ÉíÊÀ´óÆðµ× ]
 ÏÖ³¡»Ø·Å
 ¡¶ÂÃ³Ì¡·Ö÷ÒªÑÝÔ±
 ¡¶ÂÃ³Ì¡·»î¶¯ÏÖ³¡
@@ -46697,8 +45549,7 @@ vcvcv
 ÀàÐÍ£ºÐþ»Ã
 Æ¬³¤£º2
 hour
-»ñ½±¼ÍÂ¼£º¡¶É³Ä®Ö®ÃÎ(Desert
-Dream)¡·½øÈëÁËµÚ57½ì°ØÁÖ¹ú¼ÊµçÓ°½Ú³¤Æª¾ºÈüµ¥Ôª
+»ñ½±¼ÍÂ¼£º¡¶É³Ä®Ö®ÃÎ(Desert Dream)¡·½øÈëÁËµÚ57½ì°ØÁÖ¹ú¼ÊµçÓ°½Ú³¤Æª¾ºÈüµ¥Ôª
 ×÷Æ·£º
 µ¼ÑÝ£º
 µ¼ÑÝ£º
@@ -46874,24 +45725,20 @@ Dream)¡·½øÈëÁËµÚ57½ì°ØÁÖ¹ú¼ÊµçÓ°½Ú³¤Æª¾ºÈüµ¥Ôª
 [¡¶Ôô¡·ÕýÆ¬Ò»]
 [ËÕÐ¡ÇÇÖ®êÓÃÁ]
 Ó°ÊÓ£ºÖÐ¹ú"µØÏÂµçÓ°"²»ÍêÈ«ÊÖ²á
-[¶ÀÁ¢µçÓ°ÄÜ·ñ×ß½ø´óÖÚÓ°Ôº
-]
+[¶ÀÁ¢µçÓ°ÄÜ·ñ×ß½ø´óÖÚÓ°Ôº ]
 [¹ØÓÚ¶ÀÁ¢µçÓ°µÄÒ»ÌÃ¿Î]
 [Á÷ÐÐÎÄ»¯12Äê£º¶ÀÁ¢µçÓ°]
-[ÖÐ¹ú¶ÀÁ¢µçÓ°Ê®Äê¼Ç
-]
+[ÖÐ¹ú¶ÀÁ¢µçÓ°Ê®Äê¼Ç ]
 Ê¥µ¤Ë¹¶ÀÁ¢µçÓ°½ÚµÄ¶ÀÁ¢¾«Éñ
 [¶ÀÁ¢µçÓ°µ¼ÑÝ³Â´äÃ·]
 [ÐÂÈñÇàÄêµ¼ÑÝ°¢Ä¾]
-[ÆäÊµ£¬ÎÒÊÇÒ»¸öµ¼ÑÝ
-]
+[ÆäÊµ£¬ÎÒÊÇÒ»¸öµ¼ÑÝ ]
 [¼ÖÕÁ¿Â¿ªÆôÒµÓàµçÓ°Ê±´ú]
 ¶ÀÁ¢µçÓ°Æß¾ý×ÓÉÏÊé
 [ÐÂµ¼ÑÝ¡°µØÏÂµçÓ°¡±·ÃÌ¸]
 [¶ÀÁ¢µ¼ÑÝ²É·Ã¡ªÑîß®Êà]
 [¶ÀÁ¢µçÓ°ÈËÖìÒ»Ò¶×¨·Ã]
-[º«¿¥£º¶ÀÁ¢µçÓ°Áìº½Õß
-]
+[º«¿¥£º¶ÀÁ¢µçÓ°Áìº½Õß ]
 ÐÂµ¼ÑÝÓ°ÏñÁì¾üÖÜÐÇ
 µ¼
 ÑÝ£ºÂ¬ÕýÓê
@@ -48535,11 +47382,7 @@ MR.SIN
 £³G
 Á÷Ã½ÌåÊÓÆµ¡¢´´Òâ¹ã¸æÆ¬µÄÅÄÉãÓëÖÆ×÷£¬ÖÂÁ¦ÓÚ´òÔìÖÐ¹ú80ºóÐÂÉú´úÓ°ÊÓÎÄ»¯²úÒµÁ´¡£´´Ê¼ÈËÎªµ¼ÑÝ¹ÜÏþ½Ü£¬´ú±í×÷ÓÐ¡¶ÊÍ·ÅµÄ°ÙºÏÐÄ¡·¡¢¡¶´ó»°Èý¹úÖ®Ð£Ô°´óÕ½¡·µÈ¡£
 ¸½Èý£º¡¶µçÓ°ÉÙÅ®¡·¾çÇé
-ÏÊÓÐÌÒ»¨ÔËµÄ²ÌºÛ(¸ßÈñ
-ÊÎ)Å¼È»ÖÐµÃµ½Ò»ÕÅÃÀÅ®¹âµú£¬Ë­ÖªÆ¬ÖÐµÄÃÀÉÙÅ®Ð¡Áã(Ä²Ë¼³Î
-ÊÎ)ÕæµÄ´ÓµçÊÓ»úÀï×ßÁË³öÀ´£¬²¢ÇÒ´òËãÁôÏÂÀ´ÕÕ¹ËÕâ¸öÆ½·²µÄ&ldquo;¸ç¸ç&rdquo;¡£²ÌºÛËäÈ»¾ª²ïÍò¶Ë£¬»¹ÊÇ½«Õâ¸öÃÕÑùµÄÉÙÅ®ÁôÁËÏÂÀ´¡£²ÌºÛ°µÁµµÄ¶ÔÏóÐ¡Ñ©(ÕÅÞ±Þ±
-ÊÎ)ÆäÊµÒ²Ò»Ö±Ò²¶ÔËû·¼ÐÄ°µÐí£¬Ö»ÊÇ¿àÓÚ²ÌºÛ³Ù³Ù²»¸Ò±í°×£¬ÖÕÓÚÔÚÐ¡ÁãµÄ°²ÅÅÏÂ£¬Á©ÈËµÄ¹ØÏµµÃµ½ÁË½øÒ»²½µÄ·¢Õ¹¡£ÉñÃØµÄMR.SI(ÔóÌï
-ÊÎ)µÄµ½À´´òÆÆÁËËûÃÇÆ½¾²µÄÉú»î£¬Ô­À´Ð¡Áã²»µ«ÊÇ¹âÓ°¹«Ë¾µÄ¸ß¿Æ¼¼ÈË¹¤ÉúÃüÌå£¬¶øÇÒ»¹ÃæÁÙ±»Ïú»ÙµÄÎ£»ú£¬ÎªÁË±£»¤Ð¡Áã£¬²ÌºÛ¾ÝÀíÁ¦Õù£¬Ò»³¡Õ½¶·¿ªÊ¼ÁË&hellip;&hellip;
+ÏÊÓÐÌÒ»¨ÔËµÄ²ÌºÛ(¸ßÈñ ÊÎ)Å¼È»ÖÐµÃµ½Ò»ÕÅÃÀÅ®¹âµú£¬Ë­ÖªÆ¬ÖÐµÄÃÀÉÙÅ®Ð¡Áã(Ä²Ë¼³Î ÊÎ)ÕæµÄ´ÓµçÊÓ»úÀï×ßÁË³öÀ´£¬²¢ÇÒ´òËãÁôÏÂÀ´ÕÕ¹ËÕâ¸öÆ½·²µÄ&ldquo;¸ç¸ç&rdquo;¡£²ÌºÛËäÈ»¾ª²ïÍò¶Ë£¬»¹ÊÇ½«Õâ¸öÃÕÑùµÄÉÙÅ®ÁôÁËÏÂÀ´¡£²ÌºÛ°µÁµµÄ¶ÔÏóÐ¡Ñ©(ÕÅÞ±Þ± ÊÎ)ÆäÊµÒ²Ò»Ö±Ò²¶ÔËû·¼ÐÄ°µÐí£¬Ö»ÊÇ¿àÓÚ²ÌºÛ³Ù³Ù²»¸Ò±í°×£¬ÖÕÓÚÔÚÐ¡ÁãµÄ°²ÅÅÏÂ£¬Á©ÈËµÄ¹ØÏµµÃµ½ÁË½øÒ»²½µÄ·¢Õ¹¡£ÉñÃØµÄMR.SI(ÔóÌï ÊÎ)µÄµ½À´´òÆÆÁËËûÃÇÆ½¾²µÄÉú»î£¬Ô­À´Ð¡Áã²»µ«ÊÇ¹âÓ°¹«Ë¾µÄ¸ß¿Æ¼¼ÈË¹¤ÉúÃüÌå£¬¶øÇÒ»¹ÃæÁÙ±»Ïú»ÙµÄÎ£»ú£¬ÎªÁË±£»¤Ð¡Áã£¬²ÌºÛ¾ÝÀíÁ¦Õù£¬Ò»³¡Õ½¶·¿ªÊ¼ÁË&hellip;&hellip;
 Ïà¹ØÐÂÎÅ
 ºÃÏûÏ¢£º¡¶µçÓ°ÉÙÅ®¡·Ìá¹©¸ßÇåÏÂÔØ
 2008-1-21
@@ -49099,8 +47942,7 @@ Mi
 ÓàÄÐµÚÁù¶È»ñ·âÓ°ºó
 2007-11-8
 Íõ¼ÒÎÀ£º¡¶2046¡·ÊÇÖÕ½á
-ÒÔºó²»ÅÄÀÏÉÏº£ÁË(Í¼
-2007-12-25
+ÒÔºó²»ÅÄÀÏÉÏº£ÁË(Í¼ 2007-12-25
 Ïã¸ÛÖÜÄ©Æ±·¿×ÛÊö£º¡¶Í¶Ãû×´¡·Á¬×¯Í·Ãû(×éÍ¼)
 2007-12-25
 Ïã¸ÛÆ±·¿×ÛÊö£º¡¶É«£¬½ä¡··ÜÓÂ³åÆÆ4000Íò
@@ -49147,8 +47989,7 @@ Mi
 ´ó°×öèÒìÐÎµÈÈëÎ§
 2007-11-7
 ¡¶Àí·¢Ê¦ÌÕµÂ¡·ÐÂº£±¨ÏÖÍøÂç
-É±ÊÖÌØÐ´ÁîÈËÐÄº®£¨Í¼
-2007-11-7
+É±ÊÖÌØÐ´ÁîÈËÐÄº®£¨Í¼ 2007-11-7 
 µ¤Ôó¶ûÐÂÆ¬ÈÈ±¬°ÂË¹¿¨
 ¡¶É«£¬½ä¡·¶á±ê¿ÖÎÞÍû
 2007-11-7
@@ -49156,8 +47997,7 @@ Mi
 ¿ËÂ³Ë¹ºÍ½¿ÆÞÐã¶÷°®£¨×éÍ¼£©
 2007-11-7
 ¡¶É«¼´ÊÇ¿Õ2¡·ÑÓÐøÇ°×÷ÈËÆø
-¹ÛÖÚÍ»ÆÆ100Íò(Í¼
-2007-12-25
+¹ÛÖÚÍ»ÆÆ100Íò(Í¼ 2007-12-25
 º«¹úµçÓ°07ÄêÈÕ±¾ÔÙÔâÀäÓö
 Æ±·¿È«ÃæÊ§Àû(¸½Í¼)
 2007-12-25
@@ -49439,11 +48279,9 @@ Muoi
 08ÄêÒÁÊ¼µÄÕâÕÅ¡¶ÎÒºÜºÃ¡·£¬ÕâÎåÄê¶ÔÁõÈôÓ¢¶øÑÔºÜÄÑ¶¨Òå¡£ÔÚÊ±ÉÐ¶àÃæÊÖÒ¦Ç«µÄ´øÁìÏÂ£¬ÁõÈôÓ¢Íæ¶ùµÄºÜHigh¡£..
 ÏêÏ¸
 [ÁõÈôÓ¢ÅÄMVÆ¨¹É³ÉéÙÆ¤]
-[ÁõÈôÓ¢Ò¹»áºÃÓÑÇ°ÄÐÓÑ
-Ò¹]
+[ÁõÈôÓ¢Ò¹»áºÃÓÑÇ°ÄÐÓÑ Ò¹]
 »°Ìâ£º
-[ÁõµÂ»ª¾ÍÏñÒ»Á¾É£ËþÄÉ
-¼¼ÊõËäÂäºóµ×ÔÌÈÔÊ®×ã]
+[ÁõµÂ»ª¾ÍÏñÒ»Á¾É£ËþÄÉ ¼¼ÊõËäÂäºóµ×ÔÌÈÔÊ®×ã]
 [½¹µã]
 ÎÞÏßÒôÀÖ½±ÍêÈ«»ñ½±Ãûµ¥
 ºÎÔÏÊ«ÓÂ¶áËÄ½±¿ñÅçÏãéÄ
@@ -50172,7 +49010,7 @@ TVBÁ÷¹âÆ¬Ó°40Äê
 ¡¶Éäµñ¡·ºáµê¼ûÃæ»á
 ºú¸èÁÖÒÀ³¿»ÆÇïÉú³öÏ¯2007-12-14
 ¡¶·À»ðÇ½5788¡·ÈÈÅÄ
-ÏÄÓêÏÖ³¡¡°ÑÞ¸£¡±²»Ç³£¨Í¼2007-11-8
+ÏÄÓêÏÖ³¡¡°ÑÞ¸£¡±²»Ç³£¨Í¼2007-11-8 
 ¡°ºçÃ¨À¶ÍÃ¡±ÈëÑ¡ÓÅÐã¹ú²ú¶¯»­Æ¬Ò»µÈ½±ÈÇÕùÒé2007-11-7
 º«Ñ©ÑÝÒï¡°ÆìÅÛÏ·¡±¡¶±±Æ½ÍùÊÂ¡·½¥ÈëÅ£ÊÐ£¨Í¼£©2007-11-7
 ¡¶Ó¢ÐÛÎÞÃû¡·ÖØÇìÈÈÅÄ
@@ -50198,11 +49036,9 @@ TVBÁ÷¹âÆ¬Ó°40Äê
 ºÏÅÄµçÊÓ¾ç¿ÉÏíÊÜ´óÂ½¾ç´ýÓö
 2007-11-7
 ¸Û°æ¡¶³¬¼¶Å®Éù¡·Ê×²¥³ö
-18ÃûÃÀÉÙÅ®ÕùÆæ¶·ÑÞ£¨Í¼
-2007-11-7
+18ÃûÃÀÉÙÅ®ÕùÆæ¶·ÑÞ£¨Í¼ 2007-11-7 
 ÎÞÏß¶þÁãÁã°ËÄêÔÂÀúÆØ¹â
-¶þÊ®Î»µ±ºìÑÝÔ±ÊÜÁ¦Åõ£¨×é
-2007-11-6
+¶þÊ®Î»µ±ºìÑÝÔ±ÊÜÁ¦Åõ£¨×é 2007-11-6 
 ¹Ø¾ÕÓ¢Ö£ÈÚÎÀÀ¼¡¶ôä´ä¸èÐÇºØÌ¨Çì¡·²ÊÅÅ£¨×éÍ¼£©
 2007-11-2
 TVBÍòÇ§ÐÇ»Ô°ä½±Àñ±¾ÔÂÖÐÑ®¾ÙÐÐ
@@ -50232,8 +49068,7 @@ TVBÍòÇ§ÐÇ»Ô°ä½±Àñ±¾ÔÂÖÐÑ®¾ÙÐÐ
 µçÊÓ½ÚÄ¿¿ªÊ¼ÖØ²¥£¨Í¼£©
 2007-11-6
 ¡¶ÕûÐÎÊÒ¡·ÑªÐÈÉ«ÇéÒýÕùÒé
-µÚÎå¼¾ÐÂ¾çÕÕÆØ¹â£¨×éÍ¼
-2007-11-2
+µÚÎå¼¾ÐÂ¾çÕÕÆØ¹â£¨×éÍ¼ 2007-11-2 
 Íþ¶û-Ê·ÃÜË¹¸Ï×ß°¢ÌÀ¸çµ±Ñ¡07×îÓÐÓ°ÏìÁ¦ÄÐÐÇ
 2007-10-31
 Âõ¿Ë¶û-µÀ¸ñÀ­Ë¹¸ñÍâÏ²°®ÐÂ½ÇÉ«¸¸Ç×ºÍÕÉ·ò
@@ -51239,24 +50074,11 @@ NBA
 ¼¼Êõ½»Á÷
 ½ñÈÕÈÈµã
 ¡¶³¤½­ÆßºÅ¡·Ô¤¸æÆ¬
-[
-Íâ¹ú×ãÇòÃ÷ÐÇÎÆÉí
-]
-[
-ÁÖÖ¾ìÅÐÔ²¡³óÎÅÊÂ
-]
-[
-ÖÜ½ÜÂ×¡¶Å£×ÐºÜÃ¦
-]
-[
-ÄÇÓ¢Ç©¸´³öµÚÒ»µ¥
-]
-[
-ÅË³¤½­¼¤ÎÇÄ°ÉúÅ®
-]
-[
-2007µÚ44½ì
-]
+[ Íâ¹ú×ãÇòÃ÷ÐÇÎÆÉí ]
+[ ÁÖÖ¾ìÅÐÔ²¡³óÎÅÊÂ ]
+[ ÖÜ½ÜÂ×¡¶Å£×ÐºÜÃ¦ ] [ ÄÇÓ¢Ç©¸´³öµÚÒ»µ¥ ] 
+[ ÅË³¤½­¼¤ÎÇÄ°ÉúÅ® ]
+[ 2007µÚ44½ì ]
 ´óSÖÜÓåÃñÕýÊ½·ÖÊÖ
 [¶ñ×÷¾ç2ÎÇÎ´É¾°æ]
 [ÓÐÇ®Ã»Ç®»Ø¼Ò¹ýÄê]
@@ -53320,24 +52142,11 @@ hu
 ¼¼Êõ½»Á÷
 ½ñÈÕÈÈµã
 ¡¶³¤½­ÆßºÅ¡·Ô¤¸æÆ¬
-[
-Íâ¹ú×ãÇòÃ÷ÐÇÎÆÉí
-]
-[
-ÁÖÖ¾ìÅÐÔ²¡³óÎÅÊÂ
-]
-[
-ÖÜ½ÜÂ×¡¶Å£×ÐºÜÃ¦
-]
-[
-ÄÇÓ¢Ç©¸´³öµÚÒ»µ¥
-]
-[
-ÅË³¤½­¼¤ÎÇÄ°ÉúÅ®
-]
-[
-2007µÚ44½ì
-]
+[ Íâ¹ú×ãÇòÃ÷ÐÇÎÆÉí ]
+[ ÁÖÖ¾ìÅÐÔ²¡³óÎÅÊÂ ]
+[ ÖÜ½ÜÂ×¡¶Å£×ÐºÜÃ¦ ] [ ÄÇÓ¢Ç©¸´³öµÚÒ»µ¥ ] 
+[ ÅË³¤½­¼¤ÎÇÄ°ÉúÅ® ]
+[ 2007µÚ44½ì ]
 ´óSÖÜÓåÃñÕýÊ½·ÖÊÖ
 [¶ñ×÷¾ç2ÎÇÎ´É¾°æ]
 [ÓÐÇ®Ã»Ç®»Ø¼Ò¹ýÄê]
@@ -55823,8 +54632,7 @@ KIKI
 ¡¶123Ä¾Í·¡·
 2008-1-31
 04
-¡¶¡¶¸ïÃüÆø½Ú¡·
-2008-1-31
+¡¶¡¶¸ïÃüÆø½Ú¡· 2008-1-31  
 05
 ¡¶Î¨Ò»¡·
 2008-1-31

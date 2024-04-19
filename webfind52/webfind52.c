@@ -57,8 +57,8 @@ extern     int   t1_out_ptr;
 extern     int   t1_init_tree2(void);
 extern     int   t1_new_node(void);
 extern     int   t1_clear_node(int ptr);
-extern     int   t1_search_node(char *pstr);
-extern     int   t1_insert_node(char *pstr);
+extern     int   t1_search_node(char *pstr,int);
+extern     int   t1_insert_node(char *pstr,int);
 extern     int   t1_dsp_tree2(void);
 extern     int   t1_after_list(void);
 extern     int   t1_out_list(char *pstr,int ,int);
@@ -126,7 +126,7 @@ int word8(char *pstr1)
         		else break;
 		}
 
-		t1_insert_node(m201_str1);
+		t1_insert_node(m201_str1,5000);
       
 	}
 

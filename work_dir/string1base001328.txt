@@ -3509,9 +3509,7 @@ QQ论坛
 UAA六天七夜浪漫海岛真情大考验活动现募集选手，请您任选4种方式获得晋级资格，即可免费赴荒蛮海岛参加生存考验，还有25万大奖等你拿！[详细]
 -->
 徐若&#29764;约会绯闻男友曹格
-台湾“放电女王”徐若&#29764;(Vivian)今年三十一岁，依然电力十足，挥别旧爱吴建豪后，近来圈内盛传她又有新目标，就是和她合唱《I
-Still
-Believe》的曹格，两人昨凌晨于知名同志(同性恋)酒吧Funky约会，被拱上台后还甜蜜对唱情歌，Vivian对着曹格摆动水蛇腰疯狂放电。
+台湾“放电女王”徐若&#29764;(Vivian)今年三十一岁，依然电力十足，挥别旧爱吴建豪后，近来圈内盛传她又有新目标，就是和她合唱《I Still Believe》的曹格，两人昨凌晨于知名同志(同性恋)酒吧Funky约会，被拱上台后还甜蜜对唱情歌，Vivian对着曹格摆动水蛇腰疯狂放电。
 [1]
 [2]
 [3]
@@ -4274,8 +4272,7 @@ QQ论坛
 UAA六天七夜浪漫海岛真情大考验活动现募集选手，请您任选4种方式获得晋级资格，即可免费赴荒蛮海岛参加生存考验，还有25万大奖等你拿！[详细]
 -->
 谢霆锋妹妹约会混血新欢
-9月1日，去年在温哥华UBC大学毕业后返港的谢霆锋妹妹谢婷婷，被香港媒体爆料前日与一名貌似好莱坞影星马特&#183;达蒙(Matt
-Damon)的混血男子在中环挑选高跟鞋，报道说，两人在店内打情骂俏，表现十分亲密。
+9月1日，去年在温哥华UBC大学毕业后返港的谢霆锋妹妹谢婷婷，被香港媒体爆料前日与一名貌似好莱坞影星马特&#183;达蒙(Matt Damon)的混血男子在中环挑选高跟鞋，报道说，两人在店内打情骂俏，表现十分亲密。
 [1]
 [2]
 [3]
@@ -14211,8 +14208,7 @@ QQ论坛
 UAA六天七夜浪漫海岛真情大考验活动现募集选手，请您任选4种方式获得晋级资格，即可免费赴荒蛮海岛参加生存考验，还有25万大奖等你拿！[详细]
 -->
 徐若&#29764;约会神秘男被拍
-2006年7月10日，徐若&#29764;（Vivian）告别F4肌肉男吴建豪后，近日频和斯文有型的短裤男约会。据查他是TVBS-G时尚节目《Fashion
-Walker》制作人张恩硕，日前两人吃烧肉、看电影，他主动帮她提包包，还配合脚伤未愈的Vivian穿夹脚拖鞋逛街。
+2006年7月10日，徐若&#29764;（Vivian）告别F4肌肉男吴建豪后，近日频和斯文有型的短裤男约会。据查他是TVBS-G时尚节目《Fashion Walker》制作人张恩硕，日前两人吃烧肉、看电影，他主动帮她提包包，还配合脚伤未愈的Vivian穿夹脚拖鞋逛街。
 [1]
 [2]
 [3]
@@ -26787,17 +26783,11 @@ Cover封面女郎选拔大赛
 #fodsx
 {}
 #fodsx
-td.sx0{background:url(../../../../mat1.qq.com/lady/indexpic910/ncard01.jpg)
-right
-no-repeat;}
+td.sx0{background:url(../../../../mat1.qq.com/lady/indexpic910/ncard01.jpg) right no-repeat;}
 #fodsx
-td.sx1{background:url(../../../../mat1.qq.com/lady/indexpic910/ncard02.jpg)
-right
-no-repeat;}
+td.sx1{background:url(../../../../mat1.qq.com/lady/indexpic910/ncard02.jpg) right no-repeat;}
 #fodsx
-td.sx2{background:url(../../../../mat1.qq.com/lady/indexpic910/ncard03.jpg)
-right
-no-repeat;}
+td.sx2{background:url(../../../../mat1.qq.com/lady/indexpic910/ncard03.jpg) right no-repeat;}
 #fodsx
 #Fod_listx
 p{margin:0;padding:0;width:191px;float:left;text-align:center;padding-top:6px;line-height:14px;color:#fff;font-weight:bold;font-size:12px;}
@@ -26809,8 +26799,7 @@ div.x{font-size:12px;color:#e62c71;text-align:center;width:88px;height:18px;padd
 .sx{font-size:12px;color:#e62c71;text-align:center;width:88px;height:18px;padding-top:4px;line-height:16px;float:left;cursor:pointer;}
 #fodsx
 ul,li{list-style-type:none;margin:0;padding:0;}
-.dis{disop;
-background-repeat:no-repeat;margin-bottom:4px;">
+.dis{disop; background-repeat:no-repeat;margin-bottom:4px;">
 节
 日
 服
@@ -28669,17 +28658,11 @@ Cover封面女郎选拔大赛
 #fodsx
 {}
 #fodsx
-td.sx0{background:url(../../../mat1.qq.com/lady/indexpic910/ncard01.jpg)
-right
-no-repeat;}
+td.sx0{background:url(../../../mat1.qq.com/lady/indexpic910/ncard01.jpg) right no-repeat;}
 #fodsx
-td.sx1{background:url(../../../mat1.qq.com/lady/indexpic910/ncard02.jpg)
-right
-no-repeat;}
+td.sx1{background:url(../../../mat1.qq.com/lady/indexpic910/ncard02.jpg) right no-repeat;}
 #fodsx
-td.sx2{background:url(../../../mat1.qq.com/lady/indexpic910/ncard03.jpg)
-right
-no-repeat;}
+td.sx2{background:url(../../../mat1.qq.com/lady/indexpic910/ncard03.jpg) right no-repeat;}
 #fodsx
 #Fod_listx
 p{margin:0;padding:0;width:191px;float:left;text-align:center;padding-top:6px;line-height:14px;color:#fff;font-weight:bold;font-size:12px;}
@@ -28691,8 +28674,7 @@ div.x{font-size:12px;color:#e62c71;text-align:center;width:88px;height:18px;padd
 .sx{font-size:12px;color:#e62c71;text-align:center;width:88px;height:18px;padding-top:4px;line-height:16px;float:left;cursor:pointer;}
 #fodsx
 ul,li{list-style-type:none;margin:0;padding:0;}
-.dis{disop;
-background-repeat:no-repeat;margin-bottom:4px;">
+.dis{disop; background-repeat:no-repeat;margin-bottom:4px;">
 节
 日
 服
@@ -29014,8 +28996,7 @@ l一般6个月至3岁流口水较常见，大部分是正常现象。婴儿口腔浅…详细
 [母乳]
 [剖腹产]
 [乳房清洁]
-[B
-超]
+[B 超]
 [遗传病]
 [出生时间]
 婚恋交友社区的爱情小镇
@@ -29293,18 +29274,8 @@ Reserved
 营养学校
 >>更多
 我我我我哦我哦我哦我哦我为我我我我哦我哦我哦我哦我为我为我我我我哦我哦我哦我哦我为我...[详细]
-[哈
-哈][哈
-哈][哈
-哈][哈
-哈][哈
-哈]
-[哈
-哈][哈
-哈][哈
-哈][哈
-哈][哈
-哈]
+[哈 哈][哈 哈][哈 哈][哈 哈][哈 哈]
+[哈 哈][哈 哈][哈 哈][哈 哈][哈 哈]
 ·
 怎样让宝宝健康选择甜食[图]
 ·
@@ -29337,18 +29308,8 @@ Reserved
 营养学校
 >>更多
 我我我我哦我哦我哦我哦我为我我我我哦我哦我哦我哦我为我为我我我我哦我哦我哦我哦我为我...[详细]
-[哈
-哈][哈
-哈][哈
-哈][哈
-哈][哈
-哈]
-[哈
-哈][哈
-哈][哈
-哈][哈
-哈][哈
-哈]
+[哈 哈][哈 哈][哈 哈][哈 哈][哈 哈]
+[哈 哈][哈 哈][哈 哈][哈 哈][哈 哈]
 ·
 怎样让宝宝健康选择甜食[图]
 ·
@@ -29381,18 +29342,8 @@ Reserved
 营养学校
 >>更多
 我我我我哦我哦我哦我哦我为我我我我哦我哦我哦我哦我为我为我我我我哦我哦我哦我哦我为我...[详细]
-[哈
-哈][哈
-哈][哈
-哈][哈
-哈][哈
-哈]
-[哈
-哈][哈
-哈][哈
-哈][哈
-哈][哈
-哈]
+[哈 哈][哈 哈][哈 哈][哈 哈][哈 哈]
+[哈 哈][哈 哈][哈 哈][哈 哈][哈 哈]
 ·
 怎样让宝宝健康选择甜食[图]
 ·
@@ -42736,10 +42687,8 @@ AK博士口服化妆品
 [抗老产品]
 [欧美药妆]
 [眼线笔]
-[腮
-红]
-[唇
-彩]
+[腮 红]
+[唇 彩]
 [清洁面膜]
 [国货洁面品]
 [遮瑕笔]
@@ -45759,17 +45708,11 @@ Cover封面女郎选拔大赛
 #fodsx
 {}
 #fodsx
-td.sx0{background:url(../mat1.qq.com/lady/indexpic910/ncard01.jpg)
-right
-no-repeat;}
+td.sx0{background:url(../mat1.qq.com/lady/indexpic910/ncard01.jpg) right no-repeat;}
 #fodsx
-td.sx1{background:url(../mat1.qq.com/lady/indexpic910/ncard02.jpg)
-right
-no-repeat;}
+td.sx1{background:url(../mat1.qq.com/lady/indexpic910/ncard02.jpg) right no-repeat;}
 #fodsx
-td.sx2{background:url(../mat1.qq.com/lady/indexpic910/ncard03.jpg)
-right
-no-repeat;}
+td.sx2{background:url(../mat1.qq.com/lady/indexpic910/ncard03.jpg) right no-repeat;}
 #fodsx
 #Fod_listx
 p{margin:0;padding:0;width:191px;float:left;text-align:center;padding-top:6px;line-height:14px;color:#fff;font-weight:bold;font-size:12px;}
@@ -45781,8 +45724,7 @@ div.x{font-size:12px;color:#e62c71;text-align:center;width:88px;height:18px;padd
 .sx{font-size:12px;color:#e62c71;text-align:center;width:88px;height:18px;padding-top:4px;line-height:16px;float:left;cursor:pointer;}
 #fodsx
 ul,li{list-style-type:none;margin:0;padding:0;}
-.dis{disop;
-background-repeat:no-repeat;margin-bottom:4px;">
+.dis{disop; background-repeat:no-repeat;margin-bottom:4px;">
 节
 日
 服
@@ -45906,8 +45848,7 @@ N件美发工具
 ·最富男性气质10张中国面孔评选
 ·明星宝宝大赛
 网友免费做发型
-·《健康与美容bea’s
-up》上市
+·《健康与美容bea’s up》上市
 ·欧莱雅有奖调查
 向往景点评选
 专
@@ -46100,8 +46041,7 @@ SUPER奢品
 更多
 美容头条：10分钟教你快速实现完美妆容[图]
 [都市时髦女最爱缤纷彩妆]
-[轻松4步骤
-打造简单日妆]
+[轻松4步骤 打造简单日妆]
 绚丽彩妆
 ·都市时髦女郎最爱缤纷彩妆[组图]
 ·10分钟教你快速实现完美妆容[图]
@@ -46463,8 +46403,7 @@ T台风云
 花季少女蕾丝性感内衣
 服饰头条：好莱坞明星推荐的最IN单品
 [时尚女士们最青睐的十件奢品]
-[橙金色单品
-助你抢眼过新年]
+[橙金色单品 助你抢眼过新年]
 搭配教程
 ·维多利亚的秘密花边小睡裙[组图]
 ·11款裙装组合打造浪漫情人节[图]
@@ -46542,8 +46481,7 @@ O'Connor的高街回忆录
 韩式可爱的小卷发[组图]
 更多
 秀发头条：女星PK芭比娃娃看谁更性感
-[回顾王菲演唱会惊艳发型][
-挑战极限美容大王毁发]
+[回顾王菲演唱会惊艳发型][ 挑战极限美容大王毁发]
 护发宝典
 ·10大秘诀让美丽秀发不怕它脱[图]
 ·严格纠正洗发按摩护发误区[组图]
@@ -46604,8 +46542,7 @@ O'Connor的高街回忆录
 ·萨科齐婚事成爱尔兰报纸广告噱头
 更多
 遭遇背叛：多少女人重蹈美狄亚覆辙？
-[女子跳楼身亡
-博客讲述丈夫不忠]
+[女子跳楼身亡 博客讲述丈夫不忠]
 [看男人背叛老婆的风险评估]
 情爱生活
 ·婚姻：中国城市“3S”夫妻排行榜
@@ -58218,8 +58155,7 @@ Reserved
 蜜月旅行
 -
 浪漫新居
-《COSMO
-Bride时尚新娘》中国夫妇大调查
+《COSMO Bride时尚新娘》中国夫妇大调查
 幸福的夫妇各有各的幸福，那么，你知道哪的丈夫最多情？哪的妻子最温柔？哪的丈夫最帅气？哪的妻子最美丽？
 挑选适合自己的婚纱面料
 如果选择好适合自己的面料，更有助于表现出新娘与婚纱之间的和谐关系，让我们来详细了解一下。
@@ -59046,17 +58982,11 @@ Cover封面女郎选拔大赛
 #fodsx
 {}
 #fodsx
-td.sx0{background:url(http://mat1.qq.com/lady/indexpic910/ncard01.jpg)
-right
-no-repeat;}
+td.sx0{background:url(http://mat1.qq.com/lady/indexpic910/ncard01.jpg) right no-repeat;}
 #fodsx
-td.sx1{background:url(http://mat1.qq.com/lady/indexpic910/ncard02.jpg)
-right
-no-repeat;}
+td.sx1{background:url(http://mat1.qq.com/lady/indexpic910/ncard02.jpg) right no-repeat;}
 #fodsx
-td.sx2{background:url(http://mat1.qq.com/lady/indexpic910/ncard03.jpg)
-right
-no-repeat;}
+td.sx2{background:url(http://mat1.qq.com/lady/indexpic910/ncard03.jpg) right no-repeat;}
 #fodsx
 #Fod_listx
 p{margin:0;padding:0;width:191px;float:left;text-align:center;padding-top:6px;line-height:14px;color:#fff;font-weight:bold;font-size:12px;}
@@ -59068,8 +58998,7 @@ div.x{font-size:12px;color:#e62c71;text-align:center;width:88px;height:18px;padd
 .sx{font-size:12px;color:#e62c71;text-align:center;width:88px;height:18px;padding-top:4px;line-height:16px;float:left;cursor:pointer;}
 #fodsx
 ul,li{list-style-type:none;margin:0;padding:0;}
-.dis{disop;
-background-repeat:no-repeat;margin-bottom:4px;">
+.dis{disop; background-repeat:no-repeat;margin-bottom:4px;">
 节
 日
 服
@@ -61518,8 +61447,7 @@ Reserved
 ·吴晴男人装写真温存如水
 18日10:08
 更多
-《嘉人marie
-clair》杂志08年1月刊精彩推荐
+《嘉人marie clair》杂志08年1月刊精彩推荐
 ·中国首部时尚电影《时尚先生》电影开机秀
 ·国内首部时尚电影《时尚先生》大揭密[图]
 ·2007《时尚芭莎》BAZAAR南岸艺术慈善夜
@@ -62482,9 +62410,7 @@ QQ星工场_腾讯女性
 星工场
 论坛
 博客
-<xmp
-id="tpl_cur_user"
-style="display:none">
+<xmp id="tpl_cur_user" style="display:none">
 当前注册人数：
 QQ：${user_id}
 昵称：${user_nick}
@@ -62835,9 +62761,7 @@ QQ星工场_腾讯女性
 星工场
 论坛
 博客
-<xmp
-id="tpl_cur_user"
-style="display:none">
+<xmp id="tpl_cur_user" style="display:none">
 当前注册人数：
 QQ：${user_id}
 昵称：${user_nick}
@@ -63730,8 +63654,7 @@ background="http://mat1.qq.com/lady/images/zhuanti/guanggun/n_15.gif">
 当你被各种斑斓的皮草搞得眼花缭乱，只能价签上分辨高低时，你需要真正的认识它们了。不是任何动物的皮毛都可以用来做皮草。皮草主要分为四大类……[点击查看详细介绍]
 皮草搭配
 妹妹试穿
-学习了那么多的皮草知识，也该让我们自己美一美了吧！皮草的搭配是最容易出效果却不好掌握的一门，所以编辑还特地找来了漂亮的妹妹去试穿了一把！快来看看吧！（感谢NORRY
-ROCK服装与场地支持）。
+学习了那么多的皮草知识，也该让我们自己美一美了吧！皮草的搭配是最容易出效果却不好掌握的一门，所以编辑还特地找来了漂亮的妹妹去试穿了一把！快来看看吧！（感谢NORRY ROCK服装与场地支持）。
 h);
 "
 background="http://mat1.qq.com/lady/images/zhuanti/guanggun/n_15.gif">

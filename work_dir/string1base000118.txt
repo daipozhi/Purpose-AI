@@ -6,8 +6,7 @@ CSSµÄ×¨ÒµÓë·ÖÏí
 Äê
 11
 ÔÂ£¬Î¢Èí´óÖÐ»ªÇø¼¼ÊõÖ§³ÖÖÐÐÄÔÚÉÏº£ÉèÁ¢£¬£¨Î¢Èí´óÖÐ»ªÇøÈ«Çò¼¼ÊõÖ§³ÖÖÐÐÄÇ°Éí£©ÕâÊÇÈ«Çò500Ç¿ÆóÒµÔÚÖÐ¹úÉèÁ¢µÄµÚÒ»¸öÈ«ÇòÖÐÐÄ£¬Ö÷ÒªÎªÈ«ÇòµÄ¿Í»§ºÍºÏ×÷»ï°éÌá¹©ÊÀ½çÒ»Á÷µÄ·þÎñºÍ¼¼ÊõÖ§³Ö¡£Í¬Ê±£¬ËüºÍÎ¢Èí5¸öÈ«Çò¼¼ÊõÖ§³ÖÖÐÐÄ....
-[ÔÄ¶ÁGCR
-CSSÊ®Äê³É¾ÍÈ«ÎÄ]
+[ÔÄ¶ÁGCR CSSÊ®Äê³É¾ÍÈ«ÎÄ]
 ·þÎñÈË²ÅÔÚGCR
 CSSÕâÆ¬ÎÖÍÁÖÐ³É³¤
 [¶«·½Ôç±¨]
@@ -859,8 +858,7 @@ PSPÊÀ½ç×ãÇò
 ¡¶Ê¤Àû11ÈË
 PSPÄ£ÄâÓÎÏ·SFC¡¶46ÒÚÄê
 PSP
-[ÊÀ½ç×ãÇò
-Ê¤ÀûÊ®Ò»
+[ÊÀ½ç×ãÇò Ê¤ÀûÊ®Ò»
 PSP
 ³¬ÈËÆø½âÃÜÓÎÏ·¡¶Éñ
 [¶¯×÷ÓÎÏ·]ÖÕ¼«·è¿ñ
@@ -978,8 +976,7 @@ XPºÍ2000ÏÂÔËÐÐDOSÓÎÏ·±Ø±¸Èí¼þDOSBoxÏÂÔØ
 [ÏêÏ¸ÄÚÈÝ]
 PChome×îÐÂÓÎÏ·ÐÂÎÅ
 PS3²»ÈÃX360×¨ÃÀÓÚÇ°£¬Ò²
-[ÈÌÕßÁú½£´«
-ºÚÖ®ÕÂ]ÏÂÔØ
+[ÈÌÕßÁú½£´« ºÚÖ®ÕÂ]ÏÂÔØ
 [PS3]¡¶¹íÆü4¡·È«Á÷³ÌÏê
 ºÜ»ÆºÜÑÞÀö
 ÐÁÆÕÉ­Ò»×åÏÞ
@@ -6501,12 +6498,7 @@ PChome:ÊÐ³¡ÉÏÓÐºÜ¶àÖÖ·´²¡¶¾Èí¼þ£¬´ó¼Ò¶¼ºÅ³Æ×Ô¼ºµÄ¹¦ÄÜÈçºÎÈçºÎµÄ·á¸»¡¢Ç¿´ó£¬¹ã´óÏ
 »ÆÖÇ»ª£ºÅµ¶Ù360ÕýÈçÆäÉè¼ÆÀíÄîÒ»Ñù£¬ÊÇÎªÏû·ÑÕßÌá¹©Ò»¸öÃæ¶Ô»¥ÁªÍøµÄ°²È«ÍþÐ²µÄÒ»Ìå»¯µÄ°²È«½â¾ö·½°¸£¬ÕâÑùÒ»¸ö°²È«½â¾ö·½°¸ÄÜ±£»¤Ïû·ÑÕßÔÚËûµÄÍøÂçÉú»îÖÐ×î´óÏÞ¶ÈµØÈ¥Ãæ¶Ô¸÷ÖÖÍøÂçÍþÐ²¡£×÷ÎªÒ»¸öÏû·ÑÕß£¬ÔÚÑ¡Ôñ°²È«²úÆ·Ê±£¬ºÜÖØÒªµÄÓÐÁ½µã¡£Ò»ÊÇÕâ¸ö²úÆ·µÄ¹¦ÄÜÄÜ¹»Âú×ãÄãµÄÐèÇó¡£ÔõÑùÔÚÄ¿Ç°¶à±äµÄ¡¢ÑÏÖØµÄÍþÐ²Çé¿öÏÂ£¬Ñ¡ÔñÒ»¸ö¶à¹¦ÄÜµÄ²úÆ·£¬ÄÜ¹»³ä·ÖÈ¥µÖÓùÍøÉÏµÄÍþÐ²ÊÇ·Ç³£ÖØÒªµÄ;µÚ¶þµã£¬×÷ÎªÏû·ÑÕß£¬ÓÃ»§ÌåÑéÒ²·Ç³£ÖØÒª¡£Ò»¸öºÃµÄ²úÆ·£¬ÔõÑùÍ¨¹ýÒ»¸öºÃµÄÓÃ»§ÌåÑéÀ´ÈÃÓÃ»§·Ç³£Ö±¹Û¡¢¸ßÐ§µØÈ¥ÓÃºÃÕâ¸ö²úÆ·Ò²ÊÇ·Ç³£ÖØÒªµÄ¡£ÐÔÄÜºÍÓÃ»§ÌåÑé£¬ÊÇÒ»¸öºÃµÄ²úÆ·µÄ·Ç³£ÖØÒªµÄ¿¼Á¿±ê×¼¡£ÎÒ·Ç³£ÓÐÐÅÐÄ£¬Åµ¶Ù
 360ÄÜÂú×ãÏû·ÑÕßµÄÕâ¸öËßÇó£¬ÎÒÃÇÒ²ÊÇ»ùÓÚÕâÒ»ËßÇóÀ´¿ª·¢ÕâÒ»²úÆ·µÄ¡£
 ::
-PChome:½ö¿¿´«Í³µÄÌØÕ÷ÂëÉ±¶¾¼¼ÊõÒÑ¾­ÄÑÒÔÓ¦¶ÔÈÕÇ÷¸´ÔÓµÄÖÖÖÖ¶ñÒâ³ÌÐò£¬ÏÖÔÚ¼¸ºõ¸÷´óÉ±¶¾Èí¼þ³§ÉÌ¶¼Ðû³ÆÔÚÆä·¢²¼µÄÐÂÆ·ÖÐ¼ÓÈëÁËÖ÷¶¯·ÀÓù¼¼Êõ£¬¾ÝÁË½â£¬Åµ¶Ù360Ò²¾ßÓÐÈüÃÅÌú¿Ë¶ÀÓÐµÄÏÈ½øÖ÷¶¯·ÀÓù¼¼Êõ¡ªSONAR(Symantec
-Online
-Network
-for
-Advanced
-Response£¬ÈüÃÅÌú¿ËÇ°Õ°ÏìÓ¦ÔÚÏßÍøÂç)£¬ÄúÄÜ¼òµ¥½éÉÜÏÂSONAR¼¼ÊõÂð£¿
+PChome:½ö¿¿´«Í³µÄÌØÕ÷ÂëÉ±¶¾¼¼ÊõÒÑ¾­ÄÑÒÔÓ¦¶ÔÈÕÇ÷¸´ÔÓµÄÖÖÖÖ¶ñÒâ³ÌÐò£¬ÏÖÔÚ¼¸ºõ¸÷´óÉ±¶¾Èí¼þ³§ÉÌ¶¼Ðû³ÆÔÚÆä·¢²¼µÄÐÂÆ·ÖÐ¼ÓÈëÁËÖ÷¶¯·ÀÓù¼¼Êõ£¬¾ÝÁË½â£¬Åµ¶Ù360Ò²¾ßÓÐÈüÃÅÌú¿Ë¶ÀÓÐµÄÏÈ½øÖ÷¶¯·ÀÓù¼¼Êõ¡ªSONAR(Symantec Online Network for Advanced Response£¬ÈüÃÅÌú¿ËÇ°Õ°ÏìÓ¦ÔÚÏßÍøÂç)£¬ÄúÄÜ¼òµ¥½éÉÜÏÂSONAR¼¼ÊõÂð£¿
 ::
 »ÆÖÇ»ª£ºÊ×ÏÈÊÇ´«Í³µÄ»ùÓÚÌØÕ÷ÂëµÄ¼¼Êõ»¹ÊÇ·Ç³£ÖØÒªµÄ£¬Õâ¸öÄÜ°ïÖúÓÃ»§È¥µÖÓùÒ»Ð©´«Í³µÄÍþÐ²£¬µ«ÊÇÈçºÎÔÚÒ»Ð©¶ñÒâ³ÌÐòµÄ¶¨Òå³öÀ´Ö®Ç°±£»¤Ïû·ÑÕß£¬»ùÓÚÐÐÎªÌØÕ÷µÄ¼¼Êõ¾Í·Ç³£ÖØÒª¡£ÔÚÕâ·½ÃæµÄ»°£¬Åµ¶ÙÓÐÒ»¸ö·Ç³£ºÃµÄ¼¼Êõ¡ª¡ªSONAR¼¼Êõ£¬ËüÊÇ»ùÓÚÐÐÎªÀ´ÅÐ¶ÏµÄ£¬±£»¤Ïû·ÑÕßÃâÓÚÔÚÏßÍþÐ²¡£SONAR¼¼ÊõÔÚÅµ¶Ù360ÒÑ¾­ÊÇµÃµ½³ä·ÖÊ¹ÓÃµÄÁË£¬ÎÒÏàÐÅÕâÒ»¼¼ÊõÄÜ¹»³ä·Ö±£»¤Ïû·ÑÕßÃâÊÜÎÞÂÛÊÇÒÑÖªµÄ»¹ÊÇÎ´ÖªµÄ°²È«ÍþÐ²¡£
 ::
@@ -6653,9 +6645,7 @@ SONY¹Ù·½½üÈÕ¶ÔPSP½øÐÐÁËÐÂÒ»´ÎµÄ¸üÐÂ¿ªÊ¼,°æ±¾Îª3.90¡£Õâ´Î¸üÐÂÇ¿»¯ÁËPlayStation
 Network×¨ÓÃÓÎÏ·µÄÖ§³Ö»ú...
 PSP
 WE2008È«·½Î»Á¬ÏßRIPÖÐÎÄ°æÏÂÔØ
-¡¶ÊÀ½ç×ãÇò
-Ê¤ÀûÊ®Ò»ÈË
-2008¡·ÊÇ
+¡¶ÊÀ½ç×ãÇò Ê¤ÀûÊ®Ò»ÈË 2008¡·ÊÇ
 KONAMI
 ×ãÇòÓÎÏ·´ú±í×÷
 PSP
@@ -6673,12 +6663,10 @@ PSPÓÎÏ·¡¶Å¾àªÅé¡··±ÌåÖÐÎÄ°æ»ð±¬ÏÂÔØ
 PSPÊÀ½ç×ãÇò
 ¡¶Ê¤Àû11ÈË2008¡·ºº»¯°æÏÂÔØ
 PSP
-[ÊÀ½ç×ãÇò
-Ê¤ÀûÊ®Ò»ÈË2008È«·½Î»Á¬Ïß°æ
+[ÊÀ½ç×ãÇò Ê¤ÀûÊ®Ò»ÈË2008È«·½Î»Á¬Ïß°æ
 PSP
 ³¬ÈËÆø½âÃÜÓÎÏ·¡¶ÉñÃØµº¡·ºº»¯°æÏÂÔØ
-PSP¡¶¹ú¼Ê×ãÇò´óÁªÃË
-08¡·¡¶FIFA2008¡·Å·°æ
+PSP¡¶¹ú¼Ê×ãÇò´óÁªÃË 08¡·¡¶FIFA2008¡·Å·°æ
 PSP
 PMPÖÕ½áÕßÍâ´«µÚÎå¼¯¼ÌÐø·ÅËÍÏÂÔØ
 PSP
@@ -6753,8 +6741,7 @@ PMP²¥·ÅÆ÷PPAµÄ×îÐÂ3.71M33°æ
 ¡¤µç×ÓÊéÏÂÔØ¡¶±ôËÀµÄµØÇò¡·
 ¡¤µç×ÓÊé¡¶¹í´µµÆ¡·È«¼¯ÏÂÔØ
 ¡¤µç×ÓÊé¡¶ÐÇ¼ÊÕù°Ô£ººÚ°µ½«ÁÙÖ®Ç°¡·
-¡¤µç×ÓÊé¡¶¾«ÁéÑ°Ç×
-»áÎä¹¦µÄµÂÂ³ÒÁ¡·
+¡¤µç×ÓÊé¡¶¾«ÁéÑ°Ç× »áÎä¹¦µÄµÂÂ³ÒÁ¡·
 ¡¤PSP×îºÃµÄÎÄ¼þ¹ÜÀíÈí¼þfilerÖÐÎÄ°æ
 ¡¤Ö§³ÖÐÂPSPÖ±½Ó²¥·ÅµÄÊÓÆµ×ª»»Èí¼þ
 ¡¤×î·½±ãµÄPSPÓÎÏ·¾µÏñÑ¹Ëõ×ª»»Èí¼þ
@@ -7275,21 +7262,17 @@ NDSL
 NDSµçÊÓÑ¶ºÅ½ÓÊÕÆ÷¡°DSµçÊÓ¡±11ÔÂ·¢ÊÛ
 ÈÎÌìÌÃNDSÖØÏÖ¾­µä»³¾ÉÓÎÏ·¡¶´ò×©¿é¡·
 ´«ËµÏµÁÐÐÂ×÷¡¶Ê¥½à´«Ëµ¡·ÐÂÒªËØ¹«²¼
-¡¶ÈÌÕßÁú½£´«
-Áú½£¡·×îÐÂÓÎÏ·»­Ãæ¹«²¼
+¡¶ÈÌÕßÁú½£´« Áú½£¡·×îÐÂÓÎÏ·»­Ãæ¹«²¼
 Nds
 RPGÓÎÏ·¡¶×îÖÕ»ÃÏëIV¡·Á÷³Ì¹¥ÂÔ
-¡¶³¬¼¶´óÕ½Õù
-»ÙÃðÖ®ÈÕ¡·Á÷³Ì¹¥ÂÔ
-[NDS]¡¶ÍøÇòÍõ×Ó
-ÃÍÁÒ´ò»÷¡·ÉÏÊÖÖ¸ÄÏ
+¡¶³¬¼¶´óÕ½Õù »ÙÃðÖ®ÈÕ¡·Á÷³Ì¹¥ÂÔ
+[NDS]¡¶ÍøÇòÍõ×Ó ÃÍÁÒ´ò»÷¡·ÉÏÊÖÖ¸ÄÏ
 [NDS]NAMCO¡¶ÎÞÏ¾´«Ëµ¡·ÏêÏ¸Á÷³Ì¹¥ÂÔ
 [NDS]¾­µäÓÎÏ·¡¶»ê¶·ÂÞ4¡·Á÷³ÌÄÑµã½âÎö
 DS°æ¡¶Ê¹ÃüÕÙ»½4¡·ÓÎÏ·ÆÀ²â+ÉÏÊÖÖ¸ÄÏ
 [NDS]FFTA2Ò»ÖÜÄ¿ÎåÍõ»÷ÆÆ¹¥ÂÔ
 NDS×îÖÕ»ÃÏëÕ½ÂÔ°æA2ÍêÈ«Á÷³Ì¹¥ÂÔ
-¡¶¿Ú´üÑý¹Ö²»¿ÉË¼ÒéÃÔ¹¬
-°µ¡·Á÷³Ì¹¦ÂÔ
+¡¶¿Ú´üÑý¹Ö²»¿ÉË¼ÒéÃÔ¹¬ °µ¡·Á÷³Ì¹¦ÂÔ
 NDS²ßÂÔÓÎÏ·¡¶À¥³æÕ½Õù¡·Ïê¾¡¹¥ÂÔ
 6¿î´ó×÷Ô¤Ê¾PS3½«³ÉÎªFPS±ø¹¤³§
 ¡¶´óÂÒ¶·X¡·ÈÕ±¾ÏúÁ¿×îËÙÍ»ÆÆ100Íò
@@ -7325,8 +7308,7 @@ PSP
 PMP°¬¶ûÎÄºÍ»¨ÀõÊóÃÀ¹úÏ²¾çÏÂÔØ
 ¹ÖÎïÁÔÈËµÄÊÀ½çÔÙÏÖ
 PSPÊÖ°ÑÕýÊ½·¢±í
-[Î¬¾©Õ½Éñ
-Éñ¹¬Ö®Õ½]¾«²ÊCG
+[Î¬¾©Õ½Éñ Éñ¹¬Ö®Õ½]¾«²ÊCG
 [LOST]¾«²ÊCG
 ÃÔÊ§µÄÉ­ÁÖ
 ¡¶¹íÆü4¡·µ«¶¡VSÄáÂ»
@@ -7337,17 +7319,14 @@ XB360¡¶¹íÆü4¡·ÃØÃÜÈÎÎñÐÅÏ¢¹«²¼
 XB360¡¶¹íÆü4¡·ÐÂÎäÆ÷ÔÖ¶ò±øÆ÷ÅË¶àÀ­
 ¡¶Õ½µØË«ÐÛ¡·ÖÂÃüË«ÐÛÐ¯ÊÖ×ÝºáÉ³³¡
 [¿ÖÁúÁÔÈË]ÓÂ´³¿ÖÁúµº¾«²ÊÊÓÆµÉÍ
-[³åÍ»
-·ñ¶¨ÐÐ¶¯]¾«²ÊÊÓÆµÉÍ
+[³åÍ» ·ñ¶¨ÐÐ¶¯]¾«²ÊÊÓÆµÉÍ
 ¡¶¹íÆü4¡·ÏµÁÐÊÓÆµÖ®µ«¶¡µÄÅóÓÑ
 ¡¶µÖ¿¹2¡·ÒÑ½üÍê¹¤
 ÓÐÍû08ÄêÇï·¢ÊÛ
 ¡¶Õ½Éñ¡·ÖÆ×÷ÈËÍ¸Â¶3¿îPS3¶ÀÕ¼ÓÎÏ·
 ¡¶Ê¹ÃüÕÙ»½4¡·ÓÂ¶áAIASÄê¶ÈÓÎÏ·¹ð¹Ú
-PS3ÈÕ±¾µØÇø¡¶ÈçÁú
-ÒŠ²Î¡·ÌåÑé»á
-¡¶Ê§ÂäÐÇÇò
-¼«ÏÞ×´Ì¬¡·¶àÈËÁª»úÊÔÍæ
+PS3ÈÕ±¾µØÇø¡¶ÈçÁú ÒŠ²Î¡·ÌåÑé»á
+¡¶Ê§ÂäÐÇÇò ¼«ÏÞ×´Ì¬¡·¶àÈËÁª»úÊÔÍæ
 SCEJ¶ÐÃæÒøÅäÉ«¿îÊ½40GB
 PS3Ö÷»ú
 [¹âÈÙ]WiiÖ®×÷¡¶Opoona¡·ÓÎÏ·ÊÓÆµ
@@ -7362,26 +7341,19 @@ WiiÒ£¿ØÆ÷ÊÖ±ú»ªÀöÉßÆ¤ÍâÌ×·¢ÊÛÈ·¶¨
 ¶ñÄ§³ÇÖ÷ÌâÇø
 Äæ×ª²ÃÅÐÖ÷ÌâÇø
 ×îÖÕ»ÃÏëÖ÷ÌâÇø
-[NDS]¡¶¶ñÄ§³Ç
-·ÏÐæÐ¤Ïñ¡·³¬ÏêÏ¸
+[NDS]¡¶¶ñÄ§³Ç ·ÏÐæÐ¤Ïñ¡·³¬ÏêÏ¸
 ¼Ì³Ð´«ËµµÄ±Þ×Ó¡¸ÎüÑª¹íÉ±ÊÖ¡¹µÄÄÐÈË¡£ËäÈ»ÊÇÈÈÑªÉÙÄê£¬µ«ÊÇ¾­³£ÓÐµã²»Ì«ÈÏÕæ¡£¿ÚÍ·ÓïÊÇ¡¸Ã»ÓÐÎÊÌâ¡¹¡£¸¸Ç×
 [NDS]¡¶Äæ×ª²ÃÅÐ4¡·È«¶Ô°×Ñ¡Ôñ·Ö
-¡¶Äæ×ª²ÃÅÐ
-4¡·µÄ¹ÊÊÂžé¡¶Äæ×ª²ÃÅÐ
-3¡·µÄ
+¡¶Äæ×ª²ÃÅÐ 4¡·µÄ¹ÊÊÂžé¡¶Äæ×ª²ÃÅÐ 3¡·µÄ
 7
 Äêºó£¬Ö÷½ÇÓÉÏµÁÐ×÷ÀÏ°àµ×µÄ
 ³É²½ÌÃÁúÒ»£¬»»³ÉÁË³õ³öÃ©Â®µÄÈÈÑª
 [NDS]×îÖÕ»ÃÏë3È«Òþ²ØÒªËØ½âÎö
-FF3DS°æºÍFFÏµÁÐ¸´¿Ì°æÀàËÆ£¬»¹ÊÇÓÐ¹ÖÊÞÍ¼¼øµÄ¡£ÔÚ¸¡ÓÎ´óÂ½»ùÉ¯¶ûÖ®´å£¨ÓÐÂôÕÐ³öÅÖÂ½ÐÐÄñµÄ»ùÉ¯¶ûÊß²ËÒÔ¼°¿ª
-[NDS]¡¶¶ñÄ§³Ç
-·ÏÐæÐ¤Ïñ¡·È«¹ÖÊÞÍ¼¼ø
-[NDS]¡¶¶ñÄ§³Ç
-·ÏÐæÐ¤Ïñ¡·È«·À¾ßÁÐ±í
-[NDS]¡¶¶ñÄ§³Ç
-·ÏÐæÐ¤Ïñ¡·È«µÀ¾ßÁÐ±í
-[NDS]¡¶¶ñÄ§³Ç
-·ÏÐæÐ¤Ïñ¡·100%È«µØÍ¼
+FF3DS°æºÍFFÏµÁÐ¸´¿Ì°æÀàËÆ£¬»¹ÊÇÓÐ¹ÖÊÞÍ¼¼øµÄ¡£ÔÚ¸¡ÓÎ´óÂ½»ùÉ¯¶ûÖ®´å£¨ÓÐÂôÕÐ³öÅÖÂ½ÐÐÄñµÄ»ùÉ¯¶ûÊß²ËÒÔ¼°¿ª 
+[NDS]¡¶¶ñÄ§³Ç ·ÏÐæÐ¤Ïñ¡·È«¹ÖÊÞÍ¼¼ø
+[NDS]¡¶¶ñÄ§³Ç ·ÏÐæÐ¤Ïñ¡·È«·À¾ßÁÐ±í
+[NDS]¡¶¶ñÄ§³Ç ·ÏÐæÐ¤Ïñ¡·È«µÀ¾ßÁÐ±í
+[NDS]¡¶¶ñÄ§³Ç ·ÏÐæÐ¤Ïñ¡·100%È«µØÍ¼
 [NDS]¶ñÄ§³Ç·ÏÐæÐ¤Ïñ¹ÖÊÞÎïÆ·µô±í
 [NDS]¡¶Äæ×ª²ÃÅÐ4¡·¼òÒ×Á÷³Ì¹¥ÂÔÆÊÎö
 [NDS]Äæ×ª²ÃÅÐ4Ò»¶þÕÂÏêÏ¸¾çÇé·ÖÎö
@@ -7508,8 +7480,7 @@ CNETÖÐ¹ú¡¤PChome.net
 http://game.pchome.net/pic
 ÈÈµã¶¯Âþ¾Û½¹
 ¡¶ÎÆÕÂµÄ¼ÇÒä¡·³¬ÐÔ¸Ð±¬ÈéÃÀÉÙÅ®cg
-¡¶black
-hair¡·ÉñÃØµÄºÚÉ«MMÔ­»­ÉÍ
+¡¶black hair¡·ÉñÃØµÄºÚÉ«MMÔ­»­ÉÍ
 ³¬Çå´¿¶ñÄ§Õ½Ê¿Â¶¼çCOSPLAY
 Â¶Ò×Ë¿
 Ð¡¶ñÄ§verÊÖ°ì
@@ -7547,13 +7518,11 @@ EVAÍ¬ÈË»­²á
 ÒìÊÀ½çC
 ×îÐÂÎÄÕÂÅÅÐÐ
 [Í¼Æ¬]
-¡¶black
-hair¡·ÉñÃØµÄºÚÉ«MMÔ­»­
+¡¶black hair¡·ÉñÃØµÄºÚÉ«MMÔ­»­
 [Í¼Æ¬]
 ¡¶µÚÎåÄêµÄ·ÅÑ§ºó¡·¿É°®MMÐÔ¸ÐÍ¼
 [Í¼Æ¬]
-¡¶kiddy
-grade¡·ÐÔ¸ÐMM»ðÀ±Ô­»­&
+¡¶kiddy grade¡·ÐÔ¸ÐMM»ðÀ±Ô­»­&
 [Í¼Æ¬]
 ´¿¹çÒ»³¬¾«ÃÀ»ªÀöÔ­»­¼¯ºÏÉÍÎö£¡
 [Í¼Æ¬]
@@ -7763,8 +7732,7 @@ PMP»úÆ÷¼¦PMCG×ÖÄ»×éÔ­´´Á¬ÔØÏÂÔØ
 [Òø»ê]µÚ91»°ÏÂÔØ
 KEYÉç¾­µä¶¯Âþ[CLANNAD]14»°ÏÂÔØ
 ¡¶»ú¶¯Õ½Ê¿¸ß´ïOO¡·µÚ17»°ÏÂÔØ
-[EVAÐÂ¾ç³¡°æ
-Ðò]×îËÙÏÂÔØ
+[EVAÐÂ¾ç³¡°æ Ðò]×îËÙÏÂÔØ
 [»ðÓ°ÈÌÕß¼²·ç´«]265»°ÏÂÔØ
 KEYÉç¾­µä¶¯Âþ[CLANNAD]1-13»°ÏÂÔØ
 [×îÖÕÊÔÑé¾¨Óã]1-12»°ÏÂÔØ
@@ -7800,8 +7768,7 @@ PMPÐ¡¼¦¿ìÅÜ
 ÈËÆøÂþ»­¸Ä±àÉÏ»§²Ê³õÏ×Éù[ÇÙÖ®É­]ÏÂÔØ
 [»ðÓ°ÈÌÕß¼²·ç´«]262»°ÏÂÔØ
 ¡¶»ú¶¯Õ½Ê¿¸ß´ïOO¡·µÚ14»°ÏÂÔØ
-[ÔÙ¼û
-¾øÍûÏÈÉú]1-12»°Íê½áÏÂÔØ
+[ÔÙ¼û ¾øÍûÏÈÉú]1-12»°Íê½áÏÂÔØ
 ÂÜÀò¿ØµÄ×î°®[º®²õÃùÆüÖ®Ê±½â]1-24ÏÂÔØ
 ¶¯Âþ07´ó×÷[ºÚÖ®ÆõÔ¼Õß]1-25Íê½áÏÂÔØ
 PSP
@@ -7836,8 +7803,7 @@ PMP¡¶»ú¶¯Õ½Ê¿¸ß´ïOO¡·µÚ12»°ÏÂÔØ
 ¹¬Æé¿¥ÏµÁÐÖ®¡¶Ã¨µÄ±¨¶÷¡·
 [´þ²¶Áî¾ç³¡°æÄ«¶«Êð×î´óÎ£»ú]ÏÂÔØ
 ÃÀ¹úÆæ»Ã¶¯»­¾Þ×÷¡¶¹ÖÎïÊ·À³¿Ë3¡·
-¶¯»­¾ç³¡¡¶Õæ¾ÈÊÀÖ÷´«Õh
-±±¶·ÉñÈ­¡·
+¶¯»­¾ç³¡¡¶Õæ¾ÈÊÀÖ÷´«Õh ±±¶·ÉñÈ­¡·
 ¡¶»ú¶¯Õ½Ê¿¸ß´ïOO¡·µÚ10»°ÏÂÔØ
 [»ðÓ°ÈÌÕß¼²·ç´«]µÚ258»°ÏÂÔØ
 [ËÀÉñ]Á¬ÔØµÚ151»°ÏÂÔØ
@@ -7881,8 +7847,7 @@ PSP
 PMP[»ú¶¯Õ½Ê¿¸ß´ïOO]µÚ4»°ÏÂÔØ
 [»ðÓ°ÈÌÕß¼²·ç´«]µÚ252»°ÏÂÔØ
 PSP
-PMP[´þ²¶Áî
-È«ËÙÇ°½ø]µÚ3-4»°ÏÂÔØ
+PMP[´þ²¶Áî È«ËÙÇ°½ø]µÚ3-4»°ÏÂÔØ
 [×ÆÑÛµÄÏÄÄÈ]µÚ2¼¾µÚ3-4»°ÏÂÔØ
 [×ÆÑÛµÄÏÄÄÈ]µÚ2¼¾µÚ2»°ÏÂÔØ
 PSP
@@ -8155,8 +8120,7 @@ PSP
 PMPÃÀ¹úÖøÃûÐ£Ô°Ï²¾ç¡¶ÃÀ¹úÅÉÁù¡·
 ¼¤Çé¾ªã¤·´¿ÖÆ¬¡¶·´¿ÖÍõ¹ú¡·
 ³ÉÁú¶¯×÷´óÆ¬¡¶¼â·åÊ±¿Ì3¡·
-ÃÀ¹ú¶¯×÷´óÆ¬[µýÓ°ÖØÖØ3
-×îºóÍ¨ëº]
+ÃÀ¹ú¶¯×÷´óÆ¬[µýÓ°ÖØÖØ3 ×îºóÍ¨ëº]
 PSP
 PMP07Ä§»Ã´óÆ¬ÇåÎúÊÕ²Ø°æ[ÐÇ³¾]
 PSP
@@ -8292,8 +8256,7 @@ PSP-2000ÓÃ³¬´óÈÝÁ¿µç³ØÈ·¶¨3ÔÂ·¢
 Ë¿¹âÒøPS3ÈýÔÂÉÏ
 PSP±¬Õ¨ÖÂÄÐÍ¯ÉÕÉË
 Ö÷»ú°²È«ÐÔÔâ
-¡¶ÎÞË«´óÉß
-Ä§ÍõÔÙÁÙ¡·³¬ÖµBOX·¢
+¡¶ÎÞË«´óÉß Ä§ÍõÔÙÁÙ¡·³¬ÖµBOX·¢
 NDS°æ¡¶´Ì¿ÍÐÅÌõ¡··¢ÊÛÇ°»ðËÙÔ¤ÀÀ
 [Wii]ÓÎÏ·¡¶ÈÎÌìÌÃÃ÷ÐÇ´óÂÒ¶·¡·ÆÆ
 ±¬ÈéÎÞ×ï
@@ -8437,8 +8400,7 @@ http://game.pchome.net/pic
 Â¡ÖØÍÆ¼öÈ«ÉíÆÆËé×°¼×Ç¿Ï®¹úÈË×ÔÖÆ¡ýÏÂÒ»ÌõÏûÏ¢
 ÈÈµã¶¯Âþ¾Û½¹
 ¡¶ÎÆÕÂµÄ¼ÇÒä¡·³¬ÐÔ¸Ð±¬ÈéÃÀÉÙÅ®cg
-¡¶black
-hair¡·ÉñÃØµÄºÚÉ«MMÔ­»­ÉÍ
+¡¶black hair¡·ÉñÃØµÄºÚÉ«MMÔ­»­ÉÍ
 ³¬Çå´¿¶ñÄ§Õ½Ê¿Â¶¼çCOSPLAY
 Â¶Ò×Ë¿
 Ð¡¶ñÄ§verÊÖ°ì
@@ -9345,8 +9307,7 @@ IXUS
 Ïà»ú
 ¼ÑÄÜ
 860
-IS(SD870
-IS)
+IS(SD870 IS)
 Ïà»ú
 Ë÷Äá
 H9
@@ -10410,8 +10371,7 @@ CPU
 ÎÄÕÂ
 |
 ÆÀ¼Û
-ÎÄÕÂÌáÒª£ºÄúÕýÔÚÔÄ¶ÁÓÐ¹Ø·ÉÀûÆÖÒº¾§µçÊÓµÄÎÄÕÂ£­¡¶±È±ÈË­½µµÄ¶à!
-±¾ÔÂÆ½°åµçÊÓ½µ¼ÛÅÅÐÐ¡·Èç¹ûÄú¶Ô·ÉÀûÆÖ
+ÎÄÕÂÌáÒª£ºÄúÕýÔÚÔÄ¶ÁÓÐ¹Ø·ÉÀûÆÖÒº¾§µçÊÓµÄÎÄÕÂ£­¡¶±È±ÈË­½µµÄ¶à! ±¾ÔÂÆ½°åµçÊÓ½µ¼ÛÅÅÐÐ¡·Èç¹ûÄú¶Ô·ÉÀûÆÖ
 37PF7321¸ÐÐËÈ¤Çëµã»÷ÓÒÀ¸Í¼Æ¬½øÈë£»Èç¹ûÄú¶Ô¸ü¶àÆäËü·ÉÀûÆÖÒº¾§µçÊÓÐÍºÅ¸ÐÐËÈ¤£¬»¶Ó­½øÈë¡¾·ÉÀûÆÖÒº¾§µçÊÓ´óÈ«¡¿
 ±È±ÈË­½µµÄ¶à!
 ±¾ÔÂÆ½°åµçÊÓ½µ¼ÛÅÅÐÐ
@@ -11471,13 +11431,11 @@ CNETÖÐ¹ú¡¤PChome.net¡¤×ªÔØ
 ±±¾©Ê±¼ä11ÔÂ29ÈÕ£¬¾Ý¹úÍâÃ½Ìå±¨µÀ£¬ÁéÍ¨ÍøÖÜÒ»·¢²¼ÁË2007ÄêµÚÈý¼¾²Æ±¨¡£²Æ±¨·¢²¼Ö®ºó£¬ÁéÍ¨ÍøÊ×Ï¯Ö´ÐÐ¹ÙÀî¹ãÐÀºÍÊ×Ï¯²ÆÎñ¹ÙËÎÕÜÄîÕÙ¿ªµç»°»áÒé£¬½â¶Á²Æ±¨Òªµã£¬²¢»Ø´ðÁËÍ¶ÐÐ·ÖÎöÊ¦ÌáÎÊ¡£ÒÔÏÂÎª·ÖÎöÊ¦ÌáÎÊ²¿·ÖÄÚÈÝ¸ÅÒª£º
 Montgomery
 &amp;
-Company¹«Ë¾·ÖÎöÊ¦¼ÖÉ­¡¤ÌØÈû(Jason
-Tsai)£ºÔÚMNC¹«Ë¾ÊÕ¹ºÁË¹«Ë¾¹É·ÝÖ®ºó£¬ÁéÍ¨Íø½«ÈçºÎ·¢Õ¹£¿
+Company¹«Ë¾·ÖÎöÊ¦¼ÖÉ­¡¤ÌØÈû(Jason Tsai)£ºÔÚMNC¹«Ë¾ÊÕ¹ºÁË¹«Ë¾¹É·ÝÖ®ºó£¬ÁéÍ¨Íø½«ÈçºÎ·¢Õ¹£¿
 ÁéÍ¨ÍøCEOÀî¹ãÐÀ£º¹«Ë¾ÏÖ½ðµÄÔö¶à£¬½«ÓÐÖúÓÚÎÒÃÇÔÚÖÐ¹úÖ´ÐÐºÍÍê³ÉÎÒÃÇµÄ¿çÃ½ÌåÕ½ÂÔ¡£Í¨¹ýºÏ×÷£¬Á½¼Ò¹«Ë¾½«ÓÐ»ú»áÔÚÖÐ¹úºÍÆäËüÑÇÖÞ¹ú¼Ò¿ªÕ¹¹ã¸æºÍÎÞÏßÔöÖµ·þÎñÒµÎñ¡£
 Montgomery
 &amp;
-Company¹«Ë¾·ÖÎöÊ¦¼ÖÉ­¡¤ÌØÈû(Jason
-Tsai)£ºÕâÊÇ·ñÒâÎ¶×ÅÁéÍ¨Íø½«»áÏòÓ¡ÄáµÈÒ»Ð©¹ú¼ÒÀ©ÕÅ£¿
+Company¹«Ë¾·ÖÎöÊ¦¼ÖÉ­¡¤ÌØÈû(Jason Tsai)£ºÕâÊÇ·ñÒâÎ¶×ÅÁéÍ¨Íø½«»áÏòÓ¡ÄáµÈÒ»Ð©¹ú¼ÒÀ©ÕÅ£¿
 ÁéÍ¨ÍøCEOÀî¹ãÐÀ£ºÒÀ¾ÝÎÒÃÇµÄ¹Ûµã£¬Í¬MNC¹«Ë¾½áÃË£¬ÊÇÒòÎª¸Ã¹«Ë¾ÏÖÓÐµÄÆ½Ì¨»òÔÚÑÇÖÞÎÞÏßÔöÖµ·þÎñÊÐ³¡ÖÐµÄ¾­Ñé£¬½«ÓÐÖúÓÚÁéÍ¨ÍøÔÚÑÇÖÞ£¬ÌØ±ðÊÇÎÞÏßÔöÖµ·þÎñÊÐ³¡À©ÕÅ¡£
 Piper
 Jaffray·ÖÎöÊ¦Âõ¿Ë¡¤°Â¶ûÉ­£º¹«Ë¾ÎÞÏßÔöÖµ·þÎñµÚÈý¼¾¶ÈÓªÊÕ±£³ÖÆ½ÎÈ£¬Î´À´¼¸¸ö¼¾¶ÈÊÇ·ñÒÀ¾É»á±£³ÖÆ½ÎÈ£¿ÎÞÏßÔöÖµ·þÎñÍâµÄÆäËüÓªÊÕÔö³¤Ñ¸ËÙ£¬2008Äê¸Ã²¿·ÖÓªÊÕ½«ÓÐºÎ±íÏÖ£¿
@@ -12434,18 +12392,15 @@ CNETÖÐ¹ú¡¤PChome.net¡¤×ªÔØ
 Ponoko
 ÍøÂçÉÌÎñ
 ÍøÕ¾×¨ÓÃÄ£°å
-¡°ºÜ¶à³±Á÷¶¼ÊÇÓÃ»§ÃÇ×Ô¼ºÖÆÔì³öÀ´µÄ¡£¡±µÂ¹úRWTHÑÇè¡´óÑ§µÄÉÌÎñ¹ÜÀí½ÌÊÚ¸¥À¼¿Ë¡¤Æ¥ÀÕ(Frank
-Piller)ÈÏÎª£¬PonokoµÄ×î´ó·¢Õ¹Ç±ÄÜÔÚÓÚËü²»µ«ÄÒÀ¨ÁËÖÖÀà·á¸»µÄÉè¼Æ¶¨ÖÆ²úÆ·£¬Í¬Ê±ÓÉÓÚËüµÄÕâÖÖ¼¯ÖÐÊ½¹æÄ£»¯¾­Óª£¬»õÔ´Ìá¹©Ïàµ±ÎÈ¶¨£¬ÕâÒ²ÊÇÁãÊÛÉÌ×îÖØÒªµÄ³É¹¦ÒªËØÖ®Ò»£º¡°PonokoµÄ³öÏÖ¸Ä±äÁËÏÖ´úÁãÊÛÉÌµÄ¾­ÓªÄ£Ê½¡£¡±
-¡¶³¤Î²ÀíÂÛ¡·µÄ×÷Õß¿ËÀïË¹¡¤°²µÂÉ­(Chris
-Anderson)Ôø¾­ÔÚËûµÄÊéÖÐÔ¤ÑÔ£¬½«À´µÄÍøÂçÁãÊÛ»áÊµÏÖÍêÈ«µÄ¸öÐÔ»¯¶¨ÖÆ£¬¿Í»§¿ÉÒÔ¸ù¾Ý×Ô¼ºµÄÐèÒª½øÐÐÉè¼Æ£¬ÁãÊÛÉÌÔò½«ÔËÓÃ¼¤¹âÇÐ¸î»ú£¬½«¿Í»§µÄ×÷Æ·´òÔì³ÉÐÍ¡£¶øÏÖÔÚ£¬Ò»¸ö½ÐPonokoµÄÍøÕ¾ÒÑ¾­½«¿ËÀïË¹¡¤°²µÂÉ­µÄÔ¤ÑÔ¸¶ÖîÊµ¼ù¡£¾¡¹Ü£¬Õâ¸öÍøÕ¾ÏÖÔÚÃæÁÙ×ÅÊÕÈëÄ£Ê½µ¥Ò»¡¢¾­·ÑÓÐÏÞ¡¢Ä£Ê½¼«Ò×±»·ÂÖÆµÈÎÊÌâ£¬µ«ÊÇ£¬´ÓÖÐÈËÃÇÒÑ¾­²»ÄÑ·¢ÏÖÎ´À´µÄÍøÂçÉÌÎñÄ£Ê½ÔÚ´ËÒÑ³õ¼û¶ËÄß¡£
+¡°ºÜ¶à³±Á÷¶¼ÊÇÓÃ»§ÃÇ×Ô¼ºÖÆÔì³öÀ´µÄ¡£¡±µÂ¹úRWTHÑÇè¡´óÑ§µÄÉÌÎñ¹ÜÀí½ÌÊÚ¸¥À¼¿Ë¡¤Æ¥ÀÕ(Frank Piller)ÈÏÎª£¬PonokoµÄ×î´ó·¢Õ¹Ç±ÄÜÔÚÓÚËü²»µ«ÄÒÀ¨ÁËÖÖÀà·á¸»µÄÉè¼Æ¶¨ÖÆ²úÆ·£¬Í¬Ê±ÓÉÓÚËüµÄÕâÖÖ¼¯ÖÐÊ½¹æÄ£»¯¾­Óª£¬»õÔ´Ìá¹©Ïàµ±ÎÈ¶¨£¬ÕâÒ²ÊÇÁãÊÛÉÌ×îÖØÒªµÄ³É¹¦ÒªËØÖ®Ò»£º¡°PonokoµÄ³öÏÖ¸Ä±äÁËÏÖ´úÁãÊÛÉÌµÄ¾­ÓªÄ£Ê½¡£¡±
+¡¶³¤Î²ÀíÂÛ¡·µÄ×÷Õß¿ËÀïË¹¡¤°²µÂÉ­(Chris Anderson)Ôø¾­ÔÚËûµÄÊéÖÐÔ¤ÑÔ£¬½«À´µÄÍøÂçÁãÊÛ»áÊµÏÖÍêÈ«µÄ¸öÐÔ»¯¶¨ÖÆ£¬¿Í»§¿ÉÒÔ¸ù¾Ý×Ô¼ºµÄÐèÒª½øÐÐÉè¼Æ£¬ÁãÊÛÉÌÔò½«ÔËÓÃ¼¤¹âÇÐ¸î»ú£¬½«¿Í»§µÄ×÷Æ·´òÔì³ÉÐÍ¡£¶øÏÖÔÚ£¬Ò»¸ö½ÐPonokoµÄÍøÕ¾ÒÑ¾­½«¿ËÀïË¹¡¤°²µÂÉ­µÄÔ¤ÑÔ¸¶ÖîÊµ¼ù¡£¾¡¹Ü£¬Õâ¸öÍøÕ¾ÏÖÔÚÃæÁÙ×ÅÊÕÈëÄ£Ê½µ¥Ò»¡¢¾­·ÑÓÐÏÞ¡¢Ä£Ê½¼«Ò×±»·ÂÖÆµÈÎÊÌâ£¬µ«ÊÇ£¬´ÓÖÐÈËÃÇÒÑ¾­²»ÄÑ·¢ÏÖÎ´À´µÄÍøÂçÉÌÎñÄ£Ê½ÔÚ´ËÒÑ³õ¼û¶ËÄß¡£
 ´ÓÔìÐÍ±ðÖÂµÄÒÎ×Ó£¬µ½ÓëÖÚ²»Í¬µÄÊÖ»ú£¬PonokoÄÒÀ¨ÁË¹¤ÒµÉè¼ÆµÄ·½·½ÃæÃæ¡£ÓÃ»§Òª¶¨ÖÆ¸öÐÔ»¯¹¤Òµ²úÆ·£¬²Ù×÷²½ÖèÒ²²¢²»¸´ÔÓ¡£Ê×ÏÈ£¬ÄãÔÚÄÔº£ÖÐÒÑ¾­ÔÍÄðºÃÁËÏë·¨£¬¿ÉÒÔÓÃËÄÖÖ¹¤ÒµÉè¼ÆµÄ³£ÓÃÈí¼þ¡ª¡ªAdobe
 Illustrator
 CS¡¢Macromedia
 Freehand
 MX¡¢CorelDraw
 X3¡¢InkscapeÖÆ×÷ÄãµÄÉè¼Æ²ÝÍ¼¡£Ö®ºó£¬°Ñ²ÝÍ¼´æÈëPonokoµÄÍøÕ¾×¨ÓÃÄ£°åÖÐ£¬È»ºóÔÚÄ£°åÖÐÑ¡ÔñÖÆ×÷ËùÐèÒªµÄ²ÄÁÏºÍÑÕÉ«£¬ÕâÖÖÄ£°åÄÜ¹»½«ÄãµÄÉè¼ÆÔªËØ½øÐÐ·Ö½â£¬°Ñ²ÝÍ¼×ª»¯ÎªÄ£¿é»¯µÄ¼ÆËã»ú´úÂë£¬È»ºóÓÉÓÃ»§ÉÏ´«µ½PonokoÍøÕ¾Êý¾Ý¿âÖÐ¡£¶øPonokoÍøÕ¾Ä¿Ç°ËùÌá¹©µÄ²ÄÁÏ°üÀ¨±ûÏ©Ëá¡¢±½ÒÒÏ©¡¢Ó²Ö½°å¡¢°×É«ÊéÐ´°åµÈ£¬Õâ¶¼ÊÇ¼¤¹âÇÐ¸î»ú¡°Ï²»¶¡±µÄ²ÄÁÏ¡£ÓÃ»§ÔÚÍøÂçÉÏÊ¹ÓÃÐÅÓÃ¿¨¸¶¿îÖ®ºó£¬Ponoko¾ÍÏòËüµÄ²ÄÁÏ¹©Ó¦ÉÌ¶¨»õ¡£¶ø¼¤¹âÇÐ¸î»úÔò¸ù¾ÝÄ£°åÖÐµÄ´úÂëÀûÂäµØ°Ñ²ÄÁÏÇÐ¸î³ÉÐÎ¡£ÔÚ¹æ¶¨ÈÕÆÚÖ®ÄÚ£¬ÓÃ»§¾Í¿ÉÒÔ´Ó¿ìµÝÈËÔ±ÊÖÖÐ»¶Ï²µØÄÃµ½¶ÀÒ»ÎÞ¶þ¡¢Äý½á×Å×Ô¼ºÖÇ»ÛÓëÉóÃÀÇéÈ¤µÄ¹¤ÒµÉè¼ÆÆ·¡£µ±È»£¬ÓÉÓÚÊÇÇ§ÈËÇ§ÃæµÄ¶¨ÖÆ£¬¼Û¸ñÒ²²»¾¡ÏàÍ¬¡£Ö÷ÒªÊÇ¸ù¾Ý²úÆ·µÄ¾«¶ÈºÍ²ÄÁÏµÄ³É±¾À´ÖÆ¶¨¼Û¸ñ¡£Èç¹û£¬Éè¼ÆÕßÔÝÊ±²»Ïë¹ºÂò×Ô¼ºµÄ×÷Æ·£¬ÄÇÃ´ËûµÄ×÷Æ·Ò²ÒÀÈ»»á´æ·ÅÔÚÍøÕ¾µÄÊý¾Ý¿âÖÐ£¬¹©ÆäËûÈËä¯ÀÀºÍ²Î¿¼¡£
-ÆäÊµ£¬ÔÚÕâ¸öÈËÈË×·Çó¸öÐÔ»¯µÄÊ±´ú£¬¶¨ÖÆ²¢²»ÊÇÊ²Ã´º±¼ûµÄÊÂÇé¡£Æ·ÖÊÓÅÁ¼µÄ´óÅúÁ¿¹¤Òµ²úÆ·ÒÑ¾­ÎÞ·¨Âú×ãÈËÃÇµÄÐÄÀíÐèÇó£¬ºÜ¶àÈË¶¼ÀÖÓÚÑ°±¦Ê½µØÌ½Ñ¯ÄÇÐ©Ð¡ÉÌÆÌ¡¢Ð¡×÷·»¡£µ«ÕâÐ©²»³É¹æÄ£µÄÉú²ú·½Ê½Ò²¼«²»ÎÈ¶¨µÄ×ö·¨£¬ÄÑÓÐ³£ÇàÊ÷£¬¶øÇÒÆä¶¨ÖÆÒ²½ö½ö¾ÖÏÞÔÚÒ»¸öºÜÐ¡µÄ·½Ãæ¡£¡°ºÜ¶à³±Á÷¶¼ÊÇÓÃ»§ÃÇ×Ô¼ºÖÆÔì³öÀ´µÄ¡£¡±µÂ¹úRWTHÑÇè¡´óÑ§µÄÉÌÎñ¹ÜÀí½ÌÊÚ¸¥À¼¿Ë¡¤Æ¥ÀÕ(Frank
-Piller)ÈÏÎª£¬PonokoµÄ×î´ó·¢Õ¹Ç±ÄÜÔÚÓÚËü²»µ«ÄÒÀ¨ÁËÖÖÀà·á¸»µÄÉè¼Æ¶¨ÖÆ²úÆ·£¬Í¬Ê±ÓÉÓÚËüµÄÕâÖÖ¼¯ÖÐÊ½¹æÄ£»¯¾­Óª£¬»õÔ´Ìá¹©Ïàµ±ÎÈ¶¨£¬ÕâÒ²ÊÇÁãÊÛÉÌ×îÖØÒªµÄ³É¹¦ÒªËØÖ®Ò»¡£ËûËµ£º¡°PonokoµÄ³öÏÖ¸Ä±äÁËÏÖ´úÁãÊÛÉÌµÄ¾­ÓªÄ£Ê½¡£¡±
+ÆäÊµ£¬ÔÚÕâ¸öÈËÈË×·Çó¸öÐÔ»¯µÄÊ±´ú£¬¶¨ÖÆ²¢²»ÊÇÊ²Ã´º±¼ûµÄÊÂÇé¡£Æ·ÖÊÓÅÁ¼µÄ´óÅúÁ¿¹¤Òµ²úÆ·ÒÑ¾­ÎÞ·¨Âú×ãÈËÃÇµÄÐÄÀíÐèÇó£¬ºÜ¶àÈË¶¼ÀÖÓÚÑ°±¦Ê½µØÌ½Ñ¯ÄÇÐ©Ð¡ÉÌÆÌ¡¢Ð¡×÷·»¡£µ«ÕâÐ©²»³É¹æÄ£µÄÉú²ú·½Ê½Ò²¼«²»ÎÈ¶¨µÄ×ö·¨£¬ÄÑÓÐ³£ÇàÊ÷£¬¶øÇÒÆä¶¨ÖÆÒ²½ö½ö¾ÖÏÞÔÚÒ»¸öºÜÐ¡µÄ·½Ãæ¡£¡°ºÜ¶à³±Á÷¶¼ÊÇÓÃ»§ÃÇ×Ô¼ºÖÆÔì³öÀ´µÄ¡£¡±µÂ¹úRWTHÑÇè¡´óÑ§µÄÉÌÎñ¹ÜÀí½ÌÊÚ¸¥À¼¿Ë¡¤Æ¥ÀÕ(Frank Piller)ÈÏÎª£¬PonokoµÄ×î´ó·¢Õ¹Ç±ÄÜÔÚÓÚËü²»µ«ÄÒÀ¨ÁËÖÖÀà·á¸»µÄÉè¼Æ¶¨ÖÆ²úÆ·£¬Í¬Ê±ÓÉÓÚËüµÄÕâÖÖ¼¯ÖÐÊ½¹æÄ£»¯¾­Óª£¬»õÔ´Ìá¹©Ïàµ±ÎÈ¶¨£¬ÕâÒ²ÊÇÁãÊÛÉÌ×îÖØÒªµÄ³É¹¦ÒªËØÖ®Ò»¡£ËûËµ£º¡°PonokoµÄ³öÏÖ¸Ä±äÁËÏÖ´úÁãÊÛÉÌµÄ¾­ÓªÄ£Ê½¡£¡±
 ¡°»¥ÁªÍøÒÔ¼°ÓëÆäÏà¹ØµÄÎÞÇîÑ¡ÔñÕýÔÚ¸Ä±äÎÒÃÇµÄÊÀ½ç¡£Ë­ÄÜÀûÓÃÕâÒ»µã£¬Ã÷ÌìµÄÊÐ³¡¾ÍÊôÓÚË­¡£¡±Ò²ÐíÁ¬¿ËÀïË¹¡¤°²µÂÉ­±¾ÈËÒ²Î´ÔøÔ¤ÁÏµ½×Ô¼ºµÄÔ¤ÑÔÊµÏÖËÙ¶ÈÈç´ËÖ®¿ì¡£20/80µÄ¾­µäÉÌÒµ·¨ÔòÒÑ¾­±»ÍøÂçÉÌÎñ³¹µ×¸ÄÐ´£¬¶ø½ô½Ó×ÅÔÚWeb2.0ÀË³±ÖÐ³öÏÖµÄÏñPonokoÕâÑùµÄÍøÕ¾Ê¹µÃÇ§ÈËÇ§ÃæµÄ¶¨ÖÆÉÌÎñ³ÉÎªÕæÊµ´æÔÚµÄÊÂÇé¡£¾¡¹ÜPonokoÄ¿Ç°ÔÚÐÂÎ÷À¼±¾²¿Ö»ÓÐ5ÃûÈ«Ö°¹¤×÷ÈËÔ±ºÍ8Ãû¼æÖ°£¬µ«ÊÇÕâ¸öÐ¡ÍøÕ¾È´Ô¤Ê¾×ÅÁíÒ»ÖÖÉÌÎñ·½Ê½Ê±´úµÄµ½À´¡£
 ×÷Õß£º³ÂÁÕ
 Î¢ÈíÓûÔÒÈýÒÚÃÀ½ðÐû´«LiveÒµÎñ
@@ -13507,8 +13462,7 @@ CNETÖÐ¹ú¡¤PChome.net¡¤Ô­´´
 2007-11-29
 ±êÇ©£º
 CNET´«Ã½¼¯ÍÅÖÐ¹úµÄµÚÎå½ìÓ¢ÐÛ´ó»á
-£¨PCHOMEÐÂÎÅÖÐÐÄÑ¶
-¼ÇÕß/¹ËÎ´È»£©11ÔÂ28ÈÕÏÂÎç14µãÕû£¬2007Äê¶ÈCNETÖÐ¹ú¿Í»§ÉÏº£Äê»áÔÚ»¦ÉÏÖøÃûµÄÁúÖ®ÃÎÀö¾§´ó¾ÆµêÂ¡ÖØÕÙ¿ª¡£±¾´ÎÄê»áÊÇCNET´«Ã½¼¯ÍÅÖÐ¹úµÄµÚÎå½ìÓ¢ÐÛ´ó»á¡£ÔÚ´ËÖ®Ç°CNETÖÐ¹úÒÑ¾­³É¹¦¾Ù°ìÁËËÄ½ì£¬²¢ÔÚÒµÄÚÐÎ³ÉÁË¸÷Â·Ó¢ÐÛÃ¿Äê¾Û»áCNET£¬¹²ÂÛÐÐÒµÇ÷ÊÆ£¬¹²ÌÖÙøÊ¤¶Ô²ß£¬¹²ÅÊ´´ÐÂµß·åµÄ¡°ÎäÁÖ´«Í³¡±¡£
+£¨PCHOMEÐÂÎÅÖÐÐÄÑ¶ ¼ÇÕß/¹ËÎ´È»£©11ÔÂ28ÈÕÏÂÎç14µãÕû£¬2007Äê¶ÈCNETÖÐ¹ú¿Í»§ÉÏº£Äê»áÔÚ»¦ÉÏÖøÃûµÄÁúÖ®ÃÎÀö¾§´ó¾ÆµêÂ¡ÖØÕÙ¿ª¡£±¾´ÎÄê»áÊÇCNET´«Ã½¼¯ÍÅÖÐ¹úµÄµÚÎå½ìÓ¢ÐÛ´ó»á¡£ÔÚ´ËÖ®Ç°CNETÖÐ¹úÒÑ¾­³É¹¦¾Ù°ìÁËËÄ½ì£¬²¢ÔÚÒµÄÚÐÎ³ÉÁË¸÷Â·Ó¢ÐÛÃ¿Äê¾Û»áCNET£¬¹²ÂÛÐÐÒµÇ÷ÊÆ£¬¹²ÌÖÙøÊ¤¶Ô²ß£¬¹²ÅÊ´´ÐÂµß·åµÄ¡°ÎäÁÖ´«Í³¡±¡£
 ±¾´ÎÉÏº£Äê»á³¬¹ý300Î»µÄ¸÷Â·Ó¢ÐÛ¿Í»§´ú±í²Î¼Ó£¬»áÉÏCNETÈ«Çò¸±×Ü²Ã¡¢ÖÐ¹úÇø×Ü²ÃÍõÂ·£¬CNETÖÐ¹úÃ½ÌåÊÚÈ¨×Ü±à¼­Áõ¿ËÀöÅ®Ê¿·Ö±ð·¢±íÁË¼¤ÇéÑóÒçµÄÑÝ½²¡£
 Óë»á¼Î±öÔÚ¹²Ó®µß·åµÄÌâ°åÉÏÇ©Ãû
 Óë»áÕß·×·×Ç©µ½
@@ -15673,11 +15627,7 @@ D3Åä±¸ÁËÄá¿µ¿ª·¢µÄ´ó³ß´çCMOSÓ°Ïñ¸ÐÓ¦Æ÷£¬¾ßÓÐ1,210ÍòÓÐÐ§ÏñËØ£¬±ê×¼ÉèÖÃÏÂ¸Ð¹â¶È·¶Î
 D3
 ËùÌá¹©µÄ¸ßÍ¼ÏñÆ·ÖÊºÍ¸ßËÙÍ¼Ïñ´¦ÀíÄÜÁ¦£¬ÊÇ´«Í³µÄÊýÂëµ¥·´Ïà»ú»¹ÎÞ·¨ÊµÏÖµÄ¡£
 D3
-ÄÜÒÔÃ¿ÃëÔ¼9·ùµÄËÙ¶ÈÁ¬ÐøÅÄÉã1,210ÍòÏñËØµÄÍ¼Ïñ¡£´ËÍâ£¬Ñ¡Ôñ[DX
-¸ñÊ½
-(24
-x
-16)]
+ÄÜÒÔÃ¿ÃëÔ¼9·ùµÄËÙ¶ÈÁ¬ÐøÅÄÉã1,210ÍòÏñËØµÄÍ¼Ïñ¡£´ËÍâ£¬Ñ¡Ôñ[DX ¸ñÊ½ (24 x 16)]
 (510ÍòÏñËØ)Ê±£¬Ã¿Ãë¿ÉÅÄÉãÔ¼11·ù¡£
 Í¼ÏñÆ·ÖÊ¡¢¸Ð¹â¶ÈºÍËÙ¶ÈËù¾ßÓÐµÄÕâÐ©ÏÈ½øÌØÕ÷£¬Ê¹
 D3
@@ -15747,8 +15697,7 @@ IXUS
 Ïà»ú
 ¼ÑÄÜ
 860
-IS(SD870
-IS)
+IS(SD870 IS)
 Ïà»ú
 Ë÷Äá
 H9
@@ -17288,8 +17237,7 @@ http://game.pchome.net/mm
 ÈýÊ®¶þËê¾­µäÉÙ¸¾ÓÕÈËÉí²Ä·áÂúË«ÐØ
 2007ÈÕ±¾Å®ÓÅÆÀÑ¡Äêµ×Å®ÓÅÅÅÐÐÐ´ÕæÍ¼
 ¡¶ÎÆÕÂµÄ¼ÇÒä¡·³¬ÐÔ¸Ð±¬ÈéÃÀÉÙÅ®cg
-¡¶black
-hair¡·ÉñÃØµÄºÚÉ«MMÔ­»­ÉÍ
+¡¶black hair¡·ÉñÃØµÄºÚÉ«MMÔ­»­ÉÍ
 ³¬Çå´¿¶ñÄ§Õ½Ê¿Â¶¼çCOSPLAY
 Â¶Ò×Ë¿
 Ð¡¶ñÄ§verÊÖ°ì
@@ -17567,24 +17515,18 @@ sina
 1.Ó¢¹ú»Ê¼Òº£¾ü¼¼Ê¦
 ÔÚÓ¢¹ú»Ê¼Òº£¾üµÄÕ÷±ø¹ã¸æÖÐ£¬Ò»ÃûIT¼¼Ê¦ÕýÔÚÇ±Ë®Í§ÖÐÎ¬ÐÞ·þÎñÆ÷¡£Ëû×ÔºÀµØËµ£º¡°µ±ÎÒ»¹ÊÇÒ»¸öº¢×ÓµÄÊ±ºò£¬ÎÒ¾Í°®ÉÏÁË¼ÆËã»ú¡£ÎÒÔ­´òËã³ÉÎªÒ»ÃûIT¹¤³ÌÊ¦£¬µ«×÷ÎªÒ»ÃûÓ¢¹ú»Ê¼Òº£¾ü¼¼Ê¦£¬ÎÒÐèÒª¸ü¾ß´´ÔìÁ¦¡£¡±
 ÕâÒ»¹ã¸æÎÞÒÉ¾ßÓÐºÜ´óµÄÎüÒýÁ¦£¬µ«ÕæÊµÇé¿öÓÖÈçºÎÄØ£¿Ò»ÃûÄêÇáµÄ»Ê¼Òº£¾üIT¼¼Ê¦½âÊÍµÀ£º¡°Èç¹û·þÎñÆ÷³öÏÖ¹ÊÕÏ£¬ÎÒ²»ÄÜÖ»ÊÇ¼òµ¥µØ½ÐÈËÀ´Î¬ÐÞ¡£Ì¹°×µØ½²£¬ÓÐÊ±ÎÒÖ»ÊÇ½«·þÎñÆ÷¹Ø±ÕÔÙÖØÆô¡£¡±
-2.MozillaÅ·ÖÞ×Ü²ÃÌØÀïË¹Ì¹¡¤ÄáÍÐÌØ(Tristan
-Nitot)
+2.MozillaÅ·ÖÞ×Ü²ÃÌØÀïË¹Ì¹¡¤ÄáÍÐÌØ(Tristan Nitot)
 ÔÚ½âÊÍ¡°»ðºü¡±(Firefox)´ó»ñ³É¹¦µÄÔ­ÒòÊ±£¬ÄáÍÐÌØ±íÊ¾£º¡°¹ýÈ¥½ü6ÄêÊ±¼äÀï£¬»¥ÁªÍøÈÔÔÚ²»¶ÏµØÏòÇ°·¢Õ¹£¬µ«ä¯ÀÀÆ÷¼¼ÊõÈ´Í£ÖÍ²»Ç°£¬ÒòÎª¸ºÔðÕÆ¶æµÄÎ¢ÈíÒÑ¾­Ë¯×Å¡£Firefox
 3µÄBeta°æºÜ¿ì¾Í»á·¢²¼£¬¿ÉÄÜÔÚ½ñÄêµ×¡£ÎÒÃÇÏ£ÍûÕâÒ»²úÆ·¸ü¼ÓÎÈ¶¨¡¢¿É¿¿£¬Ëü»á×öµ½ÕâÒ»µã£¬ÖÁÉÙ²»»áÏñÄ³Ð©²úÆ·ÄÇÑù¸ñÊ½»¯ÓÃ»§µÄÓ²ÅÌ¡£¡±
-3.Äá¿ËÀ­Ë¹¡¤Äá¸ðÂåÅÓµÛ(Nicolas
-Negroponte)
+3.Äá¿ËÀ­Ë¹¡¤Äá¸ðÂåÅÓµÛ(Nicolas Negroponte)
 ¾¡¹Ü¡°100ÃÀÔª±Ê¼Ç±¾¡±¶à´ÎÍÆ³Ù·¢²¼£¬²¢ÇÒÔâÓöÁËºÜ¶à×è°­£¬µ«×÷Îª¡°Ã¿¸öº¢×ÓÒ»Ì¨±Ê¼Ç±¾¡±(OLPC)»ù½ð»áµÄ´´Ê¼ÈË£¬Äá¸ðÂåÅÓµÛÒ»Ö±±£³Ö×ÅÇáËÉµÄÐÄÇé¡£ËûËµ£º¡°AMDÊÇÎÒÃÇµÄºÏ×÷»ï°é£¬ÕâÒâÎ¶×ÅÓ¢ÌØ¶û¶ÔÎÒÃÇ²»»áÌ«ÂúÒâ£¬±È¶û¡¤¸Ç´ÄÒ²²»»á¸Ðµ½¸ßÐË¡£µ«ÊÇ£¬Èç¹ûÎÒÃÇÍ¬Ê±ÈÇÅ­ÁËÎ¢ÈíºÍÓ¢ÌØ¶û£¬ÄÇËµÃ÷ÎÒÃÇ×öÁËÒ»¼þÕýÈ·ÊÂÇé¡£¡±
-4.Ó¢¹úÑÝÔ±Ë¹µÙ·Ò¡¤¸¥À×(Stephen
-Fry)
-½ñÄê³õ£¬Ó¢¹úÖøÃûÏ²¾çÑÝÔ±Ê·µÙ·Ò¡¤¸¥À³(Stephen
-Fry)ÔÚÆÀ¼ÛÎ¢ÈíÐÂÒ»´úÊÖ»ú²Ù×÷ÏµÍ³Windows
+4.Ó¢¹úÑÝÔ±Ë¹µÙ·Ò¡¤¸¥À×(Stephen Fry)
+½ñÄê³õ£¬Ó¢¹úÖøÃûÏ²¾çÑÝÔ±Ê·µÙ·Ò¡¤¸¥À³(Stephen Fry)ÔÚÆÀ¼ÛÎ¢ÈíÐÂÒ»´úÊÖ»ú²Ù×÷ÏµÍ³Windows
 Mobile
 6Ê±Ëµ£º¡°Î¢ÈíËùÓÐ²úÆ·¸øÈËÕâÑùµÄ¸Ð¾õ£¬¼´È«²¿Éè¼ÆÌØÐÔºÍ¹¦ÄÜ¶¼ÊÇÎªÁËÂú×ãÎ¢Èí×ÔÉí£¬¶ø²»ÊÇÈÃÏû·ÑÕß¸Ðµ½ÂúÒâ¡£¡±
-5.¡°LinuxÖ®¸¸¡±¡ª¡ªÀ³ÄÉË¹¡¤ÍÐÍßµÂË¹(Linus
-Torvalds)
+5.¡°LinuxÖ®¸¸¡±¡ª¡ªÀ³ÄÉË¹¡¤ÍÐÍßµÂË¹(Linus Torvalds)
 ½ñÄê5ÔÂ£¬Î¢ÈíÐû³Æ¿ª·ÅÔ´´úÂëÈí¼þÇÖ·¸ÁËÆä200¶àÏî×¨Àû£¬µ«²¢Î´ÅûÂ¶¾ßÌåÏ¸½Ú¡£¡°LinuxÖ®¸¸¡±¡ª¡ªÍÐÍßµÂË¹¾Í´Ë±íÊ¾£º¡°Î¢ÈíÒªÃ´¹«²¼¿ª·ÅÔ´´úÂëÈí¼þÇÖ·¸ÁËÄÄÐ©×¨Àû£¬ÒªÃ´±Õ×ì¡£Î¢ÈíÏÖÔÚµÄÌ¬¶ÈÊÇ£¬¡®ÎÒÃÇÓÐÒ»¸öÇÖÈ¨×¨ÀûÁÐ±í£¬µ«ÊÇÎÒÃÇ²»¸æËßÄã¡£¡¯¼ÙÈçÕæµÄÓÐÕâÑùµÄÁÐ±í£¬ÄÇÎ¢ÈíµÄÌ¬¶È»¹»áÕâÑùÎÂºÍÂð£¿¡±
-6.Î¢ÈíCEOÊ·µÙ·ò¡¤±«¶ûÄ¬(Steve
-Ballmer)
+6.Î¢ÈíCEOÊ·µÙ·ò¡¤±«¶ûÄ¬(Steve Ballmer)
 2008ÄêÊÇ±«¶ûÄ¬¡°·¢ì®¡±µÄÒ»Äê£¬¶ÔÓÚËùÓÐ¿ÉÄÜ×è°­Î¢Èí·¢Õ¹µÄ¾ºÕù¶ÔÊÖ£¬Ëû¶¼¸øÓèÎÞÇéµÄÅê»÷¡£Ä¿Ç°£¬¹È¸èÎÞÒÉÊÇÎ¢Èí×îÎªÇ¿¾¢µÄ¾ºÕù¶ÔÊÖ£¬Òò´Ë±«¶ûÄ¬½«×Ô¼º×îÇÉÃî¡¢×î½Æ»«µÄÒ»´Î¹¥»÷Áô¸øÁË¹È¸è¡£
 ±«¶ûÄ¬±íÊ¾£º¡°ÎÒÃÇµÄWindows
 Live
@@ -17594,13 +17536,10 @@ Hotmail´øÀ´µÄÁ÷Á¿·Ç³£ÓÐ¼ÛÖµ£¬µ«Òª½«Æä×ª»¯ÎªÓªÊÕºÍÀûÈó²¢²»ÈÝÒ×¡£¹È¸èÃæÁÙ×ÅÓëÎÒÃÇÒ
 7.Î¢ÈíCEO±«¶ûÄ¬
 ¾¡¹Ü±«¶ûÄ¬ÔÚ¹¥»÷¹È¸èÊ±´Ó²»ÊÖÈí£¬µ«Ëû½ñÄê³öÈËÒâÁÏµØ³ÐÈÏ£¬Î¢ÈíÔÚËÑË÷ÁìÓòÂäºóÓÚ¹È¸è¡£ËûËµ£º¡°ÔÚÍøÂçËÑË÷ºÍ¹ã¸æÊÐ³¡£¬¹È¸èÊÇÁìÍ·Ñò£¬ÎÒÃÇÅÅÔÚµÚÈýÎ»¡£¡±
 8.Newsvine
-CEOÂõ¿Ë¡¤´÷Î¬É­(Mike
-Davidson)
-¼«ÓÐÏ£ÍûÎÊ¶¦ÃÀ¹ú×ÜÍ³±¦×ùµÄ¹²ºÍµ³ºòÑ¡ÈËÔ¼º²¡¤Âó¿¨¶÷(John
-McCain)ÔÚMySpaceÉÏ´´½¨ÁË¸öÈËÒ³Ãæ£¬Ï£ÍûÀûÓÃÍøÂçµÄÁ¦Á¿Îª×Ô¼ºÀ­Æ±¡£µ«ÊÇ£¬ËûÔÚÎ´»ñµÃÐí¿ÉµÄÇé¿öÏÂ£¬¡°½èÓÃ¡±ÁËËûÈËµÄÍ¼Æ¬¡£NewsvineÊ×Ï¯Ö´ÐÐ¹Ù¡¢Í¼Æ¬ËùÓÐÕß´÷Î¬É­×î³õ²¢²»ÔÚÒâ£¬µ«Ëæ×ÅÂó¿¨¶÷¸öÈËÒ³Ãæ·ÃÎÊÁ¿Ôö´ó£¬ËûµÄ´ø¿íÒ²±»ÑÏÖØÏûºÄ¡£
+CEOÂõ¿Ë¡¤´÷Î¬É­(Mike Davidson)
+¼«ÓÐÏ£ÍûÎÊ¶¦ÃÀ¹ú×ÜÍ³±¦×ùµÄ¹²ºÍµ³ºòÑ¡ÈËÔ¼º²¡¤Âó¿¨¶÷(John McCain)ÔÚMySpaceÉÏ´´½¨ÁË¸öÈËÒ³Ãæ£¬Ï£ÍûÀûÓÃÍøÂçµÄÁ¦Á¿Îª×Ô¼ºÀ­Æ±¡£µ«ÊÇ£¬ËûÔÚÎ´»ñµÃÐí¿ÉµÄÇé¿öÏÂ£¬¡°½èÓÃ¡±ÁËËûÈËµÄÍ¼Æ¬¡£NewsvineÊ×Ï¯Ö´ÐÐ¹Ù¡¢Í¼Æ¬ËùÓÐÕß´÷Î¬É­×î³õ²¢²»ÔÚÒâ£¬µ«Ëæ×ÅÂó¿¨¶÷¸öÈËÒ³Ãæ·ÃÎÊÁ¿Ôö´ó£¬ËûµÄ´ø¿íÒ²±»ÑÏÖØÏûºÄ¡£
 »ùÓÚÕâÒ»Ô­Òò£¬ËûÕ¹¿ªÁË¡°±¨¸´¡±£¬°Ñ±»½èÓÃµÄÍ¼Æ¬»»µô£¬ÔÚÉÏÃæ¼ÓÁËÒ»¶Î»°£¬¡°½ñÌìÎÒÐû²¼ÎÒÒÑµß¸²Ô­À´µÄÁ¢³¡£¬ÍêÈ«Ö§³ÖÍ¬ÐÔÁµ½á»é£¬ÓÈÆäÊÇÁ½Î»ÈÈÇéÈç»ðµÄÅ®ÐÔÖ®¼äµÄ»éÒö¡£¡±ÔÚ´ËÖ®ºó£¬Ëû½«ÕâÒ»¾Ù´ë³ÆÎª¡°ÍêÃÀµÄºÚ¿ÍÐÐÎª¡±¡£
-9.Ó¢¹ú×ÔÓÉµ³ÒéÔ±Ô¼º²¡¤º£Ã÷(John
-Hemming)
+9.Ó¢¹ú×ÔÓÉµ³ÒéÔ±Ô¼º²¡¤º£Ã÷(John Hemming)
 ´æÓÐ2500Íò¶ùÍ¯±£ÏÕ¼ÇÂ¼µÄCD¹âÅÌÊ§ÇÔÖ®ºó£¬Ó¢¹ú×ÔÓÉµ³ÒéÔ±º£Ã÷±íÊ¾£º¡°Í¨³£Çé¿öÏÂ£¬Ò»Æ¥ÂíÌÓÅÜºó£¬ÎÒÃÇ¾Í¹Ø±ÕÁË´óÃÅ¡£µ«ÕâÒ»´ÎÊÇ£¬ÎÒÃÇ°Ñ´óÃÅ´ò¿ª£¬ÈÃ¸ü¶àµÄÂíÌÓÅÜ¡£¡±
 10.Ó¢¹ú¹ã²¥¹«Ë¾(BBC)
 BBC
@@ -17900,8 +17839,7 @@ CNETÖÐ¹ú¡¤PChome.net¡¤Ô­´´
 BenQ
 Òº¾§
 E900WM
-ÎÄÕÂÌáÒª£ºÄúÕýÔÚÔÄ¶ÁÓÐ¹ØÃ÷»ùÒº¾§ÏÔÊ¾Æ÷µÄÎÄÕÂ£­¡¶ÏÔÊ¾Æ÷Ò²BlingBling
-Ã÷»ùE900WNÆÀ²â¡·Èç¹ûÄú¶ÔÃ÷»ù
+ÎÄÕÂÌáÒª£ºÄúÕýÔÚÔÄ¶ÁÓÐ¹ØÃ÷»ùÒº¾§ÏÔÊ¾Æ÷µÄÎÄÕÂ£­¡¶ÏÔÊ¾Æ÷Ò²BlingBling Ã÷»ùE900WNÆÀ²â¡·Èç¹ûÄú¶ÔÃ÷»ù
 E900WN¶¬¼¾ÏÞÁ¿°æ¸ÐÐËÈ¤Çëµã»÷ÓÒÀ¸Í¼Æ¬½øÈë£»Èç¹ûÄú¶Ô¸ü¶àÆäËüÃ÷»ùÒº¾§ÏÔÊ¾Æ÷ÐÍºÅ¸ÐÐËÈ¤£¬»¶Ó­½øÈë¡¾Ã÷»ùÒº¾§ÏÔÊ¾Æ÷´óÈ«¡¿
 Ã÷»ù
 E900WN
@@ -18403,8 +18341,7 @@ CNETÖÐ¹ú¡¤PChome.net¡¤Ô­´´
 ¿ÌÂ¼»ú
 »ªË¶
 ¹âµñ
-ÎÄÕÂÌáÒª£ºÄúÕýÔÚÔÄ¶ÁÓÐ¹Ø»ªË¶¹âÇýµÄÎÄÕÂ£­¡¶¿ÌÂ¼×¨¼ÒÌíÐÂ¶¡
-»ªË¶20X¿ÌÂ¼»úÆÀ²â¡·Èç¹ûÄú¶Ô»ªË¶
+ÎÄÕÂÌáÒª£ºÄúÕýÔÚÔÄ¶ÁÓÐ¹Ø»ªË¶¹âÇýµÄÎÄÕÂ£­¡¶¿ÌÂ¼×¨¼ÒÌíÐÂ¶¡ »ªË¶20X¿ÌÂ¼»úÆÀ²â¡·Èç¹ûÄú¶Ô»ªË¶
 DRW-2014L1T¸ÐÐËÈ¤Çëµã»÷ÓÒÀ¸Í¼Æ¬½øÈë£»Èç¹ûÄú¶Ô¸ü¶àÆäËü»ªË¶¹âÇýÐÍºÅ¸ÐÐËÈ¤£¬»¶Ó­½øÈë¡¾»ªË¶¹âÇý´óÈ«¡¿
 »ªË¶¹âµñÍõDRW-2014L1T
 ¼ò½é
@@ -18873,10 +18810,7 @@ NTSCÌáÉýµ½92£¥
 NTSCµÄ±¥ºÍ¶È£¬Òò¶ø³É±¾¼¸ºõ²»»áÓÐÊ²Ã´ÌáÉý£¬Í¬Ê±ÓÖ´ïµ½ÁËÉ«Óò±¥ºÍ¶ÈÌáÉýµÄÐ§¹û£¬Õâ¶ÔÇ·È±É«²Ê±íÏÖµÄÖ÷Á÷Òº¾§ÏÔÊ¾Æ÷À´ËµÎÞÒÉÊÇ¾ÈÐÇ°¡¡£
 ÄãÖªµÀÂð£ºÊ²Ã´ÊÇ¹ãÉ«Óò¡¢NTSC
 £¿
-Èç¹ûËµÏÂÍ¼ÖÐ¡°ÉàÐÎ¡±µÄÑÕÉ«´ú±íÁË×ÔÈ»½çËùÓÐµÄÑÕÉ«£¬ÄÇ±»Èý½ÇÐÎÈ¦ÆðÀ´µÄ¾ÍÊÇNTSC(¼´National
-Television
-System
-Committee)£¬ÊÇ¹ú¼ÊµçÊÓ±ê×¼Î¯Ô±»á¹æ¶¨µÄ²ÊÉ«µçÊÓ¹ã²¥±ê×¼£¬ËüÊÇÒÔ£¥Îªµ¥Î»±íÊ¾£¬Ä¿Ç°ËùÓÐ²ÊÉ«ÏÔÊ¾ºÍÓ¡Ë¢µÈÉè±¸¾ùÒÔNTSCÇøÓòÎª±ê×¼£¬¸ÃÖ¸±êÊÇÖ¸ÔÚÕû¸öÉ«²Ê¿Õ¼äÄÚ£¬ÏÔÊ¾Éè±¸ÄÜÔÚ¸÷ÖÖÉ«²ÊÉÏÏÔÊ¾µ½ºÎÖÖ±¥ºÍ¶È£¬¼´ÄÜ¹»ÏÔÊ¾µ½Ê²Ã´³Ì¶ÈµÄÀ¶É«¡¢ÂÌÉ«¡¢ºìÉ«£¬²»¹ÜÊÇÓÎÏ·¡¢µçÓ°£¬»¹ÊÇÆ½ÃæÉè¼Æ£¬NTSCÉ«ÓòÖµÔ½´ó£¬Òº¾§ÏÔÊ¾Æ÷µÄÏÔÊ¾Ð§¹û¸üÓÅÐã¡£
+Èç¹ûËµÏÂÍ¼ÖÐ¡°ÉàÐÎ¡±µÄÑÕÉ«´ú±íÁË×ÔÈ»½çËùÓÐµÄÑÕÉ«£¬ÄÇ±»Èý½ÇÐÎÈ¦ÆðÀ´µÄ¾ÍÊÇNTSC(¼´National Television System Committee)£¬ÊÇ¹ú¼ÊµçÊÓ±ê×¼Î¯Ô±»á¹æ¶¨µÄ²ÊÉ«µçÊÓ¹ã²¥±ê×¼£¬ËüÊÇÒÔ£¥Îªµ¥Î»±íÊ¾£¬Ä¿Ç°ËùÓÐ²ÊÉ«ÏÔÊ¾ºÍÓ¡Ë¢µÈÉè±¸¾ùÒÔNTSCÇøÓòÎª±ê×¼£¬¸ÃÖ¸±êÊÇÖ¸ÔÚÕû¸öÉ«²Ê¿Õ¼äÄÚ£¬ÏÔÊ¾Éè±¸ÄÜÔÚ¸÷ÖÖÉ«²ÊÉÏÏÔÊ¾µ½ºÎÖÖ±¥ºÍ¶È£¬¼´ÄÜ¹»ÏÔÊ¾µ½Ê²Ã´³Ì¶ÈµÄÀ¶É«¡¢ÂÌÉ«¡¢ºìÉ«£¬²»¹ÜÊÇÓÎÏ·¡¢µçÓ°£¬»¹ÊÇÆ½ÃæÉè¼Æ£¬NTSCÉ«ÓòÖµÔ½´ó£¬Òº¾§ÏÔÊ¾Æ÷µÄÏÔÊ¾Ð§¹û¸üÓÅÐã¡£
 NTSCµÄÉ«Óò·¶Î§
 ±à¼­ÍÆ¼öÎÄÕÂ£º
 ÈýÅµ¹ÅÆÓÍâ¹ÛLA-6900¹©²»Ó¦ÇóÏúÊÛ¼Ñ
@@ -21051,8 +20985,7 @@ G2400W
 ÎÄÕÂ
 |
 ÆÀ¼Û
-ÎÄÕÂÌáÒª£ºÄúÕýÔÚÔÄ¶ÁÓÐ¹ØÃ÷»ùÒº¾§ÏÔÊ¾Æ÷µÄÎÄÕÂ£­¡¶¹¤ÒÕ¿¼¾¿
-Ã÷»ù°Ù´îE2200WÒº¾§22XXÔª¡·Èç¹ûÄú¶ÔÃ÷»ù
+ÎÄÕÂÌáÒª£ºÄúÕýÔÚÔÄ¶ÁÓÐ¹ØÃ÷»ùÒº¾§ÏÔÊ¾Æ÷µÄÎÄÕÂ£­¡¶¹¤ÒÕ¿¼¾¿ Ã÷»ù°Ù´îE2200WÒº¾§22XXÔª¡·Èç¹ûÄú¶ÔÃ÷»ù
 G2400W¸ÐÐËÈ¤Çëµã»÷ÓÒÀ¸Í¼Æ¬½øÈë£»Èç¹ûÄú¶Ô¸ü¶àÆäËüÃ÷»ùÒº¾§ÏÔÊ¾Æ÷ÐÍºÅ¸ÐÐËÈ¤£¬»¶Ó­½øÈë¡¾Ã÷»ùÒº¾§ÏÔÊ¾Æ÷´óÈ«¡¿
 ¹¤ÒÕ¿¼¾¿
 Ã÷»ù°Ù´îE2200WÒº¾§22XXÔª
@@ -21865,8 +21798,7 @@ N810
 ÏÄÐÂ
 AMOI
 GPS
-ÎÄÕÂÌáÒª£ºÄúÕýÔÚÔÄ¶ÁÓÐ¹ØÏÄÐÂÊÖ»úµÄÎÄÕÂ£­¡¶200Íò¶Ô½¹+GPSµ¼º½
-WM6ÏÄÐÂN810ÆÀ²â¡·Èç¹ûÄú¶ÔÏÄÐÂ
+ÎÄÕÂÌáÒª£ºÄúÕýÔÚÔÄ¶ÁÓÐ¹ØÏÄÐÂÊÖ»úµÄÎÄÕÂ£­¡¶200Íò¶Ô½¹+GPSµ¼º½ WM6ÏÄÐÂN810ÆÀ²â¡·Èç¹ûÄú¶ÔÏÄÐÂ
 N800¸ÐÐËÈ¤Çëµã»÷ÓÒÀ¸Í¼Æ¬½øÈë£»Èç¹ûÄú¶Ô¸ü¶àÆäËüÏÄÐÂÊÖ»úÐÍºÅ¸ÐÐËÈ¤£¬»¶Ó­½øÈë¡¾ÏÄÐÂÊÖ»ú´óÈ«¡¿
 ÏÄÐÂN810
 Ë®¾§ÔìÐÍÍâ¹ÛÉè¼Æ
@@ -25496,8 +25428,7 @@ Z99HA55N-DR
 ÎÄÕÂ
 |
 ÆÀ¼Û
-ÎÄÕÂÌáÒª£ºÄúÕýÔÚÔÄ¶ÁÓÐ¹Ø»ªË¶±Ê¼Ç±¾µÄÎÄÕÂ£­¡¶»ªË¶120GBË«ºËD¿Ì±Ê¼Ç±¾
-´ÙÏú½ö5100¡·Èç¹ûÄú¶Ô»ªË¶
+ÎÄÕÂÌáÒª£ºÄúÕýÔÚÔÄ¶ÁÓÐ¹Ø»ªË¶±Ê¼Ç±¾µÄÎÄÕÂ£­¡¶»ªË¶120GBË«ºËD¿Ì±Ê¼Ç±¾ ´ÙÏú½ö5100¡·Èç¹ûÄú¶Ô»ªË¶
 Z99HA55N-DR¸ÐÐËÈ¤Çëµã»÷ÓÒÀ¸Í¼Æ¬½øÈë£»Èç¹ûÄú¶Ô¸ü¶àÆäËü»ªË¶±Ê¼Ç±¾ÐÍºÅ¸ÐÐËÈ¤£¬»¶Ó­½øÈë¡¾»ªË¶±Ê¼Ç±¾´óÈ«¡¿
 »ªË¶120GBË«ºËD¿Ì±Ê¼Ç±¾
 ´ÙÏú½ö5100
@@ -26069,8 +26000,7 @@ CPU
 ÎÄÕÂ
 |
 ÆÀ¼Û
-ÎÄÕÂÌáÒª£ºÄúÕýÔÚÔÄ¶ÁÓÐ¹Øº£¶ûÌ¨Ê½µçÄÔµÄÎÄÕÂ£­¡¶´º½ÚºäÌìÀ×
-º£¶û19Òº¾§¶ÀÏÔÌ¨»ú´ÙÏú¡·Èç¹ûÄú¶Ôº£¶û
+ÎÄÕÂÌáÒª£ºÄúÕýÔÚÔÄ¶ÁÓÐ¹Øº£¶ûÌ¨Ê½µçÄÔµÄÎÄÕÂ£­¡¶´º½ÚºäÌìÀ× º£¶û19Òº¾§¶ÀÏÔÌ¨»ú´ÙÏú¡·Èç¹ûÄú¶Ôº£¶û
 ºäÌìÀ×H6-B009¸ÐÐËÈ¤Çëµã»÷ÓÒÀ¸Í¼Æ¬½øÈë£»Èç¹ûÄú¶Ô¸ü¶àÆäËüº£¶ûÌ¨Ê½µçÄÔÐÍºÅ¸ÐÐËÈ¤£¬»¶Ó­½øÈë¡¾º£¶ûÌ¨Ê½µçÄÔ´óÈ«¡¿
 ´º½ÚºäÌìÀ×
 º£¶û19Òº¾§¶ÀÏÔÌ¨»ú´ÙÏú
@@ -26879,12 +26809,7 @@ stopper¡±µÄ´æ´¢Â©¶´£¬ÎªÁË¾ö¶¨ÊÇ·ñ¶Ô¸ÃÂ©¶´½øÐÐÐÞ¸´£¬Î¢ÈíÍ¨¹ý·´¸´²âÊÔ²¢¾­¶à·½ÂÛÖ¤£
 Server·þÎñÆ÷²úÆ·²¿ÃÅ¾­ÀíBill
 Laing±íÊ¾£¬ÔÙ¹ýÊýÖÜ£¬Windows
 Server
-2008½«½øÈë·¢²¼Ç°µÄ×îºó½×¶Î£¬¸Ã½×¶ÎÍ¨³£±»Î¢Èí³Æ×÷¡°½ô¼±Çé¿ö£¬´òËé²£Á§(IN
-CASE
-OF
-EMERGENCY
-BREAK
-GLASS)¡±½×¶Î¡£´ÓÒâË¼²ãÃæÉÏÀ´¿´£¬¸Ã½×¶Î½«ÊÇ²úÆ·ÕýÊ½·¢²¼µÄÇ°Ò»ÖÜµ½Á½ÖÜÊ±¼ä£¬Õâ¸öÊ±ºò£¬ÈÎºÎÉæ¼°²úÆ·µÄ¸Ä¶¯¼¸ºõ¶¼ÒÑÊÇ²»¿ÉÄÜµÄÁË¡£
+2008½«½øÈë·¢²¼Ç°µÄ×îºó½×¶Î£¬¸Ã½×¶ÎÍ¨³£±»Î¢Èí³Æ×÷¡°½ô¼±Çé¿ö£¬´òËé²£Á§(IN CASE OF EMERGENCY BREAK GLASS)¡±½×¶Î¡£´ÓÒâË¼²ãÃæÉÏÀ´¿´£¬¸Ã½×¶Î½«ÊÇ²úÆ·ÕýÊ½·¢²¼µÄÇ°Ò»ÖÜµ½Á½ÖÜÊ±¼ä£¬Õâ¸öÊ±ºò£¬ÈÎºÎÉæ¼°²úÆ·µÄ¸Ä¶¯¼¸ºõ¶¼ÒÑÊÇ²»¿ÉÄÜµÄÁË¡£
 Windows
 Vista£ºÊÂÊµÊ¤ÓÚÐÛ±ç£¿
 ¡üÉÏÒ»ÌõÏûÏ¢
@@ -29006,8 +28931,7 @@ M1530£¨Q511231N£©
 ÎÄÕÂ
 |
 ÆÀ¼Û
-ÎÄÕÂÌáÒª£ºÄúÕýÔÚÔÄ¶ÁÓÐ¹Ø´÷¶û±Ê¼Ç±¾µÄÎÄÕÂ£­¡¶´÷¶û2GÄÚ´æ8600¶ÀÏÔ±Ê¼Ç±¾
-´º½ÚÈÈÂô¡·Èç¹ûÄú¶Ô´÷¶û
+ÎÄÕÂÌáÒª£ºÄúÕýÔÚÔÄ¶ÁÓÐ¹Ø´÷¶û±Ê¼Ç±¾µÄÎÄÕÂ£­¡¶´÷¶û2GÄÚ´æ8600¶ÀÏÔ±Ê¼Ç±¾ ´º½ÚÈÈÂô¡·Èç¹ûÄú¶Ô´÷¶û
 XPS
 M1530£¨Q511231N£©¸ÐÐËÈ¤Çëµã»÷ÓÒÀ¸Í¼Æ¬½øÈë£»Èç¹ûÄú¶Ô¸ü¶àÆäËü´÷¶û±Ê¼Ç±¾ÐÍºÅ¸ÐÐËÈ¤£¬»¶Ó­½øÈë¡¾´÷¶û±Ê¼Ç±¾´óÈ«¡¿
 ´÷¶û2GÄÚ´æ8600¶ÀÏÔ±Ê¼Ç±¾
@@ -30047,8 +29971,7 @@ psp2000
 ÏÂÒ»Ò³
 µçÊÓÓÎÏ·ÐÂÎÅ
 ÕÆ»úÓÎÏ·ÆÆ½â
-[ÈÌÕßÁú½£´«
-ºÚÖ®ÕÂ]ÏÂÔØÒÑµÇÂ¼Xbox
+[ÈÌÕßÁú½£´« ºÚÖ®ÕÂ]ÏÂÔØÒÑµÇÂ¼Xbox
 PS3²»ÈÃX360×¨ÃÀÓÚÇ°£¬Ò²×ßÆðFPS»¯Â·
 ¿¨ÅåÂÞÖ´½ÌÓ¢¸ñÀ¼ÓÖ³öÆæÕÐ
 ½ûÍæPS3
@@ -30117,8 +30040,7 @@ TONY´óÊ¦¡¶¹âÃ÷Ö®·ç¡·PSP
 [PS3]¡¶¹íÆü4¡·È«Á÷³ÌÏêÏ¸¹¥ÂÔ
 Nds
 RPGÓÎÏ·¡¶×îÖÕ»ÃÏëIV¡·Á÷³Ì
-¡¶³¬¼¶´óÕ½Õù
-»ÙÃðÖ®ÈÕ¡·Á÷³Ì¹¥
+¡¶³¬¼¶´óÕ½Õù »ÙÃðÖ®ÈÕ¡·Á÷³Ì¹¥
 XBOX360¡¶¹íÆü4¡·È«Á÷³Ì¹¥ÂÔ
 ¡¶¹íÆü4¡·È«Òþ²ØÈÎÎñ¹¥ÂÔ£¨¸üÐÂ
 XBOX360×÷Æ·¡¶Ê§ÂäµÄ°ÂµÂÈü¡·Ä§
@@ -30129,8 +30051,7 @@ PSPÄ£ÄâÓÎÏ·SFC¡¶46ÒÚÄêÎïÓï¡·Á÷
 ÓÎÏ·ÏÂÔØ
 ÍøÂçµÚÒ»ÃÀÐØÃÀÅ®ÓÕ»óÊÓÆµÆØ¹â
 ÈÕ±¾±¬ÈéÃÀÅ®ÕæÈËPK´ó¾ö¶·ÄÚ²¿×ÊÁÏÁ÷
-¡¶Õæ
-Èý¹úÎÞË«6¡·¸ßÇåÓÎÏ·ÊÓÆµ
+¡¶Õæ Èý¹úÎÞË«6¡·¸ßÇåÓÎÏ·ÊÓÆµ
 ÐÔ¸ÐÄÚÒÂÄ£ÌØÈ«ÂãÅÄÉãºóÌ¨½ÒÃØ
 ¡¶ÈÌÕßÁú½£´«2¡·¼¤ÁÒÕ½ÊÂ¸ßÇåÊÓÆµ
 ¾ø¶ÔÓÕ»óÇå´¿ÃÀÅ®ÊÓÆµ×ÔÅÄ¹«²¼
@@ -30952,8 +30873,7 @@ ICPÖ¤»¦B2-20070131
 ÆóÒµ
 |
 ÉÌ³Ç
-2008Äê1ÔÂ22ÈÕ£¬ÒÔ¡°À´£¬·¢ÏÖ¾«²Ê¡±ÎªÖ÷ÌâµÄ°ÂÁÖ°ÍË¹2008Äê´º¼¾ÐÂÆ·ÊýÂëÏà»ú·¢²¼»áÔÚ±±¾©ÐÇ¹âÏÖ³¡Â¡ÖØ¾ÙÐÐ¡£µ±ÉñÃØµÄÃæÉ´±»½Ò¿ªÖ®ºó£¬11¿î²ÓÀÃ¶áÄ¿µÄÐÂÆ·Ïà»úÒÀ´ÎÔÚÈËÃÇÃæÇ°ÕÀ·Å¡£´Ë´Î·¢²¼µÄ²úÆ·º­¸ÇÁËSPÏµÁÐ¡¢¦ÌÏµÁÐ¡¢¦ÌSWÏµÁÐºÍFEÏµÁÐËÄ´ó²úÆ·Ïß£¬±íÏÖ³öÁË¸÷×Ô²»Í¬µÄ¾«²Ê£¬µ«ÓÖÎÞÒ»ÀýÍâµØÕ¹Ê¾ÁËÍ¬Ñùö¦ÀöµÄÌØÉ«¡ª¡ª°ÂÁÖ°ÍË¹ÁìÏÈÊÀ½çµÄ¾µÍ·¿ª·¢¼¼Êõ¡£ÕýÊÇÕâÐ©¾«²Ê·×³ÊµÄ²úÆ·½Ü×÷£¬²»½öÕÃÏÔ×Å°ÂÁÖ°ÍË¹ÔÚ¹âÑ§ÁìÓòµÄ88Äê»Ô»ÍÀúÊ·£¬¸üÌåÏÖÁË°ÂÁÖ°ÍË¹¶ÔÓ°ÏñÒÕÊõµÄ×Î×Î×·Çó¡£[¸ü¶à
-]
+2008Äê1ÔÂ22ÈÕ£¬ÒÔ¡°À´£¬·¢ÏÖ¾«²Ê¡±ÎªÖ÷ÌâµÄ°ÂÁÖ°ÍË¹2008Äê´º¼¾ÐÂÆ·ÊýÂëÏà»ú·¢²¼»áÔÚ±±¾©ÐÇ¹âÏÖ³¡Â¡ÖØ¾ÙÐÐ¡£µ±ÉñÃØµÄÃæÉ´±»½Ò¿ªÖ®ºó£¬11¿î²ÓÀÃ¶áÄ¿µÄÐÂÆ·Ïà»úÒÀ´ÎÔÚÈËÃÇÃæÇ°ÕÀ·Å¡£´Ë´Î·¢²¼µÄ²úÆ·º­¸ÇÁËSPÏµÁÐ¡¢¦ÌÏµÁÐ¡¢¦ÌSWÏµÁÐºÍFEÏµÁÐËÄ´ó²úÆ·Ïß£¬±íÏÖ³öÁË¸÷×Ô²»Í¬µÄ¾«²Ê£¬µ«ÓÖÎÞÒ»ÀýÍâµØÕ¹Ê¾ÁËÍ¬Ñùö¦ÀöµÄÌØÉ«¡ª¡ª°ÂÁÖ°ÍË¹ÁìÏÈÊÀ½çµÄ¾µÍ·¿ª·¢¼¼Êõ¡£ÕýÊÇÕâÐ©¾«²Ê·×³ÊµÄ²úÆ·½Ü×÷£¬²»½öÕÃÏÔ×Å°ÂÁÖ°ÍË¹ÔÚ¹âÑ§ÁìÓòµÄ88Äê»Ô»ÍÀúÊ·£¬¸üÌåÏÖÁË°ÂÁÖ°ÍË¹¶ÔÓ°ÏñÒÕÊõµÄ×Î×Î×·Çó¡£[¸ü¶à ]
 °ÂÁÖ°ÍË¹(ÖÐ¹ú)Í¶×ÊÓÐÏÞ¹«Ë¾(¼ò³ÆOCI)ÊÇ°ÂÁÖ°ÍË¹Ïã¸ÛÖÐ¹úÓÐÏÞ¹«Ë¾(¼ò³ÆOHC)È«¶îÍ¶×ÊµÄÍ¶×ÊÐÔ¹«Ë¾,³ÉÁ¢ÓÚ2000Äê11ÔÂ,×¢²á×Ê±¾3000ÍòÃÀÔª¡£°ÂÁÖ°ÍË¹(ÖÐ¹ú)Í¶×ÊÓÐÏÞ¹«Ë¾µÄ³ÉÁ¢¶ÔÓÚÕû¸ö°ÂÁÖ°ÍË¹¼¯ÍÅÓÐ×ÅÉîÔ¶µÄÒâÒå,¹«Ë¾µÄ¸÷²¿·ÖÖ÷Òª»úÄÜÕýÔÚÖð²½ÒÆÍùÖÐ¹ú,´Ó²úÆ·µÄÑÐ¾¿¿ª·¢,Éè¼ÆÖÆÔì,Ðû´«ÏúÊÛµ½ÊÛºó·þÎñÐÎ³ÉÒ»ÌõÁúµÄ¾­Óª¹ÜÀíºÍ·þÎñÌåÏµ,Ä¿±ê¾ÍÊÇÒªÒÔÖÐ¹úÎª»ù±¾µãÃæÏòÈ«ÊÀ½çÌá¹©ÓÅÖÊ²úÆ·...[¸ü¶à]
 ¼òµ¥ºÃÓÃ3"ÆÁ
 °ÂÁÖ°ÍË¹¦Ì730ÇÀÏÈ...
@@ -35790,8 +35710,7 @@ CNETÖÐ¹ú¡¤PChome.net
 ¡üÉÏÒ»ÌõÏûÏ¢
 ÈÈµã¶¯Âþ¾Û½¹
 ¡¶ÎÆÕÂµÄ¼ÇÒä¡·³¬ÐÔ¸Ð±¬ÈéÃÀÉÙÅ®cg
-¡¶black
-hair¡·ÉñÃØµÄºÚÉ«MMÔ­»­ÉÍ
+¡¶black hair¡·ÉñÃØµÄºÚÉ«MMÔ­»­ÉÍ
 ³¬Çå´¿¶ñÄ§Õ½Ê¿Â¶¼çCOSPLAY
 Â¶Ò×Ë¿
 Ð¡¶ñÄ§verÊÖ°ì
@@ -36182,8 +36101,7 @@ WLANÐÔÄÜ
 Intel
 GMA950
 ±ê×¼½Ó¿Ú
-3¸öUSB2.0½Ó¿Ú£¬PCMCIA½Ó¿Ú£¬VGA½Ó¿Ú£¬RJ11£¬RJ45¡¢Âó¿Ë·ç£¬¶ú»ú/ÒôÆµÊä³ö£¬±Ê¼Ç±¾Ëø¿×¡¢Ö±Á÷µçÔ´½Ó¿Ú¡¢1394½Ó¿Ú¡¢4ºÏÒ»¶Á¿¨Æ÷(SD/MMC/MS/MS
-Pro)
+3¸öUSB2.0½Ó¿Ú£¬PCMCIA½Ó¿Ú£¬VGA½Ó¿Ú£¬RJ11£¬RJ45¡¢Âó¿Ë·ç£¬¶ú»ú/ÒôÆµÊä³ö£¬±Ê¼Ç±¾Ëø¿×¡¢Ö±Á÷µçÔ´½Ó¿Ú¡¢1394½Ó¿Ú¡¢4ºÏÒ»¶Á¿¨Æ÷(SD/MMC/MS/MS Pro)
 ±Ê¼Ç±¾ÖØÁ¿
 1450g
 ²Ù×÷ÏµÍ³
@@ -36606,8 +36524,7 @@ Intel
 ¿áî£2Ë«ºË
 T5250(1.5GHz)
 Ñ¸³Û¼¼Êõ
-Ñ¸³ÛIV(Santa
-Rosa)
+Ñ¸³ÛIV(Santa Rosa)
 Ö÷°åÃèÊö
 Intel
 PM965
@@ -37046,8 +36963,7 @@ i360
 Ìì½¾
 i360²ÉÓÃÁËIntel
 ±¼ÌÚË«ºË
-E2140´¦ÀíÆ÷£¨1.60GHzÖ÷Æµ¡¢1MB¶þ¼¶»º´æ¡¢800
-MHzÇ°¶Ë×ÜÏß£©£¬2G
+E2140´¦ÀíÆ÷£¨1.60GHzÖ÷Æµ¡¢1MB¶þ¼¶»º´æ¡¢800 MHzÇ°¶Ë×ÜÏß£©£¬2G
 DDR2ÄÚ´æ£¬250GB
 Ó²ÅÌ£¬×î´ó¹²ÏíÄÚ´æÎª256MµÄ¸ßÐÔÄÜ¼¯³ÉÏÔ¿¨ºÍ19´çÒº¾§ÏÔÊ¾Æ÷¡£
 ÕûÌå¿´£¬Õâ¿îÁªÏëÌì½¾Ì¨»úÓµÓÐ³öÉ«µÄÍâ¹ÛºÍÐÔÄÜ£¬Õû»ú¶î¾ùºâÅäÖÃÈÃÓÃ»§ÔÚÊ¹ÓÃµÄÊ±ºò±È½ÏÊæÐÄ£¬Ï²»¶µÄÅóÓÑ²»·ÁÈ¥¿´¿´¡£
@@ -38431,8 +38347,7 @@ ME1+
 ÎÄÕÂ
 |
 ÆÀ¼Û
-ÎÄÕÂÌáÒª£ºÄúÕýÔÚÔÄ¶ÁÓÐ¹Ø°®ÆÕÉúÅçÄ«´òÓ¡»úµÄÎÄÕÂ£­¡¶¸ßÐÔ¼Û±È!
-ÈëÃÅ¼¶²ÊÉ«ÎÄ±¾´òÓ¡»úµ¼¹º¡·Èç¹ûÄú¶Ô°®ÆÕÉú
+ÎÄÕÂÌáÒª£ºÄúÕýÔÚÔÄ¶ÁÓÐ¹Ø°®ÆÕÉúÅçÄ«´òÓ¡»úµÄÎÄÕÂ£­¡¶¸ßÐÔ¼Û±È! ÈëÃÅ¼¶²ÊÉ«ÎÄ±¾´òÓ¡»úµ¼¹º¡·Èç¹ûÄú¶Ô°®ÆÕÉú
 ME1+¸ÐÐËÈ¤Çëµã»÷ÓÒÀ¸Í¼Æ¬½øÈë£»Èç¹ûÄú¶Ô¸ü¶àÆäËü°®ÆÕÉúÅçÄ«´òÓ¡»úÐÍºÅ¸ÐÐËÈ¤£¬»¶Ó­½øÈë¡¾°®ÆÕÉúÅçÄ«´òÓ¡»ú´óÈ«¡¿
 ¸ßÐÔ¼Û±È!
 ÈëÃÅ¼¶²ÊÉ«ÎÄ±¾´òÓ¡»úµ¼¹º
@@ -39004,8 +38919,7 @@ PV2223
 ÎÄÕÂ
 |
 ÆÀ¼Û
-ÎÄÕÂÌáÒª£ºÄúÕýÔÚÔÄ¶ÁÓÐ¹Ø°ÂÍ¼ÂëÍ¶Ó°»úµÄÎÄÕÂ£­¡¶¸ú×ÅÈºÖÚÒ»ÆðÂò
-ÍÆ¼ö×îºìµÄDLPÍ¶Ó°»ú¡·Èç¹ûÄú¶Ô°ÂÍ¼Âë
+ÎÄÕÂÌáÒª£ºÄúÕýÔÚÔÄ¶ÁÓÐ¹Ø°ÂÍ¼ÂëÍ¶Ó°»úµÄÎÄÕÂ£­¡¶¸ú×ÅÈºÖÚÒ»ÆðÂò ÍÆ¼ö×îºìµÄDLPÍ¶Ó°»ú¡·Èç¹ûÄú¶Ô°ÂÍ¼Âë
 PV2223¸ÐÐËÈ¤Çëµã»÷ÓÒÀ¸Í¼Æ¬½øÈë£»Èç¹ûÄú¶Ô¸ü¶àÆäËü°ÂÍ¼ÂëÍ¶Ó°»úÐÍºÅ¸ÐÐËÈ¤£¬»¶Ó­½øÈë¡¾°ÂÍ¼ÂëÍ¶Ó°»ú´óÈ«¡¿
 ¸ú×ÅÈºÖÚÒ»ÆðÂò
 ÍÆ¼ö×îºìµÄDLPÍ¶Ó°»ú
@@ -39543,8 +39457,7 @@ VPL-CX100
 ÎÄÕÂ
 |
 ÆÀ¼Û
-ÎÄÕÂÌáÒª£ºÄúÕýÔÚÔÄ¶ÁÓÐ¹ØË÷ÄáÍ¶Ó°»úµÄÎÄÕÂ£­¡¶Ð¡ÐÍ»áÒéÊÒ
-½ÌÊÒÓÃ¸ßÇåÍ¶Ó°»úµ¼¹º¡·Èç¹ûÄú¶ÔË÷Äá
+ÎÄÕÂÌáÒª£ºÄúÕýÔÚÔÄ¶ÁÓÐ¹ØË÷ÄáÍ¶Ó°»úµÄÎÄÕÂ£­¡¶Ð¡ÐÍ»áÒéÊÒ ½ÌÊÒÓÃ¸ßÇåÍ¶Ó°»úµ¼¹º¡·Èç¹ûÄú¶ÔË÷Äá
 VPL-CX100¸ÐÐËÈ¤Çëµã»÷ÓÒÀ¸Í¼Æ¬½øÈë£»Èç¹ûÄú¶Ô¸ü¶àÆäËüË÷ÄáÍ¶Ó°»úÐÍºÅ¸ÐÐËÈ¤£¬»¶Ó­½øÈë¡¾Ë÷ÄáÍ¶Ó°»ú´óÈ«¡¿
 Ð¡ÐÍ»áÒéÊÒ
 ½ÌÊÒÓÃ¸ßÇåÍ¶Ó°»úµ¼¹º
@@ -39612,17 +39525,14 @@ NTSC3.58£¬PAL£¬SECAM£¬NTSC
 SÊÓÆµ£ºY/C
 Mini
 DIN
-4Ð¾¡¢¸´ºÏÊÓÆµ£ºRCAÐ¾¡¢ÒôÆµ£ºÁ¢ÌåÉùÐ¡ÐÍ²å¿×¡¢RGB/·ÖÁ¿£ºÄ£ÄâRGB/·ÖÁ¿(HD
-D-sub15Ð¾)¡Á2¡¢ÒôÆµ£ºÁ¢ÌåÉùÐ¡ÐÍ²å¿×(A/B)¡Á2
+4Ð¾¡¢¸´ºÏÊÓÆµ£ºRCAÐ¾¡¢ÒôÆµ£ºÁ¢ÌåÉùÐ¡ÐÍ²å¿×¡¢RGB/·ÖÁ¿£ºÄ£ÄâRGB/·ÖÁ¿(HD D-sub15Ð¾)¡Á2¡¢ÒôÆµ£ºÁ¢ÌåÉùÐ¡ÐÍ²å¿×(A/B)¡Á2
 Êä³ö½Ó¿Ú
-RGB£ºÄ£ÄâRGB(HD
-D-sub15Ð¾)¡¢ÒôÆµ£ºÁ¢ÌåÉùÐ¡ÐÍ²å¿×(Êä³ö¿É±ä)
+RGB£ºÄ£ÄâRGB(HD D-sub15Ð¾)¡¢ÒôÆµ£ºÁ¢ÌåÉùÐ¡ÐÍ²å¿×(Êä³ö¿É±ä)
 ²Ëµ¥ÓïÑÔ
 15ÖÖÓïÑÔ
 °²È«ÈÏÖ¤
 UL
-1950,cul(csa
-60950),IC
+1950,cul(csa 60950),IC
 Class
 B,DEMKO(EN60950),CE
 (LVD,EMC),C-Tick,Dentori,VCCI
@@ -41557,14 +41467,8 @@ Simon¿ª´´PetaflopÔËËãÊ±´úÆÌÆ½µÀÂ·£¬À´ÊµÏÖÆÄÓÐÌôÕ½µÄ64Î»Ó¦ÓÃ³ÌÐò²¢ÐÐ´úÂëµÄ´óÁ¿pet
 ÕâÏîÑÐ¾¿»¹ÏÔÊ¾ËäÈ»ÕâÐ©ÏîÄ¿ÓÚÃ»ÓÐÔÚ¿Æ¼¼ºÍ¹¤³Ì·½ÃæÈ¡µÃÍ»ÆÆÐÔ½øÕ¹£¬µ«ËûÃÇµÄ¹¤×÷¸ºÔØÈ´º­¸ÇÁËÈÝÁ¿Óë´´ÐÂµÄ¹¤×÷ÄÚÈÝ¡£µÍ¶ËÊÐ³¡µÄ¾­¼ÃÎüÒýÁ¦£¬ÌØ±ðÊÇ¶ÔÓÚÓ¢ÌØ¶û¡¢AMDºÍÎ¢ÈíÕâÑùµÄ´óÐÍÈíÓ²¼þÏµÍ³Éú²ú³§ÉÌÀ´Ëµ£¬¶¼»áÖð½¥½«×¢ÒâÁ¦¾Û½¹ÓÚ´ËÀ´ÎüÒýËûÃÇµÄÓÃ»§¡£(IDC»ú¹¹¼Æ»®ÔÚ2008Äê·¢²¼Æä¶ÔÓÚ2007ÄêµÍ¶ËÊÐ³¡µÄÑÐ¾¿±¨¸æ£©
 5.µÍ¶ËÊÐ³¡µÄÔö³¤½«´ø¶¯±ã½Ý½â¾ö·½°¸µÄ·¢Õ¹
 ÎÒÃÇ¶ÔµÍ¶ËÊÐ³¡ÒÑ¾­ÖªÖ®Éõ¶à£¬ÌØ±ðÊÇÊÛ¼ÛµÍÓÚ50000ÃÀ½ðµÄ¹¤×÷×é¼¼Êõ·þÎñÆ÷ÊÐ³¡¸üÊÇÇ÷ÓÚ°×ÈÈ»¯¡£ÓÐÐ©·½ÃæÒÑ¾­·Ç³£¿Ï¶¨£ºÄÇ¾ÍÊÇÕâÐ©ÓÃ»§¶¼Ï£ÍûÓÐÒ»ÖÖ¼ò±ã¿ì½ÝµÄ½â¾ö·½°¸--´Ó¹ºÂò£¬°²×°£¬²Ù×÷£¨°üÀ¨Èí¼þ¼æÈÝÐÔºÍÐÔÄÜ£©ºÍÉý¼¶¡£ÎÞÂÛÊÇÊ×´Î½øÐÐ¼¼Êõ·þÎñÆ÷Ç¨ÒÆµÄÐ¡ÐÍ¹¤³Ì·þÎñ¹«Ë¾£¬»¹ÊÇ¾ß±¸¶àÄê¸ßÐÔÄÜ¼ÆËãÊý¾ÝÖÐÐÄ¾­ÑéµÄ´óÐÍÆóÒµ²¿ÃÅ£¬ËûÃÇ¶¼È±·¦ÕæÕý¸»ÓÐ¸ßÐÔÄÜ¼ÆËã¾­ÑéµÄIT×¨ÒµÈËÔ±¡£
-2007Äê£¬¸ßÐÔÄÜ¼ÆËã³§ÉÌ½«ÐÂÏµÍ³µÄ¼Û¸ñ¶¨Î»ÓÚ15000ÃÀ½ðµ½25000ÃÀ½ðÖ®¼ä£¨ÖîÈçSiCortex
-Catapult£¬HP
-Cluster
-Platform
-Express,
-IBMµÈ£©Ô¤²âÊÔµÄ²Î¿¼ÌåÏµ¼Ü¹¹Ä¿±ê¾ÍÊÇÌá¹©ÄÜÂú×ã¹¤×÷×éÒªÇóµÄ±ã½Ý½â¾ö·½°¸¡£Platform
-Computing¹«Ë¾£¨ÔÚÓ¢ÌØ¶ûCluster
-ReadyÌåÏµ¼Ü¹¹ÉÏÓëÓ¢ÌØ¶ûºÍ´÷¶ûµÄºÏ×÷»ï°é£©µÄ³ÖÐøÐÔÔö³¤Ö¤Ã÷ÁËÖÐ¼ä¼þµÄ¼ÛÖµËùÔÚ¡£IDCÔ¤²âÐÂÐÍ¹¤×÷×éÆ½Ì¨½«³ÉÎª2008ÄêÆÄ¾ßÓ°ÏìµÄÐÂÉúÁ¦Á¿¡£
+2007Äê£¬¸ßÐÔÄÜ¼ÆËã³§ÉÌ½«ÐÂÏµÍ³µÄ¼Û¸ñ¶¨Î»ÓÚ15000ÃÀ½ðµ½25000ÃÀ½ðÖ®¼ä£¨ÖîÈçSiCortex Catapult£¬HP Cluster Platform Express, IBMµÈ£©Ô¤²âÊÔµÄ²Î¿¼ÌåÏµ¼Ü¹¹Ä¿±ê¾ÍÊÇÌá¹©ÄÜÂú×ã¹¤×÷×éÒªÇóµÄ±ã½Ý½â¾ö·½°¸¡£Platform
+Computing¹«Ë¾£¨ÔÚÓ¢ÌØ¶ûCluster ReadyÌåÏµ¼Ü¹¹ÉÏÓëÓ¢ÌØ¶ûºÍ´÷¶ûµÄºÏ×÷»ï°é£©µÄ³ÖÐøÐÔÔö³¤Ö¤Ã÷ÁËÖÐ¼ä¼þµÄ¼ÛÖµËùÔÚ¡£IDCÔ¤²âÐÂÐÍ¹¤×÷×éÆ½Ì¨½«³ÉÎª2008ÄêÆÄ¾ßÓ°ÏìµÄÐÂÉúÁ¦Á¿¡£
 µÚ
 1
 Ò³
@@ -42046,8 +41950,7 @@ Card
 ÍâÐÎ³ß´ç
 320¡Á236¡Á24.4-36.8mm
 ½Ó¿ÚÉÏ£¬·æÈñK410CÓµÓÐ4¸öUSB2.0½Ó¿Ú£¬1¸öExpress
-Card£¬1¸öVGA½Ó¿Ú£¬1¸öRJ45½Ó¿Ú£¬ÉùÒôÊäÈë£¬ÉùÒôÊä³ö¿×£¬Ö±Á÷µçÔ´²å¿×£¬°²È«Ëø¿×ÒÔ¼°ÄÚÖÃ£¨SD¡¢MS¡¢MS
-Pro¡¢MMC£©ËÄºÏÒ»¶ÀÁ¢ÏÔ¿¨¡£
+Card£¬1¸öVGA½Ó¿Ú£¬1¸öRJ45½Ó¿Ú£¬ÉùÒôÊäÈë£¬ÉùÒôÊä³ö¿×£¬Ö±Á÷µçÔ´²å¿×£¬°²È«Ëø¿×ÒÔ¼°ÄÚÖÃ£¨SD¡¢MS¡¢MS Pro¡¢MMC£©ËÄºÏÒ»¶ÀÁ¢ÏÔ¿¨¡£
 Õâ¿î¼Û¸ñ²»¸ßµÄ±Ê¼Ç±¾²ÉÓÃÁË¸ßÖ÷ÆµµÄÈüÑï´¦ÀíÆ÷£¬¹¦ºÄ½ÏµÍ¶øÐÔÄÜ·½Ãæ¿ÉÒÔÂú×ãÈÕ³£¹¤×÷µÄÐèÒª¡£Èç¹ûÄú¶ÔÐÔÄÜÒªÇó²»ÊÇÌ«¸ß£¬Õâ¿îµÍ¼Û±Ê¼Ç±¾¿ÉÒÔ¿¼ÂÇ¡£
 [²Î¿¼¼Û¸ñ]3999Ôª
 µã»÷»ñÈ¡¸ü¶à±Ê¼Ç±¾×ÊÑ¶
@@ -44177,8 +44080,7 @@ CNETÖÐ¹ú¡¤PChome.net¡¤Í¶¸å
 Radware
 ½â¾ö·½°¸
 ÑéÖ¤ÖÐÐÄ
-½üÈÕ£¬È«ÇòÁìÏÈµÄÖÇÄÜÍøÂç¼¯³ÉÓ¦ÓÃ½â¾ö·½°¸¹©Ó¦ÉÌRadware£¬ÈÕÇ°ÕýÊ½ÍÆ³ö½â¾ö·½°¸ÑéÖ¤ÖÐÐÄ£¨Solutions
-Lab£©£¬ÎªºÏ×÷»ï°éºÍ¿Í»§½áºÏ×ÔÉí¹Ø¼üÒµÎñÓ¦ÓÃÀ´ÑéÖ¤ÒÑ²¿ÊðµÄ
+½üÈÕ£¬È«ÇòÁìÏÈµÄÖÇÄÜÍøÂç¼¯³ÉÓ¦ÓÃ½â¾ö·½°¸¹©Ó¦ÉÌRadware£¬ÈÕÇ°ÕýÊ½ÍÆ³ö½â¾ö·½°¸ÑéÖ¤ÖÐÐÄ£¨Solutions Lab£©£¬ÎªºÏ×÷»ï°éºÍ¿Í»§½áºÏ×ÔÉí¹Ø¼üÒµÎñÓ¦ÓÃÀ´ÑéÖ¤ÒÑ²¿ÊðµÄ
 Radware
 Ó¦ÓÃ½»¸¶ºÍ°²È«½â¾ö·½°¸Ìá¹©Ò»ÖÖ¾­¼Ã¸ßÐ§¡¢¿ìËÙ¼òÒ×µÄÆ½Ì¨¡£
 ¸ÃÑéÖ¤ÖÐÐÄÓµÓÐ×î³£¹æµÄÍøÂçÓ¦ÓÃ»·¾³£¬ÆäÖÐÒ²°üÀ¨ÖîÈçIBM¡¢BEA¡¢Oracle¡¢RadVision
@@ -44188,8 +44090,7 @@ Microsoft
 ÀûÓÃ½â¾ö·½°¸ÑéÖ¤ÖÐÐÄÌá¹©µÄÁ¼ºÃ¹¤×÷»·¾³£¬RadwareµÄ¿Í»§ºÍºÏ×÷»ï°éÔò²»±ØºÄÊ±·Ñ×ÊÀ´½¨Á¢×Ô¼ºµÄ²âÊÔ»·¾³¾Í¿ÉÒÔ¿ìËÙµØÑéÖ¤ÍøÂçÓ¦ÓÃ¡£ËûÃÇÄÜ¹»ºÜ·½±ãµØÔÚÏÖ³¡ÅäÖÃ½â¾ö·½°¸£¬È»ºóÍ¨¹ýÔ¶³Ì½ÓÈëµ½ÑéÖ¤ÖÐÐÄ£¬»òÍ¨¹ý°²È«Ô¶³ÌÀ´·ÃÎÊÈ«Çò¸÷µØ¡£Radware
 »¹Îª´Ë¿ª·¢ÁËÄ£Äâ¿Í»§ÏÖÓÐÓ²¼þºÍÈí¼þ»·¾³£¬±ãÓÚËûÃÇÑéÖ¤ÍøÂçÓ¦ÓÃµÄÐ§¹û£¬¾ÍÈçÍ¬ÔÚÊµÊ±µÄ»·¾³µ±ÖÐ¡£
 Radware
-¹«Ë¾¼¼ÊõÖ§³ÖÖÐÐÄ£¨Tier
-4£©µÄ¸ºÔðÈË
+¹«Ë¾¼¼ÊõÖ§³ÖÖÐÐÄ£¨Tier 4£©µÄ¸ºÔðÈË
 Amir
 Figenblat½éÉÜËµ£º¡°ÕâÖÖÐÂÐÍµÄ½â¾ö·½°¸ÑéÖ¤ÖÐÐÄÄÜ¹»°ïÖúÎÒÃÇ¸üºÃµØÎª¿Í»§ºÍºÏ×÷»ï°éÌá¹©·þÎñ£¬Ê¹ËûÃÇÔÚ¿É¿ØµÄ»·¾³ÏÂ£¬¸ù¾Ý×ÔÉíµÄ¾ßÌåÒªÇóÀ´¿ìËÙ¡¢¼ò±ã¡¢°²È«µØ²âÊÔ¶Ë¶Ô¶ËµÄ½â¾ö·½°¸¡£¡±Í¬Ê±£¬¸Ã½â¾ö·½°¸ÑéÖ¤ÖÐÐÄ¿ÉÒÔ°ïÖú¿Í»§ÆÀ¹À¹Ø¼üÒµÎñÓ¦ÓÃµÄÐÔÄÜ¡¢¿ÉÓÃÐÔºÍ°²È«ÐÔ£¬½èÖúÕâÒ»¡°°²È«µÄ¡±»·¾³£¬¿Í»§ÔÚ²¿Êð
 Radware
@@ -46148,8 +46049,7 @@ IXUS
 Ïà»ú
 ¼ÑÄÜ
 860
-IS(SD870
-IS)
+IS(SD870 IS)
 Ïà»ú
 Ë÷Äá
 H9
@@ -48108,9 +48008,7 @@ SSID£¨ServiceSetIdentifier£©Ò»°ãÊÇÓÉAP»òÎÞÏßÂ·ÓÉÆ÷¹ã²¥³öÀ´µÄ¾ÖÓòÍøÃû³Æ£¬ËüµÄÄ¿µÄ
 Óë´«Í³ÓÐÏßÂ·ÓÉÏà±È£¬ÎÞÏßÂ·ÓÉÆ÷¸üÈÝÒ×±»ËûÈËÈëÇÖ£¬ÓÈÆäÊÇÃ»ÓÐ²ÉÓÃÈÎºÎ¼ÓÃÜ´ëÊ©µÄÎÞÏßÂ·ÓÉ£¬ÄãµÄÁÚ¾Ó½«ºÁ²»·ÑÁ¦µÄÊ¹ÓÃÄãµÄÍøÂç½øÐÐÏÂÔØºÍÆäËû²Ù×÷£¬´Ó¶øÓ°ÏìÄãµÄÍøÂçÖÊÁ¿¡£
 ³ýÁËÉÏÃæÌáµ½µÄ¹Ø±ÕSSID£¬ÎÒÃÇ»¹¿ÉÒÔÍ¨¹ýWEPºÍWPAÕâÐ©ÎÞÏß¼ÓÃÜÊÖ¶ÎÀ´¶ÔÍøÂç½øÐÐ±£»¤¡£ÕâÀïÎÒÃÇ½¨Òé´ó¼Ò£¬ÔÚÆäËûÉèÖÃÕý³£µÄÇé¿öÏÂ£¬ÅÅ³ýISPºÍÈí¼þµÄÎÊÌâºó£¬Äú²»·Á¿´¿´ÊÇ·ñÓÐÈËÍµÍµÇ±ÈëÁËÄúµÄÍøÂç¡£
 Ê¹ÓÃUPnP¹¦ÄÜ
-UPnP(Universal
-Plug
-andPlay£¬Í¨ÓÃ¼´²å¼´ÓÃ)ÊÇÒòÌØÍø¼°LANÖÐÊ¹ÓÃµÄÒÔTCP£¯IPÐ­ÒéÎª»ù´¡µÄ¼¼Êõ¡£Í¨¹ýÎÞÏßÍøÂçÉÏÍøµÄÓÃ»§¶¼ÊÇ´¦ÓÚÄÚÍø£¬ÎªÁË±£Ö¤ÏñBTÕâÑùµÄP2PÈí¼þÕý³£¹¤×÷£¬¿ªÆôUPnPÊÇ±ØÐëµÄ£¬¶øÄ¿Ç°´ó¶àÊýÎÞÏßÂ·ÓÉÆ÷¶¼¾ßÓÐ´Ë¹¦ÄÜ¡££¨´ó¶àÊýÎÞÏßÂ·ÓÉÆ÷µÄUPnPÄ¬ÈÏÎª¹Ø±Õ£¬ÓÃ»§¿ÉÊÖ¶¯¿ªÆô¸Ã¹¦ÄÜ£¬ÖØÆôÂ·ÓÉÆ÷ºó¼´¿ÉÉúÐ§£©
+UPnP(Universal Plug andPlay£¬Í¨ÓÃ¼´²å¼´ÓÃ)ÊÇÒòÌØÍø¼°LANÖÐÊ¹ÓÃµÄÒÔTCP£¯IPÐ­ÒéÎª»ù´¡µÄ¼¼Êõ¡£Í¨¹ýÎÞÏßÍøÂçÉÏÍøµÄÓÃ»§¶¼ÊÇ´¦ÓÚÄÚÍø£¬ÎªÁË±£Ö¤ÏñBTÕâÑùµÄP2PÈí¼þÕý³£¹¤×÷£¬¿ªÆôUPnPÊÇ±ØÐëµÄ£¬¶øÄ¿Ç°´ó¶àÊýÎÞÏßÂ·ÓÉÆ÷¶¼¾ßÓÐ´Ë¹¦ÄÜ¡££¨´ó¶àÊýÎÞÏßÂ·ÓÉÆ÷µÄUPnPÄ¬ÈÏÎª¹Ø±Õ£¬ÓÃ»§¿ÉÊÖ¶¯¿ªÆô¸Ã¹¦ÄÜ£¬ÖØÆôÂ·ÓÉÆ÷ºó¼´¿ÉÉúÐ§£©
 µÚ
 1
 Ò³
@@ -49009,8 +48907,7 @@ IXUS
 Ïà»ú
 ¼ÑÄÜ
 860
-IS(SD870
-IS)
+IS(SD870 IS)
 Ïà»ú
 Ë÷Äá
 H9
@@ -51021,8 +50918,7 @@ VPL-CX21
 ÎÄÕÂ
 |
 ÆÀ¼Û
-ÎÄÕÂÌáÒª£ºÄúÕýÔÚÔÄ¶ÁÓÐ¹ØË÷ÄáÍ¶Ó°»úµÄÎÄÕÂ£­¡¶Í¶Ó°»úÖÐµÃÕ½¶·»ú!
-ÉÌÓÃÊ×Ñ¡»úÐÍµ¼¹º¡·Èç¹ûÄú¶ÔË÷Äá
+ÎÄÕÂÌáÒª£ºÄúÕýÔÚÔÄ¶ÁÓÐ¹ØË÷ÄáÍ¶Ó°»úµÄÎÄÕÂ£­¡¶Í¶Ó°»úÖÐµÃÕ½¶·»ú! ÉÌÓÃÊ×Ñ¡»úÐÍµ¼¹º¡·Èç¹ûÄú¶ÔË÷Äá
 VPL-CX21¸ÐÐËÈ¤Çëµã»÷ÓÒÀ¸Í¼Æ¬½øÈë£»Èç¹ûÄú¶Ô¸ü¶àÆäËüË÷ÄáÍ¶Ó°»úÐÍºÅ¸ÐÐËÈ¤£¬»¶Ó­½øÈë¡¾Ë÷ÄáÍ¶Ó°»ú´óÈ«¡¿
 Í¶Ó°»úÖÐµÃÕ½¶·»ú!
 ÉÌÓÃÊ×Ñ¡»úÐÍµ¼¹º
@@ -51105,9 +51001,7 @@ NTSC3.58£¬PAL£¬SECAM£¬NTSC4.43£¬PAL-M£¬PAL60¡¢TV(480/60i£¬575/50i£¬480/60p£¬575/
 1W¡Á1µ¥ÉùµÀ
 ÊäÈë½Ó¿Ú
 ¸´ºÏÊÓÆµ¡¢SÊÓÆµ¡¢ÒôÆµ£ºA/V
-multi¡¢Ä£ÄâRGB/¸´ºÏ(HD
-D-sub
-15Ð¾)
+multi¡¢Ä£ÄâRGB/¸´ºÏ(HD D-sub 15Ð¾)
 ²Ëµ¥ÓïÑÔ
 15ÖÖ,
 ÓÐÖÐÎÄ
@@ -51123,8 +51017,7 @@ Class
 B,
 NEMKO,
 CE
-(LVD,
-EMC),
+(LVD, EMC),
 C-Tick,
 Denan,VCCI
 Class
@@ -55212,14 +55105,11 @@ VGN-TZ28N»úÉí²ÉÓÃÁËÌØÊâÌ¼ÏËÎ¬²ÄÁÏ£¬ÕâÖÖ²ÄÁÏÒ»°ãÖ»Ê¹ÓÃÓÚF1Èü³µºÍ·É»úµÄ»úÉí£¬ÄÍÄ¥²
 Ë÷Äá11´ç³¬±¡±Ê¼Ç±¾½ö1.2Kg
 ÅäÖÃ·½Ãæ£ºË÷ÄáVGN-TZ28N²ÉÓÃIntel
 ¿áî£2Ë«ºË
-U7600(1.2GHz
-2MB¶þ¼¶»º´æ)´¦ÀíÆ÷£¬I965GMÖ÷°åÐ¾Æ¬×é£¬2GB
+U7600(1.2GHz 2MB¶þ¼¶»º´æ)´¦ÀíÆ÷£¬I965GMÖ÷°åÐ¾Æ¬×é£¬2GB
 DDR2ÄÚ´æ£¬192GB
 5400×ªÓ²ÅÌ£¬11.1Ó¢´ç
 TFT
-LCD£¨1366
-x
-768£©£¬Intel
+LCD£¨1366 x 768£©£¬Intel
 GMA950¼¯³ÉÏÔ¿¨£¨×î´ó¹²ÏíÄÚ´æ251MB£©£¬Ô¤×°Windows
 Vista
 Business²Ù×÷ÏµÍ³¡£
@@ -55849,8 +55739,7 @@ VGN-FZ25
 ÎÄÕÂ
 |
 ÆÀ¼Û
-ÎÄÕÂÌáÒª£ºÄúÕýÔÚÔÄ¶ÁÓÐ¹ØË÷Äá±Ê¼Ç±¾µÄÎÄÕÂ£­¡¶³ýÏ¦»¶¾Û
-Ë÷Äá15´ç¶ÀÏÔ±¾¼ªÀû¼Û8800¡·Èç¹ûÄú¶ÔË÷Äá
+ÎÄÕÂÌáÒª£ºÄúÕýÔÚÔÄ¶ÁÓÐ¹ØË÷Äá±Ê¼Ç±¾µÄÎÄÕÂ£­¡¶³ýÏ¦»¶¾Û Ë÷Äá15´ç¶ÀÏÔ±¾¼ªÀû¼Û8800¡·Èç¹ûÄú¶ÔË÷Äá
 VGN-FZ25¸ÐÐËÈ¤Çëµã»÷ÓÒÀ¸Í¼Æ¬½øÈë£»Èç¹ûÄú¶Ô¸ü¶àÆäËüË÷Äá±Ê¼Ç±¾ÐÍºÅ¸ÐÐËÈ¤£¬»¶Ó­½øÈë¡¾Ë÷Äá±Ê¼Ç±¾´óÈ«¡¿
 ³ýÏ¦»¶¾Û
 Ë÷Äá15´ç¶ÀÏÔ±¾¼ªÀû¼Û8800
@@ -55868,8 +55757,7 @@ VGN-FZ25
 ÅäÖÃ·½Ãæ£ºË÷Äá
 VGN-FZ25²ÉÓÃIntel
 ¿áî£2Ë«ºË
-T7250(2.0GHz
-2MB¶þ¼¶»º´æ)´¦ÀíÆ÷£¬I965PMÖ÷°åÐ¾Æ¬×é£¬1G
+T7250(2.0GHz 2MB¶þ¼¶»º´æ)´¦ÀíÆ÷£¬I965PMÖ÷°åÐ¾Æ¬×é£¬1G
 DDR2ÄÚ´æ£¬120GB
 5400×ªDVD¿ÌÂ¼»ú£¬15.4Ó¢´ç
 TFT
@@ -55885,8 +55773,7 @@ Premium²Ù×÷ÏµÍ³¡£
 VGN-FZ25
 ½Ó¿Ú·½Ãæ£ºIEEE1394¶Ë¿Ú¡¢USB2.0½Ó¿Ú¡¢VGA½Ó¿Ú¡¢S
 ÊÓÆµÊä³ö¶Ë¿Ú¡¢¶ú»ú²å¿×¡¢Âó¿Ë·ç²å¿×¡¢Ö±Á÷µçÔ´ÊäÈë¶Ë¿Ú¡¢SD
-¼ÇÒä¿¨²å²Û£¨¼æÈÝ
-SDHC£©¡¢ExpressCard/34
+¼ÇÒä¿¨²å²Û£¨¼æÈÝ SDHC£©¡¢ExpressCard/34
 ²å²Û¡¢HDMI¶Ë¿Ú£¬Åä±¸ï®Àë×Óµç³Ø£¬¿ÉÐøº½2.5Ð¡Ê±£¬Õû»ú¾»ÖØ2.7Kg¡£
 (Í¼)
 Ë÷Äá
@@ -56259,20 +56146,16 @@ LiteÅ¶£¬ºñÖØµÄNDS¼¸ºõÔÚÊÐ³¡ÉÏÏûÊ§ÁË¡£¡£¡££¨×î½üÍøÉÏÁ÷´«NDSÔÚÉè¼ÆµÚÈý´úÁË£¬¸üÇá¸ü
 Íæ¼ÒYYµÄµÚÈý´úDSÖ÷»úClose×´Ì¬
 Íæ¼ÒYYµÄµÚÈý´úDSÖ÷»úOpen×´Ì¬
 ±à¼­ÍÆ¼öÎÄÕÂ£º
-¡¶FIFA
-½ÖÍ·×ãÇò3¡·¾«²Ê¶ÔÕ½ÑÝÊ¾
-¡¶FIFA
-½ÖÍ·×ãÇò3¡·¾«²Ê¶ÔÕ½ÑÝÊ¾
+¡¶FIFA ½ÖÍ·×ãÇò3¡·¾«²Ê¶ÔÕ½ÑÝÊ¾
+¡¶FIFA ½ÖÍ·×ãÇò3¡·¾«²Ê¶ÔÕ½ÑÝÊ¾
 È¤Î¶ÒæÖÇÓÎÏ·
 ¡¶ÏñËØÀ¬»ø¹ÖÊÞ¡·ÓÎÏ·ÊÓÆµÉÍ
 È¤Î¶ÒæÖÇÓÎÏ·
 ¡¶ÏñËØÀ¬»ø¹ÖÊÞ¡·ÓÎÏ·ÊÓÆµÉÍ
 ¼â·åÊ±¿Ì
-¡¶³åÍ»
-¾Ü¾øÐÐ¶¯¡·¾«²ÊÓÎÏ·CGÉÍ
+¡¶³åÍ» ¾Ü¾øÐÐ¶¯¡·¾«²ÊÓÎÏ·CGÉÍ
 ¼â·åÊ±¿Ì
-¡¶³åÍ»
-¾Ü¾øÐÐ¶¯¡·¾«²ÊÓÎÏ·CGÉÍ
+¡¶³åÍ» ¾Ü¾øÐÐ¶¯¡·¾«²ÊÓÎÏ·CGÉÍ
 [NDS]1767--¼òµ¥DSÏµÁÐ
 ÌÓ³öÃÜÊÒºº»¯°æ
 (CN)
@@ -56342,8 +56225,7 @@ NDSÖ÷»úÍ¼ÉÍ
 ÏÂÒ»Ò³
 µçÊÓÓÎÏ·ÐÂÎÅ
 ÕÆ»úÓÎÏ·ÆÆ½â
-[ÈÌÕßÁú½£´«
-ºÚÖ®ÕÂ]ÏÂÔØÒÑµÇÂ¼Xbox
+[ÈÌÕßÁú½£´« ºÚÖ®ÕÂ]ÏÂÔØÒÑµÇÂ¼Xbox
 PS3²»ÈÃX360×¨ÃÀÓÚÇ°£¬Ò²×ßÆðFPS»¯Â·
 ¿¨ÅåÂÞÖ´½ÌÓ¢¸ñÀ¼ÓÖ³öÆæÕÐ
 ½ûÍæPS3
@@ -56412,8 +56294,7 @@ TONY´óÊ¦¡¶¹âÃ÷Ö®·ç¡·PSP
 [PS3]¡¶¹íÆü4¡·È«Á÷³ÌÏêÏ¸¹¥ÂÔ
 Nds
 RPGÓÎÏ·¡¶×îÖÕ»ÃÏëIV¡·Á÷³Ì
-¡¶³¬¼¶´óÕ½Õù
-»ÙÃðÖ®ÈÕ¡·Á÷³Ì¹¥
+¡¶³¬¼¶´óÕ½Õù »ÙÃðÖ®ÈÕ¡·Á÷³Ì¹¥
 XBOX360¡¶¹íÆü4¡·È«Á÷³Ì¹¥ÂÔ
 ¡¶¹íÆü4¡·È«Òþ²ØÈÎÎñ¹¥ÂÔ£¨¸üÐÂ
 XBOX360×÷Æ·¡¶Ê§ÂäµÄ°ÂµÂÈü¡·Ä§
@@ -56424,8 +56305,7 @@ PSPÄ£ÄâÓÎÏ·SFC¡¶46ÒÚÄêÎïÓï¡·Á÷
 ÓÎÏ·ÏÂÔØ
 ÍøÂçµÚÒ»ÃÀÐØÃÀÅ®ÓÕ»óÊÓÆµÆØ¹â
 ÈÕ±¾±¬ÈéÃÀÅ®ÕæÈËPK´ó¾ö¶·ÄÚ²¿×ÊÁÏÁ÷
-¡¶Õæ
-Èý¹úÎÞË«6¡·¸ßÇåÓÎÏ·ÊÓÆµ
+¡¶Õæ Èý¹úÎÞË«6¡·¸ßÇåÓÎÏ·ÊÓÆµ
 ÐÔ¸ÐÄÚÒÂÄ£ÌØÈ«ÂãÅÄÉãºóÌ¨½ÒÃØ
 ¡¶ÈÌÕßÁú½£´«2¡·¼¤ÁÒÕ½ÊÂ¸ßÇåÊÓÆµ
 ¾ø¶ÔÓÕ»óÇå´¿ÃÀÅ®ÊÓÆµ×ÔÅÄ¹«²¼
@@ -57252,9 +57132,7 @@ OS
 v9.2²Ù×÷ÏµÍ³µÄÖÇÄÜ³ÉÔ±¡£Åµ»ùÑÇN95´îÔØÁËÒ»¿é320X240
 1670ÍòÉ«2.6´çQVGA
 TFTÆÁÄ»£¬²¢ÇÒƒÈ½¨GPSÈ«ÇòÎÀÐÇ¶¨Î»µ¼º½Ïµ½yºÍÖ§Ô®HSDPA
-(
-3.5G
-)
+( 3.5G )
 ¸ßËÙÐÐÍ¨Ñ¶Ïµ½y£¬ÔÚN95ÉÏ´îÅäÁË500ÍòÏñËØµÄ¿¨¶û²ÌË¹ÉãÏñÍ·£¬²¢¸½ÓÐLEDÉÁ¹âµÆÓë×Ô¶¯¶Ô½¹¡¢»úÐµ¿ìÃÅµÈÖî¶à×¨Òµ¼‰Ïà»úÉè¼Æ£¬¶øÔÚÏà»úçRÍ·µÄ±£»¤ÉÏ£¬ËüÒÔÐ¡ÍÆÉwµÄ·½Ê½À´±£»¤£¬ÄÜ¸üºÃµÄ·À³¾¡£ÍÆ¼ö·ÃÎÊ:
 Åµ»ùÑÇ
 N95
@@ -58673,9 +58551,7 @@ ZDNet
 ÔÚÏÂÁÐÖ¸ÄÏÖÐ£¬ÎÒÃÇ½«ÑÐ¾¿Ò»ÏÂÄã¿ÉÒÔÓÃÀ´±£»¤ÍøÂç°²È«µÄ9¸ö·½±ãµÄ²½Öè¡£ÕâÐ©²½ÖèÄÜ¹»±£Ö¤ÄãÓµÓÐÒ»µÀ±£»¤ÄãµÄÍøÂçµÄ×©Ç½£¬¶ø²»ÊÇÒ»¸ö³¨¿ªµÄ´óÃÅ¡£
 1.ÐÞ¸ÄÄ¬ÈÏµÄ¿ÚÁî
 ¾Ý¿¨ÄÚ»ùÃ·Â¡´óÑ§µÄCERT/CC(¼ÆËã»úÓ¦¼±·´Ó¦Ð¡×é/¿ØÖÆÖÐÐÄ)³Æ£¬80%µÄ°²È«Í»ÆÆÊÂ¼þÊÇÓÉ±¡ÈõµÄ¿ÚÁîÒýÆðµÄ¡£ÍøÂçÉÏÓÐ´ó¶àÊýÂ·ÓÉÆ÷µÄ¹ã·ºµÄÄ¬ÈÏ¿ÚÁîÁÐ±í¡£Äã¿ÉÒÔ¿Ï¶¨ÔÚÄ³Ð©µØ·½µÄÄ³¸öÈË»áÖªµÀÄãµÄÉúÈÕ¡£SecurityStats.comÍøÕ¾Î¬»¤Ò»¸öÏê¾¡µÄ¿ÉÓÃ/²»¿ÉÓÃ¿ÚÁîÁÐ±í£¬ÒÔ¼°Ò»¸ö¿ÚÁîµÄ¿É¿¿ÐÔ²âÊÔ¡£
-2.¹Ø±ÕIPÖ±½Ó¹ã²¥(IP
-Directed
-Broadcast)
+2.¹Ø±ÕIPÖ±½Ó¹ã²¥(IP Directed Broadcast)
 ÄãµÄ·þÎñÆ÷ÊÇºÜÌý»°µÄ¡£ÈÃËü×öÊ²Ã´Ëü¾Í×öÊ²Ã´£¬¶øÇÒ²»¹ÜÊÇË­·¢³öµÄÖ¸Áî¡£Smurf¹¥»÷ÊÇÒ»ÖÖ¾Ü¾ø·þÎñ¹¥»÷¡£ÔÚÕâÖÖ¹¥»÷ÖÐ£¬¹¥»÷ÕßÊ¹ÓÃ¼ÙÃ°µÄÔ´µØÖ·ÏòÄãµÄÍøÂç¹ã²¥µØÖ··¢ËÍÒ»¸ö¡°ICMP
 echo¡±ÇëÇó¡£ÕâÒªÇóËùÓÐµÄÖ÷»ú¶ÔÕâ¸ö¹ã²¥ÇëÇó×ö³ö»ØÓ¦¡£ÕâÖÖÇé¿öÖÁÉÙ»á½µµÍÄãµÄÍøÂçÐÔÄÜ¡£
 ²Î¿¼ÄãµÄÂ·ÓÉÆ÷ÐÅÏ¢ÎÄ¼þ£¬ÁË½âÈçºÎ¹Ø±ÕIPÖ±½Ó¹ã²¥¡£ÀýÈç£¬¡°Central(config)#no
@@ -58686,8 +58562,7 @@ source-route¡±Õâ¸öÖ¸Áî½«¹Ø±ÕË¼¿ÆÂ·ÓÉÆ÷µÄIPÖ±½Ó¹ã²¥µØÖ·¡£
 ËäÈ»ÕâÖÖÎ´¼ÓÃÜµÄ¿ÚÁî¶ÔÓÚÄã´ÓÔ¶³ÌÎ»ÖÃ(ÀýÈç¼ÒÀï)ÉèÖÃÄãµÄÂ·ÓÉÆ÷Ò²ÐíÊÇ·Ç³£·½±ãµÄ£¬µ«ÊÇ£¬ÄãÄÜ¹»×öµ½µÄÊÂÇéÆäËûÈËÒ²ÕÕÑù¿ÉÒÔ×öµ½¡£ÌØ±ðÊÇÈç¹ûÄãÈÔÔÚÊ¹ÓÃÄ¬ÈÏµÄ¿ÚÁî!Èç¹ûÄã±ØÐëÔ¶³Ì¹ÜÀíÂ·ÓÉÆ÷£¬ÄãÒ»¶¨ÒªÈ·±£Ê¹ÓÃSNMPv3ÒÔÉÏ°æ±¾µÄÐ­Òé£¬ÒòÎªËüÖ§³Ö¸üÑÏ¸ñµÄ¿ÚÁî¡£
 4.·âËøICMP
 pingÇëÇó
-pingµÄÖ÷ÒªÄ¿µÄÊÇÊ¶±ðÄ¿Ç°ÕýÔÚÊ¹ÓÃµÄÖ÷»ú¡£Òò´Ë£¬pingÍ¨³£ÓÃÓÚ¸ü´ó¹æÄ£µÄÐ­Í¬ÐÔ¹¥»÷Ö®Ç°µÄÕì²ì»î¶¯¡£Í¨¹ýÈ¡ÏûÔ¶³ÌÓÃ»§½ÓÊÕpingÇëÇóµÄÓ¦´ðÄÜÁ¦£¬Äã¾Í¸üÈÝÒ×±Ü¿ªÄÇÐ©ÎÞÈË×¢ÒâµÄÉ¨Ãè»î¶¯»òÕß·ÀÓùÄÇÐ©Ñ°ÕÒÈÝÒ×¹¥»÷µÄÄ¿±êµÄ¡°½Å±¾Ð¡×Ó¡±(script
-kiddies)¡£
+pingµÄÖ÷ÒªÄ¿µÄÊÇÊ¶±ðÄ¿Ç°ÕýÔÚÊ¹ÓÃµÄÖ÷»ú¡£Òò´Ë£¬pingÍ¨³£ÓÃÓÚ¸ü´ó¹æÄ£µÄÐ­Í¬ÐÔ¹¥»÷Ö®Ç°µÄÕì²ì»î¶¯¡£Í¨¹ýÈ¡ÏûÔ¶³ÌÓÃ»§½ÓÊÕpingÇëÇóµÄÓ¦´ðÄÜÁ¦£¬Äã¾Í¸üÈÝÒ×±Ü¿ªÄÇÐ©ÎÞÈË×¢ÒâµÄÉ¨Ãè»î¶¯»òÕß·ÀÓùÄÇÐ©Ñ°ÕÒÈÝÒ×¹¥»÷µÄÄ¿±êµÄ¡°½Å±¾Ð¡×Ó¡±(script kiddies)¡£
 Çë×¢Òâ£¬ÕâÑù×öÊµ¼ÊÉÏ²¢²»ÄÜ±£»¤ÄãµÄÍøÂç²»ÊÜ¹¥»÷£¬µ«ÊÇ£¬Õâ½«Ê¹Äã²»Ì«¿ÉÄÜ³ÉÎªÒ»¸ö¹¥»÷Ä¿±ê¡£
 Èç¹ûÄú¶Ô¡°9²½ÇáËÉ¼ÓÇ¿Â·ÓÉÆ÷°²È«·À»¤ÄÜÁ¦¡±ÓÐÈÎºÎÒÉÎÊÒª×ÉÑ¯£¬»òÕßÄú¶ÔÎÒÃÇ×¨¼ÒµÄ½â´ðÓÐÈÎºÎÒÉÒå£¬ÇëÄúµã»÷ÒÔÏÂµÄÁ´½ÓÌá½»ÒâÏòµ¥£¬ÎÒÃÇµÄ±à¼­ºÍÐÅÏ¢»¯×¨¼Ò½«»áºÜ¿ìÎªÄú×ö³ö»Ø´ð£¬ÄúÌá¹©µÄÐÅÏ¢¾­¹ýÉóºËºó½«ÓÐ»ú»á³öÏÖÔÚÎÒÃÇµÄÍøÒ³ÉÏ¡£
 5.¹Ø±ÕIPÔ´Â·ÓÉ
@@ -59034,8 +58909,7 @@ kevin
 Âó²©ÒôÏì
 Âó²©m
 890
-ÎÄÕÂÌáÒª£ºÄúÕýÔÚÔÄ¶ÁÓÐ¹ØÂó²©ÒôÏäµÄÎÄÕÂ£­¡¶ÄÐÊ¿¾­µä
-Âó²©M890¶àÃ½Ìå2.1ÒôÏäÆÀ²â¡·Èç¹ûÄú¶ÔÂó²©
+ÎÄÕÂÌáÒª£ºÄúÕýÔÚÔÄ¶ÁÓÐ¹ØÂó²©ÒôÏäµÄÎÄÕÂ£­¡¶ÄÐÊ¿¾­µä Âó²©M890¶àÃ½Ìå2.1ÒôÏäÆÀ²â¡·Èç¹ûÄú¶ÔÂó²©
 M890¸ÐÐËÈ¤Çëµã»÷ÓÒÀ¸Í¼Æ¬½øÈë£»Èç¹ûÄú¶Ô¸ü¶àÆäËüÂó²©ÒôÏäÐÍºÅ¸ÐÐËÈ¤£¬»¶Ó­½øÈë¡¾Âó²©ÒôÏä´óÈ«¡¿
 Âó²©M-890
 ²úÆ·½éÉÜ

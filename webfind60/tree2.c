@@ -47,8 +47,8 @@ int deb_upper_string(char *p_instr);
 
 //extern int MessageBox(int ,char *,char *,int );
 
-#define TREE_SIZE 2000000
-#define LIST_SIZE 2000000
+#define TREE_SIZE 10000000
+#define LIST_SIZE 10000000
 
 /*
 class tree2
@@ -87,8 +87,8 @@ class tree2
     int   t1_init_tree2(void);
     int   t1_new_node(void);
     int   t1_clear_node(int ptr);
-    int   t1_search_node(char *pstr);
-    int   t1_insert_node(char *pstr);
+    int   t1_search_node(char *pstr,int);
+    int   t1_insert_node(char *pstr,int);
     int   t1_dsp_tree2(void);
     int   t1_after_list(void);
     int   t1_out_list(char *pstr,int ,int);
@@ -102,6 +102,7 @@ class tree2
 class tree2 tree2_1;
 */
 
+extern int deb_str_has_null(const char *str,int str_size);
 
 int /*tree2::*/t1_init_tree2(void)
 {
@@ -149,11 +150,17 @@ int /*tree2::*/t1_clear_node(int ptr)
   return(0);
 }
 
-int /*tree2::*/t1_search_node(char *pstr)
+int /*tree2::*/t1_search_node(char *pstr,int pstr_size)
 {
   int i,j;
+  int z;
 
-  if ((int)strlen(pstr)>50) return(1);
+  if (pstr_size>51) z=51;
+  else z=pstr_size;
+  
+  if (deb_str_has_null(pstr,z)!=1) return(1);
+  
+  //if ((int)strlen(pstr)>50) return(1);
   
   if (t1_root_ptr<0)
   {
@@ -206,13 +213,19 @@ int /*tree2::*/t1_search_node(char *pstr)
 
 }
 
-int /*tree2::*/t1_insert_node(char *pstr)
+int /*tree2::*/t1_insert_node(char *pstr,int pstr_size)
 {
   int i,j;
+  int z;
 
-  if ((int)strlen(pstr)>50) return(1);
+  if (pstr_size>51) z=51;
+  else z=pstr_size;
+  
+  if (deb_str_has_null(pstr,z)!=1) return(1);
+  
+  //if ((int)strlen(pstr)>50) return(1);
 
-  i=t1_search_node(pstr);
+  i=t1_search_node(pstr,pstr_size);
 
   if (i==0)
   {

@@ -1,92 +1,6 @@
 if
-(typeof(HJFloater)
-!=
-'function')
-{
-function
-HJFloater(id,
-imgId,
-imgStr,
-imgWidth,
-imgHeight,
-alignX,
-alignY,
-offsetX,
-offsetY)
-{
-this.id
-=
-id;
-this.imgId
-=
-imgId;
-this.imgStr
-=
-imgStr;
-this.imgWidth
-=
-parseInt(imgWidth);
-this.imgHeight
-=
-parseInt(imgHeight);
-this.alignX
-=
-alignX;
-this.alignY
-=
-alignY;
-this.offsetX
-=
-parseInt(offsetX)
-+
-2;
-this.offsetY
-=
-parseInt(offsetY)
-+
-2;
-this.msoffsetX
-=
-0;
-this.msoffsetY
-=
-0;
-this.left
-=
-0;
-this.top
-=
-0;
-this.left_last
-=
-0;
-this.top_last
-=
-0;
-this.scrollLeft
-=
-0;
-this.scrollTop
-=
-0;
-this.documentWidth
-=
-0;
-this.documentHeight
-=
-0;
-this.flagmousedown
-=
-false;
-this.isIE
-=
-(document.all)
-?
-1
-:
-0;this.innerHTML
-=
-'
+(typeof(HJFloater) != 'function')
+{ function HJFloater(id, imgId, imgStr, imgWidth, imgHeight, alignX, alignY, offsetX, offsetY) { this.id = id; this.imgId = imgId; this.imgStr = imgStr; this.imgWidth = parseInt(imgWidth); this.imgHeight = parseInt(imgHeight); this.alignX = alignX; this.alignY = alignY; this.offsetX = parseInt(offsetX) + 2; this.offsetY = parseInt(offsetY) + 2; this.msoffsetX = 0; this.msoffsetY = 0; this.left = 0; this.top = 0; this.left_last = 0; this.top_last = 0; this.scrollLeft = 0; this.scrollTop = 0; this.documentWidth = 0; this.documentHeight = 0; this.flagmousedown = false; this.isIE = (document.all) ? 1 : 0;this.innerHTML = '
 '
 +
 this.imgStr
@@ -118,41 +32,8 @@ this.float();
 }
 }
 if
-(typeof(HJFloater_init)
-!=
-'function')
-{
-function
-HJFloater_init()
-{
-if
-(!document.getElementById(this.id))
-{
-if
-(document.getElementById('HJLiveChatPageScript'
-))
-{
-var
-objFloater
-=
-document.createElement('div');
-objFloater.id
-=
-this.id;
-var
-objScript
-=
-document.getElementById('HJLiveChatPageScript'
-);
-objScript.parentNode.insertBefore(objFloater,
-objScript);
-objFloater.innerHTML
-=
-this.innerHTML;
-}
-else
-{
-document.write('
+(typeof(HJFloater_init) != 'function')
+{ function HJFloater_init() { if (!document.getElementById(this.id)) { if (document.getElementById('HJLiveChatPageScript' )) { var objFloater = document.createElement('div'); objFloater.id = this.id; var objScript = document.getElementById('HJLiveChatPageScript' ); objScript.parentNode.insertBefore(objFloater, objScript); objFloater.innerHTML = this.innerHTML; } else { document.write('
 '
 +
 this.innerHTML
@@ -164,189 +45,10 @@ this.innerHTML
 }
 }
 if
-(typeof(HJFloater_float)
-!=
-'function')
-{
-function
-HJFloater_float()
-{
-this.scrollLeft
-=
-document.body.scrollLeft;
-this.scrollTop
-=
-document.body.scrollTop;
-if
-(this.scrollLeft
-==
-0)
-{
-this.scrollLeft
-=
-document.documentElement.scrollLeft;
-}
-if
-(this.scrollTop
-==
-0)
-{
-this.scrollTop
-=
-document.documentElement.scrollTop;
-}
-this.documentWidth
-=
-document.documentElement.clientWidth;
-this.documentHeight
-=
-document.documentElement.clientHeight;
-if
-(this.documentWidth
-==
-0)
-{
-this.documentWidth
-=
-document.body.clientWidth;
-}
-if
-(this.documentHeight
-==
-0)
-{
-this.documentHeight
-=
-document.body.clientHeight;
-}
-try
-{
-this.imgWidth
-=
-document.getElementById(this.imgId).width;
-this.imgHeight
-=
-document.getElementById(this.imgId).height;
-}
-catch(e)
-{
-}
-if
-(this.msoffsetX
-==
-0
-&&
-this.msoffsetY
-==
-0)
-{
-if
-(this.alignX
-==
-'left')
-{
-this.left
-=
-this.scrollLeft
-+
-this.offsetX;
-}
+(typeof(HJFloater_float) != 'function')
+{ function HJFloater_float() { this.scrollLeft = document.body.scrollLeft; this.scrollTop = document.body.scrollTop; if (this.scrollLeft == 0) { this.scrollLeft = document.documentElement.scrollLeft; } if (this.scrollTop == 0) { this.scrollTop = document.documentElement.scrollTop; } this.documentWidth = document.documentElement.clientWidth; this.documentHeight = document.documentElement.clientHeight; if (this.documentWidth == 0) { this.documentWidth = document.body.clientWidth; } if (this.documentHeight == 0) { this.documentHeight = document.body.clientHeight; } try { this.imgWidth = document.getElementById(this.imgId).width; this.imgHeight = document.getElementById(this.imgId).height; } catch(e) { } if (this.msoffsetX == 0 && this.msoffsetY == 0) { if (this.alignX == 'left') { this.left = this.scrollLeft + this.offsetX; } else if (this.alignX == 'right') { if (this.documentWidth > this.imgWidth + this.offsetX) this.left = this.scrollLeft + this.documentWidth - this.imgWidth - this.offsetX; else this.left = this.scrollLeft + this.offsetX; } else { if (this.documentWidth > this.imgWidth) this.left = this.scrollLeft + this.offsetX + this.documentWidth/2 - this.imgWidth/2 ; else this.left = this.scrollLeft + this.offsetX; } if (this.alignY == 'top') { this.top = this.scrollTop + this.offsetY; } else if (this.alignY == 'buttom') { if (this.documentHeight > this.imgHeight + this.offsetY) this.top = this.scrollTop + this.documentHeight - this.imgHeight - this.offsetY; else this.top = this.scrollTop + this.offsetY; }
 else
-if
-(this.alignX
-==
-'right')
-{
-if
-(this.documentWidth
->
-this.imgWidth
-+
-this.offsetX)
-this.left
-=
-this.scrollLeft
-+
-this.documentWidth
--
-this.imgWidth
--
-this.offsetX;
-else
-this.left
-=
-this.scrollLeft
-+
-this.offsetX;
-}
-else
-{
-if
-(this.documentWidth
->
-this.imgWidth)
-this.left
-=
-this.scrollLeft
-+
-this.offsetX
-+
-this.documentWidth/2
--
-this.imgWidth/2
-;
-else
-this.left
-=
-this.scrollLeft
-+
-this.offsetX;
-}
-if
-(this.alignY
-==
-'top')
-{
-this.top
-=
-this.scrollTop
-+
-this.offsetY;
-}
-else
-if
-(this.alignY
-==
-'buttom')
-{
-if
-(this.documentHeight
->
-this.imgHeight
-+
-this.offsetY)
-this.top
-=
-this.scrollTop
-+
-this.documentHeight
--
-this.imgHeight
--
-this.offsetY;
-else
-this.top
-=
-this.scrollTop
-+
-this.offsetY;
-}
-else
-{
-if
-(this.documentHeight
->
-this.imgHeight)
+{ if (this.documentHeight > this.imgHeight)
 this.top
 =
 this.scrollTop
@@ -361,37 +63,10 @@ this.scrollTop
 +
 this.offsetY;
 }
-}else{
-this.top
-=
-this.scrollTop
-+
-this.offsetY;
-this.left
-=
-this.scrollLeft
-+
-this.offsetX;
-}
+}else{ this.top = this.scrollTop + this.offsetY; this.left = this.scrollLeft + this.offsetX; }
 if
-(this.left
-!=
-this.left_last
-||
-this.top
-!=
-this.top_last)
-{
-if
-(document.getElementById(this.id))
-{
-var
-floater
-=
-document.getElementById(this.id);
-this.innerHTML
-=
-'
+(this.left != this.left_last || this.top != this.top_last)
+{ if (document.getElementById(this.id)) { var floater = document.getElementById(this.id); this.innerHTML = '
 '
 +
 this.imgStr
@@ -411,103 +86,14 @@ this.top;
 }
 }
 }
-if(typeof(HJFloater_popchatwindow)
-!=
-'function')
-{
-function
-HJFloater_popchatwindow()
-{
-var
-url
-=
-'http://cs.5107.cn/v4/msg/sendmsg.php?ver=401&company=6860&vcwStyle=0&vcwColor=0&vcwLang=gb2312&vcwTitle=5107%E7%BD%91%E7%AB%99%E4%BC%B4%E4%BE%A3+-+%E5%9C%A8%E7%BA%BF%E6%94%AF%E6%8C%81&vcwCoName=%E5%8C%97%E4%BA%AC%E5%A4%96%E5%9B%BD%E8%AF%AD%E5%A4%A7%E5%AD%A6%E5%9F%B9%E8%AE%AD%E5%AD%A6%E9%99%A2&vcwExpire=1&vcwCusTit=5107%E7%BD%91%E7%AB%99%E4%BC%B4%E4%BE%A3+-+%E5%9C%A8%E7%BA%BF%E6%94%AF%E6%8C%81&vcwLog=1&vcwVoice=yes&vcwTitAd=http%3A%2F%2Fcs.5107.cn%2Fv4%2Ftemplates%2Fimages%2Fchat_1_0_ad.gif&vcwLftAdUrl=http%3A%2F%2Fcs.5107.cn%2Fv4%2Ftemplates%2Fchat_leftad.html&vcwLftAdImg=http%3A%2F%2Fcs.5107.cn%2Fv4%2Ftemplates%2Fchat_leftad.html&smwStyle=0&smwColor=0&smwTitle=5107%E7%BD%91%E7%AB%99%E4%BC%B4%E4%BE%A3+-+%E7%A6%BB%E7%BA%BF%E7%95%99%E8%A8%80&smwLftAdUrl=http%3A%2F%2Fcs.5107.cn%2Fv4%2Ftemplates%2Fchat_leftad.html&smwLftAdImg=http%3A%2F%2Fcs.5107.cn%2Fv4%2Ftemplates%2Fchat_leftad.html&';
-var
-chatwindow
-=
-window.open(url,
-'_blank',
-'toolbar=no,location=no,directories=no,scrollbars=no,menubar=no,width=520,height=515,resizable=no,left=0,top=0,
-status=no');
-chatwindow.focus();
-}
-}
-if(typeof(HJFloater_popvoipwindow)
-!=
-'function')
-{
-function
-HJFloater_popvoipwindow()
-{
-var
-url
-=
-'http://cs.5107.cn/v4/chat/voip.php?company=6860&vwStyle=0&vwColor=0&vwLang=';
-var
-voipwindow
-=
-window.open(url,
-'_blank',
-'toolbar=no,location=no,directories=no,scrollbars=no,menubar=no,width=400,height=500,resizable=no,left=0,top=0,
-status=no');
-voipwindow.focus();
-}
-}
-if(typeof(HJFloater_startmove)
-!=
-'function')
-{
-function
-HJFloater_startmove()
-{
-this.flagmousedown
-=
-true;
-this.msoffsetX
-=
-event.clientX
--
-parseInt(this.left);
-this.msoffsetY
-=
-event.clientY
--
-parseInt(this.top);
-}
-}
-if(typeof(HJFloater_moving)
-!=
-'function')
-{
-function
-HJFloater_moving()
-{
-if
-(this.flagmousedown)
-{
-this.left
-=
-event.clientX
--
-this.msoffsetX;
-this.top
-=
-event.clientY
--
-this.msoffsetY;
-this.offsetX
-=
-this.left
--
-this.scrollLeft;
-this.offsetY
-=
-this.top
--
-this.scrollTop
-this.innerHTML
-=
-'
+if(typeof(HJFloater_popchatwindow) != 'function')
+{ function HJFloater_popchatwindow() { var url = 'http://cs.5107.cn/v4/msg/sendmsg.php?ver=401&company=6860&vcwStyle=0&vcwColor=0&vcwLang=gb2312&vcwTitle=5107%E7%BD%91%E7%AB%99%E4%BC%B4%E4%BE%A3+-+%E5%9C%A8%E7%BA%BF%E6%94%AF%E6%8C%81&vcwCoName=%E5%8C%97%E4%BA%AC%E5%A4%96%E5%9B%BD%E8%AF%AD%E5%A4%A7%E5%AD%A6%E5%9F%B9%E8%AE%AD%E5%AD%A6%E9%99%A2&vcwExpire=1&vcwCusTit=5107%E7%BD%91%E7%AB%99%E4%BC%B4%E4%BE%A3+-+%E5%9C%A8%E7%BA%BF%E6%94%AF%E6%8C%81&vcwLog=1&vcwVoice=yes&vcwTitAd=http%3A%2F%2Fcs.5107.cn%2Fv4%2Ftemplates%2Fimages%2Fchat_1_0_ad.gif&vcwLftAdUrl=http%3A%2F%2Fcs.5107.cn%2Fv4%2Ftemplates%2Fchat_leftad.html&vcwLftAdImg=http%3A%2F%2Fcs.5107.cn%2Fv4%2Ftemplates%2Fchat_leftad.html&smwStyle=0&smwColor=0&smwTitle=5107%E7%BD%91%E7%AB%99%E4%BC%B4%E4%BE%A3+-+%E7%A6%BB%E7%BA%BF%E7%95%99%E8%A8%80&smwLftAdUrl=http%3A%2F%2Fcs.5107.cn%2Fv4%2Ftemplates%2Fchat_leftad.html&smwLftAdImg=http%3A%2F%2Fcs.5107.cn%2Fv4%2Ftemplates%2Fchat_leftad.html&'; var chatwindow = window.open(url, '_blank', 'toolbar=no,location=no,directories=no,scrollbars=no,menubar=no,width=520,height=515,resizable=no,left=0,top=0, status=no'); chatwindow.focus(); } }
+if(typeof(HJFloater_popvoipwindow) != 'function')
+{ function HJFloater_popvoipwindow() { var url = 'http://cs.5107.cn/v4/chat/voip.php?company=6860&vwStyle=0&vwColor=0&vwLang='; var voipwindow = window.open(url, '_blank', 'toolbar=no,location=no,directories=no,scrollbars=no,menubar=no,width=400,height=500,resizable=no,left=0,top=0, status=no'); voipwindow.focus(); } }
+if(typeof(HJFloater_startmove) != 'function')
+{ function HJFloater_startmove() { this.flagmousedown = true; this.msoffsetX = event.clientX - parseInt(this.left); this.msoffsetY = event.clientY - parseInt(this.top); } }
+if(typeof(HJFloater_moving) != 'function')
+{ function HJFloater_moving() { if (this.flagmousedown) { this.left = event.clientX - this.msoffsetX; this.top = event.clientY - this.msoffsetY; this.offsetX = this.left - this.scrollLeft; this.offsetY = this.top - this.scrollTop this.innerHTML = '
 '
 +
 this.imgStr
@@ -524,167 +110,26 @@ this.innerHTML;
 }
 }
 }
-if(typeof(HJFloater_stopmove)
-!=
-'function')
-{
-function
-HJFloater_stopmove()
-{
-this.flagmousedown
-=
-false;
-}
-}
+if(typeof(HJFloater_stopmove) != 'function')
+{ function HJFloater_stopmove() { this.flagmousedown = false; } }
 if
-(typeof(objNowHJLiveChat_EventObject)
-==
-'undefined')
-{var
-objNowHJLiveChat_EventObject
-=
-null;}
+(typeof(objNowHJLiveChat_EventObject) == 'undefined')
+{var objNowHJLiveChat_EventObject = null;}
 if
-(typeof(aryHJLiveChat_IconID)
-==
-'undefined')
-{var
-aryHJLiveChat_IconID
-=
-Array();}
+(typeof(aryHJLiveChat_IconID) == 'undefined')
+{var aryHJLiveChat_IconID = Array();}
 if
-(typeof(aryHJLiveChat_IconObject)
-==
-'undefined')
-{var
-aryHJLiveChat_IconObject
-=
-Array();}
-if(typeof(HJLiveChatIcon_getobj)
-!=
-'function')
-{
-function
-HJLiveChatIcon_getobj()
-{
-objNowHJLiveChat_EventObject
-=
-event.srcElement;
-while
-(objNowHJLiveChat_EventObject.id.indexOf("idHJLiveChat_")
-==
--1)
-{
-objNowHJLiveChat_EventObject
-=
-objNowHJLiveChat_EventObject.parentElement;
-if
-(objNowHJLiveChat_EventObject
-==
-null)
-{
-return
-null;
-}
-}
-if
-(typeof(objNowHJLiveChat_EventObject.id)
-!=
-"undefined")
-{
-for
-(var
-i=0;
-i
-<=
-aryHJLiveChat_IconID.length;
-i++)
-{
-if
-(objNowHJLiveChat_EventObject.id
-==
-aryHJLiveChat_IconID[i])
-return
-aryHJLiveChat_IconObject[i];
-}
-}
-}
-}
-if(typeof(HJLiveChatIcon_startmove)
-!=
-'function')
-{
-function
-HJLiveChatIcon_startmove()
-{
-var
-obj
-=
-HJLiveChatIcon_getobj();
-if
-(obj
-!=
-null)
-{
-obj.startmove();
-}
-}
-}
-if(typeof(HJLiveChatIcon_moving)
-!=
-'function')
-{
-function
-HJLiveChatIcon_moving()
-{
-var
-obj
-=
-HJLiveChatIcon_getobj();
-if
-(obj
-!=
-null)
-{
-obj.moving();
-}
-}
-}
-if(typeof(HJLiveChatIcon_stopmove)
-!=
-'function')
-{
-function
-HJLiveChatIcon_stopmove()
-{
-var
-obj
-=
-HJLiveChatIcon_getobj();
-if
-(obj
-!=
-null)
-{
-obj.stopmove();
-}
-}
-}
-var
-objHJLiveChat_IconStatus_6860_1
-=
-new
-HJFloater("idHJLiveChat_IconStatus_6860_1",
-"HJLiveChat_IconStatic_Img_6860_1",
-"
+(typeof(aryHJLiveChat_IconObject) == 'undefined')
+{var aryHJLiveChat_IconObject = Array();}
+if(typeof(HJLiveChatIcon_getobj) != 'function')
+{ function HJLiveChatIcon_getobj() { objNowHJLiveChat_EventObject = event.srcElement; while (objNowHJLiveChat_EventObject.id.indexOf("idHJLiveChat_") == -1) { objNowHJLiveChat_EventObject = objNowHJLiveChat_EventObject.parentElement; if (objNowHJLiveChat_EventObject == null) { return null; } } if (typeof(objNowHJLiveChat_EventObject.id) != "undefined") { for (var i=0; i <= aryHJLiveChat_IconID.length; i++) { if (objNowHJLiveChat_EventObject.id == aryHJLiveChat_IconID[i]) return aryHJLiveChat_IconObject[i]; } } } } if(typeof(HJLiveChatIcon_startmove) != 'function') { function HJLiveChatIcon_startmove() { var obj = HJLiveChatIcon_getobj(); if (obj != null) { obj.startmove(); } } } if(typeof(HJLiveChatIcon_moving) != 'function') { function HJLiveChatIcon_moving() { var obj = HJLiveChatIcon_getobj(); if (obj != null) { obj.moving(); } } } if(typeof(HJLiveChatIcon_stopmove) != 'function') { function HJLiveChatIcon_stopmove() { var obj = HJLiveChatIcon_getobj(); if (obj != null) { obj.stopmove(); } } } var objHJLiveChat_IconStatus_6860_1 = new HJFloater("idHJLiveChat_IconStatus_6860_1", "HJLiveChat_IconStatic_Img_6860_1", "
 ",
 100,
 100,
 "right",
 "top",
 0,
-20);setInterval("objHJLiveChat_IconStatus_6860_1.float();"
-,200);aryHJLiveChat_IconID.push("idHJLiveChat_IconStatus_6860_1");
+20);setInterval("objHJLiveChat_IconStatus_6860_1.float();" ,200);aryHJLiveChat_IconID.push("idHJLiveChat_IconStatus_6860_1");
 aryHJLiveChat_IconObject.push(objHJLiveChat_IconStatus_6860_1);
 //document.onmousedown
 =
@@ -696,8 +141,7 @@ HJLiveChatIcon_moving;
 =
 HJLiveChatIcon_stopmove;30
 ?
-document.title.substring(0,
-30)
+document.title.substring(0, 30)
 :
 document.title;
 this.referrer
@@ -760,93 +204,19 @@ screen.height;
 this.searchEngineArray
 =
 new
-Array("",
-".google.cn/",
-".google.com/",
-".baidu.com/",
-".3721.com/",
-".yisou.com/",
-".yahoo.com.cn/",
-".yahoo.com/",
-".sogou.com/",
-".sina.com.cn/",
-".iask.com/",
-".tom.com/",
-".163.com/",
-".soso.com/",
-".qq.com/",
-".msn.com/",
-".zhongsou.com/",
-".googlesyndication.com/");
+Array("", ".google.cn/", ".google.com/", ".baidu.com/", ".3721.com/", ".yisou.com/", ".yahoo.com.cn/", ".yahoo.com/", ".sogou.com/", ".sina.com.cn/", ".iask.com/", ".tom.com/", ".163.com/", ".soso.com/", ".qq.com/", ".msn.com/", ".zhongsou.com/", ".googlesyndication.com/");
 this.searchEngineWord
 =
 new
-Array("",
-".google.cn/",
-".google.com/",
-".baidu.com/",
-".baidu.com/",
-".3721.com/",
-".3721.com/",
-".yisou.com/",
-".yahoo.com.cn/",
-".yahoo.com/",
-".sogou.com/",
-".sina.com.cn/",
-".iask.com/",
-".iask.com/",
-".tom.com/",
-".163.com/",
-".soso.com/",
-".qq.com/",
-".msn.com/",
-".zhongsou.com/");
+Array("", ".google.cn/", ".google.com/", ".baidu.com/", ".baidu.com/", ".3721.com/", ".3721.com/", ".yisou.com/", ".yahoo.com.cn/", ".yahoo.com/", ".sogou.com/", ".sina.com.cn/", ".iask.com/", ".iask.com/", ".tom.com/", ".163.com/", ".soso.com/", ".qq.com/", ".msn.com/", ".zhongsou.com/");
 this.searchEnginePara
 =
 new
-Array("",
-"q",
-"q",
-"wd",
-"word",
-"name",
-"p",
-"p",
-"p",
-"p",
-"query",
-"k",
-"k",
-"_searchkey",
-"word",
-"q",
-"w",
-"w",
-"q",
-"w");
+Array("", "q", "q", "wd", "word", "name", "p", "p", "p", "p", "query", "k", "k", "_searchkey", "word", "q", "w", "w", "q", "w");
 this.searchEngineLang
 =
 new
-Array(0,
-0,
-0,
-1,
-1,
-1,
-1,
-1,
-1,
-1,
-1,
-1,
-1,
-1,
-1,
-1,
-1,
-0,
-1,
-1);
+Array(0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1);
 this.checkFlash
 =
 "http://cs.5107.cn/v4/flashes/Monitor.swf?";
@@ -949,15 +319,7 @@ this.inviteTableString
 this.floatInvite
 =
 null;//new
-HJLiveChatFloatDiv(this.inviteDivId,
-this.inviteTdId,
-"right",
-"middle",
-"0",
-"0",
-140,
-417,
-"hidden");
+HJLiveChatFloatDiv(this.inviteDivId, this.inviteTdId, "right", "middle", "0", "0", 140, 417, "hidden");
 this.setObjString
 =
 HJLiveChatMonitor_setObjString;
@@ -1019,26 +381,14 @@ name
 */
 function
 HJLiveChatMonitor_setObjString(varName)
-{
-this.objString
-=
-varName;
-}
+{ this.objString = varName; }
 /**
 *
 HJLiveChatMonitor_checkHasAutoInvited
 */
 function
 HJLiveChatMonitor_checkHasAutoInvited(objCookie)
-{
-var
-HJAutoInvite
-=
-parseInt(objCookie.get("HJLC_HAS_INVITED"));
-if
-(HJAutoInvite
->
-0)
+{ var HJAutoInvite = parseInt(objCookie.get("HJLC_HAS_INVITED")); if (HJAutoInvite > 0)
 this.autoInviteTime
 =
 0;
@@ -1051,11 +401,7 @@ object
 */
 function
 HJLiveChatMonitor_setFloatInvite(objFloatInvite)
-{
-this.floatInvite
-=
-objFloatInvite;
-}
+{ this.floatInvite = objFloatInvite; }
 /**
 *
 get
@@ -1075,26 +421,7 @@ page.
 */
 function
 HJLiveChatMonitor_generateSignId()
-{
-var
-time
-=
-(new
-Date()).getTime();
-var
-randomKey
-=
-parseInt(Math.random()
-*
-100000);
-this.signId
-=
-time
-+
-""
-+
-randomKey;
-}
+{ var time = (new Date()).getTime(); var randomKey = parseInt(Math.random() * 100000); this.signId = time + "" + randomKey; }
 /**
 *
 get
@@ -1106,35 +433,7 @@ exists.
 */
 function
 HJLiveChatMonitor_getSearchEngine()
-{
-for
-(var
-i
-=
-1;
-i
-<
-this.searchEngineArray.length;
-i++)
-{
-if
-(this.referrer.indexOf(this.searchEngineArray[i])
->=
-0)
-{
-this.searchEngineNo
-=
-i;
-this.searchEngineLangNo
-=
-this.searchEngineLang[i];
-this.searchEngine
-=
-this.searchEngineArray[i];
-return;
-}
-}
-}
+{ for (var i = 1; i < this.searchEngineArray.length; i++) { if (this.referrer.indexOf(this.searchEngineArray[i]) >= 0) { this.searchEngineNo = i; this.searchEngineLangNo = this.searchEngineLang[i]; this.searchEngine = this.searchEngineArray[i]; return; } } }
 /**
 *
 get
@@ -1146,217 +445,11 @@ exists.
 */
 function
 HJLiveChatMonitor_getKeyWord()
-{
-if
-(this.searchEngine.length
-<=
-0)
-return;
-var
-paramStart
-=
-this.referrer.indexOf("?")
-+
-1;
-var
-param
-=
-this.referrer.substr(paramStart);
-var
-referrerArr
-=
-param.split("&");
-for
-(var
-i
-=
-1;
-i
-<
-this.searchEngineWord.length;
-i++)
-{
-for
-(var
-j
-=
-0;
-j
-<
-referrerArr.length;
-j++)
-{
-if
-(this.searchEngineWord[i]
-==
-this.searchEngine)
-{
-var
-intSearchEngineLang
-=
-this.searchEngineLang[i];
-var
-strKeyWord
-=
-getParamFromUrl(this.referrer,
-this.searchEnginePara[i]);
-var
-strSearchEngineLang
-=
-this.searchEngineLang[i];
-/////////////
-switch(this.searchEngineNo)
-{
-case
-1:
-//google.cn
-if
-(getParamFromUrl(this.referrer,
-'ie').toUpperCase()
-==
-"GB2312")
-strSearchEngineLang
-=
-1;
-break;
-case
-7:
-//yahoo.com
-if
-(getParamFromUrl(this.referrer,
-'ei').toUpperCase()
-==
-"UTF-8")
-strSearchEngineLang
-=
-0;
-break;
-case
-3:
-//baidu.com
-if
-(getParamFromUrl(this.referrer,
-'ie').toUpperCase()
-==
-"UTF-8")
-strSearchEngineLang
-=
-0;
-break;
-}
-/////////////
-if
-(
-strKeyWord
-!=""
-&&
-strKeyWord.length
->
-1
-)
-{
-this.keyWord
-=
-strSearchEngineLang
-+
-strKeyWord;
-return;
-}
-}
-}
-}
-}
-/**
-*
-display
-the
-SNCenter
-on
-the
-page
-flash
-*/
-var
-i_SNFlash
-=
-0;
-function
-HJLiveChatMonitor_showSNCenter()
-{
-if
-(document.getElementById('HJLiveChatPageScript'))
-{
-try
-{
-var
-SNCenterElement
-=
-document.createElement("iframe");
-SNCenterElement.id
-=
-"HJLiveChat_sncenterIframe";
-SNCenterElement.marginHeight
-=
-'0';
-SNCenterElement.marginWidth
-=
-'0';
-SNCenterElement.frameBorder
-=
-'0';
-SNCenterElement.width
-=
-this.intSNFlsWidth;
-SNCenterElement.height
-=
-this.intSNFlsHeight;
-SNCenterElement.scrolling
-=
-'no';
-SNCenterElement.allowTransparency
-=
-'true';
-SNCenterElement.style.position
-=
-'absolute';
-SNCenterElement.style.top
-=
-'0';
-SNCenterElement.style.left
-=
-'0';
-SNCenterElement.src
-=
-"http://cs.5107.cn/v4/js/sncenter.php?companyId=6860";
-var
-objJs
-=
-document.getElementById('HJLiveChatPageScript');
-objJs.parentNode.insertBefore(SNCenterElement,
-objJs);
-}
-catch
-(e)
-{
-}
-}
-else
-{
-document.write("
+{ if (this.searchEngine.length <= 0) return; var paramStart = this.referrer.indexOf("?") + 1; var param = this.referrer.substr(paramStart); var referrerArr = param.split("&"); for (var i = 1; i < this.searchEngineWord.length; i++) { for (var j = 0; j < referrerArr.length; j++) { if (this.searchEngineWord[i] == this.searchEngine) { var intSearchEngineLang = this.searchEngineLang[i]; var strKeyWord = getParamFromUrl(this.referrer, this.searchEnginePara[i]); var strSearchEngineLang = this.searchEngineLang[i]; ///////////// switch(this.searchEngineNo) { case 1: //google.cn if (getParamFromUrl(this.referrer, 'ie').toUpperCase() == "GB2312") strSearchEngineLang = 1; break; case 7: //yahoo.com if (getParamFromUrl(this.referrer, 'ei').toUpperCase() == "UTF-8") strSearchEngineLang = 0; break; case 3: //baidu.com if (getParamFromUrl(this.referrer, 'ie').toUpperCase() == "UTF-8") strSearchEngineLang = 0; break; } ///////////// if ( strKeyWord !="" && strKeyWord.length > 1 ) { this.keyWord = strSearchEngineLang + strKeyWord; return; } } } } } /** * display the SNCenter on the page flash */ var i_SNFlash = 0; function HJLiveChatMonitor_showSNCenter() { if (document.getElementById('HJLiveChatPageScript')) { try { var SNCenterElement = document.createElement("iframe"); SNCenterElement.id = "HJLiveChat_sncenterIframe"; SNCenterElement.marginHeight = '0'; SNCenterElement.marginWidth = '0'; SNCenterElement.frameBorder = '0'; SNCenterElement.width = this.intSNFlsWidth; SNCenterElement.height = this.intSNFlsHeight; SNCenterElement.scrolling = 'no'; SNCenterElement.allowTransparency = 'true'; SNCenterElement.style.position = 'absolute'; SNCenterElement.style.top = '0'; SNCenterElement.style.left = '0'; SNCenterElement.src = "http://cs.5107.cn/v4/js/sncenter.php?companyId=6860"; var objJs = document.getElementById('HJLiveChatPageScript'); objJs.parentNode.insertBefore(SNCenterElement, objJs); } catch (e) { } } else { document.write("
 ");
 }
 if
-(i_SNFlash
-<
-299
-&&
-document.getElementById("HJLiveChat_sncenterIframe")==null)
-{
-setTimeout("HJLiveChatMonitor_showSNCenter();",
-1000);
-i_SNFlash++;
-}
-}
+(i_SNFlash < 299 && document.getElementById("HJLiveChat_sncenterIframe")==null) { setTimeout("HJLiveChatMonitor_showSNCenter();", 1000); i_SNFlash++; } }
 /**
 *
 initial
@@ -1367,49 +460,7 @@ inviting.
 */
 function
 HJLiveChatMonitor_initInviteSpan()
-{
-if
-(document.getElementById('HJLiveChatPageScript'))
-{
-try
-{
-var
-inviteDiv
-=
-document.createElement("div");
-inviteDiv.id
-=
-this.inviteDivId;
-inviteDiv.style.margin
-=
-"0px";
-inviteDiv.style.zindex
-=
-8888;
-inviteDiv.style.display
-=
-"none";
-inviteDiv.className
-=
-"text_c_05";
-inviteDiv.innerHTML
-=
-this.inviteTableString;
-var
-objJs
-=
-document.getElementById('HJLiveChatPageScript');
-objJs.parentNode.insertBefore(inviteDiv,
-objJs);
-}
-catch
-(e)
-{
-}
-}
-else
-{
-document.write("
+{ if (document.getElementById('HJLiveChatPageScript')) { try { var inviteDiv = document.createElement("div"); inviteDiv.id = this.inviteDivId; inviteDiv.style.margin = "0px"; inviteDiv.style.zindex = 8888; inviteDiv.style.display = "none"; inviteDiv.className = "text_c_05"; inviteDiv.innerHTML = this.inviteTableString; var objJs = document.getElementById('HJLiveChatPageScript'); objJs.parentNode.insertBefore(inviteDiv, objJs); } catch (e) { } } else { document.write("
 "
 +
 this.inviteTableString
@@ -1425,14 +476,7 @@ HJLiveChatMonitor
 */
 function
 HJLiveChatMonitor_init(objCookie)
-{
-this.showSNCenter();
-this.generateSignId();
-this.checkHasAutoInvited(objCookie);
-this.getSearchEngine();
-this.getKeyWord();
-this.initInviteSpan();
-}
+{ this.showSNCenter(); this.generateSignId(); this.checkHasAutoInvited(objCookie); this.getSearchEngine(); this.getKeyWord(); this.initInviteSpan(); }
 /**
 *
 display
@@ -1445,101 +489,13 @@ i_MonitorFlash
 0;
 function
 HJLiveChatMonitor_showCheck()
-{
-var
-checkFlashUrl
-=
-this.checkFlash
-+
-"companyId="
-+
-this.company
-+
-"&pageUrl="
-+
-encodeURIComponent(this.pageUrl)
-+
-"&pageName="
-+
-encodeURIComponent(this.pageName).replace(/\'/g,
-"%27")
-+
-"&ie="
-+
-this.agentName
-+
-"&referedUrl="
-+
-encodeURIComponent(this.referrer)
-+
-"&searchEngine="
-+
-this.searchEngineNo
-+
-"&keyWord="
-+
-encodeURIComponent(this.keyWord)
-+
-"&fsIp="
-+
-this.fsIp
-+
-"&fsPort="
-+
-this.fsPort
-+
-"&fsCheckCode="
-+
-this.validateCode
-+
-"&signId="
-+
-this.signId
-+
-"&orderId="
-+
-this.orderId
-+
-"&debug="
-+
-this.debug
-+
-"&";
-var
-str
-=
-"
+{ var checkFlashUrl = this.checkFlash + "companyId=" + this.company + "&pageUrl=" + encodeURIComponent(this.pageUrl) + "&pageName=" + encodeURIComponent(this.pageName).replace(/\'/g, "%27") + "&ie=" + this.agentName + "&referedUrl=" + encodeURIComponent(this.referrer) + "&searchEngine=" + this.searchEngineNo + "&keyWord=" + encodeURIComponent(this.keyWord) + "&fsIp=" + this.fsIp + "&fsPort=" + this.fsPort + "&fsCheckCode=" + this.validateCode + "&signId=" + this.signId + "&orderId=" + this.orderId + "&debug=" + this.debug + "&"; var str = "
 ";
 if
 (document.getElementById('HJLiveChatPageScript'))
-{
-try
-{
-var
-checkDiv
-=
-document.createElement("div");
-checkDiv.id
-=
-"div_MonitorFlash";
-var
-objJs
-=
-document.getElementById('HJLiveChatPageScript');
-objJs.parentNode.insertBefore(checkDiv,
-objJs);
-checkDiv.innerHTML
-=
-str;
-}
-catch
-(e)
-{
-}
-}
+{ try { var checkDiv = document.createElement("div"); checkDiv.id = "div_MonitorFlash"; var objJs = document.getElementById('HJLiveChatPageScript'); objJs.parentNode.insertBefore(checkDiv, objJs); checkDiv.innerHTML = str; } catch (e) { } }
 else
-{
-document.write("
+{ document.write("
 "
 +
 str
@@ -1548,17 +504,7 @@ str
 ");
 }
 if
-(i_MonitorFlash
-<
-299
-&&
-document.getElementById("div_MonitorFlash")==null)
-{
-setTimeout("HJLiveChatMonitor_showCheck();",
-1000);
-i_MonitorFlash++;
-}
-}
+(i_MonitorFlash < 299 && document.getElementById("div_MonitorFlash")==null) { setTimeout("HJLiveChatMonitor_showCheck();", 1000); i_MonitorFlash++; } }
 /**
 *
 check
@@ -1569,15 +515,7 @@ use
 */
 function
 HJLiveChatMonitor_checkAllowFlash()
-{
-if
-(this.isAllowFlash
-==
-0)
-{
-alert(this.strFlashNotPlay);
-}
-}
+{ if (this.isAllowFlash == 0) { alert(this.strFlashNotPlay); } }
 /**
 *
 show
@@ -1587,37 +525,7 @@ automatically
 */
 function
 HJLiveChatMonitor_autoInvite(objCookie)
-{
-try
-{
-this.floatInvite.htmlObj.style.display
-=
-"";
-this.floatInvite.htmlObj.style.visibility
-=
-"visible";
-this.floatInvite.htmlTdObj.innerHTML
-=
-this.autoWelcome;
-this.floatInvite.setVisibility("visible");
-objCookie.set("HJLC_HAS_INVITED",
-1,
-this.autoInterval);
-if
-(this.isInternetExplorer)
-{
-window.focus();
-document.focus();
-}
-else
-{
-window.focus();
-}
-}
-catch(e)
-{
-}
-}
+{ try { this.floatInvite.htmlObj.style.display = ""; this.floatInvite.htmlObj.style.visibility = "visible"; this.floatInvite.htmlTdObj.innerHTML = this.autoWelcome; this.floatInvite.setVisibility("visible"); objCookie.set("HJLC_HAS_INVITED", 1, this.autoInterval); if (this.isInternetExplorer) { window.focus(); document.focus(); } else { window.focus(); } } catch(e) { } }
 /**
 *
 show
@@ -1626,25 +534,7 @@ div
 */
 function
 HJLiveChatMonitor_showInviteDiv()
-{
-try
-{
-this.floatInvite.htmlObj.style.display
-=
-"";
-this.floatInvite.htmlObj.style.visibility
-=
-"visible";
-this.floatInvite.htmlTdObj.innerHTML
-=
-this.msg.substr(0,
-60);
-this.floatInvite.setVisibility("visible");
-}
-catch(e)
-{
-}
-}
+{ try { this.floatInvite.htmlObj.style.display = ""; this.floatInvite.htmlObj.style.visibility = "visible"; this.floatInvite.htmlTdObj.innerHTML = this.msg.substr(0, 60); this.floatInvite.setVisibility("visible"); } catch(e) { } }
 /**
 *
 hide
@@ -1653,18 +543,7 @@ div
 */
 function
 HJLiveChatMonitor_hideInviteDiv()
-{
-this.floatInvite.htmlObj.style.display
-=
-"none";
-this.floatInvite.htmlObj.style.visibility
-=
-"hidden";
-this.floatInvite.htmlTdObj.innerHTML
-=
-"";
-this.floatInvite.setVisibility("hidden");
-}
+{ this.floatInvite.htmlObj.style.display = "none"; this.floatInvite.htmlObj.style.visibility = "hidden"; this.floatInvite.htmlTdObj.innerHTML = ""; this.floatInvite.setVisibility("hidden"); }
 /**
 *
 open
@@ -1679,64 +558,7 @@ div
 */
 function
 HJLiveChatMonitor_popWindow()
-{
-var
-addUrlMsg
-=
-"srcType="
-+
-this.srcType
-+
-"&opid="
-+
-this.opId
-+
-"&pageid="
-+
-this.pageId
-+
-"&groupid="
-+
-this.groupId
-+
-"&queueId="
-+
-this.queueId
-+
-"&";
-var
-url
-=
-this.onlineUrl
-+
-addUrlMsg
-+
-this.addUrlStr;
-try
-{
-var
-VCWindow
-=
-window.open(url,
-"_blank",
-this.chatWinParams);
-if
-(VCWindow
-==
-null){
-this.showInviteDiv();
-}
-else
-{
-VCWindow.focus();
-this.hideInviteDiv();
-VCWindow.focus();
-}
-}
-catch(e)
-{
-}
-}
+{ var addUrlMsg = "srcType=" + this.srcType + "&opid=" + this.opId + "&pageid=" + this.pageId + "&groupid=" + this.groupId + "&queueId=" + this.queueId + "&"; var url = this.onlineUrl + addUrlMsg + this.addUrlStr; try { var VCWindow = window.open(url, "_blank", this.chatWinParams); if (VCWindow == null){ this.showInviteDiv(); } else { VCWindow.focus(); this.hideInviteDiv(); VCWindow.focus(); } } catch(e) { } }
 /**
 *
 refuse
@@ -1746,19 +568,7 @@ for
 chatting
 */
 function
-HJLiveChatMonitor_refuseAsk(){
-this.hideInviteDiv();
-try
-{
-this.callFlashChat(this.checkName).callFlashFun("askVisiterForTalk",
-this.opId,
-0);
-}
-catch
-(e)
-{
-}
-}
+HJLiveChatMonitor_refuseAsk(){ this.hideInviteDiv(); try { this.callFlashChat(this.checkName).callFlashFun("askVisiterForTalk", this.opId, 0); } catch (e) { } }
 /**
 *
 get
@@ -1766,21 +576,7 @@ Flash
 */
 function
 HJLiveChatMonitor_callFlashChat(movieName)
-{
-if
-(navigator.appName.indexOf("Microsoft")
-!=
--1)
-{
-return
-window[movieName];
-}
-else
-{
-return
-document[movieName];
-}
-}
+{ if (navigator.appName.indexOf("Microsoft") != -1) { return window[movieName]; } else { return document[movieName]; } }
 /**
 *
 HJLiveChatCookie,
@@ -1790,14 +586,7 @@ cookie
 */
 function
 HJLiveChatCookie()
-{
-this.get
-=
-HJLiveChatCookie_get;
-this.set
-=
-HJLiveChatCookie_set;
-}
+{ this.get = HJLiveChatCookie_get; this.set = HJLiveChatCookie_set; }
 /**
 *
 get
@@ -1824,309 +613,7 @@ null
 */
 function
 HJLiveChatCookie_get(sName)
-{
-var
-aCookie
-=
-document.cookie.split(";
-");
-for
-(var
-i=0;
-i
-<
-aCookie.length;
-i++)
-{
-var
-aCrumb
-=
-aCookie[i].split("=");
-if
-(sName
-==
-aCrumb[0])
-return
-unescape(aCrumb[1]);
-}
-return
-null;
-}
-/**
-*
-set
-a
-cookie
-*
-@param
-sName
-cookie's
-name
-*
-@param
-sValue
-cookie's
-value
-*
-@param
-iTime,
-after
-seconds
-of
-iTime,
-cookie
-will
-expire.
-*/
-function
-HJLiveChatCookie_set(sName,
-sValue,
-iTime)
-{
-var
-expires
-=
-new
-Date();
-expires.setTime(expires.getTime()
-+
-iTime
-*
-1000);
-document.cookie
-=
-sName
-+
-"="
-+
-escape(sValue)
-+
-";
-expires="
-+
-expires.toGMTString()
-+
-";
-path=/";
-}
-/**
-*
-HJLiveChatFloatDiv,
-class
-for
-floating
-div/span.
-*/
-function
-HJLiveChatFloatDiv(id,
-tdid,
-hAlign,
-vAlign,
-hSpace,
-vSpace,
-iWidth,
-iHeight,
-visibility)
-{
-this.id
-=
-id;
-this.htmlObj
-=
-document.getElementById(this.id);
-this.htmlTdId
-=
-tdid;
-this.htmlTdObj
-=
-document.getElementById(this.htmlTdId);
-this.hAlign
-=
-hAlign;
-this.vAlign
-=
-vAlign;
-this.hSpace
-=
-hSpace;
-this.vSpace
-=
-vSpace;
-this.iWidth
-=
-iWidth;
-this.iHeight
-=
-iHeight;
-this.visibility
-=
-visibility;
-this.top
-=
-0;
-this.left
-=
-0;
-this.setVisibility
-=
-HJLiveChatFloatDiv_setVisibility;
-this.dofloat
-=
-HJLiveChatFloatDiv_dofloat;
-}
-/**
-*
-set
-div/span
-visible/hidden
-*/
-function
-HJLiveChatFloatDiv_setVisibility(visibility)
-{
-this.visibility
-=
-visibility;
-}
-/**
-*
-float
-div
-*/
-function
-HJLiveChatFloatDiv_dofloat()
-{
-if
-(!this.htmlObj)
-return;
-var
-intClientWidth,intClientHeight,intScrollLeft,intScrollTop;
-if
-(document.documentElement.clientWidth
->
-0)
-{
-intScrollLeft
-=
-parseInt(document.documentElement.scrollLeft);
-intScrollTop
-=
-parseInt(document.documentElement.scrollTop);
-intClientWidth
-=
-parseInt(document.documentElement.clientWidth);
-intClientHeight
-=
-parseInt(document.documentElement.clientHeight);
-}
-else
-{
-intScrollLeft
-=
-parseInt(document.body.scrollLeft);
-intScrollTop
-=
-parseInt(document.body.scrollTop);
-intClientWidth
-=
-parseInt(document.body.clientWidth);
-intClientHeight
-=
-parseInt(document.body.clientHeight);
-}
-switch
-(this.hAlign)
-{
-case
-"left":
-this.left
-=
-intScrollLeft
-+
-parseInt(this.hSpace);
-break;
-case
-"right":
-this.left
-=
-intScrollLeft
-+
-intClientWidth
--
-parseInt(this.iWidth
--
-this.hSpace);
-break;
-default:
-this.left
-=
-intScrollLeft
-+
-parseInt(intClientWidth
-/
-2)
--
-parseInt(this.iWidth
-/
-2);
-}
-switch
-(this.vAlign)
-{
-case
-"top":
-this.top
-=
-intScrollTop
-+
-parseInt(this.vSpace);
-break;
-case
-"bottom":
-this.top
-=
-intScrollTop
-+
-intClientHeight
--
-parseInt(this.iHeight)
--
-parseInt(this.vSpace);
-break;
-default:
-this.top
-=
-intScrollTop
-+
-parseInt(intClientHeight
-/
-2)
--
-parseInt(this.iHeight
-/
-2);
-}
-this.htmlObj.style.position
-=
-"absolute";
-this.htmlObj.style.top
-=
-this.top;
-this.htmlObj.style.left
-=
-this.left;
-if
-(this.visibility
-==
-"visible")
-{
-this.htmlObj.style.display
-=
-"";
-this.htmlObj.style.visibility
-=
-"visible";
-}
-}
+{ var aCookie = document.cookie.split("; "); for (var i=0; i < aCookie.length; i++) { var aCrumb = aCookie[i].split("="); if (sName == aCrumb[0]) return unescape(aCrumb[1]); } return null; } /** * set a cookie * @param sName cookie's name * @param sValue cookie's value * @param iTime, after seconds of iTime, cookie will expire. */ function HJLiveChatCookie_set(sName, sValue, iTime) { var expires = new Date(); expires.setTime(expires.getTime() + iTime * 1000); document.cookie = sName + "=" + escape(sValue) + "; expires=" + expires.toGMTString() + "; path=/"; } /** * HJLiveChatFloatDiv, class for floating div/span. */ function HJLiveChatFloatDiv(id, tdid, hAlign, vAlign, hSpace, vSpace, iWidth, iHeight, visibility) { this.id = id; this.htmlObj = document.getElementById(this.id); this.htmlTdId = tdid; this.htmlTdObj = document.getElementById(this.htmlTdId); this.hAlign = hAlign; this.vAlign = vAlign; this.hSpace = hSpace; this.vSpace = vSpace; this.iWidth = iWidth; this.iHeight = iHeight; this.visibility = visibility; this.top = 0; this.left = 0; this.setVisibility = HJLiveChatFloatDiv_setVisibility; this.dofloat = HJLiveChatFloatDiv_dofloat; } /** * set div/span visible/hidden */ function HJLiveChatFloatDiv_setVisibility(visibility) { this.visibility = visibility; } /** * float div */ function HJLiveChatFloatDiv_dofloat() { if (!this.htmlObj) return; var intClientWidth,intClientHeight,intScrollLeft,intScrollTop; if (document.documentElement.clientWidth > 0) { intScrollLeft = parseInt(document.documentElement.scrollLeft); intScrollTop = parseInt(document.documentElement.scrollTop); intClientWidth = parseInt(document.documentElement.clientWidth); intClientHeight = parseInt(document.documentElement.clientHeight); } else { intScrollLeft = parseInt(document.body.scrollLeft); intScrollTop = parseInt(document.body.scrollTop); intClientWidth = parseInt(document.body.clientWidth); intClientHeight = parseInt(document.body.clientHeight); } switch (this.hAlign) { case "left": this.left = intScrollLeft + parseInt(this.hSpace); break; case "right": this.left = intScrollLeft + intClientWidth - parseInt(this.iWidth - this.hSpace); break; default: this.left = intScrollLeft + parseInt(intClientWidth / 2) - parseInt(this.iWidth / 2); } switch (this.vAlign) { case "top": this.top = intScrollTop + parseInt(this.vSpace); break; case "bottom": this.top = intScrollTop + intClientHeight - parseInt(this.iHeight) - parseInt(this.vSpace); break; default: this.top = intScrollTop + parseInt(intClientHeight / 2) - parseInt(this.iHeight / 2); } this.htmlObj.style.position = "absolute"; this.htmlObj.style.top = this.top; this.htmlObj.style.left = this.left; if (this.visibility == "visible") { this.htmlObj.style.display = ""; this.htmlObj.style.visibility = "visible"; } }
 /**
 *
 get
@@ -2136,56 +623,15 @@ from
 url
 */
 function
-getParamFromUrl(strUrl,
-strParam)
-{
-if
-(strUrl.length
->
-0)
-{
-var
-oRegex
-=
-new
-RegExp(
-'[\?&]'
-+
-strParam
-+
-'=([^&]+)',
-'i'
-)
-;
-var
-oMatch
-=
-oRegex.exec(strUrl);
-if
-(
-oMatch
-&&
-oMatch.length
->
-1
-)
-{
-return
-oMatch[1]
-;
+getParamFromUrl(strUrl, strParam)
+{ if (strUrl.length > 0)
+{ var oRegex = new RegExp( '[\?&]' + strParam + '=([^&]+)', 'i' ) ; var oMatch = oRegex.exec(strUrl); if ( oMatch && oMatch.length > 1 )
+{ return oMatch[1] ; }
+else
+{ return '' ; }
 }
 else
-{
-return
-''
-;
-}
-}
-else
-{
-return
-'';
-}
+{ return ''; }
 }
 /**
 *
@@ -2198,17 +644,7 @@ calling
 */
 function
 JSFunctionsForFlash()
-{
-this.flashAskVstForTalk
-=
-JSFunctionsForFlash_flashAskVstForTalk;
-this.cancelInvite
-=
-JSFunctionsForFlash_cancelInvite;
-this.ifJSInitOK
-=
-JSFunctionsForFlash_ifJSInitOK;
-}
+{ this.flashAskVstForTalk = JSFunctionsForFlash_flashAskVstForTalk; this.cancelInvite = JSFunctionsForFlash_cancelInvite; this.ifJSInitOK = JSFunctionsForFlash_ifJSInitOK; }
 /**
 *
 flash
@@ -2220,44 +656,7 @@ chatting
 invite
 */
 function
-JSFunctionsForFlash_flashAskVstForTalk(msg,
-openType,
-opid,
-pageid,
-groupid,
-queueId,
-objMonitor){
-window.focus();
-objMonitor.msg
-=
-msg;
-objMonitor.opId
-=
-opid;
-objMonitor.pageId
-=
-pageid;
-objMonitor.groupId
-=
-groupid;
-objMonitor.queueId
-=
-queueId;
-objMonitor.srcType
-=
-2;
-if
-(openType
-==
-1)
-{
-objMonitor.popWindow();
-}
-else
-{
-objMonitor.showInviteDiv();
-}
-}
+JSFunctionsForFlash_flashAskVstForTalk(msg, openType, opid, pageid, groupid, queueId, objMonitor){ window.focus(); objMonitor.msg = msg; objMonitor.opId = opid; objMonitor.pageId = pageid; objMonitor.groupId = groupid; objMonitor.queueId = queueId; objMonitor.srcType = 2; if (openType == 1) { objMonitor.popWindow(); } else { objMonitor.showInviteDiv(); } }
 /**
 *
 flash
@@ -2272,9 +671,7 @@ been
 cancelled.
 */
 function
-JSFunctionsForFlash_cancelInvite(objMonitor){
-objMonitor.hideInviteDiv();
-}
+JSFunctionsForFlash_cancelInvite(objMonitor){ objMonitor.hideInviteDiv(); }
 var
 _objMonitor
 =
@@ -2287,25 +684,13 @@ new
 HJLiveChatCookie();
 _objMonitor.init(_objCookie);
 _objMonitor.setObjString("_objMonitor");
-_objMonitor.setFloatInvite(new
-HJLiveChatFloatDiv(_objMonitor.inviteDivId,
-_objMonitor.inviteTdId,
-"right",
-"middle",
-"0",
-"0",
-140,
-417,
-"hidden"));
+_objMonitor.setFloatInvite(new HJLiveChatFloatDiv(_objMonitor.inviteDivId, _objMonitor.inviteTdId, "right", "middle", "0", "0", 140, 417, "hidden"));
 _objMonitor.showCheck();
-setInterval("_objMonitor.floatInvite.dofloat()",
-200);
+setInterval("_objMonitor.floatInvite.dofloat()", 200);
 if
-(_objMonitor.autoInviteTime
->
+(_objMonitor.autoInviteTime >
 0)
-setTimeout("_objMonitor.autoInvite(_objCookie)",
-_objMonitor.autoInviteTime);
+setTimeout("_objMonitor.autoInvite(_objCookie)", _objMonitor.autoInviteTime);
 /**
 *
 interface
@@ -2314,211 +699,7 @@ flash
 calling
 */
 function
-callJSFun(){
-try
-{
-var
-ary_args
-=
-new
-Array();
-var
-command
-=
-arguments[0];
-for
-(var
-i
-=
-0;
-i
-<
-arguments.length;
-i++)
-{
-ary_args[i]
-=
-arguments[i];
-}
-switch
-(command)
-{
-case
-"askVisiterForTalk":
-new
-JSFunctionsForFlash().flashAskVstForTalk(ary_args[1],
-ary_args[2],
-ary_args[3],
-ary_args[4],
-ary_args[5],
-ary_args[6],
-_objMonitor);
-break;
-case
-"CancelInvite":
-new
-JSFunctionsForFlash().cancelInvite(_objMonitor);
-break;
-case
-"IFJSinitOK":
-new
-JSFunctionsForFlash().ifJSInitOK(_objMonitor);
-break;
-}
-}
-catch(e)
-{
-}
-}
-/**
-*
-interface
-getSNId,
-it
-used
-by
-iconjs
-*/
-function
-getSNID()
-{
-var
-ss
-=
-"";
-try
-{
-ss
-=
-_objMonitor.callFlashChat(_objMonitor.SNCenterName).getSNID();
-}
-catch
-(e)
-{
-}
-return
-ss;
-}
-/**
-*
-flash
-asks
-js
-to
-answer
-if
-js
-has
-finished
-it's
-intialization.
-*
-if
-js
-recieved
-this
-message,
-it
-will
-call
-flash
-function
-"JSinitOK".
-*
-when
-the
-flash
-executes
-"JSinitOK",
-it
-means
-javascript
-has
-finished
-it's
-intialization.
-*
-*
-This
-function
-should
-be
-placed
-at
-the
-of
-the
-javascript.
-*/
-function
-JSFunctionsForFlash_ifJSInitOK(objMonitor)
-{
-try
-{
-objMonitor.flashIsPlayed
-=
-true;
-objMonitor.callFlashChat(objMonitor.checkName).callFlashFun("JSinitOK");
-}
-catch
-(e)
-{
-}
-}
-/**
-*
-This
-function
-for
-Gary
-Report
-.
-*
-2006-08-17
-*/
-function
-count_report()
-{
-try
-{
-var
-strNowTime
-=
-new
-Date().getTime();
-var
-url
-=
-"http://cs.5107.cn/v4/js/temp_write.php?url="+encodeURI(_objMonitor.pageUrl)+"&referer="+encodeURI(_objMonitor.referrer)+"&company="+_objMonitor.company+"&sn=0&browser="+_objMonitor.agentName+"&os="+_objMonitor.osVer+"&lang="+_objMonitor.userLang+"&fls="+0+"&res="+encodeURI(_objMonitor.screenX+"x"+_objMonitor.screenY)+"&code="+strNowTime;
-//prompt("",url);
-//alert(url);
-var
-html_doc
-=
-document.getElementsByTagName('head').item(0);
-var
-jsReport
-=
-document.createElement('script');
-jsReport.setAttribute('language',
-'javascript');
-jsReport.setAttribute('type',
-'text/javascript');
-jsReport.setAttribute('src',
-url);
-html_doc.appendChild(jsReport);
-}catch(e){
-}
-}
-try
-{
-setTimeout("count_report();",
-0)
-}
-catch(e)
-{
-}
-//-->
+callJSFun(){ try { var ary_args = new Array(); var command = arguments[0]; for (var i = 0; i < arguments.length; i++) { ary_args[i] = arguments[i]; } switch (command) { case "askVisiterForTalk": new JSFunctionsForFlash().flashAskVstForTalk(ary_args[1], ary_args[2], ary_args[3], ary_args[4], ary_args[5], ary_args[6], _objMonitor); break; case "CancelInvite": new JSFunctionsForFlash().cancelInvite(_objMonitor); break; case "IFJSinitOK": new JSFunctionsForFlash().ifJSInitOK(_objMonitor); break; } } catch(e) { } } /** * interface getSNId, it used by iconjs */ function getSNID() { var ss = ""; try { ss = _objMonitor.callFlashChat(_objMonitor.SNCenterName).getSNID(); } catch (e) { } return ss; } /** * flash asks js to answer if js has finished it's intialization. * if js recieved this message, it will call flash function "JSinitOK". * when the flash executes "JSinitOK", it means javascript has finished it's intialization. * * This function should be placed at the of the javascript. */ function JSFunctionsForFlash_ifJSInitOK(objMonitor) { try { objMonitor.flashIsPlayed = true; objMonitor.callFlashChat(objMonitor.checkName).callFlashFun("JSinitOK"); } catch (e) { } } /** * This function for Gary Report . * 2006-08-17 */ function count_report() { try { var strNowTime = new Date().getTime(); var url = "http://cs.5107.cn/v4/js/temp_write.php?url="+encodeURI(_objMonitor.pageUrl)+"&referer="+encodeURI(_objMonitor.referrer)+"&company="+_objMonitor.company+"&sn=0&browser="+_objMonitor.agentName+"&os="+_objMonitor.osVer+"&lang="+_objMonitor.userLang+"&fls="+0+"&res="+encodeURI(_objMonitor.screenX+"x"+_objMonitor.screenY)+"&code="+strNowTime; //prompt("",url); //alert(url); var html_doc = document.getElementsByTagName('head').item(0); var jsReport = document.createElement('script'); jsReport.setAttribute('language', 'javascript'); jsReport.setAttribute('type', 'text/javascript'); jsReport.setAttribute('src', url); html_doc.appendChild(jsReport); }catch(e){ } } try { setTimeout("count_report();", 0) } catch(e) { } //-->
 ·´¿Ö¾«Ó¢£¨CS£©¹Ù·½×ÊÑ¶Íø_·´¿Ö¾«Ó¢£¨CS£©Î¨Ò»ÖĞÎÄ¹Ù·½ÍøÕ¾,·´¿Ö¾«Ó¢1.6£¨CS£©ÏÂÔØ\·´¿Ö¾«Ó¢1.5£¨CS£©ÃØóÅ
 ÉñÖİ°ÂÃÀ
 |
@@ -2914,8 +1095,7 @@ Mazda
 Ììô¥ÓùÏµÁĞ
 23028.38Íò28.38Íò02-13À¼Ìì¶«·çÈÕ
 ¸£¿ËË¹07¿îÁ½Ïá1.13.98Íò13.98Íò02-13ºşÄÏ»ªÂ¡
-CIVIC(Ë¼1.8L
-VTi17.78Íò17.78Íò02-13³¤É³³ÏÍ¨
+CIVIC(Ë¼1.8L VTi17.78Íò17.78Íò02-13³¤É³³ÏÍ¨
 ±ÈÑÇµÏF3Æì½¢ĞÍGLX-8.98Íò8.98Íò02-13ÖĞºÍ±ÈÑÇµÏ
 Èğ»¢31.8MT
 ºÀ»ª10.58Íò10.58Íò02-13ºşÄÏÏæÈğ
@@ -3239,8 +1419,7 @@ Mazda
 ¸£¿ËË¹07¿îÁ½Ïá1.12.38Íò12.38Íò02-03ºşÄÏ»ªÂ¡
 Ììô¥ÓùÏµÁĞ
 23028.38Íò28.38Íò02-03À¼Ìì¶«·çÈÕ
-CIVIC(Ë¼1.8L
-VTi17.78Íò17.78Íò02-03³¤É³³ÏÍ¨
+CIVIC(Ë¼1.8L VTi17.78Íò17.78Íò02-03³¤É³³ÏÍ¨
 ±ÈÑÇµÏF3Æì½¢ĞÍGLX-8.98Íò8.98Íò02-03ÖĞºÍ±ÈÑÇµÏ
 Èğ»¢31.8MT
 ºÀ»ª10.58Íò10.58Íò02-03ºşÄÏÏæÈğ
@@ -3657,8 +1836,7 @@ Mazda
 Ììô¥ÓùÏµÁĞ
 23026.48Íò26.48Íò02-13À¼Ìì¶«·çÈÕ
 ¸£¿ËË¹07¿îÁ½Ïá1.13.98Íò13.98Íò02-13ºşÄÏ»ªÂ¡
-CIVIC(Ë¼1.8L
-VTi17.78Íò17.78Íò02-13³¤É³³ÏÍ¨
+CIVIC(Ë¼1.8L VTi17.78Íò17.78Íò02-13³¤É³³ÏÍ¨
 ±ÈÑÇµÏF3Æì½¢ĞÍGLX-8.98Íò8.98Íò02-13ÖĞºÍ±ÈÑÇµÏ
 Èğ»¢31.8MT
 ºÀ»ª10.58Íò10.58Íò02-13ºşÄÏÏæÈğ
@@ -4008,8 +2186,7 @@ Mazda
 ¸£¿ËË¹07¿îÁ½Ïá1.12.38Íò12.38Íò02-03ºşÄÏ»ªÂ¡
 Ììô¥ÓùÏµÁĞ
 23028.38Íò28.38Íò02-03À¼Ìì¶«·çÈÕ
-CIVIC(Ë¼1.8L
-VTi17.78Íò17.78Íò02-03³¤É³³ÏÍ¨
+CIVIC(Ë¼1.8L VTi17.78Íò17.78Íò02-03³¤É³³ÏÍ¨
 ±ÈÑÇµÏF3Æì½¢ĞÍGLX-8.98Íò8.98Íò02-03ÖĞºÍ±ÈÑÇµÏ
 Èğ»¢31.8MT
 ºÀ»ª10.58Íò10.58Íò02-03ºşÄÏÏæÈğ
@@ -4292,9 +2469,7 @@ target="_blank">ÉçÇø
 2007Äê12ÔÂ17ÈÕ
 À´Ô´£º
 ³¤É³¹º³µÖĞĞÄ
-×ÖºÅ£º[´ó
-ÖĞ
-Ğ¡]
+×ÖºÅ£º[´ó ÖĞ Ğ¡]
 ÈÈµã¾Û½¹
 ÊÔ¼İÆÀ²â
 ³µÊĞĞĞÇé
@@ -4317,23 +2492,9 @@ target="_blank">ÉçÇø
 µÚ°Ë´úÑÅ¸ó¹¥ÂÔ
 ²ÎÓëÂÌÉ«¼İÊ»
 Ó®È¡°ÂµÏTT
-¾İÏ¤£¬Î»ÓÚÖĞÄÏÆû³µÊÀ½çºşÄÏÎ¨Ò»Ò»¼Ò³¤°²Âí×Ô´ïÍò´ïµê£¬´Ó8ÔÂ15¿ªÊ¼¶¯¹¤£¬<?xml:namespace
-prefix
-=
-st1
-ns
-=
-"urn:schemas-microsoft-com:office:smarttags"
-/>
+¾İÏ¤£¬Î»ÓÚÖĞÄÏÆû³µÊÀ½çºşÄÏÎ¨Ò»Ò»¼Ò³¤°²Âí×Ô´ïÍò´ïµê£¬´Ó8ÔÂ15¿ªÊ¼¶¯¹¤£¬<?xml:namespace prefix = st1 ns = "urn:schemas-microsoft-com:office:smarttags" />
 12ÔÂ7ÈÕ
-Ë³ÀûÍ¨¹ı³§¼ÒÑéÊÕ£¬´Ó¿ª¹¤µ½½¨³ÉËÄ¸öÔÂ²»µ½Ê±¼ä£¬³ÉÎªÈ«¹úµÚ3¼ÒÍ¨¹ıÑéÊÕµÄĞÂ½¨µê£¬½«ÕıÊ½Í¶ÈëÊ¹ÓÃµÄ³¤°²Âí×Ô´ïÍò´ï4SµêÊÇ°´×îĞÂ±ê×¼ĞË½¨µÄÆû³µ×¨Óªµê£¬Õ¼µØ10Ä¶£¬½¨ÖşÃæ»ıÔ¼4000Æ½·½Ã×£¬ÊÒÄÚÆû³µÕ¹ÌüºÍÎ¬ĞŞ³§¾ù´ïµ½¹úÄÚÒ»Á÷Ë®Æ½¡£<?xml:namespace
-prefix
-=
-o
-ns
-=
-"urn:schemas-microsoft-com:office:office"
-/>
+Ë³ÀûÍ¨¹ı³§¼ÒÑéÊÕ£¬´Ó¿ª¹¤µ½½¨³ÉËÄ¸öÔÂ²»µ½Ê±¼ä£¬³ÉÎªÈ«¹úµÚ3¼ÒÍ¨¹ıÑéÊÕµÄĞÂ½¨µê£¬½«ÕıÊ½Í¶ÈëÊ¹ÓÃµÄ³¤°²Âí×Ô´ïÍò´ï4SµêÊÇ°´×îĞÂ±ê×¼ĞË½¨µÄÆû³µ×¨Óªµê£¬Õ¼µØ10Ä¶£¬½¨ÖşÃæ»ıÔ¼4000Æ½·½Ã×£¬ÊÒÄÚÆû³µÕ¹ÌüºÍÎ¬ĞŞ³§¾ù´ïµ½¹úÄÚÒ»Á÷Ë®Æ½¡£<?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" />
 ³¤°²Âí×Ô´ï4SµêµÄÂ½ĞøÂä³É£¬Ê¹Âí×Ô´ïÔÚÖĞ¹úµÄÏúÊÛÇşµÀÖ®Õù¸æÒ»¶ÎÂä£¬ÔÚĞÂÂä³ÉµÄ³¤°²Âí×Ô´ïÍò´ï4Sµê½«´Ó12ÔÂ20ÈÕÆğÏúÊÛ´ÓÒ»ÆûÂí×Ô´ïÊÖÖĞ½Ó&#8220;»Ø¼Ò&#8221;µÄÂí×Ô´ï3ºÍ¼´½«È«ÇòÍ¬²½ÉÏÊĞµÄÂí×Ô´ï2¡£
 ÁíÍâ£¬¼ÇÕß»¹´Ó¸ÃµêÊĞ³¡²¿ÁË½âµ½£¬ÊĞ³¡ÆÚÅÎÒÑ¾ÃµÄÂí×Ô´ïÈ«ĞÂ³µĞÍ&#8212;Âí×Ô´ï2Ò²ÒÑ¾­µ½µê£¬È«ĞÂÂí×Ô´ï2µÄÉè¼Æ·ç¸ñÓë¼Ò×åÆäËü²úÆ·Ò»Ñù£¬¾ù²ÉÓÃÁËÁ÷ÏßĞÍºĞ×°³µÉí¼Æ·ç¸ñ£¬µ«ÊÇ¸ü¼Ó¾ßÓĞ¶¯Á¦ĞÔµÄÍâ¹Û£¬Éè¼ÆÕßÃÇ²ÉÓÃÁËÈñÀûµÄÇúÏßÒÔ¼°ÈÚºÏÁËÈáºÍµÄ¹ı¶ÉĞ§¹û¡£Ğ¨×Ó×´µÄÍâĞÎÒ²ÈÃ³µÉí¿´ÆğÀ´¸ü¼Ó¾ßÓĞ¶¯¸Ğ&#8212;&#8212;¼´Ê¹ÊÇ³µÁ¾¾²Ö¹²»¶¯µÄÊ±ºò£¬Âí×Ô´ï2Ò²ºÃÏñÔÚĞĞÊ»Ò»°ã¡£Âí×Ô´ï2µÄ³öÏÖ¼ÓÉÏÏÖÔÚÒÑ¾­¹©²»Ó¦ÇóµÄÂí×Ô´ï3£¬Õâ¶Ô×éºÏÎŞÒÉ»á³ÉÎª08Äê³µÊĞµÄÒ»µÀ·ç¾°Ïß¡£³¤°²Âí×Ô´ï
 12ÔÂ27ÈÕ
@@ -4437,8 +2598,7 @@ _8.shtml"-->
 ÈÙÍş550Ãé×¼B-±ê¸Ë
 ĞÂ´ºÕ¹¡°ºè¡±Í¼
 ĞÂ±Ï¼ÓË÷ºñÀñ´óÅÉËÍ
-Ó­´º½Ú(Ò»Æû°ÂµÏ
-È«ÌåÔ±¹¤)ËÍÄú¾ªÏ²
+Ó­´º½Ú(Ò»Æû°ÂµÏ È«ÌåÔ±¹¤)ËÍÄú¾ªÏ²
 ÉÏÆûÈÙÍşW2¸ÅÄî³µÁ¿²ú°æÃüÃûÈÙÍş550
 ÎåÔØ»Ô»Í
 ÇãÇé»ØÀ¡
@@ -4627,28 +2787,23 @@ http://cscx.i.club.sohu.com
 ÂÛÌ³³ÉÔ±ĞĞ×Ù
 ÓÃ»§£º
 µÚÒ»Ë¥¹ø
-»Ø¸´ÁË¡¶¿ìÀÖ¹àË®
-No.3¡·
+»Ø¸´ÁË¡¶¿ìÀÖ¹àË® No.3¡·
 2Ğ¡Ê±Ç°
 ÓÃ»§£º
 µÚÒ»Ë¥¹ø
-»Ø¸´ÁË¡¶¿ìÀÖ¹àË®
-No.3¡·
+»Ø¸´ÁË¡¶¿ìÀÖ¹àË® No.3¡·
 2Ğ¡Ê±Ç°
 ÓÃ»§£º
 µÚÒ»Ë¥¹ø
-»Ø¸´ÁË¡¶¿ìÀÖ¹àË®
-No.3¡·
+»Ø¸´ÁË¡¶¿ìÀÖ¹àË® No.3¡·
 2Ğ¡Ê±Ç°
 ÓÃ»§£º
 µÚÒ»Ë¥¹ø
-»Ø¸´ÁË¡¶¿ìÀÖ¹àË®
-No.3¡·
+»Ø¸´ÁË¡¶¿ìÀÖ¹àË® No.3¡·
 2Ğ¡Ê±Ç°
 ÓÃ»§£º
 µÚÒ»Ë¥¹ø
-»Ø¸´ÁË¡¶¿ìÀÖ¹àË®
-No.3¡·
+»Ø¸´ÁË¡¶¿ìÀÖ¹àË® No.3¡·
 2Ğ¡Ê±Ç°
 ×îĞÂÀ´·Ã
 ¸ß½¡1976
@@ -4975,9 +3130,7 @@ BBS
 2008-01-22
 02:02:47
 ·¢²¼[ÒıÓÃ»Ø¸´]
-[[Ô­´´]³Ùµ½Ê®ÄêµÄ¼¤Çé
-¶ş
-[ÒÀÒÀß½Óï]-ËÑºüÉçÇø¸öĞÔÂÛÌ³|BETA°æ");'
+[[Ô­´´]³Ùµ½Ê®ÄêµÄ¼¤Çé ¶ş [ÒÀÒÀß½Óï]-ËÑºüÉçÇø¸öĞÔÂÛÌ³|BETA°æ");'
 style='cursor:pointer;'
 >ÊÕ²Ø´ËÌû]
 »Ø¸´
@@ -4989,9 +3142,7 @@ style='cursor:pointer;'
 [ÏÂÒ³]×ªµ½
 Ò³
 ¿ìËÙ»Ø¸´
-*Äú»¹¿ÉÒÔÊäÈë4000×Ö[Íê³Éºó¿É°´
-Ctrl+Enter
-·¢²¼]
+*Äú»¹¿ÉÒÔÊäÈë4000×Ö[Íê³Éºó¿É°´ Ctrl+Enter ·¢²¼]
 [¸ß¼¶»Ø¸´]
 ÉèÖÃÊ×Ò³
 -
@@ -5313,8 +3464,7 @@ fÊÓÆµ
 ¾ÅÀà·¿×ÓÔÙ±ãÒËÒ²²
 2.
 ·¿¼Û»ò½øÈëÏÂ½µÍ¨µÀ
-2008Äê»áÂò·¿µ
-ÆÀÂÛ
+2008Äê»áÂò·¿µÆÀÂÛ
 3.
 ´ó±ùÔÖ±³ºóµÄµØ²úË¼¿¼£º30Äê³Ç¼ÊÇ¨áãÖ»
 4.
@@ -5369,8 +3519,7 @@ fÊÓÆµ
 ¸÷³ÇÊĞ´ó¹æÄ£¿ªÆô±£ÕÏ×¡·
 12ÈÕ
 ¡¤·¿¼ÛÕæÏÂ½µÁË»¹Âò²»Âò
-ÀÏ°ÙĞÕ¾¿¾¹ÔÚµÈÊ²Ã
-ÆÀÂÛ
+ÀÏ°ÙĞÕ¾¿¾¹ÔÚµÈÊ²ÃÆÀÂÛ
 10ÈÕ
 ¡¤·¿¼Û¹ÕµãÉĞÎ´Ã÷ÀÊ
 ¾¯ÌèµØ²ú¡°ÅİÄ­À©ÕÅ¡±É±ÉËÁ
@@ -5380,58 +3529,42 @@ fÊÓÆµ
 05ÈÕ
 ÍÁµØ¹ÒÅÆĞÅÏ¢Æ½Ì¨
 Ãâ·Ñ·¢²¼
-[È«¹ú
-]
+[È«¹ú ]
 º£ÄÏÊ¡ÈË´ó×¡
-[±±¾©
-]
+[±±¾© ]
 »Ø¸´£ºÓĞ×Ê½ğ
-[±±¾©
-]
+[±±¾© ]
 »Ø¸´£ºÓĞ×Ê½ğ
-[±±¾©
-]
+[±±¾© ]
 »Ø¸´£ºÓĞ×Ê½ğ
-[±±¾©
-]
+[±±¾© ]
 »Ø¸´£ºÓĞ×Ê½ğ
-[±±¾©
-]
+[±±¾© ]
 »Ø¸´£ºÓĞ×Ê½ğ
-[È«¹ú
-]
+[È«¹ú ]
 ÄÏ´÷ºÓ·¿²ú±±
-[±±¾©
-]
+[±±¾© ]
 »Ø¸´£ºÁªÏµ·½
-[È«¹ú
-]
+[È«¹ú ]
 ÎÒÓĞÊ¡ÊĞÖØµã
-[È«¹ú
-]
+[È«¹ú ]
 ¹òÇó´ïÈË½â»ó
-[±±¾©
-]
+[±±¾© ]
 ÎÒÓĞÍÁµØÏîÄ¿
-[Ìì½ò
-]
+[Ìì½ò ]
 ±±¾©Ìì½òÍÁµØ
-[±±¾©
-]
+[±±¾© ]
 ÁªÏµ·½Ê½
-[±±¾©
-]
+[±±¾© ]
 ±±¾©Ìì½òÍÁµØ
-[±±¾©
-]
+[±±¾© ]
 »Ø¸´£º**±±¾©
-[±±¾©
-]
+[±±¾© ]
 »Ø¸´£º**±±¾©
 ¸ü¶à>>
 ½¹µã¹Ø×¢
 ÈıµØÁ¬Ïß¾Û½¹ÖĞ½é¹Øµê±³ºóµÄºê
-ÉÏº£´´»ÔÒ»Ò¹Ö®¼ä¹Øµê200¼Ò£¬´´»Ô×Ü²¿ÉîÛÚ¡¢°üÀ¨¹ãÖİ¡¢»İÖİµÈµØÔÚÄÚÏà¼Ì´«À´¹ØµêÏûÏ¢£¬±±¾©×î´óµ
+ÉÏº£´´»ÔÒ»Ò¹Ö®¼ä¹Øµê200¼Ò£¬´´»Ô×Ü²¿ÉîÛÚ¡¢°üÀ¨¹ãÖİ¡¢»İÖİµÈµØÔÚÄÚÏà¼Ì´«À´¹ØµêÏûÏ¢£¬±±¾©×î´óµ 
 ¡¤°ÂÔË¡¢ÊÀ²©¡ª¡ª¼ÓËÙ³ÇÊĞ¾­¼Ã·¢Õ¹µÄ¡°ĞË
 ¡¤Ö¸Íû¡°¼ÓÏ¢+½µË°¡±ÄÜÒÖÖÆ·¿¼ÛÊÇ×Ô×÷¶àÇ
 ¡¤3ÔÂ25ÈÕ½¹µã¡°·¿¡±Ì¸£ºÓĞ³¥Î¬È¨
@@ -5447,7 +3580,7 @@ fÊÓÆµ
 [Éú»îÌáÊ¾]
 ÎÒÃÇÒ²À´Ì¸Ì¸¸öÈË¼¯×Ê½¨·¿µÄÎÊ
 [Éú»îÌáÊ¾]
-ÖĞ¹úÂ¥ÊĞÊ®´ó»ÑÑÔÈ«½ÒÃØ£¨ÖµµÃ
+ÖĞ¹úÂ¥ÊĞÊ®´ó»ÑÑÔÈ«½ÒÃØ£¨ÖµµÃ 
 [Éú»îÌáÊ¾]
 Îª°®Çé³ö×ÊÂò·¿£¬Ä¸Ç×²¡Î£±©Â¶
 Í¼Æ¬£º2008ÔğÈÎµØ²ú¸ß·åÂÛÌ³
@@ -5496,10 +3629,7 @@ fÊÓÆµ
 ½µ·ù´ï30%
 26ÈÕ
 µØ²ú¾«Ó¢²©¿ÍÈ¦
-¡¤ÓÖ¿´¡¶GONE
-WITH
-THE
-WIND¡·
+¡¤ÓÖ¿´¡¶GONE WITH THE WIND¡·
 ¡¤ÇåÑÅ¡ª¡ªºÉÀ¼Ğ¡Õò±ğÊû
 ¡¤ÁªºÏÔç±¨£ºĞÂÀÍ¶¯ºÏÍ¬·¨ÉúĞ§
 ¡¤3£¬ÈËÃñÖ÷È¨ÂÛ¡¶ÀíÏë¹ú¡·164
@@ -5512,21 +3642,20 @@ WIND¡·
 ¸ÛÌ¨Ã÷ĞÇ´óÂ½ºÀÕ¬
 Ã÷ĞÇµÄŞÏŞÎ"·¿ÊÂ"
 ¡¤×îÃÀÀöÀËÂşµÄµØ·½
-¿´ÊÀ½ç°Ë´ó»éÀñ³ÇÊĞ(×é
+¿´ÊÀ½ç°Ë´ó»éÀñ³ÇÊĞ(×é 
 ¡¤·çË®£º¿ÍÌü¾ö¶¨Ö÷ÈËÃüÔË
 ÈçºÎ±ÜĞ×»¯¼ª£¨×
 ¡¤ÑÇÖŞÎï¼Û×î¸ßµÄÊ®´ó³ÇÊĞ
-±±¾©µÚ7ÉÏº£µÚ8(
+±±¾©µÚ7ÉÏº£µÚ8( 
 ¡¤Ñ°ÕÒÊÀ¼äÌÒ»¨Ô´
-ÖĞ¹ú×îÖµµÃÈ¥µÄÊ®×ùĞ¡³Ç(
+ÖĞ¹ú×îÖµµÃÈ¥µÄÊ®×ùĞ¡³Ç( 
 ¡¤ÎªºÎÈç´Ë¸»ÓĞ£¿
 11¸ö±ÈÖĞ¹ú¸»Ô£µÄ·ÇÖŞ¹ú¼
 ¡¤ÊÀ½çÉÏ×î¸»ÓĞµÄ10´ó³ÇÊĞ
 ÎäººÖĞ¹ú×î¾ßÇ±Á
-¡¤Ê®¶şĞÇ×ùÂò·¿:¸÷×Ô²»Í¬µÄĞÔ¸ñ¾ö¶¨Âò·
-ÆÀÂÛ
+¡¤Ê®¶şĞÇ×ùÂò·¿:¸÷×Ô²»Í¬µÄĞÔ¸ñ¾ö¶¨Âò·ÆÀÂÛ
 ¡¤ÈÃÄã¿´ÁËÄ¿µÉ¿Ú´ô
-¹úÄÚ×îºÀ»ªµÄÖĞÑ§(×éÍ¼
+¹úÄÚ×îºÀ»ªµÄÖĞÑ§(×éÍ¼ 
 ¡¤ĞÂÄê½«ÖÁ
 ¸ø¼ÒÒ»¸öÖĞ¹ú±íÇé£¨×éÍ¼£©
 ¡¤°×ÁìÂò·¿¹ÊÊÂ£ºÎ´»éÄĞÅ®´í°ÑÂò·¿µ±×÷ÒµÓà
@@ -5534,8 +3663,7 @@ WIND¡·
 ¡¤ÓÃ´´ÒâÑÛ¹â×°°çÍêÃÀ¿Õ¼ä£¨×éÍ¼£©
 ¡¤´¾ÆÓ×ÔÈ»µÄ¶«·½¼Ò¾Ó£¨×éÍ¼£©
 ĞÂÅÌ¶¯Ì¬
-¡¤³¤·¿¶«¿¤2ÆÚ¿ªÅÌÑ¡·¿ÏÖ³¡Òì³£¡°»ğ±©¡±(×éÍ¼
-27ÈÕ
+¡¤³¤·¿¶«¿¤2ÆÚ¿ªÅÌÑ¡·¿ÏÖ³¡Òì³£¡°»ğ±©¡±(×éÍ¼ 27ÈÕ
 ¡¤ÖĞĞÅĞÂ³ÇÓê»¨Í¤ÓªÏúÖĞĞÄÊ¢´ó¿ªÄ»(Í¼)
 26ÈÕ
 ¡¤Ğñ»Ô¼¯ÍÅ¡°2+X¡±Õ½ÂÔËø¶¨³¤É³
@@ -5745,8 +3873,7 @@ WIND¡·
 ³¤É³¾É³Ç¸ÄÔì´´ĞÂÄ£Ê½
 24ÈÕ
 ¡¤¡°Ïã¸ÛÄ£Ê½+ÖêÖŞÖÆÔì
-³¤ÖêÌ¶Çá¹ìÁ½ÄêÍ¨£¡¡±(Í
-24ÈÕ
+³¤ÖêÌ¶Çá¹ìÁ½ÄêÍ¨£¡¡±(Í 24ÈÕ
 ¡¤³¤É³×î´óÅï»§Çø±äÉí×îÂÌĞÂ³Ç
 ½«½¨200Ã×³ÇÄÏµØ
 23ÈÕ
@@ -5778,7 +3905,7 @@ WIND¡·
 ¡¤¹ã¸æ½çÃÀÅ®JanetµÄË½ÈË±ğÊû
 ³äÂú°®ÓëĞÒ¸£
 ¡¤ÃÀÅ®Éè¼ÆÊ¦´òÔì¶À¶°±ğÊû
-ÓÅÑÅ´¿ÕıÃñ×å·ç(
+ÓÅÑÅ´¿ÕıÃñ×å·ç( 
 [
 ±ğÊû¾«Ó¢È¦
 ]
@@ -5889,8 +4016,7 @@ WIND¡·
 ´´Òâ´ºÌì°ãÎÂÜ°ÊæÊÊ¼Ò¾Ó(×éÍ¼)
 10ÈÕ
 ¡¤»ğºìÀËÂşĞÂÄê
-´¦´¦³äÂúÁËÀËÂşÓëÎÂÜ°µÄĞÂ·¿(Í¼
-10ÈÕ
+´¦´¦³äÂúÁËÀËÂşÓëÎÂÜ°µÄĞÂ·¿(Í¼  10ÈÕ
 ¡¤¹ıÄê¼äÏ¶×°ĞŞ¾­ÑéÌ¸
 2ÍòÔª×°³öÀËÂşĞÂ·¿£¨Í¼£©
 10ÈÕ
@@ -6267,21 +4393,11 @@ TOP100
 ¹ö¶¯ĞÂÎÅ:
 -->
 ³¤É³Â¥ÊĞ2008Äê2ÔÂ¿ªÅÌÂ¥ÅÌ»ã×Ü
-[2008ÖĞ¹úµØ²ú(³¤É³)Áù·½»áÌ¸
-ÏÖ³¡»¨Ğõ
-Ã½Ìå±¨µÀ]
-[Æ¬ÇøÂ¥ÅÌ£ºĞÂÄÏ³Ç
-ÖĞĞÄ
-¶«³Ç
-±±³Ç
-ĞÇÉ³
-ºÓÎ÷
-Â´ÄÏ]
+[2008ÖĞ¹úµØ²ú(³¤É³)Áù·½»áÌ¸ ÏÖ³¡»¨Ğõ Ã½Ìå±¨µÀ]
+[Æ¬ÇøÂ¥ÅÌ£ºĞÂÄÏ³Ç ÖĞĞÄ ¶«³Ç ±±³Ç ĞÇÉ³ ºÓÎ÷ Â´ÄÏ]
 Ñ©ÔÖºóµÄ³¤É³·¿¼Û²»¸ÒÕÇ
-[40ËêÇ°²»Âò·¿µÄÎå¸öÏÈ¾öÌõ¼ş
-ÍõÊ¯40ËêÇ°²»Âò·¿µÄË¼¿¼]
-[Ë­¸Ã¼à¹ÜµØ²úÖĞ½éĞĞÒµºÚ¶´
-·¿ÊĞ¼Û¸ñ½«È«ÃæµØÀíĞÔ»Ø¹é]
+[40ËêÇ°²»Âò·¿µÄÎå¸öÏÈ¾öÌõ¼ş ÍõÊ¯40ËêÇ°²»Âò·¿µÄË¼¿¼]
+[Ë­¸Ã¼à¹ÜµØ²úÖĞ½éĞĞÒµºÚ¶´ ·¿ÊĞ¼Û¸ñ½«È«ÃæµØÀíĞÔ»Ø¹é]
 ±¾
 µØ
 È«
@@ -9092,9 +7208,7 @@ ChinaRen
 ×£¸£´ó¼ÒĞÂÄê¿ìÀÖ
 2008Äê02ÔÂ06ÈÕ12:56
 [ÎÒÀ´ËµÁ½¾ä]
-[×ÖºÅ£º´ó
-ÖĞ
-Ğ¡]
+[×ÖºÅ£º´ó ÖĞ Ğ¡]
 À´Ô´£ºËÑºüÌåÓı²©¿Í
 Ïà¹ØĞÂÎÅ
 08-01-31
@@ -9558,114 +7672,79 @@ CCTV-5
 ÖĞµÄstyle="DISPLAY:
 noneÉ¾³ı-->
 ¡¤³ÂÌÎ¾Ü²»¹é¶Ó½ğµÂ½«¿ª·£µ¥
-´¦·£²»Ó°Ïì¹ú½ÅÉí·İ(02/11
-22:13)
+´¦·£²»Ó°Ïì¹ú½ÅÉí·İ(02/11 22:13)
 ¡¤Â³ÄÜÒı½øĞÂÍâÔ®³Éµ±ÎñÖ®¼±
-Î»ÖÃËø¶¨Ç°·æÖĞºóÎÀ(02/11
-20:20)
+Î»ÖÃËø¶¨Ç°·æÖĞºóÎÀ(02/11 20:20)
 ¡¤ÏÃÃÅ³å³¬¹¦³¼ÊÔÑµ½ğµÂ
-É£ÄáÓû´òÔì·æÏß¸ß¿ì×éºÏ(02/11
-16:44)
+É£ÄáÓû´òÔì·æÏß¸ß¿ì×éºÏ(02/11 16:44)
 ¡¤ÏëÌßÇòÕÅÓñÄşÒª¹ıYOYO
-×îºóÁ½»ú»áµÈ´ıÓñÀÉ³å¹Ø(02/11
-12:11)
+×îºóÁ½»ú»áµÈ´ıÓñÀÉ³å¹Ø(02/11 12:11)
 ¡¤º«ÑàÃùÌå²âÇáËÉ¹ı¹Ø
-Ìì½ò¶Ó½«ÔÚ15ÈÕ¸°º«¹ú±¸Õ½(02/11
-09:06)
+Ìì½ò¶Ó½«ÔÚ15ÈÕ¸°º«¹ú±¸Õ½(02/11 09:06)
 ¡¤ÔøÒò¶¥×²²ÃÅĞ±»·£³ö³¡
-ÍõÎÄ»ª²¹²âÖÕÓÚ»ñÉÏ¸ÚÖ¤(02/11
-08:48)
+ÍõÎÄ»ª²¹²âÖÕÓÚ»ñÉÏ¸ÚÖ¤(02/11 08:48)
 ¡¤YOYO²¹²â²»¼ûÕÅÓñÄş
-"ÓñÃæÉ±ÊÖ"¸´³öÄÑ±Ü¹íÃÅ¹Ø(02/10
-15:14)
+"ÓñÃæÉ±ÊÖ"¸´³öÄÑ±Ü¹íÃÅ¹Ø(02/10 15:14)
 ¡¤º«ÑàÃù²¹²âYOYOĞÅĞÄ°Ù±¶
-Ï£Íûµ±ÈÕ¹é¶Ó´ø»ØÏ²Ñ¶(02/10
-12:00)
+Ï£Íûµ±ÈÕ¹é¶Ó´ø»ØÏ²Ñ¶(02/10 12:00)
 ¡¤Ìì½ò¶Ó¼¯½áÈÈÁ·Ôç´º
-½Æ»«ÑÅË§¾Ü¾øÍ¸Â¶ÍâÔ®½øÕ¹(02/10
-10:13)
+½Æ»«ÑÅË§¾Ü¾øÍ¸Â¶ÍâÔ®½øÕ¹(02/10 10:13)
 ¡¤ÑÇÌ©ÒıÔ®»Ø¹Ë£ºÄÚÔ®ÎñÊµ¸ßĞ§
-ÍâÔ®ÁôÓÃ¶á¹Ú¹¦³¼(02/09
-18:51)
+ÍâÔ®ÁôÓÃ¶á¹Ú¹¦³¼(02/09 18:51)
 ¡¤Íõçæ£ºÄ¿Ç°ÓĞÒ»µã×îÖØÒª
-²»»áÈÃÆÚ´ıÎÒµÄÈËÊ§Íû(02/09
-15:12)
+²»»áÈÃÆÚ´ıÎÒµÄÈËÊ§Íû(02/09 15:12)
 ¡¤Ì©´ï½«¸°º«¹úÀ­Á·
-ÑİÁ·ÊµÕ½ÄÜÁ¦ÇÃ¶¨ÄÚÍâÔ®ÈËÑ¡(02/09
-11:04)
+ÑİÁ·ÊµÕ½ÄÜÁ¦ÇÃ¶¨ÄÚÍâÔ®ÈËÑ¡(02/09 11:04)
 ¸ü¶à>>
 >
 ¡¤Àîçâ·åĞøÔ¼Éê»¨¹ı³ÌÍæÎ¶
-½âÎö´óÍ·×ª»á·ç²¨Ê¼Ä©(01/08
-23:08)
+½âÎö´óÍ·×ª»á·ç²¨Ê¼Ä©(01/08 23:08)
 ¡¤ÍâÔ®ºìÈË´óÄÖ×ª»áÊĞ³¡
-Â¡ÄáµÌÑÇ¸çÑİÀëÆæÀ­¾âÕ½(01/04
-11:16)
+Â¡ÄáµÌÑÇ¸çÑİÀëÆæÀ­¾âÕ½(01/04 11:16)
 ¡¤´óÓğµÇáÛ·åÖ£ÖÇ³É¾Í°ÔÒµ
-½âÎöÖĞ³¬×ª»áÍêÃÀ°¸Àı(01/04
-10:50)
+½âÎöÖĞ³¬×ª»áÍêÃÀ°¸Àı(01/04 10:50)
 ¡¤ÊÓÆµ£ºÖĞ³¬Äê¶È¸ãĞ¦½âËµ
-½¹Ê½ÒÕÊõPKÉÂÎ÷¶şÈË×é(12/25
-15:29)
+½¹Ê½ÒÕÊõPKÉÂÎ÷¶şÈË×é(12/25 15:29)
 ¡¤ÊÓÆµ£º07ÖĞ³¬´ó½±³öÂ¯
-¶ÅÕğÓî»ñ½ğÇòÉÙË§Õ¶×î¼Ñ(11/18
-15:28)
+¶ÅÕğÓî»ñ½ğÇòÉÙË§Õ¶×î¼Ñ(11/18 15:28)
 ¡¤ÊÓÆµ£ºÌÕÎ°ÉÁµçÇòÂ³ÄáÑİÃ±×Ó
-ÖĞ³¬Ã÷ĞÇÑİ½øÇòÕ½(11/17
-18:19)
+ÖĞ³¬Ã÷ĞÇÑİ½øÇòÕ½(11/17 18:19)
 ¡¤ÊÓÆµ£ºÖĞ³¬ÄÏ±±Ã÷ĞÇÈü
-ÕØ¿¡ÕÜÔ¶ÉäÊÀ½ç²¨Æ½±È·Ö(11/17
-17:13)
+ÕØ¿¡ÕÜÔ¶ÉäÊÀ½ç²¨Æ½±È·Ö(11/17 17:13)
 ¡¤ÊÓÆµ£ºÖĞ³¬ÄÏ±±Ã÷ĞÇÈü
-Â³ÄáºµµØ°Î´ĞÍ·é³ÈëËÀ½Ç(11/17
-17:08)
+Â³ÄáºµµØ°Î´ĞÍ·é³ÈëËÀ½Ç(11/17 17:08)
 ¡¤ÊÓÆµ£ºÖĞ³¬ÄÏ±±Ã÷ĞÇÈü
-ÌÕÎ°¼Ù´«ÕæÉäÃÀÃî»¡ÏßÇò(11/17
-17:05)
+ÌÕÎ°¼Ù´«ÕæÉäÃÀÃî»¡ÏßÇò(11/17 17:05)
 ¡¤ÊÓÆµ£ºÖĞ³¬ÄÏ±±Ã÷ĞÇÈü
-°£¶ûÎ¬Ë¹¾ªÌì»¡Ïß¹ÒËÀ½Ç(11/17
-16:49)
+°£¶ûÎ¬Ë¹¾ªÌì»¡Ïß¹ÒËÀ½Ç(11/17 16:49)
 ¡¤ÊÓÆµ£ºÖĞ³¬ÄÏ±±Ã÷ĞÇÈü
-Â½·æÇÉÂ©ÇòÑîÁÖÒ»õí¶ø¾Í(11/17
-16:41)
+Â½·æÇÉÂ©ÇòÑîÁÖÒ»õí¶ø¾Í(11/17 16:41)
 ¸ü¶à>>
 >
 ¡¤ÑîĞñBLOG£º¼ÙÆÚ½áÊøÍ¶ÈëÑµÁ·
-ÉúÈÕÖ»ÄÜÂ·ÉÏ¶È¹ı(02/12
-18:21)
+ÉúÈÕÖ»ÄÜÂ·ÉÏ¶È¹ı(02/12 18:21)
 ¡¤Áõ½¡BLOG£ºÏò´ó¼ÒµÀÇ¸
-ÎüÈ¡¾­ÑéÈÃ×Ô¼º±äµÃ¸üÇ¿(02/11
-08:56)
+ÎüÈ¡¾­ÑéÈÃ×Ô¼º±äµÃ¸üÇ¿(02/11 08:56)
 ¡¤Íõ¶û×¿BLOG£ºYOYOÖÕÓÚÍ¨¹ıÁË
-¸ĞĞ»Óà°Ø¾ùµÄ¼ÒÈË(02/11
-08:50)
+¸ĞĞ»Óà°Ø¾ùµÄ¼ÒÈË(02/11 08:50)
 ¡¤ÑîÉÆÆ½BLOG£º¼ÙÆÚ½áÊø¸ÃºÃºÃ¹¤×÷ÁË
-³ÔµÄÓĞµãÅÖ(02/10
-13:48)
+³ÔµÄÓĞµãÅÖ(02/10 13:48)
 ¡¤ÕÅğØBLOG£ºÀ«±ğºÜ¾ÃÎÒÖØ³ö½­ºş
-ÏÈ¸ø´ó¼Ò°İ¸öÄê(02/10
-13:44)
+ÏÈ¸ø´ó¼Ò°İ¸öÄê(02/10 13:44)
 ¡¤Íõ¶û×¿BLOG£º´óÄê³õÈı³ö·¢²âYOYO
-²®²®ÓÃĞÄÁ¼¿à(02/10
-13:39)
+²®²®ÓÃĞÄÁ¼¿à(02/10 13:39)
 ¡¤ÍõÊ¥BLOG£º88ÍòÏì±ŞÅÚ·ÅµÃºÜ¹ıñ«
-×£¸£¿É°®¾üÈË(02/09
-12:52)
+×£¸£¿É°®¾üÈË(02/09 12:52)
 ¡¤Áõ³ÉBLOG£º¹§Ï²·¢²Æºì°üÄÃÀ´
-2008³É×ãºÃÔË(Í¼)(02/07
-11:24)
+2008³É×ãºÃÔË(Í¼)(02/07 11:24)
 ¡¤¶¡½İBLOG£º¸ø´ó¼Ò°İ¸öĞ¡ÍíÄê
-×£´ó¼ÒÍòÊÂ¶¼Ë³Àû(02/07
-11:22)
+×£´ó¼ÒÍòÊÂ¶¼Ë³Àû(02/07 11:22)
 ¡¤·û±öBLOG£º10ÄêÇ°²îµã²Î¼Ó´ºÍí
-ÕäÏ§ºÍ¼ÒÈËÍÅ¾Û(02/07
-10:10)
+ÕäÏ§ºÍ¼ÒÈËÍÅ¾Û(02/07 10:10)
 ¡¤ÑîÉÆÆ½BLOG£º¸ø´ó¼Ò°İÄêÀ²
-ÔÚ¶ÓÀï¹ıÄêºÜÓĞÒâË¼(02/06
-15:28)
+ÔÚ¶ÓÀï¹ıÄêºÜÓĞÒâË¼(02/06 15:28)
 ¡¤ÕÅÒ«À¤BLOG£ºÎªÖĞ¹ú×ãÇòÇ¿´ó¶øÅ¬Á¦
-×£ĞÂÄê¿ìÀÖ(02/06
-14:40)
+×£ĞÂÄê¿ìÀÖ(02/06 14:40)
 ¸ü¶à>>
 >
 ¹Ù·½Í¨Öª
@@ -9833,29 +7912,21 @@ noneÉ¾³ı-->
 ¸ßºé²¨×î¼Ñ½ÌÍ·
 ±±¾©Ê±¼ä11ÔÂ17ÈÕ£¬07Èü¼¾ÖĞ³¬ÁªÈüÂäÏÂá¡Ä»¡£ÔÚÃ÷ĞÇÈüÖ®ºóÖĞ¹ú×ãĞ­Îª±¾Èü¼¾¸÷Î»»ñ½±µÄÇòÔ±½øĞĞÁË°ä½±...
 ¡¤Í¼ÎÄ£ºÌ©´ïÈÈÉíÊ¤ÎµÉ½ÏÖ´ú
-Ã«±ë´øÇòÍ»ÆÆ(02/01
-17:00)
+Ã«±ë´øÇòÍ»ÆÆ(02/01 17:00)
 ¡¤Í¼ÎÄ£ºÌ©´ïÈÈÉíÊ¤ÎµÉ½ÏÖ´ú
-°×ÒãÖú¹¥Ï¬Àû(02/01
-17:00)
+°×ÒãÖú¹¥Ï¬Àû(02/01 17:00)
 ¡¤Í¼ÎÄ£ºÌ©´ïÈÈÉíÊ¤ÎµÉ½ÏÖ´ú
-Ôú¹ş×óÍ»ÓÒ´ø(02/01
-17:00)
+Ôú¹ş×óÍ»ÓÒ´ø(02/01 17:00)
 ¡¤Í¼ÎÄ£ºÉ£ÌØÀ­Ææ×ö¿ÍËÑºü
-08ĞØÓĞ³ÉÖñ(01/14
-11:07)
+08ĞØÓĞ³ÉÖñ(01/14 11:07)
 ¡¤×éÍ¼£ºÎâê»º«ÅôÏÖÉíÂ³ÄÜÑµÁ·³¡
-ÌúÎÀÊ¨×ÓÍõ·¢ĞÍ(01/03
-19:25)
+ÌúÎÀÊ¨×ÓÍõ·¢ĞÍ(01/03 19:25)
 ¡¤Í¼ÎÄ£º×ãĞ­ÕÙ¿ªÖĞ³¬×ª»á·¢²¼»á
-ÖìºÍÔª½â´ğÒÉ»ó(01/03
-18:17)
+ÖìºÍÔª½â´ğÒÉ»ó(01/03 18:17)
 ¡¤Í¼ÎÄ£ºÀîÌú¹óÖİĞĞ×ß½øĞ¡Ñ§Éú»ùµØ
-Ñ§ÉúÆÚ´ıÇòĞÇ(12/30
-11:27)
+Ñ§ÉúÆÚ´ıÇòĞÇ(12/30 11:27)
 ¡¤Í¼ÎÄ:À­µÂ¿ÆÊµµÂÊ×Ñµ
-ÊÖÎè×ãµ¸(12/29
-18:20)
+ÊÖÎè×ãµ¸(12/29 18:20)
 ¼ÑÄÜÉãÓ°´óÈü
 µÚ20ÂÖ»ñ½±×÷Æ·
 µÚ21ÂÖ»ñ½±×÷Æ·
@@ -10078,11 +8149,11 @@ MP-XÃÉÅÉ¿Ë¼¼Êõ²ÎÊı
 Æ½¶¥
 (BJ6476B1DDA-S1)
 Æ½¶¥
-(
+( 
 BJ6476B1DXA-S1
 )
 Æ½¶¥
-(
+( 
 BJ6476B1DVA-S1
 )
 Õû³µÍâ²¿³ß´ç£¨³¤¡Á¿í¡Á¸ß£¬mm£©
@@ -10349,11 +8420,11 @@ MP-XÃÉÅÉ¿Ë¼¼Êõ²ÎÊı
 Æ½¶¥
 (BJ6476B1DDA-S1)
 Æ½¶¥
-(
+( 
 BJ6476B1DXA-S1
 )
 Æ½¶¥
-(
+( 
 BJ6476B1DVA-S1
 )
 Õû³µÍâ²¿³ß´ç£¨³¤¡Á¿í¡Á¸ß£¬mm£©
@@ -11091,8 +9162,7 @@ loading...
 ---ºÏ×÷»ï°é---
 ChinaRenÊ×Ò³-×¢²áĞÂÓÃ»§-ÁªÏµĞ£ÓÑÂ¼-°ïÖúĞÅÏ¢-ĞÂÊÖÉÏÂ·-ÉçÇøµØÍ¼
 Copyright&copy;2008Sohu.comInc.Allrightsreserved.ËÑºü¹«Ë¾°æÈ¨ËùÓĞ
-³¤É³Íí±¨µç×Ó°æ[µ³µÄÈ¨Íş
-ÈËÃñµÄÍí±¨]
+³¤É³Íí±¨µç×Ó°æ[µ³µÄÈ¨Íş ÈËÃñµÄÍí±¨]
 </frameset>
 </frameset>
 ĞÇ³½ÔÙÏß
@@ -12091,9 +10161,7 @@ DOD²»ËÀÑªÕ½¹«»á²ÔÌì
 [01-25]
 ¡¤Á¦Ê¿2ºÅÎäÆ÷Ê¹ÓÃ·½·¨Óë¼ÓµãÌ½Ë÷
 [01-25]
-¡¤Á¦Ê¿Ğ¡Ğ¡ĞÄµÃ£¨Á¦Ê¿ºÜÇ¿
-¿ÉÏ§¾ÍÊÇ
-[01-23]
+¡¤Á¦Ê¿Ğ¡Ğ¡ĞÄµÃ£¨Á¦Ê¿ºÜÇ¿ ¿ÉÏ§¾ÍÊÇ [01-23]
 [ÈËÎï½éÉÜ]ÉíĞÎ½Ã½¡£¬È«ÉíÇá¼×¡£¿¡ÇÎÁ³ĞÍ£¬ÂÔÏÔ¹ó×å·ç·¶¡£ĞÔ¸ñ£º¿ªÀÊ£¬ÀÖ¹Û...
 [ÏêÏ¸ÄÚÈİ]
 ¡¤10¼¶½£¿Í²ÔÌìÌåÑé
@@ -12455,8 +10523,7 @@ Warcraft
 ×÷Õß£ºÈÕÔÂ¶şÈË
 »Ø¸´/²é¿´:
 11/?
-Ä§ÊŞÊÀ½çMV¡¶entenal
-legend¡·
+Ä§ÊŞÊÀ½çMV¡¶entenal legend¡·
 ×÷Õß£ºÈÕÔÂ¶şÈË
 »Ø¸´/²é¿´:
 0/?
@@ -13140,9 +11207,7 @@ S¼¶Èü³µ
 ì®³µÖ®³µÁ¾³õ¼¶½éÉÜ
 Ò»Ğ©Æû³µÊı¾İ×ÊÁÏ
 ½â¶Á¡¶ì®³µ¡·Êµ¾°Ö®ÃÕ
-[
-ÂÛÌ³µÇÂ½°ïÖú
-]
+[ ÂÛÌ³µÇÂ½°ïÖú ]
 [½øÈëÂÛÌ³]
 [ĞÂÓÃ»§×¢²á]
 ¹¤»áÅÅÃû
@@ -13236,25 +11301,7 @@ ICP¾­ÓªĞí¿ÉÖ¤£º¾©ICPÖ¤030713ºÅ
 ¼Ñ×÷ĞÀÉÍ
 ÁôÑÔ
 Ğ¡ºÉ×÷ÎÄÍø
-<FIELDSET
-style="BORDER-RIGHT:
-#6666cc
-1px
-solid;
-BORDER-TOP:
-#6666cc
-1px
-solid;
-BORDER-LEFT:
-#6666cc
-1px
-solid;
-BORDER-BOTTOM:
-#6666cc
-1px
-solid"
-align=left
-width="100%"><LEGEND>
+<FIELDSET style="BORDER-RIGHT: #6666cc 1px solid; BORDER-TOP: #6666cc 1px solid; BORDER-LEFT: #6666cc 1px solid; BORDER-BOTTOM: #6666cc 1px solid" align=left width="100%"><LEGEND>
 ±¾Õ¾¹«¸æ
 </LEGEND>
 µÚÁù½ì³şÌì±­×÷ÎÄ¾ºÈü
@@ -16235,8 +14282,7 @@ E6600
 Duo(¿áî£2)\Ö÷Æµ£¨GHz£©:2.40\64Î»¼¼Êõ:EM64T\ÍâÆµ:266MHz\¶ş¼¶»º´æÈİÁ¿:¹²Ïí4MB
 ÄÚ´æ
 ºÚ½ğ¸Õ
-1GB£¨PC2-6400/DDR2
-800£©
+1GB£¨PC2-6400/DDR2 800£©
 2
 £¤1550
 ÊÊÓÃÀàĞÍ:Ì¨Ê½»ú\´«ÊäÀàĞÍ:DDRII\ÈİÁ¿:1GB\´«Êä±ê×¼:DDR2
@@ -16321,8 +14367,7 @@ E6600
 2.40G//0217//2700//1//ÏµÁĞĞÍºÅ:Core
 2
 Duo(¿áî£2)\Ö÷Æµ£¨GHz£©:2.40\64Î»¼¼Êõ:EM64T\ÍâÆµ:266MHz\¶ş¼¶»º´æÈİÁ¿:¹²Ïí4MB|@|ÄÚ´æ//132866//ºÚ½ğ¸Õ
-1GB£¨PC2-6400/DDR2
-800£©//0205//775//2//ÊÊÓÃÀàĞÍ:Ì¨Ê½»ú\´«ÊäÀàĞÍ:DDRII\ÈİÁ¿:1GB\´«Êä±ê×¼:DDR2
+1GB£¨PC2-6400/DDR2 800£©//0205//775//2//ÊÊÓÃÀàĞÍ:Ì¨Ê½»ú\´«ÊäÀàĞÍ:DDRII\ÈİÁ¿:1GB\´«Êä±ê×¼:DDR2
 800|@|Ó²ÅÌ//124769//Ï£½İ
 320G/¿áÓã7200.10/SATAII/16M/ºĞ//0218//800//1//ÊÊÓÃÀàĞÍ:Ì¨Ê½»ú\½Ó¿ÚÀàĞÍ:SATAII\ÈİÁ¿£¨GB£©:320\»º´æ:16MB\×ªÊı£¨rpm£©:7200×ª|@|Ö÷°å//142584//»ªË¶
 P5B-E
@@ -16505,9 +14550,7 @@ DIYÔÜ»úÉçÇø¡ª¡ª¼ÍÄî¿ÆÁÖ£¡¸ß¶ËÍæË¬³¾°£Èü³µÓÎÏ·ÅäÖÃ£¨9ÔÂµÚ4ÖÜ£©
 4¡¢
 ±à¼­¹ıÂË
 ±à¼­ÔÚÕû¸öÆÀ½±¹ı³ÌÖĞ²»²ÎÓèÅäÖÃµÄ¾ßÌåÆÀ½±£¬Ö»ÊÇ¶ÔÒ»Ğ©²»ºÏÀíµÄÅäÖÃ½øĞĞ¹ıÂË£¬È¥³ı²»·ûºÏ²ÎÈü±ê×¼»òÓĞÑÏÖØ´îÅä´íÎóµÄÔÜ»úÅäÖÃ¡£
-×¢£ºÒ»¡¢¶ş¡¢ÈıµÈ½±µÃ½±ÕßÇëÓëIT168±à¼­²¿ÁªÏµ£¨IT168
-DIYÉÕÓÑ»á
-äìÏæ½££©£¬Ìá¹©ÁªÏµ·½Ê½¡¢Éí·İÖ¤µÈ¿ÉÈ·ÈÏ±¾ÈËÉí·İµÄÏà¹ØĞÅÏ¢£¬²¢¸½ÉÏÕıÃæ´óÍ·ÕÕÆ¬Ò»ÕÅ¡£´ËÍâ£¬µÃ½±µÄÍøÓÑ½«Òª²Î¼ÓÔÜ»úIT168µãÆÀÍøÓÑÔÜ»ú»î¶¯£¬ÈÃÍøÓÑÖ®¼äµÄÁªÏµ»¥¶¯¸ü¼Ó½ôÃÜ£¡
+×¢£ºÒ»¡¢¶ş¡¢ÈıµÈ½±µÃ½±ÕßÇëÓëIT168±à¼­²¿ÁªÏµ£¨IT168 DIYÉÕÓÑ»á äìÏæ½££©£¬Ìá¹©ÁªÏµ·½Ê½¡¢Éí·İÖ¤µÈ¿ÉÈ·ÈÏ±¾ÈËÉí·İµÄÏà¹ØĞÅÏ¢£¬²¢¸½ÉÏÕıÃæ´óÍ·ÕÕÆ¬Ò»ÕÅ¡£´ËÍâ£¬µÃ½±µÄÍøÓÑ½«Òª²Î¼ÓÔÜ»úIT168µãÆÀÍøÓÑÔÜ»ú»î¶¯£¬ÈÃÍøÓÑÖ®¼äµÄÁªÏµ»¥¶¯¸ü¼Ó½ôÃÜ£¡
 ¹ØÓÚğ©³½
 |
 ¹ØÓÚIT168
@@ -17392,20 +15435,15 @@ TVBÖÆÔì³öµÄÌìÍõ¼¶ÄĞĞÇ
 ÊÓ¾õÔÄ¶ÁÀ¸Ä¿
 Ïà¹ØÁ´½Ó
 &#183;ÎäÏÀÆ¬ÖĞ±»ÔãÌ£µÄ°Ë´ó¾­µä½ÇÉ«
-(2006-12-13
-14:12:11)
+(2006-12-13 14:12:11)
 &#183;³¬¿Ö²À!ÊµÅÄÎü¶¾ÕßÉîÏİ¶¾Ä×µÄÉú»î
-(2006-12-13
-09:57:21)
+(2006-12-13 09:57:21)
 &#183;³¬Å®Â·ÉÏÓĞ¿àÒ²ÓĞÌğ£ºÖÚ³¬Å®¿ŞÏà´óÆØ¹â
-(2006-12-12
-10:38:28)
+(2006-12-12 10:38:28)
 &#183;´Ó³óĞ¡Ñ¼µ½°×Ìì¶ì£ºÁõÒà·ÆµÈµ±ºìÃ÷ĞÇ³É³¤ÕÕ
-(2006-12-11
-17:26:02)
+(2006-12-11 17:26:02)
 &#183;Ä¿µÉ¿Ú´ô£¡ÖĞÈÕÅ®ĞÇÏàËÆ´ó±ÈÆ´
-(2006-12-11
-16:30:32)
+(2006-12-11 16:30:32)
 ·ÖÀàĞÅÏ¢
 -->
 -->
@@ -17964,36 +16002,26 @@ TVBÖÆÔì³öµÄÌìÍõ¼¶ÄĞĞÇ
 Ïà¹ØÁ´½Ó
 &#183;1954Äê9ÔÂ29ÈÕ
 ºÕÂ³Ïş·òÂÊÍÅ²Î¼ÓÖĞ¹ú¹úÇì
-(2007-09-29
-08:44:49)
+(2007-09-29 08:44:49)
 &#183;1957Äê9ÔÂ29ÈÕ
 ĞÂÖĞ¹ú½¨³ÉµÚÒ»×ùÌìÎÄ¹İ
-(2007-09-29
-08:44:49)
+(2007-09-29 08:44:49)
 &#183;ÖĞ¹úÅ®ĞÔ×îÏëÒªµÄÄĞÈËµÄ¾«×Ó
-(2007-09-28
-09:33:24)
+(2007-09-28 09:33:24)
 &#183;×·²¶¡°¶şÍõ¡±ÃØÎÅ£ºĞÂÖĞ¹úÊ×´ÎĞüÉÍ
-(2007-09-28
-09:24:07)
+(2007-09-28 09:24:07)
 &#183;21ÊÀ¼ÍÖĞ¹ú×î¾ßÓéÀÖ¾«ÉñµÄÊıÊ®¸öË²¼ä
-(2007-09-27
-15:53:19)
+(2007-09-27 15:53:19)
 &#183;¡¶¾ÅÖİÖ¾¡·:ÁÑ±äÏÂµÄÖĞ¹ú»ÃÏëĞÂĞÍ¶ÁÎï
-(2007-09-27
-10:55:39)
+(2007-09-27 10:55:39)
 &#183;ºØÕÕÌï£ºµ±´úÖĞ¹ú¾«ÉñµÄÉî²ã¹¹Ôì
-(2007-09-27
-10:24:57)
+(2007-09-27 10:24:57)
 &#183;ÕÅÈÎÌì£ºÖĞ¹ú×îºóµÄĞã²Å¼°ÊıÑ§¼Ò¡¢¸ïÃüµ³¡¢±¨ÒµÀÏÈË
-(2007-09-26
-09:35:59)
+(2007-09-26 09:35:59)
 &#183;ÄÇĞ©¿¸×Å¡°ÎÄ»¯ÖĞ¹ú¡±´óÆìµÄÈËÃÇ
-(2007-09-24
-10:10:41)
+(2007-09-24 10:10:41)
 &#183;Âí¶¡&#183;Â·µÂ&#183;½ğ£¬½ûÖ¹¡°ÖĞ¹úÖÆÔì¡±?(Í¼)
-(2007-09-24
-09:34:23)
+(2007-09-24 09:34:23)
 ·ÖÀàĞÅÏ¢
 -->
 -->
@@ -18236,9 +16264,7 @@ Hansey¡¢ÇåºÍ¡¢ºÛºÛ¡¢°¢ÁÁÓë¹ù¾´Ã÷Ò»Æğ´´°ìÁË¡¶µº¡·¡£¡¶µº¡·ÊÇÒ»±¾ÒÔÊéºÅ³ö°æµÄÎÄÑ§¿¯
 ºÍÆäËûÇ©Ô¼×÷ÕßÒ»Ñù£¬ÂäÂäÔÚ5ÄêÊ±¼äÀï£¬Ëı´´×÷µÄËùÓĞ×÷Æ·£¬ÔÚÈÎºÎµØ·½·¢±í¡¢³ö°æ£¬±ØĞëÓÉ¹ù¾´Ã÷¶À¼Ò´úÀí¡£×÷Îª¡¶×îĞ¡Ëµ¡·ÎÄ×Ö×Ü¼àºÍÖ÷Á¦×÷Õß£¬ÂäÂäËµ×Ô¼ºÖ»ÄÃµ½ÁË¸å·Ñ£¬Á¬Ğø4¸öÔÂÃ»ÓĞÄÃµ½¹¤×Ê¡£Ëı×îºóÖ»ÄÜÑ¡ÔñºÍ¹ù¾´Ã÷½â³ıºÏÍ¬£¬Àë¿ª¡¶×îĞ¡Ëµ¡·¡£¡°ÎÒ²»ÖªµÀ¸ÃÈçºÎÍ¬ËûÏà´¦£¬¹¤×÷ÖĞ£¬ËûÊÇÀÏ°å£¬Éú»îÖĞ£¬ËûÓÖÒÔÅóÓÑµÄÉí·İ³öÏÖ¡£ËûºÍÎÒÃÇÔÚÒ»ÆğµÄÊ±ºò£¬ÊÇÌìÈ»µÄÖĞĞÄ£¬Ëû±Ï¾¹ÊÇ¸øÎÒÃÇ·¢¹¤×ÊµÄÀÏ°å¡£µ«²»¹ÜÊ²Ã´Ê±ºò£¬ÎÒÃÇ¶¼ÎŞ·¨ÏñÅóÓÑÄÇÑùÏà´¦£¬ÒòÎªÄã²»ÖªµÀÔõÃ´Ëû¾Í²»¸ßĞËÁË¡£¡±ÂäÂäºÍHanseyËµ¡£
 ËûÃÇµÄÀë¿ª¸ø¹ù¾´Ã÷Ôì³ÉÁË²»Ğ¡µÄ´ò»÷¡£Ï¸ĞÄµÄ¡°·ÛË¿¡±ÃÇ·¢ÏÖ£¬¹ù¾´Ã÷ĞÂÀËµÄ²©¿ÍºÃÒ»ÕóÃ»ÓĞ¸üĞÂÁË£¬Î©Ò»µÄÁ´½Ó´¦É¾µôÁËºÃÓÑ
 HanseyµÄÃû×Ö¡£¡°×÷Îª¹¤×÷»ï°é£¬ÎÒÀë¿ªÁË£¬µ«ÎÒÏ£Íû»¹ÄÜ×öÅóÓÑ¡£¡±Àë¿ª¹ù¾´Ã÷Ê±Hansey¶Ô¹ù¾´Ã÷Ëµ£¬¶ø¹ù¾´Ã÷¸øËûµÄ»Ø´ğÊÇ£º¡°Äã¶¼Àë¿ªÎÒÁË£¬»¹ÔõÃ´×öÅóÓÑ£¿¡±
-¹ù¾´Ã÷ÊÖÏÂ·×·×¡°ÅÑÌÓ¡±£¬ÊÇÁíÁ¢É½Í·Ç°µÄ³´×÷£¬»¹ÊÇÈ·Êµ¡°Ñ¹Á¦Ì«´óÁË¡±£¬ÒÖ»òÁ½Õß¼æ¶øÓĞÖ®£¿Ò»ÇĞ»¹ÓĞ´ı¹Û²ì¡£µ«ÓĞÒ»µãÊÇÈ·ÔäÎŞÒÉµÄ£¬ÄÇ¾ÍÊÇÄêÇáÒ»´ú³á°òÓ²ÁË¡££¨×÷Õß:¼ÇÕß
-ÕÅ
-Ó¢·¢×ÔÉÏº££©
+¹ù¾´Ã÷ÊÖÏÂ·×·×¡°ÅÑÌÓ¡±£¬ÊÇÁíÁ¢É½Í·Ç°µÄ³´×÷£¬»¹ÊÇÈ·Êµ¡°Ñ¹Á¦Ì«´óÁË¡±£¬ÒÖ»òÁ½Õß¼æ¶øÓĞÖ®£¿Ò»ÇĞ»¹ÓĞ´ı¹Û²ì¡£µ«ÓĞÒ»µãÊÇÈ·ÔäÎŞÒÉµÄ£¬ÄÇ¾ÍÊÇÄêÇáÒ»´ú³á°òÓ²ÁË¡££¨×÷Õß:¼ÇÕß ÕÅ Ó¢·¢×ÔÉÏº££©
 È«ÇòÊ®´ó¹ÖÒìÌìÆø
 ¾©³ÇÀÏÃñË×ÈÃÄã¿ªÑÛ½ç
 Ê®¶şĞÇ×ùÏ£À°Éñ»°ÆğÔ´
@@ -18279,35 +16305,25 @@ TVBÖÆÔì³öµÄÌìÍõ¼¶ÄĞĞÇ
 Ïà¹ØÁ´½Ó
 &#183;¹ù¾´Ã÷Èë×÷Ğ­
 Â½ÌìÃ÷³Æ×÷Ğ­²»ÊÇĞ¡ÍµÌìÏÂ
-(2007-09-26
-09:32:03)
+(2007-09-26 09:32:03)
 &#183;ĞßÓÚÓëÀîÓî´º¹ù¾´Ã÷ÎªÎéËÎ×æµÂÒªÍË³ö×÷Ğ­
-(2007-09-13
-09:23:46)
+(2007-09-13 09:23:46)
 &#183;¹ù¾´Ã÷µÈÍ¨¹ıÉó²é80ºó¼ÓÈëÖĞ¹ú×÷Ğ­»ù±¾OK
-(2007-08-30
-10:02:04)
+(2007-08-30 10:02:04)
 &#183;×÷¼Ò¹ù¾´Ã÷ÕÅÔÃÈ»ÉêÇë¼ÓÈëÖĞ¹ú×÷Ğ­
-(2007-07-19
-10:06:18)
+(2007-07-19 10:06:18)
 &#183;ÕÅÒÃÎä½ÌÊÚÔŞ¹ù¾´Ã÷µÄĞ¡Ëµ¡°ÊÇÊ±´úµÄ¼ûÖ¤¡±
-(2007-07-16
-10:42:07)
+(2007-07-16 10:42:07)
 &#183;¹ù¾´Ã÷»ØÓ¦ÉÏº£×÷Ğ­£ºÎŞÒâ³ÉÎª»¦Ç©Ô¼×÷¼Ò
-(2007-06-21
-11:09:29)
+(2007-06-21 11:09:29)
 &#183;¹ù¾´Ã÷³¬ÓÚµ¤¡¶±¯ÉËÄæÁ÷³ÉºÓ¡·Ê®ÌìÍ»ÆÆ°ÙÍò
-(2007-05-11
-09:48:39)
+(2007-05-11 09:48:39)
 &#183;¹ù¾´Ã÷³¬ÓÚµ¤¡¶±¯ÉËÄæÁ÷³ÉºÓ¡·Ê®ÌìÍ»ÆÆ°ÙÍò
-(2007-05-11
-09:48:39)
+(2007-05-11 09:48:39)
 &#183;¹ù¾´Ã÷¸ßµ÷Ğû³Æ£ºÎÒÊÇ80ºó×÷¼ÒµÚÒ»ÈË
-(2007-05-22
-11:08:51)
+(2007-05-22 11:08:51)
 &#183;¹ù¾´Ã÷³¬ÓÚµ¤¡¶±¯ÉËÄæÁ÷³ÉºÓ¡·Ê®ÌìÍ»ÆÆ°ÙÍò
-(2007-05-11
-09:48:39)
+(2007-05-11 09:48:39)
 ·ÖÀàĞÅÏ¢
 -->
 -->
@@ -18581,37 +16597,27 @@ TVBÖÆÔì³öµÄÌìÍõ¼¶ÄĞĞÇ
 ¸ü¶à¹ØÓÚ¡°ÖĞ¹ú¡±µÄĞÂÎÅ
 Ïà¹ØÁ´½Ó
 &#183;ºÂÃÎÁä£ºÖĞ¹ú¿¹Õ½Ñ³¹úµÄµÚÒ»Î»¾ü³¤
-(2007-09-29
-09:05:39)
+(2007-09-29 09:05:39)
 &#183;1954Äê9ÔÂ29ÈÕ
 ºÕÂ³Ïş·òÂÊÍÅ²Î¼ÓÖĞ¹ú¹úÇì
-(2007-09-29
-08:44:49)
+(2007-09-29 08:44:49)
 &#183;1957Äê9ÔÂ29ÈÕ
 ĞÂÖĞ¹ú½¨³ÉµÚÒ»×ùÌìÎÄ¹İ
-(2007-09-29
-08:44:49)
+(2007-09-29 08:44:49)
 &#183;ÖĞ¹úÅ®ĞÔ×îÏëÒªµÄÄĞÈËµÄ¾«×Ó
-(2007-09-28
-09:33:24)
+(2007-09-28 09:33:24)
 &#183;×·²¶¡°¶şÍõ¡±ÃØÎÅ£ºĞÂÖĞ¹úÊ×´ÎĞüÉÍ
-(2007-09-28
-09:24:07)
+(2007-09-28 09:24:07)
 &#183;21ÊÀ¼ÍÖĞ¹ú×î¾ßÓéÀÖ¾«ÉñµÄÊıÊ®¸öË²¼ä
-(2007-09-27
-15:53:19)
+(2007-09-27 15:53:19)
 &#183;¡¶¾ÅÖİÖ¾¡·:ÁÑ±äÏÂµÄÖĞ¹ú»ÃÏëĞÂĞÍ¶ÁÎï
-(2007-09-27
-10:55:39)
+(2007-09-27 10:55:39)
 &#183;ºØÕÕÌï£ºµ±´úÖĞ¹ú¾«ÉñµÄÉî²ã¹¹Ôì
-(2007-09-27
-10:24:57)
+(2007-09-27 10:24:57)
 &#183;ÕÅÈÎÌì£ºÖĞ¹ú×îºóµÄĞã²Å¼°ÊıÑ§¼Ò¡¢¸ïÃüµ³¡¢±¨ÒµÀÏÈË
-(2007-09-26
-09:35:59)
+(2007-09-26 09:35:59)
 &#183;ÄÇĞ©¿¸×Å¡°ÎÄ»¯ÖĞ¹ú¡±´óÆìµÄÈËÃÇ
-(2007-09-24
-10:10:41)
+(2007-09-24 10:10:41)
 ·ÖÀàĞÅÏ¢
 -->
 -->
@@ -18886,37 +16892,27 @@ TVBÖÆÔì³öµÄÌìÍõ¼¶ÄĞĞÇ
 ¸ü¶à¹ØÓÚ¡°ÖĞ¹ú¡±µÄĞÂÎÅ
 Ïà¹ØÁ´½Ó
 &#183;ºÂÃÎÁä£ºÖĞ¹ú¿¹Õ½Ñ³¹úµÄµÚÒ»Î»¾ü³¤
-(2007-09-29
-09:05:39)
+(2007-09-29 09:05:39)
 &#183;1954Äê9ÔÂ29ÈÕ
 ºÕÂ³Ïş·òÂÊÍÅ²Î¼ÓÖĞ¹ú¹úÇì
-(2007-09-29
-08:44:49)
+(2007-09-29 08:44:49)
 &#183;1957Äê9ÔÂ29ÈÕ
 ĞÂÖĞ¹ú½¨³ÉµÚÒ»×ùÌìÎÄ¹İ
-(2007-09-29
-08:44:49)
+(2007-09-29 08:44:49)
 &#183;ÖĞ¹úÅ®ĞÔ×îÏëÒªµÄÄĞÈËµÄ¾«×Ó
-(2007-09-28
-09:33:24)
+(2007-09-28 09:33:24)
 &#183;×·²¶¡°¶şÍõ¡±ÃØÎÅ£ºĞÂÖĞ¹úÊ×´ÎĞüÉÍ
-(2007-09-28
-09:24:07)
+(2007-09-28 09:24:07)
 &#183;21ÊÀ¼ÍÖĞ¹ú×î¾ßÓéÀÖ¾«ÉñµÄÊıÊ®¸öË²¼ä
-(2007-09-27
-15:53:19)
+(2007-09-27 15:53:19)
 &#183;¡¶¾ÅÖİÖ¾¡·:ÁÑ±äÏÂµÄÖĞ¹ú»ÃÏëĞÂĞÍ¶ÁÎï
-(2007-09-27
-10:55:39)
+(2007-09-27 10:55:39)
 &#183;ºØÕÕÌï£ºµ±´úÖĞ¹ú¾«ÉñµÄÉî²ã¹¹Ôì
-(2007-09-27
-10:24:57)
+(2007-09-27 10:24:57)
 &#183;ÕÅÈÎÌì£ºÖĞ¹ú×îºóµÄĞã²Å¼°ÊıÑ§¼Ò¡¢¸ïÃüµ³¡¢±¨ÒµÀÏÈË
-(2007-09-26
-09:35:59)
+(2007-09-26 09:35:59)
 &#183;ÄÇĞ©¿¸×Å¡°ÎÄ»¯ÖĞ¹ú¡±´óÆìµÄÈËÃÇ
-(2007-09-24
-10:10:41)
+(2007-09-24 10:10:41)
 ·ÖÀàĞÅÏ¢
 -->
 -->
@@ -19195,37 +17191,27 @@ TVBÖÆÔì³öµÄÌìÍõ¼¶ÄĞĞÇ
 ¸ü¶à¹ØÓÚ¡°ÖĞ¹ú¡±µÄĞÂÎÅ
 Ïà¹ØÁ´½Ó
 &#183;ºÂÃÎÁä£ºÖĞ¹ú¿¹Õ½Ñ³¹úµÄµÚÒ»Î»¾ü³¤
-(2007-09-29
-09:05:39)
+(2007-09-29 09:05:39)
 &#183;1954Äê9ÔÂ29ÈÕ
 ºÕÂ³Ïş·òÂÊÍÅ²Î¼ÓÖĞ¹ú¹úÇì
-(2007-09-29
-08:44:49)
+(2007-09-29 08:44:49)
 &#183;1957Äê9ÔÂ29ÈÕ
 ĞÂÖĞ¹ú½¨³ÉµÚÒ»×ùÌìÎÄ¹İ
-(2007-09-29
-08:44:49)
+(2007-09-29 08:44:49)
 &#183;ÖĞ¹úÅ®ĞÔ×îÏëÒªµÄÄĞÈËµÄ¾«×Ó
-(2007-09-28
-09:33:24)
+(2007-09-28 09:33:24)
 &#183;×·²¶¡°¶şÍõ¡±ÃØÎÅ£ºĞÂÖĞ¹úÊ×´ÎĞüÉÍ
-(2007-09-28
-09:24:07)
+(2007-09-28 09:24:07)
 &#183;21ÊÀ¼ÍÖĞ¹ú×î¾ßÓéÀÖ¾«ÉñµÄÊıÊ®¸öË²¼ä
-(2007-09-27
-15:53:19)
+(2007-09-27 15:53:19)
 &#183;¡¶¾ÅÖİÖ¾¡·:ÁÑ±äÏÂµÄÖĞ¹ú»ÃÏëĞÂĞÍ¶ÁÎï
-(2007-09-27
-10:55:39)
+(2007-09-27 10:55:39)
 &#183;ºØÕÕÌï£ºµ±´úÖĞ¹ú¾«ÉñµÄÉî²ã¹¹Ôì
-(2007-09-27
-10:24:57)
+(2007-09-27 10:24:57)
 &#183;ÕÅÈÎÌì£ºÖĞ¹ú×îºóµÄĞã²Å¼°ÊıÑ§¼Ò¡¢¸ïÃüµ³¡¢±¨ÒµÀÏÈË
-(2007-09-26
-09:35:59)
+(2007-09-26 09:35:59)
 &#183;ÄÇĞ©¿¸×Å¡°ÎÄ»¯ÖĞ¹ú¡±´óÆìµÄÈËÃÇ
-(2007-09-24
-10:10:41)
+(2007-09-24 10:10:41)
 ·ÖÀàĞÅÏ¢
 -->
 -->
@@ -22828,21 +20814,16 @@ TVBÖÆÔì³öµÄÌìÍõ¼¶ÄĞĞÇ
 ¸ü¶à¹ØÓÚ¡°ºúÊÊ¡±µÄĞÂÎÅ
 Ïà¹ØÁ´½Ó
 &#183;¹úÑ§´óÊ¦»ÆÙ©Í´ÂîºúÊÊ³Â¶ÀĞã[Í¼]
-(2007-09-27
-14:34:29)
+(2007-09-27 14:34:29)
 &#183;´óÊ¦ÑÛÖĞµÄÊ¯Í·¼Ç£ººúÊÊÌ¸¡°Ççö©ËºÉÈ¡±
-(2007-09-24
-12:07:30)
+(2007-09-24 12:07:30)
 &#183;1949Äê¹ú¹²Á½µ³Õù¶áÃûÈË´óÕ½½¯½éÊ¯Õùµ½ºúÊÊ
-(2007-09-21
-10:58:39)
+(2007-09-21 10:58:39)
 &#183;1922Äê9ÔÂ10ÈÕ
 ºúÊÊÌá³öÁªÊ¡×ÔÖÎÖ÷ÕÅ
-(2007-09-10
-08:41:28)
+(2007-09-10 08:41:28)
 &#183;ºúÊÊµÄÎÄÑ§¹Û
-(2007-05-22
-11:13:35)
+(2007-05-22 11:13:35)
 ·ÖÀàĞÅÏ¢
 -->
 -->
@@ -23125,8 +21106,7 @@ TVBÖÆÔì³öµÄÌìÍõ¼¶ÄĞĞÇ
 ¸ü¶à¹ØÓÚ¡°ÀîÁ¬½Ü¡±µÄĞÂÎÅ
 Ïà¹ØÁ´½Ó
 &#183;Ó¢ĞÛÄÑ¹ıÃÀÈË¹Ø£ºÏ¸ÊıÀîÁ¬½ÜµçÓ°ÖĞµÄÃÀÅ®
-(2007-04-17
-16:35:30)
+(2007-04-17 16:35:30)
 ·ÖÀàĞÅÏ¢
 -->
 -->
@@ -23399,8 +21379,7 @@ TVBÖÆÔì³öµÄÌìÍõ¼¶ÄĞĞÇ
 ¸ü¶à¹ØÓÚ¡°ÀîÁ¬½Ü¡±µÄĞÂÎÅ
 Ïà¹ØÁ´½Ó
 &#183;Ó¢ĞÛÄÑ¹ıÃÀÈË¹Ø£ºÏ¸ÊıÀîÁ¬½ÜµçÓ°ÖĞµÄÃÀÅ®
-(2007-04-17
-16:35:30)
+(2007-04-17 16:35:30)
 ·ÖÀàĞÅÏ¢
 -->
 -->
@@ -23938,37 +21917,27 @@ TVBÖÆÔì³öµÄÌìÍõ¼¶ÄĞĞÇ
 ¸ü¶à¹ØÓÚ¡°Ô½Óü¡±µÄĞÂÎÅ
 Ïà¹ØÁ´½Ó
 &#183;¡¶Ô½Óü¡·×îÊÜ¹Ø×¢ÄĞÅ®Ö÷½Ç(×éÍ¼)
-(2007-09-26
-17:18:14)
+(2007-09-26 17:18:14)
 &#183;¡°Ô½Óü¡±ºï×ÓÓÂ´³ÁÉÄş±¾ÏªÊĞ³¤°ì¹«ÊÒ
-(2007-08-23
-10:36:51)
+(2007-08-23 10:36:51)
 &#183;17¼şÔ½Óü¹¤¾ßÏÖÉíÔü×Ò¶´Å®ÀÎµØÏÂ£¨Í¼£©
-(2007-08-16
-09:32:56)
+(2007-08-16 09:32:56)
 &#183;ÖĞ¹ú°æ¡¶Ô½Óü¡·ÒÑÍ¨¹ı±¸°¸Éó²é
 ½«ÓÚ9ÔÂ¿ª»ú
-(2007-07-03
-09:58:43)
+(2007-07-03 09:58:43)
 &#183;&quot;Ô½Óü&quot;Á½×ÖÖµ120ÍòÃÀÔª?
-(2007-04-26
-10:12:42)
+(2007-04-26 10:12:42)
 &#183;&quot;Ô½Óü&quot;Á½×ÖÖµ120ÍòÃÀÔª?
-(2007-04-26
-10:12:42)
+(2007-04-26 10:12:42)
 &#183;&quot;Ô½Óü&quot;Á½×ÖÖµ120ÍòÃÀÔª?
-(2007-04-26
-10:12:42)
+(2007-04-26 10:12:42)
 &#183;&quot;Ô½Óü&quot;Á½×ÖÖµ120ÍòÃÀÔª?
-(2007-04-26
-10:12:42)
+(2007-04-26 10:12:42)
 &#183;Éó²é¶¼Ã»½øĞĞ
 ÑëÊÓ·ñÈÏÒı½ø¡¶Ô½Óü¡·
-(2007-04-16
-12:27:29)
+(2007-04-16 12:27:29)
 &#183;ÓÃÂí¿ËË¼Ö÷Òå½×¼¶Ô­Àí·ÖÎö¡¶Ô½Óü¡·µÄÈËÎïËÜÔì
-(2007-04-16
-12:07:41)
+(2007-04-16 12:07:41)
 ·ÖÀàĞÅÏ¢
 -->
 -->
@@ -24189,8 +22158,7 @@ GoogleÅ­³âÎ¢Èí¸ãÂ¢¶Ï
 http://book.QQ.com2007Äê09ÔÂ29ÈÕ10:11
 ÖĞ¹úĞÂÎÅÍø
 ÆÀÂÛ0Ìõ
-ÖĞĞÂÍøº¼Öİ9ÔÂ28ÈÕµç(¼ÇÕß
-ÑîİöêÍ)ĞìÖ¾Ä¦Î´ÔøÏëµ½£¬ÔÚËûµ®³½Ò»°ÙÒ»Ê®ÖÜÄêÖ®¼Ê£¬ÈÔÓĞ¶àÈËÄ½ÃûÑ°ÈëËûÓëÂ½Ğ¡ÂüÔÚ½­ÄÏ¹ÅÕòĞÂ»éºóµÄÅ·Ê½ºì·¿£¬ÊÔÍ¼¶Ôµ±Ç°ÂÔÏÔ³Á¼ÅµÄĞÂÊ«½øĞĞ·´Ë¼¡£
+ÖĞĞÂÍøº¼Öİ9ÔÂ28ÈÕµç(¼ÇÕß ÑîİöêÍ)ĞìÖ¾Ä¦Î´ÔøÏëµ½£¬ÔÚËûµ®³½Ò»°ÙÒ»Ê®ÖÜÄêÖ®¼Ê£¬ÈÔÓĞ¶àÈËÄ½ÃûÑ°ÈëËûÓëÂ½Ğ¡ÂüÔÚ½­ÄÏ¹ÅÕòĞÂ»éºóµÄÅ·Ê½ºì·¿£¬ÊÔÍ¼¶Ôµ±Ç°ÂÔÏÔ³Á¼ÅµÄĞÂÊ«½øĞĞ·´Ë¼¡£
 27ÈÕ£¬ÆßÊ®ÓàÃû¹úÄÚÊ«ÈË¡¢Ñ§Õß»á¾ÛĞìÖ¾Ä¦¹ÊÏçÕã½­º£ÄşµÄ¹Ê¾Ó£¬ÔÚµÚÎå½ìÕã½­×÷¼Ò½ÚµÄ¡°ĞìÖ¾Ä¦¡¢ÄÂµ©ÓëÖĞ¹úĞÂÊ«¡±ÂÛÌ³ÉÏ£¬Î§ÈÆµ±Ç°ĞÂÊ«±ßÔµ»¯Ò÷Ê«ÈÈÒé¡£
 ×ÔÒ»¾ÅÒ»ÆßÄêºúÊÊµÈÈËÔÚ¡¶ĞÂÇàÄê¡·Ê×´Î¿¯µÇ´ËÀà×ÔÓÉÌåµÄ³¢ÊÔĞÔ×÷Æ·ËãÆğ£¬ĞÂÊ«ÒÑÕûÕû×ß¹ı¾ÅÊ®¸öÄêÍ·£¬ĞÂÊ«²»ÔÙÈÈÄÖ¡£¾Íµ±Ç°ĞÂÊ«·¢Õ¹×´¿ö£¬ÖĞ¹úÊ«¸èµÄÈ¨Íş¿¯Îï¡¶Ê«¿¯¡·¸±Ö÷±à¡¢ÖĞ¹úÊ«¸èÑ§»á¸±ÃØÊé³¤ÀîĞ¡Óê¶Ô´ËÖ±ÑÔ²»»ä£¬ÖĞ¹úÓÃÁË¶şÊ®ÄêµÄÊ±¼ä£¬°ÑÎ÷·½Á½°Ù¶àÄêµÄÊ«¸èÀú³Ì´Ò´Ò×ßÍê£¬ÔÚ×î¸ß³±Ê±£¬ÔøÓĞ°ËÊ®Îå¸öÊ«¸èÁ÷ÅÉÔÚ±¨¿¯·¢±í³ÉÁ¢ĞûÑÔ£¬ÉËºÛ¡¢Ñ°¸ù¡¢ĞÂÌïÔ°Ê«¡¢ĞÂ±ßÈûÊ«¡¢Å®ĞÔÊ«¸è¡¢µÚÈı´úÊ«¸èÔË¶¯µÈÖØÒªÁ÷ÅÉ·×·×áÈÆğ£¬¹«¿ª·¢±íÊ«¸è¿¯ÎïµÄÓĞ¼¸Ê®¼Ò£¬¡¶Ê«¿¯¡·ÔÂ·¢ĞĞÁ¿×î¶à¿É´ïÈıÊ®Íò·İ¡£Õâ¸öÊ±ÆÚ£¬ĞÂÊ«ÊÜµ½¶ÁÕß¹ã·º¹Ø×¢¡£µ«Í¬Ê±£¬ĞÂÊ«×ßÏòÁíÒ»¸ö¼«¶Ë¡°ĞÎÊ½´óÓÚÄÚÈİ¡±¡¢¡°¸öÈË»¯´óÓÚ¸öĞÔ¡±£¬ÉúÓ²´ÒÃ¦µØÄ£·ÂÎ÷·½£¬Ò²ÈÃÕâĞ©ĞÂÊ±ÆÚµÄÊ«¸èÌ½Ë÷±íÏÖ³öÎŞĞò»¯¡¢²»³ÉÊì£¬¸¶³ö»ŞÉ¬ÄÑ¶®¡¢Öğ½¥ÍÑÀë´óÖÚµÄ´ú¼Û¡£
 ¾İ´Ë£¬È«¹úÆßÊ®ÓàÃûÊ«ÈËµÄ¾Û»áÒ²±äµÃ¸ñÍâÕäÏ§¡£Õã½­Ê¡×÷Ğ­Ê«¸è´´Î¯»áÖ÷ÈÎÕÅµÂÇ¿³Æ£¬½ñÈÕ£¬ÎÒÃÇÓÚ´ËÌÖÂÛĞÂÊ«¾ÅÊ®ÖÜÄê£¬ÏÔµÃÊ®·ÖÈÈÄÖ£¬Ê®·ÖÂ¡ÖØ£¬µ«ĞÂÊ«ÔÚµ±ÏÂÉç»áµÄÃûÉùÈ´²»ÊÇÄÇÃ´ºÃ£¬²»ÄÇÃ´ÏìÁÁ£¬Ó°Ïì²»ÊÇºÜ´ó¡£
@@ -24502,37 +22470,28 @@ TVBÖÆÔì³öµÄÌìÍõ¼¶ÄĞĞÇ
 ¸ü¶à¹ØÓÚ¡°ÈÕ¼Ç¡±µÄĞÂÎÅ
 Ïà¹ØÁ´½Ó
 &#183;½¯½éÊ¯ÈÕ¼Ç£º¡°ÎÒµÄÃ«²¡¾ÍÊÇºÃÉ«¡±[Í¼]
-(2007-09-28
-15:44:26)
+(2007-09-28 15:44:26)
 &#183;¡¶ÎÒµÄÇ°°ëÉú¡·¶¨¸å±¾ÅûÂ¶äßÒÇÈÕ¼Ç¼°²ØÕÕ
-(2007-09-19
-11:34:30)
+(2007-09-19 11:34:30)
 &#183;ÄÃÆÆÂØÁ÷·ÅÈÕ¼Ç£º¡°ÎÒÒÑ¾­ÇîÍ¾Ä©Â·¡±
-(2007-08-28
-10:42:18)
+(2007-08-28 10:42:18)
 &#183;´òÔì»ªÀö¹«Ö÷ÈÕ¼Ç
 15Î»Ã÷ĞÇ¹«Ö÷ÔìĞÍ´ó±ÈÆ´
-(2007-08-15
-17:48:28)
+(2007-08-15 17:48:28)
 &#183;ÈÕ¼ÇÀïµÄ½¯½éÊ¯£ººÍËÎÃÀÁä¸ĞÇéÉîºñ
-(2007-07-17
-09:13:55)
+(2007-07-17 09:13:55)
 &#183;¡¶º©¶¹ÈÕ¼Ç¡·³ö°æ
 ½ÒÃØº©¶¹ÏÈÉúµÄË½Éú»î
-(2007-04-18
-14:10:03)
+(2007-04-18 14:10:03)
 &#183;¡¶º©¶¹ÈÕ¼Ç¡·³ö°æ
 ½ÒÃØº©¶¹ÏÈÉúµÄË½Éú»î
-(2007-04-18
-14:10:03)
+(2007-04-18 14:10:03)
 &#183;¡¶º©¶¹ÈÕ¼Ç¡·³ö°æ
 ½ÒÃØº©¶¹ÏÈÉúµÄË½Éú»î
-(2007-04-18
-14:10:03)
+(2007-04-18 14:10:03)
 &#183;¡¶º©¶¹ÈÕ¼Ç¡·³ö°æ
 ½ÒÃØº©¶¹ÏÈÉúµÄË½Éú»î
-(2007-04-18
-14:10:03)
+(2007-04-18 14:10:03)
 ·ÖÀàĞÅÏ¢
 -->
 -->
@@ -24753,8 +22712,7 @@ GoogleÅ­³âÎ¢Èí¸ãÂ¢¶Ï
 http://book.QQ.com2007Äê09ÔÂ29ÈÕ10:14
 ĞÂ»ªÍø
 ÆÀÂÛ0Ìõ
-ĞÂ»ªÍøÎ÷°²9ÔÂ28ÈÕµç£¨¼ÇÕß
-·ë¹ú£©±»ÓşÎª¡°ÇØ±øÂíÙ¸Ö®¸¸¡±µÄ¿¼¹ÅÑ§¼ÒÔ¬ÖÙÒ»½üÈÕÖ¸³ö£¬ÔÚÇØÊ¼»ÊÁêÔ°ÅÔĞÂ·¢ÏÖµÄ¡°ÇØÁêµÚ¶ş´óÄ¹¡±ÊÇÒ»×ùÏà¶Ô¶ÀÁ¢µÄÅãÔáÄ¹Ô°£¬ÆäÖ÷ÈËºÜ¿ÉÄÜÊÇÇØµÚÈı´ú»ÊµÛÒ²¾ÍÊÇÄ©´ú»ÊµÛ&#8212;&#8212;×ÓÓ¤¡£ÕâÎ»ÇØÄ©´ú»ÊµÛµÄÔáµØÔøÒ»Ö±²»Ïê¡£
+ĞÂ»ªÍøÎ÷°²9ÔÂ28ÈÕµç£¨¼ÇÕß ·ë¹ú£©±»ÓşÎª¡°ÇØ±øÂíÙ¸Ö®¸¸¡±µÄ¿¼¹ÅÑ§¼ÒÔ¬ÖÙÒ»½üÈÕÖ¸³ö£¬ÔÚÇØÊ¼»ÊÁêÔ°ÅÔĞÂ·¢ÏÖµÄ¡°ÇØÁêµÚ¶ş´óÄ¹¡±ÊÇÒ»×ùÏà¶Ô¶ÀÁ¢µÄÅãÔáÄ¹Ô°£¬ÆäÖ÷ÈËºÜ¿ÉÄÜÊÇÇØµÚÈı´ú»ÊµÛÒ²¾ÍÊÇÄ©´ú»ÊµÛ&#8212;&#8212;×ÓÓ¤¡£ÕâÎ»ÇØÄ©´ú»ÊµÛµÄÔáµØÔøÒ»Ö±²»Ïê¡£
 Õâ±íÃ÷£¬ÉúÇ°Ï£Íû´«Î»ÍòÊÀ¶ø²»ÃğµÄÇØÊ¼»ÊÙøÕşÔÚÈ¥ÊÀÈıÄêºó£¬¾ÍÓëÇØÄ©´ú»ÊµÛÔÚµØÏÂ¡°Ïà°é¶øÃß¡±£¬Æù½ñÒÑ³¤´ï2200¶àÄê¡£Õâ¶ÔÓÚÈËÃÇÑĞ¾¿ÖĞ¹ú¹Å´úÍõ³¯¸üµüµÈ¾ßÓĞÖØÒªÒâÒå¡£
 Õâ×ùÓµÓĞÁ½ÌõÄ¹µÀµÄ"ÖĞ"×ÖĞÎ´óÄ¹ÊÇÇØÊ¼»ÊÁê¿¼¹Å¶Ó2003ÄêÔÚÇØÊ¼»ÊÁêÔ°ÍâÎ§½øĞĞ¿±Ì½Ê±·¢ÏÖµÄ¡£ÓëÆä½üÁÚµÄ»¹ÓĞ5×ùÒ»ÌõÄ¹µÀµÄ"¼×"×ÖĞÎ´óÄ¹¡£ËüÃÇÎ»ÓÚÇØÊ¼»ÊÁêÔ°Íâ³ÇÇ½Î÷²à500Ã×´¦£¬¿±Ì½Ê±°éÓĞÆáÆ¤¡¢Í­Ğâ¡¢·ÄÖ¯Æ·µÈÇØ´úÒÅÎï³öÍÁ¡£×¨¼ÒÒâÍâµØ·¢ÏÖ£¬ËüÃÇ¾¹È»¶¼ÊôÓÚÇØÄ¹¡£
 ÇØ±øÂíÙ¸²©Îï¹İÔ­¹İ³¤Ô¬ÖÙÒ»×Ô1974Äê·¢ÏÖÇØ±øÂíÙ¸Ê±±ã´ÓÊÂÇØÊ¼»ÊÁêµÄ¿¼¹Å·¢¾òÓëÑĞ¾¿¹¤×÷¡£Ô¬ÖÙÒ»Ëµ£º¡°¾­¹ı¼¸Ê®ÄêµÄ¿¼¹Å¿±Ì½Óë·¢¾ò£¬ÇØÊ¼»ÊÁêÔ°µÄ²¼¾ÖºÍÄ¹ÔáÀàĞÍÒÑ»ù±¾Çå³ş¡£¡±
@@ -24810,37 +22768,27 @@ TVBÖÆÔì³öµÄÌìÍõ¼¶ÄĞĞÇ
 Ïà¹ØÁ´½Ó
 &#183;Òõ²îÑô´íµ±ÁË»ÊµÛ
 ÖĞ¹ú¹Å´úÊ®´óĞÒÔËµÛÍõ
-(2007-09-20
-10:32:15)
+(2007-09-20 10:32:15)
 &#183;Çå³¯»ÊµÛ×ğ³çÔÀ·É
 Îå´ÎÖØÖıÇØèí¹òÏñ£¨Í¼£©
-(2007-09-04
-10:03:50)
+(2007-09-04 10:03:50)
 &#183;ÖĞ¹úÀúÊ·ÉÏÎå´ó·ğÃÅ»ÊµÛ£¨×éÍ¼£©
-(2007-08-27
-08:57:51)
+(2007-08-27 08:57:51)
 &#183;Ã«Ôó¶«ÆÀÀú´úµÛÍõ:ÄÜ¸ÉµÄ»ÊµÛ¶àÊÇÀÏ´Ö³öÉí
-(2007-08-23
-09:28:52)
+(2007-08-23 09:28:52)
 &#183;×ßÂíµÆÊ½µÄ¸Ä³¯»»´ú£ºÒ»ÄêÈı¸ö»ÊµÛ£¨Í¼£©
-(2007-08-21
-09:47:30)
+(2007-08-21 09:47:30)
 &#183;Ã÷³¯Àú´ú»ÊµÛÓë·ç³¾Å®×ÓµÄÇéÓû¾À¸ğ£¨Í¼£©
-(2007-08-20
-11:46:43)
+(2007-08-20 11:46:43)
 &#183;×ß½øÇå³¯Ä©´ú»ÊµÛäßÒÇ×îºóµÄ»Ê¹¬
-(2007-08-10
-16:07:08)
+(2007-08-10 16:07:08)
 &#183;Ñî¹óåúÓÃÇà´ºÓÕ·¢ÀÏ»ÊµÛµÄÉúÃüÁ¦£¨Í¼£©
-(2007-08-08
-15:47:23)
+(2007-08-08 15:47:23)
 &#183;»ÊµÛ´ó»éÇ°µÄĞÔ½ÌÓı
-(2007-07-30
-12:53:43)
+(2007-07-30 12:53:43)
 &#183;ÖĞ¹ú»ÊµÛµÄÊ®ÈıÖÖ¡°É±·¨¡±
 60Î»»ÊµÛÊÇÕâÑùËÀµôµÄ
-(2007-07-04
-14:48:43)
+(2007-07-04 14:48:43)
 ·ÖÀàĞÅÏ¢
 -->
 -->
@@ -25109,8 +23057,7 @@ TVBÖÆÔì³öµÄÌìÍõ¼¶ÄĞĞÇ
 Ïà¹ØÁ´½Ó
 &#183;Ôøì¿°ÙÍò°æË°
 Á½Äê´òÔìµÄ¾«Æ·Çà´ºĞ¡Ëµ³ö°æ
-(2007-09-25
-14:20:39)
+(2007-09-25 14:20:39)
 ·ÖÀàĞÅÏ¢
 -->
 -->
@@ -25414,41 +23361,31 @@ TVBÖÆÔì³öµÄÌìÍõ¼¶ÄĞĞÇ
 ¸ü¶à¹ØÓÚ¡°ÍõÃÉ¡±µÄĞÂÎÅ
 &#183;ÍõÃÉ×Ô´«±»Ö¸ÓĞ¶à´¦Ó²ÉË
 ³ö°æÉç±íÌ¬×·²é
-(2007-07-30
-16:12:48)
+(2007-07-30 16:12:48)
 &#183;73ËêÍõÃÉ£ºÃ÷Äê±¨Ãû²Î¼Ó¿ìÀÖÄĞÉù(Í¼)
-(2007-07-20
-16:58:52)
+(2007-07-20 16:58:52)
 &#183;ÍõÃÉ:¡°ÎÒÒªÊÇ²Î¼Ó¿¼ÊÔ£¬¶¼ÄÜ½»°×¾í¡±(Í¼)
-(2007-07-09
-14:51:30)
+(2007-07-09 14:51:30)
 &#183;ÍõÃÉ£º×ß³öÈ¥ÓëÈíÊµÁ¦½¨Éè
-(2007-07-09
-10:52:38)
+(2007-07-09 10:52:38)
 &#183;ÍõÃÉ×Ô´«ËÍ¸øĞÂ»éÌúÄı
 ËıºÍ»ªÉúºÜ°ãÅä
-(2007-05-22
-11:16:54)
+(2007-05-22 11:16:54)
 &#183;²ĞÑ©ÅúÎÄÌ³´óÍóÍË»¯
 ÍõÃÉÍõ°²Òä°ñÉÏÓĞÃû
-(2007-05-17
-16:15:20)
+(2007-05-17 16:15:20)
 &#183;ÍõÃÉ×Ô´«ËÍ¸øĞÂ»éÌúÄı
 ËıºÍ»ªÉúºÜ°ãÅä
-(2007-05-22
-11:16:54)
+(2007-05-22 11:16:54)
 &#183;²ĞÑ©ÅúÎÄÌ³´óÍóÍË»¯
 ÍõÃÉÍõ°²Òä°ñÉÏÓĞÃû
-(2007-05-17
-16:15:20)
+(2007-05-17 16:15:20)
 &#183;ÍõÃÉ×Ô´«ËÍ¸øĞÂ»éÌúÄı
 ËıºÍ»ªÉúºÜ°ãÅä
-(2007-05-22
-11:16:54)
+(2007-05-22 11:16:54)
 &#183;²ĞÑ©ÅúÎÄÌ³´óÍóÍË»¯
 ÍõÃÉÍõ°²Òä°ñÉÏÓĞÃû
-(2007-05-17
-16:15:20)
+(2007-05-17 16:15:20)
 ·ÖÀàĞÅÏ¢
 -->
 -->
@@ -25720,20 +23657,15 @@ TVBÖÆÔì³öµÄÌìÍõ¼¶ÄĞĞÇ
 Ïà¹ØÁ´½Ó
 &#183;1925Äê8ÔÂ24ÈÕ
 Áõº£ËÚÊ¹ÓÃÂãÌåÄ£ÌØÒıÕùÒé
-(2007-08-24
-09:29:40)
+(2007-08-24 09:29:40)
 &#183;ÖĞ¹ú80Äê´úÈËÌåÄ£ÌØ¡°ÂôÉí¡±±»±Æ·è£¨Í¼£©
-(2007-08-17
-10:46:57)
+(2007-08-17 10:46:57)
 &#183;ÖĞ¹úÈËÌåÄ£ÌØ50Äê
-(2007-04-18
-15:32:07)
+(2007-04-18 15:32:07)
 &#183;ÖĞ¹úÈËÌåÄ£ÌØ50Äê
-(2007-04-18
-15:32:07)
+(2007-04-18 15:32:07)
 &#183;ÖĞ¹úÈËÌåÄ£ÌØ50Äê
-(2007-04-18
-15:32:07)
+(2007-04-18 15:32:07)
 ·ÖÀàĞÅÏ¢
 -->
 -->
@@ -26005,20 +23937,15 @@ TVBÖÆÔì³öµÄÌìÍõ¼¶ÄĞĞÇ
 Ïà¹ØÁ´½Ó
 &#183;1925Äê8ÔÂ24ÈÕ
 Áõº£ËÚÊ¹ÓÃÂãÌåÄ£ÌØÒıÕùÒé
-(2007-08-24
-09:29:40)
+(2007-08-24 09:29:40)
 &#183;ÖĞ¹ú80Äê´úÈËÌåÄ£ÌØ¡°ÂôÉí¡±±»±Æ·è£¨Í¼£©
-(2007-08-17
-10:46:57)
+(2007-08-17 10:46:57)
 &#183;ÖĞ¹úÈËÌåÄ£ÌØ50Äê
-(2007-04-18
-15:32:07)
+(2007-04-18 15:32:07)
 &#183;ÖĞ¹úÈËÌåÄ£ÌØ50Äê
-(2007-04-18
-15:32:07)
+(2007-04-18 15:32:07)
 &#183;ÖĞ¹úÈËÌåÄ£ÌØ50Äê
-(2007-04-18
-15:32:07)
+(2007-04-18 15:32:07)
 ·ÖÀàĞÅÏ¢
 -->
 -->
@@ -26258,14 +24185,7 @@ http://book.QQ.com2007Äê09ÔÂ29ÈÕ10:26
 ºÍÕÔÇíÒ»×ùÂ¥µÄÅ®Ä£ÌØ£¬ËıÃÇÍ¬ÑùÂ÷×ÅÕÉ·ò£¬Í¬ÑùÈÌÊÜÈö»ÑÖ®¿à¡£µ¹ÊÇÔø¾­ÓĞÒ»¸öÄêÇáÅ®º¢¹ıÀ´¼æÖ°£¬ËµÊÇÌåÑéÉú»î£¬ÈÃËıÃÇÃæÃæÏàêï¡£
 Ãû¼Ò´óÊ¦ÖÕ¾¿»¹ÊÇÃ»ÓĞ³öÏÖ£¬ÕÔÇíÈÔÏñ¸ÕÀ´µÄÊ±ºòÒ»Ñù£¬Ö»ÊÇ³äµ±¿ÎÌÃÏ°×÷µÄÃè»­¶ÔÏó¡£Ã»ÓĞ»ıĞî£¬Ã»ÓĞÅóÓÑ£¬ÔÚ¹ãÖİµÄ7Äê£¬´ÓÆğµãÓÖ»Øµ½Æğµã¡£ÕÔÇí¾õµÃ²»ÄÜÕâÑù¿ÕÊÖ»ØÈ¥£¬ËùÒÔÖ»ºÃ¼á³Ö¡£
 ËıºóÀ´ÓÖÂ½Â½ĞøĞøµØÕÒ¹ıºÜ¶à¹ã¸æ¹«Ë¾ºÍÉãÓ°Åï£¬ÅÄ¹ıÒ»Ğ©Ó¡ÔÚ¿¨Æ¬ÉÏµÄĞ¡¹ã¸æ£¬Ëı¶¼±£Áô×Å£¬ÓĞÊ±¼ä¾Í·­³öÀ´¿´¡£
-×î½üÓĞ¼şÊÂÈÃÕÔÇíĞÄÇé²»´í£¬ÃÀÔºÒ»¸öÀÏÊ¦¾õµÃËıµÄ¾µÍ·¸Ğ²»´í£¬×¼±¸Ãâ·Ñ¸øËıÅÄÒ»×éÒÕÊõÕÕ£¬ÕâÊÇ¸öÈÃÈËĞË·ÜµÄÊÂÇé¡£×îÖØÒªµÄÊÇ£¬ÕâĞ©ÕÕÆ¬Ò²¿ÉÒÔ¼Ä¸øÔ¶·½µÄÕÉ·ò£¬ÒÔ½âË¼ÄîÖ®¿à¡££¨ÄÏ¶¼ÖÜ¿¯¼ÇÕß
-Ò¶Î°Ãñ
-¼ûÏ°¼ÇÕß
-Áõ×Ó³¬
-ÊµÏ°Éú
-ÌÆË¼
-¹ãÖİ±¨µÀ
-£©
+×î½üÓĞ¼şÊÂÈÃÕÔÇíĞÄÇé²»´í£¬ÃÀÔºÒ»¸öÀÏÊ¦¾õµÃËıµÄ¾µÍ·¸Ğ²»´í£¬×¼±¸Ãâ·Ñ¸øËıÅÄÒ»×éÒÕÊõÕÕ£¬ÕâÊÇ¸öÈÃÈËĞË·ÜµÄÊÂÇé¡£×îÖØÒªµÄÊÇ£¬ÕâĞ©ÕÕÆ¬Ò²¿ÉÒÔ¼Ä¸øÔ¶·½µÄÕÉ·ò£¬ÒÔ½âË¼ÄîÖ®¿à¡££¨ÄÏ¶¼ÖÜ¿¯¼ÇÕß Ò¶Î°Ãñ ¼ûÏ°¼ÇÕß Áõ×Ó³¬ ÊµÏ°Éú ÌÆË¼ ¹ãÖİ±¨µÀ £©
 È«ÇòÊ®´ó¹ÖÒìÌìÆø
 ¾©³ÇÀÏÃñË×ÈÃÄã¿ªÑÛ½ç
 Ê®¶şĞÇ×ùÏ£À°Éñ»°ÆğÔ´
@@ -26310,20 +24230,15 @@ TVBÖÆÔì³öµÄÌìÍõ¼¶ÄĞĞÇ
 Ïà¹ØÁ´½Ó
 &#183;1925Äê8ÔÂ24ÈÕ
 Áõº£ËÚÊ¹ÓÃÂãÌåÄ£ÌØÒıÕùÒé
-(2007-08-24
-09:29:40)
+(2007-08-24 09:29:40)
 &#183;ÖĞ¹ú80Äê´úÈËÌåÄ£ÌØ¡°ÂôÉí¡±±»±Æ·è£¨Í¼£©
-(2007-08-17
-10:46:57)
+(2007-08-17 10:46:57)
 &#183;ÖĞ¹úÈËÌåÄ£ÌØ50Äê
-(2007-04-18
-15:32:07)
+(2007-04-18 15:32:07)
 &#183;ÖĞ¹úÈËÌåÄ£ÌØ50Äê
-(2007-04-18
-15:32:07)
+(2007-04-18 15:32:07)
 &#183;ÖĞ¹úÈËÌåÄ£ÌØ50Äê
-(2007-04-18
-15:32:07)
+(2007-04-18 15:32:07)
 ·ÖÀàĞÅÏ¢
 -->
 -->
@@ -26604,20 +24519,15 @@ TVBÖÆÔì³öµÄÌìÍõ¼¶ÄĞĞÇ
 Ïà¹ØÁ´½Ó
 &#183;1925Äê8ÔÂ24ÈÕ
 Áõº£ËÚÊ¹ÓÃÂãÌåÄ£ÌØÒıÕùÒé
-(2007-08-24
-09:29:40)
+(2007-08-24 09:29:40)
 &#183;ÖĞ¹ú80Äê´úÈËÌåÄ£ÌØ¡°ÂôÉí¡±±»±Æ·è£¨Í¼£©
-(2007-08-17
-10:46:57)
+(2007-08-17 10:46:57)
 &#183;ÖĞ¹úÈËÌåÄ£ÌØ50Äê
-(2007-04-18
-15:32:07)
+(2007-04-18 15:32:07)
 &#183;ÖĞ¹úÈËÌåÄ£ÌØ50Äê
-(2007-04-18
-15:32:07)
+(2007-04-18 15:32:07)
 &#183;ÖĞ¹úÈËÌåÄ£ÌØ50Äê
-(2007-04-18
-15:32:07)
+(2007-04-18 15:32:07)
 ·ÖÀàĞÅÏ¢
 -->
 -->
@@ -27422,37 +25332,27 @@ TVBÖÆÔì³öµÄÌìÍõ¼¶ÄĞĞÇ
 ¸ü¶à¹ØÓÚ¡°ÖĞ¹ú¡±µÄĞÂÎÅ
 Ïà¹ØÁ´½Ó
 &#183;ÖĞ¹úÕ½·ıÔÚÈÕ¾ü»ª±±¼¯ÖĞÓª±»³éÑª¡¢µ±´Ìµ¶°Ğ
-(2007-09-29
-09:28:51)
+(2007-09-29 09:28:51)
 &#183;ºÂÃÎÁä£ºÖĞ¹ú¿¹Õ½Ñ³¹úµÄµÚÒ»Î»¾ü³¤
-(2007-09-29
-09:05:39)
+(2007-09-29 09:05:39)
 &#183;1954Äê9ÔÂ29ÈÕ
 ºÕÂ³Ïş·òÂÊÍÅ²Î¼ÓÖĞ¹ú¹úÇì
-(2007-09-29
-08:44:49)
+(2007-09-29 08:44:49)
 &#183;1957Äê9ÔÂ29ÈÕ
 ĞÂÖĞ¹ú½¨³ÉµÚÒ»×ùÌìÎÄ¹İ
-(2007-09-29
-08:44:49)
+(2007-09-29 08:44:49)
 &#183;ÖĞ¹úÅ®ĞÔ×îÏëÒªµÄÄĞÈËµÄ¾«×Ó
-(2007-09-28
-09:33:24)
+(2007-09-28 09:33:24)
 &#183;×·²¶¡°¶şÍõ¡±ÃØÎÅ£ºĞÂÖĞ¹úÊ×´ÎĞüÉÍ
-(2007-09-28
-09:24:07)
+(2007-09-28 09:24:07)
 &#183;21ÊÀ¼ÍÖĞ¹ú×î¾ßÓéÀÖ¾«ÉñµÄÊıÊ®¸öË²¼ä
-(2007-09-27
-15:53:19)
+(2007-09-27 15:53:19)
 &#183;¡¶¾ÅÖİÖ¾¡·:ÁÑ±äÏÂµÄÖĞ¹ú»ÃÏëĞÂĞÍ¶ÁÎï
-(2007-09-27
-10:55:39)
+(2007-09-27 10:55:39)
 &#183;ºØÕÕÌï£ºµ±´úÖĞ¹ú¾«ÉñµÄÉî²ã¹¹Ôì
-(2007-09-27
-10:24:57)
+(2007-09-27 10:24:57)
 &#183;ÕÅÈÎÌì£ºÖĞ¹ú×îºóµÄĞã²Å¼°ÊıÑ§¼Ò¡¢¸ïÃüµ³¡¢±¨ÒµÀÏÈË
-(2007-09-26
-09:35:59)
+(2007-09-26 09:35:59)
 ·ÖÀàĞÅÏ¢
 -->
 -->
@@ -28255,8 +26155,7 @@ TVBÖÆÔì³öµÄÌìÍõ¼¶ÄĞĞÇ
 Ïà¹ØÁ´½Ó
 &#183;ÖĞÍ³ÃÀÅ®ÌØÎñÉ«ÓÕºº¼éÏÂÉ±ÊÖ
 ÊÂ°ÜéæÃü(Í¼)
-(2007-09-06
-10:40:08)
+(2007-09-06 10:40:08)
 ·ÖÀàĞÅÏ¢
 -->
 -->
@@ -28528,39 +26427,29 @@ TVBÖÆÔì³öµÄÌìÍõ¼¶ÄĞĞÇ
 ¸ü¶à¹ØÓÚ¡°ÃÀ¹ú¡±µÄĞÂÎÅ
 Ïà¹ØÁ´½Ó
 &#183;ÃÀ¹úÕ¹³öº±¼ûÁ¬ÌåË«Ì¥Ë«Í·¹ê[Í¼]
-(2007-09-29
-10:40:35)
+(2007-09-29 10:40:35)
 &#183;ÄÏ¾©ÂÙÏİ³õÆÚ
 ÃÀ¹úÄÁÊ¦¸£Ë¹ÌØÅÄÉãµÄÕÕÆ¬
-(2007-09-27
-17:27:39)
+(2007-09-27 17:27:39)
 &#183;1840Äê9ÔÂ27ÈÕ
 ÃÀ¹úº£¾üÕ½ÂÔË¼Ïë¼ÒÂíºº³öÉú
-(2007-09-27
-08:14:02)
+(2007-09-27 08:14:02)
 &#183;ÃÀ¹úµÄ´óÃØÃÜ£ºÃÀÔªµÄ·¢ĞĞÓÉË½ÈËÒøĞĞ¿ØÖÆ
-(2007-09-25
-09:18:17)
+(2007-09-25 09:18:17)
 &#183;ÃÀ¹ú¿ó¹¤Îª¸ÄÉÆ¹¤×÷Ìõ¼şÓëÕş¸®¾ü¿ªÕ½£¨Í¼£©
-(2007-09-17
-10:16:59)
+(2007-09-17 10:16:59)
 &#183;ÃÀ¹ú¿ó¹¤Îª¸ÄÉÆ¹¤×÷Ìõ¼şÓëÕş¸®¾ü¿ªÕ½
-(2007-09-17
-10:07:17)
+(2007-09-17 10:07:17)
 &#183;ÒøĞĞ¼Ò£ºÍÆ¶¯ÃÀ¹úÄÏ±±Õ½ÕùµÄÕæÕıÄ»ºóºÚÊÖ
-(2007-09-12
-09:25:55)
+(2007-09-12 09:25:55)
 &#183;1901Äê9ÔÂ5ÈÕ
 ÃÀ¹ú×ÜÍ³Âó½ğÀ³Óö´Ì
-(2007-09-05
-09:01:17)
+(2007-09-05 09:01:17)
 &#183;ÃÀ¹ú³öÏÖÃàÑÓ182Ã×Ê·ÉÏ×îÅ£Ö©ÖëÍø£¨Í¼£©
-(2007-09-03
-10:17:48)
+(2007-09-03 10:17:48)
 &#183;1935Äê8ÔÂ31ÈÕ
 ÃÀ¹úÍ¨¹ı¡¶ÖĞÁ¢·¨°¸¡·
-(2007-08-31
-08:07:09)
+(2007-08-31 08:07:09)
 ·ÖÀàĞÅÏ¢
 -->
 -->
@@ -28833,20 +26722,15 @@ TVBÖÆÔì³öµÄÌìÍõ¼¶ÄĞĞÇ
 ¸ü¶à¹ØÓÚ¡°²Ü²Ù¡±µÄĞÂÎÅ
 Ïà¹ØÁ´½Ó
 &#183;Ó¢ĞÛ³ÙÄº£ºÍíÄê²Ü²ÙÕæÊµµÄÀúÊ·ÃæÃ²
-(2007-08-13
-15:52:29)
+(2007-08-13 15:52:29)
 &#183;²Ü²ÙÉ±»ªÙ¢µÄÕæÕıÔ­Òò
-(2007-08-07
-13:57:21)
+(2007-08-07 13:57:21)
 &#183;²İ¸ù×÷¼Ò×Ó½ğÉ½·ÃÌ¸£ºËÍ¸øÄãÒ»¸öÕæÊµµÄ²Ü²Ù
-(2007-07-20
-18:49:44)
+(2007-07-20 18:49:44)
 &#183;À´İº¶ù£­Î©Ò»ÄÜÈÃ²Ü²ÙÁ÷ÀáµÄÅ®ÈË
-(2007-07-10
-16:49:27)
+(2007-07-10 16:49:27)
 &#183;²Ü²ÙÉ±ÑîĞŞÁô¸øÃØÊéµÄÆôÊ¾
-(2007-04-16
-11:05:50)
+(2007-04-16 11:05:50)
 ·ÖÀàĞÅÏ¢
 -->
 -->
@@ -29116,37 +27000,27 @@ TVBÖÆÔì³öµÄÌìÍõ¼¶ÄĞĞÇ
 ¸ü¶à¹ØÓÚ¡°ÖĞ¹ú¡±µÄĞÂÎÅ
 Ïà¹ØÁ´½Ó
 &#183;ÖĞ¹úÎÄÌ³£ºÓéÀÖ¡¢³­Ï®¡¢¹ÒÃû±³ºóµÄÍæ¼ÒĞÄÌ¬
-(2007-09-29
-10:47:19)
+(2007-09-29 10:47:19)
 &#183;ÖĞ¹úÕ½·ıÔÚÈÕ¾ü»ª±±¼¯ÖĞÓª±»³éÑª¡¢µ±´Ìµ¶°Ğ
-(2007-09-29
-09:28:51)
+(2007-09-29 09:28:51)
 &#183;ºÂÃÎÁä£ºÖĞ¹ú¿¹Õ½Ñ³¹úµÄµÚÒ»Î»¾ü³¤
-(2007-09-29
-09:05:39)
+(2007-09-29 09:05:39)
 &#183;1954Äê9ÔÂ29ÈÕ
 ºÕÂ³Ïş·òÂÊÍÅ²Î¼ÓÖĞ¹ú¹úÇì
-(2007-09-29
-08:44:49)
+(2007-09-29 08:44:49)
 &#183;1957Äê9ÔÂ29ÈÕ
 ĞÂÖĞ¹ú½¨³ÉµÚÒ»×ùÌìÎÄ¹İ
-(2007-09-29
-08:44:49)
+(2007-09-29 08:44:49)
 &#183;ÖĞ¹úÅ®ĞÔ×îÏëÒªµÄÄĞÈËµÄ¾«×Ó
-(2007-09-28
-09:33:24)
+(2007-09-28 09:33:24)
 &#183;×·²¶¡°¶şÍõ¡±ÃØÎÅ£ºĞÂÖĞ¹úÊ×´ÎĞüÉÍ
-(2007-09-28
-09:24:07)
+(2007-09-28 09:24:07)
 &#183;21ÊÀ¼ÍÖĞ¹ú×î¾ßÓéÀÖ¾«ÉñµÄÊıÊ®¸öË²¼ä
-(2007-09-27
-15:53:19)
+(2007-09-27 15:53:19)
 &#183;¡¶¾ÅÖİÖ¾¡·:ÁÑ±äÏÂµÄÖĞ¹ú»ÃÏëĞÂĞÍ¶ÁÎï
-(2007-09-27
-10:55:39)
+(2007-09-27 10:55:39)
 &#183;ºØÕÕÌï£ºµ±´úÖĞ¹ú¾«ÉñµÄÉî²ã¹¹Ôì
-(2007-09-27
-10:24:57)
+(2007-09-27 10:24:57)
 ·ÖÀàĞÅÏ¢
 -->
 -->
@@ -29411,38 +27285,28 @@ TVBÖÆÔì³öµÄÌìÍõ¼¶ÄĞĞÇ
 ¸ü¶à¹ØÓÚ¡°ÃÀ¹ú¡±µÄĞÂÎÅ
 Ïà¹ØÁ´½Ó
 &#183;µ±ÃÀ¹úÀÏÈË»èµ¹ÔÚÎÒÃæÇ°
-(2007-09-29
-11:03:45)
+(2007-09-29 11:03:45)
 &#183;ÃÀ¹úÕ¹³öº±¼ûÁ¬ÌåË«Ì¥Ë«Í·¹ê[Í¼]
-(2007-09-29
-10:40:35)
+(2007-09-29 10:40:35)
 &#183;ÄÏ¾©ÂÙÏİ³õÆÚ
 ÃÀ¹úÄÁÊ¦¸£Ë¹ÌØÅÄÉãµÄÕÕÆ¬
-(2007-09-27
-17:27:39)
+(2007-09-27 17:27:39)
 &#183;1840Äê9ÔÂ27ÈÕ
 ÃÀ¹úº£¾üÕ½ÂÔË¼Ïë¼ÒÂíºº³öÉú
-(2007-09-27
-08:14:02)
+(2007-09-27 08:14:02)
 &#183;ÃÀ¹úµÄ´óÃØÃÜ£ºÃÀÔªµÄ·¢ĞĞÓÉË½ÈËÒøĞĞ¿ØÖÆ
-(2007-09-25
-09:18:17)
+(2007-09-25 09:18:17)
 &#183;ÃÀ¹ú¿ó¹¤Îª¸ÄÉÆ¹¤×÷Ìõ¼şÓëÕş¸®¾ü¿ªÕ½£¨Í¼£©
-(2007-09-17
-10:16:59)
+(2007-09-17 10:16:59)
 &#183;ÃÀ¹ú¿ó¹¤Îª¸ÄÉÆ¹¤×÷Ìõ¼şÓëÕş¸®¾ü¿ªÕ½
-(2007-09-17
-10:07:17)
+(2007-09-17 10:07:17)
 &#183;ÒøĞĞ¼Ò£ºÍÆ¶¯ÃÀ¹úÄÏ±±Õ½ÕùµÄÕæÕıÄ»ºóºÚÊÖ
-(2007-09-12
-09:25:55)
+(2007-09-12 09:25:55)
 &#183;1901Äê9ÔÂ5ÈÕ
 ÃÀ¹ú×ÜÍ³Âó½ğÀ³Óö´Ì
-(2007-09-05
-09:01:17)
+(2007-09-05 09:01:17)
 &#183;ÃÀ¹ú³öÏÖÃàÑÓ182Ã×Ê·ÉÏ×îÅ£Ö©ÖëÍø£¨Í¼£©
-(2007-09-03
-10:17:48)
+(2007-09-03 10:17:48)
 ·ÖÀàĞÅÏ¢
 -->
 -->
@@ -29716,40 +27580,30 @@ TVBÖÆÔì³öµÄÌìÍõ¼¶ÄĞĞÇ
 ¸ü¶à¹ØÓÚ¡°±±¾©¡±µÄĞÂÎÅ
 Ïà¹ØÁ´½Ó
 &#183;¹ØÑ§Ôø£º±±¾©ÇÙÊéÊÇÎÒµÄ¡°ĞÄÍ·Èâ¡±
-(2007-09-27
-10:41:29)
+(2007-09-27 10:41:29)
 &#183;±±¾©ÒÕÊõ²©ÀÀ»áµñËÜ±»ÈËÆÃ·à×÷ÕßÄÕÅ­(Í¼)
-(2007-09-24
-15:19:45)
+(2007-09-24 15:19:45)
 &#183;±±¾©¹ú¼Ò´ó¾çÔº½ÒÃØ£º¹«¹²´óÌü¿ªÀ«¿°³ÆÈ«ÇòÖ®×î
-(2007-09-17
-19:48:00)
+(2007-09-17 19:48:00)
 &#183;±±¾©ÇàÄê±¨£ºÍ¨³ÔĞ¡Ä«Ä«¡°ÎÒÊÇµÁÄ¹Ğ¡ËµµÄÖÕ½áÕß¡±
-(2007-09-17
-16:56:09)
+(2007-09-17 16:56:09)
 &#183;2002Äê9ÔÂ16ÈÕ
 Ê×½ì¹ú¼ÊË®µ¾´ó»áÔÚ±±¾©¾ÙĞĞ
-(2007-09-16
-08:34:16)
+(2007-09-16 08:34:16)
 &#183;1994Äê9ÔÂ11ÈÕ
 Ó¢Óï½ÌÓı¼ÒĞí¹úè°ÔÚ±±¾©ÊÅÊÀ
-(2007-09-11
-08:36:07)
+(2007-09-11 08:36:07)
 &#183;Ã«Ôó¶«ÎªºÎ¾ö¶¨ĞÂÖĞ¹ú¶¨¶¼ÔÚ±±¾©
-(2007-09-06
-08:35:56)
+(2007-09-06 08:35:56)
 &#183;1959Äê8ÔÂ31ÈÕ
 ±±¾©¹¤ÈËÌåÓı³¡½¨³É
-(2007-08-31
-08:07:09)
+(2007-08-31 08:07:09)
 &#183;ÔÓË£¾ø»îÀÏÕÕÆ¬
 °ÙÄêÇ°ÀÏ±±¾©ÌìÇÅ·çÇé
-(2007-08-29
-16:23:40)
+(2007-08-29 16:23:40)
 &#183;1966Äê8ÔÂ24ÈÕ
 ÀÏÉáÔÚ±±¾©Í¶ºş×Ô¾¡
-(2007-08-24
-09:45:20)
+(2007-08-24 09:45:20)
 ·ÖÀàĞÅÏ¢
 -->
 -->
@@ -30566,36 +28420,26 @@ TVBÖÆÔì³öµÄÌìÍõ¼¶ÄĞĞÇ
 ¸ü¶à¹ØÓÚ¡°´óÊ¦¡±µÄĞÂÎÅ
 Ïà¹ØÁ´½Ó
 &#183;¹úÑ§´óÊ¦»ÆÙ©Í´ÂîºúÊÊ³Â¶ÀĞã[Í¼]
-(2007-09-27
-14:34:29)
+(2007-09-27 14:34:29)
 &#183;´óÊ¦ÑÛÖĞµÄÊ¯Í·¼Ç£ººúÊÊÌ¸¡°Ççö©ËºÉÈ¡±
-(2007-09-24
-12:07:30)
+(2007-09-24 12:07:30)
 &#183;ÌáÇÙ´óÊ¦±»Ö¸ÓÃÇéÈË³¦×Ó×öÇÙÏÒ(Í¼)
-(2007-09-24
-09:26:26)
+(2007-09-24 09:26:26)
 &#183;Ç®ÄÂ£ºĞÂÈå¼Ò´ú±íÈËÎïÖ®Ò»£¬ÖĞ¹ú×îºóµÄ¹úÑ§´óÊ¦
-(2007-08-31
-11:34:16)
+(2007-08-31 11:34:16)
 &#183;8ÔÂ27ÈÕÏÂÎçĞüÒÉ´óÊ¦²Ì¿¥×ö¿ÍÌÚÑ¶¶ÁÊé
-(2007-08-24
-16:14:15)
+(2007-08-24 16:14:15)
 &#183;ÆÀÊé´óÊ¦µ¥Ìï·¼¡¶°Ù¼Ò½²Ì³¡·¿ª½²ÒıÕùÒé
-(2007-08-24
-10:31:54)
+(2007-08-24 10:31:54)
 &#183;Ãñ¹ú´óÊ¦ÉÏ¿ÎµÄ¾«²Ê¿ª³¡°×
-(2007-08-24
-08:39:31)
+(2007-08-24 08:39:31)
 &#183;¾©¾ç´óÊ¦³ÌÑâÇï£ºÄşËÀÇ¹ÏÂ£¬²»ÎªµĞÎ±³ª
-(2007-07-19
-11:20:38)
+(2007-07-19 11:20:38)
 &#183;Áõ·Å£ºÄÏ»³èª£¬¹úÑ§´óÊ¦»¹ÊÇ½­ºşÆ­×Ó£¿
-(2007-07-13
-10:05:45)
+(2007-07-13 10:05:45)
 &#183;ºëÒ»´óÊ¦19ËêÊ±×÷ÎÄ¿¼¾íÃæÊÀ
 ÏÖÓÇ¹úÓÇÃñĞÄ
-(2007-07-10
-09:25:35)
+(2007-07-10 09:25:35)
 ·ÖÀàĞÅÏ¢
 -->
 -->
@@ -31121,40 +28965,30 @@ TVBÖÆÔì³öµÄÌìÍõ¼¶ÄĞĞÇ
 ÏòÅ®º¢Í¶½µ£¨È«ÎÄ£©
 ¸ü¶à¹ØÓÚ¡°ÃÀÅ®¡±µÄĞÂÎÅ
 &#183;ÃÀÀöÎŞÁ¿»¯ÃÀÅ®ÓĞ±ê×¼
-(2007-09-29
-15:00:22)
+(2007-09-29 15:00:22)
 &#183;¡°ÆëÂ³ÃÀÅ®±ê×¼¡±Óë¡°Ğ£³¤ÔÄ±ø¡±
-(2007-09-29
-14:57:21)
+(2007-09-29 14:57:21)
 &#183;¼ûÖ¤ÃÀÅ®µÄ³É³¤Àú³Ì
 ¹ØÖ®ÁÕË½ÃÜÕÕÆØ¹â
-(2007-09-21
-17:38:26)
+(2007-09-21 17:38:26)
 &#183;ÅÌµã¹Å½ñÖĞÍâÓéÀÖÈ¦µÄ´óÑÛÃÀÅ®
 µçÄãÃ»ÉÌÁ¿
-(2007-09-07
-18:02:17)
+(2007-09-07 18:02:17)
 &#183;ÖĞÍ³ÃÀÅ®ÌØÎñÉ«ÓÕºº¼éÏÂÉ±ÊÖ
 ÊÂ°ÜéæÃü(Í¼)
-(2007-09-06
-10:40:08)
+(2007-09-06 10:40:08)
 &#183;¡°ÃÀÅ®Ô×Ïà¡±ÉÏ¹ÙÍñ¶ù
 Ê¯ÁñÈ¹ÏÂµÄ¼«ÖÂ·çÁ÷
-(2007-09-06
-08:48:23)
+(2007-09-06 08:48:23)
 &#183;ÎÒÇ×ÊÖ»÷±Ğ×ùÉ½µñÈıÒÌÌ«ÃÀÅ®¡°»¨ºûµû¡±
-(2007-09-06
-08:39:34)
+(2007-09-06 08:39:34)
 &#183;ÍøÂçÃÀÅ®×÷¼Ò×Ï°ÙºÏ·ÃÌ¸ÊÓÆµ
-(2007-08-27
-12:03:57)
+(2007-08-27 12:03:57)
 &#183;ÍøÂçÃÀÅ®×÷¼Ò×Ï°ÙºÏ·ÃÌ¸£ºÖìé¦ÊÇ¸öÓĞ¹ÊÊÂµÄÄĞÈË
-(2007-08-27
-11:41:19)
+(2007-08-27 11:41:19)
 &#183;ÃÀÅ®¼äµıÉ«ÓÕÇğ¼ª¶ûÖ®×Ó
 Ö¤¾İ²»×ãÎŞ×ïÊÍ·Å
-(2007-08-23
-10:10:05)
+(2007-08-23 10:10:05)
 ·ÖÀàĞÅÏ¢
 -->
 -->
@@ -31420,39 +29254,29 @@ TVBÖÆÔì³öµÄÌìÍõ¼¶ÄĞĞÇ
 Ïà¹ØÁ´½Ó
 &#183;¼ûÖ¤ÃÀÅ®µÄ³É³¤Àú³Ì
 ¹ØÖ®ÁÕË½ÃÜÕÕÆØ¹â
-(2007-09-21
-17:38:26)
+(2007-09-21 17:38:26)
 &#183;ÅÌµã¹Å½ñÖĞÍâÓéÀÖÈ¦µÄ´óÑÛÃÀÅ®
 µçÄãÃ»ÉÌÁ¿
-(2007-09-07
-18:02:17)
+(2007-09-07 18:02:17)
 &#183;ÖĞÍ³ÃÀÅ®ÌØÎñÉ«ÓÕºº¼éÏÂÉ±ÊÖ
 ÊÂ°ÜéæÃü(Í¼)
-(2007-09-06
-10:40:08)
+(2007-09-06 10:40:08)
 &#183;¡°ÃÀÅ®Ô×Ïà¡±ÉÏ¹ÙÍñ¶ù
 Ê¯ÁñÈ¹ÏÂµÄ¼«ÖÂ·çÁ÷
-(2007-09-06
-08:48:23)
+(2007-09-06 08:48:23)
 &#183;ÎÒÇ×ÊÖ»÷±Ğ×ùÉ½µñÈıÒÌÌ«ÃÀÅ®¡°»¨ºûµû¡±
-(2007-09-06
-08:39:34)
+(2007-09-06 08:39:34)
 &#183;ÍøÂçÃÀÅ®×÷¼Ò×Ï°ÙºÏ·ÃÌ¸ÊÓÆµ
-(2007-08-27
-12:03:57)
+(2007-08-27 12:03:57)
 &#183;ÍøÂçÃÀÅ®×÷¼Ò×Ï°ÙºÏ·ÃÌ¸£ºÖìé¦ÊÇ¸öÓĞ¹ÊÊÂµÄÄĞÈË
-(2007-08-27
-11:41:19)
+(2007-08-27 11:41:19)
 &#183;ÃÀÅ®¼äµıÉ«ÓÕÇğ¼ª¶ûÖ®×Ó
 Ö¤¾İ²»×ãÎŞ×ïÊÍ·Å
-(2007-08-23
-10:10:05)
+(2007-08-23 10:10:05)
 &#183;²»ÀÏµÄ´«ÆæÃÀÅ®£ºÕÔÑÅÖ¥´ÓÒÕÉúÑÄ30ÄêÈ«¼ÇÂ¼
-(2007-08-21
-14:30:10)
+(2007-08-21 14:30:10)
 &#183;¡¶ÎçÒ¹Ğ×Áå¡·ÖĞµÄÕê×ÓÆäÊµÊÇ¸ö³¬¼¶´óÃÀÅ®
-(2007-08-17
-11:29:35)
+(2007-08-17 11:29:35)
 ·ÖÀàĞÅÏ¢
 -->
 -->
@@ -31720,40 +29544,30 @@ TVBÖÆÔì³öµÄÌìÍõ¼¶ÄĞĞÇ
 ¸ü¶à¹ØÓÚ¡°ÃÀÅ®¡±µÄĞÂÎÅ
 Ïà¹ØÁ´½Ó
 &#183;¡°ÆëÂ³ÃÀÅ®±ê×¼¡±Óë¡°Ğ£³¤ÔÄ±ø¡±
-(2007-09-29
-14:57:21)
+(2007-09-29 14:57:21)
 &#183;¼ûÖ¤ÃÀÅ®µÄ³É³¤Àú³Ì
 ¹ØÖ®ÁÕË½ÃÜÕÕÆØ¹â
-(2007-09-21
-17:38:26)
+(2007-09-21 17:38:26)
 &#183;ÅÌµã¹Å½ñÖĞÍâÓéÀÖÈ¦µÄ´óÑÛÃÀÅ®
 µçÄãÃ»ÉÌÁ¿
-(2007-09-07
-18:02:17)
+(2007-09-07 18:02:17)
 &#183;ÖĞÍ³ÃÀÅ®ÌØÎñÉ«ÓÕºº¼éÏÂÉ±ÊÖ
 ÊÂ°ÜéæÃü(Í¼)
-(2007-09-06
-10:40:08)
+(2007-09-06 10:40:08)
 &#183;¡°ÃÀÅ®Ô×Ïà¡±ÉÏ¹ÙÍñ¶ù
 Ê¯ÁñÈ¹ÏÂµÄ¼«ÖÂ·çÁ÷
-(2007-09-06
-08:48:23)
+(2007-09-06 08:48:23)
 &#183;ÎÒÇ×ÊÖ»÷±Ğ×ùÉ½µñÈıÒÌÌ«ÃÀÅ®¡°»¨ºûµû¡±
-(2007-09-06
-08:39:34)
+(2007-09-06 08:39:34)
 &#183;ÍøÂçÃÀÅ®×÷¼Ò×Ï°ÙºÏ·ÃÌ¸ÊÓÆµ
-(2007-08-27
-12:03:57)
+(2007-08-27 12:03:57)
 &#183;ÍøÂçÃÀÅ®×÷¼Ò×Ï°ÙºÏ·ÃÌ¸£ºÖìé¦ÊÇ¸öÓĞ¹ÊÊÂµÄÄĞÈË
-(2007-08-27
-11:41:19)
+(2007-08-27 11:41:19)
 &#183;ÃÀÅ®¼äµıÉ«ÓÕÇğ¼ª¶ûÖ®×Ó
 Ö¤¾İ²»×ãÎŞ×ïÊÍ·Å
-(2007-08-23
-10:10:05)
+(2007-08-23 10:10:05)
 &#183;²»ÀÏµÄ´«ÆæÃÀÅ®£ºÕÔÑÅÖ¥´ÓÒÕÉúÑÄ30ÄêÈ«¼ÇÂ¼
-(2007-08-21
-14:30:10)
+(2007-08-21 14:30:10)
 ·ÖÀàĞÅÏ¢
 -->
 -->
@@ -32030,36 +29844,26 @@ TVBÖÆÔì³öµÄÌìÍõ¼¶ÄĞĞÇ
 Ïà¹ØÁ´½Ó
 &#183;1881Äê9ÔÂ25ÈÕ
 Î°´óµÄÎÄÑ§¼ÒÂ³Ñ¸µ®³½
-(2007-09-25
-08:12:44)
+(2007-09-25 08:12:44)
 &#183;Â³Ñ¸ÓëÁÖÓïÌÃÎªÒ»´²ÎÃÕÊ¾ø½»£¿
-(2007-09-20
-09:06:35)
+(2007-09-20 09:06:35)
 &#183;½ğÓ¹VSÂ³Ñ¸£ºÃ¨±ÈÀÏ»¢»áÅÀÊ÷
-(2007-08-30
-09:48:21)
+(2007-08-30 09:48:21)
 &#183;Â³Ñ¸:ÖĞÒ½²»¹ıÊÇÒ»ÖÖÓĞÒâµÄ»òÎŞÒâµÄÆ­×Ó
-(2007-08-17
-09:20:24)
+(2007-08-17 09:20:24)
 &#183;Â³Ñ¸Ôâ¶Îì÷ÈğÕş¸®&quot;Í¨¼©&quot;µÄÕæÏà£¨×éÍ¼£©
-(2007-08-10
-15:01:09)
+(2007-08-10 15:01:09)
 &#183;¿×Çì¶«¡¶ÕıËµÂ³Ñ¸¡·¶ÁÕßÖ¸³ö30¶à´¦Ó²ÉË
-(2007-08-02
-10:56:47)
+(2007-08-02 10:56:47)
 &#183;ºÎÒÔÎªÉú£ºËãÒ»ËãÂ³Ñ¸Ò»ÉúÕõ¶àÉÙÇ®£¿
-(2007-07-27
-16:12:51)
+(2007-07-27 16:12:51)
 &#183;Â³Ñ¸Î´ÆØ¹â½²¸å£ºÉÙ¶ÁÖĞ¹úÊé£¬×öºÃÊÂÖ®Í½
-(2007-07-27
-14:49:28)
+(2007-07-27 14:49:28)
 &#183;Â³Ñ¸Ïò±±ÑóÕş¸®&quot;Ë÷Ğ½&quot;µÄ¶·Õù
-(2007-06-19
-16:51:38)
+(2007-06-19 16:51:38)
 &#183;Â³Ñ¸ºÍÎÄÑ§Ğ¡Íµ·ÅÔÚÒ»Æğ£¿
 ÍøÓÑÖÊÒÉ
-(2007-04-26
-10:23:51)
+(2007-04-26 10:23:51)
 ·ÖÀàĞÅÏ¢
 -->
 -->
@@ -32369,22 +30173,17 @@ TVBÖÆÔì³öµÄÌìÍõ¼¶ÄĞĞÇ
 Ïà¹ØÁ´½Ó
 &#183;·¨¹ú¼ÇÒä:
 Ğ¦£¡ÔÚ1910Äê¿´2000Äê
-(2007-09-27
-16:40:31)
+(2007-09-27 16:40:31)
 &#183;21ÊÀ¼ÍÖĞ¹ú×î¾ßÓéÀÖ¾«ÉñµÄÊıÊ®¸öË²¼ä
-(2007-09-27
-15:53:19)
+(2007-09-27 15:53:19)
 &#183;¾øÊÀ¾ªã¤:ÊÀ½çÉÏ¸÷¹ú¼ÒµÄÇ§Äê×çÖäĞüÃÔ
-(2007-09-27
-10:55:14)
+(2007-09-27 10:55:14)
 &#183;¿ÉÈİÏÂÒ»¸ö³ÇÕò
 ÊÀ½çÉÏÆß¸ö×î´óµÄÈËÔìµØÑ¨
-(2007-09-20
-17:40:23)
+(2007-09-20 17:40:23)
 &#183;ÈıÇ§³è°®¼¯ÓÚÒ»Éí
 ÏãåúÆäÈËÒÔ¼°ÉíÊÀÖ®ÃÕ
-(2007-09-19
-11:32:02)
+(2007-09-19 11:32:02)
 ·ÖÀàĞÅÏ¢
 -->
 -->
@@ -32695,22 +30494,17 @@ TVBÖÆÔì³öµÄÌìÍõ¼¶ÄĞĞÇ
 Ïà¹ØÁ´½Ó
 &#183;·¨¹ú¼ÇÒä:
 Ğ¦£¡ÔÚ1910Äê¿´2000Äê
-(2007-09-27
-16:40:31)
+(2007-09-27 16:40:31)
 &#183;21ÊÀ¼ÍÖĞ¹ú×î¾ßÓéÀÖ¾«ÉñµÄÊıÊ®¸öË²¼ä
-(2007-09-27
-15:53:19)
+(2007-09-27 15:53:19)
 &#183;¾øÊÀ¾ªã¤:ÊÀ½çÉÏ¸÷¹ú¼ÒµÄÇ§Äê×çÖäĞüÃÔ
-(2007-09-27
-10:55:14)
+(2007-09-27 10:55:14)
 &#183;¿ÉÈİÏÂÒ»¸ö³ÇÕò
 ÊÀ½çÉÏÆß¸ö×î´óµÄÈËÔìµØÑ¨
-(2007-09-20
-17:40:23)
+(2007-09-20 17:40:23)
 &#183;ÈıÇ§³è°®¼¯ÓÚÒ»Éí
 ÏãåúÆäÈËÒÔ¼°ÉíÊÀÖ®ÃÕ
-(2007-09-19
-11:32:02)
+(2007-09-19 11:32:02)
 ·ÖÀàĞÅÏ¢
 -->
 -->
@@ -33021,22 +30815,17 @@ TVBÖÆÔì³öµÄÌìÍõ¼¶ÄĞĞÇ
 Ïà¹ØÁ´½Ó
 &#183;·¨¹ú¼ÇÒä:
 Ğ¦£¡ÔÚ1910Äê¿´2000Äê
-(2007-09-27
-16:40:31)
+(2007-09-27 16:40:31)
 &#183;21ÊÀ¼ÍÖĞ¹ú×î¾ßÓéÀÖ¾«ÉñµÄÊıÊ®¸öË²¼ä
-(2007-09-27
-15:53:19)
+(2007-09-27 15:53:19)
 &#183;¾øÊÀ¾ªã¤:ÊÀ½çÉÏ¸÷¹ú¼ÒµÄÇ§Äê×çÖäĞüÃÔ
-(2007-09-27
-10:55:14)
+(2007-09-27 10:55:14)
 &#183;¿ÉÈİÏÂÒ»¸ö³ÇÕò
 ÊÀ½çÉÏÆß¸ö×î´óµÄÈËÔìµØÑ¨
-(2007-09-20
-17:40:23)
+(2007-09-20 17:40:23)
 &#183;ÈıÇ§³è°®¼¯ÓÚÒ»Éí
 ÏãåúÆäÈËÒÔ¼°ÉíÊÀÖ®ÃÕ
-(2007-09-19
-11:32:02)
+(2007-09-19 11:32:02)
 ·ÖÀàĞÅÏ¢
 -->
 -->
@@ -33347,22 +31136,17 @@ TVBÖÆÔì³öµÄÌìÍõ¼¶ÄĞĞÇ
 Ïà¹ØÁ´½Ó
 &#183;·¨¹ú¼ÇÒä:
 Ğ¦£¡ÔÚ1910Äê¿´2000Äê
-(2007-09-27
-16:40:31)
+(2007-09-27 16:40:31)
 &#183;21ÊÀ¼ÍÖĞ¹ú×î¾ßÓéÀÖ¾«ÉñµÄÊıÊ®¸öË²¼ä
-(2007-09-27
-15:53:19)
+(2007-09-27 15:53:19)
 &#183;¾øÊÀ¾ªã¤:ÊÀ½çÉÏ¸÷¹ú¼ÒµÄÇ§Äê×çÖäĞüÃÔ
-(2007-09-27
-10:55:14)
+(2007-09-27 10:55:14)
 &#183;¿ÉÈİÏÂÒ»¸ö³ÇÕò
 ÊÀ½çÉÏÆß¸ö×î´óµÄÈËÔìµØÑ¨
-(2007-09-20
-17:40:23)
+(2007-09-20 17:40:23)
 &#183;ÈıÇ§³è°®¼¯ÓÚÒ»Éí
 ÏãåúÆäÈËÒÔ¼°ÉíÊÀÖ®ÃÕ
-(2007-09-19
-11:32:02)
+(2007-09-19 11:32:02)
 ·ÖÀàĞÅÏ¢
 -->
 -->
@@ -33673,22 +31457,17 @@ TVBÖÆÔì³öµÄÌìÍõ¼¶ÄĞĞÇ
 Ïà¹ØÁ´½Ó
 &#183;·¨¹ú¼ÇÒä:
 Ğ¦£¡ÔÚ1910Äê¿´2000Äê
-(2007-09-27
-16:40:31)
+(2007-09-27 16:40:31)
 &#183;21ÊÀ¼ÍÖĞ¹ú×î¾ßÓéÀÖ¾«ÉñµÄÊıÊ®¸öË²¼ä
-(2007-09-27
-15:53:19)
+(2007-09-27 15:53:19)
 &#183;¾øÊÀ¾ªã¤:ÊÀ½çÉÏ¸÷¹ú¼ÒµÄÇ§Äê×çÖäĞüÃÔ
-(2007-09-27
-10:55:14)
+(2007-09-27 10:55:14)
 &#183;¿ÉÈİÏÂÒ»¸ö³ÇÕò
 ÊÀ½çÉÏÆß¸ö×î´óµÄÈËÔìµØÑ¨
-(2007-09-20
-17:40:23)
+(2007-09-20 17:40:23)
 &#183;ÈıÇ§³è°®¼¯ÓÚÒ»Éí
 ÏãåúÆäÈËÒÔ¼°ÉíÊÀÖ®ÃÕ
-(2007-09-19
-11:32:02)
+(2007-09-19 11:32:02)
 ·ÖÀàĞÅÏ¢
 -->
 -->
@@ -33999,22 +31778,17 @@ TVBÖÆÔì³öµÄÌìÍõ¼¶ÄĞĞÇ
 Ïà¹ØÁ´½Ó
 &#183;·¨¹ú¼ÇÒä:
 Ğ¦£¡ÔÚ1910Äê¿´2000Äê
-(2007-09-27
-16:40:31)
+(2007-09-27 16:40:31)
 &#183;21ÊÀ¼ÍÖĞ¹ú×î¾ßÓéÀÖ¾«ÉñµÄÊıÊ®¸öË²¼ä
-(2007-09-27
-15:53:19)
+(2007-09-27 15:53:19)
 &#183;¾øÊÀ¾ªã¤:ÊÀ½çÉÏ¸÷¹ú¼ÒµÄÇ§Äê×çÖäĞüÃÔ
-(2007-09-27
-10:55:14)
+(2007-09-27 10:55:14)
 &#183;¿ÉÈİÏÂÒ»¸ö³ÇÕò
 ÊÀ½çÉÏÆß¸ö×î´óµÄÈËÔìµØÑ¨
-(2007-09-20
-17:40:23)
+(2007-09-20 17:40:23)
 &#183;ÈıÇ§³è°®¼¯ÓÚÒ»Éí
 ÏãåúÆäÈËÒÔ¼°ÉíÊÀÖ®ÃÕ
-(2007-09-19
-11:32:02)
+(2007-09-19 11:32:02)
 ·ÖÀàĞÅÏ¢
 -->
 -->
@@ -34325,22 +32099,17 @@ TVBÖÆÔì³öµÄÌìÍõ¼¶ÄĞĞÇ
 Ïà¹ØÁ´½Ó
 &#183;·¨¹ú¼ÇÒä:
 Ğ¦£¡ÔÚ1910Äê¿´2000Äê
-(2007-09-27
-16:40:31)
+(2007-09-27 16:40:31)
 &#183;21ÊÀ¼ÍÖĞ¹ú×î¾ßÓéÀÖ¾«ÉñµÄÊıÊ®¸öË²¼ä
-(2007-09-27
-15:53:19)
+(2007-09-27 15:53:19)
 &#183;¾øÊÀ¾ªã¤:ÊÀ½çÉÏ¸÷¹ú¼ÒµÄÇ§Äê×çÖäĞüÃÔ
-(2007-09-27
-10:55:14)
+(2007-09-27 10:55:14)
 &#183;¿ÉÈİÏÂÒ»¸ö³ÇÕò
 ÊÀ½çÉÏÆß¸ö×î´óµÄÈËÔìµØÑ¨
-(2007-09-20
-17:40:23)
+(2007-09-20 17:40:23)
 &#183;ÈıÇ§³è°®¼¯ÓÚÒ»Éí
 ÏãåúÆäÈËÒÔ¼°ÉíÊÀÖ®ÃÕ
-(2007-09-19
-11:32:02)
+(2007-09-19 11:32:02)
 ·ÖÀàĞÅÏ¢
 -->
 -->
@@ -34651,22 +32420,17 @@ TVBÖÆÔì³öµÄÌìÍõ¼¶ÄĞĞÇ
 Ïà¹ØÁ´½Ó
 &#183;·¨¹ú¼ÇÒä:
 Ğ¦£¡ÔÚ1910Äê¿´2000Äê
-(2007-09-27
-16:40:31)
+(2007-09-27 16:40:31)
 &#183;21ÊÀ¼ÍÖĞ¹ú×î¾ßÓéÀÖ¾«ÉñµÄÊıÊ®¸öË²¼ä
-(2007-09-27
-15:53:19)
+(2007-09-27 15:53:19)
 &#183;¾øÊÀ¾ªã¤:ÊÀ½çÉÏ¸÷¹ú¼ÒµÄÇ§Äê×çÖäĞüÃÔ
-(2007-09-27
-10:55:14)
+(2007-09-27 10:55:14)
 &#183;¿ÉÈİÏÂÒ»¸ö³ÇÕò
 ÊÀ½çÉÏÆß¸ö×î´óµÄÈËÔìµØÑ¨
-(2007-09-20
-17:40:23)
+(2007-09-20 17:40:23)
 &#183;ÈıÇ§³è°®¼¯ÓÚÒ»Éí
 ÏãåúÆäÈËÒÔ¼°ÉíÊÀÖ®ÃÕ
-(2007-09-19
-11:32:02)
+(2007-09-19 11:32:02)
 ·ÖÀàĞÅÏ¢
 -->
 -->
@@ -34977,22 +32741,17 @@ TVBÖÆÔì³öµÄÌìÍõ¼¶ÄĞĞÇ
 Ïà¹ØÁ´½Ó
 &#183;·¨¹ú¼ÇÒä:
 Ğ¦£¡ÔÚ1910Äê¿´2000Äê
-(2007-09-27
-16:40:31)
+(2007-09-27 16:40:31)
 &#183;21ÊÀ¼ÍÖĞ¹ú×î¾ßÓéÀÖ¾«ÉñµÄÊıÊ®¸öË²¼ä
-(2007-09-27
-15:53:19)
+(2007-09-27 15:53:19)
 &#183;¾øÊÀ¾ªã¤:ÊÀ½çÉÏ¸÷¹ú¼ÒµÄÇ§Äê×çÖäĞüÃÔ
-(2007-09-27
-10:55:14)
+(2007-09-27 10:55:14)
 &#183;¿ÉÈİÏÂÒ»¸ö³ÇÕò
 ÊÀ½çÉÏÆß¸ö×î´óµÄÈËÔìµØÑ¨
-(2007-09-20
-17:40:23)
+(2007-09-20 17:40:23)
 &#183;ÈıÇ§³è°®¼¯ÓÚÒ»Éí
 ÏãåúÆäÈËÒÔ¼°ÉíÊÀÖ®ÃÕ
-(2007-09-19
-11:32:02)
+(2007-09-19 11:32:02)
 ·ÖÀàĞÅÏ¢
 -->
 -->
@@ -35303,22 +33062,17 @@ TVBÖÆÔì³öµÄÌìÍõ¼¶ÄĞĞÇ
 Ïà¹ØÁ´½Ó
 &#183;·¨¹ú¼ÇÒä:
 Ğ¦£¡ÔÚ1910Äê¿´2000Äê
-(2007-09-27
-16:40:31)
+(2007-09-27 16:40:31)
 &#183;21ÊÀ¼ÍÖĞ¹ú×î¾ßÓéÀÖ¾«ÉñµÄÊıÊ®¸öË²¼ä
-(2007-09-27
-15:53:19)
+(2007-09-27 15:53:19)
 &#183;¾øÊÀ¾ªã¤:ÊÀ½çÉÏ¸÷¹ú¼ÒµÄÇ§Äê×çÖäĞüÃÔ
-(2007-09-27
-10:55:14)
+(2007-09-27 10:55:14)
 &#183;¿ÉÈİÏÂÒ»¸ö³ÇÕò
 ÊÀ½çÉÏÆß¸ö×î´óµÄÈËÔìµØÑ¨
-(2007-09-20
-17:40:23)
+(2007-09-20 17:40:23)
 &#183;ÈıÇ§³è°®¼¯ÓÚÒ»Éí
 ÏãåúÆäÈËÒÔ¼°ÉíÊÀÖ®ÃÕ
-(2007-09-19
-11:32:02)
+(2007-09-19 11:32:02)
 ·ÖÀàĞÅÏ¢
 -->
 -->
@@ -35542,9 +33296,7 @@ http://book.QQ.com2007Äê09ÔÂ29ÈÕ16:55
 QQÂÛÌ³
 ÆÀÂÛ0Ìõ
 (Í¼2)
-Ì©Ì¹Äá¿ËµÄ½¨ÔìÊ¼ÓÚ1909Äê£¬µ±Ê±µÄ¹şÀ¼&#183;ÎÖ¶û·ò£¨Harland
-&amp;
-Wolff£©´¬³§ĞèÒªÀ©½¨×Ô¼ºµÄÔì´¬³§£¬ÓµÓĞ¸ü´óµÄÂëÍ·ºÍ¹¹Ì¨ÓÃÒÔÅäºÏ½¨Ôì¸ü´óµÄº½ÔË´¬Ö»&#8212;&#8212;Ì©Ì¹Äá¿ËºÍÆäæ¢ÃÃ´¬°ÂÁÖÆ¥¿Ë¡£ÕâÁ½ËÒ´¬ÊÇ²¢ÅÅ×ÅÒ»¿é½¨ÔìµÄ¡£
+Ì©Ì¹Äá¿ËµÄ½¨ÔìÊ¼ÓÚ1909Äê£¬µ±Ê±µÄ¹şÀ¼&#183;ÎÖ¶û·ò£¨Harland &amp; Wolff£©´¬³§ĞèÒªÀ©½¨×Ô¼ºµÄÔì´¬³§£¬ÓµÓĞ¸ü´óµÄÂëÍ·ºÍ¹¹Ì¨ÓÃÒÔÅäºÏ½¨Ôì¸ü´óµÄº½ÔË´¬Ö»&#8212;&#8212;Ì©Ì¹Äá¿ËºÍÆäæ¢ÃÃ´¬°ÂÁÖÆ¥¿Ë¡£ÕâÁ½ËÒ´¬ÊÇ²¢ÅÅ×ÅÒ»¿é½¨ÔìµÄ¡£
 È«ÇòÊ®´ó¹ÖÒìÌìÆø
 ¾©³ÇÀÏÃñË×ÈÃÄã¿ªÑÛ½ç
 Ê®¶şĞÇ×ùÏ£À°Éñ»°ÆğÔ´
@@ -35631,22 +33383,17 @@ TVBÖÆÔì³öµÄÌìÍõ¼¶ÄĞĞÇ
 Ïà¹ØÁ´½Ó
 &#183;·¨¹ú¼ÇÒä:
 Ğ¦£¡ÔÚ1910Äê¿´2000Äê
-(2007-09-27
-16:40:31)
+(2007-09-27 16:40:31)
 &#183;21ÊÀ¼ÍÖĞ¹ú×î¾ßÓéÀÖ¾«ÉñµÄÊıÊ®¸öË²¼ä
-(2007-09-27
-15:53:19)
+(2007-09-27 15:53:19)
 &#183;¾øÊÀ¾ªã¤:ÊÀ½çÉÏ¸÷¹ú¼ÒµÄÇ§Äê×çÖäĞüÃÔ
-(2007-09-27
-10:55:14)
+(2007-09-27 10:55:14)
 &#183;¿ÉÈİÏÂÒ»¸ö³ÇÕò
 ÊÀ½çÉÏÆß¸ö×î´óµÄÈËÔìµØÑ¨
-(2007-09-20
-17:40:23)
+(2007-09-20 17:40:23)
 &#183;ÈıÇ§³è°®¼¯ÓÚÒ»Éí
 ÏãåúÆäÈËÒÔ¼°ÉíÊÀÖ®ÃÕ
-(2007-09-19
-11:32:02)
+(2007-09-19 11:32:02)
 ·ÖÀàĞÅÏ¢
 -->
 -->
@@ -35957,22 +33704,17 @@ TVBÖÆÔì³öµÄÌìÍõ¼¶ÄĞĞÇ
 Ïà¹ØÁ´½Ó
 &#183;·¨¹ú¼ÇÒä:
 Ğ¦£¡ÔÚ1910Äê¿´2000Äê
-(2007-09-27
-16:40:31)
+(2007-09-27 16:40:31)
 &#183;21ÊÀ¼ÍÖĞ¹ú×î¾ßÓéÀÖ¾«ÉñµÄÊıÊ®¸öË²¼ä
-(2007-09-27
-15:53:19)
+(2007-09-27 15:53:19)
 &#183;¾øÊÀ¾ªã¤:ÊÀ½çÉÏ¸÷¹ú¼ÒµÄÇ§Äê×çÖäĞüÃÔ
-(2007-09-27
-10:55:14)
+(2007-09-27 10:55:14)
 &#183;¿ÉÈİÏÂÒ»¸ö³ÇÕò
 ÊÀ½çÉÏÆß¸ö×î´óµÄÈËÔìµØÑ¨
-(2007-09-20
-17:40:23)
+(2007-09-20 17:40:23)
 &#183;ÈıÇ§³è°®¼¯ÓÚÒ»Éí
 ÏãåúÆäÈËÒÔ¼°ÉíÊÀÖ®ÃÕ
-(2007-09-19
-11:32:02)
+(2007-09-19 11:32:02)
 ·ÖÀàĞÅÏ¢
 -->
 -->
@@ -36284,22 +34026,17 @@ TVBÖÆÔì³öµÄÌìÍõ¼¶ÄĞĞÇ
 Ïà¹ØÁ´½Ó
 &#183;·¨¹ú¼ÇÒä:
 Ğ¦£¡ÔÚ1910Äê¿´2000Äê
-(2007-09-27
-16:40:31)
+(2007-09-27 16:40:31)
 &#183;21ÊÀ¼ÍÖĞ¹ú×î¾ßÓéÀÖ¾«ÉñµÄÊıÊ®¸öË²¼ä
-(2007-09-27
-15:53:19)
+(2007-09-27 15:53:19)
 &#183;¾øÊÀ¾ªã¤:ÊÀ½çÉÏ¸÷¹ú¼ÒµÄÇ§Äê×çÖäĞüÃÔ
-(2007-09-27
-10:55:14)
+(2007-09-27 10:55:14)
 &#183;¿ÉÈİÏÂÒ»¸ö³ÇÕò
 ÊÀ½çÉÏÆß¸ö×î´óµÄÈËÔìµØÑ¨
-(2007-09-20
-17:40:23)
+(2007-09-20 17:40:23)
 &#183;ÈıÇ§³è°®¼¯ÓÚÒ»Éí
 ÏãåúÆäÈËÒÔ¼°ÉíÊÀÖ®ÃÕ
-(2007-09-19
-11:32:02)
+(2007-09-19 11:32:02)
 ·ÖÀàĞÅÏ¢
 -->
 -->
@@ -36610,22 +34347,17 @@ TVBÖÆÔì³öµÄÌìÍõ¼¶ÄĞĞÇ
 Ïà¹ØÁ´½Ó
 &#183;·¨¹ú¼ÇÒä:
 Ğ¦£¡ÔÚ1910Äê¿´2000Äê
-(2007-09-27
-16:40:31)
+(2007-09-27 16:40:31)
 &#183;21ÊÀ¼ÍÖĞ¹ú×î¾ßÓéÀÖ¾«ÉñµÄÊıÊ®¸öË²¼ä
-(2007-09-27
-15:53:19)
+(2007-09-27 15:53:19)
 &#183;¾øÊÀ¾ªã¤:ÊÀ½çÉÏ¸÷¹ú¼ÒµÄÇ§Äê×çÖäĞüÃÔ
-(2007-09-27
-10:55:14)
+(2007-09-27 10:55:14)
 &#183;¿ÉÈİÏÂÒ»¸ö³ÇÕò
 ÊÀ½çÉÏÆß¸ö×î´óµÄÈËÔìµØÑ¨
-(2007-09-20
-17:40:23)
+(2007-09-20 17:40:23)
 &#183;ÈıÇ§³è°®¼¯ÓÚÒ»Éí
 ÏãåúÆäÈËÒÔ¼°ÉíÊÀÖ®ÃÕ
-(2007-09-19
-11:32:02)
+(2007-09-19 11:32:02)
 ·ÖÀàĞÅÏ¢
 -->
 -->
@@ -36936,22 +34668,17 @@ TVBÖÆÔì³öµÄÌìÍõ¼¶ÄĞĞÇ
 Ïà¹ØÁ´½Ó
 &#183;·¨¹ú¼ÇÒä:
 Ğ¦£¡ÔÚ1910Äê¿´2000Äê
-(2007-09-27
-16:40:31)
+(2007-09-27 16:40:31)
 &#183;21ÊÀ¼ÍÖĞ¹ú×î¾ßÓéÀÖ¾«ÉñµÄÊıÊ®¸öË²¼ä
-(2007-09-27
-15:53:19)
+(2007-09-27 15:53:19)
 &#183;¾øÊÀ¾ªã¤:ÊÀ½çÉÏ¸÷¹ú¼ÒµÄÇ§Äê×çÖäĞüÃÔ
-(2007-09-27
-10:55:14)
+(2007-09-27 10:55:14)
 &#183;¿ÉÈİÏÂÒ»¸ö³ÇÕò
 ÊÀ½çÉÏÆß¸ö×î´óµÄÈËÔìµØÑ¨
-(2007-09-20
-17:40:23)
+(2007-09-20 17:40:23)
 &#183;ÈıÇ§³è°®¼¯ÓÚÒ»Éí
 ÏãåúÆäÈËÒÔ¼°ÉíÊÀÖ®ÃÕ
-(2007-09-19
-11:32:02)
+(2007-09-19 11:32:02)
 ·ÖÀàĞÅÏ¢
 -->
 -->
@@ -37262,22 +34989,17 @@ TVBÖÆÔì³öµÄÌìÍõ¼¶ÄĞĞÇ
 Ïà¹ØÁ´½Ó
 &#183;·¨¹ú¼ÇÒä:
 Ğ¦£¡ÔÚ1910Äê¿´2000Äê
-(2007-09-27
-16:40:31)
+(2007-09-27 16:40:31)
 &#183;21ÊÀ¼ÍÖĞ¹ú×î¾ßÓéÀÖ¾«ÉñµÄÊıÊ®¸öË²¼ä
-(2007-09-27
-15:53:19)
+(2007-09-27 15:53:19)
 &#183;¾øÊÀ¾ªã¤:ÊÀ½çÉÏ¸÷¹ú¼ÒµÄÇ§Äê×çÖäĞüÃÔ
-(2007-09-27
-10:55:14)
+(2007-09-27 10:55:14)
 &#183;¿ÉÈİÏÂÒ»¸ö³ÇÕò
 ÊÀ½çÉÏÆß¸ö×î´óµÄÈËÔìµØÑ¨
-(2007-09-20
-17:40:23)
+(2007-09-20 17:40:23)
 &#183;ÈıÇ§³è°®¼¯ÓÚÒ»Éí
 ÏãåúÆäÈËÒÔ¼°ÉíÊÀÖ®ÃÕ
-(2007-09-19
-11:32:02)
+(2007-09-19 11:32:02)
 ·ÖÀàĞÅÏ¢
 -->
 -->
@@ -37589,22 +35311,17 @@ TVBÖÆÔì³öµÄÌìÍõ¼¶ÄĞĞÇ
 Ïà¹ØÁ´½Ó
 &#183;·¨¹ú¼ÇÒä:
 Ğ¦£¡ÔÚ1910Äê¿´2000Äê
-(2007-09-27
-16:40:31)
+(2007-09-27 16:40:31)
 &#183;21ÊÀ¼ÍÖĞ¹ú×î¾ßÓéÀÖ¾«ÉñµÄÊıÊ®¸öË²¼ä
-(2007-09-27
-15:53:19)
+(2007-09-27 15:53:19)
 &#183;¾øÊÀ¾ªã¤:ÊÀ½çÉÏ¸÷¹ú¼ÒµÄÇ§Äê×çÖäĞüÃÔ
-(2007-09-27
-10:55:14)
+(2007-09-27 10:55:14)
 &#183;¿ÉÈİÏÂÒ»¸ö³ÇÕò
 ÊÀ½çÉÏÆß¸ö×î´óµÄÈËÔìµØÑ¨
-(2007-09-20
-17:40:23)
+(2007-09-20 17:40:23)
 &#183;ÈıÇ§³è°®¼¯ÓÚÒ»Éí
 ÏãåúÆäÈËÒÔ¼°ÉíÊÀÖ®ÃÕ
-(2007-09-19
-11:32:02)
+(2007-09-19 11:32:02)
 ·ÖÀàĞÅÏ¢
 -->
 -->
@@ -37915,22 +35632,17 @@ TVBÖÆÔì³öµÄÌìÍõ¼¶ÄĞĞÇ
 Ïà¹ØÁ´½Ó
 &#183;·¨¹ú¼ÇÒä:
 Ğ¦£¡ÔÚ1910Äê¿´2000Äê
-(2007-09-27
-16:40:31)
+(2007-09-27 16:40:31)
 &#183;21ÊÀ¼ÍÖĞ¹ú×î¾ßÓéÀÖ¾«ÉñµÄÊıÊ®¸öË²¼ä
-(2007-09-27
-15:53:19)
+(2007-09-27 15:53:19)
 &#183;¾øÊÀ¾ªã¤:ÊÀ½çÉÏ¸÷¹ú¼ÒµÄÇ§Äê×çÖäĞüÃÔ
-(2007-09-27
-10:55:14)
+(2007-09-27 10:55:14)
 &#183;¿ÉÈİÏÂÒ»¸ö³ÇÕò
 ÊÀ½çÉÏÆß¸ö×î´óµÄÈËÔìµØÑ¨
-(2007-09-20
-17:40:23)
+(2007-09-20 17:40:23)
 &#183;ÈıÇ§³è°®¼¯ÓÚÒ»Éí
 ÏãåúÆäÈËÒÔ¼°ÉíÊÀÖ®ÃÕ
-(2007-09-19
-11:32:02)
+(2007-09-19 11:32:02)
 ·ÖÀàĞÅÏ¢
 -->
 -->
@@ -38241,22 +35953,17 @@ TVBÖÆÔì³öµÄÌìÍõ¼¶ÄĞĞÇ
 Ïà¹ØÁ´½Ó
 &#183;·¨¹ú¼ÇÒä:
 Ğ¦£¡ÔÚ1910Äê¿´2000Äê
-(2007-09-27
-16:40:31)
+(2007-09-27 16:40:31)
 &#183;21ÊÀ¼ÍÖĞ¹ú×î¾ßÓéÀÖ¾«ÉñµÄÊıÊ®¸öË²¼ä
-(2007-09-27
-15:53:19)
+(2007-09-27 15:53:19)
 &#183;¾øÊÀ¾ªã¤:ÊÀ½çÉÏ¸÷¹ú¼ÒµÄÇ§Äê×çÖäĞüÃÔ
-(2007-09-27
-10:55:14)
+(2007-09-27 10:55:14)
 &#183;¿ÉÈİÏÂÒ»¸ö³ÇÕò
 ÊÀ½çÉÏÆß¸ö×î´óµÄÈËÔìµØÑ¨
-(2007-09-20
-17:40:23)
+(2007-09-20 17:40:23)
 &#183;ÈıÇ§³è°®¼¯ÓÚÒ»Éí
 ÏãåúÆäÈËÒÔ¼°ÉíÊÀÖ®ÃÕ
-(2007-09-19
-11:32:02)
+(2007-09-19 11:32:02)
 ·ÖÀàĞÅÏ¢
 -->
 -->
@@ -38567,22 +36274,17 @@ TVBÖÆÔì³öµÄÌìÍõ¼¶ÄĞĞÇ
 Ïà¹ØÁ´½Ó
 &#183;·¨¹ú¼ÇÒä:
 Ğ¦£¡ÔÚ1910Äê¿´2000Äê
-(2007-09-27
-16:40:31)
+(2007-09-27 16:40:31)
 &#183;21ÊÀ¼ÍÖĞ¹ú×î¾ßÓéÀÖ¾«ÉñµÄÊıÊ®¸öË²¼ä
-(2007-09-27
-15:53:19)
+(2007-09-27 15:53:19)
 &#183;¾øÊÀ¾ªã¤:ÊÀ½çÉÏ¸÷¹ú¼ÒµÄÇ§Äê×çÖäĞüÃÔ
-(2007-09-27
-10:55:14)
+(2007-09-27 10:55:14)
 &#183;¿ÉÈİÏÂÒ»¸ö³ÇÕò
 ÊÀ½çÉÏÆß¸ö×î´óµÄÈËÔìµØÑ¨
-(2007-09-20
-17:40:23)
+(2007-09-20 17:40:23)
 &#183;ÈıÇ§³è°®¼¯ÓÚÒ»Éí
 ÏãåúÆäÈËÒÔ¼°ÉíÊÀÖ®ÃÕ
-(2007-09-19
-11:32:02)
+(2007-09-19 11:32:02)
 ·ÖÀàĞÅÏ¢
 -->
 -->
@@ -38893,22 +36595,17 @@ TVBÖÆÔì³öµÄÌìÍõ¼¶ÄĞĞÇ
 Ïà¹ØÁ´½Ó
 &#183;·¨¹ú¼ÇÒä:
 Ğ¦£¡ÔÚ1910Äê¿´2000Äê
-(2007-09-27
-16:40:31)
+(2007-09-27 16:40:31)
 &#183;21ÊÀ¼ÍÖĞ¹ú×î¾ßÓéÀÖ¾«ÉñµÄÊıÊ®¸öË²¼ä
-(2007-09-27
-15:53:19)
+(2007-09-27 15:53:19)
 &#183;¾øÊÀ¾ªã¤:ÊÀ½çÉÏ¸÷¹ú¼ÒµÄÇ§Äê×çÖäĞüÃÔ
-(2007-09-27
-10:55:14)
+(2007-09-27 10:55:14)
 &#183;¿ÉÈİÏÂÒ»¸ö³ÇÕò
 ÊÀ½çÉÏÆß¸ö×î´óµÄÈËÔìµØÑ¨
-(2007-09-20
-17:40:23)
+(2007-09-20 17:40:23)
 &#183;ÈıÇ§³è°®¼¯ÓÚÒ»Éí
 ÏãåúÆäÈËÒÔ¼°ÉíÊÀÖ®ÃÕ
-(2007-09-19
-11:32:02)
+(2007-09-19 11:32:02)
 ·ÖÀàĞÅÏ¢
 -->
 -->
@@ -39219,22 +36916,17 @@ TVBÖÆÔì³öµÄÌìÍõ¼¶ÄĞĞÇ
 Ïà¹ØÁ´½Ó
 &#183;·¨¹ú¼ÇÒä:
 Ğ¦£¡ÔÚ1910Äê¿´2000Äê
-(2007-09-27
-16:40:31)
+(2007-09-27 16:40:31)
 &#183;21ÊÀ¼ÍÖĞ¹ú×î¾ßÓéÀÖ¾«ÉñµÄÊıÊ®¸öË²¼ä
-(2007-09-27
-15:53:19)
+(2007-09-27 15:53:19)
 &#183;¾øÊÀ¾ªã¤:ÊÀ½çÉÏ¸÷¹ú¼ÒµÄÇ§Äê×çÖäĞüÃÔ
-(2007-09-27
-10:55:14)
+(2007-09-27 10:55:14)
 &#183;¿ÉÈİÏÂÒ»¸ö³ÇÕò
 ÊÀ½çÉÏÆß¸ö×î´óµÄÈËÔìµØÑ¨
-(2007-09-20
-17:40:23)
+(2007-09-20 17:40:23)
 &#183;ÈıÇ§³è°®¼¯ÓÚÒ»Éí
 ÏãåúÆäÈËÒÔ¼°ÉíÊÀÖ®ÃÕ
-(2007-09-19
-11:32:02)
+(2007-09-19 11:32:02)
 ·ÖÀàĞÅÏ¢
 -->
 -->
@@ -39545,22 +37237,17 @@ TVBÖÆÔì³öµÄÌìÍõ¼¶ÄĞĞÇ
 Ïà¹ØÁ´½Ó
 &#183;·¨¹ú¼ÇÒä:
 Ğ¦£¡ÔÚ1910Äê¿´2000Äê
-(2007-09-27
-16:40:31)
+(2007-09-27 16:40:31)
 &#183;21ÊÀ¼ÍÖĞ¹ú×î¾ßÓéÀÖ¾«ÉñµÄÊıÊ®¸öË²¼ä
-(2007-09-27
-15:53:19)
+(2007-09-27 15:53:19)
 &#183;¾øÊÀ¾ªã¤:ÊÀ½çÉÏ¸÷¹ú¼ÒµÄÇ§Äê×çÖäĞüÃÔ
-(2007-09-27
-10:55:14)
+(2007-09-27 10:55:14)
 &#183;¿ÉÈİÏÂÒ»¸ö³ÇÕò
 ÊÀ½çÉÏÆß¸ö×î´óµÄÈËÔìµØÑ¨
-(2007-09-20
-17:40:23)
+(2007-09-20 17:40:23)
 &#183;ÈıÇ§³è°®¼¯ÓÚÒ»Éí
 ÏãåúÆäÈËÒÔ¼°ÉíÊÀÖ®ÃÕ
-(2007-09-19
-11:32:02)
+(2007-09-19 11:32:02)
 ·ÖÀàĞÅÏ¢
 -->
 -->
@@ -39871,22 +37558,17 @@ TVBÖÆÔì³öµÄÌìÍõ¼¶ÄĞĞÇ
 Ïà¹ØÁ´½Ó
 &#183;·¨¹ú¼ÇÒä:
 Ğ¦£¡ÔÚ1910Äê¿´2000Äê
-(2007-09-27
-16:40:31)
+(2007-09-27 16:40:31)
 &#183;21ÊÀ¼ÍÖĞ¹ú×î¾ßÓéÀÖ¾«ÉñµÄÊıÊ®¸öË²¼ä
-(2007-09-27
-15:53:19)
+(2007-09-27 15:53:19)
 &#183;¾øÊÀ¾ªã¤:ÊÀ½çÉÏ¸÷¹ú¼ÒµÄÇ§Äê×çÖäĞüÃÔ
-(2007-09-27
-10:55:14)
+(2007-09-27 10:55:14)
 &#183;¿ÉÈİÏÂÒ»¸ö³ÇÕò
 ÊÀ½çÉÏÆß¸ö×î´óµÄÈËÔìµØÑ¨
-(2007-09-20
-17:40:23)
+(2007-09-20 17:40:23)
 &#183;ÈıÇ§³è°®¼¯ÓÚÒ»Éí
 ÏãåúÆäÈËÒÔ¼°ÉíÊÀÖ®ÃÕ
-(2007-09-19
-11:32:02)
+(2007-09-19 11:32:02)
 ·ÖÀàĞÅÏ¢
 -->
 -->
@@ -40197,22 +37879,17 @@ TVBÖÆÔì³öµÄÌìÍõ¼¶ÄĞĞÇ
 Ïà¹ØÁ´½Ó
 &#183;·¨¹ú¼ÇÒä:
 Ğ¦£¡ÔÚ1910Äê¿´2000Äê
-(2007-09-27
-16:40:31)
+(2007-09-27 16:40:31)
 &#183;21ÊÀ¼ÍÖĞ¹ú×î¾ßÓéÀÖ¾«ÉñµÄÊıÊ®¸öË²¼ä
-(2007-09-27
-15:53:19)
+(2007-09-27 15:53:19)
 &#183;¾øÊÀ¾ªã¤:ÊÀ½çÉÏ¸÷¹ú¼ÒµÄÇ§Äê×çÖäĞüÃÔ
-(2007-09-27
-10:55:14)
+(2007-09-27 10:55:14)
 &#183;¿ÉÈİÏÂÒ»¸ö³ÇÕò
 ÊÀ½çÉÏÆß¸ö×î´óµÄÈËÔìµØÑ¨
-(2007-09-20
-17:40:23)
+(2007-09-20 17:40:23)
 &#183;ÈıÇ§³è°®¼¯ÓÚÒ»Éí
 ÏãåúÆäÈËÒÔ¼°ÉíÊÀÖ®ÃÕ
-(2007-09-19
-11:32:02)
+(2007-09-19 11:32:02)
 ·ÖÀàĞÅÏ¢
 -->
 -->
@@ -40523,22 +38200,17 @@ TVBÖÆÔì³öµÄÌìÍõ¼¶ÄĞĞÇ
 Ïà¹ØÁ´½Ó
 &#183;·¨¹ú¼ÇÒä:
 Ğ¦£¡ÔÚ1910Äê¿´2000Äê
-(2007-09-27
-16:40:31)
+(2007-09-27 16:40:31)
 &#183;21ÊÀ¼ÍÖĞ¹ú×î¾ßÓéÀÖ¾«ÉñµÄÊıÊ®¸öË²¼ä
-(2007-09-27
-15:53:19)
+(2007-09-27 15:53:19)
 &#183;¾øÊÀ¾ªã¤:ÊÀ½çÉÏ¸÷¹ú¼ÒµÄÇ§Äê×çÖäĞüÃÔ
-(2007-09-27
-10:55:14)
+(2007-09-27 10:55:14)
 &#183;¿ÉÈİÏÂÒ»¸ö³ÇÕò
 ÊÀ½çÉÏÆß¸ö×î´óµÄÈËÔìµØÑ¨
-(2007-09-20
-17:40:23)
+(2007-09-20 17:40:23)
 &#183;ÈıÇ§³è°®¼¯ÓÚÒ»Éí
 ÏãåúÆäÈËÒÔ¼°ÉíÊÀÖ®ÃÕ
-(2007-09-19
-11:32:02)
+(2007-09-19 11:32:02)
 ·ÖÀàĞÅÏ¢
 -->
 -->
@@ -40849,22 +38521,17 @@ TVBÖÆÔì³öµÄÌìÍõ¼¶ÄĞĞÇ
 Ïà¹ØÁ´½Ó
 &#183;·¨¹ú¼ÇÒä:
 Ğ¦£¡ÔÚ1910Äê¿´2000Äê
-(2007-09-27
-16:40:31)
+(2007-09-27 16:40:31)
 &#183;21ÊÀ¼ÍÖĞ¹ú×î¾ßÓéÀÖ¾«ÉñµÄÊıÊ®¸öË²¼ä
-(2007-09-27
-15:53:19)
+(2007-09-27 15:53:19)
 &#183;¾øÊÀ¾ªã¤:ÊÀ½çÉÏ¸÷¹ú¼ÒµÄÇ§Äê×çÖäĞüÃÔ
-(2007-09-27
-10:55:14)
+(2007-09-27 10:55:14)
 &#183;¿ÉÈİÏÂÒ»¸ö³ÇÕò
 ÊÀ½çÉÏÆß¸ö×î´óµÄÈËÔìµØÑ¨
-(2007-09-20
-17:40:23)
+(2007-09-20 17:40:23)
 &#183;ÈıÇ§³è°®¼¯ÓÚÒ»Éí
 ÏãåúÆäÈËÒÔ¼°ÉíÊÀÖ®ÃÕ
-(2007-09-19
-11:32:02)
+(2007-09-19 11:32:02)
 ·ÖÀàĞÅÏ¢
 -->
 -->
@@ -41175,22 +38842,17 @@ TVBÖÆÔì³öµÄÌìÍõ¼¶ÄĞĞÇ
 Ïà¹ØÁ´½Ó
 &#183;·¨¹ú¼ÇÒä:
 Ğ¦£¡ÔÚ1910Äê¿´2000Äê
-(2007-09-27
-16:40:31)
+(2007-09-27 16:40:31)
 &#183;21ÊÀ¼ÍÖĞ¹ú×î¾ßÓéÀÖ¾«ÉñµÄÊıÊ®¸öË²¼ä
-(2007-09-27
-15:53:19)
+(2007-09-27 15:53:19)
 &#183;¾øÊÀ¾ªã¤:ÊÀ½çÉÏ¸÷¹ú¼ÒµÄÇ§Äê×çÖäĞüÃÔ
-(2007-09-27
-10:55:14)
+(2007-09-27 10:55:14)
 &#183;¿ÉÈİÏÂÒ»¸ö³ÇÕò
 ÊÀ½çÉÏÆß¸ö×î´óµÄÈËÔìµØÑ¨
-(2007-09-20
-17:40:23)
+(2007-09-20 17:40:23)
 &#183;ÈıÇ§³è°®¼¯ÓÚÒ»Éí
 ÏãåúÆäÈËÒÔ¼°ÉíÊÀÖ®ÃÕ
-(2007-09-19
-11:32:02)
+(2007-09-19 11:32:02)
 ·ÖÀàĞÅÏ¢
 -->
 -->
@@ -41501,22 +39163,17 @@ TVBÖÆÔì³öµÄÌìÍõ¼¶ÄĞĞÇ
 Ïà¹ØÁ´½Ó
 &#183;·¨¹ú¼ÇÒä:
 Ğ¦£¡ÔÚ1910Äê¿´2000Äê
-(2007-09-27
-16:40:31)
+(2007-09-27 16:40:31)
 &#183;21ÊÀ¼ÍÖĞ¹ú×î¾ßÓéÀÖ¾«ÉñµÄÊıÊ®¸öË²¼ä
-(2007-09-27
-15:53:19)
+(2007-09-27 15:53:19)
 &#183;¾øÊÀ¾ªã¤:ÊÀ½çÉÏ¸÷¹ú¼ÒµÄÇ§Äê×çÖäĞüÃÔ
-(2007-09-27
-10:55:14)
+(2007-09-27 10:55:14)
 &#183;¿ÉÈİÏÂÒ»¸ö³ÇÕò
 ÊÀ½çÉÏÆß¸ö×î´óµÄÈËÔìµØÑ¨
-(2007-09-20
-17:40:23)
+(2007-09-20 17:40:23)
 &#183;ÈıÇ§³è°®¼¯ÓÚÒ»Éí
 ÏãåúÆäÈËÒÔ¼°ÉíÊÀÖ®ÃÕ
-(2007-09-19
-11:32:02)
+(2007-09-19 11:32:02)
 ·ÖÀàĞÅÏ¢
 -->
 -->
@@ -41827,22 +39484,17 @@ TVBÖÆÔì³öµÄÌìÍõ¼¶ÄĞĞÇ
 Ïà¹ØÁ´½Ó
 &#183;·¨¹ú¼ÇÒä:
 Ğ¦£¡ÔÚ1910Äê¿´2000Äê
-(2007-09-27
-16:40:31)
+(2007-09-27 16:40:31)
 &#183;21ÊÀ¼ÍÖĞ¹ú×î¾ßÓéÀÖ¾«ÉñµÄÊıÊ®¸öË²¼ä
-(2007-09-27
-15:53:19)
+(2007-09-27 15:53:19)
 &#183;¾øÊÀ¾ªã¤:ÊÀ½çÉÏ¸÷¹ú¼ÒµÄÇ§Äê×çÖäĞüÃÔ
-(2007-09-27
-10:55:14)
+(2007-09-27 10:55:14)
 &#183;¿ÉÈİÏÂÒ»¸ö³ÇÕò
 ÊÀ½çÉÏÆß¸ö×î´óµÄÈËÔìµØÑ¨
-(2007-09-20
-17:40:23)
+(2007-09-20 17:40:23)
 &#183;ÈıÇ§³è°®¼¯ÓÚÒ»Éí
 ÏãåúÆäÈËÒÔ¼°ÉíÊÀÖ®ÃÕ
-(2007-09-19
-11:32:02)
+(2007-09-19 11:32:02)
 ·ÖÀàĞÅÏ¢
 -->
 -->
@@ -42153,22 +39805,17 @@ TVBÖÆÔì³öµÄÌìÍõ¼¶ÄĞĞÇ
 Ïà¹ØÁ´½Ó
 &#183;·¨¹ú¼ÇÒä:
 Ğ¦£¡ÔÚ1910Äê¿´2000Äê
-(2007-09-27
-16:40:31)
+(2007-09-27 16:40:31)
 &#183;21ÊÀ¼ÍÖĞ¹ú×î¾ßÓéÀÖ¾«ÉñµÄÊıÊ®¸öË²¼ä
-(2007-09-27
-15:53:19)
+(2007-09-27 15:53:19)
 &#183;¾øÊÀ¾ªã¤:ÊÀ½çÉÏ¸÷¹ú¼ÒµÄÇ§Äê×çÖäĞüÃÔ
-(2007-09-27
-10:55:14)
+(2007-09-27 10:55:14)
 &#183;¿ÉÈİÏÂÒ»¸ö³ÇÕò
 ÊÀ½çÉÏÆß¸ö×î´óµÄÈËÔìµØÑ¨
-(2007-09-20
-17:40:23)
+(2007-09-20 17:40:23)
 &#183;ÈıÇ§³è°®¼¯ÓÚÒ»Éí
 ÏãåúÆäÈËÒÔ¼°ÉíÊÀÖ®ÃÕ
-(2007-09-19
-11:32:02)
+(2007-09-19 11:32:02)
 ·ÖÀàĞÅÏ¢
 -->
 -->
@@ -42479,22 +40126,17 @@ TVBÖÆÔì³öµÄÌìÍõ¼¶ÄĞĞÇ
 Ïà¹ØÁ´½Ó
 &#183;·¨¹ú¼ÇÒä:
 Ğ¦£¡ÔÚ1910Äê¿´2000Äê
-(2007-09-27
-16:40:31)
+(2007-09-27 16:40:31)
 &#183;21ÊÀ¼ÍÖĞ¹ú×î¾ßÓéÀÖ¾«ÉñµÄÊıÊ®¸öË²¼ä
-(2007-09-27
-15:53:19)
+(2007-09-27 15:53:19)
 &#183;¾øÊÀ¾ªã¤:ÊÀ½çÉÏ¸÷¹ú¼ÒµÄÇ§Äê×çÖäĞüÃÔ
-(2007-09-27
-10:55:14)
+(2007-09-27 10:55:14)
 &#183;¿ÉÈİÏÂÒ»¸ö³ÇÕò
 ÊÀ½çÉÏÆß¸ö×î´óµÄÈËÔìµØÑ¨
-(2007-09-20
-17:40:23)
+(2007-09-20 17:40:23)
 &#183;ÈıÇ§³è°®¼¯ÓÚÒ»Éí
 ÏãåúÆäÈËÒÔ¼°ÉíÊÀÖ®ÃÕ
-(2007-09-19
-11:32:02)
+(2007-09-19 11:32:02)
 ·ÖÀàĞÅÏ¢
 -->
 -->
@@ -42805,22 +40447,17 @@ TVBÖÆÔì³öµÄÌìÍõ¼¶ÄĞĞÇ
 Ïà¹ØÁ´½Ó
 &#183;·¨¹ú¼ÇÒä:
 Ğ¦£¡ÔÚ1910Äê¿´2000Äê
-(2007-09-27
-16:40:31)
+(2007-09-27 16:40:31)
 &#183;21ÊÀ¼ÍÖĞ¹ú×î¾ßÓéÀÖ¾«ÉñµÄÊıÊ®¸öË²¼ä
-(2007-09-27
-15:53:19)
+(2007-09-27 15:53:19)
 &#183;¾øÊÀ¾ªã¤:ÊÀ½çÉÏ¸÷¹ú¼ÒµÄÇ§Äê×çÖäĞüÃÔ
-(2007-09-27
-10:55:14)
+(2007-09-27 10:55:14)
 &#183;¿ÉÈİÏÂÒ»¸ö³ÇÕò
 ÊÀ½çÉÏÆß¸ö×î´óµÄÈËÔìµØÑ¨
-(2007-09-20
-17:40:23)
+(2007-09-20 17:40:23)
 &#183;ÈıÇ§³è°®¼¯ÓÚÒ»Éí
 ÏãåúÆäÈËÒÔ¼°ÉíÊÀÖ®ÃÕ
-(2007-09-19
-11:32:02)
+(2007-09-19 11:32:02)
 ·ÖÀàĞÅÏ¢
 -->
 -->
@@ -43131,22 +40768,17 @@ TVBÖÆÔì³öµÄÌìÍõ¼¶ÄĞĞÇ
 Ïà¹ØÁ´½Ó
 &#183;·¨¹ú¼ÇÒä:
 Ğ¦£¡ÔÚ1910Äê¿´2000Äê
-(2007-09-27
-16:40:31)
+(2007-09-27 16:40:31)
 &#183;21ÊÀ¼ÍÖĞ¹ú×î¾ßÓéÀÖ¾«ÉñµÄÊıÊ®¸öË²¼ä
-(2007-09-27
-15:53:19)
+(2007-09-27 15:53:19)
 &#183;¾øÊÀ¾ªã¤:ÊÀ½çÉÏ¸÷¹ú¼ÒµÄÇ§Äê×çÖäĞüÃÔ
-(2007-09-27
-10:55:14)
+(2007-09-27 10:55:14)
 &#183;¿ÉÈİÏÂÒ»¸ö³ÇÕò
 ÊÀ½çÉÏÆß¸ö×î´óµÄÈËÔìµØÑ¨
-(2007-09-20
-17:40:23)
+(2007-09-20 17:40:23)
 &#183;ÈıÇ§³è°®¼¯ÓÚÒ»Éí
 ÏãåúÆäÈËÒÔ¼°ÉíÊÀÖ®ÃÕ
-(2007-09-19
-11:32:02)
+(2007-09-19 11:32:02)
 ·ÖÀàĞÅÏ¢
 -->
 -->
@@ -43458,22 +41090,17 @@ TVBÖÆÔì³öµÄÌìÍõ¼¶ÄĞĞÇ
 Ïà¹ØÁ´½Ó
 &#183;·¨¹ú¼ÇÒä:
 Ğ¦£¡ÔÚ1910Äê¿´2000Äê
-(2007-09-27
-16:40:31)
+(2007-09-27 16:40:31)
 &#183;21ÊÀ¼ÍÖĞ¹ú×î¾ßÓéÀÖ¾«ÉñµÄÊıÊ®¸öË²¼ä
-(2007-09-27
-15:53:19)
+(2007-09-27 15:53:19)
 &#183;¾øÊÀ¾ªã¤:ÊÀ½çÉÏ¸÷¹ú¼ÒµÄÇ§Äê×çÖäĞüÃÔ
-(2007-09-27
-10:55:14)
+(2007-09-27 10:55:14)
 &#183;¿ÉÈİÏÂÒ»¸ö³ÇÕò
 ÊÀ½çÉÏÆß¸ö×î´óµÄÈËÔìµØÑ¨
-(2007-09-20
-17:40:23)
+(2007-09-20 17:40:23)
 &#183;ÈıÇ§³è°®¼¯ÓÚÒ»Éí
 ÏãåúÆäÈËÒÔ¼°ÉíÊÀÖ®ÃÕ
-(2007-09-19
-11:32:02)
+(2007-09-19 11:32:02)
 ·ÖÀàĞÅÏ¢
 -->
 -->
@@ -43784,22 +41411,17 @@ TVBÖÆÔì³öµÄÌìÍõ¼¶ÄĞĞÇ
 Ïà¹ØÁ´½Ó
 &#183;·¨¹ú¼ÇÒä:
 Ğ¦£¡ÔÚ1910Äê¿´2000Äê
-(2007-09-27
-16:40:31)
+(2007-09-27 16:40:31)
 &#183;21ÊÀ¼ÍÖĞ¹ú×î¾ßÓéÀÖ¾«ÉñµÄÊıÊ®¸öË²¼ä
-(2007-09-27
-15:53:19)
+(2007-09-27 15:53:19)
 &#183;¾øÊÀ¾ªã¤:ÊÀ½çÉÏ¸÷¹ú¼ÒµÄÇ§Äê×çÖäĞüÃÔ
-(2007-09-27
-10:55:14)
+(2007-09-27 10:55:14)
 &#183;¿ÉÈİÏÂÒ»¸ö³ÇÕò
 ÊÀ½çÉÏÆß¸ö×î´óµÄÈËÔìµØÑ¨
-(2007-09-20
-17:40:23)
+(2007-09-20 17:40:23)
 &#183;ÈıÇ§³è°®¼¯ÓÚÒ»Éí
 ÏãåúÆäÈËÒÔ¼°ÉíÊÀÖ®ÃÕ
-(2007-09-19
-11:32:02)
+(2007-09-19 11:32:02)
 ·ÖÀàĞÅÏ¢
 -->
 -->
@@ -44111,22 +41733,17 @@ TVBÖÆÔì³öµÄÌìÍõ¼¶ÄĞĞÇ
 Ïà¹ØÁ´½Ó
 &#183;·¨¹ú¼ÇÒä:
 Ğ¦£¡ÔÚ1910Äê¿´2000Äê
-(2007-09-27
-16:40:31)
+(2007-09-27 16:40:31)
 &#183;21ÊÀ¼ÍÖĞ¹ú×î¾ßÓéÀÖ¾«ÉñµÄÊıÊ®¸öË²¼ä
-(2007-09-27
-15:53:19)
+(2007-09-27 15:53:19)
 &#183;¾øÊÀ¾ªã¤:ÊÀ½çÉÏ¸÷¹ú¼ÒµÄÇ§Äê×çÖäĞüÃÔ
-(2007-09-27
-10:55:14)
+(2007-09-27 10:55:14)
 &#183;¿ÉÈİÏÂÒ»¸ö³ÇÕò
 ÊÀ½çÉÏÆß¸ö×î´óµÄÈËÔìµØÑ¨
-(2007-09-20
-17:40:23)
+(2007-09-20 17:40:23)
 &#183;ÈıÇ§³è°®¼¯ÓÚÒ»Éí
 ÏãåúÆäÈËÒÔ¼°ÉíÊÀÖ®ÃÕ
-(2007-09-19
-11:32:02)
+(2007-09-19 11:32:02)
 ·ÖÀàĞÅÏ¢
 -->
 -->
@@ -44437,22 +42054,17 @@ TVBÖÆÔì³öµÄÌìÍõ¼¶ÄĞĞÇ
 Ïà¹ØÁ´½Ó
 &#183;·¨¹ú¼ÇÒä:
 Ğ¦£¡ÔÚ1910Äê¿´2000Äê
-(2007-09-27
-16:40:31)
+(2007-09-27 16:40:31)
 &#183;21ÊÀ¼ÍÖĞ¹ú×î¾ßÓéÀÖ¾«ÉñµÄÊıÊ®¸öË²¼ä
-(2007-09-27
-15:53:19)
+(2007-09-27 15:53:19)
 &#183;¾øÊÀ¾ªã¤:ÊÀ½çÉÏ¸÷¹ú¼ÒµÄÇ§Äê×çÖäĞüÃÔ
-(2007-09-27
-10:55:14)
+(2007-09-27 10:55:14)
 &#183;¿ÉÈİÏÂÒ»¸ö³ÇÕò
 ÊÀ½çÉÏÆß¸ö×î´óµÄÈËÔìµØÑ¨
-(2007-09-20
-17:40:23)
+(2007-09-20 17:40:23)
 &#183;ÈıÇ§³è°®¼¯ÓÚÒ»Éí
 ÏãåúÆäÈËÒÔ¼°ÉíÊÀÖ®ÃÕ
-(2007-09-19
-11:32:02)
+(2007-09-19 11:32:02)
 ·ÖÀàĞÅÏ¢
 -->
 -->
@@ -44763,22 +42375,17 @@ TVBÖÆÔì³öµÄÌìÍõ¼¶ÄĞĞÇ
 Ïà¹ØÁ´½Ó
 &#183;·¨¹ú¼ÇÒä:
 Ğ¦£¡ÔÚ1910Äê¿´2000Äê
-(2007-09-27
-16:40:31)
+(2007-09-27 16:40:31)
 &#183;21ÊÀ¼ÍÖĞ¹ú×î¾ßÓéÀÖ¾«ÉñµÄÊıÊ®¸öË²¼ä
-(2007-09-27
-15:53:19)
+(2007-09-27 15:53:19)
 &#183;¾øÊÀ¾ªã¤:ÊÀ½çÉÏ¸÷¹ú¼ÒµÄÇ§Äê×çÖäĞüÃÔ
-(2007-09-27
-10:55:14)
+(2007-09-27 10:55:14)
 &#183;¿ÉÈİÏÂÒ»¸ö³ÇÕò
 ÊÀ½çÉÏÆß¸ö×î´óµÄÈËÔìµØÑ¨
-(2007-09-20
-17:40:23)
+(2007-09-20 17:40:23)
 &#183;ÈıÇ§³è°®¼¯ÓÚÒ»Éí
 ÏãåúÆäÈËÒÔ¼°ÉíÊÀÖ®ÃÕ
-(2007-09-19
-11:32:02)
+(2007-09-19 11:32:02)
 ·ÖÀàĞÅÏ¢
 -->
 -->
@@ -45089,22 +42696,17 @@ TVBÖÆÔì³öµÄÌìÍõ¼¶ÄĞĞÇ
 Ïà¹ØÁ´½Ó
 &#183;·¨¹ú¼ÇÒä:
 Ğ¦£¡ÔÚ1910Äê¿´2000Äê
-(2007-09-27
-16:40:31)
+(2007-09-27 16:40:31)
 &#183;21ÊÀ¼ÍÖĞ¹ú×î¾ßÓéÀÖ¾«ÉñµÄÊıÊ®¸öË²¼ä
-(2007-09-27
-15:53:19)
+(2007-09-27 15:53:19)
 &#183;¾øÊÀ¾ªã¤:ÊÀ½çÉÏ¸÷¹ú¼ÒµÄÇ§Äê×çÖäĞüÃÔ
-(2007-09-27
-10:55:14)
+(2007-09-27 10:55:14)
 &#183;¿ÉÈİÏÂÒ»¸ö³ÇÕò
 ÊÀ½çÉÏÆß¸ö×î´óµÄÈËÔìµØÑ¨
-(2007-09-20
-17:40:23)
+(2007-09-20 17:40:23)
 &#183;ÈıÇ§³è°®¼¯ÓÚÒ»Éí
 ÏãåúÆäÈËÒÔ¼°ÉíÊÀÖ®ÃÕ
-(2007-09-19
-11:32:02)
+(2007-09-19 11:32:02)
 ·ÖÀàĞÅÏ¢
 -->
 -->
@@ -45414,22 +43016,17 @@ TVBÖÆÔì³öµÄÌìÍõ¼¶ÄĞĞÇ
 Ïà¹ØÁ´½Ó
 &#183;·¨¹ú¼ÇÒä:
 Ğ¦£¡ÔÚ1910Äê¿´2000Äê
-(2007-09-27
-16:40:31)
+(2007-09-27 16:40:31)
 &#183;21ÊÀ¼ÍÖĞ¹ú×î¾ßÓéÀÖ¾«ÉñµÄÊıÊ®¸öË²¼ä
-(2007-09-27
-15:53:19)
+(2007-09-27 15:53:19)
 &#183;¾øÊÀ¾ªã¤:ÊÀ½çÉÏ¸÷¹ú¼ÒµÄÇ§Äê×çÖäĞüÃÔ
-(2007-09-27
-10:55:14)
+(2007-09-27 10:55:14)
 &#183;¿ÉÈİÏÂÒ»¸ö³ÇÕò
 ÊÀ½çÉÏÆß¸ö×î´óµÄÈËÔìµØÑ¨
-(2007-09-20
-17:40:23)
+(2007-09-20 17:40:23)
 &#183;ÈıÇ§³è°®¼¯ÓÚÒ»Éí
 ÏãåúÆäÈËÒÔ¼°ÉíÊÀÖ®ÃÕ
-(2007-09-19
-11:32:02)
+(2007-09-19 11:32:02)
 ·ÖÀàĞÅÏ¢
 -->
 -->
@@ -45739,22 +43336,17 @@ TVBÖÆÔì³öµÄÌìÍõ¼¶ÄĞĞÇ
 Ïà¹ØÁ´½Ó
 &#183;·¨¹ú¼ÇÒä:
 Ğ¦£¡ÔÚ1910Äê¿´2000Äê
-(2007-09-27
-16:40:31)
+(2007-09-27 16:40:31)
 &#183;21ÊÀ¼ÍÖĞ¹ú×î¾ßÓéÀÖ¾«ÉñµÄÊıÊ®¸öË²¼ä
-(2007-09-27
-15:53:19)
+(2007-09-27 15:53:19)
 &#183;¾øÊÀ¾ªã¤:ÊÀ½çÉÏ¸÷¹ú¼ÒµÄÇ§Äê×çÖäĞüÃÔ
-(2007-09-27
-10:55:14)
+(2007-09-27 10:55:14)
 &#183;¿ÉÈİÏÂÒ»¸ö³ÇÕò
 ÊÀ½çÉÏÆß¸ö×î´óµÄÈËÔìµØÑ¨
-(2007-09-20
-17:40:23)
+(2007-09-20 17:40:23)
 &#183;ÈıÇ§³è°®¼¯ÓÚÒ»Éí
 ÏãåúÆäÈËÒÔ¼°ÉíÊÀÖ®ÃÕ
-(2007-09-19
-11:32:02)
+(2007-09-19 11:32:02)
 ·ÖÀàĞÅÏ¢
 -->
 -->
@@ -46065,22 +43657,17 @@ TVBÖÆÔì³öµÄÌìÍõ¼¶ÄĞĞÇ
 Ïà¹ØÁ´½Ó
 &#183;·¨¹ú¼ÇÒä:
 Ğ¦£¡ÔÚ1910Äê¿´2000Äê
-(2007-09-27
-16:40:31)
+(2007-09-27 16:40:31)
 &#183;21ÊÀ¼ÍÖĞ¹ú×î¾ßÓéÀÖ¾«ÉñµÄÊıÊ®¸öË²¼ä
-(2007-09-27
-15:53:19)
+(2007-09-27 15:53:19)
 &#183;¾øÊÀ¾ªã¤:ÊÀ½çÉÏ¸÷¹ú¼ÒµÄÇ§Äê×çÖäĞüÃÔ
-(2007-09-27
-10:55:14)
+(2007-09-27 10:55:14)
 &#183;¿ÉÈİÏÂÒ»¸ö³ÇÕò
 ÊÀ½çÉÏÆß¸ö×î´óµÄÈËÔìµØÑ¨
-(2007-09-20
-17:40:23)
+(2007-09-20 17:40:23)
 &#183;ÈıÇ§³è°®¼¯ÓÚÒ»Éí
 ÏãåúÆäÈËÒÔ¼°ÉíÊÀÖ®ÃÕ
-(2007-09-19
-11:32:02)
+(2007-09-19 11:32:02)
 ·ÖÀàĞÅÏ¢
 -->
 -->
@@ -46390,22 +43977,17 @@ TVBÖÆÔì³öµÄÌìÍõ¼¶ÄĞĞÇ
 Ïà¹ØÁ´½Ó
 &#183;·¨¹ú¼ÇÒä:
 Ğ¦£¡ÔÚ1910Äê¿´2000Äê
-(2007-09-27
-16:40:31)
+(2007-09-27 16:40:31)
 &#183;21ÊÀ¼ÍÖĞ¹ú×î¾ßÓéÀÖ¾«ÉñµÄÊıÊ®¸öË²¼ä
-(2007-09-27
-15:53:19)
+(2007-09-27 15:53:19)
 &#183;¾øÊÀ¾ªã¤:ÊÀ½çÉÏ¸÷¹ú¼ÒµÄÇ§Äê×çÖäĞüÃÔ
-(2007-09-27
-10:55:14)
+(2007-09-27 10:55:14)
 &#183;¿ÉÈİÏÂÒ»¸ö³ÇÕò
 ÊÀ½çÉÏÆß¸ö×î´óµÄÈËÔìµØÑ¨
-(2007-09-20
-17:40:23)
+(2007-09-20 17:40:23)
 &#183;ÈıÇ§³è°®¼¯ÓÚÒ»Éí
 ÏãåúÆäÈËÒÔ¼°ÉíÊÀÖ®ÃÕ
-(2007-09-19
-11:32:02)
+(2007-09-19 11:32:02)
 ·ÖÀàĞÅÏ¢
 -->
 -->
@@ -46716,22 +44298,17 @@ TVBÖÆÔì³öµÄÌìÍõ¼¶ÄĞĞÇ
 Ïà¹ØÁ´½Ó
 &#183;·¨¹ú¼ÇÒä:
 Ğ¦£¡ÔÚ1910Äê¿´2000Äê
-(2007-09-27
-16:40:31)
+(2007-09-27 16:40:31)
 &#183;21ÊÀ¼ÍÖĞ¹ú×î¾ßÓéÀÖ¾«ÉñµÄÊıÊ®¸öË²¼ä
-(2007-09-27
-15:53:19)
+(2007-09-27 15:53:19)
 &#183;¾øÊÀ¾ªã¤:ÊÀ½çÉÏ¸÷¹ú¼ÒµÄÇ§Äê×çÖäĞüÃÔ
-(2007-09-27
-10:55:14)
+(2007-09-27 10:55:14)
 &#183;¿ÉÈİÏÂÒ»¸ö³ÇÕò
 ÊÀ½çÉÏÆß¸ö×î´óµÄÈËÔìµØÑ¨
-(2007-09-20
-17:40:23)
+(2007-09-20 17:40:23)
 &#183;ÈıÇ§³è°®¼¯ÓÚÒ»Éí
 ÏãåúÆäÈËÒÔ¼°ÉíÊÀÖ®ÃÕ
-(2007-09-19
-11:32:02)
+(2007-09-19 11:32:02)
 ·ÖÀàĞÅÏ¢
 -->
 -->
@@ -46955,8 +44532,7 @@ http://book.QQ.com2007Äê09ÔÂ29ÈÕ16:55
 QQÂÛÌ³
 ÆÀÂÛ0Ìõ
 (Í¼1)
-Ì©Ì¹Äá¿ËÊÇ¹şÀ¼&#183;ÎÖ¶û·ò´¬³§£¬ÔÚ±±°®¶ûÀ¼±´¶û·¨Ë¹ÌØ½¨ÔìµÄ¡£Õâ¼ÒÔì´¬¹«Ë¾ÊôÓÚPirrieÑ«¾ô£¬ËûÊÇ°×ĞÇº½ÔË¹«Ë¾×Ü¾­Àí£¨Bruce
-Ismay£©µÄÅóÓÑ¡£¶øÌ©Ì¹Äá¿ËµÄ×ÜÉè¼ÆÊ¦Thomas
+Ì©Ì¹Äá¿ËÊÇ¹şÀ¼&#183;ÎÖ¶û·ò´¬³§£¬ÔÚ±±°®¶ûÀ¼±´¶û·¨Ë¹ÌØ½¨ÔìµÄ¡£Õâ¼ÒÔì´¬¹«Ë¾ÊôÓÚPirrieÑ«¾ô£¬ËûÊÇ°×ĞÇº½ÔË¹«Ë¾×Ü¾­Àí£¨Bruce Ismay£©µÄÅóÓÑ¡£¶øÌ©Ì¹Äá¿ËµÄ×ÜÉè¼ÆÊ¦Thomas
 AndrewÕıÊÇËûµÄÑø×Ó¡£
 È«ÇòÊ®´ó¹ÖÒìÌìÆø
 ¾©³ÇÀÏÃñË×ÈÃÄã¿ªÑÛ½ç
@@ -47044,22 +44620,17 @@ TVBÖÆÔì³öµÄÌìÍõ¼¶ÄĞĞÇ
 Ïà¹ØÁ´½Ó
 &#183;·¨¹ú¼ÇÒä:
 Ğ¦£¡ÔÚ1910Äê¿´2000Äê
-(2007-09-27
-16:40:31)
+(2007-09-27 16:40:31)
 &#183;21ÊÀ¼ÍÖĞ¹ú×î¾ßÓéÀÖ¾«ÉñµÄÊıÊ®¸öË²¼ä
-(2007-09-27
-15:53:19)
+(2007-09-27 15:53:19)
 &#183;¾øÊÀ¾ªã¤:ÊÀ½çÉÏ¸÷¹ú¼ÒµÄÇ§Äê×çÖäĞüÃÔ
-(2007-09-27
-10:55:14)
+(2007-09-27 10:55:14)
 &#183;¿ÉÈİÏÂÒ»¸ö³ÇÕò
 ÊÀ½çÉÏÆß¸ö×î´óµÄÈËÔìµØÑ¨
-(2007-09-20
-17:40:23)
+(2007-09-20 17:40:23)
 &#183;ÈıÇ§³è°®¼¯ÓÚÒ»Éí
 ÏãåúÆäÈËÒÔ¼°ÉíÊÀÖ®ÃÕ
-(2007-09-19
-11:32:02)
+(2007-09-19 11:32:02)
 ·ÖÀàĞÅÏ¢
 -->
 -->
@@ -47395,21 +44966,16 @@ TVBÖÆÔì³öµÄÌìÍõ¼¶ÄĞĞÇ
 ÊÓ¾õÔÄ¶ÁÀ¸Ä¿
 Ïà¹ØÁ´½Ó
 &#183;ÓéÀÖÈ¦ÀïÊÜÈËÖõÄ¿µÄ¡°Ì«×Ó¡±ºÍ¡°¹«Ö÷¡±ÃÇ
-(2007-09-27
-18:12:44)
+(2007-09-27 18:12:44)
 &#183;21ÊÀ¼ÍÖĞ¹ú×î¾ßÓéÀÖ¾«ÉñµÄÊıÊ®¸öË²¼ä
-(2007-09-27
-15:53:19)
+(2007-09-27 15:53:19)
 &#183;ÅÌµãÄÇĞ©¼ÈÑİ¹ı½ğÓ¹Ï·ÓÖÑİ¹ıÇíÑşÏ·µÄÃ÷ĞÇÃÇ
-(2007-09-26
-17:54:42)
+(2007-09-26 17:54:42)
 &#183;¼ÒÓĞÃ÷ĞÇ³õ³¤³É
 ·­¿ªºÃÀ³Îë¾ŞĞÇµÄÍ¯ÄêÕÕ
-(2007-09-20
-16:29:05)
+(2007-09-20 16:29:05)
 &#183;ÅÌµã½ğÓ¹ÎäÏÀ¾çÖĞµÄÊ®´ó¶ñ¶¾Å®ÈË
-(2007-09-18
-17:56:34)
+(2007-09-18 17:56:34)
 ·ÖÀàĞÅÏ¢
 -->
 -->
@@ -47745,21 +45311,16 @@ TVBÖÆÔì³öµÄÌìÍõ¼¶ÄĞĞÇ
 ÊÓ¾õÔÄ¶ÁÀ¸Ä¿
 Ïà¹ØÁ´½Ó
 &#183;ÓéÀÖÈ¦ÀïÊÜÈËÖõÄ¿µÄ¡°Ì«×Ó¡±ºÍ¡°¹«Ö÷¡±ÃÇ
-(2007-09-27
-18:12:44)
+(2007-09-27 18:12:44)
 &#183;21ÊÀ¼ÍÖĞ¹ú×î¾ßÓéÀÖ¾«ÉñµÄÊıÊ®¸öË²¼ä
-(2007-09-27
-15:53:19)
+(2007-09-27 15:53:19)
 &#183;ÅÌµãÄÇĞ©¼ÈÑİ¹ı½ğÓ¹Ï·ÓÖÑİ¹ıÇíÑşÏ·µÄÃ÷ĞÇÃÇ
-(2007-09-26
-17:54:42)
+(2007-09-26 17:54:42)
 &#183;¼ÒÓĞÃ÷ĞÇ³õ³¤³É
 ·­¿ªºÃÀ³Îë¾ŞĞÇµÄÍ¯ÄêÕÕ
-(2007-09-20
-16:29:05)
+(2007-09-20 16:29:05)
 &#183;ÅÌµã½ğÓ¹ÎäÏÀ¾çÖĞµÄÊ®´ó¶ñ¶¾Å®ÈË
-(2007-09-18
-17:56:34)
+(2007-09-18 17:56:34)
 ·ÖÀàĞÅÏ¢
 -->
 -->
@@ -48095,21 +45656,16 @@ TVBÖÆÔì³öµÄÌìÍõ¼¶ÄĞĞÇ
 ÊÓ¾õÔÄ¶ÁÀ¸Ä¿
 Ïà¹ØÁ´½Ó
 &#183;ÓéÀÖÈ¦ÀïÊÜÈËÖõÄ¿µÄ¡°Ì«×Ó¡±ºÍ¡°¹«Ö÷¡±ÃÇ
-(2007-09-27
-18:12:44)
+(2007-09-27 18:12:44)
 &#183;21ÊÀ¼ÍÖĞ¹ú×î¾ßÓéÀÖ¾«ÉñµÄÊıÊ®¸öË²¼ä
-(2007-09-27
-15:53:19)
+(2007-09-27 15:53:19)
 &#183;ÅÌµãÄÇĞ©¼ÈÑİ¹ı½ğÓ¹Ï·ÓÖÑİ¹ıÇíÑşÏ·µÄÃ÷ĞÇÃÇ
-(2007-09-26
-17:54:42)
+(2007-09-26 17:54:42)
 &#183;¼ÒÓĞÃ÷ĞÇ³õ³¤³É
 ·­¿ªºÃÀ³Îë¾ŞĞÇµÄÍ¯ÄêÕÕ
-(2007-09-20
-16:29:05)
+(2007-09-20 16:29:05)
 &#183;ÅÌµã½ğÓ¹ÎäÏÀ¾çÖĞµÄÊ®´ó¶ñ¶¾Å®ÈË
-(2007-09-18
-17:56:34)
+(2007-09-18 17:56:34)
 ·ÖÀàĞÅÏ¢
 -->
 -->
@@ -48445,21 +46001,16 @@ TVBÖÆÔì³öµÄÌìÍõ¼¶ÄĞĞÇ
 ÊÓ¾õÔÄ¶ÁÀ¸Ä¿
 Ïà¹ØÁ´½Ó
 &#183;ÓéÀÖÈ¦ÀïÊÜÈËÖõÄ¿µÄ¡°Ì«×Ó¡±ºÍ¡°¹«Ö÷¡±ÃÇ
-(2007-09-27
-18:12:44)
+(2007-09-27 18:12:44)
 &#183;21ÊÀ¼ÍÖĞ¹ú×î¾ßÓéÀÖ¾«ÉñµÄÊıÊ®¸öË²¼ä
-(2007-09-27
-15:53:19)
+(2007-09-27 15:53:19)
 &#183;ÅÌµãÄÇĞ©¼ÈÑİ¹ı½ğÓ¹Ï·ÓÖÑİ¹ıÇíÑşÏ·µÄÃ÷ĞÇÃÇ
-(2007-09-26
-17:54:42)
+(2007-09-26 17:54:42)
 &#183;¼ÒÓĞÃ÷ĞÇ³õ³¤³É
 ·­¿ªºÃÀ³Îë¾ŞĞÇµÄÍ¯ÄêÕÕ
-(2007-09-20
-16:29:05)
+(2007-09-20 16:29:05)
 &#183;ÅÌµã½ğÓ¹ÎäÏÀ¾çÖĞµÄÊ®´ó¶ñ¶¾Å®ÈË
-(2007-09-18
-17:56:34)
+(2007-09-18 17:56:34)
 ·ÖÀàĞÅÏ¢
 -->
 -->
@@ -48795,21 +46346,16 @@ TVBÖÆÔì³öµÄÌìÍõ¼¶ÄĞĞÇ
 ÊÓ¾õÔÄ¶ÁÀ¸Ä¿
 Ïà¹ØÁ´½Ó
 &#183;ÓéÀÖÈ¦ÀïÊÜÈËÖõÄ¿µÄ¡°Ì«×Ó¡±ºÍ¡°¹«Ö÷¡±ÃÇ
-(2007-09-27
-18:12:44)
+(2007-09-27 18:12:44)
 &#183;21ÊÀ¼ÍÖĞ¹ú×î¾ßÓéÀÖ¾«ÉñµÄÊıÊ®¸öË²¼ä
-(2007-09-27
-15:53:19)
+(2007-09-27 15:53:19)
 &#183;ÅÌµãÄÇĞ©¼ÈÑİ¹ı½ğÓ¹Ï·ÓÖÑİ¹ıÇíÑşÏ·µÄÃ÷ĞÇÃÇ
-(2007-09-26
-17:54:42)
+(2007-09-26 17:54:42)
 &#183;¼ÒÓĞÃ÷ĞÇ³õ³¤³É
 ·­¿ªºÃÀ³Îë¾ŞĞÇµÄÍ¯ÄêÕÕ
-(2007-09-20
-16:29:05)
+(2007-09-20 16:29:05)
 &#183;ÅÌµã½ğÓ¹ÎäÏÀ¾çÖĞµÄÊ®´ó¶ñ¶¾Å®ÈË
-(2007-09-18
-17:56:34)
+(2007-09-18 17:56:34)
 ·ÖÀàĞÅÏ¢
 -->
 -->
@@ -49145,21 +46691,16 @@ TVBÖÆÔì³öµÄÌìÍõ¼¶ÄĞĞÇ
 ÊÓ¾õÔÄ¶ÁÀ¸Ä¿
 Ïà¹ØÁ´½Ó
 &#183;ÓéÀÖÈ¦ÀïÊÜÈËÖõÄ¿µÄ¡°Ì«×Ó¡±ºÍ¡°¹«Ö÷¡±ÃÇ
-(2007-09-27
-18:12:44)
+(2007-09-27 18:12:44)
 &#183;21ÊÀ¼ÍÖĞ¹ú×î¾ßÓéÀÖ¾«ÉñµÄÊıÊ®¸öË²¼ä
-(2007-09-27
-15:53:19)
+(2007-09-27 15:53:19)
 &#183;ÅÌµãÄÇĞ©¼ÈÑİ¹ı½ğÓ¹Ï·ÓÖÑİ¹ıÇíÑşÏ·µÄÃ÷ĞÇÃÇ
-(2007-09-26
-17:54:42)
+(2007-09-26 17:54:42)
 &#183;¼ÒÓĞÃ÷ĞÇ³õ³¤³É
 ·­¿ªºÃÀ³Îë¾ŞĞÇµÄÍ¯ÄêÕÕ
-(2007-09-20
-16:29:05)
+(2007-09-20 16:29:05)
 &#183;ÅÌµã½ğÓ¹ÎäÏÀ¾çÖĞµÄÊ®´ó¶ñ¶¾Å®ÈË
-(2007-09-18
-17:56:34)
+(2007-09-18 17:56:34)
 ·ÖÀàĞÅÏ¢
 -->
 -->
@@ -49495,21 +47036,16 @@ TVBÖÆÔì³öµÄÌìÍõ¼¶ÄĞĞÇ
 ÊÓ¾õÔÄ¶ÁÀ¸Ä¿
 Ïà¹ØÁ´½Ó
 &#183;ÓéÀÖÈ¦ÀïÊÜÈËÖõÄ¿µÄ¡°Ì«×Ó¡±ºÍ¡°¹«Ö÷¡±ÃÇ
-(2007-09-27
-18:12:44)
+(2007-09-27 18:12:44)
 &#183;21ÊÀ¼ÍÖĞ¹ú×î¾ßÓéÀÖ¾«ÉñµÄÊıÊ®¸öË²¼ä
-(2007-09-27
-15:53:19)
+(2007-09-27 15:53:19)
 &#183;ÅÌµãÄÇĞ©¼ÈÑİ¹ı½ğÓ¹Ï·ÓÖÑİ¹ıÇíÑşÏ·µÄÃ÷ĞÇÃÇ
-(2007-09-26
-17:54:42)
+(2007-09-26 17:54:42)
 &#183;¼ÒÓĞÃ÷ĞÇ³õ³¤³É
 ·­¿ªºÃÀ³Îë¾ŞĞÇµÄÍ¯ÄêÕÕ
-(2007-09-20
-16:29:05)
+(2007-09-20 16:29:05)
 &#183;ÅÌµã½ğÓ¹ÎäÏÀ¾çÖĞµÄÊ®´ó¶ñ¶¾Å®ÈË
-(2007-09-18
-17:56:34)
+(2007-09-18 17:56:34)
 ·ÖÀàĞÅÏ¢
 -->
 -->
@@ -49845,21 +47381,16 @@ TVBÖÆÔì³öµÄÌìÍõ¼¶ÄĞĞÇ
 ÊÓ¾õÔÄ¶ÁÀ¸Ä¿
 Ïà¹ØÁ´½Ó
 &#183;ÓéÀÖÈ¦ÀïÊÜÈËÖõÄ¿µÄ¡°Ì«×Ó¡±ºÍ¡°¹«Ö÷¡±ÃÇ
-(2007-09-27
-18:12:44)
+(2007-09-27 18:12:44)
 &#183;21ÊÀ¼ÍÖĞ¹ú×î¾ßÓéÀÖ¾«ÉñµÄÊıÊ®¸öË²¼ä
-(2007-09-27
-15:53:19)
+(2007-09-27 15:53:19)
 &#183;ÅÌµãÄÇĞ©¼ÈÑİ¹ı½ğÓ¹Ï·ÓÖÑİ¹ıÇíÑşÏ·µÄÃ÷ĞÇÃÇ
-(2007-09-26
-17:54:42)
+(2007-09-26 17:54:42)
 &#183;¼ÒÓĞÃ÷ĞÇ³õ³¤³É
 ·­¿ªºÃÀ³Îë¾ŞĞÇµÄÍ¯ÄêÕÕ
-(2007-09-20
-16:29:05)
+(2007-09-20 16:29:05)
 &#183;ÅÌµã½ğÓ¹ÎäÏÀ¾çÖĞµÄÊ®´ó¶ñ¶¾Å®ÈË
-(2007-09-18
-17:56:34)
+(2007-09-18 17:56:34)
 ·ÖÀàĞÅÏ¢
 -->
 -->
@@ -50195,21 +47726,16 @@ TVBÖÆÔì³öµÄÌìÍõ¼¶ÄĞĞÇ
 ÊÓ¾õÔÄ¶ÁÀ¸Ä¿
 Ïà¹ØÁ´½Ó
 &#183;ÓéÀÖÈ¦ÀïÊÜÈËÖõÄ¿µÄ¡°Ì«×Ó¡±ºÍ¡°¹«Ö÷¡±ÃÇ
-(2007-09-27
-18:12:44)
+(2007-09-27 18:12:44)
 &#183;21ÊÀ¼ÍÖĞ¹ú×î¾ßÓéÀÖ¾«ÉñµÄÊıÊ®¸öË²¼ä
-(2007-09-27
-15:53:19)
+(2007-09-27 15:53:19)
 &#183;ÅÌµãÄÇĞ©¼ÈÑİ¹ı½ğÓ¹Ï·ÓÖÑİ¹ıÇíÑşÏ·µÄÃ÷ĞÇÃÇ
-(2007-09-26
-17:54:42)
+(2007-09-26 17:54:42)
 &#183;¼ÒÓĞÃ÷ĞÇ³õ³¤³É
 ·­¿ªºÃÀ³Îë¾ŞĞÇµÄÍ¯ÄêÕÕ
-(2007-09-20
-16:29:05)
+(2007-09-20 16:29:05)
 &#183;ÅÌµã½ğÓ¹ÎäÏÀ¾çÖĞµÄÊ®´ó¶ñ¶¾Å®ÈË
-(2007-09-18
-17:56:34)
+(2007-09-18 17:56:34)
 ·ÖÀàĞÅÏ¢
 -->
 -->
@@ -50545,21 +48071,16 @@ TVBÖÆÔì³öµÄÌìÍõ¼¶ÄĞĞÇ
 ÊÓ¾õÔÄ¶ÁÀ¸Ä¿
 Ïà¹ØÁ´½Ó
 &#183;ÓéÀÖÈ¦ÀïÊÜÈËÖõÄ¿µÄ¡°Ì«×Ó¡±ºÍ¡°¹«Ö÷¡±ÃÇ
-(2007-09-27
-18:12:44)
+(2007-09-27 18:12:44)
 &#183;21ÊÀ¼ÍÖĞ¹ú×î¾ßÓéÀÖ¾«ÉñµÄÊıÊ®¸öË²¼ä
-(2007-09-27
-15:53:19)
+(2007-09-27 15:53:19)
 &#183;ÅÌµãÄÇĞ©¼ÈÑİ¹ı½ğÓ¹Ï·ÓÖÑİ¹ıÇíÑşÏ·µÄÃ÷ĞÇÃÇ
-(2007-09-26
-17:54:42)
+(2007-09-26 17:54:42)
 &#183;¼ÒÓĞÃ÷ĞÇ³õ³¤³É
 ·­¿ªºÃÀ³Îë¾ŞĞÇµÄÍ¯ÄêÕÕ
-(2007-09-20
-16:29:05)
+(2007-09-20 16:29:05)
 &#183;ÅÌµã½ğÓ¹ÎäÏÀ¾çÖĞµÄÊ®´ó¶ñ¶¾Å®ÈË
-(2007-09-18
-17:56:34)
+(2007-09-18 17:56:34)
 ·ÖÀàĞÅÏ¢
 -->
 -->
@@ -50895,21 +48416,16 @@ TVBÖÆÔì³öµÄÌìÍõ¼¶ÄĞĞÇ
 ÊÓ¾õÔÄ¶ÁÀ¸Ä¿
 Ïà¹ØÁ´½Ó
 &#183;ÓéÀÖÈ¦ÀïÊÜÈËÖõÄ¿µÄ¡°Ì«×Ó¡±ºÍ¡°¹«Ö÷¡±ÃÇ
-(2007-09-27
-18:12:44)
+(2007-09-27 18:12:44)
 &#183;21ÊÀ¼ÍÖĞ¹ú×î¾ßÓéÀÖ¾«ÉñµÄÊıÊ®¸öË²¼ä
-(2007-09-27
-15:53:19)
+(2007-09-27 15:53:19)
 &#183;ÅÌµãÄÇĞ©¼ÈÑİ¹ı½ğÓ¹Ï·ÓÖÑİ¹ıÇíÑşÏ·µÄÃ÷ĞÇÃÇ
-(2007-09-26
-17:54:42)
+(2007-09-26 17:54:42)
 &#183;¼ÒÓĞÃ÷ĞÇ³õ³¤³É
 ·­¿ªºÃÀ³Îë¾ŞĞÇµÄÍ¯ÄêÕÕ
-(2007-09-20
-16:29:05)
+(2007-09-20 16:29:05)
 &#183;ÅÌµã½ğÓ¹ÎäÏÀ¾çÖĞµÄÊ®´ó¶ñ¶¾Å®ÈË
-(2007-09-18
-17:56:34)
+(2007-09-18 17:56:34)
 ·ÖÀàĞÅÏ¢
 -->
 -->
@@ -51245,21 +48761,16 @@ TVBÖÆÔì³öµÄÌìÍõ¼¶ÄĞĞÇ
 ÊÓ¾õÔÄ¶ÁÀ¸Ä¿
 Ïà¹ØÁ´½Ó
 &#183;ÓéÀÖÈ¦ÀïÊÜÈËÖõÄ¿µÄ¡°Ì«×Ó¡±ºÍ¡°¹«Ö÷¡±ÃÇ
-(2007-09-27
-18:12:44)
+(2007-09-27 18:12:44)
 &#183;21ÊÀ¼ÍÖĞ¹ú×î¾ßÓéÀÖ¾«ÉñµÄÊıÊ®¸öË²¼ä
-(2007-09-27
-15:53:19)
+(2007-09-27 15:53:19)
 &#183;ÅÌµãÄÇĞ©¼ÈÑİ¹ı½ğÓ¹Ï·ÓÖÑİ¹ıÇíÑşÏ·µÄÃ÷ĞÇÃÇ
-(2007-09-26
-17:54:42)
+(2007-09-26 17:54:42)
 &#183;¼ÒÓĞÃ÷ĞÇ³õ³¤³É
 ·­¿ªºÃÀ³Îë¾ŞĞÇµÄÍ¯ÄêÕÕ
-(2007-09-20
-16:29:05)
+(2007-09-20 16:29:05)
 &#183;ÅÌµã½ğÓ¹ÎäÏÀ¾çÖĞµÄÊ®´ó¶ñ¶¾Å®ÈË
-(2007-09-18
-17:56:34)
+(2007-09-18 17:56:34)
 ·ÖÀàĞÅÏ¢
 -->
 -->
@@ -51595,21 +49106,16 @@ TVBÖÆÔì³öµÄÌìÍõ¼¶ÄĞĞÇ
 ÊÓ¾õÔÄ¶ÁÀ¸Ä¿
 Ïà¹ØÁ´½Ó
 &#183;ÓéÀÖÈ¦ÀïÊÜÈËÖõÄ¿µÄ¡°Ì«×Ó¡±ºÍ¡°¹«Ö÷¡±ÃÇ
-(2007-09-27
-18:12:44)
+(2007-09-27 18:12:44)
 &#183;21ÊÀ¼ÍÖĞ¹ú×î¾ßÓéÀÖ¾«ÉñµÄÊıÊ®¸öË²¼ä
-(2007-09-27
-15:53:19)
+(2007-09-27 15:53:19)
 &#183;ÅÌµãÄÇĞ©¼ÈÑİ¹ı½ğÓ¹Ï·ÓÖÑİ¹ıÇíÑşÏ·µÄÃ÷ĞÇÃÇ
-(2007-09-26
-17:54:42)
+(2007-09-26 17:54:42)
 &#183;¼ÒÓĞÃ÷ĞÇ³õ³¤³É
 ·­¿ªºÃÀ³Îë¾ŞĞÇµÄÍ¯ÄêÕÕ
-(2007-09-20
-16:29:05)
+(2007-09-20 16:29:05)
 &#183;ÅÌµã½ğÓ¹ÎäÏÀ¾çÖĞµÄÊ®´ó¶ñ¶¾Å®ÈË
-(2007-09-18
-17:56:34)
+(2007-09-18 17:56:34)
 ·ÖÀàĞÅÏ¢
 -->
 -->
@@ -51945,21 +49451,16 @@ TVBÖÆÔì³öµÄÌìÍõ¼¶ÄĞĞÇ
 ÊÓ¾õÔÄ¶ÁÀ¸Ä¿
 Ïà¹ØÁ´½Ó
 &#183;ÓéÀÖÈ¦ÀïÊÜÈËÖõÄ¿µÄ¡°Ì«×Ó¡±ºÍ¡°¹«Ö÷¡±ÃÇ
-(2007-09-27
-18:12:44)
+(2007-09-27 18:12:44)
 &#183;21ÊÀ¼ÍÖĞ¹ú×î¾ßÓéÀÖ¾«ÉñµÄÊıÊ®¸öË²¼ä
-(2007-09-27
-15:53:19)
+(2007-09-27 15:53:19)
 &#183;ÅÌµãÄÇĞ©¼ÈÑİ¹ı½ğÓ¹Ï·ÓÖÑİ¹ıÇíÑşÏ·µÄÃ÷ĞÇÃÇ
-(2007-09-26
-17:54:42)
+(2007-09-26 17:54:42)
 &#183;¼ÒÓĞÃ÷ĞÇ³õ³¤³É
 ·­¿ªºÃÀ³Îë¾ŞĞÇµÄÍ¯ÄêÕÕ
-(2007-09-20
-16:29:05)
+(2007-09-20 16:29:05)
 &#183;ÅÌµã½ğÓ¹ÎäÏÀ¾çÖĞµÄÊ®´ó¶ñ¶¾Å®ÈË
-(2007-09-18
-17:56:34)
+(2007-09-18 17:56:34)
 ·ÖÀàĞÅÏ¢
 -->
 -->
@@ -52295,21 +49796,16 @@ TVBÖÆÔì³öµÄÌìÍõ¼¶ÄĞĞÇ
 ÊÓ¾õÔÄ¶ÁÀ¸Ä¿
 Ïà¹ØÁ´½Ó
 &#183;ÓéÀÖÈ¦ÀïÊÜÈËÖõÄ¿µÄ¡°Ì«×Ó¡±ºÍ¡°¹«Ö÷¡±ÃÇ
-(2007-09-27
-18:12:44)
+(2007-09-27 18:12:44)
 &#183;21ÊÀ¼ÍÖĞ¹ú×î¾ßÓéÀÖ¾«ÉñµÄÊıÊ®¸öË²¼ä
-(2007-09-27
-15:53:19)
+(2007-09-27 15:53:19)
 &#183;ÅÌµãÄÇĞ©¼ÈÑİ¹ı½ğÓ¹Ï·ÓÖÑİ¹ıÇíÑşÏ·µÄÃ÷ĞÇÃÇ
-(2007-09-26
-17:54:42)
+(2007-09-26 17:54:42)
 &#183;¼ÒÓĞÃ÷ĞÇ³õ³¤³É
 ·­¿ªºÃÀ³Îë¾ŞĞÇµÄÍ¯ÄêÕÕ
-(2007-09-20
-16:29:05)
+(2007-09-20 16:29:05)
 &#183;ÅÌµã½ğÓ¹ÎäÏÀ¾çÖĞµÄÊ®´ó¶ñ¶¾Å®ÈË
-(2007-09-18
-17:56:34)
+(2007-09-18 17:56:34)
 ·ÖÀàĞÅÏ¢
 -->
 -->
@@ -52645,21 +50141,16 @@ TVBÖÆÔì³öµÄÌìÍõ¼¶ÄĞĞÇ
 ÊÓ¾õÔÄ¶ÁÀ¸Ä¿
 Ïà¹ØÁ´½Ó
 &#183;ÓéÀÖÈ¦ÀïÊÜÈËÖõÄ¿µÄ¡°Ì«×Ó¡±ºÍ¡°¹«Ö÷¡±ÃÇ
-(2007-09-27
-18:12:44)
+(2007-09-27 18:12:44)
 &#183;21ÊÀ¼ÍÖĞ¹ú×î¾ßÓéÀÖ¾«ÉñµÄÊıÊ®¸öË²¼ä
-(2007-09-27
-15:53:19)
+(2007-09-27 15:53:19)
 &#183;ÅÌµãÄÇĞ©¼ÈÑİ¹ı½ğÓ¹Ï·ÓÖÑİ¹ıÇíÑşÏ·µÄÃ÷ĞÇÃÇ
-(2007-09-26
-17:54:42)
+(2007-09-26 17:54:42)
 &#183;¼ÒÓĞÃ÷ĞÇ³õ³¤³É
 ·­¿ªºÃÀ³Îë¾ŞĞÇµÄÍ¯ÄêÕÕ
-(2007-09-20
-16:29:05)
+(2007-09-20 16:29:05)
 &#183;ÅÌµã½ğÓ¹ÎäÏÀ¾çÖĞµÄÊ®´ó¶ñ¶¾Å®ÈË
-(2007-09-18
-17:56:34)
+(2007-09-18 17:56:34)
 ·ÖÀàĞÅÏ¢
 -->
 -->
@@ -52995,21 +50486,16 @@ TVBÖÆÔì³öµÄÌìÍõ¼¶ÄĞĞÇ
 ÊÓ¾õÔÄ¶ÁÀ¸Ä¿
 Ïà¹ØÁ´½Ó
 &#183;ÓéÀÖÈ¦ÀïÊÜÈËÖõÄ¿µÄ¡°Ì«×Ó¡±ºÍ¡°¹«Ö÷¡±ÃÇ
-(2007-09-27
-18:12:44)
+(2007-09-27 18:12:44)
 &#183;21ÊÀ¼ÍÖĞ¹ú×î¾ßÓéÀÖ¾«ÉñµÄÊıÊ®¸öË²¼ä
-(2007-09-27
-15:53:19)
+(2007-09-27 15:53:19)
 &#183;ÅÌµãÄÇĞ©¼ÈÑİ¹ı½ğÓ¹Ï·ÓÖÑİ¹ıÇíÑşÏ·µÄÃ÷ĞÇÃÇ
-(2007-09-26
-17:54:42)
+(2007-09-26 17:54:42)
 &#183;¼ÒÓĞÃ÷ĞÇ³õ³¤³É
 ·­¿ªºÃÀ³Îë¾ŞĞÇµÄÍ¯ÄêÕÕ
-(2007-09-20
-16:29:05)
+(2007-09-20 16:29:05)
 &#183;ÅÌµã½ğÓ¹ÎäÏÀ¾çÖĞµÄÊ®´ó¶ñ¶¾Å®ÈË
-(2007-09-18
-17:56:34)
+(2007-09-18 17:56:34)
 ·ÖÀàĞÅÏ¢
 -->
 -->
@@ -53345,21 +50831,16 @@ TVBÖÆÔì³öµÄÌìÍõ¼¶ÄĞĞÇ
 ÊÓ¾õÔÄ¶ÁÀ¸Ä¿
 Ïà¹ØÁ´½Ó
 &#183;ÓéÀÖÈ¦ÀïÊÜÈËÖõÄ¿µÄ¡°Ì«×Ó¡±ºÍ¡°¹«Ö÷¡±ÃÇ
-(2007-09-27
-18:12:44)
+(2007-09-27 18:12:44)
 &#183;21ÊÀ¼ÍÖĞ¹ú×î¾ßÓéÀÖ¾«ÉñµÄÊıÊ®¸öË²¼ä
-(2007-09-27
-15:53:19)
+(2007-09-27 15:53:19)
 &#183;ÅÌµãÄÇĞ©¼ÈÑİ¹ı½ğÓ¹Ï·ÓÖÑİ¹ıÇíÑşÏ·µÄÃ÷ĞÇÃÇ
-(2007-09-26
-17:54:42)
+(2007-09-26 17:54:42)
 &#183;¼ÒÓĞÃ÷ĞÇ³õ³¤³É
 ·­¿ªºÃÀ³Îë¾ŞĞÇµÄÍ¯ÄêÕÕ
-(2007-09-20
-16:29:05)
+(2007-09-20 16:29:05)
 &#183;ÅÌµã½ğÓ¹ÎäÏÀ¾çÖĞµÄÊ®´ó¶ñ¶¾Å®ÈË
-(2007-09-18
-17:56:34)
+(2007-09-18 17:56:34)
 ·ÖÀàĞÅÏ¢
 -->
 -->
@@ -53695,21 +51176,16 @@ TVBÖÆÔì³öµÄÌìÍõ¼¶ÄĞĞÇ
 ÊÓ¾õÔÄ¶ÁÀ¸Ä¿
 Ïà¹ØÁ´½Ó
 &#183;ÓéÀÖÈ¦ÀïÊÜÈËÖõÄ¿µÄ¡°Ì«×Ó¡±ºÍ¡°¹«Ö÷¡±ÃÇ
-(2007-09-27
-18:12:44)
+(2007-09-27 18:12:44)
 &#183;21ÊÀ¼ÍÖĞ¹ú×î¾ßÓéÀÖ¾«ÉñµÄÊıÊ®¸öË²¼ä
-(2007-09-27
-15:53:19)
+(2007-09-27 15:53:19)
 &#183;ÅÌµãÄÇĞ©¼ÈÑİ¹ı½ğÓ¹Ï·ÓÖÑİ¹ıÇíÑşÏ·µÄÃ÷ĞÇÃÇ
-(2007-09-26
-17:54:42)
+(2007-09-26 17:54:42)
 &#183;¼ÒÓĞÃ÷ĞÇ³õ³¤³É
 ·­¿ªºÃÀ³Îë¾ŞĞÇµÄÍ¯ÄêÕÕ
-(2007-09-20
-16:29:05)
+(2007-09-20 16:29:05)
 &#183;ÅÌµã½ğÓ¹ÎäÏÀ¾çÖĞµÄÊ®´ó¶ñ¶¾Å®ÈË
-(2007-09-18
-17:56:34)
+(2007-09-18 17:56:34)
 ·ÖÀàĞÅÏ¢
 -->
 -->
@@ -54045,21 +51521,16 @@ TVBÖÆÔì³öµÄÌìÍõ¼¶ÄĞĞÇ
 ÊÓ¾õÔÄ¶ÁÀ¸Ä¿
 Ïà¹ØÁ´½Ó
 &#183;ÓéÀÖÈ¦ÀïÊÜÈËÖõÄ¿µÄ¡°Ì«×Ó¡±ºÍ¡°¹«Ö÷¡±ÃÇ
-(2007-09-27
-18:12:44)
+(2007-09-27 18:12:44)
 &#183;21ÊÀ¼ÍÖĞ¹ú×î¾ßÓéÀÖ¾«ÉñµÄÊıÊ®¸öË²¼ä
-(2007-09-27
-15:53:19)
+(2007-09-27 15:53:19)
 &#183;ÅÌµãÄÇĞ©¼ÈÑİ¹ı½ğÓ¹Ï·ÓÖÑİ¹ıÇíÑşÏ·µÄÃ÷ĞÇÃÇ
-(2007-09-26
-17:54:42)
+(2007-09-26 17:54:42)
 &#183;¼ÒÓĞÃ÷ĞÇ³õ³¤³É
 ·­¿ªºÃÀ³Îë¾ŞĞÇµÄÍ¯ÄêÕÕ
-(2007-09-20
-16:29:05)
+(2007-09-20 16:29:05)
 &#183;ÅÌµã½ğÓ¹ÎäÏÀ¾çÖĞµÄÊ®´ó¶ñ¶¾Å®ÈË
-(2007-09-18
-17:56:34)
+(2007-09-18 17:56:34)
 ·ÖÀàĞÅÏ¢
 -->
 -->
@@ -54395,21 +51866,16 @@ TVBÖÆÔì³öµÄÌìÍõ¼¶ÄĞĞÇ
 ÊÓ¾õÔÄ¶ÁÀ¸Ä¿
 Ïà¹ØÁ´½Ó
 &#183;ÓéÀÖÈ¦ÀïÊÜÈËÖõÄ¿µÄ¡°Ì«×Ó¡±ºÍ¡°¹«Ö÷¡±ÃÇ
-(2007-09-27
-18:12:44)
+(2007-09-27 18:12:44)
 &#183;21ÊÀ¼ÍÖĞ¹ú×î¾ßÓéÀÖ¾«ÉñµÄÊıÊ®¸öË²¼ä
-(2007-09-27
-15:53:19)
+(2007-09-27 15:53:19)
 &#183;ÅÌµãÄÇĞ©¼ÈÑİ¹ı½ğÓ¹Ï·ÓÖÑİ¹ıÇíÑşÏ·µÄÃ÷ĞÇÃÇ
-(2007-09-26
-17:54:42)
+(2007-09-26 17:54:42)
 &#183;¼ÒÓĞÃ÷ĞÇ³õ³¤³É
 ·­¿ªºÃÀ³Îë¾ŞĞÇµÄÍ¯ÄêÕÕ
-(2007-09-20
-16:29:05)
+(2007-09-20 16:29:05)
 &#183;ÅÌµã½ğÓ¹ÎäÏÀ¾çÖĞµÄÊ®´ó¶ñ¶¾Å®ÈË
-(2007-09-18
-17:56:34)
+(2007-09-18 17:56:34)
 ·ÖÀàĞÅÏ¢
 -->
 -->
@@ -54745,21 +52211,16 @@ TVBÖÆÔì³öµÄÌìÍõ¼¶ÄĞĞÇ
 ÊÓ¾õÔÄ¶ÁÀ¸Ä¿
 Ïà¹ØÁ´½Ó
 &#183;ÓéÀÖÈ¦ÀïÊÜÈËÖõÄ¿µÄ¡°Ì«×Ó¡±ºÍ¡°¹«Ö÷¡±ÃÇ
-(2007-09-27
-18:12:44)
+(2007-09-27 18:12:44)
 &#183;21ÊÀ¼ÍÖĞ¹ú×î¾ßÓéÀÖ¾«ÉñµÄÊıÊ®¸öË²¼ä
-(2007-09-27
-15:53:19)
+(2007-09-27 15:53:19)
 &#183;ÅÌµãÄÇĞ©¼ÈÑİ¹ı½ğÓ¹Ï·ÓÖÑİ¹ıÇíÑşÏ·µÄÃ÷ĞÇÃÇ
-(2007-09-26
-17:54:42)
+(2007-09-26 17:54:42)
 &#183;¼ÒÓĞÃ÷ĞÇ³õ³¤³É
 ·­¿ªºÃÀ³Îë¾ŞĞÇµÄÍ¯ÄêÕÕ
-(2007-09-20
-16:29:05)
+(2007-09-20 16:29:05)
 &#183;ÅÌµã½ğÓ¹ÎäÏÀ¾çÖĞµÄÊ®´ó¶ñ¶¾Å®ÈË
-(2007-09-18
-17:56:34)
+(2007-09-18 17:56:34)
 ·ÖÀàĞÅÏ¢
 -->
 -->
@@ -55095,21 +52556,16 @@ TVBÖÆÔì³öµÄÌìÍõ¼¶ÄĞĞÇ
 ÊÓ¾õÔÄ¶ÁÀ¸Ä¿
 Ïà¹ØÁ´½Ó
 &#183;ÓéÀÖÈ¦ÀïÊÜÈËÖõÄ¿µÄ¡°Ì«×Ó¡±ºÍ¡°¹«Ö÷¡±ÃÇ
-(2007-09-27
-18:12:44)
+(2007-09-27 18:12:44)
 &#183;21ÊÀ¼ÍÖĞ¹ú×î¾ßÓéÀÖ¾«ÉñµÄÊıÊ®¸öË²¼ä
-(2007-09-27
-15:53:19)
+(2007-09-27 15:53:19)
 &#183;ÅÌµãÄÇĞ©¼ÈÑİ¹ı½ğÓ¹Ï·ÓÖÑİ¹ıÇíÑşÏ·µÄÃ÷ĞÇÃÇ
-(2007-09-26
-17:54:42)
+(2007-09-26 17:54:42)
 &#183;¼ÒÓĞÃ÷ĞÇ³õ³¤³É
 ·­¿ªºÃÀ³Îë¾ŞĞÇµÄÍ¯ÄêÕÕ
-(2007-09-20
-16:29:05)
+(2007-09-20 16:29:05)
 &#183;ÅÌµã½ğÓ¹ÎäÏÀ¾çÖĞµÄÊ®´ó¶ñ¶¾Å®ÈË
-(2007-09-18
-17:56:34)
+(2007-09-18 17:56:34)
 ·ÖÀàĞÅÏ¢
 -->
 -->
@@ -55445,21 +52901,16 @@ TVBÖÆÔì³öµÄÌìÍõ¼¶ÄĞĞÇ
 ÊÓ¾õÔÄ¶ÁÀ¸Ä¿
 Ïà¹ØÁ´½Ó
 &#183;ÓéÀÖÈ¦ÀïÊÜÈËÖõÄ¿µÄ¡°Ì«×Ó¡±ºÍ¡°¹«Ö÷¡±ÃÇ
-(2007-09-27
-18:12:44)
+(2007-09-27 18:12:44)
 &#183;21ÊÀ¼ÍÖĞ¹ú×î¾ßÓéÀÖ¾«ÉñµÄÊıÊ®¸öË²¼ä
-(2007-09-27
-15:53:19)
+(2007-09-27 15:53:19)
 &#183;ÅÌµãÄÇĞ©¼ÈÑİ¹ı½ğÓ¹Ï·ÓÖÑİ¹ıÇíÑşÏ·µÄÃ÷ĞÇÃÇ
-(2007-09-26
-17:54:42)
+(2007-09-26 17:54:42)
 &#183;¼ÒÓĞÃ÷ĞÇ³õ³¤³É
 ·­¿ªºÃÀ³Îë¾ŞĞÇµÄÍ¯ÄêÕÕ
-(2007-09-20
-16:29:05)
+(2007-09-20 16:29:05)
 &#183;ÅÌµã½ğÓ¹ÎäÏÀ¾çÖĞµÄÊ®´ó¶ñ¶¾Å®ÈË
-(2007-09-18
-17:56:34)
+(2007-09-18 17:56:34)
 ·ÖÀàĞÅÏ¢
 -->
 -->
@@ -55795,21 +53246,16 @@ TVBÖÆÔì³öµÄÌìÍõ¼¶ÄĞĞÇ
 ÊÓ¾õÔÄ¶ÁÀ¸Ä¿
 Ïà¹ØÁ´½Ó
 &#183;ÓéÀÖÈ¦ÀïÊÜÈËÖõÄ¿µÄ¡°Ì«×Ó¡±ºÍ¡°¹«Ö÷¡±ÃÇ
-(2007-09-27
-18:12:44)
+(2007-09-27 18:12:44)
 &#183;21ÊÀ¼ÍÖĞ¹ú×î¾ßÓéÀÖ¾«ÉñµÄÊıÊ®¸öË²¼ä
-(2007-09-27
-15:53:19)
+(2007-09-27 15:53:19)
 &#183;ÅÌµãÄÇĞ©¼ÈÑİ¹ı½ğÓ¹Ï·ÓÖÑİ¹ıÇíÑşÏ·µÄÃ÷ĞÇÃÇ
-(2007-09-26
-17:54:42)
+(2007-09-26 17:54:42)
 &#183;¼ÒÓĞÃ÷ĞÇ³õ³¤³É
 ·­¿ªºÃÀ³Îë¾ŞĞÇµÄÍ¯ÄêÕÕ
-(2007-09-20
-16:29:05)
+(2007-09-20 16:29:05)
 &#183;ÅÌµã½ğÓ¹ÎäÏÀ¾çÖĞµÄÊ®´ó¶ñ¶¾Å®ÈË
-(2007-09-18
-17:56:34)
+(2007-09-18 17:56:34)
 ·ÖÀàĞÅÏ¢
 -->
 -->
@@ -56145,21 +53591,16 @@ TVBÖÆÔì³öµÄÌìÍõ¼¶ÄĞĞÇ
 ÊÓ¾õÔÄ¶ÁÀ¸Ä¿
 Ïà¹ØÁ´½Ó
 &#183;ÓéÀÖÈ¦ÀïÊÜÈËÖõÄ¿µÄ¡°Ì«×Ó¡±ºÍ¡°¹«Ö÷¡±ÃÇ
-(2007-09-27
-18:12:44)
+(2007-09-27 18:12:44)
 &#183;21ÊÀ¼ÍÖĞ¹ú×î¾ßÓéÀÖ¾«ÉñµÄÊıÊ®¸öË²¼ä
-(2007-09-27
-15:53:19)
+(2007-09-27 15:53:19)
 &#183;ÅÌµãÄÇĞ©¼ÈÑİ¹ı½ğÓ¹Ï·ÓÖÑİ¹ıÇíÑşÏ·µÄÃ÷ĞÇÃÇ
-(2007-09-26
-17:54:42)
+(2007-09-26 17:54:42)
 &#183;¼ÒÓĞÃ÷ĞÇ³õ³¤³É
 ·­¿ªºÃÀ³Îë¾ŞĞÇµÄÍ¯ÄêÕÕ
-(2007-09-20
-16:29:05)
+(2007-09-20 16:29:05)
 &#183;ÅÌµã½ğÓ¹ÎäÏÀ¾çÖĞµÄÊ®´ó¶ñ¶¾Å®ÈË
-(2007-09-18
-17:56:34)
+(2007-09-18 17:56:34)
 ·ÖÀàĞÅÏ¢
 -->
 -->
@@ -56495,21 +53936,16 @@ TVBÖÆÔì³öµÄÌìÍõ¼¶ÄĞĞÇ
 ÊÓ¾õÔÄ¶ÁÀ¸Ä¿
 Ïà¹ØÁ´½Ó
 &#183;ÓéÀÖÈ¦ÀïÊÜÈËÖõÄ¿µÄ¡°Ì«×Ó¡±ºÍ¡°¹«Ö÷¡±ÃÇ
-(2007-09-27
-18:12:44)
+(2007-09-27 18:12:44)
 &#183;21ÊÀ¼ÍÖĞ¹ú×î¾ßÓéÀÖ¾«ÉñµÄÊıÊ®¸öË²¼ä
-(2007-09-27
-15:53:19)
+(2007-09-27 15:53:19)
 &#183;ÅÌµãÄÇĞ©¼ÈÑİ¹ı½ğÓ¹Ï·ÓÖÑİ¹ıÇíÑşÏ·µÄÃ÷ĞÇÃÇ
-(2007-09-26
-17:54:42)
+(2007-09-26 17:54:42)
 &#183;¼ÒÓĞÃ÷ĞÇ³õ³¤³É
 ·­¿ªºÃÀ³Îë¾ŞĞÇµÄÍ¯ÄêÕÕ
-(2007-09-20
-16:29:05)
+(2007-09-20 16:29:05)
 &#183;ÅÌµã½ğÓ¹ÎäÏÀ¾çÖĞµÄÊ®´ó¶ñ¶¾Å®ÈË
-(2007-09-18
-17:56:34)
+(2007-09-18 17:56:34)
 ·ÖÀàĞÅÏ¢
 -->
 -->
@@ -56845,21 +54281,16 @@ TVBÖÆÔì³öµÄÌìÍõ¼¶ÄĞĞÇ
 ÊÓ¾õÔÄ¶ÁÀ¸Ä¿
 Ïà¹ØÁ´½Ó
 &#183;ÓéÀÖÈ¦ÀïÊÜÈËÖõÄ¿µÄ¡°Ì«×Ó¡±ºÍ¡°¹«Ö÷¡±ÃÇ
-(2007-09-27
-18:12:44)
+(2007-09-27 18:12:44)
 &#183;21ÊÀ¼ÍÖĞ¹ú×î¾ßÓéÀÖ¾«ÉñµÄÊıÊ®¸öË²¼ä
-(2007-09-27
-15:53:19)
+(2007-09-27 15:53:19)
 &#183;ÅÌµãÄÇĞ©¼ÈÑİ¹ı½ğÓ¹Ï·ÓÖÑİ¹ıÇíÑşÏ·µÄÃ÷ĞÇÃÇ
-(2007-09-26
-17:54:42)
+(2007-09-26 17:54:42)
 &#183;¼ÒÓĞÃ÷ĞÇ³õ³¤³É
 ·­¿ªºÃÀ³Îë¾ŞĞÇµÄÍ¯ÄêÕÕ
-(2007-09-20
-16:29:05)
+(2007-09-20 16:29:05)
 &#183;ÅÌµã½ğÓ¹ÎäÏÀ¾çÖĞµÄÊ®´ó¶ñ¶¾Å®ÈË
-(2007-09-18
-17:56:34)
+(2007-09-18 17:56:34)
 ·ÖÀàĞÅÏ¢
 -->
 -->
@@ -57195,21 +54626,16 @@ TVBÖÆÔì³öµÄÌìÍõ¼¶ÄĞĞÇ
 ÊÓ¾õÔÄ¶ÁÀ¸Ä¿
 Ïà¹ØÁ´½Ó
 &#183;ÓéÀÖÈ¦ÀïÊÜÈËÖõÄ¿µÄ¡°Ì«×Ó¡±ºÍ¡°¹«Ö÷¡±ÃÇ
-(2007-09-27
-18:12:44)
+(2007-09-27 18:12:44)
 &#183;21ÊÀ¼ÍÖĞ¹ú×î¾ßÓéÀÖ¾«ÉñµÄÊıÊ®¸öË²¼ä
-(2007-09-27
-15:53:19)
+(2007-09-27 15:53:19)
 &#183;ÅÌµãÄÇĞ©¼ÈÑİ¹ı½ğÓ¹Ï·ÓÖÑİ¹ıÇíÑşÏ·µÄÃ÷ĞÇÃÇ
-(2007-09-26
-17:54:42)
+(2007-09-26 17:54:42)
 &#183;¼ÒÓĞÃ÷ĞÇ³õ³¤³É
 ·­¿ªºÃÀ³Îë¾ŞĞÇµÄÍ¯ÄêÕÕ
-(2007-09-20
-16:29:05)
+(2007-09-20 16:29:05)
 &#183;ÅÌµã½ğÓ¹ÎäÏÀ¾çÖĞµÄÊ®´ó¶ñ¶¾Å®ÈË
-(2007-09-18
-17:56:34)
+(2007-09-18 17:56:34)
 ·ÖÀàĞÅÏ¢
 -->
 -->
@@ -57545,21 +54971,16 @@ TVBÖÆÔì³öµÄÌìÍõ¼¶ÄĞĞÇ
 ÊÓ¾õÔÄ¶ÁÀ¸Ä¿
 Ïà¹ØÁ´½Ó
 &#183;ÓéÀÖÈ¦ÀïÊÜÈËÖõÄ¿µÄ¡°Ì«×Ó¡±ºÍ¡°¹«Ö÷¡±ÃÇ
-(2007-09-27
-18:12:44)
+(2007-09-27 18:12:44)
 &#183;21ÊÀ¼ÍÖĞ¹ú×î¾ßÓéÀÖ¾«ÉñµÄÊıÊ®¸öË²¼ä
-(2007-09-27
-15:53:19)
+(2007-09-27 15:53:19)
 &#183;ÅÌµãÄÇĞ©¼ÈÑİ¹ı½ğÓ¹Ï·ÓÖÑİ¹ıÇíÑşÏ·µÄÃ÷ĞÇÃÇ
-(2007-09-26
-17:54:42)
+(2007-09-26 17:54:42)
 &#183;¼ÒÓĞÃ÷ĞÇ³õ³¤³É
 ·­¿ªºÃÀ³Îë¾ŞĞÇµÄÍ¯ÄêÕÕ
-(2007-09-20
-16:29:05)
+(2007-09-20 16:29:05)
 &#183;ÅÌµã½ğÓ¹ÎäÏÀ¾çÖĞµÄÊ®´ó¶ñ¶¾Å®ÈË
-(2007-09-18
-17:56:34)
+(2007-09-18 17:56:34)
 ·ÖÀàĞÅÏ¢
 -->
 -->
@@ -57895,21 +55316,16 @@ TVBÖÆÔì³öµÄÌìÍõ¼¶ÄĞĞÇ
 ÊÓ¾õÔÄ¶ÁÀ¸Ä¿
 Ïà¹ØÁ´½Ó
 &#183;ÓéÀÖÈ¦ÀïÊÜÈËÖõÄ¿µÄ¡°Ì«×Ó¡±ºÍ¡°¹«Ö÷¡±ÃÇ
-(2007-09-27
-18:12:44)
+(2007-09-27 18:12:44)
 &#183;21ÊÀ¼ÍÖĞ¹ú×î¾ßÓéÀÖ¾«ÉñµÄÊıÊ®¸öË²¼ä
-(2007-09-27
-15:53:19)
+(2007-09-27 15:53:19)
 &#183;ÅÌµãÄÇĞ©¼ÈÑİ¹ı½ğÓ¹Ï·ÓÖÑİ¹ıÇíÑşÏ·µÄÃ÷ĞÇÃÇ
-(2007-09-26
-17:54:42)
+(2007-09-26 17:54:42)
 &#183;¼ÒÓĞÃ÷ĞÇ³õ³¤³É
 ·­¿ªºÃÀ³Îë¾ŞĞÇµÄÍ¯ÄêÕÕ
-(2007-09-20
-16:29:05)
+(2007-09-20 16:29:05)
 &#183;ÅÌµã½ğÓ¹ÎäÏÀ¾çÖĞµÄÊ®´ó¶ñ¶¾Å®ÈË
-(2007-09-18
-17:56:34)
+(2007-09-18 17:56:34)
 ·ÖÀàĞÅÏ¢
 -->
 -->
@@ -58245,21 +55661,16 @@ TVBÖÆÔì³öµÄÌìÍõ¼¶ÄĞĞÇ
 ÊÓ¾õÔÄ¶ÁÀ¸Ä¿
 Ïà¹ØÁ´½Ó
 &#183;ÓéÀÖÈ¦ÀïÊÜÈËÖõÄ¿µÄ¡°Ì«×Ó¡±ºÍ¡°¹«Ö÷¡±ÃÇ
-(2007-09-27
-18:12:44)
+(2007-09-27 18:12:44)
 &#183;21ÊÀ¼ÍÖĞ¹ú×î¾ßÓéÀÖ¾«ÉñµÄÊıÊ®¸öË²¼ä
-(2007-09-27
-15:53:19)
+(2007-09-27 15:53:19)
 &#183;ÅÌµãÄÇĞ©¼ÈÑİ¹ı½ğÓ¹Ï·ÓÖÑİ¹ıÇíÑşÏ·µÄÃ÷ĞÇÃÇ
-(2007-09-26
-17:54:42)
+(2007-09-26 17:54:42)
 &#183;¼ÒÓĞÃ÷ĞÇ³õ³¤³É
 ·­¿ªºÃÀ³Îë¾ŞĞÇµÄÍ¯ÄêÕÕ
-(2007-09-20
-16:29:05)
+(2007-09-20 16:29:05)
 &#183;ÅÌµã½ğÓ¹ÎäÏÀ¾çÖĞµÄÊ®´ó¶ñ¶¾Å®ÈË
-(2007-09-18
-17:56:34)
+(2007-09-18 17:56:34)
 ·ÖÀàĞÅÏ¢
 -->
 -->
@@ -58595,21 +56006,16 @@ TVBÖÆÔì³öµÄÌìÍõ¼¶ÄĞĞÇ
 ÊÓ¾õÔÄ¶ÁÀ¸Ä¿
 Ïà¹ØÁ´½Ó
 &#183;ÓéÀÖÈ¦ÀïÊÜÈËÖõÄ¿µÄ¡°Ì«×Ó¡±ºÍ¡°¹«Ö÷¡±ÃÇ
-(2007-09-27
-18:12:44)
+(2007-09-27 18:12:44)
 &#183;21ÊÀ¼ÍÖĞ¹ú×î¾ßÓéÀÖ¾«ÉñµÄÊıÊ®¸öË²¼ä
-(2007-09-27
-15:53:19)
+(2007-09-27 15:53:19)
 &#183;ÅÌµãÄÇĞ©¼ÈÑİ¹ı½ğÓ¹Ï·ÓÖÑİ¹ıÇíÑşÏ·µÄÃ÷ĞÇÃÇ
-(2007-09-26
-17:54:42)
+(2007-09-26 17:54:42)
 &#183;¼ÒÓĞÃ÷ĞÇ³õ³¤³É
 ·­¿ªºÃÀ³Îë¾ŞĞÇµÄÍ¯ÄêÕÕ
-(2007-09-20
-16:29:05)
+(2007-09-20 16:29:05)
 &#183;ÅÌµã½ğÓ¹ÎäÏÀ¾çÖĞµÄÊ®´ó¶ñ¶¾Å®ÈË
-(2007-09-18
-17:56:34)
+(2007-09-18 17:56:34)
 ·ÖÀàĞÅÏ¢
 -->
 -->
@@ -58945,21 +56351,16 @@ TVBÖÆÔì³öµÄÌìÍõ¼¶ÄĞĞÇ
 ÊÓ¾õÔÄ¶ÁÀ¸Ä¿
 Ïà¹ØÁ´½Ó
 &#183;ÓéÀÖÈ¦ÀïÊÜÈËÖõÄ¿µÄ¡°Ì«×Ó¡±ºÍ¡°¹«Ö÷¡±ÃÇ
-(2007-09-27
-18:12:44)
+(2007-09-27 18:12:44)
 &#183;21ÊÀ¼ÍÖĞ¹ú×î¾ßÓéÀÖ¾«ÉñµÄÊıÊ®¸öË²¼ä
-(2007-09-27
-15:53:19)
+(2007-09-27 15:53:19)
 &#183;ÅÌµãÄÇĞ©¼ÈÑİ¹ı½ğÓ¹Ï·ÓÖÑİ¹ıÇíÑşÏ·µÄÃ÷ĞÇÃÇ
-(2007-09-26
-17:54:42)
+(2007-09-26 17:54:42)
 &#183;¼ÒÓĞÃ÷ĞÇ³õ³¤³É
 ·­¿ªºÃÀ³Îë¾ŞĞÇµÄÍ¯ÄêÕÕ
-(2007-09-20
-16:29:05)
+(2007-09-20 16:29:05)
 &#183;ÅÌµã½ğÓ¹ÎäÏÀ¾çÖĞµÄÊ®´ó¶ñ¶¾Å®ÈË
-(2007-09-18
-17:56:34)
+(2007-09-18 17:56:34)
 ·ÖÀàĞÅÏ¢
 -->
 -->
@@ -59295,21 +56696,16 @@ TVBÖÆÔì³öµÄÌìÍõ¼¶ÄĞĞÇ
 ÊÓ¾õÔÄ¶ÁÀ¸Ä¿
 Ïà¹ØÁ´½Ó
 &#183;ÓéÀÖÈ¦ÀïÊÜÈËÖõÄ¿µÄ¡°Ì«×Ó¡±ºÍ¡°¹«Ö÷¡±ÃÇ
-(2007-09-27
-18:12:44)
+(2007-09-27 18:12:44)
 &#183;21ÊÀ¼ÍÖĞ¹ú×î¾ßÓéÀÖ¾«ÉñµÄÊıÊ®¸öË²¼ä
-(2007-09-27
-15:53:19)
+(2007-09-27 15:53:19)
 &#183;ÅÌµãÄÇĞ©¼ÈÑİ¹ı½ğÓ¹Ï·ÓÖÑİ¹ıÇíÑşÏ·µÄÃ÷ĞÇÃÇ
-(2007-09-26
-17:54:42)
+(2007-09-26 17:54:42)
 &#183;¼ÒÓĞÃ÷ĞÇ³õ³¤³É
 ·­¿ªºÃÀ³Îë¾ŞĞÇµÄÍ¯ÄêÕÕ
-(2007-09-20
-16:29:05)
+(2007-09-20 16:29:05)
 &#183;ÅÌµã½ğÓ¹ÎäÏÀ¾çÖĞµÄÊ®´ó¶ñ¶¾Å®ÈË
-(2007-09-18
-17:56:34)
+(2007-09-18 17:56:34)
 ·ÖÀàĞÅÏ¢
 -->
 -->
@@ -59645,21 +57041,16 @@ TVBÖÆÔì³öµÄÌìÍõ¼¶ÄĞĞÇ
 ÊÓ¾õÔÄ¶ÁÀ¸Ä¿
 Ïà¹ØÁ´½Ó
 &#183;ÓéÀÖÈ¦ÀïÊÜÈËÖõÄ¿µÄ¡°Ì«×Ó¡±ºÍ¡°¹«Ö÷¡±ÃÇ
-(2007-09-27
-18:12:44)
+(2007-09-27 18:12:44)
 &#183;21ÊÀ¼ÍÖĞ¹ú×î¾ßÓéÀÖ¾«ÉñµÄÊıÊ®¸öË²¼ä
-(2007-09-27
-15:53:19)
+(2007-09-27 15:53:19)
 &#183;ÅÌµãÄÇĞ©¼ÈÑİ¹ı½ğÓ¹Ï·ÓÖÑİ¹ıÇíÑşÏ·µÄÃ÷ĞÇÃÇ
-(2007-09-26
-17:54:42)
+(2007-09-26 17:54:42)
 &#183;¼ÒÓĞÃ÷ĞÇ³õ³¤³É
 ·­¿ªºÃÀ³Îë¾ŞĞÇµÄÍ¯ÄêÕÕ
-(2007-09-20
-16:29:05)
+(2007-09-20 16:29:05)
 &#183;ÅÌµã½ğÓ¹ÎäÏÀ¾çÖĞµÄÊ®´ó¶ñ¶¾Å®ÈË
-(2007-09-18
-17:56:34)
+(2007-09-18 17:56:34)
 ·ÖÀàĞÅÏ¢
 -->
 -->
@@ -59995,21 +57386,16 @@ TVBÖÆÔì³öµÄÌìÍõ¼¶ÄĞĞÇ
 ÊÓ¾õÔÄ¶ÁÀ¸Ä¿
 Ïà¹ØÁ´½Ó
 &#183;ÓéÀÖÈ¦ÀïÊÜÈËÖõÄ¿µÄ¡°Ì«×Ó¡±ºÍ¡°¹«Ö÷¡±ÃÇ
-(2007-09-27
-18:12:44)
+(2007-09-27 18:12:44)
 &#183;21ÊÀ¼ÍÖĞ¹ú×î¾ßÓéÀÖ¾«ÉñµÄÊıÊ®¸öË²¼ä
-(2007-09-27
-15:53:19)
+(2007-09-27 15:53:19)
 &#183;ÅÌµãÄÇĞ©¼ÈÑİ¹ı½ğÓ¹Ï·ÓÖÑİ¹ıÇíÑşÏ·µÄÃ÷ĞÇÃÇ
-(2007-09-26
-17:54:42)
+(2007-09-26 17:54:42)
 &#183;¼ÒÓĞÃ÷ĞÇ³õ³¤³É
 ·­¿ªºÃÀ³Îë¾ŞĞÇµÄÍ¯ÄêÕÕ
-(2007-09-20
-16:29:05)
+(2007-09-20 16:29:05)
 &#183;ÅÌµã½ğÓ¹ÎäÏÀ¾çÖĞµÄÊ®´ó¶ñ¶¾Å®ÈË
-(2007-09-18
-17:56:34)
+(2007-09-18 17:56:34)
 ·ÖÀàĞÅÏ¢
 -->
 -->
@@ -60345,21 +57731,16 @@ TVBÖÆÔì³öµÄÌìÍõ¼¶ÄĞĞÇ
 ÊÓ¾õÔÄ¶ÁÀ¸Ä¿
 Ïà¹ØÁ´½Ó
 &#183;ÓéÀÖÈ¦ÀïÊÜÈËÖõÄ¿µÄ¡°Ì«×Ó¡±ºÍ¡°¹«Ö÷¡±ÃÇ
-(2007-09-27
-18:12:44)
+(2007-09-27 18:12:44)
 &#183;21ÊÀ¼ÍÖĞ¹ú×î¾ßÓéÀÖ¾«ÉñµÄÊıÊ®¸öË²¼ä
-(2007-09-27
-15:53:19)
+(2007-09-27 15:53:19)
 &#183;ÅÌµãÄÇĞ©¼ÈÑİ¹ı½ğÓ¹Ï·ÓÖÑİ¹ıÇíÑşÏ·µÄÃ÷ĞÇÃÇ
-(2007-09-26
-17:54:42)
+(2007-09-26 17:54:42)
 &#183;¼ÒÓĞÃ÷ĞÇ³õ³¤³É
 ·­¿ªºÃÀ³Îë¾ŞĞÇµÄÍ¯ÄêÕÕ
-(2007-09-20
-16:29:05)
+(2007-09-20 16:29:05)
 &#183;ÅÌµã½ğÓ¹ÎäÏÀ¾çÖĞµÄÊ®´ó¶ñ¶¾Å®ÈË
-(2007-09-18
-17:56:34)
+(2007-09-18 17:56:34)
 ·ÖÀàĞÅÏ¢
 -->
 -->
@@ -60695,21 +58076,16 @@ TVBÖÆÔì³öµÄÌìÍõ¼¶ÄĞĞÇ
 ÊÓ¾õÔÄ¶ÁÀ¸Ä¿
 Ïà¹ØÁ´½Ó
 &#183;ÓéÀÖÈ¦ÀïÊÜÈËÖõÄ¿µÄ¡°Ì«×Ó¡±ºÍ¡°¹«Ö÷¡±ÃÇ
-(2007-09-27
-18:12:44)
+(2007-09-27 18:12:44)
 &#183;21ÊÀ¼ÍÖĞ¹ú×î¾ßÓéÀÖ¾«ÉñµÄÊıÊ®¸öË²¼ä
-(2007-09-27
-15:53:19)
+(2007-09-27 15:53:19)
 &#183;ÅÌµãÄÇĞ©¼ÈÑİ¹ı½ğÓ¹Ï·ÓÖÑİ¹ıÇíÑşÏ·µÄÃ÷ĞÇÃÇ
-(2007-09-26
-17:54:42)
+(2007-09-26 17:54:42)
 &#183;¼ÒÓĞÃ÷ĞÇ³õ³¤³É
 ·­¿ªºÃÀ³Îë¾ŞĞÇµÄÍ¯ÄêÕÕ
-(2007-09-20
-16:29:05)
+(2007-09-20 16:29:05)
 &#183;ÅÌµã½ğÓ¹ÎäÏÀ¾çÖĞµÄÊ®´ó¶ñ¶¾Å®ÈË
-(2007-09-18
-17:56:34)
+(2007-09-18 17:56:34)
 ·ÖÀàĞÅÏ¢
 -->
 -->
@@ -61045,21 +58421,16 @@ TVBÖÆÔì³öµÄÌìÍõ¼¶ÄĞĞÇ
 ÊÓ¾õÔÄ¶ÁÀ¸Ä¿
 Ïà¹ØÁ´½Ó
 &#183;ÓéÀÖÈ¦ÀïÊÜÈËÖõÄ¿µÄ¡°Ì«×Ó¡±ºÍ¡°¹«Ö÷¡±ÃÇ
-(2007-09-27
-18:12:44)
+(2007-09-27 18:12:44)
 &#183;21ÊÀ¼ÍÖĞ¹ú×î¾ßÓéÀÖ¾«ÉñµÄÊıÊ®¸öË²¼ä
-(2007-09-27
-15:53:19)
+(2007-09-27 15:53:19)
 &#183;ÅÌµãÄÇĞ©¼ÈÑİ¹ı½ğÓ¹Ï·ÓÖÑİ¹ıÇíÑşÏ·µÄÃ÷ĞÇÃÇ
-(2007-09-26
-17:54:42)
+(2007-09-26 17:54:42)
 &#183;¼ÒÓĞÃ÷ĞÇ³õ³¤³É
 ·­¿ªºÃÀ³Îë¾ŞĞÇµÄÍ¯ÄêÕÕ
-(2007-09-20
-16:29:05)
+(2007-09-20 16:29:05)
 &#183;ÅÌµã½ğÓ¹ÎäÏÀ¾çÖĞµÄÊ®´ó¶ñ¶¾Å®ÈË
-(2007-09-18
-17:56:34)
+(2007-09-18 17:56:34)
 ·ÖÀàĞÅÏ¢
 -->
 -->
@@ -61395,21 +58766,16 @@ TVBÖÆÔì³öµÄÌìÍõ¼¶ÄĞĞÇ
 ÊÓ¾õÔÄ¶ÁÀ¸Ä¿
 Ïà¹ØÁ´½Ó
 &#183;ÓéÀÖÈ¦ÀïÊÜÈËÖõÄ¿µÄ¡°Ì«×Ó¡±ºÍ¡°¹«Ö÷¡±ÃÇ
-(2007-09-27
-18:12:44)
+(2007-09-27 18:12:44)
 &#183;21ÊÀ¼ÍÖĞ¹ú×î¾ßÓéÀÖ¾«ÉñµÄÊıÊ®¸öË²¼ä
-(2007-09-27
-15:53:19)
+(2007-09-27 15:53:19)
 &#183;ÅÌµãÄÇĞ©¼ÈÑİ¹ı½ğÓ¹Ï·ÓÖÑİ¹ıÇíÑşÏ·µÄÃ÷ĞÇÃÇ
-(2007-09-26
-17:54:42)
+(2007-09-26 17:54:42)
 &#183;¼ÒÓĞÃ÷ĞÇ³õ³¤³É
 ·­¿ªºÃÀ³Îë¾ŞĞÇµÄÍ¯ÄêÕÕ
-(2007-09-20
-16:29:05)
+(2007-09-20 16:29:05)
 &#183;ÅÌµã½ğÓ¹ÎäÏÀ¾çÖĞµÄÊ®´ó¶ñ¶¾Å®ÈË
-(2007-09-18
-17:56:34)
+(2007-09-18 17:56:34)
 ·ÖÀàĞÅÏ¢
 -->
 -->
@@ -61745,21 +59111,16 @@ TVBÖÆÔì³öµÄÌìÍõ¼¶ÄĞĞÇ
 ÊÓ¾õÔÄ¶ÁÀ¸Ä¿
 Ïà¹ØÁ´½Ó
 &#183;ÓéÀÖÈ¦ÀïÊÜÈËÖõÄ¿µÄ¡°Ì«×Ó¡±ºÍ¡°¹«Ö÷¡±ÃÇ
-(2007-09-27
-18:12:44)
+(2007-09-27 18:12:44)
 &#183;21ÊÀ¼ÍÖĞ¹ú×î¾ßÓéÀÖ¾«ÉñµÄÊıÊ®¸öË²¼ä
-(2007-09-27
-15:53:19)
+(2007-09-27 15:53:19)
 &#183;ÅÌµãÄÇĞ©¼ÈÑİ¹ı½ğÓ¹Ï·ÓÖÑİ¹ıÇíÑşÏ·µÄÃ÷ĞÇÃÇ
-(2007-09-26
-17:54:42)
+(2007-09-26 17:54:42)
 &#183;¼ÒÓĞÃ÷ĞÇ³õ³¤³É
 ·­¿ªºÃÀ³Îë¾ŞĞÇµÄÍ¯ÄêÕÕ
-(2007-09-20
-16:29:05)
+(2007-09-20 16:29:05)
 &#183;ÅÌµã½ğÓ¹ÎäÏÀ¾çÖĞµÄÊ®´ó¶ñ¶¾Å®ÈË
-(2007-09-18
-17:56:34)
+(2007-09-18 17:56:34)
 ·ÖÀàĞÅÏ¢
 -->
 -->
@@ -62095,21 +59456,16 @@ TVBÖÆÔì³öµÄÌìÍõ¼¶ÄĞĞÇ
 ÊÓ¾õÔÄ¶ÁÀ¸Ä¿
 Ïà¹ØÁ´½Ó
 &#183;ÓéÀÖÈ¦ÀïÊÜÈËÖõÄ¿µÄ¡°Ì«×Ó¡±ºÍ¡°¹«Ö÷¡±ÃÇ
-(2007-09-27
-18:12:44)
+(2007-09-27 18:12:44)
 &#183;21ÊÀ¼ÍÖĞ¹ú×î¾ßÓéÀÖ¾«ÉñµÄÊıÊ®¸öË²¼ä
-(2007-09-27
-15:53:19)
+(2007-09-27 15:53:19)
 &#183;ÅÌµãÄÇĞ©¼ÈÑİ¹ı½ğÓ¹Ï·ÓÖÑİ¹ıÇíÑşÏ·µÄÃ÷ĞÇÃÇ
-(2007-09-26
-17:54:42)
+(2007-09-26 17:54:42)
 &#183;¼ÒÓĞÃ÷ĞÇ³õ³¤³É
 ·­¿ªºÃÀ³Îë¾ŞĞÇµÄÍ¯ÄêÕÕ
-(2007-09-20
-16:29:05)
+(2007-09-20 16:29:05)
 &#183;ÅÌµã½ğÓ¹ÎäÏÀ¾çÖĞµÄÊ®´ó¶ñ¶¾Å®ÈË
-(2007-09-18
-17:56:34)
+(2007-09-18 17:56:34)
 ·ÖÀàĞÅÏ¢
 -->
 -->
@@ -62445,21 +59801,16 @@ TVBÖÆÔì³öµÄÌìÍõ¼¶ÄĞĞÇ
 ÊÓ¾õÔÄ¶ÁÀ¸Ä¿
 Ïà¹ØÁ´½Ó
 &#183;ÓéÀÖÈ¦ÀïÊÜÈËÖõÄ¿µÄ¡°Ì«×Ó¡±ºÍ¡°¹«Ö÷¡±ÃÇ
-(2007-09-27
-18:12:44)
+(2007-09-27 18:12:44)
 &#183;21ÊÀ¼ÍÖĞ¹ú×î¾ßÓéÀÖ¾«ÉñµÄÊıÊ®¸öË²¼ä
-(2007-09-27
-15:53:19)
+(2007-09-27 15:53:19)
 &#183;ÅÌµãÄÇĞ©¼ÈÑİ¹ı½ğÓ¹Ï·ÓÖÑİ¹ıÇíÑşÏ·µÄÃ÷ĞÇÃÇ
-(2007-09-26
-17:54:42)
+(2007-09-26 17:54:42)
 &#183;¼ÒÓĞÃ÷ĞÇ³õ³¤³É
 ·­¿ªºÃÀ³Îë¾ŞĞÇµÄÍ¯ÄêÕÕ
-(2007-09-20
-16:29:05)
+(2007-09-20 16:29:05)
 &#183;ÅÌµã½ğÓ¹ÎäÏÀ¾çÖĞµÄÊ®´ó¶ñ¶¾Å®ÈË
-(2007-09-18
-17:56:34)
+(2007-09-18 17:56:34)
 ·ÖÀàĞÅÏ¢
 -->
 -->
@@ -62795,21 +60146,16 @@ TVBÖÆÔì³öµÄÌìÍõ¼¶ÄĞĞÇ
 ÊÓ¾õÔÄ¶ÁÀ¸Ä¿
 Ïà¹ØÁ´½Ó
 &#183;ÓéÀÖÈ¦ÀïÊÜÈËÖõÄ¿µÄ¡°Ì«×Ó¡±ºÍ¡°¹«Ö÷¡±ÃÇ
-(2007-09-27
-18:12:44)
+(2007-09-27 18:12:44)
 &#183;21ÊÀ¼ÍÖĞ¹ú×î¾ßÓéÀÖ¾«ÉñµÄÊıÊ®¸öË²¼ä
-(2007-09-27
-15:53:19)
+(2007-09-27 15:53:19)
 &#183;ÅÌµãÄÇĞ©¼ÈÑİ¹ı½ğÓ¹Ï·ÓÖÑİ¹ıÇíÑşÏ·µÄÃ÷ĞÇÃÇ
-(2007-09-26
-17:54:42)
+(2007-09-26 17:54:42)
 &#183;¼ÒÓĞÃ÷ĞÇ³õ³¤³É
 ·­¿ªºÃÀ³Îë¾ŞĞÇµÄÍ¯ÄêÕÕ
-(2007-09-20
-16:29:05)
+(2007-09-20 16:29:05)
 &#183;ÅÌµã½ğÓ¹ÎäÏÀ¾çÖĞµÄÊ®´ó¶ñ¶¾Å®ÈË
-(2007-09-18
-17:56:34)
+(2007-09-18 17:56:34)
 ·ÖÀàĞÅÏ¢
 -->
 -->
@@ -63145,21 +60491,16 @@ TVBÖÆÔì³öµÄÌìÍõ¼¶ÄĞĞÇ
 ÊÓ¾õÔÄ¶ÁÀ¸Ä¿
 Ïà¹ØÁ´½Ó
 &#183;ÓéÀÖÈ¦ÀïÊÜÈËÖõÄ¿µÄ¡°Ì«×Ó¡±ºÍ¡°¹«Ö÷¡±ÃÇ
-(2007-09-27
-18:12:44)
+(2007-09-27 18:12:44)
 &#183;21ÊÀ¼ÍÖĞ¹ú×î¾ßÓéÀÖ¾«ÉñµÄÊıÊ®¸öË²¼ä
-(2007-09-27
-15:53:19)
+(2007-09-27 15:53:19)
 &#183;ÅÌµãÄÇĞ©¼ÈÑİ¹ı½ğÓ¹Ï·ÓÖÑİ¹ıÇíÑşÏ·µÄÃ÷ĞÇÃÇ
-(2007-09-26
-17:54:42)
+(2007-09-26 17:54:42)
 &#183;¼ÒÓĞÃ÷ĞÇ³õ³¤³É
 ·­¿ªºÃÀ³Îë¾ŞĞÇµÄÍ¯ÄêÕÕ
-(2007-09-20
-16:29:05)
+(2007-09-20 16:29:05)
 &#183;ÅÌµã½ğÓ¹ÎäÏÀ¾çÖĞµÄÊ®´ó¶ñ¶¾Å®ÈË
-(2007-09-18
-17:56:34)
+(2007-09-18 17:56:34)
 ·ÖÀàĞÅÏ¢
 -->
 -->
@@ -63495,21 +60836,16 @@ TVBÖÆÔì³öµÄÌìÍõ¼¶ÄĞĞÇ
 ÊÓ¾õÔÄ¶ÁÀ¸Ä¿
 Ïà¹ØÁ´½Ó
 &#183;ÓéÀÖÈ¦ÀïÊÜÈËÖõÄ¿µÄ¡°Ì«×Ó¡±ºÍ¡°¹«Ö÷¡±ÃÇ
-(2007-09-27
-18:12:44)
+(2007-09-27 18:12:44)
 &#183;21ÊÀ¼ÍÖĞ¹ú×î¾ßÓéÀÖ¾«ÉñµÄÊıÊ®¸öË²¼ä
-(2007-09-27
-15:53:19)
+(2007-09-27 15:53:19)
 &#183;ÅÌµãÄÇĞ©¼ÈÑİ¹ı½ğÓ¹Ï·ÓÖÑİ¹ıÇíÑşÏ·µÄÃ÷ĞÇÃÇ
-(2007-09-26
-17:54:42)
+(2007-09-26 17:54:42)
 &#183;¼ÒÓĞÃ÷ĞÇ³õ³¤³É
 ·­¿ªºÃÀ³Îë¾ŞĞÇµÄÍ¯ÄêÕÕ
-(2007-09-20
-16:29:05)
+(2007-09-20 16:29:05)
 &#183;ÅÌµã½ğÓ¹ÎäÏÀ¾çÖĞµÄÊ®´ó¶ñ¶¾Å®ÈË
-(2007-09-18
-17:56:34)
+(2007-09-18 17:56:34)
 ·ÖÀàĞÅÏ¢
 -->
 -->
@@ -63845,21 +61181,16 @@ TVBÖÆÔì³öµÄÌìÍõ¼¶ÄĞĞÇ
 ÊÓ¾õÔÄ¶ÁÀ¸Ä¿
 Ïà¹ØÁ´½Ó
 &#183;ÓéÀÖÈ¦ÀïÊÜÈËÖõÄ¿µÄ¡°Ì«×Ó¡±ºÍ¡°¹«Ö÷¡±ÃÇ
-(2007-09-27
-18:12:44)
+(2007-09-27 18:12:44)
 &#183;21ÊÀ¼ÍÖĞ¹ú×î¾ßÓéÀÖ¾«ÉñµÄÊıÊ®¸öË²¼ä
-(2007-09-27
-15:53:19)
+(2007-09-27 15:53:19)
 &#183;ÅÌµãÄÇĞ©¼ÈÑİ¹ı½ğÓ¹Ï·ÓÖÑİ¹ıÇíÑşÏ·µÄÃ÷ĞÇÃÇ
-(2007-09-26
-17:54:42)
+(2007-09-26 17:54:42)
 &#183;¼ÒÓĞÃ÷ĞÇ³õ³¤³É
 ·­¿ªºÃÀ³Îë¾ŞĞÇµÄÍ¯ÄêÕÕ
-(2007-09-20
-16:29:05)
+(2007-09-20 16:29:05)
 &#183;ÅÌµã½ğÓ¹ÎäÏÀ¾çÖĞµÄÊ®´ó¶ñ¶¾Å®ÈË
-(2007-09-18
-17:56:34)
+(2007-09-18 17:56:34)
 ·ÖÀàĞÅÏ¢
 -->
 -->
@@ -64195,21 +61526,16 @@ TVBÖÆÔì³öµÄÌìÍõ¼¶ÄĞĞÇ
 ÊÓ¾õÔÄ¶ÁÀ¸Ä¿
 Ïà¹ØÁ´½Ó
 &#183;ÓéÀÖÈ¦ÀïÊÜÈËÖõÄ¿µÄ¡°Ì«×Ó¡±ºÍ¡°¹«Ö÷¡±ÃÇ
-(2007-09-27
-18:12:44)
+(2007-09-27 18:12:44)
 &#183;21ÊÀ¼ÍÖĞ¹ú×î¾ßÓéÀÖ¾«ÉñµÄÊıÊ®¸öË²¼ä
-(2007-09-27
-15:53:19)
+(2007-09-27 15:53:19)
 &#183;ÅÌµãÄÇĞ©¼ÈÑİ¹ı½ğÓ¹Ï·ÓÖÑİ¹ıÇíÑşÏ·µÄÃ÷ĞÇÃÇ
-(2007-09-26
-17:54:42)
+(2007-09-26 17:54:42)
 &#183;¼ÒÓĞÃ÷ĞÇ³õ³¤³É
 ·­¿ªºÃÀ³Îë¾ŞĞÇµÄÍ¯ÄêÕÕ
-(2007-09-20
-16:29:05)
+(2007-09-20 16:29:05)
 &#183;ÅÌµã½ğÓ¹ÎäÏÀ¾çÖĞµÄÊ®´ó¶ñ¶¾Å®ÈË
-(2007-09-18
-17:56:34)
+(2007-09-18 17:56:34)
 ·ÖÀàĞÅÏ¢
 -->
 -->
@@ -64542,21 +61868,16 @@ TVBÖÆÔì³öµÄÌìÍõ¼¶ÄĞĞÇ
 ÊÓ¾õÔÄ¶ÁÀ¸Ä¿
 Ïà¹ØÁ´½Ó
 &#183;ÓéÀÖÈ¦ÀïÊÜÈËÖõÄ¿µÄ¡°Ì«×Ó¡±ºÍ¡°¹«Ö÷¡±ÃÇ
-(2007-09-27
-18:12:44)
+(2007-09-27 18:12:44)
 &#183;21ÊÀ¼ÍÖĞ¹ú×î¾ßÓéÀÖ¾«ÉñµÄÊıÊ®¸öË²¼ä
-(2007-09-27
-15:53:19)
+(2007-09-27 15:53:19)
 &#183;ÅÌµãÄÇĞ©¼ÈÑİ¹ı½ğÓ¹Ï·ÓÖÑİ¹ıÇíÑşÏ·µÄÃ÷ĞÇÃÇ
-(2007-09-26
-17:54:42)
+(2007-09-26 17:54:42)
 &#183;¼ÒÓĞÃ÷ĞÇ³õ³¤³É
 ·­¿ªºÃÀ³Îë¾ŞĞÇµÄÍ¯ÄêÕÕ
-(2007-09-20
-16:29:05)
+(2007-09-20 16:29:05)
 &#183;ÅÌµã½ğÓ¹ÎäÏÀ¾çÖĞµÄÊ®´ó¶ñ¶¾Å®ÈË
-(2007-09-18
-17:56:34)
+(2007-09-18 17:56:34)
 ·ÖÀàĞÅÏ¢
 -->
 -->
@@ -64892,21 +62213,16 @@ TVBÖÆÔì³öµÄÌìÍõ¼¶ÄĞĞÇ
 ÊÓ¾õÔÄ¶ÁÀ¸Ä¿
 Ïà¹ØÁ´½Ó
 &#183;ÓéÀÖÈ¦ÀïÊÜÈËÖõÄ¿µÄ¡°Ì«×Ó¡±ºÍ¡°¹«Ö÷¡±ÃÇ
-(2007-09-27
-18:12:44)
+(2007-09-27 18:12:44)
 &#183;21ÊÀ¼ÍÖĞ¹ú×î¾ßÓéÀÖ¾«ÉñµÄÊıÊ®¸öË²¼ä
-(2007-09-27
-15:53:19)
+(2007-09-27 15:53:19)
 &#183;ÅÌµãÄÇĞ©¼ÈÑİ¹ı½ğÓ¹Ï·ÓÖÑİ¹ıÇíÑşÏ·µÄÃ÷ĞÇÃÇ
-(2007-09-26
-17:54:42)
+(2007-09-26 17:54:42)
 &#183;¼ÒÓĞÃ÷ĞÇ³õ³¤³É
 ·­¿ªºÃÀ³Îë¾ŞĞÇµÄÍ¯ÄêÕÕ
-(2007-09-20
-16:29:05)
+(2007-09-20 16:29:05)
 &#183;ÅÌµã½ğÓ¹ÎäÏÀ¾çÖĞµÄÊ®´ó¶ñ¶¾Å®ÈË
-(2007-09-18
-17:56:34)
+(2007-09-18 17:56:34)
 ·ÖÀàĞÅÏ¢
 -->
 -->
@@ -65242,21 +62558,16 @@ TVBÖÆÔì³öµÄÌìÍõ¼¶ÄĞĞÇ
 ÊÓ¾õÔÄ¶ÁÀ¸Ä¿
 Ïà¹ØÁ´½Ó
 &#183;ÓéÀÖÈ¦ÀïÊÜÈËÖõÄ¿µÄ¡°Ì«×Ó¡±ºÍ¡°¹«Ö÷¡±ÃÇ
-(2007-09-27
-18:12:44)
+(2007-09-27 18:12:44)
 &#183;21ÊÀ¼ÍÖĞ¹ú×î¾ßÓéÀÖ¾«ÉñµÄÊıÊ®¸öË²¼ä
-(2007-09-27
-15:53:19)
+(2007-09-27 15:53:19)
 &#183;ÅÌµãÄÇĞ©¼ÈÑİ¹ı½ğÓ¹Ï·ÓÖÑİ¹ıÇíÑşÏ·µÄÃ÷ĞÇÃÇ
-(2007-09-26
-17:54:42)
+(2007-09-26 17:54:42)
 &#183;¼ÒÓĞÃ÷ĞÇ³õ³¤³É
 ·­¿ªºÃÀ³Îë¾ŞĞÇµÄÍ¯ÄêÕÕ
-(2007-09-20
-16:29:05)
+(2007-09-20 16:29:05)
 &#183;ÅÌµã½ğÓ¹ÎäÏÀ¾çÖĞµÄÊ®´ó¶ñ¶¾Å®ÈË
-(2007-09-18
-17:56:34)
+(2007-09-18 17:56:34)
 ·ÖÀàĞÅÏ¢
 -->
 -->
@@ -65592,21 +62903,16 @@ TVBÖÆÔì³öµÄÌìÍõ¼¶ÄĞĞÇ
 ÊÓ¾õÔÄ¶ÁÀ¸Ä¿
 Ïà¹ØÁ´½Ó
 &#183;ÓéÀÖÈ¦ÀïÊÜÈËÖõÄ¿µÄ¡°Ì«×Ó¡±ºÍ¡°¹«Ö÷¡±ÃÇ
-(2007-09-27
-18:12:44)
+(2007-09-27 18:12:44)
 &#183;21ÊÀ¼ÍÖĞ¹ú×î¾ßÓéÀÖ¾«ÉñµÄÊıÊ®¸öË²¼ä
-(2007-09-27
-15:53:19)
+(2007-09-27 15:53:19)
 &#183;ÅÌµãÄÇĞ©¼ÈÑİ¹ı½ğÓ¹Ï·ÓÖÑİ¹ıÇíÑşÏ·µÄÃ÷ĞÇÃÇ
-(2007-09-26
-17:54:42)
+(2007-09-26 17:54:42)
 &#183;¼ÒÓĞÃ÷ĞÇ³õ³¤³É
 ·­¿ªºÃÀ³Îë¾ŞĞÇµÄÍ¯ÄêÕÕ
-(2007-09-20
-16:29:05)
+(2007-09-20 16:29:05)
 &#183;ÅÌµã½ğÓ¹ÎäÏÀ¾çÖĞµÄÊ®´ó¶ñ¶¾Å®ÈË
-(2007-09-18
-17:56:34)
+(2007-09-18 17:56:34)
 ·ÖÀàĞÅÏ¢
 -->
 -->
@@ -65942,21 +63248,16 @@ TVBÖÆÔì³öµÄÌìÍõ¼¶ÄĞĞÇ
 ÊÓ¾õÔÄ¶ÁÀ¸Ä¿
 Ïà¹ØÁ´½Ó
 &#183;ÓéÀÖÈ¦ÀïÊÜÈËÖõÄ¿µÄ¡°Ì«×Ó¡±ºÍ¡°¹«Ö÷¡±ÃÇ
-(2007-09-27
-18:12:44)
+(2007-09-27 18:12:44)
 &#183;21ÊÀ¼ÍÖĞ¹ú×î¾ßÓéÀÖ¾«ÉñµÄÊıÊ®¸öË²¼ä
-(2007-09-27
-15:53:19)
+(2007-09-27 15:53:19)
 &#183;ÅÌµãÄÇĞ©¼ÈÑİ¹ı½ğÓ¹Ï·ÓÖÑİ¹ıÇíÑşÏ·µÄÃ÷ĞÇÃÇ
-(2007-09-26
-17:54:42)
+(2007-09-26 17:54:42)
 &#183;¼ÒÓĞÃ÷ĞÇ³õ³¤³É
 ·­¿ªºÃÀ³Îë¾ŞĞÇµÄÍ¯ÄêÕÕ
-(2007-09-20
-16:29:05)
+(2007-09-20 16:29:05)
 &#183;ÅÌµã½ğÓ¹ÎäÏÀ¾çÖĞµÄÊ®´ó¶ñ¶¾Å®ÈË
-(2007-09-18
-17:56:34)
+(2007-09-18 17:56:34)
 ·ÖÀàĞÅÏ¢
 -->
 -->
@@ -66292,21 +63593,16 @@ TVBÖÆÔì³öµÄÌìÍõ¼¶ÄĞĞÇ
 ÊÓ¾õÔÄ¶ÁÀ¸Ä¿
 Ïà¹ØÁ´½Ó
 &#183;ÓéÀÖÈ¦ÀïÊÜÈËÖõÄ¿µÄ¡°Ì«×Ó¡±ºÍ¡°¹«Ö÷¡±ÃÇ
-(2007-09-27
-18:12:44)
+(2007-09-27 18:12:44)
 &#183;21ÊÀ¼ÍÖĞ¹ú×î¾ßÓéÀÖ¾«ÉñµÄÊıÊ®¸öË²¼ä
-(2007-09-27
-15:53:19)
+(2007-09-27 15:53:19)
 &#183;ÅÌµãÄÇĞ©¼ÈÑİ¹ı½ğÓ¹Ï·ÓÖÑİ¹ıÇíÑşÏ·µÄÃ÷ĞÇÃÇ
-(2007-09-26
-17:54:42)
+(2007-09-26 17:54:42)
 &#183;¼ÒÓĞÃ÷ĞÇ³õ³¤³É
 ·­¿ªºÃÀ³Îë¾ŞĞÇµÄÍ¯ÄêÕÕ
-(2007-09-20
-16:29:05)
+(2007-09-20 16:29:05)
 &#183;ÅÌµã½ğÓ¹ÎäÏÀ¾çÖĞµÄÊ®´ó¶ñ¶¾Å®ÈË
-(2007-09-18
-17:56:34)
+(2007-09-18 17:56:34)
 ·ÖÀàĞÅÏ¢
 -->
 -->
@@ -66642,21 +63938,16 @@ TVBÖÆÔì³öµÄÌìÍõ¼¶ÄĞĞÇ
 ÊÓ¾õÔÄ¶ÁÀ¸Ä¿
 Ïà¹ØÁ´½Ó
 &#183;ÓéÀÖÈ¦ÀïÊÜÈËÖõÄ¿µÄ¡°Ì«×Ó¡±ºÍ¡°¹«Ö÷¡±ÃÇ
-(2007-09-27
-18:12:44)
+(2007-09-27 18:12:44)
 &#183;21ÊÀ¼ÍÖĞ¹ú×î¾ßÓéÀÖ¾«ÉñµÄÊıÊ®¸öË²¼ä
-(2007-09-27
-15:53:19)
+(2007-09-27 15:53:19)
 &#183;ÅÌµãÄÇĞ©¼ÈÑİ¹ı½ğÓ¹Ï·ÓÖÑİ¹ıÇíÑşÏ·µÄÃ÷ĞÇÃÇ
-(2007-09-26
-17:54:42)
+(2007-09-26 17:54:42)
 &#183;¼ÒÓĞÃ÷ĞÇ³õ³¤³É
 ·­¿ªºÃÀ³Îë¾ŞĞÇµÄÍ¯ÄêÕÕ
-(2007-09-20
-16:29:05)
+(2007-09-20 16:29:05)
 &#183;ÅÌµã½ğÓ¹ÎäÏÀ¾çÖĞµÄÊ®´ó¶ñ¶¾Å®ÈË
-(2007-09-18
-17:56:34)
+(2007-09-18 17:56:34)
 ·ÖÀàĞÅÏ¢
 -->
 -->
@@ -66992,21 +64283,16 @@ TVBÖÆÔì³öµÄÌìÍõ¼¶ÄĞĞÇ
 ÊÓ¾õÔÄ¶ÁÀ¸Ä¿
 Ïà¹ØÁ´½Ó
 &#183;ÓéÀÖÈ¦ÀïÊÜÈËÖõÄ¿µÄ¡°Ì«×Ó¡±ºÍ¡°¹«Ö÷¡±ÃÇ
-(2007-09-27
-18:12:44)
+(2007-09-27 18:12:44)
 &#183;21ÊÀ¼ÍÖĞ¹ú×î¾ßÓéÀÖ¾«ÉñµÄÊıÊ®¸öË²¼ä
-(2007-09-27
-15:53:19)
+(2007-09-27 15:53:19)
 &#183;ÅÌµãÄÇĞ©¼ÈÑİ¹ı½ğÓ¹Ï·ÓÖÑİ¹ıÇíÑşÏ·µÄÃ÷ĞÇÃÇ
-(2007-09-26
-17:54:42)
+(2007-09-26 17:54:42)
 &#183;¼ÒÓĞÃ÷ĞÇ³õ³¤³É
 ·­¿ªºÃÀ³Îë¾ŞĞÇµÄÍ¯ÄêÕÕ
-(2007-09-20
-16:29:05)
+(2007-09-20 16:29:05)
 &#183;ÅÌµã½ğÓ¹ÎäÏÀ¾çÖĞµÄÊ®´ó¶ñ¶¾Å®ÈË
-(2007-09-18
-17:56:34)
+(2007-09-18 17:56:34)
 ·ÖÀàĞÅÏ¢
 -->
 -->
@@ -67342,21 +64628,16 @@ TVBÖÆÔì³öµÄÌìÍõ¼¶ÄĞĞÇ
 ÊÓ¾õÔÄ¶ÁÀ¸Ä¿
 Ïà¹ØÁ´½Ó
 &#183;ÓéÀÖÈ¦ÀïÊÜÈËÖõÄ¿µÄ¡°Ì«×Ó¡±ºÍ¡°¹«Ö÷¡±ÃÇ
-(2007-09-27
-18:12:44)
+(2007-09-27 18:12:44)
 &#183;21ÊÀ¼ÍÖĞ¹ú×î¾ßÓéÀÖ¾«ÉñµÄÊıÊ®¸öË²¼ä
-(2007-09-27
-15:53:19)
+(2007-09-27 15:53:19)
 &#183;ÅÌµãÄÇĞ©¼ÈÑİ¹ı½ğÓ¹Ï·ÓÖÑİ¹ıÇíÑşÏ·µÄÃ÷ĞÇÃÇ
-(2007-09-26
-17:54:42)
+(2007-09-26 17:54:42)
 &#183;¼ÒÓĞÃ÷ĞÇ³õ³¤³É
 ·­¿ªºÃÀ³Îë¾ŞĞÇµÄÍ¯ÄêÕÕ
-(2007-09-20
-16:29:05)
+(2007-09-20 16:29:05)
 &#183;ÅÌµã½ğÓ¹ÎäÏÀ¾çÖĞµÄÊ®´ó¶ñ¶¾Å®ÈË
-(2007-09-18
-17:56:34)
+(2007-09-18 17:56:34)
 ·ÖÀàĞÅÏ¢
 -->
 -->
@@ -67692,21 +64973,16 @@ TVBÖÆÔì³öµÄÌìÍõ¼¶ÄĞĞÇ
 ÊÓ¾õÔÄ¶ÁÀ¸Ä¿
 Ïà¹ØÁ´½Ó
 &#183;ÓéÀÖÈ¦ÀïÊÜÈËÖõÄ¿µÄ¡°Ì«×Ó¡±ºÍ¡°¹«Ö÷¡±ÃÇ
-(2007-09-27
-18:12:44)
+(2007-09-27 18:12:44)
 &#183;21ÊÀ¼ÍÖĞ¹ú×î¾ßÓéÀÖ¾«ÉñµÄÊıÊ®¸öË²¼ä
-(2007-09-27
-15:53:19)
+(2007-09-27 15:53:19)
 &#183;ÅÌµãÄÇĞ©¼ÈÑİ¹ı½ğÓ¹Ï·ÓÖÑİ¹ıÇíÑşÏ·µÄÃ÷ĞÇÃÇ
-(2007-09-26
-17:54:42)
+(2007-09-26 17:54:42)
 &#183;¼ÒÓĞÃ÷ĞÇ³õ³¤³É
 ·­¿ªºÃÀ³Îë¾ŞĞÇµÄÍ¯ÄêÕÕ
-(2007-09-20
-16:29:05)
+(2007-09-20 16:29:05)
 &#183;ÅÌµã½ğÓ¹ÎäÏÀ¾çÖĞµÄÊ®´ó¶ñ¶¾Å®ÈË
-(2007-09-18
-17:56:34)
+(2007-09-18 17:56:34)
 ·ÖÀàĞÅÏ¢
 -->
 -->
@@ -68042,21 +65318,16 @@ TVBÖÆÔì³öµÄÌìÍõ¼¶ÄĞĞÇ
 ÊÓ¾õÔÄ¶ÁÀ¸Ä¿
 Ïà¹ØÁ´½Ó
 &#183;ÓéÀÖÈ¦ÀïÊÜÈËÖõÄ¿µÄ¡°Ì«×Ó¡±ºÍ¡°¹«Ö÷¡±ÃÇ
-(2007-09-27
-18:12:44)
+(2007-09-27 18:12:44)
 &#183;21ÊÀ¼ÍÖĞ¹ú×î¾ßÓéÀÖ¾«ÉñµÄÊıÊ®¸öË²¼ä
-(2007-09-27
-15:53:19)
+(2007-09-27 15:53:19)
 &#183;ÅÌµãÄÇĞ©¼ÈÑİ¹ı½ğÓ¹Ï·ÓÖÑİ¹ıÇíÑşÏ·µÄÃ÷ĞÇÃÇ
-(2007-09-26
-17:54:42)
+(2007-09-26 17:54:42)
 &#183;¼ÒÓĞÃ÷ĞÇ³õ³¤³É
 ·­¿ªºÃÀ³Îë¾ŞĞÇµÄÍ¯ÄêÕÕ
-(2007-09-20
-16:29:05)
+(2007-09-20 16:29:05)
 &#183;ÅÌµã½ğÓ¹ÎäÏÀ¾çÖĞµÄÊ®´ó¶ñ¶¾Å®ÈË
-(2007-09-18
-17:56:34)
+(2007-09-18 17:56:34)
 ·ÖÀàĞÅÏ¢
 -->
 -->
@@ -68392,21 +65663,16 @@ TVBÖÆÔì³öµÄÌìÍõ¼¶ÄĞĞÇ
 ÊÓ¾õÔÄ¶ÁÀ¸Ä¿
 Ïà¹ØÁ´½Ó
 &#183;ÓéÀÖÈ¦ÀïÊÜÈËÖõÄ¿µÄ¡°Ì«×Ó¡±ºÍ¡°¹«Ö÷¡±ÃÇ
-(2007-09-27
-18:12:44)
+(2007-09-27 18:12:44)
 &#183;21ÊÀ¼ÍÖĞ¹ú×î¾ßÓéÀÖ¾«ÉñµÄÊıÊ®¸öË²¼ä
-(2007-09-27
-15:53:19)
+(2007-09-27 15:53:19)
 &#183;ÅÌµãÄÇĞ©¼ÈÑİ¹ı½ğÓ¹Ï·ÓÖÑİ¹ıÇíÑşÏ·µÄÃ÷ĞÇÃÇ
-(2007-09-26
-17:54:42)
+(2007-09-26 17:54:42)
 &#183;¼ÒÓĞÃ÷ĞÇ³õ³¤³É
 ·­¿ªºÃÀ³Îë¾ŞĞÇµÄÍ¯ÄêÕÕ
-(2007-09-20
-16:29:05)
+(2007-09-20 16:29:05)
 &#183;ÅÌµã½ğÓ¹ÎäÏÀ¾çÖĞµÄÊ®´ó¶ñ¶¾Å®ÈË
-(2007-09-18
-17:56:34)
+(2007-09-18 17:56:34)
 ·ÖÀàĞÅÏ¢
 -->
 -->
@@ -68742,21 +66008,16 @@ TVBÖÆÔì³öµÄÌìÍõ¼¶ÄĞĞÇ
 ÊÓ¾õÔÄ¶ÁÀ¸Ä¿
 Ïà¹ØÁ´½Ó
 &#183;ÓéÀÖÈ¦ÀïÊÜÈËÖõÄ¿µÄ¡°Ì«×Ó¡±ºÍ¡°¹«Ö÷¡±ÃÇ
-(2007-09-27
-18:12:44)
+(2007-09-27 18:12:44)
 &#183;21ÊÀ¼ÍÖĞ¹ú×î¾ßÓéÀÖ¾«ÉñµÄÊıÊ®¸öË²¼ä
-(2007-09-27
-15:53:19)
+(2007-09-27 15:53:19)
 &#183;ÅÌµãÄÇĞ©¼ÈÑİ¹ı½ğÓ¹Ï·ÓÖÑİ¹ıÇíÑşÏ·µÄÃ÷ĞÇÃÇ
-(2007-09-26
-17:54:42)
+(2007-09-26 17:54:42)
 &#183;¼ÒÓĞÃ÷ĞÇ³õ³¤³É
 ·­¿ªºÃÀ³Îë¾ŞĞÇµÄÍ¯ÄêÕÕ
-(2007-09-20
-16:29:05)
+(2007-09-20 16:29:05)
 &#183;ÅÌµã½ğÓ¹ÎäÏÀ¾çÖĞµÄÊ®´ó¶ñ¶¾Å®ÈË
-(2007-09-18
-17:56:34)
+(2007-09-18 17:56:34)
 ·ÖÀàĞÅÏ¢
 -->
 -->
@@ -69092,21 +66353,16 @@ TVBÖÆÔì³öµÄÌìÍõ¼¶ÄĞĞÇ
 ÊÓ¾õÔÄ¶ÁÀ¸Ä¿
 Ïà¹ØÁ´½Ó
 &#183;ÓéÀÖÈ¦ÀïÊÜÈËÖõÄ¿µÄ¡°Ì«×Ó¡±ºÍ¡°¹«Ö÷¡±ÃÇ
-(2007-09-27
-18:12:44)
+(2007-09-27 18:12:44)
 &#183;21ÊÀ¼ÍÖĞ¹ú×î¾ßÓéÀÖ¾«ÉñµÄÊıÊ®¸öË²¼ä
-(2007-09-27
-15:53:19)
+(2007-09-27 15:53:19)
 &#183;ÅÌµãÄÇĞ©¼ÈÑİ¹ı½ğÓ¹Ï·ÓÖÑİ¹ıÇíÑşÏ·µÄÃ÷ĞÇÃÇ
-(2007-09-26
-17:54:42)
+(2007-09-26 17:54:42)
 &#183;¼ÒÓĞÃ÷ĞÇ³õ³¤³É
 ·­¿ªºÃÀ³Îë¾ŞĞÇµÄÍ¯ÄêÕÕ
-(2007-09-20
-16:29:05)
+(2007-09-20 16:29:05)
 &#183;ÅÌµã½ğÓ¹ÎäÏÀ¾çÖĞµÄÊ®´ó¶ñ¶¾Å®ÈË
-(2007-09-18
-17:56:34)
+(2007-09-18 17:56:34)
 ·ÖÀàĞÅÏ¢
 -->
 -->
@@ -69442,21 +66698,16 @@ TVBÖÆÔì³öµÄÌìÍõ¼¶ÄĞĞÇ
 ÊÓ¾õÔÄ¶ÁÀ¸Ä¿
 Ïà¹ØÁ´½Ó
 &#183;ÓéÀÖÈ¦ÀïÊÜÈËÖõÄ¿µÄ¡°Ì«×Ó¡±ºÍ¡°¹«Ö÷¡±ÃÇ
-(2007-09-27
-18:12:44)
+(2007-09-27 18:12:44)
 &#183;21ÊÀ¼ÍÖĞ¹ú×î¾ßÓéÀÖ¾«ÉñµÄÊıÊ®¸öË²¼ä
-(2007-09-27
-15:53:19)
+(2007-09-27 15:53:19)
 &#183;ÅÌµãÄÇĞ©¼ÈÑİ¹ı½ğÓ¹Ï·ÓÖÑİ¹ıÇíÑşÏ·µÄÃ÷ĞÇÃÇ
-(2007-09-26
-17:54:42)
+(2007-09-26 17:54:42)
 &#183;¼ÒÓĞÃ÷ĞÇ³õ³¤³É
 ·­¿ªºÃÀ³Îë¾ŞĞÇµÄÍ¯ÄêÕÕ
-(2007-09-20
-16:29:05)
+(2007-09-20 16:29:05)
 &#183;ÅÌµã½ğÓ¹ÎäÏÀ¾çÖĞµÄÊ®´ó¶ñ¶¾Å®ÈË
-(2007-09-18
-17:56:34)
+(2007-09-18 17:56:34)
 ·ÖÀàĞÅÏ¢
 -->
 -->
@@ -69792,21 +67043,16 @@ TVBÖÆÔì³öµÄÌìÍõ¼¶ÄĞĞÇ
 ÊÓ¾õÔÄ¶ÁÀ¸Ä¿
 Ïà¹ØÁ´½Ó
 &#183;ÓéÀÖÈ¦ÀïÊÜÈËÖõÄ¿µÄ¡°Ì«×Ó¡±ºÍ¡°¹«Ö÷¡±ÃÇ
-(2007-09-27
-18:12:44)
+(2007-09-27 18:12:44)
 &#183;21ÊÀ¼ÍÖĞ¹ú×î¾ßÓéÀÖ¾«ÉñµÄÊıÊ®¸öË²¼ä
-(2007-09-27
-15:53:19)
+(2007-09-27 15:53:19)
 &#183;ÅÌµãÄÇĞ©¼ÈÑİ¹ı½ğÓ¹Ï·ÓÖÑİ¹ıÇíÑşÏ·µÄÃ÷ĞÇÃÇ
-(2007-09-26
-17:54:42)
+(2007-09-26 17:54:42)
 &#183;¼ÒÓĞÃ÷ĞÇ³õ³¤³É
 ·­¿ªºÃÀ³Îë¾ŞĞÇµÄÍ¯ÄêÕÕ
-(2007-09-20
-16:29:05)
+(2007-09-20 16:29:05)
 &#183;ÅÌµã½ğÓ¹ÎäÏÀ¾çÖĞµÄÊ®´ó¶ñ¶¾Å®ÈË
-(2007-09-18
-17:56:34)
+(2007-09-18 17:56:34)
 ·ÖÀàĞÅÏ¢
 -->
 -->
@@ -70142,21 +67388,16 @@ TVBÖÆÔì³öµÄÌìÍõ¼¶ÄĞĞÇ
 ÊÓ¾õÔÄ¶ÁÀ¸Ä¿
 Ïà¹ØÁ´½Ó
 &#183;ÓéÀÖÈ¦ÀïÊÜÈËÖõÄ¿µÄ¡°Ì«×Ó¡±ºÍ¡°¹«Ö÷¡±ÃÇ
-(2007-09-27
-18:12:44)
+(2007-09-27 18:12:44)
 &#183;21ÊÀ¼ÍÖĞ¹ú×î¾ßÓéÀÖ¾«ÉñµÄÊıÊ®¸öË²¼ä
-(2007-09-27
-15:53:19)
+(2007-09-27 15:53:19)
 &#183;ÅÌµãÄÇĞ©¼ÈÑİ¹ı½ğÓ¹Ï·ÓÖÑİ¹ıÇíÑşÏ·µÄÃ÷ĞÇÃÇ
-(2007-09-26
-17:54:42)
+(2007-09-26 17:54:42)
 &#183;¼ÒÓĞÃ÷ĞÇ³õ³¤³É
 ·­¿ªºÃÀ³Îë¾ŞĞÇµÄÍ¯ÄêÕÕ
-(2007-09-20
-16:29:05)
+(2007-09-20 16:29:05)
 &#183;ÅÌµã½ğÓ¹ÎäÏÀ¾çÖĞµÄÊ®´ó¶ñ¶¾Å®ÈË
-(2007-09-18
-17:56:34)
+(2007-09-18 17:56:34)
 ·ÖÀàĞÅÏ¢
 -->
 -->
@@ -70492,21 +67733,16 @@ TVBÖÆÔì³öµÄÌìÍõ¼¶ÄĞĞÇ
 ÊÓ¾õÔÄ¶ÁÀ¸Ä¿
 Ïà¹ØÁ´½Ó
 &#183;ÓéÀÖÈ¦ÀïÊÜÈËÖõÄ¿µÄ¡°Ì«×Ó¡±ºÍ¡°¹«Ö÷¡±ÃÇ
-(2007-09-27
-18:12:44)
+(2007-09-27 18:12:44)
 &#183;21ÊÀ¼ÍÖĞ¹ú×î¾ßÓéÀÖ¾«ÉñµÄÊıÊ®¸öË²¼ä
-(2007-09-27
-15:53:19)
+(2007-09-27 15:53:19)
 &#183;ÅÌµãÄÇĞ©¼ÈÑİ¹ı½ğÓ¹Ï·ÓÖÑİ¹ıÇíÑşÏ·µÄÃ÷ĞÇÃÇ
-(2007-09-26
-17:54:42)
+(2007-09-26 17:54:42)
 &#183;¼ÒÓĞÃ÷ĞÇ³õ³¤³É
 ·­¿ªºÃÀ³Îë¾ŞĞÇµÄÍ¯ÄêÕÕ
-(2007-09-20
-16:29:05)
+(2007-09-20 16:29:05)
 &#183;ÅÌµã½ğÓ¹ÎäÏÀ¾çÖĞµÄÊ®´ó¶ñ¶¾Å®ÈË
-(2007-09-18
-17:56:34)
+(2007-09-18 17:56:34)
 ·ÖÀàĞÅÏ¢
 -->
 -->
@@ -70842,21 +68078,16 @@ TVBÖÆÔì³öµÄÌìÍõ¼¶ÄĞĞÇ
 ÊÓ¾õÔÄ¶ÁÀ¸Ä¿
 Ïà¹ØÁ´½Ó
 &#183;ÓéÀÖÈ¦ÀïÊÜÈËÖõÄ¿µÄ¡°Ì«×Ó¡±ºÍ¡°¹«Ö÷¡±ÃÇ
-(2007-09-27
-18:12:44)
+(2007-09-27 18:12:44)
 &#183;21ÊÀ¼ÍÖĞ¹ú×î¾ßÓéÀÖ¾«ÉñµÄÊıÊ®¸öË²¼ä
-(2007-09-27
-15:53:19)
+(2007-09-27 15:53:19)
 &#183;ÅÌµãÄÇĞ©¼ÈÑİ¹ı½ğÓ¹Ï·ÓÖÑİ¹ıÇíÑşÏ·µÄÃ÷ĞÇÃÇ
-(2007-09-26
-17:54:42)
+(2007-09-26 17:54:42)
 &#183;¼ÒÓĞÃ÷ĞÇ³õ³¤³É
 ·­¿ªºÃÀ³Îë¾ŞĞÇµÄÍ¯ÄêÕÕ
-(2007-09-20
-16:29:05)
+(2007-09-20 16:29:05)
 &#183;ÅÌµã½ğÓ¹ÎäÏÀ¾çÖĞµÄÊ®´ó¶ñ¶¾Å®ÈË
-(2007-09-18
-17:56:34)
+(2007-09-18 17:56:34)
 ·ÖÀàĞÅÏ¢
 -->
 -->

@@ -10404,9 +10404,7 @@ $Option$
 μ1200
 μ-mini
 Digital
-S(Stylus
-Verve
-S)
+S(Stylus Verve S)
 μ
 mini
 DIGITAL
@@ -10433,12 +10431,8 @@ DIGITAL
 α200
 α100(套机)
 α100
-α-7D(Maxxum
-7D/Dynax
-7D)/套机
-α-7D(Maxxum
-7D/Dynax
-7D)
+α-7D(Maxxum 7D/Dynax 7D)/套机
+α-7D(Maxxum 7D/Dynax 7D)
 α-5
 Digital(α-Sweet)/套机
 α-5
@@ -11108,26 +11102,20 @@ i
 Zoom/SD30
 IXUS
 950
-IS(SD850
-IS)
+IS(SD850 IS)
 IXUS
 900
 Ti
 IXUS
 850
-IS(SD800
-IS)
+IS(SD800 IS)
 IXUS
 800
-IS(SD700
-IS
-Digital
-ELPH)
+IS(SD700 IS Digital ELPH)
 IXUS
 750(SD550)
 IXUS
-75(SD
-750)
+75(SD 750)
 IXUS
 700(SD500)
 IXUS
@@ -11230,8 +11218,7 @@ FS2
 FS1
 FinePixS1pro
 FinePix1400Z
-FE-5500(D630
-Zoom)
+FE-5500(D630 Zoom)
 FE-300
 FE-290
 FE-280
@@ -11340,11 +11327,9 @@ EOS
 EOS
 400D
 EOS
-350D(REBEL
-XT)/套机
+350D(REBEL XT)/套机
 EOS
-350D(REBEL
-XT)
+350D(REBEL XT)
 EOS
 30D（套机）
 EOS
@@ -49129,9 +49114,7 @@ Tires
 款式列表
 GX
 Sedan
-[Limited
-Availability
-NGV]
+[Limited Availability NGV]
 DX
 Coupe
 DX

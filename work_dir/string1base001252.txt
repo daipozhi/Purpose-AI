@@ -1196,7 +1196,7 @@ reserved
 78
 ¡¤¸»É­¡¤ÃÀ¼Ò¾Ó
 72
-¡¤°ÂÆÕ×¨Âôµê(»Ô»Í
+¡¤°ÂÆÕ×¨Âôµê(»Ô»Í 
 60
 ¡¤ËÕÄşµçÆ÷
 ¸ßÉıÇÅ
@@ -1744,12 +1744,8 @@ Reserved
 |
 ¼Ò¾Ó¿ìÑ¶
 08ÇéÈË½ÚÖØÇìËÑ·¿¼Ò¾ÓÍøĞÂÎÅ¾«±à
-[
-Ñ¡¹º¼Ò¾ßµÄÎåÃÅ±ØĞŞ¿Î
-]
-[
-08Èı´ó¼Ò×°Éè¼Æ·ç¸ñÁìÏÎ
-]
+[ Ñ¡¹º¼Ò¾ßµÄÎåÃÅ±ØĞŞ¿Î ]
+[ 08Èı´ó¼Ò×°Éè¼Æ·ç¸ñÁìÏÎ ]
 ¡¤ÇàÊ¯°åÆÌÇ°ÊÇ·ñÓÃË®Åİ
 ²©¿Í:ÖĞ¹ú½áµÄÔ´³ĞÒÕÆí2.13
 ¡¤16ÕĞ´òÔìºÃ·çË®(Í¼)
@@ -1923,20 +1919,15 @@ Reserved
 ¼Ò¾Ó¿ìÑ¶Ò»ÖÜÅÅĞĞ
 ¸ü¶à
 ¡¤12¿î·ç¸ñ¸÷ÒìµÄµçÊÓ¹ñ
-ÈÃÄúÊµÓÃÊ±ÉĞÁ½²»Îó(
-2121
+ÈÃÄúÊµÓÃÊ±ÉĞÁ½²»Îó( 2121 
 ¡¤Áé¸ĞÎŞÏŞÑÓÉì
-Ğ¡¿Õ¼ä´ó»îÓÃµÄ4´ó´îÅä¼¼ÇÉ(Í¼
-918
+Ğ¡¿Õ¼ä´ó»îÓÃµÄ4´ó´îÅä¼¼ÇÉ(Í¼ 918 
 ¡¤´É×©Æ·ÅÆÇ÷Ïò¸öÈË»¯
-´òÔìÎå´ó¾­µäÂÌÉ«¼Ò¾Ó(Í¼
-411
+´òÔìÎå´ó¾­µäÂÌÉ«¼Ò¾Ó(Í¼ 411 
 ¡¤ÌåÏÖÈËÎÄ·ç¸ñµÄÊÖ»æÇ½»­
-ÖÆÔì¶ÀÌØµÄË½¼Ò·ç¾°(
-304
+ÖÆÔì¶ÀÌØµÄË½¼Ò·ç¾°( 304 
 ¡¤Àë»éÓëÊÒÄÚÑÕÉ«²»ÎŞ¹ØÁª
-ÅÌµã°Ë´óÅäÉ«½û¼É(Í¼
-225
+ÅÌµã°Ë´óÅäÉ«½û¼É(Í¼ 225 
 ¡¤æ±×ÏæÌºìµÄ»ğ±¬Èí×°(Í¼)
 121
 ¡¤ÍøÓÑĞã12ÕÅ¾øÃÀÍ¼
@@ -2441,34 +2432,24 @@ ITÃÀÅ®µÄ40Æ½Ã×ÃÀÎÑ(Í¼)
 ¡¤¾­µä°¸Àı£º97Æ½¼ò½à´ó·½2·¿2Ìü¼Ò
 ÏíÊÜ°²¾²(Í¼)
 ¡¤³äÂú°®ÁµµÄ·Ûà½à½Ğ¡ºÀÕ¬
-44Æ½Ã×¾­µäÉè¼Æ(×é..
-1315
+44Æ½Ã×¾­µäÉè¼Æ(×é.. 1315  
 ¡¤7¿î¾­µäºÚ°×¼Ò¾ÓÊÎÆ·
-ÕÃÏÔÖ÷ÈËµÄ¸ß¹óĞãÑÅ(..
-841
+ÕÃÏÔÖ÷ÈËµÄ¸ß¹óĞãÑÅ(.. 841  
 ¡¤ËÄÖÖ¾­µä¼Ò¾Ó²»Í¬ÅäÉ«·½°¸
-Í¬·¿¼ä²»Í¬±íÇé(..
-665
+Í¬·¿¼ä²»Í¬±íÇé(.. 665  
 ¡¤×îÊÜÏû·ÑÕßµÄ»¶Ó­
-¾Å¿îº«¹ú¼òÔ¼Ä¾ÖÊ²Í×À(×é..
-492
+¾Å¿îº«¹ú¼òÔ¼Ä¾ÖÊ²Í×À(×é.. 492  
 ¡¤¼Ò¾ÓÈİÒ×ºöÊÓµÄÎÀÔ¡·çË®
-ÇĞ¼ÇÔ¡¸×²»ÄÜ´æË®(..
-429
+ÇĞ¼ÇÔ¡¸×²»ÄÜ´æË®(.. 429  
 ¡¤¼¸¿îÉ«²ÊÎÂÜ°×°ĞŞÑù°å
-ÖØÎÂ¾­µäºÍÀËÂş(×é..
-371
+ÖØÎÂ¾­µäºÍÀËÂş(×é.. 371  
 ¡¤ÍøÓÑÇ×ÊÎ57Æ½Ìğ·ÛÉ«°®ÎÑ
-×°ĞŞ³¬Ö§Ò²²»ºó»Ú(..
-353
+×°ĞŞ³¬Ö§Ò²²»ºó»Ú(.. 353  
 ¡¤¿Õ¼äËäĞ¡ÎåÔà¾ãÈ«
-35Æ½¹«Ô¢µÄ¶à¹¦ÄÜÉú»î(×é..
-351
+35Æ½¹«Ô¢µÄ¶à¹¦ÄÜÉú»î(×é.. 351  
 ¡¤ÖÜÄ©ĞİÏĞĞÂ·½Ê½
-6Ğ¡Ê±±ä»»Ò»¸öÊ±ÉĞĞÂ¼Ò(×é..
-327
-¡¤×°ĞŞÖªÊ¶£º10¸öĞ¡ÇÏÃÅ°ïÄã¸ã¶¨¼Ò¾ß²É¹º(Í¼..
-261
+6Ğ¡Ê±±ä»»Ò»¸öÊ±ÉĞĞÂ¼Ò(×é.. 327  
+¡¤×°ĞŞÖªÊ¶£º10¸öĞ¡ÇÏÃÅ°ïÄã¸ã¶¨¼Ò¾ß²É¹º(Í¼.. 261  
 ²©¿Í
 ¸ü¶à
 13¿î´°Á±ñŞÖå·½Ê½´óÍÆ¼ö
@@ -2608,8 +2589,7 @@ Reserved
 ´óÔ¡ÊÒ¼ä²¼ÖÃºÁ²»Ô¼Êø(Í¼)
 2.13
 ¡¤¼Ò¾ß½ç¡°³¤½­7ºÅ¡±
-´©Ô½Ê±¿ÕµÄ´´Òâ²ã³ö²»Çî(Í¼
-2.13
+´©Ô½Ê±¿ÕµÄ´´Òâ²ã³ö²»Çî(Í¼ 2.13 
 ¡¤9ÖÖ¸öĞÔ´°Ì¨
 Ï¸ĞÄ×°°çÒ²ÄÜÑİÒï²»Í¬·ç¾°(×éÍ¼)
 2.13
@@ -2763,7 +2743,7 @@ Reserved
 ÎåÔà¾ãÈ«µÄĞ¡Îİ
 5Íò´òÔì°ÙÄêÀÏÑó·¿µÄĞÂ
 ÍøÓÑĞ¡æ¤µÄµÃÒâÖ®×÷
-4ÍòÔªÍêÃÀ×°ĞŞ97Æ½(
+4ÍòÔªÍêÃÀ×°ĞŞ97Æ½( 
 ³Á×íÓÚÆäÖĞ
 ×ÏÉ«´²Æ·´òÔì³öÃÔÈËµÄÎÔÊÒ¿Õ
 ÉÌÇé¿ìµİ
@@ -4030,20 +4010,16 @@ IvyÒ»¸öÈËµÄÔ¾²ã¿Õ¼ä
 [129ÈË]
 ²Î¼Ó
 ¡¤ÂÌÖ®¼ÎµØ°å
-[
-71ÈË]
+[ 71ÈË]
 ²Î¼Ó
 ¡¤ÒÀÅµÎ¬Éğ
-[
-57ÈË]
+[ 57ÈË]
 ²Î¼Ó
 ¡¤ÀÖ¼ÒÎÀÔ¡
-[
-65ÈË]
+[ 65ÈË]
 ²Î¼Ó
 ¡¤²©ÁÁÄ¾ÃÅ
-[
-63ÈË]
+[ 63ÈË]
 ²Î¼Ó
 ¸ü¶à>>
 ½ÒÃØÇå³¯µÄĞ¡»§ĞÍ
@@ -4644,8 +4620,7 @@ ray0625
 114.ÌæÉñÊê×ï
 115.TATAÃÅ
 96.ÈğÊ±ÉĞ×°ÊÎ
-67.Ø¤°ï°ïÖ÷_Ïô·
-68.·ØÜã¶ÀÎè
+67.Ø¤°ï°ïÖ÷_Ïô·68.·ØÜã¶ÀÎè
 59.ÎÒÊÇ123123
 310.gxfgxfgxf
 311.ÉÏº£±¼±¼Ä¾ÃÅ
@@ -4661,7 +4636,7 @@ ray0625
 1
 ¾Ó¼ÒÊ±ÉĞ¸ü¶à
 ¡¤ĞÂ´ºĞÂÆøÏó
-ËÄ¿îË®¹ûÉ«°çö¦ÄãµÄ¼Ò¾Ó(
+ËÄ¿îË®¹ûÉ«°çö¦ÄãµÄ¼Ò¾Ó( 
 ¡¤ÇéÈË½ÚÖ§ÕĞ:¼Ò¾Ó°çö¦ÌíÀËÂş
 Å¨Å¨°®Òâ
 ¡¤ÇéÈË½Ú¼Ò¾ÓÉè¼Æ
@@ -4678,7 +4653,7 @@ ray0625
 ¡°ÎÒ°®ÄãÊ¤¹ı»Æ¶¹ºÍ´
 ¡¤ÎÂÜ°Ğ¡ÎÑÃæÃæ¹Û£ºÊ®¶şĞÇ×ùÃÀÅ®µÄ¼Ò¾Ó
 ¡¤Íò±äÃ«½í
-´´Òâ´ºÌì°ãÎÂÜ°ÊæÊÊ¼Ò¾Ó(×é
+´´Òâ´ºÌì°ãÎÂÜ°ÊæÊÊ¼Ò¾Ó(×é 
 ¡¤»ğºìÀËÂşĞÂÄê
 ´¦´¦³äÂúÁËÀËÂşÓëÎÂÜ°µ
 ×°ĞŞ¼ÆËãÆ÷
@@ -4731,7 +4706,7 @@ ray0625
 1197710823358_000[1]
 1197710832575_000[1]
 1197710835619_000[1]
-½¹µã³¤´º×°ĞŞÂÛÌ³;¡°³
+½¹µã³¤´º×°ĞŞÂÛÌ³;¡°³</a>
 ÖÜÄ©ÍøÓÑÖ®Ô¼¡±Ñé·¿×°
 ¶ÀĞĞÔÚÂ·ÉÏµÄ×³×³
 º«Ô­¶ä
@@ -4759,8 +4734,7 @@ reserved.
 ´Ëº¯Êı²»Ö´ĞĞÈÎºÎ²Ù×÷£¬½öÓÃ×÷º¯Êı²ÎÊı
 function
 _f_null_()
-{
-};
+{ };
 PassportSC.selectorTitle
 =
 "½¹µãÓÃ»§ÇëÑ¡Ôñ@focus.cn";
@@ -4770,544 +4744,63 @@ PassportSC.maxIntervalCount
 var
 PassportFocus
 =
-{
-dabenying:
-false,
-persistentCookie:
-true,
-cardStatus:
-null,
-reloadOnStatusChange:
-true,
-cookie:
-new
-Array(),
-intervalCount:
-0,
-intervalRepeat:
-0,
-intervalHandle:
-null,
-intervalCounter:
-null,
-intervalOnCancel:
-null,
-nickname:
-"¹ı¿ÍÆÀÂÛ",
-url:
-{
-register:
-"http://user.focus.cn/register.php?site_no=16&back_url="
-+
-encodeURIComponent(window.location.href),
-help:
-"http://house.focus.cn/elite/myarticle1.php?group_id=918",
-password:
-"http://user.focus.cn/forget.php",
-enable:
-"http://blog.focus.cn/common/modules/passport/enable.php"
-},
-loadScript:
-function(url)
-{
-var
-oScript
-=
-document.createElement("script");
-oScript.src
-=
-url;
-PassportFocus.documentElement.appendChild(oScript);
-},
-stopInterval:
-function()
-{
-if
-(PassportFocus.intervalHandle)
-{
-window.clearInterval(PassportFocus.intervalHandle);
-PassportFocus.intervalHandle
-=
-null;
-}
-},
-countInterval:
-function()
-{
-if
-(PassportFocus.intervalHandle)
-{
-PassportFocus.intervalCount++;
-if
-(PassportFocus.intervalCount
->=
-PassportFocus.intervalRepeat)
-{
-//
-ÖÕÖ¹
-PassportFocus.stopInterval();
-switch
-(typeof
-PassportFocus.intervalOnCancel)
-{
-case
-"string":
-eval(PassportFocus.intervalOnCancel);
-case
-"function":
-PassportFocus.intervalOnCancel();
-break;
-}
-}
-}
-else
-{
-window.clearInterval(PassportFocus.intervalCounter);
-PassportFocus.intervalCounter
-=
-null;
-}
-},
+{ dabenying: false, persistentCookie: true, cardStatus: null, reloadOnStatusChange: true, cookie: new Array(), intervalCount: 0, intervalRepeat: 0, intervalHandle: null, intervalCounter: null, intervalOnCancel: null, nickname: "¹ı¿ÍÆÀÂÛ", url: { register: "http://user.focus.cn/register.php?site_no=16&back_url=" + encodeURIComponent(window.location.href), help: "http://house.focus.cn/elite/myarticle1.php?group_id=918", password: "http://user.focus.cn/forget.php", enable: "http://blog.focus.cn/common/modules/passport/enable.php" }, loadScript: function(url) { var oScript = document.createElement("script"); oScript.src = url; PassportFocus.documentElement.appendChild(oScript); }, stopInterval: function() { if (PassportFocus.intervalHandle) { window.clearInterval(PassportFocus.intervalHandle); PassportFocus.intervalHandle = null; } }, countInterval: function() { if (PassportFocus.intervalHandle) { PassportFocus.intervalCount++; if (PassportFocus.intervalCount >= PassportFocus.intervalRepeat) { // ÖÕÖ¹ PassportFocus.stopInterval(); switch (typeof PassportFocus.intervalOnCancel) { case "string": eval(PassportFocus.intervalOnCancel); case "function": PassportFocus.intervalOnCancel(); break; } } } else { window.clearInterval(PassportFocus.intervalCounter); PassportFocus.intervalCounter = null; } },
 runInterval:
-function(proc,
-nInterval,
-nRepeat,
-onCancel)
-{
-if
-(PassportFocus.intervalHandle)
-{
-window.clearInterval(PassportFocus.intervalHandle);
-}
-PassportFocus.intervalCount
-=
-0;
-PassportFocus.intervalRepeat
-=
-nRepeat;
-PassportFocus.intervalHandle
-=
-window.setInterval(proc,
-nInterval);
-PassportFocus.intervalCounter
-=
-window.setInterval(PassportFocus.countInterval,
-nInterval);
-PassportFocus.intervalOnCancel
-=
-onCancel;
-},
+function(proc, nInterval, nRepeat, onCancel)
+{ if (PassportFocus.intervalHandle) { window.clearInterval(PassportFocus.intervalHandle); } PassportFocus.intervalCount = 0; PassportFocus.intervalRepeat = nRepeat; PassportFocus.intervalHandle = window.setInterval(proc, nInterval); PassportFocus.intervalCounter = window.setInterval(PassportFocus.countInterval, nInterval); PassportFocus.intervalOnCancel = onCancel; },
 isAdmin:
 function()
-{
-return
-PassportFocus.cookie.hausr
->
+{ return PassportFocus.cookie.hausr >
 0;
 },
 hasLogin:
 function(bParseCookie)
-{
-return
-PassportFocus.getUserId()
-?
-true
-:
-false;
-},
+{ return PassportFocus.getUserId() ? true : false; },
 parseCookie:
 function()
-{
-PassportSC.parsePassportCookie();
-PassportFocus.cookie
-=
-new
-Array();
-var
-sId
-=
-null;
-var
-sCookie
-=
-document.cookie;
-var
-nBegin
-=
-sCookie.indexOf("house_session_id="),
-nEnd;
-var
-sHouseSessionId
-=
-null;
-if
-(nBegin
->=
-0)
-{
-nBegin
-+=
-("house_session_id=").length
-+
-32;
-nEnd
-=
-sCookie.indexOf(';',
-nBegin);
-if
-(nEnd
-<
-0)
-{
-nEnd
-=
-sCookie.length
--
-1;
-}
-sHouseSessionId
-=
-sCookie.substring(nBegin,
-nEnd);
-var
-sInfo
-=
-b64_decodex(sHouseSessionId);
-var
-aInfo
-=
-sInfo.split("&");
-for
-(var
-i
-=
-0;
-i
-<
-aInfo.length;
-i++)
-{
-var
-aInfoCouple
-=
-aInfo[i].split("=");
-PassportFocus.cookie[aInfoCouple[0]]
-=
-aInfoCouple[1];
-}
-}
-},
-getUserId:
-function()
-{
-if
-(PassportSC.cookie)
-{
-return
-PassportSC.cookie['userid'];
-}
-//
-else
-if
-(PassportFocus.cookie['login_id']
->
-0)
-{
-//
-¼æÈİ¾ÉµÇÂ¼Èë¿Ú
-//
-return
-PassportFocus.cookie['login_name']
-+
-'@'
-+
-PassportSC.domain;
-//
-}
-else
-{
-return
-null;
-}
-},
+{ PassportSC.parsePassportCookie(); PassportFocus.cookie = new Array(); var sId = null; var sCookie = document.cookie; var nBegin = sCookie.indexOf("house_session_id="), nEnd; var sHouseSessionId = null; if (nBegin >= 0)
+{ nBegin += ("house_session_id=").length + 32; nEnd = sCookie.indexOf(';', nBegin); if (nEnd < 0) { nEnd = sCookie.length - 1; } sHouseSessionId = sCookie.substring(nBegin, nEnd); var sInfo = b64_decodex(sHouseSessionId); var aInfo = sInfo.split("&"); for (var i = 0; i < aInfo.length; i++) { var aInfoCouple = aInfo[i].split("="); PassportFocus.cookie[aInfoCouple[0]] = aInfoCouple[1]; } } }, getUserId: function() { if (PassportSC.cookie) { return PassportSC.cookie['userid']; } // else if (PassportFocus.cookie['login_id'] > 0) { // ¼æÈİ¾ÉµÇÂ¼Èë¿Ú // return PassportFocus.cookie['login_name'] + '@' + PassportSC.domain; // } else { return null; } },
 //
 È¡µÃÓÃ»§ÕËºÅ(²»º¬ÓòÃû)
 getUsername:
 function()
-{
-var
-sUserId
-=
-PassportFocus.getUserId();
-if
-(sUserId)
-{
-return
-sUserId.replace(/@.+$/,
-'');
-}
-else
-{
-return
-null;
-}
-},
+{ var sUserId = PassportFocus.getUserId(); if (sUserId) { return sUserId.replace(/@.+$/, ''); } else { return null; } },
 //
 È¡µÃêÇ³Æ
 getNickname:
 function()
-{
-return
-PassportFocus.nickname;
-return
-PassportFocus.getUsername();
-PassportFocus.parseCookie();
-return
-PassportFocus.cookie.nickname;
-},
+{ return PassportFocus.nickname; return PassportFocus.getUsername(); PassportFocus.parseCookie(); return PassportFocus.cookie.nickname; },
 //
 È¡µÃ½¹µãÓÃ»§µÄÊı×Ö
 Id
 getFocusId:
 function()
-{
-return
-PassportFocus.cookie.login_id;
-},
+{ return PassportFocus.cookie.login_id; },
 isEnabled:
 function()
-{
-return
-PassportFocus.cookie.login_id
->
+{ return PassportFocus.cookie.login_id >
 0
 ||
 /@focus\.cn$/.exec(PassportFocus.getUserId());
 },
 loginHandle:
 function()
-{
-if
-(PassportFocus.drawPanelWaitOnLogin)
-{
-PassportFocus.drawPanelWaitOnLogin();
-}
-if
-(PassportSC.emailInput.value.indexOf("@")
-<
-0)
-{
-PassportSC.emailInput.value
-+=
-"@"
-+
-PassportSC.domain;
-}
-PassportSC.intervalCount
-=
-0;
-PassportSC.loginHandle(
-PassportSC.emailInput.value,
-PassportSC.passwdInput.value,
-PassportFocus.persistentCookie
-?
-'1'
-:
-'0',
-PassportSC.sElement,
-PassportFocus.loginFailCall,
-PassportFocus.loginSuccessCall
-);
-},
-loginFailCall:
-function()
-{
-alert(PassportFocus._getLoginFailReport());
-if
-(PassportSC.intervalCount
->=
-PassportSC.maxIntervalCount)
-{
-var
-oImage
-=
-new
-Image();
-oImage.src
-=
-"http://passport.sohu.com/web/cardlog.jsp?appid="
-+
-PassportSC.appid
-+
-"&userid="
-+
-encodeURIComponent(PassportSC.emailInput.value);
-}
-PassportFocus.drawPanel();
-},
+{ if (PassportFocus.drawPanelWaitOnLogin) { PassportFocus.drawPanelWaitOnLogin(); } if (PassportSC.emailInput.value.indexOf("@") < 0) { PassportSC.emailInput.value += "@" + PassportSC.domain; } PassportSC.intervalCount = 0; PassportSC.loginHandle( PassportSC.emailInput.value, PassportSC.passwdInput.value, PassportFocus.persistentCookie ? '1' : '0', PassportSC.sElement, PassportFocus.loginFailCall, PassportFocus.loginSuccessCall ); }, loginFailCall: function() { alert(PassportFocus._getLoginFailReport()); if (PassportSC.intervalCount >= PassportSC.maxIntervalCount) { var oImage = new Image(); oImage.src = "http://passport.sohu.com/web/cardlog.jsp?appid=" + PassportSC.appid + "&userid=" + encodeURIComponent(PassportSC.emailInput.value); } PassportFocus.drawPanel(); },
 loginSuccessCall:
 function()
-{
-PassportFocus.loginStatus
-=
-null;
-PassportFocus.loadScript("/common/modules/passport/js/login.php?passport="
-+
-PassportSC.emailInput.value
-+
-"&password="
-+
-encodeURIComponent(PassportSC.passwdInput.value)
-+
-"&"
-+
-(new
-Date()).getTime());
-PassportFocus.runInterval(
-PassportFocus.loginSuccessInterval,
-100,
-50,
-PassportFocus.loginFailCall);
-//
-ÑÓÊ±5Ãë
-},
+{ PassportFocus.loginStatus = null; PassportFocus.loadScript("/common/modules/passport/js/login.php?passport=" + PassportSC.emailInput.value + "&password=" + encodeURIComponent(PassportSC.passwdInput.value) + "&" + (new Date()).getTime()); PassportFocus.runInterval( PassportFocus.loginSuccessInterval, 100, 50, PassportFocus.loginFailCall); // ÑÓÊ±5Ãë },
 loginSuccessInterval:
 function()
-{
-if
-(PassportFocus.loginStatus
-==
-null)
-{
-return;
-}
-PassportFocus.stopInterval();
-if
-(PassportFocus.reloadOnStatusChange)
-{
-window.location.reload();
-return;
-}
-PassportFocus.parseCookie();
-PassportFocus.drawPanel();
-if
-(typeof
-loginApp
-==
-"function"
-&&
-PassportFocus.loginStatus
-==
-"success")
-{
-loginApp();
-}
-if
-(typeof
-passportOnLogin
-==
-"function")
-{
-passportOnLogin();
-}
-if
-(typeof
-passportFocusOnLogin
-==
-"function"
-&&
-PassportFocus.loginStatus
-==
-"success")
-{
-passportFocusOnLogin();
-}
-},
+{ if (PassportFocus.loginStatus == null) { return; } PassportFocus.stopInterval(); if (PassportFocus.reloadOnStatusChange) { window.location.reload(); return; } PassportFocus.parseCookie(); PassportFocus.drawPanel(); if (typeof loginApp == "function" && PassportFocus.loginStatus == "success") { loginApp(); } if (typeof passportOnLogin == "function") { passportOnLogin(); } if (typeof passportFocusOnLogin == "function" && PassportFocus.loginStatus == "success") { passportFocusOnLogin(); } },
 logoutHandle:
 function()
-{
-if
-(PassportFocus.drawPanelWaitOnLogout)
-{
-PassportFocus.drawPanelWaitOnLogout();
-}
-PassportSC.logoutHandle(
-PassportFocus.documentElement,
-_f_null_,
-logoutApp
-);
-},
+{ if (PassportFocus.drawPanelWaitOnLogout) { PassportFocus.drawPanelWaitOnLogout(); } PassportSC.logoutHandle( PassportFocus.documentElement, _f_null_, logoutApp ); },
 logoutSuccessInterval:
 function()
-{
-if
-(PassportFocus.logoutStatus
-!=
-"success")
-{
-return;
-}
-PassportFocus.stopInterval();
-if
-(typeof
-passportOnLogout
-==
-"function")
-{
-passportOnLogout();
-}
-if
-(PassportFocus.needReload)
-{
-window.location.reload();
-return;
-}
-PassportFocus.parseCookie();
-PassportFocus.drawPanel();
-if
-(typeof
-passportOnLogout
-==
-"function")
-{
-passportOnLogout();
-}
-if
-(typeof
-passportFocusOnLogout
-==
-"function"
-&&
-PassportFocus.logoutStatus
-==
-"success")
-{
-passportFocusOnLogout();
-}
-},
+{ if (PassportFocus.logoutStatus != "success") { return; } PassportFocus.stopInterval(); if (typeof passportOnLogout == "function") { passportOnLogout(); } if (PassportFocus.needReload) { window.location.reload(); return; } PassportFocus.parseCookie(); PassportFocus.drawPanel(); if (typeof passportOnLogout == "function") { passportOnLogout(); } if (typeof passportFocusOnLogout == "function" && PassportFocus.logoutStatus == "success") { passportFocusOnLogout(); } },
 initPanel:
 function(oContainer)
-{
-PassportFocus.parseCookie();
-if
-(oContainer)
-{
-PassportFocus.documentElement
-=
-oContainer;
-}
-PassportFocus.initDocumentElementHTML();
-PassportSC.init(PassportFocus.card);
-PassportFocus.drawPanel();
-if
-(typeof
-passportOnInitialized
-==
-"function")
-{
-passportOnInitialized();
-}
-},
+{ PassportFocus.parseCookie(); if (oContainer) { PassportFocus.documentElement = oContainer; } PassportFocus.initDocumentElementHTML(); PassportSC.init(PassportFocus.card); PassportFocus.drawPanel(); if (typeof passportOnInitialized == "function") { passportOnInitialized(); } },
 /**
 *
 ±ØĞëÉú³É
@@ -5322,225 +4815,10 @@ PassportFocus.body
 */
 initDocumentElementHTML:
 function()
-{
-},
+{ },
 drawPanel:
 function()
-{
-if
-(PassportFocus.hasLogin())
-{
-PassportFocus._drawPanelLogged();
-}
-else
-{
-PassportFocus._drawPanelLogin();
-var
-collInput
-=
-PassportFocus.documentElement.getElementsByTagName("input");
-for
-(var
-i
-=
-0;
-i
-<
-collInput.length;
-i++)
-{
-switch
-(collInput[i].name)
-{
-case
-"email":
-PassportSC.emailInput
-=
-collInput[i];
-break;
-case
-"password":
-PassportSC.passwdInput
-=
-collInput[i];
-break;
-case
-"persistentcookie":
-PassportSC.pcInput
-=
-collInput[i];
-break;
-}
-}
-PassportSC.bindSelector();
-}
-},
-_drawPanelLogged:
-function()
-{
-},
-_drawPanelLogin:
-function()
-{
-},
-switchCard:
-function(position)
-{
-if
-(PassportFocus.cardStatus
-==
-"opened")
-{
-PassportFocus.hideCard();
-}
-else
-{
-PassportFocus.showCard(position);
-}
-},
-showCard:
-function(position)
-{
-if
-(!PassportFocus.card
-||
-PassportFocus.cardStatus
-==
-"opened")
-{
-return;
-}
-PassportFocus.card.style.display
-=
-"block";
-PassportSC.drawPassport(PassportFocus.card);
-PassportSC.cElement.style.display
-=
-"block";
-if
-(position)
-{
-var
-aParam
-=
-position.split(",");
-for
-(var
-i
-=
-0;
-i
-<
-aParam.length;
-i++)
-{
-var
-a
-=
-aParam[i].split("=");
-try
-{
-eval('PassportFocus.card.style.'
-+
-a[0]
-+
-'
-=
-"'
-+
-a[1]
-+
-'";');
-}
-catch
-(ex)
-{}
-}
-}
-PassportFocus.cardStatus
-=
-"opened";
-if
-(typeof
-PassportFocus.onCardStatusChange
-==
-"function")
-{
-PassportFocus.onCardStatusChange();
-}
-},
-hideCard:
-function()
-{
-if
-(!PassportFocus.card
-||
-PassportFocus.cardStatus
-!=
-"opened")
-{
-return;
-}
-PassportSC.cElement.style.display
-=
-"none";
-PassportFocus.cardStatus
-=
-"closed";
-if
-(typeof
-PassportFocus.onCardStatusChange
-==
-"function")
-{
-PassportFocus.onCardStatusChange();
-}
-},
-_getLoginFailReport:
-function()
-{
-if
-(PassportSC.intervalCount
->=
-PassportSC.maxIntervalCount)
-{
-return
-'µÇÂ¼³¬Ê±£¬ÇëÉÔºóÖØÊÔ';
-}
-if
-(login_status
-==
-"success"
-&&
-PassportFocus.intervalCount
->=
-PassportFocus.intervalRepeat)
-{
-return
-'·şÎñÆ÷Ã¦£¬ÇëÉÔºóÖØÊÔ';
-}
-switch
-(login_status)
-{
-case
-'error3':
-case
-'error2':
-return
-'ÓÃ»§Ãû»òÃÜÂë´íÎó';
-case
-'error5':
-return
-'ÔİÊ±²»¿ÉµÇÂ¼£¬ÇëÉÔºóÖØÊÔ';
-case
-'success':
-return
-'µÇÂ¼Òì³££¬ÇëÉÔºóÖØÊÔ';
-default:
-return
-'µÇÂ¼Ê§°Ü£¬ÇëÉÔºóÖØÊÔ';
-}
-}
+{ if (PassportFocus.hasLogin()) { PassportFocus._drawPanelLogged(); } else { PassportFocus._drawPanelLogin(); var collInput = PassportFocus.documentElement.getElementsByTagName("input"); for (var i = 0; i < collInput.length; i++) { switch (collInput[i].name) { case "email": PassportSC.emailInput = collInput[i]; break; case "password": PassportSC.passwdInput = collInput[i]; break; case "persistentcookie": PassportSC.pcInput = collInput[i]; break; } } PassportSC.bindSelector(); } }, _drawPanelLogged: function() { }, _drawPanelLogin: function() { }, switchCard: function(position) { if (PassportFocus.cardStatus == "opened") { PassportFocus.hideCard(); } else { PassportFocus.showCard(position); } }, showCard: function(position) { if (!PassportFocus.card || PassportFocus.cardStatus == "opened") { return; } PassportFocus.card.style.display = "block"; PassportSC.drawPassport(PassportFocus.card); PassportSC.cElement.style.display = "block"; if (position) { var aParam = position.split(","); for (var i = 0; i < aParam.length; i++) { var a = aParam[i].split("="); try { eval('PassportFocus.card.style.' + a[0] + ' = "' + a[1] + '";'); } catch (ex) {} } } PassportFocus.cardStatus = "opened"; if (typeof PassportFocus.onCardStatusChange == "function") { PassportFocus.onCardStatusChange(); } }, hideCard: function() { if (!PassportFocus.card || PassportFocus.cardStatus != "opened") { return; } PassportSC.cElement.style.display = "none"; PassportFocus.cardStatus = "closed"; if (typeof PassportFocus.onCardStatusChange == "function") { PassportFocus.onCardStatusChange(); } }, _getLoginFailReport: function() { if (PassportSC.intervalCount >= PassportSC.maxIntervalCount) { return 'µÇÂ¼³¬Ê±£¬ÇëÉÔºóÖØÊÔ'; } if (login_status == "success" && PassportFocus.intervalCount >= PassportFocus.intervalRepeat) { return '·şÎñÆ÷Ã¦£¬ÇëÉÔºóÖØÊÔ'; } switch (login_status) { case 'error3': case 'error2': return 'ÓÃ»§Ãû»òÃÜÂë´íÎó'; case 'error5': return 'ÔİÊ±²»¿ÉµÇÂ¼£¬ÇëÉÔºóÖØÊÔ'; case 'success': return 'µÇÂ¼Òì³££¬ÇëÉÔºóÖØÊÔ'; default: return 'µÇÂ¼Ê§°Ü£¬ÇëÉÔºóÖØÊÔ'; } }
 };
 PassportSC.appid
 =
@@ -5553,111 +4831,29 @@ PassportSC.domain
 "focus.cn";
 PassportSC.logoutSuccessCall=
 function()
-{
-PassportSC.parseLastDomain(PassportSC.domainList);
-try
-{
-logoutApp();
-}
-catch
-(e)
-{
-}
-};
+{ PassportSC.parseLastDomain(PassportSC.domainList); try { logoutApp(); } catch (e) { } };
 function
 logoutApp()
-{
-if
-(PassportFocus.documentElement
-!=
-PassportSC.rootElement)
-{
-PassportFocus.hideCard();
-}
-else
-{
-PassportSC.drawLoginForm();
-}
-var
-nFocusId
-=
-PassportFocus.getFocusId();
-if
-(nFocusId)
-{
-PassportFocus.logoutStatus
-=
-null;
-PassportFocus.loadScript("/common/modules/passport/js/logout.php?"
-+
-(new
-Date()).getTime());
-}
-else
-{
-PassportFocus.logoutStatus
-=
-"success";
-}
-PassportFocus.needReload
-=
-PassportFocus.reloadOnStatusChange
-&&
-(nFocusId
-!=
-null);
-PassportFocus.runInterval(
-PassportFocus.logoutSuccessInterval,
-100,
-20);
-//
-ÑÓÊ±2Ãë
-};
+{ if (PassportFocus.documentElement != PassportSC.rootElement) { PassportFocus.hideCard(); } else { PassportSC.drawLoginForm(); } var nFocusId = PassportFocus.getFocusId(); if (nFocusId) { PassportFocus.logoutStatus = null; PassportFocus.loadScript("/common/modules/passport/js/logout.php?" + (new Date()).getTime()); } else { PassportFocus.logoutStatus = "success"; } PassportFocus.needReload = PassportFocus.reloadOnStatusChange && (nFocusId != null); PassportFocus.runInterval( PassportFocus.logoutSuccessInterval, 100, 20); // ÑÓÊ±2Ãë };
 PassportFocus.initPanel
 =
 function(oContainer)
-{
-PassportFocus.parseCookie();
-PassportFocus.documentElement
-=
-oContainer;
-PassportSC.drawPassport(PassportFocus.documentElement);
-if
-(typeof
-passportOnInitialized
-==
-"function")
-{
-passportOnInitialized();
-}
-};
+{ PassportFocus.parseCookie(); PassportFocus.documentElement = oContainer; PassportSC.drawPassport(PassportFocus.documentElement); if (typeof passportOnInitialized == "function") { passportOnInitialized(); } };
 PassportSC.loginSuccessCall=
 function()
-{
-PassportFocus.loginSuccessCall();
-};
+{ PassportFocus.loginSuccessCall(); };
 PassportSC.showMsg
 =
 function(msg)
-{
-alert(msg);
-};
+{ alert(msg); };
 PassportFocus.drawPanel
 =
 function()
-{
-PassportSC.drawPassport(PassportFocus.documentElement);
-};
+{ PassportSC.drawPassport(PassportFocus.documentElement); };
 PassportSC._drawLoginForm
 =
 function()
-{
-this.cElement.className
-=
-"passport";
-this.cElement.innerHTML
-=
-'\
+{ this.cElement.className = "passport"; this.cElement.innerHTML = '\ 
 \
 \
 ËÑºü
@@ -5684,10 +4880,7 @@ this.cElement.innerHTML
 PassportSC.drawPassportWait
 =
 function()
-{
-this.cElement.innerHTML
-=
-'\
+{ this.cElement.innerHTML = '\ 
 ËÑºü
 Í¨ĞĞÖ¤
 \
@@ -5700,11 +4893,7 @@ this.cElement.innerHTML
 PassportSC._drawPassportCard
 =
 function()
-{
-var
-sHtml
-=
-'\
+{ var sHtml = '\ 
 ËÑºü
 Í¨ĞĞÖ¤
 ËÑºü3.0
@@ -5719,44 +4908,12 @@ sHtml
 \
 ';
 for
-(var
-i
-=
-0,
-j
-=
-0;
-i
-<
-this.bottomRow[0]['length'];
-i++)
-{
-j
-+=
-this.bottomRow[0][i]['name'].length
-+
-(i
->
-0
-?
-1
-:
-0);
+(var i = 0, j = 0; i < this.bottomRow[0]['length']; i++) { j += this.bottomRow[0][i]['name'].length + (i > 0 ? 1 : 0); if (j > 8)
+{ break; }
 if
-(j
->
-8)
-{
-break;
-}
-if
-(i
->
+(i >
 0)
-{
-sHtml
-+=
-'
+{ sHtml += '
 |
 ';
 }
@@ -5778,44 +4935,12 @@ sHtml
 \
 ';
 for
-(var
-i
-=
-0,
-j
-=
-0;
-i
-<
-this.bottomRow[1]['length'];
-i++)
-{
-j
-+=
-this.bottomRow[1][i]['name'].length
-+
-(i
->
-0
-?
-1
-:
-0);
+(var i = 0, j = 0; i < this.bottomRow[1]['length']; i++) { j += this.bottomRow[1][i]['name'].length + (i > 0 ? 1 : 0); if (j > 8)
+{ break; }
 if
-(j
->
-8)
-{
-break;
-}
-if
-(i
->
+(i >
 0)
-{
-sHtml
-+=
-'
+{ sHtml += '
 |
 ';
 }
@@ -5833,10 +4958,7 @@ this.bottomRow[1][i]['name']
 ´ó±¾Óª
 if
 (PassportFocus.dabenying)
-{
-sHtml
-+=
-'
+{ sHtml += '
 ';
 var
 durl
@@ -5851,24 +4973,9 @@ at
 =
 this.cookie['userid'].indexOf("@");
 if
-(at
->
+(at >
 0)
-{
-var
-userdomain
-=
-this.cookie['userid'].substr(at+1);
-if
-(this.domainList.toString().indexOf(userdomain)
-==
--1)
-{
-durl
-=
-"http://login.sogou.com/modify.jsp";
-}
-}
+{ var userdomain = this.cookie['userid'].substr(at+1); if (this.domainList.toString().indexOf(userdomain) == -1) { durl = "http://login.sogou.com/modify.jsp"; } }
 sHtml
 +=
 '
@@ -5891,16 +4998,7 @@ return;
 };
 function
 drawAppInfo(node)
-{
-if
-(PassportFocus.isEnabled())
-{
-//
-ÒÑ»ñµÃ½¹µãÊÚÈ¨
-node.innerHTML
-=
-'\
-\
+{ if (PassportFocus.isEnabled()) { // ÒÑ»ñµÃ½¹µãÊÚÈ¨ node.innerHTML = '\ \ 
 '
 +
 PassportFocus.getNickname()
@@ -5915,11 +5013,7 @@ PassportFocus.getNickname()
 ';
 }
 else
-{
-node.innerHTML
-=
-'\
-\
+{ node.innerHTML = '\ \ 
 ÉĞÎ´¼¤»î£¬ÇëÏÈ¼¤»î½¹µãÕÊ»§
 \
 \
@@ -5930,8 +5024,7 @@ node.innerHTML
 ´Ëº¯Êı²»Ö´ĞĞÈÎºÎ²Ù×÷£¬½öÓÃ×÷º¯Êı²ÎÊı
 function
 _f_null_()
-{
-};
+{ };
 PassportSC.selectorTitle
 =
 "½¹µãÓÃ»§ÇëÑ¡Ôñ@focus.cn";
@@ -5941,544 +5034,63 @@ PassportSC.maxIntervalCount
 var
 PassportFocus
 =
-{
-dabenying:
-false,
-persistentCookie:
-true,
-cardStatus:
-null,
-reloadOnStatusChange:
-true,
-cookie:
-new
-Array(),
-intervalCount:
-0,
-intervalRepeat:
-0,
-intervalHandle:
-null,
-intervalCounter:
-null,
-intervalOnCancel:
-null,
-nickname:
-"¹ı¿ÍÆÀÂÛ",
-url:
-{
-register:
-"http://user.focus.cn/register.php?site_no=16&back_url="
-+
-encodeURIComponent(window.location.href),
-help:
-"http://house.focus.cn/elite/myarticle1.php?group_id=918",
-password:
-"http://user.focus.cn/forget.php",
-enable:
-"http://blog.focus.cn/common/modules/passport/enable.php"
-},
-loadScript:
-function(url)
-{
-var
-oScript
-=
-document.createElement("script");
-oScript.src
-=
-url;
-PassportFocus.documentElement.appendChild(oScript);
-},
-stopInterval:
-function()
-{
-if
-(PassportFocus.intervalHandle)
-{
-window.clearInterval(PassportFocus.intervalHandle);
-PassportFocus.intervalHandle
-=
-null;
-}
-},
-countInterval:
-function()
-{
-if
-(PassportFocus.intervalHandle)
-{
-PassportFocus.intervalCount++;
-if
-(PassportFocus.intervalCount
->=
-PassportFocus.intervalRepeat)
-{
-//
-ÖÕÖ¹
-PassportFocus.stopInterval();
-switch
-(typeof
-PassportFocus.intervalOnCancel)
-{
-case
-"string":
-eval(PassportFocus.intervalOnCancel);
-case
-"function":
-PassportFocus.intervalOnCancel();
-break;
-}
-}
-}
-else
-{
-window.clearInterval(PassportFocus.intervalCounter);
-PassportFocus.intervalCounter
-=
-null;
-}
-},
+{ dabenying: false, persistentCookie: true, cardStatus: null, reloadOnStatusChange: true, cookie: new Array(), intervalCount: 0, intervalRepeat: 0, intervalHandle: null, intervalCounter: null, intervalOnCancel: null, nickname: "¹ı¿ÍÆÀÂÛ", url: { register: "http://user.focus.cn/register.php?site_no=16&back_url=" + encodeURIComponent(window.location.href), help: "http://house.focus.cn/elite/myarticle1.php?group_id=918", password: "http://user.focus.cn/forget.php", enable: "http://blog.focus.cn/common/modules/passport/enable.php" }, loadScript: function(url) { var oScript = document.createElement("script"); oScript.src = url; PassportFocus.documentElement.appendChild(oScript); }, stopInterval: function() { if (PassportFocus.intervalHandle) { window.clearInterval(PassportFocus.intervalHandle); PassportFocus.intervalHandle = null; } }, countInterval: function() { if (PassportFocus.intervalHandle) { PassportFocus.intervalCount++; if (PassportFocus.intervalCount >= PassportFocus.intervalRepeat) { // ÖÕÖ¹ PassportFocus.stopInterval(); switch (typeof PassportFocus.intervalOnCancel) { case "string": eval(PassportFocus.intervalOnCancel); case "function": PassportFocus.intervalOnCancel(); break; } } } else { window.clearInterval(PassportFocus.intervalCounter); PassportFocus.intervalCounter = null; } },
 runInterval:
-function(proc,
-nInterval,
-nRepeat,
-onCancel)
-{
-if
-(PassportFocus.intervalHandle)
-{
-window.clearInterval(PassportFocus.intervalHandle);
-}
-PassportFocus.intervalCount
-=
-0;
-PassportFocus.intervalRepeat
-=
-nRepeat;
-PassportFocus.intervalHandle
-=
-window.setInterval(proc,
-nInterval);
-PassportFocus.intervalCounter
-=
-window.setInterval(PassportFocus.countInterval,
-nInterval);
-PassportFocus.intervalOnCancel
-=
-onCancel;
-},
+function(proc, nInterval, nRepeat, onCancel)
+{ if (PassportFocus.intervalHandle) { window.clearInterval(PassportFocus.intervalHandle); } PassportFocus.intervalCount = 0; PassportFocus.intervalRepeat = nRepeat; PassportFocus.intervalHandle = window.setInterval(proc, nInterval); PassportFocus.intervalCounter = window.setInterval(PassportFocus.countInterval, nInterval); PassportFocus.intervalOnCancel = onCancel; },
 isAdmin:
 function()
-{
-return
-PassportFocus.cookie.hausr
->
+{ return PassportFocus.cookie.hausr >
 0;
 },
 hasLogin:
 function(bParseCookie)
-{
-return
-PassportFocus.getUserId()
-?
-true
-:
-false;
-},
+{ return PassportFocus.getUserId() ? true : false; },
 parseCookie:
 function()
-{
-PassportSC.parsePassportCookie();
-PassportFocus.cookie
-=
-new
-Array();
-var
-sId
-=
-null;
-var
-sCookie
-=
-document.cookie;
-var
-nBegin
-=
-sCookie.indexOf("house_session_id="),
-nEnd;
-var
-sHouseSessionId
-=
-null;
-if
-(nBegin
->=
-0)
-{
-nBegin
-+=
-("house_session_id=").length
-+
-32;
-nEnd
-=
-sCookie.indexOf(';',
-nBegin);
-if
-(nEnd
-<
-0)
-{
-nEnd
-=
-sCookie.length
--
-1;
-}
-sHouseSessionId
-=
-sCookie.substring(nBegin,
-nEnd);
-var
-sInfo
-=
-b64_decodex(sHouseSessionId);
-var
-aInfo
-=
-sInfo.split("&");
-for
-(var
-i
-=
-0;
-i
-<
-aInfo.length;
-i++)
-{
-var
-aInfoCouple
-=
-aInfo[i].split("=");
-PassportFocus.cookie[aInfoCouple[0]]
-=
-aInfoCouple[1];
-}
-}
-},
-getUserId:
-function()
-{
-if
-(PassportSC.cookie)
-{
-return
-PassportSC.cookie['userid'];
-}
-//
-else
-if
-(PassportFocus.cookie['login_id']
->
-0)
-{
-//
-¼æÈİ¾ÉµÇÂ¼Èë¿Ú
-//
-return
-PassportFocus.cookie['login_name']
-+
-'@'
-+
-PassportSC.domain;
-//
-}
-else
-{
-return
-null;
-}
-},
+{ PassportSC.parsePassportCookie(); PassportFocus.cookie = new Array(); var sId = null; var sCookie = document.cookie; var nBegin = sCookie.indexOf("house_session_id="), nEnd; var sHouseSessionId = null; if (nBegin >= 0)
+{ nBegin += ("house_session_id=").length + 32; nEnd = sCookie.indexOf(';', nBegin); if (nEnd < 0) { nEnd = sCookie.length - 1; } sHouseSessionId = sCookie.substring(nBegin, nEnd); var sInfo = b64_decodex(sHouseSessionId); var aInfo = sInfo.split("&"); for (var i = 0; i < aInfo.length; i++) { var aInfoCouple = aInfo[i].split("="); PassportFocus.cookie[aInfoCouple[0]] = aInfoCouple[1]; } } }, getUserId: function() { if (PassportSC.cookie) { return PassportSC.cookie['userid']; } // else if (PassportFocus.cookie['login_id'] > 0) { // ¼æÈİ¾ÉµÇÂ¼Èë¿Ú // return PassportFocus.cookie['login_name'] + '@' + PassportSC.domain; // } else { return null; } },
 //
 È¡µÃÓÃ»§ÕËºÅ(²»º¬ÓòÃû)
 getUsername:
 function()
-{
-var
-sUserId
-=
-PassportFocus.getUserId();
-if
-(sUserId)
-{
-return
-sUserId.replace(/@.+$/,
-'');
-}
-else
-{
-return
-null;
-}
-},
+{ var sUserId = PassportFocus.getUserId(); if (sUserId) { return sUserId.replace(/@.+$/, ''); } else { return null; } },
 //
 È¡µÃêÇ³Æ
 getNickname:
 function()
-{
-return
-PassportFocus.nickname;
-return
-PassportFocus.getUsername();
-PassportFocus.parseCookie();
-return
-PassportFocus.cookie.nickname;
-},
+{ return PassportFocus.nickname; return PassportFocus.getUsername(); PassportFocus.parseCookie(); return PassportFocus.cookie.nickname; },
 //
 È¡µÃ½¹µãÓÃ»§µÄÊı×Ö
 Id
 getFocusId:
 function()
-{
-return
-PassportFocus.cookie.login_id;
-},
+{ return PassportFocus.cookie.login_id; },
 isEnabled:
 function()
-{
-return
-PassportFocus.cookie.login_id
->
+{ return PassportFocus.cookie.login_id >
 0
 ||
 /@focus\.cn$/.exec(PassportFocus.getUserId());
 },
 loginHandle:
 function()
-{
-if
-(PassportFocus.drawPanelWaitOnLogin)
-{
-PassportFocus.drawPanelWaitOnLogin();
-}
-if
-(PassportSC.emailInput.value.indexOf("@")
-<
-0)
-{
-PassportSC.emailInput.value
-+=
-"@"
-+
-PassportSC.domain;
-}
-PassportSC.intervalCount
-=
-0;
-PassportSC.loginHandle(
-PassportSC.emailInput.value,
-PassportSC.passwdInput.value,
-PassportFocus.persistentCookie
-?
-'1'
-:
-'0',
-PassportSC.sElement,
-PassportFocus.loginFailCall,
-PassportFocus.loginSuccessCall
-);
-},
-loginFailCall:
-function()
-{
-alert(PassportFocus._getLoginFailReport());
-if
-(PassportSC.intervalCount
->=
-PassportSC.maxIntervalCount)
-{
-var
-oImage
-=
-new
-Image();
-oImage.src
-=
-"http://passport.sohu.com/web/cardlog.jsp?appid="
-+
-PassportSC.appid
-+
-"&userid="
-+
-encodeURIComponent(PassportSC.emailInput.value);
-}
-PassportFocus.drawPanel();
-},
+{ if (PassportFocus.drawPanelWaitOnLogin) { PassportFocus.drawPanelWaitOnLogin(); } if (PassportSC.emailInput.value.indexOf("@") < 0) { PassportSC.emailInput.value += "@" + PassportSC.domain; } PassportSC.intervalCount = 0; PassportSC.loginHandle( PassportSC.emailInput.value, PassportSC.passwdInput.value, PassportFocus.persistentCookie ? '1' : '0', PassportSC.sElement, PassportFocus.loginFailCall, PassportFocus.loginSuccessCall ); }, loginFailCall: function() { alert(PassportFocus._getLoginFailReport()); if (PassportSC.intervalCount >= PassportSC.maxIntervalCount) { var oImage = new Image(); oImage.src = "http://passport.sohu.com/web/cardlog.jsp?appid=" + PassportSC.appid + "&userid=" + encodeURIComponent(PassportSC.emailInput.value); } PassportFocus.drawPanel(); },
 loginSuccessCall:
 function()
-{
-PassportFocus.loginStatus
-=
-null;
-PassportFocus.loadScript("/common/modules/passport/js/login.php?passport="
-+
-PassportSC.emailInput.value
-+
-"&password="
-+
-encodeURIComponent(PassportSC.passwdInput.value)
-+
-"&"
-+
-(new
-Date()).getTime());
-PassportFocus.runInterval(
-PassportFocus.loginSuccessInterval,
-100,
-50,
-PassportFocus.loginFailCall);
-//
-ÑÓÊ±5Ãë
-},
+{ PassportFocus.loginStatus = null; PassportFocus.loadScript("/common/modules/passport/js/login.php?passport=" + PassportSC.emailInput.value + "&password=" + encodeURIComponent(PassportSC.passwdInput.value) + "&" + (new Date()).getTime()); PassportFocus.runInterval( PassportFocus.loginSuccessInterval, 100, 50, PassportFocus.loginFailCall); // ÑÓÊ±5Ãë },
 loginSuccessInterval:
 function()
-{
-if
-(PassportFocus.loginStatus
-==
-null)
-{
-return;
-}
-PassportFocus.stopInterval();
-if
-(PassportFocus.reloadOnStatusChange)
-{
-window.location.reload();
-return;
-}
-PassportFocus.parseCookie();
-PassportFocus.drawPanel();
-if
-(typeof
-loginApp
-==
-"function"
-&&
-PassportFocus.loginStatus
-==
-"success")
-{
-loginApp();
-}
-if
-(typeof
-passportOnLogin
-==
-"function")
-{
-passportOnLogin();
-}
-if
-(typeof
-passportFocusOnLogin
-==
-"function"
-&&
-PassportFocus.loginStatus
-==
-"success")
-{
-passportFocusOnLogin();
-}
-},
+{ if (PassportFocus.loginStatus == null) { return; } PassportFocus.stopInterval(); if (PassportFocus.reloadOnStatusChange) { window.location.reload(); return; } PassportFocus.parseCookie(); PassportFocus.drawPanel(); if (typeof loginApp == "function" && PassportFocus.loginStatus == "success") { loginApp(); } if (typeof passportOnLogin == "function") { passportOnLogin(); } if (typeof passportFocusOnLogin == "function" && PassportFocus.loginStatus == "success") { passportFocusOnLogin(); } },
 logoutHandle:
 function()
-{
-if
-(PassportFocus.drawPanelWaitOnLogout)
-{
-PassportFocus.drawPanelWaitOnLogout();
-}
-PassportSC.logoutHandle(
-PassportFocus.documentElement,
-_f_null_,
-logoutApp
-);
-},
+{ if (PassportFocus.drawPanelWaitOnLogout) { PassportFocus.drawPanelWaitOnLogout(); } PassportSC.logoutHandle( PassportFocus.documentElement, _f_null_, logoutApp ); },
 logoutSuccessInterval:
 function()
-{
-if
-(PassportFocus.logoutStatus
-!=
-"success")
-{
-return;
-}
-PassportFocus.stopInterval();
-if
-(typeof
-passportOnLogout
-==
-"function")
-{
-passportOnLogout();
-}
-if
-(PassportFocus.needReload)
-{
-window.location.reload();
-return;
-}
-PassportFocus.parseCookie();
-PassportFocus.drawPanel();
-if
-(typeof
-passportOnLogout
-==
-"function")
-{
-passportOnLogout();
-}
-if
-(typeof
-passportFocusOnLogout
-==
-"function"
-&&
-PassportFocus.logoutStatus
-==
-"success")
-{
-passportFocusOnLogout();
-}
-},
+{ if (PassportFocus.logoutStatus != "success") { return; } PassportFocus.stopInterval(); if (typeof passportOnLogout == "function") { passportOnLogout(); } if (PassportFocus.needReload) { window.location.reload(); return; } PassportFocus.parseCookie(); PassportFocus.drawPanel(); if (typeof passportOnLogout == "function") { passportOnLogout(); } if (typeof passportFocusOnLogout == "function" && PassportFocus.logoutStatus == "success") { passportFocusOnLogout(); } },
 initPanel:
 function(oContainer)
-{
-PassportFocus.parseCookie();
-if
-(oContainer)
-{
-PassportFocus.documentElement
-=
-oContainer;
-}
-PassportFocus.initDocumentElementHTML();
-PassportSC.init(PassportFocus.card);
-PassportFocus.drawPanel();
-if
-(typeof
-passportOnInitialized
-==
-"function")
-{
-passportOnInitialized();
-}
-},
+{ PassportFocus.parseCookie(); if (oContainer) { PassportFocus.documentElement = oContainer; } PassportFocus.initDocumentElementHTML(); PassportSC.init(PassportFocus.card); PassportFocus.drawPanel(); if (typeof passportOnInitialized == "function") { passportOnInitialized(); } },
 /**
 *
 ±ØĞëÉú³É
@@ -6493,225 +5105,10 @@ PassportFocus.body
 */
 initDocumentElementHTML:
 function()
-{
-},
+{ },
 drawPanel:
 function()
-{
-if
-(PassportFocus.hasLogin())
-{
-PassportFocus._drawPanelLogged();
-}
-else
-{
-PassportFocus._drawPanelLogin();
-var
-collInput
-=
-PassportFocus.documentElement.getElementsByTagName("input");
-for
-(var
-i
-=
-0;
-i
-<
-collInput.length;
-i++)
-{
-switch
-(collInput[i].name)
-{
-case
-"email":
-PassportSC.emailInput
-=
-collInput[i];
-break;
-case
-"password":
-PassportSC.passwdInput
-=
-collInput[i];
-break;
-case
-"persistentcookie":
-PassportSC.pcInput
-=
-collInput[i];
-break;
-}
-}
-PassportSC.bindSelector();
-}
-},
-_drawPanelLogged:
-function()
-{
-},
-_drawPanelLogin:
-function()
-{
-},
-switchCard:
-function(position)
-{
-if
-(PassportFocus.cardStatus
-==
-"opened")
-{
-PassportFocus.hideCard();
-}
-else
-{
-PassportFocus.showCard(position);
-}
-},
-showCard:
-function(position)
-{
-if
-(!PassportFocus.card
-||
-PassportFocus.cardStatus
-==
-"opened")
-{
-return;
-}
-PassportFocus.card.style.display
-=
-"block";
-PassportSC.drawPassport(PassportFocus.card);
-PassportSC.cElement.style.display
-=
-"block";
-if
-(position)
-{
-var
-aParam
-=
-position.split(",");
-for
-(var
-i
-=
-0;
-i
-<
-aParam.length;
-i++)
-{
-var
-a
-=
-aParam[i].split("=");
-try
-{
-eval('PassportFocus.card.style.'
-+
-a[0]
-+
-'
-=
-"'
-+
-a[1]
-+
-'";');
-}
-catch
-(ex)
-{}
-}
-}
-PassportFocus.cardStatus
-=
-"opened";
-if
-(typeof
-PassportFocus.onCardStatusChange
-==
-"function")
-{
-PassportFocus.onCardStatusChange();
-}
-},
-hideCard:
-function()
-{
-if
-(!PassportFocus.card
-||
-PassportFocus.cardStatus
-!=
-"opened")
-{
-return;
-}
-PassportSC.cElement.style.display
-=
-"none";
-PassportFocus.cardStatus
-=
-"closed";
-if
-(typeof
-PassportFocus.onCardStatusChange
-==
-"function")
-{
-PassportFocus.onCardStatusChange();
-}
-},
-_getLoginFailReport:
-function()
-{
-if
-(PassportSC.intervalCount
->=
-PassportSC.maxIntervalCount)
-{
-return
-'µÇÂ¼³¬Ê±£¬ÇëÉÔºóÖØÊÔ';
-}
-if
-(login_status
-==
-"success"
-&&
-PassportFocus.intervalCount
->=
-PassportFocus.intervalRepeat)
-{
-return
-'·şÎñÆ÷Ã¦£¬ÇëÉÔºóÖØÊÔ';
-}
-switch
-(login_status)
-{
-case
-'error3':
-case
-'error2':
-return
-'ÓÃ»§Ãû»òÃÜÂë´íÎó';
-case
-'error5':
-return
-'ÔİÊ±²»¿ÉµÇÂ¼£¬ÇëÉÔºóÖØÊÔ';
-case
-'success':
-return
-'µÇÂ¼Òì³££¬ÇëÉÔºóÖØÊÔ';
-default:
-return
-'µÇÂ¼Ê§°Ü£¬ÇëÉÔºóÖØÊÔ';
-}
-}
+{ if (PassportFocus.hasLogin()) { PassportFocus._drawPanelLogged(); } else { PassportFocus._drawPanelLogin(); var collInput = PassportFocus.documentElement.getElementsByTagName("input"); for (var i = 0; i < collInput.length; i++) { switch (collInput[i].name) { case "email": PassportSC.emailInput = collInput[i]; break; case "password": PassportSC.passwdInput = collInput[i]; break; case "persistentcookie": PassportSC.pcInput = collInput[i]; break; } } PassportSC.bindSelector(); } }, _drawPanelLogged: function() { }, _drawPanelLogin: function() { }, switchCard: function(position) { if (PassportFocus.cardStatus == "opened") { PassportFocus.hideCard(); } else { PassportFocus.showCard(position); } }, showCard: function(position) { if (!PassportFocus.card || PassportFocus.cardStatus == "opened") { return; } PassportFocus.card.style.display = "block"; PassportSC.drawPassport(PassportFocus.card); PassportSC.cElement.style.display = "block"; if (position) { var aParam = position.split(","); for (var i = 0; i < aParam.length; i++) { var a = aParam[i].split("="); try { eval('PassportFocus.card.style.' + a[0] + ' = "' + a[1] + '";'); } catch (ex) {} } } PassportFocus.cardStatus = "opened"; if (typeof PassportFocus.onCardStatusChange == "function") { PassportFocus.onCardStatusChange(); } }, hideCard: function() { if (!PassportFocus.card || PassportFocus.cardStatus != "opened") { return; } PassportSC.cElement.style.display = "none"; PassportFocus.cardStatus = "closed"; if (typeof PassportFocus.onCardStatusChange == "function") { PassportFocus.onCardStatusChange(); } }, _getLoginFailReport: function() { if (PassportSC.intervalCount >= PassportSC.maxIntervalCount) { return 'µÇÂ¼³¬Ê±£¬ÇëÉÔºóÖØÊÔ'; } if (login_status == "success" && PassportFocus.intervalCount >= PassportFocus.intervalRepeat) { return '·şÎñÆ÷Ã¦£¬ÇëÉÔºóÖØÊÔ'; } switch (login_status) { case 'error3': case 'error2': return 'ÓÃ»§Ãû»òÃÜÂë´íÎó'; case 'error5': return 'ÔİÊ±²»¿ÉµÇÂ¼£¬ÇëÉÔºóÖØÊÔ'; case 'success': return 'µÇÂ¼Òì³££¬ÇëÉÔºóÖØÊÔ'; default: return 'µÇÂ¼Ê§°Ü£¬ÇëÉÔºóÖØÊÔ'; } }
 };
 PassportSC.appid
 =
@@ -6724,73 +5121,14 @@ PassportSC.domain
 "focus.cn";
 PassportSC.logoutSuccessCall=
 function()
-{
-PassportSC.parseLastDomain(PassportSC.domainList);
-try
-{
-logoutApp();
-}
-catch
-(e)
-{
-}
-};
+{ PassportSC.parseLastDomain(PassportSC.domainList); try { logoutApp(); } catch (e) { } };
 function
 logoutApp()
-{
-if
-(PassportFocus.documentElement
-!=
-PassportSC.rootElement)
-{
-PassportFocus.hideCard();
-}
-else
-{
-PassportSC.drawLoginForm();
-}
-var
-nFocusId
-=
-PassportFocus.getFocusId();
-if
-(nFocusId)
-{
-PassportFocus.logoutStatus
-=
-null;
-PassportFocus.loadScript("/common/modules/passport/js/logout.php?"
-+
-(new
-Date()).getTime());
-}
-else
-{
-PassportFocus.logoutStatus
-=
-"success";
-}
-PassportFocus.needReload
-=
-PassportFocus.reloadOnStatusChange
-&&
-(nFocusId
-!=
-null);
-PassportFocus.runInterval(
-PassportFocus.logoutSuccessInterval,
-100,
-20);
-//
-ÑÓÊ±2Ãë
-};
+{ if (PassportFocus.documentElement != PassportSC.rootElement) { PassportFocus.hideCard(); } else { PassportSC.drawLoginForm(); } var nFocusId = PassportFocus.getFocusId(); if (nFocusId) { PassportFocus.logoutStatus = null; PassportFocus.loadScript("/common/modules/passport/js/logout.php?" + (new Date()).getTime()); } else { PassportFocus.logoutStatus = "success"; } PassportFocus.needReload = PassportFocus.reloadOnStatusChange && (nFocusId != null); PassportFocus.runInterval( PassportFocus.logoutSuccessInterval, 100, 20); // ÑÓÊ±2Ãë };
 PassportFocus.initDocumentElementHTML
 =
 function()
-{
-PassportFocus.documentElement.innerHTML
-=
-'
+{ PassportFocus.documentElement.innerHTML = '
 ';
 PassportFocus.body
 =
@@ -6801,10 +5139,7 @@ PassportFocus.body.nextSibling;
 };
 PassportFocus._drawPanelLogin=
 function()
-{
-PassportFocus.body.innerHTML
-=
-'\
+{ PassportFocus.body.innerHTML = '\ 
 \
 \
 Í¨ĞĞÖ¤
@@ -6839,11 +5174,7 @@ PassportFocus.body.innerHTML
 PassportFocus._drawPanelLogged
 =
 function()
-{
-var
-sHtml
-=
-'\
+{ var sHtml = '\ 
 \
 Í¨ĞĞÖ¤
 ´ò¿ª
@@ -6854,12 +5185,7 @@ sHtml
 ';
 if
 (PassportFocus.getFocusId())
-{
-//
-ÒÑ»ñµÃ½¹µãÊÚÈ¨
-sHtml
-+=
-'\
+{ // ÒÑ»ñµÃ½¹µãÊÚÈ¨ sHtml += '\ 
 '
 +
 PassportFocus.getNickname()
@@ -6876,10 +5202,7 @@ PassportFocus.getNickname()
 ';
 }
 else
-{
-sHtml
-+=
-'\
+{ sHtml += '\ 
 '
 +
 PassportFocus.getUserId()
@@ -6904,42 +5227,11 @@ sHtml;
 PassportFocus.onCardStatusChange
 =
 function()
-{
-var
-collA
-=
-PassportFocus.documentElement.getElementsByTagName("a");
-for
-(var
-i
-in
-collA)
-{
-if
-(collA[i].id
-==
-"menuSwitchCard")
-{
-collA[i].innerText
-=
-PassportFocus.cardStatus
-==
-"opened"
-?
-"¹Ø±Õ"
-:
-"´ò¿ª";
-return;
-}
-}
-};
+{ var collA = PassportFocus.documentElement.getElementsByTagName("a"); for (var i in collA) { if (collA[i].id == "menuSwitchCard") { collA[i].innerText = PassportFocus.cardStatus == "opened" ? "¹Ø±Õ" : "´ò¿ª"; return; } } };
 PassportFocus.drawPanelWaitOnLogout
 =
 function()
-{
-PassportFocus.body.innerHTML
-=
-'\
+{ PassportFocus.body.innerHTML = '\ 
 \
 Í¨ĞĞÖ¤
 \
@@ -6953,10 +5245,7 @@ PassportFocus.body.innerHTML
 PassportFocus.drawPanelWaitOnLogin
 =
 function()
-{
-PassportFocus.body.innerHTML
-=
-'\
+{ PassportFocus.body.innerHTML = '\ 
 \
 Í¨ĞĞÖ¤
 \
@@ -6970,11 +5259,7 @@ PassportFocus.body.innerHTML
 PassportSC._drawPassportCard
 =
 function()
-{
-var
-sHtml
-=
-'\
+{ var sHtml = '\ 
 ËÑºü
 Í¨ĞĞÖ¤
 ÍË³ö
@@ -6988,44 +5273,12 @@ sHtml
 \
 ';
 for
-(var
-i
-=
-0,
-j
-=
-0;
-i
-<
-this.bottomRow[0]['length'];
-i++)
-{
-j
-+=
-this.bottomRow[0][i]['name'].length
-+
-(i
->
-0
-?
-1
-:
-0);
+(var i = 0, j = 0; i < this.bottomRow[0]['length']; i++) { j += this.bottomRow[0][i]['name'].length + (i > 0 ? 1 : 0); if (j > 8)
+{ break; }
 if
-(j
->
-8)
-{
-break;
-}
-if
-(i
->
+(i >
 0)
-{
-sHtml
-+=
-'
+{ sHtml += '
 |
 ';
 }
@@ -7047,44 +5300,12 @@ sHtml
 \
 ';
 for
-(var
-i
-=
-0,
-j
-=
-0;
-i
-<
-this.bottomRow[1]['length'];
-i++)
-{
-j
-+=
-this.bottomRow[1][i]['name'].length
-+
-(i
->
-0
-?
-1
-:
-0);
+(var i = 0, j = 0; i < this.bottomRow[1]['length']; i++) { j += this.bottomRow[1][i]['name'].length + (i > 0 ? 1 : 0); if (j > 8)
+{ break; }
 if
-(j
->
-8)
-{
-break;
-}
-if
-(i
->
+(i >
 0)
-{
-sHtml
-+=
-'
+{ sHtml += '
 |
 ';
 }
@@ -7102,10 +5323,7 @@ this.bottomRow[1][i]['name']
 ´ó±¾Óª
 if
 (PassportFocus.dabenying)
-{
-sHtml
-+=
-'
+{ sHtml += '
 ';
 var
 durl
@@ -7120,24 +5338,9 @@ at
 =
 this.cookie['userid'].indexOf("@");
 if
-(at
->
+(at >
 0)
-{
-var
-userdomain
-=
-this.cookie['userid'].substr(at+1);
-if
-(this.domainList[userdomain]
-==
-null)
-{
-durl
-=
-"http://login.sogou.com/modify.jsp";
-}
-}
+{ var userdomain = this.cookie['userid'].substr(at+1); if (this.domainList[userdomain] == null) { durl = "http://login.sogou.com/modify.jsp"; } }
 sHtml
 +=
 '
@@ -7160,16 +5363,7 @@ return;
 };
 function
 drawAppInfo(node)
-{
-if
-(PassportFocus.isEnabled())
-{
-//
-ÒÑ»ñµÃ½¹µãÊÚÈ¨
-node.innerHTML
-=
-'\
-\
+{ if (PassportFocus.isEnabled()) { // ÒÑ»ñµÃ½¹µãÊÚÈ¨ node.innerHTML = '\ \ 
 '
 +
 PassportFocus.getNickname()
@@ -7184,11 +5378,7 @@ PassportFocus.getNickname()
 ';
 }
 else
-{
-node.innerHTML
-=
-'\
-\
+{ node.innerHTML = '\ \ 
 ÉĞÎ´¼¤»î£¬ÇëÏÈ¼¤»î½¹µãÕÊ»§
 \
 \
@@ -7199,8 +5389,7 @@ node.innerHTML
 ´Ëº¯Êı²»Ö´ĞĞÈÎºÎ²Ù×÷£¬½öÓÃ×÷º¯Êı²ÎÊı
 function
 _f_null_()
-{
-};
+{ };
 PassportSC.selectorTitle
 =
 "½¹µãÓÃ»§ÇëÑ¡Ôñ@focus.cn";
@@ -7210,544 +5399,63 @@ PassportSC.maxIntervalCount
 var
 PassportFocus
 =
-{
-dabenying:
-false,
-persistentCookie:
-true,
-cardStatus:
-null,
-reloadOnStatusChange:
-true,
-cookie:
-new
-Array(),
-intervalCount:
-0,
-intervalRepeat:
-0,
-intervalHandle:
-null,
-intervalCounter:
-null,
-intervalOnCancel:
-null,
-nickname:
-"¹ı¿ÍÆÀÂÛ",
-url:
-{
-register:
-"http://user.focus.cn/register.php?site_no=16&back_url="
-+
-encodeURIComponent(window.location.href),
-help:
-"http://house.focus.cn/elite/myarticle1.php?group_id=918",
-password:
-"http://user.focus.cn/forget.php",
-enable:
-"http://blog.focus.cn/common/modules/passport/enable.php"
-},
-loadScript:
-function(url)
-{
-var
-oScript
-=
-document.createElement("script");
-oScript.src
-=
-url;
-PassportFocus.documentElement.appendChild(oScript);
-},
-stopInterval:
-function()
-{
-if
-(PassportFocus.intervalHandle)
-{
-window.clearInterval(PassportFocus.intervalHandle);
-PassportFocus.intervalHandle
-=
-null;
-}
-},
-countInterval:
-function()
-{
-if
-(PassportFocus.intervalHandle)
-{
-PassportFocus.intervalCount++;
-if
-(PassportFocus.intervalCount
->=
-PassportFocus.intervalRepeat)
-{
-//
-ÖÕÖ¹
-PassportFocus.stopInterval();
-switch
-(typeof
-PassportFocus.intervalOnCancel)
-{
-case
-"string":
-eval(PassportFocus.intervalOnCancel);
-case
-"function":
-PassportFocus.intervalOnCancel();
-break;
-}
-}
-}
-else
-{
-window.clearInterval(PassportFocus.intervalCounter);
-PassportFocus.intervalCounter
-=
-null;
-}
-},
+{ dabenying: false, persistentCookie: true, cardStatus: null, reloadOnStatusChange: true, cookie: new Array(), intervalCount: 0, intervalRepeat: 0, intervalHandle: null, intervalCounter: null, intervalOnCancel: null, nickname: "¹ı¿ÍÆÀÂÛ", url: { register: "http://user.focus.cn/register.php?site_no=16&back_url=" + encodeURIComponent(window.location.href), help: "http://house.focus.cn/elite/myarticle1.php?group_id=918", password: "http://user.focus.cn/forget.php", enable: "http://blog.focus.cn/common/modules/passport/enable.php" }, loadScript: function(url) { var oScript = document.createElement("script"); oScript.src = url; PassportFocus.documentElement.appendChild(oScript); }, stopInterval: function() { if (PassportFocus.intervalHandle) { window.clearInterval(PassportFocus.intervalHandle); PassportFocus.intervalHandle = null; } }, countInterval: function() { if (PassportFocus.intervalHandle) { PassportFocus.intervalCount++; if (PassportFocus.intervalCount >= PassportFocus.intervalRepeat) { // ÖÕÖ¹ PassportFocus.stopInterval(); switch (typeof PassportFocus.intervalOnCancel) { case "string": eval(PassportFocus.intervalOnCancel); case "function": PassportFocus.intervalOnCancel(); break; } } } else { window.clearInterval(PassportFocus.intervalCounter); PassportFocus.intervalCounter = null; } },
 runInterval:
-function(proc,
-nInterval,
-nRepeat,
-onCancel)
-{
-if
-(PassportFocus.intervalHandle)
-{
-window.clearInterval(PassportFocus.intervalHandle);
-}
-PassportFocus.intervalCount
-=
-0;
-PassportFocus.intervalRepeat
-=
-nRepeat;
-PassportFocus.intervalHandle
-=
-window.setInterval(proc,
-nInterval);
-PassportFocus.intervalCounter
-=
-window.setInterval(PassportFocus.countInterval,
-nInterval);
-PassportFocus.intervalOnCancel
-=
-onCancel;
-},
+function(proc, nInterval, nRepeat, onCancel)
+{ if (PassportFocus.intervalHandle) { window.clearInterval(PassportFocus.intervalHandle); } PassportFocus.intervalCount = 0; PassportFocus.intervalRepeat = nRepeat; PassportFocus.intervalHandle = window.setInterval(proc, nInterval); PassportFocus.intervalCounter = window.setInterval(PassportFocus.countInterval, nInterval); PassportFocus.intervalOnCancel = onCancel; },
 isAdmin:
 function()
-{
-return
-PassportFocus.cookie.hausr
->
+{ return PassportFocus.cookie.hausr >
 0;
 },
 hasLogin:
 function(bParseCookie)
-{
-return
-PassportFocus.getUserId()
-?
-true
-:
-false;
-},
+{ return PassportFocus.getUserId() ? true : false; },
 parseCookie:
 function()
-{
-PassportSC.parsePassportCookie();
-PassportFocus.cookie
-=
-new
-Array();
-var
-sId
-=
-null;
-var
-sCookie
-=
-document.cookie;
-var
-nBegin
-=
-sCookie.indexOf("house_session_id="),
-nEnd;
-var
-sHouseSessionId
-=
-null;
-if
-(nBegin
->=
-0)
-{
-nBegin
-+=
-("house_session_id=").length
-+
-32;
-nEnd
-=
-sCookie.indexOf(';',
-nBegin);
-if
-(nEnd
-<
-0)
-{
-nEnd
-=
-sCookie.length
--
-1;
-}
-sHouseSessionId
-=
-sCookie.substring(nBegin,
-nEnd);
-var
-sInfo
-=
-b64_decodex(sHouseSessionId);
-var
-aInfo
-=
-sInfo.split("&");
-for
-(var
-i
-=
-0;
-i
-<
-aInfo.length;
-i++)
-{
-var
-aInfoCouple
-=
-aInfo[i].split("=");
-PassportFocus.cookie[aInfoCouple[0]]
-=
-aInfoCouple[1];
-}
-}
-},
-getUserId:
-function()
-{
-if
-(PassportSC.cookie)
-{
-return
-PassportSC.cookie['userid'];
-}
-//
-else
-if
-(PassportFocus.cookie['login_id']
->
-0)
-{
-//
-¼æÈİ¾ÉµÇÂ¼Èë¿Ú
-//
-return
-PassportFocus.cookie['login_name']
-+
-'@'
-+
-PassportSC.domain;
-//
-}
-else
-{
-return
-null;
-}
-},
+{ PassportSC.parsePassportCookie(); PassportFocus.cookie = new Array(); var sId = null; var sCookie = document.cookie; var nBegin = sCookie.indexOf("house_session_id="), nEnd; var sHouseSessionId = null; if (nBegin >= 0)
+{ nBegin += ("house_session_id=").length + 32; nEnd = sCookie.indexOf(';', nBegin); if (nEnd < 0) { nEnd = sCookie.length - 1; } sHouseSessionId = sCookie.substring(nBegin, nEnd); var sInfo = b64_decodex(sHouseSessionId); var aInfo = sInfo.split("&"); for (var i = 0; i < aInfo.length; i++) { var aInfoCouple = aInfo[i].split("="); PassportFocus.cookie[aInfoCouple[0]] = aInfoCouple[1]; } } }, getUserId: function() { if (PassportSC.cookie) { return PassportSC.cookie['userid']; } // else if (PassportFocus.cookie['login_id'] > 0) { // ¼æÈİ¾ÉµÇÂ¼Èë¿Ú // return PassportFocus.cookie['login_name'] + '@' + PassportSC.domain; // } else { return null; } },
 //
 È¡µÃÓÃ»§ÕËºÅ(²»º¬ÓòÃû)
 getUsername:
 function()
-{
-var
-sUserId
-=
-PassportFocus.getUserId();
-if
-(sUserId)
-{
-return
-sUserId.replace(/@.+$/,
-'');
-}
-else
-{
-return
-null;
-}
-},
+{ var sUserId = PassportFocus.getUserId(); if (sUserId) { return sUserId.replace(/@.+$/, ''); } else { return null; } },
 //
 È¡µÃêÇ³Æ
 getNickname:
 function()
-{
-return
-PassportFocus.nickname;
-return
-PassportFocus.getUsername();
-PassportFocus.parseCookie();
-return
-PassportFocus.cookie.nickname;
-},
+{ return PassportFocus.nickname; return PassportFocus.getUsername(); PassportFocus.parseCookie(); return PassportFocus.cookie.nickname; },
 //
 È¡µÃ½¹µãÓÃ»§µÄÊı×Ö
 Id
 getFocusId:
 function()
-{
-return
-PassportFocus.cookie.login_id;
-},
+{ return PassportFocus.cookie.login_id; },
 isEnabled:
 function()
-{
-return
-PassportFocus.cookie.login_id
->
+{ return PassportFocus.cookie.login_id >
 0
 ||
 /@focus\.cn$/.exec(PassportFocus.getUserId());
 },
 loginHandle:
 function()
-{
-if
-(PassportFocus.drawPanelWaitOnLogin)
-{
-PassportFocus.drawPanelWaitOnLogin();
-}
-if
-(PassportSC.emailInput.value.indexOf("@")
-<
-0)
-{
-PassportSC.emailInput.value
-+=
-"@"
-+
-PassportSC.domain;
-}
-PassportSC.intervalCount
-=
-0;
-PassportSC.loginHandle(
-PassportSC.emailInput.value,
-PassportSC.passwdInput.value,
-PassportFocus.persistentCookie
-?
-'1'
-:
-'0',
-PassportSC.sElement,
-PassportFocus.loginFailCall,
-PassportFocus.loginSuccessCall
-);
-},
-loginFailCall:
-function()
-{
-alert(PassportFocus._getLoginFailReport());
-if
-(PassportSC.intervalCount
->=
-PassportSC.maxIntervalCount)
-{
-var
-oImage
-=
-new
-Image();
-oImage.src
-=
-"http://passport.sohu.com/web/cardlog.jsp?appid="
-+
-PassportSC.appid
-+
-"&userid="
-+
-encodeURIComponent(PassportSC.emailInput.value);
-}
-PassportFocus.drawPanel();
-},
+{ if (PassportFocus.drawPanelWaitOnLogin) { PassportFocus.drawPanelWaitOnLogin(); } if (PassportSC.emailInput.value.indexOf("@") < 0) { PassportSC.emailInput.value += "@" + PassportSC.domain; } PassportSC.intervalCount = 0; PassportSC.loginHandle( PassportSC.emailInput.value, PassportSC.passwdInput.value, PassportFocus.persistentCookie ? '1' : '0', PassportSC.sElement, PassportFocus.loginFailCall, PassportFocus.loginSuccessCall ); }, loginFailCall: function() { alert(PassportFocus._getLoginFailReport()); if (PassportSC.intervalCount >= PassportSC.maxIntervalCount) { var oImage = new Image(); oImage.src = "http://passport.sohu.com/web/cardlog.jsp?appid=" + PassportSC.appid + "&userid=" + encodeURIComponent(PassportSC.emailInput.value); } PassportFocus.drawPanel(); },
 loginSuccessCall:
 function()
-{
-PassportFocus.loginStatus
-=
-null;
-PassportFocus.loadScript("/common/modules/passport/js/login.php?passport="
-+
-PassportSC.emailInput.value
-+
-"&password="
-+
-encodeURIComponent(PassportSC.passwdInput.value)
-+
-"&"
-+
-(new
-Date()).getTime());
-PassportFocus.runInterval(
-PassportFocus.loginSuccessInterval,
-100,
-50,
-PassportFocus.loginFailCall);
-//
-ÑÓÊ±5Ãë
-},
+{ PassportFocus.loginStatus = null; PassportFocus.loadScript("/common/modules/passport/js/login.php?passport=" + PassportSC.emailInput.value + "&password=" + encodeURIComponent(PassportSC.passwdInput.value) + "&" + (new Date()).getTime()); PassportFocus.runInterval( PassportFocus.loginSuccessInterval, 100, 50, PassportFocus.loginFailCall); // ÑÓÊ±5Ãë },
 loginSuccessInterval:
 function()
-{
-if
-(PassportFocus.loginStatus
-==
-null)
-{
-return;
-}
-PassportFocus.stopInterval();
-if
-(PassportFocus.reloadOnStatusChange)
-{
-window.location.reload();
-return;
-}
-PassportFocus.parseCookie();
-PassportFocus.drawPanel();
-if
-(typeof
-loginApp
-==
-"function"
-&&
-PassportFocus.loginStatus
-==
-"success")
-{
-loginApp();
-}
-if
-(typeof
-passportOnLogin
-==
-"function")
-{
-passportOnLogin();
-}
-if
-(typeof
-passportFocusOnLogin
-==
-"function"
-&&
-PassportFocus.loginStatus
-==
-"success")
-{
-passportFocusOnLogin();
-}
-},
+{ if (PassportFocus.loginStatus == null) { return; } PassportFocus.stopInterval(); if (PassportFocus.reloadOnStatusChange) { window.location.reload(); return; } PassportFocus.parseCookie(); PassportFocus.drawPanel(); if (typeof loginApp == "function" && PassportFocus.loginStatus == "success") { loginApp(); } if (typeof passportOnLogin == "function") { passportOnLogin(); } if (typeof passportFocusOnLogin == "function" && PassportFocus.loginStatus == "success") { passportFocusOnLogin(); } },
 logoutHandle:
 function()
-{
-if
-(PassportFocus.drawPanelWaitOnLogout)
-{
-PassportFocus.drawPanelWaitOnLogout();
-}
-PassportSC.logoutHandle(
-PassportFocus.documentElement,
-_f_null_,
-logoutApp
-);
-},
+{ if (PassportFocus.drawPanelWaitOnLogout) { PassportFocus.drawPanelWaitOnLogout(); } PassportSC.logoutHandle( PassportFocus.documentElement, _f_null_, logoutApp ); },
 logoutSuccessInterval:
 function()
-{
-if
-(PassportFocus.logoutStatus
-!=
-"success")
-{
-return;
-}
-PassportFocus.stopInterval();
-if
-(typeof
-passportOnLogout
-==
-"function")
-{
-passportOnLogout();
-}
-if
-(PassportFocus.needReload)
-{
-window.location.reload();
-return;
-}
-PassportFocus.parseCookie();
-PassportFocus.drawPanel();
-if
-(typeof
-passportOnLogout
-==
-"function")
-{
-passportOnLogout();
-}
-if
-(typeof
-passportFocusOnLogout
-==
-"function"
-&&
-PassportFocus.logoutStatus
-==
-"success")
-{
-passportFocusOnLogout();
-}
-},
+{ if (PassportFocus.logoutStatus != "success") { return; } PassportFocus.stopInterval(); if (typeof passportOnLogout == "function") { passportOnLogout(); } if (PassportFocus.needReload) { window.location.reload(); return; } PassportFocus.parseCookie(); PassportFocus.drawPanel(); if (typeof passportOnLogout == "function") { passportOnLogout(); } if (typeof passportFocusOnLogout == "function" && PassportFocus.logoutStatus == "success") { passportFocusOnLogout(); } },
 initPanel:
 function(oContainer)
-{
-PassportFocus.parseCookie();
-if
-(oContainer)
-{
-PassportFocus.documentElement
-=
-oContainer;
-}
-PassportFocus.initDocumentElementHTML();
-PassportSC.init(PassportFocus.card);
-PassportFocus.drawPanel();
-if
-(typeof
-passportOnInitialized
-==
-"function")
-{
-passportOnInitialized();
-}
-},
+{ PassportFocus.parseCookie(); if (oContainer) { PassportFocus.documentElement = oContainer; } PassportFocus.initDocumentElementHTML(); PassportSC.init(PassportFocus.card); PassportFocus.drawPanel(); if (typeof passportOnInitialized == "function") { passportOnInitialized(); } },
 /**
 *
 ±ØĞëÉú³É
@@ -7762,225 +5470,10 @@ PassportFocus.body
 */
 initDocumentElementHTML:
 function()
-{
-},
+{ },
 drawPanel:
 function()
-{
-if
-(PassportFocus.hasLogin())
-{
-PassportFocus._drawPanelLogged();
-}
-else
-{
-PassportFocus._drawPanelLogin();
-var
-collInput
-=
-PassportFocus.documentElement.getElementsByTagName("input");
-for
-(var
-i
-=
-0;
-i
-<
-collInput.length;
-i++)
-{
-switch
-(collInput[i].name)
-{
-case
-"email":
-PassportSC.emailInput
-=
-collInput[i];
-break;
-case
-"password":
-PassportSC.passwdInput
-=
-collInput[i];
-break;
-case
-"persistentcookie":
-PassportSC.pcInput
-=
-collInput[i];
-break;
-}
-}
-PassportSC.bindSelector();
-}
-},
-_drawPanelLogged:
-function()
-{
-},
-_drawPanelLogin:
-function()
-{
-},
-switchCard:
-function(position)
-{
-if
-(PassportFocus.cardStatus
-==
-"opened")
-{
-PassportFocus.hideCard();
-}
-else
-{
-PassportFocus.showCard(position);
-}
-},
-showCard:
-function(position)
-{
-if
-(!PassportFocus.card
-||
-PassportFocus.cardStatus
-==
-"opened")
-{
-return;
-}
-PassportFocus.card.style.display
-=
-"block";
-PassportSC.drawPassport(PassportFocus.card);
-PassportSC.cElement.style.display
-=
-"block";
-if
-(position)
-{
-var
-aParam
-=
-position.split(",");
-for
-(var
-i
-=
-0;
-i
-<
-aParam.length;
-i++)
-{
-var
-a
-=
-aParam[i].split("=");
-try
-{
-eval('PassportFocus.card.style.'
-+
-a[0]
-+
-'
-=
-"'
-+
-a[1]
-+
-'";');
-}
-catch
-(ex)
-{}
-}
-}
-PassportFocus.cardStatus
-=
-"opened";
-if
-(typeof
-PassportFocus.onCardStatusChange
-==
-"function")
-{
-PassportFocus.onCardStatusChange();
-}
-},
-hideCard:
-function()
-{
-if
-(!PassportFocus.card
-||
-PassportFocus.cardStatus
-!=
-"opened")
-{
-return;
-}
-PassportSC.cElement.style.display
-=
-"none";
-PassportFocus.cardStatus
-=
-"closed";
-if
-(typeof
-PassportFocus.onCardStatusChange
-==
-"function")
-{
-PassportFocus.onCardStatusChange();
-}
-},
-_getLoginFailReport:
-function()
-{
-if
-(PassportSC.intervalCount
->=
-PassportSC.maxIntervalCount)
-{
-return
-'µÇÂ¼³¬Ê±£¬ÇëÉÔºóÖØÊÔ';
-}
-if
-(login_status
-==
-"success"
-&&
-PassportFocus.intervalCount
->=
-PassportFocus.intervalRepeat)
-{
-return
-'·şÎñÆ÷Ã¦£¬ÇëÉÔºóÖØÊÔ';
-}
-switch
-(login_status)
-{
-case
-'error3':
-case
-'error2':
-return
-'ÓÃ»§Ãû»òÃÜÂë´íÎó';
-case
-'error5':
-return
-'ÔİÊ±²»¿ÉµÇÂ¼£¬ÇëÉÔºóÖØÊÔ';
-case
-'success':
-return
-'µÇÂ¼Òì³££¬ÇëÉÔºóÖØÊÔ';
-default:
-return
-'µÇÂ¼Ê§°Ü£¬ÇëÉÔºóÖØÊÔ';
-}
-}
+{ if (PassportFocus.hasLogin()) { PassportFocus._drawPanelLogged(); } else { PassportFocus._drawPanelLogin(); var collInput = PassportFocus.documentElement.getElementsByTagName("input"); for (var i = 0; i < collInput.length; i++) { switch (collInput[i].name) { case "email": PassportSC.emailInput = collInput[i]; break; case "password": PassportSC.passwdInput = collInput[i]; break; case "persistentcookie": PassportSC.pcInput = collInput[i]; break; } } PassportSC.bindSelector(); } }, _drawPanelLogged: function() { }, _drawPanelLogin: function() { }, switchCard: function(position) { if (PassportFocus.cardStatus == "opened") { PassportFocus.hideCard(); } else { PassportFocus.showCard(position); } }, showCard: function(position) { if (!PassportFocus.card || PassportFocus.cardStatus == "opened") { return; } PassportFocus.card.style.display = "block"; PassportSC.drawPassport(PassportFocus.card); PassportSC.cElement.style.display = "block"; if (position) { var aParam = position.split(","); for (var i = 0; i < aParam.length; i++) { var a = aParam[i].split("="); try { eval('PassportFocus.card.style.' + a[0] + ' = "' + a[1] + '";'); } catch (ex) {} } } PassportFocus.cardStatus = "opened"; if (typeof PassportFocus.onCardStatusChange == "function") { PassportFocus.onCardStatusChange(); } }, hideCard: function() { if (!PassportFocus.card || PassportFocus.cardStatus != "opened") { return; } PassportSC.cElement.style.display = "none"; PassportFocus.cardStatus = "closed"; if (typeof PassportFocus.onCardStatusChange == "function") { PassportFocus.onCardStatusChange(); } }, _getLoginFailReport: function() { if (PassportSC.intervalCount >= PassportSC.maxIntervalCount) { return 'µÇÂ¼³¬Ê±£¬ÇëÉÔºóÖØÊÔ'; } if (login_status == "success" && PassportFocus.intervalCount >= PassportFocus.intervalRepeat) { return '·şÎñÆ÷Ã¦£¬ÇëÉÔºóÖØÊÔ'; } switch (login_status) { case 'error3': case 'error2': return 'ÓÃ»§Ãû»òÃÜÂë´íÎó'; case 'error5': return 'ÔİÊ±²»¿ÉµÇÂ¼£¬ÇëÉÔºóÖØÊÔ'; case 'success': return 'µÇÂ¼Òì³££¬ÇëÉÔºóÖØÊÔ'; default: return 'µÇÂ¼Ê§°Ü£¬ÇëÉÔºóÖØÊÔ'; } }
 };
 PassportSC.appid
 =
@@ -7993,111 +5486,29 @@ PassportSC.domain
 "focus.cn";
 PassportSC.logoutSuccessCall=
 function()
-{
-PassportSC.parseLastDomain(PassportSC.domainList);
-try
-{
-logoutApp();
-}
-catch
-(e)
-{
-}
-};
+{ PassportSC.parseLastDomain(PassportSC.domainList); try { logoutApp(); } catch (e) { } };
 function
 logoutApp()
-{
-if
-(PassportFocus.documentElement
-!=
-PassportSC.rootElement)
-{
-PassportFocus.hideCard();
-}
-else
-{
-PassportSC.drawLoginForm();
-}
-var
-nFocusId
-=
-PassportFocus.getFocusId();
-if
-(nFocusId)
-{
-PassportFocus.logoutStatus
-=
-null;
-PassportFocus.loadScript("/common/modules/passport/js/logout.php?"
-+
-(new
-Date()).getTime());
-}
-else
-{
-PassportFocus.logoutStatus
-=
-"success";
-}
-PassportFocus.needReload
-=
-PassportFocus.reloadOnStatusChange
-&&
-(nFocusId
-!=
-null);
-PassportFocus.runInterval(
-PassportFocus.logoutSuccessInterval,
-100,
-20);
-//
-ÑÓÊ±2Ãë
-};
+{ if (PassportFocus.documentElement != PassportSC.rootElement) { PassportFocus.hideCard(); } else { PassportSC.drawLoginForm(); } var nFocusId = PassportFocus.getFocusId(); if (nFocusId) { PassportFocus.logoutStatus = null; PassportFocus.loadScript("/common/modules/passport/js/logout.php?" + (new Date()).getTime()); } else { PassportFocus.logoutStatus = "success"; } PassportFocus.needReload = PassportFocus.reloadOnStatusChange && (nFocusId != null); PassportFocus.runInterval( PassportFocus.logoutSuccessInterval, 100, 20); // ÑÓÊ±2Ãë };
 PassportFocus.initPanel
 =
 function(oContainer)
-{
-PassportFocus.parseCookie();
-PassportFocus.documentElement
-=
-oContainer;
-PassportSC.drawPassport(PassportFocus.documentElement);
-if
-(typeof
-passportOnInitialized
-==
-"function")
-{
-passportOnInitialized();
-}
-};
+{ PassportFocus.parseCookie(); PassportFocus.documentElement = oContainer; PassportSC.drawPassport(PassportFocus.documentElement); if (typeof passportOnInitialized == "function") { passportOnInitialized(); } };
 PassportSC.loginSuccessCall=
 function()
-{
-PassportFocus.loginSuccessCall();
-};
+{ PassportFocus.loginSuccessCall(); };
 PassportSC.showMsg
 =
 function(msg)
-{
-alert(msg);
-};
+{ alert(msg); };
 PassportFocus.drawPanel
 =
 function()
-{
-PassportSC.drawPassport(PassportFocus.documentElement);
-};
+{ PassportSC.drawPassport(PassportFocus.documentElement); };
 PassportSC._drawLoginForm
 =
 function()
-{
-this.cElement.className
-=
-"passport";
-this.cElement.innerHTML
-=
-'\
+{ this.cElement.className = "passport"; this.cElement.innerHTML = '\ 
 \
 \
 ËÑºü
@@ -8124,10 +5535,7 @@ this.cElement.innerHTML
 PassportSC.drawPassportWait
 =
 function()
-{
-this.cElement.innerHTML
-=
-'\
+{ this.cElement.innerHTML = '\ 
 ËÑºü
 Í¨ĞĞÖ¤
 \
@@ -8140,11 +5548,7 @@ this.cElement.innerHTML
 PassportSC._drawPassportCard
 =
 function()
-{
-var
-sHtml
-=
-'\
+{ var sHtml = '\ 
 ËÑºü
 Í¨ĞĞÖ¤
 ËÑºü3.0
@@ -8159,44 +5563,12 @@ sHtml
 \
 ';
 for
-(var
-i
-=
-0,
-j
-=
-0;
-i
-<
-this.bottomRow[0]['length'];
-i++)
-{
-j
-+=
-this.bottomRow[0][i]['name'].length
-+
-(i
->
-0
-?
-1
-:
-0);
+(var i = 0, j = 0; i < this.bottomRow[0]['length']; i++) { j += this.bottomRow[0][i]['name'].length + (i > 0 ? 1 : 0); if (j > 8)
+{ break; }
 if
-(j
->
-8)
-{
-break;
-}
-if
-(i
->
+(i >
 0)
-{
-sHtml
-+=
-'
+{ sHtml += '
 |
 ';
 }
@@ -8218,44 +5590,12 @@ sHtml
 \
 ';
 for
-(var
-i
-=
-0,
-j
-=
-0;
-i
-<
-this.bottomRow[1]['length'];
-i++)
-{
-j
-+=
-this.bottomRow[1][i]['name'].length
-+
-(i
->
-0
-?
-1
-:
-0);
+(var i = 0, j = 0; i < this.bottomRow[1]['length']; i++) { j += this.bottomRow[1][i]['name'].length + (i > 0 ? 1 : 0); if (j > 8)
+{ break; }
 if
-(j
->
-8)
-{
-break;
-}
-if
-(i
->
+(i >
 0)
-{
-sHtml
-+=
-'
+{ sHtml += '
 |
 ';
 }
@@ -8273,10 +5613,7 @@ this.bottomRow[1][i]['name']
 ´ó±¾Óª
 if
 (PassportFocus.dabenying)
-{
-sHtml
-+=
-'
+{ sHtml += '
 ';
 var
 durl
@@ -8291,24 +5628,9 @@ at
 =
 this.cookie['userid'].indexOf("@");
 if
-(at
->
+(at >
 0)
-{
-var
-userdomain
-=
-this.cookie['userid'].substr(at+1);
-if
-(this.domainList.toString().indexOf(userdomain)
-==
--1)
-{
-durl
-=
-"http://login.sogou.com/modify.jsp";
-}
-}
+{ var userdomain = this.cookie['userid'].substr(at+1); if (this.domainList.toString().indexOf(userdomain) == -1) { durl = "http://login.sogou.com/modify.jsp"; } }
 sHtml
 +=
 '
@@ -8331,16 +5653,7 @@ return;
 };
 function
 drawAppInfo(node)
-{
-if
-(PassportFocus.isEnabled())
-{
-//
-ÒÑ»ñµÃ½¹µãÊÚÈ¨
-node.innerHTML
-=
-'\
-\
+{ if (PassportFocus.isEnabled()) { // ÒÑ»ñµÃ½¹µãÊÚÈ¨ node.innerHTML = '\ \ 
 '
 +
 PassportFocus.getNickname()
@@ -8355,11 +5668,7 @@ PassportFocus.getNickname()
 ';
 }
 else
-{
-node.innerHTML
-=
-'\
-\
+{ node.innerHTML = '\ \ 
 ÉĞÎ´¼¤»î£¬ÇëÏÈ¼¤»î½¹µãÕÊ»§
 \
 \
@@ -8961,45 +6270,35 @@ WAP
 ×îĞÂ¸÷ÉçÇøĞ¡×éÍ¨Öª
 (ÒÔÏÂÍ¨ÖªÓÉ¸÷ÉçÇøÍø°æÖ÷·¢²¼)
 [Íò¿ÆÇàÇà¼ÒÔ°]ÇëĞÂ×¢²áµÄ¸÷Î»ÁÚ¾Ó£¬°ÑÄãÃÇµÄ
-11-15[½ğµÚNOLITA]¾Û»á¶¨ÔÚ11ÔÂ17ÈÕÏÂÎç3£º00£¬¾
-11-15
-[½ñµä»¨Ô°¶şÆÚ(¿Õ¼]Í¬Ñ§ÃÇ£º¾­ÃñÖ÷Í¶Æ±£¬ÒÔÑ¹µ¹¶à
-11-15[×Ï¶¼Ñ§Ô·]×îĞÂ¡¶×Ï¶¼Ñ§Ô·¹º·¿ºÏÍ¬¼°¸½¼Ó
-11-15
+11-15[½ğµÚNOLITA]¾Û»á¶¨ÔÚ11ÔÂ17ÈÕÏÂÎç3£º00£¬¾ 11-15
+[½ñµä»¨Ô°¶şÆÚ(¿Õ¼]Í¬Ñ§ÃÇ£º¾­ÃñÖ÷Í¶Æ±£¬ÒÔÑ¹µ¹¶à 11-15[×Ï¶¼Ñ§Ô·]×îĞÂ¡¶×Ï¶¼Ñ§Ô·¹º·¿ºÏÍ¬¼°¸½¼Ó 11-15
 [°²ÄşÎ÷ÀïĞ¡Çø]½ô¼±Í¨Öª£ºÖØĞÂÑé·¿£¡£¡£¡ÏêÇé
-11-15[½»´ó¼ÎÔ°]¸÷Î»¡°ÁÚ¾Ó¡±ÃÇºÃ!A¡¢BÂ¥ÊÕ·¿Ô
-11-15
+11-15[½»´ó¼ÎÔ°]¸÷Î»¡°ÁÚ¾Ó¡±ÃÇºÃ!A¡¢BÂ¥ÊÕ·¿Ô 11-15
 [ĞñÈÕ¼ÎÔ°]×ªÈÃTOTOÌ¨ÏÂÅè£¡£¡Ç°Á½ÌìÍĞÇ×
 11-15[ÃÀÈ»¶¯Á¦½ÖÇø]°ßÖñ¶¯Ô±Áî£º½»·¿µÄÈÕÆÚÔ½À´Ô½
 11-14
 [Ìì´ÍÁ¼Ô°]½ÓÑàÇÈÎïÒµÕÅ×ÜÍ¨Öª£º±¾ÖÜ¼°ÏÂ
 11-14[ĞÂ¿µÔ°]ĞÂ¼ÓÈëµÄÒµÖ÷Çë×¢Òâ£¬Çë°ÑÄãµÄ
 11-13
-[±±¾©ÈË¼Ò£¨ÁúĞËÔ°]±±¾©ÈË¼Ò¸÷Î»ÒµÖ÷£º
-¼øÓÚ¸÷
-11-13[Çàµº¼ÎÔ°]£º£º£º£º£º£º£º£º£º£º£º£º£º£º
-11-13
+[±±¾©ÈË¼Ò£¨ÁúĞËÔ°]±±¾©ÈË¼Ò¸÷Î»ÒµÖ÷£º ¼øÓÚ¸÷ 11-13[Çàµº¼ÎÔ°]£º£º£º£º£º£º£º£º£º£º£º£º£º£º 11-13
 [Óñº£Ô°]davek
 ºÍ
 k2kÕıÔÚÕÒºÏ×â³µµ½Ë«
 11-13[Æì½¢¿­Ğı]ÎªÁËÄÜ¹»¹²½¨ºÍÄÀµÄÉçÇøºÍÓÑÉÆ
 11-13
 [âùÇåÔ°Ğ¡Çø]11ÔÂ17ÈÕ£¨ÖÜÈÕ£©ÒµÖ÷ÁªÒê»áµÄ
-11-13[Ñô¹âĞÂ¸ÉÏß]´ó¼ÒºÃ£¬11ÔÂ2ÈÕµÄ¡¶¼¯»á¼ÍÒª¡
-11-10
+11-13[Ñô¹âĞÂ¸ÉÏß]´ó¼ÒºÃ£¬11ÔÂ2ÈÕµÄ¡¶¼¯»á¼ÍÒª¡ 11-10
 [Ì©È»¾Ó]Èç¹û´ó¼ÒÏ£ÍûÍ¬¿ª·¢ÉÌÃæÌ¸£¬ÎÒ
 11-9[ĞûÒÃ¼ÒÔ°]±¾À´ÒªÔ¼´ó¼ÒÌ¸Ì¸ĞûÒÃµÄÊÂÇé£¬
 11-8
 [°Ù»·»¨Ô°]°Ù»·»¨Ô°ÒµÖ÷ÃÇ£¬ÎÒÒÑ¾­½¨Á¢ÁË
-11-8[½ğµØ.¸ñÁÖĞ¡ÕòÂÛÌ]11ÔÂ9ÈÕ£¨ĞÇÆÚÁù£©ÉÏÎç10£º00£
-11-7
+11-8[½ğµØ.¸ñÁÖĞ¡ÕòÂÛÌ]11ÔÂ9ÈÕ£¨ĞÇÆÚÁù£©ÉÏÎç10£º00£ 11-7
 ±¾ÖÜÉçÇøÍø»ı·ÖÃ÷ĞÇ°ñ
 ÉçÇøÃû³Æ»ı·Ö×ÜÌùÊıÉçÇøÃû³Æ»ı·Ö×ÜÌùÊı
 1.Íò¿ÆÇàÇà
 53614624392.öÎÕ×¼ÑÔ°
 5209397356
-3.½ğµØ.¸ñÁ
-37841192094.Ìì´ÍÁ¼Ô°
+3.½ğµØ.¸ñÁ 37841192094.Ìì´ÍÁ¼Ô°
 29065158682
 5.¹è¹ÈÏÈ·æ
 28221495326.½»´ó¼ÎÔ°
@@ -9014,8 +6313,7 @@ k2kÕıÔÚÕÒºÏ×â³µµ½Ë«
 150656014012.½ñµä»¨Ô°
 1458540525
 13.µ±´ú³ÇÊĞ
-142045503114.ÎÅÌÎÔ·(°
-1350858680
+142045503114.ÎÅÌÎÔ·(° 1350858680
 15.ĞÂ»ªÁª½õ
 110543510516.ÇåÉÏÔ°
 1092712973
@@ -9086,111 +6384,61 @@ k2kÕıÔÚÕÒºÏ×â³µµ½Ë«
 28033034
 ¡ú¸ü¶à(Ç°100Ãû)Ã÷ĞÇ°ñ
 ×îĞÂÂÛÌ³×Ü¾«»ª
-[³ÇÄÏ¼ÎÔ°
-]»Ø¸´:
+[³ÇÄÏ¼ÎÔ° ]»Ø¸´:
 ÁúÌÚ·¿µØ²ú¿ª·¢ÓĞÏŞ
 liwei_8766
-[³ÇÄÏ¼ÎÔ°
-]»Ø¸´:
-8ºÅµÄÖÊÁ¿ÔõÃ´Ñù£¬Ê
-liwei_8766
-[³ÇÄÏ¼ÎÔ°
-]8ºÅµÄÖÊÁ¿ÔõÃ´Ñù£¬ÊÇÄÄÀïµ
+[³ÇÄÏ¼ÎÔ° ]»Ø¸´:
+8ºÅµÄÖÊÁ¿ÔõÃ´Ñù£¬Ê liwei_8766
+[³ÇÄÏ¼ÎÔ° ]8ºÅµÄÖÊÁ¿ÔõÃ´Ñù£¬ÊÇÄÄÀïµ Ò»±­ÄûÃÊÖ­
+[³ÇÄÏ¼ÎÔ° ]ÁúÌÚ·¿µØ²ú¿ª·¢ÓĞÏŞ¹«Ë¾Óë
 Ò»±­ÄûÃÊÖ­
-[³ÇÄÏ¼ÎÔ°
-]ÁúÌÚ·¿µØ²ú¿ª·¢ÓĞÏŞ¹«Ë¾Óë
-Ò»±­ÄûÃÊÖ­
-[³ÇÄÏ¼ÎÔ°
-]ºÃÏñÃ»ÓĞ8ºÅÂ¥Ê²Ã´ÊÂ£¬»á²
-Ò»±­ÄûÃÊÖ­
-[³ÇÄÏ¼ÎÔ°
-]¹ş¹ş£¬ºÃÑ½£¬ÎÒ·Ç³£Ô¸ÒâÓë
+[³ÇÄÏ¼ÎÔ° ]ºÃÏñÃ»ÓĞ8ºÅÂ¥Ê²Ã´ÊÂ£¬»á² Ò»±­ÄûÃÊÖ­
+[³ÇÄÏ¼ÎÔ° ]¹ş¹ş£¬ºÃÑ½£¬ÎÒ·Ç³£Ô¸ÒâÓë
 tracy205
-[³ÇÄÏ¼ÎÔ°
-]Çë²»Çë¶¼Ò»Ñù,ÏÖÔÚ¿ª·¢ÉÌ±
-Dabaige
-[³ÇÄÏ¼ÎÔ°
-]´ó¸ÅĞèÒª¶àÉÙMONEYÑ½£¡
+[³ÇÄÏ¼ÎÔ° ]Çë²»Çë¶¼Ò»Ñù,ÏÖÔÚ¿ª·¢ÉÌ± Dabaige
+[³ÇÄÏ¼ÎÔ° ]´ó¸ÅĞèÒª¶àÉÙMONEYÑ½£¡
 Ò»±­ÄûÃÊÖ­
-[³ÇÄÏ¼ÎÔ°
-]ÎÒ»¹Ã»ÓĞÇ©ºÏÍ¬£¬ÄãÊ²Ã´Ê±
+[³ÇÄÏ¼ÎÔ° ]ÎÒ»¹Ã»ÓĞÇ©ºÏÍ¬£¬ÄãÊ²Ã´Ê±
 Ò»±­ÄûÃÊÖ­
-[×°ĞŞÂÛÌ³
-]ÔóÎ÷×°ĞŞÈÕ¼Ç£¨6£©
+[×°ĞŞÂÛÌ³ ]ÔóÎ÷×°ĞŞÈÕ¼Ç£¨6£©
 ÔóÎ÷
-[³ÇÄÏ¼ÎÔ°
-]»Ø¸´:
+[³ÇÄÏ¼ÎÔ° ]»Ø¸´:
 ÄãÇ©ÁËºÏÍ¬£¬Ö»ÓĞÕÒ
 wying121
-[³ÇÄÏ¼ÎÔ°
-]»Ø¸´:
+[³ÇÄÏ¼ÎÔ° ]»Ø¸´:
 ÇëÎÊÇ©ºÏÍ¬Ê±Ğè²»Ğè
 wying121
-[×°ĞŞÂÛÌ³
-]Ë÷·ÇÑÇ"ÊÂ¼ş"ºóĞøËµÃ÷--¸ø
+[×°ĞŞÂÛÌ³ ]Ë÷·ÇÑÇ"ÊÂ¼ş"ºóĞøËµÃ÷--¸ø
 axiang
-[³ÇÄÏ¼ÎÔ°
-]»Ø¸´:
+[³ÇÄÏ¼ÎÔ° ]»Ø¸´:
 ÇëÎÊÇ©ºÏÍ¬Ê±Ğè²»Ğè
 yuercoli
 ¡ú[¿´¸ü¶à¾«»ªÌù]
 (×¼)ÒµÖ÷ÂÛÌ³±¾ÔÂÈÈÌùÅÅĞĞ°ñ
-[±±¾©°ÂÁÖÆ¥
-]>>>>>=====ÔÙ´ÎÖÊÒÉ°ÂÔ°
+[±±¾©°ÂÁÖÆ¥ ]>>>>>=====ÔÙ´ÎÖÊÒÉ°ÂÔ°
 Ñ°ÕÒÀÖÍÁµÄ
 10274
-[±±¾©°ÂÁÖÆ¥
-]°ÂÔ°£¬Ò»³¡ÄÖ¾ç¾Í¸ÃÊÕ³¡
+[±±¾©°ÂÁÖÆ¥ ]°ÂÔ°£¬Ò»³¡ÄÖ¾ç¾Í¸ÃÊÕ³¡
 °Ë½äËûµù
 4683
-[ÌìÕ×¼ÒÔ°(½
-]±¾°æÒµÖ÷»î¶¯¶şºÅÍ¨Öª£º
-taincheng
-3972
-[ÌìÕ×¼ÒÔ°(½
-]×ªÌù£ºÕæÓĞ±£ÖµµÄ·¿×Ó£¿
-_Xiao
-3428
-[ÌìÕ×¼ÒÔ°(½
-]·¿µØ²úÍ¶×Ê±£³Ö½Ï¿ìËÙ¶È
-taincheng
-3390
-[ÌìÕ×¼ÒÔ°(½
-]±¾°æÒµÖ÷»î¶¯Ò»ºÅÍ¨Öª£º
-taincheng
-3187
-[ÌìÕ×¼ÒÔ°(½
-]¿´¿´ÕæÕıµÄ×¨¼Ò¶Ô·¿µØ²ú
-potoo
-3145
-[±±¾©°ÂÁÖÆ¥
-]ÎÒ¸ÕÁË½âµ½µÄÓĞ¹Ø¡°³¯Ñô
+[ÌìÕ×¼ÒÔ°(½ ]±¾°æÒµÖ÷»î¶¯¶şºÅÍ¨Öª£º taincheng 3972
+[ÌìÕ×¼ÒÔ°(½ ]×ªÌù£ºÕæÓĞ±£ÖµµÄ·¿×Ó£¿ _Xiao 3428
+[ÌìÕ×¼ÒÔ°(½ ]·¿µØ²úÍ¶×Ê±£³Ö½Ï¿ìËÙ¶È taincheng 3390
+[ÌìÕ×¼ÒÔ°(½ ]±¾°æÒµÖ÷»î¶¯Ò»ºÅÍ¨Öª£º taincheng 3187
+[ÌìÕ×¼ÒÔ°(½ ]¿´¿´ÕæÕıµÄ×¨¼Ò¶Ô·¿µØ²ú potoo 3145
+[±±¾©°ÂÁÖÆ¥ ]ÎÒ¸ÕÁË½âµ½µÄÓĞ¹Ø¡°³¯Ñô
 °Ë½äËûµù
 3088
-[öÎÕ×¼ÑÔ°°Ø
-]°ØÁÖ°®ÀÖ£­£­£­£­ÁîÎÒ´ó
+[öÎÕ×¼ÑÔ°°Ø ]°ØÁÖ°®ÀÖ£­£­£­£­ÁîÎÒ´ó
 Éú»î7788
 3043
-[ÌìÕ×¼ÒÔ°(½
-]ĞÂÏûÏ¢£ºÌìÕ×½«ÔÚ±¾ÖÜÁù
-taincheng
-2904
-[°²ÄşÎ÷ÀïĞ¡
-]¹ØÓÚ±±¾©´óÑ§²¿·Ö½ÌÖ°¹¤
+[ÌìÕ×¼ÒÔ°(½ ]ĞÂÏûÏ¢£ºÌìÕ×½«ÔÚ±¾ÖÜÁù taincheng 2904
+[°²ÄşÎ÷ÀïĞ¡ ]¹ØÓÚ±±¾©´óÑ§²¿·Ö½ÌÖ°¹¤
 ¹ı¿ÍÆÀÂÛ
 2805
-[ÌìÕ×¼ÒÔ°(½
-]ÌûÒ»Æª´ó¼Ò¿´À´¿Ï¶¨¾çË¬
-jbgsn
-2746
-[ÌìÕ×¼ÒÔ°(½
-]±±»·Ë®Ïµ×ÛºÏÕûÖÎ¹¤³Ì×ª
-j2ee
-2619
-[ºóÏÖ´ú³Ç
-]ÆÆ½âºóÏÖ´úÆ­¾Ö£¡£¨×ªÌù
-½Ò¶Ì´óÍõ
-2574
+[ÌìÕ×¼ÒÔ°(½ ]ÌûÒ»Æª´ó¼Ò¿´À´¿Ï¶¨¾çË¬ jbgsn 2746
+[ÌìÕ×¼ÒÔ°(½ ]±±»·Ë®Ïµ×ÛºÏÕûÖÎ¹¤³Ì×ª j2ee 2619
+[ºóÏÖ´ú³Ç ]ÆÆ½âºóÏÖ´úÆ­¾Ö£¡£¨×ªÌù ½Ò¶Ì´óÍõ 2574
 Ò»ÖÜÈÈÌùÅÅĞĞ°ñ¡ú[Ò»ÖÜ]
 ¡ú[Ò»ÔÂ]
 ¡ú[ËùÓĞ]
@@ -9244,10 +6492,7 @@ j2ee
 ¾©³ÇÂ¥ÅÌ°ÙÇ¿ÅÅĞĞ°ñ
 ÒÔÏÂÉçÇøÍø³ÏÕ÷°æÖ÷
 ÉçÇøÃû³Æ»ı·Ö×ÜÌùÊıÉçÇøÃû³Æ»ı·Ö×ÜÌùÊı
-ÒÃÔ°(±ÌË®ÔÆÌ
-2974294
-×¯Ê¤¶şÆÚ
-1841155
+ÒÃÔ°(±ÌË®ÔÆÌ 2974294 ×¯Ê¤¶şÆÚ 1841155 
 Ô¶ÑóÌìµØ
 17516527
 Óñ¸·¼ÎÔ°
@@ -9258,16 +6503,12 @@ j2ee
 41973
 Ì«Ñô¹ú¼Ê¹«¹İ
 41369
-´´ÒµÕß¼ÒÔ°(Á
-314123
+´´ÒµÕß¼ÒÔ°(Á 314123 
 ÍòºÍÊÀ¼Ò
 22031
 Â³ÒÕÉÏºÓ´å
 214769
-³ÈÉ«Ê±¹â£¨ÁÁ
-182121
-ÊÀ¼Í½ğÉ«¼ÎÔ°
-169115
+³ÈÉ«Ê±¹â£¨ÁÁ 182121 ÊÀ¼Í½ğÉ«¼ÎÔ° 169115 
 ÊæÖÁ¼ÒÔ°´óÒş
 158229
 Ê±ÉĞ³È±¤
@@ -9278,8 +6519,7 @@ j2ee
 11856
 ¿µÇÅË®¿¤
 11513
-º£êÉÃûÔ·£¨Ê¹
-115151
+º£êÉÃûÔ·£¨Ê¹ 115151 
 Èğº£ĞÂ³Ç
 9868
 Çà´º»ã¹İ
@@ -9321,8 +6561,7 @@ j2ee
 ±±¾©ÍâÃ³¸·Íâ×ÛºÏ
 ¶«·ç¼ÒÔ°
 ³¤´»Ô·
-ÌìÔÏ¸ó(ÌìóÃ»¨Ô°¶
-·¼²İÔ·
+ÌìÔÏ¸ó(ÌìóÃ»¨Ô°¶ ·¼²İÔ· 
 öÎµÂ¼ÎÔ°
 ³¤°²¼ÒÔ°
 µÂĞãĞù
@@ -9332,9 +6571,7 @@ j2ee
 ³¤³ÇÔ·
 ĞÂÍõ¸®(Íõ¸®»¨Ô°)
 ÉÏÁÖÔ·
-×ÏÖñÔ°£¨×ÏÖñÔº×Û
-¾©´ï¹ú¼Ê¹«Ô¢
-ÀöË¹»¨Ô°±ğÊû
+×ÏÖñÔ°£¨×ÏÖñÔº×Û ¾©´ï¹ú¼Ê¹«Ô¢ ÀöË¹»¨Ô°±ğÊû 
 ¾©¶«Àö¾°Ô·
 »ªêÅ¼ÒÔ°
 ·ÉÌÚ¼ÒÔ°
@@ -18681,24 +15918,10 @@ guo_qu
 44.öÎÂí
 35.Ó£ÌÒ66299
 36.¡ú×·ÇóÍêÃÀ
-27.·³²¢¿ìÀÖ×Å(s
-28.alianyy
-29.³¤É³ÊĞ×¨Òµ×°
-110.hcsm
-111.ffkxs
-112.licizhang
-113.±õÖŞÈË
-114.bujia
-015.soulman
-016.ÑïÎåÁù
-017.·Çºì
-018.ÎÒ°®¿É¿¨
-019.yylbbs
-020.hwsun
-0
+27.·³²¢¿ìÀÖ×Å(s 28.alianyy 29.³¤É³ÊĞ×¨Òµ×° 110.hcsm 111.ffkxs 112.licizhang 113.±õÖŞÈË 114.bujia 015.soulman 016.ÑïÎåÁù 017.·Çºì 018.ÎÒ°®¿É¿¨ 019.yylbbs 020.hwsun 0
 ¾Ó¼ÒÊ±ÉĞ¸ü¶à
 ¡¤ĞÂ´ºĞÂÆøÏó
-ËÄ¿îË®¹ûÉ«°çö¦ÄãµÄ¼Ò¾Ó(
+ËÄ¿îË®¹ûÉ«°çö¦ÄãµÄ¼Ò¾Ó( 
 ¡¤ÇéÈË½ÚÖ§ÕĞ:¼Ò¾Ó°çö¦ÌíÀËÂş
 Å¨Å¨°®Òâ
 ¡¤ÇéÈË½Ú¼Ò¾ÓÉè¼Æ
@@ -18715,7 +15938,7 @@ guo_qu
 ¡°ÎÒ°®ÄãÊ¤¹ı»Æ¶¹ºÍ´
 ¡¤ÎÂÜ°Ğ¡ÎÑÃæÃæ¹Û£ºÊ®¶şĞÇ×ùÃÀÅ®µÄ¼Ò¾Ó
 ¡¤Íò±äÃ«½í
-´´Òâ´ºÌì°ãÎÂÜ°ÊæÊÊ¼Ò¾Ó(×é
+´´Òâ´ºÌì°ãÎÂÜ°ÊæÊÊ¼Ò¾Ó(×é 
 ¡¤»ğºìÀËÂşĞÂÄê
 ´¦´¦³äÂúÁËÀËÂşÓëÎÂÜ°µ
 ×°ĞŞ¼ÆËãÆ÷
@@ -21246,7 +18469,7 @@ leiboo
 Æ·ÅÆÖ®¹ıor¾­ÏúÉÌÖ®¹ı£¿
 sarahzj11
 ¡¤
-Í¼Æ¬£ºÌìÊ¹ÓëÔÂ±ıµÄ¶şÊÖ·¿×°ĞŞÈÕ¼Ç02£¨Ñ¡Ôñ
+Í¼Æ¬£ºÌìÊ¹ÓëÔÂ±ıµÄ¶şÊÖ·¿×°ĞŞÈÕ¼Ç02£¨Ñ¡Ôñ 
 ÌìÊ¹ÓëÔÂ±ı
 ¡¤
 Í¼Æ¬£º¡°ÌìÁÚ·ç¾°¡±×°ĞŞ¼Ç£¨¶şÊ®Ò»£©
@@ -21268,8 +18491,7 @@ liuchang
 ÇæÌìÖùan
 [±±¾©]Í¼Æ¬£ºÃÔµüÏãµÄ×°ĞŞÈÕ¼Ç£º¶şÊ®Æß¡ª¡ª¸ñÁ¦¿Õ
 rosemary
-[±±¾©]Í¼Æ¬£ºÌìÊ¹ÓëÔÂ±ıµÄ¶şÊÖ·¿×°ĞŞÈÕ¼Ç02£¨Ñ¡Ôñ
-ÌìÊ¹ÓëÔÂ
+[±±¾©]Í¼Æ¬£ºÌìÊ¹ÓëÔÂ±ıµÄ¶şÊÖ·¿×°ĞŞÈÕ¼Ç02£¨Ñ¡Ôñ ÌìÊ¹ÓëÔÂ
 ¸ü¶à..
 ×°ĞŞ×¨¼­
 ×°ĞŞÈÕ¼Ç
@@ -21328,15 +18550,15 @@ sarahzj1
 ²É¹º
 Ê©¹¤
 [Éè¼Æ]
-Í¼Æ¬£ºÔ­ÖşORµÄ×°ĞŞÈÕ¼Ç£¨Ç°´«
+Í¼Æ¬£ºÔ­ÖşORµÄ×°ĞŞÈÕ¼Ç£¨Ç°´« 
 ³É¶¼
 or_angy
 [Éè¼Æ]
-Í¼Æ¬£ºº£ÄşµÄ¼ÒµÄ×°ĞŞÈÕ¼Ç£¨1£
+Í¼Æ¬£ºº£ÄşµÄ¼ÒµÄ×°ĞŞÈÕ¼Ç£¨1£ 
 ±±¾©
 º£ÄşµÄ¼Ò
 [²É¹º]
-Í¼Æ¬£º¡°ÌìÁÚ·ç¾°¡±×°ĞŞ¼Ç£¨¶ş
+Í¼Æ¬£º¡°ÌìÁÚ·ç¾°¡±×°ĞŞ¼Ç£¨¶ş 
 ÖØÇì
 dy1006
 [²É¹º]
@@ -21382,7 +18604,7 @@ RainyDays
 É¹±»×ÓµÄÃ¨
 Ã°ÅİµÄÆ¿×Ó
 ÆÏÌÑ³ÇÔ°¶¡
-·³²¢¿ìÀÖ×Å(sup
+·³²¢¿ìÀÖ×Å(sup 
 sally208
 äüäü¿ìÀÖ
 Ä¾ÈİéÅ
@@ -21434,7 +18656,7 @@ emanlee
 ¡¤×°ĞŞÈÕ¼Ç(Èı)Á¦¹¤ºÍË®µç
 ¡¤ÎÒÓë½¹µãÈÕ¾ÃÉúÇé
 ¡¤ºÃ¹¤³¤×°ĞŞµÄÈÕ×Ó£¨ËÄ£©
-¡¤CMMµÄ×°ĞŞÈÕÖ¾£¨Ö÷ÒªÕë¶Ô×°Ğ
+¡¤CMMµÄ×°ĞŞÈÕÖ¾£¨Ö÷ÒªÕë¶Ô×°Ğ 
 ¡¤Í¼Æ¬£º´ÓÊ§ÎóÖĞÑ§Ï°¨D¨D÷éÕ½
 ³ø·¿³÷¹ñ
 |
@@ -21458,23 +18680,23 @@ emanlee
 ¡¤Í¼Æ¬£º²Í×À¡¢²ÍÒÎ¡¢²è¼¸ºÍÉ³
 µØ°å´É×©
 |
-¡¤Í¼Æ¬£º¡°ÌìÁÚ·ç¾°¡±×°ĞŞ¼Ç£¨
+¡¤Í¼Æ¬£º¡°ÌìÁÚ·ç¾°¡±×°ĞŞ¼Ç£¨ 
 ¡¤º£ÌìÉ«²ÊµÄ×°ĞŞÈÕ¼ÇµÚ17Æª
 Ä
 ¡¤Í¼Æ¬£ºÎÒµÄ×°ĞŞÈÕ¼Ç¡ªÕıÊ½Æª
 ¡¤ÍëµÄÂò·¿×°ĞŞÈÕ¼Ç(49)
 ¡¤³¬¼¶ÎŞµĞ¹Ú¾ü´É×©µÚÒ»Æª____
-¡¤Í¼Æ¬£º¡°ÌìÁÚ·ç¾°¡±×°ĞŞ¼Ç£¨
-¡¤£ÛĞÜÎÑ×°ĞŞÈÕ¼Ç¡ª¡ªĞ¡·¿Ğ¡×°
+¡¤Í¼Æ¬£º¡°ÌìÁÚ·ç¾°¡±×°ĞŞ¼Ç£¨ 
+¡¤£ÛĞÜÎÑ×°ĞŞÈÕ¼Ç¡ª¡ªĞ¡·¿Ğ¡×° 
 ÎÀÔ¡½à¾ß
 |
-¡¤Í¼Æ¬£º¡°ÌìÁÚ·ç¾°¡±×°ĞŞ¼Ç£¨
+¡¤Í¼Æ¬£º¡°ÌìÁÚ·ç¾°¡±×°ĞŞ¼Ç£¨ 
 ¡¤Í¼Æ¬£ºµÚÊ®ËÄÕÂ
 ¿´ÎÒ×öµõ¶¥£
-¡¤Í¼Æ¬£º¶¹¶¹ÁúµÄ×°ĞŞÈÕ¼Ç£¨¾Å
+¡¤Í¼Æ¬£º¶¹¶¹ÁúµÄ×°ĞŞÈÕ¼Ç£¨¾Å 
 ¡¤Çï¸èµÄ×°ĞŞÈÕ¼Ç¡ª¡ªÌìÅ®É¢²Æ
 ¡¤Í¼Æ¬£ºÎÒµÄÖÜÄ©¿ñ¹ºÎï£¨2£©
-¡¤ôÕ×Ó¸ú´ó¼ÒÑ§×°ĞŞ-(Ç°ÆÚ×¼±¸
+¡¤ôÕ×Ó¸ú´ó¼ÒÑ§×°ĞŞ-(Ç°ÆÚ×¼±¸ 
 ¡¤¶¹¶¹ÁúµÄ×°ĞŞÈÕ¼ÇÁù¡ª¡ªÂò½à
 Î¬È¨Í¶Ëß
 |
@@ -21585,8 +18807,7 @@ sleepcat
 2¡¢ËÀ¿¹×Å
 µÄÈÕ¼Ç
 ±±¾©3286842
-3¡¢ÅíÅí£¨peng
-µÄÈÕ¼Ç
+3¡¢ÅíÅí£¨peng µÄÈÕ¼Ç 
 ±±¾©3248595
 4¡¢ÌìĞ«Ãµ¹å
 µÄÈÕ¼Ç
@@ -21630,8 +18851,7 @@ sleepcat
 17¡¢·¢ÌõèÖ×Ó
 µÄÈÕ¼Ç
 ±±¾©1006083
-18¡¢Á÷¹â·ÉÎè.ö
-µÄÈÕ¼Ç
+18¡¢Á÷¹â·ÉÎè.öµÄÈÕ¼Ç
 ±±¾©964414
 19¡¢»¶Ï²ÂşÌìÑ©
 µÄÈÕ¼Ç
@@ -24179,8 +21399,7 @@ sleepcat
 á°±¦¶ù
 Ë¯Ã¨µÄ°ëÏÉ½²×ù1¡ª¡ªËµËµ¸÷ÖÖ³åÓëÈ±½Ç
 sleepcat
-¼Ò×°³ß´çÊı¾İ¡ª¡ª×°ĞŞÕß±Ø±¸Ö®Á¼Ò©£¨
-sleepcat
+¼Ò×°³ß´çÊı¾İ¡ª¡ª×°ĞŞÕß±Ø±¸Ö®Á¼Ò©£¨ sleepcat
 ¼Ò×°µÚÒ»²½£¬ÁË½â¸÷ÖÖ³ß´ç¡£ÕâĞ©Êı¾İ
 sleepcat
 ±¾ÖÜÈÕ¼ÇÅÅĞĞ
@@ -24194,8 +21413,7 @@ sleepcat
 sarahzj1
 Í¼Æ¬£ºÎÒ¼Ò×°ĞŞÕĞ±êÁË£¬Ï£ÍûÊ¦¸µÃÇ²»Òª
 or_angy
-ÎÒµÄ×°ĞŞÈÕ¼Ç£­¶¨µØ°å£¨¿´æ«æ«TXÑ¡µØ
-ciciyang
+ÎÒµÄ×°ĞŞÈÕ¼Ç£­¶¨µØ°å£¨¿´æ«æ«TXÑ¡µØ ciciyang
 æ«æ«µÄ×°ĞŞÈÕ¼Ç¡¾9¡¿----
 ·ÀË®²ÄÁÏÈç
 sophiach
@@ -24210,12 +21428,10 @@ ciciyang
 a2huo
 henryµÄ×°ĞŞÈÕ¼Ç(Ò»)
 henry827
-CMMµÄ×°ĞŞÈÕÖ¾£¨Ö÷ÒªÕë¶Ô×°ĞŞÖĞĞèÒª×¢
-èÙ×Ó»¨¿ª
+CMMµÄ×°ĞŞÈÕÖ¾£¨Ö÷ÒªÕë¶Ô×°ĞŞÖĞĞèÒª×¢ èÙ×Ó»¨¿ª
 ×îÊÜ»¶Ó­µÄÎÀÉú¼äÍ¼Æ¬
 sleepcat
-ÌıÁËÅóÓÑÃÇµÄÒâ¼û£¬Éè¼Æ³öµÚ¶şÖÖ·½°¸£¨¸½
-a2huo
+ÌıÁËÅóÓÑÃÇµÄÒâ¼û£¬Éè¼Æ³öµÚ¶şÖÖ·½°¸£¨¸½ a2huo
 ·¿×Ó»§ĞÍÓĞµã²î£¬²¼¾ÖÉè¼Æ·³ÄÕÖĞ¡­¡­
 a2huo
 ±¾ÖÜÈÕ¼ÇÅÅĞĞ
@@ -24699,7 +21915,7 @@ WAP
 ¡¤Ö±²¥£ºÖĞ¹ú²ÉÅ¯É¢ÈÈÆ÷ĞĞÒµ·¢Õ¹20ÄêÇìµä
 ²ÉÅ¯ĞĞÒµ×ÊÑ¶
 ¡¤´òÆÆ¶¬¼¾Æàº®
-ÎÂÅ¯±ÚÂ¯ÇéÈ¤µã×º±±·½º®¶¬(×éÍ¼
+ÎÂÅ¯±ÚÂ¯ÇéÈ¤µã×º±±·½º®¶¬(×éÍ¼ 
 ¡¤´ó»°²ÉÅ¯Òµ:½ÚÄÜ
 »·±£
 °²È«
@@ -24791,7 +22007,7 @@ WAP
 Æ·ÅÆÃû³Æ:ÒâÉ¯ÆÕÉ¢ÈÈÆ÷
 ²úÆ·:¸ÖÖÆÉ¢ÈÈÆ÷
 Í­ÂÁ¸´ºÏÉ¢ÈÈÆ÷
-³§¼Ò:ÒâÉ¯ÆÕ.½ğÌ©¸ñÉ¢ÈÈÆ÷(±±¾©
+³§¼Ò:ÒâÉ¯ÆÕ.½ğÌ©¸ñÉ¢ÈÈÆ÷(±±¾© 
 ¡¤ÄúºÃ£º±¨¼ÛÒÑ¾­·¢ÖÁÄúµÄÓÊÏä£¬¾´Çë²éÊÕ£¬ÓĞÊ²
 ¡¤¸ø·¢¸öÒâÉ¯ÆÕÉ¢ÈÈÆ÷µÄ±¨¼Û°É
 Æ·ÅÆÃû³Æ:É­µÂÉ¢ÈÈÆ÷
@@ -25067,8 +22283,7 @@ PVCÄ£Ñ¹ÎüËÜÃÅ°å
 Èğ¸ó³÷¹ñ
 ¡¤Í¼Æ¬£ºĞÂÄêĞÂÆøÏó£¬ĞÂ·¿ĞÂ¼Ò×°£¬20
 Ò¶ÉÏÂ¶Ë®
-¡¤08ÄêÊĞ³¡ĞĞÇé·ÖÎö£¨Ä«Ë®ÓĞÏŞ£¬½ö¹©
-Í¼ÌÚ±¦¼Ñ
+¡¤08ÄêÊĞ³¡ĞĞÇé·ÖÎö£¨Ä«Ë®ÓĞÏŞ£¬½ö¹© Í¼ÌÚ±¦¼Ñ
 ¡¤¸÷Î»TXÇë×¢Òâ£¬ÎÒµÄÁªÏµ·½Ê½£¬QQ:6
 Í¼ÌÚ±¦¼Ñ
 ¡¤¹Ø¹ØµÄ×°ĞŞÈÕ¼ÇµÚ¶şÊ®Æª----Ã÷ĞÇ¾ç
@@ -25086,10 +22301,8 @@ PVCÄ£Ñ¹ÎüËÜÃÅ°å
 ¡¤ÀÏ×Ü·ÃÌ¸£º¿µ½àÍõÕ¼¸®Ì¸¼¯³É¼Ò¾ÓÏÖ×´ºÍÎ´À´Í¼¾°
 ¸ü¶à..
 ĞĞÒµ¶¯Ì¬
-¡¤»ªµÛ×Ü¾­ÀíÁÎºÆ¶«:³÷¹ñÒµÈÔÔÚÇøÓòÆ·ÅÆ»ìÕ½½×¶
-ÆîĞËìÇ
-¡¤Ö±²¥:2007ÖĞ¹ú³÷¹ñĞĞÒµÄê»áôßÓÅĞãÆ·ÅÆ±íÕÃ´ó»
-ĞìÁÕ
+¡¤»ªµÛ×Ü¾­ÀíÁÎºÆ¶«:³÷¹ñÒµÈÔÔÚÇøÓòÆ·ÅÆ»ìÕ½½×¶ÆîĞËìÇ
+¡¤Ö±²¥:2007ÖĞ¹ú³÷¹ñĞĞÒµÄê»áôßÓÅĞãÆ·ÅÆ±íÕÃ´ó»ĞìÁÕ
 ¡¤³ø¹ñÍâ¹ÛÉè¼ÆÊÜ×¨Àû±£»¤
 ÆÀÂÛ½¹µãÊ¯
 ¡¤2007Äê"ÖĞ¹ú³øÎÀĞĞÒµ°ÙÇ¿ÆóÒµ"ÆÀ¼ÛÍÆ½é»î¶¯¿ª
@@ -25098,8 +22311,7 @@ PVCÄ£Ñ¹ÎüËÜÃÅ°å
 Æ·ÅÆ¾ºÕù»¹ºÜ²»³ä·Ö
 ¡¤Ö¾°îÃÀ¾ÆÀñ´ıËÄ·½±öÅóÈıÌì
 Ê¢ÑçÕğº³ºÏ·ÊÊĞ³¡
-¡¤½¹µãÖ±²¥£º²©ÂåÄá07³ø·¿ºÀ»ªÅäÖÃĞÂÆ··¢²¼»á(Í
-²Ìîá
+¡¤½¹µãÖ±²¥£º²©ÂåÄá07³ø·¿ºÀ»ªÅäÖÃĞÂÆ··¢²¼»á(Í²Ìîá 
 ¡¤¼ÒÍ¥×°ĞŞ³÷¹ñÏÈĞĞ
 Èı´óÀàÌ¨Ãæ²ÄÁÏÓÅÁÓÏêÏ¸½âÎ
 ¡¤ÄÏ¾©³÷Æóµ­¿´"½ğ¾ÅÒøÊ®"
@@ -25110,36 +22322,35 @@ PVCÄ£Ñ¹ÎüËÜÃÅ°å
 ºúĞñ
 ¡¤×ß½øÄÏ¾©Æ·ÅÆ³÷¹ñ,ÇãÌıËûÃÇµÄ»Æ½ğÖÜÉúÒâ¾­
 ºúĞñ
-¡¤ÈÃÄĞÈË°®ÉÏ³ø·¿,³Â±¦¹úÔÚÆ¤°¢ÅµÉÏÑİºÃÄĞÈË(Í¼
-Ñî¶¬Áè
+¡¤ÈÃÄĞÈË°®ÉÏ³ø·¿,³Â±¦¹úÔÚÆ¤°¢ÅµÉÏÑİºÃÄĞÈË(Í¼ Ñî¶¬Áè 
 [¸ü¶à...]
 ³÷¹ñĞĞÒµ×ÊÑ¶
 ¡¤É«²ÊÕÃÏÔ³ø·¿¸öĞÔ
 ÒòµØÖÆÒËÍæ×ª³ø·¿£¨Í¼£©
 ¡¤É«²ÊçÍ·×µÄ²ÍÅÌ²Ê»æ
-ÔÚ²Í×ÀÉÏÃÔÊ§ÄãµÄÎ¶¾õ(
+ÔÚ²Í×ÀÉÏÃÔÊ§ÄãµÄÎ¶¾õ( 
 ¡¤²»¶ÏÍÆ³Â³öĞÂ
 2008Äê³ø·¿¼Ò¾Ó·¢Õ¹ËÄ´óÇ÷ÊÆÔ
 ¡¤´òÔìÓÄÑÅ³ø·¿
-Îª¼ÒÍ¥Éú»îÌí¼ÓÓÄÑÅÇéĞ÷(Í¼ÎÄ
+Îª¼ÒÍ¥Éú»îÌí¼ÓÓÄÑÅÇéĞ÷(Í¼ÎÄ 
 ¡¤Î÷·½·ç¸ñ¶«·½ÉñÔÏ
-ÈÃÄãµÄÌïÔ°²Í×ÀÒ²¹şº«(×é
+ÈÃÄãµÄÌïÔ°²Í×ÀÒ²¹şº«(×é 
 ¡¤×îĞÂÁ÷ĞĞ²Íµæ
-ÎªÄã²Í×ÀÔöÌíÅ¨ÓôÒìÓò·çÇé(×é
+ÎªÄã²Í×ÀÔöÌíÅ¨ÓôÒìÓò·çÇé(×é 
 ¡¤Å·Ê½¹¬Í¢µäÑÅ²Í¾ß
-¸ø¼Ò´øÀ´¸ü¶àÏ¸Äå¸Ğ(¶àÍ¼
+¸ø¼Ò´øÀ´¸ü¶àÏ¸Äå¸Ğ(¶àÍ¼ 
 ¡¤Ï¸ĞÄ°²ÅÅÊ®¶ş·ÖÀûÓÃ
-´òÔìÊæÊÊÇ¡ÒâµÄ³ø·¿(×é
+´òÔìÊæÊÊÇ¡ÒâµÄ³ø·¿(×é 
 ¡¤Ï¸ĞÄ°²ÅÅ
 ¼òµ¥Ğ¡¼¼ÇÉÈÃ¼ÒÖĞµÄĞ¡³ø·¿Èİ¹â»À·
 ¡¤¡°ÃÀÑŞ¶¯ÈË¡±¾«ÖÂ²Í¾ß
-ÎªÄú¼Ò²Í×ÀÌíÀÖ(×éÍ¼
+ÎªÄú¼Ò²Í×ÀÌíÀÖ(×éÍ¼ 
 ¡¤ÍøÓÑ×Ô¼ºÉè¼Æ
 ³äÂúÏëÏóÁ¦µÄ¸öĞÔ²ÍÌü´òÔì·½°
 ¡¤7¿î¾«ÖÂ²ÍÌüÉè¼Æ
-½«Ï¸ĞÄÌå»áÈ÷ÂäÔÚ²Í×ÀÖĞ(
+½«Ï¸ĞÄÌå»áÈ÷ÂäÔÚ²Í×ÀÖĞ( 
 ¡¤ÎªÖ÷¸¾½âÓÇ
-³ø·¿ËÄ´óÃûµ©ÇÉ¡°Ï´Á³¡±ÃØ·½(×é
+³ø·¿ËÄ´óÃûµ©ÇÉ¡°Ï´Á³¡±ÃØ·½(×é 
 [¸ü¶à...]
 ³÷¹ñÍ¼Æ¬ĞÀÉÍ
 ¸ü¶à..
@@ -25442,8 +22653,7 @@ WAP
 ÈÃÏíÊÜÎŞ´¦²»ÔÚÂíÍ¬É½
 ¡¤
 Í¼Æ¬£ºÁéÊóºØËêÌù
-(
-×é»­)¶şÀ´À´
+( ×é»­)¶şÀ´À´
 ¡¤
 Í¼Æ¬£ºÈË³±Ó¿¶¯¹äµØÌ³Ãí»áÀ¶º£ÓæÎÌ
 ´É×©ÎÀÔ¡ÂÛÌ³¾«»ªÌù
@@ -25539,13 +22749,11 @@ TOTO
 22ÈÕ
 ¡¤»İ´ïÉòÑô¾­ÀíËï±¦Óñ£ºÓÚÏ¸Î¢Ö®´¦ÕÃÏÔÆ·ÅÆÊµ
 22ÈÕ
-¡¤Í¼Æ¬:·¨¶÷É¯ÎÀÔ¡Ğ»½¹µã¼Ò¾ÓÍøËêÄ©³é´ó½
-ÆÀÂÛ
+¡¤Í¼Æ¬:·¨¶÷É¯ÎÀÔ¡Ğ»½¹µã¼Ò¾ÓÍøËêÄ©³é´ó½ÆÀÂÛ
 21ÈÕ
 ¡¤¶«Åô´ÉÆ¬ĞÂ¿î
 ÌáÇ°µãÈ¼ÈÈÏú¡ª¡ª
-ÇïÖ®×ÔÈ»(Í
-21ÈÕ
+ÇïÖ®×ÔÈ»(Í 21ÈÕ
 ¡¤ÌÕ´ÉÒµÖªÃûÆó·×·×ÁÁ½£³öÕĞ
 Ó­½Ó°ÂÔËÄêĞÂÌôÕ
 17ÈÕ
@@ -26010,8 +23218,7 @@ WAP
 ¸ü¶à...
 ¡¤
 Í¼Æ¬£ºÁéÊóºØËêÌù
-(
-×é»­)¶şÀ´À´
+( ×é»­)¶şÀ´À´
 ¡¤
 Í¼Æ¬£ºÈË³±Ó¿¶¯¹äµØÌ³Ãí»áÀ¶º£ÓæÎÌ
 ¡¤
@@ -26111,13 +23318,11 @@ TOTO
 22ÈÕ
 ¡¤»İ´ïÉòÑô¾­ÀíËï±¦Óñ£ºÓÚÏ¸Î¢Ö®´¦ÕÃÏÔÆ·ÅÆÊµ
 22ÈÕ
-¡¤Í¼Æ¬:·¨¶÷É¯ÎÀÔ¡Ğ»½¹µã¼Ò¾ÓÍøËêÄ©³é´ó½
-ÆÀÂÛ
+¡¤Í¼Æ¬:·¨¶÷É¯ÎÀÔ¡Ğ»½¹µã¼Ò¾ÓÍøËêÄ©³é´ó½ÆÀÂÛ
 21ÈÕ
 ¡¤¶«Åô´ÉÆ¬ĞÂ¿î
 ÌáÇ°µãÈ¼ÈÈÏú¡ª¡ª
-ÇïÖ®×ÔÈ»(Í
-21ÈÕ
+ÇïÖ®×ÔÈ»(Í 21ÈÕ
 ¡¤ÌÕ´ÉÒµÖªÃûÆó·×·×ÁÁ½£³öÕĞ
 Ó­½Ó°ÂÔËÄêĞÂÌôÕ
 17ÈÕ
@@ -26316,8 +23521,7 @@ TOTO
 ÅÅĞĞ°ñ
 [¶şÀ´À´]
 Í¼Æ¬£ºÁéÊóºØËêÌù
-(
-×é»­)
+( ×é»­)
 [À¶º£ÓæÎÌ]
 Í¼Æ¬£ºÈË³±Ó¿¶¯¹äµØÌ³Ãí»á
 [¶şÀ´À´]
@@ -26697,9 +23901,7 @@ johnna11
 Áâ¸ñÊ÷Ñ¾
 821
 ¡¤[ÎÄ¼¯]ÆÌµØ°åÒ»²¨ËÄÕÛ
-ºÃ·şÎñºÃÊÂ¶àÄ¥(
-Èğ¼Î¿Í·ş
-776
+ºÃ·şÎñºÃÊÂ¶àÄ¥( Èğ¼Î¿Í·ş 776
 ¾«²Ê×¨Ìâ¸ü¶à
 ¡¤µØ°åÖªÊ¶´ó½²ÌÃ
 ¡¤2007ÖĞ¹ú¡¤ÉòÑôµØ°å¹ú¼Ê²©ÀÀ»á
@@ -27280,8 +24482,7 @@ WAP
 ¸ü¶à...
 ¡¤
 Í¼Æ¬£ºÁéÊóºØËêÌù
-(
-×é»­)¶şÀ´À´
+( ×é»­)¶şÀ´À´
 ¡¤
 Í¼Æ¬£ºÈË³±Ó¿¶¯¹äµØÌ³Ãí»áÀ¶º£ÓæÎÌ
 ¡¤
@@ -27381,13 +24582,11 @@ TOTO
 22ÈÕ
 ¡¤»İ´ïÉòÑô¾­ÀíËï±¦Óñ£ºÓÚÏ¸Î¢Ö®´¦ÕÃÏÔÆ·ÅÆÊµ
 22ÈÕ
-¡¤Í¼Æ¬:·¨¶÷É¯ÎÀÔ¡Ğ»½¹µã¼Ò¾ÓÍøËêÄ©³é´ó½
-ÆÀÂÛ
+¡¤Í¼Æ¬:·¨¶÷É¯ÎÀÔ¡Ğ»½¹µã¼Ò¾ÓÍøËêÄ©³é´ó½ÆÀÂÛ
 21ÈÕ
 ¡¤¶«Åô´ÉÆ¬ĞÂ¿î
 ÌáÇ°µãÈ¼ÈÈÏú¡ª¡ª
-ÇïÖ®×ÔÈ»(Í
-21ÈÕ
+ÇïÖ®×ÔÈ»(Í 21ÈÕ
 ¡¤ÌÕ´ÉÒµÖªÃûÆó·×·×ÁÁ½£³öÕĞ
 Ó­½Ó°ÂÔËÄêĞÂÌôÕ
 17ÈÕ
@@ -27585,8 +24784,7 @@ TOTO
 ÅÅĞĞ°ñ
 [¶şÀ´À´]
 Í¼Æ¬£ºÁéÊóºØËêÌù
-(
-×é»­)
+( ×é»­)
 [À¶º£ÓæÎÌ]
 Í¼Æ¬£ºÈË³±Ó¿¶¯¹äµØÌ³Ãí»á
 [ÕÅÑ§Ö®]
@@ -27913,16 +25111,16 @@ bj082884
 ¸ü¶à>>
 ¡¤10¿îÄĞÈËÏ²»¶µÄÒÂ³÷£¨Í¼£©
 ¡¤ÇéÂÂ²Í×ÀÏíÀËÂş¶şÈËÊÀ½ç£¨Í¼£©
-¡¤ÊÀ½ç¸÷µØËÑÂŞ³öÀ´µÄÊ®¿î×î¹îÒìÒÎ×Ó£¨×éÍ¼
+¡¤ÊÀ½ç¸÷µØËÑÂŞ³öÀ´µÄÊ®¿î×î¹îÒìÒÎ×Ó£¨×éÍ¼ 
 ¡¤300%Î÷°àÑÀ¼Ò¾ÓÉè¼Æ
-ÃÀÀöÊµÓÃĞÂÓ±´óµ¨£¨
-¡¤08¿ÆÂ¡¹ú¼Ê¼Ò¾ßÕ¹×îĞÂ¿îÊ±ÉĞÒÎĞÂÏÊ³öÂ¯£¨
+ÃÀÀöÊµÓÃĞÂÓ±´óµ¨£¨ 
+¡¤08¿ÆÂ¡¹ú¼Ê¼Ò¾ßÕ¹×îĞÂ¿îÊ±ÉĞÒÎĞÂÏÊ³öÂ¯£¨ 
 ´²Æ·¡¤²¼ÒÕ
 ¸ü¶à>>
 ¡¤kenzoĞÂ¿îÈáÃÀÎÔÊÒ´²Æ·
-ÇåĞÂÊæÊÊÑÅÖÂåüÃÄ(Í
+ÇåĞÂÊæÊÊÑÅÖÂåüÃÄ(Í 
 ¡¤»¨µÄº£Ñó
-åüÃÄÆøÖÊ´òÔìÊ±ÉĞÀËÂş¼Ò´²Æ·(×éÍ¼
+åüÃÄÆøÖÊ´òÔìÊ±ÉĞÀËÂş¼Ò´²Æ·(×éÍ¼ 
 ¡¤Ğ¡´²µæ´óÑ§ÎÊ
 Ğ¡ÇÏÃÅÌôÑ¡ÓĞÖúË¯ÃßµÄ´²µæ
 ¡¤ĞÂÂò´²µæ¾¹ÊÇºóÄêÉú²ú
@@ -28335,8 +25533,7 @@ TCLÕÕÃ÷µÄ²úÆ·²»´í£¬±ÈµçÊÓÇ¿£¡
 21ÈÕ
 ¡¤ÖĞÍâÕÕÃ÷Òµ¾ŞÍ·Î§ÈÆÂÌÉ«½ÚÄÜÖ÷ÌâÆ´ÇÀ°ÂÔËÊĞ
 15ÈÕ
-¡¤×¨·Ã£ºÈıĞÛ¼«¹â×°ÊÎ²úÆ·ÏîÄ¿²¿¾­ÀíÀîÖÇÅô£¨
-11ÈÕ
+¡¤×¨·Ã£ºÈıĞÛ¼«¹â×°ÊÎ²úÆ·ÏîÄ¿²¿¾­ÀíÀîÖÇÅô£¨  11ÈÕ
 ¡¤×¨·Ã£ºÖĞÉ½ÊĞÒÁÊ«°îÕÕÃ÷ÓĞÏŞ¹«Ë¾¸±×Ü¾­ÀíĞ»
 11ÈÕ
 [¸ü¶à...]
@@ -28708,17 +25905,13 @@ RSS
 ÎÀÔ¡
 ¼Ò¾ß
 ¸ü¶à
-¡¤RainyDaysµÄ×°ĞŞÈÕ¼Ç¡¤·³²¢¿ìÀÖ×ÅµÄ×°ĞŞÈÕ¼Ç¡¤sally208µÄ×°ĞŞÈÕ¼Ç¡¤Ä¾ÈİéÅµÄ×°ĞŞÈÕ¼Ç[ÎªÊ²Ã´Òª
-]
+¡¤RainyDaysµÄ×°ĞŞÈÕ¼Ç¡¤·³²¢¿ìÀÖ×ÅµÄ×°ĞŞÈÕ¼Ç¡¤sally208µÄ×°ĞŞÈÕ¼Ç¡¤Ä¾ÈİéÅµÄ×°ĞŞÈÕ¼Ç[ÎªÊ²Ã´Òª ]
 Í¼Æ¬£º×°ĞŞÈÕ¼ÇÖ®µÆ¾ßÆª£­£­£­ÕÅµÆ½á
-[kemans
-]
+[kemans ]
 Í¼Æ¬£ºKEÌìÌÃÖ®Â·£ºËÀÁË¶¼ÒªŞß£¡¼ÌĞø
-[ÃÀÅ®Ã¨ß÷
-]
+[ÃÀÅ®Ã¨ß÷ ]
 Í¼Æ¬£ºÃ¨¹·µÄÃşºÚ×°ĞŞÈÕ¼Ç--NO.33½ø¼
-[leiboo
-]
+[leiboo ]
 Ñ¡Ôñ¹«Ë¾£¬²¹µÚÒ»ÆªÃ»´«ºÃ
 ¼Ò¾Ó²©¿Í¼Ò¾Ó¼øÉÍ
 ×°ĞŞ
@@ -28759,29 +25952,23 @@ liuchang
 ÄşÄşµÄº£
 ¡¤Í¼Æ¬£ºÕıÔÂ³õÎå³Ô½È×Ó£¬¸ø´ó¼Ò°İ¸öÍíÄê¡£Ë³±ãÂ¶
 aëøÍõ¸ó
-[Ìì½ò×°ĞŞ
-]
+[Ìì½ò×°ĞŞ ]
 Í¼Æ¬£º×°ĞŞÈÕ¼ÇÖ®µÆ¾ßÆª£­£­£­ÕÅµÆ½á
 ÎªÊ²Ã´Òª
-[ÉÏº£×°ĞŞ
-]
+[ÉÏº£×°ĞŞ ]
 Í¼Æ¬£ººÀ»ª±ğÖÂ÷È»ó·Ç³£
 9¿îÏÖ´úÅÉ»§
 Ğ¡ÏÍÀ´ÁË
-[¹ãÖİ×°ĞŞ
-]
+[¹ãÖİ×°ĞŞ ]
 Í¼Æ¬£ºÖíÖíºÍÑ¾Ñ¾µÄĞÒ¸£Ğ¡ÎÑ¿ª×°À²~~
 xiaoxi40
-[ÉîÛÚ×°ĞŞ
-]
+[ÉîÛÚ×°ĞŞ ]
 Í¼Æ¬£ºĞ¡»§ĞÍ¿Õ¼äÇÉÃîÀûÓÃµÄ¼Ò¾ÓÃÀÍ¼
 ·ÇÖøÃûËé
-[ÄÏ¾©×°ĞŞ
-]
+[ÄÏ¾©×°ĞŞ ]
 ¡¶Ê±´ú¡·ÖÜ¿¯¾µÍ·ÏÂµÄÖĞ¹ú´óÑ©ÔÖ
 É½»êÖ®ĞÄ
-[ÖØÇì×°ĞŞ
-]
+[ÖØÇì×°ĞŞ ]
 Í¼Æ¬£ºÃæ³¯´óº££¬´ºÅ¯»¨¿ª¡£2ÊÒ2Ìü1Î
 Å·ÒËÉ³·¢
 ×°ĞŞÂÛÌ³4ÈÕÅÅĞĞ
@@ -28793,9 +25980,7 @@ lkt07
 µ¥Éí¹ó×å¡ª´óÃÀÅ®µÄ¼Ò~~~
 sophic05
 3001
-Í¼Æ¬£ºÖíÖíºÍÑ¾Ñ¾µÄĞÒ¸£Ğ¡ÎÑ¿ª×°À²~~~(
-xiaoxi40
-2048
+Í¼Æ¬£ºÖíÖíºÍÑ¾Ñ¾µÄĞÒ¸£Ğ¡ÎÑ¿ª×°À²~~~(  xiaoxi40  2048
 4.·¢Ò»Ğ©´ÓÀ´Ã»·¢¹ıµÄ¼Ò¾ßÍ¼Æ¬
 august11
 1337
@@ -28891,8 +26076,7 @@ shanrenx
 ¡¤Í¼Æ¬£ºÒ»Ğ©ºÃµÄ¼ÒÊÎÍ¼Æ¬ĞÀÉÍ,
 ÊÇ×Ô¼ºÊÕ¼¯µÄ
 shanrenx
-¡¤Í¼Æ¬£ºĞÂ¶«·½Ö÷Òå·ç¸ñÏÂµÄÖĞÊ½ÏÖ´úÉú»î£¨Ïô
-µã»÷Õæ³Ï
+¡¤Í¼Æ¬£ºĞÂ¶«·½Ö÷Òå·ç¸ñÏÂµÄÖĞÊ½ÏÖ´úÉú»î£¨Ïô µã»÷Õæ³Ï
 ¡¤Í¼Æ¬£ºÉè¼ÆÂÛÌ³Éè¼Æ»î¶¯µÚ166ÆÚ
 ***
 ÂŞÅÌÉè
@@ -28981,8 +26165,7 @@ shanrenx
 0270
 ,½¹µãÓÅ»İ¼Û:266.0Ôª
 [½ñÈÕÌØ¼Û]
-ÒâÉ¯ÆÕ-ÎÌ´ïÏµÁ
-,½¹µãÓÅ»İ¼Û:564.3Ôª
+ÒâÉ¯ÆÕ-ÎÌ´ïÏµÁ,½¹µãÓÅ»İ¼Û:564.3Ôª
 [¼¯²ÉÂÛÌ³]
 Ì¸Ì¸¼Ò¾Ó½¨²ÄĞĞÒµ¡°ÍøÂçÓªÏú¡±µÄ»·¾³
 _ÀÏ¹Ø_
@@ -29010,7 +26193,7 @@ _ÀÏ¹Ø_
 ±ğÓĞÎ¶µÀµÄ¹ÅÑÅÇéÈ¤(Í¼ÎÄ)
 [³±Á÷×ÊÑ¶]
 ÊæÊÊ»·±£×ÔÈ»
-08¸öĞÔÎÀÔ¡¿Õ¼äÉè¼Æ³±Á÷¶ÏÏë(Í¼
+08¸öĞÔÎÀÔ¡¿Õ¼äÉè¼Æ³±Á÷¶ÏÏë(Í¼ 
 [ÂÛÌ³¾«»ª]
 Í¼Æ¬£º»İ´ï¼¯ÍÅ
 ×£¸÷Î»ÍøÓÑ
@@ -29044,7 +26227,7 @@ _ÀÏ¹Ø_
 ÒòµØÖÆÒËÍæ×ª³ø·¿£¨Í¼£©
 [³±Á÷×ÊÑ¶]
 É«²ÊçÍ·×µÄ²ÍÅÌ²Ê»æ
-ÔÚ²Í×ÀÉÏÃÔÊ§ÄãµÄÎ¶¾õ(Í¼
+ÔÚ²Í×ÀÉÏÃÔÊ§ÄãµÄÎ¶¾õ(Í¼ 
 [ÂÛÌ³¾«»ª]
 Í¼Æ¬£º2008ÄêÁìĞäĞÂ¹è¹ÈÒµÖ÷×ÉÑ¯»áµÚ
 ÔÂ¹â°×
@@ -29118,7 +26301,7 @@ TCLÕÕÃ÷µÄ²úÆ·²»´í£¬±ÈµçÊÓÇ¿£¡
 ¡¤É­µÂÉ¢ÈÈÆ÷
 [³±Á÷×ÊÑ¶]
 ´òÆÆ¶¬¼¾Æàº®
-ÎÂÅ¯±ÚÂ¯ÇéÈ¤µã×º±±·½º®¶¬(×éÍ¼
+ÎÂÅ¯±ÚÂ¯ÇéÈ¤µã×º±±·½º®¶¬(×éÍ¼ 
 [³±Á÷×ÊÑ¶]
 ´ó»°²ÉÅ¯Òµ:½ÚÄÜ
 »·±£
@@ -29218,8 +26401,7 @@ DESIGNµÄ×÷Æ·¡­¡­>>
 Í¼Æ¬£ºÖÜĞÇ³Û£º¡°Ğ¡ÈËÎïµÄ·Ü¶·¹ÊÊÂÓÀÔ¶×î¸Ğ
 ÒµÄÚÂÛÌ³¸ü¶à
 ¡¤
-¼Ò×°ÆóÒµ-----£¢¶«Ò×ÈÕÊ¢£¢µÄÃÀÃÎ£¡£¨Á¬ÔØ
-×°ÊÎ¿ìÊÖ
+¼Ò×°ÆóÒµ-----£¢¶«Ò×ÈÕÊ¢£¢µÄÃÀÃÎ£¡£¨Á¬ÔØ ×°ÊÎ¿ìÊÖ
 ¡¤
 ÈÈµãÌÖÂÛ£º¼Ò×°¹«Ë¾¿ªÌåÑé¹İÊÇ·ñ³ÉÎªÎ´À´
 Ä°ÉÏÜ·Ü·
@@ -29227,8 +26409,7 @@ DESIGNµÄ×÷Æ·¡­¡­>>
 ¡ñ¼¯Ìå´º½Ú¿ñ»¶£¡ĞÄÀï»°´óÆØ¹â£¬ÄãÎÒ¶¼À´Ëµ
 í¹×Óºú
 ¡¤
-¼Ò×°ÆóÒµ-----£¢¶«Ò×ÈÕÊ¢£¢µÄÃÀÃÎ£¡£¨Á¬ÔØ
-×°ÊÎ¿ìÊÖ
+¼Ò×°ÆóÒµ-----£¢¶«Ò×ÈÕÊ¢£¢µÄÃÀÃÎ£¡£¨Á¬ÔØ ×°ÊÎ¿ìÊÖ
 -->
 ¼Ò¾Ó²©¿ÍÈ¦¸ü¶à
 ¡¤ÖĞ¹úÊÒÄÚÉè¼ÆÊ¦
@@ -29318,8 +26499,7 @@ DESIGNµÄ×÷Æ·¡­¡­>>
 ´º½ÚºóµÚÒ»³¡µÚÎåÊ®
 ¡¶¹¤³¤¾ã
 [¼Ò¾Ó·çË®]
-ÃûÈËĞÕÃû¼øÉÍ~Ã«Ôó¶«(×ªÕªÇë±êÃ÷
-Ò»Ôµ£¨BJ
+ÃûÈËĞÕÃû¼øÉÍ~Ã«Ôó¶«(×ªÕªÇë±êÃ÷ Ò»Ôµ£¨BJ
 [¼Ò¾Ó·çË®]
 ĞÕÃûÉè¼Æ·½°¸£¬·¢Ò»×é£¬¹©´ó¼ÒĞÀ
 Ò»Ôµ£¨BJ
@@ -29915,8 +27095,7 @@ WAP
 ÂûÂûÇàÂÜ
 ´óÁ¬×°ĞŞÂÛÌ³7ÈÕÈÈÌùÅÅĞĞ¸ü¶à
 1.ÎŞ·¨¸´ÖÆµÄ×°ĞŞ
-É¹É¹¼¸¿îDIY×åµÄÊÖ»æÇ½Ãæ(Í
-ÌìÁÉµØÄş
+É¹É¹¼¸¿îDIY×åµÄÊÖ»æÇ½Ãæ(Í ÌìÁÉµØÄş  
 2.Í¼Æ¬£º¹§×£ĞÂÄê¿ìÀÖ!!!
 ¶¼ÊĞË®µç
 3.¸ø´ó¼Ò°İÄêÁË!!
@@ -30077,7 +27256,7 @@ DANUBEÀÏ
 0
 ¾Ó¼ÒÊ±ÉĞ¸ü¶à
 ¡¤ĞÂ´ºĞÂÆøÏó
-ËÄ¿îË®¹ûÉ«°çö¦ÄãµÄ¼Ò¾Ó(
+ËÄ¿îË®¹ûÉ«°çö¦ÄãµÄ¼Ò¾Ó( 
 ¡¤ÇéÈË½ÚÖ§ÕĞ:¼Ò¾Ó°çö¦ÌíÀËÂş
 Å¨Å¨°®Òâ
 ¡¤ÇéÈË½Ú¼Ò¾ÓÉè¼Æ
@@ -30094,7 +27273,7 @@ DANUBEÀÏ
 ¡°ÎÒ°®ÄãÊ¤¹ı»Æ¶¹ºÍ´
 ¡¤ÎÂÜ°Ğ¡ÎÑÃæÃæ¹Û£ºÊ®¶şĞÇ×ùÃÀÅ®µÄ¼Ò¾Ó
 ¡¤Íò±äÃ«½í
-´´Òâ´ºÌì°ãÎÂÜ°ÊæÊÊ¼Ò¾Ó(×é
+´´Òâ´ºÌì°ãÎÂÜ°ÊæÊÊ¼Ò¾Ó(×é 
 ¡¤»ğºìÀËÂşĞÂÄê
 ´¦´¦³äÂúÁËÀËÂşÓëÎÂÜ°µ
 ×°ĞŞ¼ÆËãÆ÷
@@ -30553,29 +27732,22 @@ WAP
 ´÷İíÒ¶ĞÀ
 ½¹µã×°ĞŞ
 ×°ĞŞ¼Ò¾ÓÒµÄÚÂÛÌ³¾«»ª
-¡¤¼Ò×°ÆóÒµ-----£¢¶«Ò×ÈÕÊ¢£¢µÄÃÀÃÎ£¡£¨Á¬
-×°ÊÎ¿ìÊÖ
+¡¤¼Ò×°ÆóÒµ-----£¢¶«Ò×ÈÕÊ¢£¢µÄÃÀÃÎ£¡£¨Á¬ ×°ÊÎ¿ìÊÖ
 ¡¤ÈÈµãÌÖÂÛ£º¼Ò×°¹«Ë¾¿ªÌåÑé¹İÊÇ·ñ³ÉÎªÎ´
 Ä°ÉÏÜ·Ü·
 ¡¤¡ñ¼¯Ìå´º½Ú¿ñ»¶£¡ĞÄÀï»°´óÆØ¹â£¬ÄãÎÒ¶¼À´
 í¹×Óºú
-¡¤¼Ò×°ÆóÒµ-----£¢¶«Ò×ÈÕÊ¢£¢µÄÃÀÃÎ£¡£¨Á¬
-×°ÊÎ¿ìÊÖ
-¡¤¼Ò×°ÆóÒµ-----£¢¶«Ò×ÈÕÊ¢£¢µÄÃÀÃÎ£¡£¨Á¬
-×°ÊÎ¿ìÊÖ
-¡¤¼Ò×°ÆóÒµ-----£¢¶«Ò×ÈÕÊ¢£¢µÄÃÀÃÎ£¡£¨Á¬
-×°ÊÎ¿ìÊÖ
+¡¤¼Ò×°ÆóÒµ-----£¢¶«Ò×ÈÕÊ¢£¢µÄÃÀÃÎ£¡£¨Á¬ ×°ÊÎ¿ìÊÖ
+¡¤¼Ò×°ÆóÒµ-----£¢¶«Ò×ÈÕÊ¢£¢µÄÃÀÃÎ£¡£¨Á¬ ×°ÊÎ¿ìÊÖ
+¡¤¼Ò×°ÆóÒµ-----£¢¶«Ò×ÈÕÊ¢£¢µÄÃÀÃÎ£¡£¨Á¬ ×°ÊÎ¿ìÊÖ
 ¡¤ÍøÂçÓªÏú¸ÅÊö
 ---
-£¨¶şÊ®Ò»×¾¼û£¬¸÷Î»¶à
-ĞùÔ¯¶şÊ®
+£¨¶şÊ®Ò»×¾¼û£¬¸÷Î»¶à ĞùÔ¯¶şÊ®
 ¡¤2008Äê³õ£¬ÈÃÎÒ×îÕğº³µÄ¼Ò¾ÓÊÂ¼ş
 ÌÚ¸ñÀïÀÇ
-¡¤°Ù°²¾ÓºÍÀöÉ¯ÁÜÔ¡·¿Èç´ËµÍÁÓºÍ²î¾¢£¡(Á¬ÔØ
-ÌÆÎò¿Õ
+¡¤°Ù°²¾ÓºÍÀöÉ¯ÁÜÔ¡·¿Èç´ËµÍÁÓºÍ²î¾¢£¡(Á¬ÔØ ÌÆÎò¿Õ
 ¡¤¼Ò¾ÓÆóÒµ¿ªÕ¹ÍøÂçÓªÏú¹æ»®·½°¸
-£¨¶şÊ®Ò»
-ĞùÔ¯¶şÊ®
+£¨¶şÊ®Ò» ĞùÔ¯¶şÊ®
 ¼Ò¾ÓÃûÈË²©ÎÄÍÆ¼ö
 [Ò¶ĞÀ]
 Ê±¿ÕËíµÀ
@@ -31334,12 +28506,7 @@ Iven-ÕÔÜ°µÄ²©
 ÖĞ¹úÊÒÄÚÉè¼ÆÊ¦²©¿ÍÈ¦
 »ñ½±Ã÷ĞÇÉè¼ÆÊ¦²©¿ÍÈ¦-07ÖĞ¹úÊÒÄÚÉè¼ÆÃ÷ĞÇ´óÈü
 [ÊÒÄÚÉè¼ÆÊ®´óĞÂÈñÈËÎïÆÀÑ¡][¾ÓÈ»×°ÊÎÉè¼ÆÊ¦²©¿ÍÈ¦]
-[¡°ÔğÈÎÉè¼ÆÊ¦¡±ÊÔµãÏµÁĞÎÄÕÂ£º(Ò»)
-(¶ş)
-(Èı)
-(ËÄ)
-(Îå)
-(Áù)]
+[¡°ÔğÈÎÉè¼ÆÊ¦¡±ÊÔµãÏµÁĞÎÄÕÂ£º(Ò») (¶ş) (Èı) (ËÄ) (Îå) (Áù)]
 [Éè¼ÆµÄ]
 ÄêÖÕ¼Ò¾ÓÊÎÆ·×Ü¶¯Ô±
 ´Ç¾ÉÓ­ĞÂ¸ø¼Ò»»ĞÂÑÕ
@@ -31385,15 +28552,12 @@ aëøÍõ¸ó
 Éè¼ÆÊ¦£ºÀ½Í¥
 B.Y.G
 ¡¤Í¼Æ¬£ºÒ»Ğ©ºÃµÄ¼ÒÊÎÍ¼Æ¬ĞÀÉÍ,
-ÊÇ×Ô¼ºÊÕ¼¯µÄ(Ö®
-shanrenx
+ÊÇ×Ô¼ºÊÕ¼¯µÄ(Ö® shanrenx
 ¡¤×£¸£´ó¼Ò2008¿ìÀÖÖĞ¹ú£¬¿ìÀÖĞÂÄê£¡
 µã»÷Õæ³Ï
 ¡¤Í¼Æ¬£ºÒ»Ğ©ºÃµÄ¼ÒÊÎÍ¼Æ¬ĞÀÉÍ,
-ÊÇ×Ô¼ºÊÕ¼¯µÄ(Ö®
-shanrenx
-¡¤Í¼Æ¬£ºĞÂ¶«·½Ö÷Òå·ç¸ñÏÂµÄÖĞÊ½ÏÖ´úÉú»î£¨ÏôÊÏ
-µã»÷Õæ³Ï
+ÊÇ×Ô¼ºÊÕ¼¯µÄ(Ö® shanrenx
+¡¤Í¼Æ¬£ºĞÂ¶«·½Ö÷Òå·ç¸ñÏÂµÄÖĞÊ½ÏÖ´úÉú»î£¨ÏôÊÏ µã»÷Õæ³Ï
 ¡¤Éè¼ÆÊ¦²©¿ÍPK:Éè¼ÆºÍÊ©¹¤Ó¦²»Ó¦¸Ã·Ö¿ª?ÌÖÂÛÖĞ
 ¡¤Ö§³ÖæÃæÃ£¡ÎÒ×÷·Ö¿ªÅÉµÄºóÔ®ÍÅ¡«¡¶Éè¼ÆÊ©¹¤·ÖÀë³«µ¼Êé
 ¡¤¡°Á½ÅÉ¶¼Ö§³Ö¡±
@@ -31435,8 +28599,7 @@ zhangxingl
 Éè¼ÆÊÎ¡¸¼Ò
 15839
 10
-·çÉĞ[·ç´µÀ´
-15660
+·çÉĞ[·ç´µÀ´ 15660 
 11
 ºìÓëÂÌ
 15235
@@ -37843,7 +35006,7 @@ WAP
 ÍòÍ¨µØ²ú¾ÙĞĞ¿Í»§Ö²Ê÷»î¶¯£¬2003Äê¸Ğ¶÷ÈÕÏµÁĞ
 Ñ§Ï°Íò¿ÆºÃ°ñÑù£­¡¶ÍòÍ¨¡¤Éú»î¼Ò¡·2003ĞÂÄêÏ×
 ·ëÂØ£º¡°·´ÖÜÆÚÄÜÁ¦¡±
-ÀíÏëµÄÏÖÊµÖ÷ÒåÕßÓëÏÖÊµµÄÀíÏëÖ÷ÒåÕß(»ªĞÂÔÂ¿
+ÀíÏëµÄÏÖÊµÖ÷ÒåÕßÓëÏÖÊµµÄÀíÏëÖ÷ÒåÕß(»ªĞÂÔÂ¿ 
 [¸öÈËÖ÷Ò³]
 [È«²¿¸öÈËÎÄ¼¯]
 [¸öÈËÂÛÌ³]
@@ -37889,9 +35052,7 @@ WAP
 [¸öÈËÂÛÌ³]
 ÁõÁ¦¸öÈËÎÄ¼¯
 (0Æª)
-ÎåºÏ¹ú¼Ê½¨ÖşÉè¼Æ¼¯ÍÅ(5+1
-Werkhart
-International)
+ÎåºÏ¹ú¼Ê½¨ÖşÉè¼Æ¼¯ÍÅ(5+1 Werkhart International)
 [¸öÈËÖ÷Ò³]
 [È«²¿¸öÈËÎÄ¼¯]
 [¸öÈËÂÛÌ³]
@@ -38061,7 +35222,7 @@ TOWNHOUSEÃû¼ÒÌ¸
 ¡°Êı×Ö¼ÒÍ¥¡±ÕæµÄÀ´ÁË
 ÍòÍ¨µØ²ú¿Í»§·şÎñÈÈÏß¿ªÍ¨
 Õæ³Ï¹µÍ¨µÄ
-ÓÃĞÄ·şÎñ£¨¸øÍòÍ¨µØ²ú¿Í»§µÄÒ»·âĞ
+ÓÃĞÄ·şÎñ£¨¸øÍòÍ¨µØ²ú¿Í»§µÄÒ»·âĞ 
 [¸öÈËÖ÷Ò³]
 [È«²¿¸öÈËÎÄ¼¯]
 [¸öÈËÂÛÌ³]
@@ -38253,7 +35414,7 @@ NO.162
 £Û±±¾©Íí±¨£İ
 ÂÃÓÎ·¿µØ²úÏîÄ¿»ğ±¬¾©³Ç(Ã½Ìå±¨µÀ)
 ³Â»Ô¸öÈËÏà²á£¨¹²3ÕÅ£©
-Ã¿¸öÏîÄ¿¶¼ÓĞ×î¼Ñ½â¾ö·½°¸(º£ÄÏÂÃ²©»áÑİ½²¸å.
+Ã¿¸öÏîÄ¿¶¼ÓĞ×î¼Ñ½â¾ö·½°¸(º£ÄÏÂÃ²©»áÑİ½²¸å. 
 [¸öÈËÖ÷Ò³]
 [È«²¿¸öÈËÎÄ¼¯]
 [¸öÈËÂÛÌ³]
@@ -38307,7 +35468,7 @@ CBD»Æ½ğÈı½ÇµÄ×îºóÒ»¸öÖ§µãÔÚÄÄ£¿
 ±±¾©Ê¢ÊÀÕ×Òµ·¿µØ²ú¹«Ë¾
 ¾©³Ç³õÏÖ°´Ì×ÄÚÃæ»ıÂô·¿
 ÓÃ¹ÉÊĞË¼Î¬¿´µØ²úÍ¶×Ê
-----·¿µØ²ú"°ÂÔË°å¿é"Æ
+----·¿µØ²ú"°ÂÔË°å¿é"Æ 
 £¨¶àÍ¼£©ÖÜÎ°·å¡¢Íõº£µÈ¼Î±öÁÄÌìÏÖ³¡ÊµÂ¼
 ÎŞÀíÓÉÍË·¿ÓÖÏÖ¾©³Ç
 CLD·çÁÖÂÌÖŞ----´¿´â¾Ó×¡µÄÃÔÈË¸Ğ¾õ
@@ -38321,7 +35482,7 @@ CLD·çÁÖÂÌÖŞ----´¿´â¾Ó×¡µÄÃÔÈË¸Ğ¾õ
 Èç½ñÌÒÀî·Ò·¼
 ´Ó½¨ÉèÉçÇøµ½¾­ÓªÇøÓòĞÎÏó
 ĞËÌÎÉçÇøµÄ¸ß¿Æ¼¼º¬Á¿
-Ê×½ìĞËÌÎÂÛÌ³ÖÂ´Ç-¼æÂÛ·¿µØ²ú·¢Õ¹Óë´óĞË³ÇÊĞ»
+Ê×½ìĞËÌÎÂÛÌ³ÖÂ´Ç-¼æÂÛ·¿µØ²ú·¢Õ¹Óë´óĞË³ÇÊĞ» 
 ĞËÌÎ·¿µØ²úÒÔÎÄ»¯´ÙÏú
 [¸öÈËÖ÷Ò³]
 [È«²¿¸öÈËÎÄ¼¯]
@@ -39041,8 +36202,7 @@ TAOHIµÀºÏ²ß»®
 [¸öÈËÂÛÌ³]
 ½¯Ğñ¶«¸öÈËÎÄ¼¯
 (0Æª)
-ÉÏº£ÖÃÒµÓĞÏŞ¹«Ë¾¹«Ë¾£¨Ïã¸ÛÁªºÏ½»Ò×ËùÉÏÊĞ¹«Ë¾
-´úÂë
+ÉÏº£ÖÃÒµÓĞÏŞ¹«Ë¾¹«Ë¾£¨Ïã¸ÛÁªºÏ½»Ò×ËùÉÏÊĞ¹«Ë¾ ´úÂë
 [¸öÈËÖ÷Ò³]
 [È«²¿¸öÈËÎÄ¼¯]
 [¸öÈËÂÛÌ³]
@@ -40167,7 +37327,7 @@ CBD£ºÖÆ¸ßµã¹¥ÂÔ
 ÖĞ¹ú¾­Óª±¨
 2002Äê±±¾©·¿µØ²úÊĞ³¡ÄêÖĞÅÌµã
 ¿ª·¢ÊÆÍ·¹ıÃÍÔì³É´óÅú¿ÕÖÃ·¿¸éÇ³
-ÊĞ³¡ĞèÒªÀíĞ
+ÊĞ³¡ĞèÒªÀíĞ 
 300ÒÚ¾©³ÇºÀÕ¬·Å¹éºÎ´¦£¿
 Ğ´×ÖÂ¥ÊĞ³¡ÎŞÅİÄ­
 »úÓöµ±Ç°
@@ -40254,7 +37414,7 @@ CBD£ºÖÆ¸ßµã¹¥ÂÔ
 ¡ª¡ª·Ã±±¾©
 ÔËÓÃ¾µÍ·
 ¿úÊÓÈËĞÔµÄÉÁ¹âµã
---ÆÀ¼ÍÂ¼Æ¬¡¶Ò»¸ö
+--ÆÀ¼ÍÂ¼Æ¬¡¶Ò»¸ö 
 ´óÑ§Éú¹«Ô¢
 ÊÇ²»ÊÇ¼¦Àß
 ¸ÃÍË²»ÍË
@@ -40473,8 +37633,7 @@ HOUSEÒªÀ´ÁË
 [¸öÈËÂÛÌ³]
 Àî¿¡Æ½¸öÈËÎÄ¼¯
 (0Æª)
-¡¶Let's
-go¡·ÔÁ¸ÛÖ±Í¨
+¡¶Let's go¡·ÔÁ¸ÛÖ±Í¨
 [¸öÈËÖ÷Ò³]
 [È«²¿¸öÈËÎÄ¼¯]
 [¸öÈËÂÛÌ³]
@@ -41384,12 +38543,12 @@ WAP
 (8Æª)
 ±±¾©ÊĞÂ¡°²ÂÉÊ¦ÊÂÎñËù
 ½ğµ¤
-³ÂĞñ£º¼òÆÀ×î¸ßÈËÃñ·¨ÔºĞÂ¹«²¼µÄ¹ØÓÚÉÌÆ
+³ÂĞñ£º¼òÆÀ×î¸ßÈËÃñ·¨ÔºĞÂ¹«²¼µÄ¹ØÓÚÉÌÆ 
 ÌìÖú×ÔÖúÕß£¨¿¯ÔØÓÚ¡¶·¨ÂÉ·şÎñÊ±±¨¡·µÄÎÄÕÂ£©
 ½ğµ¤
 ³ÂĞñ£º¡°·Çµä¡±ÓëºÏÍ¬ÂÄĞĞ
 ³ÂĞñ
-½ğµ¤£º¹º·¿ÈËÓ¦¸ÃÔõÃ´ÑéÊÕ·¿Îİ£¿¡ª¶ÔÏÖĞ
+½ğµ¤£º¹º·¿ÈËÓ¦¸ÃÔõÃ´ÑéÊÕ·¿Îİ£¿¡ª¶ÔÏÖĞ 
 ³ÂĞñ
 ½ğµ¤£º·¨ÂÉ·şÎñÏû·ÑÊÇÎ¬»¤Ïû·ÑÕßÈ¨ÒæµÄ
 [¸öÈËÖ÷Ò³]
@@ -41404,7 +38563,7 @@ WAP
 ÇØ±ø¸öÈËÎÄ¼¯
 (117Æª)
 ±±¾©ÊĞÂÉÊ¦Ğ­»á
-ÖğÌõ½âÊÍ£º¡¶×î¸ßÈËÃñ·¨Ôº¹ØÓÚÉóÀíÉÌÆ··¿ÂòÂô
+ÖğÌõ½âÊÍ£º¡¶×î¸ßÈËÃñ·¨Ôº¹ØÓÚÉóÀíÉÌÆ··¿ÂòÂô 
 ×î¸ßÈËÃñ·¨Ôº¹ØÓÚÉóÀíÉÌÆ··¿ÂòÂôºÏÍ¬¾À·×°¸¼ş
 ÍõÓí:¾ÓÃñÎ¯Ô±»áºÍÒµÖ÷Î¯Ô±»á¹ØÏµÖ®ÎÒ¼û
 ¡¶¹¤ÉÌÊ±±¨¡·:204ºÏÍ¬ÄÜ×ß¶àÔ¶
@@ -41454,7 +38613,7 @@ WAP
 Íõ¾©Æ½¸öÈËÎÄ¼¯
 (30Æª)
 ±±¾©ÒÚÖĞÂÉÊ¦ÊÂÎñËù
-¹ØÓÚ¡¶±±¾©ÊĞ³ÇÊĞ·¿Îİ×ªÈÃ¹ÜÀí°ì·¨£¨ËÍÉó¸å£©
+¹ØÓÚ¡¶±±¾©ÊĞ³ÇÊĞ·¿Îİ×ªÈÃ¹ÜÀí°ì·¨£¨ËÍÉó¸å£© 
 ¡¶ÉÌÆ··¿ÂòÂôºÏÍ¬¡·Ô¤ÊÛµÇ¼Ç±¸°¸µÄ·¨ÂÉĞ§Á¦
 ·¿Îİ½»¸¶ºó³öÏÖÖÊÁ¿ÎÊÌâÄÜ·ñÍË·¿£¿
 ¡°ÊÒÄÚ×°ÊÎ×°ĞŞ²ÄÁÏÓĞº¦ÎïÖÊÏŞÁ¿¡±´ï±ê²úÆ·ôß
@@ -41468,8 +38627,8 @@ WAP
 ÂíÏò¶«µÈÈËÌ°ÎÛ¡¢»ßÂ¸¡¢¾Ş¶î²Æ²úÀ´Ô´²»Ã÷°¸
 ÁõÇïÆ·"ÖĞÍ³"¡¢"¾üÍ³"ÌØÎñ°¸¼ÍÊµ
 ºÓÄÏÉÌÏÃËßºÓÄÏ·ş×°¹«Ë¾ÇÖ·¸ÏàÁÚÈ¨°¸¼ÍÊµ
-ÏÌÑôÎŞÏßµç³§ËßÏÌÑôÊĞÈËÃñÕş¸®ÇÖ·¸Æä×ÔÖ÷¾
-ÖĞ¹ú¹¤ÉÌÒøĞĞ¼ª°²µØÇø·ÖĞĞ¾©Â®°ìÊÂ´¦Ëß¹ãÖ
+ÏÌÑôÎŞÏßµç³§ËßÏÌÑôÊĞÈËÃñÕş¸®ÇÖ·¸Æä×ÔÖ÷¾ 
+ÖĞ¹ú¹¤ÉÌÒøĞĞ¼ª°²µØÇø·ÖĞĞ¾©Â®°ìÊÂ´¦Ëß¹ãÖ 
 [¸öÈËÖ÷Ò³]
 [È«²¿¸öÈËÎÄ¼¯]
 [¸öÈËÂÛÌ³]
@@ -41501,7 +38660,7 @@ WAP
 ±±¾©ÊĞÌìÎªÂÉÊ¦ÊÂÎñËù
 ÔÚÒµÖ÷Î¯Ô±»á³ÉÁ¢Ö®Ç°ÁîÒµÖ÷Ö§¸¶ÎïÒµ¹ÜÀí·ÑÎ¥
 Ë­ÊÇÖ÷ÈË¡¢Ë­ÊÇ¹Ü¼Ò¡¢Ë­ÊÇÓ¶ÈË£¿¡ª¡ª¼æÌ¸ÒµÖ÷
-¡°²ÉÓÃ50%ÒÔÉÏ²»·´¶ÔµÄ·½Ê½³ÉÁ¢ÒµÖ÷Î¯Ô±»á¡±µ
+¡°²ÉÓÃ50%ÒÔÉÏ²»·´¶ÔµÄ·½Ê½³ÉÁ¢ÒµÖ÷Î¯Ô±»á¡±µ 
 ·¢ÆğÈË»áÒéÒéÊÂ¹æÔò
 ÒµÖ÷£ºÁË½âÄúµÄÈ¨Àû¡¢º´ÎÀÄúµÄÈ¨Àû
 [¸öÈËÖ÷Ò³]
@@ -41940,7 +39099,7 @@ WAP
 (248Æª)
 Áõºê³Ï£º¶Ô¡¶ÎïÒµ¹ÜÀí·¨(Ìá°¸)¡·Ìá³öÒìÒé
 ´ÓÇ©ºÏÍ¬µ½°ì²úÈ¨Ö¤
-Âò·¿¹ı³ÌÖĞÒª½»¶àÉÙ·ÑÓÃ£
+Âò·¿¹ı³ÌÖĞÒª½»¶àÉÙ·ÑÓÃ£ 
 ¹º·¿ÈËÎ¬È¨µÄÁíÀàË¼¿¼
 ¶şÊÖ·¿ÂòÂôÈ«¹¥ÂÔÖ®¿´ÇåºÏÍ¬Ê®¸öÌõ¿î
 ËÄ²½°ìÍê¹«»ı½ğ´û¿î
@@ -41952,7 +39111,7 @@ WAP
 Ç°³¯ÑôÔ°ÎïÒµ¹ÜÀíÎ¯Ô±»áÖ÷ÈÎ
 Ò²Ì¸µ±Ç°¿¹»÷·Çµä¶·Õù¼ìÌÖ¹ÜÎ¯»áµÄµØÎ»ºÍ×÷ÓÃ
 ×£ìÅÌØÇøÒµÖ÷¼àÀí»áÒ»Â·×ßºÃ
-¾Í¡°Ç°ÆÚÎïÒµ¹ÜÀí¡±ÎÊÌâ¶Ô¡¶ÎïÒµ¹ÜÀíÌõÀı£¨²İ
+¾Í¡°Ç°ÆÚÎïÒµ¹ÜÀí¡±ÎÊÌâ¶Ô¡¶ÎïÒµ¹ÜÀíÌõÀı£¨²İ 
 »áËùÀûÒæÈçºÎ¹Ï·Ö£¿Ó¦Ê×ÏÈÈ·¶¨»áËù²úÈ¨¹éÊô
 ÈçºÎÕıÈ·ĞĞÊ¹ÒµÖ÷Î¯Ô±»áµÄºÏ·¨È¨Àû
 [¸öÈËÖ÷Ò³]
@@ -42036,7 +39195,7 @@ Olympiads
 (2Æª)
 ÖĞ¹úÈËÃñ´óÑ§¹«¹²¹ÜÀíÑ§ÔºĞĞÕş¹ÜÀíÏµ¡¢ÖÆ¶È·ÖÎöÓë¹«¹²
 ¶ÔÎïÒµ¹ÜÀíÌõÀıµÄÁ¢·¨Ä¿µÄÓë·¨ÂÉÒâÒåµÄÌ½ÌÖ
-¶Ô¡¶±±¾©ÊĞ³ÇÊĞ·¿Îİ×ªÈÃ¹ÜÀí°ì·¨(Õ÷ÇóÒâ¼û¸å)
+¶Ô¡¶±±¾©ÊĞ³ÇÊĞ·¿Îİ×ªÈÃ¹ÜÀí°ì·¨(Õ÷ÇóÒâ¼û¸å) 
 [¸öÈËÖ÷Ò³]
 [È«²¿¸öÈËÎÄ¼¯]
 [¸öÈËÂÛÌ³]
@@ -42058,7 +39217,7 @@ WTO£º×¡Õ¬²úÒµ²»¿ÉÌÓ±ÜµÄÃæ¶Ô
 ×¡Õ¬×°ĞŞµ½Î»Óë×¡Õ¬²úÒµ»¯½ø³ÌÖ±½ÓÏà¹Ø
 ×¡Õ¬×°ĞŞĞèÒªÊĞ³¡Òıµ¼
 ÖĞ×¡Áª¡°ÉÌÆ·×¡Õ¬Ò»´ÎĞÔ×°ĞŞÍòÀïĞĞ»î¶¯¡±ÏµÁĞ
-ÖĞ×¡Áª¡°ÉÌÆ·×¡Õ¬Ò»´ÎĞÔ×°ĞŞÍòÀïĞĞ»î¶¯¡±ÏµÁ
+ÖĞ×¡Áª¡°ÉÌÆ·×¡Õ¬Ò»´ÎĞÔ×°ĞŞÍòÀïĞĞ»î¶¯¡±ÏµÁ 
 [¸öÈËÖ÷Ò³]
 [È«²¿¸öÈËÎÄ¼¯]
 [¸öÈËÂÛÌ³]
@@ -42147,11 +39306,7 @@ WTO£º×¡Õ¬²úÒµ²»¿ÉÌÓ±ÜµÄÃæ¶Ô
 Â·ÇÚ¸öÈËÎÄ¼¯
 (0Æª)
 ¾ÅÖİÍ¬Àñ
-(The
-Pride
-Institute
-of
-China)
+(The Pride Institute of China)
 [¸öÈËÖ÷Ò³]
 [È«²¿¸öÈËÎÄ¼¯]
 [¸öÈËÂÛÌ³]
@@ -42210,33 +39365,25 @@ China)
 [¸öÈËÂÛÌ³]
 ÑÏÌÎ¸öÈËÎÄ¼¯
 (0Æª)
-ÎåºÏ¹ú¼Ê(5+1
-werkhart
-international)½¨ÖşÉè¼Æ¼¯ÍÅ
+ÎåºÏ¹ú¼Ê(5+1 werkhart international)½¨ÖşÉè¼Æ¼¯ÍÅ
 [¸öÈËÖ÷Ò³]
 [È«²¿¸öÈËÎÄ¼¯]
 [¸öÈËÂÛÌ³]
 Àä½øÉú¸öÈËÎÄ¼¯
 (0Æª)
-ÎåºÏ¹ú¼Ê(5+1
-Werkhart
-Internaional)½¨ÖşÉè¼Æ¼¯ÍÅ
+ÎåºÏ¹ú¼Ê(5+1 Werkhart Internaional)½¨ÖşÉè¼Æ¼¯ÍÅ
 [¸öÈËÖ÷Ò³]
 [È«²¿¸öÈËÎÄ¼¯]
 [¸öÈËÂÛÌ³]
 ÌÕÌÏ¸öÈËÎÄ¼¯
 (0Æª)
-ÎåºÏ¹ú¼Ê£¨5£«1
-Werkhart
-International)½¨ÖşÉè¼Æ¼¯ÍÅ
+ÎåºÏ¹ú¼Ê£¨5£«1 Werkhart International)½¨ÖşÉè¼Æ¼¯ÍÅ
 [¸öÈËÖ÷Ò³]
 [È«²¿¸öÈËÎÄ¼¯]
 [¸öÈËÂÛÌ³]
 Â¬Çó¸öÈËÎÄ¼¯
 (0Æª)
-ÎåºÏ¹ú¼Ê(5+1
-werkhart
-international)½¨ÖşÉè¼Æ×ÉÑ¯ÓĞ
+ÎåºÏ¹ú¼Ê(5+1 werkhart international)½¨ÖşÉè¼Æ×ÉÑ¯ÓĞ
 [¸öÈËÖ÷Ò³]
 [È«²¿¸öÈËÎÄ¼¯]
 [¸öÈËÂÛÌ³]
@@ -43171,8 +40318,7 @@ WAP
 Ç¿Ç¿ÁªÊÖ¡ª
 ÉîÛÚ´´ĞÂ¹ÜÀíĞÅÏ¢»¯ĞÂÄ£
 Ã÷Ô´ÊÛÂ¥¹ÜÀíÏµÍ³v3.5ÕıÊ½»ñµÃ¡°2002Äê¶ÈÍÆ¼ö
-Ã÷Ô´Ó¦ÑûÎªÇå»ª´óÑ§¡¶·¿µØ²ú¹ú¼Ê
-MBA¡·¸ß¼¶¾­
+Ã÷Ô´Ó¦ÑûÎªÇå»ª´óÑ§¡¶·¿µØ²ú¹ú¼Ê MBA¡·¸ß¼¶¾­
 Íò¿Æ-Ã÷Ô´ÔÙ¶ÈĞ¯ÊÖ,¹²Í¬´òÔì¹úÄÚÁìÏÈµÄ¼¯ÍÅÊÛ
 [¸öÈËÖ÷Ò³]
 [È«²¿¸öÈËÎÄ¼¯]
@@ -43252,7 +40398,7 @@ MBA¡·¸ß¼¶¾­
 ´Ó´ó¶¼ÊĞÉÌÒµ½ÖÖ®µÃÊ§Ì¸ÉÌÒµ½ÖµÄ¿ª·¢
 Î÷µ¥ÉÌÒµ½ÖµÄÏÖ×´ÓëÎ´À´×ßÏò
 ÉÌÒµ½ÖµÄ¾­ÓªË®Æ½ÉĞĞèÌá¸ß
-Ë®±ÃÔ­Àí/Ò»¸ö½â¾öÅ©´åÎÊÌâ¡¢³ÇÏç·¢Õ¹²»Æ½ºâÎ
+Ë®±ÃÔ­Àí/Ò»¸ö½â¾öÅ©´åÎÊÌâ¡¢³ÇÏç·¢Õ¹²»Æ½ºâÎ 
 [¸öÈËÖ÷Ò³]
 [È«²¿¸öÈËÎÄ¼¯]
 [¸öÈËÂÛÌ³]
@@ -50320,13 +47466,11 @@ aëøÍõ¸ó
 Éè¼ÆÊ¦£ºÀ½Í¥¹¤
 B.Y.G
 Í¼Æ¬£ºÒ»Ğ©ºÃµÄ¼ÒÊÎÍ¼Æ¬ĞÀÉÍ,
-ÊÇ×Ô¼ºÊÕ¼¯µÄ(Ö®Ê®
-shanrenx
+ÊÇ×Ô¼ºÊÕ¼¯µÄ(Ö®Ê® shanrenx
 ×£¸£´ó¼Ò2008¿ìÀÖÖĞ¹ú£¬¿ìÀÖĞÂÄê£¡
 µã»÷Õæ³Ï
 Í¼Æ¬£ºÒ»Ğ©ºÃµÄ¼ÒÊÎÍ¼Æ¬ĞÀÉÍ,
-ÊÇ×Ô¼ºÊÕ¼¯µÄ(Ö®¾Å
-shanrenx
+ÊÇ×Ô¼ºÊÕ¼¯µÄ(Ö®¾Å shanrenx
 ¡ú¸ü¶à¾«»ªÌù
 ±¾ÖÜ»ı·ÖÃ÷ĞÇ°ñ
 ÓÃ»§Ãû
@@ -50352,7 +47496,7 @@ shanrenx
 1.Ç¬Í¼Éè¼Æ*°¢52128
 2.·çÉĞ39865
 3.Ç¬Í¼Éè¼Æ20719
-4.¡·µû¡¶13906
+4.¡·µû¡¶13906 
 5.ÌÔÆø¶µ¶µ12168
 6.Ğ¡ÇÉ¶ù9991
 7.ÈıÔ½·ÆÑ©7834
@@ -50412,8 +47556,8 @@ shanrenx
 ¡¤·çÉĞÌá¹©µÄ×°ÊÎÆ·
 ¸ü¶à>>
 ¡ôÉè¼ÆµãÆÀ¾«»ª(¹²ÓĞ3Æª)
-¡¤¡·µû¡¶µÄÊÖ¼Ç---Ì¸Ì¸¿ÍÌüµÄÉè¼Æ
-¡¤¡·µû¡¶µÄÊÖ¼Ç---²ÍÌüµÄÉè¼Æ
+¡¤¡·µû¡¶µÄÊÖ¼Ç---Ì¸Ì¸¿ÍÌüµÄÉè¼Æ  
+¡¤¡·µû¡¶µÄÊÖ¼Ç---²ÍÌüµÄÉè¼Æ  
 ¡¤²ÍÌüµÄ²¼ÖÃÖØ¼ò½à¼°¸É¾»£¬Ç§Íò²»ÄÜÔÓÂÒ£¬
 ¸ü¶à>>
 ¡ô×°ÊÎÉè¼ÆÎÄÕª(¹²ÓĞ54Æª)
@@ -50479,7 +47623,7 @@ shanrenx
 ¡¤"2004±±¾©Ö÷Á÷»§ĞÍÊÒÄÚ×°ÊÎ×°ĞŞÉè¼Æ´óÈü"
 ¸ü¶à>>
 ¡ô¹¤×÷ÊÒ(¹²ÓĞ2Æª)
-¡¤¡·µû¡¶Ò»¸öÆ¾Ëµ×Ô¼ºµÄÌû×Ó£¨Ò»µã¸ĞÌ¾¶øÒÑ
+¡¤¡·µû¡¶Ò»¸öÆ¾Ëµ×Ô¼ºµÄÌû×Ó£¨Ò»µã¸ĞÌ¾¶øÒÑ  
 ¡¤ÈİÒ×ÈçÍ¬
 ¸ü¶à>>
 ¡ô2004±±¾©Ö÷Á÷»§ĞÍÊÒÄÚÉè¼Æ´óÈü×÷Æ·¼¯(¹²ÓĞ29Æª)
@@ -50508,7 +47652,7 @@ shanrenx
 ¡ô×°ÊÎÉè¼ÆÂÛÌ³¾«Æ·°¸ÀıÕ¹Ê¾(¹²ÓĞ5Æª)
 Ö÷³ÖÈË£ºÇ¬Í¼Éè¼Æ*°¢Öì
 ·çÉĞ
-¡·µû¡¶
+¡·µû¡¶ 
 ¡¤Í¬ÖÛ×°ÊÎÒÑ¾­Íê¹¤¹¤µØ£¬ÖĞÊ½·ç¸ñ£¬120Æ½Ã
 ¡¤×îĞÂµÄĞ¡»§ĞÍÉè¼Æ£¬40Æ½Ã×£¬×°ĞŞ¼Ò¾ßµçÆ÷
 ¡¤³¬Ç¿µÄĞ¡»§ĞÍÉè¼Æ£¬²»¿´¾ø¶ÔÊÇÄãµÄËğÊ§,Ö
@@ -50617,7 +47761,7 @@ shanrenx
 ¡¤´óÈüÖ÷°ì·½£ºÖĞ¹ú½¨Öş×°ÊÎĞ­»á
 ¡¤¹ØÓÚ¡°2006Äê×¡Õ¬ÖĞ¹úÊÒÄÚÉè¼Æ´óÈü¡±
 ¡¤2006ÖĞ¹úÊÒÄÚÉè¼Æ´óÈü¡¤×éÎ¯»áÁªÏµ·½Ê½
-¡¤2006ÖĞ¹úÊÒÄÚÉè¼Æ´óÈü¡¤¹æÔò(Ìá½»²ÎÈü×÷Æ
+¡¤2006ÖĞ¹úÊÒÄÚÉè¼Æ´óÈü¡¤¹æÔò(Ìá½»²ÎÈü×÷Æ 
 ¸ü¶à>>
 ¡ôÉè¼ÆÊ¦ÅàÑµ(¹²ÓĞ9Æª)
 ¡¤Ò»ÄêÖÆ×°äêÉè¼Æ×¨ĞŞ°à£¨ÊÒÄÚÉè¼Æ·½Ïò£©
@@ -50940,8 +48084,7 @@ bujia52715
 ¼Ò×°ÖÊÁ¿ÎÊÌâ¶à³öÔÚÄÄ
 ¼Ò¾Ó·çË®£¨ÃÅµÄÉè¼Æ£º£©
 ....
-<--·µ
-»Ø
+<--·µ »Ø
 µç×ÓÓÊ¼şhome@mail.focus.cn-
 ¡¶Ëµ¸ø½¹µã¡·ÂÛÌ³-
 ÈÈÏßµç»°£º010-58511234
@@ -51238,8 +48381,7 @@ bujia52715
 ¼Ò×°ÖÊÁ¿ÎÊÌâ¶à³öÔÚÄÄ
 ¼Ò¾Ó·çË®£¨ÃÅµÄÉè¼Æ£º£©
 ....
-<--·µ
-»Ø
+<--·µ »Ø
 µç×ÓÓÊ¼şhome@mail.focus.cn-
 ¡¶Ëµ¸ø½¹µã¡·ÂÛÌ³-
 ÈÈÏßµç»°£º010-58511234
@@ -51536,8 +48678,7 @@ bujia52715
 ¼Ò×°ÖÊÁ¿ÎÊÌâ¶à³öÔÚÄÄ
 ¼Ò¾Ó·çË®£¨ÃÅµÄÉè¼Æ£º£©
 ....
-<--·µ
-»Ø
+<--·µ »Ø
 µç×ÓÓÊ¼şhome@mail.focus.cn-
 ¡¶Ëµ¸ø½¹µã¡·ÂÛÌ³-
 ÈÈÏßµç»°£º010-58511234
@@ -51834,8 +48975,7 @@ bujia52715
 ¼Ò×°ÖÊÁ¿ÎÊÌâ¶à³öÔÚÄÄ
 ¼Ò¾Ó·çË®£¨ÃÅµÄÉè¼Æ£º£©
 ....
-<--·µ
-»Ø
+<--·µ »Ø
 µç×ÓÓÊ¼şhome@mail.focus.cn-
 ¡¶Ëµ¸ø½¹µã¡·ÂÛÌ³-
 ÈÈÏßµç»°£º010-58511234
@@ -52132,8 +49272,7 @@ bujia52715
 ¼Ò×°ÖÊÁ¿ÎÊÌâ¶à³öÔÚÄÄ
 ¼Ò¾Ó·çË®£¨ÃÅµÄÉè¼Æ£º£©
 ....
-<--·µ
-»Ø
+<--·µ »Ø
 µç×ÓÓÊ¼şhome@mail.focus.cn-
 ¡¶Ëµ¸ø½¹µã¡·ÂÛÌ³-
 ÈÈÏßµç»°£º010-58511234
@@ -52235,8 +49374,7 @@ WAP
 |
 @Éè¼ÆÊ¦²©¿Í×ÜÂÛÌ³
 Éè¼ÆÂÛÌ³¾«»ª
-¡¤µÚ165ÆÚ¡¶Éè¼ÆÂÛÌ³¹«ÒæÃâ·ÑÉè¼Æ»î¶¯
-aëøÍõ¸ó
+¡¤µÚ165ÆÚ¡¶Éè¼ÆÂÛÌ³¹«ÒæÃâ·ÑÉè¼Æ»î¶¯ aëøÍõ¸ó
 ¡¤Í¼Æ¬£º¡ö¡ö¹«ÒæÃâ·ÑÉè¼ÆµÚ166ÆÚ¡ö¡ö
 Éè
 B.Y.G
@@ -52257,26 +49395,16 @@ shanrenx
 Ç¬Í¼Éè¼Æ
 ¸ü¶à>>
 Éè¼ÆÂÛÌ³ÍÆ¼öÏà²á
-[¹«ÒæÃâ·ÑÉè¼Æ°Â±±Ğ¡
-]
-[9ÔÂ23ÈÕ½¹µã×°´óÁùÖ
-]
-[±±¾©ÈüÇø10Ç¿Õù¶áÈü
-]
-[07Éè¼Æ´óÈü±±¾©ÈüÇø
-]
-[·çÉĞ¹¤×°×÷Æ·
-]
-[×°´ó6ÖÜÄêÇìµäÆô¶¯ô
-]
-[½¹µã×°ĞŞ´óÑ§66ÆÚ×°
-]
-[07ÍşÄÜ±­ÖĞ¹ú(×¡Õ¬)
-]
-[5ÔÂ27ÈÕ½¹µã×°ĞŞ´óÑ
-]
-[½¹µã¼Ò¾ÓÍøÊ×´ÎÊÒÄÚ
-]
+[¹«ÒæÃâ·ÑÉè¼Æ°Â±±Ğ¡ ]
+[9ÔÂ23ÈÕ½¹µã×°´óÁùÖ]
+[±±¾©ÈüÇø10Ç¿Õù¶áÈü ]
+[07Éè¼Æ´óÈü±±¾©ÈüÇø ]
+[·çÉĞ¹¤×°×÷Æ· ]
+[×°´ó6ÖÜÄêÇìµäÆô¶¯ô]
+[½¹µã×°ĞŞ´óÑ§66ÆÚ×° ]
+[07ÍşÄÜ±­ÖĞ¹ú(×¡Õ¬) ]
+[5ÔÂ27ÈÕ½¹µã×°ĞŞ´óÑ]
+[½¹µã¼Ò¾ÓÍøÊ×´ÎÊÒÄÚ ]
 ¸ü¶à>>
 Éè¼Æ°¸Àı
 ¡ïÍ¼Æ¬ĞÂÎÅ¡ïÒ»ÖÜĞÂÎÅ°ñ
@@ -52597,8 +49725,7 @@ dot´«²¥Éè¼Æ½±
 [Ò»ÖÜ°ñ]
 [Ò»ÔÂ°ñ]
 [ÆÀÂÛ°ñ]
-[ÊÖ»ú¿´×ÊÑ¶
-wap.focus.cn]
+[ÊÖ»ú¿´×ÊÑ¶ wap.focus.cn]
 ¡ï¡ï¡ï½¹µã¿ñËÑ
 ÉçÇøÊ×Ò³
 ÒµÖ÷ÂÛÌ³
@@ -52724,8 +49851,7 @@ WAP
 |
 @Éè¼ÆÊ¦²©¿Í×ÜÂÛÌ³
 Éè¼ÆÂÛÌ³¾«»ª
-¡¤µÚ165ÆÚ¡¶Éè¼ÆÂÛÌ³¹«ÒæÃâ·ÑÉè¼Æ»î¶¯
-aëøÍõ¸ó
+¡¤µÚ165ÆÚ¡¶Éè¼ÆÂÛÌ³¹«ÒæÃâ·ÑÉè¼Æ»î¶¯ aëøÍõ¸ó
 ¡¤Í¼Æ¬£º¡ö¡ö¹«ÒæÃâ·ÑÉè¼ÆµÚ166ÆÚ¡ö¡ö
 Éè
 B.Y.G
@@ -52746,26 +49872,16 @@ shanrenx
 Ç¬Í¼Éè¼Æ
 ¸ü¶à>>
 Éè¼ÆÂÛÌ³ÍÆ¼öÏà²á
-[¹«ÒæÃâ·ÑÉè¼Æ°Â±±Ğ¡
-]
-[9ÔÂ23ÈÕ½¹µã×°´óÁùÖ
-]
-[±±¾©ÈüÇø10Ç¿Õù¶áÈü
-]
-[07Éè¼Æ´óÈü±±¾©ÈüÇø
-]
-[·çÉĞ¹¤×°×÷Æ·
-]
-[×°´ó6ÖÜÄêÇìµäÆô¶¯ô
-]
-[½¹µã×°ĞŞ´óÑ§66ÆÚ×°
-]
-[07ÍşÄÜ±­ÖĞ¹ú(×¡Õ¬)
-]
-[5ÔÂ27ÈÕ½¹µã×°ĞŞ´óÑ
-]
-[½¹µã¼Ò¾ÓÍøÊ×´ÎÊÒÄÚ
-]
+[¹«ÒæÃâ·ÑÉè¼Æ°Â±±Ğ¡ ]
+[9ÔÂ23ÈÕ½¹µã×°´óÁùÖ]
+[±±¾©ÈüÇø10Ç¿Õù¶áÈü ]
+[07Éè¼Æ´óÈü±±¾©ÈüÇø ]
+[·çÉĞ¹¤×°×÷Æ· ]
+[×°´ó6ÖÜÄêÇìµäÆô¶¯ô]
+[½¹µã×°ĞŞ´óÑ§66ÆÚ×° ]
+[07ÍşÄÜ±­ÖĞ¹ú(×¡Õ¬) ]
+[5ÔÂ27ÈÕ½¹µã×°ĞŞ´óÑ]
+[½¹µã¼Ò¾ÓÍøÊ×´ÎÊÒÄÚ ]
 ¸ü¶à>>
 Éè¼Æ³±Á÷
 ¡ïÍ¼Æ¬ĞÂÎÅ¡ïÒ»ÖÜĞÂÎÅ°ñ
@@ -53086,8 +50202,7 @@ yumei
 [Ò»ÖÜ°ñ]
 [Ò»ÔÂ°ñ]
 [ÆÀÂÛ°ñ]
-[ÊÖ»ú¿´×ÊÑ¶
-wap.focus.cn]
+[ÊÖ»ú¿´×ÊÑ¶ wap.focus.cn]
 ¡ï¡ï¡ï½¹µã¿ñËÑ
 ÉçÇøÊ×Ò³
 ÒµÖ÷ÂÛÌ³
@@ -54123,7 +51238,7 @@ WAP
 [2008.1.25]
 90Æ½Ã×·¿×Ó¿ÍÎÔÒ»½Ç
 [2008.1.25]
-Íò¿ÆĞÇÔ²¸´Ê½ÎÔÊÒ(500Æ½
+Íò¿ÆĞÇÔ²¸´Ê½ÎÔÊÒ(500Æ½ 
 [2008.1.24]
 (±ğÊû)V3»§ĞÍ--¶şÂ¥´ÎÖ÷
 [2008.1.23]
@@ -54455,7 +51570,7 @@ WAP
 1192396262964
 [2008.2.8]
 Ä¾Ï¬Ô°
-Êé·¿.(8.jpg
+Êé·¿.(8.jpg 
 [2008.2.8]
 Êé·¿.jpg
 [2008.2.5]
@@ -55682,10 +52797,10 @@ design
 13-14-15¿ÍÌü
 [2008.2.8]
 Ä¾Ï¬Ô°
-¿ÍÌü0(8.jpg
+¿ÍÌü0(8.jpg 
 [2008.2.8]
 Ä¾Ï¬Ô°
-¿ÍÌü(8.jpg
+¿ÍÌü(8.jpg 
 [2008.2.8]
 ¿ÍÌü.jpg
 [2008.2.7]
@@ -56963,17 +54078,14 @@ water.php
 µ×Æá
 Éı£¬ÃæÆá
 Éı¡£
-£¨×ÜÍ¿Ë¢Ãæ»ı£º
-Æ½Ã×£©
+£¨×ÜÍ¿Ë¢Ãæ»ı£º  Æ½Ã×£©
 ÓÍÆáÍ°Êı£º
 µ×Æá
 0
 Í°£¬ÃæÆá
 0
 Í°¡£
-£¨µ×Æá
-Í°£»ÃæÆá
-Í°£©
+£¨µ×Æá  Í°£»ÃæÆá  Í°£©
 ·ÑÓÃ£º
 µ×Æá
 Ôª£»ÃæÆá
@@ -63385,9 +60497,9 @@ cy
 [ÎÒÒª²É¹º-²É¹º×ÊÑ¶]°²È«²ÉÅ¯
 Ê¥»ğÎªÄú×ö¹±Ï×
 [¼Ò×°ÁãÀûÈóÓÅĞãÉè¼ÆÊ¦ÍÆ¼ö][¼Ò×°ÁãÀûÈó]¡ªÓÅĞã
-[ÎÒÒª²É¹º-²É¹º×ÊÑ¶]¹úÇìÆÚ¼ä£¬È«¹ú¸Ğ¶÷»ØÀ¡»î¶
-[ÎÒÒª²É¹º-²É¹º×ÊÑ¶]¸»µÃÀûµØ°åµÄ¡°ÖĞ¹úÆ·ÅÆ¡±Ö
-[ÎÒÒª²É¹º-²É¹º×ÊÑ¶]ÃÀ¼Ó»ªÈë¾©ÁùÖÜÄêÌØ»İ»î¶¯Õ
+[ÎÒÒª²É¹º-²É¹º×ÊÑ¶]¹úÇìÆÚ¼ä£¬È«¹ú¸Ğ¶÷»ØÀ¡»î¶ 
+[ÎÒÒª²É¹º-²É¹º×ÊÑ¶]¸»µÃÀûµØ°åµÄ¡°ÖĞ¹úÆ·ÅÆ¡±Ö 
+[ÎÒÒª²É¹º-²É¹º×ÊÑ¶]ÃÀ¼Ó»ªÈë¾©ÁùÖÜÄêÌØ»İ»î¶¯Õ 
 ¸ü¶à>>
 Ğ¡×é×ÜÂÛÌ³
 (5199692)
@@ -63398,8 +60510,7 @@ cy
 (¼Ù×°±¦±¦)
 ¹ıÄêºÃ°¡£¡´ó¼ÒÍ¬Ï²Í¬ÀÖÑ½£¡¹ş¹ş£¡
 (×°ĞŞ½£¿Í)
-µ±È»ÊÇ½¨ÖşÏÂË®¹ÜÁË,Èç¹ûÊÇµØÂ©Ö±½
-(Òä½­ÄÏ»ÃÍ¼)
+µ±È»ÊÇ½¨ÖşÏÂË®¹ÜÁË,Èç¹ûÊÇµØÂ©Ö±½ (Òä½­ÄÏ»ÃÍ¼)
 ½ô¼±ÇóÖú£ºÇóÖúËÉÏÂÏ´ÒÂ»úÎ¬ĞŞ²¿µÄ
 (zjpln)
 »Ø¸´£ºÇ°ÆÚ×¼±¸Ö®¶ş¡ª¡ª
@@ -63422,12 +60533,9 @@ cy
 (sleepcat88)
 Í¼Æ¬£º¶¼ÊÇË®¼şÈÇµÄ»ö¡ª¡ªÎÒ×°ĞŞÖĞ
 (ÀÏÂèQL)
-Í¼Æ¬£º¡¾9Ä§´«ÒÕ¡¿---°ü½È×Ó---¡¾´
-(99999Ä§999)
-Í¼Æ¬£º¡¾9Ä§´«ÒÕ¡¿---°ü½È×Ó---¡¾´
-(99999Ä§999)
-Í¼Æ¬£º¡¾9Ä§´«ÒÕ¡¿---°ü½È×Ó---¡¾´
-(99999Ä§999)
+Í¼Æ¬£º¡¾9Ä§´«ÒÕ¡¿---°ü½È×Ó---¡¾´ (99999Ä§999)
+Í¼Æ¬£º¡¾9Ä§´«ÒÕ¡¿---°ü½È×Ó---¡¾´ (99999Ä§999)
+Í¼Æ¬£º¡¾9Ä§´«ÒÕ¡¿---°ü½È×Ó---¡¾´ (99999Ä§999)
 ()
 Í¼Æ¬£ºÀ¶µ÷±ùµãµÄ×°ĞŞÈÕ¼Ç£¨Èı£©¡ª
 (liuchangle)
@@ -64591,13 +61699,11 @@ aëøÍõ¸ó
 Éè¼ÆÊ¦£ºÀ½Í¥¹¤
 B.Y.G
 Í¼Æ¬£ºÒ»Ğ©ºÃµÄ¼ÒÊÎÍ¼Æ¬ĞÀÉÍ,
-ÊÇ×Ô¼ºÊÕ¼¯µÄ(Ö®Ê®
-shanrenx
+ÊÇ×Ô¼ºÊÕ¼¯µÄ(Ö®Ê® shanrenx
 ×£¸£´ó¼Ò2008¿ìÀÖÖĞ¹ú£¬¿ìÀÖĞÂÄê£¡
 µã»÷Õæ³Ï
 Í¼Æ¬£ºÒ»Ğ©ºÃµÄ¼ÒÊÎÍ¼Æ¬ĞÀÉÍ,
-ÊÇ×Ô¼ºÊÕ¼¯µÄ(Ö®¾Å
-shanrenx
+ÊÇ×Ô¼ºÊÕ¼¯µÄ(Ö®¾Å shanrenx
 ¡ú¸ü¶à¾«»ªÌù
 ±¾ÖÜ»ı·ÖÃ÷ĞÇ°ñ
 ÓÃ»§Ãû
@@ -64623,7 +61729,7 @@ shanrenx
 1.Ç¬Í¼Éè¼Æ*°¢52128
 2.·çÉĞ39865
 3.Ç¬Í¼Éè¼Æ20719
-4.¡·µû¡¶13906
+4.¡·µû¡¶13906 
 5.ÌÔÆø¶µ¶µ12168
 6.Ğ¡ÇÉ¶ù9991
 7.ÈıÔ½·ÆÑ©7834
@@ -64706,21 +61812,12 @@ aëøÍõ¸ó
 °¢±´abe
 [ÉêÇë°æÖ÷]°æÖ÷°ïÖú
 ×ÓÂÛÌ³°æÖ÷£º
-¹«ÒæÃâ·ÑÉè¼Æ(·çÉĞ
-Ç¬Í¼Éè¼Æ)
-»§ĞÍµãÆÀ(éªÄ¾nanmu
-·¢Ñ¿µÄÊ¯Í·
-Å·¶È
-À¶É«º£Ñı)
+¹«ÒæÃâ·ÑÉè¼Æ(·çÉĞ Ç¬Í¼Éè¼Æ)
+»§ĞÍµãÆÀ(éªÄ¾nanmu ·¢Ñ¿µÄÊ¯Í· Å·¶È À¶É«º£Ñı)
 ×÷Æ·Õ¹Ê¾(ÈıÔ½·ÆÑ©)
-Éè¼ÆÊ¦·ÃÌ¸(aëøÍõ¸ó
-Ç¬Í¼Éè¼Æ*°¢Öì
-ËÕ¶À²½)
-¼Ò¾ÓÅäÊÎ(ÈıÔ½·ÆÑ©
-ÌÔÆø¶µ¶µ
-Ò»ÌìÊÀ½çÇç)
-Ê©¹¤´ğÒÉ(éªÄ¾nanmu
-¿Õ¼äÖ©Öë)
+Éè¼ÆÊ¦·ÃÌ¸(aëøÍõ¸ó Ç¬Í¼Éè¼Æ*°¢Öì ËÕ¶À²½)
+¼Ò¾ÓÅäÊÎ(ÈıÔ½·ÆÑ© ÌÔÆø¶µ¶µ Ò»ÌìÊÀ½çÇç)
+Ê©¹¤´ğÒÉ(éªÄ¾nanmu ¿Õ¼äÖ©Öë)
 07ÖĞ¹úÊÒÄÚÉè¼Æ´óÈü(ÔİÈ±)Éè¼ÆÊ¦¾ãÀÖ²¿(ÂÄ´ø)
 [×ÓÂÛÌ³¼°°æÖ÷ÇëÏò×ÜÂÛÌ³°æÖ÷ÉêÇë]
 Ğ¡×éµ±Ç°Îª£º
@@ -64788,8 +61885,8 @@ aëøÍõ¸ó
 [2005Ö÷Á÷»§ĞÍÉè¼Æ´óÈüÏà¹Ø¹æ¶¨]2005ÄêÖ÷Á÷»§ĞÍ
 [2005Ö÷Á÷»§ĞÍÉè¼Æ´óÈüÏà¹Ø¹æ¶¨]2005Ö÷Á÷»§ĞÍÉè
 [Éè¼ÆÂÛÌ³°æÎñ¹«¸æ]¡°¼Ò¾ÓÉè¼Æ¡±½²×ùÄÚÈİ°²ÅÅÕı
-[Éè¼ÆÊ¦ÊÖ¼Ç]¡·µû¡¶µÄÊÖ¼Ç£¨2£©Ì¸Ì¸²ÍÌüµÄÉè¼Æ[
-[¡°ÍşÄÜ¡±±­2007ÖĞ¹ú×¡Õ¬ÊÒÄÚÉè¼Æ´óÈüôßÉè¼ÆÊ¦²©¿Í´óÈü]´óÈü»ù±¾Á÷³Ì£¨±±
+[Éè¼ÆÊ¦ÊÖ¼Ç]¡·µû¡¶µÄÊÖ¼Ç£¨2£©Ì¸Ì¸²ÍÌüµÄÉè¼Æ[ 
+[¡°ÍşÄÜ¡±±­2007ÖĞ¹ú×¡Õ¬ÊÒÄÚÉè¼Æ´óÈüôßÉè¼ÆÊ¦²©¿Í´óÈü]´óÈü»ù±¾Á÷³Ì£¨±± 
 [¡°ÍşÄÜ¡±±­2007ÖĞ¹ú×¡Õ¬ÊÒÄÚÉè¼Æ´óÈüôßÉè¼ÆÊ¦²©¿Í´óÈü]´óÈü×÷Æ·Ìá½»·½·¨¼°
 [¡°ÍşÄÜ¡±±­2007ÖĞ¹ú×¡Õ¬ÊÒÄÚÉè¼Æ´óÈüôßÉè¼ÆÊ¦²©¿Í´óÈü]
 [¡°ÍşÄÜ¡±±­2007ÖĞ¹ú×¡Õ¬ÊÒÄÚÉè¼Æ´óÈüôßÉè¼ÆÊ¦²©¿Í´óÈü]
@@ -64807,11 +61904,9 @@ aëøÍõ¸ó
 ¡ú½øÈëÂÛÌ³
 ÎÄ¼ş£º»Ø¸´£ºÇë°ÑÄãµÄ»§ĞÍÍ¼·¢ÉÏÀ´
 (ppzhhsh)
-Í¼Æ¬£ºÎÒÓĞÒ»Ì×¾Ó×¡Ãæ»ı127Æ½Ã×µÄ·
-(hu_pipi81)
+Í¼Æ¬£ºÎÒÓĞÒ»Ì×¾Ó×¡Ãæ»ı127Æ½Ã×µÄ· (hu_pipi81)
 »Ø¸´£ººÃÏñÃ»ÓĞ´òµÆ¹â
-»¹ĞèÒª¶à´¦À
-(Ğ¦¿ÚÔÚÏß)
+»¹ĞèÒª¶à´¦À (Ğ¦¿ÚÔÚÏß)
 »Ø¸´£ºÇë°ÑÄãµÄ»§ĞÍÍ¼·¢ÉÏÀ´´ó¼Ò¸ø
 (Ğ¦¿ÚÔÚÏß)
 Í¼Æ¬£ºÔ²ĞÎÑÆ¿Ú
@@ -64824,15 +61919,12 @@ aëøÍõ¸ó
 (3870176)
 »Ø¸´£ºÍ¼Æ¬£ºĞÂÖĞÊ½¿ÍÌüĞ§¹ûÍ¼
 (wenzi0520)
-×îºÃÕÒÉè¼ÆÊ¦È¥ÏÖ³¡¿´Ò»ÏÂ,½»Á÷Ò»Ï
-(sdĞ¡º«shrj)
+×îºÃÕÒÉè¼ÆÊ¦È¥ÏÖ³¡¿´Ò»ÏÂ,½»Á÷Ò»Ï (sdĞ¡º«shrj)
 ÂÛÌ³×Ü¾«»ª
 (2609)
 ¡ú½øÈëÂÛÌ³¾«»ªÇø
-µÚ165ÆÚ¡¶Éè¼ÆÂÛÌ³¹«ÒæÃâ·ÑÉè¼Æ»î¶
-(aëøÍõ¸ó)
-Í¼Æ¬£º¡ö¡ö¹«ÒæÃâ·ÑÉè¼ÆµÚ166ÆÚ¡ö¡
-(B.Y.G)
+µÚ165ÆÚ¡¶Éè¼ÆÂÛÌ³¹«ÒæÃâ·ÑÉè¼Æ»î¶ (aëøÍõ¸ó)
+Í¼Æ¬£º¡ö¡ö¹«ÒæÃâ·ÑÉè¼ÆµÚ166ÆÚ¡ö¡ (B.Y.G)
 Í¼Æ¬£ºÉè¼ÆÂÛÌ³Éè¼Æ»î¶¯µÚ166ÆÚ
 **
 (ÂŞÅÌÉè¼Æ)
@@ -64843,12 +61935,9 @@ aëøÍõ¸ó
 Í¼Æ¬£º¡ï¡ï¡ïÉè¼ÆÂÛÌ³Ãâ·ÑÉè¼Æ»î¶¯
 (Éê¹¤ÔÚÏß)
 Í¼Æ¬£º
-¡ï¡ï¡ïÉè¼ÆÂÛÌ³¹«ÒæÃâ·ÑÉè¼
-(linger49)
-µÚ164ÆÚ¡¶Éè¼ÆÂÛÌ³¹«ÒæÃâ·ÑÉè¼Æ»î¶
-(aëøÍõ¸ó)
-Í¼Æ¬£º¡ï¡ïµÚ166ÆÚ¹«Òæ»§ĞÍÉè¼Æ»î¶
-(º£µÁ±Ï¼ÓË÷)
+¡ï¡ï¡ïÉè¼ÆÂÛÌ³¹«ÒæÃâ·ÑÉè¼ (linger49)
+µÚ164ÆÚ¡¶Éè¼ÆÂÛÌ³¹«ÒæÃâ·ÑÉè¼Æ»î¶ (aëøÍõ¸ó)
+Í¼Æ¬£º¡ï¡ïµÚ166ÆÚ¹«Òæ»§ĞÍÉè¼Æ»î¶ (º£µÁ±Ï¼ÓË÷)
 ¡ï¡ïµÚ166ÆÚ¹«Òæ»§ĞÍÉè¼Æ»î¶¯¡ï¡ï
 (ÈıÔ½·ÆÑ©)
 ±¾ÖÜ·¢ÌûÃ÷ĞÇ
@@ -64865,8 +61954,7 @@ aëøÍõ¸ó
 7.yycpentree
 48.º®Èªhanquan
 3
-9.¼Ò×°ÎÀÊ¿_òÚò
-310.luna00001
+9.¼Ò×°ÎÀÊ¿_òÚò310.luna00001
 3
 11.Eddiewang
 312.yuzchen
@@ -64982,12 +62070,10 @@ cloudsee
 ÓÃ»§Ãû×Ü»ı·Ö×°´óÑ§Àú
 1.·çÉĞ
 31670470²©Ê¿
-2.Ç¬Í¼Éè¼Æ*°
-15389966²©Ê¿
+2.Ç¬Í¼Éè¼Æ*°15389966²©Ê¿
 3.ºèÑï¼Ò×°¹¤
 9847614¸ßÒ»
-4.¡·µû¡¶
-7385405´ó¶ş
+4.¡·µû¡¶ 7385405´ó¶ş
 5.°ÙÍò¼ÒÔ°¼à
 6235739²©Ê¿
 6.Çå³¿µÄ·ç
@@ -64998,8 +62084,7 @@ cloudsee
 5546309³õÈı
 9.¿Õ¼äÖ©Öë
 4471264¸ß¶ş
-10.½ñ³¯Éè¼Æ*°
-4300521´óÈı
+10.½ñ³¯Éè¼Æ*°4300521´óÈı
 11.Ò×ÀíÉè¼ÆÀÏ
 3990772²©Ê¿
 12.Ç¬Í¼Éè¼Æ
@@ -65030,8 +62115,7 @@ cloudsee
 (ÏÖÔÚ¹²ÓĞ
 65101Ìõ
 ÆÀÂÛ)×îĞÂÆÀÂÛ£º¡ú½øÈëÂÛÌ³
-Í¼Æ¬£ºÎÒÓĞÒ»Ì×¾Ó×¡Ãæ»ı127Æ½Ã×µÄ·
-hu_pipi81
+Í¼Æ¬£ºÎÒÓĞÒ»Ì×¾Ó×¡Ãæ»ı127Æ½Ã×µÄ· hu_pipi81
 ÓĞÌ×98Æ½·½·¿×Ó£¬Çë´ó¼Ò°ïÃ¦Éè¼ÆÒ»
 3870176
 ÄÏÃæµÄÑôÌ¨
@@ -65048,15 +62132,12 @@ B.Y.G
 Í¼Æ¬£º¡ï¡ï¡ïÉè¼ÆÂÛÌ³Ãâ·ÑÉè¼Æ»î¶¯µÚ
 Éê¹¤ÔÚÏß
 Í¼Æ¬£º
-¡ï¡ï¡ïÉè¼ÆÂÛÌ³¹«ÒæÃâ·ÑÉè¼Æµ
-linger49
-Í¼Æ¬£º¡ï¡ïµÚ166ÆÚ¹«Òæ»§ĞÍÉè¼Æ»î¶¯¡
-º£µÁ±Ï¼ÓË÷
+¡ï¡ï¡ïÉè¼ÆÂÛÌ³¹«ÒæÃâ·ÑÉè¼Æµ linger49
+Í¼Æ¬£º¡ï¡ïµÚ166ÆÚ¹«Òæ»§ĞÍÉè¼Æ»î¶¯¡ º£µÁ±Ï¼ÓË÷
 ¡ï¡ïµÚ166ÆÚ¹«Òæ»§ĞÍÉè¼Æ»î¶¯¡ï¡ï
 Òµ
 ÈıÔ½·ÆÑ©
-Í¼Æ¬£º¡ï¡ï¡ï¹«ÒæÃâ·ÑÉè¼ÆµÚ165ÆÚ¡ï¡
-B.Y.G
+Í¼Æ¬£º¡ï¡ï¡ï¹«ÒæÃâ·ÑÉè¼ÆµÚ165ÆÚ¡ï¡ B.Y.G
 »§ĞÍµãÆÀ
 °æÖ÷:éªÄ¾nanmu,Å·¶È,À¶É«º£Ñı,·¢Ñ¿µÄÊ¯Í·
 (ÏÖÔÚ¹²ÓĞ
@@ -65064,8 +62145,7 @@ B.Y.G
 ÆÀÂÛ)×îĞÂÆÀÂÛ£º¡ú½øÈëÂÛÌ³
 »Ø¸´£ºÍ¼Æ¬£ºÏë°ÑÁ½¾Ó¸Ä³ÉÈı¾Ó£¬¸ô
 ponponwang
-»Ø¸´£ºÍ¼Æ¬£º×¼±¸½¨·¿×ÓÁË,¸ÕÉè¼Æµ
-ponponwang
+»Ø¸´£ºÍ¼Æ¬£º×¼±¸½¨·¿×ÓÁË,¸ÕÉè¼Æµ ponponwang
 ¿ÉÒÔËµËµ´óÌåÉÏ¾Ó×¡µÄÒªÇó£¬Èç¹ûÊÇ
 linger49
 ¹ıÄêºÃ£¡¡°Á½¾Ó¸Ä³ÉÈı¾Ó¡±Î¨Ò»µÄ·½
@@ -65085,8 +62165,7 @@ w__j__2007
 ÂÃÍ¾SOSO
 Í¼Æ¬£ºÏÖÔÚ¼òÔ¼£¬ÎÂÜ°¼Ò¾Ó£¬ĞÄÁéµÄ¸Û
 ÂÃÍ¾SOSO
-Í¼Æ¬£º»Ø¹é×ÔÈ»£¬²»¾«µñÏ¸¿Ì.ÌïÔ°·ç¸
-ÂÃÍ¾SOSO
+Í¼Æ¬£º»Ø¹é×ÔÈ»£¬²»¾«µñÏ¸¿Ì.ÌïÔ°·ç¸ ÂÃÍ¾SOSO
 ×÷Æ·Õ¹Ê¾
 °æÖ÷:ÈıÔ½·ÆÑ©
 (ÏÖÔÚ¹²ÓĞ
@@ -65098,8 +62177,7 @@ w__j__2007
 ·Ûºì°¬Àö
 Í¼Æ¬£º¿´¿´ÀÏÍâµÄÊÒÄÚ¿äÕÅÕğº³Éè¼Æ
 ÍêÃÀÊÎ¼Ò»á
-»Ø¸´£ºÍ¼Æ¬£ºÎÒÃÇµÄ×îĞÂ×÷Æ·,Çë¸÷Î
-heshan190
+»Ø¸´£ºÍ¼Æ¬£ºÎÒÃÇµÄ×îĞÂ×÷Æ·,Çë¸÷Î heshan190
 ²»¿ÍÆø£¡
 °¢±òÔ­´´Éè
 (ÏÖÔÚ¹²ÓĞ
@@ -65124,8 +62202,7 @@ heshan190
 ÆÀÂÛ)×îĞÂÆÀÂÛ£º¡ú½øÈëÂÛÌ³
 Í¼Æ¬£º±£ÀûÂ¢ÉÏÉè¼Æ×÷Æ·¼øÉÍ£¡£¡£¡
 ¶«Ò×¼¯ÍÅ×Ü
-»Ø¸´£º¹ı¼¸ÌìÒª½»·¿ÁË.²»ÖªµÀÄÄÀïµ
-tengjie121
+»Ø¸´£º¹ı¼¸ÌìÒª½»·¿ÁË.²»ÖªµÀÄÄÀïµ tengjie121
 Ç±Á¦¡£¡£
 Ò¹ÓêĞ¡¾«Áé
 ÔÙ¹Ø×¢in
@@ -65170,17 +62247,15 @@ xsfeng
 ÈıÔ½·ÆÑ©
 Í¼Æ¬£º
 Ğ¡»§ĞÍ²»ÊÇÎÒÃÇµÄ×¨Àû¡ª¡ª
-Ç¬Í¼Éè¼Æ*°
+Ç¬Í¼Éè¼Æ*°</li>
 ±ÚÖ½£¬´°Á±¼°²¼ÒÕµÄĞ­µ÷´îÅä
 ÈıÔ½·ÆÑ©
 ¡ö¡ö¡ö²è¼¸Ò»½ÇÖĞµÄµãµãĞÄË¼¡ö¡ö¡ö·Ï
 Ò»ÌìÊÀ½çÇç
 Ş¹ÒÂ²İÃÔµüÏã
-ÀËÂşµäÑÅµÄÓ¢Ê½Ïç´å¼Ò¾
-Ò»ºşÇïË®
+ÀËÂşµäÑÅµÄÓ¢Ê½Ïç´å¼Ò¾ Ò»ºşÇïË®
 Í¼Æ¬£ºÕÀ·Å»¨ÑùµÄÇé»³
-É«ÓÕÄãµÄÊÓ¾õÉ
-´ºÌìÄ¾ÃÅ
+É«ÓÕÄãµÄÊÓ¾õÉ ´ºÌìÄ¾ÃÅ
 Ê©¹¤´ğÒÉ
 °æÖ÷:éªÄ¾nanmu,¿Õ¼äÖ©Öë
 (ÏÖÔÚ¹²ÓĞ
@@ -65202,7 +62277,7 @@ ddlcuky
 100¸ö×°ĞŞĞ¡ÖªÊ¶£¬»¶Ó­ÅÄ×©à¶~~~~~~~
 Ë®Ä¾¶£µ±
 »Ø¸´£ºÃ»ÕĞ£¡Ö»ÒªÑÌµÀÏàÍ¨£¬¿Ï¶¨Ã»ÕĞ
-Ç¬Í¼Éè¼Æ*°
+Ç¬Í¼Éè¼Æ*°</li>
 ÏÖ´úÈË¶ÔÎÀÉú¼äµÄ×°ÊÎÒªÇóÔ½À´Ô½¸ß£¬
 ÇàÇá·ÉÑï
 Í¼Æ¬£ºÍ¼½âµØ×©¸ÉÆÌ.
@@ -65218,12 +62293,10 @@ ddlcuky
 ÆÀÂÛ)×îĞÂÆÀÂÛ£º¡ú½øÈëÂÛÌ³
 ÉêÇë°ßÖñ
 shanrenxin
-»Ø¸´£º2006ÖĞ¹úÊÒÄÚÉè¼Æ´óÈüBJ137º
-Ë®¾§ÏÚ½È×Ó
+»Ø¸´£º2006ÖĞ¹úÊÒÄÚÉè¼Æ´óÈüBJ137º Ë®¾§ÏÚ½È×Ó
 ÄãËµËµÄãµÄÏë·¨¼°¾Ó×¡Çé¿ö£¬²ÅºÃ°ï
 Ğ¡°ÔÍõ»¨
-Èë»§ÃÅ¿Ú×îºÃ×öĞ¬¹ñ,²Í×ÀµÄÎ»ÖÃÒÆµ
-±ùË®×ÏÓñ
+Èë»§ÃÅ¿Ú×îºÃ×öĞ¬¹ñ,²Í×ÀµÄÎ»ÖÃÒÆµ ±ùË®×ÏÓñ
 Í¼Æ¬£º¾´Çë¸ßÊÖ¸øÉè¼ÆÒ»ÏÂ£¡£¡£¡
 haishibiha
 (ÏÖÔÚ¹²ÓĞ
@@ -65233,10 +62306,8 @@ haishibiha
 ½¹µãĞ¡Éú
 2007Äê9ÔÂ18ÈÕ-±±¾©ÈüÇø10Ç¿Óë´óÈüÆÀ
 ½¹µãĞ¡Éú
-¡ï¡ï[¾«²Ê»Ø¹Ë]2007¡°ÍşÄÜ±­¡±ÖĞ¹ú£¨
-½¹µãĞ¡Éú
-¡ö¡ö¡ö9ÔÂ22ÈÕ(ÖÜÁù)¡°ÍşÄÜ±­¡±07ÖĞ¹
-½¹µãĞ¡Éú
+¡ï¡ï[¾«²Ê»Ø¹Ë]2007¡°ÍşÄÜ±­¡±ÖĞ¹ú£¨ ½¹µãĞ¡Éú
+¡ö¡ö¡ö9ÔÂ22ÈÕ(ÖÜÁù)¡°ÍşÄÜ±­¡±07ÖĞ¹ ½¹µãĞ¡Éú
 ¡î¡ï¡î2007ÍşÄÜ±­ÖĞ¹úÊÒÄÚÉè¼ÆÃ÷ĞÇ´ó
 ½¹µãĞ¡Éú
 ¡ï¡ï¶ÔÓÚÈçºÎÉè¼Æ¼ÒÔ°ĞÄÀï»¹Ã»Æ×£¿Ïë
@@ -65259,8 +62330,7 @@ yuzchen
 (ÏÖÔÚ¹²ÓĞ
 59Ìõ
 ¾«»ªÌû×Ó)£º¡ú½øÈëÂÛÌ³¾«»ªÇø
-Í¼Æ¬£ºÔÆµÍåâ²İÏã----xlc×îĞÂÎ¯ÍĞÉè¼
-éªÄ¾nanmu
+Í¼Æ¬£ºÔÆµÍåâ²İÏã----xlc×îĞÂÎ¯ÍĞÉè¼ éªÄ¾nanmu
 Í¼Æ¬£º×òÌìÈ¥ÒµÖ÷¼ÒÅÄÁËÁ½¸ö»ù±¾ÉÏÅª
 éªÄ¾nanmu
 Í¼Æ¬£º°Â±±ÏßÏÂ»î¶¯ÏÖ³¡ÅÄÁËÒ»Ğ©´ó¼Ò
@@ -65300,7 +62370,7 @@ liuyuanfen
 Í¼Æ¬£º·¢¼¸ÕÅÊÕ²ØÒÑ¾ÃµÄÍ¼Æ¬£¬Ï£ÍûÄÜ
 Ã×À¼Ö®Ô¼
 Í¼Æ¬£º¡ö¡ö¡öÉè¼ÆÂÛÌ³Ãâ·ÑÉè¼Æ»î¶¯µÚ
-Ç¬Í¼Éè¼Æ*°
+Ç¬Í¼Éè¼Æ*°</li>
 Ğ¡×éÍÆ¼öÏà²á
 £¨Çë°æÖ÷ÔÚÓûÍÆ¼öÏà²áÒ³ÃæÍÆ¼ö£©¸ü¶àÏàÆ¬Ïà²á>>
 [¹«ÒæÃâ·ÑÉè¼Æ°Â±±Ğ¡Çø×¨³¡]
@@ -67432,13 +64502,11 @@ aëøÍõ¸ó
 Éè¼ÆÊ¦£ºÀ½Í¥¹¤
 B.Y.G
 Í¼Æ¬£ºÒ»Ğ©ºÃµÄ¼ÒÊÎÍ¼Æ¬ĞÀÉÍ,
-ÊÇ×Ô¼ºÊÕ¼¯µÄ(Ö®Ê®
-shanrenx
+ÊÇ×Ô¼ºÊÕ¼¯µÄ(Ö®Ê® shanrenx
 ×£¸£´ó¼Ò2008¿ìÀÖÖĞ¹ú£¬¿ìÀÖĞÂÄê£¡
 µã»÷Õæ³Ï
 Í¼Æ¬£ºÒ»Ğ©ºÃµÄ¼ÒÊÎÍ¼Æ¬ĞÀÉÍ,
-ÊÇ×Ô¼ºÊÕ¼¯µÄ(Ö®¾Å
-shanrenx
+ÊÇ×Ô¼ºÊÕ¼¯µÄ(Ö®¾Å shanrenx
 ¡ú¸ü¶à¾«»ªÌù
 ±¾ÖÜ»ı·ÖÃ÷ĞÇ°ñ
 ÓÃ»§Ãû
@@ -67464,7 +64532,7 @@ shanrenx
 1.Ç¬Í¼Éè¼Æ*°¢52128
 2.·çÉĞ39865
 3.Ç¬Í¼Éè¼Æ20719
-4.¡·µû¡¶13906
+4.¡·µû¡¶13906 
 5.ÌÔÆø¶µ¶µ12168
 6.Ğ¡ÇÉ¶ù9991
 7.ÈıÔ½·ÆÑ©7834
@@ -68191,8 +65259,7 @@ home(2)
 [Ïà²á]µãµãµã(0)
 ´´½¨ÈË£º²»ËÀ½Ì»Ê
 [Ïà²á]¡·µû¡¶µÄÊÖ»æ(4)
-´´½¨ÈË£º¡·µû¡¶
-[Ïà²á]Ô½²ã\¸´Ê½\±ğÊûÈ«¼¯(124)
+´´½¨ÈË£º¡·µû¡¶  [Ïà²á]Ô½²ã\¸´Ê½\±ğÊûÈ«¼¯(124)
 ´´½¨ÈË£ºĞ¦¿Ú³¨¿ªÉè¼Æ
 [Ïà²á]¡ïÇ¬Í¼×°ÊÎ°¸ÀıÊµ¾°Ê®Áù¡ïÉ½Ë®ÎÄÔ°³Â¼Ò(11)
 ´´½¨ÈË£ºÇ¬Í¼Éè¼Æ*°¢Öì
@@ -68522,9 +65589,8 @@ Home(0)
 [Ïà²á]ÂÌµºÈË¼Ò(25)
 ´´½¨ÈË£ºÂÌµºÈË¼Ò
 [Ïà²á]²Í×À(10)
-´´½¨ÈË£º¡·µû¡¶
-[Ïà²á]ÎÔÊÒ±³¾°(12)
-´´½¨ÈË£º¡·µû¡¶
+´´½¨ÈË£º¡·µû¡¶  [Ïà²á]ÎÔÊÒ±³¾°(12)
+´´½¨ÈË£º¡·µû¡¶ 
 [Ïà²á]±¿±¿ĞÜ*qq(4)
 ´´½¨ÈË£º±¿±¿ĞÜ*qq
 [Ïà²á]¡ï¡ï¨€¨€¡ï·çÉĞ¼Ò×°×÷Æ·¡ï¨€¨€¡ï¡ï(1070)
@@ -68542,11 +65608,8 @@ Home(0)
 [Ïà²á]ÃÀÀöºúÌÒÄ¾(5)
 ´´½¨ÈË£º×°ĞŞÈË¼Ò
 [Ïà²á]¨€¨€
-¡·µû¡¶
-&
-Í¬ÖÛöÎÒµ×°ÊÎ¨€¨€(353)
-´´½¨ÈË£º¡·µû¡¶
-[Ïà²á]kittyhan2µÄ¼Ò(0)
+¡·µû¡¶ & Í¬ÖÛöÎÒµ×°ÊÎ¨€¨€(353)
+´´½¨ÈË£º¡·µû¡¶  [Ïà²á]kittyhan2µÄ¼Ò(0)
 ´´½¨ÈË£ºkittyhan2
 [Ïà²á]²ËÄñµÄ¼Ò(14)
 ´´½¨ÈË£ºgreatslam
@@ -68625,8 +65688,7 @@ Home(0)
 [Ïà²á]×°ĞŞÍêµÄ----Êµ¾°Í¼Æ¬(9)
 ´´½¨ÈË£º¨ˆÉîÛÚÉß¿Ú×°ÊÎ±±¾©¹«Ë¾
 [Ïà²á]¨€¡·µû¡¶µÄÅäÊÎÍ¼Æ¬¨€(33)
-´´½¨ÈË£º¡·µû¡¶
-[Ïà²á]ÎÒµÄĞ¡Îİ(1)
+´´½¨ÈË£º¡·µû¡¶  [Ïà²á]ÎÒµÄĞ¡Îİ(1)
 ´´½¨ÈË£ºxufangwan
 [Ïà²á]ÎÒµÄĞ¡Îİ(6)
 ´´½¨ÈË£ºxufangwan
@@ -68649,8 +65711,7 @@ Home(0)
 [Ïà²á]ĞÄ¶ùÔÚ·ÉÏ²»¶µÄ»¨»¨²İ²İ(11)
 ´´½¨ÈË£ºĞÄ¶ùÔÚ·É
 [Ïà²á]¡ï¡ï¡ï¹«ÒæÉè¼Æ»î¶¯¡ï¡ï¡ï(23)
-´´½¨ÈË£º¡·µû¡¶
-[Ïà²á]myhome(1)
+´´½¨ÈË£º¡·µû¡¶  [Ïà²á]myhome(1)
 ´´½¨ÈË£ºxiandai15
 [Ïà²á]×Ï³Ç´ú±í»§ĞÍÉè¼Æ
 Ğ¦¿Ú³¨¿ª(7)
@@ -68664,7 +65725,7 @@ Home(0)
 [Ïà²á]½»ĞÄÏà²á(1)
 ´´½¨ÈË£º½»ĞÄ
 [Ïà²á]¶«·½¼ÒÔ°(6)
-´´½¨ÈË£º¡·µû¡¶
+´´½¨ÈË£º¡·µû¡¶ 
 [Ïà²á]µØ¿µ(10)
 ´´½¨ÈË£ºcuisr8
 [Ïà²á]ÔªÖŞ¿á·ã(19)
@@ -68704,7 +65765,7 @@ Home(0)
 [Ïà²á]ÎÒµÄ´´Òâ(5)
 ´´½¨ÈË£ºĞ¡×°ÏÈÉú
 [Ïà²á]·¢(1)
-´´½¨ÈË£º¡·µû¡¶
+´´½¨ÈË£º¡·µû¡¶ 
 [Ïà²á]¼¯ÌïÉè¼ÆµÄÍêÃÀÉú»î(5)
 ´´½¨ÈË£ºsimen1980
 [Ïà²á]È½È½ºÍĞ¡ÃÃ¹·(2)
@@ -70394,8 +67455,7 @@ house(1)
 ´´½¨ÈË£ºhanmingyue111
 [Ïà²á]www.seseca.comÊ¢ÊÎ¼ÑÈËÎ¨ÃÀÊÎÆ·(4)
 ´´½¨ÈË£ºhanmingyue111
-[Ïà²á]ÓÍ»­ÒÕÊõ(É½Ë®·ç¾°
-Äµµ¤»¨»Ü)(26)
+[Ïà²á]ÓÍ»­ÒÕÊõ(É½Ë®·ç¾° Äµµ¤»¨»Ü)(26)
 ´´½¨ÈË£ºhuagu
 [Ïà²á]Lei
 Liang

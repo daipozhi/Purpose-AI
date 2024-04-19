@@ -44,8 +44,8 @@ int deb_upper_string(char *p_instr);
 #include <stdio.h>
 
 
-#define BTREE6_SIZE   20000
-#define BTREE6_LSIZE  20000
+#define BTREE6_SIZE   7500
+#define BTREE6_LSIZE  7500
 
     char  t6_node_mark[BTREE6_SIZE];
 

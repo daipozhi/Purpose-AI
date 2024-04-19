@@ -17485,8 +17485,7 @@ CEOÈ¨ºÕ±ò
 ·¢²¼»áÏÖ³¡2
 QQ·ÉĞĞµº£¨nanaimo£©ÊÇÒÔÔÚ»Äµº·¢ÉúµÄÃ°ÏÕºÍÌôÕ½Îª±³¾°ÖÆ×÷µÄĞÂ¸ÅÄîÍøÂçÓÎÏ·¡£
 QQ·É³µÊÇÓÃÊÀ½ç¼¶µÄÎïÀíÒıÇæPhysX´òÔìµÄÊ±ÉĞì­³µĞİÏĞ»¥¶¯ÓÎÏ·£¬ÓÎÏ·ÍêÈ«Ãâ·Ñ£¬QQºÅÂë¼´¿ÉµÇÂ½¡£
-¡¶Cross
-Fire¡·ÊÇSmile
+¡¶Cross Fire¡·ÊÇSmile
 Gate¾«ĞÄ´òÔìµÄ£¬ÊÇÃèÊöÊÀ½ç¸÷¹úÌØÖÖ²¿¶Ó³öÉíµÄÈ«ÇòÓµ±ø¹É·İ¹«Ë¾Ö®¼äÖ®¶Ô¾öµÄFPSÓÎÏ·¡£
 ¡¤ÌÚÑ¶ÓÎÏ·PK³¡ÉÏµÄ³¬¼¶Å®Éú
 ¡¤ÌÚÑ¶¡¶Ê¢ÌÆ¡·CJÔÙÏÖ´óÌÆÊ¤ÊÀ
@@ -18593,17 +18592,13 @@ NPCËµÃ÷
 ±¸
 Ğ¬×Ó
 ·ş×°
-[ÓÂÊ¿
-¹­ÊÖ]
+[ÓÂÊ¿ ¹­ÊÖ]
 Í·¿ø
-[½üÕ½
-Ô¶Õ½]
+[½üÕ½ Ô¶Õ½]
 ÊÖïí
-[½üÕ½
-Ô¶Õ½]
+[½üÕ½ Ô¶Õ½]
 ÏîÁ´
-[½üÕ½
-Ô¶Õ½]
+[½üÕ½ Ô¶Õ½]
 Îä
 Æ÷
 ¶Ü
@@ -18987,13 +18982,9 @@ NPC
 °®ĞÄ¹¥ÂÔ
 ³èÎïĞÄµÃ
 µØÍ¼¹¥ÂÔ
-[
-1¡ª25¼¯¼¶¹ÖÎï·Ö²¼
-]
+[ 1¡ª25¼¯¼¶¹ÖÎï·Ö²¼ ]
 ¾«Á¶¹¥ÂÔ
-[
-·À¾ß¡¤ÎäÆ÷
-]
+[ ·À¾ß¡¤ÎäÆ÷ ]
 ½ø¼¶Ö¸µ¼
 ³èÎï
 ÈÎÎñ
@@ -19012,16 +19003,11 @@ NPC
 ¹ÖÎï½éÉÜ
 ºÃÓÑÁÄÌì
 Õ½¶·¼¼ÄÜ
-[
-ÓÂ¸Ò¡¤°®ĞÄ¡¤µ÷Æ¤
-]
+[ ÓÂ¸Ò¡¤°®ĞÄ¡¤µ÷Æ¤ ]
 µØÍ¼½éÉÜ
-[
-³ÇÕò¡¤ÊÀ½çµØÍ¼¡¤ĞÂÊÖ
-]
+[ ³ÇÕò¡¤ÊÀ½çµØÍ¼¡¤ĞÂÊÖ ]
 µÀ¾ß½éÉÜ
-[
-Ê³Îï¡¤Ò©Æ·¡¤¾«Á¶²ÄÁÏ¡¤Ì××°
+[ Ê³Îï¡¤Ò©Æ·¡¤¾«Á¶²ÄÁÏ¡¤Ì××°
 ¸±ÊÖ¡¤ÎäÆ÷¡¤³èÎïµÀ¾ß
 ]
 ÓÎÏ·Ãû³Æ:
@@ -19625,12 +19611,9 @@ Gray
 ÀÍÀ­ÈëÑ¡¼ªÄáË¹×î³É¹¦µÄÓÎÏ·Å®Ö÷½Ç£¡
 ¡¤
 ¶¯×÷Ã°ÏÕ[¹ÅÄ¹ÀöÓ°£º´«Ææ]ÊÔÍæ°æÏÂÔØ
-¡¤¡¶¹ÅÄ¹ÀöÓ°
-´«Ææ¡·×îĞÂ»­Ãæ¹«²¼[¶àÍ¼]
-¡¤¡¶¹ÅÄ¹ÀöÓ°
-´«Ææ¡·360°æĞÂ»­Ãæ[¶àÍ¼]
-¡¤¡¶¹ÅÄ¹ÀöÓ°
-´«Ææ¡·Ğ°¶ñÃÀÅ®ÏÖÉí[¶àÍ¼]
+¡¤¡¶¹ÅÄ¹ÀöÓ° ´«Ææ¡·×îĞÂ»­Ãæ¹«²¼[¶àÍ¼]
+¡¤¡¶¹ÅÄ¹ÀöÓ° ´«Ææ¡·360°æĞÂ»­Ãæ[¶àÍ¼]
+¡¤¡¶¹ÅÄ¹ÀöÓ° ´«Ææ¡·Ğ°¶ñÃÀÅ®ÏÖÉí[¶àÍ¼]
 ¡¤¡¶¹ÅÄ¹ÀöÓ°£º´«Ææ¡·ĞÂ»­Ãæ¹«²¼[¶àÍ¼]
 ¡¤
 Ê·ÉÏ×î±ÆÕæĞÔ¸ĞÀÍÀ­´úÑÔÈË¹«²¼[¶àÍ¼]
@@ -20462,8 +20445,7 @@ WCG2007
 ¡¤
 Ğ¡Óã¶ùÓë»¨ÎŞÈ±¾ªÌì¶¯µØÁ½´óÀñºĞÉÏÊĞ
 [16ÈÕ]
-¡¤¡¶Ğ¡Óã¶ùÓë»¨ÎŞÈ±
-OL¡·Õü¾È¿É°®÷çÂ¹
+¡¤¡¶Ğ¡Óã¶ùÓë»¨ÎŞÈ± OL¡·Õü¾È¿É°®÷çÂ¹
 [19ÈÕ]
 ¡¤
 Ğ¡»¨¾ªÏÖ´ï·ÒÆæÃÜÂëÆÆ½â¡°ÄÏÌìÃØ±¦¡±
@@ -22008,22 +21990,15 @@ Reserved
 ¾«²Ê½ØÍ¼
 |
 ÓÎÏ·ÂÛÌ³
-[
-Ä§ÊŞ3:±ù·åÍõ×ù¸÷×åÒªµãÖ¸ÄÏ´óÈ«
-]
+[ Ä§ÊŞ3:±ù·åÍõ×ù¸÷×åÒªµãÖ¸ÄÏ´óÈ« ]
 ÏÈÒªÇ¿µ÷µÄÊÇ±¾ÎÄ²¢²»Ò»¶¨È«¶ÔÄãÓĞÓÃ~Ö»ÊÇ¡°¿ÉÄÜ²»ÖªµÀµÄ¶«¶«¡°¶øÒÑ£¬¶øÇÒÎ´±ØËùÓĞµÄ¶¼ÊµÓÃ¡£
-[
-BOOMÄ§ÊŞµÄËï×Ó±ø·¨£¡]
+[ BOOMÄ§ÊŞµÄËï×Ó±ø·¨£¡]
 ×ªÔØ×Ô£ºÓÎÄÁÃñ×åÄ§ÊŞ3ÂÛÌ³£¬BOOMÔ­´´¡£
-[
-Ä§ÊŞÕù°Ô3£º±ù·âÍõ×ù-¾«ÁéÈÎÎñ
-]
+[ Ä§ÊŞÕù°Ô3£º±ù·âÍõ×ù-¾«ÁéÈÎÎñ ]
 ÊÀ½çÖ®Ê÷ÔÚ¾«ÁéµÄ±¬Õ¨ºóÊ£ÏÂÁË²ª²ªÉú»úµÄÊ÷¸ù£¬
 ELF£¬ORC£¬HUMANÔÚ²Ğ´æµÄ´óÂ½ÉÏ¸÷×ÔÑ°ÕÒµ½°²ÑøÉúÏ¢µÄ³¡Ëù
 µ«ÊÇ......
-[
-Ä§ÊŞ3v1.06£º¸Ä½ø»¹ÊÇ±ä¸ï
-]
+[ Ä§ÊŞ3v1.06£º¸Ä½ø»¹ÊÇ±ä¸ï ]
 ÔÚ×îĞÂµÄ²¹¶¡ÖĞÕâĞ©±øÖÖ×öÁËÍêÈ«µÄ±ä¶¯¡£ËüÃÇÏÖÔÚ¾ßÓĞ×Ô¼º¶ÀÌØµÄÄ§·¨ĞÍ¹¥»÷ÀàĞÍ£¨ÏóÄ§ÊŞ3×ÊÁÏÆ¬ÀïÒ»Ñù£©£¬Í¬Ê±»¤¼×ÀàĞÍÎªÎŞ»¤¼×¡£¶øÇÒ£¬ËüÃÇµÄÄ§·¨Öµ»Ö¸´ËÙ¶ÈÌá¸ßÁË£¬Í¬Ê±Ê©·ÅÄ§·¨ÏûºÄµÄÄ§·¨Öµ½µµÍ¡£Õâ¶ÔÄãÒâÎ¶×ÅÊ²Ã´£¿
 ¹ØÓÚÌÚÑ¶
 |
@@ -22685,8 +22660,7 @@ sİÚƒºs
 ÓÎÏ·Ğû´«Æ¬
 Æ¯ÁÁµÄÓÎÏ·»­Ãæ£¬¶¯¸ĞµÄÒôÀÖ½Ú×à
 Î¨ÎèÆÀ²â±¨¸æ
-½øÈë¡¶Î¨Îè¶À×ğ
-Online¡·ÓÎÏ·ºó£¬Ê×ÏÈÒª½¨Á¢Ò»¸ö¸öĞÔµÄÄã£¬ÔÚ´´½¨½ÇÉ«À¸£¬Äã¿ÉÒÔ¾ö¶¨ÄãµÄĞÔ±ğ¡¢·ôÉ«¡¢·¢ĞÍ¡¢Îå¹Ù¡¢ÉÏ°ëÉí¡¢ÏÂ°ëÉí¡¢Ğ¬×Ó£¬×îºóÔÙÈ¡Ò»¸öÏìÁÁµÄÃû×Ö¡£ÈËÎï´´½¨Íêºó£¬±ã¿ÉÒÔ½øÈëĞÂÊÖ½ÌÑ§À´ÊìÏ¤Õâ¸öÓÎÏ·ÁË¡£½øÈëĞÂÊÖ½ÌÑ§ºóÎÒÃÇ·¢ÏÖ£¬¾¹È»ÊÇ²ÌÒÀÁÖÃæ¶ÔÃæµÄ½ÌÎÒÃÇ£¬ÔÚÕâÀïÎÒÃÇ¿ÉÒÔÑ§Ï°µ½¡¶Î¨Îè¶À×ğOL¡·µÄ¸÷ÖÖÍæ·¨...
+½øÈë¡¶Î¨Îè¶À×ğ Online¡·ÓÎÏ·ºó£¬Ê×ÏÈÒª½¨Á¢Ò»¸ö¸öĞÔµÄÄã£¬ÔÚ´´½¨½ÇÉ«À¸£¬Äã¿ÉÒÔ¾ö¶¨ÄãµÄĞÔ±ğ¡¢·ôÉ«¡¢·¢ĞÍ¡¢Îå¹Ù¡¢ÉÏ°ëÉí¡¢ÏÂ°ëÉí¡¢Ğ¬×Ó£¬×îºóÔÙÈ¡Ò»¸öÏìÁÁµÄÃû×Ö¡£ÈËÎï´´½¨Íêºó£¬±ã¿ÉÒÔ½øÈëĞÂÊÖ½ÌÑ§À´ÊìÏ¤Õâ¸öÓÎÏ·ÁË¡£½øÈëĞÂÊÖ½ÌÑ§ºóÎÒÃÇ·¢ÏÖ£¬¾¹È»ÊÇ²ÌÒÀÁÖÃæ¶ÔÃæµÄ½ÌÎÒÃÇ£¬ÔÚÕâÀïÎÒÃÇ¿ÉÒÔÑ§Ï°µ½¡¶Î¨Îè¶À×ğOL¡·µÄ¸÷ÖÖÍæ·¨...
 ...[²é¿´ÏêÏ¸...]
 ÅäÖÃĞèÇó
 »ù±¾ÅäÖÃ
@@ -24558,8 +24532,7 @@ MD5£º77513B2E409F3AAF2AEC3DB4062981C9
 ÍêÈ«°²×°³ÌĞò
 ´óĞ¡£º
 4.67GB
-(5,024,733,024
-×Ö½Ú)
+(5,024,733,024 ×Ö½Ú)
 ÍêÈ«°²×°ÌáÊ¾£º
 ¸ÃÍêÈ«°²×°³ÌĞòÊÊÓÃÓÚÃ»ÓĞ°²×°¹ıÈÎºÎ¡¶Ä§ÊŞÊÀ½ç¡·¿Í»§¶ËµÄµçÄÔ£¬ÔËĞĞ´Ë³ÌĞòºó£¬»á½«×îĞÂ·ç±©Ç°Ï¦°æ±¾µÄÍêÕû¡¶Ä§ÊŞÊÀ½ç¡·ÖĞÎÄ¿Í»§¶Ë°²×°ÔÚÄúµÄ»úÆ÷ÖĞ¡£Èç¹ûÄúÏëÊ¹ÓÃ´Ë°²×°³ÌĞò£¬ÇëÏÈÈ·±£ÄúµÄ»úÆ÷ÖĞÃ»ÓĞ°²×°¹ıÈÎºÎ°æ±¾µÄ¡¶Ä§ÊŞÊÀ½ç¡·¿Í»§¶Ë£¬»ò½«¡¶Ä§ÊŞÊÀ½ç¡·¿Í»§¶ËÏÈĞ¶ÔØºóÔÙ°²×°´ËÍê³É°²×°³ÌĞò¡£
 2.1.0.6692
@@ -26389,20 +26362,17 @@ QQµçÌ¨
 Ñª¾«Áé¹Ù·½FAQ
 È¼ÉÕµÄÔ¶Õ÷ÖĞ½«»á³öÏÖµÄĞÂµÄÓ¢ĞÛ£º
 ´ïÄÉË¹¡¤ÍĞ¶û±´¶÷
-[Danath
-Trollbane]
+[Danath Trollbane]
 ÒÁÀûµ¤
 [Illidan]
 ¿­¶ûÈøË¹
 [Kael'Thas]
 ·¨Ë¹ç÷Å®Ê¿
-[Lady
-Vashj]
+[Lady Vashj]
 ¿¨¼ÓË¹
 [Kargath]
 ¿¨µÂ¼Ó
-[Mage
-Khadgar]
+[Mage Khadgar]
 ÂêÉªÀï¶Ù
 [Magtheridon]
 ÂóµÏÎÄ
@@ -26620,10 +26590,8 @@ Reserved
 Ö÷ÂÛÌ³
 °Â½ğ¶Ù
 ¸±±¾½éÉÜ
-°Â½ğ¶Ù£¨Auchindoun£©£¬ÈçÍ¬ÃÀÀöÁ³ÅÓÉÏµÄÒ»µÀ³óÂªÉËºÛ£¬ÕÀ·ÅÔÚÓÄ¾²ºÍĞ³µÄÌØÂŞ¿¨É­ÁÖ£¨Terokkar
-Forest£©ÖĞ¡£
-ÕâÊÇÒ»Æ¬³äÂú×Å»ÄÎß¡¢ËÀÍöºÍÉñÃØµÄ·ÏÍÁ£¬»ÒÉ«µÄÍÁÈÀ¡¢¾Ş´óµÄÊ¬º¡ºÍ¹îÒìµÄ»úĞµ±é²¼¸÷´¦¡£ÊÇÌ©Ì¹´´ÊÀÊ±µÄÊÔÑé³¡£¿ÒÖ»òÊÇÖîÉñÖ®Õ½µÄÒÅ¼££¿Ã»ÓĞÈËÖªµÀ¡£Ò»Èº±»¸´³ğÃÉ±ÎÁËË«ÑÛµÄµÂÀ³ÄáÈË¡¢ÓÎµ´µÄÆÆËéÕßÖ®ÁéºÍÒ»¸öÉñÃØµÄ¾«ÉñÉúÃüÌåÖÖ×åÏËÁéÕ¼¾İ×ÅÕâÀï£¬ËùÓĞ°¬ÔóÀ­Ë¹µÄ·Ã¿Í¶¼ÊÇ²»ÊÜ»¶Ó­µÄ¡£ËÄ¸ö·ç¸ñåÄÒìµÄµØÏÂ³Ç¹¹³ÉÁË°Â½ğ¶Ù¾Ş´óµÄµØµ×³ÇÊĞ£¬ÏËÁéËù½¨ÔìµÄÄ§Á¦Ä¹Ñ¨£¨Mana
-Tomb£©¾ÍÊÇÆäÖĞÖ®Ò»¡£
+°Â½ğ¶Ù£¨Auchindoun£©£¬ÈçÍ¬ÃÀÀöÁ³ÅÓÉÏµÄÒ»µÀ³óÂªÉËºÛ£¬ÕÀ·ÅÔÚÓÄ¾²ºÍĞ³µÄÌØÂŞ¿¨É­ÁÖ£¨Terokkar Forest£©ÖĞ¡£
+ÕâÊÇÒ»Æ¬³äÂú×Å»ÄÎß¡¢ËÀÍöºÍÉñÃØµÄ·ÏÍÁ£¬»ÒÉ«µÄÍÁÈÀ¡¢¾Ş´óµÄÊ¬º¡ºÍ¹îÒìµÄ»úĞµ±é²¼¸÷´¦¡£ÊÇÌ©Ì¹´´ÊÀÊ±µÄÊÔÑé³¡£¿ÒÖ»òÊÇÖîÉñÖ®Õ½µÄÒÅ¼££¿Ã»ÓĞÈËÖªµÀ¡£Ò»Èº±»¸´³ğÃÉ±ÎÁËË«ÑÛµÄµÂÀ³ÄáÈË¡¢ÓÎµ´µÄÆÆËéÕßÖ®ÁéºÍÒ»¸öÉñÃØµÄ¾«ÉñÉúÃüÌåÖÖ×åÏËÁéÕ¼¾İ×ÅÕâÀï£¬ËùÓĞ°¬ÔóÀ­Ë¹µÄ·Ã¿Í¶¼ÊÇ²»ÊÜ»¶Ó­µÄ¡£ËÄ¸ö·ç¸ñåÄÒìµÄµØÏÂ³Ç¹¹³ÉÁË°Â½ğ¶Ù¾Ş´óµÄµØµ×³ÇÊĞ£¬ÏËÁéËù½¨ÔìµÄÄ§Á¦Ä¹Ñ¨£¨Mana Tomb£©¾ÍÊÇÆäÖĞÖ®Ò»¡£
 ·ÖÖ§ÇøÓò
 ·ÖÖ§¸±±¾Ãû³Æ
 µÈ¼¶
@@ -26646,16 +26614,14 @@ BOSS½éÉÜ
 1¡¢ËÀÍöÊØÍûÕßÊ©À­¿Ë£¨66¼¶¾«Ó¢£©
 2¡¢´óÖ÷½ÌÂêÀ­´ï¶û£¨67¼¶¾«Ó¢£©
 ÔİÎŞ
-ÈûÌ©¿Ë´óÌü£¨Sethekk
-Halls£©
+ÈûÌ©¿Ë´óÌü£¨Sethekk Halls£©
 67-69¼¶
 5ÈËĞ¡¶Ó
 É³ËşË¹Æ¶Ãñ¿ß
 1¡¢°µÓ°±àÖ¯ÕßÎ÷Ë¹£¨69¼¶¾«Ó¢£©
 2¡¢×¦ÍõÒÁ¿ËË¹£¨69¼¶¾«Ó¢£©
 ÔİÎŞ
-°µÓ°ÃÔ¹¬£¨Shadow
-Labyrinth£©
+°µÓ°ÃÔ¹¬£¨Shadow Labyrinth£©
 68-70¼¶
 5ÈËĞ¡¶Ó
 É³ËşË¹Æ¶Ãñ¿ß
@@ -26820,8 +26786,7 @@ Reserved
 ËùÊôÉùÍû
 BOSS½éÉÜ
 ¿ªÃÅÈÎÎñ
-ÈûÌ©¿Ë´óÌü£¨Sethekk
-Halls£©
+ÈûÌ©¿Ë´óÌü£¨Sethekk Halls£©
 67-69¼¶
 5ÈËĞ¡¶Ó
 É³ËşË¹Æ¶Ãñ¿ß
@@ -26922,8 +26887,7 @@ Reserved
 ËùÊôÉùÍû
 BOSS½éÉÜ
 ¿ªÃÅÈÎÎñ
-°µÓ°ÃÔ¹¬£¨Shadow
-Labyrinth£©
+°µÓ°ÃÔ¹¬£¨Shadow Labyrinth£©
 68-70¼¶
 5ÈËĞ¡¶Ó
 É³ËşË¹Æ¶Ãñ¿ß
@@ -27036,8 +27000,7 @@ Reserved
 ¸±±¾´ò·¨Ïê½â
 ×°±¸µôÂäÁĞ±í
 ÒÁÀûµ¤¡¤Å­·ç
-(Illidan
-Stormrage)
+(Illidan Stormrage)
 BOSS½éÉÜ
 ÑªÁ¿£º
 5£¬900£¬000
@@ -27461,8 +27424,7 @@ Reserved
 ËùÊôÉùÍû
 BOSS½éÉÜ
 ¿ªÃÅÈÎÎñ
-ºÚ°µÕÓÔó£¨Black
-Morass£©
+ºÚ°µÕÓÔó£¨Black Morass£©
 70-72¼¶
 5ÈËĞ¡¶Ó
 Ê±¼äÊØ»¤Õß
@@ -27566,8 +27528,7 @@ Reserved
 ËùÊôÉùÍû
 BOSS½éÉÜ
 ¿ªÃÅÈÎÎñ
-¾ÉÏ£¶ûË¹²¼À³µÂ£¨Old
-Hillsbrad£©
+¾ÉÏ£¶ûË¹²¼À³µÂ£¨Old Hillsbrad£©
 66-68¼¶
 5ÈËĞ¡¶Ó
 Ê±¼äÊØ»¤Õß
@@ -27578,8 +27539,7 @@ Skarloc£¨68¼¶¾«Ó¢£©
 3¡¢Epoch
 Hunter£¨68¼¶¾«Ó¢£©
 ÔİÎŞ
-ºÚ°µÕÓÔó£¨Black
-Morass£©
+ºÚ°µÕÓÔó£¨Black Morass£©
 70-72¼¶
 5ÈËĞ¡¶Ó
 Ê±¼äÊØ»¤Õß
@@ -27959,8 +27919,7 @@ Reserved
 ËùÊôÉùÍû
 BOSS½éÉÜ
 ¿ªÃÅÈÎÎñ
-¾ÉÏ£¶ûË¹²¼À³µÂ£¨Old
-Hillsbrad£©
+¾ÉÏ£¶ûË¹²¼À³µÂ£¨Old Hillsbrad£©
 66-68¼¶
 5ÈËĞ¡¶Ó
 Ê±¼äÊØ»¤Õß
@@ -28044,10 +28003,8 @@ Reserved
 Ö÷ÂÛÌ³
 ÅÌÑÀË®¿â
 ¸±±¾½éÉÜ
-ÄÉåÈÒªÈûÅÌÑÀ¶´Ñ¨[Coilfang
-Reservoir]¡£ÕâÊÇÒ»¸öµØÏÂ±ÃÕ¾£¬ºÍÖ®Ç°¿´¼ûµÄ½ØÍ¼Ò»Ñù£¬Õâ¸öµØÏÂ³ÇµÄÉè¼Æ×¨ÃÅÕë¶ÔÁ½ÆÜÉúÎï£¬³±Êª¶øËÄÍ¨·¢´ï£¬ÕâÀïÒ²ÊÇ·ÖÖ§¸±±¾¡£ÄÉåÈÅ®Íõ·¨Ë¹ç÷Å®Ê¿Õ¼¾İ×ÅÕâÀï£¬Ëı½«ÔÚÕâÀï»¶Ó­¸÷Î»µ¨´óÍıÎªµÄÃ°ÏÕÕßÇ°À´ÌôÕ½¡£°Â½ğ¶Ù[Auchindoun]ÔòÊÇÊÊºÏ6XÖĞ¼¶µÄ¸±±¾£¬ÕâÀïÔøÊÇµÂÀ³ÄáÈËµÄÄ¹µØ£¬Ò»Èº¶éÂäÊŞÈËÊÔÍ¼ÔÚ´ËÕÙ»½¶ñÄ§£¬Æäºó¹ûÊÇ¸ÃµØ¼¸ºõ±»ÒÄÆ½¡£
-ÅÌÑÀ¶´Ñ¨ÓÉ2¸ö¸ß¼¶5ÈË·ÖÖ§ºÍ1¸ö25ÈËRaid¸±±¾×é³É£¬×îÖÕÄ¿±êÊÇ»÷°Ü·¨Ë¹ç÷Å®Ê¿[Lady
-Vasj]¡£
+ÄÉåÈÒªÈûÅÌÑÀ¶´Ñ¨[Coilfang Reservoir]¡£ÕâÊÇÒ»¸öµØÏÂ±ÃÕ¾£¬ºÍÖ®Ç°¿´¼ûµÄ½ØÍ¼Ò»Ñù£¬Õâ¸öµØÏÂ³ÇµÄÉè¼Æ×¨ÃÅÕë¶ÔÁ½ÆÜÉúÎï£¬³±Êª¶øËÄÍ¨·¢´ï£¬ÕâÀïÒ²ÊÇ·ÖÖ§¸±±¾¡£ÄÉåÈÅ®Íõ·¨Ë¹ç÷Å®Ê¿Õ¼¾İ×ÅÕâÀï£¬Ëı½«ÔÚÕâÀï»¶Ó­¸÷Î»µ¨´óÍıÎªµÄÃ°ÏÕÕßÇ°À´ÌôÕ½¡£°Â½ğ¶Ù[Auchindoun]ÔòÊÇÊÊºÏ6XÖĞ¼¶µÄ¸±±¾£¬ÕâÀïÔøÊÇµÂÀ³ÄáÈËµÄÄ¹µØ£¬Ò»Èº¶éÂäÊŞÈËÊÔÍ¼ÔÚ´ËÕÙ»½¶ñÄ§£¬Æäºó¹ûÊÇ¸ÃµØ¼¸ºõ±»ÒÄÆ½¡£
+ÅÌÑÀ¶´Ñ¨ÓÉ2¸ö¸ß¼¶5ÈË·ÖÖ§ºÍ1¸ö25ÈËRaid¸±±¾×é³É£¬×îÖÕÄ¿±êÊÇ»÷°Ü·¨Ë¹ç÷Å®Ê¿[Lady Vasj]¡£
 ·ÖÖ§ÇøÓò
 ·ÖÖ§¸±±¾Ãû³Æ
 µÈ¼¶
@@ -28055,9 +28012,7 @@ Vasj]¡£
 ËùÊôÉùÍû
 BOSS½éÉÜ
 ¿ªÃÅÈÎÎñ
-Å«Á¥Î§À¸£¨The
-Slave
-Pens£©
+Å«Á¥Î§À¸£¨The Slave Pens£©
 62-64¼¶
 5ÈËĞ¡¶Ó
 ÈûÄÉÀï°ÂÔ¶Õ÷¾ü£¨ÁªÃË£©
@@ -28066,8 +28021,7 @@ Pens£©
 2¡¢¿ü¸ñÃ×À¼£¨64¼¶¾«Ó¢£©
 3¡¢ËéÁÑÕßÂå¿ËÂê£¨64¼¶¾«Ó¢£©
 ÔİÎŞ
-ÓÄ°µÕÓÔó£¨The
-Underbog£©
+ÓÄ°µÕÓÔó£¨The Underbog£©
 63-65¼¶
 5ÈËĞ¡¶Ó
 ÈûÄÉÀï°ÂÔ¶Õ÷¾ü£¨ÁªÃË£©
@@ -28076,8 +28030,7 @@ Underbog£©
 3¡¢Ù¤ÔŞ£¨65¼¶¾«Ó¢£©
 4¡¢ºº¼Ó·Ò£¨65¼¶¾«Ó¢£©
 ÔİÎŞ
-ÕôÆûµØ¿ß£¨The
-Steamvault£©
+ÕôÆûµØ¿ß£¨The Steamvault£©
 70-72¼¶
 5ÈËĞ¡¶Ó
 ÈûÄÉÀï°ÂÔ¶Õ÷¾ü£¨ÁªÃË£©
@@ -28085,8 +28038,7 @@ Steamvault£©
 2¡¢ÕôÆû»úĞµÊ¦Ë¹µÙÄ·À×¸ñ£¨72¼¶¾«Ó¢£©
 3¡¢¾ü·§¿¨ÀûÉªÀ×Ê²£¨72¼¶¾«Ó¢£©
 ÔİÎŞ
-¶¾ÉßÉñµî¶´Ñ¨£¨Serpentshrine
-Carvern£©
+¶¾ÉßÉñµî¶´Ñ¨£¨Serpentshrine Carvern£©
 ÔİÎŞ
 25ÈËÍÅ¶Ó
 ÔİÎŞ
@@ -28166,9 +28118,7 @@ Reserved
 ¸±±¾´ò·¨Ïê½â
 ×°±¸µôÂäÁĞ±í
 ²»ÎÈ¶¨µÄº£¶ÈË¹
-(Hydross
-the
-Unstable)
+(Hydross the Unstable)
 BOSS½éÉÜ
 ÑªÁ¿£º
 3£¬400£¬000
@@ -28180,12 +28130,10 @@ BOSS½éÉÜ
 BOSS¼¼ÄÜ
 º£¶ÈË¹µÄÓ¡¼Ç
 Ã¿15Ãë·¢×÷Ò»´ÎµÄ¶Ñµş×ÔÈ»£¨¶¾ĞÔ½×¶Î£©»ò±ùËª£¨Ë®/±ùÏµ½×¶Î£©Ò×ÉË£¬Ê¹ÄãÊÜµ½µÄ´ËÀàÉËº¦Ìá¸ßÎª10%£¬25%£¬50%£¬100%£¬250%£¬»áÓ°Ïìµ½ÍÅ¶ÓÖĞµÄÃ¿Ò»¸öÈË£¬ÎŞ·¨Í¨¹ıÔ¶Àë»ò¶ãµ½Ç½ºó£¨ÊÓÏßÍâ£©À´¹æ±Ü¡£³ıÁËµÈ´ı30ÃëÊ¹Æä×Ô¶¯ÏûÊ§Íâ£¬Ã»ÓĞÈÎºÎ·½·¨¿ÉÒÔÒÆ³ı¡£Õâ¸öÓ¡¼ÇĞ§¹û½öÓ°Ïìµ±Ç°½×¶ÎËùÊÜµ½µÄ¼¼ÄÜ/Èâ²«ÉËº¦£¬ÒòÎªÕâÊÇÄãÎ¨Ò»»áÊÜµ½µÄÉËº¦ÀàĞÍ¡£
-Ë®Ö®Ä¹µØ£¨Water
-Tomb£©
+Ë®Ö®Ä¹µØ£¨Water Tomb£©
 ½«Ä¿±ê»÷ÔÎ4Ãë²¢Ôì³É´óÁ¿µÄÉËº¦£¬Ä¿±ê·¶Î§ÄÚ8ÂëµÄÆäËûÈËÒ²»áÊÜµ½Í¬ÑùµÄÉËº¦ÇÒ»á²»¶ÏÌøÏòÏÂÒ»¸ö¸½½üµÄÄ¿±ê¡£Ëü»á»÷ÔÎDPS£¨ÕâÀï×îÔã¸âµÄ¾ÍÊÇDPSµÄ¼õÉÙ£©£¬²¢ÇÒÈç¹ûÌøÁËÌ«¶àµÄÄ¿±ê£¬×îÖÕµÄ½á¹û¾ÍÊÇËÀÍö£¬¶ø¼õÔ±×îÖÕµ¼ÖÂÍÅÃğ£¬ËùÒÔ±ØĞëËùÓĞÈË·ÖÉ¢Õ¾Î»¡£Õâ¸ö¼¼ÄÜÖ»ÓĞÔÚ±ùËª½×¶Î»áÊ©·Å£¬Ã¿7ÃëÒ»´Î¡£¶øÇÒ»á±»º£¶ÈË¹µÄÓ¡¼ÇËùÓ°Ïì£¬Èç¹û²»¼°Ê±ÖÎÁÆ£¬100%µÄÒ×ÉË¿ÉÒÔÖ±½ÓÃëÉ±¶ÓÔ±¡£Õâ¸ö·¨Êõ»áËæ»ú¶Ô·ÇMTÄ¿±êÊ©·Å¡£
 µÁÔô¿ÉÒÔÔÚBOSS°ÑÄ¿±ê×ªÏòÄãµÄÒ»Ë²¼äÁ¢¿ÌÏûÊ§£¬ÔÚBOSS×ª»»Ä¿±êºÍÊ©·¨Ê±»áÓĞĞ©Î¢µÄÍ£¶Ù£¬×ãÒÔÈÃÄã±Ü¿ªÉËº¦£¬ËùÒÔÒ»¶¨Òª´ò¿ªÄ¿±êµÄÄ¿±êÑ¡Ïî²¢Ê±¿Ì×¼±¸ÏûÊ§¡£ÕâÑù×öÄÜ¹»¸ü¶àµÃÌá¸ßDPS²¢½ÚÊ¡ÖÎÁÆµÄ·¨Á¦¡£
-±°ÁÓµÄÈíÄà£¨Vile
-Sludge£©
+±°ÁÓµÄÈíÄà£¨Vile Sludge£©
 Ê¹·¨ÊõÉËº¦ºÍÖÎÁÆĞ§¹û½µµÍ50%£¬ÔÚÎ´ÊÜÓ¡¼ÇÓ°ÏìµÄÊ±ºòÃ¿ÃëÊÜµ½500µãÉËº¦£¬³ÖĞø24Ãë¡£Õâ¸ö¼¼ÄÜ½öÔÚ¶¾ĞÔ½×¶Î³öÏÖ£¬Ã¿¸ô15Ãë¶ÔÍÅ¶ÓËæ»úÄ¿±êÊ©·ÅÒ»´Î£¬ÉËº¦»á±»Ó¡¼ÇËùÓ°Ïì¶øÌáÉı¡£Õâ¸öĞ§¹ûÔÚ¶àÊıÇé¿öÏÂ¿ÉÒÔÎŞÊÓ£¬Ò²¿ÉÒÔ±»Ä§·¨ÎŞĞ§µÄ¼¼ÄÜÈçÎŞµĞºÍ°µÓ°¶·ÅñËù½â³ı¡£
 ÕÙ»½Ë®ÔªËØ
 ÒÔº£¶ÈË¹ÎªÖĞĞÄµÄÖÜÎ§Ë¢ĞÂËÄ¸öĞ¡¹Ö£¬Õâ¸ö¼¼ÄÜ»áÔÚÌ¤ÈëÄ³¸öÌØ¶¨ÇøÓòµÄ±ß½çÊ±±»´¥·¢£¬Á½¸ö´¥·¢µãºÍĞ¡¹ÖµÄÏàÓ¦Î»ÖÃ¼ûÏÂÃæµÄÕ¾Î»Í¼¡£ÔÚ±ùËª½×¶Î£¬º£¶ÈË¹ÕÙ»½ËÄ¸ö´¿¾»µÄ×¦ÑÀ£¬´óÔ¼55000HP£¬¶¾ĞÔ½×¶Î£¬ÕÙ»½ËÄ¸ö¸¯»µµÄ×¦ÑÀ£¬´óÔ¼62500HP¡£
@@ -28245,17 +28193,14 @@ x
 Ô¶³ÌDPS£º»ğÁ¦Ò©¼Á£¬·¨ÄÜÒ©¼Á£¬ÌØĞ§»ğÁ¦/±ùËª/°µÓ°Ö®Á¦Ò©¼Á£¬ÒÔ¼°ÆäËûÉËº¦ÀàÏûºÄÆ·¡£
 Ì¹¿Ë£ºÇ¿¹ÌºÏ¼Á£¬·ÀÓùÒ©Ë®£¬ÕÆ¿ØÒ©¼Á£¬ÒÔ¼°ÈÎºÎÆäËû¿ÉÒÔÌáÉıÄÍÁ¦µÄÏûºÄÆ·¡£×¢Òâ£¬Ê¯¶ÜÀàÒ©Ë®ÊÇÃ»ÓĞÒâÒåµÄ£¬ÈÎºÎ¡°Èâ²«¡±¹¥»÷¶¼ÊÇÓĞÔªËØÊôĞÔµÄ£¬ÍêÈ«ÊÇ¼ì²â¿¹ĞÔ¶ø·Ç»¤¼×¡£
 ÖÎÁÆ£ºÇ¿Ğ§»Ø¸´ºÏ¼Á£¬·¨Á¦ÔÙÉúÒ©Ë®£¬ÖÎÓúÖ®Á¦Ò©¼Á£¬ÒÔ¼°ÆäËûÈÎºÎÄÜ¹»ÌáÉıÖÎÁÆĞ§ÂÊºÍ·¨Á¦µÄÏûºÄÆ·¡£
-±ùËª·À»¤Ò©Ë®ÔÚ±ùËª½×¶Î»á·Ç³£ÓĞ°ïÖú£¬µ«²¢²»ÊÇ±ØĞëµÄ£¬×ÔÈ»·À»¤Ò©Ë®Ò²Ò»Ñù¡£µ«ÊÇBOSSµÄË®Ö®Ä¹µØ£¨Water
-Tomb£©¼¼ÄÜºÜÓĞ¿ÉÄÜ»÷ÖĞÄã£¬ÒòÎªËü»áÓÉ±ßÉÏµÄÈËÁ´Ê½¹¥»÷¹ıÀ´£¬ÔÚÕ½¶·Ç°ºÈÒ»Æ¿±ù¿¹Ò©Ë®»á¸üÈİÒ×Ó¦¶Ô¡£±°ÁÓµÄÈíÄà£¨Vile
-Sludge£©µÄÉËº¦ºÜµÍ£¬¶øÇÒÕ½¶·ÖĞÒ²ºÜÉÙ»áÉËº¦µ½ÈË£¬×ÔÈ»¿¹Ò©Ë®Ïà¶ÔÀ´ËµÒªÎŞ¹Ø½ôÒªÒ»Ğ©¡£
+±ùËª·À»¤Ò©Ë®ÔÚ±ùËª½×¶Î»á·Ç³£ÓĞ°ïÖú£¬µ«²¢²»ÊÇ±ØĞëµÄ£¬×ÔÈ»·À»¤Ò©Ë®Ò²Ò»Ñù¡£µ«ÊÇBOSSµÄË®Ö®Ä¹µØ£¨Water Tomb£©¼¼ÄÜºÜÓĞ¿ÉÄÜ»÷ÖĞÄã£¬ÒòÎªËü»áÓÉ±ßÉÏµÄÈËÁ´Ê½¹¥»÷¹ıÀ´£¬ÔÚÕ½¶·Ç°ºÈÒ»Æ¿±ù¿¹Ò©Ë®»á¸üÈİÒ×Ó¦¶Ô¡£±°ÁÓµÄÈíÄà£¨Vile Sludge£©µÄÉËº¦ºÜµÍ£¬¶øÇÒÕ½¶·ÖĞÒ²ºÜÉÙ»áÉËº¦µ½ÈË£¬×ÔÈ»¿¹Ò©Ë®Ïà¶ÔÀ´ËµÒªÎŞ¹Ø½ôÒªÒ»Ğ©¡£
 ÆäËûÒªÇó
 Ìì¸³£ºËùÓĞÈËµÄÌì¸³±ØĞëÊÇ´¿PvEÏò£¬ÒÔ×î´óµÄ¿ÉÄÜÌáÉıÍÅ¶ÓµÄÕ½¶·Á¦¡£
 UI²å¼ş£¬Ì¹¿ËÃÇĞèÒªÒ»¸ö¼ÆÊ±Æ÷²¢¸ø³ö¶ÑµşÉËº¦¾¯¸æ¡£
 µÚÈı·½³ÌĞò£ºVentrilo»òÏàËÆµÄÓïÒô½»Á÷Èí¼ş¡£ÍÅ¶ÓĞèÒªÒÔÓïÒô½»Á÷ÖÎÁÆ£¬ÏÂÒ»²½Ì¹¿Ë½»»»£¬·¨Á¦ÏûºÄ£¬Ğ¡¹Ö³ğºŞ×´Ì¬µÈĞÅÏ¢¡£
 ÍÅÃğÔ¤°¸
 »ÆÏß£º×î´ó¸´»î·¶Î§
-ºìÏß£ºÄàÕÓÁìÖ÷£¨The
-Boglord£©³ğºŞ·¶Î§
+ºìÏß£ºÄàÕÓÁìÖ÷£¨The Boglord£©³ğºŞ·¶Î§
 À¶Ïß£ºÎŞ³ğºŞ°²È«¸´»î·¶Î§
 ×î¼ÑµÄÍÅÆËµØµãÔÚºìÏßÓÒ±ßµÄÀ¶Ïß·¶Î§ÄÚ¡£ÄàÕÓÁìÖ÷Ã¿¸ôÒ»Ğ¡Ê±Ë¢ĞÂ£¬±ØĞëÊ×ÏÈ±»¸Éµô£¬¸´»îÏß¸½½üµÄĞ¡¹Ö¿ÉÒÔÇåÀíÒ»ÏÂÒÔÔö¼Ó¸´»î¾àÀë£¬µ«Ç§ÍòÒªĞ¡ĞÄ²»ÒªÒıµ½ÁËBOSS¡£
 µ¹Ã¹µÄ¿ÉÄÜ
@@ -28445,9 +28390,7 @@ Reserved
 ËùÊôÉùÍû
 BOSS½éÉÜ
 ¿ªÃÅÈÎÎñ
-Å«Á¥Î§À¸£¨The
-Slave
-Pens£©
+Å«Á¥Î§À¸£¨The Slave Pens£©
 62-64¼¶
 5ÈËĞ¡¶Ó
 ÈûÄÉÀï°ÂÔ¶Õ÷¾ü£¨ÁªÃË£©
@@ -28547,8 +28490,7 @@ Reserved
 ËùÊôÉùÍû
 BOSS½éÉÜ
 ¿ªÃÅÈÎÎñ
-ÕôÆûµØ¿ß£¨The
-Steamvault£©
+ÕôÆûµØ¿ß£¨The Steamvault£©
 70-72¼¶
 5ÈËĞ¡¶Ó
 ÈûÄÉÀï°ÂÔ¶Õ÷¾ü£¨ÁªÃË£©
@@ -28649,8 +28591,7 @@ Reserved
 ËùÊôÉùÍû
 BOSS½éÉÜ
 ¿ªÃÅÈÎÎñ
-ÓÄ°µÕÓÔó£¨The
-Underbog£©
+ÓÄ°µÕÓÔó£¨The Underbog£©
 63-65¼¶
 5ÈËĞ¡¶Ó
 ÈûÄÉÀï°ÂÔ¶Õ÷¾ü£¨ÁªÃË£©
@@ -28745,39 +28686,28 @@ Reserved
 µÈ¼¶
 ËùÊôÇøÓò
 µØÓü»ğ±¤Àİ
-(Hellfire
-Citadel)
+(Hellfire Citadel)
 µØÓü»ğ³ÇÇ½
-(Hellfire
-Ramparts)
+(Hellfire Ramparts)
 60-62
 µØÓü»ğ°ëµº
 ÏÊÑªÈÛÂ¯
-(The
-Blood
-Furnace)
+(The Blood Furnace)
 61-63
 ÆÆËé´óÌü
-(The
-Shattered
-Halls)
+(The Shattered Halls)
 70-72
 ÅÌÑÀºş²´
-(Coilfang
-Reservoir)
+(Coilfang Reservoir)
 Å«Á¥Î§À¸
-(The
-Slave
-Pens)
+(The Slave Pens)
 62-64
 ÔŞ¼ÓÕÓÔó
 ÓÄ°µÕÓÔó
-(The
-Underbog)
+(The Underbog)
 63-65
 ÕôÆûµØ¿ß
-(The
-Steamvault)
+(The Steamvault)
 70-72
 °Â½ğ¶Ù
 (Auchindoun)
@@ -28789,41 +28719,31 @@ Steamvault)
 (Mana-Tombs)
 66-68
 ÈûÌ©¿Ë´óÌü
-(Sethekk
-Halls)
+(Sethekk Halls)
 67-69
 °µÓ°ÃÔ¹¬
-(Shadow
-Labyrinth)
+(Shadow Labyrinth)
 68-70
 Ê±¹âÖ®Ñ¨
-(Caverns
-of
-Time)
+(Caverns of Time)
 ¾ÉÏ£¶ûË¹²¼À³µÂ
-(Old
-Hillsbrad)
+(Old Hillsbrad)
 66-67
 ËşÄÉÀûË¹
 ºÚ°µÕÓÔó
-(Black
-Morass)
+(Black Morass)
 70-72
 ·ç±©ÒªÈû
-(Tempest
-Keep)
+(Tempest Keep)
 ÄÜÔ´½¢
-(The
-Mechanaar)
+(The Mechanaar)
 70-72
 Ğé¿Õ·ç±©
 ÉúÌ¬´¬
-(The
-Botanica)
+(The Botanica)
 70-72
 ½ûÄ§¼àÓü
-(The
-Arcatraz)
+(The Arcatraz)
 70-72
 10ÈË¸±±¾
 10ÈËÍÅ¶Ó¸±±¾Ãû³Æ
@@ -28838,31 +28758,22 @@ Arcatraz)
 25ÈËÍÅ¶Ó¸±±¾Ãû³Æ
 ËùÊôÇøÓò
 ¸êÂ³¶ûµÄ³²Ñ¨
-(Gruul's
-lair)
+(Gruul's lair)
 µ¶·æÉ½
 ÂêÉªÀï¶ÙµÄ³²Ñ¨
-(Magtheridon's
-lair)
+(Magtheridon's lair)
 µØÓü»ğ°ëµº
 Ê±¹âÖ®Ñ¨£ºº£¼Ó¶û
-(Caverns
-of
-Time£ºHyjal)
+(Caverns of Time£ºHyjal)
 ËşÄÉÀûË¹
 ¶¾ÉßÉñµî
-(Serpentshrine
-Carvern)
+(Serpentshrine Carvern)
 ÔŞ¼ÓÕÓÔó
 ·ç±©Ö®ÑÛ
-(Eye
-of
-the
-Storm)
+(Eye of the Storm)
 Ğé¿Õ·ç±©
 ºÚÉ«ÉñÃí
-(Black
-Temple)£¨Î´¿ª·Å£©
+(Black Temple)£¨Î´¿ª·Å£©
 Ó°ÔÂ¹È
 ¸±±¾Ç°ÖÃÁ÷³Ì½éÉÜ
 ¹ØÓÚÌÚÑ¶
@@ -28927,9 +28838,7 @@ Reserved
 ¸±±¾´ò·¨Ïê½â
 ×°±¸µôÂäÁĞ±í
 Äª¼Ó¶û´óÍõ
-(High
-King
-Maulgar)
+(High King Maulgar)
 BOSS½éÉÜ
 ÑªÁ¿£º
 750£¬000
@@ -29003,8 +28912,7 @@ Buff£¬½µµÍ»ğÑæÉËº¦£¬·¨Ê¦¿ÉÒÔÊ¹ÓÃ·¨ÊõÍµÈ¡£¬¶ÔµÖ¿¹»ğÊÖ±¾ÉíµÄ»ğÇòÊõÓĞĞ§¡£
 ×ÔÎÒÖÎÁÆ£º¿ÉÒÔ±»´ò¶Ï¡£
 ÖÎÁÆµ»ÑÔ£º·¶Î§ÖÎÁÆ£¬4ÃëÊ©·¨Ê±¼ä£¬Ã»ÓĞ·¶Î§ÏŞÖÆ£¨£¿£©²¢¿É¶ÔÃ¤ÑÛ¼°ÆäËüÍ¬°é»Ö¸´
 40%
-ÑªÁ¿£¨Ô¼
-100,000£©
+ÑªÁ¿£¨Ô¼ 100,000£©
 ÓïÑÔ×çÖä¡¢Âé±Ô¶¾Ò©¡¢ÖÂÉË¶¾Ò©¡¢»÷ÔÎ¶ÔÃ¤ÑÛ»¹Ã»Ìæ×Ô¼ºÉÏ¶ÜÊ±Ê®·ÖÓĞĞ§¡£
 µ±ËûÊ©·Å¶ÜÖ®ºó£¨ÀàËÆÕæÑÔÊõ£º¶Ü£©Ëû»á¿ªÊ¼Ê©·ÅÖÎÁÆµ»ÑÔ£¬ÔÚ¶Ü×÷ÓÃÆÚ¼ä¸÷ÖĞ¶ÏĞ§¹û¶¼Ã»ÓĞ×÷ÓÃ£¬ËùÒÔĞèÒªÒÀ¿¿DPS¾¡¿ì´òµô¶Ü²¢ÈÃµÁÔô¡¢Õ½Ê¿¿ìËÙ´ò¶ÏËûµÄÊ©·¨¡£
 ·èñ²ÕßÆæ¿ËÀÕ£¨ÈøÂú£©
@@ -29134,8 +29042,7 @@ Reserved
 BOSS½éÉÜ
 ¿ªÃÅÈÎÎñ
 µØÓü»ğ³ÇÇ½
-(Hellfire
-Ramparts)
+(Hellfire Ramparts)
 60-62¼¶
 5ÈËĞ¡¶Ó
 ÈÙÒ«±¤£¨ÁªÃË£©
@@ -29146,9 +29053,7 @@ Ramparts)
 ÄÉÔŞ£¨62¼¶¾«Ó¢£©
 ÔİÎŞ
 ÏÊÑªÈÛÂ¯
-(The
-Blood
-Furnace)
+(The Blood Furnace)
 61-63¼¶
 5ÈËĞ¡¶Ó
 ÈÙÒ«±¤£¨ÁªÃË£©
@@ -29158,9 +29063,7 @@ Furnace)
 3¡¢ÆÆ»µÕß¿ËÀïµ¤£¨63¼¶¾«Ó¢£©
 ÔİÎŞ
 ËéÁÑ´óÌü
-(The
-Shattered
-Halls)
+(The Shattered Halls)
 70-72¼¶
 5ÈËĞ¡¶Ó
 ÈÙÒ«±¤£¨ÁªÃË£©
@@ -29170,8 +29073,7 @@ Halls)
 3¡¢Çõ³¤¿¨¼ÓË¹ÈĞÈ­£¨72¼¶¾«Ó¢£©
 ÔİÎŞ
 ÂêÉªÀï¶ÙµÄ³²Ñ¨
-(Magtheridon's
-lair)
+(Magtheridon's lair)
 ÔİÎŞ
 25ÈËÍÅ¶Ó
 ÔİÎŞ
@@ -29240,8 +29142,7 @@ Reserved
 BOSS½éÉÜ
 ¿ªÃÅÈÎÎñ
 µØÓü»ğ³ÇÇ½
-(Hellfire
-Ramparts)
+(Hellfire Ramparts)
 60-62¼¶
 5ÈËĞ¡¶Ó
 ÈÙÒ«±¤£¨ÁªÃË£©
@@ -29424,8 +29325,7 @@ Longblade
 ÉËº¦
 ËÙ¶È
 2.60
-(52.9
-Ã¿ÃëÉËº¦)
+(52.9 Ã¿ÃëÉËº¦)
 +12
 ÄÍÁ¦
 ÄÍ¾Ã¶È
@@ -29554,8 +29454,7 @@ III
 70
 Ê¹ÓÃ:
 ½ÌÄãÑ§»áÊ©·ÅÒ°ĞÔ´Í¸£
-(µÈ¼¶
-3).
+(µÈ¼¶ 3).
 Ê¥µä:
 ¼áÈÍµ»ÑÔ
 III
@@ -29565,8 +29464,7 @@ III
 70
 Ê¹ÓÃ:
 ½ÌÄãÑ§»áÊ©·Å¼áÈÍµ»ÑÔ
-(µÈ¼¶
-3).
+(µÈ¼¶ 3).
 ÃØµä:
 ÔìÊ³Êõ
 VIII
@@ -29576,8 +29474,7 @@ VIII
 70
 Ê¹ÓÃ:
 ½ÌÄãÑ§»áÊ©·ÅÔìÊ³Êõ
-(µÈ¼¶
-8).
+(µÈ¼¶ 8).
 Badge
 of
 Justice
@@ -29806,9 +29703,7 @@ Reserved
 BOSS½éÉÜ
 ¿ªÃÅÈÎÎñ
 ÏÊÑªÈÛÂ¯
-(The
-Blood
-Furnace)
+(The Blood Furnace)
 61-63¼¶
 5ÈËĞ¡¶Ó
 ÈÙÒ«±¤£¨ÁªÃË£©
@@ -29883,8 +29778,7 @@ Sledgemace
 ÉËº¦
 ËÙ¶È
 2.50
-(41.2
-Ã¿ÃëÉËº¦)
+(41.2 Ã¿ÃëÉËº¦)
 +12
 ÄÍÁ¦
 +14
@@ -30183,9 +30077,7 @@ Reserved
 BOSS½éÉÜ
 ¿ªÃÅÈÎÎñ
 ËéÁÑ´óÌü
-(The
-Shattered
-Halls)
+(The Shattered Halls)
 70-72¼¶
 5ÈËĞ¡¶Ó
 ÈÙÒ«±¤£¨ÁªÃË£©
@@ -30265,10 +30157,7 @@ Reserved
 Ì«¹ÅÊ±´ú£¬³à¼¹É½ÂöµÄÄÏ¶Î·¢ÉúÁËÒ»³¡Ô­Òò²»Ã÷µÄ´ó±¬Õ¨£¬ĞÎ³ÉÁËÒ»×ù»·ĞÎÉ½£¬Ò²¾ÍÊÇÈç½ñµÄÄæ·çĞ¡¾¶£¬»·ĞÎÉ½ÖĞ²¿µÄÊ±¿ÕĞé»¯¡¢ÕÛµş£¬³ÉÎªÁËÓîÖæ¼äµÄÒ»´¦Ê±¿Õ½Úµã£¬Á¬½ÓÁËÆäËûÖî¶àÊÀ½çºÍÅ¤ÇúĞé¿Õ¡£
 ÎŞÊıÄêºó£¬ĞÇ½ç·¨Ê¦ÂóµÏÎÄ±»ÕâÀïµÄÊ±¿ÕÌØĞÔËùÎüÒı£¬ÎªÁË³¤ÆÚÑĞ¾¿ÕâÀï£¬ËûÔÚ½ÚµãÖĞĞÄ½¨ÁËÒ»×ùËş²¢¶¨¾Ó£¬Õâ¾ÍÊÇ½ñÌìµÄ
 ¿¨À­ÔŞÖ®Ëş¡£°¬ÔóÀ­Ë¹Íõ¹ú¹úÍõ¡¢ÂóµÏÎÄµÄºÃÓÑÀ³¶÷½«´ËµØ·â¸øÁËËû£¬ÊÚÓèËû¡°¿¨À­ÔŞµÄÖ÷Ô×´óÊ¦
-¡±£¨Master
-Mage
-of
-Karazhan£©ÕâÒ»³ÆºÅ¡£
+¡±£¨Master Mage of Karazhan£©ÕâÒ»³ÆºÅ¡£
 ÔÚÈÚÈëÁËÂóµÏÎÄÉ¢·¢³öÀ´µÄÁ¦Á¿ÒÔºó£¬¿¨À­ÔŞÖ®ËşÖğ½¥ºÍÊ±¿Õ½ÚµãÈÚºÏÎªÒ»Ìå£¬Ëş±¾Éí¾Í³ÉÁËÕâÌØÊâÊ±¿ÕµÄÒ»²¿·Ö¡£ÕâÕÛµşÅ¤ÇúµÄÊ±¿ÕÒ²ÊÇ¿¨À­ÔŞ»ÃÏóµÄ³ÉÒò£¬¿¨À­ÔŞµÄ»ÃÏó²¢·Ç´í¾õ»ò¹í»ê¡­¡­
 ¡¾¸ü¶àÄÚÈİ¡¿
 ¸±±¾½éÉÜ
@@ -30322,9 +30211,7 @@ BOSSÊıÁ¿£º16£¨3¸öÒş²ØBOSS£©
 ¸±±¾´ò·¨Ïê½â
 ×°±¸µôÂäÁĞ±í
 ¸±±¾Õ½¶·ÊÓÆµĞÀÉÍ
-[
-È«²¿BOSSÊÓÆµÁĞ±í
-]
+[ È«²¿BOSSÊÓÆµÁĞ±í ]
 ¡¤¿¨À­ÔŞ¸±±¾BOSSÕ½¶·ÊÓÆµ¡¾1¡¿¡ª¡ª
 ÁÔÊÖ°¢Í¼ÃÅ
 ¡¤¿¨À­ÔŞ¸±±¾BOSSÕ½¶·ÊÓÆµ¡¾2¡¿¡ª¡ª
@@ -30366,39 +30253,28 @@ BOSSÊıÁ¿£º16£¨3¸öÒş²ØBOSS£©
 µÈ¼¶
 ËùÊôÇøÓò
 µØÓü»ğ±¤Àİ
-(Hellfire
-Citadel)
+(Hellfire Citadel)
 µØÓü»ğ³ÇÇ½
-(Hellfire
-Ramparts)
+(Hellfire Ramparts)
 60-62
 µØÓü»ğ°ëµº
 ÏÊÑªÈÛÂ¯
-(The
-Blood
-Furnace)
+(The Blood Furnace)
 61-63
 ÆÆËé´óÌü
-(The
-Shattered
-Halls)
+(The Shattered Halls)
 70-72
 ÅÌÑÀºş²´
-(Coilfang
-Reservoir)
+(Coilfang Reservoir)
 Å«Á¥Î§À¸
-(The
-Slave
-Pens)
+(The Slave Pens)
 62-64
 ÔŞ¼ÓÕÓÔó
 ÓÄ°µÕÓÔó
-(The
-Underbog)
+(The Underbog)
 63-65
 ÕôÆûµØ¿ß
-(The
-Steamvault)
+(The Steamvault)
 70-72
 °Â½ğ¶Ù
 (Auchindoun)
@@ -30410,41 +30286,31 @@ Steamvault)
 (Mana-Tombs)
 66-68
 ÈûÌ©¿Ë´óÌü
-(Sethekk
-Halls)
+(Sethekk Halls)
 67-69
 °µÓ°ÃÔ¹¬
-(Shadow
-Labyrinth)
+(Shadow Labyrinth)
 68-70
 Ê±¹âÖ®Ñ¨
-(Caverns
-of
-Time)
+(Caverns of Time)
 ¾ÉÏ£¶ûË¹²¼À³µÂ
-(Old
-Hillsbrad)
+(Old Hillsbrad)
 66-67
 ËşÄÉÀûË¹
 ºÚ°µÕÓÔó
-(Black
-Morass)
+(Black Morass)
 70-72
 ·ç±©ÒªÈû
-(Tempest
-Keep)
+(Tempest Keep)
 ÄÜÔ´½¢
-(The
-Mechanaar)
+(The Mechanaar)
 70-72
 Ğé¿Õ·ç±©
 ÉúÌ¬´¬
-(The
-Botanica)
+(The Botanica)
 70-72
 ½ûÄ§¼àÓü
-(The
-Arcatraz)
+(The Arcatraz)
 70-72
 ¸±±¾Ô¿³×»ñÈ¡Ö¸ÄÏ
 [1A]
@@ -30616,8 +30482,7 @@ Reserved
 ´óÊ¦Ö®´¥
 È¥Ê±¹âÖ®Ñ¨£¨ÔÚËşÄÉÀûË¹£©µÄºÚ°µÖ®ÃÅÕÒÂóµÏÎÄ
 ×¢£º
-Òª½øÈëºÚ°µÖ®ÃÅ¸±±¾£¬±ØĞëÏÈ½ø¶Ø»ô¶ûµÂÍê³ÉÕü¾ÈÈø¶ûµÄÈÎÎñ£¬Òª½øÈë¶Ø»ô¶ûµÂ£¬±ØĞëÏÖÔÚÊ±¹âÖ®Ñ¨ÌıÇàÍ­ÁúNPC°²¶à¶ûÄ·£¨Ê±¹âÊØ»¤Õß£¬ËûÃÇ»¯ÉíÎªÈËĞÍ£©´øÄã×ßÒ»È¦½éÉÜÕâÀïµÄÇé¿ö¡­¡­£¨Ïà¹ØÈÎÎñ£º
-Ê±¹âÖ®Ñ¨ÍùÈÕµÄÏ£¶ûË¹²¼À³µÂºÚÉ«ÕÓÔó£©
+Òª½øÈëºÚ°µÖ®ÃÅ¸±±¾£¬±ØĞëÏÈ½ø¶Ø»ô¶ûµÂÍê³ÉÕü¾ÈÈø¶ûµÄÈÎÎñ£¬Òª½øÈë¶Ø»ô¶ûµÂ£¬±ØĞëÏÖÔÚÊ±¹âÖ®Ñ¨ÌıÇàÍ­ÁúNPC°²¶à¶ûÄ·£¨Ê±¹âÊØ»¤Õß£¬ËûÃÇ»¯ÉíÎªÈËĞÍ£©´øÄã×ßÒ»È¦½éÉÜÕâÀïµÄÇé¿ö¡­¡­£¨Ïà¹ØÈÎÎñ£º Ê±¹âÖ®Ñ¨ÍùÈÕµÄÏ£¶ûË¹²¼À³µÂºÚÉ«ÕÓÔó£©
 7¡¢
 »Øµ½¿¨µÂ¼ÓÄÇÀï
 »ØÉ³ËşË¹³ÇÕÒ¿¨µÂ¼Ó£¬
@@ -30954,8 +30819,7 @@ Reserved
 Ö÷ÂÛÌ³
 ·ç±©ÒªÈû
 ¸±±¾½éÉÜ
-ÍâÓòµÄ·ç±©ÒªÈûÊµ¼ÊÉÏÊÇÔ¶¹ÅÄÉÂ³ÒªÈû[Naaru
-Keep]Ö®Ò»¡£ÕâÊÇÒ»×ùÔËÓÃÄ§·¨Á¦Á¿½øĞĞ¿Õ¼äÂÃĞĞµÄ·ÉĞĞ³Ç±¤¡£µÂÀ³ÄáÈËÏëÊ¹ÓÃ·ç±©ÒªÈû´©ĞĞ°¬ÔòÀ­Ë¹£¬µ«ÒªÈû±»Ñª¾«ÁéËùÕ¼Áì£¬Õâ¾ÍÊÇ¡°Ê§ÇÔµÄ¿Æ¼¼¡±¡£Êµ¼ÊÉÏ¿­¶ûÈøË¹Íõ×ÓÂÊÁìµÄÑª¾«Áé²¢Ã»ÓĞ´ÓÒªÈûÖĞ»ñµÃ¿Æ¼¼£¬ÕâÈÃµÂÀ³ÄáÈËºŞÖ®Èë¹Ç¡£ÕâÊÇÒ»×ùÄ§·¨ÒªÈû¶ø²»ÊÇ¿Æ¼¼¿Õ¼ä·É´¬£¬¿ñÈÈÓÚÄ§·¨Á¦Á¿µÄÑª¾«ÁéÃÇ¸ü¼ÓÂúÒâËûÃÇµÄÇÔÈ¡³É¹û¡£
+ÍâÓòµÄ·ç±©ÒªÈûÊµ¼ÊÉÏÊÇÔ¶¹ÅÄÉÂ³ÒªÈû[Naaru Keep]Ö®Ò»¡£ÕâÊÇÒ»×ùÔËÓÃÄ§·¨Á¦Á¿½øĞĞ¿Õ¼äÂÃĞĞµÄ·ÉĞĞ³Ç±¤¡£µÂÀ³ÄáÈËÏëÊ¹ÓÃ·ç±©ÒªÈû´©ĞĞ°¬ÔòÀ­Ë¹£¬µ«ÒªÈû±»Ñª¾«ÁéËùÕ¼Áì£¬Õâ¾ÍÊÇ¡°Ê§ÇÔµÄ¿Æ¼¼¡±¡£Êµ¼ÊÉÏ¿­¶ûÈøË¹Íõ×ÓÂÊÁìµÄÑª¾«Áé²¢Ã»ÓĞ´ÓÒªÈûÖĞ»ñµÃ¿Æ¼¼£¬ÕâÈÃµÂÀ³ÄáÈËºŞÖ®Èë¹Ç¡£ÕâÊÇÒ»×ùÄ§·¨ÒªÈû¶ø²»ÊÇ¿Æ¼¼¿Õ¼ä·É´¬£¬¿ñÈÈÓÚÄ§·¨Á¦Á¿µÄÑª¾«ÁéÃÇ¸ü¼ÓÂúÒâËûÃÇµÄÇÔÈ¡³É¹û¡£
 ·ç±©ÒªÈûÊÇ×îĞÂ¿ª·ÅµÄ¸±±¾Ëü×ùÂäÔÚĞé¿Õ·ç±©ÖĞ£¬±ØĞë³É×÷·ÉĞĞ×øÆï²ÅÄÜµ½´ï¸±±¾£¨ÖØµãË«ÒıºÅµÄÒâË¼Ã²ËÆÊõÊ¿²»ÄÜÀ­¹ş¹şÊõÊ¿²»ÓÃÀ­ÈËµÄ¸±±¾£©
 ·ÖÖ§ÇøÓò
 ·ÖÖ§¸±±¾Ãû³Æ
@@ -30964,8 +30828,7 @@ Keep]Ö®Ò»¡£ÕâÊÇÒ»×ùÔËÓÃÄ§·¨Á¦Á¿½øĞĞ¿Õ¼äÂÃĞĞµÄ·ÉĞĞ³Ç±¤¡£µÂÀ³ÄáÈËÏëÊ¹ÓÃ·ç±©ÒªÈû´©Ğ
 ËùÊôÉùÍû
 BOSS½éÉÜ
 ¿ªÃÅÈÎÎñ
-ÄÜÔ´½¢£¨The
-Mechanaar£©
+ÄÜÔ´½¢£¨The Mechanaar£©
 70-72¼¶
 5ÈËĞ¡¶Ó
 É³Ëş¶û
@@ -30981,8 +30844,7 @@ Sepethrea£¨72¼¶¾«Ó¢£©
 the
 Calculator£¨72¼¶¾«Ó¢£©
 ÔİÎŞ
-ÉúÌ¬´¬£¨The
-Botanica£©
+ÉúÌ¬´¬£¨The Botanica£©
 70-72¼¶
 5ÈËĞ¡¶Ó
 É³Ëş¶û
@@ -30998,8 +30860,7 @@ Tender£¨72¼¶¾«Ó¢£©
 5¡¢Warp
 Splinter£¨72¼¶¾«Ó¢£©
 ÔİÎŞ
-½ûÄ§¼àÓü£¨The
-Arcatraz£©
+½ûÄ§¼àÓü£¨The Arcatraz£©
 70-72¼¶
 5ÈËĞ¡¶Ó
 É³Ëş¶û
@@ -31014,9 +30875,7 @@ Soccothrates£¨72¼¶¾«Ó¢£©
 4¡¢Harbinger
 Skyriss£¨72¼¶¾«Ó¢£©
 ÔİÎŞ
-·ç±©Ö®ÑÛ£¨Eye
-of
-Storm£©
+·ç±©Ö®ÑÛ£¨Eye of Storm£©
 ÔİÎŞ
 25ÈËÍÅ¶Ó
 É³Ëş¶û
@@ -31085,8 +30944,7 @@ Reserved
 ËùÊôÉùÍû
 BOSS½éÉÜ
 ¿ªÃÅÈÎÎñ
-½ûÄ§¼àÓü£¨The
-Arcatraz£©
+½ûÄ§¼àÓü£¨The Arcatraz£©
 70-72¼¶
 5ÈËĞ¡¶Ó
 É³Ëş¶û
@@ -31190,8 +31048,7 @@ Reserved
 ËùÊôÉùÍû
 BOSS½éÉÜ
 ¿ªÃÅÈÎÎñ
-ÉúÌ¬´¬£¨The
-Botanica£©
+ÉúÌ¬´¬£¨The Botanica£©
 70-72¼¶
 5ÈËĞ¡¶Ó
 É³Ëş¶û
@@ -31220,14 +31077,7 @@ Help
 50%ÉúÃüÊ±Sarannis½«ÕÙ»½2¸ö·Ç¾«Ó¢µÄBloodwarder
 ReservistsºÍ1¸ö¾«Ó¢Bloodwarder
 Mender.
-(The
-Mender»áÊ©·ÅGreater
-HealÖÎÁÆCommander
-Sarannis³¬¹ı9000ÉúÃü.
-The
-Reservists»áÒ»ÖÖ°ÂÊõ¹¥»÷Ôì³É500ÉËº¦Ö±µ½the
-Mender¸øËûÃÇÊ©·ÅHoly
-FuryÕâ¸öBuff.)
+(The Mender»áÊ©·ÅGreater HealÖÎÁÆCommander Sarannis³¬¹ı9000ÉúÃü. The Reservists»áÒ»ÖÖ°ÂÊõ¹¥»÷Ôì³É500ÉËº¦Ö±µ½the Mender¸øËûÃÇÊ©·ÅHoly FuryÕâ¸öBuff.)
 Arcane
 Devastation
 ¨C
@@ -31326,11 +31176,9 @@ BOSS½éÉÜ
 BOSS¼¼ÄÜ
 µÚÒ»½×¶Î
 °ÂÊÇÔÚÌìÉÏµÄ¡£1½×¶ÎÊ±£¬Ëû»áÈÆ×Å·¿¼äÉÏÃæµÄÔ²»·Ë³Ê±ÕëÒÆ¶¯£¨Ò»°ãÇé¿ö30Ãë¶¯Ò»´Î£¬ÓĞÊ±Ò²»á²»¶¯£©¡£ÈçµØÍ¼ÉÏ±ê×¢µÄÄÇÑù£¬Ò»¹²ÓĞ4¸öÎ»ÖÃ¡£ÓĞÊ±ËüÒ²»áÀ´µ½·¿¼äµÄÖĞÑëÊ©·Å»ğÖ®Óğ¡£
-ÁÒÑæ´ò»÷£¨Flame
-Buffet£©
+ÁÒÑæ´ò»÷£¨Flame Buffet£©
 ´Ë¼¼ÄÜÓÉÍæ¼ÒµÄĞĞ¶¯´¥·¢¡£È«ÆÁ»ğÑæÉËº¦¡£Èç¹ûÃ»ÈËÔÚ°ÂµÄ½üÕ½¹¥»÷·¶Î§ÄÚ£¬Ëû¾Í»áÃ¿1.5ÃëÊ©·ÅÒ»´ÎÁÒÑæ´ò»÷£¬Ã¿ÏÂ2000»ğÑæÉËº¦²¢Ôì³ÉÒ»¸öÌá¸ßËùÊÜ»ğÑæÉËº¦10%µÄdebuff¡£ÔÚ´Ë¼¼ÄÜÔì³ÉÉËÍöÖ®Ç°Ò»¸öÍÅ¶Ó×î¶à¿ÉÒÔ³ĞÊÜ3´ËÁÒÑæ´ò»÷¡£Èç¹ûÁÒÑæ´ò»÷³öÏÖ£¬Äã±ØĞë±£Ö¤ÔÚ3´ÎÖ®ºóÈÔÈ»´æ»î¡£
-»ğÖ®Óğ£¨Fire
-Quill£©
+»ğÖ®Óğ£¨Fire Quill£©
 BOSS¼¼ÄÜ£¬ÀäÈ´Ê±¼ä²»Ã÷¡£Í¨³£ÔÚµÚÒ»½×¶Î»áÊ©·Å2-4´Î¡£ÓĞÊ±£¬°Â»á·Éµ½·¿¼äÖĞÑë×ªÈ¦È¦£¬ÍùÉÏ²ãÆ½Ì¨Í¶ÖÀ»ğÓğ¡£Èç¹ûÄãÔÚÉÏ²ãÆ½Ì¨±»»ğÖ®Óğ»÷ÖĞ£¬Äã¾Í¹ÒÁË¡£ËùÒÔÒ»¿´µ½°ÂÍùÖĞ¼ä·É£¬Á¢¿ÌÌøÏÂÀ´¡£ÔÚËû·ÅÍê»ğÖ®Óğºó£¬Ëû»á·ÉÈ¥Î»ÖÃ1»ò4¡ª¡ªtankÃÇĞèÒª×öºÃ×¼±¸À­×¡Ëû¡££¨ÌáĞÑÒ»ÏÂ£¬Äã²»ÄÜÕ¾ÔÚĞ±ÆÂÉÏ£¬»ğÖ®ÓğÒ²»á»÷ÖĞÄÇÀï¡£TANKÃÇĞèÒªÕ¾ÔÚĞ±ÆÂµ×µÄµØÃæÉÏ£¬²»ÒªÅöµ½Ğ±ÆÂ±¾Éí£©
 ÕÙ»½ADD
 BOSS¼¼ÄÜ£¬Í¨³£ÊÇÒÆ¶¯ºóµÄ35-45Ãë£¬°Â»áÕÙ»½³öÒ»Ö»Ğ¡·ï»Ë¡£ËûÃÇÓĞ7Íò×óÓÒµÄHP²¢ÇÒ´òÈË²»ËãÍ´¡£µ«µ±ËûÃÇËÀÍöÊ±£¬»á±¬Õ¨Ôì³É7000ÉËº¦²¢¸½´ø´ò·ÉĞ§¹û¡ª¡ª¾­³£ÄÜÔì³ÉµôÂäÉËº¦¡£ËùÒÔ¼ÇµÃ°ÑADDÀ­µ½Ô¶ÀëÍÅ¶ÓµÄÎ»ÖÃ¡£¼Ç×¡Ô¶³ÌDPS²»ÄÜÇÀMTµÄ³ğºŞ£¬ÔÚ²»OTµÄÇé¿öÏÂ¾¡Á¿DPS¡£È»¶øÈç¹ûÄãÊÇÓĞÀ¶Ö°Òµ£¬ÄãÓ¦¸ÃÎªÁËµÚ¶ş½×¶Î¾¡Á¿Ê¡À¶¡£
@@ -31340,19 +31188,15 @@ BOSS¼¼ÄÜ£¬Í¨³£ÊÇÒÆ¶¯ºóµÄ35-45Ãë£¬°Â»áÕÙ»½³öÒ»Ö»Ğ¡·ï»Ë¡£ËûÃÇÓĞ7Íò×óÓÒµÄHP²¢ÇÒ´òÈË
 Ã¿´Î°ÂÔÚÊ©·ÅÁ÷ĞÇ»òËæ»ú³å·æºóÖØĞÂÏÖÉíÊ±Ëû¾Í»áÁ¢¿Ì¿ªÊ¼Á¬ĞøÊ©Õ¹ÁÒÑæ´ò»÷¡££¨2000»ğÑæÉËº¦²¢Ìá¸ßÊÜµ½µÄ»ğÑæÉËº¦10%£¬È«ÆÁ¡£¡££©È·±£Ò»¸ötankÔÚËûµÄ½üÕ½¹¥»÷·¶Î§¡£
 Á÷ĞÇ£¨Meteor£©
 30ÃëCD¡£°Â»á·ÉÉÏÌì³¯Ëæ»úÄ¿±êÊ©·ÅÁ÷ĞÇ£¬Ôì³É5000ÉËº¦£¬²¢ÕÙ»½³ö2¸öADD¡£ÕâĞ©ADD¸ú1½×¶ÎµÄÄÇĞ©Ò»Ä£Ò»Ñù¡£ËûÃÇĞèÒª±»À­×¡DPSµô£¨2½×¶ÎÃ¿É±ËÀÒ»¸öADD°Â¾ÍËğÊ§3%µÄHP£©¡£Ê©·ÅÍêÁ÷ĞÇºó£¬°Â»áÔÚÁ÷ĞÇ×ÅÂ½µÄµØ·½ÖØĞÂ³öÏÖ²¢¿ªÊ¼Ê©Õ¹ÁÒÑæ´ò»÷£¬Ö±µ½±»ÖØĞÂtank×¡¡£
-»ğÑæËéÆ¬£¨Flame
-Patch£©
+»ğÑæËéÆ¬£¨Flame Patch£©
 30ÃëCD¡£°Â»á³¯Ëæ»úÄ¿±êÕÙ»½»ğÑæËéÆ¬Ã¿Ãë2000×óÓÒ»ğÑæÉËº¦£¬²¢µş¼ÓÒ»¸öÌá¸ß10%ÊÜµ½µÄ»ğÑæÉËº¦µÄdebuff£¬¿Éµş¼Ó¡£ºÜBTµÄ¼¼ÄÜ£¬¾¡Á¿¶ã¿ª¡£raid³ÉÔ±Æ½¾ù×î¶à°¤²»ÁË3ÏÂ£¬Ñª×î¶àµÄÒ²°¤²»ÁË4ÏÂ¡£
-Ëæ»ú³å·æ£¨Random
-Charge£©
+Ëæ»ú³å·æ£¨Random Charge£©
 30ÃëCD¡£°Â»áËæ»ú³å·æÍÅ¶Ó³ÉÔ±£¬Ö®ºó¿ÉÄÜ»áÊ©·ÅÁÒÑæ´ò»÷¡£µ±Ç°µÄ°Â»áÓĞ¸öBUG¾ÍÊÇÓĞÊ±»áÔÚ³å·æºó¹¥»÷±»³å·æµÄÍÅ¶Ó³ÉÔ±£¬½á¹ûÒ»°ã¶¼ÊÇÄÇµ¹Ã¹µ°±»ÃëÉ±¡£ËùÒÔÏÖÔÚÒªÇóÄãÃÇµ±ËûÊÇ¸ö»á¿ñ±©µÄBOSS´ò¡£ÔÚÄãÃÇµÄÈË±»Ãë¹âÖ®Ç°DOWNÁËËû¡£
-ÈÛ»¯»¤¼×£¨Melt
-Armor£©
+ÈÛ»¯»¤¼×£¨Melt Armor£©
 Ã¿60ÃëÊ©·ÅÒ»´Î¡£°Â»á¶ÔËûµÄµ±Ç°Ä¿±êÊ©·ÅÈÛ»¯»¤¼×£¨³ÖĞø60Ãë£©£¬½µµÍ80%µÄ»¤¼×Öµ¡£Ò»¸ötankÍ¨³£ÔÚÊÜµ½ÈÛ»¯»¤¼×ºóÖ»ÄÜ°¤Ò»ÏÂ£¬·ñÔò¾ÍÆË¡£ËùÒÔÁíÒ»ÃûtankÒªÔÚÈÛ»¯»¤¼×Ê©·ÅºóÁ¢¿Ì³°·í½ÓÊÖ³ğºŞ¡£
 Õ½Ç°×¼±¸
 ÍÅ¶Ó¹¹³É
-5ÃûTank¡£ÖÁÉÙÊÇ4Ãû£¬ÍÆ¼ö5tank¡£Ò°µÂ£¬·ÀÕ½»ò·ÀÆïËæ±ãÊ²Ã´Ö°Òµ¶¼ĞĞ£¬µ«ÎÒ²»ÍÆ¼ö·ÀÆïÔÚµÚÒ»½×¶Îtank°Â¡£ÔÚ°ÂÊ©Õ¹»ğÖ®Óğ£¨Fire
-Quill£©ºóĞèÒªÊ¹ÓÃÒ°ĞÔ³å·æºÍÀ¹½Ø¡££¨Ë³±ãÌáÒ»ÏÂ£¬1½×¶ÎÊ±4tank×ã¹»ÁË£¬¶ø2½×¶ÎÈ´ĞèÒª5tank£©
+5ÃûTank¡£ÖÁÉÙÊÇ4Ãû£¬ÍÆ¼ö5tank¡£Ò°µÂ£¬·ÀÕ½»ò·ÀÆïËæ±ãÊ²Ã´Ö°Òµ¶¼ĞĞ£¬µ«ÎÒ²»ÍÆ¼ö·ÀÆïÔÚµÚÒ»½×¶Îtank°Â¡£ÔÚ°ÂÊ©Õ¹»ğÖ®Óğ£¨Fire Quill£©ºóĞèÒªÊ¹ÓÃÒ°ĞÔ³å·æºÍÀ¹½Ø¡££¨Ë³±ãÌáÒ»ÏÂ£¬1½×¶ÎÊ±4tank×ã¹»ÁË£¬¶ø2½×¶ÎÈ´ĞèÒª5tank£©
 8ÃûÖÎÁÆ¡£7-8¸öÖÎÁÆÕßÍÆ¼ö£¨1½×¶ÎµÄÖÎÁÆÈÎÎñºÜÇáËÉ£¬5¸öÖÎÁÆ¾ÍÄÜÊ¤ÈÎ¡£ÕæÕıĞèÒªËÀÃü¼ÓµÄÊÇ2½×¶Î£©
 12ÃûDPS¡£4¸ö½üÕ½£¬8¸öÔ¶³Ì£¬ÕâÊÇÀíÏëÅäÖÃ¡£
 ×°±¸ÒªÇó
@@ -31434,8 +31278,7 @@ BOSS¡£Ïñ1½×¶ÎÊ±µÄÄÇÑù¿ØÖÆ×¡ËûÃÇÔÙ»÷É±£¨¶·ÅñÁ´£©¡£
 -
 ÉúÃüÕÀ·ÅµÄÈºÌåÖÎÁÆĞ§¹û·Ç³£ÀíÏë£¬¶àÊ¹ÓÃ¡£
 DPSÕ½Ê¿£¬µÁÔô£¬DPSÒ°µÂ
-ÄãÃÇÒ»Ö±¸ºÔğADD£¬³ıÁË×î¿ªÊ¼µÄ30Ãë£¬ÄÇÊ±ÊÇÃ»ÓĞADDµÄ¡£Èç¹ûÄã¿´ÁËÕâÆª¹¥ÂÔ»¹²»ÖªµÀÄã¸Ã¸ÉÂï£¬Äã¿ÉÒÔÈ¥ËÀÁË£¨-
--||£©
+ÄãÃÇÒ»Ö±¸ºÔğADD£¬³ıÁË×î¿ªÊ¼µÄ30Ãë£¬ÄÇÊ±ÊÇÃ»ÓĞADDµÄ¡£Èç¹ûÄã¿´ÁËÕâÆª¹¥ÂÔ»¹²»ÖªµÀÄã¸Ã¸ÉÂï£¬Äã¿ÉÒÔÈ¥ËÀÁË£¨- -||£©
 ·¨Ê¦
 Ò»½×¶ÎÄãÃ»³ğºŞ£¬Ëæ±ãÔõÃ´Êä³ö°É¡£µ±È»£¬Äã»¹ÊÇ¸ÃÎª¶ş½×¶ÎÊ¡µãÀ¶£¬ÄÇÊ±²ÅÕæÕıĞèÒªÄãDPSÈ«¿ª¡£
 ¼ÇµÃÏ´³É±ù·¨¡£
@@ -31530,8 +31373,7 @@ Reserved
 ËùÊôÉùÍû
 BOSS½éÉÜ
 ¿ªÃÅÈÎÎñ
-ÄÜÔ´½¢£¨The
-Mechanaar£©
+ÄÜÔ´½¢£¨The Mechanaar£©
 70-72¼¶
 5ÈËĞ¡¶Ó
 É³Ëş¶û
@@ -31756,12 +31598,9 @@ QQµçÌ¨
 µÂÀ³Äá
 ÊÊÓÃÖÖ×å£º
 µÂÀ³Äá£¨Ã»ÓĞÉùÍûÒªÇó£©ÈËÀà¡¢
-°«ÈË¡¢°µÒ¹¾«Áé¡¢ÙªÈå£¨ĞèÒª
-°¬Ë÷´ï
-ÉùÍû´ïµ½³ç°İ£©
+°«ÈË¡¢°µÒ¹¾«Áé¡¢ÙªÈå£¨ĞèÒª °¬Ë÷´ï ÉùÍû´ïµ½³ç°İ£©
 »ñÈ¡µØµã£º
-°¬Ë÷´ï£¨The
-Exodar£©
+°¬Ë÷´ï£¨The Exodar£©
 ¼¼ÄÜ»¨·Ñ£º
 90g
 (³õ¼¶)
@@ -32069,9 +31908,7 @@ QQµçÌ¨
 Ñª¾«Áé
 ÊÊÓÃÖÖ×å£º
 Ñª¾«Áé£¨Ã»ÓĞÉùÍûÒªÇó£©ÊŞÈË¡¢
-ÍöÁé¡¢¾ŞÄ§£¨ĞèÒª
-ÒøÔÂ³Ç
-ÉùÍû´ïµ½³ç°İ£©
+ÍöÁé¡¢¾ŞÄ§£¨ĞèÒª ÒøÔÂ³Ç ÉùÍû´ïµ½³ç°İ£©
 »ñÈ¡µØµã£º
 Thuron's
 Livery,
@@ -32260,8 +32097,7 @@ Reserved
 ¿ÉÑ¡Ö°Òµ
 £ºÊ¥ÆïÊ¿£¬ÁÔÈË£¬µÁÔô£¬ÄÁÊ¦£¬·¨Ê¦ºÍÊõÊ¿
 ÆğÊ¼µØµã£º
-¿ü¶ûÈøÀ­Ë¹[Quel'Thalas]µÄÖğÈÕµº[Sunstrider
-Isle](ÎÁÒßÖ®µØµÄ¶«±±·½Ïò)
+¿ü¶ûÈøÀ­Ë¹[Quel'Thalas]µÄÖğÈÕµº[Sunstrider Isle](ÎÁÒßÖ®µØµÄ¶«±±·½Ïò)
 Ö÷³Ç£º
 ÒøÔÂ³Ç[Silvermoon]
 ÕóÓª£º
@@ -32411,8 +32247,7 @@ Reserved
 ¿ÉÑ¡Ö°Òµ
 £ºÕ½Ê¿¡¢ÈøÂú¡¢ÁÔÈË¡¢·¨Ê¦¡¢ÄÁÊ¦ºÍÊ¥ÆïÊ¿
 ÆğÊ¼µØµã£º
-ÃØÀ¶µº[Azuremyst
-Isles]
+ÃØÀ¶µº[Azuremyst Isles]
 Ö÷³Ç£º
 °£Ë÷´ï
 [Exodar]
@@ -33192,8 +33027,7 @@ Reserved
 Ë²·¢
 ÀäÈ´Ê±¼ä:
 60Ãë
-¼¤»îÖ®ºó£¬ÈÎºÎ»÷ÖĞÊ©·¨ÕßµÄµĞÈË¶¼ÓĞ35%µÄ¼¸ÂÊ±»Ê©Õ¹¾À²ø¸ùĞë£¨µÈ¼¶
-7£©¡£Ö»ÄÜÔÚ»§ÍâÊ¹ÓÃ£¬¿ÉÉúĞ§1´Î£¬³ÖĞø45Ãë¡£
+¼¤»îÖ®ºó£¬ÈÎºÎ»÷ÖĞÊ©·¨ÕßµÄµĞÈË¶¼ÓĞ35%µÄ¼¸ÂÊ±»Ê©Õ¹¾À²ø¸ùĞë£¨µÈ¼¶ 7£©¡£Ö»ÄÜÔÚ»§ÍâÊ¹ÓÃ£¬¿ÉÉúĞ§1´Î£¬³ÖĞø45Ãë¡£
 Æ½ºâ
 ×ÔÈ»
 68
@@ -33632,8 +33466,7 @@ Reserved
 Ë²·¢
 ÀäÈ´Ê±¼ä:
 5Ãë
-³¢ÊÔ´ÓµĞÈËÃæÇ°ÌÓÍÑ£¬½µµÍÍşĞ²Öµ¡£±ÈÌÓÍÑ£¨µÈ¼¶
-3£©¸üÓĞĞ§¡£ÌÓÍÑ³É¹¦ÔòÍÑÀëÕ½¶·×´Ì¬¡£
+³¢ÊÔ´ÓµĞÈËÃæÇ°ÌÓÍÑ£¬½µµÍÍşĞ²Öµ¡£±ÈÌÓÍÑ£¨µÈ¼¶ 3£©¸üÓĞĞ§¡£ÌÓÍÑ³É¹¦ÔòÍÑÀëÕ½¶·×´Ì¬¡£
 Éú´æ¼¼ÄÜ
 ÎïÀí
 63
@@ -33805,8 +33638,7 @@ Reserved
 Ë²·¢
 ÀäÈ´Ê±¼ä:
 8Ãë
-ÈÅÂÒÄ¿±ê£¬¶ÔÆä²úÉúÍşĞ²Öµ¡£±ÈÈÅÂÒÉä»÷£¨µÈ¼¶
-6£©¸üÓĞĞ§¡£
+ÈÅÂÒÄ¿±ê£¬¶ÔÆä²úÉúÍşĞ²Öµ¡£±ÈÈÅÂÒÉä»÷£¨µÈ¼¶ 6£©¸üÓĞĞ§¡£
 Éä»÷
 °ÂÊõ
 69
@@ -35895,8 +35727,7 @@ Reserved
 Ë²·¢
 ÀäÈ´Ê±¼ä:
 30Ãë
-½¥½¥ÏûÊ§£¬Ê¹µĞÈË²»ÔÙ¹¥»÷Äã£¬³ÖĞø10Ãë¡£±È½¥ÒşÊõ£¨µÈ¼¶
-6£©µÄĞ§¹û¸üºÃ¡£
+½¥½¥ÏûÊ§£¬Ê¹µĞÈË²»ÔÙ¹¥»÷Äã£¬³ÖĞø10Ãë¡£±È½¥ÒşÊõ£¨µÈ¼¶ 6£©µÄĞ§¹û¸üºÃ¡£
 °µÓ°Ä§·¨
 °µÓ°
 66
@@ -36590,8 +36421,7 @@ Reserved
 Ë²·¢
 ÀäÈ´Ê±¼ä:
 5·ÖÖÓ
-Ê¹µÁÔôÏûÊ§²¢½øÈëÇ¿»¯µÄÇ±ĞĞÄ£Ê½£¬³ÖĞø10Ãë¡£Í¬Ê±½â³ıÒ»ÇĞÒÆ¶¯ÏŞÖÆĞ§¹û¡£±ÈÏûÊ§£¨µÈ¼¶
-2£©¸üÓĞĞ§¡£
+Ê¹µÁÔôÏûÊ§²¢½øÈëÇ¿»¯µÄÇ±ĞĞÄ£Ê½£¬³ÖĞø10Ãë¡£Í¬Ê±½â³ıÒ»ÇĞÒÆ¶¯ÏŞÖÆĞ§¹û¡£±ÈÏûÊ§£¨µÈ¼¶ 2£©¸üÓĞĞ§¡£
 ´ÌÉ±
 ÎïÀí
 62
@@ -43012,9 +42842,7 @@ Reserved
 ÆğÊ¼NPC
 ½áÊøÓªµØ
 ½áÊøNPC
-ÌÓÀëUmbrafen£¨Escape
-from
-Umbrafen£©
+ÌÓÀëUmbrafen£¨Escape from Umbrafen£©
 63¼¶
 Umbrafen´å
 Kayra
@@ -43022,67 +42850,44 @@ Longmate
 ÈûÄÉÀï°Â±Ó»¤Ëù
 Ysiel
 Windsinger
-Umbrafen²¿Âä£¨The
-Umbrafen
-Tribe£©
+Umbrafen²¿Âä£¨The Umbrafen Tribe£©
 62¼¶
 ÈûÄÉÀï°Â±Ó»¤Ëù
 Ikeyen
 ÈûÄÉÀï°Â±Ó»¤Ëù
 IkeyenIkeyen
-³±ÊªºÚ°µµÄ¶´Ñ¨£¨A
-Damp,
-Dark
-Place£©
+³±ÊªºÚ°µµÄ¶´Ñ¨£¨A Damp, Dark Place£©
 62¼¶
 Ikeyen
 IkeyenIkeyen
-±£»¤¹Û²ìÕß£¨Safeguarding
-the
-Watchers£©
+±£»¤¹Û²ìÕß£¨Safeguarding the Watchers£©
 61¼¶
 Windcaller
 Blackhoof
 Windcaller
 Blackhoof
-±£»¤Sporeloks£¨Saving
-the
-Sporeloks£©
+±£»¤Sporeloks£¨Saving the Sporeloks£©
 61¼¶
 Lauranna
 Thar'well
 Lauranna
 Thar'well
-ÔŞåÈÕÓÔóµÄÖ²Îï£¨Plants
-Of
-Zangarmarsh£©
+ÔŞåÈÕÓÔóµÄÖ²Îï£¨Plants Of Zangarmarsh£©
 63¼¶
 Lauranna
 Thar'well
 Lauranna
 Thar'well
-UmbrafenºşµÄÉ§¶¯£¨Disturbance
-At
-Umbrafen
-Lake£©¡ª¡ª
-Ì½Ë÷ÔŞåÈÕÓÔóµÄºş²´£¨Lakes
-Of
-Zangarmarsh
-Explored£©¡ª¡ª
-±ØĞë±£³ÖÆ½ºâ£¨Balance
-Must
-Be
-Preserved£©
+UmbrafenºşµÄÉ§¶¯£¨Disturbance At Umbrafen Lake£©¡ª¡ª
+Ì½Ë÷ÔŞåÈÕÓÔóµÄºş²´£¨Lakes Of Zangarmarsh Explored£©¡ª¡ª
+±ØĞë±£³ÖÆ½ºâ£¨Balance Must Be Preserved£©
 64¼¶
 Ysiel
 Windsinger
 Ysiel
 Windsinger
-ÎéµÇ¡¤¹şÄªÌØ£¨Warden
-Harmoot£©¡ª¡ª
-ÈÈÇé»¶Ó­£¨A
-Warm
-Welcome£©
+ÎéµÇ¡¤¹şÄªÌØ£¨Warden Harmoot£©¡ª¡ª
+ÈÈÇé»¶Ó­£¨A Warm Welcome£©
 64¼¶
 Ysiel
 Windsinger
@@ -43092,64 +42897,42 @@ Ysiel
 Windsinger
 Warden
 Harmoot
-´¹ËÀµÄÆ½ºâ£¨The
-Dying
-Balance£©[
-¾«Ó¢
-]
+´¹ËÀµÄÆ½ºâ£¨The Dying Balance£©[ ¾«Ó¢ ]
 62¼¶
 Lethyn
 Moonfire
 Lethyn
 Moonfire
-ÊÕ¼¯Fulgorl¾ú£¨Fulgor
-Spores£©
+ÊÕ¼¯Fulgorl¾ú£¨Fulgor Spores£©
 61¼¶
 Ì©À×¶à¶û
 Ruam
 Ì©À×¶à¶û
 Ruam
-ËÀÍöÄàÌ¶£¨Dead
-Mire£©
+ËÀÍöÄàÌ¶£¨Dead Mire£©
 61¼¶
 Vindicator
 Idaar
 Vindicator
 Idaar
-Î´Íê³ÉµÄÈÎÎñ£¨Unfinished
-Business£©¡ª¡ª
-BlackstingµÄ¶¾£¨Blacksting's
-Bane£©
+Î´Íê³ÉµÄÈÎÎñ£¨Unfinished Business£©¡ª¡ª
+BlackstingµÄ¶¾£¨Blacksting's Bane£©
 61¼¶
 Prospector
 Conall
 Prospector
 Conall
-Boha'MuÒÅ¼££¨The
-Boha'Mu
-Ruins£©¡ª¡ª
-FeralfenµÄÅ¼Ïñ£¨Idols
-of
-the
-Feralfen£©¡ª¡ª
-ÊÕ¼¯ÊÔ¼Á£¨Gathering
-the
-Reagents£©¡ª¡ª
-FeralfenµÄĞÅÊ¹£¨The
-Messenger
-to
-Feralfen£©
+Boha'MuÒÅ¼££¨The Boha'Mu Ruins£©¡ª¡ª
+FeralfenµÄÅ¼Ïñ£¨Idols of the Feralfen£©¡ª¡ª
+ÊÕ¼¯ÊÔ¼Á£¨Gathering the Reagents£©¡ª¡ª
+FeralfenµÄĞÅÊ¹£¨The Messenger to Feralfen£©
 62¼¶
 Anchorite
 Ahuurn
 Anchorite
 Ahuurn
-ÊìÏ¤¾úÀà£¨Familiar
-Fungi£©¡ª¡ª
-°ÑÄ¢¹½Íµ»ØÀ´£¨Stealing
-Cack
-the
-Mushrooms£©
+ÊìÏ¤¾úÀà£¨Familiar Fungi£©¡ª¡ª
+°ÑÄ¢¹½Íµ»ØÀ´£¨Stealing Cack the Mushrooms£©
 63¼¶
 ÈûÄÉÀï°ÂÕì²éÉÚËù
 Watcher
@@ -43157,44 +42940,32 @@ Leesa'oh
 ÈûÄÉÀï°ÂÕì²éÉÚËù
 Watcher
 Leesa'oh
-Ò»¸öÌ°³ÔµÄÎÊÌâ£¨A
-Question
-of
-Gluttony£©
+Ò»¸öÌ°³ÔµÄÎÊÌâ£¨A Question of Gluttony£©
 64¼¶
 Leesa'oh
 Leesa'oh
-¸øÌØÀ­¶ûµÄÒ»ÌõĞÅÏ¢£¨A
-Message
-to
-Telaar£©
+¸øÌØÀ­¶ûµÄÒ»ÌõĞÅÏ¢£¨A Message to Telaar£©
 64¼¶
 °ÂÀ×°Ø¶ûÓªµØ
 Ikuti
 °ÂÀòÀÙÑÇÒªÈû
 Nahuud
-¹Ø×¢Tuurem£¨Concerns
-About
-Tuurem£©
+¹Ø×¢Tuurem£¨Concerns About Tuurem£©
 62¼¶
 °ÂÀ×°Ø¶ûÓªµØ
 Ikuti
 °ÂÀ×°Ø¶ûÓªµØ
 Nahuud
-Ango'roshµÄÈëÇÖ£¨Ango'rosh
-Encroachment£©¡ª¡ª
-¸ê¶ûÖ®È­ÁìÖ÷£¨Overlord
-Gorefist£©
+Ango'roshµÄÈëÇÖ£¨Ango'rosh Encroachment£©¡ª¡ª
+¸ê¶ûÖ®È­ÁìÖ÷£¨Overlord Gorefist£©
 64¼¶
 Ikuti
 Ikuti
-Ø°ÕÓµÄÒìÑù£¨Daggerfen
-Deviance£©
+Ø°ÕÓµÄÒìÑù£¨Daggerfen Deviance£©
 64¼¶
 Ikuti
 Ikuti
-´ø´Ì¶¯ÎïµÄ¶¾Ö­£¨Stinger
-Venom£©
+´ø´Ì¶¯ÎïµÄ¶¾Ö­£¨Stinger Venom£©
 64¼¶
 Puluu
 Puluu
@@ -43929,59 +43700,42 @@ QQµçÌ¨
 £º
 µØÍ¼ÇøÓò
 Ò©²İÖÖÀà
-µØÓü»ğ°ëµº£¨Hellfire
-Peninsula£©
+µØÓü»ğ°ëµº£¨Hellfire Peninsula£©
 Ä§»¯Ôå(Felweed),
 ÃÎÒ¶²İ(Dreamfoil),
-É½Êó²İ(Mountain
-silversage),
-»Æ½ğ²Î(Golden
-Sansam),
-ÃÎÂ¶»¨²İ(Dreaming
-Glory)
+É½Êó²İ(Mountain silversage),
+»Æ½ğ²Î(Golden Sansam),
+ÃÎÂ¶»¨²İ(Dreaming Glory)
 ÔŞ¼ÓÕÓÔó£¨Zangarmarsh£©
 Ä§»¯Ôå(Felweed),
 Ã¤Ä¿²İ(Blindweed),
-»Æ½ğ²Î(Golden
-Sansam),
+»Æ½ğ²Î(Golden Sansam),
 °×Ü¸(Rageveil),
 ÃÎÒ¶²İ(Dreamfoi),
-»ğ¹Ú»¨(Flame
-Cap),
-ÃÎÂ¶»¨(Dreaming
-Glory)
-ÌØÂŞ¿¨É­ÁÖ£¨Terrokar
-Forest£©
+»ğ¹Ú»¨(Flame Cap),
+ÃÎÂ¶»¨(Dreaming Glory)
+ÌØÂŞ¿¨É­ÁÖ£¨Terrokar Forest£©
 Ä§»¯Ôå(Felweed),
-ÃÎÂ¶»¨(Dreaming
-Glory),
+ÃÎÂ¶»¨(Dreaming Glory),
 ÈıÀâ¹û(Terrocone)
 ÄÉ¸ñÀ¼¸ßÔ­£¨Nagrand£©
 Ä§»¯Ôå(Felweed),
-ÃÎÂ¶»¨(Dreaming
-Glory)
-µ¶·æÉ½Âö£¨Blade¡¯s
-Edge£©
-ÃÎÂ¶»¨(Dreaming
-Glory)
+ÃÎÂ¶»¨(Dreaming Glory)
+µ¶·æÉ½Âö£¨Blade¡¯s Edge£©
+ÃÎÂ¶»¨(Dreaming Glory)
 Ğé¿Õ·ç±©£¨Netherstorm£©
-ÃÎÂ¶»¨(Dreaming
-Glory),
+ÃÎÂ¶»¨(Dreaming Glory),
 Ğé¿Õ»¨(Netherbloom),
-Ä§¼»²İ(Mana
-Thistle)
+Ä§¼»²İ(Mana Thistle)
 ÌØÊâ²İÒ©:
 Ò©²İÃû³Æ
 Ğ§¹û
 *
-¶ñÄ§Ö®»¨£¨ĞèÒªµÈ¼¶
-60,
-Ê°È¡°ó¶¨£©
+¶ñÄ§Ö®»¨£¨ĞèÒªµÈ¼¶ 60, Ê°È¡°ó¶¨£©
 ÎüÊÕ750µ½1250µãÉËº¦,
 ³ÖĞø15Ãë¡£ºÍÄ§»¯Ôå¹²Éú
 *
-»ğÑæÃ±£¨ĞèÒªµÈ¼¶
-55£©
+»ğÑæÃ±£¨ĞèÒªµÈ¼¶ 55£©
 ÎïÀí¹¥»÷ÓĞÒ»¶¨¼¸ÂÊ´¥·¢40»ğÑæÉËº¦£¬Ìá¸ß»ğÑæ·¨ÊõÉËº¦×î¶à80µã£¬³ÖĞø1·ÖÖÓ¡£
 *
 Ä§Á«»¨
@@ -44304,10 +44058,9 @@ Reserved
 £¨ÁªÃË¿ÉÒÔÔÚµØÓü»ğ°ëµºµÄÈÙÒ«±¤µÄ¼ÖË¹Í¨ÊÖÉÏ¹ºÂò£©
 Ç°ÍùÔŞÔúÕÓÔóµÄÈûÄÇÀï°Â±ÜÄÑËùÑ°ÕÒµöÓã´óÊ¦ÖìÅµ¡¤¶Å·Ñ¶÷
 Ëû¾ÍÔÚ°µÔóºşÅÏ±ß.ÕÒËû¿ÉÒÔ¹ºÂòµ½ÖÕ¼«´¹µöÖ®Êõ£º[´óÊ¦¼¶µöÓã]¡ª¡ª´¹µöµÄÒÕÊõ
-(»¨·Ñ£º5g£¬
-Î´´òÕÛ¼Û¸ñ)
+(»¨·Ñ£º5g£¬ Î´´òÕÛ¼Û¸ñ)
 ²¿Âä£ºÈø²¼À­½ğµÄ¸Ô°ÍÈğ¿¨³öÊÛ[Ê³Æ×£ºÌ¿½¹öÙÓã]£¬ÕÓ¹âºşµÄ×æÒ®³öÊÛ[Ê³Æ×£ºÄ§Î²ÓãÌğµã]£»
-ÁªÃË£º°ÂÀ×°Ø¶ûÓªµØÀïµÄ¶à°ÍÒ²³öÊÛ[Ê³Æ×£ºÌ¿½¹öÙÓã£¬Í¬Ê±Äã»¹¿ÉÒÔÔÚËûÄÇÀïÂòµ½[Ê³Æ×£ºÄ§Î²ÓãÌğµã]¡£
+ÁªÃË£º°ÂÀ×°Ø¶ûÓªµØÀïµÄ¶à°ÍÒ²³öÊÛ[Ê³Æ×£ºÌ¿½¹öÙÓã£¬Í¬Ê±Äã»¹¿ÉÒÔÔÚËûÄÇÀïÂòµ½[Ê³Æ×£ºÄ§Î²ÓãÌğµã]¡£ 
 ÂòÏÂËüÃÇ¡£
 È»ºóÇ°ÍùÈûÄÇÀï°Â±ÜÄÑËù£¬µö[´ÌÈûöÙÓã]ºÍ[°ßµãÄ§Î²Óã]£¬µÈÄãµÄµöÓã¼¼ÄÜ305ÁËºó£¬ÉÏ¹³µÄÓã×ã¹»±£Ö¤Åëâ¿¼¼ÄÜ´ïµ½320¡£
 ²¿Âä£ºÇ°ÍùÄÉ¸ñÀ¼µÄ¼ÓÀ­´ï¶ûÑ°ÕÒÍÀ·òÅ¬À­£¬¹ºÂò[Ê³Æ×£ºË®ÖóÀ¶ÎÆÓã]¡£
@@ -44445,8 +44198,7 @@ QQµçÌ¨
 µöÓã¼¼ÄÜÓëÅëâ¿¼¼ÄÜÊÇÒ»¶Ô²»´íµÄ×éºÏ¡£ÒòÎªÊ¹ÓÃ²ËÆ×Åëâ¿ºÃµÄÓã£¬ÓĞ·Ç³£ÓĞĞ§µÄÖÎÁÆĞ§¹û£¬¶øÇÒÓã×ÜÊÇÈ¡Ö®²»¾¡µÄ¡£
 Ò²ĞíÄãÒ²ÏëÑ§Ï°Éú´æ¼¼ÄÜ£¬ÈÃÄãÄÜ¹»ÖÆÔìÓª»ğ¡£Óª»ğ¿ÉÒÔÓÃÀ´Åëâ¿£¬¿ÉÒÔÈÃÄãÔÚÈÎºÎµØ·½½øĞĞÅëâ¿¡£Èç¹ûÃ»ÓĞÓª»ğ£¬Äã²»µÃ²»´ø×ÅÔ­ÁÏ»Øµ½ÓĞ»ğµÄµØ·½£¬»òÕßÊÇ³ø·¿¡£
 ³ÉÎªÒ»Ãû³øÊ¦
-Ê×ÏÈ£¬ÕÒµ½Ò»ÃûÄÜ¹»½ÌÄã³øÒÕµÄNPC£¨ÔÚNPCµÄÃû×ÖÏÂÃæÑ°ÕÒÕâÑùµÄ´ÊÓï¡°Åëâ¿ÑµÁ·Ê¦<COOKING
-Trainer>¡±£©¡£ËûÃÇÍ¨³£»áÔÚ»ğ¶Ñ»òÔîÌ¨ÅÔ±ß¡£½ÓÏÂÀ´£¬ÄãÖ»ĞèÒª´ÓÉÌÈËÄÇÀïÂòĞ©±ØĞèÆ·¾Í¿ÉÒÔ¿ªÊ¼ÄãµÄ³øÊ¦ÉúÑÄÁË¡£
+Ê×ÏÈ£¬ÕÒµ½Ò»ÃûÄÜ¹»½ÌÄã³øÒÕµÄNPC£¨ÔÚNPCµÄÃû×ÖÏÂÃæÑ°ÕÒÕâÑùµÄ´ÊÓï¡°Åëâ¿ÑµÁ·Ê¦<COOKING Trainer>¡±£©¡£ËûÃÇÍ¨³£»áÔÚ»ğ¶Ñ»òÔîÌ¨ÅÔ±ß¡£½ÓÏÂÀ´£¬ÄãÖ»ĞèÒª´ÓÉÌÈËÄÇÀïÂòĞ©±ØĞèÆ·¾Í¿ÉÒÔ¿ªÊ¼ÄãµÄ³øÊ¦ÉúÑÄÁË¡£
 ¿ª¹İ×Ó
 Èç¹ûÄã¹ã¸æ´òµÄºÃ¶øÇÒ¼Û¸ñºÏÀí£¬Íæ¼ÒÃÇ¾Í»á°ÑÄã×öµÄÊ³ÎïÒ»´òÒ»´òµÄÂò×ß¡£Äã¿ÉÒÔÎªÍæ¼ÒÃÇÌá¹©¶ÑÂúËûÃÇ±³°üµÄÊ³Îï¡£ÕâĞ©ÄãÅëÖÆµÄÊ³ÎïÊµÔÚÊÇ³ÆµÃÉÏ¼ÛÁ®ÎïÃÀ¡£
 ²ËÆ×
@@ -45534,10 +45286,9 @@ Reserved
 £¨ÁªÃË¿ÉÒÔÔÚµØÓü»ğ°ëµºµÄÈÙÒ«±¤µÄ¼ÖË¹Í¨ÊÖÉÏ¹ºÂò£©
 Ç°ÍùÔŞÔúÕÓÔóµÄÈûÄÇÀï°Â±ÜÄÑËùÑ°ÕÒµöÓã´óÊ¦ÖìÅµ¡¤¶Å·Ñ¶÷
 Ëû¾ÍÔÚ°µÔóºşÅÏ±ß.ÕÒËû¿ÉÒÔ¹ºÂòµ½ÖÕ¼«´¹µöÖ®Êõ£º[´óÊ¦¼¶µöÓã]¡ª¡ª´¹µöµÄÒÕÊõ
-(»¨·Ñ£º5g£¬
-Î´´òÕÛ¼Û¸ñ)
+(»¨·Ñ£º5g£¬ Î´´òÕÛ¼Û¸ñ)
 ²¿Âä£ºÈø²¼À­½ğµÄ¸Ô°ÍÈğ¿¨³öÊÛ[Ê³Æ×£ºÌ¿½¹öÙÓã]£¬ÕÓ¹âºşµÄ×æÒ®³öÊÛ[Ê³Æ×£ºÄ§Î²ÓãÌğµã]£»
-ÁªÃË£º°ÂÀ×°Ø¶ûÓªµØÀïµÄ¶à°ÍÒ²³öÊÛ[Ê³Æ×£ºÌ¿½¹öÙÓã£¬Í¬Ê±Äã»¹¿ÉÒÔÔÚËûÄÇÀïÂòµ½[Ê³Æ×£ºÄ§Î²ÓãÌğµã]¡£
+ÁªÃË£º°ÂÀ×°Ø¶ûÓªµØÀïµÄ¶à°ÍÒ²³öÊÛ[Ê³Æ×£ºÌ¿½¹öÙÓã£¬Í¬Ê±Äã»¹¿ÉÒÔÔÚËûÄÇÀïÂòµ½[Ê³Æ×£ºÄ§Î²ÓãÌğµã]¡£ 
 ÂòÏÂËüÃÇ¡£
 È»ºóÇ°ÍùÈûÄÇÀï°Â±ÜÄÑËù£¬µö[´ÌÈûöÙÓã]ºÍ[°ßµãÄ§Î²Óã]£¬µÈÄãµÄµöÓã¼¼ÄÜ305ÁËºó£¬ÉÏ¹³µÄÓã×ã¹»±£Ö¤Åëâ¿¼¼ÄÜ´ïµ½320¡£
 ²¿Âä£ºÇ°ÍùÄÉ¸ñÀ¼µÄ¼ÓÀ­´ï¶ûÑ°ÕÒÍÀ·òÅ¬À­£¬¹ºÂò[Ê³Æ×£ºË®ÖóÀ¶ÎÆÓã]¡£
@@ -45965,59 +45716,42 @@ ThistleÄ§Á¦¼»
 £º
 µØÍ¼ÇøÓò
 Ò©²İÖÖÀà
-µØÓü»ğ°ëµº£¨Hellfire
-Peninsula£©
+µØÓü»ğ°ëµº£¨Hellfire Peninsula£©
 Ä§»¯Ôå(Felweed),
 ÃÎÒ¶²İ(Dreamfoil),
-É½Êó²İ(Mountain
-silversage),
-»Æ½ğ²Î(Golden
-Sansam),
-ÃÎÂ¶»¨²İ(Dreaming
-Glory)
+É½Êó²İ(Mountain silversage),
+»Æ½ğ²Î(Golden Sansam),
+ÃÎÂ¶»¨²İ(Dreaming Glory)
 ÔŞ¼ÓÕÓÔó£¨Zangarmarsh£©
 Ä§»¯Ôå(Felweed),
 Ã¤Ä¿²İ(Blindweed),
-»Æ½ğ²Î(Golden
-Sansam),
+»Æ½ğ²Î(Golden Sansam),
 °×Ü¸(Rageveil),
 ÃÎÒ¶²İ(Dreamfoi),
-»ğ¹Ú»¨(Flame
-Cap),
-ÃÎÂ¶»¨(Dreaming
-Glory)
-ÌØÂŞ¿¨É­ÁÖ£¨Terrokar
-Forest£©
+»ğ¹Ú»¨(Flame Cap),
+ÃÎÂ¶»¨(Dreaming Glory)
+ÌØÂŞ¿¨É­ÁÖ£¨Terrokar Forest£©
 Ä§»¯Ôå(Felweed),
-ÃÎÂ¶»¨(Dreaming
-Glory),
+ÃÎÂ¶»¨(Dreaming Glory),
 ÈıÀâ¹û(Terrocone)
 ÄÉ¸ñÀ¼¸ßÔ­£¨Nagrand£©
 Ä§»¯Ôå(Felweed),
-ÃÎÂ¶»¨(Dreaming
-Glory)
-µ¶·æÉ½Âö£¨Blade¡¯s
-Edge£©
-ÃÎÂ¶»¨(Dreaming
-Glory)
+ÃÎÂ¶»¨(Dreaming Glory)
+µ¶·æÉ½Âö£¨Blade¡¯s Edge£©
+ÃÎÂ¶»¨(Dreaming Glory)
 Ğé¿Õ·ç±©£¨Netherstorm£©
-ÃÎÂ¶»¨(Dreaming
-Glory),
+ÃÎÂ¶»¨(Dreaming Glory),
 Ğé¿Õ»¨(Netherbloom),
-Ä§¼»²İ(Mana
-Thistle)
+Ä§¼»²İ(Mana Thistle)
 ÌØÊâ²İÒ©:
 Ò©²İÃû³Æ
 Ğ§¹û
 *
-¶ñÄ§Ö®»¨£¨ĞèÒªµÈ¼¶
-60,
-Ê°È¡°ó¶¨£©
+¶ñÄ§Ö®»¨£¨ĞèÒªµÈ¼¶ 60, Ê°È¡°ó¶¨£©
 ÎüÊÕ750µ½1250µãÉËº¦,
 ³ÖĞø15Ãë¡£ºÍÄ§»¯Ôå¹²Éú
 *
-»ğÑæÃ±£¨ĞèÒªµÈ¼¶
-55£©
+»ğÑæÃ±£¨ĞèÒªµÈ¼¶ 55£©
 ÎïÀí¹¥»÷ÓĞÒ»¶¨¼¸ÂÊ´¥·¢40»ğÑæÉËº¦£¬Ìá¸ß»ğÑæ·¨ÊõÉËº¦×î¶à80µã£¬³ÖĞø1·ÖÖÓ¡£
 *
 Ä§Á«»¨
@@ -46266,8 +46000,7 @@ Shattrath
 20ÃÎÂ¶»¨,
 1Ä§Á«»¨,
 1¹àÄ§Ö®Æ¿
-´ÓÖÆ×÷×¨¼ÒÒ©¼Á£¨Adept¡¯s
-Elixir£©£¬³¬¼¶´óÑªÆ¿ÖĞ·¢ÏÖ
+´ÓÖÆ×÷×¨¼ÒÒ©¼Á£¨Adept¡¯s Elixir£©£¬³¬¼¶´óÑªÆ¿ÖĞ·¢ÏÖ
 *
 ¼áÈÍºÏ¼Á
 2Ğ¡Ê±ÄÚÔö¼ÓÑªÉÏÏŞ1500£¬·ÀÓùµÈ¼¶30£¬ËÀÍö²»»áÈ¡ÏûĞ§¹û
@@ -46381,140 +46114,81 @@ Reserved
 Éı¼¶Ö¸ÄÏ
 300-305
 ËæÒâÖÆ×÷ÏÂÃæµÄ²å¿×±¦Ê¯£¬È¡¾öÓÚÄãÊÖÉÏµÄ±¦Ê¯ÖÖÀà¡£×Ü¹²ÖÆ×÷10-15¸ö¡£
-ÀáµÎÑªÊ¯Áñ£¨1
-ÑªÊ¯ÁñÊ¯£©
-ìÍÃúĞ±»ÍÊ¯£¨1
-ÁÒÑ×Ğ±»ÍÊ¯£©(Ç°×ºÈ«³Æ:ÁÒÑ×¿ÌÓ¡)
-·øÉäÉîÔ¨éÏé­Ê¯£¨1
-ÉîÔ¨éÏé­Ê¯£©
-·¢¹âµÄ°µÓ°µÂÀ³ÄáÊ¯£¨1
-°µÓ°µÂÀ³ÄáÊ¯£©
-ÉÁÒ«µÄ½ğÉ«µÂÀ³ÄáÊ¯£¨1
-½ğÉ«µÂÀ³ÄáÊ¯£©
-¼áÊµµÄ²Ôñ·ÔÂÁÁÊ¯£¨1
-²Ôñ·ÔÂÁÁÊ¯£©
+ÀáµÎÑªÊ¯Áñ£¨1 ÑªÊ¯ÁñÊ¯£©
+ìÍÃúĞ±»ÍÊ¯£¨1 ÁÒÑ×Ğ±»ÍÊ¯£©(Ç°×ºÈ«³Æ:ÁÒÑ×¿ÌÓ¡)
+·øÉäÉîÔ¨éÏé­Ê¯£¨1 ÉîÔ¨éÏé­Ê¯£©
+·¢¹âµÄ°µÓ°µÂÀ³ÄáÊ¯£¨1 °µÓ°µÂÀ³ÄáÊ¯£©
+ÉÁÒ«µÄ½ğÉ«µÂÀ³ÄáÊ¯£¨1 ½ğÉ«µÂÀ³ÄáÊ¯£©
+¼áÊµµÄ²Ôñ·ÔÂÁÁÊ¯£¨1 ²Ôñ·ÔÂÁÁÊ¯£©
 305-310
 ËæÒâÖÆ×÷ÏÂÃæµÄ²å¿×±¦Ê¯£¬È¡¾öÓÚÄãÊÖÉÏµÄ±¦Ê¯ÖÖÀà¡£×Ü¹²ÖÆ×÷10-15¸ö¡£
-¼Ó´ÖÑªÊ¯Áñ£¨1
-ÑªÊ¯ÁñÊ¯£©
+¼Ó´ÖÑªÊ¯Áñ£¨1 ÑªÊ¯ÁñÊ¯£©
 Ã÷ÁÁµÄÁÒÑ×Ğ±»ÍÊ¯£¨1ÁÒÑ×Ğ±»ÍÊ¯£©
-²Ú±ßÉîÔ¨éÏé­Ê¯£¨1
-ÉîÔ¨éÏé­Ê¯£©
-»Ê¼Ò°µÓ°µÂÀ³ÄáÊ¯£¨1
-°µÓ°µÂÀ³ÄáÊ¯£©
-Î¢¹â½ğÉ«µÂÀ³ÄáÊ¯£¨1
-½ğÉ«µÂÀ³ÄáÊ¯£©
+²Ú±ßÉîÔ¨éÏé­Ê¯£¨1 ÉîÔ¨éÏé­Ê¯£©
+»Ê¼Ò°µÓ°µÂÀ³ÄáÊ¯£¨1 °µÓ°µÂÀ³ÄáÊ¯£©
+Î¢¹â½ğÉ«µÂÀ³ÄáÊ¯£¨1 ½ğÉ«µÂÀ³ÄáÊ¯£©
 ÉÁË¸µÄ²Ôñ·ÔÂÁÁÊ¯£¨1²Ôñ·ÔÂÁÁÊ¯£©
-Ã÷ÁÁµÄÑªÊ¯Áñ£¨1
-ÑªÊ¯ÁñÊ¯£©
+Ã÷ÁÁµÄÑªÊ¯Áñ£¨1 ÑªÊ¯ÁñÊ¯£©
 310-315
-ÖÆ×÷5¸ö[Ä§ÌúÑª½ä]£¨1
-Ä§Ìú¶§£»2
-ÑªÊ¯ÁñÊ¯£©
+ÖÆ×÷5¸ö[Ä§ÌúÑª½ä]£¨1 Ä§Ìú¶§£»2 ÑªÊ¯ÁñÊ¯£©
 315-320
 ËæÒâÖÆ×÷ÏÂÃæµÄ²å¿×±¦Ê¯£¬È¡¾öÓÚÄãÊÖÉÏµÄ±¦Ê¯ÖÖÀà¡£×Ü¹²ÖÆ×÷10-15¸ö¡£
-·ûÎÄÑªÊ¯Áñ£¨1
-ÑªÊ¯ÁñÊ¯£©
+·ûÎÄÑªÊ¯Áñ£¨1 ÑªÊ¯ÁñÊ¯£©
 ÉÁË¸µÄÁÒÑ×Ğ±»ÍÊ¯£¨1ÁÒÑ×Ğ±»ÍÊ¯£©
-ÄÍ¾ÃÉîÔ¨éÏé­Ê¯£¨1
-ÉîÔ¨éÏé­Ê¯£©
-½ÆÕ©°µÓ°µÂÀ³ÄáÊ¯£¨1
-°µÓ°µÂÀ³ÄáÊ¯£©
-ºñÊµ½ğÉ«µÂÀ³ÄáÊ¯£¨1
-½ğÉ«µÂÀ³ÄáÊ¯£©
-±©·ç²Ôñ·ÔÂÁÁÊ¯£¨1
-²Ôñ·ÔÂÁÁÊ¯£©
+ÄÍ¾ÃÉîÔ¨éÏé­Ê¯£¨1 ÉîÔ¨éÏé­Ê¯£©
+½ÆÕ©°µÓ°µÂÀ³ÄáÊ¯£¨1 °µÓ°µÂÀ³ÄáÊ¯£©
+ºñÊµ½ğÉ«µÂÀ³ÄáÊ¯£¨1 ½ğÉ«µÂÀ³ÄáÊ¯£©
+±©·ç²Ôñ·ÔÂÁÁÊ¯£¨1 ²Ôñ·ÔÂÁÁÊ¯£©
 320-325
-ÖÆ×÷5¸ö[²Ôñ·ÔÂÁÁÊ¯Ö®½ä]£¨1
-Ä§Ìú¶§£»2
-²Ôñ·ÔÂÁÁÊ¯£»1
-ÉîÔ¨éÏé­Ê¯£©
+ÖÆ×÷5¸ö[²Ôñ·ÔÂÁÁÊ¯Ö®½ä]£¨1 Ä§Ìú¶§£»2 ²Ôñ·ÔÂÁÁÊ¯£»1 ÉîÔ¨éÏé­Ê¯£©
 325-335
 ËæÒâÖÆ×÷ÏÂÃæµÄ²å¿×±¦Ê¯£¬È¡¾öÓÚÄãÊÖÉÏµÄ±¦Ê¯ÖÖÀà¡£×Ü¹²ÖÆ×÷15-20¸ö¡£
-Ò«ÑÛµÄÉîÔ¨éÏé­Ê¯£¨1
-ÉîÔ¨éÏé­Ê¯£©
-¾«ÇÉµÄÑªÊ¯Áñ£¨1
-ÑªÊ¯ÁñÊ¯£©
-¹â»ÔµÄ²Ôñ·ÔÂÁÁÊ¯£¨1
-²Ôñ·ÔÂÁÁÊ¯£©
+Ò«ÑÛµÄÉîÔ¨éÏé­Ê¯£¨1 ÉîÔ¨éÏé­Ê¯£©
+¾«ÇÉµÄÑªÊ¯Áñ£¨1 ÑªÊ¯ÁñÊ¯£©
+¹â»ÔµÄ²Ôñ·ÔÂÁÁÊ¯£¨1 ²Ôñ·ÔÂÁÁÊ¯£©
 Á¦Á¿ÁÒÑ×Ğ±»ÍÊ¯£¨1ÁÒÑ×Ğ±»ÍÊ¯£©
-¸ÖÓ²µÄ½ğÉ«µÂÀ³ÄáÊ¯£¨1
-½ğÉ«µÂÀ³ÄáÊ¯£©
-¹â»¬µÄ½ğÉ«µÂÀ³ÄáÊ¯£¨1
-½ğÉ«µÂÀ³ÄáÊ¯£©
-¾ıÍõ°µÓ°µÂÀ³ÄáÊ¯£¨1
-°µÓ°µÂÀ³ÄáÊ¯£©
-¹¯»¯¼á¸Ö£¨4
-¼á¸Ö·Û£»1
-Ô­Ê¼´óµØ£©
+¸ÖÓ²µÄ½ğÉ«µÂÀ³ÄáÊ¯£¨1 ½ğÉ«µÂÀ³ÄáÊ¯£©
+¹â»¬µÄ½ğÉ«µÂÀ³ÄáÊ¯£¨1 ½ğÉ«µÂÀ³ÄáÊ¯£©
+¾ıÍõ°µÓ°µÂÀ³ÄáÊ¯£¨1 °µÓ°µÂÀ³ÄáÊ¯£©
+¹¯»¯¼á¸Ö£¨4 ¼á¸Ö·Û£»1 Ô­Ê¼´óµØ£©
 ×¢£º½¨Òé¶àÖÆ×÷Ğ©[¹¯»¯¼á¸Ö]£¬Ö®ºóµÄÅä·½ÖĞ»á´óÁ¿ĞèÒª¡£ÆäÖĞ[¼á¸Ö·Û]ÊÇÓÉ¡°Ì½¿ó£¨ĞèÒª±¦Ê¯Ñ§20£©¡±¼¼ÄÜ·Ö½â[¼á¸Ö¿óÊ¯]µÃµ½µÄ¡£Ã¿5¸ö[¼á¸Ö¿óÊ¯]¿ÉÒÔ·Ö½âÎª1·İ[¼á¸Ö·Û]Íâ¼Ó£¬Èç¹ûÄãÔËÆø¹»ºÃµÄ»°£¬ÉÙĞíÍ¬¼¶±¦Ê¯¡£
 335-350
-ÖÆ×÷15¸ö[³ÁÖØµÄ¼á¸ÖÖ¸»·]£¨1
-¼á¸Ö¶§£»1¹¯»¯¼á¸Ö£©
+ÖÆ×÷15¸ö[³ÁÖØµÄ¼á¸ÖÖ¸»·]£¨1 ¼á¸Ö¶§£»1¹¯»¯¼á¸Ö£©
 350-355
 ËæÒâÖÆ×÷ÏÂÃæµÄ²å¿×±¦Ê¯£¬È¡¾öÓÚÄãÊÖÉÏµÄ±¦Ê¯ÖÖÀà¡£×Ü¹²ÖÆ×÷10-15¸ö¡£
-¹âÔóµÄ°¬Â¶ÄáÖ®ĞÇ£¨1
-°¬Â¶ÄáÖ®ĞÇ£©
-Ã÷ÁÁµÄ¹ó×å»ÆÓñ£¨1
-¹ó×å»ÆÓñ£©
-¹â»¬µÄÀèÃ÷Ê¯£¨1
-ÀèÃ÷Ö®Ê¯£©
-Î¢¹âµÄÒ¹Ö®Í«£¨1
-Ò¹Ö®Í«£©
-ÉÁ¹âµÄÉúÃüºì±¦Ê¯£¨1
-ÉúÃüºì±¦Ê¯£©
+¹âÔóµÄ°¬Â¶ÄáÖ®ĞÇ£¨1 °¬Â¶ÄáÖ®ĞÇ£©
+Ã÷ÁÁµÄ¹ó×å»ÆÓñ£¨1 ¹ó×å»ÆÓñ£©
+¹â»¬µÄÀèÃ÷Ê¯£¨1 ÀèÃ÷Ö®Ê¯£©
+Î¢¹âµÄÒ¹Ö®Í«£¨1 Ò¹Ö®Í«£©
+ÉÁ¹âµÄÉúÃüºì±¦Ê¯£¨1 ÉúÃüºì±¦Ê¯£©
 355-360
 ´ÓÕâ¸öµÈ¼¶¿ªÊ¼£¬ÄãĞèÒªÊÀ½çµôÂäµÄÍ¼ÑùÀ´¼ÌĞø¼¼ÄÜÉı¼¶Ö®Â·¡£
 ×î»®ËãµÄÍ¼ÑùÍÆ¼ö£º
-[Í¼Ñù£ºÉúÃüºì±¦Ê¯×ºÊÎ]£¨4
-îİÒø¶§£»1
-¹¯»¯¼á¸Ö£»1
-ÉúÃüºì±¦Ê¯£©
-[Í¼Ñù£ººñÖØÄ§ÌúÏîÁ´]£¨2
-Ä§Ìú¶§£»3
-¹¯»¯¼á¸Ö£©
+[Í¼Ñù£ºÉúÃüºì±¦Ê¯×ºÊÎ]£¨4 îİÒø¶§£»1 ¹¯»¯¼á¸Ö£»1 ÉúÃüºì±¦Ê¯£©
+[Í¼Ñù£ººñÖØÄ§ÌúÏîÁ´]£¨2 Ä§Ìú¶§£»3 ¹¯»¯¼á¸Ö£©
 ÄãĞèÒªÖÆ×÷5¸öÒÔÉÏÈÎÒâÍ¼ÑùÖĞµÄ×°±¸À´ÌáÉı¼¼ÄÜµÈ¼¶µ½360¡£
 ÕâÁ½¸öÍ¼ÑùÄÃµ½ÄÄ¸ö×öÄÄ¸ö¡£µ±È»»¹ÓĞ¸ü»®ËãµÄÍ¼Ñù£¬Èç¹ûÄãÅªµÄµ½µÄ»°¡££¨Í¼ÑùÖĞĞèÒª±¦Ê¯µÄ£¬ĞèÇó¹¯»¯¼á¸Ö¾ÍÉÙ£»²»ĞèÒª±¦Ê¯µÄ£¬ĞèÇó¹¯»¯¼á¸ÖµÄ¾Í¶à¡£ÖÆ×÷Ê²Ã´Òª¿¼ÂÇÄãÄãÊÖÍ·ËùÓĞµÄ²ÄÁÏ¡£ÒÔÉÏ2ÖÖ¾ÍÄ¿Ç°¶øÑÔÊÇĞèÒª²ÄÁÏ×îÉÙµÄÍ¼Ñù¡££©
 360-365
-ÎÒÏëÄãĞèÒªÏÈºÍÉ³ËşË¹³Ç´ïµ½×ğ¾´µÄÉùÍû¡£È»ºó¹ºÂò[Í¼Ñù£º°ÂÊõ·À»¤Ö¸»·]£¨2
-ºã½ğ¶§£»8
-Ô­Ê¼Ä§Á¦£©
-Èç¹ûÄãÑá¶ñÉùÍû£¬È¥Ìêµ¶·åµÄÎ¬¿Ë¹şÓªµØFARM¿Ö²ÀÑ»ÈË°É¡£ËüÃÇµôÂä[Í¼Ñù£º¾ÛÒ¶îİÒø½ä]£¨2
-îİÒø¶§£»4
-¹¯»¯¼á¸Ö£»3
-Ô­Ê¼ÉúÃü£©¡£µôÂä¼¸ÂÊÊÇ0.4%¡£
+ÎÒÏëÄãĞèÒªÏÈºÍÉ³ËşË¹³Ç´ïµ½×ğ¾´µÄÉùÍû¡£È»ºó¹ºÂò[Í¼Ñù£º°ÂÊõ·À»¤Ö¸»·]£¨2 ºã½ğ¶§£»8 Ô­Ê¼Ä§Á¦£©
+Èç¹ûÄãÑá¶ñÉùÍû£¬È¥Ìêµ¶·åµÄÎ¬¿Ë¹şÓªµØFARM¿Ö²ÀÑ»ÈË°É¡£ËüÃÇµôÂä[Í¼Ñù£º¾ÛÒ¶îİÒø½ä]£¨2 îİÒø¶§£»4 ¹¯»¯¼á¸Ö£»3 Ô­Ê¼ÉúÃü£©¡£µôÂä¼¸ÂÊÊÇ0.4%¡£
 ÒÔÉÏÁ½ÖÖÍ¼ÑùÎŞÂÛÄãÑ¡Ôñ×öÄÄ¸ö£¬¶¼ĞèÒªÖÆ×÷5¸ö³ÉÆ·ÒÔÌáÉıÖé±¦¼¼ÄÜµÈ¼¶µ½365¡£
 ×îºóµÄÕâ10µã¼¼ÄÜµã²»´óºÃÌáÉı¡£ÄãÓĞÁ½¸öÑ¡Ôñ£ºÒ»ÊÇ°ÑÁ¶½ğÊ¦µãµÄ¸÷ÖÖ±¦Ê¯ÖÆ×÷³É²å²Û±¦Ê¯£»¶şÊÇÑ¡ÓÃÏ¡ÓĞµôÂäµÄÍ¼ÑùÀ´Á·Ï°ÄãµÄÖé±¦¼¼ÄÜ¡£
 Ñ¡ÔñÒ»£º
 ¶ÔÓÚÒ»¸öRAID¿¨À­ÔŞµÄÍÅ¶ÓÀ´Ëµ£¬ÄãÓĞ×ã¹»µÄÖ§Ô®ºÍÊ±¼äÀ´Îª×öÒÔÏÂ²å²Û±¦Ê¯¡£
-Ñ¸½İµÄÌì»ğ×êÊ¯£¨1
-Ìì»ğ×êÊ¯£©
-ÉñÃØµÄÌì»ğ×êÊ¯£¨1
-Ìì»ğ×êÊ¯£©
-ÎŞÇéµÄ´óµØ·ç±©×êÊ¯£¨1
-´óµØ·ç±©×êÊ¯£©
-²ĞÈÌµÄ´óµØ·ç±©×êÊ¯£¨1
-´óµØ·ç±©×êÊ¯£©
-¹ÄÎèµÄ´óµØ·ç±©×êÊ¯£¨1
-´óµØ·ç±©×êÊ¯£©
+Ñ¸½İµÄÌì»ğ×êÊ¯£¨1 Ìì»ğ×êÊ¯£©
+ÉñÃØµÄÌì»ğ×êÊ¯£¨1 Ìì»ğ×êÊ¯£©
+ÎŞÇéµÄ´óµØ·ç±©×êÊ¯£¨1 ´óµØ·ç±©×êÊ¯£©
+²ĞÈÌµÄ´óµØ·ç±©×êÊ¯£¨1 ´óµØ·ç±©×êÊ¯£©
+¹ÄÎèµÄ´óµØ·ç±©×êÊ¯£¨1 ´óµØ·ç±©×êÊ¯£©
 Ñ¡Ôñ¶ş£º
 365-370
-[Í¼Ñù£ºÀèÃ÷µÄÓµ±§]£¨2
-ºã½ğ¶§£»4
-¹¯»¯¼á¸Ö£»2
-½ğÉ«µÂÀ³ÄáÊ¯£©
+[Í¼Ñù£ºÀèÃ÷µÄÓµ±§]£¨2 ºã½ğ¶§£»4 ¹¯»¯¼á¸Ö£»2 ½ğÉ«µÂÀ³ÄáÊ¯£©
 ÖÆ×÷5¸öÊ¹¼¼ÄÜµÈ¼¶´ïµ½370µã¡£
 Õâ¸öÍ¼ÑùÊÀ½ç70¼¶ÒÔÉÏ¹ÖÎïµôÂä¡£¼¸ÂÊ0.2%£¨¿¨À­ÔŞµôÂä±È½Ï¶à£©
 370-375
-[Í¼Ñù£ºµñÏñ-Ä§ÌúÒ°Öí]£¨8
-Ä§Ìú¶§£»2
-ÑªÊ¯ÁñÊ¯£»4
-Ô­Ê¼´óµØ£©
+[Í¼Ñù£ºµñÏñ-Ä§ÌúÒ°Öí]£¨8 Ä§Ìú¶§£»2 ÑªÊ¯ÁñÊ¯£»4 Ô­Ê¼´óµØ£©
 ´ËÍ¼ÑùĞèÇóÏÂ²ãÇø³ç¾´ÉùÍû¡£Èç¹ûÄãÊÇµÂÂ³ÒÁ£¬ÄÇÃ´ÕâÊÇÄãµÄ²»¶şÑ¡Ôñ¡£Èç¹ûÄã²»ÊÇ£¬ÄÇÃ´ÄãÓĞÒÔÏÂÑ¡Ôñ£º
-[Í¼Ñù£ºµñÏñ-ÀèÃ÷Ê¯Ö®Ğ·]£¨4
-îİÒø¶§£»2
-ÀèÃ÷Ö®Ê¯£»4
-½ğÉ«µÂÀ³ÄáÖ®Ê¯£©
+[Í¼Ñù£ºµñÏñ-ÀèÃ÷Ê¯Ö®Ğ·]£¨4 îİÒø¶§£»2 ÀèÃ÷Ö®Ê¯£»4 ½ğÉ«µÂÀ³ÄáÖ®Ê¯£©
 ´ËÍ¼ÑùĞèÒªÈÙÒ«±¤/Èø¶ûÂê³ç¾´ÉùÍû¡£
 ÖÆ×÷ÒÔÉÏÈÎÒâÒ»ÖÖµñÏñ5¸ö£¬ÄãµÄÖé±¦¼Ó¹¤×¨Òµ¾Íµ½¶¥ÁË¡£370µã¼¼ÄÜÒÔÉÏ¾Í¿ÉÒÔÖÆ×÷Ê·Ê«¼¶±ğµÄÖ¸»·ºÍ²å²Û±¦Ê¯¡£ÓÈÆäÊÇ±¦Ê¯£¬¹©²»Ó¦Çó¡£
 ¸±±í£º±¦Ê¯Ç°×ºÓëÆä´ú±íÊôĞÔ/Ğ§¹ûÖ®¹ØÏµ£º
@@ -46814,8 +46488,7 @@ Reserved
 ÉíÔÚµØÓü»ğ°ëµºµÄÈø¶ûÂêµÄ°ÍÈğÄ·¡¤Ó¿Ìã´óÖÆ¸ïÊ¦(²¿Âä·½)
 ÉíÔÚµ¶·æÉ½µÄÄª¿ËÄÉÈø´åµÄ°ÍÈğÄ·¡¤Ó¿Ìã´óÖÆ¸ïÊ¦(²¿Âä·½)
 300-310
-½áÊŞÆ¤£¨5
-x½áÊŞÆ¤ËéÆ¬£©
+½áÊŞÆ¤£¨5 x½áÊŞÆ¤ËéÆ¬£©
 x
 20
 =
@@ -46824,125 +46497,55 @@ x
 ½áÊŞÆ¤ËéÆ¬
 ¾¡Á¿ÊÕ¼¯¸ü¶àµÄ½áÊŞÆ¤ËéÆ¬À´³å310¼¼ÄÜ¡£ÄãÒÔºó´ó¸Å½«»áĞèÒª725¸ö½áÊŞÆ¤¡£ËùÒÔÄãÓ¦¸Ã¾¡Á¿¿¿ÖÆÔì½áÊŞÆ¤À´³åÖÆÆ¤¼¼ÄÜ¡£
 310-320
-Ò°ĞÔµÂÀ³ÄáÊÖÌ×£¨9
-x
-½áÊŞÆ¤£¬3
-x
-·ûÎÄÏß£©
+Ò°ĞÔµÂÀ³ÄáÊÖÌ×£¨9 x ½áÊŞÆ¤£¬3 x ·ûÎÄÏß£©
 x
 10
 320-325
-ºñÖØµÂÀ³Äá¶Ì¿ã£¨10
-x
-½áÊŞÆ¤£¬
-3
-x
-·ûÎÄÏß£©
+ºñÖØµÂÀ³Äá¶Ì¿ã£¨10 x ½áÊŞÆ¤£¬ 3 x ·ûÎÄÏß£©
 x
 5
 325-335?
-ÖØ½áÊŞÆ¤£¨5
-x
-½áÊŞÆ¤£©x
+ÖØ½áÊŞÆ¤£¨5 x ½áÊŞÆ¤£©x
 90
 335-340
-ºñÖØµÂÀ³ÄáÆ¤ÒÂ£¨14
-x
-½áÊŞÆ¤£¬3
-x
-·ûÎÄÏß£©
+ºñÖØµÂÀ³ÄáÆ¤ÒÂ£¨14 x ½áÊŞÆ¤£¬3 x ·ûÎÄÏß£©
 x
 5
 340-350
-Ä§ÁÛĞØ¼×£¨14
-x
-½áÊŞÆ¤£¬3
-x
-¶ñÄ§ÁÛÆ¬£¬3
-x
-·ûÎÄÏß£©
+Ä§ÁÛĞØ¼×£¨14 x ½áÊŞÆ¤£¬3 x ¶ñÄ§ÁÛÆ¬£¬3 x ·ûÎÄÏß£©
 x
 15
 ¾ÍÏñÄÇĞ©×¨ÒµÈËÊ¿»ù±¾¶¼ÖªµÀµÄÄÇÑù£¬´Ó350-375ÊÇ¸öÏàµ±Í´¿àµÄ¹ı³Ì¡£ÑµÁ·Ê¦²¢²»»á½ÌÄãÓĞ¼ÛÖµµÄÅä·½£¬ËùÒÔÖ»ÓĞÒ»¸ö°ì·¨¡£¾ÍÊÇÊÀ½çËæ»úµôÂäµÄÅä·½»òÕßÉùÍû½±Àø¡£ÎÒ»áÔÚÕâÀïÓÃÉùÍû½±ÀøÀ´Ö¸µ¼ÈçºÎ´Ó350-375¡£
 350-355
 ¶ÔÄÇĞ©³åÈû¶ûË¹ÉùÍûµÄÖÆÆ¤Ê¦?
 --´ïµ½×ğ¾´£¨»òÕß¸ßÓÚ×ğ¾´£©£º
-Ä§»¯Ä§ÁÛÊÖÌ×»òÕß³¤Ñ¥£¨4
-x
-ÖØ½áÊŞÆ¤
-£¬
-10
-x
-¶ñÄ§ÁÛÆ¬£¬6
-x
-Ô­Ê¼Ä§Á¦£©x
+Ä§»¯Ä§ÁÛÊÖÌ×»òÕß³¤Ñ¥£¨4 x ÖØ½áÊŞÆ¤ £¬ 10 x ¶ñÄ§ÁÛÆ¬£¬6 x Ô­Ê¼Ä§Á¦£©x
 5
 ¶ÔÄÇĞ©³å
 Ğé¿Õ²ÆÍÅÉùÍûµÄÖÆÆ¤Ê¦
 --´ïµ½×ğ¾´£¨»òÕß¸ßÓÚ×ğ¾´£©£º
-Ä§Æ¤³¤Ñ¥£¨10
-x
-ÖØ½áÊŞÆ¤£¬
-8x
-¶ñÄ§Æ¤£¬
-8
-x
-Ô­Ê¼°µÓ°
-£¬
-3
-x
-·ûÎÄÏß£©x
+Ä§Æ¤³¤Ñ¥£¨10 x ÖØ½áÊŞÆ¤£¬ 8x ¶ñÄ§Æ¤£¬ 8 x Ô­Ê¼°µÓ° £¬ 3 x ·ûÎÄÏß£©x
 5
 355-365
 ÎªÁËÍ¨¹ıÏÂÃæµÄ²¿·ÖÀ´³å355-365µÄÖÆÆ¤¼¼ÄÜÄãĞèÒªºÍÈûÄÉÀï°ÂÍâÓòÔ¶Õ÷¾ü´ïµ½ÓÑÉÆ£¨¸öÈË¾õµÃÓ¦¸Ã²»ÄÑ£©£º
 ÖØĞÍÁÑÌã³¤Ñ¥
-£¨4
-x
-ÖØ½áÊŞÆ¤£¬
-20
-x
-ºñÁÑÌãÆ¤£¬4
-x
-Ô­Ê¼´óµØ£¬
-2
-x
-·ûÎÄÏß£©x
+£¨4 x ÖØ½áÊŞÆ¤£¬ 20 x ºñÁÑÌãÆ¤£¬4 x Ô­Ê¼´óµØ£¬ 2 x ·ûÎÄÏß£©x
 10
 ×îºóµÄ10µã¼¼ÄÜ¹À¼ÆÒªºÄÄã²»ÉÙG¡£¡£¡££¨ºÃÏóÕâ15µãÏûºÄµÄG»¹²»Ëã¶à¡£¡£¡££©ÕâĞ©²ÄÁÏºÍÉùÍûµÄÒªÇó¶¼ÊÇ·Ç³£·è¿ñµÄ£¬µ«ÊÇÏÖÔÚÎÒ»¹²»ÄÜÕÒµ½Ò»¸öÄÜ¸üºÃµÄ³å¼¼ÄÜµÄ·½·¨¡£
 365-370
 Èç¹ûÄãºÍÁªÃË£ºÈÙÒ«±¤»òÕß²¿Âä£ºÈø¶ûÂêÉùÍû´ïµ½³ç°İ£¬ÄÇÃ´£º
-Ğé¿ÕÑÛ¾µÉßÆ¤ÍÈ²¿»¤¼×£¨4
-x
-ÖØ½áÊŞÆ¤
-£¬
-4
-x
-ÑÛ¾µÉßÁÛ£¬
-8
-x
-Ô­Ê¼¿ÕÆø£¬1
-x
-Ô­Ê¼Ğé¿Õ£©x
+Ğé¿ÕÑÛ¾µÉßÆ¤ÍÈ²¿»¤¼×£¨4 x ÖØ½áÊŞÆ¤ £¬ 4 x ÑÛ¾µÉßÁÛ£¬ 8 x Ô­Ê¼¿ÕÆø£¬1 x Ô­Ê¼Ğé¿Õ£©x
 5
 ÕâÀïµÄÑÛ¾¦ÉßÁÛºÍÔ­Ê¼Ğé¿ÕÊÇ×îÖØÒª²¢ÇÒÊÇ×îÄÑ¸ãµÄ²¿·Ö£¬ÎÒÇ¿ÁÒ½¨ÒéÄã³åÉ³Ëş¶ûµÄÉùÍû²¢ÇÒ°´ÒÔÏÂµÄ²¿·ÖÀ´³å370¡£
 ×öÎªÒ»¸öÑ¡Ôñ£¬Èç¹ûÄãºÍÉ³Ëş¶ûµÄÉùÍû´ïµ½³ç°İ£º
-Õ½¶·Ö®¹Ä£¨2x
-ÖØ½áÊŞÆ¤£¬1
-x
-Ô­Ê¼»ğÑæ£¬
-1
-xÔ­Ê¼´óµØ£©
+Õ½¶·Ö®¹Ä£¨2x ÖØ½áÊŞÆ¤£¬1 x Ô­Ê¼»ğÑæ£¬ 1 xÔ­Ê¼´óµØ£©
 x
 5
 ÉÏÃæÕâÈıÖÖ¶¼ÄÜ°ïÄãÉıµ½375£¬µ«ÊÇÒª»ñµÃ²ÄÁÏ±ØĞëÒª×öºÜ¶àµÄfarm¹¤×÷£¬ÌØ±ğÊÇ×îºóµÄ5µã¿ÉÄÜÒâÎ¶×ÅÒª×ö¶îÍâµÄ20-30¸öÎïÆ·¡£
 370-375
 Äã¿ÉÒÔÈ¥Ñ§Ï°ÄÇĞ©ÊÀ½çµôÂäµÄÊ·Ê«Åä·½²¢ÇÒÈ¥ÕÒÂú×ãÄÇĞ©Åä·½µÄ·è¿ñµÄµÄ²ÄÁÏ»òÕßÈ¥ºÍÊ±¹âÊØ»¤ÕßµÄÉúÎï´ïµ½³ç°İ¡£
 ¿¼ÂÇµ½ÄÇĞ©Ê·Ê«Åä·½µôÂäµÄ¼¸ÂÊ£¬ÎÒ»¹ÊÇ»á¿¼ÂÇÊ±¹âÊØ»¤ÕßµÄ½±Àø¡£Äã¿ÉÄÜĞèÒª´Ó66¼¶¿ªÊ¼³åÊ±¹âÊØ»¤ÕßµÄÉùÍû²¢ÇÒÔÚÊ±¹âÖ®Ñ¨ÏûºÄµô´óÁ¿µÄÊ±¼ä¡£
-¾ª»ÅÖ®¹Ä£¨2
-x
-ÖØ½áÊŞÆ¤£¬2
-x
-Ô­Ê¼°µÓ°£©
+¾ª»ÅÖ®¹Ä£¨2 x ÖØ½áÊŞÆ¤£¬2 x Ô­Ê¼°µÓ°£©
 x
 5
 ´ó¸ÅµÄ²ÄÁÏĞèÇó£º
@@ -47638,9 +47241,7 @@ QQµçÌ¨
 ²Ã·ì
 ²É¿ó
 ½éÉÜ£º
-¿ó¹¤ÃÇ½«ÄÜ½Ó´¥µ½ĞÂÖÖÀàµÄ¸ß¶Ë½ğÊô£¬¸ü¶àµÄ¶¼»á±»Ìí¼Óµ½ÓÎÏ·ÖĞ¡£ÔÚ×ÊÁÏÆ¬ÖĞ£¬»áÓĞÁ½ÖÖÀàĞÍµÄ¸ß¶ËÒ±Á¶½ğÊô£¨¶ñÄ§ÌúºÍ½ğ¸ÕÊ¯£©ÒÔ¼°Á½ÖÖÏ¡ÓĞ½ğÊô£¨ºã½ğ[Eternium]
-ºÍ
-ï¾Òø[Khorium]£©¡£È»¶ø£¬¾ÍÏñ²İÒ©Ñ§Ò»Ñù£¬¿ó¹¤ÃÇÒ²ÊÇ¿ÉÒÔ´ÓÉú»îÔÚÍâÓòµÄÔ­ÉúÉúÎïÉíÉÏÕÒµ½ÕâĞ©×ÊÔ´¡£¿ó¹¤Í¬Ñù¿ÉÒÔ¸øÕâĞ©ÌØÓĞµÄ¹ÖÎï¡°°şÆ¤¡±ÒÔÊÕ¼¯ÕâĞ©¿óÎïÔ­ÁÏ£¬¹©¸ø¸ø¹¤³ÌÊ¦ºÍ¶ÍÔìÊ¦ÖÆ×÷ÎïÆ·Ê±Ê¹ÓÃ¡£
+¿ó¹¤ÃÇ½«ÄÜ½Ó´¥µ½ĞÂÖÖÀàµÄ¸ß¶Ë½ğÊô£¬¸ü¶àµÄ¶¼»á±»Ìí¼Óµ½ÓÎÏ·ÖĞ¡£ÔÚ×ÊÁÏÆ¬ÖĞ£¬»áÓĞÁ½ÖÖÀàĞÍµÄ¸ß¶ËÒ±Á¶½ğÊô£¨¶ñÄ§ÌúºÍ½ğ¸ÕÊ¯£©ÒÔ¼°Á½ÖÖÏ¡ÓĞ½ğÊô£¨ºã½ğ[Eternium] ºÍ ï¾Òø[Khorium]£©¡£È»¶ø£¬¾ÍÏñ²İÒ©Ñ§Ò»Ñù£¬¿ó¹¤ÃÇÒ²ÊÇ¿ÉÒÔ´ÓÉú»îÔÚÍâÓòµÄÔ­ÉúÉúÎïÉíÉÏÕÒµ½ÕâĞ©×ÊÔ´¡£¿ó¹¤Í¬Ñù¿ÉÒÔ¸øÕâĞ©ÌØÓĞµÄ¹ÖÎï¡°°şÆ¤¡±ÒÔÊÕ¼¯ÕâĞ©¿óÎïÔ­ÁÏ£¬¹©¸ø¸ø¹¤³ÌÊ¦ºÍ¶ÍÔìÊ¦ÖÆ×÷ÎïÆ·Ê±Ê¹ÓÃ¡£
 Ãû´Ê¶ÔÕÕ£º
 ¿óÊ¯Ãû³Æ
 Ó¢ÎÄ
@@ -47736,11 +47337,7 @@ Prospecting
 1
 Ô­Ê¼»ğÑæ
 --¡µ10
-»ğÑæ³¾°££¨×¢£ºÓĞĞ©
-³¾°£
---
-Ô­Ê¼
-µÄ×ª»»ÊÇ²»¿ÉÄæµÄ£©
+»ğÑæ³¾°££¨×¢£ºÓĞĞ© ³¾°£ -- Ô­Ê¼ µÄ×ª»»ÊÇ²»¿ÉÄæµÄ£©
 ÈÛ»¯Ä§Ìú¿óÊ¯
 ¼¼ÄÜÒªÇó£º300
 2
@@ -48057,52 +47654,30 @@ Reserved
 -
 325
 ÁéÎÆ²¼¾í
-(6
-x
-ÁéÎÆ²¼£¬ĞèÒª´ó¸Å430ÕÅ²¼²ÅÄÜÍê³É)
+(6 x ÁéÎÆ²¼£¬ĞèÒª´ó¸Å430ÕÅ²¼²ÅÄÜÍê³É)
 325
 -
 340
 ½şÍ¸µÄÁéÎÆ²¼¾í
-(3
-x
-ÁéÎÆ²¼¾í£¬2
-x
-°ÂÊõÖ®³¾)
+(3 x ÁéÎÆ²¼¾í£¬2 x °ÂÊõÖ®³¾)
 340
 -
 350
 ÁéÎÆ²¼Ñ¥
-(6
-x
-ÁéÎÆ²¼¾í£¬2
-x
-½áµŞÆ¤£¬1
-x
-·ûÎÄÏß)
+(6 x ÁéÎÆ²¼¾í£¬2 x ½áµŞÆ¤£¬1 x ·ûÎÄÏß)
 x
 10
 350
 -
 360
 ÁéÎÆ²¼ÍâÒÂ
-(8
-x
-ÁéÎÆ²¼¾í£¬2
-x
-·ûÎÄÏß)
+(8 x ÁéÎÆ²¼¾í£¬2 x ·ûÎÄÏß)
 x
 10
 360
 -
 370
-½şÍ¸ÁéÎÆ²¼ÍâÒÂ(6
-x
-½şÍ¸µÄÁéÎÆ²¼¾í£¬2
-x
-Ğé¿ÕÖ©ÖëË¿£¬1
-x
-·ûÎÄÏß)
+½şÍ¸ÁéÎÆ²¼ÍâÒÂ(6 x ½şÍ¸µÄÁéÎÆ²¼¾í£¬2 x Ğé¿ÕÖ©ÖëË¿£¬1 x ·ûÎÄÏß)
 x
 10
 ´ËÅä·½ÔÚ°µÔÂÏ¿¹ÈµÄÕ¼²·Ê¦×å³öÊÛ£¬ËùÒÔ±ØĞëÑ¡ÔñÕ¼²·Ê¦ÉùÍû£¬»òÕßÔÚÕ¼²·Ê¦¡¢°¬¶û¶àÉùÍû¾ùÎªÖĞÁ¢Ê±ºò¹ºÂò¡£²»¹ı´ËÅä·½²¢·ÇÊ°È¡°ó¶¨£¬Äã¿ÉÒÔÍ¨¹ı½»Ò×ÊÖ¶Î»ñµÃ¡£Õâ¸öÅä·½ÊÇÏŞÁ¿³öÊÛµÄ£¬²»¹ıÊÇÄ¿Ç°³å360£­370²Ã·ìµÄ×î¼ÑÅä·½
@@ -48111,15 +47686,7 @@ x
 -
 375
 °Â·¨½»Ö¯³¤Ñ¥
-(8
-x
-ÁéÎÆ²¼¾í,
-16
-x
-°ÂÊõÖ®³¾,
-2
-x
-·ûÎÄÏß)
+(8 x ÁéÎÆ²¼¾í, 16 x °ÂÊõÖ®³¾, 2 x ·ûÎÄÏß)
 x
 5
 Õâ¸öÅä·½ÔÚ·ç±©ÒªÈû»úĞµÇøµôÂä£¬Ê°È¡°ó¶¨£¬µôÂÊ1£¥£¬²»¹ıÏàĞÅ»¹ÊÇÖµµÃÈ¥´òÒ»¸öµÄ£¬ÒòÎªÆäËû¿ÉÒÔ³å375µÄÅä·½Í¬ÑùĞèÒª´Ë¸±±¾µÄ²ÄÁÏµôÂä¡£
@@ -49049,8 +48616,7 @@ rating2504ÈøÂú×Ü½á[01ÔÂ17ÈÕ]
 ¡¤¡¾¾º¼¼³¡¡¿2400+
 Ôô·¨¶ÔÕ½¸÷Ö°ÒµµÄĞÄµÃ[12ÔÂ10ÈÕ]
 ¡¤¡¾¾º¼¼³¡¡¿2V2´òµ½2334,×¼±¸¹ê×ÅµÈÁúÁË,ÃıÂÛ¼¸¾ä°É[12ÔÂ10ÈÕ]
-¡¤¡¾¾º¼¼³¡¡¿¾º¼¼³¡¼¯»ğ(focus
-fire)Ç³Ì¸[12ÔÂ07ÈÕ]
+¡¤¡¾¾º¼¼³¡¡¿¾º¼¼³¡¼¯»ğ(focus fire)Ç³Ì¸[12ÔÂ07ÈÕ]
 ¡¤¡¾¾º¼¼³¡¡¿2V2±ù·¨ºÍÒ°µÂ×éºÏ´ò·¨[12ÔÂ06ÈÕ]
 ¡¤¡¾¾º¼¼³¡¡¿¾º¼¼³¡µÄÀÖÈ¤&#8212;»ì·Ö±ãµ±¶Ó´óÄÖ¾º¼¼³¡[12ÔÂ05ÈÕ]
 ¡¤¡¾¾º¼¼³¡¡¿·ÖÏí·ÜÕ½1¸ö¶àÔÂ´òÉÏ2300·ÖºóµÄ¸ĞÎò[12ÔÂ05ÈÕ]
@@ -49236,66 +48802,49 @@ Reserved
 ÁªÃË
 1
 Äã»îÏÂÀ´ÁË£¡
-(You
-Survived!)
+(You Survived!)
 Âó¸ñÂ×
 ÆÕÂŞÄáÍ¼Ë¹
 1
 ²¹³äÖÎÁÆË®¾§
-(Replenishing
-the
-Healing
-Crystals)
+(Replenishing the Healing Crystals)
 ÆÕÂŞÄáÍ¼Ë¹
 2
 ½ô¼±Îï×Ê£¡
-(Urgent
-Delivery!)
+(Urgent Delivery!)
 Ôú¶û¶Å
 2
 Õü¾ÈĞÒ´æÕß£¡
-(Rescue
-the
-Survivors!)
+(Rescue the Survivors!)
 Ôú¶û¶Å
 2
 Ö²ÎïÑ§¼ÒËşÀÙ¿ËË¿
-(Botanist
-Taerix)
+(Botanist Taerix)
 ÆÕÂŞÄáÍ¼Ë¹
 Ö²ÎïÑ§¼ÒËşÀÙ¿ËË¿
 2
 ±©ÔêµÄ±äÒìÌå
-(Volatile
-Mutations)
+(Volatile Mutations)
 Ö²ÎïÑ§¼ÒËşÀÙ¿ËË¿
 2
 ±ØĞèµÄ´ëÊ©¡­¡­
-(What
-Must
-Be
-Done...)
+(What Must Be Done...)
 3
 ¾»»¯ºşË®
-(Healing
-the
-Lake)
+(Healing the Lake)
 3
 ÅÜÍÈ²É»¨
-(Botanical
-Legwork)
+(Botanical Legwork)
 Ñ§Í½Î¬É¯¶û
 Ñ§Í½Î¬É¯¶û
 4
 ±¸ÓÃÁã¼ş
-(Spare
-Parts)
+(Spare Parts)
 ¼¼Ê¦É³ÄÈ°²
 ¼¼Ê¦É³ÄÈ°²
 4
 ÊØ±¸¹Ù°Â´ï¶û
-(Vindicator
-Aldar)
+(Vindicator Aldar)
 Ö²ÎïÑ§¼ÒËşÀÙ¿ËË¿
 ÊØ±¸¹Ù°Â´ï¶û
 4
@@ -49304,32 +48853,23 @@ Aldar)
 ÊØ±¸¹Ù°Â´ï¶û
 5
 Ê§×ÙµÄÕì²éÔ±
-(The
-Missing
-Scout)
+(The Missing Scout)
 Í¼À¼
 4
 Ñª¾«Áé
-(The
-Blood
-Elves)
+(The Blood Elves)
 Í¼À¼
 5
 Ñª¾«Áé¼äµı
-(Blood
-Elf
-Spy)
+(Blood Elf Spy)
 ÊØ±¸¹Ù°Â´ï¶û
 5
 Ñª¾«ÁéµÄ¼Æ»®
-(Blood
-Elf
-Plans)
+(Blood Elf Plans)
 Ñª¾«Áé¼Æ»®Êé
 5
 ·¢ÉäÆ÷
-(The
-Emitter)
+(The Emitter)
 ÊØ±¸¹Ù°Â´ï¶û
 ¼¼Ê¦É³ÄÈ°²
 ¹ØÓÚÌÚÑ¶
@@ -49467,59 +49007,39 @@ Reserved
 ÕóÓª
 5
 Ç°Íù±ÌÀ¶¸ÚÉÚ
-(Travel
-to
-Azure
-Watch)
+(Travel to Azure Watch)
 ¼¼Ê¦É³ÄÈ°²
 ¼¼Ê¦´÷Î¬¶÷
 ÁªÃË
 5
 ±ÌÀ¶¸ÚÉÚµÄÏûÏ¢
-(Word
-from
-Azure
-Watch)
+(Word from Azure Watch)
 °£ÎÄ
 ¿´»¤Ô±Ğ»¶ûÀ¼
 6
 Ò½ÁÆ²ÄÁÏ
-(Medicinal
-Purpose)
+(Medicinal Purpose)
 Ñ§Õß·¨µÙÂê
 Ñ§Õß·¨µÙÂê
 6
 ÃÀÎ¶µÄºìÇ¯Óã
-(Red
-Snapper
--
-Very
-Tasty!)
+(Red Snapper - Very Tasty!)
 µÏÌ©ÄÈ
 µÏÌ©ÄÈ
 6
 ÕÒµ½°¬¿ËÌá¶÷£¡
-(Find
-Acteon!)
+(Find Acteon!)
 °¬¿ËÌá¶÷
 6
 á÷ÁÔÔÂºÛÂ¹[1]
-(The
-Great
-Moongraze
-Hunt)
+(The Great Moongraze Hunt)
 °¬¿ËÌá¶÷
 8
 á÷ÁÔÔÂºÛÂ¹[2]
-(The
-Great
-Moongraze
-Hunt)
+(The Great Moongraze Hunt)
 7
 ÇúÆæµÄ´ó²Í
-(Cookie's
-Jumbo
-Gumbo)
+(Cookie's Jumbo Gumbo)
 ¡°ÇúÆæ¡±Ã×Î¬¿ËË÷Ë¹
 ¡°ÇúÆæ¡±Ã×Î¬¿ËË÷Ë¹
 7
@@ -49529,236 +49049,160 @@ Gumbo)
 ´óÖ÷½ÌÃ·ÄÚÀ³¶òË¹
 7
 Ææ¹ÖµÄ·¢ÏÖ
-(Strange
-Findings)
+(Strange Findings)
 Î¢Î¢·¢¹âµÄË®¾§
 8
 ÇåÀíÒ¹ĞĞ±ª¡­¡­
-(Nightstalker
-Clean
-Up,
-Isle
-2...)
+(Nightstalker Clean Up, Isle 2...)
 ´óÖ÷½ÌÃ·ÄÚÀ³¶òË¹
 8
 ÖÔĞÄµÄ¸Ğ¼¤
-(A
-Hearty
-Thanks!)
+(A Hearty Thanks!)
 ÄêÓ×µÄµÂÀ³ÄáÈË
 8
 ¹óÖØÎïÆ·£¬Ğ¡ĞÄÇá·Å
-(Precious
-and
-Fragile
-Things
-Need
-Special
-Handling)
+(Precious and Fragile Things Need Special Handling)
 ¿¼¹ÅÑ§¼Ò°¢´ïÂüÌØ¡¤ÌúĞÄ
 ¿¼¹ÅÑ§¼Ò°¢´ïÂüÌØ¡¤ÌúĞÄ
 8
 Ğ´Âú·ûÎÄµÄÊ¯°å
-(Rune
-Covered
-Tablet)
+(Rune Covered Tablet)
 Ğ´Âú·ûÎÄµÄÊ¯°å
 Å®¼ÀË¾»ùÁÕ¡¤ÒÁ¶ûµÙÄÈ
 8
 ¶á»Ø·ÏĞæ
-(Reclaiming
-the
-Ruins)
+(Reclaiming the Ruins)
 Å®¼ÀË¾»ùÁÕ¡¤ÒÁ¶ûµÙÄÈ
 8
 ±¸Ñ¡·½°¸µÄ±¸Ñ¡·½°¸
-(An
-Alternative
-Alternative)
+(An Alternative Alternative)
 µ¤´ï¶û
 µ¤´ï¶û
 8
 Î¬Â×µÄÔ¤ÑÔ
-(The
-Prophecy
-of
-Velen)
+(The Prophecy of Velen)
 º£¾üÉÏ½«°ÂµÂĞŞË¹
 7
 µÚÈıÀà½Ó´¥
-(A
-Small
-Start)
+(A Small Start)
 º£¾üÉÏ½«°ÂµÂĞŞË¹
 9
 Ìì²ÅµÄ·½°¸£¡
-(I've
-Got
-a
-Plant)
+(I've Got a Plant)
 9
 ¼äµıÖ®Ê÷
-(Tree's
-Company)
+(Tree's Company)
 9
 ÉşÙªÈåÒÔ·¨
-(Show
-Gnomercy)
+(Show Gnomercy)
 9
 Ğ°¶ñµÄÊéĞÅ
-(Show
-Gnomercy)
+(Show Gnomercy)
 ´óÖ÷½ÌÃ·ÄÚÀ³¶òË¹
 8
 Ñ§ÍâÓï¡­¡­
-(Learning
-the
-Language)
+(Learning the Language)
 ÒëÂëÕß°ÂÂ³¶÷
 °¢»ù´ïÍ¼ÌÚ
 10
 ¿âÅ·Í¼ÌÚ
-(Totem
-of
-Coo)
+(Totem of Coo)
 °¢»ù´ïÍ¼ÌÚ
 ¿âÅ·Í¼ÌÚ
 10
 Ìá¿ËÌáÍ¼ÌÚ
-(Totem
-of
-Tikti)
+(Totem of Tikti)
 ¿âÅ·Í¼ÌÚ
 Ìá¿ËÌáÍ¼ÌÚ
 10
 ÓÈ¶ûÍ¼ÌÚ
-(Totem
-of
-Yor)
+(Totem of Yor)
 Ìá¿ËÌáÍ¼ÌÚ
 ÓÈ¶ûÍ¼ÌÚ
 10
 Íß¿ËÍ¼ÌÚ
-(Totem
-of
-Vark)
+(Totem of Vark)
 ÓÈ¶ûÍ¼ÌÚ
 Íß¿ËÍ¼ÌÚ
 10
 °¢»ù´ïµÄÔ¤ÑÔ
-(The
-Prophecy
-of
-Akida)
+(The Prophecy of Akida)
 Íß¿ËÍ¼ÌÚ
 Ö¹ËÉ²¿×åµÄ°¢Â³¹Å
 10+
 ÆòÇó°ïÖú
-(A
-Cry
-For
-Help)
+(A Cry For Help)
 Âó¸êŞ±
 ¿âÀ×
 10
 Ê§×ÙµÄÓæ·ò
-(The
-Missing
-Fisherman)
+(The Missing Fisherman)
 ¶Å¶ûÎ¬
 10
 ÒÅÌå
-(All
-That
-Remains)
+(All That Remains)
 ¿âÀ×
 10
 Ä©ÈÕµÄÒ°ÊŞ£¡
-(Beasts
-of
-the
-Apocalypse!)
+(Beasts of the Apocalypse!)
 Äª¶à
 Äª¶à
 10
 ÓãÈË¡­¡­
-(Murlocs...
-Why
-Here?
-Why
-Now?)
+(Murlocs... Why Here? Why Now?)
 ¹Å¶û¸¥
 ¹Å¶û¸¥
 10
 ËÑË÷Ö¹ËÉÒªÈû
-(Search
-Stillpine
-Hold)
+(Search Stillpine Hold)
 Ö¹ËÉÀÏÇõ³¤
 ÑªË®¾§
 10
 ÑªË®¾§
-(Blood
-Crystals)
+(Blood Crystals)
 ÑªË®¾§
 Ö¹ËÉÀÏÇõ³¤
 10
 Ö¹ËÉÒªÈû
-(Stillpine
-Hold)
+(Stillpine Hold)
 Ö¹ËÉ²¿×åµÄ°¢Â³¹Å
 10
 ¶½¾üË¹À×Ìá×È
-(Warlord
-Sriss'tiz)
+(Warlord Sriss'tiz)
 Å®¼ÀË¾»ùÁÕ¡¤ÒÁ¶ûµÙÄÈ
 Å®¼ÀË¾»ùÁÕ¡¤ÒÁ¶ûµÙÄÈ
 11
 Å·ÄªÂ³Çõ³¤
-(Chieftain
-Oomooroo)
+(Chieftain Oomooroo)
 Ö¹ËÉÇõ³¤
 Ö¹ËÉÇõ³¤
 11
 ³ÉÄê
-(Coming
-of
-Age)
+(Coming of Age)
 ´óÖ÷½ÌÃ·ÄÚÀ³¶òË¹
 ÏóÈº¹ÜÀíÕßÍ×À­ÁôË¹
 11
 À×Ïó¿É²»ÊÇºÃÍæµÄ£¡
-(Elekks
-Are
-Serious
-Business)
+(Elekks Are Serious Business)
 ÏóÈº¹ÜÀíÕßÍ×À­ÁôË¹
 À×Ïó¹ÜÀíÕßÎÖ¿Ëºº
 11
 ¿Ë·òµÄ×ğÑÏ
-(Gurf's
-Dignity)
+(Gurf's Dignity)
 ¿Ë·òµÄ×ğÑÏ
 ¹Å¶û¸¥
 11
 ¾¯¸æÄãµÄÈËÃñ
-(Warn
-Your
-People)
+(Warn Your People)
 Ö¹ËÉÀÏÇõ³¤
 ´óÖ÷½ÌÃ·ÄÚÀ³¶òË¹
 12
 ¿ÉÅÂµÄ¿â¿Ï
-(The
-Kurken
-is
-Lurkin')
+(The Kurken is Lurkin')
 ÆôÊ¾Õß¿â¶û×È
 ÆôÊ¾Õß¿â¶û×È
 10
-¿â¿ÏµÄÃ«Æ¤(The
-Kurken's
-Hide)
+¿â¿ÏµÄÃ«Æ¤(The Kurken's Hide)
 Äª¶à
 ¹ØÓÚÌÚÑ¶
 |
@@ -49895,465 +49339,306 @@ Reserved
 ÕóÓª
 10
 ´²ÆÌ£¬±Á´ø£¬ÒÔ¼°¸ü¶à
-(Beds,
-Bandages,
-and
-Beyond)
+(Beds, Bandages, and Beyond)
 ÍĞ·Æ¶û¡¤ÂŞ°¢
 À¼¶È
 ÁªÃË
 10
 ³Ë×ø½ÇÓ¥ÊŞ
-(On
-the
-Wings
-of
-a
-Hippogryph)
+(On the Wings of a Hippogryph)
 À¼¶È
 Å¬¹ÅÄá
 10
 Ë¹Ì©·¨Å¬Ë¹
-(Hippogryph
-Master
-Stephanos)
+(Hippogryph Master Stephanos)
 Å¬¹ÅÄá
 Ë¹Ì©·¨Å¬Ë¹
 10
 ·µ»ØÍĞ·Æ¶û¡¤ÂŞ°¢Éí±ß
-(Return
-to
-Topher
-Loaal)
+(Return to Topher Loaal)
 Ë¹Ì©·¨Å¬Ë¹
 ÍĞ·Æ¶û¡¤ÂŞ°¢
 11
 ´óÕ½ÒìĞÍÂÓ¶áÕß
-(Alien
-Predators)
+(Alien Predators)
 À×Ïó¹ÜÀíÕßÎÖ¿Ëºº
 À×Ïó¹ÜÀíÕßÎÖ¿Ëºº
 12
 ÃÀÎ¶µÄµãĞÄ
-(A
-Favorite
-Treat)
+(A Favorite Treat)
 °ÂÄÉ¶û
 °ÂÄÉ¶û
 12
 ¿­Ï£¶ûµÄĞÅÊ¹
-(The
-Kessel
-Run)
+(The Kessel Run)
 ¿­Ï£¶û
 ¿­Ï£¶û
 13
 Õ¹Ê¾Á¦Á¿
-(Declaration
-of
-Power)
+(Declaration of Power)
 13
 ÏòÖ÷½Ì°£µÂÃÅÍ¼Ë¹±¨¸æ
-(Report
-to
-Exarch
-Admetius)
+(Report to Exarch Admetius)
 Ö÷½Ì°£µÂÃÅÍ¼Ë¹
 12
 ¿ËÂ³·ÒµÄÏîÁ´
-(Cruelfin's
-Necklace)
+(Cruelfin's Necklace)
 ºìÉ«Ë®¾§×¹ÊÎ
 ÄªÀ³
 13
 ÑĞ¾¿ÓãÈË
-(Catch
-and
-Release)
+(Catch and Release)
 ÄªÀ³
 14
 ¸¯Ê´µÄÎşÉüÆ·
-(Victims
-of
-Corruption)
+(Victims of Corruption)
 13
 Õü¾ÈÖ¹ËÉ¹«Ö÷
-(Saving
-Princess
-Stillpine)
+(Saving Princess Stillpine)
 Õü¾ÈÖ¹ËÉ¹«Ö÷
 Ö¹ËÉ´óÊ¹¸¥À­Èø²¼
 11
 ÑĞ¾¿Ë®¾§
-(Learning
-from
-the
-Crystals)
+(Learning from the Crystals)
 ÏÈĞĞ¹ÙÃ×¿âÀ­Ë¹
 ÏÈĞĞ¹ÙÃ×¿âÀ­Ë¹
 14
 Ê§×ÙµÄ²âÁ¿Ğ¡×é
-(The
-Missing
-Survey
-Team)
+(The Missing Survey Team)
 µÂÀ³ÄáÖÆÍ¼Ê¦
 14
 ¶á»ØÊı¾İ
-(Salvaging
-the
-Data)
+(Salvaging the Data)
 µÂÀ³ÄáÖÆÍ¼Ê¦
 ÏÈĞĞ¹ÙÃ×¿âÀ­Ë¹
 14
 µÚ¶ş¸öÑù±¾
-(The
-Second
-Sample)
+(The Second Sample)
 ÏÈĞĞ¹ÙÃ×¿âÀ­Ë¹
 18
 ×îÖÕµÄÑù±¾
-(The
-Final
-Sample)
+(The Final Sample)
 14
 ¾üÍÅµÄ»Õ¼Ç
-(Signs
-of
-the
-Legion)
+(Signs of the Legion)
 ÉªÀ­¿ËµÄ»¤¼×¿é
 ÊØ±¸¹Ù°¬ÀÙÏ£ÑÇ
 14
 Öª¼ºÖª±Ë
-(Know
-Thine
-Enemy)
+(Know Thine Enemy)
 ÊØ±¸¹Ù°¬ÀÙÏ£ÑÇ
 14
 Âê¿­À×Ä¢¹½Õ¹
-(Mac'Aree
-Mushroom
-Menagerie)
+(Mac'Aree Mushroom Menagerie)
 Âê¿­À×µÄÒ®ÈûÀ­
 Âê¿­À×µÄÒ®ÈûÀ­
 15
 ¾£¼¬¾ŞÌÙ
-(Constrictor
-Vines)
+(Constrictor Vines)
 ×·×ÙÕßÀ¼Èû¶÷
 ×·×ÙÕßÀ¼Èû¶÷
 16
 ÁÔĞÜ
-(The
-Bear
-Necessities)
+(The Bear Necessities)
 15
 ĞÂµÄÃËÓÑ
-(Newfound
-Allies)
+(Newfound Allies)
 Ñ§Õß·ÆË÷Ë¹
 Å®ÁÔÊÖ¿­À­¡¤Ò¹¹­
 15
 Ç°Íù°Â²®¶¡
-(The
-Way
-to
-Auberdine)
+(The Way to Auberdine)
 Å®ÁÔÊÖ¿­À­¡¤Ò¹¹­
 É£µÏË¹¡¤Ö¯·ç
 15
 °¢¹ÅË¹µÄÒâÒå
-(What
-Argus
-Means
-to
-Me)
+(What Argus Means to Me)
 Ö÷½Ì°£µÂÃÅÍ¼Ë¹
 ÊØ±¸¹Ù²¨Â³Ë¹
 15
 ÃØÑª¸ÚÉÚ
-(Blood
-Watch)
+(Blood Watch)
 ÊØ±¸¹Ù²¨Â³Ë¹
 15
 ·øÉäË®¾§ËéÆ¬
-(Irradiated
-Crystal
-Shards)
+(Irradiated Crystal Shards)
 15
 ¸ü¶àÊÜµ½·øÉäµÄË®¾§ËéÆ¬
-(More
-Irradiated
-Crystal
-Shards)
+(More Irradiated Crystal Shards)
 16
 À¹½ØÇé±¨
-(Intercepting
-the
-Message)
+(Intercepting the Message)
 16
 ·­Òë¡­¡­
 (Translations...)
 ÉóÑ¶Õß°£ÀòÎ÷ÑÇ
 16
 »á¼ûÏÈÖª
-(Audience
-with
-the
-Prophet)
+(Audience with the Prophet)
 ÉóÑ¶Õß°£ÀòÎ÷ÑÇ
 ÏÈÖªÎ¬Â×
 16
 ÕæÏà»¹ÊÇ»ÑÑÔ
-(Truth
-or
-Fiction)
+(Truth or Fiction)
 ÏÈÖªÎ¬Â×
 ÊØ±¸¹Ù²¨Â³Ë¹
 16
 ºÚ°µÖĞµÄÄ§·¨
-(I
-Shoot
-Magic
-Into
-the
-Darkness)
+(I Shoot Magic Into the Darkness)
 ÊØ±¸¹Ù²¨Â³Ë¹
 16
 Ä£ºıµÄµØÍ¼£¿
-(A
-Map
-to
-Where?)
+(A Map to Where?)
 ·ç»¯µÄ±¦²ØÍ¼
 ÆÆËéµÄ¹ÅÊé
 16
 ÆÆÒëÊé¼®
-(Deciphering
-the
-Book)
+(Deciphering the Book)
 ÆÆËéµÄ¹ÅÊé
 Ñ§Õß·ÆË÷Ë¹
 16
 Åµ¶û¿­µÄÈÕ¼Ç
-(Nolkai's
-Words)
+(Nolkai's Words)
 Ñ§Õß·ÆË÷Ë¹
 ÄàÍÁ¶Ñ
 17
 Ì½ÏÕÕßĞ­»áÒªÎªÙªÈå·şÎñÂğ£¿
-(Explorers'
-League,
-Is
-That
-Something
-for
-Gnomes?)
+(Explorers' League, Is That Something for Gnomes?)
 ¿±Ì½ÕßÄÉ¿ËÀ¼
 ¿ËÀÍ²®¡¤Î¬×È°à
 17
 ºÚÉ³ÉñÆ÷
-(Artifacts
-of
-the
-Blacksilt)
+(Artifacts of the Blacksilt)
 ¿ËÀÍ²®¡¤Î¬×È°à
 17
 ±»Íµ×ßµÄÉè±¸
-(Pilfered
-Equipment)
+(Pilfered Equipment)
 17
 ÀäÈ´ºËĞÄ
-(The
-Cryo-Core)
+(The Cryo-Core)
 ÊØ±¸¹Ù¿âÂ¬Ë¹
 ÊØ±¸¹Ù¿âÂ¬Ë¹
 17
 Í¨¼©£ºËÀ×¦
-(WANTED:
-Deathclaw)
+(WANTED: Deathclaw)
 Í¨¼©²¼¸æ
 ÏÈĞĞ¹ÙÃ×¿âÀ­Ë¹
 17
 Åû¾£Õ¶¼¬
-(Cutting
-a
-Path)
+(Cutting a Path)
 ³âºòÔ¼Àò
 ³âºòÔ¼Àò
 18
 °¢¹ÅË¹Ö®ÊÖ
-(Talk
-to
-the
-Hand)
+(Talk to the Hand)
 ÏÈĞĞ¹ÙÃ×¿âÀ­Ë¹
 18
 Ğé¿ÕÓ×Ìå
-(Critters
-of
-the
-Void)
+(Critters of the Void)
 ³âºòÂåÒÁ
 ÊØ±¸¹ÙÒÁË÷Ä·
 18
 ¶¾Ë®
-(Don't
-Drink
-the
-Water)
+(Don't Drink the Water)
 ÊØ±¸¹ÙÒÁË÷Ä·
 18
 ¾«Æ£Á¦¾¡
-(Limits
-of
-Physical
-Exhaustion)
+(Limits of Physical Exhaustion)
 18
 Ì«ÑôÖ®ÃÅ
-(The
-Sun
-Gate)
+(The Sun Gate)
 18
 »¯½âÎ£»ú
-(Containing
-the
-Threat)
+(Containing the Threat)
 ÊØ±¸¹Ù°¬ÀÙÏ£ÑÇ
 ÊØ±¸¹Ù°¬ÀÙÏ£ÑÇ
 18
 ËÑÑ°¼ÓÀ³¶÷
-(Searching
-for
-Galaen)
+(Searching for Galaen)
 ÄªÀ³
 ¼ÓÀ³¶÷µÄÊ¬Ìå
 18
 ¼ÓÀ³¶÷µÄÃüÔË
-(Galaen's
-Fate)
+(Galaen's Fate)
 ¼ÓÀ³¶÷µÄÊ¬Ìå
 ÄªÀ³
 18
 ¼ÓÀ³¶÷µÄÈÕ¼Ç
 -
 ÊØ±¸¹ÙÈöÂ³°²µÄÃüÔË
-(Galaen's
-Journal
--
-The
-Fate
-of
-Vindicator
-Saruan)
+(Galaen's Journal - The Fate of Vindicator Saruan)
 ¼ÓÀ³¶÷µÄÈÕ¼Ç
 ÊØ±¸¹Ù¿âÂ¬Ë¹
 18+
 ²ĞÈÌµÄÂêÌáË¹
-(Matis
-the
-Cruel)
+(Matis the Cruel)
 ÊØ±¸¹Ù¿âÂ¬Ë¹
 18
 ÒÁÉªÀ­Ö®Àá
-(Ysera's
-Tears)
+(Ysera's Tears)
 Âê¿­À×µÄÒ®ÈûÀ­
 Âê¿­À×µÄÒ®ÈûÀ­
 18
 ¾À½áÖ®Íø
-(Oh,
-the
-Tangled
-Webs
-They
-Weave)
+(Oh, the Tangled Webs They Weave)
 ·ÀÓùÕßË÷Àï
 ÊØ±¸¹Ù¿¼¶ûÁÕ
 19
 ÎÛ»àµÄË®Ö®»ê
-(Fouled
-Water
-Spirits)
+(Fouled Water Spirits)
 18
 ÕÒ»Ø×ğÑÏ
-(Restoring
-Sanctity)
+(Restoring Sanctity)
 ÍĞÀ×Ë¹Íõ×Ó
 ÍĞÀ×Ë¹Íõ×Ó
 19
 ½øÈëÃÎ¾³
-(Into
-the
-Dream)
+(Into the Dream)
 18
 ÑªÖäµÄÒÅ²ú
-(The
-Bloodcurse
-Legacy)
+(The Bloodcurse Legacy)
 º£¾üÉÏ½«°ÂµÂĞŞË¹
 °¬µÂ»ª¡¤ººË¹´¬³¤
 18
 ÑªÖäÄÉåÈ
-(The
-Bloodcursed
-Naga)
+(The Bloodcursed Naga)
 °¬µÂ»ª¡¤ººË¹´¬³¤
 18
 ¾øÍûÕß¡­¡­
-(The
-Hopeless
-Ones...)
+(The Hopeless Ones...)
 19
 ÑªÖäµÄÖÕ½á
-(Ending
-the
-Bloodcurse)
+(Ending the Bloodcurse)
 19
 ¸²ÃğµÄÔ¶Õ÷¶Ó
-(The
-Missing
-Expedition)
+(The Missing Expedition)
 °¢³¹Â³Ë¹
 °¢³¹Â³Ë¹
 19
 ËûÃÇ»¹»î×Å£¡Ò²Ğí¡­¡­
-(They're
-Alive!
-Maybe...)
+(They're Alive! Maybe...)
 ÑĞ¾¿Ô±¿¼ÄÚÁôË¹
 ÑĞ¾¿Ô±¿¼ÄÚÁôË¹
 20+
 ÖÕ½áËûÃÇµÄÊÀ½ç
-(Ending
-Their
-World)
+(Ending Their World)
 ±¬ÆÆ×¨¼ÒÀ³¸êËÕ
 Ö÷½Ì°£µÂÃÅÍ¼Ë¹
 20+
 ÎÒÃÇËùÖªµÀµÄ¡­¡­
-(What
-We
-Know...)
+(What We Know...)
 ÊØ±¸¹ÙÒÁË÷Ä·
 20+
 ÎÒÃÇ²»ÖªµÀµÄ¡­¡­
-(What
-We
-Don't
-Know...)
+(What We Don't Know...)
 Ö÷½Ì°£µÂÃÅÍ¼Ë¹
 20+
 ÊØ±¸¹ÙÓªµØ
-(Vindicator's
-Rest)
+(Vindicator's Rest)
 ÊØ±¸¹Ù¿¼¶ûÁÕ
 20+
 Çå³ıÂ·ÕÏ
-(Clearing
-the
-Way)
+(Clearing the Way)
 ÊØ±¸¹Ù¿¼¶ûÁÕ
 21+
 ´Ìºí
@@ -50670,298 +49955,214 @@ Reserved
 ÕóÓª
 5
 ²»ÎÈ¶¨µÄ·¨Á¦Ë®¾§
-(Unstable
-Mana
-Crystals)
+(Unstable Mana Crystals)
 °¬¶û¶Å¡¤ÖËºÛ
 °¬¶û¶Å¡¤ÖËºÛ
 ²¿Âä
 6
 ´ïÄÉËÕË¹µÄÇÖÈÅ
-(Darnassian
-Intrusions)
+(Darnassian Intrusions)
 Ä§Íø¼à»¤ÕßŞ±À¼ÄİÑÇ
 5
 Ê§Ğ§µÄ¿şÀÜ
-(Major
-Malfunction)
+(Major Malfunction)
 Ä§µ¼Ê¦ÑÇÂ¡ÄáË¹
 Ä§µ¼Ê¦ÑÇÂ¡ÄáË¹
 6
 ËÍÍù±±²¿Ê¥µîµÄĞÅ
-(Delivery
-to
-the
-North
-Sanctum)
+(Delivery to the North Sanctum)
 Ä§Íø¼à»¤Õß¿­µ¤ÄáË¹
 5
 Î÷²¿Ê¥µîµÄÂé·³
-(Malfunction
-at
-the
-West
-Sanctum)
+(Malfunction at the West Sanctum)
 Ä§Íø¼à»¤Õß¿­µ¤ÄáË¹
 Ä§Íø¼à»¤ÕßŞ±À¼ÄİÑÇ
 6
 ²»ÎÈ¶¨µÄ°ÂÊõ
-(Arcane
-Instability)
+(Arcane Instability)
 Ä§Íø¼à»¤ÕßŞ±À¼ÄİÑÇ
 6
 ÃØÃÜÎÄ¼ş
-(Incriminating
-Documents)
+(Incriminating Documents)
 ÃØÃÜÎÄ¼ş
 °¬¶û¶Å¡¤ÖËºÛ
 7
 °«ÈË¼äµı
-(The
-Dwarven
-Spy)
+(The Dwarven Spy)
 °¬¶û¶Å¡¤ÖËºÛ
 6
 À¹Â·ÇÀ½Ù
-(Roadside
-Ambush)
+(Roadside Ambush)
 Ñ§Í½À­¶ûÀ×
 Ñ§Í½Ã·À×¶à¶û
 6
 ½şË®µÄÊéÒ³
-(Soaked
-Pages)
+(Soaked Pages)
 Ñ§Í½Ã·À×¶à¶û
 6
 Ñ§Í½µÄÆÛÂ÷
-(Taking
-the
-Fall)
+(Taking the Fall)
 Ö¸µ¼Õß°²ÉªÂ¡
 6
 µ¼Ê¦µÄÑµ½ë
-(Swift
-Discipline)
+(Swift Discipline)
 Ö¸µ¼Õß°²ÉªÂ¡
 6
 ËÀÍöÖ®ºÛ
-(The
-Dead
-Scar)
+(The Dead Scar)
 ÓÎÏÀ½ÜÀ­
 ÓÎÏÀ½ÜÀ­
 6
 Í¨¼©£º¼¢¶öÕßÌ©ÀïË¹
-(Wanted:
-Thaelis
-the
-Hungerer)
+(Wanted: Thaelis the Hungerer)
 Í¨¼©£º¼¢¶öÕßÌ©ÀïË¹
 ¿²À×ÖĞÊ¿
 7
 Çç·ç´å
-(Fairbreeze
-Village)
+(Fairbreeze Village)
 °¬¶û¶Å¡¤ÖËºÛ
 ÓÎÏÀ´÷¸êÀû¶÷
 7
 Ñô·«¸Û
-(Situation
-at
-Sunsail
-Anchorage)
+(Situation at Sunsail Anchorage)
 ÓÎÏÀ´÷¸êÀû¶÷
 7
 ÊÕ¼¯±ªÆ¤
-(Pelt
-Collection)
+(Pelt Collection)
 Î¬À¼¡¤²¼À×ÍĞ¿Ë
 Î¬À¼¡¤²¼À×ÍĞ¿Ë
 7
 ÓãÍ·¡­¡­
-(Fish
-Heads,
-Fish
-Heads...)
+(Fish Heads, Fish Heads...)
 ¹şË¹ÎÂÀï°Â
 ¹şË¹ÎÂÀï°Â
 9
 ÎØÀ²ÍÛÀ²µÄ½äÖ¸
-(The
-Ring
-of
-Mmmrrrggglll)
+(The Ring of Mmmrrrggglll)
 7
 Ê§ÂäµÄ¾ü±¸
-(Lost
-Armaments)
+(Lost Armaments)
 Î¬À×µÏË¹¡¤Ñ©³¿
 Î¬À×µÏË¹¡¤Ñ©³¿
 8
 Ê§ĞÄÕßµÄÁìĞä
-(Wretched
-Ringleader)
+(Wretched Ringleader)
 8
 ¿­ÀòÉ­µÂÀ­´¬³¤µÄº½º£Í¼
-(Captain
-Kelisendra's
-Lost
-Rutters)
+(Captain Kelisendra's Lost Rutters)
 ¿­ÀòÉ­µÂÀ­´¬³¤µÄº½º£Í¼
 ¿­ÀòÉ­µÂÀ­´¬³¤
 8
 °µÁÛÇ¿µÁ£¡
-(Grimscale
-Pirates!)
+(Grimscale Pirates!)
 ¿­ÀòÉ­µÂÀ­´¬³¤
 9
 ÎŞ¾¡µÄÑç»á
-(The
-Party
-Never
-Ends)
+(The Party Never Ends)
 ÈøÉªÀû¶ûÄĞ¾ô
 ÈøÉªÀû¶ûÄĞ¾ô
 9
 ÈøÉªÀû¶û×¯Ô°
-(Saltheril's
-Haven)
+(Saltheril's Haven)
 Ä§µ¼Ê¦À¼µÂÀ­¡¤³¿ĞĞÕß
 9
 Íâ³öµÄÑ§Í½
-(The
-Wayward
-Apprentice)
+(The Wayward Apprentice)
 Ñ§Í½Ã×¶ûÎ¬´ï
 9
 ±»¸¯Ê´µÄÍÁµØ
-(Corrupted
-Soil)
+(Corrupted Soil)
 Ñ§Í½Ã×¶ûÎ¬´ï
 9
 ³öÈËÒâÁÏµÄ½á¹û
-(Unexpected
-Results)
+(Unexpected Results)
 9
 ÑĞ¾¿±Ê¼Ç
-(Research
-Notes)
+(Research Notes)
 Ä§µ¼Ê¦À¼µÂÀ­¡¤³¿ĞĞÕß
 9
 ÓÎÏÀÈøÀÙ¶÷
-(Ranger
-Sareyn)
+(Ranger Sareyn)
 ÂêÄá¶û¡¤çúçêÖ®¹â
 ÓÎÏÀÈøÀÙ¶÷
 9
 ±£ÎÀÇç·ç´å
-(Defending
-Fairbreeze
-Village)
+(Defending Fairbreeze Village)
 ÓÎÏÀÈøÀÙ¶÷
 10
 ·ûÎÄ¿´ÊØÕßµÂ¶ûÑÅ
-(Runewarden
-Deryan)
+(Runewarden Deryan)
 ·ûÎÄ¿´ÊØÕßµÂ¶ûÑÅ
 10
 ÔöÇ¿·ÀÓù
-(Powering
-our
-Defenses)
+(Powering our Defenses)
 ·ûÎÄ¿´ÊØÕßµÂ¶ûÑÅ
 10
 ½¹ºÛ¹È
-(The
-Scorched
-Grove)
+(The Scorched Grove)
 °¢¶ûµÂ¶÷¡¤ºÓ·ç
 À­ÀòÑÇÄÈ¡¤ºÓ·ç
 9
 Í´¿àµÄ¾ñÔñ
-(A
-Somber
-Task)
+(A Somber Task)
 À­ÀòÑÇÄÈ¡¤ºÓ·ç
 10
 »³ÌØ°Í¿ËµÄ×¹ÊÎ
-(Old
-Whitebark's
-Pendant)
+(Old Whitebark's Pendant)
 »³ÌØ°Í¿ËµÄ×¹ÊÎ
 10
 »³ÌØ°Í¿ËµÄ¼ÇÒä
-(Whitebark's
-Memory)
+(Whitebark's Memory)
 À­ÀòÑÇÄÈ¡¤ºÓ·ç
 »³ÌØ°Í¿ËµÄÁé»ê
 10
 ·ÅÆúµÄµ÷²é
-(Abandoned
-Investigations)
+(Abandoned Investigations)
 ²©Ñ§ÕßÄºÎ®µÄÈÕ¼Ç
 Ä§µ¼Ê¦´ïË¹Î¬Éª
 10
 Î¬ÁÖÉ­È¥ÄÄÁË£¿
-(Where's
-Wyllithen?)
+(Where's Wyllithen?)
 Ñ§Í½ÂŞÀ­ËşÀòË¿
 ¿´ÊØÕßÎ¬ÁÖÉ­
 10
 ÇåÀí¹ã³¡
-(Cleaning
-up
-the
-Grounds)
+(Cleaning up the Grounds)
 ¿´ÊØÕßÎ¬ÁÖÉ­
 10
 Ä§µ¼Ê¦µÄÑ§Í½
-(The
-Magister's
-Apprentice)
+(The Magister's Apprentice)
 Ä§µ¼Ê¦´ïË¹Î¬Éª
 Ñ§Í½ÂŞÀ­ËşÀòË¿
 10
 ¹Ø±Õ¸ßËş
-(Deactivating
-the
-Spire)
+(Deactivating the Spire)
 Ñ§Í½ÂŞÀ­ËşÀòË¿
 10
 ËşÖĞµÄÏûÏ¢
-(Word
-from
-the
-Spire)
+(Word from the Spire)
 Ä§µ¼Ê¦´ïË¹Î¬Éª
 10
 ÖÆÃ¬Ê¦Ö®´¸
-(The
-Spearcrafter's
-Hammer)
+(The Spearcrafter's Hammer)
 °¢À­Éª¶û
 °¢À­Éª¶û
 10
 Ô¶ĞĞÕß¾ÓËù
-(Farstrider
-Retreat)
+(Farstrider Retreat)
 ÓÎÏÀ´÷¸êÀû¶÷
 ´ï¶÷¡¤³¿ĞĞÕßÖĞÎ¾
 11
 °¢ÂüÄáÈëÇÖ
-(Amani
-Invasion)
+(Amani Invasion)
 °¢ÂüÄá¹¥»÷¼Æ»®
 10
 °¢ÂüÄáµÄ½ø·¸
-(Amani
-Encroachment)
+(Amani Encroachment)
 ´ï¶÷¡¤³¿ĞĞÕßÖĞÎ¾
 11
 ¾¯¸æÇç·ç´å
-(Warning
-Fairbreeze
-Village)
+(Warning Fairbreeze Village)
 ÓÎÏÀ´÷¸êÀû¶÷
 11
 ×æÂêÂåÊ²
@@ -51102,357 +50303,224 @@ Reserved
 ½áÊøNPC
 ÕóÓª
 10
-ÃÔÊ§ÔÚÓÄ»êÖ®µØ(Missing
-in
-the
-Ghostlands)
+ÃÔÊ§ÔÚÓÄ»êÖ®µØ(Missing in the Ghostlands)
 Ä§µ¼Ê¦À¼µÂÀ­¡¤³¿ĞĞÕß
 ĞÅÊ¹µÏ¿¨¡¤³¿ĞĞÕß
 ²¿Âä
 10
-ËÍÍùËş¿üÁÖµÄĞÅ¼ş(Delivery
-to
-Tranquillien)
+ËÍÍùËş¿üÁÖµÄĞÅ¼ş(Delivery to Tranquillien)
 ĞÅÊ¹µÏ¿¨¡¤³¿ĞĞÕß
 °ÂÊõÊ¦·¶µÏÈğ¶û
 10
-µ¹ÏÂµÄĞÅÊ¹(The
-Fallen
-Courier)
+µ¹ÏÂµÄĞÅÊ¹(The Fallen Courier)
 Ò©¼ÁÊ¦ÉªµÂÀ­
 Ò©¼ÁÊ¦ÉªµÂÀ­
 10
-ÒøÔÂ³ÇµÄ»õÎï(Goods
-from
-Silvermoon
-City)
+ÒøÔÂ³ÇµÄ»õÎï(Goods from Silvermoon City)
 ¾üĞè¹ÙÀ×Ã×¶û
 ·ÉĞĞ¹ÜÀíÔ±¼ÓÄáË¹¡¤ÈÕÒí
 10
-·ÉÍùÒøÔÂ³Ç(Fly
-to
-Silvermoon
-City)
+·ÉÍùÒøÔÂ³Ç(Fly to Silvermoon City)
 ·ÉĞĞ¹ÜÀíÔ±¼ÓÄáË¹¡¤ÈÕÒí
 ÈøË¹À×¡¤À¶¿Õ
 10
-¸ğÀ­Ã×(Skymistress
-Gloaming)
+¸ğÀ­Ã×(Skymistress Gloaming)
 ÈøË¹À×¡¤À¶¿Õ
 ¸ğÀ­Ã×
 10
-·µ»Ø¾üĞè¹ÙÀ×Ã×¶ûÉí±ß(Return
-to
-Quartermaster
-Lymel)
+·µ»Ø¾üĞè¹ÙÀ×Ã×¶ûÉí±ß(Return to Quartermaster Lymel)
 ¸ğÀ­Ã×
 ¾üĞè¹ÙÀ×Ã×¶û
 10
-±»ÒÅÍüÕß(The
-Forsaken)
+±»ÒÅÍüÕß(The Forsaken)
 °ÂÊõÊ¦·¶µÏÈğ¶û
 ¸ß¼¶Ö´ĞĞ¹ÙÂê¶ûÂ×
 10
-·µ»Ø°ÂÊõÊ¦·¶µÏÈğ¶ûÉí±ß(Return
-to
-Arcanist
-Vandril)
+·µ»Ø°ÂÊõÊ¦·¶µÏÈğ¶ûÉí±ß(Return to Arcanist Vandril)
 ¸ß¼¶Ö´ĞĞ¹ÙÂê¶ûÂ×
 °ÂÊõÊ¦·¶µÏÈğ¶û
 10
-ÈÕÃá´å(Suncrown
-Village)
+ÈÕÃá´å(Suncrown Village)
 °ÂÊõÊ¦·¶µÏÈğ¶û
 11
-½ğÎí´å(Goldenmist
-Village)
+½ğÎí´å(Goldenmist Village)
 14
-·çĞĞ´å(Windrunner
-Village)
+·çĞĞ´å(Windrunner Village)
 11+
 °¢Åµ¿ËËÕËş(Anok'suten)
 ±ôËÀµÄÑª¾«Áé
 11
-ÍĞ²©¶ûµÄ²¹¸øÆ·(Tomber's
-Supplies)
+ÍĞ²©¶ûµÄ²¹¸øÆ·(Tomber's Supplies)
 À­ÌáË¹¡¤ÍĞ²©¶û
 À­ÌáË¹¡¤ÍĞ²©¶û
 11
-µ÷²é°²´ïÂåË¹(Investigate
-An'daroth)
+µ÷²é°²´ïÂåË¹(Investigate An'daroth)
 °ÂÀò·ÆÂåË¿·òÈË
 °ÂÀò·ÆÂåË¿·òÈË
 14
-ÉîÈëµĞ¾³(Into
-Occupied
-Territory)
+ÉîÈëµĞ¾³(Into Occupied Territory)
 16
-·µ»Ø°²Ì©À­Ë¹(Deliver
-the
-Plans
-to
-An'telas)
+·µ»Ø°²Ì©À­Ë¹(Deliver the Plans to An'telas)
 Ä§µ¼Ê¦ÈûÀ­Ë¹ÍĞ
 16
-¹Ø±Õ°²Å·Î¬¶÷(Deactivate
-An'owyn)
+¹Ø±Õ°²Å·Î¬¶÷(Deactivate An'owyn)
 Ä§µ¼Ê¦ÈûÀ­Ë¹ÍĞ
 12
-°ïÖúÓÎÏÀÍßÀ¼ÄÈ(Help
-Ranger
-Valanna!)
+°ïÖúÓÎÏÀÍßÀ¼ÄÈ(Help Ranger Valanna!)
 ÓÎÏÀÀ³ÉªÍßÁÖ
 ÓÎÏÀÍßÀ¼ÄÈ
 12
-Èû²¼Ë÷À×µÄ¾ŞÄ§(Dealing
-with
-Zeb'Sora)
+Èû²¼Ë÷À×µÄ¾ŞÄ§(Dealing with Zeb'Sora)
 ÓÎÏÀÍßÀ¼ÄÈ
 12
-ÏòºÕÀï°ÂË¹ÖĞÎ¾±¨µ½(Report
-to
-Captain
-Helios)
+ÏòºÕÀï°ÂË¹ÖĞÎ¾±¨µ½(Report to Captain Helios)
 ºÕÀï°ÂË¹ÖĞÎ¾
 12
-Ë®ÖĞ¹í»ê(Spirits
-of
-the
-Drowned)
+Ë®ÖĞ¹í»ê(Spirits of the Drowned)
 ÓÎÏÀ¿ËÀ×°²
 ÓÎÏÀ¿ËÀ×°²
 12
-ÖØ½¨ÀúÊ·(Salvaging
-the
-Past)
+ÖØ½¨ÀúÊ·(Salvaging the Past)
 Ä§µ¼Ê¦´÷Â×ÄáË¹
 Ä§µ¼Ê¦´÷Â×ÄáË¹
 12
-±»ÒÅÍüµÄÒÇ¼À(Forgotten
-Rituals)
+±»ÒÅÍüµÄÒÇ¼À(Forgotten Rituals)
 ¸ñÀ¼ÄáË¹¡¤ÔÂ³¿
 ¸ñÀ¼ÄáË¹¡¤ÔÂ³¿
 13
-ÏûÃğ°¢¿ü°¬É­(Vanquishing
-Aquantion)
+ÏûÃğ°¢¿ü°¬É­(Vanquishing Aquantion)
 13
-ÎÁÒßº£°¶(The
-Plagued
-Coast)
+ÎÁÒßº£°¶(The Plagued Coast)
 Ò©¼ÁÊ¦À××ÈÌØ¶÷
 Ò©¼ÁÊ¦À××ÈÌØ¶÷
 14
-Ç°ÍùËÀÍöÖ®ºÛ(Down
-the
-Dead
-Scar)
+Ç°ÍùËÀÍöÖ®ºÛ(Down the Dead Scar)
 ÍöÁéÉÚ±øÀ­Ìá¶û
 ÍöÁéÉÚ±øÀ­Ìá¶û
 14
-ÓÄ¹â¿ó¶´µÄÂé·³(Trouble
-at
-the
-Underlight
-Mines)
+ÓÄ¹â¿ó¶´µÄÂé·³(Trouble at the Underlight Mines)
 ÍöÁéÉÚ±øÂê¶ûÌØµÏË¹
 ÍöÁéÉÚ±øÂê¶ûÌØµÏË¹
 14
-ÓÄ¹â¿óÊ¯Ñù±¾(Underlight
-Ore
-Samples)
+ÓÄ¹â¿óÊ¯Ñù±¾(Underlight Ore Samples)
 Ñ§Í½É³ËşÈğÑÇ
 Ä§µ¼Ê¦¿ü¶ûÁÖÌáË¹
 14
-ÎÁÒßµÄÊ¹Õß(Bearers
-of
-the
-Plague)
+ÎÁÒßµÄÊ¹Õß(Bearers of the Plague)
 Ô¶ĞĞÕßÈûµÙÄÈ
 Ô¶ĞĞÕßÈûµÙÄÈ
 15
-¿ØÖÆÎÁÒß(Curbing
-the
-Plague)
+¿ØÖÆÎÁÒß(Curbing the Plague)
 15
-ËÉ´àÖ©ÖëÍÈ(Culinary
-Crunch)
+ËÉ´àÖ©ÖëÍÈ(Culinary Crunch)
 ´ó³øÊ¦ÄªµÏ¶û
 ´ó³øÊ¦ÄªµÏ¶û
 15
-¶á»Ø·çĞĞÕßÖ®Ëş(Retaking
-Windrunner
-Spire)
+¶á»Ø·çĞĞÕßÖ®Ëş(Retaking Windrunner Spire)
 ¸ß¼¶Ö´ĞĞ¹ÙÂê¶ûÂ×
 ¸ß¼¶Ö´ĞĞ¹ÙÂê¶ûÂ×
 15
-Å®ÍõµÄÏîÁ´(The
-Lady's
-Necklace)
+Å®ÍõµÄÏîÁ´(The Lady's Necklace)
 Å®ÍõµÄÏîÁ´
 16
-¸¯ÀÃÖ®ĞÄ(Rotting
-Hearts)
+¸¯ÀÃÖ®ĞÄ(Rotting Hearts)
 Ä§µ¼Ê¦°¬Ã×Äİ¶û
 Ä§µ¼Ê¦°¬Ã×Äİ¶û
 16
-¸ü¶àµÄ¸¯ÀÃÖ®ĞÄ(More
-Rotting
-Hearts)
+¸ü¶àµÄ¸¯ÀÃÖ®ĞÄ(More Rotting Hearts)
 18
-¼¹¹ÇÖ®³¾(Spinal
-Dust)
+¼¹¹ÇÖ®³¾(Spinal Dust)
 18
-¸ü¶àµÄ¼¹¹ÇÖ®³¾(More
-Spinal
-Dust)
+¸ü¶àµÄ¼¹¹ÇÖ®³¾(More Spinal Dust)
 16
-ÂÃĞĞÕßÓªµØ(The
-Farstrider
-Enclave)
+ÂÃĞĞÕßÓªµØ(The Farstrider Enclave)
 Ä§µ¼Ê¦¿²µÏÈğË¹
 ÓÎÏÀÎ¬¶÷ÄÈ
 16
-ÅÑÍ½Ö®Ó°(The
-Traitor's
-Shadow)
+ÅÑÍ½Ö®Ó°(The Traitor's Shadow)
 ÓÎÏÀÎ¬¶÷ÄÈ
 ²¼Âú»Ò³¾µÄÈÕ¼Ç
 16
-ÍùÈÕµÄÏßË÷(Hints
-of
-the
-Past)
+ÍùÈÕµÄÏßË÷(Hints of the Past)
 ²¼Âú»Ò³¾µÄÈÕ¼Ç
 ÓÎÏÀÎ¬¶÷ÄÈ
 16
-ÏòÄ§µ¼Ê¦¿²µÏÈğË¹±¨µ½(Report
-to
-Magister
-Kaendris)
+ÏòÄ§µ¼Ê¦¿²µÏÈğË¹±¨µ½(Report to Magister Kaendris)
 ÓÎÏÀÎ¬¶÷ÄÈ
 Ä§µ¼Ê¦¿²µÏÈğË¹
 17
-Í¨ÁéË«Ëş(The
-Twin
-Ziggurats)
+Í¨ÁéË«Ëş(The Twin Ziggurats)
 Ä§µ¼Ê¦¿²µÏÈğË¹
 21+
-ÅÑÍ½µÄ»ÙÃğ(The
-Traitor's
-Destruction)
+ÅÑÍ½µÄ»ÙÃğ(The Traitor's Destruction)
 17
-ÌÓÀëÄ¹Ñ¨(Escape
-from
-the
-Catacombs)
+ÌÓÀëÄ¹Ñ¨(Escape from the Catacombs)
 ÓÎÏÀÀòÀ­¶÷Èø
 ºÕÀï°ÂË¹ÖĞÎ¾
 18
-°µËÉ¾ŞÄ§µÄÎäÆ÷(Shadowpine
-Weaponry)
+°µËÉ¾ŞÄ§µÄÎäÆ÷(Shadowpine Weaponry)
 ºÕÀï°ÂË¹ÖĞÎ¾
 17
-µ÷²é°¢ÂüÄáÄ¹Ñ¨(Investigate
-the
-Amani
-Catacombs)
+µ÷²é°¢ÂüÄáÄ¹Ñ¨(Investigate the Amani Catacombs)
 ¹ËÎÊÍß¶ûÎÄ
 ¹ËÎÊÍß¶ûÎÄ
 17
-¾ŞÄ§µÄĞ°·û(Troll
-Juju)
+¾ŞÄ§µÄĞ°·û(Troll Juju)
 ÍöÁéÉÚ±øÂê¶ûÌØµÏË¹
 ÍöÁéÉÚ±øÂê¶ûÌØµÏË¹
 18
-ÇåÀíµÀÂ·(Clearing
-the
-Way)
+ÇåÀíµÀÂ·(Clearing the Way)
 Ñ§Í½ÎÖ¶ûÒÁ
 Ñ§Í½ÎÖ¶ûÒÁ
 18
-½ø¹¥Èû²¼ÌáÀ­(Attack
-on
-Zeb'Tela)
+½ø¹¥Èû²¼ÌáÀ­(Attack on Zeb'Tela)
 Ô¶ĞĞÕßË÷À¼ÄÈ
 Ô¶ĞĞÕßË÷À¼ÄÈ
 19
-Í»Ï®Èû²¼Å¬Íß(Assault
-on
-Zeb'Nowa)
+Í»Ï®Èû²¼Å¬Íß(Assault on Zeb'Nowa)
 19
-ÏãÁÏ(A
-Little
-Dash
-of
-Seasoning)
+ÏãÁÏ(A Little Dash of Seasoning)
 Ò©¼ÁÊ¦ÎÂÅ¬Í¼Ë¹
 Ò©¼ÁÊ¦ÎÂÅ¬Í¼Ë¹
 20
-ÁÆÉËÒ©¸à(A
-Restorative
-Draught)
+ÁÆÉËÒ©¸à(A Restorative Draught)
 °ÂÊõÊ¦ÑÇÄá´ï
 Ò©¼ÁÊ¦À××ÈÌØ¶÷
 20
-´÷Ë÷Ä·µÄ·ıÂ²(Captives
-at
-Deatholme)
+´÷Ë÷Ä·µÄ·ıÂ²(Captives at Deatholme)
 Ò©¼ÁÊ¦À××ÈÌØ¶÷
 °ÂÊõÊ¦ÑÇÄá´ï
 20
-Ì«ÑôÊ¥µî(A
-Restorative
-Draught)
+Ì«ÑôÊ¥µî(A Restorative Draught)
 Ä§µ¼Ê¦´÷Â×ÄáË¹
 Ä§µ¼Ê¦ÒÁ¶«ÄáË¹
 20
-´÷Ë÷Ä·Ö®Õ½(War
-on
-Deatholme)
+´÷Ë÷Ä·Ö®Õ½(War on Deatholme)
 Ä§µ¼Ê¦ÒÁ¶«ÄáË¹
 20
-´ï¶û¿²µÄ¾ü¹Ù(War
-on
-Deatholme)
+´ï¶û¿²µÄ¾ü¹Ù(War on Deatholme)
 20+
-¿Ë¶û¼ÓÊ²µÄÍ·Â­£¡(Bring
-Me
-Kel'gash's
-Head!)
+¿Ë¶û¼ÓÊ²µÄÍ·Â­£¡(Bring Me Kel'gash's Head!)
 Í¨¼©²¼¸æ£ºĞ°¶ñµÄ¿Ë¶û¼ÓÊ²
 ºÕÀï°ÂË¹ÖĞÎ¾
 21
-ĞÁ¶àÀ×µÄÓ¢ĞÛ(Hero
-of
-the
-Sin'dorei)
+ĞÁ¶àÀ×µÄÓ¢ĞÛ(Hero of the Sin'dorei)
 Ä§µ¼Ê¦¿²µÏÈğË¹
 ÂåÉªÂê¡¤ÈûÂ¡
 21
-²¿ÂäµÄÌØÊ¹(Envoy
-to
-the
-Horde)
+²¿ÂäµÄÌØÊ¹(Envoy to the Horde)
 ÂåÉªÂê¡¤ÈûÂ¡
 Ï£¶ûÍßÄÈË¹¡¤·çĞĞÕß
 21
-êî¼ûÇõ³¤(Meeting
-the
-Warchief)
+êî¼ûÇõ³¤(Meeting the Warchief)
 Ï£¶ûÍßÄÈË¹¡¤·çĞĞÕß
 Èø¶û
 21
-Ğ§ÖÒ²¿Âä(Allegiance
-to
-the
-Horde)
+Ğ§ÖÒ²¿Âä(Allegiance to the Horde)
 Èø¶û
 ÂåÉªÂê¡¤ÈûÂ¡
 21
-Í¨¼©£ºÄÉ¿ËÀ×ÂåÌØºÍÂ¬×ÈÀ¼(Wanted:
-Knucklerot
-and
-Luzran)
+Í¨¼©£ºÄÉ¿ËÀ×ÂåÌØºÍÂ¬×ÈÀ¼(Wanted: Knucklerot and Luzran)
 Í¨¼©²¼¸æ
 ÍöÁéÉÚ±øÀ­Ìá¶û
 ¹ØÓÚÌÚÑ¶
@@ -51869,54 +50937,38 @@ Reserved
 ²¿Âä
 1
 ¶á»ØÖğÈÕµº
-(Reclaiming
-Sunstrider
-Isle)
+(Reclaiming Sunstrider Isle)
 Ä§µ¼Ê¦°¬ÂåÄÈ
 Ä§µ¼Ê¦°¬ÂåÄÈ
 3
 ÁîÈËÒÅº¶µÄ´ëÊ©
-(Unfortunate
-Measures)
+(Unfortunate Measures)
 3
 ÏòÀ¼Èø¶÷¡¤ÅÉÀ×Â¡±¨µ½
-(Report
-to
-Lanthan
-Perilon)
+(Report to Lanthan Perilon)
 À¼Èø¶÷¡¤ÅÉÀ×Â¡
 3
 ÎŞ¾¡µÄ¿ÊÇó
-(Thirst
-Unending)
+(Thirst Unending)
 °ÂÊõÊ¦ºÕÀï¶÷
 °ÂÊõÊ¦ºÕÀï¶÷
 4
 ±»ÎÛÈ¾µÄ°ÂÊõ±¡Æ¬
-(Tainted
-Arcane
-Sliver)
+(Tainted Arcane Sliver)
 ±»ÎÛÈ¾µÄ°ÂÊõ±¡Æ¬
 4
 °ÂÊõ±¡Æ¬
-(A
-Fistful
-of
-Slivers)
+(A Fistful of Slivers)
 °ÂÊõÊ¦ÒÁËşÄÉË¹
 °ÂÊõÊ¦ÒÁËşÄÉË¹
 4
 Ë÷À¼ÄáÑÇµÄÎïÆ·
-(Solanian's
-Belongings)
+(Solanian's Belongings)
 »¤¾®ÕßË÷À¼ÄáÑÇ
 »¤¾®ÕßË÷À¼ÄáÑÇ
 4
 ´ïË¹À×ÂêµÄÉñíè
-(The
-Shrine
-of
-Dath'Remar)
+(The Shrine of Dath'Remar)
 4
 ¹¥ÊÆ
 (Aggression)
@@ -51924,34 +50976,24 @@ Dath'Remar)
 À¼Èø¶÷¡¤ÅÉÀ×Â¡
 5
 ·ÅÖğÕß·ÆÂ×µÂÀ×
-(Felendren
-the
-Banished)
+(Felendren the Banished)
 5
 °ïÖúĞÅÊ¹
-(Aiding
-the
-Outrunners)
+(Aiding the Outrunners)
 ĞÅÊ¹°ÂÀ­Àò¶÷
 5
 Ê§ĞÄÕßµÄÎşÉüÆ·
-(Slain
-by
-the
-Wretched)
+(Slain by the Wretched)
 ĞÅÊ¹°ÂÀ­Àò¶÷
 ±»É±ËÀµÄĞÅÊ¹
 5
 ÕÒ»Ø°ü¹ü
-(Package
-Recovery)
+(Package Recovery)
 ±»É±ËÀµÄĞÅÊ¹
 ĞÅÊ¹°ÂÀ­Àò¶÷
 5
 ËÍĞÅ
-(Completing
-the
-Delivery)
+(Completing the Delivery)
 ĞÅÊ¹°ÂÀ­Àò¶÷
 ÂÃµêÀÏ°åµÂÀ¼Äİ¶û
 ¹ØÓÚÌÚÑ¶
@@ -55493,7 +54535,7 @@ Maker:£¨±Ø±¸£©
 Movie
 Maker¡¢±©·çÓ°Òô²¢½øĞĞ°²×°
 ×¢Òâ°²×°FrapsµÄÊ±ºòÒª×¢Òâºº»¯°üºó½øĞĞ°²×°²¢ÇÒ°²×°Ä¿Â¼ÒªÓëÔ´°²×°ÎÄ¼şÏàÍ¬¡£
-£¨°²×°Ä¿Â¼¾ÍÊÇÂ¼ÖÆÊÓÆµµÄÄ¬ÈÏÄ¿Â¼Å¶£¬Â¼ÖÆºÃµÄÊÓÆµÈ¥ÄÇÀïÕÒ¡£
+£¨°²×°Ä¿Â¼¾ÍÊÇÂ¼ÖÆÊÓÆµµÄÄ¬ÈÏÄ¿Â¼Å¶£¬Â¼ÖÆºÃµÄÊÓÆµÈ¥ÄÇÀïÕÒ¡£ 
 Èı¡¢ÖÆ×÷Á÷³ÌÍ¼
 ²½Öè1
 ²½Öè2
@@ -56760,13 +55802,7 @@ Reserved
 ×ÊÁÏÆ¬T5Ì××°Ğ§¹û¼°ÊôĞÔ
 ×ÊÁÏÆ¬T6Ì××°Ì××°ÊôĞÔ
 µÁÔôÊÓÆµ
-[an
-error
-occurred
-while
-processing
-this
-directive]
+[an error occurred while processing this directive]
 ¹ØÓÚÌÚÑ¶
 |
 About
@@ -58585,8 +57621,7 @@ Crusade
 ÓÎÏ·ÀàĞÍ£ºMMORPG-3D
 ¿ª·¢³§ÉÌ£ºBlizzard(±©Ñ©)
 ÔËÓª¹«Ë¾£ºµÚ¾Å³ÇÊĞ
-²âÊÔÊ±¼ä£º2007Äê1ÔÂ16ÈÕ(ÃÀ
-Å··ş)
+²âÊÔÊ±¼ä£º2007Äê1ÔÂ16ÈÕ(ÃÀ Å··ş)
 ×´Ì¬£ºÃÀ·ş¿ªÆô¹«²â
 ¹ØÓÚÌÚÑ¶
 |
@@ -58632,8 +57667,7 @@ Reserved
 £­£­£­ĞÉĞÉ£¨Qzone£©
 ×ÆÉÕÁ÷µÄ¿ª´´Õß¡ª¡ªOtherGuy
 ·¨
-Ê¦µÄ±Ç×æ£¬×ÆÉÕÁ÷´ò·¨µÄ¿ª´´Õß£¡Èç¹ûÄã²»ÖªµÀOtherGuyÄÇÃ´Äã¾Í²»ÄÜËãÒ»¸öºÏ¸ñµÄWOWÊÓÆµ¹ÛÖÚ£¨ÄÇ¸öÄê´úSorrow
-HillÏµÁĞ¶ÔÒ»´úÈË¾ßÓĞÖØ´óµÄÓ°ÏìÒâÒå£©²»ÄÜÓÃÎÄ×ÖÀ´ĞÎÈİµÄÇ¿´ó£¡¾­µäµÄ¡°»ÚºŞÁë¡±£¡¾­µäµÄ»ğ·¨£¡
+Ê¦µÄ±Ç×æ£¬×ÆÉÕÁ÷´ò·¨µÄ¿ª´´Õß£¡Èç¹ûÄã²»ÖªµÀOtherGuyÄÇÃ´Äã¾Í²»ÄÜËãÒ»¸öºÏ¸ñµÄWOWÊÓÆµ¹ÛÖÚ£¨ÄÇ¸öÄê´úSorrow HillÏµÁĞ¶ÔÒ»´úÈË¾ßÓĞÖØ´óµÄÓ°ÏìÒâÒå£©²»ÄÜÓÃÎÄ×ÖÀ´ĞÎÈİµÄÇ¿´ó£¡¾­µäµÄ¡°»ÚºŞÁë¡±£¡¾­µäµÄ»ğ·¨£¡
 Õâ
 ÊÇÒ»¸ö·¨Ê¦Ê±´úµÄ¿ªÊ¼£¬±êÖ¾ĞÔµÄÈËÎï¡£O´ó±»Ğ¡±àÈÏÎªÊÇ·¨Ê¦»Ô»ÍÊ±´úµÄÈıÎ»µì»ùÈËÖ®Ò»£¬µ±È»£¬ËûµÄ´ò·¨£¬¶ÔÓÚÖÚ¶à»¹Î´ÔøÊìÏ¤ÓÎÏ·µÄÍæ¼ÒÀ´ËµÔø¾­ÊÇÒ»¸öÃÎ¡£
 £­£­£­ĞÉĞÉ
@@ -59023,14 +58057,7 @@ QQµçÌ¨
 ½ğôá½±2007
 ÓÎÏ·¿â
 Ä§ÊŞÊÀ½çµÚ¶ş²¿×ÊÁÏÆ¬¡¶Î×ÑıÍõÖ®Å­¡·
-ÃÀ¹ú¶«²¿Ê±¼ä8ÔÂ2ÈÕ6Ê±×óÓÒ(±±¾©Ê±¼ä8ÔÂ2ÈÕ22Ê±)£¬±©Ñ©¡¶Ä§ÊŞÊÀ½ç¡·µÚ¶ş¸ö×ÊÁÏÆ¬¡¶Î×ÑıÍõÖ®Å­¡·£¨World
-of
-Warcraft:
-Wrath
-of
-the
-Lich
-King£©³öÏÖÔÚÁËÃÀ¹ú¹Ù·½×¢²áÉÌ±êÍøÕ¾µÄ±©Ñ©°æÈ¨Ò³ÃæÉÏ¡£
+ÃÀ¹ú¶«²¿Ê±¼ä8ÔÂ2ÈÕ6Ê±×óÓÒ(±±¾©Ê±¼ä8ÔÂ2ÈÕ22Ê±)£¬±©Ñ©¡¶Ä§ÊŞÊÀ½ç¡·µÚ¶ş¸ö×ÊÁÏÆ¬¡¶Î×ÑıÍõÖ®Å­¡·£¨World of Warcraft: Wrath of the Lich King£©³öÏÖÔÚÁËÃÀ¹ú¹Ù·½×¢²áÉÌ±êÍøÕ¾µÄ±©Ñ©°æÈ¨Ò³ÃæÉÏ¡£
 Ëæºó±©Ñ©¹«Ë¾ÔÚÒ»ÄêÒ»¶ÈµÄBlizzconÉÏÕıÊ½¹«²¼ÁË¡¶Î×ÑıÍõÖ®Å­¡·¡£×ÊÁÏÆ¬½«»á¶ÔÓÎÏ·ÄÚÈİ½øĞĞÔÙÒ»´ÎÀ©Õ¹µØÍ¼ÉÏ½«¿ª·ÅÅµÉ­µÂ´óÂ½£¬Õâ¿é´óÂ½Ê×ÏÈ³öÏÖÔÚÄ§ÊŞÕù°Ô3µÄ×ÊÁÏÆ¬ÖÖ£¬ÏÖÔÚ£¬Ä§ÊŞµÄÊÀ½çµÄÍæ¼ÒÒ²µÚÒ»´ÎµÄ¿ÉÒÔÔÚÆäÖĞÃ°ÏÕÁË¡£
 [²é¿´ÏêÏ¸]
 [ÎÒÒªÆÀÂÛ]
@@ -59126,35 +58153,26 @@ Keep£¨70-72£©£ºVrykul£¨73+£©
 Î»ÓÚÎŞ¾¡Ö®º£µÄÕıÉÏ·½£¬ÅµÉ­µÂµÄÓÒÏÂ½Ç¡£´«Ëµ¹ÅÊ±Ò»Ö§³Æ×÷ÍßÀ×¿âµÄ°ë¾ŞÈËÕ½Ê¿ÖÖ×åÔø¶¨¾ÓÓÚ´Ë¡£
 Èç½ñ£¬ÁªÃËºÍ²¿ÂäÀ´µ½ÁËÕâÀï£¬¶Ô¿¹ÎŞ¶ñ²»×÷µÄÎ×ÑıÍõ¡£
 [²é¿´ÏêÏ¸]
-¼âĞ¥º£Íå£¨Howling
-Fjord£©
+¼âĞ¥º£Íå£¨Howling Fjord£©
 69-71¼¶
-±±·½Ì¦Ô­£¨The
-Borean
-Tundra£©
+±±·½Ì¦Ô­£¨The Borean Tundra£©
 70-72¼¶
 »ÒÁê
-£¨Grizzly
-Hills£©
+£¨Grizzly Hills£©
 71-73¼¶
 ¼«º®Ö®µØ£¨Coldarra£©
 72-74¼¶
 ×æ¶ûµÂÀ­¿Ë£¨Zul'Drak£©
 72-74¼¶
-Ğ¤À­²éÅèµØ£¨Sholazar
-Basin£©
+Ğ¤À­²éÅèµØ£¨Sholazar Basin£©
 73-75¼¶
-¾ŞÁú»ÄµØ£¨The
-Dragonblight£©
+¾ŞÁú»ÄµØ£¨The Dragonblight£©
 75-77¼¶
-Ë®¾§Ö®¸èÉ­ÁÖ£¨Crystalsong
-Forest£©
+Ë®¾§Ö®¸èÉ­ÁÖ£¨Crystalsong Forest£©
 76-78¼¶
-·ç±©Ö®áÛ£¨The
-Stormpeaks£©
+·ç±©Ö®áÛ£¨The Stormpeaks£©
 77-79¼¶
-º®±ù»Ê¹Ú±ù´¨£¨Icecrown
-Glacier£©
+º®±ù»Ê¹Ú±ù´¨£¨Icecrown Glacier£©
 78-80¼¶
 ĞÂ¾É´óÂ½¶Ô±È
 ¡¶Î×ÑıÍõÖ®Å­¡·ÊÀ½çµØÍ¼
@@ -59326,8 +58344,7 @@ Reserved
 [²¹¶¡ËµÃ÷]
 [ĞÂµØÍ¼]
 [ĞÂÄ£ĞÍ]
-[T7Ì×
-ÎäÆ÷]
+[T7Ì× ÎäÆ÷]
 [¸±±¾BOSS½éÉÜ]
 [T6ÔöÎª8¼şÌ×]
 [»ØÀ¶ĞŞ¸Ä]
@@ -59746,14 +58763,10 @@ rating2504ÈøÂú×Ü½á
 [ÍâÓòÒ°Íâ¿ªÏä×ÓĞÄµÃ]
 [ÃâÒßÁ÷ĞĞÄ§ÊŞµÁºÅÄ¾Âí]
 Ö°Òµ½»Á÷
-[·ÀÕ½ÊÕ¼¯Ö®×°±¸
-Ò©Æ·]
+[·ÀÕ½ÊÕ¼¯Ö®×°±¸ Ò©Æ·]
 [·¨Ê¦ÍµÈ¡Ä¿±ê´óÈ«]
 [½äÉñÄÁ¸±±¾¹¥ÂÔÒ»¡¢¶ş]
-[ÊõÊ¿DPSÀíÂÛ
-ÈëÃÅ
-¸ß¶Ë
-³ğºŞ]
+[ÊõÊ¿DPSÀíÂÛ ÈëÃÅ ¸ß¶Ë ³ğºŞ]
 [µÁÔôMingÏµÁĞ¾­Ñé]
 [ÁÔÈËµ¥Ë¢Å«Á¥]
 [ÁªÃËµÂÊ·Ê«ÄñÈÎÎñ]
@@ -59765,19 +58778,16 @@ rating2504ÈøÂú×Ü½á
 [¿¨À­ÔŞ¾«Æ·µ¼¶Á]
 ×¨Òµ¾­ÉÌ
 [¿ÕÆøÎ¢Á£ÔÆÎí·Ö²¼]
-[ÍâÓò²É¿óĞÄµÃ
-¿óµã·Ö²¼]
+[ÍâÓò²É¿óĞÄµÃ ¿óµã·Ö²¼]
 [²¿ÂäµöÓãËÙ³É]
 [Ô´ÉúĞé¿Õ¿ìËÙ»ñÈ¡]
 [¹¤³ÌÊµÓÃµÀ¾ß]
 ÈÎÎñ¾«»ª
 [ÍâÓòÈÕ³£ÈÎÎñ]
-[¶ñÄ§ÎŞË«
-BUG]
+[¶ñÄ§ÎŞË« BUG]
 [¿¨À­ÔŞÔ¿³×]
 [ÁªÃËµÂÊ·Ê«ÄñÈÎÎñ]
-[Ğé¿ÕÁú»ñÈ¡Á÷³Ì
-Ç°ÖÃÈÎÎñ]
+[Ğé¿ÕÁú»ñÈ¡Á÷³Ì Ç°ÖÃÈÎÎñ]
 ¾º¼¼³¡
 [¿ØÖÆ´óÈ«]
 [½¨Á¢¶ÓÎé]
@@ -60047,8 +59057,7 @@ MD5£º77513B2E409F3AAF2AEC3DB4062981C9
 ÍêÈ«°²×°³ÌĞò
 ´óĞ¡£º
 4.67GB
-(5,024,733,024
-×Ö½Ú)
+(5,024,733,024 ×Ö½Ú)
 ÍêÈ«°²×°ÌáÊ¾£º
 ¸ÃÍêÈ«°²×°³ÌĞòÊÊÓÃÓÚÃ»ÓĞ°²×°¹ıÈÎºÎ¡¶Ä§ÊŞÊÀ½ç¡·¿Í»§¶ËµÄµçÄÔ£¬ÔËĞĞ´Ë³ÌĞòºó£¬»á½«×îĞÂ·ç±©Ç°Ï¦°æ±¾µÄÍêÕû¡¶Ä§ÊŞÊÀ½ç¡·ÖĞÎÄ¿Í»§¶Ë°²×°ÔÚÄúµÄ»úÆ÷ÖĞ¡£Èç¹ûÄúÏëÊ¹ÓÃ´Ë°²×°³ÌĞò£¬ÇëÏÈÈ·±£ÄúµÄ»úÆ÷ÖĞÃ»ÓĞ°²×°¹ıÈÎºÎ°æ±¾µÄ¡¶Ä§ÊŞÊÀ½ç¡·¿Í»§¶Ë£¬»ò½«¡¶Ä§ÊŞÊÀ½ç¡·¿Í»§¶ËÏÈĞ¶ÔØºóÔÙ°²×°´ËÍê³É°²×°³ÌĞò¡£
 2.1.0.6692
@@ -63601,39 +62610,28 @@ Reserved
 µÈ¼¶
 ËùÊôÇøÓò
 µØÓü»ğ±¤Àİ
-(Hellfire
-Citadel)
+(Hellfire Citadel)
 µØÓü»ğ³ÇÇ½
-(Hellfire
-Ramparts)
+(Hellfire Ramparts)
 60-62
 µØÓü»ğ°ëµº
 ÏÊÑªÈÛÂ¯
-(The
-Blood
-Furnace)
+(The Blood Furnace)
 61-63
 ÆÆËé´óÌü
-(The
-Shattered
-Halls)
+(The Shattered Halls)
 70-72
 ÅÌÑÀºş²´
-(Coilfang
-Reservoir)
+(Coilfang Reservoir)
 Å«Á¥Î§À¸
-(The
-Slave
-Pens)
+(The Slave Pens)
 62-64
 ÔŞ¼ÓÕÓÔó
 ÓÄ°µÕÓÔó
-(The
-Underbog)
+(The Underbog)
 63-65
 ÕôÆûµØ¿ß
-(The
-Steamvault)
+(The Steamvault)
 70-72
 °Â½ğ¶Ù
 (Auchindoun)
@@ -63645,41 +62643,31 @@ Steamvault)
 (Mana-Tombs)
 66-68
 ÈûÌ©¿Ë´óÌü
-(Sethekk
-Halls)
+(Sethekk Halls)
 67-69
 °µÓ°ÃÔ¹¬
-(Shadow
-Labyrinth)
+(Shadow Labyrinth)
 68-70
 Ê±¹âÖ®Ñ¨
-(Caverns
-of
-Time)
+(Caverns of Time)
 ¾ÉÏ£¶ûË¹²¼À³µÂ
-(Old
-Hillsbrad)
+(Old Hillsbrad)
 66-67
 ËşÄÉÀûË¹
 ºÚ°µÕÓÔó
-(Black
-Morass)
+(Black Morass)
 70-72
 ·ç±©ÒªÈû
-(Tempest
-Keep)
+(Tempest Keep)
 ÄÜÔ´½¢
-(The
-Mechanaar)
+(The Mechanaar)
 70-72
 Ğé¿Õ·ç±©
 ÉúÌ¬´¬
-(The
-Botanica)
+(The Botanica)
 70-72
 ½ûÄ§¼àÓü
-(The
-Arcatraz)
+(The Arcatraz)
 70-72
 10ÈË¸±±¾
 10ÈËÍÅ¶Ó¸±±¾Ãû³Æ
@@ -63694,31 +62682,22 @@ Arcatraz)
 25ÈËÍÅ¶Ó¸±±¾Ãû³Æ
 ËùÊôÇøÓò
 ¸êÂ³¶ûµÄ³²Ñ¨
-(Gruul's
-lair)
+(Gruul's lair)
 µ¶·æÉ½
 ÂêÉªÀï¶ÙµÄ³²Ñ¨
-(Magtheridon's
-lair)
+(Magtheridon's lair)
 µØÓü»ğ°ëµº
 Ê±¹âÖ®Ñ¨£ºº£¼Ó¶û
-(Caverns
-of
-Time£ºHyjal)
+(Caverns of Time£ºHyjal)
 ËşÄÉÀûË¹
 ¶¾ÉßÉñµî
-(Serpentshrine
-Carvern)
+(Serpentshrine Carvern)
 ÔŞ¼ÓÕÓÔó
 ·ç±©Ö®ÑÛ
-(Eye
-of
-the
-Storm)
+(Eye of the Storm)
 Ğé¿Õ·ç±©
 ºÚÉ«ÉñÃí
-(Black
-Temple)£¨Î´¿ª·Å£©
+(Black Temple)£¨Î´¿ª·Å£©
 Ó°ÔÂ¹È
 ¸±±¾Ç°ÖÃÁ÷³Ì½éÉÜ
 ¹ØÓÚÌÚÑ¶
@@ -64103,8 +63082,7 @@ Reserved
 [²¹¶¡ËµÃ÷]
 [ĞÂµØÍ¼]
 [ĞÂÄ£ĞÍ]
-[T7Ì×
-ÎäÆ÷]
+[T7Ì× ÎäÆ÷]
 [¸±±¾BOSS½éÉÜ]
 [T6ÔöÎª8¼şÌ×]
 [»ØÀ¶ĞŞ¸Ä]
@@ -64542,8 +63520,7 @@ Reserved
 [²¹¶¡ËµÃ÷]
 [ĞÂµØÍ¼]
 [ĞÂÄ£ĞÍ]
-[T7Ì×
-ÎäÆ÷]
+[T7Ì× ÎäÆ÷]
 [¸±±¾BOSS½éÉÜ]
 [T6ÔöÎª8¼şÌ×]
 [»ØÀ¶ĞŞ¸Ä]
@@ -64995,8 +63972,7 @@ Reserved
 [²¹¶¡ËµÃ÷]
 [ĞÂµØÍ¼]
 [ĞÂÄ£ĞÍ]
-[T7Ì×
-ÎäÆ÷]
+[T7Ì× ÎäÆ÷]
 [¸±±¾BOSS½éÉÜ]
 [T6ÔöÎª8¼şÌ×]
 [»ØÀ¶ĞŞ¸Ä]
@@ -65427,8 +64403,7 @@ Reserved
 [²¹¶¡ËµÃ÷]
 [ĞÂµØÍ¼]
 [ĞÂÄ£ĞÍ]
-[T7Ì×
-ÎäÆ÷]
+[T7Ì× ÎäÆ÷]
 [¸±±¾BOSS½éÉÜ]
 [T6ÔöÎª8¼şÌ×]
 [»ØÀ¶ĞŞ¸Ä]
@@ -65893,8 +64868,7 @@ Reserved
 [²¹¶¡ËµÃ÷]
 [ĞÂµØÍ¼]
 [ĞÂÄ£ĞÍ]
-[T7Ì×
-ÎäÆ÷]
+[T7Ì× ÎäÆ÷]
 [¸±±¾BOSS½éÉÜ]
 [T6ÔöÎª8¼şÌ×]
 [»ØÀ¶ĞŞ¸Ä]
@@ -66349,8 +65323,7 @@ Reserved
 [²¹¶¡ËµÃ÷]
 [ĞÂµØÍ¼]
 [ĞÂÄ£ĞÍ]
-[T7Ì×
-ÎäÆ÷]
+[T7Ì× ÎäÆ÷]
 [¸±±¾BOSS½éÉÜ]
 [T6ÔöÎª8¼şÌ×]
 [»ØÀ¶ĞŞ¸Ä]
@@ -66819,8 +65792,7 @@ Reserved
 [²¹¶¡ËµÃ÷]
 [ĞÂµØÍ¼]
 [ĞÂÄ£ĞÍ]
-[T7Ì×
-ÎäÆ÷]
+[T7Ì× ÎäÆ÷]
 [¸±±¾BOSS½éÉÜ]
 [T6ÔöÎª8¼şÌ×]
 [»ØÀ¶ĞŞ¸Ä]
@@ -67273,8 +66245,7 @@ Reserved
 [²¹¶¡ËµÃ÷]
 [ĞÂµØÍ¼]
 [ĞÂÄ£ĞÍ]
-[T7Ì×
-ÎäÆ÷]
+[T7Ì× ÎäÆ÷]
 [¸±±¾BOSS½éÉÜ]
 [T6ÔöÎª8¼şÌ×]
 [»ØÀ¶ĞŞ¸Ä]
@@ -67727,8 +66698,7 @@ Reserved
 [²¹¶¡ËµÃ÷]
 [ĞÂµØÍ¼]
 [ĞÂÄ£ĞÍ]
-[T7Ì×
-ÎäÆ÷]
+[T7Ì× ÎäÆ÷]
 [¸±±¾BOSS½éÉÜ]
 [T6ÔöÎª8¼şÌ×]
 [»ØÀ¶ĞŞ¸Ä]
@@ -68018,8 +66988,7 @@ rating2504ÈøÂú×Ü½á[01ÔÂ17ÈÕ]
 ¡¤¡¾¾º¼¼³¡¡¿2400+
 Ôô·¨¶ÔÕ½¸÷Ö°ÒµµÄĞÄµÃ[12ÔÂ10ÈÕ]
 ¡¤¡¾¾º¼¼³¡¡¿2V2´òµ½2334,×¼±¸¹ê×ÅµÈÁúÁË,ÃıÂÛ¼¸¾ä°É[12ÔÂ10ÈÕ]
-¡¤¡¾¾º¼¼³¡¡¿¾º¼¼³¡¼¯»ğ(focus
-fire)Ç³Ì¸[12ÔÂ07ÈÕ]
+¡¤¡¾¾º¼¼³¡¡¿¾º¼¼³¡¼¯»ğ(focus fire)Ç³Ì¸[12ÔÂ07ÈÕ]
 ¡¤¡¾¾º¼¼³¡¡¿2V2±ù·¨ºÍÒ°µÂ×éºÏ´ò·¨[12ÔÂ06ÈÕ]
 ¡¤¡¾¾º¼¼³¡¡¿¾º¼¼³¡µÄÀÖÈ¤&#8212;»ì·Ö±ãµ±¶Ó´óÄÖ¾º¼¼³¡[12ÔÂ05ÈÕ]
 ¡¤¡¾¾º¼¼³¡¡¿·ÖÏí·ÜÕ½1¸ö¶àÔÂ´òÉÏ2300·ÖºóµÄ¸ĞÎò[12ÔÂ05ÈÕ]

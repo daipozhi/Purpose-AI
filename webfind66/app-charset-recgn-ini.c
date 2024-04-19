@@ -53,7 +53,7 @@ int main(int argc,char **argv)
     while (strlen(s1)<300)
       strcat(s1," ");
 
-    fputs("                               ",fp2);  //31 space chars
+    fputs("                                         ",fp2);  //41 space chars
     fputs(s1,fp2);
   }
 

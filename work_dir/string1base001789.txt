@@ -71,6 +71,623 @@ meg£¬ÄúºÃ£¡
 ¡¾ÎÊ¡¿Ç©Ö¤ÈÝÒ×Ã´£¿
 ¡¾ÎÊ¡¿ÔõÑùÑ¡Ôñº«¹ú´óÑ§£¿ÄÜ·ñ¸øÒ»Ð©²Î¿¼£¿
 ¡¾ÎÊ¡¿¼ÈÈ»Ã»ÓÐÁ¬¶Á£¬¿É²»¿ÉÒÔ±ÏÒµºóÔÚº«¹úÉêÇë¶Á
+Ç©Ö¤³É¹¦ÉêÇëµÄÌáÊ¾
+¡¾Òâ¼ûºÍ½¨Òé¡¿¡¾ÍÆ¼ö¡¿¡¾×ÖÌå£º´óÖÐÐ¡¡¿¡¾´òÓ¡´ËÎÄ¡¿¡¾¹Ø±Õ´°¿Ú¡¿
+×÷Õß:²®ÀÖ±à¼­³ö´¦:²®ÀÖÁôÑ§Íø×ª×Ô»¥ÁªÍø·¢±íÊ±¼ä:2007-7-3
+15:17:30
+Ë³ÀûÄÃµ½Ç©Ö¤ÊÇ²»ÐèÒª¼¼ÇÉµÄ£¬Ö»ÐèÒªÆÕÍ¨³£Ê¶¡£
+³äÔ£µÄÊ±¼ä£º
+ÎÒÃÇ½¨ÒéÄú±È¼Æ»®Àë¾³Ö®ÈÕÖÁÉÙÌáÇ°°ËÖÜÉêÇëÇ©Ö¤¡£
+´øÆëÕýÈ·µÄ²ÄÁÏ£º
+ÎñÇë×¼±¸ºÃÎÒÃÇ×ÊÁÏÁÐ±íÉÏÒªÇóÌá¹©µÄËùÓÐ×ÊÁÏ£¬¼°ÆäËûÉêÇëÈËÈÏÎªÓÐÖúÓÚÉêÇëµÄÏà¹Ø²ÄÁÏ¡£Èç¹ûÄúÏëÈ¥Ó¢¹úÑ§Ï°£¬ÄúÓÈÆäÓ¦¸Ã×¢ÒâÌá¹©ÄÜÖ¤Ã÷ÄúÓÐÄÜÁ¦Ö§¸¶Ñ§Ï°ºÍÉú»î·ÑÓÃµÄ²ÄÁÏ¡£
+ÍêÕû¡¢ÕæÊµµØ»Ø´ðËùÓÐÎÊÌâ£º
+Èç¹ûÊ¹¹ÝÈËÔ±ÔÚ¾ö¶¨ÊÇ·ñ¸øÄúÇ©Ö¤Ö®Ç°£¬
+ÐèÒªÖªµÀÒ»Ð©ÄúÔÚÉêÇë±í¸ñÉÏÃ»ÓÐÐ´ÇåµÄÇé¿ö£¬Ç©Ö¤¹¤×÷ÈËÔ±½«»áÎÊÄúÒ»Ð©ÎÊÌâ¡£ÓÉÓÚÃ¿¸öÃæÌ¸Ê±¼äÓÐÏÞ£¬ÎÒÃÇÐèÒª¾¡¿ìµÄ¡¢×¼È·µÄÕÆÎÕÃ¿¸öÉêÇëÈËµÄÇé¿ö¡£ÓÐÐ©ÉêÇëÈËÌýÐÅÍâÃæÒ»Ð©»ú¹¹µÄ½¨Òé£¬ÒÔÎªÎÒÃÇ»áÎÊÕâÑù»òÄÇÑùµÄÎÊÌâ£¬»¹¾Ý´Ë×¼±¸´ð°¸¡£ÔÚÃæÌ¸Ê±ÉêÇëÈËÍùÍùÖ»¹Ë°Ñ×¢ÒâÁ¦¼¯ÖÐÔÚ×Ô¼º×¼±¸µÄ´ð°¸ÉÏ£¬¶øÃ»ÓÐ×¼È·Àí½âÎÒÃÇËùÌá³öµÄÎÊÌâ¡£Çë¾¡¿ÉÄÜ½«ÎÊÌâ»Ø´ðµÃÍêÕû¡¢ÇåÎú¡£Èç¹ûÄú²»ÖªµÀ´ð°¸£¬ÇëÌ¹°×ËµÃ÷
+Ïà¹Ø×ÊÑ¶
+¡ñ²®ÀÖÁôÑ§µç×ÓÇ©Ö¤»Ô»ÍÒµ¼¨
+¡ñÉêÇëÅäÅ¼Àà±ð·ÃÎÊÇ©Ö¤²ÄÁÏ
+¡ñÐÂÎ÷À¼Ç©Ö¤ÎÊ´ð
+¡ñÐÂÎ÷À¼Ñ§ÉúÇ©Ö¤Ïê½â
+¡ñÐÂÎ÷À¼Ç©Ö¤¹ÙÌ¸Ç©Ö¤
+¡ñ±ØÐëÄÃµ½offer
+²ÅÄÜ½»Ç©Ö¤Âð
+¡ñÁôÑ§Ó¢¹úÇ©Ö¤·ê¸ß·å
+¡ñÈ¡µÃÃÀ¹úÇ©Ö¤ÈýÔ­Ôò
+¡ñÒÆÃñÌ¸ÁôÑ§Ç©Ö¤ÎóÇø
+¡ñÁôÑ§ºÍÇ©Ö¤ÉêÇëÇø±ð
+¹ØÓÚ²®ÀÖ
+|
+¹«Ë¾·½Î»
+|
+ÆóÒµÕÐÆ¸
+|
+ÔÚÏßÆÀ¹À
+|
+ÔÚÏß´ðÒÉ
+±±¾©ÊÀ¼Í²®ÀÖÁôÑ§×ÉÑ¯·þÎñÓÐÏÞ¹«Ë¾
+¾©ICP±¸05065630ºÅ
+Copyright
+&copy;
+2001-2007
+cheeredu.com.cn
+All
+Rights
+Reserved
+²®ÀÖÁôÑ§
+½¨Òé·Ö±æÂÊ¨R1024*768
+µØÖ·£º±±¾©½¨¹úÃÅÍâ´ó½Ö±û24ºÅ¾©Ì©´óÏÃ9²ã
+µç»°£º010-65156886
+´«Õæ£º010-65156285
+²®ÀÖÁôÑ§-
+ÊÕ²Ø±¾Õ¾
+ÍøÕ¾µØÍ¼
+¹ØÓÚ²®ÀÖ©¦ÎÒÃÇµÄÓÅÊÆ©¦»î¶¯¹«¸æ©¦ÁôÑ§¿ìÑ¶©¦ÓïÑÔÅàÑµ©¦¾³Íâ·þÎñ©¦º£Íâ°ì¹«ÊÒ©¦³É¹¦°¸Àý©¦¿Í·þÖÐÐÄ©¦³ÏÆ¸Ó¢²Å©¦ÒµÎñºÏ×÷©¦»Ô»ÍÒµ¼¨
+ÈÈµã¹ú¼ÒË÷Òý£º
+Ó¢¹ú
+|
+ºÉÀ¼
+|
+°ÄÖÞ
+|
+·¨¹ú
+|
+ÃÀ¹ú
+|
+¼ÓÄÃ´ó
+|
+Å²Íþ
+|
+µ¤Âó
+|
+Èðµä
+|
+·ÒÀ¼
+|
+ÐÂ¼ÓÆÂ
+|
+º«¹ú
+|
+ÐÂÎ÷À¼
+|
+°®¶ûÀ¼
+Ó¢¹ú
+ÇëÎÊÎÒÊÊºÏÊ²Ã´ÑùµÄ´óÑ§£¿ÎÒÊÇÅ©Òµ´óÑ§±¾¿ÆÔÚ¶ÁÍÐ
+Ï£ÍûÄúÄÜÖ¸µ¼Ò»ÏÂÉêÇëÍ¨ÐÅÑ§Ð£µÄµÈ¼¶ºÍÉêÇëÊ²Ã´Ñ§
+ÉêÇëÓ¢¹úË¶Ê¿µÄ×î¼ÑÊ±¼ä¼°¼ÆËã»ú×¨Òµ±È½ÏÇ¿µÄÑ§Ð£
+ÃÀ¹ú
+ÄúºÃ£¬ÎÒ½ñÄê10ÔÂÔÚÓ¢¹úÄÃµ½MSc.International
+Bu
+ÇëÎÊ,È¥ÃÀ¹ú»òÅ·ÖÞµÄÒ»Ð©¸ßÐ£ÁôÑ§-¶ÁÑÐ,µ£±£½ð´ó
+ÎÒÅ®¶ùÏÖÔÚ¸ß2,ÕýÔÚÑ§ÑÅË¼,Ã÷Äê×¼±¸¿¼,²»ÖªÃÀ¹úºÃ
+ºÉÀ¼
+ÈýÄê´ó×¨±ÏÒµ£¬×¨ÒµÊÇÉÌÎñÓ¢Óï£¬ÉêÇëºÉÀ¼µÄ×¨Éý±¾
+ÎÒ±»Ó¢¹ú4´Î¾ÜÇ©£¬ÇëÎÊÉêÇëºÉÀ¼ÊÇ·ñ»áÊÜÓ°Ïì£¿
+ÑÅË¼6·Ö£¬×Ô¿¼±¾¿Æ£¬¹ú¼ÊÃ³Ò××¨Òµ£¬´óÑ§Æ½¾ù³É¼¨7
+·¨¹ú
+ÔÚ¹úÄÚ¹ã¸æÑ§×¨Òµ±ÏÒµ
+ÏÖÔÚÏëÔÚ·¨¹úÑ§Ï°Éè¼ÆÏà¹Ø
+ÄúºÃ,ÎÒÓÐÒâÔ¸ÁôÑ§·¨¹ú.
+04ÄêÓ¢ÓïÎÄÑ§×¨Òµ±ÏÒµºó
+ÏëÑ§Ï°·þ×°Éè¼Æ£¬´Ó±¾¿Æ¿ªÊ¼¶ÁÆð¡£²»È¥·¨¹úÒ²¿ÉÒÔ
+¼ÓÄÃ´ó
+meg£¬ÄúºÃ£¡
+ÎÒÊÇ¸ßÈýÑ§Éú£¬2007Äê²Î¼ÓÉÏº£¸ß
+ÀÏÊ¦ÄúºÃ!
+ÎÒ¶ù×Ó2007Äê¸ßÖÐ±ÏÒµ,¸÷Àà³É¼¨Ò»°ã,Ó¢
+ÎÒÖ»ÏëÉÏÒ»¸öÄÜ¾¡¿ì±ÏÒµµÄÑ§Ð££¬Ñ§ÖÆÔ½¶ÌÔ½ºÃ£¬È»
+ÐÂ¼ÓÆÂ
+ÐÂ¼ÓÆÂ¹²ÓÐ¶àÉÙË½Á¢ÔºÐ££¿ÓÐ¶àÉÙÑ§Ð£ÓÐSQCºÍCaseT
+1.°ìÀíÐÂ¼ÓÆÂµÄÇ©Ö¤Ñ§Ð£·½ÃæÐèÒªÌá¹©Ê²Ã´²ÄÁÏ£¿
+ÔÚÐÂ¼ÓÆÂ¿ÉÒÔ¶Á2+1µÄ¿Î³ÌºóÔÙ×ªÈ¥µÚÈý¹ú¼ÒÐèÒª»Ø
+°ÄÖÞ
+È¥°ÄÖÞÁôÑ§µÄÑ§Éú£¬ÔÚÌá¹©µ£±£½ðµÄÊ±ºò£¬±ØÐëµÃÌá
+ÇëÎÊ°ÄÖÞ´óÑ§À´ÖÐ¹úµÄÃæÊÔÕÐÉú»á£¬ÎÒÃÇµÄº¢×Ó¿ÉÒÔ
+1¡¢ÄúºÃ£ºÎÒµÄÅ®¶ùÏÖÔÚÕýÔÚÈðµä¶Á´óËÄ£¬¶ÁµÄÊÇµ±
+±±Å·
+ÉêÇëµÄµÄÏêÏ¸Á÷³Ì£¬ÔÚÉêÇëµÄ¹ý³ÌÖÐ»á²»»áÒòÎªÉêÇë
+Èç¹ûÎÒÒªÉêÇëÉÌ¿Æ£¬ÄÄÐ©Ñ§Ð£±È½ÏºÏÊÊ£¬ÓÐÃ»ÓÐÌØÊâ
+¸ß¿¼³É¼¨ÔÚ¶þ±¾Ïß505Ö®ÉÏÎª515,ÆäÖÐÍâÓï111¡¢ÓïÎÄ
+º«¹ú
+¡¾ÎÊ¡¿Ç©Ö¤ÈÝÒ×Ã´£¿
+¡¾ÎÊ¡¿ÔõÑùÑ¡Ôñº«¹ú´óÑ§£¿ÄÜ·ñ¸øÒ»Ð©²Î¿¼£¿
+¡¾ÎÊ¡¿¼ÈÈ»Ã»ÓÐÁ¬¶Á£¬¿É²»¿ÉÒÔ±ÏÒµºóÔÚº«¹úÉêÇë¶Á
+ÁôÑ§ÈÈ¹ú¼ÒÇ©Ö¤±ä»¯
+¡¾Òâ¼ûºÍ½¨Òé¡¿¡¾ÍÆ¼ö¡¿¡¾×ÖÌå£º´óÖÐÐ¡¡¿¡¾´òÓ¡´ËÎÄ¡¿¡¾¹Ø±Õ´°¿Ú¡¿
+×÷Õß:²®ÀÖ±à¼­³ö´¦:²®ÀÖÁôÑ§Íø×ª×Ô»¥ÁªÍø·¢±íÊ±¼ä:2007-7-3
+15:16:03
+Ç©Ö¤ÎÊÌâÊÇº£ÍâÁôÑ§×îÄÑ³É¹¦µÄÁÙÃÅÒ»½Å£¬ºÜ¶àÓÐÖ¾ÓÚ³ö¹úÁôÑ§µÄÅóÓÑÃÇ³£³£ÇóÖúÎÞÃÅ¡£Îª´Ë£¬ÒµÄÚ×¨¼Ò·Ö±ð¶Ô¸÷¹úÁôÑ§Ç©Ö¤ÖªÊ¶¼°³É¹¦ÉêÇëÒªµã½øÐÐÁËÊáÀí×Ü½á£¬Ï£Íû¶ÔÄÇÐ©ÒòÇ©Ö¤ÎÊÌâ¶ø¸Ðµ½À§»óµÄ¶ÁÕßÓÐËù°ïÖú¡£
+ÃÀ¹ú
+×ÔÐÅÊÇÉêÇëÃÀ¹úÇ©Ö¤×î»ù±¾µÄÔ­Ôò¡£×¨¼Ò±íÊ¾£¬ÉêÇëÈËÊ×ÏÈÒªÕÒµ½¶Ô×ÔÎÒµÄÈÏÍ¬£¬È»ºóÔÙ³äÂú×ÔÐÅµØÏòÇ©Ö¤¹ÙÃèÊöÃÀºÃÇ°¾°£¬ÕùÈ¡»ñµÃÇ©Ö¤¹ÙµÄÈÏÍ¬¡£µ«ÊÇ£¬Èç¹ûÃ¤Ä¿ÉêÇëÇ©Ö¤£¬ÕâÑù±»¾ÜÇ©ºóµÄÊ§Âä»á¸ü´ó¡£Í¬Ê±£¬ÅªÐé×÷¼ÙÔÚÇ©Ö¤ÖÐÊÇ²»¿ÉÈ¡µÄ¡£µ«Ç©Ö¤¹Ù¶ÔÃ¿¸öÈËµÄ²àÖØµã²»Í¬£¬ËùÒÔ²»ÄÜÈ·¶¨ÄÄÐ©²ÄÁÏ»áÁîËûÃÇ¸ÐÐËÈ¤¡£µ«¾ø²»ÄÜÒò´Ë¶ø²»×¼±¸²ÄÁÏ£¬·´¶øÓ¦¸Ã¸ü³ä·ÖµØ×¼±¸¡£
+2007ÄêÃÀ¹ú×¤»ª´óÊ¹¹Ý¼°ÁìÊÂ¹ÝÔÚÈ«ÖÐ¹úµÄÇ©Ö¤Ç©·¢ÂÊÒ²»áÎÈ²½Ôö¸ß¡£×¨¼Ò·ÖÎö£¬ÃÀ¹úÇ©Ö¤Õþ²ß»ù±¾±ê×¼ÓÐÁ½µã£¬µÚÒ»µãÉêÇëÈËÔÚÖÐ¹úÊÇ·ñ¾ßÓÐ·Ç³£ÀÎ¹ÌµÄÔ¼ÊøÁ¦£¬µÚ¶þÉêÇëÈËÊÇ·ñÓÐ·Ç³£ºÃµÄÁôÑ§»òÕß¹é¹úµÄ¼Æ»®¡£
+Ó¢¹ú
+×¨¼Ò½éÉÜ£¬´Ó2007ÄêÆð¶ÔÖÐ¹úÊµÊ©²É¼¯ÉêÇëÕßÖ¸ÎÆµÄÉúÎïÇ©Ö¤£»´Ó2008ÄêÆðÊµÐÐ5Àà¼ÆµãÆÀ¹ÀÐÂÏµÍ³¡£ÕâÒ»Õþ²ßµÄÍÆ³ö£¬Ö¼ÔÚÇ©Ö¤ÊÜÀí¸ü¼Ó¿Í¹Û¡¢ºÏÀí£¬²ÄÁÏÕæÊµ£¬Ö¼ÔÚº£ÍâÁôÑ§ºÍÒÆÃñµÄÕþ²ßºÍ²Ù×÷ÏµÍ³¸ü¼ÓÍêÉÆÏ¸»¯¡£µ±È»£¬ÉêÇë·ÑÓÃÒ²Ó¦¸Ã»áÓÐËùÔö¼Ó¡£
+´Ó2007Äê5ÔÂ21ÈÕÆð£¬ËùÓÐ±±¾©Ç©Ö¤ÇøµÄÑ§ÉúÇ©Ö¤ÉêÇë±ØÐëÌáÇ°Ô¤Ô¼£¬ÉêÇëÈË¿ÉÒÔ×î¶àÌáÇ°Á½ÖÜÔ¤Ô¼µÝ½»ÉêÇëµÄÊ±¼ä¡£
+°Ä´óÀûÑÇ
+×¨¼ÒÍ¸Â¶£¬2007Äê9ÔÂ1ÈÕ°Ä´óÀûÑÇµÄÒÆÃñÕþ²ß½«·¢Éú±ä»¯£¬µ«ÊÇÕâ¸ö±ä»¯²»»áÓ°Ïìµ½ÁôÑ§Ç©Ö¤Õþ²ß£¬·´¶øÊ¹Ñ§ÉúÔÚÑ¡Ôñ×¨ÒµÉÏ»á¸ü¼Ó¹ã·ºÇÒÃ÷È·¡£
+¼ÓÄÃ´ó
+¼ÓÄÃ´óÊ¹¹Ý¹Ù·½Í¸Â¶2007Äê¼ÓÄÃ´óÁôÑ§Ç©Ö¤ÈÔ½«ÓÐÐ¡·ù¶ÈÉÏÉý¡£×¨¼Ò»¹Í¸Â¶£¬2007Äê¼ÓÄÃ´óÁôÑ§Ç©Ö¤Õþ²ßÓëÒÔÍùÏà±ÈÓÐÈýµã±ä»¯£º¾­¼ÃÄÜÁ¦ÊÇÍ¨¹ýÇ©Ö¤µÄÊ×ÒªÌõ¼þ¡£Ç©Ö¤Ê±Ê×ÏÈ±»¿¼ÂÇµÄ²»ÔÙÊÇÓÐÎÞÒÆÃñÇãÏò£¬¶øÊÇÊÇ·ñÓÐ×ã¹»µÄ¾­¼ÃÄÜÁ¦£»¼á¾ö¾ÜÇ©ÓÐÒÆÃñÇãÏòµÄÁôÑ§Éú£¬¶ÔÓÚÉêÇëÈËÈ¥¼ÓÄÃ´ó¶ÁÊéµÄÕæÊµÔ­Òò¡¢±ÏÒµÖ®ºóµÄ¹¤×÷¼Æ»®µÈ·½Ãæ·Ç³£¿´ÖØ£»¼ÒÍ¥±³¾°µÄÓ°ÏìÔÚÀ©´ó£¬¸¸Ä¸¹¤×÷ÐÔÖÊÏà¶ÔÎÈ¶¨£¬ÓÐÖúÓÚÌá¸ßÇ©Ö¤³É¹¦ÂÊ¡£
+ÐÂÎ÷À¼
+ÐÂÎ÷À¼Ç©Ö¤¾Ö¾ÜÇ©ÓÐÈýÖÖÀíÓÉ¡£×¨¼ÒËµ£¬µÚÒ»ÊÇ¶ÔÉêÇëÈËÑ§Ï°ÄÜÁ¦µÄ»³ÒÉ¡£µÚ¶þÊÇ¶ÔÑ§Ï°Ä¿µÄ»³ÒÉ¡£ÉêÇëÈËÈç¹ûÊÇµ¥ÉíÇÒÄêÁä½Ï´ó¶¼ÐèÒª×¢Òâ¡£µÚÈýµãµ±È»ÊÇÉêÇëÈË¼ÒÍ¥µÄ¾­¼Ãµ£±£ÄÜÁ¦¡£²®ÀÖ×¨¼ÒÖÒ¸æ£¬Ñ§ÉúÒ»¶¨ÒªÌá¹©ÕæÊµ²ÄÁÏ£¬²»È»¼È²»ÄÜ´ïµ½Á¼ºÃµÄ½á¹û£¬Ò²»á¸øÉêÇëÈË´øÀ´ºÜ¶àµÄ¸ºÃæÓ°Ïì¡£
+Èðµä
+×¨¼ÒÍ¸Â¶£¬¸ù¾ÝÄ¿Ç°µÄÇ©Ö¤Ê±¼äÅÐ¶Ï£¬ÈðµäÓÐ¿ÉÄÜ½ñÄê²»¶ÔÖÐ¹úÑ§Éú¿ª·Åµç×ÓÇ©Ö¤¡£¾¿ÆäÔ­Òò¿ÉÄÜÖ÷ÒªÊÇËæ×Å¹úÄÚ¶ÔÈðµä¸ßÖÊÁ¿µÄ½ÌÓýË®Æ½ºÍÃâÊÕÑ§·ÑµÄ¸£ÀûÕþ²ßÈÏ¿É¶È¼¤Ôö£¬µ¼ÖÂÈðµäÇ©Ö¤µÄÉêÇëÈËÔö¼Ó£¬ÔÙÓÐ¿ÉÄÜÊÇ¶ÔÉêÇëÈËµÄ²ÄÁÏÒªÇóÌá¸ß¡£½¨ÒéÒÑ¾­»ñµÃÈðµäÔºÐ£Â¼È¡µÄÑ§ÉúÔç×ö¾ö¶¨£¬¾¡ÔçÉêÇëÈðµäÁôÑ§Ç©Ö¤¡£
+Ïà¹Ø×ÊÑ¶
+¡ñ²®ÀÖÁôÑ§µç×ÓÇ©Ö¤»Ô»ÍÒµ¼¨
+¡ñÉêÇëÅäÅ¼Àà±ð·ÃÎÊÇ©Ö¤²ÄÁÏ
+¡ñÐÂÎ÷À¼Ç©Ö¤ÎÊ´ð
+¡ñÐÂÎ÷À¼Ñ§ÉúÇ©Ö¤Ïê½â
+¡ñÐÂÎ÷À¼Ç©Ö¤¹ÙÌ¸Ç©Ö¤
+¡ñ±ØÐëÄÃµ½offer
+²ÅÄÜ½»Ç©Ö¤Âð
+¡ñÁôÑ§Ó¢¹úÇ©Ö¤·ê¸ß·å
+¡ñÈ¡µÃÃÀ¹úÇ©Ö¤ÈýÔ­Ôò
+¡ñÒÆÃñÌ¸ÁôÑ§Ç©Ö¤ÎóÇø
+¡ñÁôÑ§ºÍÇ©Ö¤ÉêÇëÇø±ð
+¹ØÓÚ²®ÀÖ
+|
+¹«Ë¾·½Î»
+|
+ÆóÒµÕÐÆ¸
+|
+ÔÚÏßÆÀ¹À
+|
+ÔÚÏß´ðÒÉ
+±±¾©ÊÀ¼Í²®ÀÖÁôÑ§×ÉÑ¯·þÎñÓÐÏÞ¹«Ë¾
+¾©ICP±¸05065630ºÅ
+Copyright
+&copy;
+2001-2007
+cheeredu.com.cn
+All
+Rights
+Reserved
+²®ÀÖÁôÑ§
+½¨Òé·Ö±æÂÊ¨R1024*768
+µØÖ·£º±±¾©½¨¹úÃÅÍâ´ó½Ö±û24ºÅ¾©Ì©´óÏÃ9²ã
+µç»°£º010-65156886
+´«Õæ£º010-65156285
+²®ÀÖÁôÑ§-
+ÊÕ²Ø±¾Õ¾
+ÍøÕ¾µØÍ¼
+¹ØÓÚ²®ÀÖ©¦ÎÒÃÇµÄÓÅÊÆ©¦»î¶¯¹«¸æ©¦ÁôÑ§¿ìÑ¶©¦ÓïÑÔÅàÑµ©¦¾³Íâ·þÎñ©¦º£Íâ°ì¹«ÊÒ©¦³É¹¦°¸Àý©¦¿Í·þÖÐÐÄ©¦³ÏÆ¸Ó¢²Å©¦ÒµÎñºÏ×÷©¦»Ô»ÍÒµ¼¨
+ÈÈµã¹ú¼ÒË÷Òý£º
+Ó¢¹ú
+|
+ºÉÀ¼
+|
+°ÄÖÞ
+|
+·¨¹ú
+|
+ÃÀ¹ú
+|
+¼ÓÄÃ´ó
+|
+Å²Íþ
+|
+µ¤Âó
+|
+Èðµä
+|
+·ÒÀ¼
+|
+ÐÂ¼ÓÆÂ
+|
+º«¹ú
+|
+ÐÂÎ÷À¼
+|
+°®¶ûÀ¼
+Ó¢¹ú
+ÇëÎÊÎÒÊÊºÏÊ²Ã´ÑùµÄ´óÑ§£¿ÎÒÊÇÅ©Òµ´óÑ§±¾¿ÆÔÚ¶ÁÍÐ
+Ï£ÍûÄúÄÜÖ¸µ¼Ò»ÏÂÉêÇëÍ¨ÐÅÑ§Ð£µÄµÈ¼¶ºÍÉêÇëÊ²Ã´Ñ§
+ÉêÇëÓ¢¹úË¶Ê¿µÄ×î¼ÑÊ±¼ä¼°¼ÆËã»ú×¨Òµ±È½ÏÇ¿µÄÑ§Ð£
+ÃÀ¹ú
+ÄúºÃ£¬ÎÒ½ñÄê10ÔÂÔÚÓ¢¹úÄÃµ½MSc.International
+Bu
+ÇëÎÊ,È¥ÃÀ¹ú»òÅ·ÖÞµÄÒ»Ð©¸ßÐ£ÁôÑ§-¶ÁÑÐ,µ£±£½ð´ó
+ÎÒÅ®¶ùÏÖÔÚ¸ß2,ÕýÔÚÑ§ÑÅË¼,Ã÷Äê×¼±¸¿¼,²»ÖªÃÀ¹úºÃ
+ºÉÀ¼
+ÈýÄê´ó×¨±ÏÒµ£¬×¨ÒµÊÇÉÌÎñÓ¢Óï£¬ÉêÇëºÉÀ¼µÄ×¨Éý±¾
+ÎÒ±»Ó¢¹ú4´Î¾ÜÇ©£¬ÇëÎÊÉêÇëºÉÀ¼ÊÇ·ñ»áÊÜÓ°Ïì£¿
+ÑÅË¼6·Ö£¬×Ô¿¼±¾¿Æ£¬¹ú¼ÊÃ³Ò××¨Òµ£¬´óÑ§Æ½¾ù³É¼¨7
+·¨¹ú
+ÔÚ¹úÄÚ¹ã¸æÑ§×¨Òµ±ÏÒµ
+ÏÖÔÚÏëÔÚ·¨¹úÑ§Ï°Éè¼ÆÏà¹Ø
+ÄúºÃ,ÎÒÓÐÒâÔ¸ÁôÑ§·¨¹ú.
+04ÄêÓ¢ÓïÎÄÑ§×¨Òµ±ÏÒµºó
+ÏëÑ§Ï°·þ×°Éè¼Æ£¬´Ó±¾¿Æ¿ªÊ¼¶ÁÆð¡£²»È¥·¨¹úÒ²¿ÉÒÔ
+¼ÓÄÃ´ó
+meg£¬ÄúºÃ£¡
+ÎÒÊÇ¸ßÈýÑ§Éú£¬2007Äê²Î¼ÓÉÏº£¸ß
+ÀÏÊ¦ÄúºÃ!
+ÎÒ¶ù×Ó2007Äê¸ßÖÐ±ÏÒµ,¸÷Àà³É¼¨Ò»°ã,Ó¢
+ÎÒÖ»ÏëÉÏÒ»¸öÄÜ¾¡¿ì±ÏÒµµÄÑ§Ð££¬Ñ§ÖÆÔ½¶ÌÔ½ºÃ£¬È»
+ÐÂ¼ÓÆÂ
+ÐÂ¼ÓÆÂ¹²ÓÐ¶àÉÙË½Á¢ÔºÐ££¿ÓÐ¶àÉÙÑ§Ð£ÓÐSQCºÍCaseT
+1.°ìÀíÐÂ¼ÓÆÂµÄÇ©Ö¤Ñ§Ð£·½ÃæÐèÒªÌá¹©Ê²Ã´²ÄÁÏ£¿
+ÔÚÐÂ¼ÓÆÂ¿ÉÒÔ¶Á2+1µÄ¿Î³ÌºóÔÙ×ªÈ¥µÚÈý¹ú¼ÒÐèÒª»Ø
+°ÄÖÞ
+È¥°ÄÖÞÁôÑ§µÄÑ§Éú£¬ÔÚÌá¹©µ£±£½ðµÄÊ±ºò£¬±ØÐëµÃÌá
+ÇëÎÊ°ÄÖÞ´óÑ§À´ÖÐ¹úµÄÃæÊÔÕÐÉú»á£¬ÎÒÃÇµÄº¢×Ó¿ÉÒÔ
+1¡¢ÄúºÃ£ºÎÒµÄÅ®¶ùÏÖÔÚÕýÔÚÈðµä¶Á´óËÄ£¬¶ÁµÄÊÇµ±
+±±Å·
+ÉêÇëµÄµÄÏêÏ¸Á÷³Ì£¬ÔÚÉêÇëµÄ¹ý³ÌÖÐ»á²»»áÒòÎªÉêÇë
+Èç¹ûÎÒÒªÉêÇëÉÌ¿Æ£¬ÄÄÐ©Ñ§Ð£±È½ÏºÏÊÊ£¬ÓÐÃ»ÓÐÌØÊâ
+¸ß¿¼³É¼¨ÔÚ¶þ±¾Ïß505Ö®ÉÏÎª515,ÆäÖÐÍâÓï111¡¢ÓïÎÄ
+º«¹ú
+¡¾ÎÊ¡¿Ç©Ö¤ÈÝÒ×Ã´£¿
+¡¾ÎÊ¡¿ÔõÑùÑ¡Ôñº«¹ú´óÑ§£¿ÄÜ·ñ¸øÒ»Ð©²Î¿¼£¿
+¡¾ÎÊ¡¿¼ÈÈ»Ã»ÓÐÁ¬¶Á£¬¿É²»¿ÉÒÔ±ÏÒµºóÔÚº«¹úÉêÇë¶Á
+º£¹éÅÉ´´Òµ³É¹¦ÃØ¾÷
+¡¾Òâ¼ûºÍ½¨Òé¡¿¡¾ÍÆ¼ö¡¿¡¾×ÖÌå£º´óÖÐÐ¡¡¿¡¾´òÓ¡´ËÎÄ¡¿¡¾¹Ø±Õ´°¿Ú¡¿
+×÷Õß:²®ÀÖ±à¼­³ö´¦:²®ÀÖÁôÑ§Íø×ª×Ô»¥ÁªÍø·¢±íÊ±¼ä:2007-7-3
+15:13:43
+Ã¿Ò»¸ö´´ÒµÕß¶¼¿ÊÍû³É¹¦£¬Ã¿Ò»¸ö´´ÒµÕßµÄ±³ºó£¬Ò»¶¨»áÁôÏÂÒ»ÌõÇåÎúµÄ×ã¼£¡£±¾ÎÄÒÔ×ÔÊöµÄÐÎÊ½£¬Í¨¹ýÍõÁ¢¾ü²©Ê¿µÄ´´ÒµÊµÀý£¬Ïò¶ÁÕßÕ¹Ê¾Æä»Ø¹ú·¢Õ¹µÄ³õÖÔ¡¢Í¾¾¶ºÍ°ì·¨£¬Ï£ÍûÄÜ¶Ô»Ø¹ú´´ÒµÕßÓÐËù°ïÖú¡£
+ÍõÁ¢¾ü²©Ê¿ÈËÎï¼ò½é£ºÍõÁ¢¾ü£¬±±¾©ÖÐ¿íÍøÐÅ¿Æ¼¼(±±¾©)ÓÐÏÞ¹«Ë¾´´Ê¼ÈË¡¢Ê×Ï¯¼¼Êõ¹Ù¡£1998ÄêÔÚ±±¾©ÓÊµç´óÑ§»ñµÃ²©Ê¿Ñ§Î»£¬±»ÃÀ¹úÎ÷±±´óÑ§ÑûÇëµ£ÈÎ²©Ê¿ºó·ÃÎÊÑ§Õß¡£2001Äê¼ÓÈëÊÀ½ç500Ç¿Ö®Ò»µÄÃÀ¹ú¿µÄþ¹«Ë¾£¬µ£ÈÎ¸ß¼¶ÑÐ¾¿¿ÆÑ§¼ÒÖ°Î»£¬Òò³É¹¦ÑÐÖÆÁË¸Ã¹«Ë¾µÚÒ»¸ö40Gb/sÃÜ¼¯²¨·Ö¸´ÓÃ(DWDM)¹âÏËÍ¨ÐÅÏµÍ³ºÍ²âÊÔÆ½Ì¨£¬ÈÙ»ñ¸Ã¹«Ë¾2001Äê¶È½Ü³ö¹±Ï×½±¡£ÔÚÃÀ¹úÁôÑ§ºÍ¹¤×÷µÄ5ÄêÖÐ£¬»ñ¶àÏî·¢Ã÷×¨Àû£¬¹ú¼ÊÖøÃûÆÚ¿¯·¢±íÆä×«Ð´µÄ¿ÆÑÐÂÛÎÄ30¶àÆª¡£
+»Ø¹úÔµÆð
+ÎÒÔÚÃÀ¹ú¿µÄþ¹«Ë¾Ò»¿ªÊ¼¾ÍÈÎ¸ß¼¶¿ÆÑ§¼Ò£¬ÄÃºÜ¸ßµÄÄêÐ½£¬¿ÉÒÔËµÎÒÃÇµÄÉú»îÏàµ±ÓÅÔ½ÁË¡£µ«ÔÚÕâÖÖÇé¿öÏÂ»¹Ïë»Ø¹ú£¬ÓÐ¼¸·½ÃæµÄÔ­Òò¡£ÖÐ¹úÓÚ2001Äê¼ÓÈëWTOÒÔºó£¬ÊÀ½çµçÐÅÁìÓòµÄ¶à¼Ò´ó¹«Ë¾¶¼½«ÆäÑÐ·¢»ú¹¹×ªÏòÖÐ¹ú£¬ÈÏÎªÖÐ¹úÊÇÈ«Çò×î´óµÄÊÐ³¡£¬ÓÐºÜ¶à·¢Õ¹»ú»á¡£ÎÒ×÷ÎªÒ»¸öÖÐ¹ú¿ÆÑ§¼Ò£¬µ±È»¸üÏë×¥×¡Õâ¸ö»ú»áÁíÒ»·½Ãæ£¬ÎÒÊÇÊÜÃÀ¹úÎÄ»¯µÄÓ°Ïì£¬ÃÀ¹úÊÇÉÌÒµÉç»á£¬×îÓÐÓ°ÏìÁ¦µÄÈË²»ÊÇ×öÑÐ¾¿µÄ£¬¶øÊÇÆóÒµ¼Ò¡¢´´ÒµÕß¡£ÄÃ×ÅÒ»¸öºÃ¶«Î÷È¥×¬Ç®£¬×öºÜ´óÒ»¸öÆóÒµ£¬ÕâÖÖË¼Î¬¸Ä±äÁËÎÒÒÔÇ°Ö»Ïë×ö¿ÆÑ§¼ÒµÄÏë·¨¡£»¹ÓÐÒ»µã¾ÍÊÇÎÒÔÚÃÀ¹úÕâ¼¸Äê£¬´Ó·½·½ÃæÃæµÄ±³¾°¡¢¹¤×÷¾­Ñéµ½ÖªÊ¶»ýÀÛ£¬Ê¹ÎÒÓÐÁËÄÜ×ö³ÉÒ»·¬ÊÂÒµµÄ×ÔÐÅ¡£
+Âä½Å±±¾©
+2002ÄêÎÒ»Ø¹úÌ½Ç×£¬²Î¹ÛÁË±±¾©ÖÐ¹Ø´åµÄÁôÑ§ÈËÔ±´´Òµ·õ»¯Æ÷£¬Ç×Éí¸ÐÊÜµ½ÕâÀïÎªÎüÒýÁôÑ§ÈËÔ±»Ø¹ú´´Òµ£¬È·Êµ´´ÔìÁËÁ¼ºÃµÄ»·¾³£¬ËìÓÐÁËµ½ÕâÀï´´½¨¹«Ë¾µÄ´òËã¡£
+2003Äê³õ£¬ÎÒ´ø×Å¶àÄêÑÐ·¢µÄ¼¼Êõ»Øµ½ÁË¹úÄÚ£¬ÓÃ×Ô¼ºÈ«²¿µÄ»ýÐîÔÚÖÐ¹Ø´å¹ú¼Ê·õ»¯Ô°ºÍ±±¾©ÓÊµç´óÑ§ÁôÑ§ÈËÔ±´´ÒµÔ°´´Á¢ÁË×Ô¼ºµÄ¸ß¿Æ¼¼¹«Ë¾¡£ÆóÒµ×¢²áÊ±£¬ÖÐ¹Ø´åÓÐ×¨ÈË°ïÖú°ìÀí¹¤ÉÌ¡¢Ë°Îñ¡¢ÓªÒµÖ´ÕÕµÈÊÖÐø£¬Ö®ºó¸øÎÒÌá¹©ÁË100ÓàÆ½·½Ã×µÄ°ì¹«ÊÒ£¬¼õÃâÁËÒ»²¿·Ö·¿×â£¬Í¬Ê±»¹Ìá¹©ÁË10ÍòÔª´´Òµ·ö³Ö×Ê½ðµÄÎÞ³¥×ÊÖú¡£
+Ëæºó£¬ÎÒÕÐÆ¸ÁËÒ»Ð©ÑÐ¾¿Éú×öÑÐ·¢£¬Í¬Ê±¸úÎÒµÄµ¼Ê¦±±¾©ÓÊµç´óÑ§ÁÖÐ£³¤ºÏ×÷£¬¿ª·¢³É¹¦ÎÒ¹úµÚÒ»Ì××ÔÓÐÖªÊ¶²úÈ¨µÄÉÌÓÃÈí½»»»ÍøÂçÍ¨ÐÅÆ½Ì¨¡£ÕâÏî¼¼ÊõµÄ×÷ÓÃÊÇ¿ÉÒÔÍ¨¹ý»¥ÁªÍø´òµç»°¡¢·¢´«ÕæµÈ£¬Ö»ÒªÓÃ»§ÓÐ¿í´øÁ¬½Ó£¬¾ÍÄÜÊ¹ÓÃÎÒÃÇÌá¹©µÄÉè±¸£¬Í¨¹ýÍøÂç²¦Í¨È«ÇòÖÐµÄÈÎºÎÒ»²¿µç»°£¬·ÑÓÃ½öÊÇÆÕÍ¨µç»°µÄ¼¸·ÖÖ®Ò»¡£³ý´ËÒÔÍâ£¬Ëü»¹ÄÜÌá¹©´«Í³µç»°Ã»·¨Ìá¹©µÄ¿ÉÊÓµç»°¡¢ÓïÒôÐÅÏä¡¢ºÅÂëÒÆ¶¯ºÍµã»÷ºô½ÐµÈÒµÎñ¡£
+ÆóÒµÔË×÷
+ÎÒÃÇÑÐ·¢³öÀ´µÄ¼¼Êõ²»´òËãÂô¸ø±ðÈË£¬¶øÊÇÒª·¢Õ¹¿Í»§£¬ÎªËûÃÇÌá¹©·þÎñ£¬ÕâÊÇÒ»¸öºÜ´óµÄµ°¸â¡£Òò´ËÎÒÃÇÒ»±ß×öÑÐ·¢£¬Ò»±ßÕÒÊÐ³¡¡£
+ÈÚ×ÊÇþµÀ
+¹«Ë¾µÄÆð²½×Ê½ðÊÇÎÒ×Ô¼ºÍ¶µÄ£¬ÕâÐ©Ç®Ö»¹»¸ø¹«Ë¾×öÒ»¸ö³ûÐÎ³öÀ´¡£Òª·¢Õ¹£¬ÐèÒª´óÁ¿µÄºóÐø×Ê½ðÖ§³Ö¡£ÓÚÊÇÎÒ¿ªÊ¼ÕÒ·çÏÕÍ¶×Ê¡£µ±Ê±ÃÀ¹úµÄÒ»¼ÒÍ¶×Ê¹«Ë¾·Ç³£¿´ºÃÎÒµÄÏîÄ¿£¬¹Ê³ÉÁËÎÒÏÖÔÚµÄºÏ×÷»ï°é¡£¸Ã¹«Ë¾Í¶ÁË100ÍòÃÀÔª£¬ËûÃÇµÄÉÌÒµ±³¾°ÕýºÃÓÐÀûÓÚÍØÕ¹ÊÐ³¡£¬ÕâÑù¹«Ë¾·¢Õ¹¾ÍÊ»ÈëÁË¿ì³µµÀ¡£ÎÒÃÇ¹«Ë¾¸üÃûÎª"ÖÐ¿íÍøÐÅ"£¬2004Äê°áµ½¶«¶þ»·µÄ¸»»ª´óÏÃ£¬¿ªÊ¼´óÁ¿ÕÐÆ¸ÈËÔ±£¬ÍÆÐÐÉÌÒµ·þÎñ¡£´Ó2005Äê¿ªÊ¼£¬ÒµÎñ³öÏÖ±¬·¢ÐÔÔö³¤£¬¿Í»§Ôö¼Óµ½½ü10Íò¸ö£¬Ã¿ÔÂÓÐÊý°ÙÍòÔªÈËÃñ±ÒµÄÊÕÈë¡£×î½ü£¬ÎÒÃÇÓÖÍê³ÉÁËµÚ¶þ´ÎÈÚ×Ê£¬½ð¶îÊÇ1000ÍòÃÀÔª¡£
+¹æ±Ü·çÏÕ
+»Ø¹ú´´ÒµÒ»¿ªÊ¼ÃæÁÙµÄ×î´óÀ§»óÊÇÎÒÃÇ¹ú¼ÒµÄµçÐÅÒµÎñÊÇ×¨ÓªµÄ£¬Ë½Óª¹«Ë¾ÈçºÎ¿ªÕ¹Õâ·½ÃæµÄÒµÎñºóÀ´£¬ÎÒÓëÖÐ¹úµçÐÅ¡¢ÖÐ¹úÍøÍ¨¡¢ÖÐ¹úÌúÍ¨µÈÍøÂç¾­ÓªÉÌ½ÓÇ¢£¬ËûÃÇÓÐºÏ·¨Éí·Ý£¬µ«Ã»ÓÐÕâÏî¼¼Êõ£¬×îÖÕÓëÖ®´ï³ÉºÏ×÷Ð­Òé£¬ÕâÑù¾Í¹æ±ÜÁËÕþ²ß·çÏÕ¡£
+·òÈË×÷ºó¶Ü
+ÒòÎª¸Õ¿ªÊ¼´´Òµ²»×¬Ç®£¬»¹Òª°Ñ×Ô¼ºµÄ»ýÐîÍ¶½øÈ¥£¬·çÏÕ½Ï´ó£¬ËùÒÔÎÒ·òÈË»¹Ã»»Ø¹ú£¬Ëý±ØÐëÁôÏÂÔÝ×öÎÒµÄºó·½"»ùµØ"¡£ÎÒ·òÈËºÍÎÒÊÇÍ¬Ò»¸ö×¨ÒµµÄ£¬ÔÚÃÀ¹ú×öµÄÒ²ºÜºÃ£¬Ëý´òËãÃ÷ºóÄê»Ø¹ú·¢Õ¹¡£
+»Ø¹ú´´Òµ½¨Òé
+Ò»¡¢´ÓÊÐ³¡µÄ½Ç¶È¡¢¿Í»§ÐèÇóµÄ½Ç¶ÈÀ´¿¼ÂÇºÍÑ¡Ôñ×öÊ²Ã´¡£
+¶þ¡¢¿ÆÑ§¼Ò×öÊÐ³¡ÓÐºÜ´óÄÑ¶È£¬ÔÚÕâ·½ÃæÐèÒªÑ°Çó³É¹¦µÄÉÌÒµÈËÊ¿ºÍÒµ½çÈËÊ¿×öºÏ×÷»ï°é¡£
+Èý¡¢ÓëÈË´ò½»µÀÒª×¢ÖØ½»Á÷Óë¹µÍ¨¡£ÕâÊÇÒ»¸ö×îÖØÒªµÄ¼¼ÇÉ£¬Ò²ÊÇ×ö¼¼ÊõµÄÈË×îÇ·È±µÄÒ»¸ö·½Ãæ£¬Ó¦Å¬Á¦¿Ë·þ¡£
+Ïà¹Ø×ÊÑ¶
+¡ñÍâÆóµ½µ×ÐèÒªÊ²Ã´ÑùµÄ¡°º£¹é¡±
+¡ñ¡°º£¹é¡±ÎªÖÐ¹ú¾­¼Ã·¢Õ¹ÖúÁ¦
+¡ñÊ×¼ÒÖÐ¹úÁôÑ§ÈË²ÅÊÐ³¡ÕýÊ½³ÉÁ¢
+¡ñ¡°º£¹é¡±¾ÍÒµÖ»Ñ¡±±¾©ºÍÉÏº£
+ËÄ³ÉÆÚÅÎ...
+¹ØÓÚ²®ÀÖ
+|
+¹«Ë¾·½Î»
+|
+ÆóÒµÕÐÆ¸
+|
+ÔÚÏßÆÀ¹À
+|
+ÔÚÏß´ðÒÉ
+±±¾©ÊÀ¼Í²®ÀÖÁôÑ§×ÉÑ¯·þÎñÓÐÏÞ¹«Ë¾
+¾©ICP±¸05065630ºÅ
+Copyright
+&copy;
+2001-2007
+cheeredu.com.cn
+All
+Rights
+Reserved
+²®ÀÖÁôÑ§
+½¨Òé·Ö±æÂÊ¨R1024*768
+µØÖ·£º±±¾©½¨¹úÃÅÍâ´ó½Ö±û24ºÅ¾©Ì©´óÏÃ9²ã
+µç»°£º010-65156886
+´«Õæ£º010-65156285
+²®ÀÖÁôÑ§-
+ÊÕ²Ø±¾Õ¾
+ÍøÕ¾µØÍ¼
+¹ØÓÚ²®ÀÖ©¦ÎÒÃÇµÄÓÅÊÆ©¦»î¶¯¹«¸æ©¦ÁôÑ§¿ìÑ¶©¦ÓïÑÔÅàÑµ©¦¾³Íâ·þÎñ©¦º£Íâ°ì¹«ÊÒ©¦³É¹¦°¸Àý©¦¿Í·þÖÐÐÄ©¦³ÏÆ¸Ó¢²Å©¦ÒµÎñºÏ×÷©¦»Ô»ÍÒµ¼¨
+ÈÈµã¹ú¼ÒË÷Òý£º
+Ó¢¹ú
+|
+ºÉÀ¼
+|
+°ÄÖÞ
+|
+·¨¹ú
+|
+ÃÀ¹ú
+|
+¼ÓÄÃ´ó
+|
+Å²Íþ
+|
+µ¤Âó
+|
+Èðµä
+|
+·ÒÀ¼
+|
+ÐÂ¼ÓÆÂ
+|
+º«¹ú
+|
+ÐÂÎ÷À¼
+|
+°®¶ûÀ¼
+Ó¢¹ú
+ÇëÎÊÎÒÊÊºÏÊ²Ã´ÑùµÄ´óÑ§£¿ÎÒÊÇÅ©Òµ´óÑ§±¾¿ÆÔÚ¶ÁÍÐ
+Ï£ÍûÄúÄÜÖ¸µ¼Ò»ÏÂÉêÇëÍ¨ÐÅÑ§Ð£µÄµÈ¼¶ºÍÉêÇëÊ²Ã´Ñ§
+ÉêÇëÓ¢¹úË¶Ê¿µÄ×î¼ÑÊ±¼ä¼°¼ÆËã»ú×¨Òµ±È½ÏÇ¿µÄÑ§Ð£
+ÃÀ¹ú
+ÄúºÃ£¬ÎÒ½ñÄê10ÔÂÔÚÓ¢¹úÄÃµ½MSc.International
+Bu
+ÇëÎÊ,È¥ÃÀ¹ú»òÅ·ÖÞµÄÒ»Ð©¸ßÐ£ÁôÑ§-¶ÁÑÐ,µ£±£½ð´ó
+ÎÒÅ®¶ùÏÖÔÚ¸ß2,ÕýÔÚÑ§ÑÅË¼,Ã÷Äê×¼±¸¿¼,²»ÖªÃÀ¹úºÃ
+ºÉÀ¼
+ÈýÄê´ó×¨±ÏÒµ£¬×¨ÒµÊÇÉÌÎñÓ¢Óï£¬ÉêÇëºÉÀ¼µÄ×¨Éý±¾
+ÎÒ±»Ó¢¹ú4´Î¾ÜÇ©£¬ÇëÎÊÉêÇëºÉÀ¼ÊÇ·ñ»áÊÜÓ°Ïì£¿
+ÑÅË¼6·Ö£¬×Ô¿¼±¾¿Æ£¬¹ú¼ÊÃ³Ò××¨Òµ£¬´óÑ§Æ½¾ù³É¼¨7
+·¨¹ú
+ÔÚ¹úÄÚ¹ã¸æÑ§×¨Òµ±ÏÒµ
+ÏÖÔÚÏëÔÚ·¨¹úÑ§Ï°Éè¼ÆÏà¹Ø
+ÄúºÃ,ÎÒÓÐÒâÔ¸ÁôÑ§·¨¹ú.
+04ÄêÓ¢ÓïÎÄÑ§×¨Òµ±ÏÒµºó
+ÏëÑ§Ï°·þ×°Éè¼Æ£¬´Ó±¾¿Æ¿ªÊ¼¶ÁÆð¡£²»È¥·¨¹úÒ²¿ÉÒÔ
+¼ÓÄÃ´ó
+meg£¬ÄúºÃ£¡
+ÎÒÊÇ¸ßÈýÑ§Éú£¬2007Äê²Î¼ÓÉÏº£¸ß
+ÀÏÊ¦ÄúºÃ!
+ÎÒ¶ù×Ó2007Äê¸ßÖÐ±ÏÒµ,¸÷Àà³É¼¨Ò»°ã,Ó¢
+ÎÒÖ»ÏëÉÏÒ»¸öÄÜ¾¡¿ì±ÏÒµµÄÑ§Ð££¬Ñ§ÖÆÔ½¶ÌÔ½ºÃ£¬È»
+ÐÂ¼ÓÆÂ
+ÐÂ¼ÓÆÂ¹²ÓÐ¶àÉÙË½Á¢ÔºÐ££¿ÓÐ¶àÉÙÑ§Ð£ÓÐSQCºÍCaseT
+1.°ìÀíÐÂ¼ÓÆÂµÄÇ©Ö¤Ñ§Ð£·½ÃæÐèÒªÌá¹©Ê²Ã´²ÄÁÏ£¿
+ÔÚÐÂ¼ÓÆÂ¿ÉÒÔ¶Á2+1µÄ¿Î³ÌºóÔÙ×ªÈ¥µÚÈý¹ú¼ÒÐèÒª»Ø
+°ÄÖÞ
+È¥°ÄÖÞÁôÑ§µÄÑ§Éú£¬ÔÚÌá¹©µ£±£½ðµÄÊ±ºò£¬±ØÐëµÃÌá
+ÇëÎÊ°ÄÖÞ´óÑ§À´ÖÐ¹úµÄÃæÊÔÕÐÉú»á£¬ÎÒÃÇµÄº¢×Ó¿ÉÒÔ
+1¡¢ÄúºÃ£ºÎÒµÄÅ®¶ùÏÖÔÚÕýÔÚÈðµä¶Á´óËÄ£¬¶ÁµÄÊÇµ±
+±±Å·
+ÉêÇëµÄµÄÏêÏ¸Á÷³Ì£¬ÔÚÉêÇëµÄ¹ý³ÌÖÐ»á²»»áÒòÎªÉêÇë
+Èç¹ûÎÒÒªÉêÇëÉÌ¿Æ£¬ÄÄÐ©Ñ§Ð£±È½ÏºÏÊÊ£¬ÓÐÃ»ÓÐÌØÊâ
+¸ß¿¼³É¼¨ÔÚ¶þ±¾Ïß505Ö®ÉÏÎª515,ÆäÖÐÍâÓï111¡¢ÓïÎÄ
+º«¹ú
+¡¾ÎÊ¡¿Ç©Ö¤ÈÝÒ×Ã´£¿
+¡¾ÎÊ¡¿ÔõÑùÑ¡Ôñº«¹ú´óÑ§£¿ÄÜ·ñ¸øÒ»Ð©²Î¿¼£¿
+¡¾ÎÊ¡¿¼ÈÈ»Ã»ÓÐÁ¬¶Á£¬¿É²»¿ÉÒÔ±ÏÒµºóÔÚº«¹úÉêÇë¶Á
+°Ä´óÀûÑÇµÄÉú»îÀñÒÇ
+¡¾Òâ¼ûºÍ½¨Òé¡¿¡¾ÍÆ¼ö¡¿¡¾×ÖÌå£º´óÖÐÐ¡¡¿¡¾´òÓ¡´ËÎÄ¡¿¡¾¹Ø±Õ´°¿Ú¡¿
+×÷Õß:²®ÀÖ±à¼­³ö´¦:²®ÀÖÁôÑ§Íø×ª×Ô»¥ÁªÍø·¢±íÊ±¼ä:2007-7-3
+15:08:25
+·þÊÎÀñÒÇ
+ÄÐ×Ó¶à´©Î÷·þ£¬´òÁì´ø£¬ÔÚÕýÊ½³¡ºÏ´òºÚÉ«Áì½á£¬¸¾Å®Ò»ÄêÖÐ´ó²¿·ÖÊ±¼ä¶¼´©È¹×Ó£¬ÔÚÉç½»³¡ºÏÔòÌ×ÉÏÎ÷×°ÉÏÒÂ¡£ÎÞÂÛÄÐÅ®¶¼Ï²»¶´©Å£×Ð¿ã£¬ËûÃÇÈÏÎª´©Å£×Ð¿ã·½±ã¡£ÍÁÖø¾ÓÃñÍùÍù³àÉíÂãÌå£¬»òÔÚÑü¼äÔúÒ»ÌõÎ§½í£¬ÓÐÐ©µØ·½µÄÍÁÖøÈË½²¾¿Ð©£¬°ÑÎ§½íÅûÔÚÉíÉÏ£¬ËûÃÇµÄ×°ÊÎÆ·ÍùÍù·á¸»¶à²Ê¡£
+ÒÇÌ¬ÀñÒÇ
+ÕâÀïµÄÄÐÈËÃÇÏà´¦£¬¸ÐÇé²»ÄÜ¹ýÓÚÍâÂ¶£¬´ó¶àÊýÄÐÈË²»Ï²»¶½ô½ôÓµ±§»òÎÕ×¡Ë«¼çÖ®ÀàµÄ¶¯×÷¡£ÔÚÉç½»³¡ºÏ£¬¼É»ä´ò¹þÇ·£¬ÉìÀÁÑüµÈÐ¡¶¯×÷¡£
+Ïà¼ûÀñÒÇ
+°Ä´óÀûÑÇÈË¼ûÃæÏ°¹ßÓÚÎÕÊÖ£¬²»¹ýÓÐÐ©Å®×ÓÖ®¼ä²»ÎÕÊÖ£¬Å®ÓÑÏà·êÊ±³£Ç×ÎÇ¶Ô·½µÄÁ³¡£°Ä´óÀûÑÇÈË´ó¶¼ÃûÔÚÇ°£¬ÐÕÔÚºó¡£³Æºô±ðÈËÏÈËµÐÕ£¬½ÓÉÏÏÈÉú£¬Ð¡½ã»òÌ«Ì«Ö®Àà¡£ÊìÈËÖ®¼ä¿É³ÆÐ¡Ãû¡£
+²ÍÒûÀñÒÇ
+°Ä´óÀûÑÇÈËÔÚÒûÊ³ÉÏÒÔ³ÔÓ¢Ê½Î÷²ËÎªÖ÷£¬Æä¿ÚÎ¶Çåµ­£¬²»Ï²ÓÍÄå¡£°Ä´óÀûÑÇµÄÊ³Æ·ËØÒÔ·áÊ¢ºÍÁ¿´ó¶øÖø³Æ£¬ÓÈÆä¶Ô¶¯Îïµ°°×ÖÊµÄÐèÒªÁ¿¸ü´ó¡£ËûÃÇ°®ºÈÅ£ÄÌ£¬Ï²Ê³Å£Èâ£¬ÖíÈâµÈ¡£ËûÃÇÏ²ºÈÆ¡¾Æ£¬¶Ô¿§·ÈºÜ¸ÐÐËÈ¤¡£
+Ï²É¥ÀñÒÇ
+ÔÚ°Ä´óÀûÑÇ£¬ÄÐÅ®»éÇ°Ò»°ãÒªÏÈ¶©»é£¬ÓÉÅ®·½¼Ò³¤ÑçÇëÄÐ·½µÄ¼Ò³¤¼°ÐÖµÜ½ãÃÃ£¬»éÀñºóÍ¨³£Òª¾ÙÐÐÑç»á¡£°Ä´óÀûÑÇÈËµÄÔáÀñ£¬ÏÈÔÚ½ÌÌÃÄÚ¾ÙÐÐ£¬ÓÉÄÁÊ¦Ö÷³Ö×·Ë¼Àñ£¬ËûÃÇ»¹±£´æ×Å¹Ñ¸¾³ÁÄ¬µÄ¹ÅË×¡£ÓÉÓÚµØÀíÎ»ÖÃµÄÔ­Òò£¬ÆäÊ¥µ®½ÚºÍÔªµ©½Ú²»ÊÇÔÚº®ÀäµÄ¶¬¼¾£¬¶øÊÇÔÚ»ðÈÈµÄÏÄ¼¾¡£
+ÉÌÎñÀñÒÇ
+µ½°Ä´óÀûÑÇ½øÐÐÉÌÎñ»î¶¯µÄ×î¼ÑÔÂ·ÝÊÇ3-11ÔÂ¡£°Ä´óÀûÑÇÊÇÒ»¸ö½²ÇóÆ½µÈµÄÉç»á£¬²»Ï²»¶ÒÔÃüÁîµÄ¿ÚÆøÖ¸Ê¹±ðÈË¡£ËûÃÇ°Ñ¹«ºÍË½·ÖµÃºÜÇå³þ£¬ËùÒÔ²»ÒªÒÔÎªÒ»Æð½ø¹ý²Í£¬ÉúÒâ¾ÍºÃ×öÁË¡£
+ÂÃÓÎÀñÒÇ
+°Ä´óÀûÑÇ²»Á÷ÐÐÐ¡·Ñ£¬µ«·þÎñÈËÔ±Èç¹ûÎªÄãÌá¹©ÁË¶îÍâµÄ·þÎñ£¬¿É¸øÊÊµ±µÄÐ¡·Ñ£¬ÊýÄ¿²»ÒË¶à¡£µ½ÉÌµêÀïÂò¶«Î÷²»ÒªÌÖ¼Û»¹¼Û¡£×ø³µ²»Ïµ°²È«´øÊÇÎ¥·¨µÄ£¬Ð¡º¢Ò²ÒªÏµ°²È«´ø¡£´ó²¿·ÖÂÃ¹ÝµÄµç»°²¦0ÊÇÍâÏß£¬²¦9ÊÇÂÃ¹Ý×Ü»ú¡£
+Ö÷Òª½û¼É
+°Ä´óÀûÑÇÈË¶ÔÍÃ×ÓÌØ±ð¼É»ä£¬ÈÏÎªÍÃ×ÓÊÇÒ»ÖÖ²»¼ªÀûµÄ¶¯Îï£¬ÈËÃÇ¿´µ½Ëü¶¼»á¸Ðµ½µ¹Ã¹¡£ÓëËûÃÇ½»Ì¸Ê±£¬¶àÌ¸ÂÃÐÐ£¬ÌåÓýÔË¶¯¼°µ½°Ä´óÀûÑÇµÄ¼ûÎÅ¡£
+Ïà¹Ø×ÊÑ¶
+Ã»ÓÐÏà¹Ø×ÊÑ¶
+¹ØÓÚ²®ÀÖ
+|
+¹«Ë¾·½Î»
+|
+ÆóÒµÕÐÆ¸
+|
+ÔÚÏßÆÀ¹À
+|
+ÔÚÏß´ðÒÉ
+±±¾©ÊÀ¼Í²®ÀÖÁôÑ§×ÉÑ¯·þÎñÓÐÏÞ¹«Ë¾
+¾©ICP±¸05065630ºÅ
+Copyright
+&copy;
+2001-2007
+cheeredu.com.cn
+All
+Rights
+Reserved
+²®ÀÖÁôÑ§
+½¨Òé·Ö±æÂÊ¨R1024*768
+µØÖ·£º±±¾©½¨¹úÃÅÍâ´ó½Ö±û24ºÅ¾©Ì©´óÏÃ9²ã
+µç»°£º010-65156886
+´«Õæ£º010-65156285
+²®ÀÖÁôÑ§-
+ÊÕ²Ø±¾Õ¾
+ÍøÕ¾µØÍ¼
+¹ØÓÚ²®ÀÖ©¦ÎÒÃÇµÄÓÅÊÆ©¦»î¶¯¹«¸æ©¦ÁôÑ§¿ìÑ¶©¦ÓïÑÔÅàÑµ©¦¾³Íâ·þÎñ©¦º£Íâ°ì¹«ÊÒ©¦³É¹¦°¸Àý©¦¿Í·þÖÐÐÄ©¦³ÏÆ¸Ó¢²Å©¦ÒµÎñºÏ×÷©¦»Ô»ÍÒµ¼¨
+ÈÈµã¹ú¼ÒË÷Òý£º
+Ó¢¹ú
+|
+ºÉÀ¼
+|
+°ÄÖÞ
+|
+·¨¹ú
+|
+ÃÀ¹ú
+|
+¼ÓÄÃ´ó
+|
+Å²Íþ
+|
+µ¤Âó
+|
+Èðµä
+|
+·ÒÀ¼
+|
+ÐÂ¼ÓÆÂ
+|
+º«¹ú
+|
+ÐÂÎ÷À¼
+|
+°®¶ûÀ¼
+Ó¢¹ú
+ÇëÎÊÎÒÊÊºÏÊ²Ã´ÑùµÄ´óÑ§£¿ÎÒÊÇÅ©Òµ´óÑ§±¾¿ÆÔÚ¶ÁÍÐ
+Ï£ÍûÄúÄÜÖ¸µ¼Ò»ÏÂÉêÇëÍ¨ÐÅÑ§Ð£µÄµÈ¼¶ºÍÉêÇëÊ²Ã´Ñ§
+ÉêÇëÓ¢¹úË¶Ê¿µÄ×î¼ÑÊ±¼ä¼°¼ÆËã»ú×¨Òµ±È½ÏÇ¿µÄÑ§Ð£
+ÃÀ¹ú
+ÄúºÃ£¬ÎÒ½ñÄê10ÔÂÔÚÓ¢¹úÄÃµ½MSc.International
+Bu
+ÇëÎÊ,È¥ÃÀ¹ú»òÅ·ÖÞµÄÒ»Ð©¸ßÐ£ÁôÑ§-¶ÁÑÐ,µ£±£½ð´ó
+ÎÒÅ®¶ùÏÖÔÚ¸ß2,ÕýÔÚÑ§ÑÅË¼,Ã÷Äê×¼±¸¿¼,²»ÖªÃÀ¹úºÃ
+ºÉÀ¼
+ÈýÄê´ó×¨±ÏÒµ£¬×¨ÒµÊÇÉÌÎñÓ¢Óï£¬ÉêÇëºÉÀ¼µÄ×¨Éý±¾
+ÎÒ±»Ó¢¹ú4´Î¾ÜÇ©£¬ÇëÎÊÉêÇëºÉÀ¼ÊÇ·ñ»áÊÜÓ°Ïì£¿
+ÑÅË¼6·Ö£¬×Ô¿¼±¾¿Æ£¬¹ú¼ÊÃ³Ò××¨Òµ£¬´óÑ§Æ½¾ù³É¼¨7
+·¨¹ú
+ÔÚ¹úÄÚ¹ã¸æÑ§×¨Òµ±ÏÒµ
+ÏÖÔÚÏëÔÚ·¨¹úÑ§Ï°Éè¼ÆÏà¹Ø
+ÄúºÃ,ÎÒÓÐÒâÔ¸ÁôÑ§·¨¹ú.
+04ÄêÓ¢ÓïÎÄÑ§×¨Òµ±ÏÒµºó
+ÏëÑ§Ï°·þ×°Éè¼Æ£¬´Ó±¾¿Æ¿ªÊ¼¶ÁÆð¡£²»È¥·¨¹úÒ²¿ÉÒÔ
+¼ÓÄÃ´ó
+meg£¬ÄúºÃ£¡
+ÎÒÊÇ¸ßÈýÑ§Éú£¬2007Äê²Î¼ÓÉÏº£¸ß
+ÀÏÊ¦ÄúºÃ!
+ÎÒ¶ù×Ó2007Äê¸ßÖÐ±ÏÒµ,¸÷Àà³É¼¨Ò»°ã,Ó¢
+ÎÒÖ»ÏëÉÏÒ»¸öÄÜ¾¡¿ì±ÏÒµµÄÑ§Ð££¬Ñ§ÖÆÔ½¶ÌÔ½ºÃ£¬È»
+ÐÂ¼ÓÆÂ
+ÐÂ¼ÓÆÂ¹²ÓÐ¶àÉÙË½Á¢ÔºÐ££¿ÓÐ¶àÉÙÑ§Ð£ÓÐSQCºÍCaseT
+1.°ìÀíÐÂ¼ÓÆÂµÄÇ©Ö¤Ñ§Ð£·½ÃæÐèÒªÌá¹©Ê²Ã´²ÄÁÏ£¿
+ÔÚÐÂ¼ÓÆÂ¿ÉÒÔ¶Á2+1µÄ¿Î³ÌºóÔÙ×ªÈ¥µÚÈý¹ú¼ÒÐèÒª»Ø
+°ÄÖÞ
+È¥°ÄÖÞÁôÑ§µÄÑ§Éú£¬ÔÚÌá¹©µ£±£½ðµÄÊ±ºò£¬±ØÐëµÃÌá
+ÇëÎÊ°ÄÖÞ´óÑ§À´ÖÐ¹úµÄÃæÊÔÕÐÉú»á£¬ÎÒÃÇµÄº¢×Ó¿ÉÒÔ
+1¡¢ÄúºÃ£ºÎÒµÄÅ®¶ùÏÖÔÚÕýÔÚÈðµä¶Á´óËÄ£¬¶ÁµÄÊÇµ±
+±±Å·
+ÉêÇëµÄµÄÏêÏ¸Á÷³Ì£¬ÔÚÉêÇëµÄ¹ý³ÌÖÐ»á²»»áÒòÎªÉêÇë
+Èç¹ûÎÒÒªÉêÇëÉÌ¿Æ£¬ÄÄÐ©Ñ§Ð£±È½ÏºÏÊÊ£¬ÓÐÃ»ÓÐÌØÊâ
+¸ß¿¼³É¼¨ÔÚ¶þ±¾Ïß505Ö®ÉÏÎª515,ÆäÖÐÍâÓï111¡¢ÓïÎÄ
+º«¹ú
+¡¾ÎÊ¡¿Ç©Ö¤ÈÝÒ×Ã´£¿
+¡¾ÎÊ¡¿ÔõÑùÑ¡Ôñº«¹ú´óÑ§£¿ÄÜ·ñ¸øÒ»Ð©²Î¿¼£¿
+¡¾ÎÊ¡¿¼ÈÈ»Ã»ÓÐÁ¬¶Á£¬¿É²»¿ÉÒÔ±ÏÒµºóÔÚº«¹úÉêÇë¶Á
+°ÄÖÞÇ©Ö¤µÄ°ËÖÖÀàÐÍ
+¡¾Òâ¼ûºÍ½¨Òé¡¿¡¾ÍÆ¼ö¡¿¡¾×ÖÌå£º´óÖÐÐ¡¡¿¡¾´òÓ¡´ËÎÄ¡¿¡¾¹Ø±Õ´°¿Ú¡¿
+×÷Õß:²®ÀÖ±à¼­³ö´¦:²®ÀÖÁôÑ§Íø×ª×Ô»¥ÁªÍø·¢±íÊ±¼ä:2007-7-3
+15:02:39
+µÚÒ»ÖÖ£º570ÀàÐÍÇ©Ö¤£¬ÊÇÖ¸È¥°ÄÖÞµ¥´¿µÄÑ§Ï°Ó¢ÓïÇ¿»¯¿Î³Ì
+µÚ¶þÖÖ£º571ÀàÐÍÇ©Ö¤£¬Ö¸ÉêÇëÈË¸°°ÄÖÞ¶ÁÖÐÑ§¿Î³Ì¡£
+ÒªÇó1.¾ßÓÐ³õÖÐ±ÏÒµÖ¤»òÍ¬µÈÑ§Àú
+2.¶Á10Äê¼¶µÄÑ§Éú²»ÄÜ³¬¹ý18ÖÜËê£¬¶Á11Äê¼¶µÄÑ§Éú²»ÄÜ³¬¹ý19ÖÜËê£¬Ñ§Éú²»ÄÜÖ±½ÓÉêÇë¶Á12Äê¼¶¿Î³Ì
+3.Ö÷¿Î³¤¶È²»ÄÜÉÙÓÚ16¸öÔÂ£¬´ÓÓïÑÔ¿Î³Ì¿ªÊ¼£¬µ¹¶Á²»ÄÜ³¬¹ý18¸öÔÂ
+4.ÑÅË¼»íÃâ£ºA£©ÈôÑ§Éú²»Âú16ÖÜËê£¬ÑÅË¼Ö±½Ó»íÃâ
+B£©ÈôÑ§Éú´óÓÚ16ÖÜËêÇÒÐ¡ÓÚ18ÖÜËê£¬ÉêÇëµÄ°ÄÖÞÑ§Ð£Òª³öÑÅË¼»íÃâÐÅ
+C£©ÒªÇóÑ§ÉúÔÚ¹úÄÚ¾Í¶ÁµÄÑ§Ð£³õÈýÄê¼¶µÄÓ¢ÓïÆ½¾ù·Ö²»ÄÜµÍÓÚ75·Ö
+µÚÈýÖÖ£º572ÀàÐÍÇ©Ö¤£¬Ö¸Ñ§ÉúÉêÇë¶ÁDIPLOMA¿Î³Ì£¬³¤¶ÈÒ»°ãÔÚ1Äêµ½2Äê×óÓÒ£¬Ê¹¹ÝÒªÇó5¡£5·Ö¿ÉÃâÓïÑÔ¿Î³Ì£¬Ö±½Ó¶ÁÖ÷¿Î£¬µ«ÊÇÒ²Òª¿´¾ßÌåµÄÑ§Ð£µÄÏà¹ØÒªÇó¡£ÒªÇó×î¸ßÑ§Àú£ºÓÐ¸ßÖÐ±ÏÒµÖ¤»òÍ¬µÈÑ§Àú£¨ÖÐ×¨¡¢Ö°Òµ¼¼ÊõÑ§Ð££©
+µÚËÄÖÖ£º573ÀàÇ©Ö¤£¬Ö¸ÉêÇë¸ßµÈ½ÌÓý£¬¶ÁGC£¬GD£¬±¾¿Æ»òÑÐ¾¿Éú¿Î³Ì£¬ÒªÓÐ¸ßÖÐ±ÏÒµÖ¤Êé
+µÚÎåÖÖ£º574ÀàÐÍÇ©Ö¤£¬Ö¸ÉêÇëË¶Ê¿»ò²©Ê¿µÄÑÐ¾¿¿Î³Ì
+µÚÁùÖÖ£º575ÀàÐÍÇ©Ö¤£¬Ö»ÊÇµ¥´¿È¥Ñ§Ï°¿Î³Ì£¬Ã»ÓÐÎÄÆ¾ºÍÑ§Î»£¬Ö»ÊÇÒ»¶ÎÑ§Ï°¾­Àú
+µÚÆßÖÖ£º576ÀàÐÍÇ©Ö¤£¬È¥²ÎÓë°ÄÖÞ¹ú¼ÒÏîÄ¿µÄÑÐ¾¿
+µÚ°ËÖÖ£º580ÀàÐÍÇ©Ö¤£¬Ò²³Æ¼à»¤ÈËÇ©Ö¤£¬ÊÇÖ¸Î´Âú18ÖÜËêµÄÑ§Éú¼Ò³¤»ò¼Ò³¤ÌáÃûÈË£¬ÔÚ°ÄÖÞ¼à»¤Ñ§ÉúµÄÒ»ÖÖÇ©Ö¤£¬ÒªÇó¼à»¤ÈËÓëÑ§ÉúÔÚ°ÄÖÞÍ¬½øÍ¬³ö¡£
+Ïà¹Ø×ÊÑ¶
+¡ñ²®ÀÖÁôÑ§µç×ÓÇ©Ö¤»Ô»ÍÒµ¼¨
+¡ñÉêÇëÅäÅ¼Àà±ð·ÃÎÊÇ©Ö¤²ÄÁÏ
+¡ñÐÂÎ÷À¼Ç©Ö¤ÎÊ´ð
+¡ñÐÂÎ÷À¼Ñ§ÉúÇ©Ö¤Ïê½â
+¡ñÐÂÎ÷À¼Ç©Ö¤¹ÙÌ¸Ç©Ö¤
+¡ñ±ØÐëÄÃµ½offer
+²ÅÄÜ½»Ç©Ö¤Âð
+¡ñÁôÑ§Ó¢¹úÇ©Ö¤·ê¸ß·å
+¡ñÈ¡µÃÃÀ¹úÇ©Ö¤ÈýÔ­Ôò
+¡ñÒÆÃñÌ¸ÁôÑ§Ç©Ö¤ÎóÇø
+¡ñÁôÑ§ºÍÇ©Ö¤ÉêÇëÇø±ð
+¹ØÓÚ²®ÀÖ
+|
+¹«Ë¾·½Î»
+|
+ÆóÒµÕÐÆ¸
+|
+ÔÚÏßÆÀ¹À
+|
+ÔÚÏß´ðÒÉ
+±±¾©ÊÀ¼Í²®ÀÖÁôÑ§×ÉÑ¯·þÎñÓÐÏÞ¹«Ë¾
+¾©ICP±¸05065630ºÅ
+Copyright
+&copy;
+2001-2007
+cheeredu.com.cn
+All
+Rights
+Reserved
+²®ÀÖÁôÑ§
+½¨Òé·Ö±æÂÊ¨R1024*768
+µØÖ·£º±±¾©½¨¹úÃÅÍâ´ó½Ö±û24ºÅ¾©Ì©´óÏÃ9²ã
+µç»°£º010-65156886
+´«Õæ£º010-65156285
+²®ÀÖÁôÑ§-
+ÊÕ²Ø±¾Õ¾
+ÍøÕ¾µØÍ¼
+¹ØÓÚ²®ÀÖ©¦ÎÒÃÇµÄÓÅÊÆ©¦»î¶¯¹«¸æ©¦ÁôÑ§¿ìÑ¶©¦ÓïÑÔÅàÑµ©¦¾³Íâ·þÎñ©¦º£Íâ°ì¹«ÊÒ©¦³É¹¦°¸Àý©¦¿Í·þÖÐÐÄ©¦³ÏÆ¸Ó¢²Å©¦ÒµÎñºÏ×÷©¦»Ô»ÍÒµ¼¨
+ÈÈµã¹ú¼ÒË÷Òý£º
+Ó¢¹ú
+|
+ºÉÀ¼
+|
+°ÄÖÞ
+|
+·¨¹ú
+|
+ÃÀ¹ú
+|
+¼ÓÄÃ´ó
+|
+Å²Íþ
+|
+µ¤Âó
+|
+Èðµä
+|
+·ÒÀ¼
+|
+ÐÂ¼ÓÆÂ
+|
+º«¹ú
+|
+ÐÂÎ÷À¼
+|
+°®¶ûÀ¼
+Ó¢¹ú
+ÇëÎÊÎÒÊÊºÏÊ²Ã´ÑùµÄ´óÑ§£¿ÎÒÊÇÅ©Òµ´óÑ§±¾¿ÆÔÚ¶ÁÍÐ
+Ï£ÍûÄúÄÜÖ¸µ¼Ò»ÏÂÉêÇëÍ¨ÐÅÑ§Ð£µÄµÈ¼¶ºÍÉêÇëÊ²Ã´Ñ§
+ÉêÇëÓ¢¹úË¶Ê¿µÄ×î¼ÑÊ±¼ä¼°¼ÆËã»ú×¨Òµ±È½ÏÇ¿µÄÑ§Ð£
+ÃÀ¹ú
+ÄúºÃ£¬ÎÒ½ñÄê10ÔÂÔÚÓ¢¹úÄÃµ½MSc.International
+Bu
+ÇëÎÊ,È¥ÃÀ¹ú»òÅ·ÖÞµÄÒ»Ð©¸ßÐ£ÁôÑ§-¶ÁÑÐ,µ£±£½ð´ó
+ÎÒÅ®¶ùÏÖÔÚ¸ß2,ÕýÔÚÑ§ÑÅË¼,Ã÷Äê×¼±¸¿¼,²»ÖªÃÀ¹úºÃ
+ºÉÀ¼
+ÈýÄê´ó×¨±ÏÒµ£¬×¨ÒµÊÇÉÌÎñÓ¢Óï£¬ÉêÇëºÉÀ¼µÄ×¨Éý±¾
+ÎÒ±»Ó¢¹ú4´Î¾ÜÇ©£¬ÇëÎÊÉêÇëºÉÀ¼ÊÇ·ñ»áÊÜÓ°Ïì£¿
+ÑÅË¼6·Ö£¬×Ô¿¼±¾¿Æ£¬¹ú¼ÊÃ³Ò××¨Òµ£¬´óÑ§Æ½¾ù³É¼¨7
+·¨¹ú
+ÔÚ¹úÄÚ¹ã¸æÑ§×¨Òµ±ÏÒµ
+ÏÖÔÚÏëÔÚ·¨¹úÑ§Ï°Éè¼ÆÏà¹Ø
+ÄúºÃ,ÎÒÓÐÒâÔ¸ÁôÑ§·¨¹ú.
+04ÄêÓ¢ÓïÎÄÑ§×¨Òµ±ÏÒµºó
+ÏëÑ§Ï°·þ×°Éè¼Æ£¬´Ó±¾¿Æ¿ªÊ¼¶ÁÆð¡£²»È¥·¨¹úÒ²¿ÉÒÔ
+¼ÓÄÃ´ó
+meg£¬ÄúºÃ£¡
+ÎÒÊÇ¸ßÈýÑ§Éú£¬2007Äê²Î¼ÓÉÏº£¸ß
+ÀÏÊ¦ÄúºÃ!
+ÎÒ¶ù×Ó2007Äê¸ßÖÐ±ÏÒµ,¸÷Àà³É¼¨Ò»°ã,Ó¢
+ÎÒÖ»ÏëÉÏÒ»¸öÄÜ¾¡¿ì±ÏÒµµÄÑ§Ð££¬Ñ§ÖÆÔ½¶ÌÔ½ºÃ£¬È»
+ÐÂ¼ÓÆÂ
+ÐÂ¼ÓÆÂ¹²ÓÐ¶àÉÙË½Á¢ÔºÐ££¿ÓÐ¶àÉÙÑ§Ð£ÓÐSQCºÍCaseT
+1.°ìÀíÐÂ¼ÓÆÂµÄÇ©Ö¤Ñ§Ð£·½ÃæÐèÒªÌá¹©Ê²Ã´²ÄÁÏ£¿
+ÔÚÐÂ¼ÓÆÂ¿ÉÒÔ¶Á2+1µÄ¿Î³ÌºóÔÙ×ªÈ¥µÚÈý¹ú¼ÒÐèÒª»Ø
+°ÄÖÞ
+È¥°ÄÖÞÁôÑ§µÄÑ§Éú£¬ÔÚÌá¹©µ£±£½ðµÄÊ±ºò£¬±ØÐëµÃÌá
+ÇëÎÊ°ÄÖÞ´óÑ§À´ÖÐ¹úµÄÃæÊÔÕÐÉú»á£¬ÎÒÃÇµÄº¢×Ó¿ÉÒÔ
+1¡¢ÄúºÃ£ºÎÒµÄÅ®¶ùÏÖÔÚÕýÔÚÈðµä¶Á´óËÄ£¬¶ÁµÄÊÇµ±
+±±Å·
+ÉêÇëµÄµÄÏêÏ¸Á÷³Ì£¬ÔÚÉêÇëµÄ¹ý³ÌÖÐ»á²»»áÒòÎªÉêÇë
+Èç¹ûÎÒÒªÉêÇëÉÌ¿Æ£¬ÄÄÐ©Ñ§Ð£±È½ÏºÏÊÊ£¬ÓÐÃ»ÓÐÌØÊâ
+¸ß¿¼³É¼¨ÔÚ¶þ±¾Ïß505Ö®ÉÏÎª515,ÆäÖÐÍâÓï111¡¢ÓïÎÄ
+º«¹ú
+¡¾ÎÊ¡¿Ç©Ö¤ÈÝÒ×Ã´£¿
+¡¾ÎÊ¡¿ÔõÑùÑ¡Ôñº«¹ú´óÑ§£¿ÄÜ·ñ¸øÒ»Ð©²Î¿¼£¿
+¡¾ÎÊ¡¿¼ÈÈ»Ã»ÓÐÁ¬¶Á£¬¿É²»¿ÉÒÔ±ÏÒµºóÔÚº«¹úÉêÇë¶Á
 º£ÍâÁôÑ§¸ß·åÄê½âÎö
 ¡¾Òâ¼ûºÍ½¨Òé¡¿¡¾ÍÆ¼ö¡¿¡¾×ÖÌå£º´óÖÐÐ¡¡¿¡¾´òÓ¡´ËÎÄ¡¿¡¾¹Ø±Õ´°¿Ú¡¿
 ×÷Õß:²®ÀÖ±à¼­³ö´¦:²®ÀÖÁôÑ§Íø×ª×Ô»¥ÁªÍø·¢±íÊ±¼ä:2007-7-4
@@ -1193,10 +1810,7 @@ meg£¬ÄúºÃ£¡
 ×÷Õß:²®ÀÖ±à¼­³ö´¦:²®ÀÖÁôÑ§Íø×ª×Ô»¥ÁªÍø·¢±íÊ±¼ä:2007-7-6
 9:45:48
 Ëæ×ÅÖÐº«½»Á÷ÈÕÒæÆµ·±£¬ÖÐ¹úÈË¶Ôº«¹úµÄ¹ØÐÄ¼°ÁË½âÒ²Ô½ÒæÔö¼Ó£¬ÓÉ´ËÒ²´ø¶¯ÁË¹úÈËÑ§Ï°º«ÓïµÄÈÈÇé¡£¡°º«ÓïÄÜÁ¦¿¼ÊÔ¡±´Ó1998ÄêÊ×´ÎÔÚÖÐ¹úµÄ±±¾©¿ª¿¼£¬µ½ÏÖÔÚÔÚÖÐ¹úµÄ10À´¸ö³ÇÊÐ½øÐÐ£¬ÒÑÑÓÐøÁË9ÄêÖ®¶à£¬²Î¼ÓµÄÈËÊýÈÕ½¥Ôö¼Ó¡£
-º«¹úÓïÄÜÁ¦¿¼ÊÔ¸Ä¸ï¼ÌÍÐ¸£¡¢ÑÅË¼µ÷Õû¿¼ÊÔÕþ²ßºó£¬º«¹úÓïÄÜÁ¦¿¼ÊÔÒ²ÊµÊ©ÁË¸Ä¸ï£¬´Ó2006Äê¿ªÊ¼£¬¸ü¸Ä¿¼ÊÔÓ¢ÎÄÃû³Æ£¬ÓÉÔ­À´µÄKPT£¨KoreanProficiencyTest£©¸ÄÎªTOPIK£¨Test
-of
-Proficiency
-In
+º«¹úÓïÄÜÁ¦¿¼ÊÔ¸Ä¸ï¼ÌÍÐ¸£¡¢ÑÅË¼µ÷Õû¿¼ÊÔÕþ²ßºó£¬º«¹úÓïÄÜÁ¦¿¼ÊÔÒ²ÊµÊ©ÁË¸Ä¸ï£¬´Ó2006Äê¿ªÊ¼£¬¸ü¸Ä¿¼ÊÔÓ¢ÎÄÃû³Æ£¬ÓÉÔ­À´µÄKPT£¨KoreanProficiencyTest£©¸ÄÎªTOPIK£¨Test of Proficiency In
 Korean£©£»¿¼ÊÔµÈ¼¶ÓÉÔ­À´µÄÁùµÈ¼¶ÌåÖÆ±äÎª³õ¼¶¡¢ÖÐ¼¶¡¢¸ß¼¶Èý¸ö¼¶±ð£»³öÌâ·½Ê½Ò²ÓÐËù±ä»¯£¬Ô­À´µÄ¿¼ÊÔÎªÐ´¡¢´Ê»ãÓï·¨¡¢Ìý¡¢¶ÁËÄ¸ö·½ÃæµÄÖ÷¡¢¿Í¹ÛÌâ£¬µ÷Õûºó´Ê»ãÓï·¨¡¢Ìý¡¢¶ÁÈý¸ö·½ÃæÎª¿Í¹ÛÌâ£¬Ð´ÎªÖ÷¡¢¿Í¹ÛÌâ¡£
 º«Óï¿¼ÊÔ×¨¼ÒÖ¸³ö£¬º«¹úÓïÄÜÁ¦¿¼ÊÔÊÇÆÀ¼ÛÉêÇë¸°º«¹úÁôÑ§¼°¾ÍÒµÈËÔ±ÓïÑÔË®Æ½µÄ×¨Òµ¿¼ÊÔ¡£×î½ü¼¸Äê£¬Ëæ×ÅÖÐ¹úÑ§ÉúÁôÑ§º«¹úÈÈµÄÐËÆðºÍÔÚÖÐ¹úÓêºó´ºËñ°ãÓ¿ÏÖ³öÀ´µÄº«ÆóÐèÒª´óÁ¿º«ÓïÈË²ÅµÄÏÖ×´£¬Ê¹µÃ±¨¿¼ÈËÊý²»¶ÏÔö¼Ó¡£´Ë´Îº«ÓïÄÜÁ¦¿¼ÊÔ½øÐÐ¸Ä¸ï£¬ÊÇÎªÁË¸üÈ«ÃæµØÆÀ¼Û¿¼ÉúµÄº«ÓïË®Æ½ºÍÔËÓÃÄÜÁ¦¡£
 º«ÓïÄÜÁ¦¿¼µÄ¿¼ºËÖØµã
@@ -1538,8 +2152,7 @@ meg£¬ÄúºÃ£¡
 10:17:32
 ºÉÀ¼µÄ¸ß¶È·±ÈÙ²»½öÓë¹úÃñµÄ½ÌÓýË®Æ½ºÍ²úÆ·ÏÈ½øµÄ³Ì¶ÈÓÐ¹Ø£¬¶øÇÒÓëºÉÀ¼ÈËµÄÉÌÒµ¶´²ìÁ¦ºÍÁìµ¼Á¦ÓÐ¹Ø¡£ºÉÀ¼ÔÚÕâ·½ÃæÓÐÓÆ¾ÃµÄ´«Í³¡£ÔçÔÚ1602ÄêºÉÀ¼µÄÉÌÈËÒÑ½¨Á¢ÁË¶«Ó¡¶È¹«Ë¾£¬ËüÊÇÊÀ½çÉÏµÚÒ»¸ö¿ç¹úÃ³Ò×¹«Ë¾£¬ËüºÜ¿ìµØÓëÊÀ½çÉÏºÜ¶à¹ú¼ÒµÄÉÌÈË½¨Á¢ÆðÓÑºÃµÄÃ³Ò×¹ØÏµ¡£Í¬ÆÚ£¬ºÉÀ¼ÈË·¢Ã÷ÁË¹É·ÝÖÆ£¬1709Äê½¨Á¢ÁËÊÀ½çÉÏµÚÒ»¸ö¹ÉÆ±½»Ò×Ëù£¬Í¬Ê±Ê×´Î°ÑÐÅÓÃ¡¢Ö¤È¯¡¢ÒøÐÐ¡¢ÓÐÏÞ¹«Ë¾ÁªºÏÆðÀ´½¨Á¢ÁËÊÀ½çÉÏµÚÒ»¸öÍ³Ò»µÄ½ðÈÚÌåÏµ£¬±ÈÃÀ¹úµÄÅ¦Ô¼Ö¤È¯½»Ò×ËùÔçÁË¼¸°ÙÄê¡£°¢Ä·Ë¹ÌØµ¤¹ÉÆ±ÊÐ³¡ÔÚÏàµ±³¤µÄÊ±¼äÄÚÊÇÊÀ½çÉÏ×î´óµÄ¹ÉÊÐ¡£
 ºÉÀ¼ÊÇ1957Äê¾ö¶¨µÞÔìÅ·ÃËµÄÁù¸ö·¢Æð¹úÖ®Ò»£¬ÏÖÔÚÅ·ÃËÒÑÓµÓÐ25¸ö³ÉÔ±¹ú£¬´ÓÎ÷°àÑÀÉìÕ¹µ½±±¼«£¬´Ó°®¶ûÀ¼µ½ÑÅµä¡£Å·ÃË¹ú¼ÒÁªºÏ×é³ÉÊÀ½çÉÏ×î´óµÄ×ÔÓÉÃ³Ò×Çø¡£ºÉÀ¼ÔÚÕâ¸öÇøÓòÄÚ°çÑÝ×ÅÏàµ±ÖØÒªµÄ½ÇÉ«¡£
-ºÉÀ¼×Ô¹ÅÒÔÀ´±£³Ö×Å¶Ô¾­¼ÃÑ§ºÍÆóÒµ¾­Óª¹ÜÀíÑ§µÄÅ¨ºñÐËÈ¤¡£ºÉÀ¼ÔÚÕâÒ»ÁìÓò´ÓÊÂµÄ¿ÆÑ§ÑÐ¾¿»ñµÃÁË¸ßË®Æ½µÄ·¢Õ¹¡£ÁîÈËÕÛ·þµÄÀý×ÓÊÇÂ¹ÌØµ¤ºÍ¼ò.¶¡²®¸ù£¨Jan
-Tinbergen£©½ÌÊÚ»ñµÃÁËÅµ±´¶û¾­¼ÃÑ§½±¡£ËûÕªÈ¡Åµ±´¶û¹ð¹ÚµÄÔ­ÒòÊÇËûÔÚ¾­¼ÃÓ¦ÓÃÊýÑ§ÁìÓòÀïµÄ×¿Ô½³É¾Í¡£µ«¶¡²®¸ùÊ×ÏÈÊÇÒÔ·¢Õ¹¾­¼ÃÑ§¼ÒÔÚ¹ú¼ÊÉÏÏíÓÐÊ¢Óþ¡£´Ó´«Í³ÉÏÀ´¿´£¬ºÉÀ¼µÄ¾­¼ÃÑ§¼Ò°Ñ×Ô¼º¿´×÷ÊÇÒ»¸öÓëÉç»á·¢Õ¹ºÍ´´Ôì·±ÈÙÏ¢Ï¢Ïà¹ØµÄÉç»áÑ§Ö°ÒµÕß¡£ÕâÒ»¶¨Î»Ê¹ËûÃÇÎñÊµµ«²»ÊÜ¾ÖÏÞ¡£ÖÚËùÖÜÖª£¬ºÉÀ¼µÄµÙ¶û±¤´óÑ§µÄ¾­¼ÃÑ§×¨ÒµÒÑ¸Ï³¬Ó¢¹úµÄ½£ÇÅ¡¢Å£½ò¡¢Â×¶ØÕþ¾­µÈÖªÑ§¸®ÁÐ¾ÓÈ«Å·ÖÞµÚÒ»Ãû¡£
+ºÉÀ¼×Ô¹ÅÒÔÀ´±£³Ö×Å¶Ô¾­¼ÃÑ§ºÍÆóÒµ¾­Óª¹ÜÀíÑ§µÄÅ¨ºñÐËÈ¤¡£ºÉÀ¼ÔÚÕâÒ»ÁìÓò´ÓÊÂµÄ¿ÆÑ§ÑÐ¾¿»ñµÃÁË¸ßË®Æ½µÄ·¢Õ¹¡£ÁîÈËÕÛ·þµÄÀý×ÓÊÇÂ¹ÌØµ¤ºÍ¼ò.¶¡²®¸ù£¨Jan Tinbergen£©½ÌÊÚ»ñµÃÁËÅµ±´¶û¾­¼ÃÑ§½±¡£ËûÕªÈ¡Åµ±´¶û¹ð¹ÚµÄÔ­ÒòÊÇËûÔÚ¾­¼ÃÓ¦ÓÃÊýÑ§ÁìÓòÀïµÄ×¿Ô½³É¾Í¡£µ«¶¡²®¸ùÊ×ÏÈÊÇÒÔ·¢Õ¹¾­¼ÃÑ§¼ÒÔÚ¹ú¼ÊÉÏÏíÓÐÊ¢Óþ¡£´Ó´«Í³ÉÏÀ´¿´£¬ºÉÀ¼µÄ¾­¼ÃÑ§¼Ò°Ñ×Ô¼º¿´×÷ÊÇÒ»¸öÓëÉç»á·¢Õ¹ºÍ´´Ôì·±ÈÙÏ¢Ï¢Ïà¹ØµÄÉç»áÑ§Ö°ÒµÕß¡£ÕâÒ»¶¨Î»Ê¹ËûÃÇÎñÊµµ«²»ÊÜ¾ÖÏÞ¡£ÖÚËùÖÜÖª£¬ºÉÀ¼µÄµÙ¶û±¤´óÑ§µÄ¾­¼ÃÑ§×¨ÒµÒÑ¸Ï³¬Ó¢¹úµÄ½£ÇÅ¡¢Å£½ò¡¢Â×¶ØÕþ¾­µÈÖªÑ§¸®ÁÐ¾ÓÈ«Å·ÖÞµÚÒ»Ãû¡£
 ºÉÀ¼µÄ¾­¼ÃÑ§¡¢ÆóÒµ¾­Óª¹ÜÀíÑ§ºÍÏà¹ØÑ§¿Æ³¤ÆÚÒÔÀ´ÉîÊÜÅ·ÖÞ¡¢±±ÃÀµÈ·¢´ï¹ú¼ÒµÄÑ§ÉúµÄ»¶Ó­¡£ºÉÀ¼ÉÌ½ç¶Ô½ÓÊÜ¹ýÁ¼ºÃµÄ¾­¼ÃºÍÆóÒµ¾­Óª¹ÜÀí½ÌÓýµÄÄêÇáÈËÒ²Ò»Ö±ÓÐºÜ´óµÄÐèÇó¡£ÔÚÕâ·½Ãæ£¬ºÉÀ¼ÓÐ×ÅÉÏ°ÙÖÖÈ«Ó¢ÎÄÊÚ¿ÎµÄ¹ú¼Ê¿Î³Ì¹©ÎÒÃÇÑ¡Ôñ£¬Èç¹ú¼ÊÉÌÒµ¹ÜÀí¡¢¹ú¼Ê½ðÈÚ¡¢¾­¼ÃÑ§Óë½ðÈÚ¡¢¼ÆÁ¿¾­¼ÃÑ§¡¢ÊýÁ¿½ðÈÚ¡¢»á¼ÆÑ§¡¢ÎïÁ÷¹ÜÀí¡¢ÊÐ³¡Ñ§¡¢¹ã¸æÉè¼Æ¡¢ÁãÊÛÒµ¡¢ÐÅÏ¢¼¼Êõ¡¢Ê³Æ·¼Ó¹¤¡¢½»Á÷Ñ§¡¢ÈËÁ¦×ÊÔ´¡¢¾­¼Ã·¨¡¢ÉÌ·¨¡¢Ë°·¨µÈ¡£
 ºÉÀ¼µÄ¹ú¼ÊÐÔ×¨Òµ½ÌÓý·Ç³£ÖØÊÓÊµ¼ù¡£Ñ§Ï°ºÍ²Î¹ÛÆóÒµÊÇÆÚÏÞ½Ï³¤µÄ×¨Òµ¿Î³ÌµÄÖØÒªÄÚÈÝ£¬ÕâÑùÒ»À´£¬Ñ§ÉúÄÜ¹»ÔÚËûÃÇ×¨ÒµÁìÓòÀï»ýÀÛ±ØÒªµÄ¾­Ñé£¬³ÉÎªËûÃÇ¿ÉÒÔ´ÓÄÚ²¿¿´µ½ºÉÀ¼ÆóÒµÊÇÈçºÎÔÚ¹ú¼ÊÎèÌ¨ÉÏÔË×÷µÄ¡£
 Å·ÖÞµÄ¾­ÓªÓëÃ³Ò×·½Ê½²»Í¬ÓÚÃÀ¹ú£¬µ«Å·ÖÞµÄ¾­ÓªÓëÃ³Ò×·½Ê½·Ç³£³É¹¦£¬±ÈÈçËµÏñ·ÉÀûÆÖ¹«Ë¾¡¢¿ÇÅÆÊ¯ÓÍ¡¢ÁªºÏÀû»ª¡¢INGÒøÐÐ¡¢Ï²Á¦µÈ¾ùÒÑ³ÉÎªÊÀ½çÖªÃûÆ·ÅÆ¡£ºÉÀ¼²»½öÊÇÒ»¸ö»õÎï¼¯É¢µØ£¬Ò²ÊÇÏë·¨µÄ¼¯É¢µØ¡£Èç¹ûÄãÏë¹Û²ìÅ·ÃËµÄ¾­¼Ã·¢Õ¹£¬Èç¹ûÄãÏëÁ¢¿Ì¸ÐÊÜËûÃÇµÄÏë·¨¡¢·½·¨ºÍ¼¼ÇÉ£¬×îºÃÈ¥ºÉÀ¼Ñ§Ï°¡¢¹¤×÷¡¢¾Ó×¡¡£
@@ -2197,15 +2810,12 @@ meg£¬ÄúºÃ£¡
 ¡¾ÎÊ¡¿ÔõÑùÑ¡Ôñº«¹ú´óÑ§£¿ÄÜ·ñ¸øÒ»Ð©²Î¿¼£¿
 ¡¾ÎÊ¡¿¼ÈÈ»Ã»ÓÐÁ¬¶Á£¬¿É²»¿ÉÒÔ±ÏÒµºóÔÚº«¹úÉêÇë¶Á
 ÄúÏÖÔÚµÄÎ»ÖÃ:Ê×Ò³
-×¤ÐÂ¼ÓÆÂ°ì¹«ÊÒ(2007-7-4
-10:49:28)
-±±Å·º£Íâ°ì¹«ÊÒ(2007-7-4
-10:48:48)
+×¤ÐÂ¼ÓÆÂ°ì¹«ÊÒ(2007-7-4 10:49:28)
+±±Å·º£Íâ°ì¹«ÊÒ(2007-7-4 10:48:48)
 ×¤ÃÀ°ì¹«ÊÒ(2007-7-4)
 ¼ÓÄÃ´óº£Íâ°ì¹«ÊÒ(2007-7-4)
 Ó¢¹úº£Íâ°ì¹«ÊÒ(2007-7-4)
-×¤ºÉÀ¼°ì¹«ÊÒ(2006-1-18
-17:13:21)
+×¤ºÉÀ¼°ì¹«ÊÒ(2006-1-18 17:13:21)
 ¹²
 6
 Ìõ¼ÇÂ¼µ±Ç°µÚ
@@ -2649,11 +3259,7 @@ CHNÀ³Íß¶Ù´óÑ§
 CHEER
 ºÉÀ¼´óÑ§ÖÐ¹úÔ¤¿Æ°à
 »ú¹¹¼ò½é
-Å·ÃËÖÐÅ·½ÌÓýÑÐ¾¿»ù½ð»á(China-Europe
-Education
-&amp;
-Research
-Foundation)
+Å·ÃËÖÐÅ·½ÌÓýÑÐ¾¿»ù½ð»á(China-Europe Education &amp; Research Foundation)
 1995ÄêÔÚºÉÀ¼ÓÉÊ®ËùºÉÀ¼¹«Á¢´óÑ§ºÍÔºÐ£·¢Æð,ÁªºÏÖÐ¹ú½ü20ÓàËù¸ßÐ£¼°¸ßµÈ½ÌÓýÑÐ¾¿»ú¹¹¹¹³É¡£
 ×Ô1995ÄêÀ´£¬CHEERÒÑ³ÉÎªÒ»¸öÓµÓÐ×Ô¼ºµÄ½ÌÓýÅàÑµ»ùµØ¡¢Ìá¹©¹ú¼Ê½ÌÓý×ÉÑ¯¡¢½ÌÓýÅàÑµºÍ½ÌÓý½»Á÷·þÎñµÄ×ÛºÏÐÔ¹ú¼Ê½ÌÓý×éÖ¯£¬ÊÇÖÐ¹ú×îÔçÍÆ¹ãºÉÀ¼½ÌÓýµÄ·Ç¹Ù·½½ÌÓý»ú¹¹£¬ÎÒÃÇÒÑ¾­³É¹¦ÏòºÉÀ¼Ê®ËùÖøÃû¹«Á¢´óÑ§ÊäËÍÁË5000ÓàÃûÓÅÐãµÄÖÐ¹úÑ§Éú¡£Ëæ×Å¶ÓÎéµÄ²»¶Ï×³´ó£¬ÎÒÃÇÔÚºÉÀ¼µÄ¶÷Ë¹ºÕµÂ¡¢°¢Ä·Ë¹ÌØµ¤£¬ÖÐ¹ú±±¾©¡¢ÉÏº£¶¼ÉèÓÐ×Ô¼ºµÄ·ÖÖ§»ú¹¹¡£
 CHEERÓÚ1998ÄêÉèÁ¢ÁË¡°CHEERÖÐ»ªÑ§×Ó½±Ñ§½ð¡±Ã¿ÄêÏòÈ«ÇòCHEERÓÅÐãÑ§Éú°ä·¢½±½ð¼°Ö¤Êé£¬±¾½±Ñ§½ð×Ü½ð¶î¸ß´ïÒ»°ÙÍòÈËÃñ±Ò¡£CHEERÔÚºÉÀ¼ÓµÓÐ×Ô¼ºµÄÑ§Éú»á×éÖ¯£¬Ñ§Éú»áÔÚÃ¿Ò»ÅúÐÂÉúÈëÐ£ºó¶¼»áµ½¸÷Ð£¾ÙÐÐÓ­ÐÂÉúPARTY²¢¹Ø×¢Ñ§ÉúÃÇµÄÉú»îÑ§Ï°·½·½ÃæÃæ¡£ÕâÈÃCHEERÑ§ÉúÔÚÒ£Ô¶µÄÒì¹úËûÏç¸ÐÊÜµ½Ç×ÈË°ãµÄÎÂÅ¯¡£
@@ -2844,11 +3450,7 @@ CHNÀ³Íß¶Ù´óÑ§
 CHEER
 ºÉÀ¼´óÑ§ÖÐ¹úÔ¤¿Æ°à
 »ú¹¹¼ò½é
-Å·ÃËÖÐÅ·½ÌÓýÑÐ¾¿»ù½ð»á(China-Europe
-Education
-&amp;
-Research
-Foundation)
+Å·ÃËÖÐÅ·½ÌÓýÑÐ¾¿»ù½ð»á(China-Europe Education &amp; Research Foundation)
 1995ÄêÔÚºÉÀ¼ÓÉÊ®ËùºÉÀ¼¹«Á¢´óÑ§ºÍÔºÐ£·¢Æð,ÁªºÏÖÐ¹ú½ü20ÓàËù¸ßÐ£¼°¸ßµÈ½ÌÓýÑÐ¾¿»ú¹¹¹¹³É¡£
 ×Ô1995ÄêÀ´£¬CHEERÒÑ³ÉÎªÒ»¸öÓµÓÐ×Ô¼ºµÄ½ÌÓýÅàÑµ»ùµØ¡¢Ìá¹©¹ú¼Ê½ÌÓý×ÉÑ¯¡¢½ÌÓýÅàÑµºÍ½ÌÓý½»Á÷·þÎñµÄ×ÛºÏÐÔ¹ú¼Ê½ÌÓý×éÖ¯£¬ÊÇÖÐ¹ú×îÔçÍÆ¹ãºÉÀ¼½ÌÓýµÄ·Ç¹Ù·½½ÌÓý»ú¹¹£¬ÎÒÃÇÒÑ¾­³É¹¦ÏòºÉÀ¼Ê®ËùÖøÃû¹«Á¢´óÑ§ÊäËÍÁË5000ÓàÃûÓÅÐãµÄÖÐ¹úÑ§Éú¡£Ëæ×Å¶ÓÎéµÄ²»¶Ï×³´ó£¬ÎÒÃÇÔÚºÉÀ¼µÄ¶÷Ë¹ºÕµÂ¡¢°¢Ä·Ë¹ÌØµ¤£¬ÖÐ¹ú±±¾©¡¢ÉÏº£¶¼ÉèÓÐ×Ô¼ºµÄ·ÖÖ§»ú¹¹¡£
 CHEERÓÚ1998ÄêÉèÁ¢ÁË¡°CHEERÖÐ»ªÑ§×Ó½±Ñ§½ð¡±Ã¿ÄêÏòÈ«ÇòCHEERÓÅÐãÑ§Éú°ä·¢½±½ð¼°Ö¤Êé£¬±¾½±Ñ§½ð×Ü½ð¶î¸ß´ïÒ»°ÙÍòÈËÃñ±Ò¡£CHEERÔÚºÉÀ¼ÓµÓÐ×Ô¼ºµÄÑ§Éú»á×éÖ¯£¬Ñ§Éú»áÔÚÃ¿Ò»ÅúÐÂÉúÈëÐ£ºó¶¼»áµ½¸÷Ð£¾ÙÐÐÓ­ÐÂÉúPARTY²¢¹Ø×¢Ñ§ÉúÃÇµÄÉú»îÑ§Ï°·½·½ÃæÃæ¡£ÕâÈÃCHEERÑ§ÉúÔÚÒ£Ô¶µÄÒì¹úËûÏç¸ÐÊÜµ½Ç×ÈË°ãµÄÎÂÅ¯¡£
@@ -3302,11 +3904,7 @@ Bock
 Å·ÃËÖÐÅ·½ÌÓýÑÐ¾¿»ù½ð»á
 Ö÷Ï¯
 Å·ÃËÖÐÅ·½ÌÓýÑÐ¾¿»ù½ð»áºÉÀ¼ÏîÄ¿°ì¹«ÊÒ
-Å·ÃËÖÐÅ·½ÌÓýÑÐ¾¿»ù½ð»áºÉÀ¼ÏîÄ¿°ì¹«ÊÒ(China-Europe
-Education
-&amp;
-Research
-Foundation,¼ò³ÆCHEER£©£¬ÊÇÔÚÔ­ÓÐ¡°ºÉÀ¼½ÌÓýÖÐÐÄ£¨DECC£©¡±µÄ»ù´¡ÉÏ³ÉÁ¢µÄ½ÌÓýÑÐ¾¿·þÎñÐÔ»ú¹¹¡£
+Å·ÃËÖÐÅ·½ÌÓýÑÐ¾¿»ù½ð»áºÉÀ¼ÏîÄ¿°ì¹«ÊÒ(China-Europe Education &amp; Research Foundation,¼ò³ÆCHEER£©£¬ÊÇÔÚÔ­ÓÐ¡°ºÉÀ¼½ÌÓýÖÐÐÄ£¨DECC£©¡±µÄ»ù´¡ÉÏ³ÉÁ¢µÄ½ÌÓýÑÐ¾¿·þÎñÐÔ»ú¹¹¡£
 ÓÉÊ®ÓàËùºÉÀ¼ÖøÃû¹«Á¢´óÑ§ºÍÔºÐ£·¢Æð£¬×Ô1995ÄêÀ´£¬¾­¹ýÊ®ÄêµÄ·¢Õ¹Àú³Ì£¬ÒÑ³ÉÎªÒ»¸öÓµÓÐ×Ô¼ºµÄ½ÌÓý»ùµØ£¬Ìá¹©¹ú¼Ê½ÌÓý×ÉÑ¯¡¢½ÌÓýÅàÑµºÍ½ÌÓý½»Á÷·þÎñµÄ×ÛºÏÐÔ¹ú¼Ê½ÌÓý×éÖ¯£¬Ä¿Ç°ÒÑ¾­·¢Õ¹³ÉÎªÔÚÅ·ÖÞ´óÂ½¡¢Ó¢¹úºÍÖÐ¹úÉèÓÐ³£Éè»ú¹¹£¬209ÃûÈ«Ö°Ô±¹¤£¬²¢ÓµÓÐ¶à´ï400¸öÀ´×ÔÓ¢¹ú¡¢ÃÀ¹ú¡¢¼ÓÄÃ´ó¡¢°Ä´óÀûÑÇ¡¢ºÉÀ¼¡¢·¨¹ú¡¢Èðµä¡¢µ¤Âó¡¢·ÒÀ¼¡¢Å²ÍþµÈÊ®Îå¸ö¹ú¼ÒµÄ³ÉÔ±£¨°üÀ¨¸ßµÈ½ÌÓý»ú¹¹ºÍ×éÖ¯£¬ÓÅÐãµÄ½ÌÊÚºÍ×¨¼ÒµÈ£©£¬ÊÇÖÐ¹ú×îÔçÍÆ¹ãºÉÀ¼½ÌÓýµÄ·Ç¹Ù·½»ú¹¹¡£
 ×Ô1999ÄêÀ´£¬Cheer
 Ò»Ö±¾¡Á¦¾­Óª×Å¸ßË®×¼µÄ½ÌÓý½»Á÷£¬ºÏ×÷°ìÑ§ºÍÕÐÉú£¬²¢Ã¿ÄêÐ­Öú1000ÃûÑ§ÉúÊµÏÖËûÃÇµÄÊµÏ°£¬±ÏÒµÈÎÎñºÍ³ö¹úÁôÑ§Ô¸Íû£¬ÎÒÃÇÒÑ³É¹¦ÏòºÉÀ¼¼¸Ê®Ëù¹«Á¢´óÑ§ÊäËÍÁË³¬¹ý4500ÃûÓÅÐãµÄÖÐ¹úÑ§Éú¡£ÎÒÃÇÔÚºÉÀ¼µÄ°¢Ä·Ë¹ÌØµ¤ÒÔ¼°ÖÐ¹úµÄ±±¾©¡¢ÉÏº£¡¢ÉòÑô¶¼ÉèÓÐ×Ô¼ºµÄ·ÖÖ§»ú¹¹£¬ÔÚÈ«¹úÓÐ40¶à¼Ò´úÀí¡£
@@ -3428,16 +4026,7 @@ Sweden,
 Denmark,
 Finland
 and
-Norway(
-include
-higher
-education
-institutions,
-organizations,
-leading
-professors
-and
-experts).
+Norway( include higher education institutions, organizations, leading professors and experts).
 It
 is
 the
@@ -4108,8 +4697,7 @@ Email:yangyongfeng@cheeredu.com.cn
 Äã×îºóÒ»·Ý¹¤×÷µÄÖ÷ÒªÄÚÈÝºÍÖ°Ôð
 ÎÊÌâ»Ø´ð
 1¡¢ÇëËµ³öÄãÔÚ¹¤×÷ÖÐ»òÑ§Ï°ÉÏÒýÒÔ×ÔºÀµÄ5¼þÊÂÇé£¨80-100×Ö£©
-2¡¢Çë¾Ù¸öÄú³É¹¦´¦ÀíÃô¸Ð»ò¸´ÔÓÈË¼Ê¹ØÏµµÄÀý×Ó¡££¨
-80-120×Ö£©
+2¡¢Çë¾Ù¸öÄú³É¹¦´¦ÀíÃô¸Ð»ò¸´ÔÓÈË¼Ê¹ØÏµµÄÀý×Ó¡££¨ 80-120×Ö£©
 3¡¢Ð½½ð·½Ãæ
 ÔÚÊÔÓÃÆÚÆÚ¼äÄãÏ£ÍûµÄ¹¤×Ê·¶Î§£º
 ×ªÕýºóÄãÏ£ÍûµÄ¹¤×Ê·¶Î§£º
@@ -4760,9 +5348,7 @@ meg£¬ÄúºÃ£¡
 ÐÂ¼ÓÆÂ¹úÁ¢´óÑ§ºÍÄÏÑóÀí¹¤´óÑ§ÔÚÊÀ½çÅÅÃû¶àÉÙ£¿
 2003
 ÑÇÖÞÖÜ¿¯
-(
-ÑÇÌ«µØÇø´óÑ§ÅÅÃû
-):
+( ÑÇÌ«µØÇø´óÑ§ÅÅÃû ):
 ÐÂ¼ÓÆÂ¹úÁ¢´óÑ§
 µÚ
 5
@@ -4982,9 +5568,7 @@ meg£¬ÄúºÃ£¡
 ÐÂ¼ÓÆÂ¹úÁ¢´óÑ§ºÍÄÏÑóÀí¹¤´óÑ§ÔÚÊÀ½çÅÅÃû¶àÉÙ£¿
 2003
 ÑÇÖÞÖÜ¿¯
-(
-ÑÇÌ«µØÇø´óÑ§ÅÅÃû
-):
+( ÑÇÌ«µØÇø´óÑ§ÅÅÃû ):
 ÐÂ¼ÓÆÂ¹úÁ¢´óÑ§
 µÚ
 5
@@ -5185,9 +5769,7 @@ meg£¬ÄúºÃ£¡
 ÐÂ¼ÓÆÂ¹úÁ¢´óÑ§ºÍÄÏÑóÀí¹¤´óÑ§ÔÚÊÀ½çÅÅÃû¶àÉÙ£¿
 2003
 ÑÇÖÞÖÜ¿¯
-(
-ÑÇÌ«µØÇø´óÑ§ÅÅÃû
-):
+( ÑÇÌ«µØÇø´óÑ§ÅÅÃû ):
 ÐÂ¼ÓÆÂ¹úÁ¢´óÑ§
 µÚ
 5
@@ -5401,9 +5983,7 @@ meg£¬ÄúºÃ£¡
 ÐÂ¼ÓÆÂ¹úÁ¢´óÑ§ºÍÄÏÑóÀí¹¤´óÑ§ÔÚÊÀ½çÅÅÃû¶àÉÙ£¿
 2003
 ÑÇÖÞÖÜ¿¯
-(
-ÑÇÌ«µØÇø´óÑ§ÅÅÃû
-):
+( ÑÇÌ«µØÇø´óÑ§ÅÅÃû ):
 ÐÂ¼ÓÆÂ¹úÁ¢´óÑ§
 µÚ
 5
@@ -5603,9 +6183,7 @@ meg£¬ÄúºÃ£¡
 ÐÂ¼ÓÆÂ¹úÁ¢´óÑ§ºÍÄÏÑóÀí¹¤´óÑ§ÔÚÊÀ½çÅÅÃû¶àÉÙ£¿
 2003
 ÑÇÖÞÖÜ¿¯
-(
-ÑÇÌ«µØÇø´óÑ§ÅÅÃû
-):
+( ÑÇÌ«µØÇø´óÑ§ÅÅÃû ):
 ÐÂ¼ÓÆÂ¹úÁ¢´óÑ§
 µÚ
 5
@@ -5805,9 +6383,7 @@ meg£¬ÄúºÃ£¡
 ÐÂ¼ÓÆÂ¹úÁ¢´óÑ§ºÍÄÏÑóÀí¹¤´óÑ§ÔÚÊÀ½çÅÅÃû¶àÉÙ£¿
 2003
 ÑÇÖÞÖÜ¿¯
-(
-ÑÇÌ«µØÇø´óÑ§ÅÅÃû
-):
+( ÑÇÌ«µØÇø´óÑ§ÅÅÃû ):
 ÐÂ¼ÓÆÂ¹úÁ¢´óÑ§
 µÚ
 5
@@ -6007,9 +6583,7 @@ meg£¬ÄúºÃ£¡
 ÐÂ¼ÓÆÂ¹úÁ¢´óÑ§ºÍÄÏÑóÀí¹¤´óÑ§ÔÚÊÀ½çÅÅÃû¶àÉÙ£¿
 2003
 ÑÇÖÞÖÜ¿¯
-(
-ÑÇÌ«µØÇø´óÑ§ÅÅÃû
-):
+( ÑÇÌ«µØÇø´óÑ§ÅÅÃû ):
 ÐÂ¼ÓÆÂ¹úÁ¢´óÑ§
 µÚ
 5
@@ -6220,9 +6794,7 @@ QQÈº£¨±±Å·ÇóÑ§Éç£©£º25758049
 ÐÂ¼ÓÆÂ¹úÁ¢´óÑ§ºÍÄÏÑóÀí¹¤´óÑ§ÔÚÊÀ½çÅÅÃû¶àÉÙ£¿
 2003
 ÑÇÖÞÖÜ¿¯
-(
-ÑÇÌ«µØÇø´óÑ§ÅÅÃû
-):
+( ÑÇÌ«µØÇø´óÑ§ÅÅÃû ):
 ÐÂ¼ÓÆÂ¹úÁ¢´óÑ§
 µÚ
 5
@@ -6427,9 +6999,7 @@ QQÈº£¨±±Å·ÇóÑ§Éç£©£º25758049
 ÐÂ¼ÓÆÂ¹úÁ¢´óÑ§ºÍÄÏÑóÀí¹¤´óÑ§ÔÚÊÀ½çÅÅÃû¶àÉÙ£¿
 2003
 ÑÇÖÞÖÜ¿¯
-(
-ÑÇÌ«µØÇø´óÑ§ÅÅÃû
-):
+( ÑÇÌ«µØÇø´óÑ§ÅÅÃû ):
 ÐÂ¼ÓÆÂ¹úÁ¢´óÑ§
 µÚ
 5
@@ -6636,9 +7206,7 @@ QQÈº£¨±±Å·ÇóÑ§Éç£©£º25758049
 ÐÂ¼ÓÆÂ¹úÁ¢´óÑ§ºÍÄÏÑóÀí¹¤´óÑ§ÔÚÊÀ½çÅÅÃû¶àÉÙ£¿
 2003
 ÑÇÖÞÖÜ¿¯
-(
-ÑÇÌ«µØÇø´óÑ§ÅÅÃû
-):
+( ÑÇÌ«µØÇø´óÑ§ÅÅÃû ):
 ÐÂ¼ÓÆÂ¹úÁ¢´óÑ§
 µÚ
 5
@@ -6842,9 +7410,7 @@ meg£¬ÄúºÃ£¡
 ÐÂ¼ÓÆÂ¹úÁ¢´óÑ§ºÍÄÏÑóÀí¹¤´óÑ§ÔÚÊÀ½çÅÅÃû¶àÉÙ£¿
 2003
 ÑÇÖÞÖÜ¿¯
-(
-ÑÇÌ«µØÇø´óÑ§ÅÅÃû
-):
+( ÑÇÌ«µØÇø´óÑ§ÅÅÃû ):
 ÐÂ¼ÓÆÂ¹úÁ¢´óÑ§
 µÚ
 5
@@ -7052,9 +7618,7 @@ meg£¬ÄúºÃ£¡
 ÐÂ¼ÓÆÂ¹úÁ¢´óÑ§ºÍÄÏÑóÀí¹¤´óÑ§ÔÚÊÀ½çÅÅÃû¶àÉÙ£¿
 2003
 ÑÇÖÞÖÜ¿¯
-(
-ÑÇÌ«µØÇø´óÑ§ÅÅÃû
-):
+( ÑÇÌ«µØÇø´óÑ§ÅÅÃû ):
 ÐÂ¼ÓÆÂ¹úÁ¢´óÑ§
 µÚ
 5
@@ -7264,9 +7828,7 @@ meg£¬ÄúºÃ£¡
 ÐÂ¼ÓÆÂ¹úÁ¢´óÑ§ºÍÄÏÑóÀí¹¤´óÑ§ÔÚÊÀ½çÅÅÃû¶àÉÙ£¿
 2003
 ÑÇÖÞÖÜ¿¯
-(
-ÑÇÌ«µØÇø´óÑ§ÅÅÃû
-):
+( ÑÇÌ«µØÇø´óÑ§ÅÅÃû ):
 ÐÂ¼ÓÆÂ¹úÁ¢´óÑ§
 µÚ
 5
@@ -7470,9 +8032,7 @@ GRE:1100
 ÐÂ¼ÓÆÂ¹úÁ¢´óÑ§ºÍÄÏÑóÀí¹¤´óÑ§ÔÚÊÀ½çÅÅÃû¶àÉÙ£¿
 2003
 ÑÇÖÞÖÜ¿¯
-(
-ÑÇÌ«µØÇø´óÑ§ÅÅÃû
-):
+( ÑÇÌ«µØÇø´óÑ§ÅÅÃû ):
 ÐÂ¼ÓÆÂ¹úÁ¢´óÑ§
 µÚ
 5
@@ -7681,9 +8241,7 @@ edinburgh,surry,µÈµÈ£¬¾ßÌå»¹Òª¿´¿Î³ÌÉèÖÃÊÇ·ñ·ûºÏÄãµÄÐËÈ¤£¡
 ÐÂ¼ÓÆÂ¹úÁ¢´óÑ§ºÍÄÏÑóÀí¹¤´óÑ§ÔÚÊÀ½çÅÅÃû¶àÉÙ£¿
 2003
 ÑÇÖÞÖÜ¿¯
-(
-ÑÇÌ«µØÇø´óÑ§ÅÅÃû
-):
+( ÑÇÌ«µØÇø´óÑ§ÅÅÃû ):
 ÐÂ¼ÓÆÂ¹úÁ¢´óÑ§
 µÚ
 5
@@ -7892,9 +8450,7 @@ Essex,µÈ¼ÆËã»úÒµ¶¼·Ç³£³öÉ«£¬ÎÒ»áÎªÄúÒ»´ÎÍ¬Ê±ÉêÇëÎåËùÑ§Ð££¬ÈÃÄú×ÛºÏÑ¡Ôñ¡£
 ÐÂ¼ÓÆÂ¹úÁ¢´óÑ§ºÍÄÏÑóÀí¹¤´óÑ§ÔÚÊÀ½çÅÅÃû¶àÉÙ£¿
 2003
 ÑÇÖÞÖÜ¿¯
-(
-ÑÇÌ«µØÇø´óÑ§ÅÅÃû
-):
+( ÑÇÌ«µØÇø´óÑ§ÅÅÃû ):
 ÐÂ¼ÓÆÂ¹úÁ¢´óÑ§
 µÚ
 5
@@ -8105,9 +8661,7 @@ QQ:372162873
 ÐÂ¼ÓÆÂ¹úÁ¢´óÑ§ºÍÄÏÑóÀí¹¤´óÑ§ÔÚÊÀ½çÅÅÃû¶àÉÙ£¿
 2003
 ÑÇÖÞÖÜ¿¯
-(
-ÑÇÌ«µØÇø´óÑ§ÅÅÃû
-):
+( ÑÇÌ«µØÇø´óÑ§ÅÅÃû ):
 ÐÂ¼ÓÆÂ¹úÁ¢´óÑ§
 µÚ
 5
@@ -8316,9 +8870,7 @@ QQ:372162873
 ÐÂ¼ÓÆÂ¹úÁ¢´óÑ§ºÍÄÏÑóÀí¹¤´óÑ§ÔÚÊÀ½çÅÅÃû¶àÉÙ£¿
 2003
 ÑÇÖÞÖÜ¿¯
-(
-ÑÇÌ«µØÇø´óÑ§ÅÅÃû
-):
+( ÑÇÌ«µØÇø´óÑ§ÅÅÃû ):
 ÐÂ¼ÓÆÂ¹úÁ¢´óÑ§
 µÚ
 5
@@ -8524,9 +9076,7 @@ QQ:372162873
 ÐÂ¼ÓÆÂ¹úÁ¢´óÑ§ºÍÄÏÑóÀí¹¤´óÑ§ÔÚÊÀ½çÅÅÃû¶àÉÙ£¿
 2003
 ÑÇÖÞÖÜ¿¯
-(
-ÑÇÌ«µØÇø´óÑ§ÅÅÃû
-):
+( ÑÇÌ«µØÇø´óÑ§ÅÅÃû ):
 ÐÂ¼ÓÆÂ¹úÁ¢´óÑ§
 µÚ
 5
@@ -8726,9 +9276,7 @@ meg£¬ÄúºÃ£¡
 ÐÂ¼ÓÆÂ¹úÁ¢´óÑ§ºÍÄÏÑóÀí¹¤´óÑ§ÔÚÊÀ½çÅÅÃû¶àÉÙ£¿
 2003
 ÑÇÖÞÖÜ¿¯
-(
-ÑÇÌ«µØÇø´óÑ§ÅÅÃû
-):
+( ÑÇÌ«µØÇø´óÑ§ÅÅÃû ):
 ÐÂ¼ÓÆÂ¹úÁ¢´óÑ§
 µÚ
 5
@@ -8929,9 +9477,7 @@ meg£¬ÄúºÃ£¡
 ÐÂ¼ÓÆÂ¹úÁ¢´óÑ§ºÍÄÏÑóÀí¹¤´óÑ§ÔÚÊÀ½çÅÅÃû¶àÉÙ£¿
 2003
 ÑÇÖÞÖÜ¿¯
-(
-ÑÇÌ«µØÇø´óÑ§ÅÅÃû
-):
+( ÑÇÌ«µØÇø´óÑ§ÅÅÃû ):
 ÐÂ¼ÓÆÂ¹úÁ¢´óÑ§
 µÚ
 5
@@ -9131,9 +9677,7 @@ meg£¬ÄúºÃ£¡
 ÐÂ¼ÓÆÂ¹úÁ¢´óÑ§ºÍÄÏÑóÀí¹¤´óÑ§ÔÚÊÀ½çÅÅÃû¶àÉÙ£¿
 2003
 ÑÇÖÞÖÜ¿¯
-(
-ÑÇÌ«µØÇø´óÑ§ÅÅÃû
-):
+( ÑÇÌ«µØÇø´óÑ§ÅÅÃû ):
 ÐÂ¼ÓÆÂ¹úÁ¢´óÑ§
 µÚ
 5
@@ -9333,9 +9877,7 @@ meg£¬ÄúºÃ£¡
 ÐÂ¼ÓÆÂ¹úÁ¢´óÑ§ºÍÄÏÑóÀí¹¤´óÑ§ÔÚÊÀ½çÅÅÃû¶àÉÙ£¿
 2003
 ÑÇÖÞÖÜ¿¯
-(
-ÑÇÌ«µØÇø´óÑ§ÅÅÃû
-):
+( ÑÇÌ«µØÇø´óÑ§ÅÅÃû ):
 ÐÂ¼ÓÆÂ¹úÁ¢´óÑ§
 µÚ
 5
@@ -9536,9 +10078,7 @@ meg£¬ÄúºÃ£¡
 ÐÂ¼ÓÆÂ¹úÁ¢´óÑ§ºÍÄÏÑóÀí¹¤´óÑ§ÔÚÊÀ½çÅÅÃû¶àÉÙ£¿
 2003
 ÑÇÖÞÖÜ¿¯
-(
-ÑÇÌ«µØÇø´óÑ§ÅÅÃû
-):
+( ÑÇÌ«µØÇø´óÑ§ÅÅÃû ):
 ÐÂ¼ÓÆÂ¹úÁ¢´óÑ§
 µÚ
 5
@@ -9749,9 +10289,7 @@ QQ:
 ÐÂ¼ÓÆÂ¹úÁ¢´óÑ§ºÍÄÏÑóÀí¹¤´óÑ§ÔÚÊÀ½çÅÅÃû¶àÉÙ£¿
 2003
 ÑÇÖÞÖÜ¿¯
-(
-ÑÇÌ«µØÇø´óÑ§ÅÅÃû
-):
+( ÑÇÌ«µØÇø´óÑ§ÅÅÃû ):
 ÐÂ¼ÓÆÂ¹úÁ¢´óÑ§
 µÚ
 5
@@ -9958,9 +10496,7 @@ ManagementµÄË¶Ê¿Ñ§Î»£¬Æ½¾ù·ÖÎª60.17¡£Ö®Ç°ÔÚÖÐ¹úÊÇ±±¾©´óÑ§Ò½Ñ§²¿ÈýÄêÖÆÓ¦ÓÃÒ©Ñ§´ó×
 ÐÂ¼ÓÆÂ¹úÁ¢´óÑ§ºÍÄÏÑóÀí¹¤´óÑ§ÔÚÊÀ½çÅÅÃû¶àÉÙ£¿
 2003
 ÑÇÖÞÖÜ¿¯
-(
-ÑÇÌ«µØÇø´óÑ§ÅÅÃû
-):
+( ÑÇÌ«µØÇø´óÑ§ÅÅÃû ):
 ÐÂ¼ÓÆÂ¹úÁ¢´óÑ§
 µÚ
 5
@@ -10167,9 +10703,7 @@ meg£¬ÄúºÃ£¡
 ÐÂ¼ÓÆÂ¹úÁ¢´óÑ§ºÍÄÏÑóÀí¹¤´óÑ§ÔÚÊÀ½çÅÅÃû¶àÉÙ£¿
 2003
 ÑÇÖÞÖÜ¿¯
-(
-ÑÇÌ«µØÇø´óÑ§ÅÅÃû
-):
+( ÑÇÌ«µØÇø´óÑ§ÅÅÃû ):
 ÐÂ¼ÓÆÂ¹úÁ¢´óÑ§
 µÚ
 5
@@ -10377,9 +10911,7 @@ meg£¬ÄúºÃ£¡
 ÐÂ¼ÓÆÂ¹úÁ¢´óÑ§ºÍÄÏÑóÀí¹¤´óÑ§ÔÚÊÀ½çÅÅÃû¶àÉÙ£¿
 2003
 ÑÇÖÞÖÜ¿¯
-(
-ÑÇÌ«µØÇø´óÑ§ÅÅÃû
-):
+( ÑÇÌ«µØÇø´óÑ§ÅÅÃû ):
 ÐÂ¼ÓÆÂ¹úÁ¢´óÑ§
 µÚ
 5
@@ -10505,18 +11037,13 @@ Reserved
 ÐÂÎ÷À¼
 |
 °®¶ûÀ¼
-Å·ÃËÖÐÅ·½ÌÓýÑÐ¾¿»ù½ð»á£¨CHEER
-Foundation£©²®ÀÖÁôÑ§Ó¢¹úÒµÎñ²¿Ê¼½¨ÓÚ1998Äê£¬¾­¹ý½ü9ÄêµÄ·¢Õ¹Àú³Ì£¬ÎÒÓ¢¹úÒµÎñ²¿ÏÖÒÑ·¢Õ¹µ½ÁËÒ»¸öÕ¸ÐÂµÄ½×¶Î¡£Ä¿Ç°ÔÚÖ°Ô±¹¤ÈËÊýÒÑ´ï18ÈË¡£ËùÓÐÔÚÖ°Ô±¹¤¾ùÓÐÈýÄêÒÔÉÏµÄ´ÓÒµ¾­Ñé£¬ÆäÖÐ50%ÒÔÉÏµÄÔ±¹¤ÓµÓÐº£ÍâÑ§Ï°¼°Éú»î±³¾°¡£Í¨¹ý×Ô¼º²»Ð¸µÄÅ¬Á¦ºÍÁ¼ºÃµÄº£Íâ»ù´¡£¬ÎÒÒµÎñ²¿ÒÑÓëÊý°ÙËùÓ¢¹úÔºÐ£½¨Á¢ÁËÁ¼ºÃµÄ³¤ÆÚºÏ×÷¹ØÏµ¡£ÆäÖÐ°üÀ¨Ó¢¹úÂ×¶Ø´óÑ§Ñ§Ôº(UCL),²¼ÀïË¹ÍÐ´óÑ§£¬SOAS£¬ÒÁ¶Ù¹«Ñ§µÈÊÀ½ç¶¥¼¶ÔºÐ£¡£
+Å·ÃËÖÐÅ·½ÌÓýÑÐ¾¿»ù½ð»á£¨CHEER Foundation£©²®ÀÖÁôÑ§Ó¢¹úÒµÎñ²¿Ê¼½¨ÓÚ1998Äê£¬¾­¹ý½ü9ÄêµÄ·¢Õ¹Àú³Ì£¬ÎÒÓ¢¹úÒµÎñ²¿ÏÖÒÑ·¢Õ¹µ½ÁËÒ»¸öÕ¸ÐÂµÄ½×¶Î¡£Ä¿Ç°ÔÚÖ°Ô±¹¤ÈËÊýÒÑ´ï18ÈË¡£ËùÓÐÔÚÖ°Ô±¹¤¾ùÓÐÈýÄêÒÔÉÏµÄ´ÓÒµ¾­Ñé£¬ÆäÖÐ50%ÒÔÉÏµÄÔ±¹¤ÓµÓÐº£ÍâÑ§Ï°¼°Éú»î±³¾°¡£Í¨¹ý×Ô¼º²»Ð¸µÄÅ¬Á¦ºÍÁ¼ºÃµÄº£Íâ»ù´¡£¬ÎÒÒµÎñ²¿ÒÑÓëÊý°ÙËùÓ¢¹úÔºÐ£½¨Á¢ÁËÁ¼ºÃµÄ³¤ÆÚºÏ×÷¹ØÏµ¡£ÆäÖÐ°üÀ¨Ó¢¹úÂ×¶Ø´óÑ§Ñ§Ôº(UCL),²¼ÀïË¹ÍÐ´óÑ§£¬SOAS£¬ÒÁ¶Ù¹«Ñ§µÈÊÀ½ç¶¥¼¶ÔºÐ£¡£
 °Ä´óÀûÑÇÏîÄ¿²¿Ò»Ö±ÊÇ¹«Ë¾³É¼¨×îÍ»³öµÄÖØµãÅàÑø²¿ÃÅÖ®Ò»£¬ÓµÓÐÖÚ¶à¾ß±¸¶àÄêÁôÑ§×ÉÑ¯¾­ÑéµÄ×ÊÉî¹ËÎÊºÍÓµÓÐº£ÍâÁôÑ§¾­ÀúµÄ¹é¹úÈËÔ±ÎªÄúÌá¹©×î×¨ÒµµÄ×ÉÑ¯·þÎñ£¬ÔÚ¸ö°¸ÉóÀí·½Ãæ¾ßÓÐ¶Àµ½µÄ¼û½âºÍ°ì°¸ÊµÁ¦£¬ÊýÊ®¸ö°ÄÖÞÒÆÃñÈÈÃÅ´óÑ§¿Î³ÌÏîÄ¿£¬´óÑ§Ë¶Ê¿¡¢Ñ§Ê¿¡¢×¨Éý±¾¡¢×¨ÉýË¶µÈ¾«Æ·ÏîÄ¿£¬ÌØÉ«¿Î³Ì·±¶à£¬µç×ÓÇ©Ö¤³É¹¦ÂÊ´ï100%£¬ÎªÄúµÄÁôÑ§ÉîÔìÌá¹©ÁËÇ¿ÓÐÁ¦µÄ±£ÕÏ£¡
 ±±¾©ÊÀ¼Í²®ÀÖÁôÑ§×ÉÑ¯·þÎñÓÐÏÞ¹«Ë¾ÃÀ¹úÒµÎñ²¿ÊÇÈ«¹ú·¶Î§ÄÚÊµÁ¦×îÇ¿¡¢×î×¨ÒµµÄÍÅ¶ÓÖ®Ò»¡£×Ô³ÉÁ¢ÒÔÀ´£¬ÎÒÒµÎñ²¿Æ¸ÇëÁËÊýÎ»×ÊÉîÃÀ¹úÁôÑ§×¨¼Ò¼°Ç°Ê¹¹ÝÒÆÃñÂÉÊ¦×÷ÎªÎÒ¹«Ë¾¸ß¼¶¹ËÎÊ¡£·á¸»µÄÒµÄÚ¾­ÑéºÍ³¤ÆÚ¶ÔÃÀ¹úÇ©Ö¤µÄÑÐ¾¿Ê¹ÃÀ¹úÒµÎñ²¿×Ü½á³öÁË×Ô¼º¶ÀÓÐµÄÇ©Ö¤¼°½±Ñ§½ðÉêÇë¼¼ÇÉºÍÄ£Ê½£¬ÔÚ½ñÄêÉÏ°ëÄê¾Í´´Ôì³öÁËÃÀ¹úÇ©Ö¤Í¨¹ýÂÊ´ï90%µÄ»Ô»ÍÒµ¼¨¡£Ëù»ñÇ©Ö¤Éæ¼°¸ßÖÐ¡¢´óÑ§¡¢Ë¶Ê¿¡¢²©Ê¿µÈ¸÷¸öÑ§Î»£¬º­¸Ç¸÷ÖÖÎÄÀí×¨Òµ¡£ÔÚ½±Ñ§½ðÉêÇë·½Ãæ£¬ÎÒÃÇÒÑÎª20%µÄ¿Í»§ÉêÇëµ½ÁËÈ«¶î½±Ñ§½ð£¬46%µÄÑ§ÉúÉêÇëµ½ÁË°ë¶î½±Ñ§½ð¡£ÔÚ´¦Àí¸÷ÀàÒÉÄÑÔÓ°¸ÉÏ£¬ÎÒÃÇÈÔ»ñµÃÁË»Ô»ÍÕ½¼¨£¬ÆäÖÐ°üÀ¨´óÁ¿ÔÚÆäËûÖÐ½é°ìÀí±»¾ÜÇ©µÄ°¸Àý¡£
 ÔÚÃÀ¹úÒµÎñ²¿ÕûÌåÕôÕôÈÕÉÏµÄÍ¬Ê±£¬ÎÒÃÇ¸ü×¢ÖØÅàÑøÍÅ¶ÓµÄÐÂÉúÁ¦Á¿£¬Ä¿Ç°ÎÒÒµÎñ²¿ÒÑ¾­¿ªÊ¼ÆôÓÃÁôÃÀÑ§³É¹é¹úÈËÔ±£¬ËûÃÇ½«ÎªÄúÌá¹©¸ü×¨Òµ£¬¸ü¸ßË®Æ½µÄÎÄ°¸·þÎñ£¬Í¬Ê±ÈÃÄú¸üÎªÖ±½ÓµÄÁË½âÃÀ¹úµÄÉú»îºÍÑ§Ï°¡£
 ±±¾©ÊÀ¼Í²®ÀÖÁôÑ§×ÉÑ¯·þÎñÓÐÏÞ¹«Ë¾¼ÓÄÃ´ó²¿£¬¾­¹ý¶àÄêÀ´µÄÅ¬Á¦´òÆ´£¬ÒÑ¾­³ÉÎªÁôÑ§ÒµÄÚ×î¾ßÊµÁ¦µÄÍÅ¶ÓÖ®Ò»£¬²¢ÇÒÔÚ¼ÓÄÃ´óÁôÑ§ÊÐ³¡ÖÐ¶ÀÊ÷Ò»ÖÄ¡£ºÍÍ¬ÐÐµÄ½ÏÁ¿ÖÐÆ¾½è¹ýÓ²µÄ·þÎñÖÊÁ¿¡¢ËØÖÊ³öÖÚµÄÓÅÐãÍÅ¶Ó¡¢ÀúÄê»ýÀÛµÄÉÏÇ§³É¹¦°¸Àý¡¢Á¼ºÃµÄÐÅÓþ¿Ú±®£¬´ÓÖÚ¶àµÄÁôÑ§·þÎñ»ú¹¹ÖÐÍÑÓ±¶ø³ö£¬²»½öÎüÒýÁË¹ã´ó¸°¼ÓÁôÑ§ÕßµÄÑÛ¹â£¬Í¬Ê±Ò²»ñµÃÁË¼ÓÄÃ´ó×¤»ªÁìÊÂ¹ÝµÄÇàíù¡£
 ×Ô¹«Ë¾³ÉÁ¢ÒÔÀ´¼ÓÄÃ´ó²¿½Ó´ý¿Í»§ÒÑ³ÉÇ§ÉÏÍò£¬²¿ÃÅËùÓÐÔ±¹¤Ê¼ÖÕÒÔ×îÓÅÖÊ¡¢×î¸ßÐ§µÄ·þÎñÆ·ÖÊ»Ø±¨¿Í»§¡£×÷ÎªÒ»Ö§ÂÅ»ñÔÞÓþµÄÓÅÐã¶ÓÎé£¬Ì¤×ÅÓëÊ±¾ã½øµÄÊ±´ú²½·¥²»¶ÏÍÆ³Â³öÐÂÒÔ·á¸»ÁôÑ§ÊÐ³¡ÄÚÈÝ£¬×÷Îª±±¾©ÊÐÎ¨Ò»Ò»¼ÒÒÔÃÀ¹úºÍ¼ÓÄÃ´óÀ¦°óÊ½ÁôÑ§·þÎñµÄ¶ÓÎé£¬²»¶Ï´ø¸ø¸°±±ÃÀÁôÑ§ÕßÒÔ¾ªÏ²¡ª¡ª¡°Ö»ÊÕÒ»·ÝÖÐ½é·Ñ£¬Í¬Ê±ÉêÇëÁ½¸ö¹ú¼Ò¡±¡£
-Å·ÃËÖÐÅ·½ÌÓýÑÐ¾¿»ù½ð»á(China-Europe
-Education
-&amp;
-Research
-Foundation)£¨¼ò³ÆCHEER£©ºÉÀ¼ÏîÄ¿°ì¹«ÊÒ,
+Å·ÃËÖÐÅ·½ÌÓýÑÐ¾¿»ù½ð»á(China-Europe Education &amp; Research Foundation)£¨¼ò³ÆCHEER£©ºÉÀ¼ÏîÄ¿°ì¹«ÊÒ,
 ÊÇÔÚÔ­ÓÐ&quot;ºÉÀ¼½ÌÓýÖÐÐÄ(DECC)&quot;»ù´¡ÉÏ³ÉÁ¢µÄ½ÌÓýÑÐ¾¿·þÎñÐÔ»ú¹¹¡£ÓÉÊ®ÓàËùºÉÀ¼¹«Á¢´óÑ§ºÍÔºÐ£·¢Æð,ÁªºÏÖÐ¹ú½ü20ÓàËù¸ßÐ£¼°¸ßµÈ½ÌÓýÑÐ¾¿»ú¹¹¹¹³É¡£
 ×Ô1998ÄêÀ´£¬¾­¹ý°ËÄêµÄ·¢Õ¹Àú³Ì£¬ÒÑ³ÉÎªÒ»¸öÓµÓÐ×Ô¼ºµÄ½ÌÓýÅàÑµ»ùµØ¡¢Ìá¹©¹ú¼Ê½ÌÓý×ÉÑ¯¡¢½ÌÓýÅàÑµºÍ½ÌÓý½»Á÷·þÎñµÄ×ÛºÏÐÔ¹ú¼Ê½ÌÓý×éÖ¯£¬ÊÇÖÐ¹ú×îÔçÍÆ¹ãºÉÀ¼½ÌÓýµÄ·Ç¹Ù·½½ÌÓý»ú¹¹£¬ÎÒÃÇÒÑ¾­³É¹¦ÏòºÉÀ¼ÊäËÍÁË4000ÓàÃûÓÅÐãµÄÖÐ¹úÑ§Éú¡£Ëæ×Å¶ÓÎéµÄ²»¶Ï×³´ó£¬ÎÒÃÇÔÚºÉÀ¼µÄ¶÷Ë¹ºÕµÂ¡¢°¢Ä·Ë¹ÌØµ¤£¬ÖÐ¹ú±±¾©¡¢ÉÏº£ºÍÉòÑôÈýµØ¶¼ÉèÓÐ×Ô¼ºµÄ°ì¹«ÊÒ¡£
 ±±¾©ÊÀ¼Í²®ÀÖÁôÑ§×ÉÑ¯·þÎñÓÐÏÞ¹«Ë¾ÐÂ¼ÓÆÂ²¿ÓÐ×Å³¤ÆÚ°ìÀíÐÂ¼ÓÆÂÁôÑ§ÒµÎñµÄ³É¹¦¾­Ñé£¬ºÍÐÂ¼ÓÆÂ¸÷´óÔºÐ£½¨Á¢ÁË¹ã·ºµÄºÏ×÷½»Á÷¡£ÔÚ½ü4ÄêµÄ°ìÀí¹ý³ÌÖÐ°ïÖú¸÷ÖÖÇóÑ§Ä¿µÄµÄÑ§ÉúÊµÏÖÈËÉúÄ¿±ê¡£ÍêÉÆµÄ¾³Íâ·þÎñ¡¢ÖÚ¶àµÄÑ§ÔºÑ¡Ôñ¡¢¸öÐÔµÄÁôÑ§·½°¸¡¢¼«¸ßµÄÇ©Ö¤ÂÊÊ¹µÃÊÀ¼Í²®ÀÖµÄÐÂ¼ÓÆÂÏîÄ¿ÏíÓþ±±¾©¡£´Ó¿ªÊ¼°ìÀíÕâÏîÒµÎñÒÔÀ´£¬Ã»ÓÐÑ§Éú¾ÜÇ©£¬ÒÔÁ¼ºÃµÄÖ°ÒµËØÖÊºÍÖ°ÒµµÀµÂÒÙÁ¢ÓÚÍ¬ÐÐÒµÇ°ÁÐ£¬ÊÜµ½Ñ§Éú¼°¼Ò³¤¹ã·ººÃÆÀ¡£
@@ -11140,8 +11667,7 @@ than
 ´û¿î
 ×Ê½ðµ£±£½ð¶î
 Íò
-£¨Çë²ÎÔÄ¾­¼Ãµ£±£ËµÃ÷
-£©
+£¨Çë²ÎÔÄ¾­¼Ãµ£±£ËµÃ÷ £©
 ²Î¼Ó¿¼ÊÔÖÖÀà
 ÍÐ¸£
 ¿¼ÊÔ³É¼¨
@@ -11462,8 +11988,7 @@ than
 µ£±£½ð¶î
 £º
 Íò
-£¨Çë²ÎÔÄ¾­¼Ãµ£±£ËµÃ÷
-£©
+£¨Çë²ÎÔÄ¾­¼Ãµ£±£ËµÃ÷ £©
 ÓïÑÔ³É¼¨
 £º
 [Ó¦ÊÔÖÖÀà]
@@ -11645,9 +12170,7 @@ Travel
 Ó¢¹úÀ×¶¡´óÑ§Ô¤¿ÆÕÐÉú200..
 2007-6-23
 MBL
-(Masters
-..
-2007-4-28
+(Masters ..   2007-4-28 
 5ÔÂ´óÑ§ÃæÊÔ£¬À³Ë¹ÌØ¡¢Â×¶Ø..
 2007-4-28
 4ÔÂÍþË¹ÃôË¹ÌØ´óÑ§¿ÚÒë×¨Òµ..
@@ -12053,7 +12576,7 @@ VS
 ÆæÈðQQ
 ¨‹¸ü¶à
 ½ÌÄã¼¸ÕÐÆæÈðQQµÄ¹ÊÕÏ´¦Àí°ì·¨
-ÆæÈðQQÊÇ308»ù±¾ÐÍÓÅÈ±µã×Ü½á(¸½¸Ä×°
+ÆæÈðQQÊÇ308»ù±¾ÐÍÓÅÈ±µã×Ü½á(¸½¸Ä×° 
 ÆæÈðQQ318"Ç×ÎÇ"ÑÅ¸óµÄÆ¨¹É
 ÆæÈðQQ
 318ÓÍºÄÔ¼4-6L/100km
@@ -12602,7 +13125,7 @@ VS
 ÆæÈðQQ
 ¨‹¸ü¶à
 ½ÌÄã¼¸ÕÐÆæÈðQQµÄ¹ÊÕÏ´¦Àí°ì·¨
-ÆæÈðQQÊÇ308»ù±¾ÐÍÓÅÈ±µã×Ü½á(¸½¸Ä×°
+ÆæÈðQQÊÇ308»ù±¾ÐÍÓÅÈ±µã×Ü½á(¸½¸Ä×° 
 ÆæÈðQQ318"Ç×ÎÇ"ÑÅ¸óµÄÆ¨¹É
 ÆæÈðQQ
 318ÓÍºÄÔ¼4-6L/100km
@@ -12819,38 +13342,13 @@ www.CheLink.com
 ¡¾È«¹ú³¤Í¾Æû³µÊ±¿Ì±í¡¿-±±¾©ÉÏº£¹ãÖÝ¼ÃÄÏÄÏ¾©º¼ÖÝ-ÐÂÈñ³µÍø-CheLink.com
 È«¹ú³¤Í¾Æû³µÕ¾¿ÍÔËÊ±¿Ì±í²éÑ¯
 ÐÂÈñ³µÍøÊÕ¼¯»ã×ÜÈ«¹ú¸÷µØ³¤Í¾Æû³µÕ¾¿ÍÔËÊ±¿Ì±í²éÑ¯£¬ÌØ±ðÊÇ±±¾©ÉÏº£¹ãÖÝ¼ÃÄÏÄÏ¾©º¼ÖÝµÈ½»Í¨ÊàÅ¦³ÇÊÐ³¤Í¾¿ÍÔËÐÅÏ¢£¬ÒÔÌá¹©¹úÄÚÈ«ÃæÈ¨ÍþµÄ³¤Í¾Æû³µÕ¾ÁªÏµ·½Ê½À´·½±ã³¤Í¾ÂÃ¿Í¡£
-»ª±±µØÇø£¨±±¾©
-Ìì½ò
-ºÓ±±
-ÄÚÃÉ¹Å
-É½Î÷
-É½¶«£©
-»ª¶«µØÇø£¨ÉÏº£
-°²»Õ
-Õã½­
-½­ËÕ
-£©
-»ªÄÏµØÇø£¨¹ã¶«
-¸£½¨
-º£ÄÏ
-¹ãÎ÷£©
-»ªÖÐµØÇø£¨ºþ±±
-ºÓÄÏ
-ºþÄÏ
-½­Î÷£©
-¶«±±µØÇø£¨ÁÉÄþ
-ºÚÁú½­Ê¡
-¼ªÁÖ£©
-Î÷±±µØÇø£¨ÉÂÎ÷
-ÐÂ½®
-¸ÊËà
-ÄþÏÄ
-Çàº££©
-Î÷ÄÏµØÇø£¨ÖØÇì
-ËÄ´¨
-ÔÆÄÏ
-¹óÖÝ
-Î÷²Ø£©
+»ª±±µØÇø£¨±±¾© Ìì½ò ºÓ±± ÄÚÃÉ¹Å É½Î÷ É½¶«£©
+»ª¶«µØÇø£¨ÉÏº£ °²»Õ Õã½­ ½­ËÕ £©
+»ªÄÏµØÇø£¨¹ã¶« ¸£½¨ º£ÄÏ ¹ãÎ÷£©
+»ªÖÐµØÇø£¨ºþ±± ºÓÄÏ ºþÄÏ ½­Î÷£©
+¶«±±µØÇø£¨ÁÉÄþ ºÚÁú½­Ê¡ ¼ªÁÖ£©
+Î÷±±µØÇø£¨ÉÂÎ÷ ÐÂ½® ¸ÊËà ÄþÏÄ Çàº££©
+Î÷ÄÏµØÇø£¨ÖØÇì ËÄ´¨ ÔÆÄÏ ¹óÖÝ Î÷²Ø£©
 ÖØÒª½»Í¨³ÇÊÐ£º
 ±±¾©
 ÉÏº£
@@ -15151,9 +15649,7 @@ ICP
 ¶àÃ½Ìå½ÌÑ§ÏµÍ³
 ÁªÏµÎÒÃÇ
 ½øÈëÃ©Ì¨Ãû½«¾ÆÒ³Ãæ
-½øÈëÓ¢ÎÄÆÁÄ»Íø£¨English
-screen
-web£©
+½øÈëÓ¢ÎÄÆÁÄ»Íø£¨English screen web£©
 ³Ï»ª--¶àÃ½Ìå½ÌÊÒ×¨¼Ò
 ¶àÃ½Ìå½ÌÊÒ»ù±¾¼Ü¹¹£º
 1.Í¶Ó°Éè±¸£º.Í¶Ó°»ú¡¢ÆÁÄ»µÈ
@@ -16585,8 +17081,7 @@ SX4
 ÎÒÊÇÀ´²âÊÔµÄ2
 [ÓêÑà]
 ²¹Í¼
-[±êÖÂ206
-]
+[±êÖÂ206 ]
 ²¹Í¼
 [Æû³µ¸Ä×°]
 Õ¼¸ö
@@ -16602,11 +17097,9 @@ SX4
 ÎíÌì¿ª³µÐèÒª×¢
 [±±¾©]
 ÕâÊÇÊ²Ã´±êÊ¶°¡
-[ÈÙÍþ750
-]
+[ÈÙÍþ750 ]
 »ÆÉ«¸ñµ÷ÏÊÃ÷£¡
-[ÈÙÍþ750
-]
+[ÈÙÍþ750 ]
 ×Ô¼ÝÓÎµÄ×î¼ÑÑ¡
 [±±¾©]
 ²¹Í¼
@@ -16833,8 +17326,7 @@ moved
 -->
 ¡¤»·¾³·½Õë
 ¡¤¡¶ÆæÈðÈË¡·±¨Õª
-²úÆ·Õ¹Ìü</
-td>
+²úÆ·Õ¹Ìü</ td>
 ¡¤ÆæÈðÕû³µ
 ¡¤ÆæÈð·¢¶¯»ú
 ¡¤ÆæÈðQQ
@@ -16844,8 +17336,7 @@ td>
 ¡¤ÆæÈðA5
 ¡¤ÆìÔÆ
 -->
-¿Í»§·þÎñ</
-td>
+¿Í»§·þÎñ</ td>
 ¡¤·þÎñÀíÄî
 ¡¤·þÎñµÄ³É³¤Àú³Ì
 ¡¤·þÎñÁ÷³Ì
@@ -16855,8 +17346,7 @@ td>
 ¡¤ÔÚÏßÍ¶Ëß
 ¡¤ÂúÒâ¶Èµ÷²é
 -->
-³µÓÑÉçÇø</
-td>
+³µÓÑÉçÇø</ td>
 ¡¤¾­µäÏÂÔØ
 ¡¤ÆæÈðÖ®ÓÑ
 -->
@@ -16874,23 +17364,18 @@ td>
 ¡¤ÍøÓÑ»ý·Ö
 -->
 ¡¤¼ÓÈëÓÊ¼þÁÐ±í
-ÓªÏúÍøÂç</
-td>
+ÓªÏúÍøÂç</ td>
 ¡¤¾­ÏúÉÌ×¨Çø
 ¡¤¾­ÏúÉÌ²éÑ¯
 ¡¤·þÎñÉÌ²éÑ¯
 ¡¤±¸¼þ²éÑ¯
-Ã½ÌåÖÐÐÄ</
-td>
+Ã½ÌåÖÐÐÄ</ td>
 -->
-¹¤ÒµÂÃÓÎ</
-td>
-¼ÓÃËÆæÈð</
-td>
+¹¤ÒµÂÃÓÎ</ td>
+¼ÓÃËÆæÈð</ td>
 ¡¤ÈË²Å¼ÓÃË
 ¡¤¾­ÏúÉÌ¼ÓÃË
-ÔÚÏß¹º³µ</
-td>
+ÔÚÏß¹º³µ</ td>
 &#26032;&#38395;
 -->
 -->
@@ -16945,9 +17430,7 @@ moved
 File
 moved
 ¹ú²úÆû³µ-×îÐÂ¹ú²úÆû³µ-¹ú²úÆû³µ±¨¼Û|ÍøÉÏ³µÊÐ(www.cheshi.com.cn)
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÍøÉÏ³µÊÐÊ×Ò³
 ¹ú²ú×¨Çø
 Ïà¹ØÖ÷Ìâ½ø¿Ú×¨Çø
@@ -17044,9 +17527,7 @@ MGÃû¾ô
 ±±¾©µØÇø
 ÁÉÄþµØÇø
 ºÓÄÏµØÇø
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Æ·ÅÆ
 ³µÐÍ
 ¼Û¸ñ
@@ -17079,26 +17560,20 @@ CVT±ê×¼ÐÍ2007¿î36.88Íò02-02±±¾©ÖÐÊµÔ¶ÑóÆû³µÏúÊÛÓÐÏÞ¹«Ë¾
 Âí×Ô´ïÐÂMAZDA6
 2.0L
 ATºÀ»ªÐÍ2007¿î17.98Íò01-23Ò»ÆûÂí×Ô´ï4S±±¾©ÁªÍØ³ÏÐÅÉÌÃ³
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Æ·ÅÆ
 ³µÐÍ
 ¼Û¸ñ
 ÈÕÆÚ
 ¾­ÏúÉÌ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Æ·ÅÆ
 ³µÐÍ
 ¼Û¸ñ
 ÈÕÆÚ
 ¾­ÏúÉÌ
 ¹ËÎÊ×ùÏ¯
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÐÕÃû:
 º«Ñï
 Ö°Î»:
@@ -17144,9 +17619,7 @@ encoding="gb2312"?>
 ºÀ»ª³µ¶Ô±È
 |
 ¾­¼Ã³µ¶Ô±È
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ½¼Ò°ÖÐµÄ³ÇÊÐÐ¡×Ó
 ÊÔ¼ÝCross
 Polo
@@ -17158,9 +17631,7 @@ Polo
 [ÈÙÍþ³µÓÑ»á]£º¶Ô¡°À­¸ßËÙ¡±ÓÐÒÉÎÊµÄTXÃÇÇë½ø£¬ÓÐ¹Ø
 [¸ß¶û·ò³µÓÑ»á]£º¾«»ª¡ªµãÆÀÖÐ¹úÔÚ²úÆû³µ£¡£¡
 [ÈÙÍþ³µÓÑ»á]£ºÈÙÍþ750µÍÓÍºÄµÄ²»ÍêÈ«¼¼ÇÉ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ð¡×ÊÉú»î×ªÕÛµã
 ¸ÐÊÜÁé¶¯Âí×Ô´ï2
 [ÊÔ¼Ý]£º½¼Ò°ÖÐµÄ³ÇÊÐÐ¡×Ó
@@ -17190,13 +17661,9 @@ R35
 ÊÔ¼ÝÇàÄêÁ«»¨RCR¾ºËÙ
 [ÊÔ¼Ý]£ºÌåÑé¾«ÖÂÐ¡×ÊÉú»î
 ¸ÐÊÜ1.3LÆæÈðA1ÀÖÈ¤
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¹ú²úÈÈµã³µÐÍ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±ð¿Ë¿­Ô½1.6LX
 MT
 ´óÖÚ(Ò»Æû)ËÙÌÚ
@@ -17237,100 +17704,74 @@ Cerat
 1.
 ÈÈµã³µÐÍ
 ¾­¼ÃÐÍ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÏÖ´ú-ÑÅÉðÌØ
 ÁåÄ¾SX4ÌìÓï
 ÈÕ²ú-æêÍþ
 ³¤°²-±¼±¼
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁúC2
 ±¾Ìï-Ë¼µÏ
 ÆðÑÇ
 RIO
 º£Âí-º£¸£ÐÇ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©·ðÀ¼-ÀÖ·ç
 ·áÌï-Íþ³Û
 ÁåÄ¾-ÓêÑà
 ÆæÈð
 QQ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±êÖÂ206
 polo¾¢Çé
 ´óÖÚ-½Ý´ï
 ±¾Ìï-·É¶È
 ÖÐµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÅÁÈøÌØ-ÁìÔ¦
 ±¾Ìï-ÑÅ¸ó
 ·áÌï-¿­ÃÀÈð
 Âí×Ô´ï
 6
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±ð¿Ë-¾ýÔ½
 ´óÖÚ-ÂõÌÚ
 ÈÕ²ú-Ììô¥
 MGÃû¾ô
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¸£ÌØ-¸£¿ËË¹
 ·áÌï-ÈñÖ¾
 Ñ©·ðÀ¼-¾°³Ì
 ÏÖ´ú-Í¾Ê¤
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁú-¿­Ðý
 ±¾ÌïCR-V
 ÈýÁâ-¸êÀ¶
 ÉÏÆû-ÈÙÍþ
 ¸ßµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 °ÂµÏA6
 À×¿ËÈøË¹GS
 ¿­µÏÀ­¿ËCTS
 ÎÖ¶ûÎÖXC90
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¦Âí5Ïµ
 ÃÔÄãMini
 ´óÖÚ-Í¾Èñ
 ±¦Âí3Ïµ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¼³ÛEÏµ
 Â·»¢-ÉñÐÐÕß2
 ±£Ê±½Ý-¿¨Ñç
 °ÂµÏA4
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÁÖÒñ´óµÀ
 300C
 Ó¢·ÆÄáµÏ
 ¼ªÆÕJeep
 ¾©-»¦-½ò-¹ãÖÝ-Îäºº-ÉîÛÚ-É½¶«-É½Î÷-Õã½­-½­ËÕ-¸£½¨-ÁÉÄþ-ºÓÄÏ-ÉÂÎ÷-ºÓ±±-ºþÄÏ-ºÚÁú½­-ÄÚÃÉ¹Å-ÔÆÄÏ-ËÄ´¨-ÖØÇì-¹ãÎ÷-½­Î÷-ÐÂ½®-¼ªÁÖ-¹óÖÝ-¸ÊËà-ÄþÏÄ-°²»Õ-º£ÄÏ-Î÷²Ø-Çàº£-
 ½ø¿ÚÆû³µ-×îÐÂ½ø¿ÚÆû³µ-½ø¿ÚÆû³µ±¨¼Û|ÍøÉÏ³µÊÐ(www.cheshi.com.cn)
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÍøÉÏ³µÊÐÊ×Ò³
 ½ø¿Ú×¨Çø
 Ïà¹ØÖ÷Ìâ¹ú²ú×¨Çø
@@ -17389,9 +17830,7 @@ Pagani
 Ó¢·ÆÄáµÏ
 ½ø¿ÚÆ·ÅÆ¼Û¸ñ×Ü»ã..
 ±±¾©µØÇø
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Æ·ÅÆ
 ³µÐÍ
 ¼Û¸ñ
@@ -17411,9 +17850,7 @@ AT/MTºÀ»ªÐÍ38.5Íò02-13±±¾©ÖÐÆóºãÔ´Æû³µÏúÊÛ·þÎñÓÐÏÞ¹«
 2.7
 ATGX¼¶38Íò02-13±±¾©º£Í¨ÐËÒµÆû³µÏúÊÛÓÐÏÞ¹«Ë¾±±
 ¹ËÎÊ×ùÏ¯
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÐÕÃû:
 ºúµÂÁé
 Ö°Î»:
@@ -17459,9 +17896,7 @@ encoding="gb2312"?>
 ºÀ»ª³µ¶Ô±È
 |
 ¾­¼Ã³µ¶Ô±È
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ½¼Ò°ÖÐµÄ³ÇÊÐÐ¡×Ó
 ÊÔ¼ÝCross
 Polo
@@ -17473,9 +17908,7 @@ Polo
 [ÈÙÍþ³µÓÑ»á]£º¶Ô¡°À­¸ßËÙ¡±ÓÐÒÉÎÊµÄTXÃÇÇë½ø£¬ÓÐ¹Ø
 [¸ß¶û·ò³µÓÑ»á]£º¾«»ª¡ªµãÆÀÖÐ¹úÔÚ²úÆû³µ£¡£¡
 [ÈÙÍþ³µÓÑ»á]£ºÈÙÍþ750µÍÓÍºÄµÄ²»ÍêÈ«¼¼ÇÉ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ð¡×ÊÉú»î×ªÕÛµã
 ¸ÐÊÜÁé¶¯Âí×Ô´ï2
 [ÊÔ¼Ý]£º½¼Ò°ÖÐµÄ³ÇÊÐÐ¡×Ó
@@ -17505,13 +17938,9 @@ R35
 ÊÔ¼ÝÇàÄêÁ«»¨RCR¾ºËÙ
 [ÊÔ¼Ý]£ºÌåÑé¾«ÖÂÐ¡×ÊÉú»î
 ¸ÐÊÜ1.3LÆæÈðA1ÀÖÈ¤
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ½ø¿ÚÈÈµã³µÐÍ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÏÖ´úÐÂÊ¤´ïsanta
 Fe
 ±£Ê±½ÝÐÂ¿¨ÑçCayenne
@@ -17552,91 +17981,67 @@ S350
 ÈýÁâÅ·À¶µÂOUTLANDE
 ÈÈµã³µÐÍ
 ¾­¼ÃÐÍ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÏÖ´ú-ÑÅÉðÌØ
 ÁåÄ¾SX4ÌìÓï
 ÈÕ²ú-æêÍþ
 ³¤°²-±¼±¼
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁúC2
 ±¾Ìï-Ë¼µÏ
 ÆðÑÇ
 RIO
 º£Âí-º£¸£ÐÇ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©·ðÀ¼-ÀÖ·ç
 ·áÌï-Íþ³Û
 ÁåÄ¾-ÓêÑà
 ÆæÈð
 QQ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±êÖÂ206
 polo¾¢Çé
 ´óÖÚ-½Ý´ï
 ±¾Ìï-·É¶È
 ÖÐµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÅÁÈøÌØ-ÁìÔ¦
 ±¾Ìï-ÑÅ¸ó
 ·áÌï-¿­ÃÀÈð
 Âí×Ô´ï
 6
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±ð¿Ë-¾ýÔ½
 ´óÖÚ-ÂõÌÚ
 ÈÕ²ú-Ììô¥
 MGÃû¾ô
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¸£ÌØ-¸£¿ËË¹
 ·áÌï-ÈñÖ¾
 Ñ©·ðÀ¼-¾°³Ì
 ÏÖ´ú-Í¾Ê¤
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁú-¿­Ðý
 ±¾ÌïCR-V
 ÈýÁâ-¸êÀ¶
 ÉÏÆû-ÈÙÍþ
 ¸ßµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 °ÂµÏA6
 À×¿ËÈøË¹GS
 ¿­µÏÀ­¿ËCTS
 ÎÖ¶ûÎÖXC90
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¦Âí5Ïµ
 ÃÔÄãMini
 ´óÖÚ-Í¾Èñ
 ±¦Âí3Ïµ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¼³ÛEÏµ
 Â·»¢-ÉñÐÐÕß2
 ±£Ê±½Ý-¿¨Ñç
 °ÂµÏA4
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÁÖÒñ´óµÀ
 300C
 Ó¢·ÆÄáµÏ
@@ -17875,98 +18280,72 @@ bjlahtxd@126.com
 ÓÍºÄÊµ²é
 ÈÈµã³µÐÍ
 ¾­¼ÃÐÍ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÏÖ´ú-ÑÅÉðÌØ
 ÁåÄ¾SX4ÌìÓï
 ÈÕ²ú-æêÍþ
 ³¤°²-±¼±¼
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁúC2
 ±¾Ìï-Ë¼µÏ
 ÆðÑÇ
 RIO
 º£Âí-º£¸£ÐÇ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©·ðÀ¼-ÀÖ·ç
 ·áÌï-Íþ³Û
 ÁåÄ¾-ÓêÑà
 ÆæÈð
 QQ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±êÖÂ206
 polo¾¢Çé
 ´óÖÚ-½Ý´ï
 ±¾Ìï-·É¶È
 ÖÐµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÅÁÈøÌØ-ÁìÔ¦
 ±¾Ìï-ÑÅ¸ó
 ·áÌï-¿­ÃÀÈð
 Âí×Ô´ï
 6
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±ð¿Ë-¾ýÔ½
 ´óÖÚ-ÂõÌÚ
 ÈÕ²ú-Ììô¥
 MGÃû¾ô
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¸£ÌØ-¸£¿ËË¹
 ·áÌï-ÈñÖ¾
 Ñ©·ðÀ¼-¾°³Ì
 ÏÖ´ú-Í¾Ê¤
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁú-¿­Ðý
 ±¾ÌïCR-V
 ÈýÁâ-¸êÀ¶
 ÉÏÆû-ÈÙÍþ
 ¸ßµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 °ÂµÏA6
 À×¿ËÈøË¹GS
 ¿­µÏÀ­¿ËCTS
 ÎÖ¶ûÎÖXC90
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¦Âí5Ïµ
 ÃÔÄãMini
 ´óÖÚ-Í¾Èñ
 ±¦Âí3Ïµ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¼³ÛEÏµ
 Â·»¢-ÉñÐÐÕß2
 ±£Ê±½Ý-¿¨Ñç
 °ÂµÏA4
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÁÖÒñ´óµÀ
 300C
 Ó¢·ÆÄáµÏ
 ¼ªÆÕJeep
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¾©-»¦-½ò-¹ãÖÝ-Îäºº-ÉîÛÚ-É½¶«-É½Î÷-Õã½­-½­ËÕ-¸£½¨-ÁÉÄþ-ºÓÄÏ-ÉÂÎ÷-ºÓ±±-ºþÄÏ-ºÚÁú½­-ÄÚÃÉ¹Å-ÔÆÄÏ-ËÄ´¨-ÖØÇì-¹ãÎ÷-½­Î÷-ÐÂ½®-¼ªÁÖ-¹óÖÝ-¸ÊËà-ÄþÏÄ-°²»Õ-º£ÄÏ-Î÷²Ø-Çàº£-
 ¸£ÌØ
 ¸£¿ËË¹-Á½Ïá
@@ -18178,98 +18557,72 @@ Eail:xinxued@126.com
 ÓÍºÄÊµ²é
 ÈÈµã³µÐÍ
 ¾­¼ÃÐÍ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÏÖ´ú-ÑÅÉðÌØ
 ÁåÄ¾SX4ÌìÓï
 ÈÕ²ú-æêÍþ
 ³¤°²-±¼±¼
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁúC2
 ±¾Ìï-Ë¼µÏ
 ÆðÑÇ
 RIO
 º£Âí-º£¸£ÐÇ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©·ðÀ¼-ÀÖ·ç
 ·áÌï-Íþ³Û
 ÁåÄ¾-ÓêÑà
 ÆæÈð
 QQ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±êÖÂ206
 polo¾¢Çé
 ´óÖÚ-½Ý´ï
 ±¾Ìï-·É¶È
 ÖÐµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÅÁÈøÌØ-ÁìÔ¦
 ±¾Ìï-ÑÅ¸ó
 ·áÌï-¿­ÃÀÈð
 Âí×Ô´ï
 6
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±ð¿Ë-¾ýÔ½
 ´óÖÚ-ÂõÌÚ
 ÈÕ²ú-Ììô¥
 MGÃû¾ô
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¸£ÌØ-¸£¿ËË¹
 ·áÌï-ÈñÖ¾
 Ñ©·ðÀ¼-¾°³Ì
 ÏÖ´ú-Í¾Ê¤
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁú-¿­Ðý
 ±¾ÌïCR-V
 ÈýÁâ-¸êÀ¶
 ÉÏÆû-ÈÙÍþ
 ¸ßµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 °ÂµÏA6
 À×¿ËÈøË¹GS
 ¿­µÏÀ­¿ËCTS
 ÎÖ¶ûÎÖXC90
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¦Âí5Ïµ
 ÃÔÄãMini
 ´óÖÚ-Í¾Èñ
 ±¦Âí3Ïµ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¼³ÛEÏµ
 Â·»¢-ÉñÐÐÕß2
 ±£Ê±½Ý-¿¨Ñç
 °ÂµÏA4
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÁÖÒñ´óµÀ
 300C
 Ó¢·ÆÄáµÏ
 ¼ªÆÕJeep
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¾©-»¦-½ò-¹ãÖÝ-Îäºº-ÉîÛÚ-É½¶«-É½Î÷-Õã½­-½­ËÕ-¸£½¨-ÁÉÄþ-ºÓÄÏ-ÉÂÎ÷-ºÓ±±-ºþÄÏ-ºÚÁú½­-ÄÚÃÉ¹Å-ÔÆÄÏ-ËÄ´¨-ÖØÇì-¹ãÎ÷-½­Î÷-ÐÂ½®-¼ªÁÖ-¹óÖÝ-¸ÊËà-ÄþÏÄ-°²»Õ-º£ÄÏ-Î÷²Ø-Çàº£-
 ÏÖ´ú
 ÑÅÉðÌØAccent-ÍøÉÏ³µÊÐ(www.cheshi.com.cn)
@@ -18432,98 +18785,72 @@ miliyanhui@163.com
 ÓÍºÄÊµ²é
 ÈÈµã³µÐÍ
 ¾­¼ÃÐÍ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÏÖ´ú-ÑÅÉðÌØ
 ÁåÄ¾SX4ÌìÓï
 ÈÕ²ú-æêÍþ
 ³¤°²-±¼±¼
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁúC2
 ±¾Ìï-Ë¼µÏ
 ÆðÑÇ
 RIO
 º£Âí-º£¸£ÐÇ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©·ðÀ¼-ÀÖ·ç
 ·áÌï-Íþ³Û
 ÁåÄ¾-ÓêÑà
 ÆæÈð
 QQ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±êÖÂ206
 polo¾¢Çé
 ´óÖÚ-½Ý´ï
 ±¾Ìï-·É¶È
 ÖÐµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÅÁÈøÌØ-ÁìÔ¦
 ±¾Ìï-ÑÅ¸ó
 ·áÌï-¿­ÃÀÈð
 Âí×Ô´ï
 6
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±ð¿Ë-¾ýÔ½
 ´óÖÚ-ÂõÌÚ
 ÈÕ²ú-Ììô¥
 MGÃû¾ô
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¸£ÌØ-¸£¿ËË¹
 ·áÌï-ÈñÖ¾
 Ñ©·ðÀ¼-¾°³Ì
 ÏÖ´ú-Í¾Ê¤
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁú-¿­Ðý
 ±¾ÌïCR-V
 ÈýÁâ-¸êÀ¶
 ÉÏÆû-ÈÙÍþ
 ¸ßµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 °ÂµÏA6
 À×¿ËÈøË¹GS
 ¿­µÏÀ­¿ËCTS
 ÎÖ¶ûÎÖXC90
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¦Âí5Ïµ
 ÃÔÄãMini
 ´óÖÚ-Í¾Èñ
 ±¦Âí3Ïµ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¼³ÛEÏµ
 Â·»¢-ÉñÐÐÕß2
 ±£Ê±½Ý-¿¨Ñç
 °ÂµÏA4
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÁÖÒñ´óµÀ
 300C
 Ó¢·ÆÄáµÏ
 ¼ªÆÕJeep
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¾©-»¦-½ò-¹ãÖÝ-Îäºº-ÉîÛÚ-É½¶«-É½Î÷-Õã½­-½­ËÕ-¸£½¨-ÁÉÄþ-ºÓÄÏ-ÉÂÎ÷-ºÓ±±-ºþÄÏ-ºÚÁú½­-ÄÚÃÉ¹Å-ÔÆÄÏ-ËÄ´¨-ÖØÇì-¹ãÎ÷-½­Î÷-ÐÂ½®-¼ªÁÖ-¹óÖÝ-¸ÊËà-ÄþÏÄ-°²»Õ-º£ÄÏ-Î÷²Ø-Çàº£-
 ´óÖÚ(ÉÏÆû)
 polo¾¢Çé
@@ -18657,98 +18984,72 @@ Email:
 ÓÍºÄÊµ²é
 ÈÈµã³µÐÍ
 ¾­¼ÃÐÍ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÏÖ´ú-ÑÅÉðÌØ
 ÁåÄ¾SX4ÌìÓï
 ÈÕ²ú-æêÍþ
 ³¤°²-±¼±¼
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁúC2
 ±¾Ìï-Ë¼µÏ
 ÆðÑÇ
 RIO
 º£Âí-º£¸£ÐÇ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©·ðÀ¼-ÀÖ·ç
 ·áÌï-Íþ³Û
 ÁåÄ¾-ÓêÑà
 ÆæÈð
 QQ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±êÖÂ206
 polo¾¢Çé
 ´óÖÚ-½Ý´ï
 ±¾Ìï-·É¶È
 ÖÐµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÅÁÈøÌØ-ÁìÔ¦
 ±¾Ìï-ÑÅ¸ó
 ·áÌï-¿­ÃÀÈð
 Âí×Ô´ï
 6
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±ð¿Ë-¾ýÔ½
 ´óÖÚ-ÂõÌÚ
 ÈÕ²ú-Ììô¥
 MGÃû¾ô
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¸£ÌØ-¸£¿ËË¹
 ·áÌï-ÈñÖ¾
 Ñ©·ðÀ¼-¾°³Ì
 ÏÖ´ú-Í¾Ê¤
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁú-¿­Ðý
 ±¾ÌïCR-V
 ÈýÁâ-¸êÀ¶
 ÉÏÆû-ÈÙÍþ
 ¸ßµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 °ÂµÏA6
 À×¿ËÈøË¹GS
 ¿­µÏÀ­¿ËCTS
 ÎÖ¶ûÎÖXC90
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¦Âí5Ïµ
 ÃÔÄãMini
 ´óÖÚ-Í¾Èñ
 ±¦Âí3Ïµ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¼³ÛEÏµ
 Â·»¢-ÉñÐÐÕß2
 ±£Ê±½Ý-¿¨Ñç
 °ÂµÏA4
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÁÖÒñ´óµÀ
 300C
 Ó¢·ÆÄáµÏ
 ¼ªÆÕJeep
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¾©-»¦-½ò-¹ãÖÝ-Îäºº-ÉîÛÚ-É½¶«-É½Î÷-Õã½­-½­ËÕ-¸£½¨-ÁÉÄþ-ºÓÄÏ-ÉÂÎ÷-ºÓ±±-ºþÄÏ-ºÚÁú½­-ÄÚÃÉ¹Å-ÔÆÄÏ-ËÄ´¨-ÖØÇì-¹ãÎ÷-½­Î÷-ÐÂ½®-¼ªÁÖ-¹óÖÝ-¸ÊËà-ÄþÏÄ-°²»Õ-º£ÄÏ-Î÷²Ø-Çàº£-
 ´óÖÚ(Ò»Æû)
 ÂõÌÚ-ÍøÉÏ³µÊÐ(www.cheshi.com.cn)
@@ -18948,98 +19249,72 @@ info@bjjbw.com
 ÓÍºÄÊµ²é
 ÈÈµã³µÐÍ
 ¾­¼ÃÐÍ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÏÖ´ú-ÑÅÉðÌØ
 ÁåÄ¾SX4ÌìÓï
 ÈÕ²ú-æêÍþ
 ³¤°²-±¼±¼
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁúC2
 ±¾Ìï-Ë¼µÏ
 ÆðÑÇ
 RIO
 º£Âí-º£¸£ÐÇ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©·ðÀ¼-ÀÖ·ç
 ·áÌï-Íþ³Û
 ÁåÄ¾-ÓêÑà
 ÆæÈð
 QQ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±êÖÂ206
 polo¾¢Çé
 ´óÖÚ-½Ý´ï
 ±¾Ìï-·É¶È
 ÖÐµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÅÁÈøÌØ-ÁìÔ¦
 ±¾Ìï-ÑÅ¸ó
 ·áÌï-¿­ÃÀÈð
 Âí×Ô´ï
 6
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±ð¿Ë-¾ýÔ½
 ´óÖÚ-ÂõÌÚ
 ÈÕ²ú-Ììô¥
 MGÃû¾ô
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¸£ÌØ-¸£¿ËË¹
 ·áÌï-ÈñÖ¾
 Ñ©·ðÀ¼-¾°³Ì
 ÏÖ´ú-Í¾Ê¤
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁú-¿­Ðý
 ±¾ÌïCR-V
 ÈýÁâ-¸êÀ¶
 ÉÏÆû-ÈÙÍþ
 ¸ßµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 °ÂµÏA6
 À×¿ËÈøË¹GS
 ¿­µÏÀ­¿ËCTS
 ÎÖ¶ûÎÖXC90
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¦Âí5Ïµ
 ÃÔÄãMini
 ´óÖÚ-Í¾Èñ
 ±¦Âí3Ïµ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¼³ÛEÏµ
 Â·»¢-ÉñÐÐÕß2
 ±£Ê±½Ý-¿¨Ñç
 °ÂµÏA4
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÁÖÒñ´óµÀ
 300C
 Ó¢·ÆÄáµÏ
 ¼ªÆÕJeep
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¾©-»¦-½ò-¹ãÖÝ-Îäºº-ÉîÛÚ-É½¶«-É½Î÷-Õã½­-½­ËÕ-¸£½¨-ÁÉÄþ-ºÓÄÏ-ÉÂÎ÷-ºÓ±±-ºþÄÏ-ºÚÁú½­-ÄÚÃÉ¹Å-ÔÆÄÏ-ËÄ´¨-ÖØÇì-¹ãÎ÷-½­Î÷-ÐÂ½®-¼ªÁÖ-¹óÖÝ-¸ÊËà-ÄþÏÄ-°²»Õ-º£ÄÏ-Î÷²Ø-Çàº£-
 µÂ¹ú´óÖÚ
 ¼×¿Ç³æbeetle-ÍøÉÏ³µÊÐ(www.cheshi.com.cn)
@@ -19227,98 +19502,72 @@ vw@ctc-vw.com
 ÓÍºÄÊµ²é
 ÈÈµã³µÐÍ
 ¾­¼ÃÐÍ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÏÖ´ú-ÑÅÉðÌØ
 ÁåÄ¾SX4ÌìÓï
 ÈÕ²ú-æêÍþ
 ³¤°²-±¼±¼
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁúC2
 ±¾Ìï-Ë¼µÏ
 ÆðÑÇ
 RIO
 º£Âí-º£¸£ÐÇ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©·ðÀ¼-ÀÖ·ç
 ·áÌï-Íþ³Û
 ÁåÄ¾-ÓêÑà
 ÆæÈð
 QQ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±êÖÂ206
 polo¾¢Çé
 ´óÖÚ-½Ý´ï
 ±¾Ìï-·É¶È
 ÖÐµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÅÁÈøÌØ-ÁìÔ¦
 ±¾Ìï-ÑÅ¸ó
 ·áÌï-¿­ÃÀÈð
 Âí×Ô´ï
 6
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±ð¿Ë-¾ýÔ½
 ´óÖÚ-ÂõÌÚ
 ÈÕ²ú-Ììô¥
 MGÃû¾ô
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¸£ÌØ-¸£¿ËË¹
 ·áÌï-ÈñÖ¾
 Ñ©·ðÀ¼-¾°³Ì
 ÏÖ´ú-Í¾Ê¤
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁú-¿­Ðý
 ±¾ÌïCR-V
 ÈýÁâ-¸êÀ¶
 ÉÏÆû-ÈÙÍþ
 ¸ßµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 °ÂµÏA6
 À×¿ËÈøË¹GS
 ¿­µÏÀ­¿ËCTS
 ÎÖ¶ûÎÖXC90
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¦Âí5Ïµ
 ÃÔÄãMini
 ´óÖÚ-Í¾Èñ
 ±¦Âí3Ïµ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¼³ÛEÏµ
 Â·»¢-ÉñÐÐÕß2
 ±£Ê±½Ý-¿¨Ñç
 °ÂµÏA4
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÁÖÒñ´óµÀ
 300C
 Ó¢·ÆÄáµÏ
 ¼ªÆÕJeep
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¾©-»¦-½ò-¹ãÖÝ-Îäºº-ÉîÛÚ-É½¶«-É½Î÷-Õã½­-½­ËÕ-¸£½¨-ÁÉÄþ-ºÓÄÏ-ÉÂÎ÷-ºÓ±±-ºþÄÏ-ºÚÁú½­-ÄÚÃÉ¹Å-ÔÆÄÏ-ËÄ´¨-ÖØÇì-¹ãÎ÷-½­Î÷-ÐÂ½®-¼ªÁÖ-¹óÖÝ-¸ÊËà-ÄþÏÄ-°²»Õ-º£ÄÏ-Î÷²Ø-Çàº£-
 ´óÖÚ(Ò»Æû)
 ÂõÌÚ-ÍøÉÏ³µÊÐ(www.cheshi.com.cn)
@@ -19532,98 +19781,72 @@ gaochang_930@sohu.com
 ÓÍºÄÊµ²é
 ÈÈµã³µÐÍ
 ¾­¼ÃÐÍ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÏÖ´ú-ÑÅÉðÌØ
 ÁåÄ¾SX4ÌìÓï
 ÈÕ²ú-æêÍþ
 ³¤°²-±¼±¼
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁúC2
 ±¾Ìï-Ë¼µÏ
 ÆðÑÇ
 RIO
 º£Âí-º£¸£ÐÇ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©·ðÀ¼-ÀÖ·ç
 ·áÌï-Íþ³Û
 ÁåÄ¾-ÓêÑà
 ÆæÈð
 QQ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±êÖÂ206
 polo¾¢Çé
 ´óÖÚ-½Ý´ï
 ±¾Ìï-·É¶È
 ÖÐµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÅÁÈøÌØ-ÁìÔ¦
 ±¾Ìï-ÑÅ¸ó
 ·áÌï-¿­ÃÀÈð
 Âí×Ô´ï
 6
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±ð¿Ë-¾ýÔ½
 ´óÖÚ-ÂõÌÚ
 ÈÕ²ú-Ììô¥
 MGÃû¾ô
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¸£ÌØ-¸£¿ËË¹
 ·áÌï-ÈñÖ¾
 Ñ©·ðÀ¼-¾°³Ì
 ÏÖ´ú-Í¾Ê¤
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁú-¿­Ðý
 ±¾ÌïCR-V
 ÈýÁâ-¸êÀ¶
 ÉÏÆû-ÈÙÍþ
 ¸ßµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 °ÂµÏA6
 À×¿ËÈøË¹GS
 ¿­µÏÀ­¿ËCTS
 ÎÖ¶ûÎÖXC90
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¦Âí5Ïµ
 ÃÔÄãMini
 ´óÖÚ-Í¾Èñ
 ±¦Âí3Ïµ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¼³ÛEÏµ
 Â·»¢-ÉñÐÐÕß2
 ±£Ê±½Ý-¿¨Ñç
 °ÂµÏA4
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÁÖÒñ´óµÀ
 300C
 Ó¢·ÆÄáµÏ
 ¼ªÆÕJeep
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¾©-»¦-½ò-¹ãÖÝ-Îäºº-ÉîÛÚ-É½¶«-É½Î÷-Õã½­-½­ËÕ-¸£½¨-ÁÉÄþ-ºÓÄÏ-ÉÂÎ÷-ºÓ±±-ºþÄÏ-ºÚÁú½­-ÄÚÃÉ¹Å-ÔÆÄÏ-ËÄ´¨-ÖØÇì-¹ãÎ÷-½­Î÷-ÐÂ½®-¼ªÁÖ-¹óÖÝ-¸ÊËà-ÄþÏÄ-°²»Õ-º£ÄÏ-Î÷²Ø-Çàº£-
 ¶«·çÑ©ÌúÁú
 ¿­Ðý-ÍøÉÏ³µÊÐ(www.cheshi.com.cn)
@@ -19799,98 +20022,72 @@ market@bfjtky.cn
 ÓÍºÄÊµ²é
 ÈÈµã³µÐÍ
 ¾­¼ÃÐÍ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÏÖ´ú-ÑÅÉðÌØ
 ÁåÄ¾SX4ÌìÓï
 ÈÕ²ú-æêÍþ
 ³¤°²-±¼±¼
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁúC2
 ±¾Ìï-Ë¼µÏ
 ÆðÑÇ
 RIO
 º£Âí-º£¸£ÐÇ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©·ðÀ¼-ÀÖ·ç
 ·áÌï-Íþ³Û
 ÁåÄ¾-ÓêÑà
 ÆæÈð
 QQ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±êÖÂ206
 polo¾¢Çé
 ´óÖÚ-½Ý´ï
 ±¾Ìï-·É¶È
 ÖÐµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÅÁÈøÌØ-ÁìÔ¦
 ±¾Ìï-ÑÅ¸ó
 ·áÌï-¿­ÃÀÈð
 Âí×Ô´ï
 6
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±ð¿Ë-¾ýÔ½
 ´óÖÚ-ÂõÌÚ
 ÈÕ²ú-Ììô¥
 MGÃû¾ô
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¸£ÌØ-¸£¿ËË¹
 ·áÌï-ÈñÖ¾
 Ñ©·ðÀ¼-¾°³Ì
 ÏÖ´ú-Í¾Ê¤
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁú-¿­Ðý
 ±¾ÌïCR-V
 ÈýÁâ-¸êÀ¶
 ÉÏÆû-ÈÙÍþ
 ¸ßµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 °ÂµÏA6
 À×¿ËÈøË¹GS
 ¿­µÏÀ­¿ËCTS
 ÎÖ¶ûÎÖXC90
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¦Âí5Ïµ
 ÃÔÄãMini
 ´óÖÚ-Í¾Èñ
 ±¦Âí3Ïµ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¼³ÛEÏµ
 Â·»¢-ÉñÐÐÕß2
 ±£Ê±½Ý-¿¨Ñç
 °ÂµÏA4
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÁÖÒñ´óµÀ
 300C
 Ó¢·ÆÄáµÏ
 ¼ªÆÕJeep
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¾©-»¦-½ò-¹ãÖÝ-Îäºº-ÉîÛÚ-É½¶«-É½Î÷-Õã½­-½­ËÕ-¸£½¨-ÁÉÄþ-ºÓÄÏ-ÉÂÎ÷-ºÓ±±-ºþÄÏ-ºÚÁú½­-ÄÚÃÉ¹Å-ÔÆÄÏ-ËÄ´¨-ÖØÇì-¹ãÎ÷-½­Î÷-ÐÂ½®-¼ªÁÖ-¹óÖÝ-¸ÊËà-ÄþÏÄ-°²»Õ-º£ÄÏ-Î÷²Ø-Çàº£-
 Ë¹¿Â´ï
 Ã÷Èñ-ÍøÉÏ³µÊÐ(www.cheshi.com.cn)
@@ -20092,98 +20289,72 @@ Email:
 ÓÍºÄÊµ²é
 ÈÈµã³µÐÍ
 ¾­¼ÃÐÍ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÏÖ´ú-ÑÅÉðÌØ
 ÁåÄ¾SX4ÌìÓï
 ÈÕ²ú-æêÍþ
 ³¤°²-±¼±¼
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁúC2
 ±¾Ìï-Ë¼µÏ
 ÆðÑÇ
 RIO
 º£Âí-º£¸£ÐÇ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©·ðÀ¼-ÀÖ·ç
 ·áÌï-Íþ³Û
 ÁåÄ¾-ÓêÑà
 ÆæÈð
 QQ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±êÖÂ206
 polo¾¢Çé
 ´óÖÚ-½Ý´ï
 ±¾Ìï-·É¶È
 ÖÐµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÅÁÈøÌØ-ÁìÔ¦
 ±¾Ìï-ÑÅ¸ó
 ·áÌï-¿­ÃÀÈð
 Âí×Ô´ï
 6
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±ð¿Ë-¾ýÔ½
 ´óÖÚ-ÂõÌÚ
 ÈÕ²ú-Ììô¥
 MGÃû¾ô
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¸£ÌØ-¸£¿ËË¹
 ·áÌï-ÈñÖ¾
 Ñ©·ðÀ¼-¾°³Ì
 ÏÖ´ú-Í¾Ê¤
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁú-¿­Ðý
 ±¾ÌïCR-V
 ÈýÁâ-¸êÀ¶
 ÉÏÆû-ÈÙÍþ
 ¸ßµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 °ÂµÏA6
 À×¿ËÈøË¹GS
 ¿­µÏÀ­¿ËCTS
 ÎÖ¶ûÎÖXC90
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¦Âí5Ïµ
 ÃÔÄãMini
 ´óÖÚ-Í¾Èñ
 ±¦Âí3Ïµ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¼³ÛEÏµ
 Â·»¢-ÉñÐÐÕß2
 ±£Ê±½Ý-¿¨Ñç
 °ÂµÏA4
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÁÖÒñ´óµÀ
 300C
 Ó¢·ÆÄáµÏ
 ¼ªÆÕJeep
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¾©-»¦-½ò-¹ãÖÝ-Îäºº-ÉîÛÚ-É½¶«-É½Î÷-Õã½­-½­ËÕ-¸£½¨-ÁÉÄþ-ºÓÄÏ-ÉÂÎ÷-ºÓ±±-ºþÄÏ-ºÚÁú½­-ÄÚÃÉ¹Å-ÔÆÄÏ-ËÄ´¨-ÖØÇì-¹ãÎ÷-½­Î÷-ÐÂ½®-¼ªÁÖ-¹óÖÝ-¸ÊËà-ÄþÏÄ-°²»Õ-º£ÄÏ-Î÷²Ø-Çàº£-
 ´óÖÚ(ÉÏÆû)
 ÁìÔ¦
@@ -20384,98 +20555,72 @@ Email:
 ÓÍºÄÊµ²é
 ÈÈµã³µÐÍ
 ¾­¼ÃÐÍ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÏÖ´ú-ÑÅÉðÌØ
 ÁåÄ¾SX4ÌìÓï
 ÈÕ²ú-æêÍþ
 ³¤°²-±¼±¼
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁúC2
 ±¾Ìï-Ë¼µÏ
 ÆðÑÇ
 RIO
 º£Âí-º£¸£ÐÇ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©·ðÀ¼-ÀÖ·ç
 ·áÌï-Íþ³Û
 ÁåÄ¾-ÓêÑà
 ÆæÈð
 QQ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±êÖÂ206
 polo¾¢Çé
 ´óÖÚ-½Ý´ï
 ±¾Ìï-·É¶È
 ÖÐµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÅÁÈøÌØ-ÁìÔ¦
 ±¾Ìï-ÑÅ¸ó
 ·áÌï-¿­ÃÀÈð
 Âí×Ô´ï
 6
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±ð¿Ë-¾ýÔ½
 ´óÖÚ-ÂõÌÚ
 ÈÕ²ú-Ììô¥
 MGÃû¾ô
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¸£ÌØ-¸£¿ËË¹
 ·áÌï-ÈñÖ¾
 Ñ©·ðÀ¼-¾°³Ì
 ÏÖ´ú-Í¾Ê¤
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁú-¿­Ðý
 ±¾ÌïCR-V
 ÈýÁâ-¸êÀ¶
 ÉÏÆû-ÈÙÍþ
 ¸ßµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 °ÂµÏA6
 À×¿ËÈøË¹GS
 ¿­µÏÀ­¿ËCTS
 ÎÖ¶ûÎÖXC90
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¦Âí5Ïµ
 ÃÔÄãMini
 ´óÖÚ-Í¾Èñ
 ±¦Âí3Ïµ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¼³ÛEÏµ
 Â·»¢-ÉñÐÐÕß2
 ±£Ê±½Ý-¿¨Ñç
 °ÂµÏA4
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÁÖÒñ´óµÀ
 300C
 Ó¢·ÆÄáµÏ
 ¼ªÆÕJeep
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¾©-»¦-½ò-¹ãÖÝ-Îäºº-ÉîÛÚ-É½¶«-É½Î÷-Õã½­-½­ËÕ-¸£½¨-ÁÉÄþ-ºÓÄÏ-ÉÂÎ÷-ºÓ±±-ºþÄÏ-ºÚÁú½­-ÄÚÃÉ¹Å-ÔÆÄÏ-ËÄ´¨-ÖØÇì-¹ãÎ÷-½­Î÷-ÐÂ½®-¼ªÁÖ-¹óÖÝ-¸ÊËà-ÄþÏÄ-°²»Õ-º£ÄÏ-Î÷²Ø-Çàº£-
 ±¾Ìï
 ·É¶È&#8226;ÐÍ¶¯ÅÉ-ÍøÉÏ³µÊÐ(www.cheshi.com.cn)
@@ -20669,98 +20814,72 @@ llee@gqht.com.cn
 ÓÍºÄÊµ²é
 ÈÈµã³µÐÍ
 ¾­¼ÃÐÍ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÏÖ´ú-ÑÅÉðÌØ
 ÁåÄ¾SX4ÌìÓï
 ÈÕ²ú-æêÍþ
 ³¤°²-±¼±¼
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁúC2
 ±¾Ìï-Ë¼µÏ
 ÆðÑÇ
 RIO
 º£Âí-º£¸£ÐÇ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©·ðÀ¼-ÀÖ·ç
 ·áÌï-Íþ³Û
 ÁåÄ¾-ÓêÑà
 ÆæÈð
 QQ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±êÖÂ206
 polo¾¢Çé
 ´óÖÚ-½Ý´ï
 ±¾Ìï-·É¶È
 ÖÐµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÅÁÈøÌØ-ÁìÔ¦
 ±¾Ìï-ÑÅ¸ó
 ·áÌï-¿­ÃÀÈð
 Âí×Ô´ï
 6
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±ð¿Ë-¾ýÔ½
 ´óÖÚ-ÂõÌÚ
 ÈÕ²ú-Ììô¥
 MGÃû¾ô
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¸£ÌØ-¸£¿ËË¹
 ·áÌï-ÈñÖ¾
 Ñ©·ðÀ¼-¾°³Ì
 ÏÖ´ú-Í¾Ê¤
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁú-¿­Ðý
 ±¾ÌïCR-V
 ÈýÁâ-¸êÀ¶
 ÉÏÆû-ÈÙÍþ
 ¸ßµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 °ÂµÏA6
 À×¿ËÈøË¹GS
 ¿­µÏÀ­¿ËCTS
 ÎÖ¶ûÎÖXC90
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¦Âí5Ïµ
 ÃÔÄãMini
 ´óÖÚ-Í¾Èñ
 ±¦Âí3Ïµ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¼³ÛEÏµ
 Â·»¢-ÉñÐÐÕß2
 ±£Ê±½Ý-¿¨Ñç
 °ÂµÏA4
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÁÖÒñ´óµÀ
 300C
 Ó¢·ÆÄáµÏ
 ¼ªÆÕJeep
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¾©-»¦-½ò-¹ãÖÝ-Îäºº-ÉîÛÚ-É½¶«-É½Î÷-Õã½­-½­ËÕ-¸£½¨-ÁÉÄþ-ºÓÄÏ-ÉÂÎ÷-ºÓ±±-ºþÄÏ-ºÚÁú½­-ÄÚÃÉ¹Å-ÔÆÄÏ-ËÄ´¨-ÖØÇì-¹ãÎ÷-½­Î÷-ÐÂ½®-¼ªÁÖ-¹óÖÝ-¸ÊËà-ÄþÏÄ-°²»Õ-º£ÄÏ-Î÷²Ø-Çàº£-
 Ó¢·ÆÄáµÏ
 FX-ÍøÉÏ³µÊÐ(www.cheshi.com.cn)
@@ -20917,98 +21036,72 @@ Email:
 ÓÍºÄÊµ²é
 ÈÈµã³µÐÍ
 ¾­¼ÃÐÍ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÏÖ´ú-ÑÅÉðÌØ
 ÁåÄ¾SX4ÌìÓï
 ÈÕ²ú-æêÍþ
 ³¤°²-±¼±¼
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁúC2
 ±¾Ìï-Ë¼µÏ
 ÆðÑÇ
 RIO
 º£Âí-º£¸£ÐÇ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©·ðÀ¼-ÀÖ·ç
 ·áÌï-Íþ³Û
 ÁåÄ¾-ÓêÑà
 ÆæÈð
 QQ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±êÖÂ206
 polo¾¢Çé
 ´óÖÚ-½Ý´ï
 ±¾Ìï-·É¶È
 ÖÐµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÅÁÈøÌØ-ÁìÔ¦
 ±¾Ìï-ÑÅ¸ó
 ·áÌï-¿­ÃÀÈð
 Âí×Ô´ï
 6
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±ð¿Ë-¾ýÔ½
 ´óÖÚ-ÂõÌÚ
 ÈÕ²ú-Ììô¥
 MGÃû¾ô
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¸£ÌØ-¸£¿ËË¹
 ·áÌï-ÈñÖ¾
 Ñ©·ðÀ¼-¾°³Ì
 ÏÖ´ú-Í¾Ê¤
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁú-¿­Ðý
 ±¾ÌïCR-V
 ÈýÁâ-¸êÀ¶
 ÉÏÆû-ÈÙÍþ
 ¸ßµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 °ÂµÏA6
 À×¿ËÈøË¹GS
 ¿­µÏÀ­¿ËCTS
 ÎÖ¶ûÎÖXC90
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¦Âí5Ïµ
 ÃÔÄãMini
 ´óÖÚ-Í¾Èñ
 ±¦Âí3Ïµ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¼³ÛEÏµ
 Â·»¢-ÉñÐÐÕß2
 ±£Ê±½Ý-¿¨Ñç
 °ÂµÏA4
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÁÖÒñ´óµÀ
 300C
 Ó¢·ÆÄáµÏ
 ¼ªÆÕJeep
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¾©-»¦-½ò-¹ãÖÝ-Îäºº-ÉîÛÚ-É½¶«-É½Î÷-Õã½­-½­ËÕ-¸£½¨-ÁÉÄþ-ºÓÄÏ-ÉÂÎ÷-ºÓ±±-ºþÄÏ-ºÚÁú½­-ÄÚÃÉ¹Å-ÔÆÄÏ-ËÄ´¨-ÖØÇì-¹ãÎ÷-½­Î÷-ÐÂ½®-¼ªÁÖ-¹óÖÝ-¸ÊËà-ÄþÏÄ-°²»Õ-º£ÄÏ-Î÷²Ø-Çàº£-
 ÁÖ¿Ï
 Áìº½Õßnavigator-ÍøÉÏ³µÊÐ(www.cheshi.com.cn)
@@ -21257,98 +21350,72 @@ GMCÕâ¿î³µÔ­³§¾ÍÃ»ÓÐËÄÇý·Ö¸îÆÁµÄ£¬Èç¹ûÄúÕæµÄÌØ±ðÏëÒªµÄ»°¿ÉÒÔÔÚ¹¤³§¸øÄú×¨ÃÅ¶¨×öÒ»Ì
 ÓÍºÄÊµ²é
 ÈÈµã³µÐÍ
 ¾­¼ÃÐÍ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÏÖ´ú-ÑÅÉðÌØ
 ÁåÄ¾SX4ÌìÓï
 ÈÕ²ú-æêÍþ
 ³¤°²-±¼±¼
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁúC2
 ±¾Ìï-Ë¼µÏ
 ÆðÑÇ
 RIO
 º£Âí-º£¸£ÐÇ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©·ðÀ¼-ÀÖ·ç
 ·áÌï-Íþ³Û
 ÁåÄ¾-ÓêÑà
 ÆæÈð
 QQ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±êÖÂ206
 polo¾¢Çé
 ´óÖÚ-½Ý´ï
 ±¾Ìï-·É¶È
 ÖÐµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÅÁÈøÌØ-ÁìÔ¦
 ±¾Ìï-ÑÅ¸ó
 ·áÌï-¿­ÃÀÈð
 Âí×Ô´ï
 6
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±ð¿Ë-¾ýÔ½
 ´óÖÚ-ÂõÌÚ
 ÈÕ²ú-Ììô¥
 MGÃû¾ô
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¸£ÌØ-¸£¿ËË¹
 ·áÌï-ÈñÖ¾
 Ñ©·ðÀ¼-¾°³Ì
 ÏÖ´ú-Í¾Ê¤
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁú-¿­Ðý
 ±¾ÌïCR-V
 ÈýÁâ-¸êÀ¶
 ÉÏÆû-ÈÙÍþ
 ¸ßµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 °ÂµÏA6
 À×¿ËÈøË¹GS
 ¿­µÏÀ­¿ËCTS
 ÎÖ¶ûÎÖXC90
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¦Âí5Ïµ
 ÃÔÄãMini
 ´óÖÚ-Í¾Èñ
 ±¦Âí3Ïµ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¼³ÛEÏµ
 Â·»¢-ÉñÐÐÕß2
 ±£Ê±½Ý-¿¨Ñç
 °ÂµÏA4
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÁÖÒñ´óµÀ
 300C
 Ó¢·ÆÄáµÏ
 ¼ªÆÕJeep
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¾©-»¦-½ò-¹ãÖÝ-Îäºº-ÉîÛÚ-É½¶«-É½Î÷-Õã½­-½­ËÕ-¸£½¨-ÁÉÄþ-ºÓÄÏ-ÉÂÎ÷-ºÓ±±-ºþÄÏ-ºÚÁú½­-ÄÚÃÉ¹Å-ÔÆÄÏ-ËÄ´¨-ÖØÇì-¹ãÎ÷-½­Î÷-ÐÂ½®-¼ªÁÖ-¹óÖÝ-¸ÊËà-ÄþÏÄ-°²»Õ-º£ÄÏ-Î÷²Ø-Çàº£-
 ´óÖÚ(ÉÏÆû)
 ÁìÔ¦
@@ -21579,98 +21646,72 @@ dx109@sina.com
 ÓÍºÄÊµ²é
 ÈÈµã³µÐÍ
 ¾­¼ÃÐÍ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÏÖ´ú-ÑÅÉðÌØ
 ÁåÄ¾SX4ÌìÓï
 ÈÕ²ú-æêÍþ
 ³¤°²-±¼±¼
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁúC2
 ±¾Ìï-Ë¼µÏ
 ÆðÑÇ
 RIO
 º£Âí-º£¸£ÐÇ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©·ðÀ¼-ÀÖ·ç
 ·áÌï-Íþ³Û
 ÁåÄ¾-ÓêÑà
 ÆæÈð
 QQ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±êÖÂ206
 polo¾¢Çé
 ´óÖÚ-½Ý´ï
 ±¾Ìï-·É¶È
 ÖÐµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÅÁÈøÌØ-ÁìÔ¦
 ±¾Ìï-ÑÅ¸ó
 ·áÌï-¿­ÃÀÈð
 Âí×Ô´ï
 6
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±ð¿Ë-¾ýÔ½
 ´óÖÚ-ÂõÌÚ
 ÈÕ²ú-Ììô¥
 MGÃû¾ô
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¸£ÌØ-¸£¿ËË¹
 ·áÌï-ÈñÖ¾
 Ñ©·ðÀ¼-¾°³Ì
 ÏÖ´ú-Í¾Ê¤
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁú-¿­Ðý
 ±¾ÌïCR-V
 ÈýÁâ-¸êÀ¶
 ÉÏÆû-ÈÙÍþ
 ¸ßµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 °ÂµÏA6
 À×¿ËÈøË¹GS
 ¿­µÏÀ­¿ËCTS
 ÎÖ¶ûÎÖXC90
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¦Âí5Ïµ
 ÃÔÄãMini
 ´óÖÚ-Í¾Èñ
 ±¦Âí3Ïµ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¼³ÛEÏµ
 Â·»¢-ÉñÐÐÕß2
 ±£Ê±½Ý-¿¨Ñç
 °ÂµÏA4
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÁÖÒñ´óµÀ
 300C
 Ó¢·ÆÄáµÏ
 ¼ªÆÕJeep
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¾©-»¦-½ò-¹ãÖÝ-Îäºº-ÉîÛÚ-É½¶«-É½Î÷-Õã½­-½­ËÕ-¸£½¨-ÁÉÄþ-ºÓÄÏ-ÉÂÎ÷-ºÓ±±-ºþÄÏ-ºÚÁú½­-ÄÚÃÉ¹Å-ÔÆÄÏ-ËÄ´¨-ÖØÇì-¹ãÎ÷-½­Î÷-ÐÂ½®-¼ªÁÖ-¹óÖÝ-¸ÊËà-ÄþÏÄ-°²»Õ-º£ÄÏ-Î÷²Ø-Çàº£-
 Å·±¦
 ÑÅÌØGTC-2ÃÅ
@@ -21879,98 +21920,72 @@ zxgm@vip.163.com
 ÓÍºÄÊµ²é
 ÈÈµã³µÐÍ
 ¾­¼ÃÐÍ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÏÖ´ú-ÑÅÉðÌØ
 ÁåÄ¾SX4ÌìÓï
 ÈÕ²ú-æêÍþ
 ³¤°²-±¼±¼
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁúC2
 ±¾Ìï-Ë¼µÏ
 ÆðÑÇ
 RIO
 º£Âí-º£¸£ÐÇ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©·ðÀ¼-ÀÖ·ç
 ·áÌï-Íþ³Û
 ÁåÄ¾-ÓêÑà
 ÆæÈð
 QQ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±êÖÂ206
 polo¾¢Çé
 ´óÖÚ-½Ý´ï
 ±¾Ìï-·É¶È
 ÖÐµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÅÁÈøÌØ-ÁìÔ¦
 ±¾Ìï-ÑÅ¸ó
 ·áÌï-¿­ÃÀÈð
 Âí×Ô´ï
 6
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±ð¿Ë-¾ýÔ½
 ´óÖÚ-ÂõÌÚ
 ÈÕ²ú-Ììô¥
 MGÃû¾ô
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¸£ÌØ-¸£¿ËË¹
 ·áÌï-ÈñÖ¾
 Ñ©·ðÀ¼-¾°³Ì
 ÏÖ´ú-Í¾Ê¤
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁú-¿­Ðý
 ±¾ÌïCR-V
 ÈýÁâ-¸êÀ¶
 ÉÏÆû-ÈÙÍþ
 ¸ßµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 °ÂµÏA6
 À×¿ËÈøË¹GS
 ¿­µÏÀ­¿ËCTS
 ÎÖ¶ûÎÖXC90
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¦Âí5Ïµ
 ÃÔÄãMini
 ´óÖÚ-Í¾Èñ
 ±¦Âí3Ïµ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¼³ÛEÏµ
 Â·»¢-ÉñÐÐÕß2
 ±£Ê±½Ý-¿¨Ñç
 °ÂµÏA4
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÁÖÒñ´óµÀ
 300C
 Ó¢·ÆÄáµÏ
 ¼ªÆÕJeep
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¾©-»¦-½ò-¹ãÖÝ-Îäºº-ÉîÛÚ-É½¶«-É½Î÷-Õã½­-½­ËÕ-¸£½¨-ÁÉÄþ-ºÓÄÏ-ÉÂÎ÷-ºÓ±±-ºþÄÏ-ºÚÁú½­-ÄÚÃÉ¹Å-ÔÆÄÏ-ËÄ´¨-ÖØÇì-¹ãÎ÷-½­Î÷-ÐÂ½®-¼ªÁÖ-¹óÖÝ-¸ÊËà-ÄþÏÄ-°²»Õ-º£ÄÏ-Î÷²Ø-Çàº£-
 ´óÖÚ(ÉÏÆû)
 polo¾¢Çé
@@ -22165,98 +22180,72 @@ svw0132@csvwbj.com
 ÓÍºÄÊµ²é
 ÈÈµã³µÐÍ
 ¾­¼ÃÐÍ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÏÖ´ú-ÑÅÉðÌØ
 ÁåÄ¾SX4ÌìÓï
 ÈÕ²ú-æêÍþ
 ³¤°²-±¼±¼
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁúC2
 ±¾Ìï-Ë¼µÏ
 ÆðÑÇ
 RIO
 º£Âí-º£¸£ÐÇ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©·ðÀ¼-ÀÖ·ç
 ·áÌï-Íþ³Û
 ÁåÄ¾-ÓêÑà
 ÆæÈð
 QQ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±êÖÂ206
 polo¾¢Çé
 ´óÖÚ-½Ý´ï
 ±¾Ìï-·É¶È
 ÖÐµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÅÁÈøÌØ-ÁìÔ¦
 ±¾Ìï-ÑÅ¸ó
 ·áÌï-¿­ÃÀÈð
 Âí×Ô´ï
 6
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±ð¿Ë-¾ýÔ½
 ´óÖÚ-ÂõÌÚ
 ÈÕ²ú-Ììô¥
 MGÃû¾ô
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¸£ÌØ-¸£¿ËË¹
 ·áÌï-ÈñÖ¾
 Ñ©·ðÀ¼-¾°³Ì
 ÏÖ´ú-Í¾Ê¤
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁú-¿­Ðý
 ±¾ÌïCR-V
 ÈýÁâ-¸êÀ¶
 ÉÏÆû-ÈÙÍþ
 ¸ßµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 °ÂµÏA6
 À×¿ËÈøË¹GS
 ¿­µÏÀ­¿ËCTS
 ÎÖ¶ûÎÖXC90
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¦Âí5Ïµ
 ÃÔÄãMini
 ´óÖÚ-Í¾Èñ
 ±¦Âí3Ïµ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¼³ÛEÏµ
 Â·»¢-ÉñÐÐÕß2
 ±£Ê±½Ý-¿¨Ñç
 °ÂµÏA4
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÁÖÒñ´óµÀ
 300C
 Ó¢·ÆÄáµÏ
 ¼ªÆÕJeep
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¾©-»¦-½ò-¹ãÖÝ-Îäºº-ÉîÛÚ-É½¶«-É½Î÷-Õã½­-½­ËÕ-¸£½¨-ÁÉÄþ-ºÓÄÏ-ÉÂÎ÷-ºÓ±±-ºþÄÏ-ºÚÁú½­-ÄÚÃÉ¹Å-ÔÆÄÏ-ËÄ´¨-ÖØÇì-¹ãÎ÷-½­Î÷-ÐÂ½®-¼ªÁÖ-¹óÖÝ-¸ÊËà-ÄþÏÄ-°²»Õ-º£ÄÏ-Î÷²Ø-Çàº£-
 ÈÕ²ú
 æêÍþ-ÍøÉÏ³µÊÐ(www.cheshi.com.cn)
@@ -22477,98 +22466,72 @@ bjjdx@126.com
 ÓÍºÄÊµ²é
 ÈÈµã³µÐÍ
 ¾­¼ÃÐÍ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÏÖ´ú-ÑÅÉðÌØ
 ÁåÄ¾SX4ÌìÓï
 ÈÕ²ú-æêÍþ
 ³¤°²-±¼±¼
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁúC2
 ±¾Ìï-Ë¼µÏ
 ÆðÑÇ
 RIO
 º£Âí-º£¸£ÐÇ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©·ðÀ¼-ÀÖ·ç
 ·áÌï-Íþ³Û
 ÁåÄ¾-ÓêÑà
 ÆæÈð
 QQ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±êÖÂ206
 polo¾¢Çé
 ´óÖÚ-½Ý´ï
 ±¾Ìï-·É¶È
 ÖÐµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÅÁÈøÌØ-ÁìÔ¦
 ±¾Ìï-ÑÅ¸ó
 ·áÌï-¿­ÃÀÈð
 Âí×Ô´ï
 6
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±ð¿Ë-¾ýÔ½
 ´óÖÚ-ÂõÌÚ
 ÈÕ²ú-Ììô¥
 MGÃû¾ô
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¸£ÌØ-¸£¿ËË¹
 ·áÌï-ÈñÖ¾
 Ñ©·ðÀ¼-¾°³Ì
 ÏÖ´ú-Í¾Ê¤
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁú-¿­Ðý
 ±¾ÌïCR-V
 ÈýÁâ-¸êÀ¶
 ÉÏÆû-ÈÙÍþ
 ¸ßµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 °ÂµÏA6
 À×¿ËÈøË¹GS
 ¿­µÏÀ­¿ËCTS
 ÎÖ¶ûÎÖXC90
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¦Âí5Ïµ
 ÃÔÄãMini
 ´óÖÚ-Í¾Èñ
 ±¦Âí3Ïµ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¼³ÛEÏµ
 Â·»¢-ÉñÐÐÕß2
 ±£Ê±½Ý-¿¨Ñç
 °ÂµÏA4
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÁÖÒñ´óµÀ
 300C
 Ó¢·ÆÄáµÏ
 ¼ªÆÕJeep
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¾©-»¦-½ò-¹ãÖÝ-Îäºº-ÉîÛÚ-É½¶«-É½Î÷-Õã½­-½­ËÕ-¸£½¨-ÁÉÄþ-ºÓÄÏ-ÉÂÎ÷-ºÓ±±-ºþÄÏ-ºÚÁú½­-ÄÚÃÉ¹Å-ÔÆÄÏ-ËÄ´¨-ÖØÇì-¹ãÎ÷-½­Î÷-ÐÂ½®-¼ªÁÖ-¹óÖÝ-¸ÊËà-ÄþÏÄ-°²»Õ-º£ÄÏ-Î÷²Ø-Çàº£-
 ½­»´
 Èð·çI-ÍøÉÏ³µÊÐ(www.cheshi.com.cn)
@@ -22763,98 +22726,72 @@ refine2000@vip.sina.com
 ÓÍºÄÊµ²é
 ÈÈµã³µÐÍ
 ¾­¼ÃÐÍ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÏÖ´ú-ÑÅÉðÌØ
 ÁåÄ¾SX4ÌìÓï
 ÈÕ²ú-æêÍþ
 ³¤°²-±¼±¼
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁúC2
 ±¾Ìï-Ë¼µÏ
 ÆðÑÇ
 RIO
 º£Âí-º£¸£ÐÇ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©·ðÀ¼-ÀÖ·ç
 ·áÌï-Íþ³Û
 ÁåÄ¾-ÓêÑà
 ÆæÈð
 QQ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±êÖÂ206
 polo¾¢Çé
 ´óÖÚ-½Ý´ï
 ±¾Ìï-·É¶È
 ÖÐµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÅÁÈøÌØ-ÁìÔ¦
 ±¾Ìï-ÑÅ¸ó
 ·áÌï-¿­ÃÀÈð
 Âí×Ô´ï
 6
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±ð¿Ë-¾ýÔ½
 ´óÖÚ-ÂõÌÚ
 ÈÕ²ú-Ììô¥
 MGÃû¾ô
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¸£ÌØ-¸£¿ËË¹
 ·áÌï-ÈñÖ¾
 Ñ©·ðÀ¼-¾°³Ì
 ÏÖ´ú-Í¾Ê¤
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁú-¿­Ðý
 ±¾ÌïCR-V
 ÈýÁâ-¸êÀ¶
 ÉÏÆû-ÈÙÍþ
 ¸ßµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 °ÂµÏA6
 À×¿ËÈøË¹GS
 ¿­µÏÀ­¿ËCTS
 ÎÖ¶ûÎÖXC90
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¦Âí5Ïµ
 ÃÔÄãMini
 ´óÖÚ-Í¾Èñ
 ±¦Âí3Ïµ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¼³ÛEÏµ
 Â·»¢-ÉñÐÐÕß2
 ±£Ê±½Ý-¿¨Ñç
 °ÂµÏA4
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÁÖÒñ´óµÀ
 300C
 Ó¢·ÆÄáµÏ
 ¼ªÆÕJeep
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¾©-»¦-½ò-¹ãÖÝ-Îäºº-ÉîÛÚ-É½¶«-É½Î÷-Õã½­-½­ËÕ-¸£½¨-ÁÉÄþ-ºÓÄÏ-ÉÂÎ÷-ºÓ±±-ºþÄÏ-ºÚÁú½­-ÄÚÃÉ¹Å-ÔÆÄÏ-ËÄ´¨-ÖØÇì-¹ãÎ÷-½­Î÷-ÐÂ½®-¼ªÁÖ-¹óÖÝ-¸ÊËà-ÄþÏÄ-°²»Õ-º£ÄÏ-Î÷²Ø-Çàº£-
 ¶«·çÑ©ÌúÁú
 °®ÀöÉá-ÍøÉÏ³µÊÐ(www.cheshi.com.cn)
@@ -23075,98 +23012,72 @@ Email:
 ÓÍºÄÊµ²é
 ÈÈµã³µÐÍ
 ¾­¼ÃÐÍ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÏÖ´ú-ÑÅÉðÌØ
 ÁåÄ¾SX4ÌìÓï
 ÈÕ²ú-æêÍþ
 ³¤°²-±¼±¼
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁúC2
 ±¾Ìï-Ë¼µÏ
 ÆðÑÇ
 RIO
 º£Âí-º£¸£ÐÇ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©·ðÀ¼-ÀÖ·ç
 ·áÌï-Íþ³Û
 ÁåÄ¾-ÓêÑà
 ÆæÈð
 QQ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±êÖÂ206
 polo¾¢Çé
 ´óÖÚ-½Ý´ï
 ±¾Ìï-·É¶È
 ÖÐµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÅÁÈøÌØ-ÁìÔ¦
 ±¾Ìï-ÑÅ¸ó
 ·áÌï-¿­ÃÀÈð
 Âí×Ô´ï
 6
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±ð¿Ë-¾ýÔ½
 ´óÖÚ-ÂõÌÚ
 ÈÕ²ú-Ììô¥
 MGÃû¾ô
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¸£ÌØ-¸£¿ËË¹
 ·áÌï-ÈñÖ¾
 Ñ©·ðÀ¼-¾°³Ì
 ÏÖ´ú-Í¾Ê¤
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁú-¿­Ðý
 ±¾ÌïCR-V
 ÈýÁâ-¸êÀ¶
 ÉÏÆû-ÈÙÍþ
 ¸ßµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 °ÂµÏA6
 À×¿ËÈøË¹GS
 ¿­µÏÀ­¿ËCTS
 ÎÖ¶ûÎÖXC90
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¦Âí5Ïµ
 ÃÔÄãMini
 ´óÖÚ-Í¾Èñ
 ±¦Âí3Ïµ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¼³ÛEÏµ
 Â·»¢-ÉñÐÐÕß2
 ±£Ê±½Ý-¿¨Ñç
 °ÂµÏA4
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÁÖÒñ´óµÀ
 300C
 Ó¢·ÆÄáµÏ
 ¼ªÆÕJeep
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¾©-»¦-½ò-¹ãÖÝ-Îäºº-ÉîÛÚ-É½¶«-É½Î÷-Õã½­-½­ËÕ-¸£½¨-ÁÉÄþ-ºÓÄÏ-ÉÂÎ÷-ºÓ±±-ºþÄÏ-ºÚÁú½­-ÄÚÃÉ¹Å-ÔÆÄÏ-ËÄ´¨-ÖØÇì-¹ãÎ÷-½­Î÷-ÐÂ½®-¼ªÁÖ-¹óÖÝ-¸ÊËà-ÄþÏÄ-°²»Õ-º£ÄÏ-Î÷²Ø-Çàº£-
 ´óÖÚ(Ò»Æû)
 ËÙÌÚSagitar-ÍøÉÏ³µÊÐ(www.cheshi.com.cn)
@@ -23365,98 +23276,72 @@ boen_faw_vw@126.com
 ÓÍºÄÊµ²é
 ÈÈµã³µÐÍ
 ¾­¼ÃÐÍ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÏÖ´ú-ÑÅÉðÌØ
 ÁåÄ¾SX4ÌìÓï
 ÈÕ²ú-æêÍþ
 ³¤°²-±¼±¼
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁúC2
 ±¾Ìï-Ë¼µÏ
 ÆðÑÇ
 RIO
 º£Âí-º£¸£ÐÇ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©·ðÀ¼-ÀÖ·ç
 ·áÌï-Íþ³Û
 ÁåÄ¾-ÓêÑà
 ÆæÈð
 QQ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±êÖÂ206
 polo¾¢Çé
 ´óÖÚ-½Ý´ï
 ±¾Ìï-·É¶È
 ÖÐµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÅÁÈøÌØ-ÁìÔ¦
 ±¾Ìï-ÑÅ¸ó
 ·áÌï-¿­ÃÀÈð
 Âí×Ô´ï
 6
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±ð¿Ë-¾ýÔ½
 ´óÖÚ-ÂõÌÚ
 ÈÕ²ú-Ììô¥
 MGÃû¾ô
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¸£ÌØ-¸£¿ËË¹
 ·áÌï-ÈñÖ¾
 Ñ©·ðÀ¼-¾°³Ì
 ÏÖ´ú-Í¾Ê¤
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁú-¿­Ðý
 ±¾ÌïCR-V
 ÈýÁâ-¸êÀ¶
 ÉÏÆû-ÈÙÍþ
 ¸ßµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 °ÂµÏA6
 À×¿ËÈøË¹GS
 ¿­µÏÀ­¿ËCTS
 ÎÖ¶ûÎÖXC90
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¦Âí5Ïµ
 ÃÔÄãMini
 ´óÖÚ-Í¾Èñ
 ±¦Âí3Ïµ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¼³ÛEÏµ
 Â·»¢-ÉñÐÐÕß2
 ±£Ê±½Ý-¿¨Ñç
 °ÂµÏA4
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÁÖÒñ´óµÀ
 300C
 Ó¢·ÆÄáµÏ
 ¼ªÆÕJeep
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¾©-»¦-½ò-¹ãÖÝ-Îäºº-ÉîÛÚ-É½¶«-É½Î÷-Õã½­-½­ËÕ-¸£½¨-ÁÉÄþ-ºÓÄÏ-ÉÂÎ÷-ºÓ±±-ºþÄÏ-ºÚÁú½­-ÄÚÃÉ¹Å-ÔÆÄÏ-ËÄ´¨-ÖØÇì-¹ãÎ÷-½­Î÷-ÐÂ½®-¼ªÁÖ-¹óÖÝ-¸ÊËà-ÄþÏÄ-°²»Õ-º£ÄÏ-Î÷²Ø-Çàº£-
 Ë¹¿Â´ï
 Ã÷Èñ-ÍøÉÏ³µÊÐ(www.cheshi.com.cn)
@@ -23552,98 +23437,72 @@ Email:
 ÓÍºÄÊµ²é
 ÈÈµã³µÐÍ
 ¾­¼ÃÐÍ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÏÖ´ú-ÑÅÉðÌØ
 ÁåÄ¾SX4ÌìÓï
 ÈÕ²ú-æêÍþ
 ³¤°²-±¼±¼
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁúC2
 ±¾Ìï-Ë¼µÏ
 ÆðÑÇ
 RIO
 º£Âí-º£¸£ÐÇ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©·ðÀ¼-ÀÖ·ç
 ·áÌï-Íþ³Û
 ÁåÄ¾-ÓêÑà
 ÆæÈð
 QQ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±êÖÂ206
 polo¾¢Çé
 ´óÖÚ-½Ý´ï
 ±¾Ìï-·É¶È
 ÖÐµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÅÁÈøÌØ-ÁìÔ¦
 ±¾Ìï-ÑÅ¸ó
 ·áÌï-¿­ÃÀÈð
 Âí×Ô´ï
 6
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±ð¿Ë-¾ýÔ½
 ´óÖÚ-ÂõÌÚ
 ÈÕ²ú-Ììô¥
 MGÃû¾ô
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¸£ÌØ-¸£¿ËË¹
 ·áÌï-ÈñÖ¾
 Ñ©·ðÀ¼-¾°³Ì
 ÏÖ´ú-Í¾Ê¤
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁú-¿­Ðý
 ±¾ÌïCR-V
 ÈýÁâ-¸êÀ¶
 ÉÏÆû-ÈÙÍþ
 ¸ßµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 °ÂµÏA6
 À×¿ËÈøË¹GS
 ¿­µÏÀ­¿ËCTS
 ÎÖ¶ûÎÖXC90
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¦Âí5Ïµ
 ÃÔÄãMini
 ´óÖÚ-Í¾Èñ
 ±¦Âí3Ïµ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¼³ÛEÏµ
 Â·»¢-ÉñÐÐÕß2
 ±£Ê±½Ý-¿¨Ñç
 °ÂµÏA4
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÁÖÒñ´óµÀ
 300C
 Ó¢·ÆÄáµÏ
 ¼ªÆÕJeep
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¾©-»¦-½ò-¹ãÖÝ-Îäºº-ÉîÛÚ-É½¶«-É½Î÷-Õã½­-½­ËÕ-¸£½¨-ÁÉÄþ-ºÓÄÏ-ÉÂÎ÷-ºÓ±±-ºþÄÏ-ºÚÁú½­-ÄÚÃÉ¹Å-ÔÆÄÏ-ËÄ´¨-ÖØÇì-¹ãÎ÷-½­Î÷-ÐÂ½®-¼ªÁÖ-¹óÖÝ-¸ÊËà-ÄþÏÄ-°²»Õ-º£ÄÏ-Î÷²Ø-Çàº£-
 º£ÂíÆû³µ
 º£¸£ÐÇ-ÍøÉÏ³µÊÐ(www.cheshi.com.cn)
@@ -23759,98 +23618,72 @@ hnmazda57@sina.com
 ÓÍºÄÊµ²é
 ÈÈµã³µÐÍ
 ¾­¼ÃÐÍ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÏÖ´ú-ÑÅÉðÌØ
 ÁåÄ¾SX4ÌìÓï
 ÈÕ²ú-æêÍþ
 ³¤°²-±¼±¼
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁúC2
 ±¾Ìï-Ë¼µÏ
 ÆðÑÇ
 RIO
 º£Âí-º£¸£ÐÇ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©·ðÀ¼-ÀÖ·ç
 ·áÌï-Íþ³Û
 ÁåÄ¾-ÓêÑà
 ÆæÈð
 QQ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±êÖÂ206
 polo¾¢Çé
 ´óÖÚ-½Ý´ï
 ±¾Ìï-·É¶È
 ÖÐµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÅÁÈøÌØ-ÁìÔ¦
 ±¾Ìï-ÑÅ¸ó
 ·áÌï-¿­ÃÀÈð
 Âí×Ô´ï
 6
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±ð¿Ë-¾ýÔ½
 ´óÖÚ-ÂõÌÚ
 ÈÕ²ú-Ììô¥
 MGÃû¾ô
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¸£ÌØ-¸£¿ËË¹
 ·áÌï-ÈñÖ¾
 Ñ©·ðÀ¼-¾°³Ì
 ÏÖ´ú-Í¾Ê¤
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁú-¿­Ðý
 ±¾ÌïCR-V
 ÈýÁâ-¸êÀ¶
 ÉÏÆû-ÈÙÍþ
 ¸ßµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 °ÂµÏA6
 À×¿ËÈøË¹GS
 ¿­µÏÀ­¿ËCTS
 ÎÖ¶ûÎÖXC90
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¦Âí5Ïµ
 ÃÔÄãMini
 ´óÖÚ-Í¾Èñ
 ±¦Âí3Ïµ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¼³ÛEÏµ
 Â·»¢-ÉñÐÐÕß2
 ±£Ê±½Ý-¿¨Ñç
 °ÂµÏA4
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÁÖÒñ´óµÀ
 300C
 Ó¢·ÆÄáµÏ
 ¼ªÆÕJeep
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¾©-»¦-½ò-¹ãÖÝ-Îäºº-ÉîÛÚ-É½¶«-É½Î÷-Õã½­-½­ËÕ-¸£½¨-ÁÉÄþ-ºÓÄÏ-ÉÂÎ÷-ºÓ±±-ºþÄÏ-ºÚÁú½­-ÄÚÃÉ¹Å-ÔÆÄÏ-ËÄ´¨-ÖØÇì-¹ãÎ÷-½­Î÷-ÐÂ½®-¼ªÁÖ-¹óÖÝ-¸ÊËà-ÄþÏÄ-°²»Õ-º£ÄÏ-Î÷²Ø-Çàº£-
 À×¿ËÈøË¹(ÁèÖ¾)
 LX-ÍøÉÏ³µÊÐ(www.cheshi.com.cn)
@@ -24056,98 +23889,72 @@ ES350ºÀ»ªÐÍºÄÓÍÔõÑù?
 ÓÍºÄÊµ²é
 ÈÈµã³µÐÍ
 ¾­¼ÃÐÍ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÏÖ´ú-ÑÅÉðÌØ
 ÁåÄ¾SX4ÌìÓï
 ÈÕ²ú-æêÍþ
 ³¤°²-±¼±¼
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁúC2
 ±¾Ìï-Ë¼µÏ
 ÆðÑÇ
 RIO
 º£Âí-º£¸£ÐÇ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©·ðÀ¼-ÀÖ·ç
 ·áÌï-Íþ³Û
 ÁåÄ¾-ÓêÑà
 ÆæÈð
 QQ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±êÖÂ206
 polo¾¢Çé
 ´óÖÚ-½Ý´ï
 ±¾Ìï-·É¶È
 ÖÐµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÅÁÈøÌØ-ÁìÔ¦
 ±¾Ìï-ÑÅ¸ó
 ·áÌï-¿­ÃÀÈð
 Âí×Ô´ï
 6
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±ð¿Ë-¾ýÔ½
 ´óÖÚ-ÂõÌÚ
 ÈÕ²ú-Ììô¥
 MGÃû¾ô
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¸£ÌØ-¸£¿ËË¹
 ·áÌï-ÈñÖ¾
 Ñ©·ðÀ¼-¾°³Ì
 ÏÖ´ú-Í¾Ê¤
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁú-¿­Ðý
 ±¾ÌïCR-V
 ÈýÁâ-¸êÀ¶
 ÉÏÆû-ÈÙÍþ
 ¸ßµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 °ÂµÏA6
 À×¿ËÈøË¹GS
 ¿­µÏÀ­¿ËCTS
 ÎÖ¶ûÎÖXC90
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¦Âí5Ïµ
 ÃÔÄãMini
 ´óÖÚ-Í¾Èñ
 ±¦Âí3Ïµ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¼³ÛEÏµ
 Â·»¢-ÉñÐÐÕß2
 ±£Ê±½Ý-¿¨Ñç
 °ÂµÏA4
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÁÖÒñ´óµÀ
 300C
 Ó¢·ÆÄáµÏ
 ¼ªÆÕJeep
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¾©-»¦-½ò-¹ãÖÝ-Îäºº-ÉîÛÚ-É½¶«-É½Î÷-Õã½­-½­ËÕ-¸£½¨-ÁÉÄþ-ºÓÄÏ-ÉÂÎ÷-ºÓ±±-ºþÄÏ-ºÚÁú½­-ÄÚÃÉ¹Å-ÔÆÄÏ-ËÄ´¨-ÖØÇì-¹ãÎ÷-½­Î÷-ÐÂ½®-¼ªÁÖ-¹óÖÝ-¸ÊËà-ÄþÏÄ-°²»Õ-º£ÄÏ-Î÷²Ø-Çàº£-
 ´óÖÚ(Ò»Æû)
 ÂõÌÚ-ÍøÉÏ³µÊÐ(www.cheshi.com.cn)
@@ -24303,98 +24110,72 @@ faw-vw2008@hotmail.com
 ÓÍºÄÊµ²é
 ÈÈµã³µÐÍ
 ¾­¼ÃÐÍ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÏÖ´ú-ÑÅÉðÌØ
 ÁåÄ¾SX4ÌìÓï
 ÈÕ²ú-æêÍþ
 ³¤°²-±¼±¼
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁúC2
 ±¾Ìï-Ë¼µÏ
 ÆðÑÇ
 RIO
 º£Âí-º£¸£ÐÇ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©·ðÀ¼-ÀÖ·ç
 ·áÌï-Íþ³Û
 ÁåÄ¾-ÓêÑà
 ÆæÈð
 QQ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±êÖÂ206
 polo¾¢Çé
 ´óÖÚ-½Ý´ï
 ±¾Ìï-·É¶È
 ÖÐµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÅÁÈøÌØ-ÁìÔ¦
 ±¾Ìï-ÑÅ¸ó
 ·áÌï-¿­ÃÀÈð
 Âí×Ô´ï
 6
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±ð¿Ë-¾ýÔ½
 ´óÖÚ-ÂõÌÚ
 ÈÕ²ú-Ììô¥
 MGÃû¾ô
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¸£ÌØ-¸£¿ËË¹
 ·áÌï-ÈñÖ¾
 Ñ©·ðÀ¼-¾°³Ì
 ÏÖ´ú-Í¾Ê¤
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁú-¿­Ðý
 ±¾ÌïCR-V
 ÈýÁâ-¸êÀ¶
 ÉÏÆû-ÈÙÍþ
 ¸ßµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 °ÂµÏA6
 À×¿ËÈøË¹GS
 ¿­µÏÀ­¿ËCTS
 ÎÖ¶ûÎÖXC90
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¦Âí5Ïµ
 ÃÔÄãMini
 ´óÖÚ-Í¾Èñ
 ±¦Âí3Ïµ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¼³ÛEÏµ
 Â·»¢-ÉñÐÐÕß2
 ±£Ê±½Ý-¿¨Ñç
 °ÂµÏA4
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÁÖÒñ´óµÀ
 300C
 Ó¢·ÆÄáµÏ
 ¼ªÆÕJeep
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¾©-»¦-½ò-¹ãÖÝ-Îäºº-ÉîÛÚ-É½¶«-É½Î÷-Õã½­-½­ËÕ-¸£½¨-ÁÉÄþ-ºÓÄÏ-ÉÂÎ÷-ºÓ±±-ºþÄÏ-ºÚÁú½­-ÄÚÃÉ¹Å-ÔÆÄÏ-ËÄ´¨-ÖØÇì-¹ãÎ÷-½­Î÷-ÐÂ½®-¼ªÁÖ-¹óÖÝ-¸ÊËà-ÄþÏÄ-°²»Õ-º£ÄÏ-Î÷²Ø-Çàº£-
 ´óÖÚ(ÉÏÆû)
 Í¾°²-ÍøÉÏ³µÊÐ(www.cheshi.com.cn)
@@ -24603,98 +24384,72 @@ lzp81818@126.com
 ÓÍºÄÊµ²é
 ÈÈµã³µÐÍ
 ¾­¼ÃÐÍ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÏÖ´ú-ÑÅÉðÌØ
 ÁåÄ¾SX4ÌìÓï
 ÈÕ²ú-æêÍþ
 ³¤°²-±¼±¼
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁúC2
 ±¾Ìï-Ë¼µÏ
 ÆðÑÇ
 RIO
 º£Âí-º£¸£ÐÇ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©·ðÀ¼-ÀÖ·ç
 ·áÌï-Íþ³Û
 ÁåÄ¾-ÓêÑà
 ÆæÈð
 QQ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±êÖÂ206
 polo¾¢Çé
 ´óÖÚ-½Ý´ï
 ±¾Ìï-·É¶È
 ÖÐµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÅÁÈøÌØ-ÁìÔ¦
 ±¾Ìï-ÑÅ¸ó
 ·áÌï-¿­ÃÀÈð
 Âí×Ô´ï
 6
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±ð¿Ë-¾ýÔ½
 ´óÖÚ-ÂõÌÚ
 ÈÕ²ú-Ììô¥
 MGÃû¾ô
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¸£ÌØ-¸£¿ËË¹
 ·áÌï-ÈñÖ¾
 Ñ©·ðÀ¼-¾°³Ì
 ÏÖ´ú-Í¾Ê¤
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁú-¿­Ðý
 ±¾ÌïCR-V
 ÈýÁâ-¸êÀ¶
 ÉÏÆû-ÈÙÍþ
 ¸ßµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 °ÂµÏA6
 À×¿ËÈøË¹GS
 ¿­µÏÀ­¿ËCTS
 ÎÖ¶ûÎÖXC90
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¦Âí5Ïµ
 ÃÔÄãMini
 ´óÖÚ-Í¾Èñ
 ±¦Âí3Ïµ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¼³ÛEÏµ
 Â·»¢-ÉñÐÐÕß2
 ±£Ê±½Ý-¿¨Ñç
 °ÂµÏA4
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÁÖÒñ´óµÀ
 300C
 Ó¢·ÆÄáµÏ
 ¼ªÆÕJeep
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¾©-»¦-½ò-¹ãÖÝ-Îäºº-ÉîÛÚ-É½¶«-É½Î÷-Õã½­-½­ËÕ-¸£½¨-ÁÉÄþ-ºÓÄÏ-ÉÂÎ÷-ºÓ±±-ºþÄÏ-ºÚÁú½­-ÄÚÃÉ¹Å-ÔÆÄÏ-ËÄ´¨-ÖØÇì-¹ãÎ÷-½­Î÷-ÐÂ½®-¼ªÁÖ-¹óÖÝ-¸ÊËà-ÄþÏÄ-°²»Õ-º£ÄÏ-Î÷²Ø-Çàº£-
 ÔÃ´ïÆðÑÇ
 ÈüÀ­Í¼-ÍøÉÏ³µÊÐ(www.cheshi.com.cn)
@@ -24870,98 +24625,72 @@ e-mail:ryj700303@yahoo.com
 ÓÍºÄÊµ²é
 ÈÈµã³µÐÍ
 ¾­¼ÃÐÍ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÏÖ´ú-ÑÅÉðÌØ
 ÁåÄ¾SX4ÌìÓï
 ÈÕ²ú-æêÍþ
 ³¤°²-±¼±¼
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁúC2
 ±¾Ìï-Ë¼µÏ
 ÆðÑÇ
 RIO
 º£Âí-º£¸£ÐÇ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©·ðÀ¼-ÀÖ·ç
 ·áÌï-Íþ³Û
 ÁåÄ¾-ÓêÑà
 ÆæÈð
 QQ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±êÖÂ206
 polo¾¢Çé
 ´óÖÚ-½Ý´ï
 ±¾Ìï-·É¶È
 ÖÐµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÅÁÈøÌØ-ÁìÔ¦
 ±¾Ìï-ÑÅ¸ó
 ·áÌï-¿­ÃÀÈð
 Âí×Ô´ï
 6
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±ð¿Ë-¾ýÔ½
 ´óÖÚ-ÂõÌÚ
 ÈÕ²ú-Ììô¥
 MGÃû¾ô
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¸£ÌØ-¸£¿ËË¹
 ·áÌï-ÈñÖ¾
 Ñ©·ðÀ¼-¾°³Ì
 ÏÖ´ú-Í¾Ê¤
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁú-¿­Ðý
 ±¾ÌïCR-V
 ÈýÁâ-¸êÀ¶
 ÉÏÆû-ÈÙÍþ
 ¸ßµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 °ÂµÏA6
 À×¿ËÈøË¹GS
 ¿­µÏÀ­¿ËCTS
 ÎÖ¶ûÎÖXC90
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¦Âí5Ïµ
 ÃÔÄãMini
 ´óÖÚ-Í¾Èñ
 ±¦Âí3Ïµ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¼³ÛEÏµ
 Â·»¢-ÉñÐÐÕß2
 ±£Ê±½Ý-¿¨Ñç
 °ÂµÏA4
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÁÖÒñ´óµÀ
 300C
 Ó¢·ÆÄáµÏ
 ¼ªÆÕJeep
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¾©-»¦-½ò-¹ãÖÝ-Îäºº-ÉîÛÚ-É½¶«-É½Î÷-Õã½­-½­ËÕ-¸£½¨-ÁÉÄþ-ºÓÄÏ-ÉÂÎ÷-ºÓ±±-ºþÄÏ-ºÚÁú½­-ÄÚÃÉ¹Å-ÔÆÄÏ-ËÄ´¨-ÖØÇì-¹ãÎ÷-½­Î÷-ÐÂ½®-¼ªÁÖ-¹óÖÝ-¸ÊËà-ÄþÏÄ-°²»Õ-º£ÄÏ-Î÷²Ø-Çàº£-
 ´óÖÚ(Ò»Æû)
 ËÙÌÚSagitar-ÍøÉÏ³µÊÐ(www.cheshi.com.cn)
@@ -25276,98 +25005,72 @@ jytcar@126.com
 ÓÍºÄÊµ²é
 ÈÈµã³µÐÍ
 ¾­¼ÃÐÍ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÏÖ´ú-ÑÅÉðÌØ
 ÁåÄ¾SX4ÌìÓï
 ÈÕ²ú-æêÍþ
 ³¤°²-±¼±¼
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁúC2
 ±¾Ìï-Ë¼µÏ
 ÆðÑÇ
 RIO
 º£Âí-º£¸£ÐÇ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©·ðÀ¼-ÀÖ·ç
 ·áÌï-Íþ³Û
 ÁåÄ¾-ÓêÑà
 ÆæÈð
 QQ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±êÖÂ206
 polo¾¢Çé
 ´óÖÚ-½Ý´ï
 ±¾Ìï-·É¶È
 ÖÐµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÅÁÈøÌØ-ÁìÔ¦
 ±¾Ìï-ÑÅ¸ó
 ·áÌï-¿­ÃÀÈð
 Âí×Ô´ï
 6
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±ð¿Ë-¾ýÔ½
 ´óÖÚ-ÂõÌÚ
 ÈÕ²ú-Ììô¥
 MGÃû¾ô
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¸£ÌØ-¸£¿ËË¹
 ·áÌï-ÈñÖ¾
 Ñ©·ðÀ¼-¾°³Ì
 ÏÖ´ú-Í¾Ê¤
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁú-¿­Ðý
 ±¾ÌïCR-V
 ÈýÁâ-¸êÀ¶
 ÉÏÆû-ÈÙÍþ
 ¸ßµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 °ÂµÏA6
 À×¿ËÈøË¹GS
 ¿­µÏÀ­¿ËCTS
 ÎÖ¶ûÎÖXC90
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¦Âí5Ïµ
 ÃÔÄãMini
 ´óÖÚ-Í¾Èñ
 ±¦Âí3Ïµ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¼³ÛEÏµ
 Â·»¢-ÉñÐÐÕß2
 ±£Ê±½Ý-¿¨Ñç
 °ÂµÏA4
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÁÖÒñ´óµÀ
 300C
 Ó¢·ÆÄáµÏ
 ¼ªÆÕJeep
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¾©-»¦-½ò-¹ãÖÝ-Îäºº-ÉîÛÚ-É½¶«-É½Î÷-Õã½­-½­ËÕ-¸£½¨-ÁÉÄþ-ºÓÄÏ-ÉÂÎ÷-ºÓ±±-ºþÄÏ-ºÚÁú½­-ÄÚÃÉ¹Å-ÔÆÄÏ-ËÄ´¨-ÖØÇì-¹ãÎ÷-½­Î÷-ÐÂ½®-¼ªÁÖ-¹óÖÝ-¸ÊËà-ÄþÏÄ-°²»Õ-º£ÄÏ-Î÷²Ø-Çàº£-
 ³¤°²
 ±¼±¼-ÍøÉÏ³µÊÐ(www.cheshi.com.cn)
@@ -25601,98 +25304,72 @@ changan4s@yahoo.com.cn
 ÓÍºÄÊµ²é
 ÈÈµã³µÐÍ
 ¾­¼ÃÐÍ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÏÖ´ú-ÑÅÉðÌØ
 ÁåÄ¾SX4ÌìÓï
 ÈÕ²ú-æêÍþ
 ³¤°²-±¼±¼
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁúC2
 ±¾Ìï-Ë¼µÏ
 ÆðÑÇ
 RIO
 º£Âí-º£¸£ÐÇ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©·ðÀ¼-ÀÖ·ç
 ·áÌï-Íþ³Û
 ÁåÄ¾-ÓêÑà
 ÆæÈð
 QQ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±êÖÂ206
 polo¾¢Çé
 ´óÖÚ-½Ý´ï
 ±¾Ìï-·É¶È
 ÖÐµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÅÁÈøÌØ-ÁìÔ¦
 ±¾Ìï-ÑÅ¸ó
 ·áÌï-¿­ÃÀÈð
 Âí×Ô´ï
 6
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±ð¿Ë-¾ýÔ½
 ´óÖÚ-ÂõÌÚ
 ÈÕ²ú-Ììô¥
 MGÃû¾ô
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¸£ÌØ-¸£¿ËË¹
 ·áÌï-ÈñÖ¾
 Ñ©·ðÀ¼-¾°³Ì
 ÏÖ´ú-Í¾Ê¤
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁú-¿­Ðý
 ±¾ÌïCR-V
 ÈýÁâ-¸êÀ¶
 ÉÏÆû-ÈÙÍþ
 ¸ßµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 °ÂµÏA6
 À×¿ËÈøË¹GS
 ¿­µÏÀ­¿ËCTS
 ÎÖ¶ûÎÖXC90
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¦Âí5Ïµ
 ÃÔÄãMini
 ´óÖÚ-Í¾Èñ
 ±¦Âí3Ïµ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¼³ÛEÏµ
 Â·»¢-ÉñÐÐÕß2
 ±£Ê±½Ý-¿¨Ñç
 °ÂµÏA4
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÁÖÒñ´óµÀ
 300C
 Ó¢·ÆÄáµÏ
 ¼ªÆÕJeep
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¾©-»¦-½ò-¹ãÖÝ-Îäºº-ÉîÛÚ-É½¶«-É½Î÷-Õã½­-½­ËÕ-¸£½¨-ÁÉÄþ-ºÓÄÏ-ÉÂÎ÷-ºÓ±±-ºþÄÏ-ºÚÁú½­-ÄÚÃÉ¹Å-ÔÆÄÏ-ËÄ´¨-ÖØÇì-¹ãÎ÷-½­Î÷-ÐÂ½®-¼ªÁÖ-¹óÖÝ-¸ÊËà-ÄþÏÄ-°²»Õ-º£ÄÏ-Î÷²Ø-Çàº£-
 ÆæÈð
 ÐÂ¶«·½Ö®×Ó-ÍøÉÏ³µÊÐ(www.cheshi.com.cn)
@@ -25908,98 +25585,72 @@ QQ6ÏµÁÐÔÝÊ±Ã»ÓÐ×Ô¶¯µµ³µÐÍÏúÊÛ£¡Ä¿Ç°Ö»ÓÐÊÖ¶¯µµ£±.£±
 ÓÍºÄÊµ²é
 ÈÈµã³µÐÍ
 ¾­¼ÃÐÍ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÏÖ´ú-ÑÅÉðÌØ
 ÁåÄ¾SX4ÌìÓï
 ÈÕ²ú-æêÍþ
 ³¤°²-±¼±¼
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁúC2
 ±¾Ìï-Ë¼µÏ
 ÆðÑÇ
 RIO
 º£Âí-º£¸£ÐÇ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©·ðÀ¼-ÀÖ·ç
 ·áÌï-Íþ³Û
 ÁåÄ¾-ÓêÑà
 ÆæÈð
 QQ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±êÖÂ206
 polo¾¢Çé
 ´óÖÚ-½Ý´ï
 ±¾Ìï-·É¶È
 ÖÐµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÅÁÈøÌØ-ÁìÔ¦
 ±¾Ìï-ÑÅ¸ó
 ·áÌï-¿­ÃÀÈð
 Âí×Ô´ï
 6
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±ð¿Ë-¾ýÔ½
 ´óÖÚ-ÂõÌÚ
 ÈÕ²ú-Ììô¥
 MGÃû¾ô
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¸£ÌØ-¸£¿ËË¹
 ·áÌï-ÈñÖ¾
 Ñ©·ðÀ¼-¾°³Ì
 ÏÖ´ú-Í¾Ê¤
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁú-¿­Ðý
 ±¾ÌïCR-V
 ÈýÁâ-¸êÀ¶
 ÉÏÆû-ÈÙÍþ
 ¸ßµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 °ÂµÏA6
 À×¿ËÈøË¹GS
 ¿­µÏÀ­¿ËCTS
 ÎÖ¶ûÎÖXC90
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¦Âí5Ïµ
 ÃÔÄãMini
 ´óÖÚ-Í¾Èñ
 ±¦Âí3Ïµ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¼³ÛEÏµ
 Â·»¢-ÉñÐÐÕß2
 ±£Ê±½Ý-¿¨Ñç
 °ÂµÏA4
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÁÖÒñ´óµÀ
 300C
 Ó¢·ÆÄáµÏ
 ¼ªÆÕJeep
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¾©-»¦-½ò-¹ãÖÝ-Îäºº-ÉîÛÚ-É½¶«-É½Î÷-Õã½­-½­ËÕ-¸£½¨-ÁÉÄþ-ºÓÄÏ-ÉÂÎ÷-ºÓ±±-ºþÄÏ-ºÚÁú½­-ÄÚÃÉ¹Å-ÔÆÄÏ-ËÄ´¨-ÖØÇì-¹ãÎ÷-½­Î÷-ÐÂ½®-¼ªÁÖ-¹óÖÝ-¸ÊËà-ÄþÏÄ-°²»Õ-º£ÄÏ-Î÷²Ø-Çàº£-
 ±¾Ìï
 °ÂµÂÈü
@@ -26201,98 +25852,72 @@ ryqc@263.net
 ÓÍºÄÊµ²é
 ÈÈµã³µÐÍ
 ¾­¼ÃÐÍ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÏÖ´ú-ÑÅÉðÌØ
 ÁåÄ¾SX4ÌìÓï
 ÈÕ²ú-æêÍþ
 ³¤°²-±¼±¼
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁúC2
 ±¾Ìï-Ë¼µÏ
 ÆðÑÇ
 RIO
 º£Âí-º£¸£ÐÇ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©·ðÀ¼-ÀÖ·ç
 ·áÌï-Íþ³Û
 ÁåÄ¾-ÓêÑà
 ÆæÈð
 QQ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±êÖÂ206
 polo¾¢Çé
 ´óÖÚ-½Ý´ï
 ±¾Ìï-·É¶È
 ÖÐµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÅÁÈøÌØ-ÁìÔ¦
 ±¾Ìï-ÑÅ¸ó
 ·áÌï-¿­ÃÀÈð
 Âí×Ô´ï
 6
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±ð¿Ë-¾ýÔ½
 ´óÖÚ-ÂõÌÚ
 ÈÕ²ú-Ììô¥
 MGÃû¾ô
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¸£ÌØ-¸£¿ËË¹
 ·áÌï-ÈñÖ¾
 Ñ©·ðÀ¼-¾°³Ì
 ÏÖ´ú-Í¾Ê¤
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁú-¿­Ðý
 ±¾ÌïCR-V
 ÈýÁâ-¸êÀ¶
 ÉÏÆû-ÈÙÍþ
 ¸ßµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 °ÂµÏA6
 À×¿ËÈøË¹GS
 ¿­µÏÀ­¿ËCTS
 ÎÖ¶ûÎÖXC90
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¦Âí5Ïµ
 ÃÔÄãMini
 ´óÖÚ-Í¾Èñ
 ±¦Âí3Ïµ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¼³ÛEÏµ
 Â·»¢-ÉñÐÐÕß2
 ±£Ê±½Ý-¿¨Ñç
 °ÂµÏA4
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÁÖÒñ´óµÀ
 300C
 Ó¢·ÆÄáµÏ
 ¼ªÆÕJeep
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¾©-»¦-½ò-¹ãÖÝ-Îäºº-ÉîÛÚ-É½¶«-É½Î÷-Õã½­-½­ËÕ-¸£½¨-ÁÉÄþ-ºÓÄÏ-ÉÂÎ÷-ºÓ±±-ºþÄÏ-ºÚÁú½­-ÄÚÃÉ¹Å-ÔÆÄÏ-ËÄ´¨-ÖØÇì-¹ãÎ÷-½­Î÷-ÐÂ½®-¼ªÁÖ-¹óÖÝ-¸ÊËà-ÄþÏÄ-°²»Õ-º£ÄÏ-Î÷²Ø-Çàº£-
 ´óÖÚ(Ò»Æû)
 ËÙÌÚSagitar-ÍøÉÏ³µÊÐ(www.cheshi.com.cn)
@@ -26533,98 +26158,72 @@ xuyong11728@sina.com
 ÓÍºÄÊµ²é
 ÈÈµã³µÐÍ
 ¾­¼ÃÐÍ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÏÖ´ú-ÑÅÉðÌØ
 ÁåÄ¾SX4ÌìÓï
 ÈÕ²ú-æêÍþ
 ³¤°²-±¼±¼
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁúC2
 ±¾Ìï-Ë¼µÏ
 ÆðÑÇ
 RIO
 º£Âí-º£¸£ÐÇ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©·ðÀ¼-ÀÖ·ç
 ·áÌï-Íþ³Û
 ÁåÄ¾-ÓêÑà
 ÆæÈð
 QQ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±êÖÂ206
 polo¾¢Çé
 ´óÖÚ-½Ý´ï
 ±¾Ìï-·É¶È
 ÖÐµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÅÁÈøÌØ-ÁìÔ¦
 ±¾Ìï-ÑÅ¸ó
 ·áÌï-¿­ÃÀÈð
 Âí×Ô´ï
 6
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±ð¿Ë-¾ýÔ½
 ´óÖÚ-ÂõÌÚ
 ÈÕ²ú-Ììô¥
 MGÃû¾ô
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¸£ÌØ-¸£¿ËË¹
 ·áÌï-ÈñÖ¾
 Ñ©·ðÀ¼-¾°³Ì
 ÏÖ´ú-Í¾Ê¤
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁú-¿­Ðý
 ±¾ÌïCR-V
 ÈýÁâ-¸êÀ¶
 ÉÏÆû-ÈÙÍþ
 ¸ßµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 °ÂµÏA6
 À×¿ËÈøË¹GS
 ¿­µÏÀ­¿ËCTS
 ÎÖ¶ûÎÖXC90
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¦Âí5Ïµ
 ÃÔÄãMini
 ´óÖÚ-Í¾Èñ
 ±¦Âí3Ïµ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¼³ÛEÏµ
 Â·»¢-ÉñÐÐÕß2
 ±£Ê±½Ý-¿¨Ñç
 °ÂµÏA4
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÁÖÒñ´óµÀ
 300C
 Ó¢·ÆÄáµÏ
 ¼ªÆÕJeep
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¾©-»¦-½ò-¹ãÖÝ-Îäºº-ÉîÛÚ-É½¶«-É½Î÷-Õã½­-½­ËÕ-¸£½¨-ÁÉÄþ-ºÓÄÏ-ÉÂÎ÷-ºÓ±±-ºþÄÏ-ºÚÁú½­-ÄÚÃÉ¹Å-ÔÆÄÏ-ËÄ´¨-ÖØÇì-¹ãÎ÷-½­Î÷-ÐÂ½®-¼ªÁÖ-¹óÖÝ-¸ÊËà-ÄþÏÄ-°²»Õ-º£ÄÏ-Î÷²Ø-Çàº£-
 ±¦Âí
 3Ïµ
@@ -26795,98 +26394,72 @@ huangshun@tjtb.bmw.com.cn
 ÓÍºÄÊµ²é
 ÈÈµã³µÐÍ
 ¾­¼ÃÐÍ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÏÖ´ú-ÑÅÉðÌØ
 ÁåÄ¾SX4ÌìÓï
 ÈÕ²ú-æêÍþ
 ³¤°²-±¼±¼
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁúC2
 ±¾Ìï-Ë¼µÏ
 ÆðÑÇ
 RIO
 º£Âí-º£¸£ÐÇ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©·ðÀ¼-ÀÖ·ç
 ·áÌï-Íþ³Û
 ÁåÄ¾-ÓêÑà
 ÆæÈð
 QQ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±êÖÂ206
 polo¾¢Çé
 ´óÖÚ-½Ý´ï
 ±¾Ìï-·É¶È
 ÖÐµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÅÁÈøÌØ-ÁìÔ¦
 ±¾Ìï-ÑÅ¸ó
 ·áÌï-¿­ÃÀÈð
 Âí×Ô´ï
 6
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±ð¿Ë-¾ýÔ½
 ´óÖÚ-ÂõÌÚ
 ÈÕ²ú-Ììô¥
 MGÃû¾ô
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¸£ÌØ-¸£¿ËË¹
 ·áÌï-ÈñÖ¾
 Ñ©·ðÀ¼-¾°³Ì
 ÏÖ´ú-Í¾Ê¤
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁú-¿­Ðý
 ±¾ÌïCR-V
 ÈýÁâ-¸êÀ¶
 ÉÏÆû-ÈÙÍþ
 ¸ßµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 °ÂµÏA6
 À×¿ËÈøË¹GS
 ¿­µÏÀ­¿ËCTS
 ÎÖ¶ûÎÖXC90
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¦Âí5Ïµ
 ÃÔÄãMini
 ´óÖÚ-Í¾Èñ
 ±¦Âí3Ïµ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¼³ÛEÏµ
 Â·»¢-ÉñÐÐÕß2
 ±£Ê±½Ý-¿¨Ñç
 °ÂµÏA4
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÁÖÒñ´óµÀ
 300C
 Ó¢·ÆÄáµÏ
 ¼ªÆÕJeep
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¾©-»¦-½ò-¹ãÖÝ-Îäºº-ÉîÛÚ-É½¶«-É½Î÷-Õã½­-½­ËÕ-¸£½¨-ÁÉÄþ-ºÓÄÏ-ÉÂÎ÷-ºÓ±±-ºþÄÏ-ºÚÁú½­-ÄÚÃÉ¹Å-ÔÆÄÏ-ËÄ´¨-ÖØÇì-¹ãÎ÷-½­Î÷-ÐÂ½®-¼ªÁÖ-¹óÖÝ-¸ÊËà-ÄþÏÄ-°²»Õ-º£ÄÏ-Î÷²Ø-Çàº£-
 ÁåÄ¾
 ¼ªÄ·Äá-ÍøÉÏ³µÊÐ(www.cheshi.com.cn)
@@ -27126,98 +26699,72 @@ Email:
 ÓÍºÄÊµ²é
 ÈÈµã³µÐÍ
 ¾­¼ÃÐÍ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÏÖ´ú-ÑÅÉðÌØ
 ÁåÄ¾SX4ÌìÓï
 ÈÕ²ú-æêÍþ
 ³¤°²-±¼±¼
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁúC2
 ±¾Ìï-Ë¼µÏ
 ÆðÑÇ
 RIO
 º£Âí-º£¸£ÐÇ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©·ðÀ¼-ÀÖ·ç
 ·áÌï-Íþ³Û
 ÁåÄ¾-ÓêÑà
 ÆæÈð
 QQ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±êÖÂ206
 polo¾¢Çé
 ´óÖÚ-½Ý´ï
 ±¾Ìï-·É¶È
 ÖÐµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÅÁÈøÌØ-ÁìÔ¦
 ±¾Ìï-ÑÅ¸ó
 ·áÌï-¿­ÃÀÈð
 Âí×Ô´ï
 6
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±ð¿Ë-¾ýÔ½
 ´óÖÚ-ÂõÌÚ
 ÈÕ²ú-Ììô¥
 MGÃû¾ô
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¸£ÌØ-¸£¿ËË¹
 ·áÌï-ÈñÖ¾
 Ñ©·ðÀ¼-¾°³Ì
 ÏÖ´ú-Í¾Ê¤
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁú-¿­Ðý
 ±¾ÌïCR-V
 ÈýÁâ-¸êÀ¶
 ÉÏÆû-ÈÙÍþ
 ¸ßµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 °ÂµÏA6
 À×¿ËÈøË¹GS
 ¿­µÏÀ­¿ËCTS
 ÎÖ¶ûÎÖXC90
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¦Âí5Ïµ
 ÃÔÄãMini
 ´óÖÚ-Í¾Èñ
 ±¦Âí3Ïµ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¼³ÛEÏµ
 Â·»¢-ÉñÐÐÕß2
 ±£Ê±½Ý-¿¨Ñç
 °ÂµÏA4
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÁÖÒñ´óµÀ
 300C
 Ó¢·ÆÄáµÏ
 ¼ªÆÕJeep
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¾©-»¦-½ò-¹ãÖÝ-Îäºº-ÉîÛÚ-É½¶«-É½Î÷-Õã½­-½­ËÕ-¸£½¨-ÁÉÄþ-ºÓÄÏ-ÉÂÎ÷-ºÓ±±-ºþÄÏ-ºÚÁú½­-ÄÚÃÉ¹Å-ÔÆÄÏ-ËÄ´¨-ÖØÇì-¹ãÎ÷-½­Î÷-ÐÂ½®-¼ªÁÖ-¹óÖÝ-¸ÊËà-ÄþÏÄ-°²»Õ-º£ÄÏ-Î÷²Ø-Çàº£-
 ÁåÄ¾
 ³¬¼¶Î¬ÌØÀ­-ÍøÉÏ³µÊÐ(www.cheshi.com.cn)
@@ -27387,98 +26934,72 @@ nathan7311@sina.com
 ÓÍºÄÊµ²é
 ÈÈµã³µÐÍ
 ¾­¼ÃÐÍ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÏÖ´ú-ÑÅÉðÌØ
 ÁåÄ¾SX4ÌìÓï
 ÈÕ²ú-æêÍþ
 ³¤°²-±¼±¼
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁúC2
 ±¾Ìï-Ë¼µÏ
 ÆðÑÇ
 RIO
 º£Âí-º£¸£ÐÇ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©·ðÀ¼-ÀÖ·ç
 ·áÌï-Íþ³Û
 ÁåÄ¾-ÓêÑà
 ÆæÈð
 QQ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±êÖÂ206
 polo¾¢Çé
 ´óÖÚ-½Ý´ï
 ±¾Ìï-·É¶È
 ÖÐµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÅÁÈøÌØ-ÁìÔ¦
 ±¾Ìï-ÑÅ¸ó
 ·áÌï-¿­ÃÀÈð
 Âí×Ô´ï
 6
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±ð¿Ë-¾ýÔ½
 ´óÖÚ-ÂõÌÚ
 ÈÕ²ú-Ììô¥
 MGÃû¾ô
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¸£ÌØ-¸£¿ËË¹
 ·áÌï-ÈñÖ¾
 Ñ©·ðÀ¼-¾°³Ì
 ÏÖ´ú-Í¾Ê¤
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁú-¿­Ðý
 ±¾ÌïCR-V
 ÈýÁâ-¸êÀ¶
 ÉÏÆû-ÈÙÍþ
 ¸ßµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 °ÂµÏA6
 À×¿ËÈøË¹GS
 ¿­µÏÀ­¿ËCTS
 ÎÖ¶ûÎÖXC90
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¦Âí5Ïµ
 ÃÔÄãMini
 ´óÖÚ-Í¾Èñ
 ±¦Âí3Ïµ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¼³ÛEÏµ
 Â·»¢-ÉñÐÐÕß2
 ±£Ê±½Ý-¿¨Ñç
 °ÂµÏA4
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÁÖÒñ´óµÀ
 300C
 Ó¢·ÆÄáµÏ
 ¼ªÆÕJeep
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¾©-»¦-½ò-¹ãÖÝ-Îäºº-ÉîÛÚ-É½¶«-É½Î÷-Õã½­-½­ËÕ-¸£½¨-ÁÉÄþ-ºÓÄÏ-ÉÂÎ÷-ºÓ±±-ºþÄÏ-ºÚÁú½­-ÄÚÃÉ¹Å-ÔÆÄÏ-ËÄ´¨-ÖØÇì-¹ãÎ÷-½­Î÷-ÐÂ½®-¼ªÁÖ-¹óÖÝ-¸ÊËà-ÄþÏÄ-°²»Õ-º£ÄÏ-Î÷²Ø-Çàº£-
 ÏÄÀû
 A+-ÍøÉÏ³µÊÐ(www.cheshi.com.cn)
@@ -27753,98 +27274,72 @@ N31.3LµÄÏÄÀû07ÄêÔÚ±±¾©¾Í²»ÔÙÏúÊÛÁË¡£Äú¿ÉÒÔ¹Ø×¢Ò»ÏÂN31.4L³µ
 ÓÍºÄÊµ²é
 ÈÈµã³µÐÍ
 ¾­¼ÃÐÍ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÏÖ´ú-ÑÅÉðÌØ
 ÁåÄ¾SX4ÌìÓï
 ÈÕ²ú-æêÍþ
 ³¤°²-±¼±¼
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁúC2
 ±¾Ìï-Ë¼µÏ
 ÆðÑÇ
 RIO
 º£Âí-º£¸£ÐÇ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©·ðÀ¼-ÀÖ·ç
 ·áÌï-Íþ³Û
 ÁåÄ¾-ÓêÑà
 ÆæÈð
 QQ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±êÖÂ206
 polo¾¢Çé
 ´óÖÚ-½Ý´ï
 ±¾Ìï-·É¶È
 ÖÐµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÅÁÈøÌØ-ÁìÔ¦
 ±¾Ìï-ÑÅ¸ó
 ·áÌï-¿­ÃÀÈð
 Âí×Ô´ï
 6
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±ð¿Ë-¾ýÔ½
 ´óÖÚ-ÂõÌÚ
 ÈÕ²ú-Ììô¥
 MGÃû¾ô
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¸£ÌØ-¸£¿ËË¹
 ·áÌï-ÈñÖ¾
 Ñ©·ðÀ¼-¾°³Ì
 ÏÖ´ú-Í¾Ê¤
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁú-¿­Ðý
 ±¾ÌïCR-V
 ÈýÁâ-¸êÀ¶
 ÉÏÆû-ÈÙÍþ
 ¸ßµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 °ÂµÏA6
 À×¿ËÈøË¹GS
 ¿­µÏÀ­¿ËCTS
 ÎÖ¶ûÎÖXC90
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¦Âí5Ïµ
 ÃÔÄãMini
 ´óÖÚ-Í¾Èñ
 ±¦Âí3Ïµ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¼³ÛEÏµ
 Â·»¢-ÉñÐÐÕß2
 ±£Ê±½Ý-¿¨Ñç
 °ÂµÏA4
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÁÖÒñ´óµÀ
 300C
 Ó¢·ÆÄáµÏ
 ¼ªÆÕJeep
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¾©-»¦-½ò-¹ãÖÝ-Îäºº-ÉîÛÚ-É½¶«-É½Î÷-Õã½­-½­ËÕ-¸£½¨-ÁÉÄþ-ºÓÄÏ-ÉÂÎ÷-ºÓ±±-ºþÄÏ-ºÚÁú½­-ÄÚÃÉ¹Å-ÔÆÄÏ-ËÄ´¨-ÖØÇì-¹ãÎ÷-½­Î÷-ÐÂ½®-¼ªÁÖ-¹óÖÝ-¸ÊËà-ÄþÏÄ-°²»Õ-º£ÄÏ-Î÷²Ø-Çàº£-
 ÁåÄ¾
 ³¬¼¶Î¬ÌØÀ­-ÍøÉÏ³µÊÐ(www.cheshi.com.cn)
@@ -28074,98 +27569,72 @@ bjyccl@163.com
 ÓÍºÄÊµ²é
 ÈÈµã³µÐÍ
 ¾­¼ÃÐÍ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÏÖ´ú-ÑÅÉðÌØ
 ÁåÄ¾SX4ÌìÓï
 ÈÕ²ú-æêÍþ
 ³¤°²-±¼±¼
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁúC2
 ±¾Ìï-Ë¼µÏ
 ÆðÑÇ
 RIO
 º£Âí-º£¸£ÐÇ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©·ðÀ¼-ÀÖ·ç
 ·áÌï-Íþ³Û
 ÁåÄ¾-ÓêÑà
 ÆæÈð
 QQ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±êÖÂ206
 polo¾¢Çé
 ´óÖÚ-½Ý´ï
 ±¾Ìï-·É¶È
 ÖÐµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÅÁÈøÌØ-ÁìÔ¦
 ±¾Ìï-ÑÅ¸ó
 ·áÌï-¿­ÃÀÈð
 Âí×Ô´ï
 6
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±ð¿Ë-¾ýÔ½
 ´óÖÚ-ÂõÌÚ
 ÈÕ²ú-Ììô¥
 MGÃû¾ô
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¸£ÌØ-¸£¿ËË¹
 ·áÌï-ÈñÖ¾
 Ñ©·ðÀ¼-¾°³Ì
 ÏÖ´ú-Í¾Ê¤
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁú-¿­Ðý
 ±¾ÌïCR-V
 ÈýÁâ-¸êÀ¶
 ÉÏÆû-ÈÙÍþ
 ¸ßµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 °ÂµÏA6
 À×¿ËÈøË¹GS
 ¿­µÏÀ­¿ËCTS
 ÎÖ¶ûÎÖXC90
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¦Âí5Ïµ
 ÃÔÄãMini
 ´óÖÚ-Í¾Èñ
 ±¦Âí3Ïµ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¼³ÛEÏµ
 Â·»¢-ÉñÐÐÕß2
 ±£Ê±½Ý-¿¨Ñç
 °ÂµÏA4
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÁÖÒñ´óµÀ
 300C
 Ó¢·ÆÄáµÏ
 ¼ªÆÕJeep
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¾©-»¦-½ò-¹ãÖÝ-Îäºº-ÉîÛÚ-É½¶«-É½Î÷-Õã½­-½­ËÕ-¸£½¨-ÁÉÄþ-ºÓÄÏ-ÉÂÎ÷-ºÓ±±-ºþÄÏ-ºÚÁú½­-ÄÚÃÉ¹Å-ÔÆÄÏ-ËÄ´¨-ÖØÇì-¹ãÎ÷-½­Î÷-ÐÂ½®-¼ªÁÖ-¹óÖÝ-¸ÊËà-ÄþÏÄ-°²»Õ-º£ÄÏ-Î÷²Ø-Çàº£-
 Ò»Æû
 ÍþÖ¾Á½Ïá-ÍøÉÏ³µÊÐ(www.cheshi.com.cn)
@@ -28400,98 +27869,72 @@ N3Á½ÏáÈ«°ìÍêÊÖÐøÊÇ£º40300£¨×¢£º±£ÏÕÎª½»Ç¿ÏÕ£¬Õâ¸ö¼Û¸ñÖ»°ïÄú°ìµ½ÄÃµ½ÅÆÕÕÎªÖ¹£©
 ÓÍºÄÊµ²é
 ÈÈµã³µÐÍ
 ¾­¼ÃÐÍ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÏÖ´ú-ÑÅÉðÌØ
 ÁåÄ¾SX4ÌìÓï
 ÈÕ²ú-æêÍþ
 ³¤°²-±¼±¼
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁúC2
 ±¾Ìï-Ë¼µÏ
 ÆðÑÇ
 RIO
 º£Âí-º£¸£ÐÇ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©·ðÀ¼-ÀÖ·ç
 ·áÌï-Íþ³Û
 ÁåÄ¾-ÓêÑà
 ÆæÈð
 QQ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±êÖÂ206
 polo¾¢Çé
 ´óÖÚ-½Ý´ï
 ±¾Ìï-·É¶È
 ÖÐµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÅÁÈøÌØ-ÁìÔ¦
 ±¾Ìï-ÑÅ¸ó
 ·áÌï-¿­ÃÀÈð
 Âí×Ô´ï
 6
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±ð¿Ë-¾ýÔ½
 ´óÖÚ-ÂõÌÚ
 ÈÕ²ú-Ììô¥
 MGÃû¾ô
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¸£ÌØ-¸£¿ËË¹
 ·áÌï-ÈñÖ¾
 Ñ©·ðÀ¼-¾°³Ì
 ÏÖ´ú-Í¾Ê¤
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁú-¿­Ðý
 ±¾ÌïCR-V
 ÈýÁâ-¸êÀ¶
 ÉÏÆû-ÈÙÍþ
 ¸ßµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 °ÂµÏA6
 À×¿ËÈøË¹GS
 ¿­µÏÀ­¿ËCTS
 ÎÖ¶ûÎÖXC90
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¦Âí5Ïµ
 ÃÔÄãMini
 ´óÖÚ-Í¾Èñ
 ±¦Âí3Ïµ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¼³ÛEÏµ
 Â·»¢-ÉñÐÐÕß2
 ±£Ê±½Ý-¿¨Ñç
 °ÂµÏA4
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÁÖÒñ´óµÀ
 300C
 Ó¢·ÆÄáµÏ
 ¼ªÆÕJeep
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¾©-»¦-½ò-¹ãÖÝ-Îäºº-ÉîÛÚ-É½¶«-É½Î÷-Õã½­-½­ËÕ-¸£½¨-ÁÉÄþ-ºÓÄÏ-ÉÂÎ÷-ºÓ±±-ºþÄÏ-ºÚÁú½­-ÄÚÃÉ¹Å-ÔÆÄÏ-ËÄ´¨-ÖØÇì-¹ãÎ÷-½­Î÷-ÐÂ½®-¼ªÁÖ-¹óÖÝ-¸ÊËà-ÄþÏÄ-°²»Õ-º£ÄÏ-Î÷²Ø-Çàº£-
 °ïÄúÌô³µ_ÍøÉÏ³µÊÐ£¨www.cheshi.com.cn£©
 ¼Û¸ñ×¨Çø|½ø¿ÚÆû³µ|¹ú²úÆû³µ|Æû³µÎ¬ÐÞ|¶þÊÖÆû³µ|Æû³µ×âÁÞ|Æû³µ±£ÏÕ
@@ -28508,104 +27951,87 @@ encoding="gb2312"?>
 5ÍòÒÔÏÂ
 50000
 AND
-price<=100000"
-onClick="show1()">5
+price<=100000" onClick="show1()">5
 -
 10Íò
 100000
 AND
-price<=150000"
-onClick="show1()">10
+price<=150000" onClick="show1()">10
 -
 15Íò
 150000
 AND
-price<=200000"
-onClick="show1()">15
+price<=200000" onClick="show1()">15
 -
 20Íò
 200000
 AND
-price<=250000"
-onClick="show1()">20
+price<=250000" onClick="show1()">20
 -
 25Íò
 250000
 AND
-price<=300000"
-onClick="show1()">25
+price<=300000" onClick="show1()">25
 -
 30Íò
 300000
 AND
-price<=350000"
-onClick="show1()">30
+price<=350000" onClick="show1()">30
 -
 35Íò
 350000
 AND
-price<=400000"
-onClick="show1()">35
+price<=400000" onClick="show1()">35
 -
 40Íò
 400000
 AND
-price<=450000"
-onClick="show1()">40
+price<=450000" onClick="show1()">40
 -
 45Íò
 450000
 AND
-price<=500000"
-onClick="show1()">45
+price<=500000" onClick="show1()">45
 -
 50Íò
 500000
 AND
-price<=600000"
-onClick="show1()">50
+price<=600000" onClick="show1()">50
 -
 60Íò
 600000
 AND
-price<=700000"
-onClick="show1()">60
+price<=700000" onClick="show1()">60
 -
 70Íò
 700000
 AND
-price<=800000"
-onClick="show1()">70
+price<=800000" onClick="show1()">70
 -
 80Íò
 600000
 AND
-price<=900000"
-onClick="show1()">80
+price<=900000" onClick="show1()">80
 -
 90Íò
 900000
 AND
-price<=1000000"
-onClick="show1()">90
+price<=1000000" onClick="show1()">90
 -
 100Íò
 1000000
 AND
-price<=1500000"
-onClick="show1()">100
+price<=1500000" onClick="show1()">100
 -
 150Íò
 1500000
 AND
-price<=2000000"
-onClick="show1()">150
+price<=2000000" onClick="show1()">150
 -
 200Íò
 2000000
 AND
-price<=2500000"
-onClick="show1()">200
+price<=2500000" onClick="show1()">200
 -
 250Íò
 2500000"
@@ -28663,104 +28089,87 @@ Email:service@cheshi.com.cn
 5ÍòÒÔÏÂ
 50000
 AND
-price<=100000"
-onClick="show1()">5
+price<=100000" onClick="show1()">5
 -
 10Íò
 100000
 AND
-price<=150000"
-onClick="show1()">10
+price<=150000" onClick="show1()">10
 -
 15Íò
 150000
 AND
-price<=200000"
-onClick="show1()">15
+price<=200000" onClick="show1()">15
 -
 20Íò
 200000
 AND
-price<=250000"
-onClick="show1()">20
+price<=250000" onClick="show1()">20
 -
 25Íò
 250000
 AND
-price<=300000"
-onClick="show1()">25
+price<=300000" onClick="show1()">25
 -
 30Íò
 300000
 AND
-price<=350000"
-onClick="show1()">30
+price<=350000" onClick="show1()">30
 -
 35Íò
 350000
 AND
-price<=400000"
-onClick="show1()">35
+price<=400000" onClick="show1()">35
 -
 40Íò
 400000
 AND
-price<=450000"
-onClick="show1()">40
+price<=450000" onClick="show1()">40
 -
 45Íò
 450000
 AND
-price<=500000"
-onClick="show1()">45
+price<=500000" onClick="show1()">45
 -
 50Íò
 500000
 AND
-price<=600000"
-onClick="show1()">50
+price<=600000" onClick="show1()">50
 -
 60Íò
 600000
 AND
-price<=700000"
-onClick="show1()">60
+price<=700000" onClick="show1()">60
 -
 70Íò
 700000
 AND
-price<=800000"
-onClick="show1()">70
+price<=800000" onClick="show1()">70
 -
 80Íò
 600000
 AND
-price<=900000"
-onClick="show1()">80
+price<=900000" onClick="show1()">80
 -
 90Íò
 900000
 AND
-price<=1000000"
-onClick="show1()">90
+price<=1000000" onClick="show1()">90
 -
 100Íò
 1000000
 AND
-price<=1500000"
-onClick="show1()">100
+price<=1500000" onClick="show1()">100
 -
 150Íò
 1500000
 AND
-price<=2000000"
-onClick="show1()">150
+price<=2000000" onClick="show1()">150
 -
 200Íò
 2000000
 AND
-price<=2500000"
-onClick="show1()">200
+price<=2500000" onClick="show1()">200
 -
 250Íò
 2500000"
@@ -28968,9 +28377,7 @@ AT
 79.62Íò
 88.80
 ¶©³µ
-¾­ÏúÉÌ£º<?xml
-version="1.0"
-encoding="gb2312"?>±±¾©ÉÏº£Ìì½ò¹ã¶«É½¶«ºþ±±Õã½­½­ËÕÉ½Î÷ÐÂ½®¸£½¨ºÓÄÏÉÂÎ÷ÁÉÄþËÄ´¨ºÓ±±
+¾­ÏúÉÌ£º<?xml version="1.0" encoding="gb2312"?>±±¾©ÉÏº£Ìì½ò¹ã¶«É½¶«ºþ±±Õã½­½­ËÕÉ½Î÷ÐÂ½®¸£½¨ºÓÄÏÉÂÎ÷ÁÉÄþËÄ´¨ºÓ±±
 ºÚÁú½­ºþÄÏÄÚÃÉ¹Å¼ªÁÖÔÆÄÏ¹ãÎ÷ÖØÇì½­Î÷¹óÖÝ¸ÊËàÄþÏÄ°²»Õº£ÄÏÎ÷²ØÇàº£
 ±±¾©GS
 2006¿î4Sµê
@@ -29066,98 +28473,72 @@ encoding="gb2312"?>±±¾©ÉÏº£Ìì½ò¹ã¶«É½¶«ºþ±±Õã½­½­ËÕÉ½Î÷ÐÂ½®¸£½¨ºÓÄÏÉÂÎ÷ÁÉÄþËÄ´¨º
 ÓÍºÄÊµ²é
 ÈÈµã³µÐÍ
 ¾­¼ÃÐÍ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÏÖ´ú-ÑÅÉðÌØ
 ÁåÄ¾SX4ÌìÓï
 ÈÕ²ú-æêÍþ
 ³¤°²-±¼±¼
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁúC2
 ±¾Ìï-Ë¼µÏ
 ÆðÑÇ
 RIO
 º£Âí-º£¸£ÐÇ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©·ðÀ¼-ÀÖ·ç
 ·áÌï-Íþ³Û
 ÁåÄ¾-ÓêÑà
 ÆæÈð
 QQ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±êÖÂ206
 polo¾¢Çé
 ´óÖÚ-½Ý´ï
 ±¾Ìï-·É¶È
 ÖÐµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÅÁÈøÌØ-ÁìÔ¦
 ±¾Ìï-ÑÅ¸ó
 ·áÌï-¿­ÃÀÈð
 Âí×Ô´ï
 6
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±ð¿Ë-¾ýÔ½
 ´óÖÚ-ÂõÌÚ
 ÈÕ²ú-Ììô¥
 MGÃû¾ô
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¸£ÌØ-¸£¿ËË¹
 ·áÌï-ÈñÖ¾
 Ñ©·ðÀ¼-¾°³Ì
 ÏÖ´ú-Í¾Ê¤
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁú-¿­Ðý
 ±¾ÌïCR-V
 ÈýÁâ-¸êÀ¶
 ÉÏÆû-ÈÙÍþ
 ¸ßµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 °ÂµÏA6
 À×¿ËÈøË¹GS
 ¿­µÏÀ­¿ËCTS
 ÎÖ¶ûÎÖXC90
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¦Âí5Ïµ
 ÃÔÄãMini
 ´óÖÚ-Í¾Èñ
 ±¦Âí3Ïµ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¼³ÛEÏµ
 Â·»¢-ÉñÐÐÕß2
 ±£Ê±½Ý-¿¨Ñç
 °ÂµÏA4
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÁÖÒñ´óµÀ
 300C
 Ó¢·ÆÄáµÏ
 ¼ªÆÕJeep
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¾©-»¦-½ò-¹ãÖÝ-Îäºº-ÉîÛÚ-É½¶«-É½Î÷-Õã½­-½­ËÕ-¸£½¨-ÁÉÄþ-ºÓÄÏ-ÉÂÎ÷-ºÓ±±-ºþÄÏ-ºÚÁú½­-ÄÚÃÉ¹Å-ÔÆÄÏ-ËÄ´¨-ÖØÇì-¹ãÎ÷-½­Î÷-ÐÂ½®-¼ªÁÖ-¹óÖÝ-¸ÊËà-ÄþÏÄ-°²»Õ-º£ÄÏ-Î÷²Ø-Çàº£-
 ·áÌï°ÔµÀ(ÆÕÀ­¶à)-ÍøÉÏ³µÊÐ(www.cheshi.com.cn)
 ·áÌï
@@ -29336,9 +28717,7 @@ AT
 56.78Íò
 56.78
 ¶©³µ
-¾­ÏúÉÌ£º<?xml
-version="1.0"
-encoding="gb2312"?>±±¾©ÉÏº£Ìì½ò¹ã¶«É½¶«ºþ±±Õã½­½­ËÕÉ½Î÷ÐÂ½®¸£½¨ºÓÄÏÉÂÎ÷ÁÉÄþËÄ´¨ºÓ±±
+¾­ÏúÉÌ£º<?xml version="1.0" encoding="gb2312"?>±±¾©ÉÏº£Ìì½ò¹ã¶«É½¶«ºþ±±Õã½­½­ËÕÉ½Î÷ÐÂ½®¸£½¨ºÓÄÏÉÂÎ÷ÁÉÄþËÄ´¨ºÓ±±
 ºÚÁú½­ºþÄÏÄÚÃÉ¹Å¼ªÁÖÔÆÄÏ¹ãÎ÷ÖØÇì½­Î÷¹óÖÝ¸ÊËàÄþÏÄ°²»Õº£ÄÏÎ÷²ØÇàº£
 ±±¾©°ÔµÀ(ÆÕÀ­¶à)4Sµê
 [¸ü¶à]
@@ -29389,8 +28768,7 @@ encoding="gb2312"?>±±¾©ÉÏº£Ìì½ò¹ã¶«É½¶«ºþ±±Õã½­½­ËÕÉ½Î÷ÐÂ½®¸£½¨ºÓÄÏÉÂÎ÷ÁÉÄþËÄ´¨º
 ¡ø
 È«¹ú·¶Î§ÄÚ¾ù¿ÉÏúÊÛ
 ¡ø
-±¾¹«Ë¾½«±¾×Å¡¶ÐÅÓþµÚÒ»
-¿Í»§ÖÁÉÏ¡·µÄ×ÚÖ¼ÖÒ³ÏµÄÎªÄú·þÎñ
+±¾¹«Ë¾½«±¾×Å¡¶ÐÅÓþµÚÒ» ¿Í»§ÖÁÉÏ¡·µÄ×ÚÖ¼ÖÒ³ÏµÄÎªÄú·þÎñ
 ±±¾©º£Í¨ÐËÒµÆû³µÏúÊÛÓÐÏÞ¹«Ë¾±±³½ÑÇÔË´å·Ö¹«Ë¾
 ¡ï¡ï¡ï
 ±±¾©ÊÐ²ýÆ½Çø±±³½½ø¿ÚÆû³µÕ¹Ìü.
@@ -29420,8 +28798,7 @@ encoding="gb2312"?>±±¾©ÉÏº£Ìì½ò¹ã¶«É½¶«ºþ±±Õã½­½­ËÕÉ½Î÷ÐÂ½®¸£½¨ºÓÄÏÉÂÎ÷ÁÉÄþËÄ´¨º
 ¡ø
 È«¹ú·¶Î§ÄÚ¾ù¿ÉÏúÊÛ
 ¡ø
-±¾¹«Ë¾½«±¾×Å¡¶ÐÅÓþµÚÒ»
-¿Í»§ÖÁÉÏ¡·µÄ×ÚÖ¼ÖÒ³ÏµÄÎªÄú·þÎñ
+±¾¹«Ë¾½«±¾×Å¡¶ÐÅÓþµÚÒ» ¿Í»§ÖÁÉÏ¡·µÄ×ÚÖ¼ÖÒ³ÏµÄÎªÄú·þÎñ
 £¬ÈÃÄú³ËÐË¶øÀ´
 ÂúÒâ¶ø¹é
 ¡°Ò»´ÎÎÕÊÖ
@@ -29515,98 +28892,72 @@ A
 ÓÍºÄÊµ²é
 ÈÈµã³µÐÍ
 ¾­¼ÃÐÍ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÏÖ´ú-ÑÅÉðÌØ
 ÁåÄ¾SX4ÌìÓï
 ÈÕ²ú-æêÍþ
 ³¤°²-±¼±¼
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁúC2
 ±¾Ìï-Ë¼µÏ
 ÆðÑÇ
 RIO
 º£Âí-º£¸£ÐÇ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©·ðÀ¼-ÀÖ·ç
 ·áÌï-Íþ³Û
 ÁåÄ¾-ÓêÑà
 ÆæÈð
 QQ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±êÖÂ206
 polo¾¢Çé
 ´óÖÚ-½Ý´ï
 ±¾Ìï-·É¶È
 ÖÐµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÅÁÈøÌØ-ÁìÔ¦
 ±¾Ìï-ÑÅ¸ó
 ·áÌï-¿­ÃÀÈð
 Âí×Ô´ï
 6
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±ð¿Ë-¾ýÔ½
 ´óÖÚ-ÂõÌÚ
 ÈÕ²ú-Ììô¥
 MGÃû¾ô
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¸£ÌØ-¸£¿ËË¹
 ·áÌï-ÈñÖ¾
 Ñ©·ðÀ¼-¾°³Ì
 ÏÖ´ú-Í¾Ê¤
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁú-¿­Ðý
 ±¾ÌïCR-V
 ÈýÁâ-¸êÀ¶
 ÉÏÆû-ÈÙÍþ
 ¸ßµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 °ÂµÏA6
 À×¿ËÈøË¹GS
 ¿­µÏÀ­¿ËCTS
 ÎÖ¶ûÎÖXC90
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¦Âí5Ïµ
 ÃÔÄãMini
 ´óÖÚ-Í¾Èñ
 ±¦Âí3Ïµ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¼³ÛEÏµ
 Â·»¢-ÉñÐÐÕß2
 ±£Ê±½Ý-¿¨Ñç
 °ÂµÏA4
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÁÖÒñ´óµÀ
 300C
 Ó¢·ÆÄáµÏ
 ¼ªÆÕJeep
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¾©-»¦-½ò-¹ãÖÝ-Îäºº-ÉîÛÚ-É½¶«-É½Î÷-Õã½­-½­ËÕ-¸£½¨-ÁÉÄþ-ºÓÄÏ-ÉÂÎ÷-ºÓ±±-ºþÄÏ-ºÚÁú½­-ÄÚÃÉ¹Å-ÔÆÄÏ-ËÄ´¨-ÖØÇì-¹ãÎ÷-½­Î÷-ÐÂ½®-¼ªÁÖ-¹óÖÝ-¸ÊËà-ÄþÏÄ-°²»Õ-º£ÄÏ-Î÷²Ø-Çàº£-
 ·áÌï°ÔµÀ(ÆÕÀ­¶à)-ÍøÉÏ³µÊÐ(www.cheshi.com.cn)
 ·áÌï
@@ -29786,9 +29137,7 @@ SW
 41.00Íò
 0.00
 ¶©³µ
-¾­ÏúÉÌ£º<?xml
-version="1.0"
-encoding="gb2312"?>±±¾©ÉÏº£Ìì½ò¹ã¶«É½¶«ºþ±±Õã½­½­ËÕÉ½Î÷ÐÂ½®¸£½¨ºÓÄÏÉÂÎ÷ÁÉÄþËÄ´¨ºÓ±±
+¾­ÏúÉÌ£º<?xml version="1.0" encoding="gb2312"?>±±¾©ÉÏº£Ìì½ò¹ã¶«É½¶«ºþ±±Õã½­½­ËÕÉ½Î÷ÐÂ½®¸£½¨ºÓÄÏÉÂÎ÷ÁÉÄþËÄ´¨ºÓ±±
 ºÚÁú½­ºþÄÏÄÚÃÉ¹Å¼ªÁÖÔÆÄÏ¹ãÎ÷ÖØÇì½­Î÷¹óÖÝ¸ÊËàÄþÏÄ°²»Õº£ÄÏÎ÷²ØÇàº£
 ±±¾©°ÔµÀ(ÆÕÀ­¶à)4Sµê
 [¸ü¶à]
@@ -29839,8 +29188,7 @@ encoding="gb2312"?>±±¾©ÉÏº£Ìì½ò¹ã¶«É½¶«ºþ±±Õã½­½­ËÕÉ½Î÷ÐÂ½®¸£½¨ºÓÄÏÉÂÎ÷ÁÉÄþËÄ´¨º
 ¡ø
 È«¹ú·¶Î§ÄÚ¾ù¿ÉÏúÊÛ
 ¡ø
-±¾¹«Ë¾½«±¾×Å¡¶ÐÅÓþµÚÒ»
-¿Í»§ÖÁÉÏ¡·µÄ×ÚÖ¼ÖÒ³ÏµÄÎªÄú·þÎñ
+±¾¹«Ë¾½«±¾×Å¡¶ÐÅÓþµÚÒ» ¿Í»§ÖÁÉÏ¡·µÄ×ÚÖ¼ÖÒ³ÏµÄÎªÄú·þÎñ
 ±±¾©º£Í¨ÐËÒµÆû³µÏúÊÛÓÐÏÞ¹«Ë¾±±³½ÑÇÔË´å·Ö¹«Ë¾
 ¡ï¡ï¡ï
 ±±¾©ÊÐ²ýÆ½Çø±±³½½ø¿ÚÆû³µÕ¹Ìü.
@@ -29870,8 +29218,7 @@ encoding="gb2312"?>±±¾©ÉÏº£Ìì½ò¹ã¶«É½¶«ºþ±±Õã½­½­ËÕÉ½Î÷ÐÂ½®¸£½¨ºÓÄÏÉÂÎ÷ÁÉÄþËÄ´¨º
 ¡ø
 È«¹ú·¶Î§ÄÚ¾ù¿ÉÏúÊÛ
 ¡ø
-±¾¹«Ë¾½«±¾×Å¡¶ÐÅÓþµÚÒ»
-¿Í»§ÖÁÉÏ¡·µÄ×ÚÖ¼ÖÒ³ÏµÄÎªÄú·þÎñ
+±¾¹«Ë¾½«±¾×Å¡¶ÐÅÓþµÚÒ» ¿Í»§ÖÁÉÏ¡·µÄ×ÚÖ¼ÖÒ³ÏµÄÎªÄú·þÎñ
 £¬ÈÃÄú³ËÐË¶øÀ´
 ÂúÒâ¶ø¹é
 ¡°Ò»´ÎÎÕÊÖ
@@ -29965,98 +29312,72 @@ A
 ÓÍºÄÊµ²é
 ÈÈµã³µÐÍ
 ¾­¼ÃÐÍ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÏÖ´ú-ÑÅÉðÌØ
 ÁåÄ¾SX4ÌìÓï
 ÈÕ²ú-æêÍþ
 ³¤°²-±¼±¼
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁúC2
 ±¾Ìï-Ë¼µÏ
 ÆðÑÇ
 RIO
 º£Âí-º£¸£ÐÇ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©·ðÀ¼-ÀÖ·ç
 ·áÌï-Íþ³Û
 ÁåÄ¾-ÓêÑà
 ÆæÈð
 QQ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±êÖÂ206
 polo¾¢Çé
 ´óÖÚ-½Ý´ï
 ±¾Ìï-·É¶È
 ÖÐµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÅÁÈøÌØ-ÁìÔ¦
 ±¾Ìï-ÑÅ¸ó
 ·áÌï-¿­ÃÀÈð
 Âí×Ô´ï
 6
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±ð¿Ë-¾ýÔ½
 ´óÖÚ-ÂõÌÚ
 ÈÕ²ú-Ììô¥
 MGÃû¾ô
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¸£ÌØ-¸£¿ËË¹
 ·áÌï-ÈñÖ¾
 Ñ©·ðÀ¼-¾°³Ì
 ÏÖ´ú-Í¾Ê¤
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁú-¿­Ðý
 ±¾ÌïCR-V
 ÈýÁâ-¸êÀ¶
 ÉÏÆû-ÈÙÍþ
 ¸ßµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 °ÂµÏA6
 À×¿ËÈøË¹GS
 ¿­µÏÀ­¿ËCTS
 ÎÖ¶ûÎÖXC90
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¦Âí5Ïµ
 ÃÔÄãMini
 ´óÖÚ-Í¾Èñ
 ±¦Âí3Ïµ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¼³ÛEÏµ
 Â·»¢-ÉñÐÐÕß2
 ±£Ê±½Ý-¿¨Ñç
 °ÂµÏA4
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÁÖÒñ´óµÀ
 300C
 Ó¢·ÆÄáµÏ
 ¼ªÆÕJeep
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¾©-»¦-½ò-¹ãÖÝ-Îäºº-ÉîÛÚ-É½¶«-É½Î÷-Õã½­-½­ËÕ-¸£½¨-ÁÉÄþ-ºÓÄÏ-ÉÂÎ÷-ºÓ±±-ºþÄÏ-ºÚÁú½­-ÄÚÃÉ¹Å-ÔÆÄÏ-ËÄ´¨-ÖØÇì-¹ãÎ÷-½­Î÷-ÐÂ½®-¼ªÁÖ-¹óÖÝ-¸ÊËà-ÄþÏÄ-°²»Õ-º£ÄÏ-Î÷²Ø-Çàº£-
 ±¼³ÛSÏµ
 2006¿î-ÍøÉÏ³µÊÐ(www.cheshi.com.cn)
@@ -30238,9 +29559,7 @@ AT
 131.62Íò
 129.80
 ¶©³µ
-¾­ÏúÉÌ£º<?xml
-version="1.0"
-encoding="gb2312"?>±±¾©ÉÏº£Ìì½ò¹ã¶«É½¶«ºþ±±Õã½­½­ËÕÉ½Î÷ÐÂ½®¸£½¨ºÓÄÏÉÂÎ÷ÁÉÄþËÄ´¨ºÓ±±
+¾­ÏúÉÌ£º<?xml version="1.0" encoding="gb2312"?>±±¾©ÉÏº£Ìì½ò¹ã¶«É½¶«ºþ±±Õã½­½­ËÕÉ½Î÷ÐÂ½®¸£½¨ºÓÄÏÉÂÎ÷ÁÉÄþËÄ´¨ºÓ±±
 ºÚÁú½­ºþÄÏÄÚÃÉ¹Å¼ªÁÖÔÆÄÏ¹ãÎ÷ÖØÇì½­Î÷¹óÖÝ¸ÊËàÄþÏÄ°²»Õº£ÄÏÎ÷²ØÇàº£
 ±±¾©SÏµ
 2006¿î4Sµê
@@ -30320,8 +29639,7 @@ encoding="gb2312"?>±±¾©ÉÏº£Ìì½ò¹ã¶«É½¶«ºþ±±Õã½­½­ËÕÉ½Î÷ÐÂ½®¸£½¨ºÓÄÏÉÂÎ÷ÁÉÄþËÄ´¨º
 ¡ø
 È«¹ú·¶Î§ÄÚ¾ù¿ÉÏúÊÛ
 ¡ø
-±¾¹«Ë¾½«±¾×Å¡¶ÐÅÓþµÚÒ»
-¿Í»§ÖÁÉÏ¡·µÄ×ÚÖ¼ÖÒ³ÏµÄÎªÄú·þÎñ
+±¾¹«Ë¾½«±¾×Å¡¶ÐÅÓþµÚÒ» ¿Í»§ÖÁÉÏ¡·µÄ×ÚÖ¼ÖÒ³ÏµÄÎªÄú·þÎñ
 ±±¾©±±³½ÍòÍ¨Æû³µÏúÊÛ·þÎñÓÐÏÞ¹«Ë¾
 ±±¾©ÊÐ³¯ÑôÇø±±ËÄ»·ÖÐÂ·16ºÅ±¦Âí(£Â£Í£×)±¼³Û£¨£Â£Å£Î£Ú£©À×¿ËÈøË¹£¨£Ì£Å£Ø£Õ£Ó£©¾­Ïú±±¾©×Ü¹«Ë¾
 Ãâ·Ñ×ÉÑ¯µç»°£º£°£±£°£­£¸£³£°£°£¶£²£¶£±
@@ -30347,8 +29665,7 @@ encoding="gb2312"?>±±¾©ÉÏº£Ìì½ò¹ã¶«É½¶«ºþ±±Õã½­½­ËÕÉ½Î÷ÐÂ½®¸£½¨ºÓÄÏÉÂÎ÷ÁÉÄþËÄ´¨º
 ¡ø
 È«¹ú·¶Î§ÄÚ¾ù¿ÉÏúÊÛ
 ¡ø
-±¾¹«Ë¾½«±¾×Å¡¶ÐÅÓþµÚÒ»
-¿Í»§ÖÁÉÏ¡·µÄ×ÚÖ¼ÖÒ³ÏµÄÎªÄú·þÎñ
+±¾¹«Ë¾½«±¾×Å¡¶ÐÅÓþµÚÒ» ¿Í»§ÖÁÉÏ¡·µÄ×ÚÖ¼ÖÒ³ÏµÄÎªÄú·þÎñ
 £°£±£°£­£¸£°£¶£µ£²£²£±£²
 £±£³£¶£¹£±£²£¶£¶£µ£±£µ
 [¸ü¶à]
@@ -30375,98 +29692,72 @@ encoding="gb2312"?>±±¾©ÉÏº£Ìì½ò¹ã¶«É½¶«ºþ±±Õã½­½­ËÕÉ½Î÷ÐÂ½®¸£½¨ºÓÄÏÉÂÎ÷ÁÉÄþËÄ´¨º
 ÓÍºÄÊµ²é
 ÈÈµã³µÐÍ
 ¾­¼ÃÐÍ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÏÖ´ú-ÑÅÉðÌØ
 ÁåÄ¾SX4ÌìÓï
 ÈÕ²ú-æêÍþ
 ³¤°²-±¼±¼
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁúC2
 ±¾Ìï-Ë¼µÏ
 ÆðÑÇ
 RIO
 º£Âí-º£¸£ÐÇ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©·ðÀ¼-ÀÖ·ç
 ·áÌï-Íþ³Û
 ÁåÄ¾-ÓêÑà
 ÆæÈð
 QQ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±êÖÂ206
 polo¾¢Çé
 ´óÖÚ-½Ý´ï
 ±¾Ìï-·É¶È
 ÖÐµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÅÁÈøÌØ-ÁìÔ¦
 ±¾Ìï-ÑÅ¸ó
 ·áÌï-¿­ÃÀÈð
 Âí×Ô´ï
 6
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±ð¿Ë-¾ýÔ½
 ´óÖÚ-ÂõÌÚ
 ÈÕ²ú-Ììô¥
 MGÃû¾ô
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¸£ÌØ-¸£¿ËË¹
 ·áÌï-ÈñÖ¾
 Ñ©·ðÀ¼-¾°³Ì
 ÏÖ´ú-Í¾Ê¤
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁú-¿­Ðý
 ±¾ÌïCR-V
 ÈýÁâ-¸êÀ¶
 ÉÏÆû-ÈÙÍþ
 ¸ßµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 °ÂµÏA6
 À×¿ËÈøË¹GS
 ¿­µÏÀ­¿ËCTS
 ÎÖ¶ûÎÖXC90
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¦Âí5Ïµ
 ÃÔÄãMini
 ´óÖÚ-Í¾Èñ
 ±¦Âí3Ïµ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¼³ÛEÏµ
 Â·»¢-ÉñÐÐÕß2
 ±£Ê±½Ý-¿¨Ñç
 °ÂµÏA4
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÁÖÒñ´óµÀ
 300C
 Ó¢·ÆÄáµÏ
 ¼ªÆÕJeep
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¾©-»¦-½ò-¹ãÖÝ-Îäºº-ÉîÛÚ-É½¶«-É½Î÷-Õã½­-½­ËÕ-¸£½¨-ÁÉÄþ-ºÓÄÏ-ÉÂÎ÷-ºÓ±±-ºþÄÏ-ºÚÁú½­-ÄÚÃÉ¹Å-ÔÆÄÏ-ËÄ´¨-ÖØÇì-¹ãÎ÷-½­Î÷-ÐÂ½®-¼ªÁÖ-¹óÖÝ-¸ÊËà-ÄþÏÄ-°²»Õ-º£ÄÏ-Î÷²Ø-Çàº£-
 ±ð¿Ë¿­Ô½-ÍøÉÏ³µÊÐ(www.cheshi.com.cn)
 ±ð¿Ë
@@ -30691,9 +29982,7 @@ MT
 10.44Íò
 10.68
 ¶©³µ
-¾­ÏúÉÌ£º<?xml
-version="1.0"
-encoding="gb2312"?>±±¾©ÉÏº£Ìì½ò¹ã¶«É½¶«ºþ±±Õã½­½­ËÕÉ½Î÷ÐÂ½®¸£½¨ºÓÄÏÉÂÎ÷ÁÉÄþËÄ´¨ºÓ±±
+¾­ÏúÉÌ£º<?xml version="1.0" encoding="gb2312"?>±±¾©ÉÏº£Ìì½ò¹ã¶«É½¶«ºþ±±Õã½­½­ËÕÉ½Î÷ÐÂ½®¸£½¨ºÓÄÏÉÂÎ÷ÁÉÄþËÄ´¨ºÓ±±
 ºÚÁú½­ºþÄÏÄÚÃÉ¹Å¼ªÁÖÔÆÄÏ¹ãÎ÷ÖØÇì½­Î÷¹óÖÝ¸ÊËàÄþÏÄ°²»Õº£ÄÏÎ÷²ØÇàº£
 ±±¾©¿­Ô½4Sµê
 ±±¾©¿¥±¦½ÝÆû³µÎ¬ÐÞÓÐÏÞ¹«Ë¾
@@ -30952,98 +30241,72 @@ encoding="gb2312"?>±±¾©ÉÏº£Ìì½ò¹ã¶«É½¶«ºþ±±Õã½­½­ËÕÉ½Î÷ÐÂ½®¸£½¨ºÓÄÏÉÂÎ÷ÁÉÄþËÄ´¨º
 ÓÍºÄÊµ²é
 ÈÈµã³µÐÍ
 ¾­¼ÃÐÍ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÏÖ´ú-ÑÅÉðÌØ
 ÁåÄ¾SX4ÌìÓï
 ÈÕ²ú-æêÍþ
 ³¤°²-±¼±¼
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁúC2
 ±¾Ìï-Ë¼µÏ
 ÆðÑÇ
 RIO
 º£Âí-º£¸£ÐÇ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©·ðÀ¼-ÀÖ·ç
 ·áÌï-Íþ³Û
 ÁåÄ¾-ÓêÑà
 ÆæÈð
 QQ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±êÖÂ206
 polo¾¢Çé
 ´óÖÚ-½Ý´ï
 ±¾Ìï-·É¶È
 ÖÐµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÅÁÈøÌØ-ÁìÔ¦
 ±¾Ìï-ÑÅ¸ó
 ·áÌï-¿­ÃÀÈð
 Âí×Ô´ï
 6
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±ð¿Ë-¾ýÔ½
 ´óÖÚ-ÂõÌÚ
 ÈÕ²ú-Ììô¥
 MGÃû¾ô
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¸£ÌØ-¸£¿ËË¹
 ·áÌï-ÈñÖ¾
 Ñ©·ðÀ¼-¾°³Ì
 ÏÖ´ú-Í¾Ê¤
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁú-¿­Ðý
 ±¾ÌïCR-V
 ÈýÁâ-¸êÀ¶
 ÉÏÆû-ÈÙÍþ
 ¸ßµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 °ÂµÏA6
 À×¿ËÈøË¹GS
 ¿­µÏÀ­¿ËCTS
 ÎÖ¶ûÎÖXC90
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¦Âí5Ïµ
 ÃÔÄãMini
 ´óÖÚ-Í¾Èñ
 ±¦Âí3Ïµ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¼³ÛEÏµ
 Â·»¢-ÉñÐÐÕß2
 ±£Ê±½Ý-¿¨Ñç
 °ÂµÏA4
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÁÖÒñ´óµÀ
 300C
 Ó¢·ÆÄáµÏ
 ¼ªÆÕJeep
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¾©-»¦-½ò-¹ãÖÝ-Îäºº-ÉîÛÚ-É½¶«-É½Î÷-Õã½­-½­ËÕ-¸£½¨-ÁÉÄþ-ºÓÄÏ-ÉÂÎ÷-ºÓ±±-ºþÄÏ-ºÚÁú½­-ÄÚÃÉ¹Å-ÔÆÄÏ-ËÄ´¨-ÖØÇì-¹ãÎ÷-½­Î÷-ÐÂ½®-¼ªÁÖ-¹óÖÝ-¸ÊËà-ÄþÏÄ-°²»Õ-º£ÄÏ-Î÷²Ø-Çàº£-
 ´óÖÚ(Ò»Æû)½Ý´ï
 2007¿î-ÍøÉÏ³µÊÐ(www.cheshi.com.cn)
@@ -31221,9 +30484,7 @@ DG6471B
 6.89Íò
 6.98
 ¶©³µ
-¾­ÏúÉÌ£º<?xml
-version="1.0"
-encoding="gb2312"?>±±¾©ÉÏº£Ìì½ò¹ã¶«É½¶«ºþ±±Õã½­½­ËÕÉ½Î÷ÐÂ½®¸£½¨ºÓÄÏÉÂÎ÷ÁÉÄþËÄ´¨ºÓ±±
+¾­ÏúÉÌ£º<?xml version="1.0" encoding="gb2312"?>±±¾©ÉÏº£Ìì½ò¹ã¶«É½¶«ºþ±±Õã½­½­ËÕÉ½Î÷ÐÂ½®¸£½¨ºÓÄÏÉÂÎ÷ÁÉÄþËÄ´¨ºÓ±±
 ºÚÁú½­ºþÄÏÄÚÃÉ¹Å¼ªÁÖÔÆÄÏ¹ãÎ÷ÖØÇì½­Î÷¹óÖÝ¸ÊËàÄþÏÄ°²»Õº£ÄÏÎ÷²ØÇàº£
 ±±¾©½Ý´ï
 2007¿î4Sµê
@@ -31345,12 +30606,7 @@ encoding="gb2312"?>±±¾©ÉÏº£Ìì½ò¹ã¶«É½¶«ºþ±±Õã½­½­ËÕÉ½Î÷ÐÂ½®¸£½¨ºÓÄÏÉÂÎ÷ÁÉÄþËÄ´¨º
 °ì¹«ÊÒ010-66235286(24Ð¡Ê±ÏúÊÛÈÈÏß;13311366447³ÏÐÅÎª±¾4Sµêµ×¼ÛÏúÊÛ)
 ±±¾©¶¥¼Ñ³ÉÆû³µÃ³Ò×ÓÐÏÞÔðÈÎ¹«Ë¾
 ±±¾©ÊÐ³¯ÑôÇøÒ¦¼ÒÔ°Â·¶«·½»ùÒµÆû³µ³Ç£¨ÖÐÇø£©
-£¨(³ÏÐÅÆóÒµ)ÌØÐí´úÀí4SµêÏúÊÛ¡ï¡ï¡ï¡ï¡ï
-(¹¤×÷³µ½ÓËÍ)»¶Ó­È«¹ú¸÷µØ¹«Ë¾¸öÈËÓÃ»§À´µç×ÉÑ¯£¬³ÏÕ÷È«¹ú¸÷µØÆóÊÂÒµµ¥Î»¹«Ë¾¸öÈË³¤ÆÚºÏ×÷»¶Ó­À´µç×ÉÑ¯
-010-89119891
-13621216708
-¹ÜÏÈÉú
-(ÏúÊÛÖ÷¹Ü)
+£¨(³ÏÐÅÆóÒµ)ÌØÐí´úÀí4SµêÏúÊÛ¡ï¡ï¡ï¡ï¡ï (¹¤×÷³µ½ÓËÍ)»¶Ó­È«¹ú¸÷µØ¹«Ë¾¸öÈËÓÃ»§À´µç×ÉÑ¯£¬³ÏÕ÷È«¹ú¸÷µØÆóÊÂÒµµ¥Î»¹«Ë¾¸öÈË³¤ÆÚºÏ×÷»¶Ó­À´µç×ÉÑ¯ 010-89119891 13621216708 ¹ÜÏÈÉú (ÏúÊÛÖ÷¹Ü)
 ±±¾©»ªÎÄ¿­²©Æû³µÏúÊÛÓÐÏÞ¹«Ë¾
 ¡ï³ÏÐÅÆóÒµ¡ï²»ÏÞÇøÓò.4Sµê:±±¾©ÊÐ±±Îå»·-±±Ô·ÖÐÂ·¡¢»¶Ó­À´µç(µê)Ç¢Ì¸:13718088972Íô¾­Àí
 4S*³ÏÐÅÆóÒµ*
@@ -31442,98 +30698,72 @@ encoding="gb2312"?>±±¾©ÉÏº£Ìì½ò¹ã¶«É½¶«ºþ±±Õã½­½­ËÕÉ½Î÷ÐÂ½®¸£½¨ºÓÄÏÉÂÎ÷ÁÉÄþËÄ´¨º
 ÓÍºÄÊµ²é
 ÈÈµã³µÐÍ
 ¾­¼ÃÐÍ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÏÖ´ú-ÑÅÉðÌØ
 ÁåÄ¾SX4ÌìÓï
 ÈÕ²ú-æêÍþ
 ³¤°²-±¼±¼
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁúC2
 ±¾Ìï-Ë¼µÏ
 ÆðÑÇ
 RIO
 º£Âí-º£¸£ÐÇ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©·ðÀ¼-ÀÖ·ç
 ·áÌï-Íþ³Û
 ÁåÄ¾-ÓêÑà
 ÆæÈð
 QQ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±êÖÂ206
 polo¾¢Çé
 ´óÖÚ-½Ý´ï
 ±¾Ìï-·É¶È
 ÖÐµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÅÁÈøÌØ-ÁìÔ¦
 ±¾Ìï-ÑÅ¸ó
 ·áÌï-¿­ÃÀÈð
 Âí×Ô´ï
 6
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±ð¿Ë-¾ýÔ½
 ´óÖÚ-ÂõÌÚ
 ÈÕ²ú-Ììô¥
 MGÃû¾ô
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¸£ÌØ-¸£¿ËË¹
 ·áÌï-ÈñÖ¾
 Ñ©·ðÀ¼-¾°³Ì
 ÏÖ´ú-Í¾Ê¤
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁú-¿­Ðý
 ±¾ÌïCR-V
 ÈýÁâ-¸êÀ¶
 ÉÏÆû-ÈÙÍþ
 ¸ßµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 °ÂµÏA6
 À×¿ËÈøË¹GS
 ¿­µÏÀ­¿ËCTS
 ÎÖ¶ûÎÖXC90
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¦Âí5Ïµ
 ÃÔÄãMini
 ´óÖÚ-Í¾Èñ
 ±¦Âí3Ïµ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¼³ÛEÏµ
 Â·»¢-ÉñÐÐÕß2
 ±£Ê±½Ý-¿¨Ñç
 °ÂµÏA4
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÁÖÒñ´óµÀ
 300C
 Ó¢·ÆÄáµÏ
 ¼ªÆÕJeep
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¾©-»¦-½ò-¹ãÖÝ-Îäºº-ÉîÛÚ-É½¶«-É½Î÷-Õã½­-½­ËÕ-¸£½¨-ÁÉÄþ-ºÓÄÏ-ÉÂÎ÷-ºÓ±±-ºþÄÏ-ºÚÁú½­-ÄÚÃÉ¹Å-ÔÆÄÏ-ËÄ´¨-ÖØÇì-¹ãÎ÷-½­Î÷-ÐÂ½®-¼ªÁÖ-¹óÖÝ-¸ÊËà-ÄþÏÄ-°²»Õ-º£ÄÏ-Î÷²Ø-Çàº£-
 ±£Ê±½ÝÐÂ¿¨ÑçCayenne-ÍøÉÏ³µÊÐ(www.cheshi.com.cn)
 ±£Ê±½Ý
@@ -31708,9 +30938,7 @@ AT
 95.80Íò
 95.80
 ¶©³µ
-¾­ÏúÉÌ£º<?xml
-version="1.0"
-encoding="gb2312"?>±±¾©ÉÏº£Ìì½ò¹ã¶«É½¶«ºþ±±Õã½­½­ËÕÉ½Î÷ÐÂ½®¸£½¨ºÓÄÏÉÂÎ÷ÁÉÄþËÄ´¨ºÓ±±
+¾­ÏúÉÌ£º<?xml version="1.0" encoding="gb2312"?>±±¾©ÉÏº£Ìì½ò¹ã¶«É½¶«ºþ±±Õã½­½­ËÕÉ½Î÷ÐÂ½®¸£½¨ºÓÄÏÉÂÎ÷ÁÉÄþËÄ´¨ºÓ±±
 ºÚÁú½­ºþÄÏÄÚÃÉ¹Å¼ªÁÖÔÆÄÏ¹ãÎ÷ÖØÇì½­Î÷¹óÖÝ¸ÊËàÄþÏÄ°²»Õº£ÄÏÎ÷²ØÇàº£
 ±±¾©ÐÂ¿¨ÑçCayenne4Sµê
 [¸ü¶à]
@@ -31738,8 +30966,7 @@ encoding="gb2312"?>±±¾©ÉÏº£Ìì½ò¹ã¶«É½¶«ºþ±±Õã½­½­ËÕÉ½Î÷ÐÂ½®¸£½¨ºÓÄÏÉÂÎ÷ÁÉÄþËÄ´¨º
 ¡ø
 È«¹ú·¶Î§ÄÚ¾ù¿ÉÏúÊÛ
 ¡ø
-±¾¹«Ë¾½«±¾×Å¡¶ÐÅÓþµÚÒ»
-¿Í»§ÖÁÉÏ¡·µÄ×ÚÖ¼ÖÒ³ÏµÄÎªÄú·þÎñ
+±¾¹«Ë¾½«±¾×Å¡¶ÐÅÓþµÚÒ» ¿Í»§ÖÁÉÏ¡·µÄ×ÚÖ¼ÖÒ³ÏµÄÎªÄú·þÎñ
 ±±¾©´ïÔËÆû³µÃ³Ò×¹«Ë¾
 ¡ï¡ï¡ï
 £´£Óµê:±±¾©ÊÐ³¯ÑôÇø°ÂÌå¶«ÃÅÎåÐÇ¼¶4Sµê(³ÏÐÅÆóÒµ)¡ï¡ï¡ïÕþ¸®²É¹º
@@ -31837,98 +31064,72 @@ encoding="gb2312"?>±±¾©ÉÏº£Ìì½ò¹ã¶«É½¶«ºþ±±Õã½­½­ËÕÉ½Î÷ÐÂ½®¸£½¨ºÓÄÏÉÂÎ÷ÁÉÄþËÄ´¨º
 ÓÍºÄÊµ²é
 ÈÈµã³µÐÍ
 ¾­¼ÃÐÍ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÏÖ´ú-ÑÅÉðÌØ
 ÁåÄ¾SX4ÌìÓï
 ÈÕ²ú-æêÍþ
 ³¤°²-±¼±¼
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁúC2
 ±¾Ìï-Ë¼µÏ
 ÆðÑÇ
 RIO
 º£Âí-º£¸£ÐÇ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©·ðÀ¼-ÀÖ·ç
 ·áÌï-Íþ³Û
 ÁåÄ¾-ÓêÑà
 ÆæÈð
 QQ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±êÖÂ206
 polo¾¢Çé
 ´óÖÚ-½Ý´ï
 ±¾Ìï-·É¶È
 ÖÐµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÅÁÈøÌØ-ÁìÔ¦
 ±¾Ìï-ÑÅ¸ó
 ·áÌï-¿­ÃÀÈð
 Âí×Ô´ï
 6
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±ð¿Ë-¾ýÔ½
 ´óÖÚ-ÂõÌÚ
 ÈÕ²ú-Ììô¥
 MGÃû¾ô
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¸£ÌØ-¸£¿ËË¹
 ·áÌï-ÈñÖ¾
 Ñ©·ðÀ¼-¾°³Ì
 ÏÖ´ú-Í¾Ê¤
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁú-¿­Ðý
 ±¾ÌïCR-V
 ÈýÁâ-¸êÀ¶
 ÉÏÆû-ÈÙÍþ
 ¸ßµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 °ÂµÏA6
 À×¿ËÈøË¹GS
 ¿­µÏÀ­¿ËCTS
 ÎÖ¶ûÎÖXC90
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¦Âí5Ïµ
 ÃÔÄãMini
 ´óÖÚ-Í¾Èñ
 ±¦Âí3Ïµ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¼³ÛEÏµ
 Â·»¢-ÉñÐÐÕß2
 ±£Ê±½Ý-¿¨Ñç
 °ÂµÏA4
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÁÖÒñ´óµÀ
 300C
 Ó¢·ÆÄáµÏ
 ¼ªÆÕJeep
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¾©-»¦-½ò-¹ãÖÝ-Îäºº-ÉîÛÚ-É½¶«-É½Î÷-Õã½­-½­ËÕ-¸£½¨-ÁÉÄþ-ºÓÄÏ-ÉÂÎ÷-ºÓ±±-ºþÄÏ-ºÚÁú½­-ÄÚÃÉ¹Å-ÔÆÄÏ-ËÄ´¨-ÖØÇì-¹ãÎ÷-½­Î÷-ÐÂ½®-¼ªÁÖ-¹óÖÝ-¸ÊËà-ÄþÏÄ-°²»Õ-º£ÄÏ-Î÷²Ø-Çàº£-
 ÏÖ´úÒÁÀ¼ÌØ
 2007¿î-ÍøÉÏ³µÊÐ(www.cheshi.com.cn)
@@ -32126,9 +31327,7 @@ MT
 8.78Íò
 9.38
 ¶©³µ
-¾­ÏúÉÌ£º<?xml
-version="1.0"
-encoding="gb2312"?>±±¾©ÉÏº£Ìì½ò¹ã¶«É½¶«ºþ±±Õã½­½­ËÕÉ½Î÷ÐÂ½®¸£½¨ºÓÄÏÉÂÎ÷ÁÉÄþËÄ´¨ºÓ±±
+¾­ÏúÉÌ£º<?xml version="1.0" encoding="gb2312"?>±±¾©ÉÏº£Ìì½ò¹ã¶«É½¶«ºþ±±Õã½­½­ËÕÉ½Î÷ÐÂ½®¸£½¨ºÓÄÏÉÂÎ÷ÁÉÄþËÄ´¨ºÓ±±
 ºÚÁú½­ºþÄÏÄÚÃÉ¹Å¼ªÁÖÔÆÄÏ¹ãÎ÷ÖØÇì½­Î÷¹óÖÝ¸ÊËàÄþÏÄ°²»Õº£ÄÏÎ÷²ØÇàº£
 ±±¾©ÒÁÀ¼ÌØ
 2007¿î4Sµê
@@ -32262,8 +31461,7 @@ encoding="gb2312"?>±±¾©ÉÏº£Ìì½ò¹ã¶«É½¶«ºþ±±Õã½­½­ËÕÉ½Î÷ÐÂ½®¸£½¨ºÓÄÏÉÂÎ÷ÁÉÄþËÄ´¨º
 ¡ø
 È«¹ú·¶Î§ÄÚ¾ù¿ÉÏúÊÛ
 ¡ø
-±¾¹«Ë¾½«±¾×Å¡¶ÐÅÓþµÚÒ»
-¿Í»§ÖÁÉÏ¡·µÄ×ÚÖ¼ÖÒ³ÏµÄÎªÄú·þÎñ
+±¾¹«Ë¾½«±¾×Å¡¶ÐÅÓþµÚÒ» ¿Í»§ÖÁÉÏ¡·µÄ×ÚÖ¼ÖÒ³ÏµÄÎªÄú·þÎñ
 £¬ÈÃÄú³ËÐË¶øÀ´
 ÂúÒâ¶ø¹é
 ¡°Ò»´ÎÎÕÊÖ
@@ -32359,98 +31557,72 @@ encoding="gb2312"?>±±¾©ÉÏº£Ìì½ò¹ã¶«É½¶«ºþ±±Õã½­½­ËÕÉ½Î÷ÐÂ½®¸£½¨ºÓÄÏÉÂÎ÷ÁÉÄþËÄ´¨º
 ÓÍºÄÊµ²é
 ÈÈµã³µÐÍ
 ¾­¼ÃÐÍ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÏÖ´ú-ÑÅÉðÌØ
 ÁåÄ¾SX4ÌìÓï
 ÈÕ²ú-æêÍþ
 ³¤°²-±¼±¼
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁúC2
 ±¾Ìï-Ë¼µÏ
 ÆðÑÇ
 RIO
 º£Âí-º£¸£ÐÇ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©·ðÀ¼-ÀÖ·ç
 ·áÌï-Íþ³Û
 ÁåÄ¾-ÓêÑà
 ÆæÈð
 QQ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±êÖÂ206
 polo¾¢Çé
 ´óÖÚ-½Ý´ï
 ±¾Ìï-·É¶È
 ÖÐµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÅÁÈøÌØ-ÁìÔ¦
 ±¾Ìï-ÑÅ¸ó
 ·áÌï-¿­ÃÀÈð
 Âí×Ô´ï
 6
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±ð¿Ë-¾ýÔ½
 ´óÖÚ-ÂõÌÚ
 ÈÕ²ú-Ììô¥
 MGÃû¾ô
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¸£ÌØ-¸£¿ËË¹
 ·áÌï-ÈñÖ¾
 Ñ©·ðÀ¼-¾°³Ì
 ÏÖ´ú-Í¾Ê¤
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁú-¿­Ðý
 ±¾ÌïCR-V
 ÈýÁâ-¸êÀ¶
 ÉÏÆû-ÈÙÍþ
 ¸ßµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 °ÂµÏA6
 À×¿ËÈøË¹GS
 ¿­µÏÀ­¿ËCTS
 ÎÖ¶ûÎÖXC90
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¦Âí5Ïµ
 ÃÔÄãMini
 ´óÖÚ-Í¾Èñ
 ±¦Âí3Ïµ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¼³ÛEÏµ
 Â·»¢-ÉñÐÐÕß2
 ±£Ê±½Ý-¿¨Ñç
 °ÂµÏA4
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÁÖÒñ´óµÀ
 300C
 Ó¢·ÆÄáµÏ
 ¼ªÆÕJeep
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¾©-»¦-½ò-¹ãÖÝ-Îäºº-ÉîÛÚ-É½¶«-É½Î÷-Õã½­-½­ËÕ-¸£½¨-ÁÉÄþ-ºÓÄÏ-ÉÂÎ÷-ºÓ±±-ºþÄÏ-ºÚÁú½­-ÄÚÃÉ¹Å-ÔÆÄÏ-ËÄ´¨-ÖØÇì-¹ãÎ÷-½­Î÷-ÐÂ½®-¼ªÁÖ-¹óÖÝ-¸ÊËà-ÄþÏÄ-°²»Õ-º£ÄÏ-Î÷²Ø-Çàº£-
 ÍøÉÏ¶©³µ
 -->
@@ -35992,9 +35164,7 @@ Reserved.
 Email:service@cheshi.com.cn
 11401
 Æû³µ¼ÛÎ»·Öµµ-¸÷ÖÖÆû³µ±¨¼Û|ÍøÉÏ³µÊÐ(www.cheshi.com.cn)
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÍøÉÏ³µÊÐÊ×Ò³
 ¼Û¸ñ×¨Çø
 Ïà¹ØÖ÷Ìâ½ø¿Ú×¨Çø
@@ -36096,9 +35266,7 @@ encoding="gb2312"?>
 ºþÄÏµØÇø
 ÄÚÃÉ¹Å
 ¼ªÁÖµØÇø
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Æ·ÅÆ
 ³µÐÍ
 ¼Û¸ñ
@@ -36142,50 +35310,38 @@ MT±ê×¼ÐÍ3.98Íò01-16±±¾©¼½¶«ÁúÆû³µÓÐÏÞ¹«Ë¾
 °ÂµÏÐÂA4
 1.8T
 CVT¸öÐÔ·ç¸ñ°æ2007¿î31.9Íò12-13±±¾©ÖÐÈó·¢Æû³µÏúÊÛÓÐÏÞ¹«Ë¾
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Æ·ÅÆ
 ³µÐÍ
 ¼Û¸ñ
 ÈÕÆÚ
 ¾­ÏúÉÌ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Æ·ÅÆ
 ³µÐÍ
 ¼Û¸ñ
 ÈÕÆÚ
 ¾­ÏúÉÌ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Æ·ÅÆ
 ³µÐÍ
 ¼Û¸ñ
 ÈÕÆÚ
 ¾­ÏúÉÌ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Æ·ÅÆ
 ³µÐÍ
 ¼Û¸ñ
 ÈÕÆÚ
 ¾­ÏúÉÌ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Æ·ÅÆ
 ³µÐÍ
 ¼Û¸ñ
 ÈÕÆÚ
 ¾­ÏúÉÌ
 ¹ËÎÊ×ùÏ¯
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÐÕÃû:
 »Æ¼û»¶
 Ö°Î»:
@@ -36229,9 +35385,7 @@ encoding="gb2312"?>
 ºÀ»ª³µ¶Ô±È
 |
 ¾­¼Ã³µ¶Ô±È
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ½¼Ò°ÖÐµÄ³ÇÊÐÐ¡×Ó
 ÊÔ¼ÝCross
 Polo
@@ -36243,9 +35397,7 @@ Polo
 [ÈÙÍþ³µÓÑ»á]£º¶Ô¡°À­¸ßËÙ¡±ÓÐÒÉÎÊµÄTXÃÇÇë½ø£¬ÓÐ¹Ø
 [¸ß¶û·ò³µÓÑ»á]£º¾«»ª¡ªµãÆÀÖÐ¹úÔÚ²úÆû³µ£¡£¡
 [ÈÙÍþ³µÓÑ»á]£ºÈÙÍþ750µÍÓÍºÄµÄ²»ÍêÈ«¼¼ÇÉ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ð¡×ÊÉú»î×ªÕÛµã
 ¸ÐÊÜÁé¶¯Âí×Ô´ï2
 [ÊÔ¼Ý]£º½¼Ò°ÖÐµÄ³ÇÊÐÐ¡×Ó
@@ -36275,13 +35427,9 @@ R35
 ÊÔ¼ÝÇàÄêÁ«»¨RCR¾ºËÙ
 [ÊÔ¼Ý]£ºÌåÑé¾«ÖÂÐ¡×ÊÉú»î
 ¸ÐÊÜ1.3LÆæÈðA1ÀÖÈ¤
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¹ú²úÈÈµã³µÐÍ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±ð¿Ë¿­Ô½1.6LX
 MT
 ´óÖÚ(Ò»Æû)ËÙÌÚ
@@ -36321,9 +35469,7 @@ Cerat
 Âí×Ô´ïÐÂMazda3
 1.
 ½ø¿ÚÈÈµã³µÐÍ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÏÖ´úÐÂÊ¤´ïsanta
 Fe
 ±£Ê±½ÝÐÂ¿¨ÑçCayenne
@@ -36364,91 +35510,67 @@ S350
 ÈýÁâÅ·À¶µÂOUTLANDE
 ÈÈµã³µÐÍ
 ¾­¼ÃÐÍ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÏÖ´ú-ÑÅÉðÌØ
 ÁåÄ¾SX4ÌìÓï
 ÈÕ²ú-æêÍþ
 ³¤°²-±¼±¼
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁúC2
 ±¾Ìï-Ë¼µÏ
 ÆðÑÇ
 RIO
 º£Âí-º£¸£ÐÇ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©·ðÀ¼-ÀÖ·ç
 ·áÌï-Íþ³Û
 ÁåÄ¾-ÓêÑà
 ÆæÈð
 QQ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±êÖÂ206
 polo¾¢Çé
 ´óÖÚ-½Ý´ï
 ±¾Ìï-·É¶È
 ÖÐµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÅÁÈøÌØ-ÁìÔ¦
 ±¾Ìï-ÑÅ¸ó
 ·áÌï-¿­ÃÀÈð
 Âí×Ô´ï
 6
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±ð¿Ë-¾ýÔ½
 ´óÖÚ-ÂõÌÚ
 ÈÕ²ú-Ììô¥
 MGÃû¾ô
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¸£ÌØ-¸£¿ËË¹
 ·áÌï-ÈñÖ¾
 Ñ©·ðÀ¼-¾°³Ì
 ÏÖ´ú-Í¾Ê¤
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁú-¿­Ðý
 ±¾ÌïCR-V
 ÈýÁâ-¸êÀ¶
 ÉÏÆû-ÈÙÍþ
 ¸ßµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 °ÂµÏA6
 À×¿ËÈøË¹GS
 ¿­µÏÀ­¿ËCTS
 ÎÖ¶ûÎÖXC90
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¦Âí5Ïµ
 ÃÔÄãMini
 ´óÖÚ-Í¾Èñ
 ±¦Âí3Ïµ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¼³ÛEÏµ
 Â·»¢-ÉñÐÐÕß2
 ±£Ê±½Ý-¿¨Ñç
 °ÂµÏA4
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÁÖÒñ´óµÀ
 300C
 Ó¢·ÆÄáµÏ
@@ -36461,9 +35583,7 @@ encoding="gb2312"?>
 µÚ8´ú±¨¼Û-±¾Ìï
 ÑÅ¸ó
 µÚ8´ú¼Û¸ñ|ÍøÉÏ³µÊÐ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¾Ìï
 ÑÅ¸ó
 µÚ8´ú
@@ -36488,9 +35608,7 @@ encoding="gb2312"?>
 ±¾ÏµÁÐÆÀÂÛ0Ìõ
 ¶þÊÖ³µ¡¢ÌØ¼Û³µ´æÁ¿£º
 ÏÖÓÐ0Á¾¶þÊÖ³µ0Á¾ÌØ¼Û³µ
-¾­ÏúÉÌ£º<?xml
-version="1.0"
-encoding="gb2312"?>±±¾©ÉÏº£Ìì½ò¹ã¶«É½¶«ºþ±±Õã½­½­ËÕÉ½Î÷ÐÂ½®¸£½¨ºÓÄÏÉÂÎ÷ÁÉÄþËÄ´¨ºÓ±±
+¾­ÏúÉÌ£º<?xml version="1.0" encoding="gb2312"?>±±¾©ÉÏº£Ìì½ò¹ã¶«É½¶«ºþ±±Õã½­½­ËÕÉ½Î÷ÐÂ½®¸£½¨ºÓÄÏÉÂÎ÷ÁÉÄþËÄ´¨ºÓ±±
 ºÚÁú½­ºþÄÏÄÚÃÉ¹Å¼ªÁÖÔÆÄÏ¹ãÎ÷ÖØÇì½­Î÷¹óÖÝ¸ÊËàÄþÏÄ°²»Õº£ÄÏÎ÷²ØÇàº£
 ³µÐÍ
 Àà±ð
@@ -36514,9 +35632,7 @@ Navi
 26.39Íò
 26.48
 ¶©³µ
-¾­ÏúÉÌ£º<?xml
-version="1.0"
-encoding="gb2312"?>±±¾©ÉÏº£Ìì½ò¹ã¶«É½¶«ºþ±±Õã½­½­ËÕÉ½Î÷ÐÂ½®¸£½¨ºÓÄÏÉÂÎ÷ÁÉÄþËÄ´¨ºÓ±±
+¾­ÏúÉÌ£º<?xml version="1.0" encoding="gb2312"?>±±¾©ÉÏº£Ìì½ò¹ã¶«É½¶«ºþ±±Õã½­½­ËÕÉ½Î÷ÐÂ½®¸£½¨ºÓÄÏÉÂÎ÷ÁÉÄþËÄ´¨ºÓ±±
 ºÚÁú½­ºþÄÏÄÚÃÉ¹Å¼ªÁÖÔÆÄÏ¹ãÎ÷ÖØÇì½­Î÷¹óÖÝ¸ÊËàÄþÏÄ°²»Õº£ÄÏÎ÷²ØÇàº£
 ±±¾©ÑÅ¸ó
 µÚ8´ú4Sµê
@@ -36595,8 +35711,7 @@ encoding="gb2312"?>±±¾©ÉÏº£Ìì½ò¹ã¶«É½¶«ºþ±±Õã½­½­ËÕÉ½Î÷ÐÂ½®¸£½¨ºÓÄÏÉÂÎ÷ÁÉÄþËÄ´¨º
 ¡ø
 È«¹ú·¶Î§ÄÚ¾ù¿ÉÏúÊÛ
 ¡ø
-±¾¹«Ë¾½«±¾×Å¡¶ÐÅÓþµÚÒ»
-¿Í»§ÖÁÉÏ¡·µÄ×ÚÖ¼ÖÒ³ÏµÄÎªÄú·þÎñ
+±¾¹«Ë¾½«±¾×Å¡¶ÐÅÓþµÚÒ» ¿Í»§ÖÁÉÏ¡·µÄ×ÚÖ¼ÖÒ³ÏµÄÎªÄú·þÎñ
 £¬ÈÃÄú³ËÐË¶øÀ´
 ÂúÒâ¶ø¹é
 ¡°Ò»´ÎÎÕÊÖ
@@ -36665,8 +35780,7 @@ encoding="gb2312"?>±±¾©ÉÏº£Ìì½ò¹ã¶«É½¶«ºþ±±Õã½­½­ËÕÉ½Î÷ÐÂ½®¸£½¨ºÓÄÏÉÂÎ÷ÁÉÄþËÄ´¨º
 ¡ø
 È«¹ú·¶Î§ÄÚ¾ù¿ÉÏúÊÛ
 ¡ø
-±¾¹«Ë¾½«±¾×Å¡¶ÐÅÓþµÚÒ»
-¿Í»§ÖÁÉÏ¡·µÄ×ÚÖ¼ÖÒ³ÏµÄÎªÄú·þÎñ
+±¾¹«Ë¾½«±¾×Å¡¶ÐÅÓþµÚÒ» ¿Í»§ÖÁÉÏ¡·µÄ×ÚÖ¼ÖÒ³ÏµÄÎªÄú·þÎñ
 £°£±£°£­£¸£°£¶£µ£²£²£±£²
 £±£³£¶£¹£±£²£¶£¶£µ£±£µ
 [¸ü¶à]
@@ -36691,106 +35805,78 @@ encoding="gb2312"?>±±¾©ÉÏº£Ìì½ò¹ã¶«É½¶«ºþ±±Õã½­½­ËÕÉ½Î÷ÐÂ½®¸£½¨ºÓÄÏÉÂÎ÷ÁÉÄþËÄ´¨º
 ÓÍºÄÊµ²é
 ÈÈµã³µÐÍ
 ¾­¼ÃÐÍ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÏÖ´ú-ÑÅÉðÌØ
 ÁåÄ¾SX4ÌìÓï
 ÈÕ²ú-æêÍþ
 ³¤°²-±¼±¼
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁúC2
 ±¾Ìï-Ë¼µÏ
 ÆðÑÇ
 RIO
 º£Âí-º£¸£ÐÇ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©·ðÀ¼-ÀÖ·ç
 ·áÌï-Íþ³Û
 ÁåÄ¾-ÓêÑà
 ÆæÈð
 QQ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±êÖÂ206
 polo¾¢Çé
 ´óÖÚ-½Ý´ï
 ±¾Ìï-·É¶È
 ÖÐµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÅÁÈøÌØ-ÁìÔ¦
 ±¾Ìï-ÑÅ¸ó
 ·áÌï-¿­ÃÀÈð
 Âí×Ô´ï
 6
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±ð¿Ë-¾ýÔ½
 ´óÖÚ-ÂõÌÚ
 ÈÕ²ú-Ììô¥
 MGÃû¾ô
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¸£ÌØ-¸£¿ËË¹
 ·áÌï-ÈñÖ¾
 Ñ©·ðÀ¼-¾°³Ì
 ÏÖ´ú-Í¾Ê¤
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁú-¿­Ðý
 ±¾ÌïCR-V
 ÈýÁâ-¸êÀ¶
 ÉÏÆû-ÈÙÍþ
 ¸ßµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 °ÂµÏA6
 À×¿ËÈøË¹GS
 ¿­µÏÀ­¿ËCTS
 ÎÖ¶ûÎÖXC90
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¦Âí5Ïµ
 ÃÔÄãMini
 ´óÖÚ-Í¾Èñ
 ±¦Âí3Ïµ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¼³ÛEÏµ
 Â·»¢-ÉñÐÐÕß2
 ±£Ê±½Ý-¿¨Ñç
 °ÂµÏA4
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÁÖÒñ´óµÀ
 300C
 Ó¢·ÆÄáµÏ
 ¼ªÆÕJeep
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¾©-»¦-½ò-¹ãÖÝ-Îäºº-ÉîÛÚ-É½¶«-É½Î÷-Õã½­-½­ËÕ-¸£½¨-ÁÉÄþ-ºÓÄÏ-ÉÂÎ÷-ºÓ±±-ºþÄÏ-ºÚÁú½­-ÄÚÃÉ¹Å-ÔÆÄÏ-ËÄ´¨-ÖØÇì-¹ãÎ÷-½­Î÷-ÐÂ½®-¼ªÁÖ-¹óÖÝ-¸ÊËà-ÄþÏÄ-°²»Õ-º£ÄÏ-Î÷²Ø-Çàº£-
 Âí×Ô´ï
 Mazda2-Âí×Ô´ï
 Mazda2±¨¼Û-Âí×Ô´ï
 Mazda2¼Û¸ñ|ÍøÉÏ³µÊÐ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Âí×Ô´ï
 Mazda2
 ³µÐÍ
@@ -36813,9 +35899,7 @@ Mazda2
 ±¾ÏµÁÐÆÀÂÛ0Ìõ
 ¶þÊÖ³µ¡¢ÌØ¼Û³µ´æÁ¿£º
 ÏÖÓÐ0Á¾¶þÊÖ³µ0Á¾ÌØ¼Û³µ
-¾­ÏúÉÌ£º<?xml
-version="1.0"
-encoding="gb2312"?>±±¾©ÉÏº£Ìì½ò¹ã¶«É½¶«ºþ±±Õã½­½­ËÕÉ½Î÷ÐÂ½®¸£½¨ºÓÄÏÉÂÎ÷ÁÉÄþËÄ´¨ºÓ±±
+¾­ÏúÉÌ£º<?xml version="1.0" encoding="gb2312"?>±±¾©ÉÏº£Ìì½ò¹ã¶«É½¶«ºþ±±Õã½­½­ËÕÉ½Î÷ÐÂ½®¸£½¨ºÓÄÏÉÂÎ÷ÁÉÄþËÄ´¨ºÓ±±
 ºÚÁú½­ºþÄÏÄÚÃÉ¹Å¼ªÁÖÔÆÄÏ¹ãÎ÷ÖØÇì½­Î÷¹óÖÝ¸ÊËàÄþÏÄ°²»Õº£ÄÏÎ÷²ØÇàº£
 ³µÐÍ
 Àà±ð
@@ -36846,9 +35930,7 @@ MT
 8.34Íò
 8.38
 ¶©³µ
-¾­ÏúÉÌ£º<?xml
-version="1.0"
-encoding="gb2312"?>±±¾©ÉÏº£Ìì½ò¹ã¶«É½¶«ºþ±±Õã½­½­ËÕÉ½Î÷ÐÂ½®¸£½¨ºÓÄÏÉÂÎ÷ÁÉÄþËÄ´¨ºÓ±±
+¾­ÏúÉÌ£º<?xml version="1.0" encoding="gb2312"?>±±¾©ÉÏº£Ìì½ò¹ã¶«É½¶«ºþ±±Õã½­½­ËÕÉ½Î÷ÐÂ½®¸£½¨ºÓÄÏÉÂÎ÷ÁÉÄþËÄ´¨ºÓ±±
 ºÚÁú½­ºþÄÏÄÚÃÉ¹Å¼ªÁÖÔÆÄÏ¹ãÎ÷ÖØÇì½­Î÷¹óÖÝ¸ÊËàÄþÏÄ°²»Õº£ÄÏÎ÷²ØÇàº£
 ±±¾©Mazda24Sµê
 [¸ü¶à]
@@ -36890,12 +35972,7 @@ encoding="gb2312"?>±±¾©ÉÏº£Ìì½ò¹ã¶«É½¶«ºþ±±Õã½­½­ËÕÉ½Î÷ÐÂ½®¸£½¨ºÓÄÏÉÂÎ÷ÁÉÄþËÄ´¨º
 Ãâ·ÑÍ¨»°-Æû³µÍ¨
 ±±¾©¶¥¼Ñ³ÉÆû³µÃ³Ò×ÓÐÏÞÔðÈÎ¹«Ë¾
 ±±¾©ÊÐ³¯ÑôÇøÒ¦¼ÒÔ°Â·¶«·½»ùÒµÆû³µ³Ç£¨ÖÐÇø£©
-£¨(³ÏÐÅÆóÒµ)ÌØÐí´úÀí4SµêÏúÊÛ¡ï¡ï¡ï¡ï¡ï
-(¹¤×÷³µ½ÓËÍ)»¶Ó­È«¹ú¸÷µØ¹«Ë¾¸öÈËÓÃ»§À´µç×ÉÑ¯£¬³ÏÕ÷È«¹ú¸÷µØÆóÊÂÒµµ¥Î»¹«Ë¾¸öÈË³¤ÆÚºÏ×÷»¶Ó­À´µç×ÉÑ¯
-010-89119891
-13621216708
-¹ÜÏÈÉú
-(ÏúÊÛÖ÷¹Ü)
+£¨(³ÏÐÅÆóÒµ)ÌØÐí´úÀí4SµêÏúÊÛ¡ï¡ï¡ï¡ï¡ï (¹¤×÷³µ½ÓËÍ)»¶Ó­È«¹ú¸÷µØ¹«Ë¾¸öÈËÓÃ»§À´µç×ÉÑ¯£¬³ÏÕ÷È«¹ú¸÷µØÆóÊÂÒµµ¥Î»¹«Ë¾¸öÈË³¤ÆÚºÏ×÷»¶Ó­À´µç×ÉÑ¯ 010-89119891 13621216708 ¹ÜÏÈÉú (ÏúÊÛÖ÷¹Ü)
 ±±¾©´óÕýÍ¨²úÆû³µÃ³Ò×·þÎñÓÐÏÞÔðÈÎ¹«Ë¾
 ±±¾©ÊÐ³¯ÑôÇøÒ¦¼ÒÔ°Â·¶«·½»ùÒµ¹ú¼ÊÆû³Ç(³¯Ñô¹«Ô°±¼¶«2¹«Àï)
 ÏúÊÛµç»°010---£¸£±£¶£µ£°£²£¶£±(24Ð¡Ê±Ãâ·Ñ×ÉÑ¯)ÊÖ»ú£±£³£µ£²£°£µ£°£µ£³£°£µ
@@ -36922,106 +35999,78 @@ encoding="gb2312"?>±±¾©ÉÏº£Ìì½ò¹ã¶«É½¶«ºþ±±Õã½­½­ËÕÉ½Î÷ÐÂ½®¸£½¨ºÓÄÏÉÂÎ÷ÁÉÄþËÄ´¨º
 ÓÍºÄÊµ²é
 ÈÈµã³µÐÍ
 ¾­¼ÃÐÍ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÏÖ´ú-ÑÅÉðÌØ
 ÁåÄ¾SX4ÌìÓï
 ÈÕ²ú-æêÍþ
 ³¤°²-±¼±¼
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁúC2
 ±¾Ìï-Ë¼µÏ
 ÆðÑÇ
 RIO
 º£Âí-º£¸£ÐÇ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©·ðÀ¼-ÀÖ·ç
 ·áÌï-Íþ³Û
 ÁåÄ¾-ÓêÑà
 ÆæÈð
 QQ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±êÖÂ206
 polo¾¢Çé
 ´óÖÚ-½Ý´ï
 ±¾Ìï-·É¶È
 ÖÐµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÅÁÈøÌØ-ÁìÔ¦
 ±¾Ìï-ÑÅ¸ó
 ·áÌï-¿­ÃÀÈð
 Âí×Ô´ï
 6
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±ð¿Ë-¾ýÔ½
 ´óÖÚ-ÂõÌÚ
 ÈÕ²ú-Ììô¥
 MGÃû¾ô
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¸£ÌØ-¸£¿ËË¹
 ·áÌï-ÈñÖ¾
 Ñ©·ðÀ¼-¾°³Ì
 ÏÖ´ú-Í¾Ê¤
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁú-¿­Ðý
 ±¾ÌïCR-V
 ÈýÁâ-¸êÀ¶
 ÉÏÆû-ÈÙÍþ
 ¸ßµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 °ÂµÏA6
 À×¿ËÈøË¹GS
 ¿­µÏÀ­¿ËCTS
 ÎÖ¶ûÎÖXC90
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¦Âí5Ïµ
 ÃÔÄãMini
 ´óÖÚ-Í¾Èñ
 ±¦Âí3Ïµ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¼³ÛEÏµ
 Â·»¢-ÉñÐÐÕß2
 ±£Ê±½Ý-¿¨Ñç
 °ÂµÏA4
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÁÖÒñ´óµÀ
 300C
 Ó¢·ÆÄáµÏ
 ¼ªÆÕJeep
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¾©-»¦-½ò-¹ãÖÝ-Îäºº-ÉîÛÚ-É½¶«-É½Î÷-Õã½­-½­ËÕ-¸£½¨-ÁÉÄþ-ºÓÄÏ-ÉÂÎ÷-ºÓ±±-ºþÄÏ-ºÚÁú½­-ÄÚÃÉ¹Å-ÔÆÄÏ-ËÄ´¨-ÖØÇì-¹ãÎ÷-½­Î÷-ÐÂ½®-¼ªÁÖ-¹óÖÝ-¸ÊËà-ÄþÏÄ-°²»Õ-º£ÄÏ-Î÷²Ø-Çàº£-
 ÈÕ²ú
 åÐ¿Í-ÈÕ²ú
 åÐ¿Í±¨¼Û-ÈÕ²ú
 åÐ¿Í¼Û¸ñ|ÍøÉÏ³µÊÐ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÈÕ²ú
 åÐ¿Í
 ³µÐÍ
@@ -37044,9 +36093,7 @@ encoding="gb2312"?>
 ±¾ÏµÁÐÆÀÂÛ0Ìõ
 ¶þÊÖ³µ¡¢ÌØ¼Û³µ´æÁ¿£º
 ÏÖÓÐ0Á¾¶þÊÖ³µ0Á¾ÌØ¼Û³µ
-¾­ÏúÉÌ£º<?xml
-version="1.0"
-encoding="gb2312"?>±±¾©ÉÏº£Ìì½ò¹ã¶«É½¶«ºþ±±Õã½­½­ËÕÉ½Î÷ÐÂ½®¸£½¨ºÓÄÏÉÂÎ÷ÁÉÄþËÄ´¨ºÓ±±
+¾­ÏúÉÌ£º<?xml version="1.0" encoding="gb2312"?>±±¾©ÉÏº£Ìì½ò¹ã¶«É½¶«ºþ±±Õã½­½­ËÕÉ½Î÷ÐÂ½®¸£½¨ºÓÄÏÉÂÎ÷ÁÉÄþËÄ´¨ºÓ±±
 ºÚÁú½­ºþÄÏÄÚÃÉ¹Å¼ªÁÖÔÆÄÏ¹ãÎ÷ÖØÇì½­Î÷¹óÖÝ¸ÊËàÄþÏÄ°²»Õº£ÄÏÎ÷²ØÇàº£
 ³µÐÍ
 Àà±ð
@@ -37061,9 +36108,7 @@ AT
 15.65Íò
 0.00
 ¶©³µ
-¾­ÏúÉÌ£º<?xml
-version="1.0"
-encoding="gb2312"?>±±¾©ÉÏº£Ìì½ò¹ã¶«É½¶«ºþ±±Õã½­½­ËÕÉ½Î÷ÐÂ½®¸£½¨ºÓÄÏÉÂÎ÷ÁÉÄþËÄ´¨ºÓ±±
+¾­ÏúÉÌ£º<?xml version="1.0" encoding="gb2312"?>±±¾©ÉÏº£Ìì½ò¹ã¶«É½¶«ºþ±±Õã½­½­ËÕÉ½Î÷ÐÂ½®¸£½¨ºÓÄÏÉÂÎ÷ÁÉÄþËÄ´¨ºÓ±±
 ºÚÁú½­ºþÄÏÄÚÃÉ¹Å¼ªÁÖÔÆÄÏ¹ãÎ÷ÖØÇì½­Î÷¹óÖÝ¸ÊËàÄþÏÄ°²»Õº£ÄÏÎ÷²ØÇàº£
 ±±¾©åÐ¿Í4Sµê
 [¸ü¶à]
@@ -37100,98 +36145,72 @@ encoding="gb2312"?>±±¾©ÉÏº£Ìì½ò¹ã¶«É½¶«ºþ±±Õã½­½­ËÕÉ½Î÷ÐÂ½®¸£½¨ºÓÄÏÉÂÎ÷ÁÉÄþËÄ´¨º
 ÓÍºÄÊµ²é
 ÈÈµã³µÐÍ
 ¾­¼ÃÐÍ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÏÖ´ú-ÑÅÉðÌØ
 ÁåÄ¾SX4ÌìÓï
 ÈÕ²ú-æêÍþ
 ³¤°²-±¼±¼
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁúC2
 ±¾Ìï-Ë¼µÏ
 ÆðÑÇ
 RIO
 º£Âí-º£¸£ÐÇ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©·ðÀ¼-ÀÖ·ç
 ·áÌï-Íþ³Û
 ÁåÄ¾-ÓêÑà
 ÆæÈð
 QQ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±êÖÂ206
 polo¾¢Çé
 ´óÖÚ-½Ý´ï
 ±¾Ìï-·É¶È
 ÖÐµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÅÁÈøÌØ-ÁìÔ¦
 ±¾Ìï-ÑÅ¸ó
 ·áÌï-¿­ÃÀÈð
 Âí×Ô´ï
 6
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±ð¿Ë-¾ýÔ½
 ´óÖÚ-ÂõÌÚ
 ÈÕ²ú-Ììô¥
 MGÃû¾ô
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¸£ÌØ-¸£¿ËË¹
 ·áÌï-ÈñÖ¾
 Ñ©·ðÀ¼-¾°³Ì
 ÏÖ´ú-Í¾Ê¤
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁú-¿­Ðý
 ±¾ÌïCR-V
 ÈýÁâ-¸êÀ¶
 ÉÏÆû-ÈÙÍþ
 ¸ßµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 °ÂµÏA6
 À×¿ËÈøË¹GS
 ¿­µÏÀ­¿ËCTS
 ÎÖ¶ûÎÖXC90
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¦Âí5Ïµ
 ÃÔÄãMini
 ´óÖÚ-Í¾Èñ
 ±¦Âí3Ïµ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¼³ÛEÏµ
 Â·»¢-ÉñÐÐÕß2
 ±£Ê±½Ý-¿¨Ñç
 °ÂµÏA4
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÁÖÒñ´óµÀ
 300C
 Ó¢·ÆÄáµÏ
 ¼ªÆÕJeep
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¾©-»¦-½ò-¹ãÖÝ-Îäºº-ÉîÛÚ-É½¶«-É½Î÷-Õã½­-½­ËÕ-¸£½¨-ÁÉÄþ-ºÓÄÏ-ÉÂÎ÷-ºÓ±±-ºþÄÏ-ºÚÁú½­-ÄÚÃÉ¹Å-ÔÆÄÏ-ËÄ´¨-ÖØÇì-¹ãÎ÷-½­Î÷-ÐÂ½®-¼ªÁÖ-¹óÖÝ-¸ÊËà-ÄþÏÄ-°²»Õ-º£ÄÏ-Î÷²Ø-Çàº£-
 ·áÌï
 Íþ³Û
@@ -37200,9 +36219,7 @@ encoding="gb2312"?>
 2008¿î±¨¼Û-·áÌï
 Íþ³Û
 2008¿î¼Û¸ñ|ÍøÉÏ³µÊÐ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ·áÌï
 Íþ³Û
 2008¿î
@@ -37227,9 +36244,7 @@ encoding="gb2312"?>
 ±¾ÏµÁÐÆÀÂÛ0Ìõ
 ¶þÊÖ³µ¡¢ÌØ¼Û³µ´æÁ¿£º
 ÏÖÓÐ0Á¾¶þÊÖ³µ0Á¾ÌØ¼Û³µ
-¾­ÏúÉÌ£º<?xml
-version="1.0"
-encoding="gb2312"?>±±¾©ÉÏº£Ìì½ò¹ã¶«É½¶«ºþ±±Õã½­½­ËÕÉ½Î÷ÐÂ½®¸£½¨ºÓÄÏÉÂÎ÷ÁÉÄþËÄ´¨ºÓ±±
+¾­ÏúÉÌ£º<?xml version="1.0" encoding="gb2312"?>±±¾©ÉÏº£Ìì½ò¹ã¶«É½¶«ºþ±±Õã½­½­ËÕÉ½Î÷ÐÂ½®¸£½¨ºÓÄÏÉÂÎ÷ÁÉÄþËÄ´¨ºÓ±±
 ºÚÁú½­ºþÄÏÄÚÃÉ¹Å¼ªÁÖÔÆÄÏ¹ãÎ÷ÖØÇì½­Î÷¹óÖÝ¸ÊËàÄþÏÄ°²»Õº£ÄÏÎ÷²ØÇàº£
 ³µÐÍ
 Àà±ð
@@ -37243,9 +36258,7 @@ AT
 9.90Íò
 0.00
 ¶©³µ
-¾­ÏúÉÌ£º<?xml
-version="1.0"
-encoding="gb2312"?>±±¾©ÉÏº£Ìì½ò¹ã¶«É½¶«ºþ±±Õã½­½­ËÕÉ½Î÷ÐÂ½®¸£½¨ºÓÄÏÉÂÎ÷ÁÉÄþËÄ´¨ºÓ±±
+¾­ÏúÉÌ£º<?xml version="1.0" encoding="gb2312"?>±±¾©ÉÏº£Ìì½ò¹ã¶«É½¶«ºþ±±Õã½­½­ËÕÉ½Î÷ÐÂ½®¸£½¨ºÓÄÏÉÂÎ÷ÁÉÄþËÄ´¨ºÓ±±
 ºÚÁú½­ºþÄÏÄÚÃÉ¹Å¼ªÁÖÔÆÄÏ¹ãÎ÷ÖØÇì½­Î÷¹óÖÝ¸ÊËàÄþÏÄ°²»Õº£ÄÏÎ÷²ØÇàº£
 ±±¾©Íþ³Û
 2008¿î4Sµê
@@ -37277,106 +36290,78 @@ encoding="gb2312"?>±±¾©ÉÏº£Ìì½ò¹ã¶«É½¶«ºþ±±Õã½­½­ËÕÉ½Î÷ÐÂ½®¸£½¨ºÓÄÏÉÂÎ÷ÁÉÄþËÄ´¨º
 ÓÍºÄÊµ²é
 ÈÈµã³µÐÍ
 ¾­¼ÃÐÍ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÏÖ´ú-ÑÅÉðÌØ
 ÁåÄ¾SX4ÌìÓï
 ÈÕ²ú-æêÍþ
 ³¤°²-±¼±¼
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁúC2
 ±¾Ìï-Ë¼µÏ
 ÆðÑÇ
 RIO
 º£Âí-º£¸£ÐÇ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©·ðÀ¼-ÀÖ·ç
 ·áÌï-Íþ³Û
 ÁåÄ¾-ÓêÑà
 ÆæÈð
 QQ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±êÖÂ206
 polo¾¢Çé
 ´óÖÚ-½Ý´ï
 ±¾Ìï-·É¶È
 ÖÐµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÅÁÈøÌØ-ÁìÔ¦
 ±¾Ìï-ÑÅ¸ó
 ·áÌï-¿­ÃÀÈð
 Âí×Ô´ï
 6
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±ð¿Ë-¾ýÔ½
 ´óÖÚ-ÂõÌÚ
 ÈÕ²ú-Ììô¥
 MGÃû¾ô
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¸£ÌØ-¸£¿ËË¹
 ·áÌï-ÈñÖ¾
 Ñ©·ðÀ¼-¾°³Ì
 ÏÖ´ú-Í¾Ê¤
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁú-¿­Ðý
 ±¾ÌïCR-V
 ÈýÁâ-¸êÀ¶
 ÉÏÆû-ÈÙÍþ
 ¸ßµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 °ÂµÏA6
 À×¿ËÈøË¹GS
 ¿­µÏÀ­¿ËCTS
 ÎÖ¶ûÎÖXC90
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¦Âí5Ïµ
 ÃÔÄãMini
 ´óÖÚ-Í¾Èñ
 ±¦Âí3Ïµ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¼³ÛEÏµ
 Â·»¢-ÉñÐÐÕß2
 ±£Ê±½Ý-¿¨Ñç
 °ÂµÏA4
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÁÖÒñ´óµÀ
 300C
 Ó¢·ÆÄáµÏ
 ¼ªÆÕJeep
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¾©-»¦-½ò-¹ãÖÝ-Îäºº-ÉîÛÚ-É½¶«-É½Î÷-Õã½­-½­ËÕ-¸£½¨-ÁÉÄþ-ºÓÄÏ-ÉÂÎ÷-ºÓ±±-ºþÄÏ-ºÚÁú½­-ÄÚÃÉ¹Å-ÔÆÄÏ-ËÄ´¨-ÖØÇì-¹ãÎ÷-½­Î÷-ÐÂ½®-¼ªÁÖ-¹óÖÝ-¸ÊËà-ÄþÏÄ-°²»Õ-º£ÄÏ-Î÷²Ø-Çàº£-
 ·áÌï
 ÑÅÁ¦Ê¿-·áÌï
 ÑÅÁ¦Ê¿±¨¼Û-·áÌï
 ÑÅÁ¦Ê¿¼Û¸ñ|ÍøÉÏ³µÊÐ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ·áÌï
 ÑÅÁ¦Ê¿
 ³µÐÍ
@@ -37399,9 +36384,7 @@ encoding="gb2312"?>
 ±¾ÏµÁÐÆÀÂÛ0Ìõ
 ¶þÊÖ³µ¡¢ÌØ¼Û³µ´æÁ¿£º
 ÏÖÓÐ0Á¾¶þÊÖ³µ0Á¾ÌØ¼Û³µ
-¾­ÏúÉÌ£º<?xml
-version="1.0"
-encoding="gb2312"?>±±¾©ÉÏº£Ìì½ò¹ã¶«É½¶«ºþ±±Õã½­½­ËÕÉ½Î÷ÐÂ½®¸£½¨ºÓÄÏÉÂÎ÷ÁÉÄþËÄ´¨ºÓ±±
+¾­ÏúÉÌ£º<?xml version="1.0" encoding="gb2312"?>±±¾©ÉÏº£Ìì½ò¹ã¶«É½¶«ºþ±±Õã½­½­ËÕÉ½Î÷ÐÂ½®¸£½¨ºÓÄÏÉÂÎ÷ÁÉÄþËÄ´¨ºÓ±±
 ºÚÁú½­ºþÄÏÄÚÃÉ¹Å¼ªÁÖÔÆÄÏ¹ãÎ÷ÖØÇì½­Î÷¹óÖÝ¸ÊËàÄþÏÄ°²»Õº£ÄÏÎ÷²ØÇàº£
 ³µÐÍ
 Àà±ð
@@ -37414,9 +36397,7 @@ MT
 ÔÝÎÞ±¨¼Û
 0.00
 ¶©³µ
-¾­ÏúÉÌ£º<?xml
-version="1.0"
-encoding="gb2312"?>±±¾©ÉÏº£Ìì½ò¹ã¶«É½¶«ºþ±±Õã½­½­ËÕÉ½Î÷ÐÂ½®¸£½¨ºÓÄÏÉÂÎ÷ÁÉÄþËÄ´¨ºÓ±±
+¾­ÏúÉÌ£º<?xml version="1.0" encoding="gb2312"?>±±¾©ÉÏº£Ìì½ò¹ã¶«É½¶«ºþ±±Õã½­½­ËÕÉ½Î÷ÐÂ½®¸£½¨ºÓÄÏÉÂÎ÷ÁÉÄþËÄ´¨ºÓ±±
 ºÚÁú½­ºþÄÏÄÚÃÉ¹Å¼ªÁÖÔÆÄÏ¹ãÎ÷ÖØÇì½­Î÷¹óÖÝ¸ÊËàÄþÏÄ°²»Õº£ÄÏÎ÷²ØÇàº£
 ±±¾©ÑÅÁ¦Ê¿4Sµê
 [¸ü¶à]
@@ -37445,98 +36426,72 @@ encoding="gb2312"?>±±¾©ÉÏº£Ìì½ò¹ã¶«É½¶«ºþ±±Õã½­½­ËÕÉ½Î÷ÐÂ½®¸£½¨ºÓÄÏÉÂÎ÷ÁÉÄþËÄ´¨º
 ÓÍºÄÊµ²é
 ÈÈµã³µÐÍ
 ¾­¼ÃÐÍ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÏÖ´ú-ÑÅÉðÌØ
 ÁåÄ¾SX4ÌìÓï
 ÈÕ²ú-æêÍþ
 ³¤°²-±¼±¼
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁúC2
 ±¾Ìï-Ë¼µÏ
 ÆðÑÇ
 RIO
 º£Âí-º£¸£ÐÇ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©·ðÀ¼-ÀÖ·ç
 ·áÌï-Íþ³Û
 ÁåÄ¾-ÓêÑà
 ÆæÈð
 QQ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±êÖÂ206
 polo¾¢Çé
 ´óÖÚ-½Ý´ï
 ±¾Ìï-·É¶È
 ÖÐµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÅÁÈøÌØ-ÁìÔ¦
 ±¾Ìï-ÑÅ¸ó
 ·áÌï-¿­ÃÀÈð
 Âí×Ô´ï
 6
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±ð¿Ë-¾ýÔ½
 ´óÖÚ-ÂõÌÚ
 ÈÕ²ú-Ììô¥
 MGÃû¾ô
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¸£ÌØ-¸£¿ËË¹
 ·áÌï-ÈñÖ¾
 Ñ©·ðÀ¼-¾°³Ì
 ÏÖ´ú-Í¾Ê¤
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁú-¿­Ðý
 ±¾ÌïCR-V
 ÈýÁâ-¸êÀ¶
 ÉÏÆû-ÈÙÍþ
 ¸ßµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 °ÂµÏA6
 À×¿ËÈøË¹GS
 ¿­µÏÀ­¿ËCTS
 ÎÖ¶ûÎÖXC90
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¦Âí5Ïµ
 ÃÔÄãMini
 ´óÖÚ-Í¾Èñ
 ±¦Âí3Ïµ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¼³ÛEÏµ
 Â·»¢-ÉñÐÐÕß2
 ±£Ê±½Ý-¿¨Ñç
 °ÂµÏA4
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÁÖÒñ´óµÀ
 300C
 Ó¢·ÆÄáµÏ
 ¼ªÆÕJeep
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¾©-»¦-½ò-¹ãÖÝ-Îäºº-ÉîÛÚ-É½¶«-É½Î÷-Õã½­-½­ËÕ-¸£½¨-ÁÉÄþ-ºÓÄÏ-ÉÂÎ÷-ºÓ±±-ºþÄÏ-ºÚÁú½­-ÄÚÃÉ¹Å-ÔÆÄÏ-ËÄ´¨-ÖØÇì-¹ãÎ÷-½­Î÷-ÐÂ½®-¼ªÁÖ-¹óÖÝ-¸ÊËà-ÄþÏÄ-°²»Õ-º£ÄÏ-Î÷²Ø-Çàº£-
 ´óÖÚ(ÉÏÆû)
 Cross
@@ -37545,9 +36500,7 @@ Cross
 Polo±¨¼Û-´óÖÚ(ÉÏÆû)
 Cross
 Polo¼Û¸ñ|ÍøÉÏ³µÊÐ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ´óÖÚ(ÉÏÆû)
 Cross
 Polo
@@ -37572,9 +36525,7 @@ Polo
 ±¾ÏµÁÐÆÀÂÛ0Ìõ
 ¶þÊÖ³µ¡¢ÌØ¼Û³µ´æÁ¿£º
 ÏÖÓÐ0Á¾¶þÊÖ³µ0Á¾ÌØ¼Û³µ
-¾­ÏúÉÌ£º<?xml
-version="1.0"
-encoding="gb2312"?>±±¾©ÉÏº£Ìì½ò¹ã¶«É½¶«ºþ±±Õã½­½­ËÕÉ½Î÷ÐÂ½®¸£½¨ºÓÄÏÉÂÎ÷ÁÉÄþËÄ´¨ºÓ±±
+¾­ÏúÉÌ£º<?xml version="1.0" encoding="gb2312"?>±±¾©ÉÏº£Ìì½ò¹ã¶«É½¶«ºþ±±Õã½­½­ËÕÉ½Î÷ÐÂ½®¸£½¨ºÓÄÏÉÂÎ÷ÁÉÄþËÄ´¨ºÓ±±
 ºÚÁú½­ºþÄÏÄÚÃÉ¹Å¼ªÁÖÔÆÄÏ¹ãÎ÷ÖØÇì½­Î÷¹óÖÝ¸ÊËàÄþÏÄ°²»Õº£ÄÏÎ÷²ØÇàº£
 ³µÐÍ
 Àà±ð
@@ -37597,9 +36548,7 @@ MT
 11.39Íò
 11.33
 ¶©³µ
-¾­ÏúÉÌ£º<?xml
-version="1.0"
-encoding="gb2312"?>±±¾©ÉÏº£Ìì½ò¹ã¶«É½¶«ºþ±±Õã½­½­ËÕÉ½Î÷ÐÂ½®¸£½¨ºÓÄÏÉÂÎ÷ÁÉÄþËÄ´¨ºÓ±±
+¾­ÏúÉÌ£º<?xml version="1.0" encoding="gb2312"?>±±¾©ÉÏº£Ìì½ò¹ã¶«É½¶«ºþ±±Õã½­½­ËÕÉ½Î÷ÐÂ½®¸£½¨ºÓÄÏÉÂÎ÷ÁÉÄþËÄ´¨ºÓ±±
 ºÚÁú½­ºþÄÏÄÚÃÉ¹Å¼ªÁÖÔÆÄÏ¹ãÎ÷ÖØÇì½­Î÷¹óÖÝ¸ÊËàÄþÏÄ°²»Õº£ÄÏÎ÷²ØÇàº£
 ±±¾©Cross
 Polo4Sµê
@@ -37759,106 +36708,78 @@ Polo×ÛºÏµê
 ÓÍºÄÊµ²é
 ÈÈµã³µÐÍ
 ¾­¼ÃÐÍ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÏÖ´ú-ÑÅÉðÌØ
 ÁåÄ¾SX4ÌìÓï
 ÈÕ²ú-æêÍþ
 ³¤°²-±¼±¼
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁúC2
 ±¾Ìï-Ë¼µÏ
 ÆðÑÇ
 RIO
 º£Âí-º£¸£ÐÇ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©·ðÀ¼-ÀÖ·ç
 ·áÌï-Íþ³Û
 ÁåÄ¾-ÓêÑà
 ÆæÈð
 QQ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±êÖÂ206
 polo¾¢Çé
 ´óÖÚ-½Ý´ï
 ±¾Ìï-·É¶È
 ÖÐµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÅÁÈøÌØ-ÁìÔ¦
 ±¾Ìï-ÑÅ¸ó
 ·áÌï-¿­ÃÀÈð
 Âí×Ô´ï
 6
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±ð¿Ë-¾ýÔ½
 ´óÖÚ-ÂõÌÚ
 ÈÕ²ú-Ììô¥
 MGÃû¾ô
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¸£ÌØ-¸£¿ËË¹
 ·áÌï-ÈñÖ¾
 Ñ©·ðÀ¼-¾°³Ì
 ÏÖ´ú-Í¾Ê¤
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁú-¿­Ðý
 ±¾ÌïCR-V
 ÈýÁâ-¸êÀ¶
 ÉÏÆû-ÈÙÍþ
 ¸ßµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 °ÂµÏA6
 À×¿ËÈøË¹GS
 ¿­µÏÀ­¿ËCTS
 ÎÖ¶ûÎÖXC90
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¦Âí5Ïµ
 ÃÔÄãMini
 ´óÖÚ-Í¾Èñ
 ±¦Âí3Ïµ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¼³ÛEÏµ
 Â·»¢-ÉñÐÐÕß2
 ±£Ê±½Ý-¿¨Ñç
 °ÂµÏA4
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÁÖÒñ´óµÀ
 300C
 Ó¢·ÆÄáµÏ
 ¼ªÆÕJeep
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¾©-»¦-½ò-¹ãÖÝ-Îäºº-ÉîÛÚ-É½¶«-É½Î÷-Õã½­-½­ËÕ-¸£½¨-ÁÉÄþ-ºÓÄÏ-ÉÂÎ÷-ºÓ±±-ºþÄÏ-ºÚÁú½­-ÄÚÃÉ¹Å-ÔÆÄÏ-ËÄ´¨-ÖØÇì-¹ãÎ÷-½­Î÷-ÐÂ½®-¼ªÁÖ-¹óÖÝ-¸ÊËà-ÄþÏÄ-°²»Õ-º£ÄÏ-Î÷²Ø-Çàº£-
 ÁåÄ¾
 ÓêÑà-ÁåÄ¾
 ÓêÑà±¨¼Û-ÁåÄ¾
 ÓêÑà¼Û¸ñ|ÍøÉÏ³µÊÐ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÁåÄ¾
 ÓêÑà
 ³µÐÍ
@@ -37881,9 +36802,7 @@ encoding="gb2312"?>
 ±¾ÏµÁÐÆÀÂÛ443Ìõ
 ¶þÊÖ³µ¡¢ÌØ¼Û³µ´æÁ¿£º
 ÏÖÓÐ11Á¾¶þÊÖ³µ0Á¾ÌØ¼Û³µ
-¾­ÏúÉÌ£º<?xml
-version="1.0"
-encoding="gb2312"?>±±¾©ÉÏº£Ìì½ò¹ã¶«É½¶«ºþ±±Õã½­½­ËÕÉ½Î÷ÐÂ½®¸£½¨ºÓÄÏÉÂÎ÷ÁÉÄþËÄ´¨ºÓ±±
+¾­ÏúÉÌ£º<?xml version="1.0" encoding="gb2312"?>±±¾©ÉÏº£Ìì½ò¹ã¶«É½¶«ºþ±±Õã½­½­ËÕÉ½Î÷ÐÂ½®¸£½¨ºÓÄÏÉÂÎ÷ÁÉÄþËÄ´¨ºÓ±±
 ºÚÁú½­ºþÄÏÄÚÃÉ¹Å¼ªÁÖÔÆÄÏ¹ãÎ÷ÖØÇì½­Î÷¹óÖÝ¸ÊËàÄþÏÄ°²»Õº£ÄÏÎ÷²ØÇàº£
 ³µÐÍ
 Àà±ð
@@ -37938,9 +36857,7 @@ MT
 8.15Íò
 8.18
 ¶©³µ
-¾­ÏúÉÌ£º<?xml
-version="1.0"
-encoding="gb2312"?>±±¾©ÉÏº£Ìì½ò¹ã¶«É½¶«ºþ±±Õã½­½­ËÕÉ½Î÷ÐÂ½®¸£½¨ºÓÄÏÉÂÎ÷ÁÉÄþËÄ´¨ºÓ±±
+¾­ÏúÉÌ£º<?xml version="1.0" encoding="gb2312"?>±±¾©ÉÏº£Ìì½ò¹ã¶«É½¶«ºþ±±Õã½­½­ËÕÉ½Î÷ÐÂ½®¸£½¨ºÓÄÏÉÂÎ÷ÁÉÄþËÄ´¨ºÓ±±
 ºÚÁú½­ºþÄÏÄÚÃÉ¹Å¼ªÁÖÔÆÄÏ¹ãÎ÷ÖØÇì½­Î÷¹óÖÝ¸ÊËàÄþÏÄ°²»Õº£ÄÏÎ÷²ØÇàº£
 ±±¾©ÓêÑà4Sµê
 ±±¾©±±·½ÐÂÐË³¤°²ÁåÄ¾Æû³µÏúÊÛ·þÎñÓÐÏÞÔðÈÎ¹«Ë¾
@@ -38042,12 +36959,7 @@ lÁªÏµµç»°:13381338182
 ½ÚÈÕµç»°:13391659600
 ±±¾©¶¥¼Ñ³ÉÆû³µÃ³Ò×ÓÐÏÞÔðÈÎ¹«Ë¾
 ±±¾©ÊÐ³¯ÑôÇøÒ¦¼ÒÔ°Â·¶«·½»ùÒµÆû³µ³Ç£¨ÖÐÇø£©
-£¨(³ÏÐÅÆóÒµ)ÌØÐí´úÀí4SµêÏúÊÛ¡ï¡ï¡ï¡ï¡ï
-(¹¤×÷³µ½ÓËÍ)»¶Ó­È«¹ú¸÷µØ¹«Ë¾¸öÈËÓÃ»§À´µç×ÉÑ¯£¬³ÏÕ÷È«¹ú¸÷µØÆóÊÂÒµµ¥Î»¹«Ë¾¸öÈË³¤ÆÚºÏ×÷»¶Ó­À´µç×ÉÑ¯
-010-89119891
-13621216708
-¹ÜÏÈÉú
-(ÏúÊÛÖ÷¹Ü)
+£¨(³ÏÐÅÆóÒµ)ÌØÐí´úÀí4SµêÏúÊÛ¡ï¡ï¡ï¡ï¡ï (¹¤×÷³µ½ÓËÍ)»¶Ó­È«¹ú¸÷µØ¹«Ë¾¸öÈËÓÃ»§À´µç×ÉÑ¯£¬³ÏÕ÷È«¹ú¸÷µØÆóÊÂÒµµ¥Î»¹«Ë¾¸öÈË³¤ÆÚºÏ×÷»¶Ó­À´µç×ÉÑ¯ 010-89119891 13621216708 ¹ÜÏÈÉú (ÏúÊÛÖ÷¹Ü)
 [¸ü¶à]
 ÐÕÃû
 :
@@ -38121,106 +37033,78 @@ lÁªÏµµç»°:13381338182
 ÓÍºÄÊµ²é
 ÈÈµã³µÐÍ
 ¾­¼ÃÐÍ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÏÖ´ú-ÑÅÉðÌØ
 ÁåÄ¾SX4ÌìÓï
 ÈÕ²ú-æêÍþ
 ³¤°²-±¼±¼
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁúC2
 ±¾Ìï-Ë¼µÏ
 ÆðÑÇ
 RIO
 º£Âí-º£¸£ÐÇ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©·ðÀ¼-ÀÖ·ç
 ·áÌï-Íþ³Û
 ÁåÄ¾-ÓêÑà
 ÆæÈð
 QQ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±êÖÂ206
 polo¾¢Çé
 ´óÖÚ-½Ý´ï
 ±¾Ìï-·É¶È
 ÖÐµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÅÁÈøÌØ-ÁìÔ¦
 ±¾Ìï-ÑÅ¸ó
 ·áÌï-¿­ÃÀÈð
 Âí×Ô´ï
 6
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±ð¿Ë-¾ýÔ½
 ´óÖÚ-ÂõÌÚ
 ÈÕ²ú-Ììô¥
 MGÃû¾ô
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¸£ÌØ-¸£¿ËË¹
 ·áÌï-ÈñÖ¾
 Ñ©·ðÀ¼-¾°³Ì
 ÏÖ´ú-Í¾Ê¤
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁú-¿­Ðý
 ±¾ÌïCR-V
 ÈýÁâ-¸êÀ¶
 ÉÏÆû-ÈÙÍþ
 ¸ßµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 °ÂµÏA6
 À×¿ËÈøË¹GS
 ¿­µÏÀ­¿ËCTS
 ÎÖ¶ûÎÖXC90
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¦Âí5Ïµ
 ÃÔÄãMini
 ´óÖÚ-Í¾Èñ
 ±¦Âí3Ïµ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¼³ÛEÏµ
 Â·»¢-ÉñÐÐÕß2
 ±£Ê±½Ý-¿¨Ñç
 °ÂµÏA4
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÁÖÒñ´óµÀ
 300C
 Ó¢·ÆÄáµÏ
 ¼ªÆÕJeep
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¾©-»¦-½ò-¹ãÖÝ-Îäºº-ÉîÛÚ-É½¶«-É½Î÷-Õã½­-½­ËÕ-¸£½¨-ÁÉÄþ-ºÓÄÏ-ÉÂÎ÷-ºÓ±±-ºþÄÏ-ºÚÁú½­-ÄÚÃÉ¹Å-ÔÆÄÏ-ËÄ´¨-ÖØÇì-¹ãÎ÷-½­Î÷-ÐÂ½®-¼ªÁÖ-¹óÖÝ-¸ÊËà-ÄþÏÄ-°²»Õ-º£ÄÏ-Î÷²Ø-Çàº£-
 ´óÖÚ(Ò»Æû)
 ÂõÌÚ-´óÖÚ(Ò»Æû)
 ÂõÌÚ±¨¼Û-´óÖÚ(Ò»Æû)
 ÂõÌÚ¼Û¸ñ|ÍøÉÏ³µÊÐ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ´óÖÚ(Ò»Æû)
 ÂõÌÚ
 ³µÐÍ
@@ -38243,9 +37127,7 @@ encoding="gb2312"?>
 ±¾ÏµÁÐÆÀÂÛ156Ìõ
 ¶þÊÖ³µ¡¢ÌØ¼Û³µ´æÁ¿£º
 ÏÖÓÐ0Á¾¶þÊÖ³µ0Á¾ÌØ¼Û³µ
-¾­ÏúÉÌ£º<?xml
-version="1.0"
-encoding="gb2312"?>±±¾©ÉÏº£Ìì½ò¹ã¶«É½¶«ºþ±±Õã½­½­ËÕÉ½Î÷ÐÂ½®¸£½¨ºÓÄÏÉÂÎ÷ÁÉÄþËÄ´¨ºÓ±±
+¾­ÏúÉÌ£º<?xml version="1.0" encoding="gb2312"?>±±¾©ÉÏº£Ìì½ò¹ã¶«É½¶«ºþ±±Õã½­½­ËÕÉ½Î÷ÐÂ½®¸£½¨ºÓÄÏÉÂÎ÷ÁÉÄþËÄ´¨ºÓ±±
 ºÚÁú½­ºþÄÏÄÚÃÉ¹Å¼ªÁÖÔÆÄÏ¹ãÎ÷ÖØÇì½­Î÷¹óÖÝ¸ÊËàÄþÏÄ°²»Õº£ÄÏÎ÷²ØÇàº£
 ³µÐÍ
 Àà±ð
@@ -38300,9 +37182,7 @@ MT
 19.09Íò
 19.28
 ¶©³µ
-¾­ÏúÉÌ£º<?xml
-version="1.0"
-encoding="gb2312"?>±±¾©ÉÏº£Ìì½ò¹ã¶«É½¶«ºþ±±Õã½­½­ËÕÉ½Î÷ÐÂ½®¸£½¨ºÓÄÏÉÂÎ÷ÁÉÄþËÄ´¨ºÓ±±
+¾­ÏúÉÌ£º<?xml version="1.0" encoding="gb2312"?>±±¾©ÉÏº£Ìì½ò¹ã¶«É½¶«ºþ±±Õã½­½­ËÕÉ½Î÷ÐÂ½®¸£½¨ºÓÄÏÉÂÎ÷ÁÉÄþËÄ´¨ºÓ±±
 ºÚÁú½­ºþÄÏÄÚÃÉ¹Å¼ªÁÖÔÆÄÏ¹ãÎ÷ÖØÇì½­Î÷¹óÖÝ¸ÊËàÄþÏÄ°²»Õº£ÄÏÎ÷²ØÇàº£
 ±±¾©ÂõÌÚ4Sµê
 Ò»Æû´óÖÚ4S±±¾©ÍØÕ¹¹¤Ã³·¢Õ¹ÓÐÏÞ¹«Ë¾
@@ -38553,9 +37433,7 @@ encoding="gb2312"?>±±¾©ÉÏº£Ìì½ò¹ã¶«É½¶«ºþ±±Õã½­½­ËÕÉ½Î÷ÐÂ½®¸£½¨ºÓÄÏÉÂÎ÷ÁÉÄþËÄ´¨º
 :
 2007-05-20
 µã»÷Ïò¹ËÎÊ×ÉÑ¯
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¸»Ë³Í¨
 Ò»Æû´óÖÚ
 13381107115
@@ -38583,106 +37461,78 @@ encoding="gb2312"?>
 ÓÍºÄÊµ²é
 ÈÈµã³µÐÍ
 ¾­¼ÃÐÍ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÏÖ´ú-ÑÅÉðÌØ
 ÁåÄ¾SX4ÌìÓï
 ÈÕ²ú-æêÍþ
 ³¤°²-±¼±¼
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁúC2
 ±¾Ìï-Ë¼µÏ
 ÆðÑÇ
 RIO
 º£Âí-º£¸£ÐÇ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©·ðÀ¼-ÀÖ·ç
 ·áÌï-Íþ³Û
 ÁåÄ¾-ÓêÑà
 ÆæÈð
 QQ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±êÖÂ206
 polo¾¢Çé
 ´óÖÚ-½Ý´ï
 ±¾Ìï-·É¶È
 ÖÐµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÅÁÈøÌØ-ÁìÔ¦
 ±¾Ìï-ÑÅ¸ó
 ·áÌï-¿­ÃÀÈð
 Âí×Ô´ï
 6
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±ð¿Ë-¾ýÔ½
 ´óÖÚ-ÂõÌÚ
 ÈÕ²ú-Ììô¥
 MGÃû¾ô
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¸£ÌØ-¸£¿ËË¹
 ·áÌï-ÈñÖ¾
 Ñ©·ðÀ¼-¾°³Ì
 ÏÖ´ú-Í¾Ê¤
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁú-¿­Ðý
 ±¾ÌïCR-V
 ÈýÁâ-¸êÀ¶
 ÉÏÆû-ÈÙÍþ
 ¸ßµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 °ÂµÏA6
 À×¿ËÈøË¹GS
 ¿­µÏÀ­¿ËCTS
 ÎÖ¶ûÎÖXC90
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¦Âí5Ïµ
 ÃÔÄãMini
 ´óÖÚ-Í¾Èñ
 ±¦Âí3Ïµ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¼³ÛEÏµ
 Â·»¢-ÉñÐÐÕß2
 ±£Ê±½Ý-¿¨Ñç
 °ÂµÏA4
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÁÖÒñ´óµÀ
 300C
 Ó¢·ÆÄáµÏ
 ¼ªÆÕJeep
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¾©-»¦-½ò-¹ãÖÝ-Îäºº-ÉîÛÚ-É½¶«-É½Î÷-Õã½­-½­ËÕ-¸£½¨-ÁÉÄþ-ºÓÄÏ-ÉÂÎ÷-ºÓ±±-ºþÄÏ-ºÚÁú½­-ÄÚÃÉ¹Å-ÔÆÄÏ-ËÄ´¨-ÖØÇì-¹ãÎ÷-½­Î÷-ÐÂ½®-¼ªÁÖ-¹óÖÝ-¸ÊËà-ÄþÏÄ-°²»Õ-º£ÄÏ-Î÷²Ø-Çàº£-
 Ë¹¿Â´ï
 Ã÷Èñ-Ë¹¿Â´ï
 Ã÷Èñ±¨¼Û-Ë¹¿Â´ï
 Ã÷Èñ¼Û¸ñ|ÍøÉÏ³µÊÐ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ë¹¿Â´ï
 Ã÷Èñ
 ³µÐÍ
@@ -38705,9 +37555,7 @@ encoding="gb2312"?>
 ±¾ÏµÁÐÆÀÂÛ24Ìõ
 ¶þÊÖ³µ¡¢ÌØ¼Û³µ´æÁ¿£º
 ÏÖÓÐ0Á¾¶þÊÖ³µ0Á¾ÌØ¼Û³µ
-¾­ÏúÉÌ£º<?xml
-version="1.0"
-encoding="gb2312"?>±±¾©ÉÏº£Ìì½ò¹ã¶«É½¶«ºþ±±Õã½­½­ËÕÉ½Î÷ÐÂ½®¸£½¨ºÓÄÏÉÂÎ÷ÁÉÄþËÄ´¨ºÓ±±
+¾­ÏúÉÌ£º<?xml version="1.0" encoding="gb2312"?>±±¾©ÉÏº£Ìì½ò¹ã¶«É½¶«ºþ±±Õã½­½­ËÕÉ½Î÷ÐÂ½®¸£½¨ºÓÄÏÉÂÎ÷ÁÉÄþËÄ´¨ºÓ±±
 ºÚÁú½­ºþÄÏÄÚÃÉ¹Å¼ªÁÖÔÆÄÏ¹ãÎ÷ÖØÇì½­Î÷¹óÖÝ¸ÊËàÄþÏÄ°²»Õº£ÄÏÎ÷²ØÇàº£
 ³µÐÍ
 Àà±ð
@@ -38782,9 +37630,7 @@ MT
 12.32Íò
 12.49
 ¶©³µ
-¾­ÏúÉÌ£º<?xml
-version="1.0"
-encoding="gb2312"?>±±¾©ÉÏº£Ìì½ò¹ã¶«É½¶«ºþ±±Õã½­½­ËÕÉ½Î÷ÐÂ½®¸£½¨ºÓÄÏÉÂÎ÷ÁÉÄþËÄ´¨ºÓ±±
+¾­ÏúÉÌ£º<?xml version="1.0" encoding="gb2312"?>±±¾©ÉÏº£Ìì½ò¹ã¶«É½¶«ºþ±±Õã½­½­ËÕÉ½Î÷ÐÂ½®¸£½¨ºÓÄÏÉÂÎ÷ÁÉÄþËÄ´¨ºÓ±±
 ºÚÁú½­ºþÄÏÄÚÃÉ¹Å¼ªÁÖÔÆÄÏ¹ãÎ÷ÖØÇì½­Î÷¹óÖÝ¸ÊËàÄþÏÄ°²»Õº£ÄÏÎ÷²ØÇàº£
 ±±¾©Ã÷Èñ4Sµê
 ±±¾©ÖÚÒå´ï»ãÁØÆû³µÏúÊÛ·þÎñÓÐÏÞ¹«Ë¾
@@ -38968,106 +37814,78 @@ encoding="gb2312"?>±±¾©ÉÏº£Ìì½ò¹ã¶«É½¶«ºþ±±Õã½­½­ËÕÉ½Î÷ÐÂ½®¸£½¨ºÓÄÏÉÂÎ÷ÁÉÄþËÄ´¨º
 ÓÍºÄÊµ²é
 ÈÈµã³µÐÍ
 ¾­¼ÃÐÍ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÏÖ´ú-ÑÅÉðÌØ
 ÁåÄ¾SX4ÌìÓï
 ÈÕ²ú-æêÍþ
 ³¤°²-±¼±¼
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁúC2
 ±¾Ìï-Ë¼µÏ
 ÆðÑÇ
 RIO
 º£Âí-º£¸£ÐÇ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©·ðÀ¼-ÀÖ·ç
 ·áÌï-Íþ³Û
 ÁåÄ¾-ÓêÑà
 ÆæÈð
 QQ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±êÖÂ206
 polo¾¢Çé
 ´óÖÚ-½Ý´ï
 ±¾Ìï-·É¶È
 ÖÐµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÅÁÈøÌØ-ÁìÔ¦
 ±¾Ìï-ÑÅ¸ó
 ·áÌï-¿­ÃÀÈð
 Âí×Ô´ï
 6
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±ð¿Ë-¾ýÔ½
 ´óÖÚ-ÂõÌÚ
 ÈÕ²ú-Ììô¥
 MGÃû¾ô
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¸£ÌØ-¸£¿ËË¹
 ·áÌï-ÈñÖ¾
 Ñ©·ðÀ¼-¾°³Ì
 ÏÖ´ú-Í¾Ê¤
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁú-¿­Ðý
 ±¾ÌïCR-V
 ÈýÁâ-¸êÀ¶
 ÉÏÆû-ÈÙÍþ
 ¸ßµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 °ÂµÏA6
 À×¿ËÈøË¹GS
 ¿­µÏÀ­¿ËCTS
 ÎÖ¶ûÎÖXC90
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¦Âí5Ïµ
 ÃÔÄãMini
 ´óÖÚ-Í¾Èñ
 ±¦Âí3Ïµ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¼³ÛEÏµ
 Â·»¢-ÉñÐÐÕß2
 ±£Ê±½Ý-¿¨Ñç
 °ÂµÏA4
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÁÖÒñ´óµÀ
 300C
 Ó¢·ÆÄáµÏ
 ¼ªÆÕJeep
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¾©-»¦-½ò-¹ãÖÝ-Îäºº-ÉîÛÚ-É½¶«-É½Î÷-Õã½­-½­ËÕ-¸£½¨-ÁÉÄþ-ºÓÄÏ-ÉÂÎ÷-ºÓ±±-ºþÄÏ-ºÚÁú½­-ÄÚÃÉ¹Å-ÔÆÄÏ-ËÄ´¨-ÖØÇì-¹ãÎ÷-½­Î÷-ÐÂ½®-¼ªÁÖ-¹óÖÝ-¸ÊËà-ÄþÏÄ-°²»Õ-º£ÄÏ-Î÷²Ø-Çàº£-
 302
 File
 moved
 Æû³µÎ¬ÐÞ_Æû³µ_ÍøÉÏ³µÊÐ(www.cheshi.com.cn/autoService/default.asp)
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¾©-»¦-½ò-¹ãÖÝ-Îäºº-ÉîÛÚ-É½¶«-É½Î÷-Õã½­-½­ËÕ-¸£½¨-ÁÉÄþ-ºÓÄÏ-ÉÂÎ÷-ºÓ±±-ºþÄÏ-ºÚÁú½­-ÄÚÃÉ-ÔÆÄÏ-ËÄ´¨-ÖØÇì-¹ãÎ÷-½­Î÷-ÐÂ½®-¼ªÁÖ-¹óÖÝ-¸ÊËà-ÄþÏÄ-°²»Õ-º£ÄÏ-Î÷²Ø-Çàº£-
 ¡¤ÓÃ»§µÇÂ¼
 ¡¤ÉÌ¼Ò¼ÓÃË
@@ -39190,15 +38008,11 @@ price<=2500000">200
 Î¢ÐÍ³µ
 MPV
 ½ÎÅÜ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¡¤
 ÐÞ³µÑø³µ
 ¸ü¶à
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 [±£Ñø]£º³µÁ¾Ñø»¤³£Ê¶
 Ä¥ºÏÆÚ¡°ÈýÕÐ¡±±£Ñø°®³µ
 [±£ÏÕ]£º²»ÄÜË³Àû»ñÅâ
@@ -39222,9 +38036,7 @@ encoding="gb2312"?>
 ¡¤
 ÐÂÎÅ×ÉÑ¶
 ¸ü¶à
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 [Î¬ÐÞ]£ºÊ±Ê±¿Ì¿ÌÁôÒ»ÊÖ
 ¼¼Ê¦×ÔÆØ4SµêÎ¬ÐÞºÚÄ»
 [±£Ñø]£º×¨¼Ò½â´ð
@@ -39236,9 +38048,7 @@ encoding="gb2312"?>
 ×¨¼ÒÖ§ÕÐ½â¾ö7ÖÖÆøÎ¶ÎÊÌâ
 [Î¬ÐÞ]£ºÎ¬ÐÞ°®³µDIY
 ¡°Ìý¡±ÓÃÄãµÄ¶ú¶äÈ¥ÐÞ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Î¬ÐÞ·ÖÀàÐÅÏ¢£º
 ÐÞ³µÑø³µ
 |
@@ -39254,9 +38064,7 @@ encoding="gb2312"?>
 |
 Õþ²ß·¨¹æ
 Æ·ÅÆÎ¬ÐÞ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÍøÉÏ³µÊÐ¹ã¸æÕÐÉÌ
 51660923-815
 ÍøÉÏ³µÊÐ¹ã¸æÕÐÉÌ
@@ -39268,9 +38076,7 @@ encoding="gb2312"?>
 ÍøÉÏ³µÊÐ¹ã¸æÕÐÉÌ
 51660923-815
 Î¬ÐÞ¾­ÏúÉÌ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±±¾©»ªÍ¨Î°Òµ
 ¹ãÖÝ±¾Ìï
 88471919
@@ -39424,9 +38230,7 @@ encoding="gb2312"?>
 ÖÐÓþ
 ÖÚÌ©
 Î¬ÐÞ¾­ÏúÉÌ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±±¾©²©ÈðÀ×¿Ë
 ÁèÖ¾(À×¿ËÈøË¹)
 87582110
@@ -39533,9 +38337,7 @@ GMC
 ÎÞÏÞ(Ó¢·ÆÄáµÏ)
 ÎåÊ®Áå
 ¸ß¼¶Î¬ÐÞ¼¼Ê¦
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÐÕÃû£º
 ÍõÊÀÓÑ
 ¹«Ë¾£º
@@ -39574,9 +38376,7 @@ encoding="gb2312"?>
 µç»°
 ÁªÏµÈË
 ÆóÒµÀà±ð
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±±¾©ÖÐÆûÒÀÎ¬¿ÂÆû³µÎ¬ÐÞ³§±±¾©³¯ÑôÇøÂó×Óµê010-64601002Íõ±¦¶¼-
 Jeep×°ÊÎÖÐÐÄ±±¾©°²ÍâÐ¡¹Ø23ºÅ,5,±±¾©-
 ±±¾©âýÖ®¾­Ã³ÓÐÏÞÔðÈÎ¹«Ë¾±±¾©ÊÐ³¯ÑôÇøËÉÓÜÄÏÂ·56£¨010£©8731291-
@@ -39595,9 +38395,7 @@ Jeep×°ÊÎÖÐÐÄ±±¾©°²ÍâÐ¡¹Ø23ºÅ,5,±±¾©-
 ±±¾©ÊÐ»ªÊ¢¸£Ô´Æû³µÏúÊÛ·þ±±¾©ÊÐ³¯ÑôÇøÒ¦¼ÒÔ°Â·¶«¿Ú010-85576688¸¶À×-
 ÖÐÆû°²»ªºÕ×ÈÆû³µ·þÎñÓÐÏÞ±±¾©ÊÐ³¯ÑôÇø±±ËÄ»·¶«Â·3010-64393633-
 Î¬ÐÞ³£Ê¶
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 [Î¬ÐÞ]£º¶«·ç±êÖÂ¡°À¶É«³ÐÅµ¡±Õæ¼Ù±¸¼þÅàÑµ
 [Î¬ÐÞ]£ºÊ±Ê±¿Ì¿ÌÁôÒ»ÊÖ
 ¼¼Ê¦×ÔÆØ4SµêÎ¬ÐÞºÚÄ»
@@ -39616,10 +38414,7 @@ encoding="gb2312"?>
 ÎåÕÐ½ÌÄãÐÞ³µÒ²ÌÖÇÉ
 [Î¬ÐÞ]£ºÆûÐÞ×¨¼ÒÌ¸Î¬ÐÞ
 Æû³µ³£¼ûÎÊÌâ¼°½â¾ö´ëÊ©
-<?xml
-version="1.0"
-encoding="gb2312"
-?>
+<?xml version="1.0" encoding="gb2312" ?>
 ±±¾©ÊÐº£µíÇø
 Æû³µÎ¬ÐÞÆóÒµ
 ¸ü¶à
@@ -39628,9 +38423,7 @@ encoding="gb2312"
 µç»°
 ÁªÏµÈË
 ÆóÒµÀà±ð
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±±¾©Çà³ÈÊ±´ú¿Æ¼¼·¢Õ¹ÓÐÏÞ±±¾©ÊÐº£µíÇøº£µíÄÏÂ·19010-82669937ÂÀÅàÄþ-
 ±±¾©½ñ¹þË¹½ðÓÐÏÞ¹«Ë¾±±¾©Ñ§ÔºÂ·33ºÅ27ºÅÂ¥82320101¹þË¿ºÁ-
 ±±¾©ÂÞ¸£´ïÆû³µÎ¬ÐÞ·þÎñÖÐ±±¾©ÊÐº£µíÇø±±É³Ì²Ë«Èª±¤010-62346234ß®Æô·É-
@@ -39648,9 +38441,7 @@ encoding="gb2312"?>
 ±±¾©»ªÍ¨Î°ÒµÆû³µÏúÊÛ·þÎñ±±¾©ÊÐº£µíÇøÐÓÊ¯¿ÚÂ·15010-88471919ÀîÐ¡¾ü-
 ±±¾©»ªÈÕÍ¨Æû³µÏúÊÛ·þÎñÓÐ±±¾©ÊÐº£µíÇøÐÓÊ¯¿ÚÂ·15010-88437699ÂíÕñ½­-
 Æ·ÅÆÎ¬ÐÞ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 [Î¬ÐÞ]£º×¨¼ÒÖ§ÕÐ
 ¸£¿ËË¹½Î³µ¹ÊÕÏ·ÖÎö3Àý
 [Î¬ÐÞ]£º×¨¼Ò³öÕÐ
@@ -39678,13 +38469,10 @@ encoding="gb2312"?>
 µç»°
 ÁªÏµÈË
 ÆóÒµÀà±ð
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 »ªÏÄÆû³µ·þÎñ¹«Ë¾±±¾©Î÷Èý»·ÄÏÂ·9ºÅ010-63863512-
 ±±¾©»ªÔ½Æû³µÃÀÈÝÖÐÐÄ±±¾©·áÌ¨ÂæÍÕÍå39ºÅ63407136¡£632ÔøÏÈÉú-
-±±¾©êÉÑÓÂÖÌ¥¾­Óª¹«Ë¾±±¾©ÊÐÓÀÍâ¼Ö¼Ò»¨Ô°(ÄÏÈý010-67257137Ëï·ï½Ü
-ÍõÒ×-
+±±¾©êÉÑÓÂÖÌ¥¾­Óª¹«Ë¾±±¾©ÊÐÓÀÍâ¼Ö¼Ò»¨Ô°(ÄÏÈý010-67257137Ëï·ï½Ü ÍõÒ×-
 ±±¾©»ªÔ½Æû³µÐÞÀí³§±±¾©Î÷Èý»··áÒæÇÅÎ÷10001063803098,ÍõÑÞ»Ô-
 ±±¾©ÊÐ½ðÅµµÃ¿ÆÃ³ÓÐÏÞÔðÈÎ±±¾©ÊÐ·áÌ¨Çø¶ð·ïÓª26ºÅ010£­63336676-
 ±±¾©°ÂµÂÐÐ·áÌïÆû³µÏúÊÛ·þ±±¾©·áÌ¨ÇøÄÏÈý»·Î÷Â·39010-83520100-
@@ -39700,9 +38488,7 @@ encoding="gb2312"?>
 ±±¾©ÊÐ¾©»ªÆû³µÐÞÀí³§±±¾©ÊÐ·áÌ¨ÇøÖ£³£×¯105010-68239359±¡ÔöÂ»-
 ±±¾©»¨ÏçÇÅ·áÌïÆû³µÏúÊÛ·þ±±¾©ÊÐ·áÌ¨ÇøËÄºÏ×¯415010-63754882½ªÓÂ-
 Î¬ÐÞÔÚÏß
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 [Î¬ÐÞ]£ºË¹¿Â´ï-Ã÷Èñ¹º³µºÍÊÛºó×¨¼Ò»Ø´ðÍøÓÑÌáÎÊ
 ´ðÒÉÊµÂ¼
 [·ÃÌ¸]£º½ø¿Ú´óÖÚÎ¬ÐÞºÍ¹º³µ×¨¼Ò
@@ -39732,14 +38518,10 @@ encoding="gb2312"?>
 µç»°
 ÁªÏµÈË
 ÆóÒµÀà±ð
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±±¾©±±Æû³ö×âÆû³µ¼¯ÍÅÓÐÏÞ±±¾©ÊÐÎ÷³ÇÇøÎ÷Ö±ÃÅÄÏ´ó½Ö010-66160201ÕÅéªÄÐ-
 ±£Ñø³£Ê¶
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 [ÓÃ³µ]£º½ÌÄãÔõÑùÈÃÐÂ³µ
 °²È«¶È¹ýÄ¥ºÏÆÚ
 [ÓÃ³µ]£ºÆû³µÑ§ÌÃ£ºÈçºÎÈÃ³µÄÚ¿Õµ÷¸üÖÆÀä£¿
@@ -39766,15 +38548,11 @@ encoding="gb2312"?>
 µç»°
 ÁªÏµÈË
 ÆóÒµÀà±ð
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ³£ÖÝÁª´´ÆûÐÞ³§³£ÖÝÍâ»·Â·0519-8158811-
 ÎÞÃûÌì½ò¸Û±£Ë°Çø25763181-
 ¸öÐÔ¸Ä×°
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 [¸Ä×°]£ºÈëÃÅ¼¶Ò°ÊÞ
 ±¼³ÛCLS350±äÉíGTR
 374£¨Í¼£©
@@ -39805,16 +38583,12 @@ Abt¸Ä×°310ÂíÁ¦°ÂµÏS3(Í¼)
 µç»°
 ÁªÏµÈË
 ÆóÒµÀà±ð
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±±¾©³Ï½¨ÓÑÆû³µÎ¬ÐÞÓÐÏÞÔð±±¾©ÊÐÊ¯¾°É½ÇøÁõÄï¸®ÄÏºÓ010-88793483²ÜÔö³¯
 ÉÌÑ§À¼-
 ±±¾©ÊÐ¾ÛÏÍË³´ïÉÌÃ³ÓÐÏÞÔð±±¾©ÊÐÊ¯¾°É½Çø°Ë´ï´¦Â·´ó010-88703012¸¶ÎÄ¸Ö-
 Õþ²ß·¨¹æ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 [Õþ²ß]£º³µÄÚ¿ÕÆøÎÛÈ¾²âÁ¿±ê×¼Äêµ×³öÌ¨
 [Õþ²ß]£º¹ãÖÝ¼ÝÕÕ¿¼ÊÔ·ÑÏÂÔÂ·­4±¶
 Ã¿ÈË480Ôª
@@ -39833,18 +38607,14 @@ encoding="gb2312"?>
 8ÈÕ½»Í¨¹ÜÀí·¢²¼
 [Õþ²ß]£ºÇáÐÍÉÌÓÃ³µºÄÓÍÁ¿¿ÉÍû¼õÒ»³É
 ÐÂ±ê×¼Ã÷ÄêÖ´ÐÐ
-ÓÑÇéÁ´½Ó£º<?xml
-version="1.0"
-encoding="gb2312"?>
+ÓÑÇéÁ´½Ó£º<?xml version="1.0" encoding="gb2312"?>
 ÐÂ»ªÍø-Æû³µÆµµÀ
 ÑÅ»¢-Æû³µÎ¬ÐÞ
 Tom-Æû³µ
 ÌØ±ðÌáÊ¾£º
 ËùÓÐÒÑÉóºËµÄÐÅÏ¢£¬¾ù¾­ÍøÉÏ³µÊÐÈ·ÈÏ£¬ÐÅÏ¢ÕæÊµ£¬Í¨Ñ¶·½Ê½¿É¿¿£¡¾ßÌå½»Ò×£¬ÇëÍøÓÑ½÷É÷£¬
 ±£»¤×Ô¼ºÀûÒæ£¡ÍøÉÏ³µÊÐ½«¼ÌÐøÌá¸ß·þÎñÖÊÁ¿£¬Î¬»¤Ïû·ÑÕßÈ¨Òæ£¡
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¾©-»¦-½ò-¹ãÖÝ-Îäºº-ÉîÛÚ-É½¶«-É½Î÷-Õã½­-½­ËÕ-¸£½¨-ÁÉÄþ-ºÓÄÏ-ÉÂÎ÷-ºÓ±±-ºþÄÏ-ºÚÁú½­-ÄÚÃÉ-ÔÆÄÏ-ËÄ´¨-ÖØÇì-¹ãÎ÷-½­Î÷-ÐÂ½®-¼ªÁÖ-¹óÖÝ-¸ÊËà-ÄþÏÄ-°²»Õ-º£ÄÏ-Î÷²Ø-Çàº£-
 ¹ØÓÚÍøÉÏ³µÊÐ|·þÎñÒµÎñ|ÎÊÓë´ð|ÕÐÆ¸ÐÅÏ¢|ÁªÏµ·½Ê½|ÓÑÇéÁ´½Ó
 Copyright
@@ -39872,9 +38642,7 @@ Email:service@cheshi.com.cn
 ÉÌ¼Ò¿ìÑ¶
 ÍøÉÏ³µÊÐÊ×Ò³
 ¹ú²ú×¨Çø°ÂµÏ°ÂµÏ¹Ù·½ÍøÕ¾
-¾­ÏúÉÌ£º<?xml
-version="1.0"
-encoding="gb2312"?>±±¾©ÉÏº£Ìì½ò¹ã¶«É½¶«ºþ±±Õã½­½­ËÕÉ½Î÷ÐÂ½®¸£½¨ºÓÄÏÉÂÎ÷ÁÉÄþËÄ´¨ºÓ±±
+¾­ÏúÉÌ£º<?xml version="1.0" encoding="gb2312"?>±±¾©ÉÏº£Ìì½ò¹ã¶«É½¶«ºþ±±Õã½­½­ËÕÉ½Î÷ÐÂ½®¸£½¨ºÓÄÏÉÂÎ÷ÁÉÄþËÄ´¨ºÓ±±
 ºÚÁú½­ºþÄÏÄÚÃÉ¹Å¼ªÁÖÔÆÄÏ¹ãÎ÷ÖØÇì½­Î÷¹óÖÝ¸ÊËàÄþÏÄ°²»Õº£ÄÏÎ÷²ØÇàº£
 ³µÐÍ
 Àà±ð
@@ -40196,9 +38964,7 @@ AT/MT
 84.41Íò
 85.33Íò
 ¶©³µ
-¾­ÏúÉÌ£º<?xml
-version="1.0"
-encoding="gb2312"?>±±¾©ÉÏº£Ìì½ò¹ã¶«É½¶«ºþ±±Õã½­½­ËÕÉ½Î÷ÐÂ½®¸£½¨ºÓÄÏÉÂÎ÷ÁÉÄþËÄ´¨ºÓ±±
+¾­ÏúÉÌ£º<?xml version="1.0" encoding="gb2312"?>±±¾©ÉÏº£Ìì½ò¹ã¶«É½¶«ºþ±±Õã½­½­ËÕÉ½Î÷ÐÂ½®¸£½¨ºÓÄÏÉÂÎ÷ÁÉÄþËÄ´¨ºÓ±±
 ºÚÁú½­ºþÄÏÄÚÃÉ¹Å¼ªÁÖÔÆÄÏ¹ãÎ÷ÖØÇì½­Î÷¹óÖÝ¸ÊËàÄþÏÄ°²»Õº£ÄÏÎ÷²ØÇàº£
 ±±¾©°ÂµÏ4Sµê
 ±±¾©ÑÇÖ®½ÜÆû³µÃ³Ò×ÓÐÏÞÔðÈÎ¹«Ë¾¡ï¡ï¡ï
@@ -40320,8 +39086,7 @@ encoding="gb2312"?>±±¾©ÉÏº£Ìì½ò¹ã¶«É½¶«ºþ±±Õã½­½­ËÕÉ½Î÷ÐÂ½®¸£½¨ºÓÄÏÉÂÎ÷ÁÉÄþËÄ´¨º
 ¡ø
 È«¹ú·¶Î§ÄÚ¾ù¿ÉÏúÊÛ
 ¡ø
-±¾¹«Ë¾½«±¾×Å¡¶ÐÅÓþµÚÒ»
-¿Í»§ÖÁÉÏ¡·µÄ×ÚÖ¼ÖÒ³ÏµÄÎªÄú·þÎñ
+±¾¹«Ë¾½«±¾×Å¡¶ÐÅÓþµÚÒ» ¿Í»§ÖÁÉÏ¡·µÄ×ÚÖ¼ÖÒ³ÏµÄÎªÄú·þÎñ
 £¬ÈÃÄú³ËÐË¶øÀ´
 ÂúÒâ¶ø¹é
 ¡°Ò»´ÎÎÕÊÖ
@@ -40454,8 +39219,7 @@ encoding="gb2312"?>±±¾©ÉÏº£Ìì½ò¹ã¶«É½¶«ºþ±±Õã½­½­ËÕÉ½Î÷ÐÂ½®¸£½¨ºÓÄÏÉÂÎ÷ÁÉÄþËÄ´¨º
 ¡ø
 È«¹ú·¶Î§ÄÚ¾ù¿ÉÏúÊÛ
 ¡ø
-±¾¹«Ë¾½«±¾×Å¡¶ÐÅÓþµÚÒ»
-¿Í»§ÖÁÉÏ¡·µÄ×ÚÖ¼ÖÒ³ÏµÄÎªÄú·þÎñ
+±¾¹«Ë¾½«±¾×Å¡¶ÐÅÓþµÚÒ» ¿Í»§ÖÁÉÏ¡·µÄ×ÚÖ¼ÖÒ³ÏµÄÎªÄú·þÎñ
 £°£±£°£­£¸£°£¶£µ£²£²£±£²
 £±£³£¶£¹£±£²£¶£¶£µ£±£µ
 ±±¾©ÑÇ¶¦·½ÖÛÉÌÃ³ÓÐÏÞ¹«Ë¾
@@ -40523,18 +39287,14 @@ encoding="gb2312"?>±±¾©ÉÏº£Ìì½ò¹ã¶«É½¶«ºþ±±Õã½­½­ËÕÉ½Î÷ÐÂ½®¸£½¨ºÓÄÏÉÂÎ÷ÁÉÄþËÄ´¨º
 2006-11-3
 11:47:53
 µã»÷Ïò¹ËÎÊ×ÉÑ¯
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÖÐÈó·¢
 °ÂµÏ4Sµê
 010-63263377
 Ãâ·Ñ²¦´òµç»°
 Ãâ·Ñ×ÉÑ¯ÉÌ¼Ò
 ËæÊ±ËæµØ¹µÍ¨
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 -->
 ³µÊÐ¹¤¾ßÏä
 ³µÐÍËÑË÷
@@ -40557,98 +39317,72 @@ encoding="gb2312"?>
 ÓÍºÄÊµ²é
 ÈÈµã³µÐÍ
 ¾­¼ÃÐÍ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÏÖ´ú-ÑÅÉðÌØ
 ÁåÄ¾SX4ÌìÓï
 ÈÕ²ú-æêÍþ
 ³¤°²-±¼±¼
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁúC2
 ±¾Ìï-Ë¼µÏ
 ÆðÑÇ
 RIO
 º£Âí-º£¸£ÐÇ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©·ðÀ¼-ÀÖ·ç
 ·áÌï-Íþ³Û
 ÁåÄ¾-ÓêÑà
 ÆæÈð
 QQ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±êÖÂ206
 polo¾¢Çé
 ´óÖÚ-½Ý´ï
 ±¾Ìï-·É¶È
 ÖÐµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÅÁÈøÌØ-ÁìÔ¦
 ±¾Ìï-ÑÅ¸ó
 ·áÌï-¿­ÃÀÈð
 Âí×Ô´ï
 6
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±ð¿Ë-¾ýÔ½
 ´óÖÚ-ÂõÌÚ
 ÈÕ²ú-Ììô¥
 MGÃû¾ô
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¸£ÌØ-¸£¿ËË¹
 ·áÌï-ÈñÖ¾
 Ñ©·ðÀ¼-¾°³Ì
 ÏÖ´ú-Í¾Ê¤
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁú-¿­Ðý
 ±¾ÌïCR-V
 ÈýÁâ-¸êÀ¶
 ÉÏÆû-ÈÙÍþ
 ¸ßµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 °ÂµÏA6
 À×¿ËÈøË¹GS
 ¿­µÏÀ­¿ËCTS
 ÎÖ¶ûÎÖXC90
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¦Âí5Ïµ
 ÃÔÄãMini
 ´óÖÚ-Í¾Èñ
 ±¦Âí3Ïµ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¼³ÛEÏµ
 Â·»¢-ÉñÐÐÕß2
 ±£Ê±½Ý-¿¨Ñç
 °ÂµÏA4
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÁÖÒñ´óµÀ
 300C
 Ó¢·ÆÄáµÏ
 ¼ªÆÕJeep
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¾©-»¦-½ò-¹ãÖÝ-Îäºº-ÉîÛÚ-É½¶«-É½Î÷-Õã½­-½­ËÕ-¸£½¨-ÁÉÄþ-ºÓÄÏ-ÉÂÎ÷-ºÓ±±-ºþÄÏ-ºÚÁú½­-ÄÚÃÉ¹Å-ÔÆÄÏ-ËÄ´¨-ÖØÇì-¹ãÎ÷-½­Î÷-ÐÂ½®-¼ªÁÖ-¹óÖÝ-¸ÊËà-ÄþÏÄ-°²»Õ-º£ÄÏ-Î÷²Ø-Çàº£-
 ÏÖ´ú-¹ú²úÏÖ´úÆû³µ±¨¼Û-×îÐÂÏÖ´ú½Î³µ¼Û¸ñÍøÕ¾|ÍøÉÏ³µÊÐ
 ÏÖ´ú
@@ -40661,9 +39395,7 @@ encoding="gb2312"?>
 ÉÌ¼Ò¿ìÑ¶
 ÍøÉÏ³µÊÐÊ×Ò³
 ¹ú²ú×¨ÇøÏÖ´úÏÖ´ú¹Ù·½ÍøÕ¾
-¾­ÏúÉÌ£º<?xml
-version="1.0"
-encoding="gb2312"?>±±¾©ÉÏº£Ìì½ò¹ã¶«É½¶«ºþ±±Õã½­½­ËÕÉ½Î÷ÐÂ½®¸£½¨ºÓÄÏÉÂÎ÷ÁÉÄþËÄ´¨ºÓ±±
+¾­ÏúÉÌ£º<?xml version="1.0" encoding="gb2312"?>±±¾©ÉÏº£Ìì½ò¹ã¶«É½¶«ºþ±±Õã½­½­ËÕÉ½Î÷ÐÂ½®¸£½¨ºÓÄÏÉÂÎ÷ÁÉÄþËÄ´¨ºÓ±±
 ºÚÁú½­ºþÄÏÄÚÃÉ¹Å¼ªÁÖÔÆÄÏ¹ãÎ÷ÖØÇì½­Î÷¹óÖÝ¸ÊËàÄþÏÄ°²»Õº£ÄÏÎ÷²ØÇàº£
 ³µÐÍ
 Àà±ð
@@ -41023,9 +39755,7 @@ AT
 10.78Íò
 10.98Íò
 ¶©³µ
-¾­ÏúÉÌ£º<?xml
-version="1.0"
-encoding="gb2312"?>±±¾©ÉÏº£Ìì½ò¹ã¶«É½¶«ºþ±±Õã½­½­ËÕÉ½Î÷ÐÂ½®¸£½¨ºÓÄÏÉÂÎ÷ÁÉÄþËÄ´¨ºÓ±±
+¾­ÏúÉÌ£º<?xml version="1.0" encoding="gb2312"?>±±¾©ÉÏº£Ìì½ò¹ã¶«É½¶«ºþ±±Õã½­½­ËÕÉ½Î÷ÐÂ½®¸£½¨ºÓÄÏÉÂÎ÷ÁÉÄþËÄ´¨ºÓ±±
 ºÚÁú½­ºþÄÏÄÚÃÉ¹Å¼ªÁÖÔÆÄÏ¹ãÎ÷ÖØÇì½­Î÷¹óÖÝ¸ÊËàÄþÏÄ°²»Õº£ÄÏÎ÷²ØÇàº£
 ±±¾©ÏÖ´ú4Sµê
 ±±¾©¾©ÏÖÈÙ»ªÆû³µÏúÊÛÓÐÏÞ¹«Ë¾¡ï¡ï¡ï
@@ -41105,8 +39835,7 @@ encoding="gb2312"?>±±¾©ÉÏº£Ìì½ò¹ã¶«É½¶«ºþ±±Õã½­½­ËÕÉ½Î÷ÐÂ½®¸£½¨ºÓÄÏÉÂÎ÷ÁÉÄþËÄ´¨º
 ¡ø
 È«¹ú·¶Î§ÄÚ¾ù¿ÉÏúÊÛ
 ¡ø
-±¾¹«Ë¾½«±¾×Å¡¶ÐÅÓþµÚÒ»
-¿Í»§ÖÁÉÏ¡·µÄ×ÚÖ¼ÖÒ³ÏµÄÎªÄú·þÎñ
+±¾¹«Ë¾½«±¾×Å¡¶ÐÅÓþµÚÒ» ¿Í»§ÖÁÉÏ¡·µÄ×ÚÖ¼ÖÒ³ÏµÄÎªÄú·þÎñ
 £¬ÈÃÄú³ËÐË¶øÀ´
 ÂúÒâ¶ø¹é
 ¡°Ò»´ÎÎÕÊÖ
@@ -41188,12 +39917,7 @@ encoding="gb2312"?>±±¾©ÉÏº£Ìì½ò¹ã¶«É½¶«ºþ±±Õã½­½­ËÕÉ½Î÷ÐÂ½®¸£½¨ºÓÄÏÉÂÎ÷ÁÉÄþËÄ´¨º
 £¶£µ£´£±£±£´£¸£°**£±£³£³£¹£±£¹£¸£¸£¸£¶£·Öì¾­Àí£±£³£³£¶£¶£¶£³£¶£¶£³£¶Áõ¾­Àí***£±£³£³£¹£±£¹£³£²£µ£·£²ÁÎÏÈÉú
 ±±¾©¶¥¼Ñ³ÉÆû³µÃ³Ò×ÓÐÏÞÔðÈÎ¹«Ë¾
 ±±¾©ÊÐ³¯ÑôÇøÒ¦¼ÒÔ°Â·¶«·½»ùÒµÆû³µ³Ç£¨ÖÐÇø£©
-£¨(³ÏÐÅÆóÒµ)ÌØÐí´úÀí4SµêÏúÊÛ¡ï¡ï¡ï¡ï¡ï
-(¹¤×÷³µ½ÓËÍ)»¶Ó­È«¹ú¸÷µØ¹«Ë¾¸öÈËÓÃ»§À´µç×ÉÑ¯£¬³ÏÕ÷È«¹ú¸÷µØÆóÊÂÒµµ¥Î»¹«Ë¾¸öÈË³¤ÆÚºÏ×÷»¶Ó­À´µç×ÉÑ¯
-010-89119891
-13621216708
-¹ÜÏÈÉú
-(ÏúÊÛÖ÷¹Ü)
+£¨(³ÏÐÅÆóÒµ)ÌØÐí´úÀí4SµêÏúÊÛ¡ï¡ï¡ï¡ï¡ï (¹¤×÷³µ½ÓËÍ)»¶Ó­È«¹ú¸÷µØ¹«Ë¾¸öÈËÓÃ»§À´µç×ÉÑ¯£¬³ÏÕ÷È«¹ú¸÷µØÆóÊÂÒµµ¥Î»¹«Ë¾¸öÈË³¤ÆÚºÏ×÷»¶Ó­À´µç×ÉÑ¯ 010-89119891 13621216708 ¹ÜÏÈÉú (ÏúÊÛÖ÷¹Ü)
 ±±¾©»ª°ÂÈð½ÝÃ³Ò×ÓÐÏÞ¹«Ë¾
 ±±¾©ÊÐ³¯ÑôÇø;ÏúÊÛµÚÈý·Ö²¿---ÐÂÑÇÔË´åÆû³µ½»Ò×ÊÐ³¡9ºÅÕ¹Ìü¡°24Ð¡Ê±½ß³ÏÎªÄú·þÎñ!
 Ãâ·ÑÍ¨»°-Æû³µÍ¨
@@ -41275,9 +39999,7 @@ encoding="gb2312"?>±±¾©ÉÏº£Ìì½ò¹ã¶«É½¶«ºþ±±Õã½­½­ËÕÉ½Î÷ÐÂ½®¸£½¨ºÓÄÏÉÂÎ÷ÁÉÄþËÄ´¨º
 2007-4-26
 16:06:19
 µã»÷Ïò¹ËÎÊ×ÉÑ¯
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¾©ÏÖÈÙ»ª
 ±±¾©ÏÖ´ú4Sµê
 010-62632245
@@ -41287,9 +40009,7 @@ encoding="gb2312"?>
 Ãâ·Ñ²¦´òµç»°
 Ãâ·Ñ×ÉÑ¯ÉÌ¼Ò
 ËæÊ±ËæµØ¹µÍ¨
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 -->
 ³µÊÐ¹¤¾ßÏä
 ³µÐÍËÑË÷
@@ -41312,98 +40032,72 @@ encoding="gb2312"?>
 ÓÍºÄÊµ²é
 ÈÈµã³µÐÍ
 ¾­¼ÃÐÍ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÏÖ´ú-ÑÅÉðÌØ
 ÁåÄ¾SX4ÌìÓï
 ÈÕ²ú-æêÍþ
 ³¤°²-±¼±¼
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁúC2
 ±¾Ìï-Ë¼µÏ
 ÆðÑÇ
 RIO
 º£Âí-º£¸£ÐÇ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©·ðÀ¼-ÀÖ·ç
 ·áÌï-Íþ³Û
 ÁåÄ¾-ÓêÑà
 ÆæÈð
 QQ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±êÖÂ206
 polo¾¢Çé
 ´óÖÚ-½Ý´ï
 ±¾Ìï-·É¶È
 ÖÐµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÅÁÈøÌØ-ÁìÔ¦
 ±¾Ìï-ÑÅ¸ó
 ·áÌï-¿­ÃÀÈð
 Âí×Ô´ï
 6
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±ð¿Ë-¾ýÔ½
 ´óÖÚ-ÂõÌÚ
 ÈÕ²ú-Ììô¥
 MGÃû¾ô
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¸£ÌØ-¸£¿ËË¹
 ·áÌï-ÈñÖ¾
 Ñ©·ðÀ¼-¾°³Ì
 ÏÖ´ú-Í¾Ê¤
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁú-¿­Ðý
 ±¾ÌïCR-V
 ÈýÁâ-¸êÀ¶
 ÉÏÆû-ÈÙÍþ
 ¸ßµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 °ÂµÏA6
 À×¿ËÈøË¹GS
 ¿­µÏÀ­¿ËCTS
 ÎÖ¶ûÎÖXC90
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¦Âí5Ïµ
 ÃÔÄãMini
 ´óÖÚ-Í¾Èñ
 ±¦Âí3Ïµ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¼³ÛEÏµ
 Â·»¢-ÉñÐÐÕß2
 ±£Ê±½Ý-¿¨Ñç
 °ÂµÏA4
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÁÖÒñ´óµÀ
 300C
 Ó¢·ÆÄáµÏ
 ¼ªÆÕJeep
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¾©-»¦-½ò-¹ãÖÝ-Îäºº-ÉîÛÚ-É½¶«-É½Î÷-Õã½­-½­ËÕ-¸£½¨-ÁÉÄþ-ºÓÄÏ-ÉÂÎ÷-ºÓ±±-ºþÄÏ-ºÚÁú½­-ÄÚÃÉ¹Å-ÔÆÄÏ-ËÄ´¨-ÖØÇì-¹ãÎ÷-½­Î÷-ÐÂ½®-¼ªÁÖ-¹óÖÝ-¸ÊËà-ÄþÏÄ-°²»Õ-º£ÄÏ-Î÷²Ø-Çàº£-
 Ñ©·ðÀ¼-¹ú²úÑ©·ðÀ¼Æû³µ±¨¼Û-×îÐÂÑ©·ðÀ¼½Î³µ¼Û¸ñÍøÕ¾|ÍøÉÏ³µÊÐ
 Ñ©·ðÀ¼
@@ -41416,9 +40110,7 @@ encoding="gb2312"?>
 ÉÌ¼Ò¿ìÑ¶
 ÍøÉÏ³µÊÐÊ×Ò³
 ¹ú²ú×¨ÇøÑ©·ðÀ¼Ñ©·ðÀ¼¹Ù·½ÍøÕ¾
-¾­ÏúÉÌ£º<?xml
-version="1.0"
-encoding="gb2312"?>±±¾©ÉÏº£Ìì½ò¹ã¶«É½¶«ºþ±±Õã½­½­ËÕÉ½Î÷ÐÂ½®¸£½¨ºÓÄÏÉÂÎ÷ÁÉÄþËÄ´¨ºÓ±±
+¾­ÏúÉÌ£º<?xml version="1.0" encoding="gb2312"?>±±¾©ÉÏº£Ìì½ò¹ã¶«É½¶«ºþ±±Õã½­½­ËÕÉ½Î÷ÐÂ½®¸£½¨ºÓÄÏÉÂÎ÷ÁÉÄþËÄ´¨ºÓ±±
 ºÚÁú½­ºþÄÏÄÚÃÉ¹Å¼ªÁÖÔÆÄÏ¹ãÎ÷ÖØÇì½­Î÷¹óÖÝ¸ÊËàÄþÏÄ°²»Õº£ÄÏÎ÷²ØÇàº£
 ³µÐÍ
 Àà±ð
@@ -41758,9 +40450,7 @@ SL2005¿î
 7.28Íò
 7.58Íò
 ¶©³µ
-¾­ÏúÉÌ£º<?xml
-version="1.0"
-encoding="gb2312"?>±±¾©ÉÏº£Ìì½ò¹ã¶«É½¶«ºþ±±Õã½­½­ËÕÉ½Î÷ÐÂ½®¸£½¨ºÓÄÏÉÂÎ÷ÁÉÄþËÄ´¨ºÓ±±
+¾­ÏúÉÌ£º<?xml version="1.0" encoding="gb2312"?>±±¾©ÉÏº£Ìì½ò¹ã¶«É½¶«ºþ±±Õã½­½­ËÕÉ½Î÷ÐÂ½®¸£½¨ºÓÄÏÉÂÎ÷ÁÉÄþËÄ´¨ºÓ±±
 ºÚÁú½­ºþÄÏÄÚÃÉ¹Å¼ªÁÖÔÆÄÏ¹ãÎ÷ÖØÇì½­Î÷¹óÖÝ¸ÊËàÄþÏÄ°²»Õº£ÄÏÎ÷²ØÇàº£
 ±±¾©Ñ©·ðÀ¼4Sµê
 ±±¾©¹úÉúÆû³µÏúÊÛ·þÎñÓÐÏÞ¹«Ë¾¡ï¡ï¡ï
@@ -41791,8 +40481,7 @@ encoding="gb2312"?>±±¾©ÉÏº£Ìì½ò¹ã¶«É½¶«ºþ±±Õã½­½­ËÕÉ½Î÷ÐÂ½®¸£½¨ºÓÄÏÉÂÎ÷ÁÉÄþËÄ´¨º
 ¡ø
 È«¹ú·¶Î§ÄÚ¾ù¿ÉÏúÊÛ
 ¡ø
-±¾¹«Ë¾½«±¾×Å¡¶ÐÅÓþµÚÒ»
-¿Í»§ÖÁÉÏ¡·µÄ×ÚÖ¼ÖÒ³ÏµÄÎªÄú·þÎñ
+±¾¹«Ë¾½«±¾×Å¡¶ÐÅÓþµÚÒ» ¿Í»§ÖÁÉÏ¡·µÄ×ÚÖ¼ÖÒ³ÏµÄÎªÄú·þÎñ
 £¬ÈÃÄú³ËÐË¶øÀ´
 ÂúÒâ¶ø¹é
 ¡°Ò»´ÎÎÕÊÖ
@@ -41926,9 +40615,7 @@ encoding="gb2312"?>±±¾©ÉÏº£Ìì½ò¹ã¶«É½¶«ºþ±±Õã½­½­ËÕÉ½Î÷ÐÂ½®¸£½¨ºÓÄÏÉÂÎ÷ÁÉÄþËÄ´¨º
 2007-8-28
 17:19:38
 µã»÷Ïò¹ËÎÊ×ÉÑ¯
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±±¾©¿¥±¦½Ý
 ±ð¿Ë/Ñ©·ðÀ¼
 010-68865528
@@ -41938,9 +40625,7 @@ encoding="gb2312"?>
 Ãâ·Ñ²¦´òµç»°
 Ãâ·Ñ×ÉÑ¯ÉÌ¼Ò
 ËæÊ±ËæµØ¹µÍ¨
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 -->
 ³µÊÐ¹¤¾ßÏä
 ³µÐÍËÑË÷
@@ -41963,98 +40648,72 @@ encoding="gb2312"?>
 ÓÍºÄÊµ²é
 ÈÈµã³µÐÍ
 ¾­¼ÃÐÍ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÏÖ´ú-ÑÅÉðÌØ
 ÁåÄ¾SX4ÌìÓï
 ÈÕ²ú-æêÍþ
 ³¤°²-±¼±¼
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁúC2
 ±¾Ìï-Ë¼µÏ
 ÆðÑÇ
 RIO
 º£Âí-º£¸£ÐÇ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©·ðÀ¼-ÀÖ·ç
 ·áÌï-Íþ³Û
 ÁåÄ¾-ÓêÑà
 ÆæÈð
 QQ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±êÖÂ206
 polo¾¢Çé
 ´óÖÚ-½Ý´ï
 ±¾Ìï-·É¶È
 ÖÐµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÅÁÈøÌØ-ÁìÔ¦
 ±¾Ìï-ÑÅ¸ó
 ·áÌï-¿­ÃÀÈð
 Âí×Ô´ï
 6
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±ð¿Ë-¾ýÔ½
 ´óÖÚ-ÂõÌÚ
 ÈÕ²ú-Ììô¥
 MGÃû¾ô
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¸£ÌØ-¸£¿ËË¹
 ·áÌï-ÈñÖ¾
 Ñ©·ðÀ¼-¾°³Ì
 ÏÖ´ú-Í¾Ê¤
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁú-¿­Ðý
 ±¾ÌïCR-V
 ÈýÁâ-¸êÀ¶
 ÉÏÆû-ÈÙÍþ
 ¸ßµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 °ÂµÏA6
 À×¿ËÈøË¹GS
 ¿­µÏÀ­¿ËCTS
 ÎÖ¶ûÎÖXC90
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¦Âí5Ïµ
 ÃÔÄãMini
 ´óÖÚ-Í¾Èñ
 ±¦Âí3Ïµ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¼³ÛEÏµ
 Â·»¢-ÉñÐÐÕß2
 ±£Ê±½Ý-¿¨Ñç
 °ÂµÏA4
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÁÖÒñ´óµÀ
 300C
 Ó¢·ÆÄáµÏ
 ¼ªÆÕJeep
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¾©-»¦-½ò-¹ãÖÝ-Îäºº-ÉîÛÚ-É½¶«-É½Î÷-Õã½­-½­ËÕ-¸£½¨-ÁÉÄþ-ºÓÄÏ-ÉÂÎ÷-ºÓ±±-ºþÄÏ-ºÚÁú½­-ÄÚÃÉ¹Å-ÔÆÄÏ-ËÄ´¨-ÖØÇì-¹ãÎ÷-½­Î÷-ÐÂ½®-¼ªÁÖ-¹óÖÝ-¸ÊËà-ÄþÏÄ-°²»Õ-º£ÄÏ-Î÷²Ø-Çàº£-
 ¸£ÌØ-¹ú²ú¸£ÌØÆû³µ±¨¼Û-×îÐÂ¸£ÌØ½Î³µ¼Û¸ñÍøÕ¾|ÍøÉÏ³µÊÐ
 ¸£ÌØ
@@ -42067,9 +40726,7 @@ encoding="gb2312"?>
 ÉÌ¼Ò¿ìÑ¶
 ÍøÉÏ³µÊÐÊ×Ò³
 ¹ú²ú×¨Çø¸£ÌØ¸£ÌØ¹Ù·½ÍøÕ¾
-¾­ÏúÉÌ£º<?xml
-version="1.0"
-encoding="gb2312"?>±±¾©ÉÏº£Ìì½ò¹ã¶«É½¶«ºþ±±Õã½­½­ËÕÉ½Î÷ÐÂ½®¸£½¨ºÓÄÏÉÂÎ÷ÁÉÄþËÄ´¨ºÓ±±
+¾­ÏúÉÌ£º<?xml version="1.0" encoding="gb2312"?>±±¾©ÉÏº£Ìì½ò¹ã¶«É½¶«ºþ±±Õã½­½­ËÕÉ½Î÷ÐÂ½®¸£½¨ºÓÄÏÉÂÎ÷ÁÉÄþËÄ´¨ºÓ±±
 ºÚÁú½­ºþÄÏÄÚÃÉ¹Å¼ªÁÖÔÆÄÏ¹ãÎ÷ÖØÇì½­Î÷¹óÖÝ¸ÊËàÄþÏÄ°²»Õº£ÄÏÎ÷²ØÇàº£
 ³µÐÍ
 Àà±ð
@@ -42582,9 +41239,7 @@ MT
 16.54Íò
 16.88Íò
 ¶©³µ
-¾­ÏúÉÌ£º<?xml
-version="1.0"
-encoding="gb2312"?>±±¾©ÉÏº£Ìì½ò¹ã¶«É½¶«ºþ±±Õã½­½­ËÕÉ½Î÷ÐÂ½®¸£½¨ºÓÄÏÉÂÎ÷ÁÉÄþËÄ´¨ºÓ±±
+¾­ÏúÉÌ£º<?xml version="1.0" encoding="gb2312"?>±±¾©ÉÏº£Ìì½ò¹ã¶«É½¶«ºþ±±Õã½­½­ËÕÉ½Î÷ÐÂ½®¸£½¨ºÓÄÏÉÂÎ÷ÁÉÄþËÄ´¨ºÓ±±
 ºÚÁú½­ºþÄÏÄÚÃÉ¹Å¼ªÁÖÔÆÄÏ¹ãÎ÷ÖØÇì½­Î÷¹óÖÝ¸ÊËàÄþÏÄ°²»Õº£ÄÏÎ÷²ØÇàº£
 ±±¾©¸£ÌØ4Sµê
 ±±¾©±±·½³¤¸£Æû³µÏúÊÛÓÐÏÞÔðÈÎ¹«Ë¾¡ï¡ï¡ï
@@ -42673,8 +41328,7 @@ encoding="gb2312"?>±±¾©ÉÏº£Ìì½ò¹ã¶«É½¶«ºþ±±Õã½­½­ËÕÉ½Î÷ÐÂ½®¸£½¨ºÓÄÏÉÂÎ÷ÁÉÄþËÄ´¨º
 ¡ø
 È«¹ú·¶Î§ÄÚ¾ù¿ÉÏúÊÛ
 ¡ø
-±¾¹«Ë¾½«±¾×Å¡¶ÐÅÓþµÚÒ»
-¿Í»§ÖÁÉÏ¡·µÄ×ÚÖ¼ÖÒ³ÏµÄÎªÄú·þÎñ
+±¾¹«Ë¾½«±¾×Å¡¶ÐÅÓþµÚÒ» ¿Í»§ÖÁÉÏ¡·µÄ×ÚÖ¼ÖÒ³ÏµÄÎªÄú·þÎñ
 £¬ÈÃÄú³ËÐË¶øÀ´
 ÂúÒâ¶ø¹é
 ¡°Ò»´ÎÎÕÊÖ
@@ -42769,9 +41423,7 @@ encoding="gb2312"?>±±¾©ÉÏº£Ìì½ò¹ã¶«É½¶«ºþ±±Õã½­½­ËÕÉ½Î÷ÐÂ½®¸£½¨ºÓÄÏÉÂÎ÷ÁÉÄþËÄ´¨º
 2007-3-16
 11:46:14
 µã»÷Ïò¹ËÎÊ×ÉÑ¯
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±±·½³¤¸£
 ¸£ÌØ4Sµê
 010-80771071
@@ -42781,9 +41433,7 @@ encoding="gb2312"?>
 Ãâ·Ñ²¦´òµç»°
 Ãâ·Ñ×ÉÑ¯ÉÌ¼Ò
 ËæÊ±ËæµØ¹µÍ¨
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 -->
 ³µÊÐ¹¤¾ßÏä
 ³µÐÍËÑË÷
@@ -42806,98 +41456,72 @@ encoding="gb2312"?>
 ÓÍºÄÊµ²é
 ÈÈµã³µÐÍ
 ¾­¼ÃÐÍ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÏÖ´ú-ÑÅÉðÌØ
 ÁåÄ¾SX4ÌìÓï
 ÈÕ²ú-æêÍþ
 ³¤°²-±¼±¼
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁúC2
 ±¾Ìï-Ë¼µÏ
 ÆðÑÇ
 RIO
 º£Âí-º£¸£ÐÇ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©·ðÀ¼-ÀÖ·ç
 ·áÌï-Íþ³Û
 ÁåÄ¾-ÓêÑà
 ÆæÈð
 QQ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±êÖÂ206
 polo¾¢Çé
 ´óÖÚ-½Ý´ï
 ±¾Ìï-·É¶È
 ÖÐµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÅÁÈøÌØ-ÁìÔ¦
 ±¾Ìï-ÑÅ¸ó
 ·áÌï-¿­ÃÀÈð
 Âí×Ô´ï
 6
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±ð¿Ë-¾ýÔ½
 ´óÖÚ-ÂõÌÚ
 ÈÕ²ú-Ììô¥
 MGÃû¾ô
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¸£ÌØ-¸£¿ËË¹
 ·áÌï-ÈñÖ¾
 Ñ©·ðÀ¼-¾°³Ì
 ÏÖ´ú-Í¾Ê¤
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁú-¿­Ðý
 ±¾ÌïCR-V
 ÈýÁâ-¸êÀ¶
 ÉÏÆû-ÈÙÍþ
 ¸ßµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 °ÂµÏA6
 À×¿ËÈøË¹GS
 ¿­µÏÀ­¿ËCTS
 ÎÖ¶ûÎÖXC90
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¦Âí5Ïµ
 ÃÔÄãMini
 ´óÖÚ-Í¾Èñ
 ±¦Âí3Ïµ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¼³ÛEÏµ
 Â·»¢-ÉñÐÐÕß2
 ±£Ê±½Ý-¿¨Ñç
 °ÂµÏA4
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÁÖÒñ´óµÀ
 300C
 Ó¢·ÆÄáµÏ
 ¼ªÆÕJeep
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¾©-»¦-½ò-¹ãÖÝ-Îäºº-ÉîÛÚ-É½¶«-É½Î÷-Õã½­-½­ËÕ-¸£½¨-ÁÉÄþ-ºÓÄÏ-ÉÂÎ÷-ºÓ±±-ºþÄÏ-ºÚÁú½­-ÄÚÃÉ¹Å-ÔÆÄÏ-ËÄ´¨-ÖØÇì-¹ãÎ÷-½­Î÷-ÐÂ½®-¼ªÁÖ-¹óÖÝ-¸ÊËà-ÄþÏÄ-°²»Õ-º£ÄÏ-Î÷²Ø-Çàº£-
 ±¦Âí-¹ú²ú±¦ÂíÆû³µ±¨¼Û-×îÐÂ±¦Âí½Î³µ¼Û¸ñÍøÕ¾|ÍøÉÏ³µÊÐ
 ±¦Âí
@@ -42910,9 +41534,7 @@ encoding="gb2312"?>
 ÉÌ¼Ò¿ìÑ¶
 ÍøÉÏ³µÊÐÊ×Ò³
 ¹ú²ú×¨Çø±¦Âí±¦Âí¹Ù·½ÍøÕ¾
-¾­ÏúÉÌ£º<?xml
-version="1.0"
-encoding="gb2312"?>±±¾©ÉÏº£Ìì½ò¹ã¶«É½¶«ºþ±±Õã½­½­ËÕÉ½Î÷ÐÂ½®¸£½¨ºÓÄÏÉÂÎ÷ÁÉÄþËÄ´¨ºÓ±±
+¾­ÏúÉÌ£º<?xml version="1.0" encoding="gb2312"?>±±¾©ÉÏº£Ìì½ò¹ã¶«É½¶«ºþ±±Õã½­½­ËÕÉ½Î÷ÐÂ½®¸£½¨ºÓÄÏÉÂÎ÷ÁÉÄþËÄ´¨ºÓ±±
 ºÚÁú½­ºþÄÏÄÚÃÉ¹Å¼ªÁÖÔÆÄÏ¹ãÎ÷ÖØÇì½­Î÷¹óÖÝ¸ÊËàÄþÏÄ°²»Õº£ÄÏÎ÷²ØÇàº£
 ³µÐÍ
 Àà±ð
@@ -43114,9 +41736,7 @@ AT/MT
 70.73Íò
 71.26Íò
 ¶©³µ
-¾­ÏúÉÌ£º<?xml
-version="1.0"
-encoding="gb2312"?>±±¾©ÉÏº£Ìì½ò¹ã¶«É½¶«ºþ±±Õã½­½­ËÕÉ½Î÷ÐÂ½®¸£½¨ºÓÄÏÉÂÎ÷ÁÉÄþËÄ´¨ºÓ±±
+¾­ÏúÉÌ£º<?xml version="1.0" encoding="gb2312"?>±±¾©ÉÏº£Ìì½ò¹ã¶«É½¶«ºþ±±Õã½­½­ËÕÉ½Î÷ÐÂ½®¸£½¨ºÓÄÏÉÂÎ÷ÁÉÄþËÄ´¨ºÓ±±
 ºÚÁú½­ºþÄÏÄÚÃÉ¹Å¼ªÁÖÔÆÄÏ¹ãÎ÷ÖØÇì½­Î÷¹óÖÝ¸ÊËàÄþÏÄ°²»Õº£ÄÏÎ÷²ØÇàº£
 ±±¾©±¦Âí4Sµê
 [¸ü¶à]
@@ -43172,15 +41792,11 @@ encoding="gb2312"?>±±¾©ÉÏº£Ìì½ò¹ã¶«É½¶«ºþ±±Õã½­½­ËÕÉ½Î÷ÐÂ½®¸£½¨ºÓÄÏÉÂÎ÷ÁÉÄþËÄ´¨º
 ±±¾©ÊÐ³¯ÑôÇø;ÏúÊÛµÚÈý·Ö²¿---ÐÂÑÇÔË´åÆû³µ½»Ò×ÊÐ³¡9ºÅÕ¹Ìü¡°24Ð¡Ê±½ß³ÏÎªÄú·þÎñ!
 Ãâ·ÑÍ¨»°-Æû³µÍ¨
 [¸ü¶à]
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ãâ·Ñ²¦´òµç»°
 Ãâ·Ñ×ÉÑ¯ÉÌ¼Ò
 ËæÊ±ËæµØ¹µÍ¨
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 -->
 ³µÊÐ¹¤¾ßÏä
 ³µÐÍËÑË÷
@@ -43203,98 +41819,72 @@ encoding="gb2312"?>
 ÓÍºÄÊµ²é
 ÈÈµã³µÐÍ
 ¾­¼ÃÐÍ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÏÖ´ú-ÑÅÉðÌØ
 ÁåÄ¾SX4ÌìÓï
 ÈÕ²ú-æêÍþ
 ³¤°²-±¼±¼
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁúC2
 ±¾Ìï-Ë¼µÏ
 ÆðÑÇ
 RIO
 º£Âí-º£¸£ÐÇ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©·ðÀ¼-ÀÖ·ç
 ·áÌï-Íþ³Û
 ÁåÄ¾-ÓêÑà
 ÆæÈð
 QQ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±êÖÂ206
 polo¾¢Çé
 ´óÖÚ-½Ý´ï
 ±¾Ìï-·É¶È
 ÖÐµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÅÁÈøÌØ-ÁìÔ¦
 ±¾Ìï-ÑÅ¸ó
 ·áÌï-¿­ÃÀÈð
 Âí×Ô´ï
 6
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±ð¿Ë-¾ýÔ½
 ´óÖÚ-ÂõÌÚ
 ÈÕ²ú-Ììô¥
 MGÃû¾ô
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¸£ÌØ-¸£¿ËË¹
 ·áÌï-ÈñÖ¾
 Ñ©·ðÀ¼-¾°³Ì
 ÏÖ´ú-Í¾Ê¤
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁú-¿­Ðý
 ±¾ÌïCR-V
 ÈýÁâ-¸êÀ¶
 ÉÏÆû-ÈÙÍþ
 ¸ßµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 °ÂµÏA6
 À×¿ËÈøË¹GS
 ¿­µÏÀ­¿ËCTS
 ÎÖ¶ûÎÖXC90
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¦Âí5Ïµ
 ÃÔÄãMini
 ´óÖÚ-Í¾Èñ
 ±¦Âí3Ïµ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¼³ÛEÏµ
 Â·»¢-ÉñÐÐÕß2
 ±£Ê±½Ý-¿¨Ñç
 °ÂµÏA4
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÁÖÒñ´óµÀ
 300C
 Ó¢·ÆÄáµÏ
 ¼ªÆÕJeep
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¾©-»¦-½ò-¹ãÖÝ-Îäºº-ÉîÛÚ-É½¶«-É½Î÷-Õã½­-½­ËÕ-¸£½¨-ÁÉÄþ-ºÓÄÏ-ÉÂÎ÷-ºÓ±±-ºþÄÏ-ºÚÁú½­-ÄÚÃÉ¹Å-ÔÆÄÏ-ËÄ´¨-ÖØÇì-¹ãÎ÷-½­Î÷-ÐÂ½®-¼ªÁÖ-¹óÖÝ-¸ÊËà-ÄþÏÄ-°²»Õ-º£ÄÏ-Î÷²Ø-Çàº£-
 ¶«·ç±êÖÂ-¹ú²ú¶«·ç±êÖÂÆû³µ±¨¼Û-×îÐÂ¶«·ç±êÖÂ½Î³µ¼Û¸ñÍøÕ¾|ÍøÉÏ³µÊÐ
 ¶«·ç±êÖÂ
@@ -43307,9 +41897,7 @@ encoding="gb2312"?>
 ÉÌ¼Ò¿ìÑ¶
 ÍøÉÏ³µÊÐÊ×Ò³
 ¹ú²ú×¨Çø¶«·ç±êÖÂ¶«·ç±êÖÂ¹Ù·½ÍøÕ¾
-¾­ÏúÉÌ£º<?xml
-version="1.0"
-encoding="gb2312"?>±±¾©ÉÏº£Ìì½ò¹ã¶«É½¶«ºþ±±Õã½­½­ËÕÉ½Î÷ÐÂ½®¸£½¨ºÓÄÏÉÂÎ÷ÁÉÄþËÄ´¨ºÓ±±
+¾­ÏúÉÌ£º<?xml version="1.0" encoding="gb2312"?>±±¾©ÉÏº£Ìì½ò¹ã¶«É½¶«ºþ±±Õã½­½­ËÕÉ½Î÷ÐÂ½®¸£½¨ºÓÄÏÉÂÎ÷ÁÉÄþËÄ´¨ºÓ±±
 ºÚÁú½­ºþÄÏÄÚÃÉ¹Å¼ªÁÖÔÆÄÏ¹ãÎ÷ÖØÇì½­Î÷¹óÖÝ¸ÊËàÄþÏÄ°²»Õº£ÄÏÎ÷²ØÇàº£
 ³µÐÍ
 Àà±ð
@@ -43608,9 +42196,7 @@ MT
 14.41Íò
 15.08Íò
 ¶©³µ
-¾­ÏúÉÌ£º<?xml
-version="1.0"
-encoding="gb2312"?>±±¾©ÉÏº£Ìì½ò¹ã¶«É½¶«ºþ±±Õã½­½­ËÕÉ½Î÷ÐÂ½®¸£½¨ºÓÄÏÉÂÎ÷ÁÉÄþËÄ´¨ºÓ±±
+¾­ÏúÉÌ£º<?xml version="1.0" encoding="gb2312"?>±±¾©ÉÏº£Ìì½ò¹ã¶«É½¶«ºþ±±Õã½­½­ËÕÉ½Î÷ÐÂ½®¸£½¨ºÓÄÏÉÂÎ÷ÁÉÄþËÄ´¨ºÓ±±
 ºÚÁú½­ºþÄÏÄÚÃÉ¹Å¼ªÁÖÔÆÄÏ¹ãÎ÷ÖØÇì½­Î÷¹óÖÝ¸ÊËàÄþÏÄ°²»Õº£ÄÏÎ÷²ØÇàº£
 ±±¾©¶«·ç±êÖÂ4Sµê
 ±±¾©ÌìÖ®ÁúÆû³µÏúÊÛ·þÎñÓÐÏÞ¹«Ë¾¡ï¡ï¡ï
@@ -43729,15 +42315,11 @@ encoding="gb2312"?>±±¾©ÉÏº£Ìì½ò¹ã¶«É½¶«ºþ±±Õã½­½­ËÕÉ½Î÷ÐÂ½®¸£½¨ºÓÄÏÉÂÎ÷ÁÉÄþËÄ´¨º
 2007-9-19
 9:22:28
 µã»÷Ïò¹ËÎÊ×ÉÑ¯
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ãâ·Ñ²¦´òµç»°
 Ãâ·Ñ×ÉÑ¯ÉÌ¼Ò
 ËæÊ±ËæµØ¹µÍ¨
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 -->
 ³µÊÐ¹¤¾ßÏä
 ³µÐÍËÑË÷
@@ -43760,98 +42342,72 @@ encoding="gb2312"?>
 ÓÍºÄÊµ²é
 ÈÈµã³µÐÍ
 ¾­¼ÃÐÍ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÏÖ´ú-ÑÅÉðÌØ
 ÁåÄ¾SX4ÌìÓï
 ÈÕ²ú-æêÍþ
 ³¤°²-±¼±¼
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁúC2
 ±¾Ìï-Ë¼µÏ
 ÆðÑÇ
 RIO
 º£Âí-º£¸£ÐÇ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©·ðÀ¼-ÀÖ·ç
 ·áÌï-Íþ³Û
 ÁåÄ¾-ÓêÑà
 ÆæÈð
 QQ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±êÖÂ206
 polo¾¢Çé
 ´óÖÚ-½Ý´ï
 ±¾Ìï-·É¶È
 ÖÐµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÅÁÈøÌØ-ÁìÔ¦
 ±¾Ìï-ÑÅ¸ó
 ·áÌï-¿­ÃÀÈð
 Âí×Ô´ï
 6
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±ð¿Ë-¾ýÔ½
 ´óÖÚ-ÂõÌÚ
 ÈÕ²ú-Ììô¥
 MGÃû¾ô
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¸£ÌØ-¸£¿ËË¹
 ·áÌï-ÈñÖ¾
 Ñ©·ðÀ¼-¾°³Ì
 ÏÖ´ú-Í¾Ê¤
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁú-¿­Ðý
 ±¾ÌïCR-V
 ÈýÁâ-¸êÀ¶
 ÉÏÆû-ÈÙÍþ
 ¸ßµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 °ÂµÏA6
 À×¿ËÈøË¹GS
 ¿­µÏÀ­¿ËCTS
 ÎÖ¶ûÎÖXC90
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¦Âí5Ïµ
 ÃÔÄãMini
 ´óÖÚ-Í¾Èñ
 ±¦Âí3Ïµ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¼³ÛEÏµ
 Â·»¢-ÉñÐÐÕß2
 ±£Ê±½Ý-¿¨Ñç
 °ÂµÏA4
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÁÖÒñ´óµÀ
 300C
 Ó¢·ÆÄáµÏ
 ¼ªÆÕJeep
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¾©-»¦-½ò-¹ãÖÝ-Îäºº-ÉîÛÚ-É½¶«-É½Î÷-Õã½­-½­ËÕ-¸£½¨-ÁÉÄþ-ºÓÄÏ-ÉÂÎ÷-ºÓ±±-ºþÄÏ-ºÚÁú½­-ÄÚÃÉ¹Å-ÔÆÄÏ-ËÄ´¨-ÖØÇì-¹ãÎ÷-½­Î÷-ÐÂ½®-¼ªÁÖ-¹óÖÝ-¸ÊËà-ÄþÏÄ-°²»Õ-º£ÄÏ-Î÷²Ø-Çàº£-
 ±¼³Û-¹ú²ú±¼³ÛÆû³µ±¨¼Û-×îÐÂ±¼³Û½Î³µ¼Û¸ñÍøÕ¾|ÍøÉÏ³µÊÐ
 ±¼³Û
@@ -43864,9 +42420,7 @@ encoding="gb2312"?>
 ÉÌ¼Ò¿ìÑ¶
 ÍøÉÏ³µÊÐÊ×Ò³
 ¹ú²ú×¨Çø±¼³Û±¼³Û¹Ù·½ÍøÕ¾
-¾­ÏúÉÌ£º<?xml
-version="1.0"
-encoding="gb2312"?>±±¾©ÉÏº£Ìì½ò¹ã¶«É½¶«ºþ±±Õã½­½­ËÕÉ½Î÷ÐÂ½®¸£½¨ºÓÄÏÉÂÎ÷ÁÉÄþËÄ´¨ºÓ±±
+¾­ÏúÉÌ£º<?xml version="1.0" encoding="gb2312"?>±±¾©ÉÏº£Ìì½ò¹ã¶«É½¶«ºþ±±Õã½­½­ËÕÉ½Î÷ÐÂ½®¸£½¨ºÓÄÏÉÂÎ÷ÁÉÄþËÄ´¨ºÓ±±
 ºÚÁú½­ºþÄÏÄÚÃÉ¹Å¼ªÁÖÔÆÄÏ¹ãÎ÷ÖØÇì½­Î÷¹óÖÝ¸ÊËàÄþÏÄ°²»Õº£ÄÏÎ÷²ØÇàº£
 ³µÐÍ
 Àà±ð
@@ -43930,9 +42484,7 @@ AT/MT
 73.14Íò
 74.80Íò
 ¶©³µ
-¾­ÏúÉÌ£º<?xml
-version="1.0"
-encoding="gb2312"?>±±¾©ÉÏº£Ìì½ò¹ã¶«É½¶«ºþ±±Õã½­½­ËÕÉ½Î÷ÐÂ½®¸£½¨ºÓÄÏÉÂÎ÷ÁÉÄþËÄ´¨ºÓ±±
+¾­ÏúÉÌ£º<?xml version="1.0" encoding="gb2312"?>±±¾©ÉÏº£Ìì½ò¹ã¶«É½¶«ºþ±±Õã½­½­ËÕÉ½Î÷ÐÂ½®¸£½¨ºÓÄÏÉÂÎ÷ÁÉÄþËÄ´¨ºÓ±±
 ºÚÁú½­ºþÄÏÄÚÃÉ¹Å¼ªÁÖÔÆÄÏ¹ãÎ÷ÖØÇì½­Î÷¹óÖÝ¸ÊËàÄþÏÄ°²»Õº£ÄÏÎ÷²ØÇàº£
 ±±¾©±¼³Û4Sµê
 [¸ü¶à]
@@ -43991,20 +42543,15 @@ encoding="gb2312"?>±±¾©ÉÏº£Ìì½ò¹ã¶«É½¶«ºþ±±Õã½­½­ËÕÉ½Î÷ÐÂ½®¸£½¨ºÓÄÏÉÂÎ÷ÁÉÄþËÄ´¨º
 ¡ø
 È«¹ú·¶Î§ÄÚ¾ù¿ÉÏúÊÛ
 ¡ø
-±¾¹«Ë¾½«±¾×Å¡¶ÐÅÓþµÚÒ»
-¿Í»§ÖÁÉÏ¡·µÄ×ÚÖ¼ÖÒ³ÏµÄÎªÄú·þÎñ
+±¾¹«Ë¾½«±¾×Å¡¶ÐÅÓþµÚÒ» ¿Í»§ÖÁÉÏ¡·µÄ×ÚÖ¼ÖÒ³ÏµÄÎªÄú·þÎñ
 £°£±£°£­£¸£°£¶£µ£²£²£±£²
 £±£³£¶£¹£±£²£¶£¶£µ£±£µ
 [¸ü¶à]
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ãâ·Ñ²¦´òµç»°
 Ãâ·Ñ×ÉÑ¯ÉÌ¼Ò
 ËæÊ±ËæµØ¹µÍ¨
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 -->
 ³µÊÐ¹¤¾ßÏä
 ³µÐÍËÑË÷
@@ -44027,98 +42574,72 @@ encoding="gb2312"?>
 ÓÍºÄÊµ²é
 ÈÈµã³µÐÍ
 ¾­¼ÃÐÍ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÏÖ´ú-ÑÅÉðÌØ
 ÁåÄ¾SX4ÌìÓï
 ÈÕ²ú-æêÍþ
 ³¤°²-±¼±¼
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁúC2
 ±¾Ìï-Ë¼µÏ
 ÆðÑÇ
 RIO
 º£Âí-º£¸£ÐÇ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©·ðÀ¼-ÀÖ·ç
 ·áÌï-Íþ³Û
 ÁåÄ¾-ÓêÑà
 ÆæÈð
 QQ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±êÖÂ206
 polo¾¢Çé
 ´óÖÚ-½Ý´ï
 ±¾Ìï-·É¶È
 ÖÐµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÅÁÈøÌØ-ÁìÔ¦
 ±¾Ìï-ÑÅ¸ó
 ·áÌï-¿­ÃÀÈð
 Âí×Ô´ï
 6
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±ð¿Ë-¾ýÔ½
 ´óÖÚ-ÂõÌÚ
 ÈÕ²ú-Ììô¥
 MGÃû¾ô
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¸£ÌØ-¸£¿ËË¹
 ·áÌï-ÈñÖ¾
 Ñ©·ðÀ¼-¾°³Ì
 ÏÖ´ú-Í¾Ê¤
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁú-¿­Ðý
 ±¾ÌïCR-V
 ÈýÁâ-¸êÀ¶
 ÉÏÆû-ÈÙÍþ
 ¸ßµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 °ÂµÏA6
 À×¿ËÈøË¹GS
 ¿­µÏÀ­¿ËCTS
 ÎÖ¶ûÎÖXC90
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¦Âí5Ïµ
 ÃÔÄãMini
 ´óÖÚ-Í¾Èñ
 ±¦Âí3Ïµ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¼³ÛEÏµ
 Â·»¢-ÉñÐÐÕß2
 ±£Ê±½Ý-¿¨Ñç
 °ÂµÏA4
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÁÖÒñ´óµÀ
 300C
 Ó¢·ÆÄáµÏ
 ¼ªÆÕJeep
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¾©-»¦-½ò-¹ãÖÝ-Îäºº-ÉîÛÚ-É½¶«-É½Î÷-Õã½­-½­ËÕ-¸£½¨-ÁÉÄþ-ºÓÄÏ-ÉÂÎ÷-ºÓ±±-ºþÄÏ-ºÚÁú½­-ÄÚÃÉ¹Å-ÔÆÄÏ-ËÄ´¨-ÖØÇì-¹ãÎ÷-½­Î÷-ÐÂ½®-¼ªÁÖ-¹óÖÝ-¸ÊËà-ÄþÏÄ-°²»Õ-º£ÄÏ-Î÷²Ø-Çàº£-
 ÈÕ²ú-¹ú²úÈÕ²úÆû³µ±¨¼Û-×îÐÂÈÕ²ú½Î³µ¼Û¸ñÍøÕ¾|ÍøÉÏ³µÊÐ
 ÈÕ²ú
@@ -44131,9 +42652,7 @@ encoding="gb2312"?>
 ÉÌ¼Ò¿ìÑ¶
 ÍøÉÏ³µÊÐÊ×Ò³
 ¹ú²ú×¨ÇøÈÕ²úÈÕ²ú¹Ù·½ÍøÕ¾
-¾­ÏúÉÌ£º<?xml
-version="1.0"
-encoding="gb2312"?>±±¾©ÉÏº£Ìì½ò¹ã¶«É½¶«ºþ±±Õã½­½­ËÕÉ½Î÷ÐÂ½®¸£½¨ºÓÄÏÉÂÎ÷ÁÉÄþËÄ´¨ºÓ±±
+¾­ÏúÉÌ£º<?xml version="1.0" encoding="gb2312"?>±±¾©ÉÏº£Ìì½ò¹ã¶«É½¶«ºþ±±Õã½­½­ËÕÉ½Î÷ÐÂ½®¸£½¨ºÓÄÏÉÂÎ÷ÁÉÄþËÄ´¨ºÓ±±
 ºÚÁú½­ºþÄÏÄÚÃÉ¹Å¼ªÁÖÔÆÄÏ¹ãÎ÷ÖØÇì½­Î÷¹óÖÝ¸ÊËàÄþÏÄ°²»Õº£ÄÏÎ÷²ØÇàº£
 ³µÐÍ
 Àà±ð
@@ -44732,9 +43251,7 @@ NAVI2008¿î
 14.98Íò
 14.98Íò
 ¶©³µ
-¾­ÏúÉÌ£º<?xml
-version="1.0"
-encoding="gb2312"?>±±¾©ÉÏº£Ìì½ò¹ã¶«É½¶«ºþ±±Õã½­½­ËÕÉ½Î÷ÐÂ½®¸£½¨ºÓÄÏÉÂÎ÷ÁÉÄþËÄ´¨ºÓ±±
+¾­ÏúÉÌ£º<?xml version="1.0" encoding="gb2312"?>±±¾©ÉÏº£Ìì½ò¹ã¶«É½¶«ºþ±±Õã½­½­ËÕÉ½Î÷ÐÂ½®¸£½¨ºÓÄÏÉÂÎ÷ÁÉÄþËÄ´¨ºÓ±±
 ºÚÁú½­ºþÄÏÄÚÃÉ¹Å¼ªÁÖÔÆÄÏ¹ãÎ÷ÖØÇì½­Î÷¹óÖÝ¸ÊËàÄþÏÄ°²»Õº£ÄÏÎ÷²ØÇàº£
 ±±¾©ÈÕ²ú4Sµê
 ±±¾©ºêÔ¶ÐÅ³ÏÆû³µÏúÊÛÓÐÏÞ¹«Ë¾¡ï¡ï¡ï
@@ -44883,9 +43400,7 @@ encoding="gb2312"?>±±¾©ÉÏº£Ìì½ò¹ã¶«É½¶«ºþ±±Õã½­½­ËÕÉ½Î÷ÐÂ½®¸£½¨ºÓÄÏÉÂÎ÷ÁÉÄþËÄ´¨º
 2007-8-1
 16:14:12
 µã»÷Ïò¹ËÎÊ×ÉÑ¯
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÈýºÏÁªÍØ
 ¶«·çÈÕ²ú4S
 010-67143728
@@ -44895,9 +43410,7 @@ encoding="gb2312"?>
 Ãâ·Ñ²¦´òµç»°
 Ãâ·Ñ×ÉÑ¯ÉÌ¼Ò
 ËæÊ±ËæµØ¹µÍ¨
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 -->
 ³µÊÐ¹¤¾ßÏä
 ³µÐÍËÑË÷
@@ -44920,98 +43433,72 @@ encoding="gb2312"?>
 ÓÍºÄÊµ²é
 ÈÈµã³µÐÍ
 ¾­¼ÃÐÍ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÏÖ´ú-ÑÅÉðÌØ
 ÁåÄ¾SX4ÌìÓï
 ÈÕ²ú-æêÍþ
 ³¤°²-±¼±¼
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁúC2
 ±¾Ìï-Ë¼µÏ
 ÆðÑÇ
 RIO
 º£Âí-º£¸£ÐÇ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©·ðÀ¼-ÀÖ·ç
 ·áÌï-Íþ³Û
 ÁåÄ¾-ÓêÑà
 ÆæÈð
 QQ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±êÖÂ206
 polo¾¢Çé
 ´óÖÚ-½Ý´ï
 ±¾Ìï-·É¶È
 ÖÐµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÅÁÈøÌØ-ÁìÔ¦
 ±¾Ìï-ÑÅ¸ó
 ·áÌï-¿­ÃÀÈð
 Âí×Ô´ï
 6
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±ð¿Ë-¾ýÔ½
 ´óÖÚ-ÂõÌÚ
 ÈÕ²ú-Ììô¥
 MGÃû¾ô
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¸£ÌØ-¸£¿ËË¹
 ·áÌï-ÈñÖ¾
 Ñ©·ðÀ¼-¾°³Ì
 ÏÖ´ú-Í¾Ê¤
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁú-¿­Ðý
 ±¾ÌïCR-V
 ÈýÁâ-¸êÀ¶
 ÉÏÆû-ÈÙÍþ
 ¸ßµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 °ÂµÏA6
 À×¿ËÈøË¹GS
 ¿­µÏÀ­¿ËCTS
 ÎÖ¶ûÎÖXC90
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¦Âí5Ïµ
 ÃÔÄãMini
 ´óÖÚ-Í¾Èñ
 ±¦Âí3Ïµ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¼³ÛEÏµ
 Â·»¢-ÉñÐÐÕß2
 ±£Ê±½Ý-¿¨Ñç
 °ÂµÏA4
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÁÖÒñ´óµÀ
 300C
 Ó¢·ÆÄáµÏ
 ¼ªÆÕJeep
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¾©-»¦-½ò-¹ãÖÝ-Îäºº-ÉîÛÚ-É½¶«-É½Î÷-Õã½­-½­ËÕ-¸£½¨-ÁÉÄþ-ºÓÄÏ-ÉÂÎ÷-ºÓ±±-ºþÄÏ-ºÚÁú½­-ÄÚÃÉ¹Å-ÔÆÄÏ-ËÄ´¨-ÖØÇì-¹ãÎ÷-½­Î÷-ÐÂ½®-¼ªÁÖ-¹óÖÝ-¸ÊËà-ÄþÏÄ-°²»Õ-º£ÄÏ-Î÷²Ø-Çàº£-
 Lock
 obtain
@@ -45029,9 +43516,7 @@ Lock@C:\WINDOWS\TEMP\lucene-1d06bc98a928acc9b8935539dbdbeefa-commit.lock
 ÉÌ¼Ò¿ìÑ¶
 ÍøÉÏ³µÊÐÊ×Ò³
 ½ø¿Ú×¨ÇøÀ×ÅµÀ×Åµ¹Ù·½ÍøÕ¾
-¾­ÏúÉÌ£º<?xml
-version="1.0"
-encoding="gb2312"?>±±¾©ÉÏº£Ìì½ò¹ã¶«É½¶«ºþ±±Õã½­½­ËÕÉ½Î÷ÐÂ½®¸£½¨ºÓÄÏÉÂÎ÷ÁÉÄþËÄ´¨ºÓ±±
+¾­ÏúÉÌ£º<?xml version="1.0" encoding="gb2312"?>±±¾©ÉÏº£Ìì½ò¹ã¶«É½¶«ºþ±±Õã½­½­ËÕÉ½Î÷ÐÂ½®¸£½¨ºÓÄÏÉÂÎ÷ÁÉÄþËÄ´¨ºÓ±±
 ºÚÁú½­ºþÄÏÄÚÃÉ¹Å¼ªÁÖÔÆÄÏ¹ãÎ÷ÖØÇì½­Î÷¹óÖÝ¸ÊËàÄþÏÄ°²»Õº£ÄÏÎ÷²ØÇàº£
 ³µÐÍ
 Àà±ð
@@ -45117,9 +43602,7 @@ Satis
 49.78Íò
 0.00Íò
 ¶©³µ
-¾­ÏúÉÌ£º<?xml
-version="1.0"
-encoding="gb2312"?>±±¾©ÉÏº£Ìì½ò¹ã¶«É½¶«ºþ±±Õã½­½­ËÕÉ½Î÷ÐÂ½®¸£½¨ºÓÄÏÉÂÎ÷ÁÉÄþËÄ´¨ºÓ±±
+¾­ÏúÉÌ£º<?xml version="1.0" encoding="gb2312"?>±±¾©ÉÏº£Ìì½ò¹ã¶«É½¶«ºþ±±Õã½­½­ËÕÉ½Î÷ÐÂ½®¸£½¨ºÓÄÏÉÂÎ÷ÁÉÄþËÄ´¨ºÓ±±
 ºÚÁú½­ºþÄÏÄÚÃÉ¹Å¼ªÁÖÔÆÄÏ¹ãÎ÷ÖØÇì½­Î÷¹óÖÝ¸ÊËàÄþÏÄ°²»Õº£ÄÏÎ÷²ØÇàº£
 ±±¾©À×Åµ4Sµê
 [¸ü¶à]
@@ -45127,15 +43610,11 @@ encoding="gb2312"?>±±¾©ÉÏº£Ìì½ò¹ã¶«É½¶«ºþ±±Õã½­½­ËÕÉ½Î÷ÐÂ½®¸£½¨ºÓÄÏÉÂÎ÷ÁÉÄþËÄ´¨º
 [¸ü¶à]
 ±±¾©À×Åµ×ÛºÏµê
 [¸ü¶à]
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ãâ·Ñ²¦´òµç»°
 Ãâ·Ñ×ÉÑ¯ÉÌ¼Ò
 ËæÊ±ËæµØ¹µÍ¨
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 -->
 ³µÊÐ¹¤¾ßÏä
 ³µÐÍËÑË÷
@@ -45158,98 +43637,72 @@ encoding="gb2312"?>
 ÓÍºÄÊµ²é
 ÈÈµã³µÐÍ
 ¾­¼ÃÐÍ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÏÖ´ú-ÑÅÉðÌØ
 ÁåÄ¾SX4ÌìÓï
 ÈÕ²ú-æêÍþ
 ³¤°²-±¼±¼
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁúC2
 ±¾Ìï-Ë¼µÏ
 ÆðÑÇ
 RIO
 º£Âí-º£¸£ÐÇ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©·ðÀ¼-ÀÖ·ç
 ·áÌï-Íþ³Û
 ÁåÄ¾-ÓêÑà
 ÆæÈð
 QQ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±êÖÂ206
 polo¾¢Çé
 ´óÖÚ-½Ý´ï
 ±¾Ìï-·É¶È
 ÖÐµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÅÁÈøÌØ-ÁìÔ¦
 ±¾Ìï-ÑÅ¸ó
 ·áÌï-¿­ÃÀÈð
 Âí×Ô´ï
 6
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±ð¿Ë-¾ýÔ½
 ´óÖÚ-ÂõÌÚ
 ÈÕ²ú-Ììô¥
 MGÃû¾ô
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¸£ÌØ-¸£¿ËË¹
 ·áÌï-ÈñÖ¾
 Ñ©·ðÀ¼-¾°³Ì
 ÏÖ´ú-Í¾Ê¤
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁú-¿­Ðý
 ±¾ÌïCR-V
 ÈýÁâ-¸êÀ¶
 ÉÏÆû-ÈÙÍþ
 ¸ßµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 °ÂµÏA6
 À×¿ËÈøË¹GS
 ¿­µÏÀ­¿ËCTS
 ÎÖ¶ûÎÖXC90
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¦Âí5Ïµ
 ÃÔÄãMini
 ´óÖÚ-Í¾Èñ
 ±¦Âí3Ïµ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¼³ÛEÏµ
 Â·»¢-ÉñÐÐÕß2
 ±£Ê±½Ý-¿¨Ñç
 °ÂµÏA4
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÁÖÒñ´óµÀ
 300C
 Ó¢·ÆÄáµÏ
 ¼ªÆÕJeep
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¾©-»¦-½ò-¹ãÖÝ-Îäºº-ÉîÛÚ-É½¶«-É½Î÷-Õã½­-½­ËÕ-¸£½¨-ÁÉÄþ-ºÓÄÏ-ÉÂÎ÷-ºÓ±±-ºþÄÏ-ºÚÁú½­-ÄÚÃÉ¹Å-ÔÆÄÏ-ËÄ´¨-ÖØÇì-¹ãÎ÷-½­Î÷-ÐÂ½®-¼ªÁÖ-¹óÖÝ-¸ÊËà-ÄþÏÄ-°²»Õ-º£ÄÏ-Î÷²Ø-Çàº£-
 Lock
 obtain
@@ -45267,9 +43720,7 @@ Lock@C:\WINDOWS\TEMP\lucene-1d06bc98a928acc9b8935539dbdbeefa-commit.lock
 ÉÌ¼Ò¿ìÑ¶
 ÍøÉÏ³µÊÐÊ×Ò³
 ½ø¿Ú×¨Çø±£Ê±½Ý±£Ê±½Ý¹Ù·½ÍøÕ¾
-¾­ÏúÉÌ£º<?xml
-version="1.0"
-encoding="gb2312"?>±±¾©ÉÏº£Ìì½ò¹ã¶«É½¶«ºþ±±Õã½­½­ËÕÉ½Î÷ÐÂ½®¸£½¨ºÓÄÏÉÂÎ÷ÁÉÄþËÄ´¨ºÓ±±
+¾­ÏúÉÌ£º<?xml version="1.0" encoding="gb2312"?>±±¾©ÉÏº£Ìì½ò¹ã¶«É½¶«ºþ±±Õã½­½­ËÕÉ½Î÷ÐÂ½®¸£½¨ºÓÄÏÉÂÎ÷ÁÉÄþËÄ´¨ºÓ±±
 ºÚÁú½­ºþÄÏÄÚÃÉ¹Å¼ªÁÖÔÆÄÏ¹ãÎ÷ÖØÇì½­Î÷¹óÖÝ¸ÊËàÄþÏÄ°²»Õº£ÄÏÎ÷²ØÇàº£
 ³µÐÍ
 Àà±ð
@@ -45621,9 +44072,7 @@ AT/MT
 175.33Íò
 152.00Íò
 ¶©³µ
-¾­ÏúÉÌ£º<?xml
-version="1.0"
-encoding="gb2312"?>±±¾©ÉÏº£Ìì½ò¹ã¶«É½¶«ºþ±±Õã½­½­ËÕÉ½Î÷ÐÂ½®¸£½¨ºÓÄÏÉÂÎ÷ÁÉÄþËÄ´¨ºÓ±±
+¾­ÏúÉÌ£º<?xml version="1.0" encoding="gb2312"?>±±¾©ÉÏº£Ìì½ò¹ã¶«É½¶«ºþ±±Õã½­½­ËÕÉ½Î÷ÐÂ½®¸£½¨ºÓÄÏÉÂÎ÷ÁÉÄþËÄ´¨ºÓ±±
 ºÚÁú½­ºþÄÏÄÚÃÉ¹Å¼ªÁÖÔÆÄÏ¹ãÎ÷ÖØÇì½­Î÷¹óÖÝ¸ÊËàÄþÏÄ°²»Õº£ÄÏÎ÷²ØÇàº£
 ±±¾©±£Ê±½Ý4Sµê
 [¸ü¶à]
@@ -45670,8 +44119,7 @@ encoding="gb2312"?>±±¾©ÉÏº£Ìì½ò¹ã¶«É½¶«ºþ±±Õã½­½­ËÕÉ½Î÷ÐÂ½®¸£½¨ºÓÄÏÉÂÎ÷ÁÉÄþËÄ´¨º
 ¡ø
 È«¹ú·¶Î§ÄÚ¾ù¿ÉÏúÊÛ
 ¡ø
-±¾¹«Ë¾½«±¾×Å¡¶ÐÅÓþµÚÒ»
-¿Í»§ÖÁÉÏ¡·µÄ×ÚÖ¼ÖÒ³ÏµÄÎªÄú·þÎñ
+±¾¹«Ë¾½«±¾×Å¡¶ÐÅÓþµÚÒ» ¿Í»§ÖÁÉÏ¡·µÄ×ÚÖ¼ÖÒ³ÏµÄÎªÄú·þÎñ
 ±±¾©ÈÙ·¢²ýÃ¯Æû³µÏúÊÛÓÐÏÞ¹«Ë¾±±³½ÑÇÔË´å·Ö¹«Ë¾¡ï¡ï¡ï
 ±±¾©ÊÐ²ýÆ½ÇøÑÇÔË´åÆû³µ½»Ò×ÊÐ³¡A1Çø410ºÅ(4SµêÊÐ³¡²¿)
 ÖÜ¾­Àí:13241809768/±±¾©ÈÙ·¢²ýÃ¯Æû³µÏúÊÛÓÐÏÞ¹«Ë¾¡ï£´£Óµê¡ï"ÈÃÄú¹º³µ:Ê¡Ç®;Ê¡Ê±;Ê¡ÐÄ;´òÔì·þÎñµä·¶;¿ÉÎªÄúÌá¹©ÄÚÈÝ°üÀ¨:Ô¤¶¨·þÎñ;ÌáÐÑ·þÎñ;Æû³µ×°ÊÎ;³µÖ÷ÁªÒê;½ÚÓÍ×ÉÑ¯;¿É·ÖÆÚ¸¶¿î;¶¨ËðÀíÅâ;Ñé³µÉÏÅÆºÍ24Ð¡Ê±×ÉÑ¯·þÎñÏúÊÛÈÈÏß:13241809768;¿ÉÒìµØÏúÊÛ;
@@ -45716,15 +44164,11 @@ encoding="gb2312"?>±±¾©ÉÏº£Ìì½ò¹ã¶«É½¶«ºþ±±Õã½­½­ËÕÉ½Î÷ÐÂ½®¸£½¨ºÓÄÏÉÂÎ÷ÁÉÄþËÄ´¨º
 13683314919
 Ãâ·ÑÍ¨»°-Æû³µÍ¨
 [¸ü¶à]
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ãâ·Ñ²¦´òµç»°
 Ãâ·Ñ×ÉÑ¯ÉÌ¼Ò
 ËæÊ±ËæµØ¹µÍ¨
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 -->
 ³µÊÐ¹¤¾ßÏä
 ³µÐÍËÑË÷
@@ -45747,98 +44191,72 @@ encoding="gb2312"?>
 ÓÍºÄÊµ²é
 ÈÈµã³µÐÍ
 ¾­¼ÃÐÍ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÏÖ´ú-ÑÅÉðÌØ
 ÁåÄ¾SX4ÌìÓï
 ÈÕ²ú-æêÍþ
 ³¤°²-±¼±¼
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁúC2
 ±¾Ìï-Ë¼µÏ
 ÆðÑÇ
 RIO
 º£Âí-º£¸£ÐÇ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©·ðÀ¼-ÀÖ·ç
 ·áÌï-Íþ³Û
 ÁåÄ¾-ÓêÑà
 ÆæÈð
 QQ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±êÖÂ206
 polo¾¢Çé
 ´óÖÚ-½Ý´ï
 ±¾Ìï-·É¶È
 ÖÐµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÅÁÈøÌØ-ÁìÔ¦
 ±¾Ìï-ÑÅ¸ó
 ·áÌï-¿­ÃÀÈð
 Âí×Ô´ï
 6
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±ð¿Ë-¾ýÔ½
 ´óÖÚ-ÂõÌÚ
 ÈÕ²ú-Ììô¥
 MGÃû¾ô
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¸£ÌØ-¸£¿ËË¹
 ·áÌï-ÈñÖ¾
 Ñ©·ðÀ¼-¾°³Ì
 ÏÖ´ú-Í¾Ê¤
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁú-¿­Ðý
 ±¾ÌïCR-V
 ÈýÁâ-¸êÀ¶
 ÉÏÆû-ÈÙÍþ
 ¸ßµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 °ÂµÏA6
 À×¿ËÈøË¹GS
 ¿­µÏÀ­¿ËCTS
 ÎÖ¶ûÎÖXC90
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¦Âí5Ïµ
 ÃÔÄãMini
 ´óÖÚ-Í¾Èñ
 ±¦Âí3Ïµ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¼³ÛEÏµ
 Â·»¢-ÉñÐÐÕß2
 ±£Ê±½Ý-¿¨Ñç
 °ÂµÏA4
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÁÖÒñ´óµÀ
 300C
 Ó¢·ÆÄáµÏ
 ¼ªÆÕJeep
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¾©-»¦-½ò-¹ãÖÝ-Îäºº-ÉîÛÚ-É½¶«-É½Î÷-Õã½­-½­ËÕ-¸£½¨-ÁÉÄþ-ºÓÄÏ-ÉÂÎ÷-ºÓ±±-ºþÄÏ-ºÚÁú½­-ÄÚÃÉ¹Å-ÔÆÄÏ-ËÄ´¨-ÖØÇì-¹ãÎ÷-½­Î÷-ÐÂ½®-¼ªÁÖ-¹óÖÝ-¸ÊËà-ÄþÏÄ-°²»Õ-º£ÄÏ-Î÷²Ø-Çàº£-
 302
 File
@@ -45847,9 +44265,7 @@ moved
 File
 moved
 Æû³µÎ¬ÐÞ_Æû³µ_ÍøÉÏ³µÊÐ(www.cheshi.com.cn/autoService/default.asp)
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¾©-»¦-½ò-¹ãÖÝ-Îäºº-ÉîÛÚ-É½¶«-É½Î÷-Õã½­-½­ËÕ-¸£½¨-ÁÉÄþ-ºÓÄÏ-ÉÂÎ÷-ºÓ±±-ºþÄÏ-ºÚÁú½­-ÄÚÃÉ¹Å-ÔÆÄÏ-ËÄ´¨-ÖØÇì-¹ãÎ÷-½­Î÷-ÐÂ½®-¼ªÁÖ-¹óÖÝ-¸ÊËà-ÄþÏÄ-°²»Õ-º£ÄÏ-Î÷²Ø-Çàº£-
 ¡¤ÓÃ»§µÇÂ¼
 ¡¤ÉÌ¼Ò¼ÓÃË
@@ -45972,15 +44388,11 @@ price<=2500000">200
 Î¢ÐÍ³µ
 MPV
 ½ÎÅÜ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¡¤
 ÐÞ³µÑø³µ
 ¸ü¶à
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 [Ñø³µ]£º×¨¼Ò½¨Òé
 ½Úºó±£ÑøÓ¦¸Ã¡°Òò³µ¶øÒì¡±
 [Ñø³µ]£º²»ÄÜËµµÄÃØÃÜ
@@ -46007,9 +44419,7 @@ encoding="gb2312"?>
 ¡¤
 ÐÂÎÅ×ÉÑ¶
 ¸ü¶à
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 [Ñø³µ]£º¡°Âò³µÈÝÒ×
 Ñø³µÄÑ¡±--ÐÞ³µÊ¡Ç®6¼Æ
 [ÓÃ³µ]£º¶¬¼¾³µÁ¾°®ÄÖ¡°Ð¡Ã«²¡¡±
@@ -46036,9 +44446,7 @@ encoding="gb2312"?>
 |
 Õþ²ß·¨¹æ
 Æ·ÅÆÎ¬ÐÞ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±±¾©³¤¾©ÐÐ
 010-83518889
 ±±¾©¿­°ÙÂ¡
@@ -46050,9 +44458,7 @@ encoding="gb2312"?>
 ±±¾©Èð¶¦¶«·ç±¾Ìï
 010-68867178
 Î¬ÐÞ¾­ÏúÉÌ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±±¾©ÏèÓî¾ýÀ´
 MGÃû¾ô
 83797511
@@ -46212,9 +44618,7 @@ MGÃû¾ô
 ÖÐÓþ
 ÖÚÌ©
 Î¬ÐÞ¾­ÏúÉÌ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±±¾©²©ÈðÀ×¿Ë
 ÁèÖ¾(À×¿ËÈøË¹)
 87582110
@@ -46322,9 +44726,7 @@ GMC
 ÎÞÏÞ(Ó¢·ÆÄáµÏ)
 ÎåÊ®Áå
 ¸ß¼¶Î¬ÐÞ¼¼Ê¦
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÐÕÃû£º
 Îä±é¿­
 ¹«Ë¾£º
@@ -46363,9 +44765,7 @@ encoding="gb2312"?>
 µç»°
 ÁªÏµÈË
 ÆóÒµÀà±ð
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ò»Æû´óÖÚ4S±±¾©¿¥±¦ÍþÆû±±¾©ÊÐ³¯ÑôÇøÀ´¹ãÓªÎ÷Â·1010-84911998ÍõÐÀÒ»Àà
 Ìì½òÒ»Æû4S±±¾©ËÄº£ÁªÍ¨£¨4S×Üµê£©±±¾©³¯ÑôÇø¶«
 ±£ÏÕ²¿£º010-
@@ -46383,9 +44783,7 @@ encoding="gb2312"?>
 µÂÏè»úµçÓÐÏÞ¹«Ë¾±±¾©ÊÐ³¯ÑôÇø¶«Èý»·±±Â·2010-64601180ºúÔÆêÍ-
 ±±¾©ÖÐÆûÒÀÎ¬¿ÂÆû³µÎ¬ÐÞ³§±±¾©³¯ÑôÇøÂó×Óµê010-64601002Íõ±¦¶¼-
 Î¬ÐÞ³£Ê¶
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 [Ñø³µ]£º°®³µ¡°Óùº®¡±ÓÐµÀ
 ³µ´°½á±ùÄªÄÃ¿ªË®½½
 [Ñø³µ]£º¡°Âò³µÈÝÒ×
@@ -46404,10 +44802,7 @@ encoding="gb2312"?>
 ×¨¼ÒÖ§ÕÐ½â¾ö7ÖÖÆøÎ¶ÎÊÌâ
 [Î¬ÐÞ]£ºÎ¬ÐÞ°®³µDIY
 ¡°Ìý¡±ÓÃÄãµÄ¶ú¶äÈ¥ÐÞ³µ
-<?xml
-version="1.0"
-encoding="gb2312"
-?>
+<?xml version="1.0" encoding="gb2312" ?>
 ±±¾©ÊÐº£µíÇø
 Æû³µÎ¬ÐÞÆóÒµ
 ¸ü¶à
@@ -46416,9 +44811,7 @@ encoding="gb2312"
 µç»°
 ÁªÏµÈË
 ÆóÒµÀà±ð
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±±¾©°îÀûÆû³µ·þÎñ¹«Ë¾±±¾©ÊÐº£µíÇøÐÓÊ¯¿ÚÂ·¼×2010-88455532-
 ±±¾©»ªÈÕÍ¨Æû³µÏúÊÛ·þÎñÓÐ±±¾©ÊÐº£µíÇøÐÓÊ¯¿ÚÂ·15010-88437699ÂíÕñ½­-
 ³ÛÒ°Æû³µÐÞÀí³§±±¾©ÊÐº£µíÇøÇå»ª¶«Â·¼×1010-62393682Àî½¡Èã-
@@ -46440,9 +44833,7 @@ encoding="gb2312"?>
 ÈÈ
 Ïß£º010-Ò»Àà
 Æ·ÅÆÎ¬ÐÞ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 [Î¬ÐÞ]£º×¨¼ÒÖ§ÕÐ
 ¸£¿ËË¹½Î³µ¹ÊÕÏ·ÖÎö3Àý
 [Î¬ÐÞ]£º×¨¼Ò³öÕÐ
@@ -46470,9 +44861,7 @@ encoding="gb2312"?>
 µç»°
 ÁªÏµÈË
 ÆóÒµÀà±ð
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±±¾©»¨ÏçÇÅ·áÌïÆû³µÏúÊÛ·þ±±¾©ÊÐ·áÌ¨ÇøËÄºÏ×¯415010-63754882½ªÓÂ-
 ±±¾©äµ¾©ºÀÆû³µ×°ÊÎÓÐÏÞ¹«±±¾©ÊÐ·áÌ¨Çø¿Æ¼¼Ô°¶«ÁÚ·ã010-63718886ÖìÏÈÉú-
 ±±¾©ÊÐ¾©»ªÆû³µÐÞÀí³§±±¾©ÊÐ·áÌ¨ÇøÖ£³£×¯105010-68239359±¡ÔöÂ»-
@@ -46489,9 +44878,7 @@ encoding="gb2312"?>
 ±±¾©ÊÀ¼ÍÉÐÍ¨Æû³µÐÞÀí³§±±¾©ÊÐ·áÌ¨Çø·ç¹ÜÍ·99ºÅ010-63309816ÕÔÏÈÉú-
 ±±¾©»ªÅôÆû³µ·þÎñÓÐÏÞ¹«Ë¾±±¾©ÊÐ·áÌ¨Çø»¨ÏãËÄºÏ×¯2010-63710066ÉÛÇì¹ú-
 Î¬ÐÞÔÚÏß
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 °ÂµÏ
 ±±¾©ÌìÈóÆûÃ³ÏúÊÛÎ¬ÐÞ×¨¼Ò·ÃÌ¸ÊµÂ¼
 [·ÃÌ¸]£ºÉÏº£´óÖÚÎ¬ÐÞÓëÏúÊÛ×¨¼Ò
@@ -46520,17 +44907,13 @@ encoding="gb2312"?>
 µç»°
 ÁªÏµÈË
 ÆóÒµÀà±ð
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±±¾©ÖÐÈð³½Æû³µÏúÊÛÓÐÏÞ¹«±±¾©ÊÐÑÇÔË´åÆû³µ½»Ò×ÐÂÊÐ61753139×ª808µóÃÈ
 Ò»Àà
 ±±¾©Ç§ÀïÐÐÆû³µ·þÎñÓÐÏÞ¹«±±¾©ÊÐ²ýÆ½Çø»ØÁú¹ÛÅ·µÂ±¦010-96096288Ò»Àà
 ÉÏº£´óÖÚ4S±±¾©ÉêÒøÆû³µ±±¾©ÊÐ²ýÆ½Çø¶«ÈýÆìÑÇÔË´å010-81756001Ñî¸£ÃñÒ»Àà
 ±£Ñø³£Ê¶
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 [ÓÃ³µ]£ºÑø»¤Ð¡½²ÌÃ
 ×°±¸ÐÂ³µ
 Ê±ÉÐÔªËØ²»¿ÉÉÙ
@@ -46560,15 +44943,11 @@ encoding="gb2312"?>
 µç»°
 ÁªÏµÈË
 ÆóÒµÀà±ð
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±±¾©ÁâË³¾­Ã³ÓÐÏÞ¹«Ë¾±±¾©ÊÐ¶«³ÇÇøÖÐÖáÂ·ÈýÁâÆûÖÐÖáÂ·Õ¹Ìü:
 ÍõÓñÁú13ÍõÏÈÉúÒ»Àà
 ¸öÐÔ¸Ä×°
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 [¸Ä×°]£º¶¯Á¦ÌáÉýÖÁ640Æ¥
 ¸ß¶û·ò¾¢±¬¸Ä×°(¶àÍ¼)
 [¸Ä×°]£º´ò¿ª³µ¶¥-Ó­½ÓÑô¹â
@@ -46596,16 +44975,12 @@ POLO³¨Åñ°æ09ÄêÎÊÊÀ
 µç»°
 ÁªÏµÈË
 ÆóÒµÀà±ð
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±±¾©Èð¶¦¾­Ã³ÓÐÏÞ¹«Ë¾±±¾©Ê¯¾°É½¹Å³ÇÎ÷½ÖÄÏ¿Ú(ÏúÊÛÈÈÏß£º010--68ÕÔÎÄ»ªÒ»Àà
 ±±¾©ÊÐ¾ÛÏÍË³´ïÉÌÃ³ÓÐÏÞÔð±±¾©ÊÐÊ¯¾°É½Çø°Ë´ï´¦Â·´ó010-88703012¸¶ÎÄ¸Ö-
 ±±¾©³Ï½¨ÓÑÆû³µÎ¬ÐÞÓÐÏÞÔð±±¾©ÊÐÊ¯¾°É½ÇøÁõÄï¸®ÄÏºÓ010-88793483²ÜÔö³¯-
 Õþ²ß·¨¹æ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 [Õþ²ß]£º¶àÏîÕþ²ß´«³ö¡°ÉùÒô¡±´Ù½ø08³µÊÐ·¢Õ¹
 [Õþ²ß]£º·¢¸ÄÎ¯Ê×´Î½ç¶¨
 Ð¡ÅÅÁ¿Æû³µ¼¼Êõ±ê×¼
@@ -46630,14 +45005,10 @@ encoding="gb2312"?>
 µç»°
 ÁªÏµÈË
 ÆóÒµÀà±ð
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±±¾©ÈýºÏÁªÍØÆû³µÏúÊÛÓÐÏÞ±±¾©ÊÐ³çÎÄÇø³çÎÄÃÅ¶«ºóºÓ010-67110185ÎâµÏ:Ò»Àà
 Æ·ÅÆÎ¬ÐÞ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 [Î¬ÐÞ]£º×¨¼ÒÖ§ÕÐ
 ¸£¿ËË¹½Î³µ¹ÊÕÏ·ÖÎö3Àý
 [Î¬ÐÞ]£º×¨¼Ò³öÕÐ
@@ -46665,13 +45036,9 @@ encoding="gb2312"?>
 µç»°
 ÁªÏµÈË
 ÆóÒµÀà±ð
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±±¾©Èý½­½ð¿ÍÆû³µÏúÊÛÓÐÏÞ±±¾©Òà×¯¿ª·¢ÇøÂ¡Çì½Ö1613681539723ÁõÅóÒ»Àà
-ÓÑÇéÁ´½Ó£º<?xml
-version="1.0"
-encoding="gb2312"?>
+ÓÑÇéÁ´½Ó£º<?xml version="1.0" encoding="gb2312"?>
 ÐÂ»ªÍø-Æû³µÆµµÀ
 ÑÅ»¢-Æû³µÎ¬ÐÞ
 Tom-Æû³µ
@@ -46679,9 +45046,7 @@ eÐÞÍø-Æû³µÎ¬ÐÞ
 ÌØ±ðÌáÊ¾£º
 ËùÓÐÒÑÉóºËµÄÐÅÏ¢£¬¾ù¾­ÍøÉÏ³µÊÐÈ·ÈÏ£¬ÐÅÏ¢ÕæÊµ£¬Í¨Ñ¶·½Ê½¿É¿¿£¡¾ßÌå½»Ò×£¬ÇëÍøÓÑ½÷É÷£¬
 ±£»¤×Ô¼ºÀûÒæ£¡ÍøÉÏ³µÊÐ½«¼ÌÐøÌá¸ß·þÎñÖÊÁ¿£¬Î¬»¤Ïû·ÑÕßÈ¨Òæ£¡
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¾©-»¦-½ò-¹ãÖÝ-Îäºº-ÉîÛÚ-É½¶«-É½Î÷-Õã½­-½­ËÕ-¸£½¨-ÁÉÄþ-ºÓÄÏ-ÉÂÎ÷-ºÓ±±-ºþÄÏ-ºÚÁú½­-ÄÚÃÉ¹Å-ÔÆÄÏ-ËÄ´¨-ÖØÇì-¹ãÎ÷-½­Î÷-ÐÂ½®-¼ªÁÖ-¹óÖÝ-¸ÊËà-ÄþÏÄ-°²»Õ-º£ÄÏ-Î÷²Ø-Çàº£-
 ¹ØÓÚÍøÉÏ³µÊÐ|·þÎñÒµÎñ|ÎÊÓë´ð|ÕÐÆ¸ÐÅÏ¢|ÁªÏµ·½Ê½|ÓÑÇéÁ´½Ó
 Copyright
@@ -46715,14 +45080,9 @@ Web
 ÇëÇóÆÚ¼äÉú³ÉÁËÎ´´¦ÀíµÄÒì³£¡£¿ÉÒÔÊ¹ÓÃÏÂÃæµÄÒì³£¶ÑÕ»¸ú×ÙÐÅÏ¢È·¶¨ÓÐ¹ØÒì³£Ô­ÒòºÍ·¢ÉúÎ»ÖÃµÄÐÅÏ¢¡£</code>
 ¶ÑÕ»¸ú×Ù:
 <code>
-[NullReferenceException:
-Î´½«¶ÔÏóÒýÓÃÉèÖÃµ½¶ÔÏóµÄÊµÀý¡£]
-CheShi.CheShiV4.CheshiNet.CheShiAd.Page_Load(Object
-sender,
-EventArgs
-e)
-System.Web.UI.Control.OnLoad(EventArgs
-e)
+[NullReferenceException: Î´½«¶ÔÏóÒýÓÃÉèÖÃµ½¶ÔÏóµÄÊµÀý¡£]
+CheShi.CheShiV4.CheshiNet.CheShiAd.Page_Load(Object sender, EventArgs e)
+System.Web.UI.Control.OnLoad(EventArgs e)
 +67
 System.Web.UI.Control.LoadRecursive()
 +35
@@ -46747,12 +45107,8 @@ mode="RemoteOnly"/
 in
 production
 environments.-->¹ú²úÆû³µ-½ø¿ÚÆû³µ-µÚÒ»Æû³µ¹ºÂò¹ËÎÊ-ÍøÉÏ³µÊÐ(www.cheshi.com.cn)
-<?xml
-version="1.0"
-encoding="gb2312"?>
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¾©-»¦-½ò-¹ãÖÝ-Îäºº-ÉîÛÚ-É½¶«-É½Î÷-Õã½­-½­ËÕ-¸£½¨-ÁÉÄþ-ºÓÄÏ-ÉÂÎ÷-ºÓ±±-ºþÄÏ-ºÚÁú½­-ÄÚÃÉ¹Å-ÔÆÄÏ-ËÄ´¨-ÖØÇì-¹ãÎ÷-½­Î÷-ÐÂ½®-¼ªÁÖ-¹óÖÝ-¸ÊËà-ÄþÏÄ-°²»Õ-º£ÄÏ-Î÷²Ø-Çàº£-
 ¡¤ÓÃ»§µÇÂ¼
 ¡¤ÉÌ¼Ò¼ÓÃË
@@ -46766,12 +45122,8 @@ encoding="gb2312"?>
 Ñ¡ÔñÆ·ÅÆ
 Ñ¡ÔñÏµÁÐ
 ÇëÑ¡ÔñÏµÁÐ...
-<?xml
-version="1.0"
-encoding="gb2312"?>
-<?xml
-version="1.0"
-encoding="gb2312"?>Î´ÉÏÊÐ£ºÐÂÍþ³Û
+<?xml version="1.0" encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>Î´ÉÏÊÐ£ºÐÂÍþ³Û
 ÑÅÁ¦Ê¿
 åÐ¿Í
 ÈñÅ·Á½Ïá
@@ -46781,9 +45133,7 @@ encoding="gb2312"?>Î´ÉÏÊÐ£ºÐÂÍþ³Û
 ÈÙÍþ550
 æëÁâ
 ¾«Áé
-<?xml
-version="1.0"
-encoding="gb2312"?>ÈÈµã³µ£ºÐÂÑÅ¸ó
+<?xml version="1.0" encoding="gb2312"?>ÈÈµã³µ£ºÐÂÑÅ¸ó
 Ã÷Èñ
 ÂõÌÚ
 ¾ºËÙ
@@ -46796,9 +45146,7 @@ F3R
 ÆæÈðA1
 CrossPolo
 °ÂµÏR8
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¶þÊÖ³µËÑË÷
 ¹ú²ú
 ½ø¿Ú
@@ -46812,53 +45160,37 @@ encoding="gb2312"?>
 10-20Íò
 20ÍòÒÔÉÏ
 Í¼Æ¬µ÷ÓÃ
-<?xml
-version="1.0"
-encoding="gb2312"?>
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÐÂÍ¾°²ÈëÃÅ°æÊµÅÄ
 08¿îÀÖ³Û
 3ÔÂµ½µê
 08ÄêÕÙ»ØµÚÒ»²¨
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¸£ÃÀÀ´ÏúÁ¿ÆÆ40Íò
 ¼ªÄ·ÄáÖÊÁ¿ÆÀ²â
 Æû³µÖÜ¿¯
 µÚ8ÆÚ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÐÂÍþ³Û28ÈÕÉÏÊÐ
 ¹ú²ú²¬ÈñÍ¼Æ¬½âÎö
 ½­»´½Î³µÐÂ³µ¹æ»®
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÆæÈðA5»ìºÏ¶¯Á¦
 °ÂµÏ½ñÄêÐÂ³µ¹æ»®
 ¾¡ÏíCOROLLAÉú»î
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÐÂÑÅ¸ó
 °²È«Ïê½â
 È«Ãæ½â¶ÁµÀÆæ·æÕÜ
 ½ÚÇ°¹º³µ
 ½²¾¿¶à
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 °ÂµÏRS6
 ÊÛ110Íò
 ÈÙÍþ1.8TÅäÖÃÆØ¹â
 Á½Ïá307°²È«½âÎö
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ³µÊÐ¹¤¾ßÏä
 ³µÐÍËÑË÷
 ÐÂ³µ±¨¼Û
@@ -46878,22 +45210,14 @@ encoding="gb2312"?>
 ¶À¼Ò±¨µÀ
 Æû³µ¼äµý
 ÓÍºÄÊµ²é
-<?xml
-version="1.0"
-encoding="gb2312"?>
-<?xml
-version="1.0"
-encoding="gb2312"?>5ö¦³µÄÖÐÂ´º
+<?xml version="1.0" encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>5ö¦³µÄÖÐÂ´º
 2ÔÂÏÂÑ®¼´½«ÉÏÊÐ³µÐÍÒ»ÀÀ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 [307Á½Ïá2ÔÂ20ÈÕÉÏÊÐ]
 [¿á²«2ÔÂ26ÈÕÉÏÊÐ]
 [²¬Èñ2ÔÂ28ÈÕÉÏÊÐ]
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 [ÐÂ³µ]£ºÚ©¸è08ÄêÔÙÌíÒ»¿îÐÂ³µ
 ÊÇSUV»¹ÊÇ½Î³µ£¿
 [µ¼¹º]£º½âÎöÖÐÍâ¡°²¬Èñ¡±²îÒì
@@ -46906,21 +45230,13 @@ encoding="gb2312"?>
 Î¬ÐÞ·½·¨Ò»ÀÀ
 [ÆÀ²â]£ºÍâ¹Û¸Ä±ä-×ö¹¤ÒÀ¾É
 Í¼½âÐÂÍ¾°²2.0¹¤ÒÕÖÊÁ¿
-<?xml
-version="1.0"
-encoding="gb2312"?>
-<?xml
-version="1.0"
-encoding="gb2312"?>ÎåÁâÎ¢Ãæ¡°Õü¾È¡±Í¨ÓÃÆû³µ
+<?xml version="1.0" encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>ÎåÁâÎ¢Ãæ¡°Õü¾È¡±Í¨ÓÃÆû³µ
 936ÍòÏúÁ¿±³ºó
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 [ÉÏº£Í¨ÓÃ»·±£¹æ»®]
 [ÉÏº£Í¨ÓÃ³µÐÍ±¨¼Û]
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 [ÆØ¹â]£ºÓëÈÕ²úÆæ¿¥Í¬µ×ÅÌ
 À×ÅµÐÂ¿îSUVÍ¼Æ¬ÆØ¹â
 [µýÕÕ]£º·áÌïÑÅÁ¦Ê¿¸Ä¿î
@@ -46966,15 +45282,11 @@ encoding="gb2312"?>
 ¹ó¹«Ë¾Áìµ¼
 ÎÒÊÇÒ»ÃûÏë´´ÒµµÄÅ®Ê¿
 ÏëÁË½âÒ»
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 µ¼¹º×¨Çø|
 °ÂµÏ|±¦Âí|±¼³Û|±ð¿Ë|¸£ÌØ|ÏÖ´ú|ÆæÈð|·áÌï|ÈÕ²ú|ÎÖ¶ûÎÖ|Ñ©·ðÀ¼|±ÈÑÇµÏ|¶«·ç±êÖÂ|¶«ÄÏ
 Mini|±êÖÂ|±öÀû|½Ý±ª|À×Åµ|Â·»¢|Å·±¦|ÊÀ¾ô|ÁÖ¿Ï|±£Ê±½Ý|Ñ©ÌúÁú|Âõ°ÍºÕ|µÂ¹ú´óÖÚ|µÀÆæ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 [ÐÐÒµ]£ºÎåÁâÎ¢Ãæ¡°Õü¾È¡±Í¨ÓÃÆû³µ
 936ÍòÏúÁ¿±³ºó
 [ÐÂ³µ]£ºÑ©·ðÀ¼¡°´ó×ì¡±ÀÖ³ÒÈýÃÅ°æ
@@ -46996,9 +45308,7 @@ encoding="gb2312"?>
 °Ë¿îMPVÊÐ³¡ÐÐÇéÒ»ÀÀ
 ³§ÉÌÒªÎÅ
 ÉÌ¼Ò¿ìÑ¶
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¡¤
 2007ÖÐ¹úÆû³µÆ·ÅÆÏúÊÛÂúÒâ¶Èµ÷
 ¡¤
@@ -47011,12 +45321,8 @@ encoding="gb2312"?>
 ÆÖ·¢ÒøÐÐÄÏ¾©·ÖÐÐ¿¹ÔÖÎ¿ÎÊ¶Ó¸Ï¸°Äþ
 ¡¤
 ÖÂÊ¤£ºµÂ¹úÑªÍ³¸³ÓèµÄÐÂÉú´úÄÐÈË
-<?xml
-version="1.0"
-encoding="gb2312"?>
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¡¤
 Ã÷Ã÷ÐÄ¶¯£¬ÈñÒâÅ¨Çé¡ª¡ªÖÚÒå´ï»ãÁØ
 ¡¤
@@ -47027,14 +45333,10 @@ encoding="gb2312"?>
 ÊµÓÃ¿Õ¼äÐÂ»ù×¼¡ª¡ªÊÔ¼ÝMAZDA
 ¡¤
 Ñ©·ðÀ¼ÏµÁÐÓ­´º½µ¼Û»î¶¯¿ªÊ¼À­
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¹ú²úÆû³µ
 Ô½Ò°Æû³µ|ÉÌÎñÆû³µ|Î¢ÐÍÆû³µ|Ð¡½Î³µ|ÅÜ³µ|Æû³µÂÛÌ³|³§¼ÒÒªÎÅ|±±ÑÇÊÐ³¡
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÈýºÏ·çÉñ
 Ê×Æû·çÉñ
 67143728
@@ -47122,49 +45424,35 @@ encoding="gb2312"?>
 ¶«±¾4Sµê
 010-51663689
 ¹ú²úÆû³µ±¨¼Û
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Æ·ÅÆ
 ³µÐÍ
 ¼Û¸ñ
 ÈÕÆÚ
 ¾­ÏúÉÌ
-´óÖÚ(Ò»ÆûËÙÌÚ
-1.6
-MTÊ±ÉÐÐÍ2006¿î13.88Íò02-13Ò»Æû´óÖÚ4S±±¾©½ÝÑÇÌ©ÆûÃ³ÓÐÏÞ
+´óÖÚ(Ò»ÆûËÙÌÚ 1.6 MTÊ±ÉÐÐÍ2006¿î13.88Íò02-13Ò»Æû´óÖÚ4S±±¾©½ÝÑÇÌ©ÆûÃ³ÓÐÏÞ
 Ë¹¿Â´ïOctaviaÃ÷Èñ
 2.0
 MTÒÝÊË°æ20013.99Íò02-13±±¾©ÔËÍ¨²©´ïÆû³µÏúÊÛ·þÎñÓÐÏÞ¹«
 ÆæÈðÐÂ¶«·½Ö®×Ó
 1.8
 MTºÀ»ªÐÍ10.18Íò02-13±±¾©ÖÐÈð³½Æû³µÏúÊÛÓÐÏÞ¹«Ë¾£¨Ææ
-´óÖÚ(Ò»ÆûÂõÌÚ
-1.8TSI
-AT/MTÊæÊÊÐÍ200723.98Íò02-13Ò»Æû´óÖÚ4S±±¾©ÇìÑóÆû³µ·þÎñÓÐ
+´óÖÚ(Ò»ÆûÂõÌÚ 1.8TSI AT/MTÊæÊÊÐÍ200723.98Íò02-13Ò»Æû´óÖÚ4S±±¾©ÇìÑóÆû³µ·þÎñÓÐ
 º£ÂíÆû³µº£¸£ÐÇ
 1.6
 MT±ê×¼6.68Íò02-13±±¾©ÔËÍ¨²©Ì©Æû³µÏúÊÛ·þÎñÓÐÏÞ¹«
-´óÖÚ(Ò»ÆûËÙÌÚ
-1.6
-MTÊ±ÉÐÐÍ2006¿î13.18Íò02-13Ò»Æû´óÖÚ4S±±¾©ÊÐÌì´ïÆû³µÐÞÀí
+´óÖÚ(Ò»ÆûËÙÌÚ 1.6 MTÊ±ÉÐÐÍ2006¿î13.18Íò02-13Ò»Æû´óÖÚ4S±±¾©ÊÐÌì´ïÆû³µÐÞÀí
 ÔÃ´ïÆðÑÇÈüÀ­Í¼
 Cerato
 1.6LGL
 MT8.58Íò02-13±±¾©ÖÐÆóÐÀÔ´Æû³µÏúÊÛ·þÎñÓÐÏÞ¹«
-´óÖÚ(Ò»ÆûÂõÌÚ
-1.8TSI
-MT±ê×¼ÐÍ2007¿î19.98Íò02-13Ò»Æû´óÖÚ4S±±¾©¿¥±¦ÍþÆû³µÃ³Ò×
-´óÖÚ(ÉÏÆûPOLO
-¾¢Çé1.4
-MTÊÖ¶¯Ê±ÉÐ°æ20088.28Íò02-13±±¾©¹ãºãÐÅÉÏº£´óÖÚÆû³µÏúÊÛ·þÎñ
+´óÖÚ(Ò»ÆûÂõÌÚ 1.8TSI MT±ê×¼ÐÍ2007¿î19.98Íò02-13Ò»Æû´óÖÚ4S±±¾©¿¥±¦ÍþÆû³µÃ³Ò×
+´óÖÚ(ÉÏÆûPOLO ¾¢Çé1.4 MTÊÖ¶¯Ê±ÉÐ°æ20088.28Íò02-13±±¾©¹ãºãÐÅÉÏº£´óÖÚÆû³µÏúÊÛ·þÎñ
 ½­»´Èð·çI
 HFC6500A1C8
 2.4
 MT11.98Íò02-13±±¾©ÈðÕ÷Æû³µÃ³Ò×ÓÐÏÞ¹«Ë¾
-´óÖÚ(Ò»ÆûËÙÌÚ
-1.6
-MTÊ±ÉÐÐÍ2006¿î13.87Íò02-13Ò»Æû´óÖÚ4S±±¾©ÔËÍ¨²©¶÷Æû³µÏú
+´óÖÚ(Ò»ÆûËÙÌÚ 1.6 MTÊ±ÉÐÐÍ2006¿î13.87Íò02-13Ò»Æû´óÖÚ4S±±¾©ÔËÍ¨²©¶÷Æû³µÏú
 Ò»ÆûÍþÖ¾
 CA7130
 1.3
@@ -47181,18 +45469,12 @@ MTÈý¸×Á½3.38Íò02-13Ìì½òÒ»Æû4S±±¾©ËÄº£ÁªÍ¨Æû³µÏú
 AT/MTÊ±ÉÐÐÍ200712.8Íò02-13±±¾©ÁúÔóÎ°ÒµÉÌÃ³ÓÐÏÞ¹«Ë¾
 ÏÖ´úÑÅÉðÌØ1.4
 MTGL6.98Íò02-13±±¾©ÈðÍ¨¼ÎÒµÆû³µÏúÊÛ·þÎñÓÐÏÞ¹«
-´óÖÚ(ÉÏÆûÅÁÈøÌØ-ÁìÔ¦
-1.8T
-MTºÀ»ªÐÍ2007¿î19.98Íò02-13±±¾©ÕæºÆÌ©Æû³µÏúÊÛÓÐÏÞ¹«Ë¾
+´óÖÚ(ÉÏÆûÅÁÈøÌØ-ÁìÔ¦ 1.8T MTºÀ»ªÐÍ2007¿î19.98Íò02-13±±¾©ÕæºÆÌ©Æû³µÏúÊÛÓÐÏÞ¹«Ë¾
 ¶«·çÑ©ÌúÁú°®ÀöÉá
 Elysee
 SXMT2005¿î8.08Íò02-13±±¾©ÉñÁú¾©½òÆû³µÏúÊÛÓÐÏÞ¹«Ë¾(
-´óÖÚ(ÉÏÆûÍ¾°²Touran
-2.0
-MT5×ùÊæÊÊÐÍ2016.48Íò02-13±±¾©ÑÇ³½Î°ÒµÁª´´Æû³µÏúÊÛ·þÎñÓÐ
-´óÖÚ(Ò»ÆûÂõÌÚ
-1.8TSI
-MTÊæÊÊÐÍ2007¿î22.78Íò02-10±±¾©±±·½»ªæä³µÁ¾ÏúÊÛ·þÎñÓÐÏÞ¹«
+´óÖÚ(ÉÏÆûÍ¾°²Touran 2.0 MT5×ùÊæÊÊÐÍ2016.48Íò02-13±±¾©ÑÇ³½Î°ÒµÁª´´Æû³µÏúÊÛ·þÎñÓÐ
+´óÖÚ(Ò»ÆûÂõÌÚ 1.8TSI MTÊæÊÊÐÍ2007¿î22.78Íò02-10±±¾©±±·½»ªæä³µÁ¾ÏúÊÛ·þÎñÓÐÏÞ¹«
 ±¾Ìï·É¶ÈÐÍ¶¯ÅÉ
 1.5
 CVT9.98Íò02-10¹ãÖÝ±¾ÌïÆû³µ¹ãÆûº½ÌìÌØÔ¼ÏúÊÛ·þ
@@ -47208,29 +45490,20 @@ AT±ê×¼°æ2007¿î22.18Íò02-04¹ãÖÝ±¾ÌïÆû³µÈÕÒøÌØÔ¼ÏúÊÛ·þÎñµê
 ÈÕ²úæêÍþ
 1.6GE
 MTÈ«ÄÜÐÍ8.98Íò02-04±±¾©ºêÔ¶ÐÅ³ÏÆû³µÏúÊÛÓÐÏÞ¹«Ë¾
-´óÖÚ(ÉÏÆûPOLO
-¾¢Çé(Á½Ïá)
-1.6
-AT/MT·ç11.98Íò02-04±±¾©ÐË¾©Á¼ÉÏº£´óÖÚÆû³µÏúÊÛÓÐÏÞ
+´óÖÚ(ÉÏÆûPOLO ¾¢Çé(Á½Ïá) 1.6 AT/MT·ç11.98Íò02-04±±¾©ÐË¾©Á¼ÉÏº£´óÖÚÆû³µÏúÊÛÓÐÏÞ
 ±¦Âí320i
 2.0
 AT/MTÁìÏÈÐÍ2005¿î36.95Íò02-03Ìì½òÌì±¦Æû³µÏúÊÛ·þÎñÓÐÏÞ¹«Ë¾
-´óÖÚ(ÉÏÆûÅÁÈøÌØ-ÁìÔ¦
-1.8T
-MT±ê×¼ÐÍ2007¿î18.28Íò02-02ÉÏº£´óÖÚ4S±±¾©ÁªÍØ»úµç¼¯ÍÅÓÐ
+´óÖÚ(ÉÏÆûÅÁÈøÌØ-ÁìÔ¦ 1.8T MT±ê×¼ÐÍ2007¿î18.28Íò02-02ÉÏº£´óÖÚ4S±±¾©ÁªÍØ»úµç¼¯ÍÅÓÐ
 ÏÖ´úÊ¥´ï·Æsanta
 Fe
 2.7
 ºÀ»ªÐÍ
 AT19.38Íò01-03»ªÌ©¡¤ÏÖ´úÊÚÈ¨4S±±¾©À×°ºÆû³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ½ø¿ÚÆû³µ
 Ô½Ò°Æû³µ|ÉÌÎñÆû³µ|Î¢ÐÍÆû³µ|Ð¡½Î³µ|ÅÜ³µ|Æû³µÂÛÌ³|³§¼ÒÒªÎÅ|±±ÑÇÊÐ³¡
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÖÐ½øÆûÃ³
 Å·±¦×¨Âô
 84292589
@@ -47268,17 +45541,13 @@ encoding="gb2312"?>
 °ÂµÏ4S
 010-63431111
 ½ø¿ÚÆû³µ±¨¼Û
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Æ·ÅÆ
 ³µÐÍ
 ¼Û¸ñ
 ÈÕÆÚ
 ¾­ÏúÉÌ
-À×¿ËÈøË¹(LX570
-5.7
-AT129.8Íò02-13±±¾©Ó¢»ªÀ×¿ËÈøË¹4Sµê
+À×¿ËÈøË¹(LX570 5.7 AT129.8Íò02-13±±¾©Ó¢»ªÀ×¿ËÈøË¹4Sµê
 ÁåÄ¾¼ªÄ·Äá
 JIMNY
 1.3
@@ -47304,20 +45573,14 @@ AT/MT³¬Ô½°æ67.8Íò01-08±±¾©ÔËÍ¨²©ÊÀÆû³µÏúÊÛ·þÎñÓÐÏÞ¹«
 VITARA
 2.0
 22.58Íò01-07±±¾©±±·½ÐÂÐË³¤°²ÁåÄ¾Æû³µÏúÊÛ·þ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Æû³µÇé±¨
 ÐÂ³µÉÏÊÐ|º£Íâ³µÑ¶|Ç°ÑØ¼¼Êõ|Æû³µÉú»î|ÂÛÌ³È¤ÊÂ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Èø²©-±ùµñ¸ÅÄî³µ
 º®Æø±ÆÈËcool¸øÄã¿´
 ×ÛºÏÉÌ¼Ò
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¹ã¸æÕÐÉÌ
 ÌìÌ©ÓÀ´ï
 Çì¸£Ô´
@@ -47330,9 +45593,7 @@ encoding="gb2312"?>
 ÁúÔóÎ°Òµ
 ¹ã¸æÕÐÉÌ
 ¹ã¸æÕÐÉÌ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ú©¸è08ÄêÔÙÌíÒ»¿îÐÂ³µ
 ÊÇSUV»¹ÊÇ½Î³µ£¿
 [ÐÂ³µ]£ºÈ«ÐÂÂí×Ô´ï6½«²úËÄÇý³µÐÍ
@@ -47347,9 +45608,7 @@ encoding="gb2312"?>
 ÅäÖÃÉý¼¶-Íâ¹ÛÐ¡¸Ä
 [ÐÂ³µ]£ºÉ£ËþÄÉ-ÄÄß¸ÄêÄÚÍ¶²ú
 ÓëË¹¿Â´ï-Ã÷Èñ¹²ÏßÉú²ú
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Èø²©-±ùµñ¸ÅÄî³µ
 º®Æø±ÆÈËcool¸øÄã¿´
 [ÓéÀÖ]£ººìÍâÏßÒ£¿Ø-×°¼×³µ
@@ -47364,9 +45623,7 @@ encoding="gb2312"?>
 [ÓéÀÖ]£º·ÆÑÇÌØ-ÌåÑéÖÐÐÄ¼´½«Âä³É
 ÉÍ³µ/ÓéÀÖÈ«¼æ¹Ë
 ¹ú²úÈÈµã³µÐÍ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±ð¿Ë¿­Ô½1.6LX
 MT
 ´óÖÚ(Ò»Æû)ËÙÌÚ
@@ -47405,14 +45662,10 @@ Cerat
 Ë¹¿Â´ïOctaviaÃ÷Èñ
 Âí×Ô´ïÐÂMazda3
 1.
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÐÞ³µÑø³µ
 Î¬ÐÞ·ÃÌ¸|ÔÚÏß´ðÒÉ|Î¬ÐÞ³£Ê¶|±£Ñø³£Ê¶|¸öÐÔ¸Ä×°
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ´ò¿ª³µ¶¥-Ó­½ÓÑô¹â
 POLO³¨Åñ°æ09ÄêÎÊÊÀ
 ÂÛÌ³ÈÈÌû
@@ -47423,9 +45676,7 @@ POLO³¨Åñ°æ09ÄêÎÊÊÀ
 [ÈÙÍþ³µÓÑ»á]£º¶Ô¡°À­¸ßËÙ¡±ÓÐÒÉÎÊµÄTXÃÇÇë½ø£¬ÓÐ¹Ø
 [¸ß¶û·ò³µÓÑ»á]£º¾«»ª¡ªµãÆÀÖÐ¹úÔÚ²úÆû³µ£¡£¡
 [ÈÙÍþ³µÓÑ»á]£ºÈÙÍþ750µÍÓÍºÄµÄ²»ÍêÈ«¼¼ÇÉ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ×¨¼Ò½¨Òé
 ½Úºó±£ÑøÓ¦¸Ã¡°Òò³µ¶øÒì¡±
 [Ñø³µ]£º²»ÄÜËµµÄÃØÃÜ
@@ -47439,9 +45690,7 @@ encoding="gb2312"?>
 ×°±¸ÐÂ³µ
 Ê±ÉÐÔªËØ²»¿ÉÉÙ
 [Ñø³µ]£ºÏÂÑ©Ìì°®³µÒª¡°Óùº®¡±£¡×¨¼ÒÖ§ÕÐ¶¬¼¾ÓÃ³µ±£Ñø
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¶¯Á¦ÌáÉýÖÁ640Æ¥
 ¸ß¶û·ò¾¢±¬¸Ä×°(¶àÍ¼)
 [¸Ä×°]£º´ò¿ª³µ¶¥-Ó­½ÓÑô¹â
@@ -47456,9 +45705,7 @@ POLO³¨Åñ°æ09ÄêÎÊÊÀ
 [¸Ä×°]£º³µÉí½µµÍ4ÀåÃ×
 È«ÐÂË¹°ÍÂ³Òí±ª¸Ä×°°æÁÁÏà
 ½ø¿ÚÈÈµã³µÐÍ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÏÖ´úÐÂÊ¤´ïsanta
 Fe
 ±£Ê±½ÝÐÂ¿¨ÑçCayenne
@@ -47499,16 +45746,12 @@ S350
 ÈýÁâÅ·À¶µÂOUTLANDE
 ÊÔ¼ÝÆÀ²â
 ¹ú²ú³µÊÔ¼Ý|½ø¿Ú³µÊÔ¼Ý|ºÀ»ª³µ¶Ô±È|¾­¼Ã³µ¶Ô±È
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ½¼Ò°ÖÐµÄ³ÇÊÐÐ¡×Ó
 ÊÔ¼ÝCross
 Polo
 ³µÊÐ·ÖÎö
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 [Í³¼Æ]£º2008Äê½ø¿ÚSUVÈÔÊÇÊÐ³¡ÁÁµã
 [Í³¼Æ]£ºÕûÌåÐ¡·ùÏÂ½µ
 ÑÅ¸óµÈÄæÊÐ¶øÕÇ
@@ -47516,9 +45759,7 @@ encoding="gb2312"?>
 [µ¼¹º]£º12ÔÂÉÏÑ®5-10ÍòÔªÐ¡ÐÍ³µ½µ¼ÛÃ÷ÏÔ
 [µ÷²é]£ºÄêÇáÏû·ÑÕß¹º³µÓÃ³µ¸üÇ÷ÀíÐÔ
 [ÑÐ¾¿]£º08Äê¡¶ÖÐ¹ú³ËÓÃ³µ¼Û¸ñ¼à²âÔÂ¶È±¨¸æ¡·¿ªÊ¼Õ÷¶©
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ð¡×ÊÉú»î×ªÕÛµã
 ¸ÐÊÜÁé¶¯Âí×Ô´ï2
 [ÊÔ¼Ý]£º½¼Ò°ÖÐµÄ³ÇÊÐÐ¡×Ó
@@ -47576,9 +45817,7 @@ R35
 ¡¤±ð¿Ë
 ³µÊÐ×¨Òµ¹ËÎÊ
 ¸ü¶à
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Áõ»Ô
 ½­»´£¨Èð·çÈðÓ¥£©
 ±±¾©ÐÂ³µ¹ËÎÊ
@@ -47639,96 +45878,70 @@ encoding="gb2312"?>
 ÓÑÇéÁ´½Ó
 ¸ü¶à
 À¸Ä¿ºÏ×÷
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 265ÉÏÍøµ¼º½
 Æû³µÓëÔË¶¯
 ÖÐ¹úÐÅÏ¢Íø
 ÖÐ¹ú¾«²ÊÍøÖ·
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÖÐ½øÆûÃ³
 ¶þÊÖ³µ
 Æû³µÂÛÌ³
 ¸ßÇåÎúÆû³µÍ¼
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÁªºÏÆû³µÍø
 Æû³µÐÂÎÅ
 865ÉÏÍøµ¼º½
 ±±ÇàÍø-Æû³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÐÂ³µ±¨¼Û
 Æû³µ»­±¨
 ÓÐ³µÒ»×å
 ¼ÛÖµÖÐ¹úÍø
 Êý¾ÝÓÉ±¾Õ¾Ìá¹©
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÐÂÀË-Æû³µ
 TOM-Æû³µ
 ¾­¼ÃÍø-Æû³µ
 ÖÐ¹ãÍø-Æû³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÐÂ»ªÍø-Æû³µ
 ÖÐ»ªÍø-Æû³µ
 Ç§Áú-Æû³µ
 ´óÑóÍø-Æû³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÑÅ»¢-Æû³µ
 ºÍÑ¶-Æû³µ
 ¹ãÖÝÊÓ´°
 °¢Àï°Í°Í
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÍøÒ×-Æû³µ
 »Û´Ï-Æû³µ
 ¹ú¼ÊÔÚÏß
 ½ðÈÚ½ç-Æû³µ
 ÓÑÇéÁ´½Ó
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÈËÃñÍø-Æû³µ
 ÌÚÑ¶-Æû³µ
 ÖÐ¹úÆû³µÍø
 21ÊÀ¼Í·¿³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±±·½Íø-Æû³µ
 21cn-Æû³µ
 Ô½Ò°E×å
 Æû³µÌ½Ë÷
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÄÏ·½Íø-Æû³µ
 ÖÐ¹úÆû³µÍøÈº
 Ð¡Çø
 Æû³µÍø
 Ã¨ÆËÆû³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ËÑºü-Æû³µ
 Æû³µÍ¼Êé×ÊÁÏ
 Æû³µÖ®¼Ò
 Çå·ç³µÓ°Æû³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¾©-»¦-½ò-¹ãÖÝ-Îäºº-ÉîÛÚ-É½¶«-É½Î÷-Õã½­-½­ËÕ-¸£½¨-ÁÉÄþ-ºÓÄÏ-ÉÂÎ÷-ºÓ±±-ºþÄÏ-ºÚÁú½­-ÄÚÃÉ¹Å-ÔÆÄÏ-ËÄ´¨-ÖØÇì-¹ãÎ÷-½­Î÷-ÐÂ½®-¼ªÁÖ-¹óÖÝ-¸ÊËà-ÄþÏÄ-°²»Õ-º£ÄÏ-Î÷²Ø-Çàº£-
 ¹ØÓÚÍøÉÏ³µÊÐ|·þÎñÒµÎñ|ÎÊÓë´ð|ÕÐÆ¸ÐÅÏ¢|ÁªÏµ·½Ê½|ÓÑÇéÁ´½Ó
 Copyright
@@ -47810,91 +46023,67 @@ http://www.cheshi.com.cn/zouter/hd/document/20071123/2007112301.rar
 Ïà¹ØÎÄÕÂ
 ÈÈµã³µÐÍ
 ¾­¼ÃÐÍ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÏÖ´ú-ÑÅÉðÌØ
 ÁåÄ¾SX4ÌìÓï
 ÈÕ²ú-æêÍþ
 ³¤°²-±¼±¼
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁúC2
 ±¾Ìï-Ë¼µÏ
 ÆðÑÇ
 RIO
 º£Âí-º£¸£ÐÇ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©·ðÀ¼-ÀÖ·ç
 ·áÌï-Íþ³Û
 ÁåÄ¾-ÓêÑà
 ÆæÈð
 QQ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±êÖÂ206
 polo¾¢Çé
 ´óÖÚ-½Ý´ï
 ±¾Ìï-·É¶È
 ÖÐµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÅÁÈøÌØ-ÁìÔ¦
 ±¾Ìï-ÑÅ¸ó
 ·áÌï-¿­ÃÀÈð
 Âí×Ô´ï
 6
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±ð¿Ë-¾ýÔ½
 ´óÖÚ-ÂõÌÚ
 ÈÕ²ú-Ììô¥
 MGÃû¾ô
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¸£ÌØ-¸£¿ËË¹
 ·áÌï-ÈñÖ¾
 Ñ©·ðÀ¼-¾°³Ì
 ÏÖ´ú-Í¾Ê¤
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁú-¿­Ðý
 ±¾ÌïCR-V
 ÈýÁâ-¸êÀ¶
 ÉÏÆû-ÈÙÍþ
 ¸ßµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 °ÂµÏA6
 À×¿ËÈøË¹GS
 ¿­µÏÀ­¿ËCTS
 ÎÖ¶ûÎÖXC90
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¦Âí5Ïµ
 ÃÔÄãMini
 ´óÖÚ-Í¾Èñ
 ±¦Âí3Ïµ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¼³ÛEÏµ
 Â·»¢-ÉñÐÐÕß2
 ±£Ê±½Ý-¿¨Ñç
 °ÂµÏA4
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÁÖÒñ´óµÀ
 300C
 Ó¢·ÆÄáµÏ
@@ -48061,91 +46250,67 @@ X
 Ïà¹ØÎÄÕÂ
 ÈÈµã³µÐÍ
 ¾­¼ÃÐÍ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÏÖ´ú-ÑÅÉðÌØ
 ÁåÄ¾SX4ÌìÓï
 ÈÕ²ú-æêÍþ
 ³¤°²-±¼±¼
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁúC2
 ±¾Ìï-Ë¼µÏ
 ÆðÑÇ
 RIO
 º£Âí-º£¸£ÐÇ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©·ðÀ¼-ÀÖ·ç
 ·áÌï-Íþ³Û
 ÁåÄ¾-ÓêÑà
 ÆæÈð
 QQ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±êÖÂ206
 polo¾¢Çé
 ´óÖÚ-½Ý´ï
 ±¾Ìï-·É¶È
 ÖÐµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÅÁÈøÌØ-ÁìÔ¦
 ±¾Ìï-ÑÅ¸ó
 ·áÌï-¿­ÃÀÈð
 Âí×Ô´ï
 6
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±ð¿Ë-¾ýÔ½
 ´óÖÚ-ÂõÌÚ
 ÈÕ²ú-Ììô¥
 MGÃû¾ô
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¸£ÌØ-¸£¿ËË¹
 ·áÌï-ÈñÖ¾
 Ñ©·ðÀ¼-¾°³Ì
 ÏÖ´ú-Í¾Ê¤
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁú-¿­Ðý
 ±¾ÌïCR-V
 ÈýÁâ-¸êÀ¶
 ÉÏÆû-ÈÙÍþ
 ¸ßµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 °ÂµÏA6
 À×¿ËÈøË¹GS
 ¿­µÏÀ­¿ËCTS
 ÎÖ¶ûÎÖXC90
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¦Âí5Ïµ
 ÃÔÄãMini
 ´óÖÚ-Í¾Èñ
 ±¦Âí3Ïµ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¼³ÛEÏµ
 Â·»¢-ÉñÐÐÕß2
 ±£Ê±½Ý-¿¨Ñç
 °ÂµÏA4
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÁÖÒñ´óµÀ
 300C
 Ó¢·ÆÄáµÏ
@@ -48223,91 +46388,67 @@ Cross°æ
 Ïà¹ØÎÄÕÂ
 ÈÈµã³µÐÍ
 ¾­¼ÃÐÍ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÏÖ´ú-ÑÅÉðÌØ
 ÁåÄ¾SX4ÌìÓï
 ÈÕ²ú-æêÍþ
 ³¤°²-±¼±¼
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁúC2
 ±¾Ìï-Ë¼µÏ
 ÆðÑÇ
 RIO
 º£Âí-º£¸£ÐÇ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©·ðÀ¼-ÀÖ·ç
 ·áÌï-Íþ³Û
 ÁåÄ¾-ÓêÑà
 ÆæÈð
 QQ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±êÖÂ206
 polo¾¢Çé
 ´óÖÚ-½Ý´ï
 ±¾Ìï-·É¶È
 ÖÐµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÅÁÈøÌØ-ÁìÔ¦
 ±¾Ìï-ÑÅ¸ó
 ·áÌï-¿­ÃÀÈð
 Âí×Ô´ï
 6
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±ð¿Ë-¾ýÔ½
 ´óÖÚ-ÂõÌÚ
 ÈÕ²ú-Ììô¥
 MGÃû¾ô
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¸£ÌØ-¸£¿ËË¹
 ·áÌï-ÈñÖ¾
 Ñ©·ðÀ¼-¾°³Ì
 ÏÖ´ú-Í¾Ê¤
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁú-¿­Ðý
 ±¾ÌïCR-V
 ÈýÁâ-¸êÀ¶
 ÉÏÆû-ÈÙÍþ
 ¸ßµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 °ÂµÏA6
 À×¿ËÈøË¹GS
 ¿­µÏÀ­¿ËCTS
 ÎÖ¶ûÎÖXC90
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¦Âí5Ïµ
 ÃÔÄãMini
 ´óÖÚ-Í¾Èñ
 ±¦Âí3Ïµ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¼³ÛEÏµ
 Â·»¢-ÉñÐÐÕß2
 ±£Ê±½Ý-¿¨Ñç
 °ÂµÏA4
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÁÖÒñ´óµÀ
 300C
 Ó¢·ÆÄáµÏ
@@ -48382,91 +46523,67 @@ Email:service@cheshi.com.cn
 Ïà¹ØÎÄÕÂ
 ÈÈµã³µÐÍ
 ¾­¼ÃÐÍ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÏÖ´ú-ÑÅÉðÌØ
 ÁåÄ¾SX4ÌìÓï
 ÈÕ²ú-æêÍþ
 ³¤°²-±¼±¼
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁúC2
 ±¾Ìï-Ë¼µÏ
 ÆðÑÇ
 RIO
 º£Âí-º£¸£ÐÇ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©·ðÀ¼-ÀÖ·ç
 ·áÌï-Íþ³Û
 ÁåÄ¾-ÓêÑà
 ÆæÈð
 QQ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±êÖÂ206
 polo¾¢Çé
 ´óÖÚ-½Ý´ï
 ±¾Ìï-·É¶È
 ÖÐµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÅÁÈøÌØ-ÁìÔ¦
 ±¾Ìï-ÑÅ¸ó
 ·áÌï-¿­ÃÀÈð
 Âí×Ô´ï
 6
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±ð¿Ë-¾ýÔ½
 ´óÖÚ-ÂõÌÚ
 ÈÕ²ú-Ììô¥
 MGÃû¾ô
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¸£ÌØ-¸£¿ËË¹
 ·áÌï-ÈñÖ¾
 Ñ©·ðÀ¼-¾°³Ì
 ÏÖ´ú-Í¾Ê¤
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁú-¿­Ðý
 ±¾ÌïCR-V
 ÈýÁâ-¸êÀ¶
 ÉÏÆû-ÈÙÍþ
 ¸ßµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 °ÂµÏA6
 À×¿ËÈøË¹GS
 ¿­µÏÀ­¿ËCTS
 ÎÖ¶ûÎÖXC90
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¦Âí5Ïµ
 ÃÔÄãMini
 ´óÖÚ-Í¾Èñ
 ±¦Âí3Ïµ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¼³ÛEÏµ
 Â·»¢-ÉñÐÐÕß2
 ±£Ê±½Ý-¿¨Ñç
 °ÂµÏA4
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÁÖÒñ´óµÀ
 300C
 Ó¢·ÆÄáµÏ
@@ -48546,91 +46663,67 @@ AMG½ÓÊÜÔ¤
 Ïà¹ØÎÄÕÂ
 ÈÈµã³µÐÍ
 ¾­¼ÃÐÍ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÏÖ´ú-ÑÅÉðÌØ
 ÁåÄ¾SX4ÌìÓï
 ÈÕ²ú-æêÍþ
 ³¤°²-±¼±¼
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁúC2
 ±¾Ìï-Ë¼µÏ
 ÆðÑÇ
 RIO
 º£Âí-º£¸£ÐÇ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©·ðÀ¼-ÀÖ·ç
 ·áÌï-Íþ³Û
 ÁåÄ¾-ÓêÑà
 ÆæÈð
 QQ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±êÖÂ206
 polo¾¢Çé
 ´óÖÚ-½Ý´ï
 ±¾Ìï-·É¶È
 ÖÐµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÅÁÈøÌØ-ÁìÔ¦
 ±¾Ìï-ÑÅ¸ó
 ·áÌï-¿­ÃÀÈð
 Âí×Ô´ï
 6
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±ð¿Ë-¾ýÔ½
 ´óÖÚ-ÂõÌÚ
 ÈÕ²ú-Ììô¥
 MGÃû¾ô
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¸£ÌØ-¸£¿ËË¹
 ·áÌï-ÈñÖ¾
 Ñ©·ðÀ¼-¾°³Ì
 ÏÖ´ú-Í¾Ê¤
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁú-¿­Ðý
 ±¾ÌïCR-V
 ÈýÁâ-¸êÀ¶
 ÉÏÆû-ÈÙÍþ
 ¸ßµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 °ÂµÏA6
 À×¿ËÈøË¹GS
 ¿­µÏÀ­¿ËCTS
 ÎÖ¶ûÎÖXC90
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¦Âí5Ïµ
 ÃÔÄãMini
 ´óÖÚ-Í¾Èñ
 ±¦Âí3Ïµ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¼³ÛEÏµ
 Â·»¢-ÉñÐÐÕß2
 ±£Ê±½Ý-¿¨Ñç
 °ÂµÏA4
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÁÖÒñ´óµÀ
 300C
 Ó¢·ÆÄáµÏ
@@ -48720,91 +46813,67 @@ Email:service@cheshi.com.cn
 Ïà¹ØÎÄÕÂ
 ÈÈµã³µÐÍ
 ¾­¼ÃÐÍ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÏÖ´ú-ÑÅÉðÌØ
 ÁåÄ¾SX4ÌìÓï
 ÈÕ²ú-æêÍþ
 ³¤°²-±¼±¼
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁúC2
 ±¾Ìï-Ë¼µÏ
 ÆðÑÇ
 RIO
 º£Âí-º£¸£ÐÇ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©·ðÀ¼-ÀÖ·ç
 ·áÌï-Íþ³Û
 ÁåÄ¾-ÓêÑà
 ÆæÈð
 QQ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±êÖÂ206
 polo¾¢Çé
 ´óÖÚ-½Ý´ï
 ±¾Ìï-·É¶È
 ÖÐµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÅÁÈøÌØ-ÁìÔ¦
 ±¾Ìï-ÑÅ¸ó
 ·áÌï-¿­ÃÀÈð
 Âí×Ô´ï
 6
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±ð¿Ë-¾ýÔ½
 ´óÖÚ-ÂõÌÚ
 ÈÕ²ú-Ììô¥
 MGÃû¾ô
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¸£ÌØ-¸£¿ËË¹
 ·áÌï-ÈñÖ¾
 Ñ©·ðÀ¼-¾°³Ì
 ÏÖ´ú-Í¾Ê¤
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁú-¿­Ðý
 ±¾ÌïCR-V
 ÈýÁâ-¸êÀ¶
 ÉÏÆû-ÈÙÍþ
 ¸ßµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 °ÂµÏA6
 À×¿ËÈøË¹GS
 ¿­µÏÀ­¿ËCTS
 ÎÖ¶ûÎÖXC90
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¦Âí5Ïµ
 ÃÔÄãMini
 ´óÖÚ-Í¾Èñ
 ±¦Âí3Ïµ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¼³ÛEÏµ
 Â·»¢-ÉñÐÐÕß2
 ±£Ê±½Ý-¿¨Ñç
 °ÂµÏA4
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÁÖÒñ´óµÀ
 300C
 Ó¢·ÆÄáµÏ
@@ -48837,19 +46906,11 @@ A¼¶³µ½ñÄê6ÔÂÉÏÊÐ
 ²é¿´ÆÀÂÛ
 ·¢±íÆÀÂÛ
 ·áÌï
-[
-±¨¼Û
-]
-[
-¶þÊÖ]
-[
-×âÁÞ]
-[
-Î¬ÐÞ
-]
-[
-ÁÄÁÄ
-]
+[ ±¨¼Û ]
+[  ¶þÊÖ]
+[ ×âÁÞ]
+[ Î¬ÐÞ ]
+[  ÁÄÁÄ ]
 ·áÌï¸ü¶à±¨µÀ...
 [ÐÂ³µ]£ºÉñÁúÆû³µ20¿î³µÐÍ½«Í¶²ú
 08Äê5¿îÐÂ³µÒ»ÀÀ
@@ -48883,25 +46944,16 @@ B¼¶³µ09ÄêÍÆ³ö
 ÐÛÓ¥£¨EAGLE£©¡±¸ÅÄî³µ
 ËäÈ»½­»´ÔÚÐÂÆ·¼Æ»®ÀïÃ»ÓÐÌá¼°SUVÏîÄ¿£¬µ«È¥ÄêSUV³µÐÍÈÈÏú£¬½«¼ÓËÙ½­»´SUVÐÂÆ·µÄÑÐ·¢ËÙ¶È£¬Ê¹ÈðÓ¥²»ÔÙ¹Â¾ü·ÜÕ½¡£±±¾©³µÕ¹ÉÏÁÁÏàµÄ¡°ÐÛÓ¥£¨EAGLE£©¡±¸ÅÄî³µ×ÔÈ»ÊÇÐÂÆ·Ö®Ò»£¬½­»´ÐÛÓ¥ÓÉÒâ´óÀûºÍÈÕ±¾Éè¼Æ´óÊ¦Í¨Á¦ºÏ×÷£¬Ð¯ÊÖÍê³ÉµÄ¡£¸Ã³µÉè¼Æ´ÓÖÐ¹úµÄÏ·¾çºÍÖÐ¹úµÄ´«Í³½¨ÖþÖÐÊÜµ½Æô·¢£¬Í¨¹ýÇ¿´ÖÏßÌõµÄÓÐ»ú±íÏÖÐÎÊ½½«ÖÐ¹úÔªËØÈÚÈëµ½ÐÛÓ¥µÄÉè¼ÆÖÐ¡£
 ÐÛÓ¥£¨EAGLE£©¡±¸ÅÄî³µ
-ËäÈ»Õâ´Î±öÔÃÅúÁ¿ÏÂÏß£¬½­»´Ã»ÓÐ¹«²¼ÏúÁ¿Ä¿±ê¡£µ«×÷Îª½­»´µÄÊ×¿î½Î³µ£¬±öÔÃÉíÉÏµÄµ£×Ó×ÔÈ»ºÜÖØ£¬ËüµÄÏúÁ¿²»½ö¹ØÏµµ½½­»´³ËÓÃ³µÏîÄ¿µÄÎ´À´£¬Ò²½«¹ØÏµµ½½­»´Æû³µµÄÎ´À´£¡£¨±à¼­
-Íõè÷ÒÙ£©
+ËäÈ»Õâ´Î±öÔÃÅúÁ¿ÏÂÏß£¬½­»´Ã»ÓÐ¹«²¼ÏúÁ¿Ä¿±ê¡£µ«×÷Îª½­»´µÄÊ×¿î½Î³µ£¬±öÔÃÉíÉÏµÄµ£×Ó×ÔÈ»ºÜÖØ£¬ËüµÄÏúÁ¿²»½ö¹ØÏµµ½½­»´³ËÓÃ³µÏîÄ¿µÄÎ´À´£¬Ò²½«¹ØÏµµ½½­»´Æû³µµÄÎ´À´£¡£¨±à¼­ Íõè÷ÒÙ£©
 [µÚ1Ò³]
 ²é¿´ÆÀÂÛ
 ·¢±íÆÀÂÛ
 ·áÌï
-[
-±¨¼Û
-]
-[
-¶þÊÖ]
-[
-×âÁÞ]
-[
-Î¬ÐÞ
-]
-[
-ÁÄÁÄ
-]
+[ ±¨¼Û ]
+[  ¶þÊÖ]
+[ ×âÁÞ]
+[ Î¬ÐÞ ]
+[  ÁÄÁÄ ]
 ·áÌï¸ü¶à±¨µÀ...
 ³µÊÐ¹¤¾ßÏä
 ³µÐÍËÑË÷
@@ -48944,91 +46996,67 @@ B¼¶³µ09ÄêÍÆ³ö
 2008-1-14
 ÈÈµã³µÐÍ
 ¾­¼ÃÐÍ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÏÖ´ú-ÑÅÉðÌØ
 ÁåÄ¾SX4ÌìÓï
 ÈÕ²ú-æêÍþ
 ³¤°²-±¼±¼
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁúC2
 ±¾Ìï-Ë¼µÏ
 ÆðÑÇ
 RIO
 º£Âí-º£¸£ÐÇ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©·ðÀ¼-ÀÖ·ç
 ·áÌï-Íþ³Û
 ÁåÄ¾-ÓêÑà
 ÆæÈð
 QQ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±êÖÂ206
 polo¾¢Çé
 ´óÖÚ-½Ý´ï
 ±¾Ìï-·É¶È
 ÖÐµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÅÁÈøÌØ-ÁìÔ¦
 ±¾Ìï-ÑÅ¸ó
 ·áÌï-¿­ÃÀÈð
 Âí×Ô´ï
 6
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±ð¿Ë-¾ýÔ½
 ´óÖÚ-ÂõÌÚ
 ÈÕ²ú-Ììô¥
 MGÃû¾ô
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¸£ÌØ-¸£¿ËË¹
 ·áÌï-ÈñÖ¾
 Ñ©·ðÀ¼-¾°³Ì
 ÏÖ´ú-Í¾Ê¤
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁú-¿­Ðý
 ±¾ÌïCR-V
 ÈýÁâ-¸êÀ¶
 ÉÏÆû-ÈÙÍþ
 ¸ßµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 °ÂµÏA6
 À×¿ËÈøË¹GS
 ¿­µÏÀ­¿ËCTS
 ÎÖ¶ûÎÖXC90
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¦Âí5Ïµ
 ÃÔÄãMini
 ´óÖÚ-Í¾Èñ
 ±¦Âí3Ïµ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¼³ÛEÏµ
 Â·»¢-ÉñÐÐÕß2
 ±£Ê±½Ý-¿¨Ñç
 °ÂµÏA4
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÁÖÒñ´óµÀ
 300C
 Ó¢·ÆÄáµÏ
@@ -49061,49 +47089,25 @@ Email:service@cheshi.com.cn
 ²é¿´ÆÀÂÛ
 ·¢±íÆÀÂÛ
 ±ð¿Ë
-[
-±¨¼Û
-]
-[
-¶þÊÖ]
-[
-×âÁÞ]
-[
-Î¬ÐÞ
-]
-[
-ÁÄÁÄ
-]
+[ ±¨¼Û ]
+[  ¶þÊÖ]
+[ ×âÁÞ]
+[ Î¬ÐÞ ]
+[  ÁÄÁÄ ]
 ±ð¿Ë¸ü¶à±¨µÀ...
 ¿­µÏÀ­¿Ë
-[
-±¨¼Û
-]
-[
-¶þÊÖ]
-[
-×âÁÞ]
-[
-Î¬ÐÞ
-]
-[
-ÁÄÁÄ
-]
+[ ±¨¼Û ]
+[  ¶þÊÖ]
+[ ×âÁÞ]
+[ Î¬ÐÞ ]
+[  ÁÄÁÄ ]
 ¿­µÏÀ­¿Ë¸ü¶à±¨µÀ...
 Ñ©·ðÀ¼
-[
-±¨¼Û
-]
-[
-¶þÊÖ]
-[
-×âÁÞ]
-[
-Î¬ÐÞ
-]
-[
-ÁÄÁÄ
-]
+[ ±¨¼Û ]
+[  ¶þÊÖ]
+[ ×âÁÞ]
+[ Î¬ÐÞ ]
+[  ÁÄÁÄ ]
 Ñ©·ðÀ¼¸ü¶à±¨µÀ...
 [ÐÂ³µ]£ºÉÏº£Í¨ÓÃ4¿î»·±£³µ08ÄêÉÏÊÐ
 ×î¸ßÓÍºÄ½ÚÊ¡50%
@@ -49135,9 +47139,7 @@ Email:service@cheshi.com.cn
 Ó¦ÓÃ³µÐÍ£º±ð¿ËÁÖÒñ´óµÀ
 ¿­µÏÀ­¿ËSLS
 ×ÛºÏÓÍºÄ£ºÏÂ½µ3%ÒÔÉÏ
-<¿­µÏÀ­¿ËSLS
--³µÐÍ±¨¼Û>--<¿­µÏÀ­¿ËSLS
--ÊµÅÄÍ¼Æ¬>
+<¿­µÏÀ­¿ËSLS -³µÐÍ±¨¼Û>--<¿­µÏÀ­¿ËSLS -ÊµÅÄÍ¼Æ¬>
 Ê¹ÓÃHFV6
 3.6L
 SIDI
@@ -49148,55 +47150,30 @@ SIDI
 <¿­µÏÀ­¿Ë¿­À×µÂ-³µÐÍ±¨¼Û>--<¿­µÏÀ­¿Ë¿­À×µÂ-ÊµÅÄÍ¼Æ¬>
 Ãæ¶ÔÈ«Çò¶ÔÓÚ´óÅÅÁ¿SUV»·±£¼õÅÅÔ½À´Ô½¸ßµÄºôÉù£¬Ä¿Ç°¹úÄÚÏúÊÛµÄ×î´óÅÅÁ¿SUV¿­µÏÀ­¿Ë¿­À×µÂ¿ÉÒÔËµ¼±ÐèÕâÑùÒ»¿î¸ü¼Ó¸ßÐ§¡¢»·±£µÄÒýÇæ¡£¡°2-Mode¡±HybridË«Ä£»ìºÏ¶¯Á¦ÒýÇæÔÚ³ä·ÖÂú×ãÏû·ÑÕß¶Ô¶¯Á¦ÐÔÄÜ×·ÇóµÄÍ¬Ê±£¬ÓÍºÄ¸ü¿ÉÒÔÏÂ½µ50%Ö®¶à£¬´Ó¶ø³ä·ÖÕ¹ÏÖ¼â¶Ë¿Æ¼¼ÔÚ¡°¸üºÃÐÔÄÜ£¬¸üµÍÄÜºÄ£¬¸üÉÙÅÅ·Å¡±·½Ãæ×ö³öµÄÅ¬Á¦¡£
 Ò»Ö±ÒÔÀ´ÅÓ´ó¶øÊæÊÊµÄÃÀ¹ú³µ¶¼±»¹úÄÚÊÓÎª¸ßÓÍºÄµÄ´úÃû´Ê£¬²»¹ýËæ×ÅÉÏº£Í¨ÓÃ½üÄêÀ´²»¶ÏµÄÅ¬Á¦£¬¸ßÓÍºÄÒÑ¾­²»ÔÙÊÇÈËÃÇÈÈÒéµÄ»°Ìâ¡£ÏàÐÅËæ×Å»ìºÏ¶¯Á¦µÈ»·±£¼¼ÊõµÄ²»¶ÏÍêÉÆ£¬½ñºóÀ´×ÔÉÏº£Í¨ÓÃµÄ»ìºÏ¶¯Á¦³µÐÍ½«Ô½À´Ô½¶àµÄ³öÏÖÔÚÎÒÃÇÉí±ß¡£¶øÓµÓÐÒ»Ì¨Hybrid»ìºÏ¶¯Á¦³µ½«²»ÔÙÀ§ÄÑ¡£
-(±à¼­
-½ð³¬)
+(±à¼­ ½ð³¬)
 [µÚ1Ò³]
 ²é¿´ÆÀÂÛ
 ·¢±íÆÀÂÛ
 ±ð¿Ë
-[
-±¨¼Û
-]
-[
-¶þÊÖ]
-[
-×âÁÞ]
-[
-Î¬ÐÞ
-]
-[
-ÁÄÁÄ
-]
+[ ±¨¼Û ]
+[  ¶þÊÖ]
+[ ×âÁÞ]
+[ Î¬ÐÞ ]
+[  ÁÄÁÄ ]
 ±ð¿Ë¸ü¶à±¨µÀ...
 ¿­µÏÀ­¿Ë
-[
-±¨¼Û
-]
-[
-¶þÊÖ]
-[
-×âÁÞ]
-[
-Î¬ÐÞ
-]
-[
-ÁÄÁÄ
-]
+[ ±¨¼Û ]
+[  ¶þÊÖ]
+[ ×âÁÞ]
+[ Î¬ÐÞ ]
+[  ÁÄÁÄ ]
 ¿­µÏÀ­¿Ë¸ü¶à±¨µÀ...
 Ñ©·ðÀ¼
-[
-±¨¼Û
-]
-[
-¶þÊÖ]
-[
-×âÁÞ]
-[
-Î¬ÐÞ
-]
-[
-ÁÄÁÄ
-]
+[ ±¨¼Û ]
+[  ¶þÊÖ]
+[ ×âÁÞ]
+[ Î¬ÐÞ ]
+[  ÁÄÁÄ ]
 Ñ©·ðÀ¼¸ü¶à±¨µÀ...
 ³µÊÐ¹¤¾ßÏä
 ³µÐÍËÑË÷
@@ -49241,91 +47218,67 @@ SIDI
 2007-12-21
 ÈÈµã³µÐÍ
 ¾­¼ÃÐÍ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÏÖ´ú-ÑÅÉðÌØ
 ÁåÄ¾SX4ÌìÓï
 ÈÕ²ú-æêÍþ
 ³¤°²-±¼±¼
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁúC2
 ±¾Ìï-Ë¼µÏ
 ÆðÑÇ
 RIO
 º£Âí-º£¸£ÐÇ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©·ðÀ¼-ÀÖ·ç
 ·áÌï-Íþ³Û
 ÁåÄ¾-ÓêÑà
 ÆæÈð
 QQ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±êÖÂ206
 polo¾¢Çé
 ´óÖÚ-½Ý´ï
 ±¾Ìï-·É¶È
 ÖÐµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÅÁÈøÌØ-ÁìÔ¦
 ±¾Ìï-ÑÅ¸ó
 ·áÌï-¿­ÃÀÈð
 Âí×Ô´ï
 6
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±ð¿Ë-¾ýÔ½
 ´óÖÚ-ÂõÌÚ
 ÈÕ²ú-Ììô¥
 MGÃû¾ô
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¸£ÌØ-¸£¿ËË¹
 ·áÌï-ÈñÖ¾
 Ñ©·ðÀ¼-¾°³Ì
 ÏÖ´ú-Í¾Ê¤
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁú-¿­Ðý
 ±¾ÌïCR-V
 ÈýÁâ-¸êÀ¶
 ÉÏÆû-ÈÙÍþ
 ¸ßµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 °ÂµÏA6
 À×¿ËÈøË¹GS
 ¿­µÏÀ­¿ËCTS
 ÎÖ¶ûÎÖXC90
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¦Âí5Ïµ
 ÃÔÄãMini
 ´óÖÚ-Í¾Èñ
 ±¦Âí3Ïµ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¼³ÛEÏµ
 Â·»¢-ÉñÐÐÕß2
 ±£Ê±½Ý-¿¨Ñç
 °ÂµÏA4
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÁÖÒñ´óµÀ
 300C
 Ó¢·ÆÄáµÏ
@@ -49358,19 +47311,11 @@ Email:service@cheshi.com.cn
 ²é¿´ÆÀÂÛ
 ·¢±íÆÀÂÛ
 ¶«·ç±êÖÂ
-[
-±¨¼Û
-]
-[
-¶þÊÖ]
-[
-×âÁÞ]
-[
-Î¬ÐÞ
-]
-[
-ÁÄÁÄ
-]
+[ ±¨¼Û ]
+[  ¶þÊÖ]
+[ ×âÁÞ]
+[ Î¬ÐÞ ]
+[  ÁÄÁÄ ]
 ¶«·ç±êÖÂ¸ü¶à±¨µÀ...
 [ÐÂ³µ]£º¹ú²úË¹¿Â´ï-·¨±ÈÑÇ9ÔÂÉÏÊÐ
 ÊÛ¼ÛµÍÓÚPOLO¾¢Çé
@@ -49388,25 +47333,16 @@ Email:service@cheshi.com.cn
 ¹ú²úÁ½Ïá307µÄÇ°Á³ÓëÈýÏá³µÐÍÃ»ÓÐÊ²Ã´Çø±ð£¬¶¼²ÉÓÃÁËÐÂ307
 ¡°´ó×ì¡±¸ñÕ¤Ê½µÄ¼Ò×åÁ³Æ×£¬²¢ÅäÒÔ¶Æ¸õÊÎÌõ£¬ÖÐ¼äµÄ´óºÅ±êÖÂÊ¨ÍõLOGO±»µ¥¶À°²ÖÃÔÚÁË½øÆø¸ñÕ¤µÄÉÏ·½£¬ÓÃÒÔÇ¿»¯Æ·ÅÆÆøÏ¢¡£Á½Ïá307µÄÓÅÊÆÊÇËüµÄÇ°ÓëÊÐÃæÉÏµÄÆäËüÁ½Ïá³µ¶ÔÊÖÓÐ×ÅºÜ´óµÄÇø±ð£¬Ò²Ê¹Õâ¿î³µµÄ·ç¸ñ¸üÎªÑô¸Õ¡£´ËÍâ£¬´óÇã¶ÈµÄ·¢¶¯»ú²Õ¸ÇºÍÇ°·çµ²¼¸ºõÁ¬µ½ÁËÒ»Æð£¬Ôö¼ÓÁË·çµ²²£Á§µÄÃæ»ý£¬¼´Ê¹Ã»ÓÐÌì´°£¬³µÄÚµÄ¹âÏßÒ²·Ç³£Í¨Í¸¡£
 Õâ¿îÐÂ³µµÄÎ²²¿Éè¼ÆÓë±êÖÂ206ºÜ¶àÏàËÆÖ®´¦£¬µ«ÊÇ×ÐÏ¸¶Ô±ÈÏ¸½Ú£¬Õâ¿îÁ½Ïá307»¹ÊÇÓÐÒ»¶¨µÄÇø±ð¡£Ê×ÏÈ£¬ÕâÁ½¿î³µºóÅÆÕÕµÄÎ»ÖÃ²»Í¬£¬Á½Ïá307µÄºóÅÆÕÕ°åÊÇÉè¼ÆÔÚºó±£ÏÕ¸ËÉÏ£¬¶ø206µÄºóÅÆÕÕ°åÎ»ÖÃÔòÔÚºóÏÆ±³ÃÅÉÏ¡£Æä´Î£¬Á½¿î³µµÄ±êÖÂÊ¨×ÓÎ»ÖÃ²»Ò»Ñù£¬Á½Ïá307µÄÊ¨±êÉè¼ÆÔÚÁË×ªÕÛÏßÉÏ£¬²¢ÇÒÕâÁ¾Á½Ïá307µÄºóÃæÊ¨±êÏÂ»¹¼ÓÁËÒ»ÐÐpeugeotµÄÓ¢ÎÄ¡£²»¹ý¶Ô±È³öÀ´£¬Á½Ïá307µÄÎ²²¿Éè¼Æ½Ï206¸ü¼Ó¼ò½à£¬¸ü¼Ó¾ßÓÐÔË¶¯ÆøÏ¢¡£
-Ëæ×Å¶«·ç±êÖÂÁ½Ïá307ÉÏÊÐÈÕÆÚµÄÈÕÒæÁÙ½ü£¬¹úÄÚÁ½Ïá³µÐÍ³ËÓÃ³µÊÐ³¡¼äµÄ¾ºÕùÒ²½«ÓúÑÝÓúÁÒ¡£¶«·ç±êÖÂ¼ÌÈýÏá307ºóÍÆ³öµÄÁ½Ïá°æ£¬ÄÜ·ñ²©µÃÐèÇóÈÕÇ÷¶àÑù»¯µÄÏû·ÑÕßµÄ·¼ÐÄ£¬»¹Òª¿´ÆäÉÏÊÐºóµÄ±íÏÖÓëÏû·ÑÕßµÄÑ¡Ôñ£¬ÎÒÃÇÊÃÄ¿ÒÔ´ý¡££¨±à¼­
-ÈÎÎ°£©
+Ëæ×Å¶«·ç±êÖÂÁ½Ïá307ÉÏÊÐÈÕÆÚµÄÈÕÒæÁÙ½ü£¬¹úÄÚÁ½Ïá³µÐÍ³ËÓÃ³µÊÐ³¡¼äµÄ¾ºÕùÒ²½«ÓúÑÝÓúÁÒ¡£¶«·ç±êÖÂ¼ÌÈýÏá307ºóÍÆ³öµÄÁ½Ïá°æ£¬ÄÜ·ñ²©µÃÐèÇóÈÕÇ÷¶àÑù»¯µÄÏû·ÑÕßµÄ·¼ÐÄ£¬»¹Òª¿´ÆäÉÏÊÐºóµÄ±íÏÖÓëÏû·ÑÕßµÄÑ¡Ôñ£¬ÎÒÃÇÊÃÄ¿ÒÔ´ý¡££¨±à¼­ ÈÎÎ°£©
 [µÚ1Ò³]
 ²é¿´ÆÀÂÛ
 ·¢±íÆÀÂÛ
 ¶«·ç±êÖÂ
-[
-±¨¼Û
-]
-[
-¶þÊÖ]
-[
-×âÁÞ]
-[
-Î¬ÐÞ
-]
-[
-ÁÄÁÄ
-]
+[ ±¨¼Û ]
+[  ¶þÊÖ]
+[ ×âÁÞ]
+[ Î¬ÐÞ ]
+[  ÁÄÁÄ ]
 ¶«·ç±êÖÂ¸ü¶à±¨µÀ...
 ³µÊÐ¹¤¾ßÏä
 ³µÐÍËÑË÷
@@ -49449,91 +47385,67 @@ Email:service@cheshi.com.cn
 2007-12-24
 ÈÈµã³µÐÍ
 ¾­¼ÃÐÍ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÏÖ´ú-ÑÅÉðÌØ
 ÁåÄ¾SX4ÌìÓï
 ÈÕ²ú-æêÍþ
 ³¤°²-±¼±¼
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁúC2
 ±¾Ìï-Ë¼µÏ
 ÆðÑÇ
 RIO
 º£Âí-º£¸£ÐÇ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©·ðÀ¼-ÀÖ·ç
 ·áÌï-Íþ³Û
 ÁåÄ¾-ÓêÑà
 ÆæÈð
 QQ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±êÖÂ206
 polo¾¢Çé
 ´óÖÚ-½Ý´ï
 ±¾Ìï-·É¶È
 ÖÐµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÅÁÈøÌØ-ÁìÔ¦
 ±¾Ìï-ÑÅ¸ó
 ·áÌï-¿­ÃÀÈð
 Âí×Ô´ï
 6
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±ð¿Ë-¾ýÔ½
 ´óÖÚ-ÂõÌÚ
 ÈÕ²ú-Ììô¥
 MGÃû¾ô
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¸£ÌØ-¸£¿ËË¹
 ·áÌï-ÈñÖ¾
 Ñ©·ðÀ¼-¾°³Ì
 ÏÖ´ú-Í¾Ê¤
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁú-¿­Ðý
 ±¾ÌïCR-V
 ÈýÁâ-¸êÀ¶
 ÉÏÆû-ÈÙÍþ
 ¸ßµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 °ÂµÏA6
 À×¿ËÈøË¹GS
 ¿­µÏÀ­¿ËCTS
 ÎÖ¶ûÎÖXC90
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¦Âí5Ïµ
 ÃÔÄãMini
 ´óÖÚ-Í¾Èñ
 ±¦Âí3Ïµ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¼³ÛEÏµ
 Â·»¢-ÉñÐÐÕß2
 ±£Ê±½Ý-¿¨Ñç
 °ÂµÏA4
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÁÖÒñ´óµÀ
 300C
 Ó¢·ÆÄáµÏ
@@ -49566,19 +47478,11 @@ Email:service@cheshi.com.cn
 ²é¿´ÆÀÂÛ
 ·¢±íÆÀÂÛ
 ¿ËÀ³Ë¹ÀÕ
-[
-±¨¼Û
-]
-[
-¶þÊÖ]
-[
-×âÁÞ]
-[
-Î¬ÐÞ
-]
-[
-ÁÄÁÄ
-]
+[ ±¨¼Û ]
+[  ¶þÊÖ]
+[ ×âÁÞ]
+[ Î¬ÐÞ ]
+[  ÁÄÁÄ ]
 ¿ËÀ³Ë¹ÀÕ¸ü¶à±¨µÀ...
 [ÐÐÒµ]£º±±¾©ÏÖ´ú08ÄêÈý¿îÐÂ³µ½«Í¶²ú
 ×îÔç4ÔÂÍÆ³ö
@@ -49597,25 +47501,16 @@ Email:service@cheshi.com.cn
 ÔÚ×ß·ÃÖÐ¼ÇÕß·¢ÏÖ£¬Ä¿Ç°¿ËÀ³Ë¹ÀÕÊÚÈ¨¾­ÏúÉÌÒÑ¾­¿ªÊ¼½ÓÊÜÏû·ÑÕßµÄÔ¤¶¨£¬¹ØÓÚ¼Û¸ñÏúÊÛÈËÔ±±íÊ¾£ºÄ¿Ç°»¹Ã»ÓÐ×¼È·Êý×Ö£¬µ«³§¼ÒÖ÷ÍÆµÄ2.0ÉýºÍ2.4Éý³µÐÍ×îµÍ¼Û¸ñÓÐ¿ÉÄÜÔÚ20ÍòÔªÒÔÄÚ¡£´ËÍâÏúÊÛÈËÔ±Ò²½¨Òé£º¹ú²ú²¬ÈñµÄÕ¹³µ¼´½«ÔÚ±¾ÔÂµ×Â½Ðøµ½´ïÕ¹Ìü£¬Èç¹û¸ÐÐËÈ¤µÄ»°¿ÉÒÔÏÈ½ÉÄÉÍòÔª×óÓÒµÄ¶¨½ð£¬È»ºóµÈ´ý2ÔÂ28ÈÕÉÏÊÐºó¾Í¿ÉÒÔÂ½ÐøÌá³µÁË¡£
 ²¬ÈñÍâÐÍµÄÉè¼ÆÊÇÒÔ2003ÄêÔÚÈÕÄÚÍß³µÕ¹ÉÏÍÆ³öµÄAirflite¸ÅÄî³µÎª»ù´¡µÄ£¬Í¬Ê±Ò²½áºÏÁË½»²æ»ðÁ¦ºÍ300CµÄÉè¼ÆÔªËØ¡£Òò´ËÔÚÍâ¹ÛÉÏ²¬ÈñÒ»¸ÄÖÐ¼¶½Î³µ¹ýÓÚ´«Í³µÄÔìÐÍ£¬¸øÈËÑÛÇ°Ò»ÁÁµÄ¸Ð¾õ¡£ÄÚ²¿Éè¼Æ²ÉÓÃÁËÈ«ÐÂµÄ¸ÅÄî£¬¶Ô³ÆµÄÒÇ±íÌ¨ÒÔ¼°¹æÔòµÄ¿ØÖÆ°´Å¥£¬Ë³Ó¦ÁËÕâ¸öÊ±´ú¡°¼òµ¥¡±¡¢¡°¸ßÐ§¡±µÄÐèÇó£»ÒÇ±í°åÉÏ¸÷ÏîÖ¸±êÇåÎú¿É¼û¡¢ÖÐ¿ØÃæ°å¸÷°´Å¥ÉìÊÖ¿É¼°£¬²»¹ýÏëÒªÍêÈ«ÊìÏ¤ÕâÐ©°´Å¥ÉÐÐèÒªÒ»Ð©Ê±¼ä¡£¶¯Á¦ÏµÍ³·½Ãæ£¬2.0ÉýºÍ2.4Éý·¢¶¯»ú·Ö±ðÄÜ¹»Ìá¹©115KWºÍ127KWµÄ×î´ó¹¦ÂÊ£¬¶ø2.7ÉýV6·¢¶¯»úÔò¸ü¼ÓÕÃÏÔÃÀÊ½³µµÄ°ÔÆø¡£
 ³§¼Ò·½ÃæÒÑ¾­¹«²¼ÁËÈý¿î²»Í¬ÅÅÁ¿³µÐÍµÄÏêÏ¸Êý¾ÝºÍ´óÖÂÅä±¸£¬¾ßÌåÈçÏÂÍ¼£º
-(±à¼­
-½ð³¬)
+(±à¼­ ½ð³¬)
 [µÚ1Ò³]
 ²é¿´ÆÀÂÛ
 ·¢±íÆÀÂÛ
 ¿ËÀ³Ë¹ÀÕ
-[
-±¨¼Û
-]
-[
-¶þÊÖ]
-[
-×âÁÞ]
-[
-Î¬ÐÞ
-]
-[
-ÁÄÁÄ
-]
+[ ±¨¼Û ]
+[  ¶þÊÖ]
+[ ×âÁÞ]
+[ Î¬ÐÞ ]
+[  ÁÄÁÄ ]
 ¿ËÀ³Ë¹ÀÕ¸ü¶à±¨µÀ...
 ³µÊÐ¹¤¾ßÏä
 ³µÐÍËÑË÷
@@ -49655,91 +47550,67 @@ Email:service@cheshi.com.cn
 2008-1-10
 ÈÈµã³µÐÍ
 ¾­¼ÃÐÍ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÏÖ´ú-ÑÅÉðÌØ
 ÁåÄ¾SX4ÌìÓï
 ÈÕ²ú-æêÍþ
 ³¤°²-±¼±¼
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁúC2
 ±¾Ìï-Ë¼µÏ
 ÆðÑÇ
 RIO
 º£Âí-º£¸£ÐÇ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©·ðÀ¼-ÀÖ·ç
 ·áÌï-Íþ³Û
 ÁåÄ¾-ÓêÑà
 ÆæÈð
 QQ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±êÖÂ206
 polo¾¢Çé
 ´óÖÚ-½Ý´ï
 ±¾Ìï-·É¶È
 ÖÐµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÅÁÈøÌØ-ÁìÔ¦
 ±¾Ìï-ÑÅ¸ó
 ·áÌï-¿­ÃÀÈð
 Âí×Ô´ï
 6
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±ð¿Ë-¾ýÔ½
 ´óÖÚ-ÂõÌÚ
 ÈÕ²ú-Ììô¥
 MGÃû¾ô
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¸£ÌØ-¸£¿ËË¹
 ·áÌï-ÈñÖ¾
 Ñ©·ðÀ¼-¾°³Ì
 ÏÖ´ú-Í¾Ê¤
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁú-¿­Ðý
 ±¾ÌïCR-V
 ÈýÁâ-¸êÀ¶
 ÉÏÆû-ÈÙÍþ
 ¸ßµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 °ÂµÏA6
 À×¿ËÈøË¹GS
 ¿­µÏÀ­¿ËCTS
 ÎÖ¶ûÎÖXC90
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¦Âí5Ïµ
 ÃÔÄãMini
 ´óÖÚ-Í¾Èñ
 ±¦Âí3Ïµ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¼³ÛEÏµ
 Â·»¢-ÉñÐÐÕß2
 ±£Ê±½Ý-¿¨Ñç
 °ÂµÏA4
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÁÖÒñ´óµÀ
 300C
 Ó¢·ÆÄáµÏ
@@ -49772,19 +47643,11 @@ A3³µÐÍÍÆ³Ùµ½Ã÷Äê
 ²é¿´ÆÀÂÛ
 ·¢±íÆÀÂÛ
 °ÂµÏ
-[
-±¨¼Û
-]
-[
-¶þÊÖ]
-[
-×âÁÞ]
-[
-Î¬ÐÞ
-]
-[
-ÁÄÁÄ
-]
+[ ±¨¼Û ]
+[  ¶þÊÖ]
+[ ×âÁÞ]
+[ Î¬ÐÞ ]
+[  ÁÄÁÄ ]
 °ÂµÏ¸ü¶à±¨µÀ...
 [ÐÂ³µ]£º°ÂµÏ08ÄêÒý½øÈý¿îÐÂ³µ
 A3³µÐÍÍÆ³Ùµ½Ã÷Äê
@@ -49825,25 +47688,16 @@ multitronic£»Çý¶¯·½Ê½ÎªÈ«Ê±ËÄÂÖÇý¶¯quattroºÍÇ°ÂÖÇý¶¯¡£
 ¹úÍâÐÂ¿îA4½«´îÔØ1.8TFSI¡¢2.7V6¡¢2.0TDI¡¢3.0TDIºÍ3.2FSIÕâ5¿î·¢¶¯»ú£¬Çý¶¯·½Ê½ÒÀÈ»ÊÇÇ°ÇýÓëquattroÈ«ÇýµÄÁ½Ì×Ñ¡Ôñ¡£´ËÍâ£¬¶øÇÒÈ«ÐÂ¿ª·¢µÄ6µ²ÊÖ¶¯±äËÙÆ÷¡¢6µ²Tiptronic×Ô¶¯±äËÙÆ÷ºÍ°ÂµÏµÄMultitronic
 CVTÎÞ¼¶±äËÙÏµÍ³£¬ÎªÑ¡Ôñ²»Í¬·¢¶¯»ú¡¢²»Í¬¼ÝÊ»·ç¸ñµÄÓÃ»§Ìá¹©¸ü¼ÓºÏÀíµÄ¶¯Á¦Êä³ö¡£
 °ÂµÏR8³¬¼¶ÅÜ³µ¡¢A5³µÐÍÒÔ¼°ÐÂA4³µÐÍµÄÒýÈë£¬²»½ö½øÒ»²½ÍêÉÆÁË°ÂµÏ³µÐÍµÄ²úÆ·²¼¾Ö£¬Í¬Ê±Ò²ÎªÏû·ÑÕßÌá¹©ÁË¸ü¶àÑù»¯µÄ¸öÐÔÑ¡Ôñ¡£Ö»²»¹ý°ÂµÏA3³µÐÍµÄÔÝ²»ÒýÈë£¬½«µ¼ÖÂÆäÇ±ÔÚµÄÊÐ³¡·Ý¶î½«±»±¦Âí1Ïµ³µÐÍËùÇÀÕ¼¡£
-(±à¼­
-½ð³¬)
+(±à¼­ ½ð³¬)
 [µÚ1Ò³]
 ²é¿´ÆÀÂÛ
 ·¢±íÆÀÂÛ
 °ÂµÏ
-[
-±¨¼Û
-]
-[
-¶þÊÖ]
-[
-×âÁÞ]
-[
-Î¬ÐÞ
-]
-[
-ÁÄÁÄ
-]
+[ ±¨¼Û ]
+[  ¶þÊÖ]
+[ ×âÁÞ]
+[ Î¬ÐÞ ]
+[  ÁÄÁÄ ]
 °ÂµÏ¸ü¶à±¨µÀ...
 ³µÊÐ¹¤¾ßÏä
 ³µÐÍËÑË÷
@@ -49887,91 +47741,67 @@ A5ÅÜ³µ\ÐÂA4½«Ïà¼ÌÉÏÊÐ
 2008-1-22
 ÈÈµã³µÐÍ
 ¾­¼ÃÐÍ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÏÖ´ú-ÑÅÉðÌØ
 ÁåÄ¾SX4ÌìÓï
 ÈÕ²ú-æêÍþ
 ³¤°²-±¼±¼
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁúC2
 ±¾Ìï-Ë¼µÏ
 ÆðÑÇ
 RIO
 º£Âí-º£¸£ÐÇ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©·ðÀ¼-ÀÖ·ç
 ·áÌï-Íþ³Û
 ÁåÄ¾-ÓêÑà
 ÆæÈð
 QQ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±êÖÂ206
 polo¾¢Çé
 ´óÖÚ-½Ý´ï
 ±¾Ìï-·É¶È
 ÖÐµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÅÁÈøÌØ-ÁìÔ¦
 ±¾Ìï-ÑÅ¸ó
 ·áÌï-¿­ÃÀÈð
 Âí×Ô´ï
 6
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±ð¿Ë-¾ýÔ½
 ´óÖÚ-ÂõÌÚ
 ÈÕ²ú-Ììô¥
 MGÃû¾ô
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¸£ÌØ-¸£¿ËË¹
 ·áÌï-ÈñÖ¾
 Ñ©·ðÀ¼-¾°³Ì
 ÏÖ´ú-Í¾Ê¤
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁú-¿­Ðý
 ±¾ÌïCR-V
 ÈýÁâ-¸êÀ¶
 ÉÏÆû-ÈÙÍþ
 ¸ßµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 °ÂµÏA6
 À×¿ËÈøË¹GS
 ¿­µÏÀ­¿ËCTS
 ÎÖ¶ûÎÖXC90
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¦Âí5Ïµ
 ÃÔÄãMini
 ´óÖÚ-Í¾Èñ
 ±¦Âí3Ïµ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¼³ÛEÏµ
 Â·»¢-ÉñÐÐÕß2
 ±£Ê±½Ý-¿¨Ñç
 °ÂµÏA4
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÁÖÒñ´óµÀ
 300C
 Ó¢·ÆÄáµÏ
@@ -50024,8 +47854,7 @@ Turbo¼«ÏÞ¸Ä
 µÚ3ÕÐ
 Å¯ºÍµãÔÙÆð²½
 ËÄ´¨²ýºÓÀ¶ÌìÆû³µÏúÊÛ·þÎñÓÐÏÞ¹«Ë¾ÊÛºó·þÎñ¾­ÀíÍõ¿ü½¨Òé£º¡°ÔÚÆô¶¯Æû³µÊ±£¬Ó¦½øÐÐÔ¤ÈÈ¡£µ±Ë®ÎÂ±íÖ¸Õë×ªµ½ÖÐ¼äÎ»ÖÃ£¬¼´82¡ª92ÉãÊÏ¶ÈÊ±£¨ÓÐµÄ¸ß¶Ë³µÐÍÈç±¦ÂíµÈ¿É´ïµ½100ÉãÊÏ¶È£©£¬ÔÙÆð²½¡£¡±Íõ¾­Àí±íÊ¾£¬Èç¹û²»Ô¤ÈÈ£¬¶Ô³µ×ÓµÄ¶ÌÆÚÓ°Ïì²»Ì«Ã÷ÏÔ£¬µ«ÊÇ£¬³¤ÆÚ²»Ô¤ÈÈ£¬½«»áËõ¶Ì³µÁ¾µÄÊ¹ÓÃÊÙÃü¡£
-´ËÍâ£¬Íõ¾­Àí»¹½éÉÜÁË¼¸¸ö¶¬¼¾ÓÃ³µµÄ×¢ÒâÊÂÏî£ºÊ¹ÓÃ·ûºÏ¶¬¼¾µÍÎÂÒªÇóµÄ·À¶³Òº¡¢»úÓÍ£¬Ò»°ãÀ´Ëµ£¬ÒªÊ¹ÓÃÁãÏÂ20ÉãÊÏ¶ÈµÄ·À¶³Òº£¬»úÓÍÒ»°ãÓÃ5w¡ª40µÄÐÍºÅÎªÒË£»Óöµ½ÓêÑ©ÌìÆø£¬Ó¦±ÜÃâ¼±É²³µ£¬²¢¿ØÖÆºÃ³µËÙ£»¶¬¼¾ÆøÎÂµÍ£¬³µÄÚ²£Á§ÈÝÒ×ÆðÒ»²ã¡°Îí¡±£¬Ó¦´ò¿ª¿Õµ÷Ñ¸ËÙ³ýÎí£¬³ýÎíºóÓ¦Á¢¼´¹Øµô¿Õµ÷£¬´ò¿ªÅ¯·çÏµÍ³È¡Å¯£¬ÕâÑù¿ÉÒÔ½ÚÊ¡ÆûÓÍ¡££¨±à¼­
-ÈÎÎ°£©
+´ËÍâ£¬Íõ¾­Àí»¹½éÉÜÁË¼¸¸ö¶¬¼¾ÓÃ³µµÄ×¢ÒâÊÂÏî£ºÊ¹ÓÃ·ûºÏ¶¬¼¾µÍÎÂÒªÇóµÄ·À¶³Òº¡¢»úÓÍ£¬Ò»°ãÀ´Ëµ£¬ÒªÊ¹ÓÃÁãÏÂ20ÉãÊÏ¶ÈµÄ·À¶³Òº£¬»úÓÍÒ»°ãÓÃ5w¡ª40µÄÐÍºÅÎªÒË£»Óöµ½ÓêÑ©ÌìÆø£¬Ó¦±ÜÃâ¼±É²³µ£¬²¢¿ØÖÆºÃ³µËÙ£»¶¬¼¾ÆøÎÂµÍ£¬³µÄÚ²£Á§ÈÝÒ×ÆðÒ»²ã¡°Îí¡±£¬Ó¦´ò¿ª¿Õµ÷Ñ¸ËÙ³ýÎí£¬³ýÎíºóÓ¦Á¢¼´¹Øµô¿Õµ÷£¬´ò¿ªÅ¯·çÏµÍ³È¡Å¯£¬ÕâÑù¿ÉÒÔ½ÚÊ¡ÆûÓÍ¡££¨±à¼­ ÈÎÎ°£©
 [µÚ1Ò³]
 ²é¿´ÆÀÂÛ
 ·¢±íÆÀÂÛ
@@ -50071,91 +47900,67 @@ Turbo¼«ÏÞ¸Ä
 2008-1-4
 ÈÈµã³µÐÍ
 ¾­¼ÃÐÍ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÏÖ´ú-ÑÅÉðÌØ
 ÁåÄ¾SX4ÌìÓï
 ÈÕ²ú-æêÍþ
 ³¤°²-±¼±¼
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁúC2
 ±¾Ìï-Ë¼µÏ
 ÆðÑÇ
 RIO
 º£Âí-º£¸£ÐÇ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©·ðÀ¼-ÀÖ·ç
 ·áÌï-Íþ³Û
 ÁåÄ¾-ÓêÑà
 ÆæÈð
 QQ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±êÖÂ206
 polo¾¢Çé
 ´óÖÚ-½Ý´ï
 ±¾Ìï-·É¶È
 ÖÐµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÅÁÈøÌØ-ÁìÔ¦
 ±¾Ìï-ÑÅ¸ó
 ·áÌï-¿­ÃÀÈð
 Âí×Ô´ï
 6
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±ð¿Ë-¾ýÔ½
 ´óÖÚ-ÂõÌÚ
 ÈÕ²ú-Ììô¥
 MGÃû¾ô
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¸£ÌØ-¸£¿ËË¹
 ·áÌï-ÈñÖ¾
 Ñ©·ðÀ¼-¾°³Ì
 ÏÖ´ú-Í¾Ê¤
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁú-¿­Ðý
 ±¾ÌïCR-V
 ÈýÁâ-¸êÀ¶
 ÉÏÆû-ÈÙÍþ
 ¸ßµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 °ÂµÏA6
 À×¿ËÈøË¹GS
 ¿­µÏÀ­¿ËCTS
 ÎÖ¶ûÎÖXC90
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¦Âí5Ïµ
 ÃÔÄãMini
 ´óÖÚ-Í¾Èñ
 ±¦Âí3Ïµ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¼³ÛEÏµ
 Â·»¢-ÉñÐÐÕß2
 ±£Ê±½Ý-¿¨Ñç
 °ÂµÏA4
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÁÖÒñ´óµÀ
 300C
 Ó¢·ÆÄáµÏ
@@ -50230,8 +48035,7 @@ Turbo¼«ÏÞ¸Ä
 ¶ÔÓÚ¸Õ¸Õ¹ºÂò°®³µµÄ³µÖ÷À´Ëµ£¬¸ø°®³µ¾«ÐÄÌôÑ¡Ò»Ì×¡°¶¬×°¡±ÊÇµ±ÎñÖ®¼±¡£³µÁ¾ÔÚ×øµæµÄ³ÄÍÐÏÂ£¬²»½ö¶àÁË·ÝÅ¯Òâ¸üÆ½Ìí¼¸·ÖÊ±ÉÐµÄ¸Ð¾õ¡£ÓÈÆäÊÇ¶ÔÒ»Ð©ÈÞ²¼×ùÒÎµÄÐÂ³µÀ´Ëµ£¬ÌáÔç´îÅäÉÏºÏÊÊµÄ×øµæ£¬»¹¿ÉÒÔÃâÈ¥·Ñ¾¢µÄ´òÉ¨£»ÎªÕæÆ¤×ùÒÎ´îÅäÒ»Ì××øµæ£¬»áÈÃ³µÄÚ²»ÔÙ±ùÀä¡£ÓÅÖÊµÄÑòÃ«×øµæÃ«É«¹âÔóÏÊÁÁ£¬ÈÃ³Ë×øÔÚÉÏÃæµÄÈË±¶¸ÐÊæÊÊ¡£Èç¹û³µÖ÷ÔÙÌí¼ÓÒ»Ð©É«²Ê°ßìµµÄÑòÃ«Ð¡ÊÎÆ·£¬±ÈÈçÑò¼ôÈÞ°ÑÌ×¡¢³¤Ã«ÈÞµÄÖ½½íºÐÌ×µÈ£¬¾Í»áÈÃ³µÄÚÏÔµÃÅ¯Òâ°»È»¡£
 Ê±ÉÐÖ¸Êý£º¡ï¡ï¡ï¡ï
 ÊµÓÃÖ¸Êý£º¡ï¡ï¡ï¡ï
-ÊÐ³¡¼ÛÎ»£º300Ôª~9000Ôª(±à¼­
-½ð³¬)
+ÊÐ³¡¼ÛÎ»£º300Ôª~9000Ôª(±à¼­ ½ð³¬)
 [µÚ1Ò³]
 ²é¿´ÆÀÂÛ
 ·¢±íÆÀÂÛ
@@ -50259,1335 +48063,67 @@ Turbo¼«ÏÞ¸Ä
 Ïà¹ØÎÄÕÂ
 ÈÈµã³µÐÍ
 ¾­¼ÃÐÍ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÏÖ´ú-ÑÅÉðÌØ
 ÁåÄ¾SX4ÌìÓï
 ÈÕ²ú-æêÍþ
 ³¤°²-±¼±¼
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁúC2
 ±¾Ìï-Ë¼µÏ
 ÆðÑÇ
 RIO
 º£Âí-º£¸£ÐÇ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©·ðÀ¼-ÀÖ·ç
 ·áÌï-Íþ³Û
 ÁåÄ¾-ÓêÑà
 ÆæÈð
 QQ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±êÖÂ206
 polo¾¢Çé
 ´óÖÚ-½Ý´ï
 ±¾Ìï-·É¶È
 ÖÐµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÅÁÈøÌØ-ÁìÔ¦
 ±¾Ìï-ÑÅ¸ó
 ·áÌï-¿­ÃÀÈð
 Âí×Ô´ï
 6
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±ð¿Ë-¾ýÔ½
 ´óÖÚ-ÂõÌÚ
 ÈÕ²ú-Ììô¥
 MGÃû¾ô
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ¸£ÌØ-¸£¿ËË¹
 ·áÌï-ÈñÖ¾
 Ñ©·ðÀ¼-¾°³Ì
 ÏÖ´ú-Í¾Ê¤
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 Ñ©ÌúÁú-¿­Ðý
 ±¾ÌïCR-V
 ÈýÁâ-¸êÀ¶
 ÉÏÆû-ÈÙÍþ
 ¸ßµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 °ÂµÏA6
 À×¿ËÈøË¹GS
 ¿­µÏÀ­¿ËCTS
 ÎÖ¶ûÎÖXC90
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¦Âí5Ïµ
 ÃÔÄãMini
 ´óÖÚ-Í¾Èñ
 ±¦Âí3Ïµ
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ±¼³ÛEÏµ
 Â·»¢-ÉñÐÐÕß2
 ±£Ê±½Ý-¿¨Ñç
 °ÂµÏA4
-<?xml
-version="1.0"
-encoding="gb2312"?>
-ÁÖÒñ´óµÀ
-300C
-Ó¢·ÆÄáµÏ
-¼ªÆÕJeep
-¾©»¦½ò¹ãÖÝÎäººÉîÛÚÉ½¶«Ì«Ô­Õã½­½­ËÕ¸£½¨ÁÉÄþºÓÄÏÉÂÎ÷ºÓ±±ºþÄÏºÚÁú½­ÄÚÃÉÔÆÄÏËÄ´¨ÖØÇì¹ãÎ÷½­Î÷ÐÂ½®¼ªÁÖ¹óÖÝ¸ÊËàÄþÏÄ°²»Õº£ÄÏÎ÷²ØÇàº£
-¹ØÓÚÍøÉÏ³µÊÐ|·þÎñÒµÎñ|ÎÊÓë´ð|ÕÐÆ¸ÐÅÏ¢|ÁªÏµ·½Ê½|ÓÑÇéÁ´½Ó
-Copyright
-(C)
-1999
--
-2006
-cheshi.com.cn.
-All
-Rights
-Reserved.
-°æÈ¨ËùÓÐ
-ÍøÉÏ³µÊÐ
-Email:service@cheshi.com.cn
-¾©ICPÖ¤030547ºÅ
-¾©ICP±¸05032026ºÅ
-[Ñø³µ]£º°®³µ¡°Óùº®¡±ÓÐµÀ
-³µ´°½á±ùÄªÄÃ¿ªË®½½-ÍøÉÏ³µÊÐ(www.cheshi.com.cn)
-[Ñø³µ]£º°®³µ¡°Óùº®¡±ÓÐµÀ
-³µ´°½á±ùÄªÄÃ¿ªË®½½
-ÍøÉÏ³µÊÐÍøÕ¾
-2008-1-28
-8:05:52
-Ô´×Ô:³¤½­ÉÌ±¨
-²é¿´ÆÀÂÛ
-·¢±íÆÀÂÛ
-[ÐÐÒµ]£º³¤°²ÐÂ³µ¹æ»®
-A¼¶/A0¼¶½Î³µ½ñÄêÍÆ³ö(Í¼)
-[ÐÐÒµ]£ºµÂ¹ú´óÖÚ-¼¼Êõ·âËø30Äê
-ÖÐ¹ú²»Ó¦ÔÙÊÇ´ú¹¤³§
-[ÐÐÒµ]£ºÅ·±¦4SµêÔÂÏúÁ¿½ö8Ì¨
-ÓªÏúÌåÏµ¼±´ýÕûºÏ
-[¸Ä×°]£º´îÔØË«ÎÐÂÖÔöÑ¹ÒýÇæ
-±£Ê±½Ý911
-Turbo¼«ÏÞ¸Ä
-[ÐÂ³µ]£ºÈÕ²úæêÍþ´¹Ö±»»´ú
-Íâ¹Û-ÄÚÊÎÈ«ÃæÉý¼¶£¨Í¼£©
-[ÆÀ²â]£º²Ù×÷¼ò±ã
-ÐÂÑÅ¸óÊ¹ÓÃËµÃ÷ÊÖ²á-¶àÍ¼Ïê½â
-ÓÃ³µÓÐµÀ
-ÓêÑ©ÌìÆøµÄÆµ·±Ôì·Ã£¬Ê¹µÃÏÂÑ©ÌìÈçºÎÑø»¤°®³µ³ÉÎª³µÖ÷Ä¿Ç°±ØÐëÃæÁÙµÄÎÊÌâ¡£ÓÐµÄ³µÖ÷ÈÏÎª³µ´°½á±ùÓÃÈÈË®½½£¬³ý±ù×î¿ì£»ÓÐÐ©³µÖ÷ÈÏÎª·À»¬Á´Ëæ±ã×°ÔÚÄÄ¸öÂÖ×ÓÉÏ¶¼ÐÐ£»ÓÐµÄ³µÖ÷Ñ©ºó¶Ô³µ×Ó²»¹Ü²»ÎÊ£¬ÌýÖ®ÈÎÖ®¡­¡­½á¹ûÒòÎªÕâÐ©²»Ç¡µ±µÄ´¦Àí·½Ê½£¬¸ø°®³µÔì³É»òÇá»òÖØµÄËðÉË¡£
-ÎóÇøÒ»£º³µ´°½á±ùÄÃ¿ªË®½½
-Ä³Æû³µÃÀÈÝ×°ÊÎµêµÄÕÅÊ¦¸µ¸æËß¼ÇÕß£¬ÈôÒª³ý±ù£¬¿ÉÒÔÏÈÆô¶¯·¢¶¯»ú£¬´ò¿ª³µÖÐµÄÅ¯·ç£¬ÓÃÆû³µ²£Á§×¨ÓÃ±ùÑ©²ù£¬×Ô±ù·ì¼äÂýÂý²ù³ý±ù¿é¡£Èç¹û²ÉÈ¡Ñ©ºó¸ø³µ×ÓÏ´ÈÈË®ÔèµÄ×ö·¨£¬ÄÇÊÇ¶Ô°®³µµÄ´Ý²Ð£¬ÒòÎªÎÂ¶ÈµÄÖèÈ»±ä»¯»áÉËº¦³µÆá£¬Ê¹ËüÖð½¥Ê§È¥¹âÔó£¬¶ø³µµÄµ²·ç²£Á§Ò²ÓÐ¿ÉÄÜÔÚÇãÐºµÄÈÈË®ÖÐÕ¨ÁÑ¡£Ñ©ºóÏ´³µÒ²²»ÄÜÓÃÀäË®Ö±½Ó³åÏ´£¬ÓÈÆäÊÇ·¢¶¯»úÉýÎÂºó£¬³µÇ°²¿ÎÂ¶È½Ï¸ß£¬ÓÃÀäË®ÇåÏ´»áÔì³É¼±ËÙ½µÎÂ£¬¶Ô±íÃæÓÍÆáºÜ²»Àû¡£
-´ËÊ±ÕýÈ·µÄÏ´³µ·½·¨ÊÇ£¬·¢¶¯³µ×Ó´ò¿ª³µÉÏµÄÅ¯·çÏµÍ³£¬È»ºóÔÙÓÃÎÂË®²Á³µ¡£
-½â¾ö¶Ô²ß£º²£Á§½á±ùµÄÔ­ÒòÊÇ£¬ÈËÀë¿ª³µºó£¬³µÄÚ»¹²ÐÁô×ÅÈÈÆø£¬Ê¹µÃ³µ²£Á§µÄÎÂ¶È¸ßÓÚ³µÍâ£¬Ñ©»¨ÂäÔÚ²£Á§ÉÏÊ±ÏÈÈÚ»¯£¬ÔÚÈÚ»¯µÄ¹ý³ÌÖÐ£¬³µÄÚÎÂ¶ÈÖð½¥½µµÍµ½Óë³µÍâÏàÍ¬µÄÊ±ºò£¬²£Á§ÉÏÈÚ»¯µÄÑ©Ë®¿ªÊ¼½á±ù£»½á±ùºóÔÙÂäÉÏµÄÑ©»¨¾Í²»ÔÙÈÚ»¯ÁË£¬ÏñÃÞ±»Ò»Ñù¸ÇÔÚ±ùÃæÉÏ¡£Ôç³¿£¬²£Á§ÉÏµÄ»ýÑ©ºÃ°ì£¬ÄÃÉ¨ÖãÒ»É¨¾ÍÐÐ£¬×î·¸³îµÄÊÇÏÂÃæÄÇ²ã±ù¡£Í¨¹ý¹Û²ì·ÖÎö£¬Ñ©ÌìµÄÊ±ºò£¬Äã¿ÉÊÔ×ÅÔÚÒ»ÌìÓÃÍê³µºó£¬²»ÊÇÁ¢¼´ËøÉÏ³µ×ßÈË£¬¶øÊÇ½«Á½²àÃÅ´ò¿ªÍ¨·ç£¬µÈ³µÄÚµÄÎÂ¶È½µÖÁÓë³µÍâ²î²»¶àµÄÊ±ºò£¬´ò¿ªµçÔ´£¬ÓÃÓêË¢Æ÷½«µ²·ç²£Á§ÉÏ²ÐÁôµÄÑ©Ë®Ë¢¸É¾»£¬ÕâÊ±ÔÙ¹ØÉÏ³µÃÅ£¬ËøºÃ³µ¡£µÚ¶þÌìÔç³¿£¬Ö»Òª°Ñµ²·ç²£Á§ÉÏµÄ»ýÑ©Ò»É¨£¬Ñ©ÏÂÃæÃ»ÓÐ±ù£¬ÂíÉÏ¾Í¿É¿ª³µÉÏÂ·¡£
-ÎóÇø¶þ£ºÑ©ºó²»¼°Ê±Ï´³µ
-ÕÅÊ¦¸µËµ£¬Ñ©ºóÏ´³µÒ»¶¨Òª¼°Ê±£¬¼´Ê¹ÌìÆøÔ¤±¨ÏÔÊ¾Î´À´µÄ¼¸ÌìÄÚ»¹»áÏÂÑ©£¬Ò²²»ÒªÍÏ×Å²»Ï´³µ¡£Ö»Òª±»Ñ©¸²¸ÇÁË£¬¾ÍÒªÂíÉÏÓÃÇåË®½«Ñ©³åµô¡£Ñ©ÖÐº¬ÓÐ¸¯Ê´³É·Ö£¬ÎÞÂÛÊÇÆáÃæ¡¢µ×ÅÌ»¹ÊÇÂÖÌ¥¡¢ÂÖì±£¬³¤ÆÚ±»Ñ©¸²¸Ç¶¼»áÔì³ÉÉËº¦¡£´ËÍâ£¬Â¶ÌìÏ´³µÁ¾Ê±£¬ÇåË®ºÜÈÝÒ×¹à½øËøÑÛ£¬ÕâÊ±ÒòÑ©ºóÌìÆøº®Àä£¬ÌØ±ðÈÝÒ×°ÑËøÐ¾¶³×¡¡£Òò´ËÏ´³µÇ°£¬×îºÃÄÜÓÃ½º²¼°ÑËøÑÛÌù×¡£¬ÒÔ·ÀÖ¹½øË®¡£
-½â¾ö¶Ô²ß£ºÈç¹ûÍíÉÏÔ¤²âµ½»áÏÂÑ©£¬¶øÓÖ²»µÃ²»½«³µÁ¾Í£ÔÚÊÒÍâÊ±£¬¿ÉÒÔ×¼±¸±¨Ö½»òÊÇËÜÁÏ±¡Ä¤¸²¸ÇÔÚ³µÉíÉÏ£¬ÉõÖÁÊÂÏÈ×¼±¸Ò»Ì×³µÒÂ,
-ÕâÑùµÚ¶þÌì¾Í¿ÉÒÔÇáËÉ½«±ùÑ©È«²¿¶¶ÂäÏÂÀ´£¬³µÁ¾ÉÏ¿´²»µ½±ùÑ©µÄºÛ¼££¬Ò²¾Í²»ÓÃÔÙÆµ·±Ï´³µ¡£(±à¼­
-½ð³¬)
-[µÚ1Ò³]
-²é¿´ÆÀÂÛ
-·¢±íÆÀÂÛ
-³µÊÐ¹¤¾ßÏä
-³µÐÍËÑË÷
-ÐÂ³µ±¨¼Û
-³µÐÍµãÆÀ
-ÐÂ³µ¿´Ì¨
-±£
-Öµ
-ÂÊ
-¶þÊÖ±¨¼Û
-ÎÒÒªÂô³µ
-ÎÒÒªÇó¹º
-Î¬ÐÞ±¨¼Û
-±£ÏÕÊÔËã
-³µÎñ·þÎñ
-Î¥ÕÂ²éÑ¯
-½µ¼Û³µÐÍ
-ÕÇ¼Û³µÐÍ
-ÎÒ°®ÎÒ³µ
-¶À¼Ò±¨µÀ
-Æû³µ¼äµý
-ÓÍºÄÊµ²é
-Ïà¹ØÎÄÕÂ
-¡¤[Ñø³µ]£ºÏÂÑ©Ìì°®³µÒª¡°Óùº®¡±£¡×¨¼ÒÖ§ÕÐ¶¬¼¾ÓÃ³µ±£Ñø
-¡¤[ÐÐÒµ]£ºÂò³µÑø³µ
-ºÎÒÔ¡°ÌùÐÄ¡±
-¡¤[Ñø³µ]£ºÐÂ½»Ç¿ÏÕ2ÔÂ1ÈÕÊµÐÐ
-Åâ¸¶ÉÏÏÞµ÷ÖÁ12.2Íò
-¡¤[Ñø³µ]£ºÓÍºÄÖðÄêÉÏÉý
-ËÄÃîÕÐÈÃÄú¡°¸ùÖÎ¡±ÓÍÀÏ»¢
-¡¤[Ñø³µ]£º¡°Âò³µÈÝÒ×
-Ñø³µÄÑ¡±--ÐÞ³µÊ¡Ç®6¼Æ
-¡¤[Ñø³µ]£ºÐÂÊÖÉÏÂ·Ò×ÃÔÂ·
-×¨¼Ò½ÌÄúÊýÕÐÈÏÂ·¾÷ÇÏ
-2008-1-28
-2008-1-21
-2008-1-14
-2008-1-11
-2008-1-11
-2008-1-5
-ÈÈµã³µÐÍ
-¾­¼ÃÐÍ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
-ÏÖ´ú-ÑÅÉðÌØ
-ÁåÄ¾SX4ÌìÓï
-ÈÕ²ú-æêÍþ
-³¤°²-±¼±¼
-<?xml
-version="1.0"
-encoding="gb2312"?>
-Ñ©ÌúÁúC2
-±¾Ìï-Ë¼µÏ
-ÆðÑÇ
-RIO
-º£Âí-º£¸£ÐÇ
-<?xml
-version="1.0"
-encoding="gb2312"?>
-Ñ©·ðÀ¼-ÀÖ·ç
-·áÌï-Íþ³Û
-ÁåÄ¾-ÓêÑà
-ÆæÈð
-QQ
-<?xml
-version="1.0"
-encoding="gb2312"?>
-±êÖÂ206
-polo¾¢Çé
-´óÖÚ-½Ý´ï
-±¾Ìï-·É¶È
-ÖÐµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
-ÅÁÈøÌØ-ÁìÔ¦
-±¾Ìï-ÑÅ¸ó
-·áÌï-¿­ÃÀÈð
-Âí×Ô´ï
-6
-<?xml
-version="1.0"
-encoding="gb2312"?>
-±ð¿Ë-¾ýÔ½
-´óÖÚ-ÂõÌÚ
-ÈÕ²ú-Ììô¥
-MGÃû¾ô
-<?xml
-version="1.0"
-encoding="gb2312"?>
-¸£ÌØ-¸£¿ËË¹
-·áÌï-ÈñÖ¾
-Ñ©·ðÀ¼-¾°³Ì
-ÏÖ´ú-Í¾Ê¤
-<?xml
-version="1.0"
-encoding="gb2312"?>
-Ñ©ÌúÁú-¿­Ðý
-±¾ÌïCR-V
-ÈýÁâ-¸êÀ¶
-ÉÏÆû-ÈÙÍþ
-¸ßµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
-°ÂµÏA6
-À×¿ËÈøË¹GS
-¿­µÏÀ­¿ËCTS
-ÎÖ¶ûÎÖXC90
-<?xml
-version="1.0"
-encoding="gb2312"?>
-±¦Âí5Ïµ
-ÃÔÄãMini
-´óÖÚ-Í¾Èñ
-±¦Âí3Ïµ
-<?xml
-version="1.0"
-encoding="gb2312"?>
-±¼³ÛEÏµ
-Â·»¢-ÉñÐÐÕß2
-±£Ê±½Ý-¿¨Ñç
-°ÂµÏA4
-<?xml
-version="1.0"
-encoding="gb2312"?>
-ÁÖÒñ´óµÀ
-300C
-Ó¢·ÆÄáµÏ
-¼ªÆÕJeep
-¾©»¦½ò¹ãÖÝÎäººÉîÛÚÉ½¶«Ì«Ô­Õã½­½­ËÕ¸£½¨ÁÉÄþºÓÄÏÉÂÎ÷ºÓ±±ºþÄÏºÚÁú½­ÄÚÃÉÔÆÄÏËÄ´¨ÖØÇì¹ãÎ÷½­Î÷ÐÂ½®¼ªÁÖ¹óÖÝ¸ÊËàÄþÏÄ°²»Õº£ÄÏÎ÷²ØÇàº£
-¹ØÓÚÍøÉÏ³µÊÐ|·þÎñÒµÎñ|ÎÊÓë´ð|ÕÐÆ¸ÐÅÏ¢|ÁªÏµ·½Ê½|ÓÑÇéÁ´½Ó
-Copyright
-(C)
-1999
--
-2006
-cheshi.com.cn.
-All
-Rights
-Reserved.
-°æÈ¨ËùÓÐ
-ÍøÉÏ³µÊÐ
-Email:service@cheshi.com.cn
-¾©ICPÖ¤030547ºÅ
-¾©ICP±¸05032026ºÅ
-[¸Ä×°]£º³µÉí½µµÍ4ÀåÃ×
-È«ÐÂË¹°ÍÂ³Òí±ª¸Ä×°°æÁÁÏà-ÍøÉÏ³µÊÐ(www.cheshi.com.cn)
-[¸Ä×°]£º³µÉí½µµÍ4ÀåÃ×
-È«ÐÂË¹°ÍÂ³Òí±ª¸Ä×°°æÁÁÏà
-ÍøÉÏ³µÊÐÍøÕ¾
-2008-1-29
-9:12:09
-Ô´×Ô:ÍøÉÏ³µÊÐÍøÕ¾
-²é¿´ÆÀÂÛ
-·¢±íÆÀÂÛ
-Ë¹°ÍÂ³
-[
-±¨¼Û
-]
-[
-¶þÊÖ]
-[
-×âÁÞ]
-[
-Î¬ÐÞ
-]
-[
-ÁÄÁÄ
-]
-Ë¹°ÍÂ³¸ü¶à±¨µÀ...
-[ÐÂ³µ]£ºÓ¢·ÆÄáµÏEX35ÄêÄÚÉÏÊÐ
-¶àÍ¼Ïê½â-Ð¡ÐÍSUV
-[ÐÂ³µ]£ºË¹¿Â´ï-ÐÂËÙÅÉÓëÂõÌÚÍ¬Æ½Ì¨
-2009ÄêÓÐÍû¹ú²ú
-[ÐÐÒµ]£ºÅ·±¦4SµêÔÂÏúÁ¿½ö8Ì¨
-ÓªÏúÌåÏµ¼±´ýÕûºÏ
-[ÐÂ³µ]£ºÔË¶¯°ææêÍþ4ÔÂµÇ³¡
-Íâ¹Û-ÄÚÊÎÍ¹ÏÔÔË¶¯ÔªËØ
-[ÆÀ²â]£ºÁ½ÏáÈüÀ­Í¼×ö¹¤ÖÊÁ¿ÆÀ²â
-ÄÚÍâÏ¸½ÚÏê½â
-[ÐÂ³µ]£ºÐÂ¾ýÔ½3.0¹Ù·½½µ¼Û3Íò
-2.4±êÅäÁùËÙ±äËÙÆ÷
-È«ÐÂË¹°ÍÂ³Òí±ª¸Ä×°°æ
-ÉíÎªöè×åµÄ×îÐÂ½Ó°àÈË£¬Ë¹°ÍÂ³È«ÐÂÒí±ªÒÔÕ¸ÐÂµÄÏÆ±³Éè¼ÆÃæÏò¹ã´óÏû·ÑÕß£¬ËäÈ»ÓµÓÐÓë¹ýÈ¥½ØÈ»²»Í¬µÄÍâ¹Û£¬µ«¹Ç×ÓÀïÄÇÒ»¹áµÄÔË¶¯ÆøÏ¢¿ÉÊÇË¿ºÁÑÚÊÎ²»×¡µÄ£¬ÕýÒòÈç´Ë£¬ÒÀ¾ÉÎüÒýÒ»Ð©¸Ä×°Æ·ÅÆÉÏÃÅ
-¡°°Ý·Ã¡±¡£
-È«ÐÂË¹°ÍÂ³Òí±ª
-Ê×ÏÈ¡°µÇÃÅ¡±µÄÎªµ×ÅÌ¸Ä×°´ïÈËH£¦R£¬ÎªÁË·ûºÏÈÕ³£´ú²½ÐèÇó£¬È«ÐÂÒí±ªÐü¼ÜÏµÍ³Éè¶¨½ÏÆ«ÊæÊÊÈ¡Ïò£¬½Ï³¤µÄÐü¼ÜÐÐ³ÌÓëÆ«ÈíµÄ×èÄáÉè¶¨£¬»ò¶à»òÉÙ¼õµÍÁËÐ©É±ÍäÐÅÐÄ£¬ÎªÁË¸ÄÉÆ´ËÒÉÂÇ£¬H£¦RÕë¶ÔÒí±ªWRX
-2.5L³µ¿îÍÆ³öÁËÈ«ÐÂµÄ¶Ìµ¯»ÉÌ×¼þ£¬ÃûÎªType
-G3µÄÌ×¼þ»»×°ºó£¬¿É½µµÍ³µÉí¸ß¶È´ï35-40mm£¬ÇÒÐü¼ÜÏµÍ³¾­¹ý´Ë¼·Ñ¹£¬×èÄá·´Ó¦¸üÎªÓ²ÀÊ£¬»Ø¸´Ð§ÂÊÒ²¸üÎª¿ìËÙ¡£
-È«ÐÂË¹°ÍÂ³Òí±ª
-³ý´Ë¶Ìµ¯»ÉÌ×¼þÖ®Íâ£¬H£¦RÏÖ¸üÕë¶ÔImpreza
-WRX
-2.5L³µÐÍÑÐ·¢·ÀÇã¸ËÓëÂÖ¾àµæ¿íÆ¬£¬ÏàÐÅÔÚ²»¾ÃÖ®ºó£¬³µÖ÷ÃÇ±ãÓÐ¸ßÖÊÁ¿µÄµ×ÅÌ¸Ä×°Ì×¼þ¿É¹©ÔËÓÃ¡£
-È«ÐÂË¹°ÍÂ³Òí±ª
-£¨±à¼­
-Íõè÷ÒÙ£©
-[µÚ1Ò³]
-²é¿´ÆÀÂÛ
-·¢±íÆÀÂÛ
-Ë¹°ÍÂ³
-[
-±¨¼Û
-]
-[
-¶þÊÖ]
-[
-×âÁÞ]
-[
-Î¬ÐÞ
-]
-[
-ÁÄÁÄ
-]
-Ë¹°ÍÂ³¸ü¶à±¨µÀ...
-³µÊÐ¹¤¾ßÏä
-³µÐÍËÑË÷
-ÐÂ³µ±¨¼Û
-³µÐÍµãÆÀ
-ÐÂ³µ¿´Ì¨
-±£
-Öµ
-ÂÊ
-¶þÊÖ±¨¼Û
-ÎÒÒªÂô³µ
-ÎÒÒªÇó¹º
-Î¬ÐÞ±¨¼Û
-±£ÏÕÊÔËã
-³µÎñ·þÎñ
-Î¥ÕÂ²éÑ¯
-½µ¼Û³µÐÍ
-ÕÇ¼Û³µÐÍ
-ÎÒ°®ÎÒ³µ
-¶À¼Ò±¨µÀ
-Æû³µ¼äµý
-ÓÍºÄÊµ²é
-Ïà¹ØÎÄÕÂ
-¡¤[ÐÂ³µ]£ºÐÂ¿îË¹°ÍÂ³³ÛÅôÕýÊ½µÇÂ½
-ºÀ»ªSUVÊÐ³¡ÔÙÆð²¨À½
-¡¤ºÀ»ªSUVÊÐ³¡ÔÙÆð²¨À½--ÐÂ¿îË¹°ÍÂ³³ÛÅôÕýÊ½µÇÂ½
-¡¤[½µ¼Û]£ºÎª09¿îÈÃÂ·
-Ë¹°ÍÂ³08¿îÉ­ÁÖÈËÓÅ»Ý1.2Íò
-¡¤[ÐÂ³µ]£ºË¹°ÍÂ³08¿î³ÛÅôTribeca¾¡ÏÔ¹«Â·ÍõÕß·ç²É
-¡¤[¸Ä×°]£ºÌá¸ßÔË¶¯ÐÔÄÜ
-08¿îÒí±ª×îÐÂ¸Ä×°Ì×¼þ³öÂ¯
-¡¤[ÐÂ³µ]£ºË¹°ÍÂ³08¿î³ÛÅô-ÊÖÐø²»È«
-ÐÂ³µÎÞ·¨ÉÏÅÆ
-2008-1-28
-2008-1-26
-2008-1-23
-2008-1-23
-2008-1-23
-2008-1-22
-ÈÈµã³µÐÍ
-¾­¼ÃÐÍ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
-ÏÖ´ú-ÑÅÉðÌØ
-ÁåÄ¾SX4ÌìÓï
-ÈÕ²ú-æêÍþ
-³¤°²-±¼±¼
-<?xml
-version="1.0"
-encoding="gb2312"?>
-Ñ©ÌúÁúC2
-±¾Ìï-Ë¼µÏ
-ÆðÑÇ
-RIO
-º£Âí-º£¸£ÐÇ
-<?xml
-version="1.0"
-encoding="gb2312"?>
-Ñ©·ðÀ¼-ÀÖ·ç
-·áÌï-Íþ³Û
-ÁåÄ¾-ÓêÑà
-ÆæÈð
-QQ
-<?xml
-version="1.0"
-encoding="gb2312"?>
-±êÖÂ206
-polo¾¢Çé
-´óÖÚ-½Ý´ï
-±¾Ìï-·É¶È
-ÖÐµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
-ÅÁÈøÌØ-ÁìÔ¦
-±¾Ìï-ÑÅ¸ó
-·áÌï-¿­ÃÀÈð
-Âí×Ô´ï
-6
-<?xml
-version="1.0"
-encoding="gb2312"?>
-±ð¿Ë-¾ýÔ½
-´óÖÚ-ÂõÌÚ
-ÈÕ²ú-Ììô¥
-MGÃû¾ô
-<?xml
-version="1.0"
-encoding="gb2312"?>
-¸£ÌØ-¸£¿ËË¹
-·áÌï-ÈñÖ¾
-Ñ©·ðÀ¼-¾°³Ì
-ÏÖ´ú-Í¾Ê¤
-<?xml
-version="1.0"
-encoding="gb2312"?>
-Ñ©ÌúÁú-¿­Ðý
-±¾ÌïCR-V
-ÈýÁâ-¸êÀ¶
-ÉÏÆû-ÈÙÍþ
-¸ßµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
-°ÂµÏA6
-À×¿ËÈøË¹GS
-¿­µÏÀ­¿ËCTS
-ÎÖ¶ûÎÖXC90
-<?xml
-version="1.0"
-encoding="gb2312"?>
-±¦Âí5Ïµ
-ÃÔÄãMini
-´óÖÚ-Í¾Èñ
-±¦Âí3Ïµ
-<?xml
-version="1.0"
-encoding="gb2312"?>
-±¼³ÛEÏµ
-Â·»¢-ÉñÐÐÕß2
-±£Ê±½Ý-¿¨Ñç
-°ÂµÏA4
-<?xml
-version="1.0"
-encoding="gb2312"?>
-ÁÖÒñ´óµÀ
-300C
-Ó¢·ÆÄáµÏ
-¼ªÆÕJeep
-¾©»¦½ò¹ãÖÝÎäººÉîÛÚÉ½¶«Ì«Ô­Õã½­½­ËÕ¸£½¨ÁÉÄþºÓÄÏÉÂÎ÷ºÓ±±ºþÄÏºÚÁú½­ÄÚÃÉÔÆÄÏËÄ´¨ÖØÇì¹ãÎ÷½­Î÷ÐÂ½®¼ªÁÖ¹óÖÝ¸ÊËàÄþÏÄ°²»Õº£ÄÏÎ÷²ØÇàº£
-¹ØÓÚÍøÉÏ³µÊÐ|·þÎñÒµÎñ|ÎÊÓë´ð|ÕÐÆ¸ÐÅÏ¢|ÁªÏµ·½Ê½|ÓÑÇéÁ´½Ó
-Copyright
-(C)
-1999
--
-2006
-cheshi.com.cn.
-All
-Rights
-Reserved.
-°æÈ¨ËùÓÐ
-ÍøÉÏ³µÊÐ
-Email:service@cheshi.com.cn
-¾©ICPÖ¤030547ºÅ
-¾©ICP±¸05032026ºÅ
-[¸Ä×°]£ºÒÔ1Ïµ½ÎÅÜÎª»ù´¡
-±¦ÂítiiÐÔÄÜ¸ÅÄî³µ½«Á¿²ú-ÍøÉÏ³µÊÐ(www.cheshi.com.cn)
-[¸Ä×°]£ºÒÔ1Ïµ½ÎÅÜÎª»ù´¡
-±¦ÂítiiÐÔÄÜ¸ÅÄî³µ½«Á¿²ú
-ÍøÉÏ³µÊÐÍøÕ¾
-2008-1-29
-9:34:12
-Ô´×Ô:ÍøÉÏ³µÊÐÍøÕ¾
-²é¿´ÆÀÂÛ
-·¢±íÆÀÂÛ
-µÂ¹ú±¦Âí
-[
-±¨¼Û
-]
-[
-¶þÊÖ]
-[
-×âÁÞ]
-[
-Î¬ÐÞ
-]
-[
-ÁÄÁÄ
-]
-µÂ¹ú±¦Âí¸ü¶à±¨µÀ...
-[ÐÂ³µ]£º·ÅÆúÈýÁâ±êÊ¶?
-¸êÀ¶¡¢À¶Éª½«»»×°¶«ÄÏ³µ±ê(Í¼)
-[ÆØ¹â]£ºËÙÌÚ¼´½«È«Ïµ¸Ä¿î
-ÅäÖÃÌáÉý-ÍâÐÎÐ¡¸Ä(Í¼)
-[ÐÐÒµ]£ºÅ·±¦4SµêÔÂÏúÁ¿½ö8Ì¨
-ÓªÏúÌåÏµ¼±´ýÕûºÏ
-[ÐÂ³µ]£º¹ú²úÐÂ±¼³ÛC¼¶3ÔÂ15ÈÕÉÏÊÐ
-ÊÛ¼ÛµÍÓÚ½ø¿Ú
-[ÐÂ³µ]£ºµÀÆæ-¿á²«ÉÏÊÐÔÚ¼´
-ÊÛ¼Û23Íò-´îÔØ2.0ÒýÇæ
-[°²È«]£ºÁ½Ïá±êÖÂ307¼´½«ÉÏÊÐ
-°²È«ÐÔÄÜÏêÏ¸½âÎö
-±¦ÂítiiÐÔÄÜ¸ÅÄî³µ
-¼ÇµÃÈ¥Äê¶«¾©³µÕ¹±¦ÂíÕ¹¹ÝÖÐ£¬³ýÁËM3ËÄÃÅ³µÐÍÍâ£¬Î»ÓÚ×ó²àµÄ1ÏµCoupe
-tiiÐÔÄÜ¸ÅÄî³µ£¬Í¬ÑùÒýÆðÁËÐí¶à³µÃÔµÄÐËÈ¤£¬ËäÈ»¶¯Á¦ÏµÍ³ÔÝÎ´¹«²¼£¬µ«1ÏµCoupe
-tiiÄÇ³äÂúÉ±ÆøµÄÍâÐÍ£¬ÏàÐÅÓÐ²»ÉÙ³µÃÔÏ£ÍûÓÐ³¯Ò»ÈÕÄÜ¹»Õ¾Îª¼ºÓÐ£¡
-±¦ÂítiiÐÔÄÜ¸ÅÄî³µ
-ÏÖÔÚÎÒÃÇ¾ÍÒª¸æËßÄú¸ö¡°ºÃÏûÏ¢¡±£¬¸ù¾Ý¹úÍâ´«À´µÄ×îÐÂÏûÏ¢Ö¸³ö£¬1ÏµCoupe
-tii´Ë³µ¿îËÆºõÕæÓÐÒªÁ¿²úµÄ¶¯×÷£¬ÔÚËù²¶»ñµÄÒ»ÊÖ¹·×ÐÕÕÆ¬ÖÐ£¬Ò»Á¾¿áËÆ1ÏµCoupe
-tiiµÄ³µ¿î¾²¾²Í£ÔÚ³µ¿â£¬²»¹ýÉáÆúÁËÔ­ÏÈ³µÕ¹ÖÐÄÇºÚ°×Ïà¼äµÄÅäÉ«£¬¶øÍâ¹ÛÈ«ÒÔ°×³µÉ«Ê¾ÈË£¬´ËµãËÆºõÔö¼ÓÁË²»ÉÙÁ¿²úµÄ¿ÉÄÜÐÔ¡£
-±¦ÂítiiÐÔÄÜ¸ÅÄî³µ
-´ËÁ¾1ÏµCoupe
-tii½¨Á¢ÓÚ1ÏµCoupeµÄ»ù´¡ÉÏ£¬²»½ö»»ÉÏÁËÈ«ÐÂµÄÂÖì±Óë¿ÕÆøÌ×¼þ£¬ÓÈÆäºó·½µÄºÚÉ«Ñ¼Î²£¬¸üÊÇ»­Áúµã¾¦Ö®´¦£¬ÄÚ×°ÔòÒÔÌ¼ÏËÎ¬ÊÎ°åÎªÉè¼ÆÖ÷Öá£¬´îÅäÁ½ÕÅÈü³µ×ùÒÎÓëÅÜ³µ»¯·½ÏòÅÌ£¬×ùÒÎÍâ¸ü°ü¸²Alcantara¸ßµµÂ¹Æ¤£¬Õ¹ÏÖ¼«¸ßµÄºÀ»ªÐÔÄÜ÷ÈÁ¦¡£
-±¦ÂítiiÐÔÄÜ¸ÅÄî³µ
-ËäÈ»¶¯Á¦²¿·ÖÒÀ¾ÉÎ´¹«²¼£¬µ«¸ù¾Ý²Â²â£¬´Ë¿îtii¼«ÓÐ¿ÉÄÜ´îÔØ135iËùÅäÓÃµÄÄÇ¾ß3.0ÉýË«ÎÐÂÖÔöÑ¹ÆûÓÍÒýÇæ£¬×î´ó¹¦ÂÊ¹ÀÎª225kw£¬Èç¹ûÈ·¶¨³ÉÕæ£¬ÏàÐÅµ±Äê2002
-tiiµÄ·ç³±£¬½«ÓÐ¿ÉÄÜÔÙ¶ÈÖØÏÖ£¡
-£¨±à¼­
-Íõè÷ÒÙ£©
-[µÚ1Ò³]
-²é¿´ÆÀÂÛ
-·¢±íÆÀÂÛ
-µÂ¹ú±¦Âí
-[
-±¨¼Û
-]
-[
-¶þÊÖ]
-[
-×âÁÞ]
-[
-Î¬ÐÞ
-]
-[
-ÁÄÁÄ
-]
-µÂ¹ú±¦Âí¸ü¶à±¨µÀ...
-³µÊÐ¹¤¾ßÏä
-³µÐÍËÑË÷
-ÐÂ³µ±¨¼Û
-³µÐÍµãÆÀ
-ÐÂ³µ¿´Ì¨
-±£
-Öµ
-ÂÊ
-¶þÊÖ±¨¼Û
-ÎÒÒªÂô³µ
-ÎÒÒªÇó¹º
-Î¬ÐÞ±¨¼Û
-±£ÏÕÊÔËã
-³µÎñ·þÎñ
-Î¥ÕÂ²éÑ¯
-½µ¼Û³µÐÍ
-ÕÇ¼Û³µÐÍ
-ÎÒ°®ÎÒ³µ
-¶À¼Ò±¨µÀ
-Æû³µ¼äµý
-ÓÍºÄÊµ²é
-Ïà¹ØÎÄÕÂ
-¡¤[¸Ä×°]£º´îÔØ1.8LÒýÇæ
-ÐÂÈÕ²útiidaÔË¶¯°æ13ÍòÆðÊÛ
-¡¤ÐÂÄêÐÂÆøÏó
-08¿îTIIDA°éÎÒÏíÊÜ¸ßÆ·ÖÊ¿ìÀÖÉú»î
-¡¤[ÐÂ³µ]£ºÈÕ²úTiida¸Ä¿îÉÏÊÐ
-×îµÍÊÛ¼Û8.9ÍòÔª
-¡¤[ÐÂ³µ]£ºÏÖ´úPK±¦Âí/±¼³Û
-¶¥¼¶ºÀ»ª³µ-ÀÍ¶÷Ë¹¶àÍ¼Ïê½â
-¡¤[ÆØ¹â]£º²ÉÓÃÇ¿»¯Ì¼ÏËÎ¬ËÜÁÏ
-±¦Âí135Á¿²ú°æÆØ¹â
-¡¤[¸Ä×°]£º³ä·ÖÌáÉý²Ù¿Ø¼«ÏÞ
-ÐÂ±¦Âí1Ïµµ×ÅÌÌ×¼þÁÁÏà
-2008-1-30
-2008-1-29
-2008-1-29
-2008-1-29
-2008-1-28
-2008-1-28
-ÈÈµã³µÐÍ
-¾­¼ÃÐÍ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
-ÏÖ´ú-ÑÅÉðÌØ
-ÁåÄ¾SX4ÌìÓï
-ÈÕ²ú-æêÍþ
-³¤°²-±¼±¼
-<?xml
-version="1.0"
-encoding="gb2312"?>
-Ñ©ÌúÁúC2
-±¾Ìï-Ë¼µÏ
-ÆðÑÇ
-RIO
-º£Âí-º£¸£ÐÇ
-<?xml
-version="1.0"
-encoding="gb2312"?>
-Ñ©·ðÀ¼-ÀÖ·ç
-·áÌï-Íþ³Û
-ÁåÄ¾-ÓêÑà
-ÆæÈð
-QQ
-<?xml
-version="1.0"
-encoding="gb2312"?>
-±êÖÂ206
-polo¾¢Çé
-´óÖÚ-½Ý´ï
-±¾Ìï-·É¶È
-ÖÐµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
-ÅÁÈøÌØ-ÁìÔ¦
-±¾Ìï-ÑÅ¸ó
-·áÌï-¿­ÃÀÈð
-Âí×Ô´ï
-6
-<?xml
-version="1.0"
-encoding="gb2312"?>
-±ð¿Ë-¾ýÔ½
-´óÖÚ-ÂõÌÚ
-ÈÕ²ú-Ììô¥
-MGÃû¾ô
-<?xml
-version="1.0"
-encoding="gb2312"?>
-¸£ÌØ-¸£¿ËË¹
-·áÌï-ÈñÖ¾
-Ñ©·ðÀ¼-¾°³Ì
-ÏÖ´ú-Í¾Ê¤
-<?xml
-version="1.0"
-encoding="gb2312"?>
-Ñ©ÌúÁú-¿­Ðý
-±¾ÌïCR-V
-ÈýÁâ-¸êÀ¶
-ÉÏÆû-ÈÙÍþ
-¸ßµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
-°ÂµÏA6
-À×¿ËÈøË¹GS
-¿­µÏÀ­¿ËCTS
-ÎÖ¶ûÎÖXC90
-<?xml
-version="1.0"
-encoding="gb2312"?>
-±¦Âí5Ïµ
-ÃÔÄãMini
-´óÖÚ-Í¾Èñ
-±¦Âí3Ïµ
-<?xml
-version="1.0"
-encoding="gb2312"?>
-±¼³ÛEÏµ
-Â·»¢-ÉñÐÐÕß2
-±£Ê±½Ý-¿¨Ñç
-°ÂµÏA4
-<?xml
-version="1.0"
-encoding="gb2312"?>
-ÁÖÒñ´óµÀ
-300C
-Ó¢·ÆÄáµÏ
-¼ªÆÕJeep
-¾©»¦½ò¹ãÖÝÎäººÉîÛÚÉ½¶«Ì«Ô­Õã½­½­ËÕ¸£½¨ÁÉÄþºÓÄÏÉÂÎ÷ºÓ±±ºþÄÏºÚÁú½­ÄÚÃÉÔÆÄÏËÄ´¨ÖØÇì¹ãÎ÷½­Î÷ÐÂ½®¼ªÁÖ¹óÖÝ¸ÊËàÄþÏÄ°²»Õº£ÄÏÎ÷²ØÇàº£
-¹ØÓÚÍøÉÏ³µÊÐ|·þÎñÒµÎñ|ÎÊÓë´ð|ÕÐÆ¸ÐÅÏ¢|ÁªÏµ·½Ê½|ÓÑÇéÁ´½Ó
-Copyright
-(C)
-1999
--
-2006
-cheshi.com.cn.
-All
-Rights
-Reserved.
-°æÈ¨ËùÓÐ
-ÍøÉÏ³µÊÐ
-Email:service@cheshi.com.cn
-¾©ICPÖ¤030547ºÅ
-¾©ICP±¸05032026ºÅ
-[ÓéÀÖ]£º·ÆÑÇÌØ-ÌåÑéÖÐÐÄ¼´½«Âä³É
-ÉÍ³µ/ÓéÀÖÈ«¼æ¹Ë-ÍøÉÏ³µÊÐ(www.cheshi.com.cn)
-[ÓéÀÖ]£º·ÆÑÇÌØ-ÌåÑéÖÐÐÄ¼´½«Âä³É
-ÉÍ³µ/ÓéÀÖÈ«¼æ¹Ë
-ÍøÉÏ³µÊÐÍøÕ¾
-2008-1-29
-10:14:06
-Ô´×Ô:ÍøÉÏ³µÊÐÍøÕ¾
-²é¿´ÆÀÂÛ
-·¢±íÆÀÂÛ
-·ÆÑÇÌØ
-[
-±¨¼Û
-]
-[
-¶þÊÖ]
-[
-×âÁÞ]
-[
-Î¬ÐÞ
-]
-[
-ÁÄÁÄ
-]
-·ÆÑÇÌØ¸ü¶à±¨µÀ...
-[ÐÂ³µ]£ºÓ¢·ÆÄáµÏEX35ÄêÄÚÉÏÊÐ
-¶àÍ¼Ïê½â-Ð¡ÐÍSUV
-[ÐÂ³µ]£ºË¹¿Â´ï-ÐÂËÙÅÉÓëÂõÌÚÍ¬Æ½Ì¨
-2009ÄêÓÐÍû¹ú²ú
-[ÐÐÒµ]£ºÅ·±¦4SµêÔÂÏúÁ¿½ö8Ì¨
-ÓªÏúÌåÏµ¼±´ýÕûºÏ
-[ÐÂ³µ]£ºÔË¶¯°ææêÍþ4ÔÂµÇ³¡
-Íâ¹Û-ÄÚÊÎÍ¹ÏÔÔË¶¯ÔªËØ
-[ÆÀ²â]£ºÁ½ÏáÈüÀ­Í¼×ö¹¤ÖÊÁ¿ÆÀ²â
-ÄÚÍâÏ¸½ÚÏê½â
-[ÐÂ³µ]£ºÐÂ¾ýÔ½3.0¹Ù·½½µ¼Û3Íò
-2.4±êÅäÁùËÙ±äËÙÆ÷
-4Sµê£¬¹ËÃûË¼Òå£¬ÊÇ¼¯Õû³µÏúÊÛ£¨Sale£©¡¢ÁãÅä¼þ£¨Sparepart£©¡¢ÊÛºó·þÎñ£¨Service£©¡¢ÐÅÏ¢·´À¡µÈ£¨Survey£©ËÄÎ»ÓÚÒ»ÌåµÄÆû³µÌØÐí¾­ÓªÄ£Ê½¡£ÕâÒ»ÓÉ1998Äêºó²ÅÖð²½´ÓÅ·ÖÞ´«ÈëÖÐ¹úµÄ²°À´Æ·£¬ÒÔÆä¹ºÎï»·¾³ÓÅÃÀ¡¢Æ·ÅÆÒâÊ¶Ç¿µÈÓÅÊÆÑ¸ËÙÔÚ¹úÄÚ±éµØ¿ª»¨¡£È»¶ø£¬¹úÍâÆû³µ³§¼ÒµÄ³µÁ¾ÌåÑéÖÐÐÄÈ´ÈÔÎ´ÔøÔÚÖÐ¹ú´óÁ¿µÄÆÕ¼°£¬ÔÚÓ¢¹ú¼´½«ÔÙÌíÒ»×ùÈ«ÐÂµÄÆû³µÌåÑéÖÐÐÄ¡£
-Ó¢¹ú·ÆÑÇÌØ½üÈÕ¹«²¼È«ÐÂÕ¹ÊÛÌåÑéÖÐÐÄµÄ²ÝÍ¼£¨·º³ÆFIAT
-Marylebone£©£¬³ÊÏÖÉè¼ÆÐÂÓ±¼ò½àÃ÷ÁÁµÄÉè¼Æ·ç¸ñ£¬²¢ÇÒ½«ÓÚ2008Äê³õÔÚÂ×¶ØÕýÊ½¿ªÄ»£¬´ø¸øµ±µØÏû·ÑÕß½ØÈ»²»Í¬µÄ¹º³µ¸ÐÊÜ¡£·ÆÑÇÌØÈ«ÐÂÕ¹ÊÛÖÐÐÄ£¬×ùÂäÓÚÂ×¶ØÊÐÖÐÐÄµÄ¨”Wigmore¨•½Ö105ºÅ£¬ÄËÊÇ×Ô1995ÄêÖ®ºó£¬·ÆÑÇÌØÔÙ¶ÈÓÐÕ¹ÊÛÖÐÐÄ½ø×¤Â×¶ØµÄÐÄÔàµØ´ø¡£
-FIAT
-MaryleboneµÄ¿ªÄ»£¬²»½ö´ú±í·ÆÑÇÌØ¶ÔÓÚÓ¢¹úÏû·ÑÕßµÄÖØÊÓ£¬Í¬Ê±Ò²Ï£ÍûÄÜ½è´Ë³ÊÏÖ·ÆÑÇÌØµÄÆ·ÅÆ¼ÛÖµ£¬Í¬Ê±Ìá¹©ÓÅÖÊµÄÕ¹ÊÛÓëÊÛºó·þÎñ¡£
-Õ¼µØ¿í¹ãµÄFIAT
-Marylebone¹²ÓÐÁ½²ãÂ¥¸ß£¬10Î»½Ó´ýÈËÔ±£¬
-³ýÁËÌá¹©Ïû·ÑÕßÉÍ³µ¡¢¶©³µµÈ»ù±¾·þÎñÖ®Íâ£¬¸üÌá¹©ÒòÌØÍø¹©Ïû·ÑÕßÉÏÍø²éÑ¯¹ØÓÚ·ÆÑÇÌØÏµÁÐ³µ¿îµÄÏà¹ØÐÅÏ¢£¬¸ü»á²»¶¨ÆÚ¾Ù°ìÊ±×°±íÑÝ¡¢ÕÐ´ý»áÓëÓªÏú»î¶¯¡£
-²»½öÈç´Ë£¬ÆäÖÐÔ¼Ò»Ç§Æ½·½¹«³ßµÄ·ÇÊÒÄÚÕ¹Ê¾ÖÐÐÄ£¬¸ü¿ÉÒÔÈÃÏû·ÑÕßÊµ¼ÊÌåÑé°üÀ¨¶¼ÊÐÐ¡³µ¡ª¡ª·ÆÑÇÌØ500µÈÈ«ÐÂ³µ¿î£¬Í¸¹ý¸öÈË»¯·þÎñ£¬½øÈëÍêÈ«ÊôÓÚ·ÆÑÇÌØµÄÊÀ½ç¡£Ó¢¹ú·ÆÑÇÌØ×Ü²ÃAndrew
-Humberstone±íÊ¾£¬FIAT
-MaryleboneµÄ¿ªÄ»£¬²»½ö´ú±í·ÆÑÇÌØ¶ÔÓÚÓ¢¹úÏû·ÑÕßµÄÖØÊÓ£¬Í¬Ê±Ò²Ï£ÍûÄÜ½è´Ë³ÊÏÖ·ÆÑÇÌØµÄÆ·ÅÆ¼ÛÖµ£¬Í¬Ê±Ìá¹©ÓÅÖÊµÄÕ¹ÊÛÓëÊÛºó·þÎñ¡££¨±à¼­
-ÈÎÎ°£©
-[µÚ1Ò³]
-²é¿´ÆÀÂÛ
-·¢±íÆÀÂÛ
-·ÆÑÇÌØ
-[
-±¨¼Û
-]
-[
-¶þÊÖ]
-[
-×âÁÞ]
-[
-Î¬ÐÞ
-]
-[
-ÁÄÁÄ
-]
-·ÆÑÇÌØ¸ü¶à±¨µÀ...
-³µÊÐ¹¤¾ßÏä
-³µÐÍËÑË÷
-ÐÂ³µ±¨¼Û
-³µÐÍµãÆÀ
-ÐÂ³µ¿´Ì¨
-±£
-Öµ
-ÂÊ
-¶þÊÖ±¨¼Û
-ÎÒÒªÂô³µ
-ÎÒÒªÇó¹º
-Î¬ÐÞ±¨¼Û
-±£ÏÕÊÔËã
-³µÎñ·þÎñ
-Î¥ÕÂ²éÑ¯
-½µ¼Û³µÐÍ
-ÕÇ¼Û³µÐÍ
-ÎÒ°®ÎÒ³µ
-¶À¼Ò±¨µÀ
-Æû³µ¼äµý
-ÓÍºÄÊµ²é
-Ïà¹ØÎÄÕÂ
-¡¤[ÓéÀÖ]£º007ÐÂµçÓ°Æ¬ÃûÒÑ¶¨
-°¢Ë¹¶ÙÂí¶¡DBSÔÙ¶ÈµÇ³¡
-¡¤[ÐÂ³µ]£º´îÔØ1.4LÔöÑ¹ÒýÇæ
-·ÆÑÇÌØ500³¨Åñ³µ½«ÁÁÏà
-¡¤[¶¯Ì¬]£ºÉÏº£´óÖÚË¹¿Â´ïÃ÷Èñ´îÔØÈË»ú»¥¶¯DVDµ¼º½ÓéÀÖÏµÍ³
-¡¤[´ÙÏú]£º·ÆÑÇÌØÅÉÁ¦°Â
-ÐÂÄê¶àÏîÓÅ»ÝÈÃÄúÌô
-¡¤[ÆØ¹â]£º´îÔØÈ«ÐÂ·¢¶¯»ú
-·ÆÑÇÌØÐÂ¿îÅÜ³µÍ¼Æ¬ÆØ¹â
-¡¤ÒªÆøÄÒ²»ÒªÓéÀÖ
-2008-1-28
-2008-1-26
-2008-1-24
-2008-1-23
-2008-1-22
-2008-1-21
-ÈÈµã³µÐÍ
-¾­¼ÃÐÍ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
-ÏÖ´ú-ÑÅÉðÌØ
-ÁåÄ¾SX4ÌìÓï
-ÈÕ²ú-æêÍþ
-³¤°²-±¼±¼
-<?xml
-version="1.0"
-encoding="gb2312"?>
-Ñ©ÌúÁúC2
-±¾Ìï-Ë¼µÏ
-ÆðÑÇ
-RIO
-º£Âí-º£¸£ÐÇ
-<?xml
-version="1.0"
-encoding="gb2312"?>
-Ñ©·ðÀ¼-ÀÖ·ç
-·áÌï-Íþ³Û
-ÁåÄ¾-ÓêÑà
-ÆæÈð
-QQ
-<?xml
-version="1.0"
-encoding="gb2312"?>
-±êÖÂ206
-polo¾¢Çé
-´óÖÚ-½Ý´ï
-±¾Ìï-·É¶È
-ÖÐµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
-ÅÁÈøÌØ-ÁìÔ¦
-±¾Ìï-ÑÅ¸ó
-·áÌï-¿­ÃÀÈð
-Âí×Ô´ï
-6
-<?xml
-version="1.0"
-encoding="gb2312"?>
-±ð¿Ë-¾ýÔ½
-´óÖÚ-ÂõÌÚ
-ÈÕ²ú-Ììô¥
-MGÃû¾ô
-<?xml
-version="1.0"
-encoding="gb2312"?>
-¸£ÌØ-¸£¿ËË¹
-·áÌï-ÈñÖ¾
-Ñ©·ðÀ¼-¾°³Ì
-ÏÖ´ú-Í¾Ê¤
-<?xml
-version="1.0"
-encoding="gb2312"?>
-Ñ©ÌúÁú-¿­Ðý
-±¾ÌïCR-V
-ÈýÁâ-¸êÀ¶
-ÉÏÆû-ÈÙÍþ
-¸ßµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
-°ÂµÏA6
-À×¿ËÈøË¹GS
-¿­µÏÀ­¿ËCTS
-ÎÖ¶ûÎÖXC90
-<?xml
-version="1.0"
-encoding="gb2312"?>
-±¦Âí5Ïµ
-ÃÔÄãMini
-´óÖÚ-Í¾Èñ
-±¦Âí3Ïµ
-<?xml
-version="1.0"
-encoding="gb2312"?>
-±¼³ÛEÏµ
-Â·»¢-ÉñÐÐÕß2
-±£Ê±½Ý-¿¨Ñç
-°ÂµÏA4
-<?xml
-version="1.0"
-encoding="gb2312"?>
-ÁÖÒñ´óµÀ
-300C
-Ó¢·ÆÄáµÏ
-¼ªÆÕJeep
-¾©»¦½ò¹ãÖÝÎäººÉîÛÚÉ½¶«Ì«Ô­Õã½­½­ËÕ¸£½¨ÁÉÄþºÓÄÏÉÂÎ÷ºÓ±±ºþÄÏºÚÁú½­ÄÚÃÉÔÆÄÏËÄ´¨ÖØÇì¹ãÎ÷½­Î÷ÐÂ½®¼ªÁÖ¹óÖÝ¸ÊËàÄþÏÄ°²»Õº£ÄÏÎ÷²ØÇàº£
-¹ØÓÚÍøÉÏ³µÊÐ|·þÎñÒµÎñ|ÎÊÓë´ð|ÕÐÆ¸ÐÅÏ¢|ÁªÏµ·½Ê½|ÓÑÇéÁ´½Ó
-Copyright
-(C)
-1999
--
-2006
-cheshi.com.cn.
-All
-Rights
-Reserved.
-°æÈ¨ËùÓÐ
-ÍøÉÏ³µÊÐ
-Email:service@cheshi.com.cn
-¾©ICPÖ¤030547ºÅ
-¾©ICP±¸05032026ºÅ
-[ÐÂ³µ]£ºµÀÆæSUV¿á²«2ÔÂ26ÈÕÉÏÊÐ
-ÊÛ¼Û23ÍòÔª-ÍøÉÏ³µÊÐ(www.cheshi.com.cn)
-[ÐÂ³µ]£ºµÀÆæSUV¿á²«2ÔÂ26ÈÕÉÏÊÐ
-ÊÛ¼Û23ÍòÔª
-ÍøÉÏ³µÊÐÍøÕ¾
-2008-1-30
-7:21:34
-Ô´×Ô:ÍøÉÏ³µÊÐÍøÕ¾
-µËçô
-²é¿´ÆÀÂÛ
-·¢±íÆÀÂÛ
-µÀÆæ
-[
-±¨¼Û
-]
-[
-¶þÊÖ]
-[
-×âÁÞ]
-[
-Î¬ÐÞ
-]
-[
-ÁÄÁÄ
-]
-µÀÆæ¸ü¶à±¨µÀ...
-[ÐÂ³µ]£º·ÅÆúÈýÁâ±êÊ¶?
-¸êÀ¶¡¢À¶Éª½«»»×°¶«ÄÏ³µ±ê(Í¼)
-[ÆØ¹â]£ºËÙÌÚ¼´½«È«Ïµ¸Ä¿î
-ÅäÖÃÌáÉý-ÍâÐÎÐ¡¸Ä(Í¼)
-[ÐÐÒµ]£ºÅ·±¦4SµêÔÂÏúÁ¿½ö8Ì¨
-ÓªÏúÌåÏµ¼±´ýÕûºÏ
-[ÐÂ³µ]£º¹ú²úÐÂ±¼³ÛC¼¶3ÔÂ15ÈÕÉÏÊÐ
-ÊÛ¼ÛµÍÓÚ½ø¿Ú
-[ÐÂ³µ]£ºµÀÆæ-¿á²«ÉÏÊÐÔÚ¼´
-ÊÛ¼Û23Íò-´îÔØ2.0ÒýÇæ
-[°²È«]£ºÁ½Ïá±êÖÂ307¼´½«ÉÏÊÐ
-°²È«ÐÔÄÜÏêÏ¸½âÎö
-¼Ì¿­ÁìÓë·æÕÜÏÈºóÒÔ¹ú²úºÍ½ø¿ÚµÄ·½Ê½ÒýÈë¹úÄÚºó£¬µÀÆæµÚÈý¿î³µÐÍ-¿á²«Ò²½«ÓÚ2ÔÂ26ÈÕÕýÊ½Èë»ª¡£¾Ý¿ËÀ³Ë¹ÀÕµÀÆæÏà¹ØÈËÊ¿Í¸Â¶£¬Õâ¿î´îÔØ2.0ÅÅÁ¿·¢¶¯»úµÄµÀÆæ-¿á²«³µÐÍ£¬ÆäÊÛ¼ÛÎª23ÍòÔª¡£µÀÆæ-¿á²«ÈÚºÏÁË½Î³µ¡¢SUVÉõÖÁÊÇÅÜ³µµÄÉè¼ÆÔªËØ£¬ÕâÒ²ÈÃÆä¾ß±¸ÁË¶à¹¦ÄÜ³µµÄÓÅÊÆ¡£
-Áí¾ÝµÀÆæÊÚÈ¨µêµÄÏúÊÛÈËÔ±½éÉÜ£¬ËäÈ»µÀÆæ-¿á²«³µÐÍ½«ÓÚ¶þÔÂµ×²ÅÉÏÊÐ·¢²¼£¬µ«ÊÇ±¾ÔÂµ×»òÏÂÔÂ³õ½«ÓÐÏÖ³µµ½µê¡£Ä¿Ç°µÀÆæ-¿á²«Ö»ÓÐÒ»¿î´îÔØ2.0ÅÅÁ¿µÄ³µÐÍ£¬ÇÒÊÛ¼ÛÎª23ÍòÔª×óÓÒ¡£´ËÍâ¸ÃÏúÊÛÈËÔ±»¹Ç¿µ÷£¬Èç¹ûÏÖÔÚ½ÉÄÉ¶©½ðÔ¤¶©µÀÆæ-¿á²«£¬¿ÉÒÔ±£Ö¤Ïû·ÑÕßÔÚÆäÉÏÊÐ·¢²¼Ç°Ìáµ½ÏÖ³µ¡£
-µÀÆæ-¿á²«µÄÇ°Á³ÔìÐÍ´øÓÐµÀÆæ¼Ò×åÃ÷ÏÔµÄÌØÕ÷£¬ÅÓ´óµÄË®Ïä¸ñÕ¤¡¢´óÊ®×Ö¶Æ¸õ×°ÊÎÒÔ¼°¡°¹«Ñò¡±³µ±ê¡£µ±´Ó²àÃæ¼°ºóÃæ¿´È¥Ê±£¬Ò»¹ÉÅ¨ÓôµÄcrossover(½»²æ³µÐÍ)·ç¸ñÍêÈ«ÌåÏÖÔÚµÀÆæ-¿á²«ÉíÉÏ¡£
-ÄÚÊÎ·½Ãæ£¬µÀÆæ-¿á²«ÑÓÐøÁËµÀÆæ¼òÔ¼ÊµÓÃµÄ·ç¸ñ¡£ÆäÄÚ²¿ÏßÌõÓëÍâ¹ÛÏàÍ¬£¬Í¨¹ýÃ÷È·µÄ¡°ÇÐ¸î¡±°ãµÄÏßÌõ»®·ÖÁË¸÷¸ö¹¦ÄÜÇøÓò¡£ÖÐ¿ØÌ¨ÉÏ°´¼üÇåÎúÒ×¶®£¬4ËÙCVT±äËÙÆ÷³Ê45¡ãÐ±ÖÃÓÚÖÐ¿ÕÃæ°åÏÂ¡£´øÀä²Ø¹¦ÄÜµÄ·öÊÖÏä¿ÉÒÔÍ¬Ê±·ÅÏÂ4Ö»Ò×À­¹Þ£¬·½±ã³Ë¿ÍµÄÈÕ³£ÐèÇó¡£
-µÀÆæ-¿á²«Åä±¸ÁË2.0L
-16ÆøÃÅ·¢¶¯»ú£¬¸Ã·¢¶¯»ú¶¯Á¦Êä³ö´ïµ½115KWµÄ¹¦ÂÊºÍ190NmµÄÅ¤¾Ø¡£Í¬Ê±4ËÙCVT±äËÙÆ÷µÄÊ¹ÓÃ£¬Ò²½«ÈÃÕâ¿î¶¼ÊÐ¶à¹¦ÄÜ³µµÄ²Ù×÷¸ü¼Ó¼òµ¥ÓëÊæÊÊ¡£
-Ëæ×ÅµÀÆæ-¿á²«³µÐÍ¼´½«ÒÔ½ø¿Ú·½Ê½µÄÒý½ø£¬Æä²»½ö½øÒ»²½ÍêÉÆÁËµÀÆæÆ·ÅÆÔÚ¹úÄÚµÄ²úÆ·Ïß£¬Í¬Ê±Ò²ÎªÏ²°®µÀÆæÆ·ÅÆµÄÏû·ÑÕß´øÀ´ÁË¸ü¶àµÄ¸öÐÔÑ¡Ôñ¡£ÄÇÃ´¶ÔÓÚÕâ¿îÊÛ¼Û23ÍòÔªµÄ½ø¿Ú³µÐÍ£¬ÄúÊÇ·ñÒÑ×öºÃ¼ÝÔ¦ËüµÄ×¼±¸ÁËÄØ¡££¨±à¼­
-µËçô£©
-[µÚ1Ò³]
-²é¿´ÆÀÂÛ
-·¢±íÆÀÂÛ
-µÀÆæ
-[
-±¨¼Û
-]
-[
-¶þÊÖ]
-[
-×âÁÞ]
-[
-Î¬ÐÞ
-]
-[
-ÁÄÁÄ
-]
-µÀÆæ¸ü¶à±¨µÀ...
-³µÊÐ¹¤¾ßÏä
-³µÐÍËÑË÷
-ÐÂ³µ±¨¼Û
-³µÐÍµãÆÀ
-ÐÂ³µ¿´Ì¨
-±£
-Öµ
-ÂÊ
-¶þÊÖ±¨¼Û
-ÎÒÒªÂô³µ
-ÎÒÒªÇó¹º
-Î¬ÐÞ±¨¼Û
-±£ÏÕÊÔËã
-³µÎñ·þÎñ
-Î¥ÕÂ²éÑ¯
-½µ¼Û³µÐÍ
-ÕÇ¼Û³µÐÍ
-ÎÒ°®ÎÒ³µ
-¶À¼Ò±¨µÀ
-Æû³µ¼äµý
-ÓÍºÄÊµ²é
-Ïà¹ØÎÄÕÂ
-¡¤[ÐÂ³µ]£ºµÀÆæ-¿á²«³µÐÍÉÏÊÐÔÚ¼´
-²ÎÊý-ÅäÖÃÇÀÏÈ¿´(±í)
-¡¤[ÐÂ³µ]£ºµÀÆæ-¿á²«2ÔÂ26ÈÕÕýÊ½·¢²¼
-´îÔØ2.0ÅÅÁ¿·¢¶¯»ú
-¡¤µÀÆæ·æÕÜ/¿á²«Ã÷ÄêÉÏÊÐ
-×¨·Ã¿ËÀ³Ë¹ÀÕÊ×Ï¯Ö´ÐÐ¹Ù°¬Ë¼ÃÏ
-¡¤¿¨µÏÀ­¿ËµÍ³±ÖÐÉÏÊÐ
-ÖÐ¸ß¼¶½Î³µ½«²Ð¿á²«É±
-2008-1-25
-2008-1-24
-2007-11-20
-2004-12-30
-ÈÈµã³µÐÍ
-¾­¼ÃÐÍ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
-ÏÖ´ú-ÑÅÉðÌØ
-ÁåÄ¾SX4ÌìÓï
-ÈÕ²ú-æêÍþ
-³¤°²-±¼±¼
-<?xml
-version="1.0"
-encoding="gb2312"?>
-Ñ©ÌúÁúC2
-±¾Ìï-Ë¼µÏ
-ÆðÑÇ
-RIO
-º£Âí-º£¸£ÐÇ
-<?xml
-version="1.0"
-encoding="gb2312"?>
-Ñ©·ðÀ¼-ÀÖ·ç
-·áÌï-Íþ³Û
-ÁåÄ¾-ÓêÑà
-ÆæÈð
-QQ
-<?xml
-version="1.0"
-encoding="gb2312"?>
-±êÖÂ206
-polo¾¢Çé
-´óÖÚ-½Ý´ï
-±¾Ìï-·É¶È
-ÖÐµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
-ÅÁÈøÌØ-ÁìÔ¦
-±¾Ìï-ÑÅ¸ó
-·áÌï-¿­ÃÀÈð
-Âí×Ô´ï
-6
-<?xml
-version="1.0"
-encoding="gb2312"?>
-±ð¿Ë-¾ýÔ½
-´óÖÚ-ÂõÌÚ
-ÈÕ²ú-Ììô¥
-MGÃû¾ô
-<?xml
-version="1.0"
-encoding="gb2312"?>
-¸£ÌØ-¸£¿ËË¹
-·áÌï-ÈñÖ¾
-Ñ©·ðÀ¼-¾°³Ì
-ÏÖ´ú-Í¾Ê¤
-<?xml
-version="1.0"
-encoding="gb2312"?>
-Ñ©ÌúÁú-¿­Ðý
-±¾ÌïCR-V
-ÈýÁâ-¸êÀ¶
-ÉÏÆû-ÈÙÍþ
-¸ßµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
-°ÂµÏA6
-À×¿ËÈøË¹GS
-¿­µÏÀ­¿ËCTS
-ÎÖ¶ûÎÖXC90
-<?xml
-version="1.0"
-encoding="gb2312"?>
-±¦Âí5Ïµ
-ÃÔÄãMini
-´óÖÚ-Í¾Èñ
-±¦Âí3Ïµ
-<?xml
-version="1.0"
-encoding="gb2312"?>
-±¼³ÛEÏµ
-Â·»¢-ÉñÐÐÕß2
-±£Ê±½Ý-¿¨Ñç
-°ÂµÏA4
-<?xml
-version="1.0"
-encoding="gb2312"?>
-ÁÖÒñ´óµÀ
-300C
-Ó¢·ÆÄáµÏ
-¼ªÆÕJeep
-¾©»¦½ò¹ãÖÝÎäººÉîÛÚÉ½¶«Ì«Ô­Õã½­½­ËÕ¸£½¨ÁÉÄþºÓÄÏÉÂÎ÷ºÓ±±ºþÄÏºÚÁú½­ÄÚÃÉÔÆÄÏËÄ´¨ÖØÇì¹ãÎ÷½­Î÷ÐÂ½®¼ªÁÖ¹óÖÝ¸ÊËàÄþÏÄ°²»Õº£ÄÏÎ÷²ØÇàº£
-¹ØÓÚÍøÉÏ³µÊÐ|·þÎñÒµÎñ|ÎÊÓë´ð|ÕÐÆ¸ÐÅÏ¢|ÁªÏµ·½Ê½|ÓÑÇéÁ´½Ó
-Copyright
-(C)
-1999
--
-2006
-cheshi.com.cn.
-All
-Rights
-Reserved.
-°æÈ¨ËùÓÐ
-ÍøÉÏ³µÊÐ
-Email:service@cheshi.com.cn
-¾©ICPÖ¤030547ºÅ
-¾©ICP±¸05032026ºÅ
-[¸Ä×°]£º´îÔØ1.8LÒýÇæ
-ÐÂÈÕ²útiidaÔË¶¯°æ13ÍòÆðÊÛ-ÍøÉÏ³µÊÐ(www.cheshi.com.cn)
-[¸Ä×°]£º´îÔØ1.8LÒýÇæ
-ÐÂÈÕ²útiidaÔË¶¯°æ13ÍòÆðÊÛ
-ÍøÉÏ³µÊÐÍøÕ¾
-2008-1-30
-8:38:00
-Ô´×Ô:ÍøÉÏ³µÊÐÍøÕ¾
-²é¿´ÆÀÂÛ
-·¢±íÆÀÂÛ
-ÈÕ²ú
-[
-±¨¼Û
-]
-[
-¶þÊÖ]
-[
-×âÁÞ]
-[
-Î¬ÐÞ
-]
-[
-ÁÄÁÄ
-]
-ÈÕ²ú¸ü¶à±¨µÀ...
-[ÐÂ³µ]£º¶«·çÈÕ²úÄêÄÚÍÆ³ö¸ß¶Ë³µÐÍ
-ÍâÐÎ¿áËÆ·çÑÅ
-[ÐÐÒµ]£º¶«ÄÏ½«ÍÆ³öA0¼¶ÐÂ³µ
-Ô¤¼Æ±±¾©³µÕ¹ÁÁÏà(Í¼)
-[ÆØ¹â]£ºËÙÌÚ¼´½«È«Ïµ¸Ä¿î
-ÅäÖÃÌáÉý-ÍâÐÎÐ¡¸Ä(Í¼)
-[ÐÐÒµ]£ºÅ·±¦4SµêÔÂÏúÁ¿½ö8Ì¨
-ÓªÏúÌåÏµ¼±´ýÕûºÏ
-[ÆÀ²â]£º¼ªÄ·Äá×ö¹¤ÖÊÁ¿ÆÀ²â
-È«Ãæ½â¶ÁÄÚÍâÏ¸½Ú
-[½µ¼Û]£ºÅ·±¦-Íþ´ïÈ«Ïµ³µÐÍÓÅ»Ý
-×î¸ß½µ·ù´ï2ÍòÔª
-08¿îTiidaÔË¶¯°æ
-×î½üÈÕ²ú(ÄáÉ£)ÓÚÈÕ±¾µ±µØ·¢±íÈ«ÐÂ2008ÄêÊ½¸Ä¿îTiida-Tiida
-Latio³µÏµÖ®ºó£¬Ëæºó×·¼Ó·¢±íÈ«ÐÂ¸Ä¿îµÄTiida
-Axis×¨ÊôÌ×¼þÐÂ³µ£¬È«³µÏµ½¨ÒéÊÛ¼Û½éÓÚ193.41-218.4ÍòÈÕÔ²Ö®¼ä£¬Ô¼ºÏÈËÃñ±Ò13.04-14.73ÍòÔª×óÓÒ¡£
-08¿îTiidaÔË¶¯°æ
-Õâ¿îÈ«ÐÂ2008ÄêÊ½µÄÎåÃÅÏÆ±³Tiida
-AxisÌ×¼þÊ½ÑùÐÂ³µ£¬¾ß±¸Ô­³§Axis·ç¸ñµÄ³µÉíÌ×¼þÓëÏ¸²¿×é¼þÖ®Íâ£¬Ò²Ìá¹©¶àÏîÄÚ×°ÊÎ°å¹©Ïû·ÑÕßÑ¡Åä£¬¶øÇÒÔ­³§¸üÐû²¼½«Â½ÐøÍÆ³ö¶à¿îÔ­³§¶ÍÔìÂÁºÏ½ðÂÖì±×éºÏ¡£
-08¿îTiidaÔË¶¯°æ
-¶¯Á¦ÏµÍ³·½ÃæÔòÌá¹©ÅÅÆøÁ¿Îª1.5ÉýÓë1.8ÉýµÄCVT±äËÙÏµÍ³ÐÂ³µÎªÖ÷£¬´ËÍâ±±º£µÀÊ½Ñùµç×ÓËÄÇý°æ±¾£¬ÔòÌá¹©´îÅä1.5ÉýÒýÇæµÄËÄËÙ×ÔÅÅ³µÐÍ£¨15M-Four£©¡£
-08¿îTiidaÔË¶¯°æ
-£¨±à¼­
-Íõè÷ÒÙ£©
-[µÚ1Ò³]
-²é¿´ÆÀÂÛ
-·¢±íÆÀÂÛ
-ÈÕ²ú
-[
-±¨¼Û
-]
-[
-¶þÊÖ]
-[
-×âÁÞ]
-[
-Î¬ÐÞ
-]
-[
-ÁÄÁÄ
-]
-ÈÕ²ú¸ü¶à±¨µÀ...
-³µÊÐ¹¤¾ßÏä
-³µÐÍËÑË÷
-ÐÂ³µ±¨¼Û
-³µÐÍµãÆÀ
-ÐÂ³µ¿´Ì¨
-±£
-Öµ
-ÂÊ
-¶þÊÖ±¨¼Û
-ÎÒÒªÂô³µ
-ÎÒÒªÇó¹º
-Î¬ÐÞ±¨¼Û
-±£ÏÕÊÔËã
-³µÎñ·þÎñ
-Î¥ÕÂ²éÑ¯
-½µ¼Û³µÐÍ
-ÕÇ¼Û³µÐÍ
-ÎÒ°®ÎÒ³µ
-¶À¼Ò±¨µÀ
-Æû³µ¼äµý
-ÓÍºÄÊµ²é
-Ïà¹ØÎÄÕÂ
-¡¤[ÐÂ³µ]£º¶«·çÈÕ²úÄêÄÚÍÆ³ö¸ß¶Ë³µÐÍ
-ÍâÐÎ¿áËÆ·çÑÅ
-¡¤[½µ¼Û]£ºÆßÈËMPVµÄÑ¡Ôñ
-¶«·çÈÕ²ú¿¥ÒÝ¾¢¼õ8000Ôª
-¡¤[ÐÂ³µ]£ºÖ£ÖÝÈÕ²úÅ·¢ó²ñÓÍÆ¤¿¨Áì¡°Ð¾¡±ÉÏÊÐ
-¡¤¶«·çÈÕ²ú¡°ÐÂÄêÔ²ÃÎ¡±»î¶¯Òý±¬¾©³Ç
-ÈýÌì±¨ÃûÈËÊý¸ß´ï400ÈË
-¡¤[µ¼¹º]£º´óÓÑÈÕ²úµê°üÏúÌìô¥
-ÏÞÁ¿ÏúÊÛ×îµÍÓÅ»Ý2ÍòÔª
-¡¤[ÉÌ¼Ò]£º¶«·çÈÕ²ú¹ãÔ£µê¿ªÒµÊ×´Î³µÕ¹Ë³Àû¾ÙÐÐ
-2008-1-31
-2008-1-30
-2008-1-30
-2008-1-30
-2008-1-30
-2008-1-29
-ÈÈµã³µÐÍ
-¾­¼ÃÐÍ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
-ÏÖ´ú-ÑÅÉðÌØ
-ÁåÄ¾SX4ÌìÓï
-ÈÕ²ú-æêÍþ
-³¤°²-±¼±¼
-<?xml
-version="1.0"
-encoding="gb2312"?>
-Ñ©ÌúÁúC2
-±¾Ìï-Ë¼µÏ
-ÆðÑÇ
-RIO
-º£Âí-º£¸£ÐÇ
-<?xml
-version="1.0"
-encoding="gb2312"?>
-Ñ©·ðÀ¼-ÀÖ·ç
-·áÌï-Íþ³Û
-ÁåÄ¾-ÓêÑà
-ÆæÈð
-QQ
-<?xml
-version="1.0"
-encoding="gb2312"?>
-±êÖÂ206
-polo¾¢Çé
-´óÖÚ-½Ý´ï
-±¾Ìï-·É¶È
-ÖÐµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
-ÅÁÈøÌØ-ÁìÔ¦
-±¾Ìï-ÑÅ¸ó
-·áÌï-¿­ÃÀÈð
-Âí×Ô´ï
-6
-<?xml
-version="1.0"
-encoding="gb2312"?>
-±ð¿Ë-¾ýÔ½
-´óÖÚ-ÂõÌÚ
-ÈÕ²ú-Ììô¥
-MGÃû¾ô
-<?xml
-version="1.0"
-encoding="gb2312"?>
-¸£ÌØ-¸£¿ËË¹
-·áÌï-ÈñÖ¾
-Ñ©·ðÀ¼-¾°³Ì
-ÏÖ´ú-Í¾Ê¤
-<?xml
-version="1.0"
-encoding="gb2312"?>
-Ñ©ÌúÁú-¿­Ðý
-±¾ÌïCR-V
-ÈýÁâ-¸êÀ¶
-ÉÏÆû-ÈÙÍþ
-¸ßµµ³µ
-<?xml
-version="1.0"
-encoding="gb2312"?>
-°ÂµÏA6
-À×¿ËÈøË¹GS
-¿­µÏÀ­¿ËCTS
-ÎÖ¶ûÎÖXC90
-<?xml
-version="1.0"
-encoding="gb2312"?>
-±¦Âí5Ïµ
-ÃÔÄãMini
-´óÖÚ-Í¾Èñ
-±¦Âí3Ïµ
-<?xml
-version="1.0"
-encoding="gb2312"?>
-±¼³ÛEÏµ
-Â·»¢-ÉñÐÐÕß2
-±£Ê±½Ý-¿¨Ñç
-°ÂµÏA4
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 ÁÖÒñ´óµÀ
 300C
 Ó¢·ÆÄáµÏ

@@ -47,8 +47,8 @@ int deb_upper_string(char *p_instr);
 
 //extern int MessageBox(int ,char *,char *,int );
 
-#define TREE_SIZE 2000000
-#define LIST_SIZE 2000000
+#define TREE_SIZE 10000000
+#define LIST_SIZE 1000000
 
 /*
 class tree2
@@ -74,8 +74,8 @@ class tree2
     char  t1_list_stack_type[LIST_SIZE];
     int   t1_list_ptr;
 
-    char  t1_out_buff[TREE_SIZE][55];
-    int   t1_out_buff2[TREE_SIZE];
+    //char  t1_out_buff[TREE_SIZE][55];
+    //int   t1_out_buff2[TREE_SIZE];
 /*
     int   t1_out_buff3[TREE_SIZE][5][3];
     int   t1_out_buff3_ptr[TREE_SIZE];
@@ -87,10 +87,10 @@ class tree2
     int   t1_init_tree2(void);
     int   t1_new_node(void);
     int   t1_clear_node(int ptr);
-    int   t1_search_node(char *pstr);
-    int   t1_insert_node(char *pstr);
+    int   t1_search_node(char *pstr,int);
+    int   t1_insert_node(char *pstr,int);
     int   t1_dsp_tree2(void);
-    int   t1_after_list(void);
+    int   t1_after_list(char *);
     int   t1_out_list(char *pstr,int ,int);
     int   t1_dsp_list(void);
     int   t1_save_list(char *fn);
@@ -102,6 +102,7 @@ class tree2
 class tree2 tree2_1;
 */
 
+extern int deb_str_has_null(const char *str,int str_size);
 
 int /*tree2::*/t1_init_tree2(void)
 {
@@ -149,11 +150,17 @@ int /*tree2::*/t1_clear_node(int ptr)
   return(0);
 }
 
-int /*tree2::*/t1_search_node(char *pstr)
+int /*tree2::*/t1_search_node(char *pstr,int pstr_size)
 {
   int i,j;
+  int z;
 
-  if ((int)strlen(pstr)>50) return(1);
+  if (pstr_size>51) z=51;
+  else z=pstr_size;
+  
+  if (deb_str_has_null(pstr,z)!=1) return(1);
+  
+  //if ((int)strlen(pstr)>50) return(1);
   
   if (t1_root_ptr<0)
   {
@@ -206,13 +213,19 @@ int /*tree2::*/t1_search_node(char *pstr)
 
 }
 
-int /*tree2::*/t1_insert_node(char *pstr)
+int /*tree2::*/t1_insert_node(char *pstr,int pstr_size)
 {
   int i,j;
+  int z;
 
-  if ((int)strlen(pstr)>50) return(1);
+  if (pstr_size>51) z=51;
+  else z=pstr_size;
+  
+  if (deb_str_has_null(pstr,z)!=1) return(1);
+  
+  //if ((int)strlen(pstr)>50) return(1);
 
-  i=t1_search_node(pstr);
+  i=t1_search_node(pstr,pstr_size);
 
   if (i==0)
   {
@@ -482,12 +495,25 @@ int dsp_tree2(void)
 }
 */
 
-static char m03_str1[300];
+static char  m03_str1[300];
+static FILE *m03_fp;
+static int   m03_wdn;
 
-int /*tree2::*/t1_after_list(void)
+int /*tree2::*/t1_after_list(char *fn)
 {
   int  i,j,k;
   //char str1[300];
+
+
+  m03_wdn=0;
+  
+  m03_fp=fopen(fn,"w");
+  if (m03_fp==NULL)
+  {
+    MessageBox(0,fn,"Error when open file",MB_OK);
+    return(1);
+  }
+
 
   t1_list_ptr=0;
   t1_out_ptr=0;
@@ -565,33 +591,67 @@ int /*tree2::*/t1_after_list(void)
     {
       k=t1_list_stack[j];
 
-      t1_out_list(t1_node_val[k],t1_node_val2[k],k);
+      //t1_out_list(t1_node_val[k],t1_node_val2[k],k);
 
       //sprintf(str1,"out val %s,",node_val[k]);
       //MessageBox(0,str1,"message",MB_OK);
+
+
+  fputs(t1_node_val[k],m03_fp);
+  fputs("," ,m03_fp);
+
+  sprintf(m03_str1,"%d",t1_node_val2[k]);
+  fputs(m03_str1,m03_fp);
+
+  fputs("\n",m03_fp);
+      
+  m03_wdn++;
+
+
     }
   }
 
+  fclose(m03_fp);
+
+  printf("%s,total %d words,\n",fn,m03_wdn);
+
   return(0);
 }
+/*
+static char m05_str1[300];
+static char m05_str2[300];
+static char m05_str3[300];
 
-int /*tree2::*/t1_out_list(char *pstr,int pn1,int ptr)
+int t1_out_list(char *pstr,int pn1,int ptr)
 {
   int i,j;
 
-  if ((int)strlen(pstr)>50) return(0);
+  if (((int)strlen(pstr)<0)||((int)strlen(pstr)>50)) return(0);
   
-  strcpy(t1_out_buff[t1_out_ptr],pstr);
-  t1_out_buff2[t1_out_ptr]=pn1;
+  
+  fputs(pstr,m03_fp);
+  fputs("," ,m03_fp);
 
-  t1_out_ptr++;
+  sprintf(m05_str1,"%d",pn1);
+  fputs(m05_str1,m03_fp);
+
+  fputs("\n",m03_fp);
+      
+  m03_wdn++;
+
+  
+  //strcpy(t1_out_buff[t1_out_ptr],pstr);
+  //t1_out_buff2[t1_out_ptr]=pn1;
+
+  //t1_out_ptr++;
+
 
   return(0);
 }
-
-static char m04_str1[300];
-
-int /*tree2::*/t1_dsp_list(void)
+*/
+//static char m04_str1[300];
+/*
+int t1_dsp_list(void)
 {
   //char str1[300];
   
@@ -612,12 +672,12 @@ int /*tree2::*/t1_dsp_list(void)
 
   return(0);
 }
-
-static char m05_str1[300];
-static char m05_str2[300];
-static char m05_str3[300];
-
-int /*tree2::*/t1_save_list(char *fn)
+*/
+//static char m05_str1[300];
+//static char m05_str2[300];
+//static char m05_str3[300];
+/*
+int t1_save_list(char *fn)
 {
   FILE *fp;
   int   i,j,k,l;
@@ -657,7 +717,7 @@ int /*tree2::*/t1_save_list(char *fn)
 
   return(0);
 }
-
+*/
 //class tree2 tree2a;
 /*
 int main(void)

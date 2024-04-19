@@ -23,8 +23,8 @@ int word8(char *);
 
 //extern int MessageBox(int ,char *,char *,int );
 
-#define TREE_SIZE 2000000
-#define LIST_SIZE 2000000
+#define TREE_SIZE 10000000
+#define LIST_SIZE 10000000
      
 
 /*
@@ -64,8 +64,8 @@ extern     int   t1_out_ptr;
 extern     int   t1_init_tree2(void);
 extern     int   t1_new_node(void);
 extern     int   t1_clear_node(int ptr);
-extern     int   t1_search_node(char *pstr);
-extern     int   t1_insert_node(char *pstr);
+extern     int   t1_search_node(char *pstr,int);
+extern     int   t1_insert_node(char *pstr,int);
 extern     int   t1_dsp_tree2(void);
 extern     int   t1_after_list(void);
 extern     int   t1_out_list(char *pstr,int ,int);
@@ -87,7 +87,7 @@ class tree2 tree2_1;
           int wd6_rt[ARTI_LINE2];
 	  int wd6_ptr;
 
-int  wd6_search(char *);
+int  wd6_search(char *,int);
 int  wd6_load(void);
 
           int wd6_find_rt;
@@ -103,7 +103,7 @@ int  wd6_load(void);
 //{
 int main(void)
 {
-	MessageBox(0,"load words03.txt  grammar-cw03.sort.txt  words-cw02.sort.txt  , write to words03a.txt ","message",MB_OK);
+	MessageBox(0,"load words03.txt  grammar-cw03.txt  words-cw02.sort.txt  , write to words03a.txt ","message",MB_OK);
 
     	t1_init_tree2();
   
@@ -230,7 +230,7 @@ int word8(char *pstr1)
 			if (strcmp(m201_str2[l],"$*")==0) continue;
 			if (strcmp(m201_str2[l],"$n")==0) continue;
 			
-			t1_insert_node(m201_str2[l]);
+			t1_insert_node(m201_str2[l],5000);
 			t1_node_val2[t1_find_ptr2]=q;
 			ins++;
 /*
@@ -256,7 +256,7 @@ int word8(char *pstr1)
 		//test end
 	}
 
-	printf("grammar-cw03.sort.txt ok,read=%d,insert=%d,t1_buff_ptr=%d,\n",rd,ins,t1_buff_ptr);
+	printf("grammar-cw03.txt ok,read=%d,insert=%d,t1_buff_ptr=%d,\n",rd,ins,t1_buff_ptr);
 
 	fclose(fp1);
 
@@ -352,7 +352,7 @@ int word8(char *pstr1)
 
 		printf("%s\n",m201_str4);
 		*/			
-		t1_insert_node(m201_str2[0]);
+		t1_insert_node(m201_str2[0],5000);
 		t1_node_val2[t1_find_ptr2]=q;
 
 		ins++;
@@ -479,7 +479,7 @@ int word8(char *pstr1)
 		// end of test ----
 		}*/
 		
-		t1_insert_node(m201_str2[0]);
+		t1_insert_node(m201_str2[0],5000);
 		t1_node_val2[t1_find_ptr2]=q;
 		ins++;
 		cntr++;
@@ -593,11 +593,13 @@ int wd6_load(void)
 	return(0);
 }
 
-int wd6_search(char *s_str)
+int wd6_search(char *p_str,int p_str_size)
 {
 	int p1,p2;
 	int i,j;
 	int find;
+
+	if (deb_str_has_null(p_str,p_str_size)!=1) return(0);
 
 	find=0;
 	wd6_find_rt=0;
@@ -612,7 +614,7 @@ int wd6_search(char *s_str)
 		if ( (i<0)||(i>=wd6_ptr)||(i>=ARTI_LINE2) ) return(0);
 		if (i<=p1)
 		{
-			j=strcmp(wd6_buf[i],s_str);
+			j=strcmp(wd6_buf[i],p_str);
 			if (j==0)
 			{
 				find=1;
@@ -629,7 +631,7 @@ int wd6_search(char *s_str)
 		{
 			if (i>=p2)
 			{
-				j=strcmp(wd6_buf[i],s_str);
+				j=strcmp(wd6_buf[i],p_str);
 				if (j==0)
 				{
 					find=1;
@@ -644,7 +646,7 @@ int wd6_search(char *s_str)
 			}
 			else
 			{
-				j=strcmp(wd6_buf[i],s_str);
+				j=strcmp(wd6_buf[i],p_str);
 				if (j==0)
 				{
 					find=1;

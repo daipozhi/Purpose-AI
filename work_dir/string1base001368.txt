@@ -990,29 +990,22 @@ Taking
 chance
 [11-19]
 Westlife
--¡¶Back
-Home¡·
+-¡¶Back Home¡·
 [11-09]
 Hayley
 Westenra
--¡¶Celtic
-Treasure...
+-¡¶Celtic Treasure...
 [08-28]
 Óî¶àÌï¹â
-¡¶Beautiful
-World/Kiss
-&
-...
+¡¶Beautiful World/Kiss & ...
 [08-28]
 ¡¶ÏÉ½£ÆæÏÀ´«ËÄÔ­Éù´óµú¡·
 [08-28]
-ËÉÆÖ„ÃÖ(Aya
-Matsuura)
+ËÉÆÖ„ÃÖ(Aya Matsuura)
 ¡¶Ð¦î†¡·
 [08-28]
 ÄÏÈ­ÂèÂè
--¡¶²Ø±¦Í¼¡·(Treasure
-Map)
+-¡¶²Ø±¦Í¼¡·(Treasure Map)
 [08-28]
 ¾Æ¾®·¨×Ó¡¶ÊÀ½çÖÐ¤ÎÕl¤è¤ê¤­¤Ã¤È¡·
 [08-27]
@@ -1030,8 +1023,7 @@ PPGÐÂÄêÐÂÓÅ»Ý
 ÐÂ´º³¬±¡MP3
 È«½Ó´¥
 [ÌúÈý½ÇATH-ESW9ÆÀ²â]
-[iriver
-B20ÆÀ²â]
+[iriver B20ÆÀ²â]
 [°®¿ÉÊÓ405È«ÃæÆÀ²â]
 [½µ¼Û]
 ÊóÄêÐÐ´óÔË
@@ -1215,23 +1207,13 @@ Dion¡¶Ìì³¤µØ¾Ã¡·
 ÕÅ»ÝÃÃ¡¶STAR¡·
 ¶«À´¶«Íù¡¶Á¬¿Þ¶¼ÊÇÎÒµÄ´í¡·
 Spyro
-Gyra¡¶Catching
-The
-Sun¡·
+Gyra¡¶Catching The Sun¡·
 ÕÅö¦Ó±¡¶Update¡·
-Corneille¡¶The
-Birth
-Of
-Cornelius¡·
+Corneille¡¶The Birth Of Cornelius¡·
 Terence
-Blanchard¡¶The
-Billie
-Holi
+Blanchard¡¶The Billie Holi
 Jeff
-Golub¡¶Out
-Of
-The
-Blue¡·
+Golub¡¶Out Of The Blue¡·
 Mp3ÆÀ²â
 ¡°¾ÅÌìÒôÀÖ¡±Æû³µ°éÂÂ¼°¹à¸èÍõÆÀ²â
 Ëæ×ÅÈËÃÇÉú»îË®Æ½µÄÌá¸ß£¬Æû³µÒÑ¾­Ô½À´Ô½¶àµÄ½øÈëµ½ÁË¼ÒÍ¥£¬¶øÐÂµÄµç×Ó»¯²úÆ·Ò²ÔÚ²»¶Î½ø²½£¬ÈËÃÇ¶ÔÓÚÉú»îÆ·ÖÊµÄÌá¸ß£¬¶øÆäÖÐÔÚÐ¡½Î³µÖÐñöÌý×Ô¼ºÏ²»¶µÄÒôÀÖ¾Í³ÉÁË´ó¼Ò×·ÇóµÄÄ¿±êÁË¡£ËæÖ®Ó¦ÔË¶øÉúµÄ¾ÍÊÇ³µÔØMP3ÁË£¬¶øÕâÐ©³µÔØMP3¾ÍÓÐÒ»¸öÎÊÌâ¾ÍÊÇ¸èÇúÏÂÔØµÄÎÊÌâ£¬¶øÕâ´Î±àÕßÒª¸ø´ó¼Ò½éÉÜµÄ¡°¾ÅÌìÒôÀÖ¡±Æû³µ°éÂÂ¾ÍÎª´ó¼Ò´ÓÕÒ¸è¡¢ÏÂÔØ¡¢¹à×¢Ò»ÏµÁÐ²Ù×÷¶¼ÍêÃÀµÄ°²ÅÅºÃÁË¡£ÏÂÃæ±àÕß¾ÍÎª´ó¼Ò½éÉÜÒ»ÏÂÕâÌ×Èí¼þÓë³µÔØMP3°É¡£
@@ -1583,10 +1565,7 @@ KNC
 M-220
 mp3ÆÀ²â
 ¼´KncÔÚÓ¦ÓÃRockchipsÐ¾Æ¬ÉÏ¿ª·¢ÁË´øÉãÏñÍ·¹¦ÄÜµÄÊÓÆµmp3
-m-218¡¶ÉãÓ°ÓëÓéÀÖÁ½²»Îó
-KNC
-M-218
-mp3ÆÀ²â¡·ÉÏÊÐ²»¾Ãºó£¬»ªÈð°²kncÓÖÔÚÈðÐ¾Î¢RockchipÐ¾Æ¬ÉÏÍ»ÆÆ´´ÐÂ£¬ÓÃÁË±»Òµ½ç¿Ï¶¨µÄRK2608AÐ¾Æ¬·½°¸£¬´´ÐÂÁËÔÚ°´¼ü²¿·Ö²ÉÓÃºìÍâ¸ÐÓ¦°´Å¥µÄ´¥ÃþÊ½Éè¼ÆkncM-220¡£RockchipsÐ¾Æ¬µÄ³öÏÖÀÎÀÎ°ÑÎÕÁË¹úÄÚ´ó¶àÖÐµÍ¶ËÊÐ³¡µÄÊýÂë²¥·ÅÆ÷£¬²»µ«Ö§³ÖÖ÷Á÷µÄQVGAÆÁÄ»Íâ²¢¼æ¾ßµÍÁ®µÄ¼Û¸ñ³É±¾µÃµ½ÁËºÜ¶à³§ÉÌÓ¦ÓÃ£¬Õâ´ÎpchomeÆÀ²âÊÒ¾ÍÎª¸÷Î»ÍøÓÑ¼òµ¥½éÉÜÏÂm-220ÊÔÓÃÇé¿ö¡£(´Óknc¹ÙÍøÉÏÁË½âµ½m-220³ö³§Îª2ÖÖÀàÐÍ£¬·Ö±ðÊÇÓÐFM¹¦ÄÜÓëÎÞFM¹¦ÄÜ£¬Õâ´ÎÆÀ²âÊÒÄÃµ½µÄÊÇÎÞFM°æ±¾µÄm-220£©
+m-218¡¶ÉãÓ°ÓëÓéÀÖÁ½²»Îó KNC M-218 mp3ÆÀ²â¡·ÉÏÊÐ²»¾Ãºó£¬»ªÈð°²kncÓÖÔÚÈðÐ¾Î¢RockchipÐ¾Æ¬ÉÏÍ»ÆÆ´´ÐÂ£¬ÓÃÁË±»Òµ½ç¿Ï¶¨µÄRK2608AÐ¾Æ¬·½°¸£¬´´ÐÂÁËÔÚ°´¼ü²¿·Ö²ÉÓÃºìÍâ¸ÐÓ¦°´Å¥µÄ´¥ÃþÊ½Éè¼ÆkncM-220¡£RockchipsÐ¾Æ¬µÄ³öÏÖÀÎÀÎ°ÑÎÕÁË¹úÄÚ´ó¶àÖÐµÍ¶ËÊÐ³¡µÄÊýÂë²¥·ÅÆ÷£¬²»µ«Ö§³ÖÖ÷Á÷µÄQVGAÆÁÄ»Íâ²¢¼æ¾ßµÍÁ®µÄ¼Û¸ñ³É±¾µÃµ½ÁËºÜ¶à³§ÉÌÓ¦ÓÃ£¬Õâ´ÎpchomeÆÀ²âÊÒ¾ÍÎª¸÷Î»ÍøÓÑ¼òµ¥½éÉÜÏÂm-220ÊÔÓÃÇé¿ö¡£(´Óknc¹ÙÍøÉÏÁË½âµ½m-220³ö³§Îª2ÖÖÀàÐÍ£¬·Ö±ðÊÇÓÐFM¹¦ÄÜÓëÎÞFM¹¦ÄÜ£¬Õâ´ÎÆÀ²âÊÒÄÃµ½µÄÊÇÎÞFM°æ±¾µÄm-220£©
 ³¬´óÆÁÄ»´øÀ´ÐÂÊÓ½Ç
 ¾©»ªPMP6700ÆÀ²â
 MP3¿ÉÒÔËµÔÚ¾­¹ý¼¸ÄêµÄ·¢Õ¹ºóÒÑÖð²½³ÉÎªÊ±ÉÐµÄ¡°´úÑÔÈË¡±£¬¹ú²úµÄMP3ÕýÓÃ²»¶ÏµÄ¼¼Êõ´´ÐÂÒ»²½Ò»²½½«¹úÍâµÄÍ¬Àà²úÆ·¸Ï¾¡É±¾ø²¢ÒÑ¾­½øÈëÁËÒ»¸ö¶¦Ê¢Ê±ÆÚ¡£ÆÁÄ»×÷ÎªMP3´´ÐÂµÄÒ»²¿·ÖÎÞÒÉ×øÉÏÁË¾ºÕùÖÐµÄ¡°²ÃÅÐÔ±¡±Î»ÖÃ£¬ÅÐ¾ö×ÅÒ»ÏµÁÐ±»ÌÔÌ­µÄ²úÆ·£¬´ÓÕû¸öMP3µÄÆÁÄ»ÑÝ±äÊ·À´¿´£¬ÔçÆÚµÄ1.1¡¢1.5·çÃÒ£¬ÔÙÖÁ2.0¡¢2.4µÄÊ¢ÐÐ£¬Ê¹Ðí¶àÓÃ»§¸ÐÊÜµ½ÁË´óÊÓ½Ç´øÀ´µÄÕðº³ÏíÊÜ£¬Õâ´ÎpchomeÆÀ²âÊÒÊýÂëÆµµÀÎª¸÷Î»ÍøÓÑ½éÉÜµÄÊÇÀ´×Ô¾©»ªJWDµÄÐÂ¿îÊÓÆÁmp3
@@ -2134,11 +2113,7 @@ OPPO
 |
 Ë÷Äá
 ËæÉíÌý²úÆ·¿ìËÙËÑË÷
-[
-1GÈÝÁ¿
-2GÈÝÁ¿
-4GÈÝÁ¿
-]
+[ 1GÈÝÁ¿ 2GÈÝÁ¿ 4GÈÝÁ¿ ]
 ËæÉíÌýÎÄÕÂËÑË÷
 Í·
 Ìõ
@@ -2978,7 +2953,7 @@ PSP¼Û¸ñÌìÊé
 [01-14]
 »ðÈÈÏÂÔØ
 ÅÅÐÐ°ñ
-¡¶µýÓ°ÖØÖØ3:
+¡¶µýÓ°ÖØÖØ3: 
 Òì×åÖÕ½áÕß
 ´óÑ§ÉúÓ°ÊÓÓÅ
 ÈÈÃÅµçÓ°´óÆ¬
@@ -4592,16 +4567,13 @@ classi
 |
 ÀÊ¿Æ|
 ¸ü¶à
-ÁõµÂ»ª¡¶everyone
-is
-No.1¡·
+ÁõµÂ»ª¡¶everyone is No.1¡·
 ¸üÐÂÊ±¼ä
 2007-12-24
 ÄªÎÄÎµ¡¶À­»î...ÄªÎÄÎµ¡·
 ¸üÐÂÊ±¼ä
 2007-12-24
-ÕÅÉØº­¡¶ang
-5.0¡·
+ÕÅÉØº­¡¶ang 5.0¡·
 ¸üÐÂÊ±¼ä
 2007-12-24
 ÖÜ½ÜÂ×¡¶ÎÒºÜÃ¦¡·
@@ -6025,9 +5997,7 @@ MP3-MP4
 µ÷µ÷
 2008/2/2
 È«ÎÄÆÀÂÛ²ÎÊýÉÌ¼ÒÍ¼Æ¬
-¾ÍÔÚ¼¸ÌìÇ°£¬µ÷µ÷Ð´¹ýÒ»Æª¡¶¸ÐÊÜÖÇÄÜ÷ÈÁ¦£¡OPPO
-Smart
-S9¼´½«ÉÏÊÐ¡·µÄ½éÉÜÎÄÕÂ£¬¾ÝÉÌ¼ÒÍ¸Â¶ÓÉÓÚÄÏ·½´óÑ©Ô­Òò£¬Õâ¿îÐÂ»úºÜ¿ÉÄÜÔÚ½Úºó²Å»áµ½»õ¡£µ«ÊÇ£¬½ñÌìµ÷µ÷È´ÔÚÊÐ³¡Àï¾ªÏ²µØ¿´µ½ÁËÕâ¿î²úÆ·µÄÕæ»ú£¬Ä¿Ç°²úÆ·ÒÑ¾­²¿·Öµ½»õÉòÑô£¬»õÔ´²¢²»ÊÇÊ®·Ö³ä×ã£¬¸ÐÐËÈ¤µÄÅóÓÑ²»·Á¹Ø×¢Ò»ÏÂ£¬×ÉÑ¯µç»°£º13940094989¡£
+¾ÍÔÚ¼¸ÌìÇ°£¬µ÷µ÷Ð´¹ýÒ»Æª¡¶¸ÐÊÜÖÇÄÜ÷ÈÁ¦£¡OPPO Smart S9¼´½«ÉÏÊÐ¡·µÄ½éÉÜÎÄÕÂ£¬¾ÝÉÌ¼ÒÍ¸Â¶ÓÉÓÚÄÏ·½´óÑ©Ô­Òò£¬Õâ¿îÐÂ»úºÜ¿ÉÄÜÔÚ½Úºó²Å»áµ½»õ¡£µ«ÊÇ£¬½ñÌìµ÷µ÷È´ÔÚÊÐ³¡Àï¾ªÏ²µØ¿´µ½ÁËÕâ¿î²úÆ·µÄÕæ»ú£¬Ä¿Ç°²úÆ·ÒÑ¾­²¿·Öµ½»õÉòÑô£¬»õÔ´²¢²»ÊÇÊ®·Ö³ä×ã£¬¸ÐÐËÈ¤µÄÅóÓÑ²»·Á¹Ø×¢Ò»ÏÂ£¬×ÉÑ¯µç»°£º13940094989¡£
 Í¼Îª£ºOPPO
 S9H
 Õâ¿îÈ«ÐÂµÄOPPO
@@ -6315,8 +6285,7 @@ LCDÏÔÊ¾ÆÁ£¬Æä²Ù×÷½çÃæ¸üÊÇ¸öÐÔÊ®×ã£¬²úÆ·ÒÔ¿¨Í¨¹·ÎªÖ÷Ìâ£¬¶¯¸ÐµÄÏßÌõ»æÍ¼£¬ÎÞÂÛÊÇñöÌ
 YP-T10Ï¸½Ú²¿·Ö
 ¹¦ÄÜ·½Ãæ£¬Õâ¿îÈýÐÇ
 YP-T10³ýÁËÖ§³ÖÄ¿Ç°Ö÷Á÷µÄMP3¡¢WMA¡¢OGG¡¢WMVµÈ¶àÖÖ¸ñÊ½ÒôÆµÎÄ¼þ²¥·ÅÍâ£¬»¹ÄÚÖÃÈýÐÇ¶ÀÓÐµÄDNSeÒôÐ§£¬ËüÔÙÏÖÁË¡°ÕæÊµ¡±µÄÁ¢ÌåÉù£¬ÈÃÓÃ»§¸ÐÊÜµ½ÉíÁÙÆä¾³°ãµÄ±ÆÕæÒôÐ§¡£ÊÓÆµ·½Ãæ£¬²úÆ·Ö§³ÖH.264
-£¨MPEG4
-AVC£©¡¢MPEG-4
+£¨MPEG4 AVC£©¡¢MPEG-4
 £¨ASF£©¸ñÊ½ÊÓÆµ²¥·Å£¬·Ö±æÂÊ´ï320*240ÏñËØ£¬ÕÆÉÏÓ°ÔºËæÉí´ø¡£ÁíÍâ£¬YP-T10»¹´øÓÐFMµ÷Æµ¡¢Ê±ÖÓ¡¢µç×ÓÊé¡¢ÓïÒôÂ¼ÖÆ¡¢Í¼Æ¬ä¯ÀÀµÈÊµÓÃ¹¦ÄÜ£¬±íÏÖÊ®·ÖÈ«Ãæ¡£
 Í¼Îª£ºÈýÐÇ±³¿ÇÏ¸½Ú
 µ÷µ÷¹Ûµã£º
@@ -7430,8 +7399,7 @@ V1
 MP3¡¢WMA
 Â¼ÒôÐÔÄÜ
 Ö§³Ö
-WAV£¨32K
-bps/64Kbps£©
+WAV£¨32K bps/64Kbps£©
 ÊÓÆµ¸ñÊ½
 Ö§³ÖMPEG-4£¨AVI£©ÊÓÆµ¸ñÊ½
 Í¼Æ¬ä¯ÀÀ
@@ -7975,13 +7943,8 @@ CBR
 VBR£¬WMA£¬ÊÜ°æÈ¨±£»¤µÄWMA£¬WAV£¨PCM/ADPCM£©¡£Í¨¹ý¿ÉÑ¡Èí¼þ²å¼þ£ºAAC
 Á¢ÌåÉùÒôÆµÎÄ¼þ£¬AC3
 Á¢ÌåÉùÒôÆµºÍ5.1ÉùµÀÎÄ¼þ¡£ÊÓÆµ·½Ãæ£¬605WIFIÖ§³ÖMPEG-42
-£¨ASP@L5
-AVI£¬¾ß±¸
-DVD
-ÖÊÁ¿£©£¬WMV
-£¨MP@ML£¬¾ß±¸
-DVD
-ÖÊÁ¿£©ºÍÉÏÁ÷µÄRM/RMVB¸ñÊ½ÊÓÆµ²¥·Å¹¦ÄÜ£¬Í¬Ê±²úÆ·»¹Ö§³ÖÀýÈçÂý·Å£¬µ÷Õû»­Ãæ´óÐ¡£¬ÊÓÆµ±à¼­ºÍÊÓÆµÊéÇ©µÈÊµÓÃ¹¦ÄÜ£¬·½±ãÓÃ»§Ê¹ÓÃ¡£ÁíÍâ£¬605WIFI»¹Ö§³ÖÔÄ¶ÁPDFÎÄµµ£¬Ö§³ÖJPEG¡¢BMP¡¢PNGÍ¼Æ¬ä¯ÀÀ¹¦ÄÜ£¬²úÆ··ûºÏ802.11gÎÞÏßÍøÂçÁ¬½Ó±ê×¼£¬¿ÉÔÚÍ¨¹ýÎÞÏß·½Ê½Á¬½ÓÍøÂç£¬¿Éä¯ÀÀÍøÒ³£¬·ÃÎÊWebÓÊ¼þ£¬²¢Óë¼ÒÓÃµçÄÔÁªÍø¸´ÖÆºÍ²¥·Å¶àÃ½ÌåÎÄ¼þ£¬Ê¹ÓÃÏàµ±·½±ã¡£
+£¨ASP@L5 AVI£¬¾ß±¸ DVD ÖÊÁ¿£©£¬WMV
+£¨MP@ML£¬¾ß±¸ DVD ÖÊÁ¿£©ºÍÉÏÁ÷µÄRM/RMVB¸ñÊ½ÊÓÆµ²¥·Å¹¦ÄÜ£¬Í¬Ê±²úÆ·»¹Ö§³ÖÀýÈçÂý·Å£¬µ÷Õû»­Ãæ´óÐ¡£¬ÊÓÆµ±à¼­ºÍÊÓÆµÊéÇ©µÈÊµÓÃ¹¦ÄÜ£¬·½±ãÓÃ»§Ê¹ÓÃ¡£ÁíÍâ£¬605WIFI»¹Ö§³ÖÔÄ¶ÁPDFÎÄµµ£¬Ö§³ÖJPEG¡¢BMP¡¢PNGÍ¼Æ¬ä¯ÀÀ¹¦ÄÜ£¬²úÆ··ûºÏ802.11gÎÞÏßÍøÂçÁ¬½Ó±ê×¼£¬¿ÉÔÚÍ¨¹ýÎÞÏß·½Ê½Á¬½ÓÍøÂç£¬¿Éä¯ÀÀÍøÒ³£¬·ÃÎÊWebÓÊ¼þ£¬²¢Óë¼ÒÓÃµçÄÔÁªÍø¸´ÖÆºÍ²¥·Å¶àÃ½ÌåÎÄ¼þ£¬Ê¹ÓÃÏàµ±·½±ã¡£
 Í¼Îª£º°®¿ÉÊÓ
 605WIFI±³²¿Éè¼Æ
 µ÷µ÷¹Ûµã£º
@@ -8012,8 +7975,7 @@ Wifi
 ¡¾ÏêÏ¸²ÎÊý¡¿¡¾Í¼Æ¬Õ¹Ê¾¡¿¡¾ÉÌ¼Ò±¨¼Û¡¿¡¾Ïà¹ØÎÄÕÂ¡¿¡¾Çý¶¯¡¿
 ´æ´¢½éÖÊ:Ó²ÅÌ,´æ´¢ÈÝÁ¿:30
 GB,½Ó¿ÚÀàÐÍ:USB
-2.0,ÏÔÊ¾ÆÁÀàÐÍ:1600ÍòÉ«,ÏÔÊ¾ÆÁ³ß´ç:4.3Ó¢´ç,ÏÔÊ¾ÆÁ·Ö±æÂÊ:800*480ÏñËØ,ÊÓÆµ²¥·Å¸ñÊ½:MPEG-4(ASP@L5
-AVI,¿É´ïDVD·Ö±æÂÊ)
+2.0,ÏÔÊ¾ÆÁÀàÐÍ:1600ÍòÉ«,ÏÔÊ¾ÆÁ³ß´ç:4.3Ó¢´ç,ÏÔÊ¾ÆÁ·Ö±æÂÊ:800*480ÏñËØ,ÊÓÆµ²¥·Å¸ñÊ½:MPEG-4(ASP@L5 AVI,¿É´ïDVD·Ö±æÂÊ)
 W..
 ¡ø°®¿ÉÊÓMP4ÁÉÄþ×Ü´ú½ð
 024-83966621
@@ -8550,10 +8512,7 @@ MP3-MP4
 ±à¼­
 2008/2/3
 È«ÎÄÆÀÂÛ±¨¼ÛÉÌ¼ÒÍ¼Æ¬
-¡¶±¬ÖñÉùÖÐÒ»Ëê³ý
-´º·çËÍÅ¯ÈëÍÀËÕ
-Ç§ÃÅÍò»§Í«Í«ÈÕ
-×Ü°ÑÐÂÌÒ»»¾É·û¡·Ò»Ê×³ýÏ¦Ê«ÒâÎ¶×Å´º½ÚÁÙ½ü£¬²»ÉÙÈËÒ²¿ªÊ¼×¼±¸ÁËÄê»õÁË£¬ÔÚÕâ¸ö¾Ù¼Ò»¶ÇìµÄÈÕ×ÓÀï£¬Äã×¼±¸ËÍÊ²Ã´ÀñÎï¸øÄãµÄÇ×ÅóºÃÓÑÄØ£¿ÕâÆÚÐ¡±à¾ÍÎªÄã½â¾öÕâ¸öÎÊÌâ£¬ËÍÀñ×ÔÈ»Ãæ×ÓÖØÒª£¬ÔÚÕâÒ»ÆÚÐÂÄêµ¼¹ºÀï£¬Ð¡±àÎª´ó¼ÒÌôÑ¡Ä¿Ç°ÊÐ³¡ÉÏ×îö¦ÆÁÄ»MP3/MP4µ¼¹º£¬ÈÃËÍÀñÒ²Ãæ×Ó±¶Ìí½ð¡£
+¡¶±¬ÖñÉùÖÐÒ»Ëê³ý ´º·çËÍÅ¯ÈëÍÀËÕ Ç§ÃÅÍò»§Í«Í«ÈÕ ×Ü°ÑÐÂÌÒ»»¾É·û¡·Ò»Ê×³ýÏ¦Ê«ÒâÎ¶×Å´º½ÚÁÙ½ü£¬²»ÉÙÈËÒ²¿ªÊ¼×¼±¸ÁËÄê»õÁË£¬ÔÚÕâ¸ö¾Ù¼Ò»¶ÇìµÄÈÕ×ÓÀï£¬Äã×¼±¸ËÍÊ²Ã´ÀñÎï¸øÄãµÄÇ×ÅóºÃÓÑÄØ£¿ÕâÆÚÐ¡±à¾ÍÎªÄã½â¾öÕâ¸öÎÊÌâ£¬ËÍÀñ×ÔÈ»Ãæ×ÓÖØÒª£¬ÔÚÕâÒ»ÆÚÐÂÄêµ¼¹ºÀï£¬Ð¡±àÎª´ó¼ÒÌôÑ¡Ä¿Ç°ÊÐ³¡ÉÏ×îö¦ÆÁÄ»MP3/MP4µ¼¹º£¬ÈÃËÍÀñÒ²Ãæ×Ó±¶Ìí½ð¡£
 ÍÆ¼ö»úÐÍ
 ÍÆ¼öÀíÓÉ
 ÊÐ³¡±¨¼Û
@@ -9094,9 +9053,7 @@ rm
 [×îÐÂ×¨¼­]
 [ÒôÀÖ´ïÈË]
 ½øÈë>>ÒôÀÖ´ó±¾Óª
-[ÅÅ
-ÐÐ
-°ñ]
+[ÅÅ ÐÐ °ñ]
 ÐÂ¸èTOP
 ÈÈÃÅ¸èÇú
 ÈËÆø¸èÊÖ
@@ -9171,9 +9128,7 @@ rm
 [×îÐÂ×¨¼­]
 [ÒôÀÖ´ïÈË]
 ½øÈë>>ÒôÀÖ´ó±¾Óª
-[ÅÅ
-ÐÐ
-°ñ]
+[ÅÅ ÐÐ °ñ]
 ÐÂ¸èTOP
 ÈÈÃÅ¸èÇú
 ÈËÆø¸èÊÖ
@@ -9248,9 +9203,7 @@ rm
 [×îÐÂ×¨¼­]
 [ÒôÀÖ´ïÈË]
 ½øÈë>>ÒôÀÖ´ó±¾Óª
-[ÅÅ
-ÐÐ
-°ñ]
+[ÅÅ ÐÐ °ñ]
 ÐÂ¸èTOP
 ÈÈÃÅ¸èÇú
 ÈËÆø¸èÊÖ
@@ -9357,8 +9310,7 @@ Bravo
 Ò»¸öÂÅ´´Ææ¼£µÄÑÇÖÞÌìÍÅ£¡
 ´ÓÒ»³öµÀ¾ÍÕùÒé²»¶ÏµÄ5566£¬ÒÔÖ÷³Ö¡¢Ï·¾ç¡¢³ªÆ¬¡¢ÎÄ×ÖÊéºÍÑÝ³ª»áµÈ¶àÖØÑùÃ²µÄ±íÑÝ·½Ê½£¬ÄêÄêµÞÔì³öÎÞÈË¿É±ÈµÄ°ÁÈËÏúÊÛ¼°ÊÕÊÓ¼ÍÂ¼£¬´ò°Üµ±Ê±µÄËùÓÐÅ¼ÏñÍÅÌå£¬²¢µì¶¨ÁËËûÃÇ¡°ÑÇÖÞµÚÒ»ÌìÍÅ¡±µÄµØÎ»¡£
 ÔÚ05ÄêÒÔµÚÈýÕÅ×¨¼­¡¶ºÃ¾Ã²»¼û¡·ÄÃÏÂÌ¨ÍåÄê¶ÈµÚ3´ó³©Ïú×¨¼­Ö®ºó£¬5566½øÈë¸÷×Ô·¢Õ¹µÄÏ·¾çÆÚ£¬·Ö±ðÑÝ³öÁË¡¶Ê³Éñ¡·¡¶Ä§½£ÉúËÀÆå¡·¡¶°®ÇéÁ½ºÃÈý»µ¡·¡¶¶ñÅ®°¢³þ¡·¡¶Ó£Ò°3+1¡·¡¶°®ÇéÄ§·¢Ê¦¡·µÈÏ·¾ç£¬î¥Î¥ÁË2ÄêÓÖ4¸öÔÂ£¬¡°ÑÇÖÞµÚÒ»ÌìÍÅ¡±¡ª¡ª5566£¡
-ÖÕÓÚÒªÔÚ2008Äê1ÔÂ4ÈÕ£¬ÍÆ³öËûÃÇµÄµÚ11ºÅÁ¦×÷¡¶ºÈ²É
-Bravo¡·£¬ÕâÕÅ½áºÏÁËÌ¨Íå¡¢µ¤Âó¡¢ÖÐ¹ú¡¢Ïã¸Û¼°ÈÕ±¾µÄ¶¥¼â´´×÷Õß¼°ÖÆ×÷Èº£¬Îª5566µÄ¸è³ªÊÂÒµ´òÔì³öÒ»¸öÈ«ÐÂÓÖ·á¸»µÄÑÝ³ªÑùÃ²¡£
+ÖÕÓÚÒªÔÚ2008Äê1ÔÂ4ÈÕ£¬ÍÆ³öËûÃÇµÄµÚ11ºÅÁ¦×÷¡¶ºÈ²É Bravo¡·£¬ÕâÕÅ½áºÏÁËÌ¨Íå¡¢µ¤Âó¡¢ÖÐ¹ú¡¢Ïã¸Û¼°ÈÕ±¾µÄ¶¥¼â´´×÷Õß¼°ÖÆ×÷Èº£¬Îª5566µÄ¸è³ªÊÂÒµ´òÔì³öÒ»¸öÈ«ÐÂÓÖ·á¸»µÄÑÝ³ªÑùÃ²¡£
 ²é¿´ÏêÇé
 ×¨¼­ÇúÄ¿
 È«Ñ¡
@@ -9480,10 +9432,8 @@ Ang
 µØÇø£ºÌ¨Íå
 Çú·ç£ºChina-Pop
 ×¨¼­¼ò½é
-°Ù±äÌìºóÕÅÉØº­µÄµÚÎåÕÅ´óµú¡¶Ang
-5.0¡·ÒÔÈ«ÐÂÅ®ÉñÃæÃ²·¢ÐÐ£¬Ëý¾ö¶¨°ÑÁôÁËÎåÄêµÄÒ»Í·Æ®ÒÝ³¤·¢¼ô³ÉÇÎÀö¶Ì·¢¹«Ö÷Í·¡£ÕÅÉØº­¶Ô×Ô¼ºµÄÐÂÔìÐÍ·Ç³£ÂúÒâ£¬¶Ì·¢¸Ð¾õºÜÐÂÏÊ¡£È«ÐÂ×¨¼­´ÓÒôÀÖÇú·ç¡¢ÔìÐÍ·ç¸ñµ½ÕûÌåÐÐÏú°ü×°Óè¸èÃÔÃÇÓÐÈ«ÐÂµÄ¸Ð¾õ¡£Ê×²¨Ö÷´ò¸è¡¸ÎÒÁµ°®ÁË¡¹ÎªÅ¼Ïñ¾ç¡¶¹«Ö÷Ð¡ÃÃ¡·ÖÐ±¸ÊÜ¸èÃÔÃÇÏ²°®µÄ²åÇú£¬ÓÉÍõÑÅ¾ý×÷´Ê£¬»ÆÊç»ÝÆ×Çú¡£ÕâÊ×Çé¸è¾ßÓÐÖØÒ¡¹öµÄÇú·ç£¬·á¸»¶à²ã´ÎµÄ±àÇú£¬¼ÓÉÏÕÅÉØº­±ä»¯¶à¶ËµÄ¶ÀÌØ³ªÇ»£¬ÈÃÈËÒ»Ìý¾ÍÓÐÌðÃÛÁµ°®µÄÐÒ¸£¸Ð¡£
-¡¶Ang
-5.0¡·×¨¼­Ö÷ÒÔÅ®ÉñÖ÷ÌâÎª³ö·¢µã£¬¶øÐÂ×¨¼­µÄÔìÐÍ·ç¸ñÇ¿µ÷Ê±ÉÐ¡¢ÐÔ¸Ð¡¢ÀËÂþ¡¢ÀþÂäºÍÔË¶¯·ç¡£Ö÷´ò¸è¡¸ÎÒÁµ°®ÁË¡¹ÊÇÒ»Ê×Ç¿µ÷ËÙ¶È¸ÐµÄ¸ßÄÑ¶È¸èÇú£¬Ò²ÊÇÕÅÉØº­Ê×¶È³¢ÊÔ¼«ËÙµÄÒ¡¹öÇú·ç¡£
+°Ù±äÌìºóÕÅÉØº­µÄµÚÎåÕÅ´óµú¡¶Ang 5.0¡·ÒÔÈ«ÐÂÅ®ÉñÃæÃ²·¢ÐÐ£¬Ëý¾ö¶¨°ÑÁôÁËÎåÄêµÄÒ»Í·Æ®ÒÝ³¤·¢¼ô³ÉÇÎÀö¶Ì·¢¹«Ö÷Í·¡£ÕÅÉØº­¶Ô×Ô¼ºµÄÐÂÔìÐÍ·Ç³£ÂúÒâ£¬¶Ì·¢¸Ð¾õºÜÐÂÏÊ¡£È«ÐÂ×¨¼­´ÓÒôÀÖÇú·ç¡¢ÔìÐÍ·ç¸ñµ½ÕûÌåÐÐÏú°ü×°Óè¸èÃÔÃÇÓÐÈ«ÐÂµÄ¸Ð¾õ¡£Ê×²¨Ö÷´ò¸è¡¸ÎÒÁµ°®ÁË¡¹ÎªÅ¼Ïñ¾ç¡¶¹«Ö÷Ð¡ÃÃ¡·ÖÐ±¸ÊÜ¸èÃÔÃÇÏ²°®µÄ²åÇú£¬ÓÉÍõÑÅ¾ý×÷´Ê£¬»ÆÊç»ÝÆ×Çú¡£ÕâÊ×Çé¸è¾ßÓÐÖØÒ¡¹öµÄÇú·ç£¬·á¸»¶à²ã´ÎµÄ±àÇú£¬¼ÓÉÏÕÅÉØº­±ä»¯¶à¶ËµÄ¶ÀÌØ³ªÇ»£¬ÈÃÈËÒ»Ìý¾ÍÓÐÌðÃÛÁµ°®µÄÐÒ¸£¸Ð¡£
+¡¶Ang 5.0¡·×¨¼­Ö÷ÒÔÅ®ÉñÖ÷ÌâÎª³ö·¢µã£¬¶øÐÂ×¨¼­µÄÔìÐÍ·ç¸ñÇ¿µ÷Ê±ÉÐ¡¢ÐÔ¸Ð¡¢ÀËÂþ¡¢ÀþÂäºÍÔË¶¯·ç¡£Ö÷´ò¸è¡¸ÎÒÁµ°®ÁË¡¹ÊÇÒ»Ê×Ç¿µ÷ËÙ¶È¸ÐµÄ¸ßÄÑ¶È¸èÇú£¬Ò²ÊÇÕÅÉØº­Ê×¶È³¢ÊÔ¼«ËÙµÄÒ¡¹öÇú·ç¡£
 ²é¿´ÏêÇé
 ×¨¼­ÇúÄ¿
 È«Ñ¡
@@ -9617,9 +9567,7 @@ You
 ×¨¼­¼ò½é
 ½üÄêÃ¦ÓÚ¸÷×Ô·¢Õ¹µÄJVKV
 (F4)
-ÖÕÓÚÔÙ´ÎºÏÌå£¬ÎªÌ¨Íå¹Û¹â¾Ö´úÑÔ£¬²¢ÍÆ³ö¾ÃÎ¥5ÄêµÄÈ«ÐÂ×¨¼­¡¶Waiting
-For
-You¡·¡£´óµúÊÕÈëÓÉ×Ð×ÐºÍÐ¢ÌìÖ÷ÑÝµÄ¹Û¹âÅ¼Ïñ¾ç¡¶ÔÚÕâÀïµÈÄã¡·µÄÁ½Ê×¸èÇú£¬¡¸ÌåÑé¡¹ºÍ¡¸ÔÚÕâÀïµÈÄã¡¹¡£´ËÍâ£¬JVKVËÄ×ÓÒ²¸÷ÓÐÁ½Ê×¶À³ªÇú£¬°üÀ¨¡ÃJerryÖ÷ÑÝµÄÖØÍ·¾ç¡¶°×É«¾ÞËþ¡·µÄÆ¬Í·Çú¡¸ÄãÊÇÎÒÎ¨Ò»µÄÖ´×Å¡¹¼°È«ÐÂÐÂÇú¡¸ÎÒÃ»ÓÐ°ì·¨Àë¿ªÄã¡¹¡¢VannessÖ÷³ªµÄ¡¸ÆßÌì¡¹ºÍ¡¸Listen
+ÖÕÓÚÔÙ´ÎºÏÌå£¬ÎªÌ¨Íå¹Û¹â¾Ö´úÑÔ£¬²¢ÍÆ³ö¾ÃÎ¥5ÄêµÄÈ«ÐÂ×¨¼­¡¶Waiting For You¡·¡£´óµúÊÕÈëÓÉ×Ð×ÐºÍÐ¢ÌìÖ÷ÑÝµÄ¹Û¹âÅ¼Ïñ¾ç¡¶ÔÚÕâÀïµÈÄã¡·µÄÁ½Ê×¸èÇú£¬¡¸ÌåÑé¡¹ºÍ¡¸ÔÚÕâÀïµÈÄã¡¹¡£´ËÍâ£¬JVKVËÄ×ÓÒ²¸÷ÓÐÁ½Ê×¶À³ªÇú£¬°üÀ¨¡ÃJerryÖ÷ÑÝµÄÖØÍ·¾ç¡¶°×É«¾ÞËþ¡·µÄÆ¬Í·Çú¡¸ÄãÊÇÎÒÎ¨Ò»µÄÖ´×Å¡¹¼°È«ÐÂÐÂÇú¡¸ÎÒÃ»ÓÐ°ì·¨Àë¿ªÄã¡¹¡¢VannessÖ÷³ªµÄ¡¸ÆßÌì¡¹ºÍ¡¸Listen
 to
 Your
 Heart¡¹£¬ÒÔ¼°×Ð×ÐµÄ¡¸°×¡¹ºÍÐ¢Ìì¡¸ÎÞËùÎ½¡¹µÈ¡£
@@ -10763,9 +10711,7 @@ You
 ×¨¼­¼ò½é
 ½üÄêÃ¦ÓÚ¸÷×Ô·¢Õ¹µÄJVKV
 (F4)
-ÖÕÓÚÔÙ´ÎºÏÌå£¬ÎªÌ¨Íå¹Û¹â¾Ö´úÑÔ£¬²¢ÍÆ³ö¾ÃÎ¥5ÄêµÄÈ«ÐÂ×¨¼­¡¶Waiting
-For
-You¡·¡£´óµúÊÕÈëÓÉ×Ð×ÐºÍÐ¢ÌìÖ÷ÑÝµÄ¹Û¹âÅ¼Ïñ¾ç¡¶ÔÚÕâÀïµÈÄã¡·µÄÁ½Ê×¸èÇú£¬¡¸ÌåÑé¡¹ºÍ¡¸ÔÚÕâÀïµÈÄã¡¹¡£´ËÍâ£¬JVKVËÄ×ÓÒ²¸÷ÓÐÁ½Ê×¶À³ªÇú£¬°üÀ¨¡ÃJerryÖ÷ÑÝµÄÖØÍ·¾ç¡¶°×É«¾ÞËþ¡·µÄÆ¬Í·Çú¡¸ÄãÊÇÎÒÎ¨Ò»µÄÖ´×Å¡¹¼°È«ÐÂÐÂÇú¡¸ÎÒÃ»ÓÐ°ì·¨Àë¿ªÄã¡¹¡¢VannessÖ÷³ªµÄ¡¸ÆßÌì¡¹ºÍ¡¸Listen
+ÖÕÓÚÔÙ´ÎºÏÌå£¬ÎªÌ¨Íå¹Û¹â¾Ö´úÑÔ£¬²¢ÍÆ³ö¾ÃÎ¥5ÄêµÄÈ«ÐÂ×¨¼­¡¶Waiting For You¡·¡£´óµúÊÕÈëÓÉ×Ð×ÐºÍÐ¢ÌìÖ÷ÑÝµÄ¹Û¹âÅ¼Ïñ¾ç¡¶ÔÚÕâÀïµÈÄã¡·µÄÁ½Ê×¸èÇú£¬¡¸ÌåÑé¡¹ºÍ¡¸ÔÚÕâÀïµÈÄã¡¹¡£´ËÍâ£¬JVKVËÄ×ÓÒ²¸÷ÓÐÁ½Ê×¶À³ªÇú£¬°üÀ¨¡ÃJerryÖ÷ÑÝµÄÖØÍ·¾ç¡¶°×É«¾ÞËþ¡·µÄÆ¬Í·Çú¡¸ÄãÊÇÎÒÎ¨Ò»µÄÖ´×Å¡¹¼°È«ÐÂÐÂÇú¡¸ÎÒÃ»ÓÐ°ì·¨Àë¿ªÄã¡¹¡¢VannessÖ÷³ªµÄ¡¸ÆßÌì¡¹ºÍ¡¸Listen
 to
 Your
 Heart¡¹£¬ÒÔ¼°×Ð×ÐµÄ¡¸°×¡¹ºÍÐ¢Ìì¡¸ÎÞËùÎ½¡¹µÈ¡£
@@ -12198,9 +12144,7 @@ Bravo
 Ö÷´ò¸è£º
 Ô¶×ß¸ß·É
 °®ÎÞÉâ
-£¨Super
-Rave
-Remix£©
+£¨Super Rave Remix£©
 ¸èÊÖ£º
 ²ÌÒÀÁÖ
 Ê±¼ä£º2008-01-04
@@ -17771,8 +17715,7 @@ Of
 FoolsAretha
 Franklin
 32.
-(Sittin'
-On)
+(Sittin' On)
 T..Otis
 Redding
 33.
@@ -18021,8 +17964,7 @@ Y..Billy
 Joel
 83.
 Copacabana
-(At..Barry
-Manilow
+(At..Barry Manilow 
 84.
 You
 Needed
@@ -18440,10 +18382,7 @@ A
 169.
 UnforgettableNatalie
 Cole
-(&
-Nat
-King
-Cole)
+(& Nat King Cole)
 170.
 Power
 Of
@@ -19442,8 +19381,7 @@ Cutie
 Over
 My
 Head
-(..The
-Fray
+(..The Fray 
 380.
 Is
 It
@@ -20557,8 +20495,7 @@ day
 has
 ..Á÷ÐÇ»¨Ô°¢ò
 195.
-ÃÔÍ¾(ÃÔÍ¾
-¶ÅµÂ..°®Çé¾­¼ÍÔ¼
+ÃÔÍ¾(ÃÔÍ¾ ¶ÅµÂ..°®Çé¾­¼ÍÔ¼
 ·µ»ØÒ³¶¥
 È«Ñ¡
 ·´Ñ¡
@@ -20850,8 +20787,7 @@ RomanceÀ¶É«ÉúËÀÁµ
 321.
 Æíµ»À¶É«ÉúËÀÁµ
 322.
-½ä²»µô(½ä²»µô
-..¹¬
+½ä²»µô(½ä²»µô ..¹¬
 323.
 °®ÄãÍ´µ½²»ÖªÍ´Ñ©É½·Éºü
 324.
@@ -20904,8 +20840,7 @@ lose
 345.
 ºÃÏëºÃÏëÇéÉîÉîÓêÃÉÃÉ
 346.
-¸Ð¶¯(¸Ð¶¯
-²àÌï..¹¬
+¸Ð¶¯(¸Ð¶¯ ²àÌï..¹¬
 347.
 ÄªÊ§ÄªÍüÏÉ½£ÆæÏÀ´«
 348.
@@ -20915,8 +20850,7 @@ lose
 350.
 Î÷ÏáÆæÔµÎ÷ÏáÆæÔµ
 351.
-ÀíÏë¹ú(ÀíÏë¹ú
-..Õê¹ÛÖ®ÖÎ
+ÀíÏë¹ú(ÀíÏë¹ú ..Õê¹ÛÖ®ÖÎ
 ·µ»ØÒ³¶¥
 È«Ñ¡
 ·´Ñ¡
@@ -21134,8 +21068,7 @@ Me¸è¾ç÷ÈÓ°
 446.
 Âú½­ºìÉäµñÓ¢ÐÛ´«
 447.
-Ìì»ú(Ìì»ú
-ÕÅÑ§..Õê¹ÛÖ®ÖÎ
+Ìì»ú(Ìì»ú ÕÅÑ§..Õê¹ÛÖ®ÖÎ
 448.
 °®ÇéÓÂ¸Òí°·ò³ÉÁú
 449.
@@ -21334,8 +21267,7 @@ GoodbyeÎÒµÄÃû×Ö½Ð½ðÈý..
 533.
 ¶àÒ»Ìì°®Ò»µãÌì¹úµÄ¼ÞÒÂ
 534.
-¸èÎ´Ñë(¸èÎ´Ñë
-..ÐÂÉÏº£Ì²
+¸èÎ´Ñë(¸èÎ´Ñë ..ÐÂÉÏº£Ì²
 535.
 Âé×íÃîÊÖÈÊÐÄII
 536.
@@ -27000,9 +26932,7 @@ Sogou.com
 ÌØÎñj
 ×îÐÂ×¨¼­£º
 °®ÎÞÉâ
-£¨Super
-Rave
-Remix£©
+£¨Super Rave Remix£©
 5.
 ÕÅÑ§ÓÑ
 ÈËÆø£º
@@ -27375,9 +27305,7 @@ Mok
 ÇëÈÃÎÒ°®Äã
 »Ø¼ÒµÄÂ·
 ×îÐÂ×¨¼­£º
-Éñ»°(The
-Myth
-µçÓ°Ô­ÉùÒôÀÖ)
+Éñ»°(The Myth µçÓ°Ô­ÉùÒôÀÖ)
 43.
 ÏôÑÇÐù
 ÈËÆø£º
@@ -27860,8 +27788,7 @@ Smiles
 i
 believe
 ×îÐÂ×¨¼­£º
-¶Ï³áºûµû·É(°®Çé³ÌÊ½
-ÏÞÁ¿µ¥Çú)
+¶Ï³áºûµû·É(°®Çé³ÌÊ½ ÏÞÁ¿µ¥Çú)
 92.
 ÀîÓî´º
 ÈËÆø£º
@@ -28045,9 +27972,7 @@ Sogou.com
 ÌØÎñj
 ×îÐÂ×¨¼­£º
 °®ÎÞÉâ
-£¨Super
-Rave
-Remix£©
+£¨Super Rave Remix£©
 5.
 ÕÅÑ§ÓÑ
 ÈËÆø£º
@@ -28420,9 +28345,7 @@ Mok
 ÇëÈÃÎÒ°®Äã
 »Ø¼ÒµÄÂ·
 ×îÐÂ×¨¼­£º
-Éñ»°(The
-Myth
-µçÓ°Ô­ÉùÒôÀÖ)
+Éñ»°(The Myth µçÓ°Ô­ÉùÒôÀÖ)
 43.
 ÏôÑÇÐù
 ÈËÆø£º
@@ -28905,8 +28828,7 @@ Smiles
 i
 believe
 ×îÐÂ×¨¼­£º
-¶Ï³áºûµû·É(°®Çé³ÌÊ½
-ÏÞÁ¿µ¥Çú)
+¶Ï³áºûµû·É(°®Çé³ÌÊ½ ÏÞÁ¿µ¥Çú)
 92.
 ÀîÓî´º
 ÈËÆø£º
@@ -81536,8 +81458,7 @@ Sogou.com
 2000ÄêÖ÷³Ö±±¾©Éú»îÆµµÀ¡¶±±¾©°ñÑù¡·À¸Ä¿£¬¹âÏß´«²¥¡¶ÓéÀÖÈËÎïÖÜ¿¯¡·À¸Ä¿£¬°ÄÃÅÎÀÊÓ¡¶ÎåÐÇµý±¨¡·À¸Ä¿£»Ö÷³ÖÊæÀÙÊÀ¼ÍÐÇÈ«¹úÑ¡ÃÀ»î¶¯£»ÔÚ¡¶½¡¿µÅ®º¢¡·ÔÓÖ¾Éè×¨À¸£»»ñÐÂÖÜ¿¯µçÊÓ°ñÈ«¹ú×îÊÜ»¶Ó­Ö÷³ÖÈËµÚËÄÃû
 2001ÄêÖ÷³ÖÏã¸ÛÑô¹âÎÀÊÓ¡¶¿Æ¼¼ÓëÎÄÃ÷¡·¡¶ÑÛ¾¦ÏëÂÃÐÐ¡·À¸Ä¿£¬³ÉÎªÄ¦ÍÐÂÞÀ­£¬ÈýÐÇ£¬Åµ»ùÑÇ£¬Î÷ÃÅ×ÓÐÂ¿îÊÖ»úÉÏÊÐÐÂÎÅ·¢²¼»áÖ¸¶¨Ö÷³ÖÈË£»Ö÷³Ö½­ËÕÎÀÊÓÇ¿µµÑ§Éú½ÚÄ¿¡¶ÌìÌì90Ö®Çà´º´óÅö×²¡·£»Ö÷³Ö½­ËÕÎÀÊÓÇ¿µµ½ÚÄ¿¡¶»¶ÀÖÒÁµéÔ°¡·
 2002ÄêÔÚÓÉ½ªÎä¡¢½ª°ÍÀ­µ¼ÑÝµÄµçÊÓÁ¬Ðø¾ç¡¶¸÷¾Í¸÷Î»¡·Ö®¡¶³¤·¢Æ®Æ®¡·ÖÐ³öÈÎÄÐÒ»ºÅ¡£
-2002ÄêÖ÷³ÖÑô¹âÎÀÊÓ¡¶¿´Ê±ÉÐ
-ÍÆÐÂÈË¡·À¸Ä¿
+2002ÄêÖ÷³ÖÑô¹âÎÀÊÓ¡¶¿´Ê±ÉÐ ÍÆÐÂÈË¡·À¸Ä¿
 2003ÄêÖ÷³ÖÂÃÓÎÎÀÊÓ¡¶ÓéÀÖÈÎÎÒÐÐ¡·À¸Ä¿
 2003ÄêÖ÷³ÖÖÐ¹ú½ÌÓýµçÊÓÌ¨¡¶·ÐµãÏÖ³¡¡·
 2003Äê7ÔÂ¿ªÍ¨¸öÈËÍøÕ¾:www.anhooline.com
@@ -82786,15 +82707,7 @@ cm
 ÖØ
 73
 kg
-Ñ§Ð££ºRMIT´óÑ§£¬°ÄÖÞ£¨RMIT
-UNIVERSITY,
-AUSTRALIA
-(BACHELOR
-OF
-BUSINESS
-IN
-BUSINESS
-ADMINISTRATION£©
+Ñ§Ð££ºRMIT´óÑ§£¬°ÄÖÞ£¨RMIT UNIVERSITY, AUSTRALIA (BACHELOR OF BUSINESS IN BUSINESS ADMINISTRATION£© 
 ¸öÐÔ£ºº¦Ðß,¼ûÍü£¬ÊÂÒµÎªÖØ¡£
 ×ö¹ý×îÓÐÓÂÆøµÄÊÂÇé£º
 ÔÚÌ¨Íå¼ÌÐø×·ÇóÎÒÔÚÑÝÒÕÈ¦µÄÊÂÒµ
@@ -82956,15 +82869,7 @@ cm
 ÖØ
 73
 kg
-Ñ§Ð££ºRMIT´óÑ§£¬°ÄÖÞ£¨RMIT
-UNIVERSITY,
-AUSTRALIA
-(BACHELOR
-OF
-BUSINESS
-IN
-BUSINESS
-ADMINISTRATION£©
+Ñ§Ð££ºRMIT´óÑ§£¬°ÄÖÞ£¨RMIT UNIVERSITY, AUSTRALIA (BACHELOR OF BUSINESS IN BUSINESS ADMINISTRATION£© 
 ¸öÐÔ£ºº¦Ðß,¼ûÍü£¬ÊÂÒµÎªÖØ¡£
 ×ö¹ý×îÓÐÓÂÆøµÄÊÂÇé£º
 ÔÚÌ¨Íå¼ÌÐø×·ÇóÎÒÔÚÑÝÒÕÈ¦µÄÊÂÒµ
@@ -84147,8 +84052,7 @@ see
 ¡¶ÂéÀ±ÏÊÊ¦¡·µçÊÓÔ­Éù´ø
 µÚÒ»ÕÅ×¨¼­¡¶±Ú»¢Âþ²½¡·
 µÚ¶þÕÅ×¨¼­¡¶ÎÒµÄÂó¿Ë·ç¡·
-×¨¼­¡¶U
-Love¡·
+×¨¼­¡¶U Love¡·
 Ö÷³Ö
 Ö÷³ÖChannel
 V
@@ -84287,8 +84191,7 @@ see
 ¡¶ÂéÀ±ÏÊÊ¦¡·µçÊÓÔ­Éù´ø
 µÚÒ»ÕÅ×¨¼­¡¶±Ú»¢Âþ²½¡·
 µÚ¶þÕÅ×¨¼­¡¶ÎÒµÄÂó¿Ë·ç¡·
-×¨¼­¡¶U
-Love¡·
+×¨¼­¡¶U Love¡·
 Ö÷³Ö
 Ö÷³ÖChannel
 V
@@ -84717,8 +84620,7 @@ Michael¡¢Sting
 ÈÕ±¾ÁÏÀí¡¢×Ü»ãÈýÃ÷ÖÎ¡¢ÆÏÌÑèÖÖ­¡¢Pizza¡¢±±¾©¿¾Ñ¼
 ×î´óµÄÐÄÔ¸:
 ×öÒ»¸ö¶ÔÁ÷ÐÐÒôÀÖ½çÓÐ¹±Ï×µÄ´´×÷ÈË
-¡¾²Å»ª¡¿£º¸è³ª£¨14Ëê¼ÓÈëShow
-ChoirºÏ³ªÍÅ.19Ëê³öµÚÒ»ÕÅ¸öÈË×¨¼­£©¡¢°ôÇò£¨×óÍ¶ÊÖ.µÁÀÝÍõ£©¡¢Ó¢ÎÄ£¨´Ó³öÉú¿ªÊ¼Ñ§.ÖÁ½ñ21ÄêÀ²£©¡¢·¨ÎÄ£¨´Ó³õÒ»µ½¸ßÈý£©¡¢ÖÐÎÄ£¨»ØÌ¨áá¿ªÊ¼Ñ§..ÖÁ½ñ²»¹ý¶Ì¶ÌÁ½Äê.È´ËµµÄºÜÁï£©¡¢ÀÖÆ÷£¨Ð¡ÌáÇÙÊÖ¡¢¼ªËûÊÖ¡¢¾ôÊ¿¹ÄÊÖ¡¢¸ÖÇÙÊÖ¡¢×óÊÖanyway..Á¦ºêÓÐºÃ¼¸ÊÖ£©¡¢´ÊÇú´´×÷£¨13ËêÆð¿ªÊ¼´´×÷£¬ÖÁ½ñÔ¼ËÄÊ®ÓàÊ××÷Æ·£©¡¢»æ»­£¨»­×÷¡ºÓ¥¡»µÃ½±£©¡¢ÂÛÎÄ£¨×÷Æ·¡ºÈËÉúÓë×Ú½Ì¡»µÃ½±£©¡¢ÒôÀÖ¾ç£¨×Ô¸ßÖÐÆðÄêÄêÑÝÎèÌ¨¾ç£©
+¡¾²Å»ª¡¿£º¸è³ª£¨14Ëê¼ÓÈëShow ChoirºÏ³ªÍÅ.19Ëê³öµÚÒ»ÕÅ¸öÈË×¨¼­£©¡¢°ôÇò£¨×óÍ¶ÊÖ.µÁÀÝÍõ£©¡¢Ó¢ÎÄ£¨´Ó³öÉú¿ªÊ¼Ñ§.ÖÁ½ñ21ÄêÀ²£©¡¢·¨ÎÄ£¨´Ó³õÒ»µ½¸ßÈý£©¡¢ÖÐÎÄ£¨»ØÌ¨áá¿ªÊ¼Ñ§..ÖÁ½ñ²»¹ý¶Ì¶ÌÁ½Äê.È´ËµµÄºÜÁï£©¡¢ÀÖÆ÷£¨Ð¡ÌáÇÙÊÖ¡¢¼ªËûÊÖ¡¢¾ôÊ¿¹ÄÊÖ¡¢¸ÖÇÙÊÖ¡¢×óÊÖanyway..Á¦ºêÓÐºÃ¼¸ÊÖ£©¡¢´ÊÇú´´×÷£¨13ËêÆð¿ªÊ¼´´×÷£¬ÖÁ½ñÔ¼ËÄÊ®ÓàÊ××÷Æ·£©¡¢»æ»­£¨»­×÷¡ºÓ¥¡»µÃ½±£©¡¢ÂÛÎÄ£¨×÷Æ·¡ºÈËÉúÓë×Ú½Ì¡»µÃ½±£©¡¢ÒôÀÖ¾ç£¨×Ô¸ßÖÐÆðÄêÄêÑÝÎèÌ¨¾ç£©
 ¡¾¹ã¸æ¾­Ñé¡¿1.SHISEIDO
 ×ÊÉúÌÃSQ¸ÅÄîÍÆ¹ã´úÑÔÈË2.Î¬ËûÂ¶P
 ¡¾·¢ÐÐ×¨¼­¡¿
@@ -84845,8 +84747,7 @@ Michael¡¢Sting
 ÈÕ±¾ÁÏÀí¡¢×Ü»ãÈýÃ÷ÖÎ¡¢ÆÏÌÑèÖÖ­¡¢Pizza¡¢±±¾©¿¾Ñ¼
 ×î´óµÄÐÄÔ¸:
 ×öÒ»¸ö¶ÔÁ÷ÐÐÒôÀÖ½çÓÐ¹±Ï×µÄ´´×÷ÈË
-¡¾²Å»ª¡¿£º¸è³ª£¨14Ëê¼ÓÈëShow
-ChoirºÏ³ªÍÅ.19Ëê³öµÚÒ»ÕÅ¸öÈË×¨¼­£©¡¢°ôÇò£¨×óÍ¶ÊÖ.µÁÀÝÍõ£©¡¢Ó¢ÎÄ£¨´Ó³öÉú¿ªÊ¼Ñ§.ÖÁ½ñ21ÄêÀ²£©¡¢·¨ÎÄ£¨´Ó³õÒ»µ½¸ßÈý£©¡¢ÖÐÎÄ£¨»ØÌ¨áá¿ªÊ¼Ñ§..ÖÁ½ñ²»¹ý¶Ì¶ÌÁ½Äê.È´ËµµÄºÜÁï£©¡¢ÀÖÆ÷£¨Ð¡ÌáÇÙÊÖ¡¢¼ªËûÊÖ¡¢¾ôÊ¿¹ÄÊÖ¡¢¸ÖÇÙÊÖ¡¢×óÊÖanyway..Á¦ºêÓÐºÃ¼¸ÊÖ£©¡¢´ÊÇú´´×÷£¨13ËêÆð¿ªÊ¼´´×÷£¬ÖÁ½ñÔ¼ËÄÊ®ÓàÊ××÷Æ·£©¡¢»æ»­£¨»­×÷¡ºÓ¥¡»µÃ½±£©¡¢ÂÛÎÄ£¨×÷Æ·¡ºÈËÉúÓë×Ú½Ì¡»µÃ½±£©¡¢ÒôÀÖ¾ç£¨×Ô¸ßÖÐÆðÄêÄêÑÝÎèÌ¨¾ç£©
+¡¾²Å»ª¡¿£º¸è³ª£¨14Ëê¼ÓÈëShow ChoirºÏ³ªÍÅ.19Ëê³öµÚÒ»ÕÅ¸öÈË×¨¼­£©¡¢°ôÇò£¨×óÍ¶ÊÖ.µÁÀÝÍõ£©¡¢Ó¢ÎÄ£¨´Ó³öÉú¿ªÊ¼Ñ§.ÖÁ½ñ21ÄêÀ²£©¡¢·¨ÎÄ£¨´Ó³õÒ»µ½¸ßÈý£©¡¢ÖÐÎÄ£¨»ØÌ¨áá¿ªÊ¼Ñ§..ÖÁ½ñ²»¹ý¶Ì¶ÌÁ½Äê.È´ËµµÄºÜÁï£©¡¢ÀÖÆ÷£¨Ð¡ÌáÇÙÊÖ¡¢¼ªËûÊÖ¡¢¾ôÊ¿¹ÄÊÖ¡¢¸ÖÇÙÊÖ¡¢×óÊÖanyway..Á¦ºêÓÐºÃ¼¸ÊÖ£©¡¢´ÊÇú´´×÷£¨13ËêÆð¿ªÊ¼´´×÷£¬ÖÁ½ñÔ¼ËÄÊ®ÓàÊ××÷Æ·£©¡¢»æ»­£¨»­×÷¡ºÓ¥¡»µÃ½±£©¡¢ÂÛÎÄ£¨×÷Æ·¡ºÈËÉúÓë×Ú½Ì¡»µÃ½±£©¡¢ÒôÀÖ¾ç£¨×Ô¸ßÖÐÆðÄêÄêÑÝÎèÌ¨¾ç£©
 ¡¾¹ã¸æ¾­Ñé¡¿1.SHISEIDO
 ×ÊÉúÌÃSQ¸ÅÄîÍÆ¹ã´úÑÔÈË2.Î¬ËûÂ¶P
 ¡¾·¢ÐÐ×¨¼­¡¿
@@ -84969,8 +84870,7 @@ Vega
 ×îÂúÒâ×Ô¼ºÉíÌåÄÄ²¿Î»£ºÊÖ¡¢Ñü
 (Ô­Òò£ºÊÝÊÝµÄ)
 ×îÂúÒâÎå¹ÙµÄÄÄÒ»²¿·Ý£ºÃ¼Í·
-(Ô­Òò£ºÃ»Ô­Òò
-)
+(Ô­Òò£ºÃ»Ô­Òò )
 ×ÔÈÏÎª×î¾ß÷ÈÁ¦µÄµØ·½(°üº¬¸öÐÔ)£º¸öÐÔËæºÍ
 ×îÏ²»¶µÄÀÖÆ÷£º¸ÖÇÙ
 ×îÌÖÑáÊ²÷á¸öÐÔµÄÈË£ºÖ»»áÕ¼±ðÈË±ãÒËµÄÈË
@@ -85087,8 +84987,7 @@ Vega
 ×îÂúÒâ×Ô¼ºÉíÌåÄÄ²¿Î»£ºÊÖ¡¢Ñü
 (Ô­Òò£ºÊÝÊÝµÄ)
 ×îÂúÒâÎå¹ÙµÄÄÄÒ»²¿·Ý£ºÃ¼Í·
-(Ô­Òò£ºÃ»Ô­Òò
-)
+(Ô­Òò£ºÃ»Ô­Òò )
 ×ÔÈÏÎª×î¾ß÷ÈÁ¦µÄµØ·½(°üº¬¸öÐÔ)£º¸öÐÔËæºÍ
 ×îÏ²»¶µÄÀÖÆ÷£º¸ÖÇÙ
 ×îÌÖÑáÊ²÷á¸öÐÔµÄÈË£ºÖ»»áÕ¼±ðÈË±ãÒËµÄÈË
@@ -85205,8 +85104,7 @@ Vega
 ×îÂúÒâ×Ô¼ºÉíÌåÄÄ²¿Î»£ºÊÖ¡¢Ñü
 (Ô­Òò£ºÊÝÊÝµÄ)
 ×îÂúÒâÎå¹ÙµÄÄÄÒ»²¿·Ý£ºÃ¼Í·
-(Ô­Òò£ºÃ»Ô­Òò
-)
+(Ô­Òò£ºÃ»Ô­Òò )
 ×ÔÈÏÎª×î¾ß÷ÈÁ¦µÄµØ·½(°üº¬¸öÐÔ)£º¸öÐÔËæºÍ
 ×îÏ²»¶µÄÀÖÆ÷£º¸ÖÇÙ
 ×îÌÖÑáÊ²÷á¸öÐÔµÄÈË£ºÖ»»áÕ¼±ðÈË±ãÒËµÄÈË
@@ -85357,20 +85255,14 @@ Vie-Ya¡±
 ÄÑÍüÑÝ³ö
 -
 ÕÅÑ§ÓÑ»î³öÉúÃüLiveÑÝ³ª»á
-(5
-Oct
-2004)
+(5 Oct 2004)
 ÎÒÔøÈÙ»ñ2000Äê¶ÈCASHÁ÷ÐÐÇú´´×÷´óÈü¹Ú¾ü
 ÅÉÌ¨×÷Æ·
-(6
-Sep
-2004)
+(6 Sep 2004)
 :
 °ÑÏ·
 ÅÉÌ¨×÷Æ·
-(15
-Feb
-2005)
+(15 Feb 2005)
 :
 Ïë·É
 ²é¿´ÏêÇé
@@ -85514,16 +85406,14 @@ Xing
 µ¥ÇúÊý£º19Ê×
 È¥ÍõèÝöÎµÄËµ°É
 ¸èÊÖ×ÊÁÏ
-ÖÐÎÄÃû£¨Chinese
-Name)£ºÍõèÝöÎ
+ÖÐÎÄÃû£¨Chinese Name)£ºÍõèÝöÎ
 ³öÉúÈÕÆÚ£¨Birthday£©£º
 1ÔÂ18ÈÕ
 ÐÔ±ð£¨Sex£©£ºÄÐ
 ÌåÖØ£¨Weight£©£º60kg
 Éí¸ß£¨Height£©£º
 172cm
-ÑªÐÍ£¨Blood
-Type£©£ºAÐÍ
+ÑªÐÍ£¨Blood Type£©£ºAÐÍ
 ÐÇ×ù£¨Horoscope£©£ºÄ¦ôÉ×ù
 ÌØ³¤£¨Specialty£©£ºÀºÇò¡¢¼ªËû
 ¼ÒÍ¥³ÉÔ±£¨Family£©£º¸¸Ä¸
@@ -85542,12 +85432,8 @@ one
 ¸èÊÖ£¨Singer£©£ºVitas¡¢³ÂÞÈÑ¸
 ÄÐÑÝÔ±£¨Actor£©£º³ÂµÀÃ÷
 ÑÕÉ«£¨Color£©£ººÚ¡¢°×
-Ï£Íûµ½µÄµØ·½£¨Places
-Like
-To
-Visit£©£ººÉÀ¼¡¢°ÍÀè
-×îÄÑÍüµÄÊÂ£¨Unforgettable
-Events£©£º²Î¼Ó2007¿ìÀÖÄÐÉù
+Ï£Íûµ½µÄµØ·½£¨Places Like To Visit£©£ººÉÀ¼¡¢°ÍÀè
+×îÄÑÍüµÄÊÂ£¨Unforgettable Events£©£º²Î¼Ó2007¿ìÀÖÄÐÉù
 ²é¿´ÏêÇé
 °ïÖúÎÒÃÇÌá¸ß
 &copy;
@@ -85620,16 +85506,14 @@ Xing
 µ¥ÇúÊý£º19Ê×
 È¥ÍõèÝöÎµÄËµ°É
 ¸èÊÖ×ÊÁÏ
-ÖÐÎÄÃû£¨Chinese
-Name)£ºÍõèÝöÎ
+ÖÐÎÄÃû£¨Chinese Name)£ºÍõèÝöÎ
 ³öÉúÈÕÆÚ£¨Birthday£©£º
 1ÔÂ18ÈÕ
 ÐÔ±ð£¨Sex£©£ºÄÐ
 ÌåÖØ£¨Weight£©£º60kg
 Éí¸ß£¨Height£©£º
 172cm
-ÑªÐÍ£¨Blood
-Type£©£ºAÐÍ
+ÑªÐÍ£¨Blood Type£©£ºAÐÍ
 ÐÇ×ù£¨Horoscope£©£ºÄ¦ôÉ×ù
 ÌØ³¤£¨Specialty£©£ºÀºÇò¡¢¼ªËû
 ¼ÒÍ¥³ÉÔ±£¨Family£©£º¸¸Ä¸
@@ -85648,12 +85532,8 @@ one
 ¸èÊÖ£¨Singer£©£ºVitas¡¢³ÂÞÈÑ¸
 ÄÐÑÝÔ±£¨Actor£©£º³ÂµÀÃ÷
 ÑÕÉ«£¨Color£©£ººÚ¡¢°×
-Ï£Íûµ½µÄµØ·½£¨Places
-Like
-To
-Visit£©£ººÉÀ¼¡¢°ÍÀè
-×îÄÑÍüµÄÊÂ£¨Unforgettable
-Events£©£º²Î¼Ó2007¿ìÀÖÄÐÉù
+Ï£Íûµ½µÄµØ·½£¨Places Like To Visit£©£ººÉÀ¼¡¢°ÍÀè
+×îÄÑÍüµÄÊÂ£¨Unforgettable Events£©£º²Î¼Ó2007¿ìÀÖÄÐÉù
 ²é¿´ÏêÇé
 °ïÖúÎÒÃÇÌá¸ß
 &copy;
@@ -85725,10 +85605,8 @@ Chen
 µ¥ÇúÊý£º33Ê×
 È¥Îº³¿µÄËµ°É
 ¸èÊÖ×ÊÁÏ
-ÖÐÎÄÃû£¨Chinese
-Name)£ºÎº³¿
-Ó¢ÎÄÃû£¨English
-Name)£ºVISION
+ÖÐÎÄÃû£¨Chinese Name)£ºÎº³¿
+Ó¢ÎÄÃû£¨English Name)£ºVISION
 ÐÔ±ð£¨Sex£©£ºÄÐ
 ³öÉúÈÕÆÚ£¨Birthday£©£º
 2ÔÂ22ÈÕ
@@ -85754,12 +85632,8 @@ Name)£ºVISION
 ÄÐÑÝÔ±£¨Actor£©£ºÁõµÂ»ª
 Å®ÑÝÔ±£¨Actress£©£ºÐì·«
 ÑÕÉ«£¨Color£©£ººÚ¡¢°×
-Ï£Íûµ½µÄµØ·½£¨Places
-Like
-To
-Visit£©£ºÂí¶û´ú·ò
-×îÄÑÍüµÄÊÂ£¨Unforgettable
-Events£©£º¿¼´óÑ§
+Ï£Íûµ½µÄµØ·½£¨Places Like To Visit£©£ºÂí¶û´ú·ò
+×îÄÑÍüµÄÊÂ£¨Unforgettable Events£©£º¿¼´óÑ§
 ²é¿´ÏêÇé
 °ïÖúÎÒÃÇÌá¸ß
 &copy;

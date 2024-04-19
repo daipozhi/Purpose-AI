@@ -1628,17 +1628,9 @@ NPC
 30
 ·ÖÖÓÄÚÉ±µÐ»ñÈ¡»ý·Ö£¬¶ø´ÓÖÐµÃµ½×î¸ßÀÛ¼Æ»ý·ÖµÄ×éÖ¯»ñÊ¤¡£
 2.Ã¿¸ö²ÎÈüµÄ×éÖ¯³ÉÔ±¶¼ÓÐÒ»¶¨µÄ·ÖÊýÔÚÉíÉÏ
-(5
-·Ö
-)
+(5 ·Ö )
 £¬ÕâÖÐ¼äÄã¿ÉÒÔ½åÓÉÉ±µÐÈ¡µÃ¶Ô·½·ÖÊý£¬Èô±»ÆäËü×éÖ¯³ÉÔ±É±ËÀ£¬Ôò×Ô¼ºÉíÉÏµÄ»ý·Ö
-(
-É±µÐËùÓÐ»ý·Ö
-+
-×Ô¼º»ý·Ö
-1
-·Ö
-)
+( É±µÐËùÓÐ»ý·Ö + ×Ô¼º»ý·Ö 1 ·Ö )
 ¾Í»áµôµ½É±ËÀÄãÍæ¼ÒµÄÉíÉÏ¡£
 3.
 µ±×Ô¼ºÉíÉÏµÄ»ý·Ö½µÎª
@@ -1842,21 +1834,7 @@ EnixêéêìÈ«ÇòÓÎÏ·ÊÐ³¡-ÍøÂçÓÎÏ·ÐÂÎÅ
 ¡ñ17173¹¦·òÊÀ½çÕÊºÅ°²È«µÄ¹«¸æ
 ¡ñ17173¹¦·òÊÀ½ç·ÀÆ­ÐëÖª
 ¸ßÊÖ±Ø¿´
-<?import
-namespace
-=
-cms17173
-implementation
-=
-"chip.htc"
-declareNamespace
-/><cms17173:chipTag
-cid="19027"
-chipName="¸ßÊÖ±Ø¿´"
-chipPath="/website/10.59.96.91/mygame.17173.com/inc/846620080111102757029.inc"
-chipInfo="CMS
-TEAM:XJH,YH,CYZ"
-chipType="1">
+<?import namespace = cms17173 implementation = "chip.htc" declareNamespace /><cms17173:chipTag cid="19027" chipName="¸ßÊÖ±Ø¿´" chipPath="/website/10.59.96.91/mygame.17173.com/inc/846620080111102757029.inc" chipInfo="CMS TEAM:XJH,YH,CYZ" chipType="1">
 ¹¦·ò½£¿ÍÐÄµÃ
 |
 Ç¹1-60È«¹¥ÂÔ
@@ -1874,13 +1852,7 @@ chipType="1">
 Ã¿ÈÕ¹Ì¶¨»î¶¯
 </cms17173:chipTag>
 ÐÂÊÖÎÊÌâ
-<cms17173:chipTag
-cid="19028"
-chipName="ÐÂÊÖÎÊÌâ"
-chipPath="/website/10.59.96.91/mygame.17173.com/inc/846620080111102830007.inc"
-chipInfo="CMS
-TEAM:XJH,YH,CYZ"
-chipType="1">¡¤ÎÒ¸ÃÔõÃ´Ñ§Ï°Îä¹¦¼¼ÄÜ£¿
+<cms17173:chipTag cid="19028" chipName="ÐÂÊÖÎÊÌâ" chipPath="/website/10.59.96.91/mygame.17173.com/inc/846620080111102830007.inc" chipInfo="CMS TEAM:XJH,YH,CYZ" chipType="1">¡¤ÎÒ¸ÃÔõÃ´Ñ§Ï°Îä¹¦¼¼ÄÜ£¿
 ¡¤ÔõÑù²ÅÄÜ¿ìËÙÕÒµ½NPC£¿
 ¡¤ÔõÑù¿ÉÒÔÈÃÎÒµÄ°ü°ü±ä´óÒ»Ð©£¿
 ¡¤ÎäÆ÷×°±¸»µµôÁËÈ¥ÄÄÀïÐÞ£¿
@@ -2026,21 +1998,7 @@ http://mygame.17173.com/wok
 ¡ñ17173¹¦·òÊÀ½çÕÊºÅ°²È«µÄ¹«¸æ
 ¡ñ17173¹¦·òÊÀ½ç·ÀÆ­ÐëÖª
 ¸ßÊÖ±Ø¿´
-<?import
-namespace
-=
-cms17173
-implementation
-=
-"chip.htc"
-declareNamespace
-/><cms17173:chipTag
-cid="19027"
-chipName="¸ßÊÖ±Ø¿´"
-chipPath="/website/10.59.96.91/mygame.17173.com/inc/846620080111102757029.inc"
-chipInfo="CMS
-TEAM:XJH,YH,CYZ"
-chipType="1">
+<?import namespace = cms17173 implementation = "chip.htc" declareNamespace /><cms17173:chipTag cid="19027" chipName="¸ßÊÖ±Ø¿´" chipPath="/website/10.59.96.91/mygame.17173.com/inc/846620080111102757029.inc" chipInfo="CMS TEAM:XJH,YH,CYZ" chipType="1">
 ¹¦·ò½£¿ÍÐÄµÃ
 |
 Ç¹1-60È«¹¥ÂÔ
@@ -2058,13 +2016,7 @@ chipType="1">
 Ã¿ÈÕ¹Ì¶¨»î¶¯
 </cms17173:chipTag>
 ÐÂÊÖÎÊÌâ
-<cms17173:chipTag
-cid="19028"
-chipName="ÐÂÊÖÎÊÌâ"
-chipPath="/website/10.59.96.91/mygame.17173.com/inc/846620080111102830007.inc"
-chipInfo="CMS
-TEAM:XJH,YH,CYZ"
-chipType="1">¡¤ÎÒ¸ÃÔõÃ´Ñ§Ï°Îä¹¦¼¼ÄÜ£¿
+<cms17173:chipTag cid="19028" chipName="ÐÂÊÖÎÊÌâ" chipPath="/website/10.59.96.91/mygame.17173.com/inc/846620080111102830007.inc" chipInfo="CMS TEAM:XJH,YH,CYZ" chipType="1">¡¤ÎÒ¸ÃÔõÃ´Ñ§Ï°Îä¹¦¼¼ÄÜ£¿
 ¡¤ÔõÑù²ÅÄÜ¿ìËÙÕÒµ½NPC£¿
 ¡¤ÔõÑù¿ÉÒÔÈÃÎÒµÄ°ü°ü±ä´óÒ»Ð©£¿
 ¡¤ÎäÆ÷×°±¸»µµôÁËÈ¥ÄÄÀïÐÞ£¿
@@ -2270,9 +2222,7 @@ MYGAMEÏÀÒåµÀ×¨°æ
 2¡¢·ÅÅÚÖñ£ºÔÚÖÐÔ­ÓÒ¼üµã»÷ÅÚÖñ²Å¿É¶ÔÄêÊÞÔì³ÉÉËº¦¡£
 3¡¢ºäÄêÊÞ¡£ÍíÉÏ8µã¡ª10µã£¬µ±Õû¸ö·þÎñÆ÷Íæ¼ÒÔÚÖÐÔ­µØÍ¼È¼·ÅÅÚÖñµÄÊýÁ¿´ïµ½Ò»¶¨Á¿Ê±£¬ÓÐÒ»¶¨¼¸ÂÊºä³öÄêÊÞ£¬ÄêÊÞ³öÏÖÊ±ÏµÍ³»á½øÐÐ¹«¸æ¡£
 4¡¢´òÄêÊÞ£ºÄêÊÞ³öÏÖÒÔºó£¬¼ÌÐøÈ¼·ÅÅÚÖñ£¬ÄêÊÞÓÉÓÚ»áÊÜµ½¾ªÏÅ£¬ÊôÐÔ»á½µµÍ¡£»÷°ÜÄêÊÞÒÔºó»áËæ»úµôÂäÄêÊÞ½Ç¡¢±¦ÏäµÈ±¦Îï¡£
-5¡¢½øÈëÐÒÔËËþ£ºÓµÓÐÄêÊÞ½ÇµÄÍæ¼Ò£¬¿ÉÒÔÔÚÐÒÔËÊ¹Õß£¨¾©³Ç
-259
-430£©´¦½øÈëÐÒÔËËþ£¬ÓÃ¶þ¹øÍ·ÒýÓÕ³öËþÄÚµÄ¹ÖÊÞºó£¬»÷°Ü¹ÖÊÞ¼´¿É»ñµÃ¸ß¶î¾­Ñé¡£
+5¡¢½øÈëÐÒÔËËþ£ºÓµÓÐÄêÊÞ½ÇµÄÍæ¼Ò£¬¿ÉÒÔÔÚÐÒÔËÊ¹Õß£¨¾©³Ç 259 430£©´¦½øÈëÐÒÔËËþ£¬ÓÃ¶þ¹øÍ·ÒýÓÕ³öËþÄÚµÄ¹ÖÊÞºó£¬»÷°Ü¹ÖÊÞ¼´¿É»ñµÃ¸ß¶î¾­Ñé¡£
 ÄêÊÞ½ÇµÄ»ñµÃ£º
 ´«ËµÖÐÐ×ÃÍµÄÄêÊÞ±»ÈËÃÇÓÃ±ÞÅÚ¡¢»ð¹â¡¢ºìÉ«ÏÅÅÜÒÔºó£¬¾Í²Øµ½º£Àï£¬²»ÔÙ³öÀ´¡£
 ÔÚÐÂÄêµ½À´Ö®¼Ê£¬Ó¢ÓÂµÄÈËÃÇ£¬ÄÃÆðÄãÃÇÊÖÀïµÄÅÚÖñ£¬½«ÄêÊÞ¡°ºä¡±³öÀ´°É£¡
@@ -2287,18 +2237,15 @@ MYGAMEÏÀÒåµÀ×¨°æ
 1ÔÂ31ÈÕ¡ª¡ª2ÔÂ21ÈÕ
 ¿ª½±Ê±¼ä£º
 Ã¿ÌìµÄ11µãºÍ22µã¸÷¿ª½±Ò»´Î
-1¡¢Í¶×¢£ºÍæ¼ÒÔÚÍ¶×¢¹ÙÔ±[179
-204]´¦ÌîÐ´1~3000Ö®ÄÚµÄÈÎÒâÒ»¸öÊý×Ö×÷ÎªÍ¶×¢ºÅÂë£¬Í¶×¢×¢Êý²»ÏÞ£¬Íæ¼Ò¿ÉÖØ¸´Í¶×¢Ò»¸öÊý×Ö£¬Ò²¿ÉÒÔ·Ö±ðÍ¶×¢²»Í¬µÄºÅÂë£¬Ã¿×¢2ÍòÏÀÒå±Ò¡£
+1¡¢Í¶×¢£ºÍæ¼ÒÔÚÍ¶×¢¹ÙÔ±[179 204]´¦ÌîÐ´1~3000Ö®ÄÚµÄÈÎÒâÒ»¸öÊý×Ö×÷ÎªÍ¶×¢ºÅÂë£¬Í¶×¢×¢Êý²»ÏÞ£¬Íæ¼Ò¿ÉÖØ¸´Í¶×¢Ò»¸öÊý×Ö£¬Ò²¿ÉÒÔ·Ö±ðÍ¶×¢²»Í¬µÄºÅÂë£¬Ã¿×¢2ÍòÏÀÒå±Ò¡£
 2¡¢¿ª½±£ºÃ¿Ìì11µãºÍ22µã¸÷¿ª½±Ò»´Î£¬µ±ÆÚ¿ª½±ºó¼´¿É¿ªÊ¼ÏÂÒ»ÆÚµÄÍ¶×¢£¬ÏµÍ³½«´Ó1~3000Ëæ»ú³éÈ¡Ò»¸öÊý×Ö×÷Îªµ±ÆÚÖÐ½±ºÅÂë£¬²¢È«ÆÁ¹«¸æÖÐ½±ºÅÂë¡¢ÖÐ½±×¢Êý¼°Ã¿×¢½±½ð¡£
 3¡¢¶Ò½±£ºÖÐ½±Íæ¼ÒÐèÔÚÏÂÒ»´Î¿ª½±Ö®Ç°µ½¶Ò½±¹ÙÔ±
-[181
-206]´¦¶Ò½±£¬¹ýÆÚ×÷·Ï¡£µÚÒ»ÆÚ×Ü½±½ð3000ÍòÏÀÒå±Ò£¬ÈçÎÞÖÐ½±ÔòÏÂÒ»ÆÚ½±½ðÀÛ¼ÆÖÁ3500Íò£¬ÒÔ´ËÀàÍÆ¡£ÖÐ½±Íæ¼ÒÁíÍâ»¹½«»ñµÃ3¼¶ºÚÓñÒ»¿Å¡£
+[181 206]´¦¶Ò½±£¬¹ýÆÚ×÷·Ï¡£µÚÒ»ÆÚ×Ü½±½ð3000ÍòÏÀÒå±Ò£¬ÈçÎÞÖÐ½±ÔòÏÂÒ»ÆÚ½±½ðÀÛ¼ÆÖÁ3500Íò£¬ÒÔ´ËÀàÍÆ¡£ÖÐ½±Íæ¼ÒÁíÍâ»¹½«»ñµÃ3¼¶ºÚÓñÒ»¿Å¡£
 »î¶¯F£ºÓ­´ºÊó
 »î¶¯Ê±¼ä£º
 1ÔÂ31ÈÕ¡ª2ÔÂ21ÈÕ
 »î¶¯Á÷³Ì£º
-Íæ¼ÒÔÚNPCÀñ²¿ÊÌÀÉ[242
-233]´¦½»ÄÉÒ»¶¨Á¿µÄÏÀÒå±Ò½øÈëÌØÊâ³¡¾°£¬´òµô³¡¾°ÖÐË¶Êó£¬ÓÐÒ»¶¨µÄ¼¸ÂÊµÃµ½»î¶¯¾íÖá
+Íæ¼ÒÔÚNPCÀñ²¿ÊÌÀÉ[242 233]´¦½»ÄÉÒ»¶¨Á¿µÄÏÀÒå±Ò½øÈëÌØÊâ³¡¾°£¬´òµô³¡¾°ÖÐË¶Êó£¬ÓÐÒ»¶¨µÄ¼¸ÂÊµÃµ½»î¶¯¾íÖá
 ÐÂÄêÐÒÔË´óÀñ--¿ª±¦Ïä
 »ñ´ó½±
 »î¶¯Ê±¼ä£º
@@ -2308,14 +2255,7 @@ MYGAMEÏÀÒåµÀ×¨°æ
 »î¶¯Á÷³Ì£º
 »î¶¯ÆÚ¼ä£¬¿ª±¦Ïä´ÎÊý×î¸ßµÄÍæ¼Ò»¹½«»ñµÃÒâÍâ¾ªÏ²¡£
 ×¢£ºÒÔÉÏ»î¶¯¾ùÒÔÓÎÏ·ÄÚÎª×¼£¬17173ÏÀÒåµÀÓµÓÐ»î¶¯µÄ×îÖÕ½âÊÍÈ¨£¡
-<?xml:namespace
-prefix
-=
-o
-ns
-=
-"urn:schemas-microsoft-com:office:office"
-/>
+<?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" />
 ÓÎÏ·ÕÊºÅ×¢²á£º
 µã»÷½øÈë
 17173¡¶ÏÀÒåµÀ¡·£ºµã»÷½øÈë
@@ -2803,21 +2743,7 @@ http://mygame.17173.com/wok
 ¡ñ17173¹¦·òÊÀ½çÕÊºÅ°²È«µÄ¹«¸æ
 ¡ñ17173¹¦·òÊÀ½ç·ÀÆ­ÐëÖª
 ¸ßÊÖ±Ø¿´
-<?import
-namespace
-=
-cms17173
-implementation
-=
-"chip.htc"
-declareNamespace
-/><cms17173:chipTag
-cid="19027"
-chipName="¸ßÊÖ±Ø¿´"
-chipPath="/website/10.59.96.91/mygame.17173.com/inc/846620080111102757029.inc"
-chipInfo="CMS
-TEAM:XJH,YH,CYZ"
-chipType="1">
+<?import namespace = cms17173 implementation = "chip.htc" declareNamespace /><cms17173:chipTag cid="19027" chipName="¸ßÊÖ±Ø¿´" chipPath="/website/10.59.96.91/mygame.17173.com/inc/846620080111102757029.inc" chipInfo="CMS TEAM:XJH,YH,CYZ" chipType="1">
 ¹¦·ò½£¿ÍÐÄµÃ
 |
 Ç¹1-60È«¹¥ÂÔ
@@ -2835,13 +2761,7 @@ chipType="1">
 Ã¿ÈÕ¹Ì¶¨»î¶¯
 </cms17173:chipTag>
 ÐÂÊÖÎÊÌâ
-<cms17173:chipTag
-cid="19028"
-chipName="ÐÂÊÖÎÊÌâ"
-chipPath="/website/10.59.96.91/mygame.17173.com/inc/846620080111102830007.inc"
-chipInfo="CMS
-TEAM:XJH,YH,CYZ"
-chipType="1">¡¤ÎÒ¸ÃÔõÃ´Ñ§Ï°Îä¹¦¼¼ÄÜ£¿
+<cms17173:chipTag cid="19028" chipName="ÐÂÊÖÎÊÌâ" chipPath="/website/10.59.96.91/mygame.17173.com/inc/846620080111102830007.inc" chipInfo="CMS TEAM:XJH,YH,CYZ" chipType="1">¡¤ÎÒ¸ÃÔõÃ´Ñ§Ï°Îä¹¦¼¼ÄÜ£¿
 ¡¤ÔõÑù²ÅÄÜ¿ìËÙÕÒµ½NPC£¿
 ¡¤ÔõÑù¿ÉÒÔÈÃÎÒµÄ°ü°ü±ä´óÒ»Ð©£¿
 ¡¤ÎäÆ÷×°±¸»µµôÁËÈ¥ÄÄÀïÐÞ£¿
@@ -3593,31 +3513,13 @@ MyGameÊ×Ò³
 ¡¤ÈçºÎ²é¿´DirectX°æ±¾?
 ¡¤°²×°Ê±³öÏÖÁËÎÊÌâ¸ÃÔõÃ´½â¾ö£¿
 ¡¤¸ü¶àÎÊÌâ......
-<cms17173:chipTag
-cid="19715"
-chipName="Í¼Æ¬ÐÂÎÅ"
-chipPath="/website/10.59.96.91/mygame.17173.com/inc/866220080122223449653.inc"
-chipInfo="CMS
-TEAM:XJH,YH,CYZ"
-chipType="1">
+<cms17173:chipTag cid="19715" chipName="Í¼Æ¬ÐÂÎÅ" chipPath="/website/10.59.96.91/mygame.17173.com/inc/866220080122223449653.inc" chipInfo="CMS TEAM:XJH,YH,CYZ" chipType="1">
 </cms17173:chipTag>
 ×îÐÂ¹«¸æ
-<cms17173:chipTag
-cid="19712"
-chipName="ÐÂÎÅ¹«¸æ"
-chipPath="/website/10.59.96.91/mygame.17173.com/inc/866220080122215206285.inc"
-chipInfo="CMS
-TEAM:XJH,YH,CYZ"
-chipType="3">ËéÆ¬ÔÚÕâÀï...</cms17173:chipTag>
+<cms17173:chipTag cid="19712" chipName="ÐÂÎÅ¹«¸æ" chipPath="/website/10.59.96.91/mygame.17173.com/inc/866220080122215206285.inc" chipInfo="CMS TEAM:XJH,YH,CYZ" chipType="3">ËéÆ¬ÔÚÕâÀï...</cms17173:chipTag>
 [¸ü¶à¡­]
 »î¶¯¹«¸æ
-<cms17173:chipTag
-cid="19713"
-chipName="»î¶¯¹«¸æ"
-chipPath="/website/10.59.96.91/mygame.17173.com/inc/866220080122215249946.inc"
-chipInfo="CMS
-TEAM:XJH,YH,CYZ"
-chipType="3">ËéÆ¬ÔÚÕâÀï...</cms17173:chipTag>
+<cms17173:chipTag cid="19713" chipName="»î¶¯¹«¸æ" chipPath="/website/10.59.96.91/mygame.17173.com/inc/866220080122215249946.inc" chipInfo="CMS TEAM:XJH,YH,CYZ" chipType="3">ËéÆ¬ÔÚÕâÀï...</cms17173:chipTag>
 [¸ü¶à¡­]
 ÓÎÏ·½ØÍ¼
 Íí»á
@@ -3691,13 +3593,7 @@ chipType="3">ËéÆ¬ÔÚÕâÀï...</cms17173:chipTag>
 ÅÜ»·|Ì××°|ÓæÁÔ|Ôì´¬|ÉÌ»á|ÕóÓª|Éñ¼£
 Íæ¼Ò¿Í·þ
 QQÈº
-<cms17173:chipTag
-cid="19716"
-chipName="¿Í·þQQ"
-chipPath="/website/10.59.96.91/mygame.17173.com/inc/866220080122223607679.inc"
-chipInfo="CMS
-TEAM:XJH,YH,CYZ"
-chipType="1">ËéÆ¬ÔÚÕâÀï...</cms17173:chipTag>
+<cms17173:chipTag cid="19716" chipName="¿Í·þQQ" chipPath="/website/10.59.96.91/mygame.17173.com/inc/866220080122223607679.inc" chipInfo="CMS TEAM:XJH,YH,CYZ" chipType="1">ËéÆ¬ÔÚÕâÀï...</cms17173:chipTag>
 &copy
 2001-2008
 www.17173.com
@@ -3879,8 +3775,7 @@ MyGameÊ×Ò³
 ´ËÃæ°æÖ÷Òª¹¦ÄÜÊÇ±ãÓÚÍæ¼Ò×ÔÐÐ²¹¸ø£¬Íæ¼ÒÐèÒª°Ñ±³°üÖÐµÄÒ©Ë®ÍÏÈë½øÀ´£¡²¹ÑªÎª¡°HP¡±²¹À¶Îª¡°MP¡±¿ò¼ÜÖÐ¿ÉÒÔ·ÅÈë»Ö¸´Ò©Ë®£¬Ë²¼ä»Ö¸´Ò©Ë®£¬VIPÒ©Ë®£¬Íæ¼Ò¿ÉÒÔÍ¨¹ý¸öÈËÐèÒª×ÔÐÐµ÷½ÚÊ¹ÓÃ±ÈÀý¡£
 ·ÅÈëÒ©Ë®µÄÓÒ·½·Ö±ðÊÇ£¬¸ü»»ÎäÆ÷ÄÍ¾ÃºÍ×Ô¶¯Ê¹ÓÃ³ÖÐøÐ§¹û×´Ì¬µÀ¾ß¿ò¼Ü¡£
 ÔÚÓÎÏ·ÖÐÍæ¼Ò×îÈÝÒ×Ëð»µµÄ¾ÍÊÇÎäÆ÷£¬Íæ¼Ò¿ÉÒÔ°Ñ±³°üÖÐµÄ±¸ÓÃÎäÆ÷·ÅÈë´ËÀ¸ÖÐµ½ÁËÄúÉèÖÃµÄ±ÈÀý»á×ÔÐÐ»»ÉÏÄãËù·ÅÈëµÄÎäÆ÷£¬Ò²¿ÉÒÔ·ÅÈëVIPµÀ¾ßÐÞ¸´ÓÍ£¬Ìá¹©È«Éí×°±¸ÐÞ¸´×÷ÓÃ¡£
-×Ô¶¯Ê¹ÓÃÒÔÏÂµÀ¾ß¼Ó×´Ì¬£º´ËÀ¸Ä¿ÊÇ±ãÓÚÍæ¼Ò·ÅÈë³ÖÐøÐ§¹û×´Ì¬µÄµÀ¾ß£¨ÓÉÓÚ¹ºÂò´ËÀàÐÍVIPµÀ¾ßÖÚ¶àËùÒÔÌØ´ËÔö¼Ó´ËÀ¸£¬¸ù¾ÝÍæ¼ÒÊµ¼ÊÐèÒª»á¼ÌÐøÔö¼Ó£©ÀýÈç³ÖÐø1Ð¡Ê±Ôö¼Ó30%ÑªÁ¿£¬³ÖÐø1Ð¡Ê±Ôö¼Ó1.5±¶¾­ÑéµÈÀàÐÍµÄÎïÆ·¡££¨×¢ÒâÔÚ¿ò¼ÜÈç¹û·ÅÈë2¸öÔö¼ÓµÄÊôÐÔÏàÍ¬£¬µ«Ê±¼ä²»Í¬µÀ¾ßÒ²»áÍ¬Ê±±»Ê¹ÓÃ¡£ÇëÍæ¼Ò×¢ÒâÈç²»ÏêÏ¸¿ÉÒÔÔÚÓÎÏ·ÖÐ´ò¿ªVIPÉÌ³Ç²¹¸øÀàÐÍµÚ¶þÒ³ÖÐµÄ
-¡°ÃÀÎ¶µÄ¿¾»ð¼¦£¨Ð¡£©¡±¡°ÉñÆæµÄ¿¾»ð¼¦£¨Ð¡£©¡±2ÖÖVIPµÀ¾ß£©¡£
+×Ô¶¯Ê¹ÓÃÒÔÏÂµÀ¾ß¼Ó×´Ì¬£º´ËÀ¸Ä¿ÊÇ±ãÓÚÍæ¼Ò·ÅÈë³ÖÐøÐ§¹û×´Ì¬µÄµÀ¾ß£¨ÓÉÓÚ¹ºÂò´ËÀàÐÍVIPµÀ¾ßÖÚ¶àËùÒÔÌØ´ËÔö¼Ó´ËÀ¸£¬¸ù¾ÝÍæ¼ÒÊµ¼ÊÐèÒª»á¼ÌÐøÔö¼Ó£©ÀýÈç³ÖÐø1Ð¡Ê±Ôö¼Ó30%ÑªÁ¿£¬³ÖÐø1Ð¡Ê±Ôö¼Ó1.5±¶¾­ÑéµÈÀàÐÍµÄÎïÆ·¡££¨×¢ÒâÔÚ¿ò¼ÜÈç¹û·ÅÈë2¸öÔö¼ÓµÄÊôÐÔÏàÍ¬£¬µ«Ê±¼ä²»Í¬µÀ¾ßÒ²»áÍ¬Ê±±»Ê¹ÓÃ¡£ÇëÍæ¼Ò×¢ÒâÈç²»ÏêÏ¸¿ÉÒÔÔÚÓÎÏ·ÖÐ´ò¿ªVIPÉÌ³Ç²¹¸øÀàÐÍµÚ¶þÒ³ÖÐµÄ ¡°ÃÀÎ¶µÄ¿¾»ð¼¦£¨Ð¡£©¡±¡°ÉñÆæµÄ¿¾»ð¼¦£¨Ð¡£©¡±2ÖÖVIPµÀ¾ß£©¡£
 ÔÚÆô¶¯/Í£Ö¹ÃØÊé°´Å¥ÅÔµÄ¡°Ê×ÏÈ´¦Àí²Ø±¦Í¼¡±Ñ¡Ïî£¨ÏµÍ³Ä¬ÈÏÎ´¹´£©£¬´Ë¹¦ÄÜÊÇ×Ô¶¯ÍÚ±¦£¬ÈçÍæ¼Ò°ü¹üÀïÓÐ²Ø±¦Í¼Ð¡ÃØÊé»áÓÅÏÈÍÚÍê²Ø±¦Í¼ºóÁ·¼¶´ò¹Ö£¬Î´¹´±íÊ¾Ð¡ÃØÊé²»ÆôÓÃ×Ô¶¯ÍÚ±¦¹¦ÄÜ¡£×¢£º´Ë¹¦ÄÜ±ØÐëÔÚÐ¡ÃØÊéÎ´¿ªÆôµÄ×´¿öÏÂ´ò¹´£¬¿ªÆôºó²»ÄÜÑ¡¹´¡£
 2.Éè¶¨
 ´Ë°æÃæÖ÷Òª¹¦ÄÜÊÇ±ãÓÚÍæ¼ÒÁ·¼¶ËùÉèÖÃ£¬Íæ¼Ò¿ÉÒÔ×ÔÐÐ¹´Ñ¡×Ô¶¯¹¥»÷¡¢×Ô¶¯Ëø¶¨¹ÖÎï¡¢ÎïÀí¹¥»÷¡¢×Ô¶¯Ê°È¡¡¢±ß´ò±ßÅÜ¡¢²»»Ø±Ü½ü³Ì¹Ö£¨Õ½Ê¿ºÍ±äÉí¿ÉÒÔ²»Ñ¡ÓÃ£©£¬Íæ¼Ò¿ÉÒÔÍ¨¹ý¸öÈËµÄÐèÒªÀ´ÉèÖÃ¡£
@@ -4025,13 +3920,7 @@ Reserved.
 ¹ØÓÚÎÒÃÇ
 ÉèÎªÊ×Ò³
 17173¿Í·þ
-[an
-error
-occurred
-while
-processing
-this
-directive]
+[an error occurred while processing this directive]
 mygame_ÐÂÄ§½ç¿ª·þ»î¶¯
 &copy;
 2001-2007
@@ -4192,13 +4081,7 @@ Reserved.
 ¹ØÓÚÎÒÃÇ
 ÉèÎªÊ×Ò³
 17173¿Í·þ
-[an
-error
-occurred
-while
-processing
-this
-directive]
+[an error occurred while processing this directive]
 17173MyGame£º¡¶ÐÂÄ§½ç¡·
 MyGameÊ×Ò³
 |
@@ -4598,13 +4481,7 @@ Reserved.
 ¹ØÓÚÎÒÃÇ
 ÉèÎªÊ×Ò³
 17173¿Í·þ
-[an
-error
-occurred
-while
-processing
-this
-directive]
+[an error occurred while processing this directive]
 ::17173MyGame¡¶Æôº½¡·
 MyGameÊ×Ò³
 |
@@ -5300,8 +5177,7 @@ V1.0.30¡ªV1.0.31
 [12-18]
 ¡¤Í¼ÎÄ:¡¶Ñ×ÁúÆïÊ¿ÍÅOL¡·ÌåÑé²âÊÔ±¨¸æ
 [12-13]
-¡¤¡¶NBA
-Street¡·ÖÆ×÷ÈË½ÒÂ¶ÓÎÏ·Éè¼ÆÄÚÈÝ
+¡¤¡¶NBA Street¡·ÖÆ×÷ÈË½ÒÂ¶ÓÎÏ·Éè¼ÆÄÚÈÝ
 [12-12]
 ÓÎÏ·Íæµã
 1.±Õ¹ØÐÞÁ¶ÏµÍ³Éý¼¶ÇáËÉ
@@ -5325,21 +5201,7 @@ Street¡·ÖÆ×÷ÈË½ÒÂ¶ÓÎÏ·Éè¼ÆÄÚÈÝ
 ¡ñ17173¹¦·òÊÀ½çÕÊºÅ°²È«µÄ¹«¸æ
 ¡ñ17173¹¦·òÊÀ½ç·ÀÆ­ÐëÖª
 ¸ßÊÖ±Ø¿´
-<?import
-namespace
-=
-cms17173
-implementation
-=
-"chip.htc"
-declareNamespace
-/><cms17173:chipTag
-cid="19027"
-chipName="¸ßÊÖ±Ø¿´"
-chipPath="/website/10.59.96.91/mygame.17173.com/inc/846620080111102757029.inc"
-chipInfo="CMS
-TEAM:XJH,YH,CYZ"
-chipType="1">
+<?import namespace = cms17173 implementation = "chip.htc" declareNamespace /><cms17173:chipTag cid="19027" chipName="¸ßÊÖ±Ø¿´" chipPath="/website/10.59.96.91/mygame.17173.com/inc/846620080111102757029.inc" chipInfo="CMS TEAM:XJH,YH,CYZ" chipType="1">
 ¹¦·ò½£¿ÍÐÄµÃ
 |
 Ç¹1-60È«¹¥ÂÔ
@@ -5357,13 +5219,7 @@ chipType="1">
 Ã¿ÈÕ¹Ì¶¨»î¶¯
 </cms17173:chipTag>
 ÐÂÊÖÎÊÌâ
-<cms17173:chipTag
-cid="19028"
-chipName="ÐÂÊÖÎÊÌâ"
-chipPath="/website/10.59.96.91/mygame.17173.com/inc/846620080111102830007.inc"
-chipInfo="CMS
-TEAM:XJH,YH,CYZ"
-chipType="1">¡¤ÎÒ¸ÃÔõÃ´Ñ§Ï°Îä¹¦¼¼ÄÜ£¿
+<cms17173:chipTag cid="19028" chipName="ÐÂÊÖÎÊÌâ" chipPath="/website/10.59.96.91/mygame.17173.com/inc/846620080111102830007.inc" chipInfo="CMS TEAM:XJH,YH,CYZ" chipType="1">¡¤ÎÒ¸ÃÔõÃ´Ñ§Ï°Îä¹¦¼¼ÄÜ£¿
 ¡¤ÔõÑù²ÅÄÜ¿ìËÙÕÒµ½NPC£¿
 ¡¤ÔõÑù¿ÉÒÔÈÃÎÒµÄ°ü°ü±ä´óÒ»Ð©£¿
 ¡¤ÎäÆ÷×°±¸»µµôÁËÈ¥ÄÄÀïÐÞ£¿
@@ -5879,13 +5735,7 @@ _ºÃÄÐ¶ù¹Ù·½ÍøÕ¾_¶«·½¿íÆµ
 Hero¡±¡ª¡ª¡°ÎÒµÄÓ¢ÐÛ¡£
 2007¡¶¼ÓÓÍ£¡ºÃÄÐ¶ù¡·ÓÚ3ÔÂ18ÈÕÆô¶¯±¨Ãû¡£
 2007¡¶¼ÓÓÍ£¡ºÃÄÐ¶ù¡·ÓÚ3ÔÂ18ÈÕÆô¶¯±¨Ãû¡£ËûÃÇµÄÍõ×ÓÖ®ÂÃÔÚ´ËÆôº½....
-<V:SHAPETYPE
-coordsize="21600,21600"
-o:spt="75"
-o:preferrelative="t"
-path="m@4@5l@4@11@9@11@9@5xe"
-filled="f"
-stroked="f">ÂÀÑî:
+<V:SHAPETYPE coordsize="21600,21600" o:spt="75" o:preferrelative="t" path="m@4@5l@4@11@9@11@9@5xe" filled="f" stroked="f">ÂÀÑî:
 ÆøÖÊÐ¡Éú
 </V:SHAPETYPE>
 Íõî££º¸ÐÈË¸èÉù
@@ -12777,7 +12627,7 @@ kentljq
 96
 ÊµÓÃÉú»î¾­ÑéµãµãµÎµÎ
 95
-ÖÐ¹úÈË²»¿É²»ÖªµÀµÄÖªÊ¶~~){
+ÖÐ¹úÈË²»¿É²»ÖªµÀµÄÖªÊ¶~~){  
 ÆÀÂÛ×î¶àµÄ
 ¸ü¶à
 129
@@ -13145,7 +12995,7 @@ kentljq
 96
 ÊµÓÃÉú»î¾­ÑéµãµãµÎµÎ
 95
-ÖÐ¹úÈË²»¿É²»ÖªµÀµÄÖªÊ¶~~){
+ÖÐ¹úÈË²»¿É²»ÖªµÀµÄÖªÊ¶~~){  
 ÆÀÂÛ×î¶àµÄ
 ¸ü¶à
 129
@@ -13365,7 +13215,7 @@ kentljq
 96
 ÊµÓÃÉú»î¾­ÑéµãµãµÎµÎ
 95
-ÖÐ¹úÈË²»¿É²»ÖªµÀµÄÖªÊ¶~~){
+ÖÐ¹úÈË²»¿É²»ÖªµÀµÄÖªÊ¶~~){  
 ÆÀÂÛ×î¶àµÄ
 ¸ü¶à
 129
@@ -13585,7 +13435,7 @@ kentljq
 96
 ÊµÓÃÉú»î¾­ÑéµãµãµÎµÎ
 95
-ÖÐ¹úÈË²»¿É²»ÖªµÀµÄÖªÊ¶~~){
+ÖÐ¹úÈË²»¿É²»ÖªµÀµÄÖªÊ¶~~){  
 ÆÀÂÛ×î¶àµÄ
 ¸ü¶à
 129
@@ -13805,7 +13655,7 @@ kentljq
 96
 ÊµÓÃÉú»î¾­ÑéµãµãµÎµÎ
 95
-ÖÐ¹úÈË²»¿É²»ÖªµÀµÄÖªÊ¶~~){
+ÖÐ¹úÈË²»¿É²»ÖªµÀµÄÖªÊ¶~~){  
 ÆÀÂÛ×î¶àµÄ
 ¸ü¶à
 129
@@ -15146,8 +14996,7 @@ http://player.youku.com/player.php/sid/XMTcxOTAxNjg=/v.swf
 |
 ·Å½øÎÒµÄ¿Ú´ü
 ¡¤Ãû½«ÕÅÁé¸¦ÒÝÊÂ£ºÊÖÏÂ¹Ù±ø²»ÈÏÊ¶½¯½éÊ¯³¤¹þÑù
-¹úÃñµ³¿¹ÈÕÃû½«ÕÅÁé¸¦ÔÚÕ½³¡ÉÏæçÓÂÉÆÕ½£¬ÔÚ¸ÐÇéÉú»îÖÐÒ²ÊÇÓÂÍùÖ±Ç°£¬ËûÖÃÃûÀûÓÚ²»¹Ë£¬×·Çó³¤É³ÃûÃÅ¼ÑÀöÍõÓñÁäµÄ¹ÊÊÂÒ»Ê±´«Îª¼Ñ»°¡£¡¶¼ÑÈË¡ª¡­
-[2007-06-06]
+¹úÃñµ³¿¹ÈÕÃû½«ÕÅÁé¸¦ÔÚÕ½³¡ÉÏæçÓÂÉÆÕ½£¬ÔÚ¸ÐÇéÉú»îÖÐÒ²ÊÇÓÂÍùÖ±Ç°£¬ËûÖÃÃûÀûÓÚ²»¹Ë£¬×·Çó³¤É³ÃûÃÅ¼ÑÀöÍõÓñÁäµÄ¹ÊÊÂÒ»Ê±´«Îª¼Ñ»°¡£¡¶¼ÑÈË¡ª¡­ [2007-06-06]  
 ·ÖÀà£ºÀúÊ·
 |
 ±»16ÈËÆÀ¹ý
@@ -16266,13 +16115,11 @@ tpxwn8707
 ¾ÝÀíÁ¦ÕùÖª³ÜºóÓÂ£¬×îºó¿¼ÁËµÚÎåÃû¸ù¾ÝÐ­Òé£¬³õÖÐÔÙÃ»ÓÐÐ´¹ý×÷Òµ¡£Í¬Äê£¬ÒòÎª´òÀºÇò¸ú¸ßÄê¼¶Í¬Ñ§´ò¼Ü°ÑÈË×¥ÆðÀ´ÈÓÁË³öÈ¥£¬Ò»Ê±¼ä£¬È«Ð£»©È»£¬±»ÈË±³ºó½Ð³É¡°±©ÄÐ¡±£¬Ôªµ©ÊÕµ½¿ÕÇ°¶àµÄÅ®Í¬Ñ§ºØÄê¿¨£¬ÖÁ´Ë¿ªÊ¼²Å±»Ö÷Á÷Éç»á³ÐÈÏ¡£ÓÐÒ»´Î·ÅÑ§µÄÂ·ÉÏ±»Ò»¸öÐ¡Á÷Ã¥ÍµÍµ´ÓºóÃæÍùÄÔ´üÉÏ´òÁËÒ»×©Í··ìÁËÁ½Õë£¬ºóÀ´ÖªµÀÔ­ÒòÊÇÎÒÃÇ°àÓÐÒ»¸öÅ®Éú¾Ü¾øÁËÐ¡Á÷Ã¥µÄÇó°®£¬²¢ÇÒÅ®ÉúËµÎÒÊÇËýµÄÒâÖÐÈË£¬Ô©ËÀÁË£¬»¹ÓÐ¸üÔ©µÄ£¬ÖÁ½ñ²»ÖªµÀÄÇÅ®ÉúÊÇË­¡£
 Ê®ËÄËê£¬³õÈýÁË£¬ÒòÎª³õÖÐÊÇËÄÄêÖÆµÄ»¹ÊÇ±È½ÏÇáËÉ£¬¸úÒ»¸ö½ÐÀÙµÄppmm·Öµ½Ò»×À£¬µ±Ê±Ã»ÓÐÊ²Ã´·Ç·ÖÖ®Ïë£¬ÌýËµn¶àÄÐÉúÒòÎªËý´ò¼Ü£¬¸Ð¾õÓÐµã²»¿ÉË¼Òé¡£¸úËýÃ»ÓÐÊ²Ã´Ã¬¶ÜÒ²Ã»ÓÐÊ²Ã´Ì«ºÃµÄ¸ÐÇé£¬Ó¡ÏóÉî¿ÌÊÇÒòÎªÒ»¸ö½ÐÐ¡ÐÂµÄÅóÓÑ°µÁµ×ÅËý¡£Ëý¾­³£¸ÐÃ°¾­³£Á÷±ÇÌéËùÒÔ¾Í¾­³£²Á±ÇÌé£¬¶øÇÒÃ¿´Î²ÁµÄÊ±ºò×ÜÊÇÌÍ³öÖ½½í¿´¿´ÎÒ½¿ÐßµÄËµ£º¡°²Á±ÇÌé¡­¡­¡±
 £¨»èµ¹£©ºóÀ´ÎÒ¸æËßËýÕâÖÖÊÂÇé²»ÓÃ¸úÎÒÉêÇë£¬¿ÉÊÇËýÃ¿´Î»¹ÊÇÒªÍ¨ÖªÎÒ¡­¡­º¹£¬ÓÚÊÇÃ¿´ÎËýÒ»ÌÍ³öÖ½½ï£¬ÎÒ¾ÍÌæËýËµÁË£º¡°ºÇºÇ£¬²Á±ÇÌé¡­¡­¡±£¬Ö±µ½ÓÐÒ»´Î£¬ËýºÜ·ßÅ­µÄ¸úÎÒËµ£º¡°Õâ´ÎÄã²Â´íÁË£¬ÀÏÄïÒªÉÏ²ÞËù£¡£¡¡±ÍÂÑª¡­¡­ÎÒÒÔºó²»¸ÒÔÙ¶à×ìÁË¡£³õÖÐ±ÏÒµÒÔºóÒ»Ö±Ã»ÓÐ¼û£¬ÌýËµ¸ßÖÐËûÃÇÑ§Ð£µÄÄÐÉú»¹ÊÇÒòÎªËý¾­³£´òÈº¼Ü£¬ÔÙ¹ýÁËÒ»ÕóÌýËµËýÈ¥ÁËº£¸úÒ»¸öÄÐÉúÍ¬¾ÓÁË£¬×îºóÒ»´Î¼ûÃæÊÇ´ó¶þÍ¬Ñ§¾Û»á£¬ÎÒºÈ¶àÁË£¬³ªÁËÒ»Ê×µ¥ÉíÇé¸è£¬³ªµÄÎÒ×Ô¼ºÈÈÀáÓ¯¿ô£¬³ªÍêÒÔºó£¬·¢ÏÖËýÒ»Ö±¿´×ÅÎÒ£¬È»ºóÍµÍµ°²Î¿ÎÒ£¬£º¡°Äã¸Ï½ôÕÒ¸öÅ®ÅóÓÑ°É£¬ÎÒÖªµÀ¡­¡­¡­¡­Äã¡±¿¿£¡£¡£¡Å»ÑªÊýÉý£¬ÄãÖªµÀ¸öÆ¨Ñ¾£¬ÀÏ×Ó¸Õ¸ÕÊ§Áµ¡£
-Ê®ÎåËê£¬³õËÄ¸Ã¿¼¸ßÖÐÁË£¬ÉÏµÛÈ´ËÍÁË¸ö¶ÄÉñÀ´¸øÎÒµ±Í¬×À£¬Ëý½ÐÀò£¬Ã¿ÌìÉú»î·á¸»£¬³ýÁËÌý½²Ê²Ã´¶¼¸É£¬¶ÄÊõÓÈ¾«£¬ÎÒ¼ÇµÃ¸Õ¸Õ×ø¹ýÈ¥µÄÊ±ºò¾Í¿´µ½ËýºÜÈÏÕæµÄÇÐÏÂÒ»¿éÏðÆ¤×ö÷»×Ó£¨ÊäÈë·¨ÀïÃ»ÓÐ£¬´òÂé½«ÓÃ
-Ð»Ð»aloc
-,£©£¬´ÓËýÕâÀïÎÒÑ§»áÁËË«¿Û£¬ÍÏÀ­»ú£¬¶ÔÖ÷£¬Èý´òÒ»µÈÆË¿ËÍæ·¨£¬»¹ÆÆÌì»ÄµÄÑ§»áÁË´òÂé½«£¬ÓÐÒ»ÖÖÖ½ÅÆÂé½«ÕýºÃÊÊºÏÎÒÃÇ£¬ÓÚÊÇ¸úºóÃæÒ»×ÀµÄÐÖµÜ¾­³£ÉÏ¿ÎµÄÊ±ºò¿ª¶Ä£¬²ÊÍ·ÊÇÆûË®£¬»ù±¾ÉÏÃ¿´Î¶¼ÊÇÎÒÂòµ¥£¬±ÏÒµµÄÊ±ºò»¹ÁôÏÂÁËÒ»´ó¶ÑÇåÀí²»ÁËµÄÀÃÕË¡£ºóÀ´Í¬Ñ§¾Û»á¼ûÁËÒ»Ãæ£¬ËýÓÃÃþ±¦µÄ×ËÊÆ×¥×ÅÎÒµÄÊÖ£º¡°Í¬×ÀÉ¶Ê±ºòÓÐ¿Õ£¬ÔÙÀ´Ò»×À£¡£¿¡±È¥ÄêÌýËµËý½á»éÁË£¬ÎÒÔÚÍâµØÃ»¸ÏÉÏ£¬ÌýËµ½á»éÄÇÌìÍíÉÏ£¬ËýÃÇ·òÆÞ¸úÄÖ¶´·¿µÄÐÖµÜÃÇÍæÁËÒ»Ò¹Âé½«£¬Ó®Ç®ÎÞÊý£¬ËûÃÇ¸æËßÎÒÕâ¾ÍÊÇ£º´ºÏöÒ»¿ÌÖµÇ§½ð¡£»èµ¹¡£
+Ê®ÎåËê£¬³õËÄ¸Ã¿¼¸ßÖÐÁË£¬ÉÏµÛÈ´ËÍÁË¸ö¶ÄÉñÀ´¸øÎÒµ±Í¬×À£¬Ëý½ÐÀò£¬Ã¿ÌìÉú»î·á¸»£¬³ýÁËÌý½²Ê²Ã´¶¼¸É£¬¶ÄÊõÓÈ¾«£¬ÎÒ¼ÇµÃ¸Õ¸Õ×ø¹ýÈ¥µÄÊ±ºò¾Í¿´µ½ËýºÜÈÏÕæµÄÇÐÏÂÒ»¿éÏðÆ¤×ö÷»×Ó£¨ÊäÈë·¨ÀïÃ»ÓÐ£¬´òÂé½«ÓÃ Ð»Ð»aloc ,£©£¬´ÓËýÕâÀïÎÒÑ§»áÁËË«¿Û£¬ÍÏÀ­»ú£¬¶ÔÖ÷£¬Èý´òÒ»µÈÆË¿ËÍæ·¨£¬»¹ÆÆÌì»ÄµÄÑ§»áÁË´òÂé½«£¬ÓÐÒ»ÖÖÖ½ÅÆÂé½«ÕýºÃÊÊºÏÎÒÃÇ£¬ÓÚÊÇ¸úºóÃæÒ»×ÀµÄÐÖµÜ¾­³£ÉÏ¿ÎµÄÊ±ºò¿ª¶Ä£¬²ÊÍ·ÊÇÆûË®£¬»ù±¾ÉÏÃ¿´Î¶¼ÊÇÎÒÂòµ¥£¬±ÏÒµµÄÊ±ºò»¹ÁôÏÂÁËÒ»´ó¶ÑÇåÀí²»ÁËµÄÀÃÕË¡£ºóÀ´Í¬Ñ§¾Û»á¼ûÁËÒ»Ãæ£¬ËýÓÃÃþ±¦µÄ×ËÊÆ×¥×ÅÎÒµÄÊÖ£º¡°Í¬×ÀÉ¶Ê±ºòÓÐ¿Õ£¬ÔÙÀ´Ò»×À£¡£¿¡±È¥ÄêÌýËµËý½á»éÁË£¬ÎÒÔÚÍâµØÃ»¸ÏÉÏ£¬ÌýËµ½á»éÄÇÌìÍíÉÏ£¬ËýÃÇ·òÆÞ¸úÄÖ¶´·¿µÄÐÖµÜÃÇÍæÁËÒ»Ò¹Âé½«£¬Ó®Ç®ÎÞÊý£¬ËûÃÇ¸æËßÎÒÕâ¾ÍÊÇ£º´ºÏöÒ»¿ÌÖµÇ§½ð¡£»èµ¹¡£
 Ê®ÁùËê£¬´ºÅ¯»¨¿ªµÄÄêÁä£¬ÎÒÉÏ¸ßÖÐÁË£¬·Ñ¾¡Á¦ÆøÅÀ½øÅÅÃûµÚÒ»µÄÊ¡ÖØµã¡£È»ºó¾Í¿ªÊ¼·ÅËÉ£¬¿ªÑ§µÚ¶þ¸öÔÂÌÓ¿Î23Ìì£¬ºóÀ´ÅªÁË¸öÕï¶ÏÁËÊÂ£¬mm¶¼ºÜÍ¬ÇéÎÒ£ºÕâ¸ö×³¸öÈËÔõÃ´ÉíÌåÕâÃ´²î£¡£¿£¡£¿Ò»Á÷µÄÑ§Ð£ÓÐÒ»Á÷µÄÃÀÅ®Ò²ÓÐÒ»Á÷µÄ³óÅ®£¬µ«ÊÇµÍÖÇÉÌµÄÅ®ÈËÒ»¸öÒ²Ã»ÓÐ
 £¡£¡£¡»ùÓÚÓÅÉúÑ§¿¼ÂÇÅ®ÉúË­Ò²²»ÀíÎÒ¡£ÄÇÊ±ÎÒ¸úÒ»¸ö½ÐÓ°µÄ½ã½ãÒ»×À£¬Ëý±ÈÎÒ´óÒ»Ëê£¬¼«¿á£¬ºÜÉÙËµ»°£¬´ÓÀ´²»¸úÎÒËµ»°£¬ÎÒÃÇ½²Ð¦»°ËýÒ²ÊÇÃæÎÞ±íÇé£¬ÎÒ»³ÒÉËýÊÇ·ñÕý³£¡£Î¨Ò»¸úÎÒ½²µÄÒ»´Î»°¾Í°ÑÎÒº¦ÁË¸ö°ëËÀ£¬ÄÇÊ±ºòÁ÷ÐÐ×ª±ÊÍæ£¬ÄÇÌìÎÒÕýÔÚ×ªÒ»¸öÔ²¹æ£¬Ó°ºöÈ»¸úÎÒËµ£º¡°£¡?#?£¡£¤£¡¡­¡­£¨¶Ô²»ÆðÄÚÈÝÍüµôÁË£©¡±ÎÒÒ»·¢´ô£¬Ô²¹æ´ÓÎÒÊÖÖ¸ÖÐ·É³öÈ¥Ö±²åÔÚÇ°ÃæmmµÄºó±³ÉÏ£¬ÎÒÖ»Ìý¼ûÒ»Éù²Ò½Ð£¬¿´¼ûmmÌøÆðÀ´¶ñºÝºÝµÄ¿´×ÅÎÒ£¬È»ºó¾Í±»478ÁË¡­¡­Í¬ÄêÒòÎªÑ§Ï°²î²»ÊØ¼ÍÂÉ±»Ìßµ½ÁË²î°à¡£Ó°Í¬Ñ§ÊÇÎÒºÜÍ¬ÇéµÄÒ»¸öÈË£¬Ñ§Ï°³¬¼¶¿Ì¿à£¬³É¼¨ÓÅÒì£¬¾­³£ÐÔµÄÑ§ÄêÇ°Ê®£¬¾ÝËµ±Ø±£Çå»ª±±´ó£¬ºóÀ´¸ß¿¼·ÅÆú±£ËÍ×Ô¼º¿¼£¬·¢»ÓÊ§³£¡­¡­ÔÙÒ²Ã»ÓÐ¼û¹ýËý¡£ÉÏµÛ±£ÓÓËý¡£
 Ê®ÆßËê£¬À´µ½ÁËÀºÇòÊµÁ¦³¬Ç¿µÄ¼ÓÇ¿°à£¬ÎÒÀíËùµ±È»µÄ³ÉÎªÁËÖ÷Á¦£¬À´µ½ÕâÀïµÄµÚÒ»¸öË²¼äÎÒ¾Í°®ÉÏÁËÒ»¸ömmµÄ±³Ó°£¬5ÃëÖÓÖ®ºóÁ¬ÕýÃæÒ²°®ÉÏÁË¡£Ëý½ÐéªºóÀ´³ÉÁËÎÒµÄµÚÒ»¸ögf
-ËäÈ»Ö»ÓÐ20Ìì¡£Ëý³¤µÃºÜÏñÉ½¿Ú°Ù»Ý£¬ÎâÙ»Á«£¬»¹ÓÐÐìå©ÈÙ£¨¿ÉÄÜ¶¼ÊÇÒòÎªÐ¡ÑÛ¾¦µ¥ÑÛÆ¤°É£©µ«ÊÇºÜÇå´¿µÄ¸Ð¾õ¡£Ëý¶ÔÎÒ²»¸ÐÐËÈ¤£¬ÀºÇò±ÈÈüÊ±¶¼ÓÐºÜ¶àmmÅÜÈ¥¸øÎÒÖúÍþ£¬µ«ÊÇÃ¿´Îµ±ÎÒ¿ÛÍêÀºµõÔÚÀº¿ðÉÏÕÒ¹ÛÖÚµÄÊ±ºò´ÓÀ´¿´²»µ½Ëý¡£ÕâÒ»ÄêÎÒ±»Ëý¾Ü¾øÁË5´Î¡£ÐÒÔËµÄÊÇËýºóÀ´Í¬ÒâÎÒËÍËý»Ø¼Ò£¬ËýÒÔÇ°Ò»Ö±¶ÔÎÒËµÎÒËÍËý²ÅÎ£ÏÕ£º£¨»¹ÓÐ²»ÐÒµÄÊÂÇé£¬Ò»¸ö½ÐÒ»µÄÅ®º¢×ÓÒ»Ö±¿ñ×·ÎÒ£¬·çÓêÎÞ×è¡£ËùÒÔÕâÒ»ÄêÀï½ÓÏÂÀ´µÄÈÕ×Ó¶¼ÊÇÈý¸öÈË»Ø¼Ò£¥¡­¡­»èµ¹£¬ÕâÒ»ÄêÖÐÉú»îÀï³öÏÖÁËn¶àÅ®ÈË£¬¶¼Ã»ÓÐÊ²Ã´ÌØµã²»ÔÙ¶àËµÁË£¬Ô­À´»¨¼¾ÊÇÕâ¸öÒâË¼¡£»á±ä»¨³ÕµÄ¼¾½Ú¡£
+ËäÈ»Ö»ÓÐ20Ìì¡£Ëý³¤µÃºÜÏñÉ½¿Ú°Ù»Ý£¬ÎâÙ»Á«£¬»¹ÓÐÐìå©ÈÙ£¨¿ÉÄÜ¶¼ÊÇÒòÎªÐ¡ÑÛ¾¦µ¥ÑÛÆ¤°É£©µ«ÊÇºÜÇå´¿µÄ¸Ð¾õ¡£Ëý¶ÔÎÒ²»¸ÐÐËÈ¤£¬ÀºÇò±ÈÈüÊ±¶¼ÓÐºÜ¶àmmÅÜÈ¥¸øÎÒÖúÍþ£¬µ«ÊÇÃ¿´Îµ±ÎÒ¿ÛÍêÀºµõÔÚÀº¿ðÉÏÕÒ¹ÛÖÚµÄÊ±ºò´ÓÀ´¿´²»µ½Ëý¡£ÕâÒ»ÄêÎÒ±»Ëý¾Ü¾øÁË5´Î¡£ÐÒÔËµÄÊÇËýºóÀ´Í¬ÒâÎÒËÍËý»Ø¼Ò£¬ËýÒÔÇ°Ò»Ö±¶ÔÎÒËµÎÒËÍËý²ÅÎ£ÏÕ£º£¨»¹ÓÐ²»ÐÒµÄÊÂÇé£¬Ò»¸ö½ÐÒ»µÄÅ®º¢×ÓÒ»Ö±¿ñ×·ÎÒ£¬·çÓêÎÞ×è¡£ËùÒÔÕâÒ»ÄêÀï½ÓÏÂÀ´µÄÈÕ×Ó¶¼ÊÇÈý¸öÈË»Ø¼Ò£¥¡­¡­»èµ¹£¬ÕâÒ»ÄêÖÐÉú»îÀï³öÏÖÁËn¶àÅ®ÈË£¬¶¼Ã»ÓÐÊ²Ã´ÌØµã²»ÔÙ¶àËµÁË£¬Ô­À´»¨¼¾ÊÇÕâ¸öÒâË¼¡£»á±ä»¨³ÕµÄ¼¾½Ú¡£ 
 Ê®°ËËê£¬¸ß¿¼£¬Ã»ÓÐÎ£»ú¸Ð£¬¼ÌÐøÃÓÀÃÁË°ëÄê£¬ËäÈ»±¾ÈË±È½Ï³ôÆ¨£¬µ«ÊÇ¸úÐÄ°®µÄÅ®ÈËÔÚÒ»ÆðµÄÊ±ºòÒ»µã·Ï»°Ò²²»¸ÒÓÐ£¬ËùÒÔ¸ÐÇéÒ»Ö±Ã»ÓÐÊ²Ã´½øÕ¹£¬µ¹ÊÇ°ÑÒ»µÄÎÊÌâ¸ã¶¨ÁË£¬±»Ò»Ô¼µ½Í¬Ñ§¼ÒÌ¯ÅÆ£¬ÎÒÃ»ºÃÒâË¼ËµÊ²Ã´¡£ÎÒÒ»¸ö¸çÃÇ°ïÎÒ¾Ü¾øÁËËý¡£Ò»¿Þ×ÅÅÜÁË£¬ÔÙÒ²Ã»ÓÐ·³ÎÒ¡£éªÒ²¸æËßÎÒÕâ°ëÄê²»Òª·³ËýÁË£¬ËýÒª¿¼Ñ§²»Ïë¸ú×ÅÎÒ¶éÂä¡£·Ü·¢Í¼Ç¿£¬°ëÄêºóÎÒ¾ÓÈ»±ÏÒµ³É¼¨È«°àµÚ4£¬ÒâÍâµÄ½øÈëÄ³ÖØµã´óÑ§¡£Ò»Ö±°àÀïµÚÒ»µÄéªÊ§³£ÁË£¬È¥ÁËºþÄÏ²Æ¾­¡£Ò»Ò²Ã»ÓÐ¿¼ºÃ¡£¼ÙÆÚÀï¸úéª¿ªÊ¼ÁË20ÌìµÄÁµ°®¡£ÎÒ»¹ÊÇÃ»Ê²Ã´·Ï»°£¬Á¬éªµÄÊÖ¶¼²»¸Ò¶¯Ò»ÏÂ£¬Á½¸öÈË×øÔÚÒ»Æð£¬»°ºÜÉÙ¡£ÎÒ¸Ð¾õµ½ÎÞ±ßµÄÐÒ¸££¬¹À¼ÆËý¿ì·³ËÀÁË¡£×îºóÒ»ÌìÈ¥ÁËÓÎÀÖ³¡£¬éªËµÒªÍæ¹ýÉ½³µ£¬ÎÒÁ³É«²Ò°×µÄËµ£º¡°ºÃÑ½£¬Äãº¦ÅÂ¿ÉÒÔ×¥×¡ÎÒµÄÊÖ¡±£¬½á¹ûÊÇÏÂÀ´ÒÔºóÎÒ¿ñÍÂ²»Ö¹£¬Ëý¶ÔÎÒËµ£º¡°½ñÌì±ðÍæÁË£¬ÒÔºóµÄÈÕ×Ó³¤×ÅÄØ¡£¡±ÎÒµ±Ê±¾ÍÓÐÖÖÔ¤¸Ð£¬²»ÐÒÎÒµÄ¸Ð¾õÊÇÕýÈ·µÄ¡£ÔÙ¼ûÃæ¾ÍÊÇ·ÖÊÖÁË¡£µÚ¶þÌìËý×ßÁË¡£20Ìì½áÊøÁË×ßÖ®Ç°ËýËµÒ»¸öÈË³öÔ¶ÃÅº¦ÅÂ£¬ÎÒÊ²Ã´Ò²Ã»Ëµ£¬½âÏÂ´ø×ÅµÄ½ðÏîÁ´¸øËý¹ÒÉÏ¸æËßËýÕâÊÇÎÒµÄ»¤Éí·ûÉúÏÂÀ´¾ÍÒ»Ö±´ø×Å£¬ËýÎÊÄãÄØ£¿ÎÒËµÓÐÒ»ÌìÎÒ»áÓÃ½äÖ¸»»»ØÀ´£¬ËýÃ»ÓÐ¸øÎÒÄÇ¸ö»ú»á£¬Ò²Ã»ÓÐ»¹¸øÎÒ£¬·ÖÊÖÊ±Ëý»¹¸øÎÒÎÒËÍËýµÄÈÎºÎ¶«Î÷£¬Î¨¶ÀÃ»ÓÐ»¤Éí·û¡£¿ÉÄÜÊÇËý¸øÅª¶ªÁË£¬»òÕßËµÎÒÏ£ÍûËý¶ªÁËÏîÁ´£¬ÎÒ²»Ï£ÍûÅãÁËÎÒÊ®¼¸ÄêµÄ¶«Î÷·ÅÔÚÒ»¸ö²»Ïà¸ÉµÄÈËÉíÉÏ¡£
 Ê®¾ÅËê£¬ÉÏ´óÑ§ÁË£¬¾üÑµÒ»¸öÔÂ£¬mmÃÇ¶¼±»É¹µÃÏñ·ç¸É¼¦µÄÑÕÉ«Ò»ÑùÁËÃ»ÐËÈ¤£¬È»ºó¾ÍÊÇµ­³öÄñÀ´µÄ»ïÊ³·¹£¬ÎÒÃÇ¹ÜÕâ½ÐÎÞÉ«ÎÞÎ¶µÄÉú»î¡£¸úéª»¹Ã»ÓÐ¶Ï£¬ËýÒ²Õý±»Éç»áÖ÷ÒåÂÌÉ«¸ÄÔì×ÅÁªÏµ²»ÉÏ¡£¾ÝËµµ±Ê±mmÃÇºÜ³ç°ÝÎÒÃÇµÄ¾üÑµ°à³¤£¬ÎÒÒ²ºÜ³ç°ÝËû£¬Ò»´Î³Ô·¹´Ó²ËÀïÃæ³Ô³öÁËÒ»Ö»²ÔÓ¬£¬ÎÒÓÃÉ××ÓÍÚÆðÁËÒ»¿é²ËºÍ²ÔÓ¬ÄÃ¸øËû¿´,ËûºÜ¿áµÄ¸æËßÎÒ±ðËµ»°£¬È»ºóÈÓµô²ÔÓ¬£¬°Ñ²Ë·Å½ø×ìÀï£¬ÑÊÏÂÈ¥£¬È»ºóÎÊÎÒ£º»¹ÓÐ±ðµÄÊÂÇéÃ´£¿£¡»èµ¹¡£¾üÑµ½áÊøºó£¬Å®ÉúÃÇ¿ªÊ¼¸´ËÕÁË£¬éªÒ²¼°Ê±¸úÎÒÈ¡µÃÁËÁªÏµ£¬ÄÇÊ±ÇÞÊÒÃ»ÓÐµç»°£¬ËýÃ¿´Ë¶¼¸øÎÒ´ò´«ºô£¬È»ºóÎÒ¾ÍÒ»ÁïÐ¡ÅÜµ½²Ù³¡ÉÏµÄic¿¨µç»°ÄÇÀï»Øµç»°£¬Ò»ÁÄÒ»ÕÅ°ÙÔªµÄ¿¨£¬·çËªÓêÑ©´ÓÎÞ¼ä¶Ï¡£¿ÉÊÇº®¼ÙËýËµºÜÃ¦¾ÓÈ»Ã»ÓÐ¼ûÎÒ¡­¡­ºóÀ´Òª×ßÁË¼ûÁËÒ»Ãæ£¬ÎÒ±¾À´´òËãÓÃÔ¤Ö§µÄÒ»µÈ½±Ñ§½ð¸øËýÂò¸öÀñÎï£¬½á¹ûËýÈ´ÎÊÎÒËýÏë¸øÒ»¸ö¸ßÄê¼¶Ê¦ÐÖÂòµã¶«Î÷¸ÃÂòµãÊ²Ã´¡£·ßÅ­£¬½«ËýËÍ»Ø¼ÒÈ»ºóÒ»È­´òÔÚÇ½ÉÏ¡­¡­Êî¼Ù£¬ËýËµ,ÎÒ²»ÊÊºÏËý£¬Èç¹û¿ÉÄÜ5ÄêºóÔÙ¼ûÃæÔÙËµ¡£µ«ÊÇÎÒÃÇÆäÊµÒÑ¾­¿ªÊ¼ÁËÀÏËÀ²»ÏàÍùÀ´µÄÉú»î¡£¸Ð¾õÕû¸öÊÀ½çÔÚÎÒµÄÑÛÇ°±ÀÀ££¬Ò»Æ¬Ò»Æ¬µÄ¡­¡­ÈËÒ²ÍÇ·ÏÁË¡­¡­
 ¶þÊ®Ëê£¬´ó¶þ£¬Ê§ÁµºóÒÅÖ¢Ö¢×´Ã÷ÏÔÊ±ÆÚ£¬Ö¢×´£ºÑ§»áÁËÎüÑÌ£¬Ï²»¶Ò»¸öÈË·¢´ô£¬Ò»¸öÈËÂÃÓÎ£¬ÀÄÓÃÖ°È¨£¬¿´¼ûÆ¯ÁÁÅ®ÈË¾ÍÔ¼£¬È»ºóÔ¼Íê´ÓÀ´²»È¥¡£°àÀïÓÐ¸öÅ®ÍÅÖ§ÊéÃ÷±ÈÎÒ°«30ÀåÃ×£¬ÎÂÈá¿É°®ÌìÕæµÄ°çÖí³ÔÀÏ»¢ÐÍmm£¬Ò»´ÎÎÒ×éÖ¯È«°àÂÃÓÎµÇÉ½£¬µÇÉ½Í¾ÖÐÎÒÄò¼±£¬n¶àmm»¹Ã»ÓÐ²ÞËù£¬¼±ÖÐÉúÖÇÈÃÄÐÍ¬Ñ§Î§ÔÚÒ»Æðµ²ÆðÀ´£¬È»ºó°¤¸öÀ´£¬ÎÒÊÇ×îºóÒ»¸ö£¬¸Õ¸Õ½â¾öÍêÀ­ÉÏÀ­Á·£¬Ã÷ÔÚºóÃæÅÄÎÒ¡°ÄãÃÇ¸ÉÊ²ÄØ¡±¡°Éß£¡£¡£¡¸Õ¸ÕÔÚ×¥Éß¡±ÎÒ»Ø´ð¡£ºóÀ´¹À¼ÆËýÖªµÀÁË£¬Á½ÄêÄÚ¿´¼ûÎÒ¾Í¶ã¡£Ê§ÁµµÄÄÐÈË¶¼ÊÇÏ¹×Ó£¬Ò»¸ö½ÐÁÕµÄÉí¸ß183µÄÄ£ÌØmm¾­³£Ô¼ÎÒ£¬ÎÒ¾­³£Ê§Ô¼£¬ÁÕ¾Í²»ÔÙÀíÎÒÁË£¬ÏÖÔÚºó»Úing¡£ÏÖÔÚÃ÷È¥ÁË¶íÂÞË¹Ñ§Ï°¹«ÅÉÑ§Ï°Ç±Í§µ¼º½£¬ÒÔºó¹À¼Æ»¹»á¼ûµ½¡£ÁÕÕÒÁË¸öÄÐÅóÓÑÈ¥ÁËÉîÛÚ£¬¾ÍÃ»ÓÐÏÂÎÄÁË¡£
@@ -17805,8 +17652,7 @@ K.T.V.ÊÇ½«ÂÃ¹ÝµÄ¿Í·¿²ÍÒû¼°ÊÓÌýÉè±¸½áºÏ³ÉµÄÒ»ÖÖÓªÒµÐÍÌ¬¡£Òò´Ë,
 Çå½àµÄ·¿¼ä
 (2)
 ÍêÃÀµÄÒôÐ§¼°ÊÓ¾õÏíÊÜ
-(3¡­
-[2008-02-13]
+(3¡­ [2008-02-13]  
 ·ÖÀà£ºÖ°³¡×ÊÁÏ
 |
 ·Å½øÎÒµÄ¿Ú´ü
@@ -18385,21 +18231,13 @@ Information
 to
 20
 characters
-(A-Z,
-a-z,
-0-9,
-no
-spaces)
+(A-Z, a-z, 0-9, no spaces)
 *µÇÂ¼&#23494;&#30721;:
 5
 to
 20
 characters
-(A-Z,
-a-z,
-0-9,
-no
-spaces)
+(A-Z, a-z, 0-9, no spaces)
 *ÃÜÂëÈ·ÈÏ:
 *&#39564;&#35777;&#30721;:
 ÉÌÎñÐÅÏ¢
@@ -18923,19 +18761,7 @@ moved
 ÅÄÅÄÍø
 -
 ÕÒ²»µ½ÍøÒ³
-[
-ÎÒµÄµêÆÌ
-|
-»ù±¾ÉèÖÃ
-|
-ÎÒµÄ¹ºÎï³µ
-|
-ÎÒµÄÊÕ²Ø¼Ð
-|
-ÎÒµÄ²Æ¸¶Í¨
-|
-µÇÂ¼
-]
+[ ÎÒµÄµêÆÌ | »ù±¾ÉèÖÃ | ÎÒµÄ¹ºÎï³µ | ÎÒµÄÊÕ²Ø¼Ð | ÎÒµÄ²Æ¸¶Í¨ | µÇÂ¼ ]
 ËùÓÐÉÌÆ·ÀàÄ¿
 |
 ¹ºÎïÑÝÊ¾
@@ -21221,72 +21047,12 @@ uusee
 13:02:59
 Ð¦Ð¦µÄ¸öÈË½éÉÜ£º
 <=request.getAttribute("nick")%>µÄÊÓÆµ
-/action/vedio.do?method=vedioShow&userid=<=user!=null?user.getUserid():""
-%>">¸ü¶àÊÓÆµ
-<
-String
-srcpic
-=
-"../../images/zx_grxx_54.gif";
-if(list
-!=null
-&&
-list.size()
->
-0){
-int
-conlen
-=
-list.size()/4
-+1;
-if(list.size()%4
-==0)
-conlen
-=
-conlen
--1;
-for(int
-ii=0;ii<conlen;ii++){
-%>
-<
-for(int
-j=0;j<4;j++){
-if((ii*4
-+j)
-0){
-tagcvalue
-=
-((TagContent)tags.get(0)).getTag();
-if(tagcvalue
-!=null){
-if(tagcvalue.length()
->5
-){
-tagc
-=tagcvalue.substring(0,5);
-}else{
-tagc
-=
-tagcvalue;
-}
-}
-for(int
-k=0;k<tags.size();k++){
-if(((TagContent)tags.get(k)).getTag()
-!=null)
-strtag
-+=""
-+((TagContent)tags.get(k)).getTag()
-+""+"
-";
-}
-}
-if(up.getFileLogo()
-!=null
-&&
-!"".equals(up.getFileLogo())
-&&
-!"null".equals(up.getFileLogo()))
+/action/vedio.do?method=vedioShow&userid=<=user!=null?user.getUserid():"" %>">¸ü¶àÊÓÆµ
+< String srcpic = "../../images/zx_grxx_54.gif"; if(list !=null && list.size() > 0){ int conlen = list.size()/4 +1; if(list.size()%4 ==0) conlen = conlen -1; for(int ii=0;ii<conlen;ii++){ %> 
+< for(int j=0;j<4;j++){ if((ii*4 +j)
+0){ tagcvalue = ((TagContent)tags.get(0)).getTag(); if(tagcvalue !=null){ if(tagcvalue.length() >5 ){ tagc =tagcvalue.substring(0,5); }else{ tagc = tagcvalue; } }
+for(int k=0;k<tags.size();k++){ if(((TagContent)tags.get(k)).getTag() !=null) strtag +="" +((TagContent)tags.get(k)).getTag() +""+" "; } }
+if(up.getFileLogo() !=null && !"".equals(up.getFileLogo()) && !"null".equals(up.getFileLogo()))
 srcpic
 =
 up.getFileLogo();
@@ -21296,8 +21062,7 @@ String
 filename
 =
 up.getFileName();
-if(up.getFileName().length()
->=
+if(up.getFileName().length() >=
 8)
 filename
 =
@@ -21334,9 +21099,7 @@ WIDTH=15
 HEIGHT=13
 ALT="">
 êÇ³Æ£º/userhtml/<=up.getUserId().getUserid()%>/perinfo.htm"
-target="_blank"><=up.getNickName()==null
-?
-"":up.getNickName()%>
+target="_blank"><=up.getNickName()==null ? "":up.getNickName()%>
 ·ÖÀà£º"
 target="_blank"><=gtype.getTypeName()%>
 ±êÇ©£º
@@ -21499,72 +21262,12 @@ sosoµÄ¸öÈËÐÅÏ¢
 21:29:52
 sosoµÄ¸öÈË½éÉÜ£º
 <=request.getAttribute("nick")%>µÄÊÓÆµ
-/action/vedio.do?method=vedioShow&userid=<=user!=null?user.getUserid():""
-%>">¸ü¶àÊÓÆµ
-<
-String
-srcpic
-=
-"../../images/zx_grxx_54.gif";
-if(list
-!=null
-&&
-list.size()
->
-0){
-int
-conlen
-=
-list.size()/4
-+1;
-if(list.size()%4
-==0)
-conlen
-=
-conlen
--1;
-for(int
-ii=0;ii<conlen;ii++){
-%>
-<
-for(int
-j=0;j<4;j++){
-if((ii*4
-+j)
-0){
-tagcvalue
-=
-((TagContent)tags.get(0)).getTag();
-if(tagcvalue
-!=null){
-if(tagcvalue.length()
->5
-){
-tagc
-=tagcvalue.substring(0,5);
-}else{
-tagc
-=
-tagcvalue;
-}
-}
-for(int
-k=0;k<tags.size();k++){
-if(((TagContent)tags.get(k)).getTag()
-!=null)
-strtag
-+=""
-+((TagContent)tags.get(k)).getTag()
-+""+"
-";
-}
-}
-if(up.getFileLogo()
-!=null
-&&
-!"".equals(up.getFileLogo())
-&&
-!"null".equals(up.getFileLogo()))
+/action/vedio.do?method=vedioShow&userid=<=user!=null?user.getUserid():"" %>">¸ü¶àÊÓÆµ
+< String srcpic = "../../images/zx_grxx_54.gif"; if(list !=null && list.size() > 0){ int conlen = list.size()/4 +1; if(list.size()%4 ==0) conlen = conlen -1; for(int ii=0;ii<conlen;ii++){ %> 
+< for(int j=0;j<4;j++){ if((ii*4 +j)
+0){ tagcvalue = ((TagContent)tags.get(0)).getTag(); if(tagcvalue !=null){ if(tagcvalue.length() >5 ){ tagc =tagcvalue.substring(0,5); }else{ tagc = tagcvalue; } }
+for(int k=0;k<tags.size();k++){ if(((TagContent)tags.get(k)).getTag() !=null) strtag +="" +((TagContent)tags.get(k)).getTag() +""+" "; } }
+if(up.getFileLogo() !=null && !"".equals(up.getFileLogo()) && !"null".equals(up.getFileLogo()))
 srcpic
 =
 up.getFileLogo();
@@ -21574,8 +21277,7 @@ String
 filename
 =
 up.getFileName();
-if(up.getFileName().length()
->=
+if(up.getFileName().length() >=
 8)
 filename
 =
@@ -21612,9 +21314,7 @@ WIDTH=15
 HEIGHT=13
 ALT="">
 êÇ³Æ£º/userhtml/<=up.getUserId().getUserid()%>/perinfo.htm"
-target="_blank"><=up.getNickName()==null
-?
-"":up.getNickName()%>
+target="_blank"><=up.getNickName()==null ? "":up.getNickName()%>
 ·ÖÀà£º"
 target="_blank"><=gtype.getTypeName()%>
 ±êÇ©£º
@@ -21780,72 +21480,12 @@ piqiµÄ¸öÈËÐÅÏ¢
 10:09:51
 piqiµÄ¸öÈË½éÉÜ£º
 <=request.getAttribute("nick")%>µÄÊÓÆµ
-/action/vedio.do?method=vedioShow&userid=<=user!=null?user.getUserid():""
-%>">¸ü¶àÊÓÆµ
-<
-String
-srcpic
-=
-"../../images/zx_grxx_54.gif";
-if(list
-!=null
-&&
-list.size()
->
-0){
-int
-conlen
-=
-list.size()/4
-+1;
-if(list.size()%4
-==0)
-conlen
-=
-conlen
--1;
-for(int
-ii=0;ii<conlen;ii++){
-%>
-<
-for(int
-j=0;j<4;j++){
-if((ii*4
-+j)
-0){
-tagcvalue
-=
-((TagContent)tags.get(0)).getTag();
-if(tagcvalue
-!=null){
-if(tagcvalue.length()
->5
-){
-tagc
-=tagcvalue.substring(0,5);
-}else{
-tagc
-=
-tagcvalue;
-}
-}
-for(int
-k=0;k<tags.size();k++){
-if(((TagContent)tags.get(k)).getTag()
-!=null)
-strtag
-+=""
-+((TagContent)tags.get(k)).getTag()
-+""+"
-";
-}
-}
-if(up.getFileLogo()
-!=null
-&&
-!"".equals(up.getFileLogo())
-&&
-!"null".equals(up.getFileLogo()))
+/action/vedio.do?method=vedioShow&userid=<=user!=null?user.getUserid():"" %>">¸ü¶àÊÓÆµ
+< String srcpic = "../../images/zx_grxx_54.gif"; if(list !=null && list.size() > 0){ int conlen = list.size()/4 +1; if(list.size()%4 ==0) conlen = conlen -1; for(int ii=0;ii<conlen;ii++){ %> 
+< for(int j=0;j<4;j++){ if((ii*4 +j)
+0){ tagcvalue = ((TagContent)tags.get(0)).getTag(); if(tagcvalue !=null){ if(tagcvalue.length() >5 ){ tagc =tagcvalue.substring(0,5); }else{ tagc = tagcvalue; } }
+for(int k=0;k<tags.size();k++){ if(((TagContent)tags.get(k)).getTag() !=null) strtag +="" +((TagContent)tags.get(k)).getTag() +""+" "; } }
+if(up.getFileLogo() !=null && !"".equals(up.getFileLogo()) && !"null".equals(up.getFileLogo()))
 srcpic
 =
 up.getFileLogo();
@@ -21855,8 +21495,7 @@ String
 filename
 =
 up.getFileName();
-if(up.getFileName().length()
->=
+if(up.getFileName().length() >=
 8)
 filename
 =
@@ -21893,9 +21532,7 @@ WIDTH=15
 HEIGHT=13
 ALT="">
 êÇ³Æ£º/userhtml/<=up.getUserId().getUserid()%>/perinfo.htm"
-target="_blank"><=up.getNickName()==null
-?
-"":up.getNickName()%>
+target="_blank"><=up.getNickName()==null ? "":up.getNickName()%>
 ·ÖÀà£º"
 target="_blank"><=gtype.getTypeName()%>
 ±êÇ©£º
@@ -22058,72 +21695,12 @@ uusee
 16:21:19
 Æ»¹ûµÄ¸öÈË½éÉÜ£º
 <=request.getAttribute("nick")%>µÄÊÓÆµ
-/action/vedio.do?method=vedioShow&userid=<=user!=null?user.getUserid():""
-%>">¸ü¶àÊÓÆµ
-<
-String
-srcpic
-=
-"../../images/zx_grxx_54.gif";
-if(list
-!=null
-&&
-list.size()
->
-0){
-int
-conlen
-=
-list.size()/4
-+1;
-if(list.size()%4
-==0)
-conlen
-=
-conlen
--1;
-for(int
-ii=0;ii<conlen;ii++){
-%>
-<
-for(int
-j=0;j<4;j++){
-if((ii*4
-+j)
-0){
-tagcvalue
-=
-((TagContent)tags.get(0)).getTag();
-if(tagcvalue
-!=null){
-if(tagcvalue.length()
->5
-){
-tagc
-=tagcvalue.substring(0,5);
-}else{
-tagc
-=
-tagcvalue;
-}
-}
-for(int
-k=0;k<tags.size();k++){
-if(((TagContent)tags.get(k)).getTag()
-!=null)
-strtag
-+=""
-+((TagContent)tags.get(k)).getTag()
-+""+"
-";
-}
-}
-if(up.getFileLogo()
-!=null
-&&
-!"".equals(up.getFileLogo())
-&&
-!"null".equals(up.getFileLogo()))
+/action/vedio.do?method=vedioShow&userid=<=user!=null?user.getUserid():"" %>">¸ü¶àÊÓÆµ
+< String srcpic = "../../images/zx_grxx_54.gif"; if(list !=null && list.size() > 0){ int conlen = list.size()/4 +1; if(list.size()%4 ==0) conlen = conlen -1; for(int ii=0;ii<conlen;ii++){ %> 
+< for(int j=0;j<4;j++){ if((ii*4 +j)
+0){ tagcvalue = ((TagContent)tags.get(0)).getTag(); if(tagcvalue !=null){ if(tagcvalue.length() >5 ){ tagc =tagcvalue.substring(0,5); }else{ tagc = tagcvalue; } }
+for(int k=0;k<tags.size();k++){ if(((TagContent)tags.get(k)).getTag() !=null) strtag +="" +((TagContent)tags.get(k)).getTag() +""+" "; } }
+if(up.getFileLogo() !=null && !"".equals(up.getFileLogo()) && !"null".equals(up.getFileLogo()))
 srcpic
 =
 up.getFileLogo();
@@ -22133,8 +21710,7 @@ String
 filename
 =
 up.getFileName();
-if(up.getFileName().length()
->=
+if(up.getFileName().length() >=
 8)
 filename
 =
@@ -22171,9 +21747,7 @@ WIDTH=15
 HEIGHT=13
 ALT="">
 êÇ³Æ£º/userhtml/<=up.getUserId().getUserid()%>/perinfo.htm"
-target="_blank"><=up.getNickName()==null
-?
-"":up.getNickName()%>
+target="_blank"><=up.getNickName()==null ? "":up.getNickName()%>
 ·ÖÀà£º"
 target="_blank"><=gtype.getTypeName()%>
 ±êÇ©£º
@@ -22336,72 +21910,12 @@ uusee
 18:48:54
 ËÞÃüµÄ¸öÈË½éÉÜ£º
 <=request.getAttribute("nick")%>µÄÊÓÆµ
-/action/vedio.do?method=vedioShow&userid=<=user!=null?user.getUserid():""
-%>">¸ü¶àÊÓÆµ
-<
-String
-srcpic
-=
-"../../images/zx_grxx_54.gif";
-if(list
-!=null
-&&
-list.size()
->
-0){
-int
-conlen
-=
-list.size()/4
-+1;
-if(list.size()%4
-==0)
-conlen
-=
-conlen
--1;
-for(int
-ii=0;ii<conlen;ii++){
-%>
-<
-for(int
-j=0;j<4;j++){
-if((ii*4
-+j)
-0){
-tagcvalue
-=
-((TagContent)tags.get(0)).getTag();
-if(tagcvalue
-!=null){
-if(tagcvalue.length()
->5
-){
-tagc
-=tagcvalue.substring(0,5);
-}else{
-tagc
-=
-tagcvalue;
-}
-}
-for(int
-k=0;k<tags.size();k++){
-if(((TagContent)tags.get(k)).getTag()
-!=null)
-strtag
-+=""
-+((TagContent)tags.get(k)).getTag()
-+""+"
-";
-}
-}
-if(up.getFileLogo()
-!=null
-&&
-!"".equals(up.getFileLogo())
-&&
-!"null".equals(up.getFileLogo()))
+/action/vedio.do?method=vedioShow&userid=<=user!=null?user.getUserid():"" %>">¸ü¶àÊÓÆµ
+< String srcpic = "../../images/zx_grxx_54.gif"; if(list !=null && list.size() > 0){ int conlen = list.size()/4 +1; if(list.size()%4 ==0) conlen = conlen -1; for(int ii=0;ii<conlen;ii++){ %> 
+< for(int j=0;j<4;j++){ if((ii*4 +j)
+0){ tagcvalue = ((TagContent)tags.get(0)).getTag(); if(tagcvalue !=null){ if(tagcvalue.length() >5 ){ tagc =tagcvalue.substring(0,5); }else{ tagc = tagcvalue; } }
+for(int k=0;k<tags.size();k++){ if(((TagContent)tags.get(k)).getTag() !=null) strtag +="" +((TagContent)tags.get(k)).getTag() +""+" "; } }
+if(up.getFileLogo() !=null && !"".equals(up.getFileLogo()) && !"null".equals(up.getFileLogo()))
 srcpic
 =
 up.getFileLogo();
@@ -22411,8 +21925,7 @@ String
 filename
 =
 up.getFileName();
-if(up.getFileName().length()
->=
+if(up.getFileName().length() >=
 8)
 filename
 =
@@ -22449,9 +21962,7 @@ WIDTH=15
 HEIGHT=13
 ALT="">
 êÇ³Æ£º/userhtml/<=up.getUserId().getUserid()%>/perinfo.htm"
-target="_blank"><=up.getNickName()==null
-?
-"":up.getNickName()%>
+target="_blank"><=up.getNickName()==null ? "":up.getNickName()%>
 ·ÖÀà£º"
 target="_blank"><=gtype.getTypeName()%>
 ±êÇ©£º
@@ -22616,72 +22127,12 @@ uusee
 ÓÆÊÓÎÒ×îÓéµÄ¸öÈË½éÉÜ£º
 ÏëÌù¾ÍÌù£¬ÒªÌùµÃ´óÕÅ£¡~~~
 <=request.getAttribute("nick")%>µÄÊÓÆµ
-/action/vedio.do?method=vedioShow&userid=<=user!=null?user.getUserid():""
-%>">¸ü¶àÊÓÆµ
-<
-String
-srcpic
-=
-"../../images/zx_grxx_54.gif";
-if(list
-!=null
-&&
-list.size()
->
-0){
-int
-conlen
-=
-list.size()/4
-+1;
-if(list.size()%4
-==0)
-conlen
-=
-conlen
--1;
-for(int
-ii=0;ii<conlen;ii++){
-%>
-<
-for(int
-j=0;j<4;j++){
-if((ii*4
-+j)
-0){
-tagcvalue
-=
-((TagContent)tags.get(0)).getTag();
-if(tagcvalue
-!=null){
-if(tagcvalue.length()
->5
-){
-tagc
-=tagcvalue.substring(0,5);
-}else{
-tagc
-=
-tagcvalue;
-}
-}
-for(int
-k=0;k<tags.size();k++){
-if(((TagContent)tags.get(k)).getTag()
-!=null)
-strtag
-+=""
-+((TagContent)tags.get(k)).getTag()
-+""+"
-";
-}
-}
-if(up.getFileLogo()
-!=null
-&&
-!"".equals(up.getFileLogo())
-&&
-!"null".equals(up.getFileLogo()))
+/action/vedio.do?method=vedioShow&userid=<=user!=null?user.getUserid():"" %>">¸ü¶àÊÓÆµ
+< String srcpic = "../../images/zx_grxx_54.gif"; if(list !=null && list.size() > 0){ int conlen = list.size()/4 +1; if(list.size()%4 ==0) conlen = conlen -1; for(int ii=0;ii<conlen;ii++){ %> 
+< for(int j=0;j<4;j++){ if((ii*4 +j)
+0){ tagcvalue = ((TagContent)tags.get(0)).getTag(); if(tagcvalue !=null){ if(tagcvalue.length() >5 ){ tagc =tagcvalue.substring(0,5); }else{ tagc = tagcvalue; } }
+for(int k=0;k<tags.size();k++){ if(((TagContent)tags.get(k)).getTag() !=null) strtag +="" +((TagContent)tags.get(k)).getTag() +""+" "; } }
+if(up.getFileLogo() !=null && !"".equals(up.getFileLogo()) && !"null".equals(up.getFileLogo()))
 srcpic
 =
 up.getFileLogo();
@@ -22691,8 +22142,7 @@ String
 filename
 =
 up.getFileName();
-if(up.getFileName().length()
->=
+if(up.getFileName().length() >=
 8)
 filename
 =
@@ -22729,9 +22179,7 @@ WIDTH=15
 HEIGHT=13
 ALT="">
 êÇ³Æ£º/userhtml/<=up.getUserId().getUserid()%>/perinfo.htm"
-target="_blank"><=up.getNickName()==null
-?
-"":up.getNickName()%>
+target="_blank"><=up.getNickName()==null ? "":up.getNickName()%>
 ·ÖÀà£º"
 target="_blank"><=gtype.getTypeName()%>
 ±êÇ©£º
@@ -22894,72 +22342,12 @@ uuseemovieµÄ¸öÈËÐÅÏ¢
 18:27:06
 uuseemovieµÄ¸öÈË½éÉÜ£º
 <=request.getAttribute("nick")%>µÄÊÓÆµ
-/action/vedio.do?method=vedioShow&userid=<=user!=null?user.getUserid():""
-%>">¸ü¶àÊÓÆµ
-<
-String
-srcpic
-=
-"../../images/zx_grxx_54.gif";
-if(list
-!=null
-&&
-list.size()
->
-0){
-int
-conlen
-=
-list.size()/4
-+1;
-if(list.size()%4
-==0)
-conlen
-=
-conlen
--1;
-for(int
-ii=0;ii<conlen;ii++){
-%>
-<
-for(int
-j=0;j<4;j++){
-if((ii*4
-+j)
-0){
-tagcvalue
-=
-((TagContent)tags.get(0)).getTag();
-if(tagcvalue
-!=null){
-if(tagcvalue.length()
->5
-){
-tagc
-=tagcvalue.substring(0,5);
-}else{
-tagc
-=
-tagcvalue;
-}
-}
-for(int
-k=0;k<tags.size();k++){
-if(((TagContent)tags.get(k)).getTag()
-!=null)
-strtag
-+=""
-+((TagContent)tags.get(k)).getTag()
-+""+"
-";
-}
-}
-if(up.getFileLogo()
-!=null
-&&
-!"".equals(up.getFileLogo())
-&&
-!"null".equals(up.getFileLogo()))
+/action/vedio.do?method=vedioShow&userid=<=user!=null?user.getUserid():"" %>">¸ü¶àÊÓÆµ
+< String srcpic = "../../images/zx_grxx_54.gif"; if(list !=null && list.size() > 0){ int conlen = list.size()/4 +1; if(list.size()%4 ==0) conlen = conlen -1; for(int ii=0;ii<conlen;ii++){ %> 
+< for(int j=0;j<4;j++){ if((ii*4 +j)
+0){ tagcvalue = ((TagContent)tags.get(0)).getTag(); if(tagcvalue !=null){ if(tagcvalue.length() >5 ){ tagc =tagcvalue.substring(0,5); }else{ tagc = tagcvalue; } }
+for(int k=0;k<tags.size();k++){ if(((TagContent)tags.get(k)).getTag() !=null) strtag +="" +((TagContent)tags.get(k)).getTag() +""+" "; } }
+if(up.getFileLogo() !=null && !"".equals(up.getFileLogo()) && !"null".equals(up.getFileLogo()))
 srcpic
 =
 up.getFileLogo();
@@ -22969,8 +22357,7 @@ String
 filename
 =
 up.getFileName();
-if(up.getFileName().length()
->=
+if(up.getFileName().length() >=
 8)
 filename
 =
@@ -23007,9 +22394,7 @@ WIDTH=15
 HEIGHT=13
 ALT="">
 êÇ³Æ£º/userhtml/<=up.getUserId().getUserid()%>/perinfo.htm"
-target="_blank"><=up.getNickName()==null
-?
-"":up.getNickName()%>
+target="_blank"><=up.getNickName()==null ? "":up.getNickName()%>
 ·ÖÀà£º"
 target="_blank"><=gtype.getTypeName()%>
 ±êÇ©£º
@@ -23174,72 +22559,12 @@ uusee
 µ½ÌìÌÃÈ¥Ê¹»µµÄ¸öÈË½éÉÜ£º
 ¡Ð_¡Ð±ð¥ßÄÃÃD¨§‚€ÐÔ.¥ÅÌô‘ð¦Ø¨¯d¨¥¤ÙÆ¢šâƒ6Ê4oo¡©
 <=request.getAttribute("nick")%>µÄÊÓÆµ
-/action/vedio.do?method=vedioShow&userid=<=user!=null?user.getUserid():""
-%>">¸ü¶àÊÓÆµ
-<
-String
-srcpic
-=
-"../../images/zx_grxx_54.gif";
-if(list
-!=null
-&&
-list.size()
->
-0){
-int
-conlen
-=
-list.size()/4
-+1;
-if(list.size()%4
-==0)
-conlen
-=
-conlen
--1;
-for(int
-ii=0;ii<conlen;ii++){
-%>
-<
-for(int
-j=0;j<4;j++){
-if((ii*4
-+j)
-0){
-tagcvalue
-=
-((TagContent)tags.get(0)).getTag();
-if(tagcvalue
-!=null){
-if(tagcvalue.length()
->5
-){
-tagc
-=tagcvalue.substring(0,5);
-}else{
-tagc
-=
-tagcvalue;
-}
-}
-for(int
-k=0;k<tags.size();k++){
-if(((TagContent)tags.get(k)).getTag()
-!=null)
-strtag
-+=""
-+((TagContent)tags.get(k)).getTag()
-+""+"
-";
-}
-}
-if(up.getFileLogo()
-!=null
-&&
-!"".equals(up.getFileLogo())
-&&
-!"null".equals(up.getFileLogo()))
+/action/vedio.do?method=vedioShow&userid=<=user!=null?user.getUserid():"" %>">¸ü¶àÊÓÆµ
+< String srcpic = "../../images/zx_grxx_54.gif"; if(list !=null && list.size() > 0){ int conlen = list.size()/4 +1; if(list.size()%4 ==0) conlen = conlen -1; for(int ii=0;ii<conlen;ii++){ %> 
+< for(int j=0;j<4;j++){ if((ii*4 +j)
+0){ tagcvalue = ((TagContent)tags.get(0)).getTag(); if(tagcvalue !=null){ if(tagcvalue.length() >5 ){ tagc =tagcvalue.substring(0,5); }else{ tagc = tagcvalue; } }
+for(int k=0;k<tags.size();k++){ if(((TagContent)tags.get(k)).getTag() !=null) strtag +="" +((TagContent)tags.get(k)).getTag() +""+" "; } }
+if(up.getFileLogo() !=null && !"".equals(up.getFileLogo()) && !"null".equals(up.getFileLogo()))
 srcpic
 =
 up.getFileLogo();
@@ -23249,8 +22574,7 @@ String
 filename
 =
 up.getFileName();
-if(up.getFileName().length()
->=
+if(up.getFileName().length() >=
 8)
 filename
 =
@@ -23287,9 +22611,7 @@ WIDTH=15
 HEIGHT=13
 ALT="">
 êÇ³Æ£º/userhtml/<=up.getUserId().getUserid()%>/perinfo.htm"
-target="_blank"><=up.getNickName()==null
-?
-"":up.getNickName()%>
+target="_blank"><=up.getNickName()==null ? "":up.getNickName()%>
 ·ÖÀà£º"
 target="_blank"><=gtype.getTypeName()%>
 ±êÇ©£º
@@ -23452,72 +22774,12 @@ uusee
 18:39:30
 ¾£¼¬ÄñµÄ¸öÈË½éÉÜ£º
 <=request.getAttribute("nick")%>µÄÊÓÆµ
-/action/vedio.do?method=vedioShow&userid=<=user!=null?user.getUserid():""
-%>">¸ü¶àÊÓÆµ
-<
-String
-srcpic
-=
-"../../images/zx_grxx_54.gif";
-if(list
-!=null
-&&
-list.size()
->
-0){
-int
-conlen
-=
-list.size()/4
-+1;
-if(list.size()%4
-==0)
-conlen
-=
-conlen
--1;
-for(int
-ii=0;ii<conlen;ii++){
-%>
-<
-for(int
-j=0;j<4;j++){
-if((ii*4
-+j)
-0){
-tagcvalue
-=
-((TagContent)tags.get(0)).getTag();
-if(tagcvalue
-!=null){
-if(tagcvalue.length()
->5
-){
-tagc
-=tagcvalue.substring(0,5);
-}else{
-tagc
-=
-tagcvalue;
-}
-}
-for(int
-k=0;k<tags.size();k++){
-if(((TagContent)tags.get(k)).getTag()
-!=null)
-strtag
-+=""
-+((TagContent)tags.get(k)).getTag()
-+""+"
-";
-}
-}
-if(up.getFileLogo()
-!=null
-&&
-!"".equals(up.getFileLogo())
-&&
-!"null".equals(up.getFileLogo()))
+/action/vedio.do?method=vedioShow&userid=<=user!=null?user.getUserid():"" %>">¸ü¶àÊÓÆµ
+< String srcpic = "../../images/zx_grxx_54.gif"; if(list !=null && list.size() > 0){ int conlen = list.size()/4 +1; if(list.size()%4 ==0) conlen = conlen -1; for(int ii=0;ii<conlen;ii++){ %> 
+< for(int j=0;j<4;j++){ if((ii*4 +j)
+0){ tagcvalue = ((TagContent)tags.get(0)).getTag(); if(tagcvalue !=null){ if(tagcvalue.length() >5 ){ tagc =tagcvalue.substring(0,5); }else{ tagc = tagcvalue; } }
+for(int k=0;k<tags.size();k++){ if(((TagContent)tags.get(k)).getTag() !=null) strtag +="" +((TagContent)tags.get(k)).getTag() +""+" "; } }
+if(up.getFileLogo() !=null && !"".equals(up.getFileLogo()) && !"null".equals(up.getFileLogo()))
 srcpic
 =
 up.getFileLogo();
@@ -23527,8 +22789,7 @@ String
 filename
 =
 up.getFileName();
-if(up.getFileName().length()
->=
+if(up.getFileName().length() >=
 8)
 filename
 =
@@ -23565,9 +22826,7 @@ WIDTH=15
 HEIGHT=13
 ALT="">
 êÇ³Æ£º/userhtml/<=up.getUserId().getUserid()%>/perinfo.htm"
-target="_blank"><=up.getNickName()==null
-?
-"":up.getNickName()%>
+target="_blank"><=up.getNickName()==null ? "":up.getNickName()%>
 ·ÖÀà£º"
 target="_blank"><=gtype.getTypeName()%>
 ±êÇ©£º
@@ -23733,72 +22992,12 @@ up2zhiµÄ¸öÈËÐÅÏ¢
 05:49:25
 up2zhiµÄ¸öÈË½éÉÜ£º
 <=request.getAttribute("nick")%>µÄÊÓÆµ
-/action/vedio.do?method=vedioShow&userid=<=user!=null?user.getUserid():""
-%>">¸ü¶àÊÓÆµ
-<
-String
-srcpic
-=
-"../../images/zx_grxx_54.gif";
-if(list
-!=null
-&&
-list.size()
->
-0){
-int
-conlen
-=
-list.size()/4
-+1;
-if(list.size()%4
-==0)
-conlen
-=
-conlen
--1;
-for(int
-ii=0;ii<conlen;ii++){
-%>
-<
-for(int
-j=0;j<4;j++){
-if((ii*4
-+j)
-0){
-tagcvalue
-=
-((TagContent)tags.get(0)).getTag();
-if(tagcvalue
-!=null){
-if(tagcvalue.length()
->5
-){
-tagc
-=tagcvalue.substring(0,5);
-}else{
-tagc
-=
-tagcvalue;
-}
-}
-for(int
-k=0;k<tags.size();k++){
-if(((TagContent)tags.get(k)).getTag()
-!=null)
-strtag
-+=""
-+((TagContent)tags.get(k)).getTag()
-+""+"
-";
-}
-}
-if(up.getFileLogo()
-!=null
-&&
-!"".equals(up.getFileLogo())
-&&
-!"null".equals(up.getFileLogo()))
+/action/vedio.do?method=vedioShow&userid=<=user!=null?user.getUserid():"" %>">¸ü¶àÊÓÆµ
+< String srcpic = "../../images/zx_grxx_54.gif"; if(list !=null && list.size() > 0){ int conlen = list.size()/4 +1; if(list.size()%4 ==0) conlen = conlen -1; for(int ii=0;ii<conlen;ii++){ %> 
+< for(int j=0;j<4;j++){ if((ii*4 +j)
+0){ tagcvalue = ((TagContent)tags.get(0)).getTag(); if(tagcvalue !=null){ if(tagcvalue.length() >5 ){ tagc =tagcvalue.substring(0,5); }else{ tagc = tagcvalue; } }
+for(int k=0;k<tags.size();k++){ if(((TagContent)tags.get(k)).getTag() !=null) strtag +="" +((TagContent)tags.get(k)).getTag() +""+" "; } }
+if(up.getFileLogo() !=null && !"".equals(up.getFileLogo()) && !"null".equals(up.getFileLogo()))
 srcpic
 =
 up.getFileLogo();
@@ -23808,8 +23007,7 @@ String
 filename
 =
 up.getFileName();
-if(up.getFileName().length()
->=
+if(up.getFileName().length() >=
 8)
 filename
 =
@@ -23846,9 +23044,7 @@ WIDTH=15
 HEIGHT=13
 ALT="">
 êÇ³Æ£º/userhtml/<=up.getUserId().getUserid()%>/perinfo.htm"
-target="_blank"><=up.getNickName()==null
-?
-"":up.getNickName()%>
+target="_blank"><=up.getNickName()==null ? "":up.getNickName()%>
 ·ÖÀà£º"
 target="_blank"><=gtype.getTypeName()%>
 ±êÇ©£º
@@ -24011,72 +23207,12 @@ uusee
 09:13:26
 ÈÈÇéËÆ»ðµÄ¸öÈË½éÉÜ£º
 <=request.getAttribute("nick")%>µÄÊÓÆµ
-/action/vedio.do?method=vedioShow&userid=<=user!=null?user.getUserid():""
-%>">¸ü¶àÊÓÆµ
-<
-String
-srcpic
-=
-"../../images/zx_grxx_54.gif";
-if(list
-!=null
-&&
-list.size()
->
-0){
-int
-conlen
-=
-list.size()/4
-+1;
-if(list.size()%4
-==0)
-conlen
-=
-conlen
--1;
-for(int
-ii=0;ii<conlen;ii++){
-%>
-<
-for(int
-j=0;j<4;j++){
-if((ii*4
-+j)
-0){
-tagcvalue
-=
-((TagContent)tags.get(0)).getTag();
-if(tagcvalue
-!=null){
-if(tagcvalue.length()
->5
-){
-tagc
-=tagcvalue.substring(0,5);
-}else{
-tagc
-=
-tagcvalue;
-}
-}
-for(int
-k=0;k<tags.size();k++){
-if(((TagContent)tags.get(k)).getTag()
-!=null)
-strtag
-+=""
-+((TagContent)tags.get(k)).getTag()
-+""+"
-";
-}
-}
-if(up.getFileLogo()
-!=null
-&&
-!"".equals(up.getFileLogo())
-&&
-!"null".equals(up.getFileLogo()))
+/action/vedio.do?method=vedioShow&userid=<=user!=null?user.getUserid():"" %>">¸ü¶àÊÓÆµ
+< String srcpic = "../../images/zx_grxx_54.gif"; if(list !=null && list.size() > 0){ int conlen = list.size()/4 +1; if(list.size()%4 ==0) conlen = conlen -1; for(int ii=0;ii<conlen;ii++){ %> 
+< for(int j=0;j<4;j++){ if((ii*4 +j)
+0){ tagcvalue = ((TagContent)tags.get(0)).getTag(); if(tagcvalue !=null){ if(tagcvalue.length() >5 ){ tagc =tagcvalue.substring(0,5); }else{ tagc = tagcvalue; } }
+for(int k=0;k<tags.size();k++){ if(((TagContent)tags.get(k)).getTag() !=null) strtag +="" +((TagContent)tags.get(k)).getTag() +""+" "; } }
+if(up.getFileLogo() !=null && !"".equals(up.getFileLogo()) && !"null".equals(up.getFileLogo()))
 srcpic
 =
 up.getFileLogo();
@@ -24086,8 +23222,7 @@ String
 filename
 =
 up.getFileName();
-if(up.getFileName().length()
->=
+if(up.getFileName().length() >=
 8)
 filename
 =
@@ -24124,9 +23259,7 @@ WIDTH=15
 HEIGHT=13
 ALT="">
 êÇ³Æ£º/userhtml/<=up.getUserId().getUserid()%>/perinfo.htm"
-target="_blank"><=up.getNickName()==null
-?
-"":up.getNickName()%>
+target="_blank"><=up.getNickName()==null ? "":up.getNickName()%>
 ·ÖÀà£º"
 target="_blank"><=gtype.getTypeName()%>
 ±êÇ©£º
@@ -24290,72 +23423,12 @@ uusee
 00:03:57
 Á¹¿ªË®µÄ¸öÈË½éÉÜ£º
 <=request.getAttribute("nick")%>µÄÊÓÆµ
-/action/vedio.do?method=vedioShow&userid=<=user!=null?user.getUserid():""
-%>">¸ü¶àÊÓÆµ
-<
-String
-srcpic
-=
-"../../images/zx_grxx_54.gif";
-if(list
-!=null
-&&
-list.size()
->
-0){
-int
-conlen
-=
-list.size()/4
-+1;
-if(list.size()%4
-==0)
-conlen
-=
-conlen
--1;
-for(int
-ii=0;ii<conlen;ii++){
-%>
-<
-for(int
-j=0;j<4;j++){
-if((ii*4
-+j)
-0){
-tagcvalue
-=
-((TagContent)tags.get(0)).getTag();
-if(tagcvalue
-!=null){
-if(tagcvalue.length()
->5
-){
-tagc
-=tagcvalue.substring(0,5);
-}else{
-tagc
-=
-tagcvalue;
-}
-}
-for(int
-k=0;k<tags.size();k++){
-if(((TagContent)tags.get(k)).getTag()
-!=null)
-strtag
-+=""
-+((TagContent)tags.get(k)).getTag()
-+""+"
-";
-}
-}
-if(up.getFileLogo()
-!=null
-&&
-!"".equals(up.getFileLogo())
-&&
-!"null".equals(up.getFileLogo()))
+/action/vedio.do?method=vedioShow&userid=<=user!=null?user.getUserid():"" %>">¸ü¶àÊÓÆµ
+< String srcpic = "../../images/zx_grxx_54.gif"; if(list !=null && list.size() > 0){ int conlen = list.size()/4 +1; if(list.size()%4 ==0) conlen = conlen -1; for(int ii=0;ii<conlen;ii++){ %> 
+< for(int j=0;j<4;j++){ if((ii*4 +j)
+0){ tagcvalue = ((TagContent)tags.get(0)).getTag(); if(tagcvalue !=null){ if(tagcvalue.length() >5 ){ tagc =tagcvalue.substring(0,5); }else{ tagc = tagcvalue; } }
+for(int k=0;k<tags.size();k++){ if(((TagContent)tags.get(k)).getTag() !=null) strtag +="" +((TagContent)tags.get(k)).getTag() +""+" "; } }
+if(up.getFileLogo() !=null && !"".equals(up.getFileLogo()) && !"null".equals(up.getFileLogo()))
 srcpic
 =
 up.getFileLogo();
@@ -24365,8 +23438,7 @@ String
 filename
 =
 up.getFileName();
-if(up.getFileName().length()
->=
+if(up.getFileName().length() >=
 8)
 filename
 =
@@ -24403,9 +23475,7 @@ WIDTH=15
 HEIGHT=13
 ALT="">
 êÇ³Æ£º/userhtml/<=up.getUserId().getUserid()%>/perinfo.htm"
-target="_blank"><=up.getNickName()==null
-?
-"":up.getNickName()%>
+target="_blank"><=up.getNickName()==null ? "":up.getNickName()%>
 ·ÖÀà£º"
 target="_blank"><=gtype.getTypeName()%>
 ±êÇ©£º
@@ -24595,72 +23665,12 @@ uusee
 23:44:47
 Âêè§¹«Ö÷µÄ¸öÈË½éÉÜ£º
 <=request.getAttribute("nick")%>µÄÊÓÆµ
-/action/vedio.do?method=vedioShow&userid=<=user!=null?user.getUserid():""
-%>">¸ü¶àÊÓÆµ
-<
-String
-srcpic
-=
-"../../images/zx_grxx_54.gif";
-if(list
-!=null
-&&
-list.size()
->
-0){
-int
-conlen
-=
-list.size()/4
-+1;
-if(list.size()%4
-==0)
-conlen
-=
-conlen
--1;
-for(int
-ii=0;ii<conlen;ii++){
-%>
-<
-for(int
-j=0;j<4;j++){
-if((ii*4
-+j)
-0){
-tagcvalue
-=
-((TagContent)tags.get(0)).getTag();
-if(tagcvalue
-!=null){
-if(tagcvalue.length()
->5
-){
-tagc
-=tagcvalue.substring(0,5);
-}else{
-tagc
-=
-tagcvalue;
-}
-}
-for(int
-k=0;k<tags.size();k++){
-if(((TagContent)tags.get(k)).getTag()
-!=null)
-strtag
-+=""
-+((TagContent)tags.get(k)).getTag()
-+""+"
-";
-}
-}
-if(up.getFileLogo()
-!=null
-&&
-!"".equals(up.getFileLogo())
-&&
-!"null".equals(up.getFileLogo()))
+/action/vedio.do?method=vedioShow&userid=<=user!=null?user.getUserid():"" %>">¸ü¶àÊÓÆµ
+< String srcpic = "../../images/zx_grxx_54.gif"; if(list !=null && list.size() > 0){ int conlen = list.size()/4 +1; if(list.size()%4 ==0) conlen = conlen -1; for(int ii=0;ii<conlen;ii++){ %> 
+< for(int j=0;j<4;j++){ if((ii*4 +j)
+0){ tagcvalue = ((TagContent)tags.get(0)).getTag(); if(tagcvalue !=null){ if(tagcvalue.length() >5 ){ tagc =tagcvalue.substring(0,5); }else{ tagc = tagcvalue; } }
+for(int k=0;k<tags.size();k++){ if(((TagContent)tags.get(k)).getTag() !=null) strtag +="" +((TagContent)tags.get(k)).getTag() +""+" "; } }
+if(up.getFileLogo() !=null && !"".equals(up.getFileLogo()) && !"null".equals(up.getFileLogo()))
 srcpic
 =
 up.getFileLogo();
@@ -24670,8 +23680,7 @@ String
 filename
 =
 up.getFileName();
-if(up.getFileName().length()
->=
+if(up.getFileName().length() >=
 8)
 filename
 =
@@ -24708,9 +23717,7 @@ WIDTH=15
 HEIGHT=13
 ALT="">
 êÇ³Æ£º/userhtml/<=up.getUserId().getUserid()%>/perinfo.htm"
-target="_blank"><=up.getNickName()==null
-?
-"":up.getNickName()%>
+target="_blank"><=up.getNickName()==null ? "":up.getNickName()%>
 ·ÖÀà£º"
 target="_blank"><=gtype.getTypeName()%>
 ±êÇ©£º
@@ -24873,72 +23880,12 @@ uusee
 23:15:51
 ÀäÈô±ùËªµÄ¸öÈË½éÉÜ£º
 <=request.getAttribute("nick")%>µÄÊÓÆµ
-/action/vedio.do?method=vedioShow&userid=<=user!=null?user.getUserid():""
-%>">¸ü¶àÊÓÆµ
-<
-String
-srcpic
-=
-"../../images/zx_grxx_54.gif";
-if(list
-!=null
-&&
-list.size()
->
-0){
-int
-conlen
-=
-list.size()/4
-+1;
-if(list.size()%4
-==0)
-conlen
-=
-conlen
--1;
-for(int
-ii=0;ii<conlen;ii++){
-%>
-<
-for(int
-j=0;j<4;j++){
-if((ii*4
-+j)
-0){
-tagcvalue
-=
-((TagContent)tags.get(0)).getTag();
-if(tagcvalue
-!=null){
-if(tagcvalue.length()
->5
-){
-tagc
-=tagcvalue.substring(0,5);
-}else{
-tagc
-=
-tagcvalue;
-}
-}
-for(int
-k=0;k<tags.size();k++){
-if(((TagContent)tags.get(k)).getTag()
-!=null)
-strtag
-+=""
-+((TagContent)tags.get(k)).getTag()
-+""+"
-";
-}
-}
-if(up.getFileLogo()
-!=null
-&&
-!"".equals(up.getFileLogo())
-&&
-!"null".equals(up.getFileLogo()))
+/action/vedio.do?method=vedioShow&userid=<=user!=null?user.getUserid():"" %>">¸ü¶àÊÓÆµ
+< String srcpic = "../../images/zx_grxx_54.gif"; if(list !=null && list.size() > 0){ int conlen = list.size()/4 +1; if(list.size()%4 ==0) conlen = conlen -1; for(int ii=0;ii<conlen;ii++){ %> 
+< for(int j=0;j<4;j++){ if((ii*4 +j)
+0){ tagcvalue = ((TagContent)tags.get(0)).getTag(); if(tagcvalue !=null){ if(tagcvalue.length() >5 ){ tagc =tagcvalue.substring(0,5); }else{ tagc = tagcvalue; } }
+for(int k=0;k<tags.size();k++){ if(((TagContent)tags.get(k)).getTag() !=null) strtag +="" +((TagContent)tags.get(k)).getTag() +""+" "; } }
+if(up.getFileLogo() !=null && !"".equals(up.getFileLogo()) && !"null".equals(up.getFileLogo()))
 srcpic
 =
 up.getFileLogo();
@@ -24948,8 +23895,7 @@ String
 filename
 =
 up.getFileName();
-if(up.getFileName().length()
->=
+if(up.getFileName().length() >=
 8)
 filename
 =
@@ -24986,9 +23932,7 @@ WIDTH=15
 HEIGHT=13
 ALT="">
 êÇ³Æ£º/userhtml/<=up.getUserId().getUserid()%>/perinfo.htm"
-target="_blank"><=up.getNickName()==null
-?
-"":up.getNickName()%>
+target="_blank"><=up.getNickName()==null ? "":up.getNickName()%>
 ·ÖÀà£º"
 target="_blank"><=gtype.getTypeName()%>
 ±êÇ©£º
@@ -25152,72 +24096,12 @@ uusee
 ÐùÓêµÄ¸öÈË½éÉÜ£º
 Ï²»¶¹àË®.Äã¾ÍÀ´°É£¡¹þ¹þ.»¶Ó­Äã£¡
 <=request.getAttribute("nick")%>µÄÊÓÆµ
-/action/vedio.do?method=vedioShow&userid=<=user!=null?user.getUserid():""
-%>">¸ü¶àÊÓÆµ
-<
-String
-srcpic
-=
-"../../images/zx_grxx_54.gif";
-if(list
-!=null
-&&
-list.size()
->
-0){
-int
-conlen
-=
-list.size()/4
-+1;
-if(list.size()%4
-==0)
-conlen
-=
-conlen
--1;
-for(int
-ii=0;ii<conlen;ii++){
-%>
-<
-for(int
-j=0;j<4;j++){
-if((ii*4
-+j)
-0){
-tagcvalue
-=
-((TagContent)tags.get(0)).getTag();
-if(tagcvalue
-!=null){
-if(tagcvalue.length()
->5
-){
-tagc
-=tagcvalue.substring(0,5);
-}else{
-tagc
-=
-tagcvalue;
-}
-}
-for(int
-k=0;k<tags.size();k++){
-if(((TagContent)tags.get(k)).getTag()
-!=null)
-strtag
-+=""
-+((TagContent)tags.get(k)).getTag()
-+""+"
-";
-}
-}
-if(up.getFileLogo()
-!=null
-&&
-!"".equals(up.getFileLogo())
-&&
-!"null".equals(up.getFileLogo()))
+/action/vedio.do?method=vedioShow&userid=<=user!=null?user.getUserid():"" %>">¸ü¶àÊÓÆµ
+< String srcpic = "../../images/zx_grxx_54.gif"; if(list !=null && list.size() > 0){ int conlen = list.size()/4 +1; if(list.size()%4 ==0) conlen = conlen -1; for(int ii=0;ii<conlen;ii++){ %> 
+< for(int j=0;j<4;j++){ if((ii*4 +j)
+0){ tagcvalue = ((TagContent)tags.get(0)).getTag(); if(tagcvalue !=null){ if(tagcvalue.length() >5 ){ tagc =tagcvalue.substring(0,5); }else{ tagc = tagcvalue; } }
+for(int k=0;k<tags.size();k++){ if(((TagContent)tags.get(k)).getTag() !=null) strtag +="" +((TagContent)tags.get(k)).getTag() +""+" "; } }
+if(up.getFileLogo() !=null && !"".equals(up.getFileLogo()) && !"null".equals(up.getFileLogo()))
 srcpic
 =
 up.getFileLogo();
@@ -25227,8 +24111,7 @@ String
 filename
 =
 up.getFileName();
-if(up.getFileName().length()
->=
+if(up.getFileName().length() >=
 8)
 filename
 =
@@ -25265,9 +24148,7 @@ WIDTH=15
 HEIGHT=13
 ALT="">
 êÇ³Æ£º/userhtml/<=up.getUserId().getUserid()%>/perinfo.htm"
-target="_blank"><=up.getNickName()==null
-?
-"":up.getNickName()%>
+target="_blank"><=up.getNickName()==null ? "":up.getNickName()%>
 ·ÖÀà£º"
 target="_blank"><=gtype.getTypeName()%>
 ±êÇ©£º
@@ -25572,8 +24453,7 @@ CADÖÆÍ¼
 |
 ÐÄÂ·Àú³Ì
 ¼¼Êõ¾«»ª
-¼ÓÃÜµÄVCD£¬²»ÅÂËü(¶¼ÍûÁË´ÓÄÇÀï
-...08-10
+¼ÓÃÜµÄVCD£¬²»ÅÂËü(¶¼ÍûÁË´ÓÄÇÀï ...08-10
 4ºËREADY,ECS
 A770M-A²âÊÔ12-26
 Ë³±ã¸ø¡ºÑ§Éú¡»ÍøÓÑËµËµflashÖÐ
@@ -25931,8 +24811,7 @@ CADÖÆÍ¼
 |
 ÐÄÂ·Àú³Ì
 ¼¼Êõ¾«»ª
-¼ÓÃÜµÄVCD£¬²»ÅÂËü(¶¼ÍûÁË´ÓÄÇÀï
-...08-10
+¼ÓÃÜµÄVCD£¬²»ÅÂËü(¶¼ÍûÁË´ÓÄÇÀï ...08-10
 4ºËREADY,ECS
 A770M-A²âÊÔ12-26
 MSI
@@ -25952,8 +24831,7 @@ AirÏà¹ØÕûÀí
 ÓÀºã°®ÓëÃÎ12-25
 [ÒôÀÖÇé¸Ð]ÎÒÃÇÉúÓÚÆßÊ®Äê´ú¡¾»³
 ...02-13
-ÄÐÈËµÄ´óÊµ»°£¡£¡£¨×îÖÕÍêÈ«°æ¡«
-...09-04
+ÄÐÈËµÄ´óÊµ»°£¡£¡£¨×îÖÕÍêÈ«°æ¡« ...09-04
 [´ó×ìµÄ¼ÒÆ×]*[±¾»î¶¯ÍêÈ«×ÔÔ¸]
 ...05-30
 ¼¼ÊõÌû×ÓÍÆ¼ö
@@ -26709,8 +25587,7 @@ NPC
 [ÆµµÀÍÆ¼ö]
 ÃÀÃ¼ÆµµÀ
 17173Ö±Í¨³µÉÁµçÐÐ¶¯£¡
-[ÓÎÏ·
-DIY]
+[ÓÎÏ· DIY]
 ÊÖ°ÑÊÖ½ÌÄã×öÍøÓÎÊÓÆµ
 [Íæ¼Ò½»Á÷]
 ¡¶·âÉñ´«Ëµ¡·µ±Õæ³ÉÁË´«ËµÁËÂð
@@ -26811,9 +25688,7 @@ DIY]
 ÓÎÏ·½éÉÜ
 ·âÉñ´«ËµÊÇ¶«·½Éñ»ÃÉ«²ÊµÄÈ«ÐÂ3DÍøÂçÓÎÏ·.×÷ÎªÇ¿µ÷¶¯×÷¿ì¸ÐµÄÍøÂçÓÎÏ·,ÓÎÏ·ÖÐº¬ÓÐ¼¤ÁÒµÄÕ½¶·³¡¾°¼°»ªÀöµÄ¶¯×÷»­Ãæ¡£
 ·âÉñ´«ËµÒÔÖÐ¹ú¹ÅµäÐ¡Ëµ¡¶·âÉñÑÝÒå¡·Îª±³¾°,Ìá¹©ÁËÎÒÃÇËùÊìÏ¤µÄ·Ç³£·á¸»¶àÑùµÄËØ²Ä(µÀ¾ß¡¢¼¼ÄÜµÈ).¡¶·âÉñ´«Ëµ¡·ÒÔÀúÊ·ÖÐµÄ·¥æûÕ½ÕùÎªËØ²Ä,ÈÚÈëÁËµÀ½Ì·á¸»µÄË¼ÏëÔªËØ,²¢¶ÔÔ­×÷½øÐÐÁËÒ»Ð©ÈóÉ«,ÒÔ±ãÓëÓÎÏ·ÄÚÈÝ¸üºÃµØ½áºÏ.
-·âÉñ´«ËµÇÉÃîÈÚºÏÁË¶«Î÷·½ÓÎÏ·µÄµÄ³¤´¦,²»½ö½öÊÇÓÎÏ·ÖÐµÄ·ÕÎ§£¬¾ÍÊÇÔÚÆäÏµÍ³ÉÏÒ²½«²»Í¬ÓÚÆäËûÓÎÏ·,¶À¾ßÌØÉ«.ÔÚ¡¶·âÉñ´«Ëµ¡·ÖÐ,Äú½«ÌåÑéµ½ÖÁ½ñ²»ÔøÓÐ¹ýµÄÏ²ÔÃ.Çë¾¡ÇéÏíÊÜ¡¶·âÉñ´«Ëµ¡·´ø¸øÄãµÄÎÞ¾¡µÄ»¶ÀÖ°É![
-ÏêÏ¸½éÉÜ
-]
+·âÉñ´«ËµÇÉÃîÈÚºÏÁË¶«Î÷·½ÓÎÏ·µÄµÄ³¤´¦,²»½ö½öÊÇÓÎÏ·ÖÐµÄ·ÕÎ§£¬¾ÍÊÇÔÚÆäÏµÍ³ÉÏÒ²½«²»Í¬ÓÚÆäËûÓÎÏ·,¶À¾ßÌØÉ«.ÔÚ¡¶·âÉñ´«Ëµ¡·ÖÐ,Äú½«ÌåÑéµ½ÖÁ½ñ²»ÔøÓÐ¹ýµÄÏ²ÔÃ.Çë¾¡ÇéÏíÊÜ¡¶·âÉñ´«Ëµ¡·´ø¸øÄãµÄÎÞ¾¡µÄ»¶ÀÖ°É![ ÏêÏ¸½éÉÜ ]
 ÓÎ
 Ï·
 ½Ø
@@ -27011,9 +25886,7 @@ Nage2.8°æ¿Í»§¶ËÏÂÔØ
 [ÐÂÓÃ»§×¢²á]
 ÈçÓöµ½Í¶¸åÒÔ¼°ÓÎÏ·Ïà¹ØÎÊÌâ£¬·¢±íÖÁÂÛÌ³
 »òÁªÏµ±à¼­
-ÎÃ×ÓÎÞµÐ(
-adam@17173.com
-)
+ÎÃ×ÓÎÞµÐ( adam@17173.com )
 ¡ú¿ìËÙ£¬±ãÒË£¬·½±ã,¹ºÃÀÀöÊÀ½çÍøÂçÓÎÏ·¿¨
 N-age800µã¿¨
 Ô­¼Û:£¤16.00
@@ -27111,8 +25984,7 @@ http://naizuideai1.q.sohu.com
 ÒªÑ§»á¶ÔÄãÃÇÏ²»¶µÄÎÄÕÂµã&ldquo;ÎÒ¿´ºÃÄã£¡&rdquo;
 È¦×ÓÈººÅ:31971301¡£
 ±¾È¦ÁªÒêÈ¦
-£¨oÓÅÑÅd¨¥ÍÇ·Ïo&omicron;&Omicron;
-£©
+£¨oÓÅÑÅd¨¥ÍÇ·Ïo&omicron;&Omicron; £©
 ³ÉÔ±±¨µÀÌû
 £¨È¦ÄÚ£©
 ±¾È¦¾«»ªÌûheÍÆ¼öÌû
@@ -27693,255 +26565,34 @@ Reserved
 °æÈ¨ËùÓÐ
 ±±¾©Ò×³µ»¥ÁªÐÅÏ¢¼¼ÊõÓÐÏÞ¹«Ë¾
 µçÐÅÒµÎñÉóÅú[2006]×ÖµÚ92ºÅ£»¾­ÓªÐí¿ÉÖ¤±àºÅ£º¾©ICPÖ¤060175ºÅ
-‹
-ÄY[oÜÆ
-~¶
-ý‡
-g[twÉåjWÒj¹…%k
-EÒ*J^…!9\ÒâeCÎêÒMþLZ¤·
-h|AãÈ—
-raW¶âXMã^òb
-H
-‚
-E
-ÔFûÒ™á
-rw%ËNZ
-»ÒÌœ9·ïœ3g¨é©¶=·3M~#hÒß
-Â
-Ø
-÷+èµ³©IË‘+k;}$
-#
-i
-FÛX¦›
-aÃ0BXëéj½¦J)
+‹
+ÄY[oÜÆ ~¶ý‡ g[twÉåjWÒj¹…%k EÒ*J^…!9\ÒâeCÎêÒMþLZ¤· h|AãÈ— raW¶âXMã^òb H ‚E ÔFûÒ™árw%ËNZ »ÒÌœ9·ïœ3g¨é©¶=·3M~#hÒß ÂØ÷+èµ³©IË‘+k;}$ # i FÛX¦› aÃ0BXëéj½¦J)
 zH“Â@
 p$ìt|
-m—­Àuƒ­"ñ
-ÚÙ
+m—­Àuƒ­"ñÚÙ
 BS$×Ý WÖõ¨¬
 04Ë}»_öv¢×\Â!
 x
 ã€
 ì¢
 ¸÷ÏýG
-~uã
-T
-ÝUÝv ß‹ìAÕ
-¼¶
+~uãT
+ÝUÝv ß‹ìAÕ¼¶
 j
 F
-Ø!²4‰
-Ú’å
-j™±u
+Ø!²4‰Ú’åj™±u
 
 „ÈÕ$èb
-ú
-Ä
-Ã(ª
-U~h8¦&
+ú
+ÄÃ(ªU~h8¦&
 L|Cˆú}×1
 v
 _&ë?Øö\²D¥jÒêË/
 µª0¶ÏU*F
-U*v„w˜Jz`î
-§§NYÄèŠ
-=ÇÝiM
+U*v„w˜Jz`î§§NYÄèŠ=ÇÝiM
 šÐ‡e
-:Ð-ÛÈÝD˜°_Lè"ç§¨
-jj›NQ<*Ðuz~Ë
-~C!ô`ØsüV#&Ñ¡±Ñ
-ƒo¶fPƒþäg+Fà
-a
-Ì4fçšKÍŒAÅE
-n
-%fÃçpÐ/N…NÏ
-¡#èãÀKfß˜ž"¸yÄX@
-®_¼D'L'ê»p§åøÄ÷(¦Ç&§ÖId K©¥{ø´ 
-
-\´ÐÇ|21°É
-Îž8
-†
-–
-¿?Àå@?
-<
-˜$x¬A;ð`
-¼
-ã2*‡C!
-RØ#’n!¦¾Oœ
-ÝÄ‚"
-3]öÄ
-ºÎ°€
-Ç³
-MÓñ{­:‡7ö
-÷7ñ
-0ÉŸÈ
-3*TuÕˆ¹AÊ,
-z¹q¦±”†‰Œ
-dñÛ
-~ø
-¶ì€Äâ0oY·+XvÄnÇëåàk)ñü
-N‚~Ë1±Ýšk*…0¦¦Šf6Ä°j
-8ÀÁØø±Ø
-‹!ÉÜß1pèŠf‹Þ¡….ÚHˆ«d
-T©
-,5Ý
-âD§l™
-c¶Î†‹©Q³Êé‚Q
-AÂ†ù0
-
-1±
-Dë
-àRK
-àÖÇ¤
-ƒ^0
-là*6
-ž®‰ýM%ç˜ÃÑfÖÕÓc8äê5K´œË,!Ù’Ù`(ÖÂ‚>"”|;þPˆ€
-uÂ?µqz
-"Z¦=”¡ÍR0ö¡˜zàšbp©Ç±fy3
-çÄ6
-f¥ªÊª½
-M*
-Ú1
-[Ô
-Õ©ñà¼Õ@h1
-+ªàDöp=|´
-¢Þ$ÌÕ
-æéX”×5èO¡à§ÙQõ
-r
-¡I
-êŠzr
-¬f%
-Ìe’Ð
-ÄF&
-äE
-µ>AÖD®¢
-S#
-p]ý
-sè
-aÃlX‰&¤
-ñož
-Ã
-´ÆûœŠ€®>ð&
-†Ùú3¸5/¨o
-8
-”
-Œº’?Ðæ'·4
-Fõï
-#¤X
-s~2Fó–‰æT®‰ã[cÌz6€ºÝ…•9
-¤á|RxjO
-
-µI‚RÆc;Ì#
-–("
-Â‰'Ð
-:&=A„äÈÕ…B
-ªÈ
-9î$Zé`¢Âjó©Y
-.‚á0
-ªÜV¶BC
-Ûœ–´o`xÌ9z\»GØPå×
-]Îÿò\
-‹
-k
-þÊX
-êJ=ù85žV‹
-Õ
-ÖGÂ!ïVøÍ„.ëc
-(“ï
-§–^Z=»²JÎ±ùåù•¹¥¬¯
-SYÒ®—2g-MÖÒçÛf²¾^+
-_·Ûl°ž_„jŽÝ®NMb¢ÆBD6±¢‹#<XE]ÇPw…–¸%ô‰
-º£—Öœyq}À
-6&Œlš
-é­ì8>m9¾¡gWvúú€Ü[ØK
-ª(`%A“æšªÄo8š¤H€ÕIMŠ
-¥
-äº<`Ø2
-G}hðq‡ú¨ÃN
-H
-›
-ß
-áÚcªiÒL=R§M.U
-M"È”
-«=Ç’„]qP³?åN[Æ¦À{“kGÂRd
-[NØç-k(9Ë
-ª
-MãbbQ¡0b¢‰êVHús~óE(
-DF
-¸.cá
-`4‰
-…
-s‹”x•k¤d
-(©Ñµz=v
-½³µµ•»C
-¯ÚØ#¦Ê±>¢‡˜ª² ;
-P‡Ðñ
-×œ
-é
-šgÔ3óKÍÌamÌ#ë
-ÿ¥°Ö
-ë
-FÏ1M
-IBŽÅáUÏ÷{¢Ä•ån­;[
-xaþô³†®ø
-µ
-°7Í„;;
-èf’„§è:ä/ÖØ¥½Zcï
-)L®Ô¹|ëƒkm
-vÀë
-%¹à8
-Qq„øÁ›
-ÆÄ£zÐgülÂ·Dïë1?Â¹
-0‰>D\¾®»Ðß:ô
-ã•Oßÿò¤"RÅ#rÐ
-vQí
-9wîßyT´9U+g0ÕhÿÁáÅ"õ„ð—:
-ÿ|=ÝÐ–
-.Å
-H#¿
-‚<
-ŽI
-!³ä¡E”ŒÉ÷ô
-¯¤áH
-eÁ(†˜’
-@…ÇO
-œ
-k4+âIÚèP†Iu,9
-ì!ÙD
-¸X&''¢U²ÄÉ¡
-ÅÍ
-qÞIá/uÒ×ÈÌ=Ï÷ð"ýP¢»
-÷¯ô‡{o¶e²}hXSã
-3ŸÄª’RÊÙUj’±
-£Hã
-`ÞNÊ/ä
-ìE= 3&=¹
-G_SùZÚê
-6
-µfÀqÀ2®Özà3íãåÄ¿zöywïO{»¿øðÒ_
-üòÝÝ¾óÉ£Ã‹WÞºùéî×
-^ºúóÝ¯ÊTÜ¹³ï
-|ð÷»
-Ï=¼ÿþ[¿ûægoßþüÊnþãðþõßîß¢+”
-Íæ«—nü‘n£»¸ËØ÷ôÔÍï^¹°»‹¦ñîÃß)ßúâÞí,=si_"ªñ|§¶
-¸v¿ÎH³ZÂèâ"Âé*•ÊÁÛûï
-^ÜûìÚo>þ[cï‹÷¾¹ûøò5Jtíó½ÏžãJ±N¼°¶öãÊÊO^9÷ªVZEVˆ"»
-–_zqmåÅ5­ÔX
-¯¬þH
-¥Q;Ú2÷"H\Èü^
-˜lMp;{
-ÿW¡
-tÏÁ%Zí
-døûË`÷/àê]ðÑcpá¯àÁ£
-|ÃuŒ
-­t
-nBr’:}Ü²‰‚p§Ú
-¾W©}‘Ø/g±$ŠL
-š
-Ñ®FùV»šïðøŸÏŽr¡<úø'iÏ+çèùŸdF–ÏrÒðÉüeâÏ
-ÿÿ
-êPzB
-ÄÏ¾©Ò×³µÍø_ÄÏ¾©³µÊÐ£¬Æû³µ±¨¼Û_Æû³µÍø_Æû³µµ¼¹ºµÚÒ»Õ¾
+:Ð-ÛÈÝD˜°_Lè"ç§¨jj›NQ<*Ðuz~Ë ~C!ô`ØsüV#&Ñ¡±Ñ ƒo¶fPƒþäg+Fàa Ì4fçšKÍŒAÅE n %fÃçpÐ/N…NÏ¡#èãÀKfß˜ž"¸yÄX@ ®_¼D'L'ê»p§åøÄ÷(¦Ç&§ÖId K©¥{ø´ \´ÐÇ|21°É Îž8 †–¿?Àå@?< ˜$x¬A;ð` ¼ã2*‡C! RØ#’n!¦¾OœÝÄ‚" 3]öÄ ºÎ°€ Ç³ MÓñ{­:‡7ö÷7ñ0ÉŸÈ3*TuÕˆ¹AÊ, z¹q¦±”†‰Œ dñÛ ~ø ¶ì€Äâ0oY·+XvÄnÇëåàk)ñü N‚~Ë1±Ýšk*…0¦¦Šf6Ä°j 8ÀÁØø±Ø‹!ÉÜß1pèŠf‹Þ¡….ÚHˆ«d T©,5ÝâD§l™c¶Î†‹©Q³Êé‚Q AÂ†ù0 1±Dë àRK àÖÇ¤ƒ^0 là*6 ž®‰ýM%ç˜ÃÑfÖÕÓc8äê5K´œË,!Ù’Ù`(ÖÂ‚>"”|;þPˆ€ uÂ?µqz "Z¦=”¡ÍR0ö¡˜zàšbp©Ç±fy3 çÄ6 f¥ªÊª½M* Ú1 [Ô Õ©ñà¼Õ@h1 +ªàDöp=|´¢Þ$ÌÕ æéX”×5èO¡à§ÙQõr ¡I êŠzr ¬f% Ìe’Ð ÄF& äE µ>AÖD®¢ S# p]ý sè aÃlX‰&¤ñožÃ´ÆûœŠ€®>ð& †Ùú3¸5/¨o 8 ”Œº’?Ðæ'·4 Fõï #¤X s~2Fó–‰æT®‰ã[cÌz6€ºÝ…•9 ¤á|RxjO  µI‚RÆc;Ì# –(" Â‰'Ð:&=A„äÈÕ…B ªÈ9î$Zé`¢Âjó©Y .‚á0 ªÜV¶BC Ûœ–´o`xÌ9z\»GØPå× ]Îÿò\ ‹k þÊX êJ=ù85žV‹ÕÖGÂ!ïVøÍ„.ëc (“ï §–^Z=»²JÎ±ùåù•¹¥¬¯ SYÒ®—2g-MÖÒçÛf²¾^+ _·Ûl°ž_„jŽÝ®NMb¢ÆBD6±¢‹#<XE]ÇPw…–¸%ô‰ º£—Öœyq}À6&Œlš é­ì8>m9¾¡gWvúú€Ü[ØK ª(`%A“æšªÄo8š¤H€ÕIMŠ¥ äº<`Ø2 G}hðq‡ú¨ÃN H ›	ßáÚcªiÒL=R§M.U M"È” «=Ç’„]qP³?åN[Æ¦À{“kGÂRd [NØç-k(9Ë
+ªMãbbQ¡0b¢‰êVHús~óE( DF ¸.cá `4‰…s‹”x•k¤d (©Ñµz=v ½³µµ•»C ¯ÚØ#¦Ê±>¢‡˜ª² ; P‡Ðñ×œ éšgÔ3óKÍÌamÌ#ëÿ¥°Ö ëFÏ1M IBŽÅáUÏ÷{¢Ä•ån­;[ xaþô³†®ø µ°7Í„;; èf’„§è:ä/ÖØ¥½Zcï	)L®Ô¹|ëƒkm vÀë %¹à8 Qq„øÁ› ÆÄ£zÐgülÂ·Dïë1?Â¹ 0‰>D\¾®»Ðß:ôã•Oßÿò¤"RÅ#rÐvQí9wîßyT´9U+g0ÕhÿÁáÅ"õ„ð—: ÿ|=ÝÐ–	.ÅH#¿‚< ŽI !³ä¡E”ŒÉ÷ô¯¤áH eÁ(†˜’@…ÇO œ k4+âIÚèP†Iu,9 ì!ÙD ¸X&''¢U²ÄÉ¡ ÅÍ qÞIá/uÒ×ÈÌ=Ï÷ð"ýP¢» ÷¯ô‡{o¶e²}hXSã3ŸÄª’RÊÙUj’± £Hã`ÞNÊ/äìE= 3&=¹	G_SùZÚê 6 µfÀqÀ2®Özà3íãåÄ¿zöywïO{»¿øðÒ_ üòÝÝ¾óÉ£Ã‹WÞºùéî× ^ºúóÝ¯ÊTÜ¹³ï |ð÷»Ï=¼ÿþ[¿ûægoßþüÊnþãðþõßîß¢+”	Íæ«—nü‘n£»¸ËØ÷ôÔÍï^¹°»‹¦ñîÃß)ßúâÞí,=si_"ªñ|§¶ ¸v¿ÎH³ZÂèâ"Âé*•ÊÁÛûï ^ÜûìÚo>þ[cï‹÷¾¹ûøò5Jtíó½ÏžãJ±N¼°¶öãÊÊO^9÷ªVZEVˆ"»–_zqmåÅ5­ÔX ¯¬þH ¥Q;Ú2÷"H\Èü^ ˜lMp;{ ÿW¡ tÏÁ%ZídøûË`÷/àê]ðÑcpá¯àÁ£ |ÃuŒ­t nBr’:}Ü²‰‚p§Ú ¾W©}‘Ø/g±$ŠL šÑ®FùV»šïðøŸÏŽr¡<úø'iÏ+çèùŸdF–ÏrÒðÉüeâÏ ÿÿ êPzB ÄÏ¾©Ò×³µÍø_ÄÏ¾©³µÊÐ£¬Æû³µ±¨¼Û_Æû³µÍø_Æû³µµ¼¹ºµÚÒ»Õ¾
 ½µ¼ÛÐÐÇé
 ÐÂ³µÈëÊÐ
 ÉÌ¼Ò»î¶¯
@@ -28099,8 +26750,7 @@ M24.88Íò24.08Íò02-03ÄÏ¾©ÄþÈó
 ±£Ê±½ÝBoÈ«ÐÂboxste68.80Íò68.80Íò01-10ÄÏ¾©±¦Ê±½Ý
 ¿ËÀ³Ë¹ÀÕ2.7L
 V633.90Íò33.90Íò12-21¿ËÀ³Ë¹ÀÕÍò
-¿­À×µÂ£¨6.2L
-ËÄÇý112Íò112Íò11-23½­ËÕÌìãü¿­
+¿­À×µÂ£¨6.2L ËÄÇý112Íò112Íò11-23½­ËÕÌìãü¿­
 ³µÊÐ¾«Ó¢·ÃÌ¸
 ·ÃÆæÏéÆæÈð×Ü¾­Àí×Þ¶¨°²
 ÓïÂ¼
@@ -28451,8 +27101,7 @@ M24.88Íò24.08Íò02-03ÄÏ¾©ÄþÈó
 ±£Ê±½ÝBoÈ«ÐÂboxste68.80Íò68.80Íò01-10ÄÏ¾©±¦Ê±½Ý
 ¿ËÀ³Ë¹ÀÕ2.7L
 V633.90Íò33.90Íò12-21¿ËÀ³Ë¹ÀÕÍò
-¿­À×µÂ£¨6.2L
-ËÄÇý112Íò112Íò11-23½­ËÕÌìãü¿­
+¿­À×µÂ£¨6.2L ËÄÇý112Íò112Íò11-23½­ËÕÌìãü¿­
 ³µÊÐ¾«Ó¢·ÃÌ¸
 ·ÃÆæÏéÆæÈð×Ü¾­Àí×Þ¶¨°²
 ÓïÂ¼
@@ -28646,10 +27295,8 @@ Reserved
 ±±¾©Ò×³µ»¥ÁªÐÅÏ¢¼¼ÊõÓÐÏÞ¹«Ë¾
 µçÐÅÒµÎñÉóÅú[2006]×ÖµÚ92ºÅ£»¾­ÓªÐí¿ÉÖ¤±àºÅ£º¾©ICPÖ¤060175ºÅ
 ÄÏ¾©·¿µØ²úÃÅ»§-ËÑ·¿·¿µØ²úÍø
-<//!--#include
-virtual="/html/homepage/adk/kmh.htm"-->
-<//!--#include
-virtual="/html/homepage/adk/ad-fullscreen.htm"-->
+<//!--#include virtual="/html/homepage/adk/kmh.htm"-->
+<//!--#include virtual="/html/homepage/adk/ad-fullscreen.htm"-->
 µ±Ç°£ºÄÏ¾©
 |
 English
@@ -29056,8 +27703,7 @@ F
 ÄÏ¾©Â¥ÊÐ³¹µ×Ï¨»ð
 Á½ÌìÈÏ¹º26Ì×
 ÊóÄêÂ¥ÊÐ´ÙÏú¼ýÔÚÏÒÉÏ
-[ÃÎÔ²08
-ºØËê´óµä][08ÄÏ¾©ÉÌÆ··¿ÍÁµØ¹©Ó¦°×Æ¤Êé]
+[ÃÎÔ²08 ºØËê´óµä][08ÄÏ¾©ÉÌÆ··¿ÍÁµØ¹©Ó¦°×Æ¤Êé]
 Íò¿Æ»¦ÉÏÂ¥ÅÌ¼Û¸ñ"°µ½µ"
 ·¿µØ²úÔÚ¹Õµã"ÕõÔú"
 ×¡·¿±£ÕÏ´óÆìÔ½ÇæÔ½¸ß
@@ -29088,11 +27734,9 @@ F
 [µØ²ú²ÂÏë]
 Ð¡µÀÏûÏ¢
 ²©¿ÍÈÈµã
-[Ëï
-º£]ÄêºóÄÏ¾©Â¥ÊÐÓ­À´"Ð¡Ñô´º"
+[Ëï º£]ÄêºóÄÏ¾©Â¥ÊÐÓ­À´"Ð¡Ñô´º"
 [¹ùÓ½º£]±¬ÖñÉùÖÐ"ÃÀÀö"Ò²Ðè»·±£
-[Å£
-µ¶]ÆÆ½â¸ßÍ¨ÕÍÏÂµÄÂ¥ÊÐÎ£¾Ö
+[Å£ µ¶]ÆÆ½â¸ßÍ¨ÕÍÏÂµÄÂ¥ÊÐÎ£¾Ö
 [¼ÖÀÏ°å]·¿¼ÛÉÏÕÇ,ÊÇ³´·¿³´µÃÃ´?
 ÓÃ°®ÈÚ±ù
 [Ãû²©ÍÆ¼ö:¹ùÓ½º£]
@@ -29448,12 +28092,9 @@ walm
 Ð¡µÀÏûÏ¢È¦
 ±¬ÖñÉùÖÐ¼¸Ëê³ý?ÃÀÀö¸üÐè»·±£
 [ÁîÈËÌÖÑáµÄÅËÊ¯ÒÙ][ÍÁµØºÍÂ¥ÊÐÊÇ²Æ¸»¾Û±¦Åè]
-[Ëï
-º£]ÄêºóÄÏ¾©Â¥ÊÐ½«Ó­À´¡°Ð¡Ñô´º¡±
-[Ò¼
-·²]ºì,ÂÌ,ºÚ!2008Ñ°ÕÒÐÂÄêµÄÉ«²Ê£¡
-[Å£
-µ¶]ÆÆ½â¸ßÍ¨ÕÍÏÂµÄÂ¥ÊÐÎ£¾Ö
+[Ëï º£]ÄêºóÄÏ¾©Â¥ÊÐ½«Ó­À´¡°Ð¡Ñô´º¡±
+[Ò¼ ·²]ºì,ÂÌ,ºÚ!2008Ñ°ÕÒÐÂÄêµÄÉ«²Ê£¡
+[Å£ µ¶]ÆÆ½â¸ßÍ¨ÕÍÏÂµÄÂ¥ÊÐÎ£¾Ö
 [¼ÖÀÏ°å]·¿¼ÛÉÏÕÇ£¬ÕæµÄÊÇ³´·¿³´µÃÃ´£¿
 [ÂíÔ¾³É]2008ÈÈµã¹Ø×¢£º¶ÚµØÀÏ´óÄÑ£¡
 [ÕÅÌìÑå]´ÈÉÆ²»ÄÜ¸ù±¾¸Ä±äÐÐÒµÐÎÏó
@@ -30034,21 +28675,8 @@ Reserved
 ¾©ICPÖ¤060732ºÅ
 ËÑ·¿¹«Ë¾
 °æÈ¨ËùÓÐ
-<//!--#include
-virtual="/html/homepage/adk/homepagefly1.htm"--><//!--#include
-virtual="/html/homepage/adk/homepagefly2.htm"--><//!--#include
-virtual="/html/homepage/adk/homepagefly3.htm"--><//!--#include
-virtual="/html/homepage/adk/floatleft.htm"--><//!--#include
-virtual="/html/homepage/adk/floatright.htm"--><//!--#include
-virtual="/html/homepage/adk/floatleft1.htm"--><//!--#include
-virtual="/html/homepage/adk/floatright1.htm"--><//!--#include
-virtual="/html/homepage/adk/float_dl.htm"--><//!--#include
-virtual="/html/homepage/adk/qtz_left.htm"--><//!--#include
-virtual="/html/homepage/adk/qtz_right.htm"-->
-<//!--#include
-virtual="/html/homepage/adk/juanlian.htm"--><//!--#include
-virtual="/html/homepage/adk/beitou.htm"--><//!--#include
-virtual="/html/homepage/adk/furon.htm"-->
+<//!--#include virtual="/html/homepage/adk/homepagefly1.htm"--><//!--#include virtual="/html/homepage/adk/homepagefly2.htm"--><//!--#include virtual="/html/homepage/adk/homepagefly3.htm"--><//!--#include virtual="/html/homepage/adk/floatleft.htm"--><//!--#include virtual="/html/homepage/adk/floatright.htm"--><//!--#include virtual="/html/homepage/adk/floatleft1.htm"--><//!--#include virtual="/html/homepage/adk/floatright1.htm"--><//!--#include virtual="/html/homepage/adk/float_dl.htm"--><//!--#include virtual="/html/homepage/adk/qtz_left.htm"--><//!--#include virtual="/html/homepage/adk/qtz_right.htm"-->
+<//!--#include virtual="/html/homepage/adk/juanlian.htm"--><//!--#include virtual="/html/homepage/adk/beitou.htm"--><//!--#include virtual="/html/homepage/adk/furon.htm"-->
 ChinaRenÉçÇø-ËÑºüÍøÕ¾
 ÔÚÏß£º
 ÈË
@@ -30261,13 +28889,8 @@ j.Åå¶÷ºÍÐ¡ÄÏÁÄÌì
 [10-26]¡¾ÒôÀÖ¡¿»ðÓ°ÈÌÕß×îÐÂÖ÷ÌâÇú
 DISTANCE
 [10-23]¡¾£Í£Ö¡¿»ðÓ°ÈÌÕßÖ÷î}Çú×Ü»ã£¨MV£©£¡
-[10-11]¡¾ÒôÀÖ¡¿»ðÓ°ÈÌÕß¼²·ç´«¾ç³¡°æÖ÷Ìâ¸è¡¶Let
-me
-dance¡·
-[08-15]¡¾ÒôÀÖ¡¿»ðÓ°ÈÌÕß244½áÎ²Çú£¨µÀ¡«to
-you
-all
-£©
+[10-11]¡¾ÒôÀÖ¡¿»ðÓ°ÈÌÕß¼²·ç´«¾ç³¡°æÖ÷Ìâ¸è¡¶Let me dance¡·
+[08-15]¡¾ÒôÀÖ¡¿»ðÓ°ÈÌÕß244½áÎ²Çú£¨µÀ¡«to you all £©
 [07-03]¡¾ÒôÀÖ¡¿Afternoon
 of
 Konoha
@@ -30981,8 +29604,7 @@ l.»ðÓ°ÈÌÕß±ÚÖ½
 ÅÁ¿Ë
 ¸òó¡Áú
 »îòõ
-ÄÎÁ¼Â¹¾Ã(SHIKAKU
-NARA)
+ÄÎÁ¼Â¹¾Ã(SHIKAKU NARA)
 ÇïµÀ³¤ÖÎ
 É½ÖÐ¾®Ò°ÊÐ
 ÓÍÅ®Ö¾Î²
@@ -31015,8 +29637,7 @@ NARA)
 ºó¹¬Ö®Êõ
 &mdash;É«ÓÕÊõÓë·ÖÉíÊõµÄ½áºÏ°æ£¬ÅäºÏÓ°·ÖÉíÖ®Êõ±ä³öÒ»´ó¶ÑµÄÂãÅ®¡£
 Ç§ÄêÉ±
-&mdash;µÃµ½¿¨¿¨Î÷ÀÏÊ¦µÄÕæ´«£¬ËµÊÇÌåÊõ°ÂÒâ£¬ÆäÊµÊÇÓÃÊÖ´Á¶ÔÊÖµÄÆ¨¹É£¨Ë×³Æ
-¹à³¦£©£¬¿Éºä·ÉÈË
+&mdash;µÃµ½¿¨¿¨Î÷ÀÏÊ¦µÄÕæ´«£¬ËµÊÇÌåÊõ°ÂÒâ£¬ÆäÊµÊÇÓÃÊÖ´Á¶ÔÊÖµÄÆ¨¹É£¨Ë×³Æ ¹à³¦£©£¬¿Éºä·ÉÈË
 Ó°·ÖÉíÊõ
 £­½«×ÔÉí²é¿ËÀ­µÈ·ÖÖÆ×÷³öºÍ×ÔÉíÍêÈ«ÏàÍ¬µÄ·ÖÉí£¬¿ÉÒÔ½øÐÐ¹¥»÷ºÍÐÐ¶¯¡£
 ÃùÈËÁ¬µ¯
@@ -31204,8 +29825,7 @@ l.»ðÓ°ÈÌÕß±ÚÖ½
 ÅÁ¿Ë
 ¸òó¡Áú
 »îòõ
-ÄÎÁ¼Â¹¾Ã(SHIKAKU
-NARA)
+ÄÎÁ¼Â¹¾Ã(SHIKAKU NARA)
 ÇïµÀ³¤ÖÎ
 É½ÖÐ¾®Ò°ÊÐ
 ÓÍÅ®Ö¾Î²
@@ -31422,10 +30042,7 @@ S¼¶1´Î
 »ÆÉ³ËÁÅ°£¬³¾ÍÁ·ÉÑï£¬Ò»Ä¨ºÚÓ°ÔÚÕâÆ¬´óµØ´©Ëó¶ø¹ý£¬ÄÇ²»ÊÇ·ÉÄñ£¬ÄÇÊÇµØÓüµÄÐÞÂÞÖØ·µÈË¼ä......
 Èý
 ÎÒ°®ÂÞGaaraÃû×ÖµÄÓÉÀ´
-¶¯»­Âþ»­¶¼ÒÑ¾­½éÉÜ¹ýºÜÇå³þÁË£¬¾ÍÊÇÖ»°®×Å×Ô¼ºµÄÐÞÂÞ£­ÎÒ¤ò°®¤¹¤ëÐÞÂÞ£¨Ware
-wo
-Aisuru
-Shura£©ÐÞÂÞ
+¶¯»­Âþ»­¶¼ÒÑ¾­½éÉÜ¹ýºÜÇå³þÁË£¬¾ÍÊÇÖ»°®×Å×Ô¼ºµÄÐÞÂÞ£­ÎÒ¤ò°®¤¹¤ëÐÞÂÞ£¨Ware wo Aisuru Shura£©ÐÞÂÞ
 (Shura)Ò²×÷°¢ÐÞÂÞ
 (Ashura)ÊÇ»µµÄÉñ£¬²ÐÈÌ±©ìåºÃÉ±£¬ÊÇÕ½ÕùÖ®Éñ£¬Õâ¸ö´ó¼Ò¶¼Çå³þ£¬Ò²ÊÇ¸ö¶¯»­Âþ»­ÀïÃæ³£³öÏÖµÄÃû½Ç£¬±ÈÈçÌì¿ÕÕ½¼ÇÀïÃæµÄÐÞÂÞÍõ£ºÒ»Æ½µ¹ÊÇ¸öÕýÃæµÄ½ÇÉ«¡£ÂÞÔÚÈÕÓïÀïÃæÊÇÍøµÄÒâË¼¡£Ëµµ½ÂÞ£¬ÏëÆðÁËÂÞÉúÃÅ
 (Rashou-mon).
@@ -32157,8 +30774,7 @@ o.ÈÌÊõMP3
 ·ÖÉíÊõ
 ÌæÉíÊõ
 ±äÉíÊõ
-»ù±¾ÈÌÊõÖ®Ò»£¬¿ÉÒÔ±ä»¯ÎªÆäËü¶«Î÷£¬×î³£¼ûÊÇ±äÎªÆäËüÈË¡£(ÔÚTV14ÖÐ£¬ÃùÈË¾ÍÔø±äÎª·çÄ§ÊÖÀï½£
-Ó°·ç³µ)
+»ù±¾ÈÌÊõÖ®Ò»£¬¿ÉÒÔ±ä»¯ÎªÆäËü¶«Î÷£¬×î³£¼ûÊÇ±äÎªÆäËüÈË¡£(ÔÚTV14ÖÐ£¬ÃùÈË¾ÍÔø±äÎª·çÄ§ÊÖÀï½£ Ó°·ç³µ)
 »ðÓ°×ÊÁÏÓÐÎó£¿Çë¼ÓÈë52pk»ðÓ°×¨ÇøÕÒ²êÓÐ½±»î¶¯£¡£¡£¡
 µã»÷½øÈë
 »ðÓ°ÈÌÕßÕ¾ÄÚËÑË÷
@@ -33518,7 +32134,7 @@ k.»ðÓ°Êó±ê
 ²é¿ËÀ­µ½0-3Ö®¼ä
 &darr;+[X]
 =
-»ØÌì(´ËÕÐÒªµÈµÐÈË¹¥»÷ÄãÊ±.ÔÚ°´
+»ØÌì(´ËÕÐÒªµÈµÐÈË¹¥»÷ÄãÊ±.ÔÚ°´ 
 Ð¡Àî£º
 ²é¿ËÀ­µ½0-3Ö®¼ä
 °´[S]
@@ -33565,7 +32181,7 @@ k.»ðÓ°Êó±ê
 Á¬´ò£º£¨&darr;+&larr;+X£©»òZ»òC
 ¡ùµÈµÐÈË¹¥»÷£®ÔÚ°´
 Ë®¶ÝÖ®Êõ£º(&darr;&rarr;&darr;&rarr;+ZX)
-¡ù´ó¸ÅÊÇÕâÑù°´µÄ£®£®»¹ÊÇ²»Ôõ?ºÃ°´ÌìÕÕÄ¿Ç°Ò²»¹ÔÚÊÔ&uarr;(¡ùÌìÕÕ¡ùËü»á³öÏÖÒ»ÍÅºÚ»ð£®°ü×¡µÐÈË
+¡ù´ó¸ÅÊÇÕâÑù°´µÄ£®£®»¹ÊÇ²»Ôõ?ºÃ°´ÌìÕÕÄ¿Ç°Ò²»¹ÔÚÊÔ&uarr;(¡ùÌìÕÕ¡ùËü»á³öÏÖÒ»ÍÅºÚ»ð£®°ü×¡µÐÈË 
 ÃùÈË£º
 ·ÖÉíÊµÌå¹¥»÷£º(&darr;+&larr;+S)
 ¡ù±ä³ö·ÖÉí£®ÊµÌå¹¥»÷
@@ -33740,8 +32356,7 @@ h$aÇ§ÄêÉ±£º(&darr;+&rarr;+&darr;+&rarr;+Z)
 Ë®¶Ý£®´óÆÙ²¼Ö®Êõ£º(&darr;+&rarr;+&darr;+&rarr;+Z)
 ÈÌ·¨£®ÎíÓ°Ö®Êõ£º(&darr;+&rarr;+&darr;+&rarr;+A)
 ¡ùÎÞÒôÉ±ÈËÖ®Êõ
-Ë®·ÖÉí£º(&rarr;+&darr;+&rarr;+&darr;
-+A)»òZ
+Ë®·ÖÉí£º(&rarr;+&darr;+&rarr;+&darr; +A)»òZ
 Ë®·ÖÉí½â³ý£º(&rarr;+&darr;+&rarr;+&darr;+Enter)
 ------------------É°Ö®ÈÌÕß-----------------------ÊÖ¾Ï£º
 Áú¾í·ç£º(&darr;+&larr;+A)»òZ
@@ -33791,8 +32406,7 @@ P
 ÓÒ½ü£º(&darr;+&rarr;+Enter)
 ¡ùÓ¦¸ÃÊÇ°É£¡¡ù
 ¼ÄÉíÆÆ»µÖ®Êõ
-(&darr;+&rarr;+&darr;+&rarr;+A
-)
+(&darr;+&rarr;+&darr;+&rarr;+A )
 ¡ù·ÖÉí*½üµÐÈË£®ÔÙÇ±ÈëµÐÈËÉíÌå¡ù
 Í¨ÁéÖ®Êõ£®ÂÞÉúÃÅ£º
 (&darr;+&rarr;+&darr;+&rarr;+S)»òX
@@ -34264,8 +32878,7 @@ o.ÈÌÊõMP3
 Í¨ÁéÊõÀàÊôÓÚÈÌÊõÖÐµÄÌØÊâÖ®Êõ£¬±¾ÖÊ¾ÍÊÇÕÙ»½ÉúÎïÐ­ÖúÈÌÕßÕ½¶·£¬ÊÇÒ»ÖÖ·Ç³£ÊµÓÃ²¢ÇÒ·Ç³£¶ÀÌØµÄÕ½¶·ÐÍÈÌÊõ£¬ÊÜµ½ÈÌÕß¸ßÊÖµÄÒ»ÖÂÇàíù¡£
 Í¨ÁéÊõÖ÷Òª·ÖÎªÁ½´óÀàÐÍ&mdash;&mdash;ÑªÖ®Í¨Áéand·ÇÑªÖ®Í¨Áé
 ÑªÖ®Í¨Áé£º
-Ô­Àí&mdash;&mdash;Ê©ÊõÕßºÍÈÎºÎÒ»ÖÖÉúÎï¶¨ÏÂÑªÆõ£¨ÏêÏ¸·½·¨
-ÇëÃùÈËºÍ¸òó¡Ò»×åÇ©¶¨ÑªÖ®ÆõÔ¼µÄÆ¬¶Î£©£¬È»ºóÔÚ×Ô¼ºÏ²»¶µÄÊ±ºòÔËÓÃÈÌÊõ½«ËûÕÙ»½³öÀ´£¬ÊÇÒ»ÖÖ¿Õ¼äÈÌÊõ¡£Ò²¾ÍÊÇËµ£¬Í¨ÁéÎïÆäÊµÊÇÉú»îÔÚÏÖÊµÊÀ½çÖÐµÄ£¬Í¨ÁéÊõµÄ×÷ÓÃ¾ÍÊÇ½«Ô¶ÔÚËü³öµÄÍ¨ÁéÎïÕÙ»½µ½×Ô¼ºÉí±ß£¬ÒÔÇ°ºÜ¶àÈËÈÏÎªÍ¨ÁéÎïÊÇÉú»îÔÚÁíÒ»¸öÊÀ½çÖÐ£¬ÆäÊµÊÇÒ»¸öÎóÇø£¨×ÔÀ´Ò²Ôø¾­ÔÚÓë÷øµÄÕ½¶·ÖÐËµµÀ£ºÕâÊÇÎÒ´ÓÃîÉ½ÕÙ»½À´µÄ¸òó¡µÄÊ³µÀ¡£²¢ÇÒËûÒ²×Ô³ÆÊÇÃîÉ½ó¸òÜÏÉÈË£¬ÓÉ´Ë¿ÉÖªÎÄÌ«µÄ¸òó¡Ò»×å¾ÍÊÇ¼¯¾ÛÔÚÃîÉ½£©¡£
+Ô­Àí&mdash;&mdash;Ê©ÊõÕßºÍÈÎºÎÒ»ÖÖÉúÎï¶¨ÏÂÑªÆõ£¨ÏêÏ¸·½·¨ ÇëÃùÈËºÍ¸òó¡Ò»×åÇ©¶¨ÑªÖ®ÆõÔ¼µÄÆ¬¶Î£©£¬È»ºóÔÚ×Ô¼ºÏ²»¶µÄÊ±ºòÔËÓÃÈÌÊõ½«ËûÕÙ»½³öÀ´£¬ÊÇÒ»ÖÖ¿Õ¼äÈÌÊõ¡£Ò²¾ÍÊÇËµ£¬Í¨ÁéÎïÆäÊµÊÇÉú»îÔÚÏÖÊµÊÀ½çÖÐµÄ£¬Í¨ÁéÊõµÄ×÷ÓÃ¾ÍÊÇ½«Ô¶ÔÚËü³öµÄÍ¨ÁéÎïÕÙ»½µ½×Ô¼ºÉí±ß£¬ÒÔÇ°ºÜ¶àÈËÈÏÎªÍ¨ÁéÎïÊÇÉú»îÔÚÁíÒ»¸öÊÀ½çÖÐ£¬ÆäÊµÊÇÒ»¸öÎóÇø£¨×ÔÀ´Ò²Ôø¾­ÔÚÓë÷øµÄÕ½¶·ÖÐËµµÀ£ºÕâÊÇÎÒ´ÓÃîÉ½ÕÙ»½À´µÄ¸òó¡µÄÊ³µÀ¡£²¢ÇÒËûÒ²×Ô³ÆÊÇÃîÉ½ó¸òÜÏÉÈË£¬ÓÉ´Ë¿ÉÖªÎÄÌ«µÄ¸òó¡Ò»×å¾ÍÊÇ¼¯¾ÛÔÚÃîÉ½£©¡£
 Í¨Áé¹ý³Ì&mdash;&mdash;Ê×Òª¹Ø¼üÑªÖ®Í¨Áé±ØÐëÒªÑª£¬ÒòÎªÓëÍ¨ÁéÎïÇ©¶©µÄÊÇÑªÆõ£¬ËùÒÔ±ØÐëÓÃÑªÀ´×÷ÎªÃ½½é£¬ÈÃÍ¨ÁéÎïÖªµÀÊÇË­ÔÚÕÙ»½Ëû£¬Ç©Ô¼ÕßÔÚÑªÆõÉÏÁ÷ÓÐÑªÎÆ£¬Ò»µ©Í¨ÁéÎïµÃµ½ÈÏÖ¤Ëü¾Í¿ÉÒÔ±»ÕÙ»½ÁË¡£Òò´ËÑªÖ®Í¨ÁéÕß¶¼»áÔÚÍ¨ÁéÇ°Á÷Ñª£¬²¢ÇÒ»á½«²é¿ËÀ­ºÍÑª¼¯ÖÐÔÚÇ©¹ýÆõÔ¼µÄÄÇÖ»ÊÖÉÏ£¬ÓÃÀ´×÷ÎªÕÙ»½Ã½½é¡£
 È»ºóÁíÒ»¹Ø¼üÊÇÓ¡¡£~~~~~
 ËùÓÐµÄÑªÖ®Í¨ÁéÊõÓÃµÄ¶¼ÊÇÍ¬Ò»ÖÖÓ¡£¬Ë³ÐòÎªº¥£¬Ðç£¬ÓÏ£¬Éê£¬Î´¡£
@@ -34812,9 +33425,7 @@ j.Åå¶÷ºÍÐ¡ÄÏÁÄÌì
 31
 32
 screen.width*0.7)
-{this.resized=true;
-this.width=screen.width*0.7;
-this.alt='µã»÷ÔÚÐÂ´°¿Ú²é¿´È«Í¼\nCTRL+Êó±ê¹öÂÖ·Å´ó»òËõÐ¡';}"
+{this.resized=true; this.width=screen.width*0.7; this.alt='µã»÷ÔÚÐÂ´°¿Ú²é¿´È«Í¼\nCTRL+Êó±ê¹öÂÖ·Å´ó»òËõÐ¡';}"
 border="0"
 />
 »ðÓ°×ÊÁÏÓÐÎó£¿Çë¼ÓÈë52pk»ðÓ°×¨ÇøÕÒ²êÓÐ½±»î¶¯£¡£¡£¡
@@ -34928,9 +33539,7 @@ j.Åå¶÷ºÍÐ¡ÄÏÁÄÌì
 31
 32
 screen.width*0.7)
-{this.resized=true;
-this.width=screen.width*0.7;
-this.alt='µã»÷ÔÚÐÂ´°¿Ú²é¿´È«Í¼\nCTRL+Êó±ê¹öÂÖ·Å´ó»òËõÐ¡';}"
+{this.resized=true; this.width=screen.width*0.7; this.alt='µã»÷ÔÚÐÂ´°¿Ú²é¿´È«Í¼\nCTRL+Êó±ê¹öÂÖ·Å´ó»òËõÐ¡';}"
 border="0"
 />
 »ðÓ°×ÊÁÏÓÐÎó£¿Çë¼ÓÈë52pk»ðÓ°×¨ÇøÕÒ²êÓÐ½±»î¶¯£¡£¡£¡
@@ -35044,9 +33653,7 @@ j.Åå¶÷ºÍÐ¡ÄÏÁÄÌì
 31
 32
 screen.width*0.7)
-{this.resized=true;
-this.width=screen.width*0.7;
-this.alt='µã»÷ÔÚÐÂ´°¿Ú²é¿´È«Í¼\nCTRL+Êó±ê¹öÂÖ·Å´ó»òËõÐ¡';}"
+{this.resized=true; this.width=screen.width*0.7; this.alt='µã»÷ÔÚÐÂ´°¿Ú²é¿´È«Í¼\nCTRL+Êó±ê¹öÂÖ·Å´ó»òËõÐ¡';}"
 border="0"
 />
 »ðÓ°×ÊÁÏÓÐÎó£¿Çë¼ÓÈë52pk»ðÓ°×¨ÇøÕÒ²êÓÐ½±»î¶¯£¡£¡£¡
@@ -36826,8 +35433,7 @@ l.»ðÓ°ÈÌÕß±ÚÖ½
 ÓîÖÇ²¨´øÍÁ(Obito)
 É½ÖÐ¾®Ò°(Ino)
 ÈÕÏòÄþ´Î(Neji)
-Àî(Rock
-Lee)
+Àî(Rock Lee)
 ÓÍÅ®Ö¾ÄË(Shino)
 ÄÎÁ¼Â¹Íè(Shikamaru)
 ÌìÌì(Tenten)
@@ -37052,8 +35658,7 @@ l.»ðÓ°ÈÌÕß±ÚÖ½
 ÓîÖÇ²¨´øÍÁ(Obito)
 É½ÖÐ¾®Ò°(Ino)
 ÈÕÏòÄþ´Î(Neji)
-Àî(Rock
-Lee)
+Àî(Rock Lee)
 ÓÍÅ®Ö¾ÄË(Shino)
 ÄÎÁ¼Â¹Íè(Shikamaru)
 ÌìÌì(Tenten)
@@ -37290,8 +35895,7 @@ l.»ðÓ°ÈÌÕß±ÚÖ½
 ÓîÖÇ²¨´øÍÁ(Obito)
 É½ÖÐ¾®Ò°(Ino)
 ÈÕÏòÄþ´Î(Neji)
-Àî(Rock
-Lee)
+Àî(Rock Lee)
 ÓÍÅ®Ö¾ÄË(Shino)
 ÄÎÁ¼Â¹Íè(Shikamaru)
 ÌìÌì(Tenten)
@@ -37516,8 +36120,7 @@ l.»ðÓ°ÈÌÕß±ÚÖ½
 ÓîÖÇ²¨´øÍÁ(Obito)
 É½ÖÐ¾®Ò°(Ino)
 ÈÕÏòÄþ´Î(Neji)
-Àî(Rock
-Lee)
+Àî(Rock Lee)
 ÓÍÅ®Ö¾ÄË(Shino)
 ÄÎÁ¼Â¹Íè(Shikamaru)
 ÌìÌì(Tenten)
@@ -37622,15 +36225,13 @@ h.´óÉßÍèvs÷ø
 i.Â¹Íè»éºóÉú»î
 j.Åå¶÷ºÍÐ¡ÄÏÁÄÌì
 »ðÓ°ÈÌÕßÎÊ¾íµ÷²é
-»ðÓ°ÈÌÕßÐýÎÐÃùÈË(ÖñÄÚ
-Ë³×Ó)
+»ðÓ°ÈÌÕßÐýÎÐÃùÈË(ÖñÄÚ Ë³×Ó)
 »ðÓ°ÈÌÕßÂþ»­ÖÐÎÄÍø£¬»ðÓ°ÈÌÕß°®ºÃÕß½»Á÷ÀÖÔ°£¡
 Ê×Ò³>»ðÓ°ÈÌÕß>×ÊÁÏ°Ù¿Æ>
 ÍÆ¼öºÃÓÑ
 ¸´ÖÆÁ´½Ó
 ·±ówÖÐÎÄ
-»ðÓ°ÈÌÕßÐýÎÐÃùÈË(ÖñÄÚ
-Ë³×Ó)
+»ðÓ°ÈÌÕßÐýÎÐÃùÈË(ÖñÄÚ Ë³×Ó)
 a.±³¾°½éÉÜ
 b.»ðÓ°×åÆ×
 c.Ñª¼ÌÏÞ½ç
@@ -37642,40 +36243,32 @@ h.Í·Ïñ±íÇé
 i.»ðÓ°ÈÌÕßÓÎÏ·
 j.¼ÒÎÆ¼°ÌØÊâÍ¼°¸
 k.»ðÓ°Êó±ê
-ÐýÎÐÃùÈË(ÖñÄÚ
-Ë³×Ó)
+ÐýÎÐÃùÈË(ÖñÄÚ Ë³×Ó)
 ÓîÖÇ²¨×ôÖú(É¼É½¼ÍÕÃ)
 ´ºÒ°Ó£(ÖÐ´åÇ§»æ)
 ÆìÄ¾¿¨¿¨Î÷(¾®ÉÏºÍÑå)
 ÓîÖÇ²¨÷ø(Ê¯´¨Ó¢ÀÉ)
 ÎÒ°®ÂÞ(Ê¯ÌïÕÃ)
-¾ýÂéÂÀ(É­´¨
-ÖÇÖ®)
-ÄÎÁ¼Â¹Íè(É­¾Ã±£
-ÏéÌ«ÀÉ)
+¾ýÂéÂÀ(É­´¨ ÖÇÖ®)
+ÄÎÁ¼Â¹Íè(É­¾Ã±£ ÏéÌ«ÀÉ)
 ÊÖ¾Ï(ÆÓè´ÃÀ)
 ÔÂ¹â¼²·ç(×ô×ôÄ¾Íû)
 Ò©Ê¦¶µ(ÉñÄÎÑÓÄê)
 ¸ÙÊÖ(Ê¤ÉúÕæÉ³×Ó)
-òÒòõ(ÄÜµÇ
-ÂéÃÀ×Ó)
-×ÔÀ´Ò²(È®Ú£
-·¼ÖÒ)
+òÒòõ(ÄÜµÇ ÂéÃÀ×Ó)
+×ÔÀ´Ò²(È®Ú£ ·¼ÖÒ)
 ¸òó¡ÎÄÌ«(¶É²¿ÃÍ)
 ´óÉßÍè(ËÉ±¾ºÍÏã×Ó)
 ÍòÉß(ÌìÌïÒæÄÐ)
-ÇïµÀ¶¡´Î(ÒÁÌÙ
-½¡Ì«ÀÉ)
+ÇïµÀ¶¡´Î(ÒÁÌÙ ½¡Ì«ÀÉ)
 É½ÖÐ¾®Ò°(èÖÄ¾Á¹Ïã)
 ÈÕÏò³ûÌï(Ë®Ê÷ÄÎ¡©)
 È®Ú£ÑÀ(Äñº£ºÆ¸¨)
 ÓÍÅ®Ö¾ÄË(´¨ÌïÉðË¾)
 ÈÕÏòÄþ´Î(Ô¶½üÐ¢Ò»)
-Àî(Ôö´¨
-ÑóÒ»)
+Àî(Ôö´¨ ÑóÒ»)
 ÌìÌì(Ìï´åÓÉ¼ÓÀò)
-¿±¾ÅÀÉ(¼Óäþ
-¿µÖ®)
+¿±¾ÅÀÉ(¼Óäþ ¿µÖ®)
 Èý´ú»ðÓ°¡¤Ô³·É(²ñÌïÐãÊ¤)
 Ä¾Ò¶Íè(´ó¹ÈÓý½­)
 ¿­(½­Ô­ÕýÊ¿)
@@ -37690,16 +36283,12 @@ k.»ðÓ°Êó±ê
 ÉþÊ÷(Ð¡ÁÖÓÉÃÀ×Ó)
 Ò¶¹í(ÖÐÌïÈÃÖÎ)
 Ò¹²æÍè(±£Ö¾×ÜÒ»ÀÊ)
-Ë®Ä¾(ÈýÄ¾
-ÕæÒ»ÀÉ)
+Ë®Ä¾(ÈýÄ¾ ÕæÒ»ÀÉ)
 ÌÒµØÔÙ²»Õ¶(Ê¯Ú£ÔËÉý)
 °×(Ç³Ò°ÂéÓÉÃÀ)
 ¾ÅÎ²ºü(ÐþÌïÕÜÕÂ)
-[ÖñÄÚ
-Ë³×Ó(Takeuchi
-Junko)
-¡¾ËùÊôÊÂÎñËù¡¿¥é¥Ö¥é¥¤¥Ö[Love
-Live]
+[ÖñÄÚ Ë³×Ó(Takeuchi Junko)  
+¡¾ËùÊôÊÂÎñËù¡¿¥é¥Ö¥é¥¤¥Ö[Love Live]
 ¡¾³öÉíµØ¡¿?Óñ?
 ¡¾µ®ÉúÈÕ¡¿1972Äê4ÔÂ5ÈÕ
 ¡¾ÑªÒºÐÍ¡¿£ÂÐÍ
@@ -38290,13 +36879,8 @@ j.Åå¶÷ºÍÐ¡ÄÏÁÄÌì
 [10-26]¡¾ÒôÀÖ¡¿»ðÓ°ÈÌÕß×îÐÂÖ÷ÌâÇú
 DISTANCE
 [10-23]¡¾£Í£Ö¡¿»ðÓ°ÈÌÕßÖ÷î}Çú×Ü»ã£¨MV£©£¡
-[10-11]¡¾ÒôÀÖ¡¿»ðÓ°ÈÌÕß¼²·ç´«¾ç³¡°æÖ÷Ìâ¸è¡¶Let
-me
-dance¡·
-[08-15]¡¾ÒôÀÖ¡¿»ðÓ°ÈÌÕß244½áÎ²Çú£¨µÀ¡«to
-you
-all
-£©
+[10-11]¡¾ÒôÀÖ¡¿»ðÓ°ÈÌÕß¼²·ç´«¾ç³¡°æÖ÷Ìâ¸è¡¶Let me dance¡·
+[08-15]¡¾ÒôÀÖ¡¿»ðÓ°ÈÌÕß244½áÎ²Çú£¨µÀ¡«to you all £©
 [07-03]¡¾ÒôÀÖ¡¿Afternoon
 of
 Konoha
@@ -38529,13 +37113,8 @@ j.Åå¶÷ºÍÐ¡ÄÏÁÄÌì
 ¡¾ÒôÀÖ¡¿»ðÓ°ÈÌÕß×îÐÂÖ÷ÌâÇú
 DISTANCE
 ¡¾£Í£Ö¡¿»ðÓ°ÈÌÕßÖ÷î}Çú×Ü»ã£¨MV£©£¡
-¡¾ÒôÀÖ¡¿»ðÓ°ÈÌÕß¼²·ç´«¾ç³¡°æÖ÷Ìâ¸è¡¶Let
-me
-dance¡·
-¡¾ÒôÀÖ¡¿»ðÓ°ÈÌÕß244½áÎ²Çú£¨µÀ¡«to
-you
-all
-£©
+¡¾ÒôÀÖ¡¿»ðÓ°ÈÌÕß¼²·ç´«¾ç³¡°æÖ÷Ìâ¸è¡¶Let me dance¡·
+¡¾ÒôÀÖ¡¿»ðÓ°ÈÌÕß244½áÎ²Çú£¨µÀ¡«to you all £©
 ¡¾ÒôÀÖ¡¿Afternoon
 of
 Konoha
@@ -38836,13 +37415,8 @@ j.Åå¶÷ºÍÐ¡ÄÏÁÄÌì
 ¡¾ÒôÀÖ¡¿»ðÓ°ÈÌÕß×îÐÂÖ÷ÌâÇú
 DISTANCE
 ¡¾£Í£Ö¡¿»ðÓ°ÈÌÕßÖ÷î}Çú×Ü»ã£¨MV£©£¡
-¡¾ÒôÀÖ¡¿»ðÓ°ÈÌÕß¼²·ç´«¾ç³¡°æÖ÷Ìâ¸è¡¶Let
-me
-dance¡·
-¡¾ÒôÀÖ¡¿»ðÓ°ÈÌÕß244½áÎ²Çú£¨µÀ¡«to
-you
-all
-£©
+¡¾ÒôÀÖ¡¿»ðÓ°ÈÌÕß¼²·ç´«¾ç³¡°æÖ÷Ìâ¸è¡¶Let me dance¡·
+¡¾ÒôÀÖ¡¿»ðÓ°ÈÌÕß244½áÎ²Çú£¨µÀ¡«to you all £©
 ¡¾ÒôÀÖ¡¿Afternoon
 of
 Konoha
@@ -39955,8 +38529,7 @@ UBBÁ´½Ó
 ÎªÁËÆÆ÷øµÄÔÂ¶Á£¬×ôÖúÊ¹ÓÃÁËÖäÓ¡µÚ¶þ½×¶Î£¬ÎÒÃÇÒ²¿´µ½£¬ÔÚÊ¹ÓÃÁËÖäÓ¡µÚ¶þ½×¶Îºó£¬»­Ãæ¾Í¿ªÊ¼Å¤Çú¶ø»Ö¸´Õý³££¬ÖäÓ¡ÄÜÔöÇ¿×ÔÉíµÄÁ¦Á¿£¬Ã»Ïëµ½Á¬Ð´ÂÖÑÛµÄÁ¦Á¿Ò²ÄÜÔöÇ¿£¬Ò²¾ÍÊÇËµÖäÓ¡¶þµÄÆÕÍ¨Ð´ÂÖÑÛÒÑ¾­ÄÜÓëÍò»¨Í²¿¹ºâ¡£×ôÖúÔÚ·¢¶¯ÖäÓ¡¶þÊ±Õ¹ÏÖµÄÄÇ¶Ô³á°ò£¬²»ÖªµÀ´ó¼ÒÓÐÃ»ÓÐ×¢Òâµ½£¬×ó±ßµÄ³á°ò»¹ÊÇÒÔÉßÀ´´úÌæ£¬¿´À´ÓëµÏ´ïÀ­Ò»Õ½±»½ØµôµÄ³á°ò»¹ÊÇÃ»ÓÐ»Ö¸´¹ýÀ´£¬°×ÉßµÄ»Ö¸´ÄÜÁ¦Ò²Ã»ÄÜ×àÐ§Ã´£¿
 ¾øÒÀÈ»ÔÚ¹Û²ì£¬ÎÒÃÇ¶¼ÖªµÀ£¬ÔÂ¶ÁÖ»»á¶Ô¿´ËûÑÛ¾¦µÄÄÇ¸öÈËÓÐÐ§£¬¶ø¾ø×öÎªÎ§¹ÛÕß£¬Ó¦¸ÃÊÇ²»ÊÜÓ°ÏìµÄ£¬Ò²¾ÍÊÇËµ£¬ÔÚ¾øµÄÊÓÏßÇ°£¬Á½¸öÈËÒ»Ö±ÊÇÕ¾×Å²»¶¯µÄ£¬ÄÇÎªÊ²Ã´µ±÷øÔÚÔÂ¶ÁÊÀ½çÀïÈ¡µ½×ôÖúµÄ×óÑÛÊ±¾ø¾ªÑÈÁËÒ»ÏÂ£¿×öÎª°ßµÄÑÛ¾¦£¬ÉñÃØÅÉµÄ´ú±íÖ®Ò»£¬¾¹È»Ã»¼û¹ý÷øµÄÌìÕÕ£¡Õâ²»ÊÇºÜÆæ¹ÖÃ´£¿
 °´ÕÕÒÔÉÏ3µãÀ´½øÐÐ·ÖÎö£º
-Ê×ÏÈ£¬¹ØÓÚ÷øµÄÄÇ¼¸¸öÎÊÌâ¡£¼ÙÉè£¬ÔÚ÷øÓë×ôÖú¶ÔÊÓÊ±¾ÍÒÑ¾­ÓÃÁËÔÂ¶Á£¬²»¹ýÎªÁË²»ÈÃ×ôÖú·¢¾õ¶øÃ»¸Ä±äÖÜÎ§µÄ»·¾³£¬È»ºóÒ»ÇÐ°´ÕÕÕý³£½øÐÐ£¬ÓÐÐ©ÈË¿ÉÄÜ»áËµ£¬¼ÈÈ»¶¼°´ÕÕÕý³£½øÐÐÁË£¬ÄÇÈç¹û÷ø²»Ê¹ÓÃÔÂ¶ÁÒ²¿ÉÒÔÏñÏÖÔÚÒ»Ñù·¢Õ¹¡£´íÁË£¬ÕâÑùËµµÄÈËÒ»¶¨ÍüÁËÒ»¸öÖØÒªµÄÆ¬¶Ï£¬÷øÄÇ¸öÓ°·ÖÉí£¬¾ÍÁ¬×ôÖúÒ²ÔÚ¸ÐÌ¾÷øµÄ½áÓ¡ËÙ¶È£¬µ«ÊÇµ±Ê±÷øµÄË«ÊÖ¿ÉÊÇ±»×ôÖú×¥×ÅµÄ£¬ËÙ¶ÈÔÙÔõÃ´¿ìÒ²²»¿ÉÄÜÖÆÔì³öÓ°·ÖÉí£¬µ«ÊÇÔÚÔÂ¶Á¿Õ¼äÀï¾Í²»Í¬ÁË£¬÷øÏëÒªÖÆÔì¶àÉÙ¸ö¾ÍÓÐ¶àÉÙ¸ö¡£ÄÇÃ´£¬÷øÓÃÔÂ¶ÁÓÖÓÐÊ²Ã´Ä¿µÄÄØ£¿¼´Ê¹ÔÚÔÂ¶ÁÀïÍÚÁË×ôÖúµÄË«ÑÛ£¬ÔÚÏÖÊµÀï»¹ÊÇÃ»·¢ÉúÊ²Ã´£¬×î¶àÖ»ÊÇÈÃ×ôÖú¸Ðµ½ÕÛÄ¥£¬¸Ðµ½ÌÛÍ´£¬ÏûºÄµô×ôÖúµÄ²é¿ËÀ­£¬µ«ÊÇÕâ²¢Ã»ÓÐ¶à´óÒâÒå£¬ÒòÎª÷øµÄÑÛ¾¦ÒÑ¾­Ö§³Ö²»×¡ÁË£¬ºÎ¿öÔÂ¶ÁÕâÖÖ¸ß¼¶Í«Êõ¶ÔÑÛ¾¦µÄ¸ººÉºÜ´ó£¬ÎÞÒâÒåµÄÊ¹ÓÃÖ»»áÈÃÑÛ¾¦Ê§È¥µÄ¸ü¿ì¡£ÔÚ×ôÖúÆÆÁË÷øµÄÔÂ¶Áºó£¬÷øµÄ×óÑÛÒÑ¾­Ö§³Ö²»×¡ÁË£¬Ëû±Õ×ÅÑÛ¾¦²»ÊÇÒòÎªÑÛ¾¦±»ÍÚÁË£¬¶øÊÇÒòÎªÔÂ¶ÁµÄ¸ººÉÌ«´ó£¬ÔÚËûÎ´Ê¹ÓÃÇ°£¬ÊÓÏß¾ÍÒÑ¾­ÓÐµãÄ£ºýÁË£¬ÏÖÔÚ×óÑÛÒÑ¾­³¹µ×Õö²»¿ªÁË¡£Ò²¾ÍÊÇËµ£¬ÏÖÔÚ÷øÒÑ¾­´¦ÔÚÏÂ·ç£¬Ö»ÄÜÓÃÒ»Ö»ÑÛ¾¦¸ú×ôÖú¶Ô¿¹¡£¶øÇÒ£¬ÔÚÔÂ¶Á¿Õ¼äÍÚµô×ôÖúµÄÒ»Ö»ÑÛÊ±£¬ËûÒÀÈ»»¹ÊÇÄÇ¾ä&ldquo;Ã»ÓÐÍò»¨Í²µÄÄãÊÇ´ò²»¹ýÎÒµÄ&hellip;&hellip;&rdquo;£¬ÎªÊ²Ã´÷øµ½ÁËÕâÖÖ¹ØÍ·»¹ÒªÒ»¶øÔÙ£¬ÔÙ¶øÈýµÄÖØ¸´Õâ¾ä»°ÄØ£¿ÔÝÇÒÈÏÎª£¬÷øÊÇÐèÒªÓÀºãÍò»¨Í²¶øÕâÑùËµµÄ£¬ÄÇÃ´£¬¼ÈÈ»ÐèÒªÍò»¨Í²£¬ÏÖÔÚµÄ×ôÖú»¹ÊÇÃ»¿ª£¬÷ø¾ÍËãÍÚÁËÒ²Ã»ÓÃ£¬²¢²»ÄÜÓÐ°ßµÄÄÇÖÖÐ§¹û£¬¸ü±ðËµÒª³¬Ô½°ßÁË¡£ÕâÀïÒ²ÓÐÐí¶à²Â²â£¬µ«ÎÒ¾õµÃÎ¨Ò»ÄÜ½âÊÍµÄ¾ÍÊÇ£¬Íò»¨Í²µÄ¿ªÑÛ·½Ê½¡£ÖÁ½ñÎªÖ¹£¬÷ø£¬¿¨¿¨Î÷£¬°ßÐÖµÜÁ©¶¼¿ªÁËÍò»¨Í²£¬µ«ÊÇ³ýÁË÷øÒÔÍâ£¬ÆäËû3ÈË¶¼Ã»ÓÐÍ¨¹ýÉ±ÈËÀ´¿ªÑÛ£¬Ò²¾ÍÊÇËµÓÐ±ðµÄ·½Ê½¿ªÑÛ¡£ÆÕÍ¨Íò»¨Í²µÄ¿ªÑÛ·½Ê½¾ÍÊÇÒªÓÐ¾«ÉñÉÏµÄ´Ì¼¤£¬ÄÇÃ´£¬ÎÒÈÏÎª£¬Íò»¨Í²µÄ¿ªÑÛ·½Ê½Ò²²»»áÓÐÌ«¶à²î±ð¡£°ßÐÖµÜÁ©»¥Ïà¾ºÕù£¬»¥Ïà³¬Ô½£¬¿É¼ûÐÖµÜÁ©ºÃÊ¤ÐÄ¶¼ºÜÇ¿£¬ÎªÁË³¬Ô½¶Ô·½¶ø²»¶ÏÅ¬Á¦¡£ÔÚÕâÅ¬Á¦µÄ¹ý³ÌÖÐ£¬ÐÖµÜÁ©ÆäÖÐÒ»ÈË£¨¸öÈËÈÏÎªÊÇ°ßµÄµÜµÜ¿ÉÄÜÐÔ±È½Ï´ó£©£¬¿ÉÄÜÔÚÄ³´ÎÈÎÎñÖÐ¿ªÁËÍò»¨Í²£¬°ß·¢ÏÖºó£¬¾ÍºÜ²»¸ÊÐÄ£¬×öÎª¸ç¸çµÄËû²»¶ÏÅ¬Á¦Ïë³¬Ô½µÜµÜ£¬½á¹ûÔÚ²»¶Ï´ß´ÙÏÂ£¬ÖÕÓÚ¿ªÁËÍò»¨Í²£¨¾ÍºÃ±ÈÆßÁúÖéÀïµÄÎò¿ÕÓë±´¼ªËþ£¬Ò²ÊÇÕâÖÖÇé¿ö£©£¬µ«ÊÇÓÉÓÚ°ßµÄ¿ªÑÛ¹ýÓÚ¼±´Ù£¬ËùÒÔÊ§Ã÷µÄËÙ¶ÈÒª±ÈµÜµÜ¿ì£¬È»ºó¾Í·¢ÉúÁË¶áÈ¡µÜµÜÑÛ¾¦µÄÄÇÒ»Ä»&hellip;&hellip;¶ø÷øµÄ²»¶Ï&ldquo;ÌáÐÑ&rdquo;£¬ÕýÊÇÎªÁË¼¤Æð×ôÖúµÄ·ßÅ­£¬Í¨¹ýÎªÁË´ò°Ü÷ø¶øÏëÒª»ñµÃÁ¦Á¿µÄÓûÍû¶ø¿ªÑÛ£¬µ½Ê±Íò»¨Í²¾Í¿ÉÒÔ×Ô¶¯¿ªÑÛ£¨ÔõÃ´¸Ð¾õÔ½ËµÔ½¸Ð¾õÏñÁúÖéÁË&mdash;
-&mdash;~£©£¬¶ø¿ªÑÛµÄÍ¬Ê±£¬¾ÍÓÉ÷øÂíÉÏ¶áÈ¡£¨³Ã»¹ÐÂÏÊ&hellip;&hellip;£©
+Ê×ÏÈ£¬¹ØÓÚ÷øµÄÄÇ¼¸¸öÎÊÌâ¡£¼ÙÉè£¬ÔÚ÷øÓë×ôÖú¶ÔÊÓÊ±¾ÍÒÑ¾­ÓÃÁËÔÂ¶Á£¬²»¹ýÎªÁË²»ÈÃ×ôÖú·¢¾õ¶øÃ»¸Ä±äÖÜÎ§µÄ»·¾³£¬È»ºóÒ»ÇÐ°´ÕÕÕý³£½øÐÐ£¬ÓÐÐ©ÈË¿ÉÄÜ»áËµ£¬¼ÈÈ»¶¼°´ÕÕÕý³£½øÐÐÁË£¬ÄÇÈç¹û÷ø²»Ê¹ÓÃÔÂ¶ÁÒ²¿ÉÒÔÏñÏÖÔÚÒ»Ñù·¢Õ¹¡£´íÁË£¬ÕâÑùËµµÄÈËÒ»¶¨ÍüÁËÒ»¸öÖØÒªµÄÆ¬¶Ï£¬÷øÄÇ¸öÓ°·ÖÉí£¬¾ÍÁ¬×ôÖúÒ²ÔÚ¸ÐÌ¾÷øµÄ½áÓ¡ËÙ¶È£¬µ«ÊÇµ±Ê±÷øµÄË«ÊÖ¿ÉÊÇ±»×ôÖú×¥×ÅµÄ£¬ËÙ¶ÈÔÙÔõÃ´¿ìÒ²²»¿ÉÄÜÖÆÔì³öÓ°·ÖÉí£¬µ«ÊÇÔÚÔÂ¶Á¿Õ¼äÀï¾Í²»Í¬ÁË£¬÷øÏëÒªÖÆÔì¶àÉÙ¸ö¾ÍÓÐ¶àÉÙ¸ö¡£ÄÇÃ´£¬÷øÓÃÔÂ¶ÁÓÖÓÐÊ²Ã´Ä¿µÄÄØ£¿¼´Ê¹ÔÚÔÂ¶ÁÀïÍÚÁË×ôÖúµÄË«ÑÛ£¬ÔÚÏÖÊµÀï»¹ÊÇÃ»·¢ÉúÊ²Ã´£¬×î¶àÖ»ÊÇÈÃ×ôÖú¸Ðµ½ÕÛÄ¥£¬¸Ðµ½ÌÛÍ´£¬ÏûºÄµô×ôÖúµÄ²é¿ËÀ­£¬µ«ÊÇÕâ²¢Ã»ÓÐ¶à´óÒâÒå£¬ÒòÎª÷øµÄÑÛ¾¦ÒÑ¾­Ö§³Ö²»×¡ÁË£¬ºÎ¿öÔÂ¶ÁÕâÖÖ¸ß¼¶Í«Êõ¶ÔÑÛ¾¦µÄ¸ººÉºÜ´ó£¬ÎÞÒâÒåµÄÊ¹ÓÃÖ»»áÈÃÑÛ¾¦Ê§È¥µÄ¸ü¿ì¡£ÔÚ×ôÖúÆÆÁË÷øµÄÔÂ¶Áºó£¬÷øµÄ×óÑÛÒÑ¾­Ö§³Ö²»×¡ÁË£¬Ëû±Õ×ÅÑÛ¾¦²»ÊÇÒòÎªÑÛ¾¦±»ÍÚÁË£¬¶øÊÇÒòÎªÔÂ¶ÁµÄ¸ººÉÌ«´ó£¬ÔÚËûÎ´Ê¹ÓÃÇ°£¬ÊÓÏß¾ÍÒÑ¾­ÓÐµãÄ£ºýÁË£¬ÏÖÔÚ×óÑÛÒÑ¾­³¹µ×Õö²»¿ªÁË¡£Ò²¾ÍÊÇËµ£¬ÏÖÔÚ÷øÒÑ¾­´¦ÔÚÏÂ·ç£¬Ö»ÄÜÓÃÒ»Ö»ÑÛ¾¦¸ú×ôÖú¶Ô¿¹¡£¶øÇÒ£¬ÔÚÔÂ¶Á¿Õ¼äÍÚµô×ôÖúµÄÒ»Ö»ÑÛÊ±£¬ËûÒÀÈ»»¹ÊÇÄÇ¾ä&ldquo;Ã»ÓÐÍò»¨Í²µÄÄãÊÇ´ò²»¹ýÎÒµÄ&hellip;&hellip;&rdquo;£¬ÎªÊ²Ã´÷øµ½ÁËÕâÖÖ¹ØÍ·»¹ÒªÒ»¶øÔÙ£¬ÔÙ¶øÈýµÄÖØ¸´Õâ¾ä»°ÄØ£¿ÔÝÇÒÈÏÎª£¬÷øÊÇÐèÒªÓÀºãÍò»¨Í²¶øÕâÑùËµµÄ£¬ÄÇÃ´£¬¼ÈÈ»ÐèÒªÍò»¨Í²£¬ÏÖÔÚµÄ×ôÖú»¹ÊÇÃ»¿ª£¬÷ø¾ÍËãÍÚÁËÒ²Ã»ÓÃ£¬²¢²»ÄÜÓÐ°ßµÄÄÇÖÖÐ§¹û£¬¸ü±ðËµÒª³¬Ô½°ßÁË¡£ÕâÀïÒ²ÓÐÐí¶à²Â²â£¬µ«ÎÒ¾õµÃÎ¨Ò»ÄÜ½âÊÍµÄ¾ÍÊÇ£¬Íò»¨Í²µÄ¿ªÑÛ·½Ê½¡£ÖÁ½ñÎªÖ¹£¬÷ø£¬¿¨¿¨Î÷£¬°ßÐÖµÜÁ©¶¼¿ªÁËÍò»¨Í²£¬µ«ÊÇ³ýÁË÷øÒÔÍâ£¬ÆäËû3ÈË¶¼Ã»ÓÐÍ¨¹ýÉ±ÈËÀ´¿ªÑÛ£¬Ò²¾ÍÊÇËµÓÐ±ðµÄ·½Ê½¿ªÑÛ¡£ÆÕÍ¨Íò»¨Í²µÄ¿ªÑÛ·½Ê½¾ÍÊÇÒªÓÐ¾«ÉñÉÏµÄ´Ì¼¤£¬ÄÇÃ´£¬ÎÒÈÏÎª£¬Íò»¨Í²µÄ¿ªÑÛ·½Ê½Ò²²»»áÓÐÌ«¶à²î±ð¡£°ßÐÖµÜÁ©»¥Ïà¾ºÕù£¬»¥Ïà³¬Ô½£¬¿É¼ûÐÖµÜÁ©ºÃÊ¤ÐÄ¶¼ºÜÇ¿£¬ÎªÁË³¬Ô½¶Ô·½¶ø²»¶ÏÅ¬Á¦¡£ÔÚÕâÅ¬Á¦µÄ¹ý³ÌÖÐ£¬ÐÖµÜÁ©ÆäÖÐÒ»ÈË£¨¸öÈËÈÏÎªÊÇ°ßµÄµÜµÜ¿ÉÄÜÐÔ±È½Ï´ó£©£¬¿ÉÄÜÔÚÄ³´ÎÈÎÎñÖÐ¿ªÁËÍò»¨Í²£¬°ß·¢ÏÖºó£¬¾ÍºÜ²»¸ÊÐÄ£¬×öÎª¸ç¸çµÄËû²»¶ÏÅ¬Á¦Ïë³¬Ô½µÜµÜ£¬½á¹ûÔÚ²»¶Ï´ß´ÙÏÂ£¬ÖÕÓÚ¿ªÁËÍò»¨Í²£¨¾ÍºÃ±ÈÆßÁúÖéÀïµÄÎò¿ÕÓë±´¼ªËþ£¬Ò²ÊÇÕâÖÖÇé¿ö£©£¬µ«ÊÇÓÉÓÚ°ßµÄ¿ªÑÛ¹ýÓÚ¼±´Ù£¬ËùÒÔÊ§Ã÷µÄËÙ¶ÈÒª±ÈµÜµÜ¿ì£¬È»ºó¾Í·¢ÉúÁË¶áÈ¡µÜµÜÑÛ¾¦µÄÄÇÒ»Ä»&hellip;&hellip;¶ø÷øµÄ²»¶Ï&ldquo;ÌáÐÑ&rdquo;£¬ÕýÊÇÎªÁË¼¤Æð×ôÖúµÄ·ßÅ­£¬Í¨¹ýÎªÁË´ò°Ü÷ø¶øÏëÒª»ñµÃÁ¦Á¿µÄÓûÍû¶ø¿ªÑÛ£¬µ½Ê±Íò»¨Í²¾Í¿ÉÒÔ×Ô¶¯¿ªÑÛ£¨ÔõÃ´¸Ð¾õÔ½ËµÔ½¸Ð¾õÏñÁúÖéÁË&mdash; &mdash;~£©£¬¶ø¿ªÑÛµÄÍ¬Ê±£¬¾ÍÓÉ÷øÂíÉÏ¶áÈ¡£¨³Ã»¹ÐÂÏÊ&hellip;&hellip;£©
 ×ôÖúµÄ×ó³á°òÒÀÈ»ÊÇÓÃÉßÀ´´úÌæ£¬¿´À´ÄÇÖ»³á°ò»¹Î´»Ö¸´£¬°×ÉßµÄ»Ö¸´ÄÜÁ¦±Ï¾¹ÓÐÏÞ£¬²»ÄÜÏñ¾ÅÎ²ÄÇÑùË²¼ä»Ö¸´È«²¿ÉË¿Ú¡£ÖäÓ¡¶þµÄÁ¦Á¿¿´À´±ÈÏëÏñÖÐ»¹ÒªÇ¿£¬×ôÖú²»¿ªÍò»¨Í²£¬È´ÓÃÖäÓ¡¶þÃÖ²¹ÁË£¬ËäËµÓëÍò»¨Í²ÏàÍ¬ÓµÓÐ¸±×÷ÓÃ£¬µ«ÊÇÎÒÃÇÒª³ÐÈÏÖäÓ¡¶þµÄÈ·Òª±ÈÍò»¨Í²ÊµÓÃ£¬¶øÇÒÖäÓ¡¶þÍêÈ«ÐÎÌ¬¿ÉÒÔ²»ÊÜ»ÃÊõÓ°Ïì£º×ÐÏ¸¿´£¬µ±ÖäÓ¡¶þÇÖÊ´Íê³ÉÊ±£¬÷øÉìÏò×ôÖúµÄ3¸ùÕ´ÂúÑª¼£µÄÊÖÖ¸Í»È»Ã»ÑªÁË£¬Ò²¾ÍÊÇÔÚÄÇ¸öÊ±ºòÔÂ¶Á±»ÆÆ½âµÄ¡£Õâ»°ÀïÓÐ¸öºÜÓÐÒâË¼µÄ»­Ãæ£¬×ôÖúÔÚÆÆÁËÔÂ¶Áºó£¬ÓÃ×óÊÖ°´ÁËÏÂ×Ô¼ºµÄÑÛ¾¦ÎªÁËÈ·¶¨ÑÛ¾¦ÊÇ·ñ»¹ÔÚ£¬ÓÉ´Ë¿É¼û£¬ËûÊÇÎÞÒâÖÐÆÆÁËÔÂ¶Á£¬¶øÇÒ¶ÔËûÀ´Ëµ£¬¸Õ²ÅÔÂ¶ÁÀïµÄ³¡¾°·Ç³£ÕæÊµ¡£Ö®ºó£¬×ôÖúÁ¢¿Ì¹òÏÂÀ´£¬¿´À´ÔÂ¶ÁÀïµÄÍ´¿àºÍÖäÓ¡¶þµÄÏûºÄµÄÈ·ºÜ´ó£¬ÔÚÖØÐÂÕ¾ÆðÀ´»¹ÊÇºÜÐéÈõ£¬²»¶ÏµÄÁ÷º¹ºÍ´­Æø¡£ºÜ¶àÈË¶¼ÔÚËµ£¬´òÒ»¿ªÊ¼×ôÖú¾ÍÔÚ÷øµÄÔÂ¶Á¿Õ¼äÀïÁË¡£Èç¹ûÎÒËµ²»ÊÇ£¬ÄÇÄãÃÇÓÖ»á²Â²âÔÚÊ²Ã´Ê±ºòÖÐµÄÔÂ¶ÁÄØ£¿×ÐÏ¸¿´£¬×ôÖúÆÆÁËÔÂ¶Áºó£¬µØÃæÉÏ»¹´æÔÚºÜ¶à´ò¶·ÖÐ·É³öµÄÊÖÀï½££¬»Ø¹ËÉÏÒ»»°£¬ËûÃÇÔÚÊ¹ÓÃÁË°µÆ÷ºó¾Í»¥Ïà×¥×Å¶ÔÊÓÆðÀ´£¬¾ÍÔÚÄÇ¸öÊ±ºò£¬ËûÃÇÁ©Í£¶ÙÁËÒ»ÏÂ£¬¾ÍÔÚÄÇ¸öÊ±ºò£¬÷øµÄÉíºóÌø³ö¸öÓ°·ÖÉí£¬±»´òµôÖ®ºóÓ°·ÖÉíÒÀÈ»ÊÇ±ä³ÉÎÚÑ»·É×ß£¬ÄÇÀï¿ªÊ¼£¬¾ÍÒÑ¾­ÊÇÔÂ¶ÁµÄ¿Õ¼äÀïÁË¡£
 ¾ø¾¹È»»¹Ã»¼ûÊ¶¹ýÌìÕÕ£¡÷ø³ö³¡µ½ÏÖÔÚ£¬Ö»Ê¹ÓÃ¹ýÒ»´ÎÌìÕÕ£¬¾ÍÊÇÔÚÓë×ÔÀ´Ò²¶ÔÕ½µÄÊ±ºòÎªÁËÌÓÉúÊ¹ÓÃµÄ¡£µ±Ê±¾øÃ»ÔÚÅÔ¹ÛÃ´£¿÷øÔÚÊ¹ÓÃÁËÌìÕÕÖ®ºó£¬¹íöÞÒ²Ã»¶à´ó¾ªÑÈ£¬¿É¼û÷øÔÚÒÔÍùµÄÐÐ¶¯ÖÐ£¬ÓÃ¹ý²»Ö»Ò»´ÎÌìÕÕ£¬ÄÇÃ´£¬÷øÃ¿´ÎÊ¹ÓÃµÄÊ±ºò¾ø¶¼ÕýÇÉ¶¼²»ÔÚ³¡£¿£¡£¨×öÎªÎ°´ó¹·×Ð¶ÓÁìÐäµÄËû£¬¾¹È»»¹ÓÐ²»ÖªµÀµÄÊÂ&hellip;&hellip;£©¾ø»¹µ£µ±ÆðÁËÕâ»°µÄ½âËµÔ±£¬ÔÚºÚÓë°×µÄ¶Ô»°ÖÐÎÒÃÇ¿ÉÒÔ¸Ð¾õµ½£¬ºÚÖªµÀµÄÊÂÃ÷ÏÔÒª±È°×¶à£¬¶®µÄÒ²Òª¶à£¬¿´À´Ã¿´ÎÓÐÖØÒªÊÂÇéÐèÒªÌ½²éµÄÊ±ºòÓ¦¸Ã¶¼ÊÇÅÉºÚµÄÈ¥£¬¶øÒ»°ã·¶Î§ÄÚ¼àÊÓÓ¦¸ÃÊÇ°×µÄ¹¤×÷¡£¿´°×²»¶ÏµÄ¸ÐÌ¾Óë¾ªÑÈ£¬Ó¦¸ÃÊÇºÜÉÙ¿´÷øµÄÕ½¶·£¬Ïà·´£¬ºÚµÄÒªÁË½âÐí¶à£¬÷øÓë×ôÖúÕ¾×Å²»¶¯Ëû¾ÍÄÜÁ¢¿ÌÍÆ¶Ï³ö÷øÓÃÁËÔÂ¶Á£¬ÄÑ¹ÖËû»áÒªÀ´¿´÷øµÄÕ½¶·¡£ÄÇÃ´£¬Õâ²¢²»ÊÇËµ¾ø¾ÍÒÑ¾­·ÅÆúÁËÃùÈËÄÇ±ßµÄÕ½¶·£¬»ØÏëÒ»ÏÂ£¬Ëû²»ÊÇ»¹»áÖÆÔì³ö&ldquo;ÁíÒ»¸ö×Ô¼º&rdquo;Ã´£¿£¨ÓÉÓÚËûÃ»ÓÐÊÖ£¬ÎÒ²»ÄÜ¶Ï¶¨ÄÇÊÇ²»ÊÇÓ°·ÖÉí£©ÔÚÎÒ°®ÂÞÇÀ¶áÕ½Ê±£¬Ëû¾ÍÅÉ³ö¹ý&ldquo;ÁíÒ»¸ö×Ô¼º&rdquo;£¬µ±Ê±ËûÔÚÏþÒþ²ØµÄ¶´Àï£¬ÒÀ¿¿&ldquo;ÁíÒ»¸ö×Ô¼º&rdquo;µÄ¼àÊÓ¾Í¿ÉÒÔÊ¹ÓÃÓ°Ïñ´«ËÍ£¬¿ÉÒÔÏëÏñ£¬ÔÚÃùÈËÓë°ßµÄÕ½¶·Ê±»¹ÊÇ»áÓÉ¾øÓë¿¨¿¨Î÷µ£ÈÎ½âËµÔ±¡£
 ÏÂÒ»»°÷ø¾ÍÒªÊ¹ÓÃÌìÕÕÁË£¬Óë×ÔÀ´Ò²Õ½¶·ÄÇ´Î£¬ËûÊ¹ÓÃÁË2´ÎÔÂ¶Á£¬Ò»´ÎÌìÕÕ£¬È»ºóÉíÌå¾Í³Ô²»ÏûÒªÐÝÏ¢ÁË¡£ÏÖÔÚËûÒÑ¾­Ê¹ÓÃÁËÒ»´ÎÔÂ¶Á£¬ÓÉÓÚÊÓÁ¦Ô½À´Ô½²î£¬ËûÏûºÄµÄ²é¿ËÀ­Ò²»áÔ½À´Ô½¶à£¬ÄÇÃ´£¬¿ÉÒÔ¶Ï¶¨£¬ÌìÕÕÒÑ¾­ÊÇ÷øµÄ×îºóÒ»»÷ÁË£¬Ê¹ÓÃÁËÌìÕÕºóÈô×ôÖú»¹Ã»ËÀ£¬ÄÇ¶Ô÷øÀ´Ëµ¾ÍÒÑ¾­ÍêÁË¡£µ±È»£¬¶Ô×ôÖúÀ´Ëµ£¬ÌìÕÕÒ²²»ÊÇÕâÃ´ÈÝÒ×¾ÍÄÜµÖµ²ÏÂµÄ£¬¿öÇÒËûÏÖÔÚµÄÇé¿ö²»±È÷øÒªºÃ£¬Ö»ÄÜÃãÇ¿Õ¾×¡½Å¡£ÕâÀïÅÔ°×ÓÖÓÐÐ©ÎÊÌâ£¬ÌìÕÕ¿ÉÒÔËãÊÇÍ«ÊõÃ´£¿ÌìÕÕÓ¦¸ÃÊÇÓîÖÇ²¨»ðÏµÈÌÊõ×î¸ß¾³½çµÄÈÌÊõ£¬Ö»ÓÐÓîÖÇ²¨¼Ò¿ÉÒÔÊ¹ÓÃÒòÎªÒªÅäºÏÉÏÍò»¨Í²Ð´ÂÖÑÛ£¬ËäËµÏûºÄÌ«¶àÌõ¼þºÜÄÑ£¬µ«ÊÇÍþÁ¦ÊÇ·ÇÍ¬Ò»°ã£¬Ôø¾­ÉÕÆÆÃîÄ¾É½¸òó¡µÄ³¦Î¸£¬×îºóÒ²ÒòÎª±»×ÔÀ´Ò²ÓÃ¾íÖá·âÓ¡²ÅÏ¨ÃðµÄ¡£ÏÂÒ»»°Ó¦¸Ã¿ÉÒÔ½áÊøÐÖµÜÁ©µÄÕ½¶·ÁË£¬Ò²´òÁËÒ»¸ö¶àÔÂÁË¡£ºÜ¶àÈËÕâÊ±ÓÖ»áÔÚ²Â²â£¬×ôÖúÕâÊ±»áÓÐË­À´¾ÈËûÄØ£¿ÏñÉÏ´ÎµÏ´ïÀ­ÄÇÒ»Õ½£¬×îºó»¹ÊÇ¿¿Ë®ÔÂÀ´¾È£¬
@@ -40326,13 +38899,8 @@ j.Åå¶÷ºÍÐ¡ÄÏÁÄÌì
 ¡¾ÒôÀÖ¡¿»ðÓ°ÈÌÕß×îÐÂÖ÷ÌâÇú
 DISTANCE
 ¡¾£Í£Ö¡¿»ðÓ°ÈÌÕßÖ÷î}Çú×Ü»ã£¨MV£©£¡
-¡¾ÒôÀÖ¡¿»ðÓ°ÈÌÕß¼²·ç´«¾ç³¡°æÖ÷Ìâ¸è¡¶Let
-me
-dance¡·
-¡¾ÒôÀÖ¡¿»ðÓ°ÈÌÕß244½áÎ²Çú£¨µÀ¡«to
-you
-all
-£©
+¡¾ÒôÀÖ¡¿»ðÓ°ÈÌÕß¼²·ç´«¾ç³¡°æÖ÷Ìâ¸è¡¶Let me dance¡·
+¡¾ÒôÀÖ¡¿»ðÓ°ÈÌÕß244½áÎ²Çú£¨µÀ¡«to you all £©
 ¡¾ÒôÀÖ¡¿Afternoon
 of
 Konoha
@@ -40522,13 +39090,8 @@ j.Åå¶÷ºÍÐ¡ÄÏÁÄÌì
 [10-26]¡¾ÒôÀÖ¡¿»ðÓ°ÈÌÕß×îÐÂÖ÷ÌâÇú
 DISTANCE
 [10-23]¡¾£Í£Ö¡¿»ðÓ°ÈÌÕßÖ÷î}Çú×Ü»ã£¨MV£©£¡
-[10-11]¡¾ÒôÀÖ¡¿»ðÓ°ÈÌÕß¼²·ç´«¾ç³¡°æÖ÷Ìâ¸è¡¶Let
-me
-dance¡·
-[08-15]¡¾ÒôÀÖ¡¿»ðÓ°ÈÌÕß244½áÎ²Çú£¨µÀ¡«to
-you
-all
-£©
+[10-11]¡¾ÒôÀÖ¡¿»ðÓ°ÈÌÕß¼²·ç´«¾ç³¡°æÖ÷Ìâ¸è¡¶Let me dance¡·
+[08-15]¡¾ÒôÀÖ¡¿»ðÓ°ÈÌÕß244½áÎ²Çú£¨µÀ¡«to you all £©
 [07-03]¡¾ÒôÀÖ¡¿Afternoon
 of
 Konoha
@@ -40684,13 +39247,8 @@ VS¶ÀÁ¢ÓÎ»÷¶Ó
 [10-26]¡¾ÒôÀÖ¡¿»ðÓ°ÈÌÕß×îÐÂÖ÷ÌâÇú
 DISTANCE
 [10-23]¡¾£Í£Ö¡¿»ðÓ°ÈÌÕßÖ÷î}Çú×Ü»ã£¨MV£©£¡
-[10-11]¡¾ÒôÀÖ¡¿»ðÓ°ÈÌÕß¼²·ç´«¾ç³¡°æÖ÷Ìâ¸è¡¶Let
-me
-dance¡·
-[08-15]¡¾ÒôÀÖ¡¿»ðÓ°ÈÌÕß244½áÎ²Çú£¨µÀ¡«to
-you
-all
-£©
+[10-11]¡¾ÒôÀÖ¡¿»ðÓ°ÈÌÕß¼²·ç´«¾ç³¡°æÖ÷Ìâ¸è¡¶Let me dance¡·
+[08-15]¡¾ÒôÀÖ¡¿»ðÓ°ÈÌÕß244½áÎ²Çú£¨µÀ¡«to you all £©
 [07-03]¡¾ÒôÀÖ¡¿Afternoon
 of
 Konoha
@@ -41055,20 +39613,14 @@ Theme
 ¡¾¸ü¶àÐÂÓÎÏ·¡¿
 ÓÎÏ·ÏÂÔØ¸üÐÂ
 ¡¾¸ü¶àÓÎÏ·ÏÂÔØ¡¿
-¡¾ÒôÀÖ¡¿»ðÓ°ÈÌÕß244½áÎ²Çú£¨µÀ¡«to
-you
-all
-£©
+¡¾ÒôÀÖ¡¿»ðÓ°ÈÌÕß244½áÎ²Çú£¨µÀ¡«to you all £©
 -
 52pkÓÎÏ·Íø
 Ê×Ò³>»ðÓ°ÈÌÕß>»ðÓ°ÈÌÕßÒôÀÖ>ÕýÎÄ
 UBBÁ´½Ó
 ¸´ÖÆÁ´½Ó
 ÍÆ¼öºÃÓÑ
-¡¾ÒôÀÖ¡¿»ðÓ°ÈÌÕß244½áÎ²Çú£¨µÀ¡«to
-you
-all
-£©
+¡¾ÒôÀÖ¡¿»ðÓ°ÈÌÕß244½áÎ²Çú£¨µÀ¡«to you all £©
 ÎÄÕÂÀ´Ô´
 £º52PKÕûÀí
 ÎÄÕÂ×÷Õß
@@ -41077,10 +39629,7 @@ all
 £º2007-08-15
 [·¢±íÆÀÂÛ]
 [´òÓ¡±¾Ò³]
-ED-[µÀ¡«to
-you
-all
-]
+ED-[µÀ¡«to you all ]
 µã»÷ÏÂÔØ
 ÔðÈÎ±à¼­
 £ºmaster
@@ -41091,9 +39640,7 @@ all
 [07-07-19]¡¾¶ñ¸ã¡¿»ðÓ°¶ñ¸ãÂþ»­ÒôÀÖÖ®¡¶ÎÒÊÇÅ®Éú¡·
 [07-07-19]¡¾¶ñ¸ã¡¿»ðÓ°ÒôÀÖÖ®¡¶·¢ÈçÑ©¡·
 [07-07-19]¡¾¶ñ¸ã¡¿»ðÓ°ÒôÀÖÖ®¡¶²Ü²Ù¡·
-[07-10-11]»ðÓ°ÈÌÕß¼²·ç´«¾ç³¡°æÖ÷Ìâ¸è¡¶Let
-me
-dance¡·
+[07-10-11]»ðÓ°ÈÌÕß¼²·ç´«¾ç³¡°æÖ÷Ìâ¸è¡¶Let me dance¡·
 [07-10-23]¡¾£Í£Ö¡¿»ðÓ°ÈÌÕßÖ÷î}Çú×Ü»ã£¨MV£©£¡
 [07-10-26]»ðÓ°ÈÌÕß×îÐÂÖ÷ÌâÇú
 DISTANCE
@@ -41105,18 +39652,14 @@ DISTANCE
 ¡¾¸ü¶àÐÂÓÎÏ·¡¿
 ÓÎÏ·ÏÂÔØ¸üÐÂ
 ¡¾¸ü¶àÓÎÏ·ÏÂÔØ¡¿
-¡¾ÒôÀÖ¡¿»ðÓ°ÈÌÕß¼²·ç´«¾ç³¡°æÖ÷Ìâ¸è¡¶Let
-me
-dance¡·
+¡¾ÒôÀÖ¡¿»ðÓ°ÈÌÕß¼²·ç´«¾ç³¡°æÖ÷Ìâ¸è¡¶Let me dance¡·
 -
 52pkÓÎÏ·Íø
 Ê×Ò³>»ðÓ°ÈÌÕß>»ðÓ°ÈÌÕßÒôÀÖ>ÕýÎÄ
 UBBÁ´½Ó
 ¸´ÖÆÁ´½Ó
 ÍÆ¼öºÃÓÑ
-¡¾ÒôÀÖ¡¿»ðÓ°ÈÌÕß¼²·ç´«¾ç³¡°æÖ÷Ìâ¸è¡¶Let
-me
-dance¡·
+¡¾ÒôÀÖ¡¿»ðÓ°ÈÌÕß¼²·ç´«¾ç³¡°æÖ÷Ìâ¸è¡¶Let me dance¡·
 ÎÄÕÂÀ´Ô´
 £º52pkÕûÀí
 ÎÄÕÂ×÷Õß
@@ -41125,12 +39668,9 @@ dance¡·
 £º2007-10-11
 [·¢±íÆÀÂÛ]
 [´òÓ¡±¾Ò³]
-ÃùÈËËÀÁË£¡£¡£¡&mdash;&mdash;ÕâÊÇ»ðÓ°ÈÌÕß¡¶¾ç³¡°æ
-NARUTO-¼²·ç´«¡·ÉÏ×îÐÑÄ¿µÄ¼¸¸ö´ó×Ö¡£Ëæ×Å¾ç³¡°æ¹«Ó³ÈÕÆÚ8ÔÂ4ºÅµÄÁÙ½ü£¬»ðÓ°ÈÌÕßµçÓ°°æµÄÍÆ¹ã»î¶¯Ò²²»ÔÙÂú×ãÓÚÔÚTV°æÆªÎ²·ÅËÍÔ¤¸æÆªÁË¡£½üÈÕ¹ÙÍøÉÏ½øÒ»²½¿ªÊ¼ÍÆ³öÏà¹ØÐÂÎÅ£¬Õâ´Î»ðÓ°ÈÌÕß¼²·ç´«µçÓ°°æµÄÖ÷Ìâ¸èµÃÒÔÈ·¶¨£¬DJ
+ÃùÈËËÀÁË£¡£¡£¡&mdash;&mdash;ÕâÊÇ»ðÓ°ÈÌÕß¡¶¾ç³¡°æ NARUTO-¼²·ç´«¡·ÉÏ×îÐÑÄ¿µÄ¼¸¸ö´ó×Ö¡£Ëæ×Å¾ç³¡°æ¹«Ó³ÈÕÆÚ8ÔÂ4ºÅµÄÁÙ½ü£¬»ðÓ°ÈÌÕßµçÓ°°æµÄÍÆ¹ã»î¶¯Ò²²»ÔÙÂú×ãÓÚÔÚTV°æÆªÎ²·ÅËÍÔ¤¸æÆªÁË¡£½üÈÕ¹ÙÍøÉÏ½øÒ»²½¿ªÊ¼ÍÆ³öÏà¹ØÐÂÎÅ£¬Õâ´Î»ðÓ°ÈÌÕß¼²·ç´«µçÓ°°æµÄÖ÷Ìâ¸èµÃÒÔÈ·¶¨£¬DJ
 OZMA
-µÄ¡¶Lie-Lie-Lie¡·±»¹âÈÙÑ¡ÖÐ£¬ÔÚ2007Äê8ÔÂ1ÈÕ½«·¢ÊÛÊÕÂ¼ÕâÊ×µ¥ÇúºÍÁíÒ»Ê×¡¶Let
-me
-dance¡·µÄCD¡£
+µÄ¡¶Lie-Lie-Lie¡·±»¹âÈÙÑ¡ÖÐ£¬ÔÚ2007Äê8ÔÂ1ÈÕ½«·¢ÊÛÊÕÂ¼ÕâÊ×µ¥ÇúºÍÁíÒ»Ê×¡¶Let me dance¡·µÄCD¡£
 Ö÷Ìâ¸è¡¶Lie-Lie-Lie¡·Ô­MV
 ÔðÈÎ±à¼­
 £ºmaster
@@ -41143,10 +39683,7 @@ dance¡·µÄCD¡£
 DISTANCE
 [07-11-14]ÈÌÊõÒôÀÖMP3
 [07-12-01]¡¾ÒôÀÖ¡¿»ðÓ°ÈÌÕßÈÌÊõÉùÒôÏÂÔØ
-[07-08-15]¡¾ÒôÀÖ¡¿»ðÓ°ÈÌÕß244½áÎ²Çú£¨µÀ¡«to
-you
-all
-£©
+[07-08-15]¡¾ÒôÀÖ¡¿»ðÓ°ÈÌÕß244½áÎ²Çú£¨µÀ¡«to you all £©
 [07-07-19]¡¾¶ñ¸ã¡¿»ðÓ°¶ñ¸ãÂþ»­ÒôÀÖÖ®¡¶ÎÒÊÇÅ®Éú¡·
 [07-07-19]¡¾¶ñ¸ã¡¿»ðÓ°ÒôÀÖÖ®¡¶·¢ÈçÑ©¡·
 [07-07-19]¡¾¶ñ¸ã¡¿»ðÓ°ÒôÀÖÖ®¡¶²Ü²Ù¡·
@@ -41187,13 +39724,8 @@ UBBÁ´½Ó
 ·¢±íÆÀÂÛ
 ´òÓ¡±¾Ò³¹Ø±Õ´°¿Ú¡ý
 Ïà¹ØÐÂÎÅ
-[07-10-11]»ðÓ°ÈÌÕß¼²·ç´«¾ç³¡°æÖ÷Ìâ¸è¡¶Let
-me
-dance¡·
-[07-08-15]»ðÓ°ÈÌÕß244½áÎ²Çú£¨µÀ¡«to
-you
-all
-£©
+[07-10-11]»ðÓ°ÈÌÕß¼²·ç´«¾ç³¡°æÖ÷Ìâ¸è¡¶Let me dance¡·
+[07-08-15]»ðÓ°ÈÌÕß244½áÎ²Çú£¨µÀ¡«to you all £©
 [07-07-19]¡¾¶ñ¸ã¡¿»ðÓ°¶ñ¸ãÂþ»­ÒôÀÖÖ®¡¶ÎÒÊÇÅ®Éú¡·
 [07-07-19]¡¾¶ñ¸ã¡¿»ðÓ°ÒôÀÖÖ®¡¶·¢ÈçÑ©¡·
 [07-07-19]¡¾¶ñ¸ã¡¿»ðÓ°ÒôÀÖÖ®¡¶²Ü²Ù¡·
@@ -41229,15 +39761,10 @@ DISTANCE
 ´òÓ¡±¾Ò³¹Ø±Õ´°¿Ú¡ý
 Ïà¹ØÐÂÎÅ
 [07-10-23]¡¾£Í£Ö¡¿»ðÓ°ÈÌÕßÖ÷î}Çú×Ü»ã£¨MV£©£¡
-[07-10-11]¡¾ÒôÀÖ¡¿»ðÓ°ÈÌÕß¼²·ç´«¾ç³¡°æÖ÷Ìâ¸è¡¶Let
-me
-dance¡·
+[07-10-11]¡¾ÒôÀÖ¡¿»ðÓ°ÈÌÕß¼²·ç´«¾ç³¡°æÖ÷Ìâ¸è¡¶Let me dance¡·
 [07-11-14]ÈÌÊõÒôÀÖMP3
 [07-12-01]¡¾ÒôÀÖ¡¿»ðÓ°ÈÌÕßÈÌÊõÉùÒôÏÂÔØ
-[07-08-15]¡¾ÒôÀÖ¡¿»ðÓ°ÈÌÕß244½áÎ²Çú£¨µÀ¡«to
-you
-all
-£©
+[07-08-15]¡¾ÒôÀÖ¡¿»ðÓ°ÈÌÕß244½áÎ²Çú£¨µÀ¡«to you all £©
 [07-07-19]¡¾¶ñ¸ã¡¿»ðÓ°¶ñ¸ãÂþ»­ÒôÀÖÖ®¡¶ÎÒÊÇÅ®Éú¡·
 [07-07-19]¡¾¶ñ¸ã¡¿»ðÓ°ÒôÀÖÖ®¡¶·¢ÈçÑ©¡·
 [07-07-19]¡¾¶ñ¸ã¡¿»ðÓ°ÒôÀÖÖ®¡¶²Ü²Ù¡·
@@ -41264,13 +39791,8 @@ UBBÁ´½Ó
 [»ðÓ°ÈÌÕßÒôÀÖ][2007-10-26]¡¾ÒôÀÖ¡¿»ðÓ°ÈÌÕß×îÐÂÖ÷ÌâÇú
 DISTANCE
 [»ðÓ°ÈÌÕßÒôÀÖ][2007-10-23]¡¾£Í£Ö¡¿»ðÓ°ÈÌÕßÖ÷î}Çú×Ü»ã£¨MV£©£¡
-[»ðÓ°ÈÌÕßÒôÀÖ][2007-10-11]¡¾ÒôÀÖ¡¿»ðÓ°ÈÌÕß¼²·ç´«¾ç³¡°æÖ÷Ìâ¸è¡¶Let
-me
-dance¡·
-[»ðÓ°ÈÌÕßÒôÀÖ][2007-08-15]¡¾ÒôÀÖ¡¿»ðÓ°ÈÌÕß244½áÎ²Çú£¨µÀ¡«to
-you
-all
-£©
+[»ðÓ°ÈÌÕßÒôÀÖ][2007-10-11]¡¾ÒôÀÖ¡¿»ðÓ°ÈÌÕß¼²·ç´«¾ç³¡°æÖ÷Ìâ¸è¡¶Let me dance¡·
+[»ðÓ°ÈÌÕßÒôÀÖ][2007-08-15]¡¾ÒôÀÖ¡¿»ðÓ°ÈÌÕß244½áÎ²Çú£¨µÀ¡«to you all £©
 [»ðÓ°ÈÌÕßÒôÀÖ][2007-04-03]¡¾ÒôÀÖ¡¿Nervous
 [»ðÓ°ÈÌÕßÒôÀÖ][2007-04-03]¡¾ÒôÀÖ¡¿Sasuke
 ~Destiny~
@@ -41397,39 +39919,27 @@ up
 Die
 ¡¾²é¿´¸ü¶àËÀÉñÂþ»­¡¿
 ¶¯»­Æ¬ËÀÉñÈ«¼¯ÔÚÏß¹Û¿´
-[2008-02-13]¡¾ÔÚÏß¡¿ËÀÉñ159»°£¨²è¶ÉÌ©»¢Ö®ËÀ
-Ö¯ŠªµÄÑÛÀá£©
-[2008-01-31]¡¾ÔÚÏß¡¿ËÀÉñ158»°£¨¾ÞÈËµÄÓÒ±Û
-¶ñÄ§µÄ×ó±Û£©
-[2008-01-24]¡¾ÔÚÏß¡¿ËÀÉñ157»°£¨Ê¯ÌïµÄÉ±ÊÖïµ
-ÇÐ»êÖ®Îï£©
+[2008-02-13]¡¾ÔÚÏß¡¿ËÀÉñ159»°£¨²è¶ÉÌ©»¢Ö®ËÀ Ö¯ŠªµÄÑÛÀá£©
+[2008-01-31]¡¾ÔÚÏß¡¿ËÀÉñ158»°£¨¾ÞÈËµÄÓÒ±Û ¶ñÄ§µÄ×ó±Û£©
+[2008-01-24]¡¾ÔÚÏß¡¿ËÀÉñ157»°£¨Ê¯ÌïµÄÉ±ÊÖïµ ÇÐ»êÖ®Îï£©
 [2008-01-17]¡¾ÔÚÏß¡¿ËÀÉñ156»°£¨Ê¯ÌïºÍÅæÑ¦£¬ÓÑÇéµÄºÏÌå¹¥»÷£©
 [2008-01-10]¡¾ÔÚÏß¡¿ËÀÉñ155»°£¨Â¶ç÷ÑÇµÄ·´»÷£¡ÊÍ·Å³ö¾öËÀÖ®¹íµÀ£©
 [2007-12-29]¡¾ÔÚÏß¡¿ËÀÉñ154»°£¨Â¶ç÷ÑÇÓëº£Ñà±¯°§µÄÔÙ»á£©
 [2007-12-20]¡¾ÔÚÏß¡¿ËÀÉñ153»°£¨¶ñÄ§µÄÑÐ¾¿£¡Èø¶û°¢²¨ÂÞµÄÆóÍ¼£©
 [2007-12-13]¡¾ÔÚÏß¡¿ËÀÉñ152»°£¨Ò»»¤µÄ·´»÷£¡Õâ¾ÍÊÇÎÒµÄ…d½â£©
-[2007-12-06]¡¾ÔÚÏß¡¿ËÀÉñ151»°£¨¿ñ±©ì«·ç
-ÔâÓöÎèÖ®ÆÆÃæ£©
+[2007-12-06]¡¾ÔÚÏß¡¿ËÀÉñ151»°£¨¿ñ±©ì«·ç ÔâÓöÎèÖ®ÆÆÃæ£©
 [2007-11-29]¡¾ÔÚÏß¡¿ËÀÉñ150»°£¨Ô¼¶¨£¡ÖØÉúºó½øÈëÐéÒ¹¹¬£©
 [2007-11-22]¡¾ÔÚÏß¡¿ËÀÉñ149»°£¨±ÀÀ£µÄÉ­ÁÖ,°ÙÍò´óÐé!£©
-[2007-11-15]¡¾ÔÚÏß¡¿ËÀÉñ148£¨°¢Î÷¶à
-À´×Ô¹ýÈ¥µÄËÀÉñ£©
-[2007-11-15]¡¾ÔÚÏß¡¿ËÀÉñ147£¨´óÐéÖ®É­
-Ñ°ÕÒÊ§×ÙµÄÂ¶ç÷ÑÇ£©
+[2007-11-15]¡¾ÔÚÏß¡¿ËÀÉñ148£¨°¢Î÷¶à À´×Ô¹ýÈ¥µÄËÀÉñ£©
+[2007-11-15]¡¾ÔÚÏß¡¿ËÀÉñ147£¨´óÐéÖ®É­ Ñ°ÕÒÊ§×ÙµÄÂ¶ç÷ÑÇ£©
 [2007-11-02]¡¾ÔÚÏß¡¿ËÀÉñ146»°£¨ËýÃûÎªÄáÂ¶£¡²»¿ÉË¼ÒéµÄÆÆ£©
-[2007-10-25]¡¾ÔÚÏß¡¿ËÀÉñ145»°£¨Ê®ÈÐ½á¼¯
-À¶È¾µÄÓùÇ°»áÒé£©
-[2007-10-09]¡¾ÔÚÏß¡¿ËÀÉñ144»°£¨Ê¯Ìï
-²è¶É
-ÐÂÁ¦Á¿µÄÃÈÑ¿£©
-[2007-10-09]¡¾ÔÚÏß¡¿ËÀÉñ¾ç³¡°æ£¨MEMORIES
-OF
-NOBODY£©
+[2007-10-25]¡¾ÔÚÏß¡¿ËÀÉñ145»°£¨Ê®ÈÐ½á¼¯ À¶È¾µÄÓùÇ°»áÒé£©
+[2007-10-09]¡¾ÔÚÏß¡¿ËÀÉñ144»°£¨Ê¯Ìï ²è¶É ÐÂÁ¦Á¿µÄÃÈÑ¿£©
+[2007-10-09]¡¾ÔÚÏß¡¿ËÀÉñ¾ç³¡°æ£¨MEMORIES OF NOBODY£©
 [2007-10-09]¡¾ÔÚÏß¡¿ËÀÉñ143£¨¸´»îµÄ¸ðÁ¦Ä·ÇÇ£©
 [2007-10-09]¡¾ÔÚÏß¡¿ËÀÉñ142£¨ÑÏÁî£¡½ûÖ¹Óª¾È¾®ÉÏÖ¯¼§£©
 [2007-10-09]¡¾ÔÚÏß¡¿ËÀÉñ141£¨ÓÀ±ðÁË....Ò»»¤¾ý£©
-[2007-10-09]¡¾ÔÚÏß¡¿ËÀÉñ140£¨ÎÚÂ³Ææ°ÂÀ­µÄ²ßÂÔ
-Ì«ÑôÏ¦ÏÂÖ®Ê±£©
+[2007-10-09]¡¾ÔÚÏß¡¿ËÀÉñ140£¨ÎÚÂ³Ææ°ÂÀ­µÄ²ßÂÔ Ì«ÑôÏ¦ÏÂÖ®Ê±£©
 [2007-10-09]¡¾ÔÚÏß¡¿ËÀÉñ139£¨Ò»»¤VS¸ðÁ¦Ä·ÇÇ£¬11ÃëµÄÕ½¶·£¡£©
 [2007-10-09]¡¾ÔÚÏß¡¿ËÀÉñ138£¨ÐéÈ¦ÔÙ¶¯£¬ÈÕ·¬¹ÈvsÑÀÃÜ£©
 [2007-10-09]¡¾ÔÚÏß¡¿ËÀÉñ137£¨¶ñÒâµÄÕ½Õù£¬À¶È¾µÄÈ¦Ì×£©
@@ -41607,13 +40117,8 @@ j.Åå¶÷ºÍÐ¡ÄÏÁÄÌì
 [10-26]¡¾ÒôÀÖ¡¿»ðÓ°ÈÌÕß×îÐÂÖ÷ÌâÇú
 DISTANCE
 [10-23]¡¾£Í£Ö¡¿»ðÓ°ÈÌÕßÖ÷î}Çú×Ü»ã£¨MV£©£¡
-[10-11]¡¾ÒôÀÖ¡¿»ðÓ°ÈÌÕß¼²·ç´«¾ç³¡°æÖ÷Ìâ¸è¡¶Let
-me
-dance¡·
-[08-15]¡¾ÒôÀÖ¡¿»ðÓ°ÈÌÕß244½áÎ²Çú£¨µÀ¡«to
-you
-all
-£©
+[10-11]¡¾ÒôÀÖ¡¿»ðÓ°ÈÌÕß¼²·ç´«¾ç³¡°æÖ÷Ìâ¸è¡¶Let me dance¡·
+[08-15]¡¾ÒôÀÖ¡¿»ðÓ°ÈÌÕß244½áÎ²Çú£¨µÀ¡«to you all £©
 [07-03]¡¾ÒôÀÖ¡¿Afternoon
 of
 Konoha
@@ -41740,18 +40245,13 @@ UBBÁ´½Ó
 VS¶ÀÁ¢ÓÎ»÷¶Ó
 [07-10-14]¡¾ÔÚÏß¡¿À¶ÁúµÚ24¼¯
 ¶ñÄ§µÄ×·»÷
-[07-10-25]¡¾ÔÚÏß¡¿ËÀÉñ145»°£¨Ê®ÈÐ½á¼¯
-À¶È¾µÄÓùÇ°»áÒé£©
+[07-10-25]¡¾ÔÚÏß¡¿ËÀÉñ145»°£¨Ê®ÈÐ½á¼¯ À¶È¾µÄÓùÇ°»áÒé£©
 [07-10-25]¡¾ÔÚÏß¡¿À¶ÁúµÚ27¼¯
 ÏòÖøÂÞ»ùµÄ½¢´¬
 [07-11-09]¡¾ÔÚÏß¡¿»ðÓ°253»°
 ÐÂµÄÄ¿±ê
-[07-10-09]¡¾ÔÚÏß¡¿ËÀÉñ144»°£¨Ê¯Ìï
-²è¶É
-ÐÂÁ¦Á¿µÄÃÈÑ¿£©
-[07-10-09]¡¾ÔÚÏß¡¿ËÀÉñ¾ç³¡°æ£¨MEMORIES
-OF
-NOBODY£©
+[07-10-09]¡¾ÔÚÏß¡¿ËÀÉñ144»°£¨Ê¯Ìï ²è¶É ÐÂÁ¦Á¿µÄÃÈÑ¿£©
+[07-10-09]¡¾ÔÚÏß¡¿ËÀÉñ¾ç³¡°æ£¨MEMORIES OF NOBODY£©
 ¾«²Ê±¨µÀ
 ÍøÕ¾ÄÚÈÝ¼ìË÷
 ×îÐÂÂ¼ÈëÓÎÏ·
@@ -41789,8 +40289,7 @@ UBBÁ´½Ó
 ÃÔÖ®ÆßÒ³
 [07-10-25]¡¾ÔÚÏß¡¿À¶ÁúµÚ27¼¯
 ÏòÖøÂÞ»ùµÄ½¢´¬
-[07-10-25]¡¾ÔÚÏß¡¿ËÀÉñ145»°£¨Ê®ÈÐ½á¼¯
-À¶È¾µÄÓùÇ°»áÒé£©
+[07-10-25]¡¾ÔÚÏß¡¿ËÀÉñ145»°£¨Ê®ÈÐ½á¼¯ À¶È¾µÄÓùÇ°»áÒé£©
 [07-11-02]¡¾ÔÚÏß¡¿ËÀÉñ146»°£¨ËýÃûÎªÄáÂ¶£¡²»¿ÉË¼ÒéµÄÆÆ£©
 [07-11-02]¡¾ÔÚÏß¡¿À¶ÁúµÚ30¼¯
 ºÚ°µµÄÁú
@@ -41831,10 +40330,8 @@ UBBÁ´½Ó
 Ïà¹ØÐÂÎÅ
 [07-11-08]¡¾ÔÚÏß¡¿À¶ÁúµÚ31¼¯
 Ç¿Õß
-[07-11-15]¡¾ÔÚÏß¡¿ËÀÉñ147£¨´óÐéÖ®É­
-Ñ°ÕÒÊ§×ÙµÄÂ¶ç÷ÑÇ£©
-[07-11-15]¡¾ÔÚÏß¡¿ËÀÉñ148£¨°¢Î÷¶à
-À´×Ô¹ýÈ¥µÄËÀÉñ£©
+[07-11-15]¡¾ÔÚÏß¡¿ËÀÉñ147£¨´óÐéÖ®É­ Ñ°ÕÒÊ§×ÙµÄÂ¶ç÷ÑÇ£©
+[07-11-15]¡¾ÔÚÏß¡¿ËÀÉñ148£¨°¢Î÷¶à À´×Ô¹ýÈ¥µÄËÀÉñ£©
 [07-11-23]¡¾ÔÚÏß¡¿»ðÓ°255»°
 »­ÉßÌí×ã
 [07-11-20]¡¾ÔÚÏß¡¿À¶ÁúµÚ32¼¯
@@ -41924,10 +40421,8 @@ http://narutocn.52pk.com
 [07-11-29]¡¾ÔÚÏß¡¿ËÀÉñ150»°£¨Ô¼¶¨£¡ÖØÉúºó½øÈëÐéÒ¹¹¬£©
 [07-11-23]¡¾ÔÚÏß¡¿»ðÓ°255»°
 »­ÉßÌí×ã
-[07-11-15]¡¾ÔÚÏß¡¿ËÀÉñ148£¨°¢Î÷¶à
-À´×Ô¹ýÈ¥µÄËÀÉñ£©
-[07-11-15]¡¾ÔÚÏß¡¿ËÀÉñ147£¨´óÐéÖ®É­
-Ñ°ÕÒÊ§×ÙµÄÂ¶ç÷ÑÇ£©
+[07-11-15]¡¾ÔÚÏß¡¿ËÀÉñ148£¨°¢Î÷¶à À´×Ô¹ýÈ¥µÄËÀÉñ£©
+[07-11-15]¡¾ÔÚÏß¡¿ËÀÉñ147£¨´óÐéÖ®É­ Ñ°ÕÒÊ§×ÙµÄÂ¶ç÷ÑÇ£©
 [07-11-30]¡¾Í¼Ô´¡¿»ðÓ°ÈÌÕßÂþ»­380»°ÈÕÎÄ°æÔÚÏß¹Û¿´
 ¾«²Ê±¨µÀ
 ÍøÕ¾ÄÚÈÝ¼ìË÷
@@ -42004,8 +40499,7 @@ UBBÁ´½Ó
 [07-12-07]¡¾ÔÚÏß¡¿À¶ÁúµÚ34¼¯
 »ùÀïÑÇÄ·¾íÍÁÖØÀ´
 [07-12-07]¡¾Í¼Ô´¡¿»ðÓ°ÈÌÕßÂþ»­381»°ÈÕÎÄ°æÔÚÏß¹Û¿´
-[07-12-06]¡¾ÔÚÏß¡¿ËÀÉñ151»°£¨¿ñ±©ì«·ç
-ÔâÓöÎèÖ®ÆÆÃæ£©
+[07-12-06]¡¾ÔÚÏß¡¿ËÀÉñ151»°£¨¿ñ±©ì«·ç ÔâÓöÎèÖ®ÆÆÃæ£©
 [07-12-10]¡¾ÔÚÏß¡¿À¶ÁúµÚ35¼¯
 ·¢¹âµÄºÓÂí
 [07-12-13]¡¾ÔÚÏß¡¿ËÀÉñ152»°£¨Ò»»¤µÄ·´»÷£¡Õâ¾ÍÊÇÎÒµÄ…d½â£©
@@ -42058,8 +40552,7 @@ UBBÁ´½Ó
 »ùÀïÑÇÄ·¾íÍÁÖØÀ´
 [07-12-14]¡¾ÔÚÏß¡¿»ðÓ°259»°
 ÌìµØÇÅ
-[07-12-06]¡¾ÔÚÏß¡¿ËÀÉñ151»°£¨¿ñ±©ì«·ç
-ÔâÓöÎèÖ®ÆÆÃæ£©
+[07-12-06]¡¾ÔÚÏß¡¿ËÀÉñ151»°£¨¿ñ±©ì«·ç ÔâÓöÎèÖ®ÆÆÃæ£©
 ¾«²Ê±¨µÀ
 ÍøÕ¾ÄÚÈÝ¼ìË÷
 ×îÐÂÂ¼ÈëÓÎÏ·
@@ -42214,14 +40707,12 @@ UBBÁ´½Ó
 ·¢±íÆÀÂÛ
 ´òÓ¡±¾Ò³¹Ø±Õ´°¿Ú¡ý
 Ïà¹ØÐÂÎÅ
-[08-01-24]¡¾ÔÚÏß¡¿ËÀÉñ157»°£¨Ê¯ÌïµÄÉ±ÊÖïµ
-ÇÐ»êÖ®Îï£©
+[08-01-24]¡¾ÔÚÏß¡¿ËÀÉñ157»°£¨Ê¯ÌïµÄÉ±ÊÖïµ ÇÐ»êÖ®Îï£©
 [08-01-28]¡¾ÔÚÏß¡¿À¶ÁúµÚ40¼¯
 Ç¾Þ±Ê®×ÖÍÅ
 [08-01-28]¡¾ÔÚÏß¡¿À¶ÁúµÚ41¼¯
 ÁýÖÐµÄÐ¡Äñ
-[08-01-31]¡¾ÔÚÏß¡¿ËÀÉñ158»°£¨¾ÞÈËµÄÓÒ±Û
-¶ñÄ§µÄ×ó±Û£©
+[08-01-31]¡¾ÔÚÏß¡¿ËÀÉñ158»°£¨¾ÞÈËµÄÓÒ±Û ¶ñÄ§µÄ×ó±Û£©
 [08-01-19]¡¾ÔÚÏß¡¿À¶ÁúµÚ39¼¯
 ¿­Ðý
 [08-01-19]¡¾ÔÚÏß¡¿À¶ÁúµÚ38¼¯
@@ -42262,16 +40753,14 @@ UBBÁ´½Ó
 ·¢±íÆÀÂÛ
 ´òÓ¡±¾Ò³¹Ø±Õ´°¿Ú¡ý
 Ïà¹ØÐÂÎÅ
-[08-01-31]¡¾ÔÚÏß¡¿ËÀÉñ158»°£¨¾ÞÈËµÄÓÒ±Û
-¶ñÄ§µÄ×ó±Û£©
+[08-01-31]¡¾ÔÚÏß¡¿ËÀÉñ158»°£¨¾ÞÈËµÄÓÒ±Û ¶ñÄ§µÄ×ó±Û£©
 [08-01-28]¡¾ÔÚÏß¡¿À¶ÁúµÚ41¼¯
 ÁýÖÐµÄÐ¡Äñ
 [08-01-28]¡¾ÔÚÏß¡¿À¶ÁúµÚ40¼¯
 Ç¾Þ±Ê®×ÖÍÅ
 [08-02-01]¡¾ÔÚÏß¡¿»ðÓ°ÈÌÕß265»°
 ±³ÅÑµÄ¾¡Í·
-[08-01-24]¡¾ÔÚÏß¡¿ËÀÉñ157»°£¨Ê¯ÌïµÄÉ±ÊÖïµ
-ÇÐ»êÖ®Îï£©
+[08-01-24]¡¾ÔÚÏß¡¿ËÀÉñ157»°£¨Ê¯ÌïµÄÉ±ÊÖïµ ÇÐ»êÖ®Îï£©
 [08-01-19]¡¾ÔÚÏß¡¿À¶ÁúµÚ39¼¯
 ¿­Ðý
 [08-01-19]¡¾ÔÚÏß¡¿À¶ÁúµÚ38¼¯
@@ -42426,13 +40915,8 @@ j.Åå¶÷ºÍÐ¡ÄÏÁÄÌì
 [10-26]¡¾ÒôÀÖ¡¿»ðÓ°ÈÌÕß×îÐÂÖ÷ÌâÇú
 DISTANCE
 [10-23]¡¾£Í£Ö¡¿»ðÓ°ÈÌÕßÖ÷î}Çú×Ü»ã£¨MV£©£¡
-[10-11]¡¾ÒôÀÖ¡¿»ðÓ°ÈÌÕß¼²·ç´«¾ç³¡°æÖ÷Ìâ¸è¡¶Let
-me
-dance¡·
-[08-15]¡¾ÒôÀÖ¡¿»ðÓ°ÈÌÕß244½áÎ²Çú£¨µÀ¡«to
-you
-all
-£©
+[10-11]¡¾ÒôÀÖ¡¿»ðÓ°ÈÌÕß¼²·ç´«¾ç³¡°æÖ÷Ìâ¸è¡¶Let me dance¡·
+[08-15]¡¾ÒôÀÖ¡¿»ðÓ°ÈÌÕß244½áÎ²Çú£¨µÀ¡«to you all £©
 [07-03]¡¾ÒôÀÖ¡¿Afternoon
 of
 Konoha
@@ -42550,13 +41034,8 @@ j.Åå¶÷ºÍÐ¡ÄÏÁÄÌì
 [10-26]¡¾ÒôÀÖ¡¿»ðÓ°ÈÌÕß×îÐÂÖ÷ÌâÇú
 DISTANCE
 [10-23]¡¾£Í£Ö¡¿»ðÓ°ÈÌÕßÖ÷î}Çú×Ü»ã£¨MV£©£¡
-[10-11]¡¾ÒôÀÖ¡¿»ðÓ°ÈÌÕß¼²·ç´«¾ç³¡°æÖ÷Ìâ¸è¡¶Let
-me
-dance¡·
-[08-15]¡¾ÒôÀÖ¡¿»ðÓ°ÈÌÕß244½áÎ²Çú£¨µÀ¡«to
-you
-all
-£©
+[10-11]¡¾ÒôÀÖ¡¿»ðÓ°ÈÌÕß¼²·ç´«¾ç³¡°æÖ÷Ìâ¸è¡¶Let me dance¡·
+[08-15]¡¾ÒôÀÖ¡¿»ðÓ°ÈÌÕß244½áÎ²Çú£¨µÀ¡«to you all £©
 [07-03]¡¾ÒôÀÖ¡¿Afternoon
 of
 Konoha
@@ -43160,16 +41639,14 @@ KnightÊ¼ÖÕÁîÈËÄÑÒÔ×½Ãþ¡£ÔÚÖ´½ÌÉúÑÄµÚ42¸öÈü¼¾½øÐÐµ½2/3µÄÊ±ºò£¬ËûÑ¡ÔñÁËÀë¿ª¡£ÊÇÊ²Ã
 ²é¿´¸ü¶à»¢ÆËºÃÎÄ>>
 ×îÐÂºÃÌû
 &#8226;[¼òµ¥Ã÷ÁËÈÈÏß]¹ã¶«ºêÔ¶VSÁÉÄþÅÎÅÎCBA×Ü¾öÈüµÚÒ»³¡(×°..255/9181
-&#8226;[Click2Houston
-video]
+&#8226;[Click2Houston video]
 »ð¼ý¿ªÍØÕßÈüºóÇòÔ±²É·Ã
 (ÀÏA..117/15815
 &#8226;¡¾±ÈÈü×ÛÊö&Èü³¡Í¼Æ¬¡¿µÚ40³¡Ê¤Àû8/219
 &#8226;ÌìÂíÐÐ¿Õ£¡
 ----¼ÇÂ¼¡¢¼ÍÄîÂíÀï°º133/21796
 &#8226;¡°ÎÒÊÇÉñ¹÷ÎÒÅÂË­!¡±¼¾Ä©µ¥ÈË½±ÏîÓÐ½±Ô¤²â»î¶¯»ðÈÈµÇ³¡£¡469/7386
-&#8226;[C`s
-Workshop³öÆ·]
+&#8226;[C`s Workshop³öÆ·]
 20080213
 ¿­¶ûÌØÈË-²½ÐÐÕß
 È«³¡¼¯½õ3/40
@@ -43185,8 +41662,7 @@ Workshop³öÆ·]
 &#8226;[»ð¼ýÎÄÕÂ]
 ¹ØÓÚÒ¦Ã÷ÔÚ¶ÔÌ«Ñô
 ±ÈÈüÖÐ½ø¹¥²ÎÓë·½Ê½µÄÁ÷Ë®ÕÊ
-&#8226;[NBA
-¶¯Ì¬]
+&#8226;[NBA ¶¯Ì¬]
 2008Äê2ÔÂNBA
 ×ª»áÇ©Ô¼Ò»ÀÀ
 &#8226;[ÉÐÀº]
@@ -43266,8 +41742,7 @@ NBAÕ½¼¨ÅÅÐÐ
 &#8226;[NBAÊÓÆµ¼¯½õ]
 TNT¾«²ÊÐû´«Æ¬-08È«Ã÷ÐÇ
 &#8226;[ÆäËûÏÖÒÛ]
-¼ÓÄÚÌØ¼¯½õ¡¶Always
-Getting
+¼ÓÄÚÌØ¼¯½õ¡¶Always Getting 
 &#8226;[NBAÊÓÆµ¼¯½õ]
 È«Ã÷ÐÇ¾­µä¾µÍ·ºÏ¼¯¡¶ÓëÖÚ²»Í¬
 &#8226;[¿Æ±ÈÊÓÆµ]
@@ -43502,78 +41977,44 @@ TOMÖ±²¥±í
 ÆÀ
 ÈüÊÂ£º
 Ã½Ìå£º
-[14ÈÕ9:30²¥¹úÍõ-»ð¼ý
-Ê×·¢PK
-Ç°Õ°£ºÒ¦Ã÷·ÀÊØ¶ËÔâÓö¿¼Ñé]
-[ÐÝË¹¶ØÎå»¢½«´òÔìÄ§¹íÖ÷³¡
-|
-½ÖÇòÍõµÚÈý½Ú±¬·¢Å¤×ªÕ½¾Ö]
+[14ÈÕ9:30²¥¹úÍõ-»ð¼ý Ê×·¢PK Ç°Õ°£ºÒ¦Ã÷·ÀÊØ¶ËÔâÓö¿¼Ñé]
+[ÐÝË¹¶ØÎå»¢½«´òÔìÄ§¹íÖ÷³¡ | ½ÖÇòÍõµÚÈý½Ú±¬·¢Å¤×ªÕ½¾Ö]
 ×îÐÂ£º
-[»ð¼ý»»ÑµÁ·¹ÝÒ¦Ã÷´ó½ÐÌ«Àä
-|
-°¢Ë§ÊÚ¼¼Öú²¼Â³´³¹ýÐÂÐãÇ½]
+[»ð¼ý»»ÑµÁ·¹ÝÒ¦Ã÷´ó½ÐÌ«Àä | °¢Ë§ÊÚ¼¼Öú²¼Â³´³¹ýÐÂÐãÇ½]
 ·ÃÌ¸£º
-[Ò¦Ã÷³Æ»ð¼ýÎ£»úÔÚÃ÷ÐÇÈüºó
-|
-°ÍµÙ¶û·ÀÊØµÎË®²»Â©»ñºÃÆÀ]
+[Ò¦Ã÷³Æ»ð¼ýÎ£»úÔÚÃ÷ÐÇÈüºó | °ÍµÙ¶û·ÀÊØµÎË®²»Â©»ñºÃÆÀ]
 µãÆÀ£º
-[°¢µÂ¶ûÂüÃ¬Óë¶ÜÀíÄîÊ÷ÐÂÃ²
-|
-»ð¼ýÍâÏßÒÔ±ËÖ®µÀ»¹±ËÖ®Éí]
+[°¢µÂ¶ûÂüÃ¬Óë¶ÜÀíÄîÊ÷ÐÂÃ² | »ð¼ýÍâÏßÒÔ±ËÖ®µÀ»¹±ËÖ®Éí]
 ÆäËû£º
-[×¨¼Ò³ÆË¹¿ÆÀ­Ê×·¢´Ù³ÉÁ¬Ê¤
-|
-»ð¼ý¶ÓË«µãÖú¹¥È«ÁªÃËº±¼û]
+[×¨¼Ò³ÆË¹¿ÆÀ­Ê×·¢´Ù³ÉÁ¬Ê¤ | »ð¼ý¶ÓË«µãÖú¹¥È«ÁªÃËº±¼û]
 ÂÛÌ³£º
-[ÂóµÏÁìÏÎÌæ²¹¶þ½«¸Ä±ä»ð¼ý
-|
-Á½ÄêÖ®ºóµÄÍÉ±ä-Ò¦Ã÷ºËÐÄÌ¸]
+[ÂóµÏÁìÏÎÌæ²¹¶þ½«¸Ä±ä»ð¼ý | Á½ÄêÖ®ºóµÄÍÉ±ä-Ò¦Ã÷ºËÐÄÌ¸]
 ÐÛÂ¹Í·Ìõ
 ÎÞÃ«ÏÀÉËÍ£°¢ÁªÖØ·µÊ×·¢
 Ð¡ÍþÈë×î¼ÑÕóÈÝ
 ÆÀ
 ÈüÊÂ£º
-[14ÈÕ9:00²¥»Æ·ä-ÐÛÂ¹
-Ê×·¢PK
-Ç°Õ°£º°¢ÁªÖØ»ØÊ×·¢ÊÜ¿¼Ñé]
+[14ÈÕ9:00²¥»Æ·ä-ÐÛÂ¹ Ê×·¢PK Ç°Õ°£º°¢ÁªÖØ»ØÊ×·¢ÊÜ¿¼Ñé]
 ×îÐÂ£º
-[ÐÛÂ¹Õ½¼¨²Òµ­¹ÛÖÚÖ±ÏßÏÂ½µ
-|
-Ð¡KÒÑÇ­Â¿¼¼Çî×ª¶øÅÚºäÇòÔ±]
+[ÐÛÂ¹Õ½¼¨²Òµ­¹ÛÖÚÖ±ÏßÏÂ½µ | Ð¡KÒÑÇ­Â¿¼¼Çî×ª¶øÅÚºäÇòÔ±]
 Ã½Ìå£º
-[ÀïµÂ°ë³¡ÑÆ»ð°¢Áª·´¹¥Í½ÀÍ
-|
-ÐÛÂ¹¶ÓÔâÓöºÚÉ«ÐÇÆÚÒ»Ä§Öä]
+[ÀïµÂ°ë³¡ÑÆ»ð°¢Áª·´¹¥Í½ÀÍ | ÐÛÂ¹¶ÓÔâÓöºÚÉ«ÐÇÆÚÒ»Ä§Öä]
 ·ÃÌ¸£º
-[Ð¡k³ÆÐÛÂ¹¶ÓÕóÖÐÓÐº¦ÈºÖ®Âí
-|
-Ð¡Íþ³ÆÖ÷³¡¶ª×¼ÐÇº¦²ÒÐÛÂ¹]
+[Ð¡k³ÆÐÛÂ¹¶ÓÕóÖÐÓÐº¦ÈºÖ®Âí | Ð¡Íþ³ÆÖ÷³¡¶ª×¼ÐÇº¦²ÒÐÛÂ¹]
 ÆäËû£º
-[°¢Áª³ÉÎªÐÂÐãÈü²ËÄñ¶Ó¾ÈÐÇ
-|
-×¨¼Ò»³ÒÉÐÛÂ¹ÒþÂ÷°¢ÁªÉËÇé]
+[°¢Áª³ÉÎªÐÂÐãÈü²ËÄñ¶Ó¾ÈÐÇ | ×¨¼Ò»³ÒÉÐÛÂ¹ÒþÂ÷°¢ÁªÉËÇé]
 °ÍÌØÀÕ¿ÉÄÜÈ±Ï¯È«Ã÷ÐÇÈü
 Å¦Ô¼ÓûËÍ×ßË«ÅÖ×éºÏ
 ½¹µã£º
-[Ã×Ä·ÓÒõàÊÖÊõºþÈËÄÚÏß³Ô½ô
-|
-ÏÂ°ë³ÌÔ¤²â£ºÌ«ÑôÎ÷²¿µÚÒ»]
+[Ã×Ä·ÓÒõàÊÖÊõºþÈËÄÚÏß³Ô½ô | ÏÂ°ë³ÌÔ¤²â£ºÌ«ÑôÎ÷²¿µÚÒ»]
 ¹Ø×¢£º
-[öèÓãÓàÍþÉÐ´æ´øÀ´Î÷²¿¾Þ±ä
-|
-ÅÁ¿ËÉ­±ÙÒ¥²¼ÀÊ½«Ö´½Ì¹«Å£]
+[öèÓãÓàÍþÉÐ´æ´øÀ´Î÷²¿¾Þ±ä | ÅÁ¿ËÉ­±ÙÒ¥²¼ÀÊ½«Ö´½Ì¹«Å£]
 ¶¯Ì¬£º
-[¿ªÍØÕßÈý·ÖÊÖÇíË¹Ï¥¸ÇÊÜÉË
-|
-Æ¤ÌØÂ³Ë¹¿ÊÍûÉÏ³¡Ï£Íû×ª»á]
+[¿ªÍØÕßÈý·ÖÊÖÇíË¹Ï¥¸ÇÊÜÉË | Æ¤ÌØÂ³Ë¹¿ÊÍûÉÏ³¡Ï£Íû×ª»á]
 Ã¿ÈÕ£º
-[13ÈÕ×ÛÊö£º»îÈûÉäÓ¥¾ÅÁ¬Ê¤
-|
-14ÈÕ¿´µã£ºÅÜºäÕ½ÓÂÊ¿ÉäÈÕ]
+[13ÈÕ×ÛÊö£º»îÈûÉäÓ¥¾ÅÁ¬Ê¤ | 14ÈÕ¿´µã£ºÅÜºäÕ½ÓÂÊ¿ÉäÈÕ]
 »î¶¯£º
-[08È«Ã÷ÐÇÈüÓÐ½±¾º²Â»ðÈÈ½øÐÐÖÐ
-|
-Õ÷ÎÄ¡¢ÌùÍ¼Ó®ÀºÇòÕ½Ñ¥]
+[08È«Ã÷ÐÇÈüÓÐ½±¾º²Â»ðÈÈ½øÐÐÖÐ | Õ÷ÎÄ¡¢ÌùÍ¼Ó®ÀºÇòÕ½Ñ¥]
 ÌØ
 Ô¼
 ×¨
@@ -43640,13 +42081,11 @@ NBA
 ÈÈ
 Ìû
 ¡¾ÓÐ½±»î¶¯¡¿ÎÒÐÄÄ¿ÖÐµÄÈ«Ã÷ÐÇ
-¡¤[ÔÚÃÎÏëÎèÌ¨Æð·É
-Ïê½â08ÄêÈ«Ã÷ÐÇÕóÈÝ]
+¡¤[ÔÚÃÎÏëÎèÌ¨Æð·É Ïê½â08ÄêÈ«Ã÷ÐÇÕóÈÝ]
 ¡¤[Ö÷ÕÅ×ïÄõ:È«Ã÷ÐÇ¾ÍÊÇÉñ»°¿ªÊ¼µÄµØ·½]
 ¡¤[°æÖ÷£ºÐÂÄêÎ¨Ò»µÄÆÚÅÎ£¬NBAÈ«Ã÷ÐÇÈü]
 ¡¤[¡¾Õ÷ÎÄ¡¿pesenw£ºÎÒÖ´½ÌÁËÎ÷²¿È«Ã÷ÐÇ]
-¡¤[ÓéÀÖ¡¢ÇóÊ¤¡¢¾­µä
-È«Ã÷ÐÇÈü´«³Ð²»±ä]
+¡¤[ÓéÀÖ¡¢ÇóÊ¤¡¢¾­µä È«Ã÷ÐÇÈü´«³Ð²»±ä]
 Ò¦Ã÷Óë»ð¼ý
 ¡¤
 °ô×Ó±¯¹Û¿´´ý»ð¼ýÇ°¾°
@@ -46064,8 +44503,7 @@ M6
 Íò¹úÃÀ¸£
 M6
 ³¬ºÀ»ªÐÍ
-[19.98
-Íò]
+[19.98 Íò]
 ´ÈÏªÐÂÑÇ
 Äþ²¨¹ú²ú³µ±¨¼Û
 ¸ü¶à>>
@@ -46776,8 +45214,7 @@ KISS
 £º
 ÊäÈëÑéÖ¤Âë
 µç×Ó¹«¸æ·þÎñ¹æÔò
-±¾¹«Ë¾µç×Ó¹«¸æ·þÎñÑÏ¸ñ×ñÊØ¡¶»¥ÁªÍøµç×Ó¹«¸æ·þÎñ¹ÜÀí¹æ¶¨¡·¡¶È«¹ú
-ÈË´ó³£Î¯»á¹ØÓÚÎ¬»¤»¥ÁªÍø°²È«µÄ¾ö¶¨¡·¡£
+±¾¹«Ë¾µç×Ó¹«¸æ·þÎñÑÏ¸ñ×ñÊØ¡¶»¥ÁªÍøµç×Ó¹«¸æ·þÎñ¹ÜÀí¹æ¶¨¡·¡¶È«¹ú ÈË´ó³£Î¯»á¹ØÓÚÎ¬»¤»¥ÁªÍø°²È«µÄ¾ö¶¨¡·¡£
 ÈÎºÎÈË²»µÃÎ¥±³¡¶µç×Ó¹«¸æ·þÎñ¹æÔò¡·,²»µÃ·¢²¼º¬ÓÐÏÂÁÐÄÚÈÝµÄÐÅÏ¢£º
 1.·´¶ÔÏÜ·¨»ù±¾Ô­Ôò,Î£º¦¹ú¼Ò°²È«¡¢ÕþÈ¨ÎÈ¶¨Í³Ò»µÄ£»É¿¶¯Ãñ×å³ðºÞ¡¢Ãñ×åÆçÊÓµÄ£»
 2.ÐûÑïÐ°½ÌºÍ·â½¨ÃÔÐÅµÄ£»É¢²¼Ò¥ÑÔ£¬ÆÆ»µÉç»áÎÈ¶¨µÄ£»ÎêÈè·Ì°ùËûÈË£¬ÇÖº¦ËûÈËºÏ·¨È¨ÒæµÄ£»
@@ -46923,7 +45360,7 @@ fÊÓÆµ
 ¡¤×¨·Ã¹ãÀûÀ´¸±×ÜÖ£¹úÇ¿
 ´´ÐÂ128´òÔìÊ×¸ö
 ¡¤Äþ²¨µØ²úÖ®¹ÖÏÖÏó:Õþ²ß¸ßÑ¹ÏÂÎªºÎµØÍõÒ
-¡¤Ö±²¥ÊµÂ¼£º¡¶ÒøÌ©¹ú¼Ê¡·VS¡¶¾­¼Ã¹Û²ì±¨
+¡¤Ö±²¥ÊµÂ¼£º¡¶ÒøÌ©¹ú¼Ê¡·VS¡¶¾­¼Ã¹Û²ì±¨ 
 ¡¤Ö±²¥ÊµÂ¼£º2007£¨Äþ²¨£©¿Æ¼¼´´ÒµÍ¶×ÊÂÛ
 ¡¤×¨¼ÒÆë¾Û¼ÃÄÏÐÂÊÓ½ÇÂÛÌ³
 ½¹µãÍø¹¢Ïþ»ª×
@@ -47023,8 +45460,7 @@ fÊÓÆµ
 ¡¤½¨Éè²¿Æëæ÷£º¼Ó´ó²é´¦Á¦¶È
 ²»³ÏÐÅ·¿ÆóÇå³öÊÐ³
 ¡¤200¼Ò·¿Æó×Ô·¢³«Òé:²»ºåÌ§·¿¼Û
-²»¶Ú»ý·¿Ô
-ÆÀÂÛ
+²»¶Ú»ý·¿ÔÆÀÂÛ
 ¡¤ÐÂÊÓ½ÇÉÏÐìµáÇìºôÓõ¿ªÕ÷·¿µØ²úË°
 ·½°¸ÒÑµÝ½»
 ËÑÐÂÎÅ
@@ -47119,63 +45555,46 @@ fÊÓÆµ
 ×â·¿²»´ú±íÖÐ¹úÈËÂò·¿´«Í³¹ÛµÄ¸Ä±
 11ÈÕ
 ¡¤·¿¼ÛÕæÏÂ½µÁË»¹Âò²»Âò
-ÀÏ°ÙÐÕ¾¿¾¹ÔÚµÈÊ²Ã
-ÆÀÂÛ
+ÀÏ°ÙÐÕ¾¿¾¹ÔÚµÈÊ²ÃÆÀÂÛ
 10ÈÕ
 ÍÁµØ¹ÒÅÆÐÅÏ¢Æ½Ì¨
 Ãâ·Ñ·¢²¼
-[È«¹ú
-]
+[È«¹ú ]
 º£ÄÏÊ¡ÈË´ó×¡
-[±±¾©
-]
+[±±¾© ]
 »Ø¸´£ºÓÐ×Ê½ð
-[±±¾©
-]
+[±±¾© ]
 »Ø¸´£ºÓÐ×Ê½ð
-[±±¾©
-]
+[±±¾© ]
 »Ø¸´£ºÓÐ×Ê½ð
-[±±¾©
-]
+[±±¾© ]
 »Ø¸´£ºÓÐ×Ê½ð
-[±±¾©
-]
+[±±¾© ]
 »Ø¸´£ºÓÐ×Ê½ð
-[È«¹ú
-]
+[È«¹ú ]
 ÄÏ´÷ºÓ·¿²ú±±
-[±±¾©
-]
+[±±¾© ]
 »Ø¸´£ºÁªÏµ·½
-[È«¹ú
-]
+[È«¹ú ]
 ÎÒÓÐÊ¡ÊÐÖØµã
-[È«¹ú
-]
+[È«¹ú ]
 ¹òÇó´ïÈË½â»ó
-[±±¾©
-]
+[±±¾© ]
 ÎÒÓÐÍÁµØÏîÄ¿
-[Ìì½ò
-]
+[Ìì½ò ]
 ±±¾©Ìì½òÍÁµØ
-[±±¾©
-]
+[±±¾© ]
 ÁªÏµ·½Ê½
-[±±¾©
-]
+[±±¾© ]
 ±±¾©Ìì½òÍÁµØ
-[±±¾©
-]
+[±±¾© ]
 »Ø¸´£º**±±¾©
-[±±¾©
-]
+[±±¾© ]
 »Ø¸´£º**±±¾©
 ¸ü¶à>>
 ½¹µã¹Ø×¢
 ÈýµØÁ¬Ïß¾Û½¹ÖÐ½é¹Øµê±³ºóµÄºê
-ÉÏº£´´»ÔÒ»Ò¹Ö®¼ä¹Øµê200¼Ò£¬´´»Ô×Ü²¿ÉîÛÚ¡¢°üÀ¨¹ãÖÝ¡¢»ÝÖÝµÈµØÔÚÄÚÏà¼Ì´«À´¹ØµêÏûÏ¢£¬±±¾©×î´óµ
+ÉÏº£´´»ÔÒ»Ò¹Ö®¼ä¹Øµê200¼Ò£¬´´»Ô×Ü²¿ÉîÛÚ¡¢°üÀ¨¹ãÖÝ¡¢»ÝÖÝµÈµØÔÚÄÚÏà¼Ì´«À´¹ØµêÏûÏ¢£¬±±¾©×î´óµ 
 ¡¤3ÔÂ25ÈÕ½¹µã¡°·¿¡±Ì¸£ºÓÐ³¥Î¬È¨
 ÄãÔÞÍ¬
 ¡¤Ã÷ÈÕ½¹µã¡°·¿¡±Ì¸¹Ø×¢£ºÎÒÃÇµÄ·¿×Ó£¬ÎÒ
@@ -47234,10 +45653,7 @@ fÊÓÆµ
 ±£Àû¾»Àû·­·¬ÍòÍ¨¶à×¬461£¥
 05ÈÕ
 µØ²ú¾«Ó¢²©¿ÍÈ¦
-¡¤ÓÖ¿´¡¶GONE
-WITH
-THE
-WIND¡·
+¡¤ÓÖ¿´¡¶GONE WITH THE WIND¡·
 ¡¤ÇåÑÅ¡ª¡ªºÉÀ¼Ð¡Õò±ðÊû
 ¡¤ÁªºÏÔç±¨£ºÐÂÀÍ¶¯ºÏÍ¬·¨ÉúÐ§
 ¡¤3£¬ÈËÃñÖ÷È¨ÂÛ¡¶ÀíÏë¹ú¡·164
@@ -47252,13 +45668,13 @@ WIND¡·
 ¡¤¿ñÈË×ø³ÔÉ½¿ÕÍÏÇ·´û¿î
 ·¿²ú¡¢ÓÎÍ§ÄÑÌÓÅÄÂ
 ¡¤×îÃÀÀöÀËÂþµÄµØ·½
-¿´ÊÀ½ç°Ë´ó»éÀñ³ÇÊÐ(×é
+¿´ÊÀ½ç°Ë´ó»éÀñ³ÇÊÐ(×é 
 ¡¤·çË®£º¿ÍÌü¾ö¶¨Ö÷ÈËÃüÔË
 ÈçºÎ±ÜÐ×»¯¼ª£¨×
 ¡¤ÑÇÖÞÎï¼Û×î¸ßµÄÊ®´ó³ÇÊÐ
-±±¾©µÚ7ÉÏº£µÚ8(
+±±¾©µÚ7ÉÏº£µÚ8( 
 ¡¤Ñ°ÕÒÊÀ¼äÌÒ»¨Ô´
-ÖÐ¹ú×îÖµµÃÈ¥µÄÊ®×ùÐ¡³Ç(
+ÖÐ¹ú×îÖµµÃÈ¥µÄÊ®×ùÐ¡³Ç( 
 ¡¤ÎªºÎÈç´Ë¸»ÓÐ£¿
 11¸ö±ÈÖÐ¹ú¸»Ô£µÄ·ÇÖÞ¹ú¼
 ¡¤ÊÀ½çÉÏ×î¸»ÓÐµÄ10´ó³ÇÊÐ
@@ -47266,18 +45682,16 @@ WIND¡·
 ¡¤Ñ°ÕÒ¼ªÀûµÄ·½Î»
 ÉÏ°à×å·çË®20¸ö×¢Òâ(Í¼)
 ¡¤ÈëÃÅÇÐÎðÏÈ¼û³ø²Þ
-¾Ó¼Ò±ØÖª21Ìõ·çË®½û¼É(
+¾Ó¼Ò±ØÖª21Ìõ·çË®½û¼É( 
 ¡¤50Æ½°Ù±ä¿Õ¼ä
-ÍøÓÑ·ò¸¾³äÂúÀËÂþÌðÃÛµÄ¼Ò(
+ÍøÓÑ·ò¸¾³äÂúÀËÂþÌðÃÛµÄ¼Ò( 
 ¡¤çÍ·×ÀËÂþÖ®¼Ò
 Ð¡Á½¿Ú12Íò´òÔì¾øÃÀ118Æ½(×
-¡¤Ê®¶þÐÇ×ùÂò·¿:¸÷×Ô²»Í¬µÄÐÔ¸ñ¾ö¶¨Âò·
-ÆÀÂÛ
+¡¤Ê®¶þÐÇ×ùÂò·¿:¸÷×Ô²»Í¬µÄÐÔ¸ñ¾ö¶¨Âò·ÆÀÂÛ
 ¡¤Ð¡ÌðÌð²¼À¼ÄÝ¶È¼Ù±ðÊûÆØ¹â
-ÕÕÆ¬È«¼ÍÊµ(×é
+ÕÕÆ¬È«¼ÍÊµ(×é 
 ÐÂÅÌ¶¯Ì¬
-¡¤µÏÈü-°ÂÁÖ80×éÖ¯Ê×ÅúÒµÖ÷¼¯Ìå¹Û¿´¡¶³¤½­ÆßºÅ
-31ÈÕ
+¡¤µÏÈü-°ÂÁÖ80×éÖ¯Ê×ÅúÒµÖ÷¼¯Ìå¹Û¿´¡¶³¤½­ÆßºÅ 31ÈÕ
 ¡¤¡°Ò»Â·ÉÏÓÐÄã¡±µÏÈü°ÂÁÖ80¾Ù°ìÄê¶ÈÃ½Ìå´ðÐ»
 24ÈÕ
 ¡¤³©ÏëÂÌÉ«Éú»î
@@ -47406,8 +45820,7 @@ WIND¡·
 24ÈÕ
 ¡¤º£°¶µØ²ú¶­ÊÂÖìÁ¦ÎªÌ¸µØ²úÓªÏúÀíÄîºÍ²úÆ·Ö®µÀ
 29ÈÕ
-¡¤½¹µãµØ²ú²©¿ÍÒ»ÖÜ¾«²Ê²©ÎÄÍÆ¼ö[12.10---12.14
-14ÈÕ
+¡¤½¹µãµØ²ú²©¿ÍÒ»ÖÜ¾«²Ê²©ÎÄÍÆ¼ö[12.10---12.14  14ÈÕ
 ¡¤ÈýÑÇ·ï»ËË®³Ç
 ÖÐ¹úµÚÒ»´ú¶È¼Ù²úÆ·´ú±í×÷
 14ÈÕ
@@ -47521,7 +45934,7 @@ WIND¡·
 ¡¤¹ã¸æ½çÃÀÅ®JanetµÄË½ÈË±ðÊû
 ³äÂú°®ÓëÐÒ¸£
 ¡¤ÃÀÅ®Éè¼ÆÊ¦´òÔì¶À¶°±ðÊû
-ÓÅÑÅ´¿ÕýÃñ×å·ç(
+ÓÅÑÅ´¿ÕýÃñ×å·ç( 
 [
 ±ðÊû¾«Ó¢È¦
 ]
@@ -47555,8 +45968,7 @@ WIND¡·
 03ÈÕ
 ¡¤´÷µÂÁºÐÐ£º¾Û½¹2007±±¾©±ðÊûÊÐ³¡
 03ÈÕ
-¡¤¾­Î³Ê±´ú£º2007Äê±±¾©¶À¶°±ðÊûÊÐ³¡Çé¿ö¼ò±¨(±
-03ÈÕ
+¡¤¾­Î³Ê±´ú£º2007Äê±±¾©¶À¶°±ðÊûÊÐ³¡Çé¿ö¼ò±¨(± 03ÈÕ
 Ð´×ÖÂ¥
 ¡¤°ø¡°µØÖ÷¡±
 °µ½è¿Ç
@@ -47635,8 +46047,7 @@ WIND¡·
 ´´Òâ´ºÌì°ãÎÂÜ°ÊæÊÊ¼Ò¾Ó(×éÍ¼)
 10ÈÕ
 ¡¤»ðºìÀËÂþÐÂÄê
-´¦´¦³äÂúÁËÀËÂþÓëÎÂÜ°µÄÐÂ·¿(Í¼
-10ÈÕ
+´¦´¦³äÂúÁËÀËÂþÓëÎÂÜ°µÄÐÂ·¿(Í¼  10ÈÕ
 ¡¤¹ýÄê¼äÏ¶×°ÐÞ¾­ÑéÌ¸
 2ÍòÔª×°³öÀËÂþÐÂ·¿£¨Í¼£©
 10ÈÕ
@@ -47864,7 +46275,7 @@ fÊÓÆµ
 ¡¤×¨·Ã¹ãÀûÀ´¸±×ÜÖ£¹úÇ¿
 ´´ÐÂ128´òÔìÊ×¸ö
 ¡¤Äþ²¨µØ²úÖ®¹ÖÏÖÏó:Õþ²ß¸ßÑ¹ÏÂÎªºÎµØÍõÒ
-¡¤Ö±²¥ÊµÂ¼£º¡¶ÒøÌ©¹ú¼Ê¡·VS¡¶¾­¼Ã¹Û²ì±¨
+¡¤Ö±²¥ÊµÂ¼£º¡¶ÒøÌ©¹ú¼Ê¡·VS¡¶¾­¼Ã¹Û²ì±¨ 
 ¡¤Ö±²¥ÊµÂ¼£º2007£¨Äþ²¨£©¿Æ¼¼´´ÒµÍ¶×ÊÂÛ
 ¡¤×¨¼ÒÆë¾Û¼ÃÄÏÐÂÊÓ½ÇÂÛÌ³
 ½¹µãÍø¹¢Ïþ»ª×
@@ -47964,8 +46375,7 @@ fÊÓÆµ
 ¡¤½¨Éè²¿Æëæ÷£º¼Ó´ó²é´¦Á¦¶È
 ²»³ÏÐÅ·¿ÆóÇå³öÊÐ³
 ¡¤200¼Ò·¿Æó×Ô·¢³«Òé:²»ºåÌ§·¿¼Û
-²»¶Ú»ý·¿Ô
-ÆÀÂÛ
+²»¶Ú»ý·¿ÔÆÀÂÛ
 ¡¤ÐÂÊÓ½ÇÉÏÐìµáÇìºôÓõ¿ªÕ÷·¿µØ²úË°
 ·½°¸ÒÑµÝ½»
 ËÑÐÂÎÅ
@@ -48060,63 +46470,46 @@ fÊÓÆµ
 ×â·¿²»´ú±íÖÐ¹úÈËÂò·¿´«Í³¹ÛµÄ¸Ä±
 11ÈÕ
 ¡¤·¿¼ÛÕæÏÂ½µÁË»¹Âò²»Âò
-ÀÏ°ÙÐÕ¾¿¾¹ÔÚµÈÊ²Ã
-ÆÀÂÛ
+ÀÏ°ÙÐÕ¾¿¾¹ÔÚµÈÊ²ÃÆÀÂÛ
 10ÈÕ
 ÍÁµØ¹ÒÅÆÐÅÏ¢Æ½Ì¨
 Ãâ·Ñ·¢²¼
-[È«¹ú
-]
+[È«¹ú ]
 º£ÄÏÊ¡ÈË´ó×¡
-[±±¾©
-]
+[±±¾© ]
 »Ø¸´£ºÓÐ×Ê½ð
-[±±¾©
-]
+[±±¾© ]
 »Ø¸´£ºÓÐ×Ê½ð
-[±±¾©
-]
+[±±¾© ]
 »Ø¸´£ºÓÐ×Ê½ð
-[±±¾©
-]
+[±±¾© ]
 »Ø¸´£ºÓÐ×Ê½ð
-[±±¾©
-]
+[±±¾© ]
 »Ø¸´£ºÓÐ×Ê½ð
-[È«¹ú
-]
+[È«¹ú ]
 ÄÏ´÷ºÓ·¿²ú±±
-[±±¾©
-]
+[±±¾© ]
 »Ø¸´£ºÁªÏµ·½
-[È«¹ú
-]
+[È«¹ú ]
 ÎÒÓÐÊ¡ÊÐÖØµã
-[È«¹ú
-]
+[È«¹ú ]
 ¹òÇó´ïÈË½â»ó
-[±±¾©
-]
+[±±¾© ]
 ÎÒÓÐÍÁµØÏîÄ¿
-[Ìì½ò
-]
+[Ìì½ò ]
 ±±¾©Ìì½òÍÁµØ
-[±±¾©
-]
+[±±¾© ]
 ÁªÏµ·½Ê½
-[±±¾©
-]
+[±±¾© ]
 ±±¾©Ìì½òÍÁµØ
-[±±¾©
-]
+[±±¾© ]
 »Ø¸´£º**±±¾©
-[±±¾©
-]
+[±±¾© ]
 »Ø¸´£º**±±¾©
 ¸ü¶à>>
 ½¹µã¹Ø×¢
 ÈýµØÁ¬Ïß¾Û½¹ÖÐ½é¹Øµê±³ºóµÄºê
-ÉÏº£´´»ÔÒ»Ò¹Ö®¼ä¹Øµê200¼Ò£¬´´»Ô×Ü²¿ÉîÛÚ¡¢°üÀ¨¹ãÖÝ¡¢»ÝÖÝµÈµØÔÚÄÚÏà¼Ì´«À´¹ØµêÏûÏ¢£¬±±¾©×î´óµ
+ÉÏº£´´»ÔÒ»Ò¹Ö®¼ä¹Øµê200¼Ò£¬´´»Ô×Ü²¿ÉîÛÚ¡¢°üÀ¨¹ãÖÝ¡¢»ÝÖÝµÈµØÔÚÄÚÏà¼Ì´«À´¹ØµêÏûÏ¢£¬±±¾©×î´óµ 
 ¡¤3ÔÂ25ÈÕ½¹µã¡°·¿¡±Ì¸£ºÓÐ³¥Î¬È¨
 ÄãÔÞÍ¬
 ¡¤Ã÷ÈÕ½¹µã¡°·¿¡±Ì¸¹Ø×¢£ºÎÒÃÇµÄ·¿×Ó£¬ÎÒ
@@ -48175,10 +46568,7 @@ fÊÓÆµ
 ±£Àû¾»Àû·­·¬ÍòÍ¨¶à×¬461£¥
 05ÈÕ
 µØ²ú¾«Ó¢²©¿ÍÈ¦
-¡¤ÓÖ¿´¡¶GONE
-WITH
-THE
-WIND¡·
+¡¤ÓÖ¿´¡¶GONE WITH THE WIND¡·
 ¡¤ÇåÑÅ¡ª¡ªºÉÀ¼Ð¡Õò±ðÊû
 ¡¤ÁªºÏÔç±¨£ºÐÂÀÍ¶¯ºÏÍ¬·¨ÉúÐ§
 ¡¤3£¬ÈËÃñÖ÷È¨ÂÛ¡¶ÀíÏë¹ú¡·164
@@ -48193,13 +46583,13 @@ WIND¡·
 ¡¤¿ñÈË×ø³ÔÉ½¿ÕÍÏÇ·´û¿î
 ·¿²ú¡¢ÓÎÍ§ÄÑÌÓÅÄÂ
 ¡¤×îÃÀÀöÀËÂþµÄµØ·½
-¿´ÊÀ½ç°Ë´ó»éÀñ³ÇÊÐ(×é
+¿´ÊÀ½ç°Ë´ó»éÀñ³ÇÊÐ(×é 
 ¡¤·çË®£º¿ÍÌü¾ö¶¨Ö÷ÈËÃüÔË
 ÈçºÎ±ÜÐ×»¯¼ª£¨×
 ¡¤ÑÇÖÞÎï¼Û×î¸ßµÄÊ®´ó³ÇÊÐ
-±±¾©µÚ7ÉÏº£µÚ8(
+±±¾©µÚ7ÉÏº£µÚ8( 
 ¡¤Ñ°ÕÒÊÀ¼äÌÒ»¨Ô´
-ÖÐ¹ú×îÖµµÃÈ¥µÄÊ®×ùÐ¡³Ç(
+ÖÐ¹ú×îÖµµÃÈ¥µÄÊ®×ùÐ¡³Ç( 
 ¡¤ÎªºÎÈç´Ë¸»ÓÐ£¿
 11¸ö±ÈÖÐ¹ú¸»Ô£µÄ·ÇÖÞ¹ú¼
 ¡¤ÊÀ½çÉÏ×î¸»ÓÐµÄ10´ó³ÇÊÐ
@@ -48207,18 +46597,16 @@ WIND¡·
 ¡¤Ñ°ÕÒ¼ªÀûµÄ·½Î»
 ÉÏ°à×å·çË®20¸ö×¢Òâ(Í¼)
 ¡¤ÈëÃÅÇÐÎðÏÈ¼û³ø²Þ
-¾Ó¼Ò±ØÖª21Ìõ·çË®½û¼É(
+¾Ó¼Ò±ØÖª21Ìõ·çË®½û¼É( 
 ¡¤50Æ½°Ù±ä¿Õ¼ä
-ÍøÓÑ·ò¸¾³äÂúÀËÂþÌðÃÛµÄ¼Ò(
+ÍøÓÑ·ò¸¾³äÂúÀËÂþÌðÃÛµÄ¼Ò( 
 ¡¤çÍ·×ÀËÂþÖ®¼Ò
 Ð¡Á½¿Ú12Íò´òÔì¾øÃÀ118Æ½(×
-¡¤Ê®¶þÐÇ×ùÂò·¿:¸÷×Ô²»Í¬µÄÐÔ¸ñ¾ö¶¨Âò·
-ÆÀÂÛ
+¡¤Ê®¶þÐÇ×ùÂò·¿:¸÷×Ô²»Í¬µÄÐÔ¸ñ¾ö¶¨Âò·ÆÀÂÛ
 ¡¤Ð¡ÌðÌð²¼À¼ÄÝ¶È¼Ù±ðÊûÆØ¹â
-ÕÕÆ¬È«¼ÍÊµ(×é
+ÕÕÆ¬È«¼ÍÊµ(×é 
 ÐÂÅÌ¶¯Ì¬
-¡¤µÏÈü-°ÂÁÖ80×éÖ¯Ê×ÅúÒµÖ÷¼¯Ìå¹Û¿´¡¶³¤½­ÆßºÅ
-31ÈÕ
+¡¤µÏÈü-°ÂÁÖ80×éÖ¯Ê×ÅúÒµÖ÷¼¯Ìå¹Û¿´¡¶³¤½­ÆßºÅ 31ÈÕ
 ¡¤¡°Ò»Â·ÉÏÓÐÄã¡±µÏÈü°ÂÁÖ80¾Ù°ìÄê¶ÈÃ½Ìå´ðÐ»
 24ÈÕ
 ¡¤³©ÏëÂÌÉ«Éú»î
@@ -48347,8 +46735,7 @@ WIND¡·
 24ÈÕ
 ¡¤º£°¶µØ²ú¶­ÊÂÖìÁ¦ÎªÌ¸µØ²úÓªÏúÀíÄîºÍ²úÆ·Ö®µÀ
 29ÈÕ
-¡¤½¹µãµØ²ú²©¿ÍÒ»ÖÜ¾«²Ê²©ÎÄÍÆ¼ö[12.10---12.14
-14ÈÕ
+¡¤½¹µãµØ²ú²©¿ÍÒ»ÖÜ¾«²Ê²©ÎÄÍÆ¼ö[12.10---12.14  14ÈÕ
 ¡¤ÈýÑÇ·ï»ËË®³Ç
 ÖÐ¹úµÚÒ»´ú¶È¼Ù²úÆ·´ú±í×÷
 14ÈÕ
@@ -48462,7 +46849,7 @@ WIND¡·
 ¡¤¹ã¸æ½çÃÀÅ®JanetµÄË½ÈË±ðÊû
 ³äÂú°®ÓëÐÒ¸£
 ¡¤ÃÀÅ®Éè¼ÆÊ¦´òÔì¶À¶°±ðÊû
-ÓÅÑÅ´¿ÕýÃñ×å·ç(
+ÓÅÑÅ´¿ÕýÃñ×å·ç( 
 [
 ±ðÊû¾«Ó¢È¦
 ]
@@ -48496,8 +46883,7 @@ WIND¡·
 03ÈÕ
 ¡¤´÷µÂÁºÐÐ£º¾Û½¹2007±±¾©±ðÊûÊÐ³¡
 03ÈÕ
-¡¤¾­Î³Ê±´ú£º2007Äê±±¾©¶À¶°±ðÊûÊÐ³¡Çé¿ö¼ò±¨(±
-03ÈÕ
+¡¤¾­Î³Ê±´ú£º2007Äê±±¾©¶À¶°±ðÊûÊÐ³¡Çé¿ö¼ò±¨(± 03ÈÕ
 Ð´×ÖÂ¥
 ¡¤°ø¡°µØÖ÷¡±
 °µ½è¿Ç
@@ -48576,8 +46962,7 @@ WIND¡·
 ´´Òâ´ºÌì°ãÎÂÜ°ÊæÊÊ¼Ò¾Ó(×éÍ¼)
 10ÈÕ
 ¡¤»ðºìÀËÂþÐÂÄê
-´¦´¦³äÂúÁËÀËÂþÓëÎÂÜ°µÄÐÂ·¿(Í¼
-10ÈÕ
+´¦´¦³äÂúÁËÀËÂþÓëÎÂÜ°µÄÐÂ·¿(Í¼  10ÈÕ
 ¡¤¹ýÄê¼äÏ¶×°ÐÞ¾­ÑéÌ¸
 2ÍòÔª×°³öÀËÂþÐÂ·¿£¨Í¼£©
 10ÈÕ
@@ -48816,12 +47201,7 @@ LG±Ê¼Ç±¾
 5000ÒÔÏÂ
 »ªË¶
 Ò×PC|HP
-520(KD0|ÉñÖÛ
-ÌìÔË
-|ÁªÏë
-ÐñÈÕC|ÉñÖÛ
-ÌìÔË
-|
+520(KD0|ÉñÖÛ ÌìÔË |ÁªÏë ÐñÈÕC|ÉñÖÛ ÌìÔË | 
 6000-8000
 ÁªÏë
 ÌìÒÝ
@@ -49166,25 +47546,11 @@ UMPC×¨Çø
 ±Ê¼Ç±¾¾­ÏúÉÌ
 |
 ±Ê¼Ç±¾ÉçÇø
-#brandlink{width:959px;
-text-align:center;font-family:Arial;
-font-size:12px;color:#949494;padding:2px
-0px
-2px
-5px;clear:both;
-margin:0px
-0px
-5px
-0px;
-overflow:hidden;border:0px}
+#brandlink{width:959px; text-align:center;font-family:Arial; font-size:12px;color:#949494;padding:2px 0px 2px 5px;clear:both; margin:0px 0px 5px 0px; overflow:hidden;border:0px}
 #brandlink
-a{color:#1463B3;
-text-decoration:none;
-font-family:simsun}
+a{color:#1463B3; text-decoration:none; font-family:simsun}
 #brandlink
-a:hover{color:#1463B3;
-text-decoration:
-underline;}
+a:hover{color:#1463B3; text-decoration: underline;}
 ±Ê¼Ç±¾Æ·ÅÆ´óÈ«£ºÁªÏë|HP|»ªË¶|´÷¶û|ÉñÖÛ|Ë÷Äá|IBM|Acer|ÈýÐÇ|Æ»¹û|¶«Ö¥|Ã÷»ù|Çå»ªÍ¬·½|·½Õý|º£¶û|Gateway|¸»Ê¿Í¨|ÆßÏ²|ÐÂÀ¶|TCL|LG|¸ü¶à>>
 -->
 ±Ê¼Ç±¾Æ·ÅÆ´óÈ«£ºÁªÏë|HP|»ªË¶|´÷¶û|ÉñÖÛ|Ë÷Äá|IBM|Acer|ÈýÐÇ|Æ»¹û|¶«Ö¥|Ã÷»ù|Çå»ªÍ¬·½|·½Õý|º£¶û|¸»Ê¿Í¨|ÆßÏ²|Gateway|ÐÂÀ¶|TCL|LG|OQO|¸ü¶à
@@ -49275,8 +47641,7 @@ X60
 £¤10500
 2
 ÁªÏë
-ÌìÒÝF21(°ÂÔË
-ÐÂÆ·
+ÌìÒÝF21(°ÂÔË ÐÂÆ· 
 3
 ÈýÐÇ
 Q1-V000
@@ -49288,8 +47653,7 @@ VGN-G118CN
 5
 ´÷¶û
 XPS
-M1210(Q51
-£¤8698
+M1210(Q51 £¤8698 
 6
 Ë÷Äá
 VGN-TX58CN
@@ -49302,13 +47666,11 @@ TX10
 8
 ´÷¶û
 XPS
-M1210(Q51
-£¤7698
+M1210(Q51 £¤7698 
 9
 ´÷¶û
 XPS
-M1210(Q51
-£¤10698
+M1210(Q51 £¤10698 
 10
 Ë÷Äá
 VGN-TX56C/B
@@ -49347,8 +47709,7 @@ Q35
 18
 ´÷¶û
 XPS
-M1210(Q51
-£¤8999
+M1210(Q51 £¤8999 
 19
 IBM
 ThinkPad
@@ -49363,8 +47724,7 @@ VGN-UX27CN
 1
 HP
 Compaq
-nx6330(R
-£¤8300
+nx6330(R £¤8300 
 2
 IBM
 ThinkPad
@@ -49386,8 +47746,7 @@ Inspiron
 6
 Æ»¹û
 MacBook
-(MA69
-£¤9399
+(MA69 £¤9399 
 7
 HP
 Compaq
@@ -49409,8 +47768,7 @@ dv23
 11
 Æ»¹û
 MacBook
-(MA70
-£¤11298
+(MA70 £¤11298 
 12
 Ë÷Äá
 VGN-SZ422
@@ -49430,8 +47788,7 @@ VGN-C22CH/B
 16
 Æ»¹û
 MacBook
-(MA70
-£¤10898
+(MA70 £¤10898 
 17
 »ÝÆÕ
 520(GH632AA)
@@ -49475,8 +47832,7 @@ VGN-FE48C
 Æ»¹û
 MacBook
 Pro
-(
-£¤26498
+( £¤26498 
 7
 »ªË¶
 Z53Q23Jr-SL
@@ -49531,8 +47887,7 @@ F3QT52Tc-SL
 19
 HP
 Compaq
-nx6325(G
-£¤6300
+nx6325(G £¤6300 
 20
 HP
 Pavilion
@@ -49894,8 +48249,7 @@ airÔÚ¹úÄÚÉÏÊÐ£¬ÎÒÒ»¶¨»áÂÌ½£[17260/132]13ÈÕ
 ¡¤ÉñÖÛÎâº£¾ü£º¸ÐÐ»ËùÓÐÚ®»ÙÉñÖÛµÄÇ¹ÊÖ£¡É½¶«×³¶¡[19405/110]13ÈÕ
 ¡¤1520À¶É«µ½ÊÖ
 ÉÏÍ¼
-(14ºÅ
-Éý¼¶U°æ³É¹¦¸øÄãÖ§ÕÐ[37519/345]13ÈÕ
+(14ºÅ Éý¼¶U°æ³É¹¦¸øÄãÖ§ÕÐ[37519/345]13ÈÕ
 Æ·ÅÆ£ºIBM
 |
 »ÝÆÕ
@@ -50526,7 +48880,7 @@ MORE
 2-11
 ¡¤ÖÐ¹úÊÖ»úÉñÂë----ÎªÓÃ»§Ìá
 2-11
-¡¤¼âÈñÊªðàºÍÉúÖ³Æ÷°©£¨°üÀ¨ÁÛ°©
+¡¤¼âÈñÊªðàºÍÉúÖ³Æ÷°©£¨°üÀ¨ÁÛ°© 
 2-11
 ¡¤¡°ÒÆ¶¯µç±¦¡±ËêÄ©´úÀí´óÅÉËÍ-
 2-10
@@ -50768,7 +49122,7 @@ MORE
 MORE
 ¡¤ÖÐ¹úÆóÒµÉú´æ·¨Ôò--ºóWTOÊ±´ú
 2-8
-¡¤ÇúÀèÃô×îÐÂÁ¦×÷¡¶»ÆµÛÄÚ¾­--ËÄ¼¾
+¡¤ÇúÀèÃô×îÐÂÁ¦×÷¡¶»ÆµÛÄÚ¾­--ËÄ¼¾ 
 2-3
 ¡¤ÈÃÄãµÄ±¦±´Ñ§¹ÔµÄ¶«Î÷¡ª¡ªÂèßä±¦±´
 2-3
@@ -50966,8 +49320,7 @@ document.write('
 ±¾±¾ÖÜ¿´µã£ºÄêÇ°ÊÐ³¡»ØÅ¯
 ½µ¼Û´ÙÏúÔö¶à
 [Ã÷»ùR43¸ßÅä»úÐÍÏÖÊÛ7800]
-[¸»Ê¿Í¨UMPC
-U1010ÌØ¼Û8350]
+[¸»Ê¿Í¨UMPC U1010ÌØ¼Û8350]
 [¶«Ö¥14´çË«ºË±¾½ö4999Ôª]
 ¡¤ÅäT7250´¦ÀíÆ÷£¡Ã÷»ùR43¸ßÅä»úÐÍÏÖÊÛ7800
 ¡¤ÔÙ´´ÐÂµÍ£¡¸»Ê¿Í¨UMPC
@@ -51053,8 +49406,7 @@ U1010ÄêÇ°ÌØ¼Û8350Ôª
 ÆßÏ²-KW300CT
 »ÝÆÕ(HP)-Pavilion³©ÓÎÈËzt3324AP
 ¸»Ê¿Í¨(FUJITSU)-Stylistic
-ST5030(P-M
-753)
+ST5030(P-M 753)
 IBM-X60s-1702-LU1
 Æ»¹û(Apple)-MacBook
 MA699CH/A
@@ -52699,11 +51051,7 @@ Reserved
 ¾©ICPÖ¤060732ºÅ
 °æÈ¨ËùÓÐ
 ËÑ·¿¿Ø¹ÉÓÐÏÞ¹«Ë¾
-<//!--#include
-virtual="/html/homepage/ad/juanlian.htm"--><//!--#include
-virtual="/html/homepage/ad/siye.htm"--><//!--#include
-virtual="/html/homepage/ad/kmh.htm"--><//!--#include
-virtual="/html/homepage/ad/liumeiti.htm"-->
+<//!--#include virtual="/html/homepage/ad/juanlian.htm"--><//!--#include virtual="/html/homepage/ad/siye.htm"--><//!--#include virtual="/html/homepage/ad/kmh.htm"--><//!--#include virtual="/html/homepage/ad/liumeiti.htm"-->
 Ö÷Ò³£­£­ÄÏ¶¼ÖÜ¿¯µç×Ó±¨
 Ö÷Ò³
 Ô­Ö­ÔÃ¶Á
@@ -53245,9 +51593,7 @@ CNETÖÐ¹ú¡¤ZOL
 ¡¾¿Æ¼¼°ÂÔË¡¿
 ¡¾¹Ø±Õ¡¿
 ¼Û¸ñ¼°Ïà¹ØÐÅÏ¢²»×¼Çë²¦´ò
-ZOL(7
-X
-8)Ð¡Ê±Ãâ·ÑÍ¶Ëßµç»°£º400-678-0068-6
+ZOL(7 X 8)Ð¡Ê±Ãâ·ÑÍ¶Ëßµç»°£º400-678-0068-6
 Ãâ·Ñ²¦´òZOL¿ÍÎñµç»°
 ÎÄÕÂÆÀÂÛ
 ±Ê¼Ç±¾£¬Ì¨Ê½»ú
@@ -53762,9 +52108,7 @@ T8100(2.1GHz)
 ¶þ¼¶»º´æ
 3MB
 Ñ¸³Û¼¼Êõ
-Ñ¸³Û4.5(Santa
-Rosa
-Refresh)
+Ñ¸³Û4.5(Santa Rosa Refresh)
 Ö÷°åÃèÊö
 Intel
 GM965
@@ -53809,8 +52153,7 @@ SATA´óÈÝÁ¿Ó²ÅÌÒÔ¼°DVDRW¿ÌÂ¼¹âÇýÈÃÄú±£´æÔÙ¶àµÄ×ÊÁÏ¶¼²»³ÉÎÊÌâ¡£ÈËÐÔ»¯µÄÉè¼Æ£¬ÈÃÄúÌ
 DDR-llÄÚ´æ¡¢160GB
 SATAÓ²ÅÌ¡¢DVDRW¿ÌÂ¼¹âÇý¡¢14.1Ó¢´ç¹åÀö¿íÆÁ¡¢ÄÚÖÃ130WÏñËØÉãÏñÍ·ÒÔ¼°3945ABGÎÞÏßÍø¿¨ÈÃÕâ¿î±Ê¼Ç±¾ÓÐ×Å²»´íµÄÐÔÄÜ£¬¶ø5998ÔªµÄ¼Û¸ñ£¬ÈÃÉñÖÛÓÅÑÅHP800ÔÙ´ÎÈ·Á¢ÁËÉñÖÛÔÚ¼Û¸ñ·½ÃæµÄÓÅÊÆ¡£ÏÖÔÚ¹ºÂò´Ë¿îÉñÖÛÓÅÑÅHP800»¹¿ÉÒÔ188ÔªµÍ¼Û³¬ÖµÏíÊÜ¼ÛÖµ1888ÔªµÄÉñÖÛ±Ê¼Ç±¾Ì××°Àñ°ü£¬ÄÚº¬¾­µäÓÎÏ·Èí¼þ¡¢±Ê¼Ç±¾°ü¡¢Òº¾§Çå½àÌ××°¡¢¹âµçÊóºÍÊó±êµæµÈ¡£
 ÓûÖª¸ü¶àÉñÖÛ±Ê¼Ç±¾ÐÅÏ¢£¬Çëµã»÷http://dzb.hasee.com/msg/ad/hasee.html¡£ÈçÐè¶©¹ºÇë²¦´òÉñÖÛÃâ·Ñ×ÉÑ¯µç»°800-999-6856£¬Î´¿ªÍ¨800µç»°µÄÇøÓò¿É²¦´ò0755-84710051£¬¼´¿ÉÏíÊÜ×¨ÊôÓÚÄúµÄ¸öÐÔ»¯Éý¼¶¶¨ÖÆ·þÎñ¡£
-Ïà¹ØÎÄÕÂÁ´½Ó£º¡¶Ñ¸³Û4.5À´ÁË
-45ÄÉÃ×ÒÆ¶¯´¦ÀíÆ÷¶Ô±È²âÊÔ¡·
+Ïà¹ØÎÄÕÂÁ´½Ó£º¡¶Ñ¸³Û4.5À´ÁË 45ÄÉÃ×ÒÆ¶¯´¦ÀíÆ÷¶Ô±È²âÊÔ¡·
 [1]
 [2]
 ¼ÌÐø>>ÏÂÒ»Ò³
@@ -53821,9 +52164,7 @@ SATAÓ²ÅÌ¡¢DVDRW¿ÌÂ¼¹âÇý¡¢14.1Ó¢´ç¹åÀö¿íÆÁ¡¢ÄÚÖÃ130WÏñËØÉãÏñÍ·ÒÔ¼°3945ABGÎÞÏßÍø¿¨
 ¡¾¿Æ¼¼°ÂÔË¡¿
 ¡¾¹Ø±Õ¡¿
 ¼Û¸ñ¼°Ïà¹ØÐÅÏ¢²»×¼Çë²¦´ò
-ZOL(7
-X
-8)Ð¡Ê±Ãâ·ÑÍ¶Ëßµç»°£º400-678-0068-6
+ZOL(7 X 8)Ð¡Ê±Ãâ·ÑÍ¶Ëßµç»°£º400-678-0068-6
 Ãâ·Ñ²¦´òZOL¿ÍÎñµç»°
 ÎÄÕÂÆÀÂÛ
 ±Ê¼Ç±¾£¬Ì¨Ê½»ú
@@ -53850,7 +52191,7 @@ HP800
 CPUÀàÐÍ£ºIntel
 ¿áî£2Ë«ºË
 ×î¸ßÖ÷Æµ£º2100.000
-Ñ¸³Û¼¼Êõ£ºÑ¸³Û4.5(Santa
+Ñ¸³Û¼¼Êõ£ºÑ¸³Û4.5(Santa 
 ÏêÏ¸²ÎÊý>>
 ¡¤±±¾©ºã»ÔÌÚ´ï
 ¡¤±±¾©ÕýÔªºã»Ô
@@ -54457,9 +52798,7 @@ CNETÖÐ¹ú¡¤ZOL
 ¡¾¿Æ¼¼°ÂÔË¡¿
 ¡¾¹Ø±Õ¡¿
 ¼Û¸ñ¼°Ïà¹ØÐÅÏ¢²»×¼Çë²¦´ò
-ZOL(7
-X
-8)Ð¡Ê±Ãâ·ÑÍ¶Ëßµç»°£º400-678-0068-6
+ZOL(7 X 8)Ð¡Ê±Ãâ·ÑÍ¶Ëßµç»°£º400-678-0068-6
 Ãâ·Ñ²¦´òZOL¿ÍÎñµç»°
 ÎÄÕÂÆÀÂÛ
 ±Ê¼Ç±¾£¬Ì¨Ê½»ú
@@ -54900,9 +53239,7 @@ X2300¶ÀÁ¢ÏÔ¿¨¡¢DVD¿ÌÂ¼»úºÍ3945ABGÎÞÏßÄ£¿é£¬·ûºÏÑ¸³Û4ÈÏÖ¤±ê×¼¡£ÖµµÃÒ»ÌáµÄÊÇ£¬¸ù¾Ý
 ¡¾¿Æ¼¼°ÂÔË¡¿
 ¡¾¹Ø±Õ¡¿
 ¼Û¸ñ¼°Ïà¹ØÐÅÏ¢²»×¼Çë²¦´ò
-ZOL(7
-X
-8)Ð¡Ê±Ãâ·ÑÍ¶Ëßµç»°£º400-678-0068-6
+ZOL(7 X 8)Ð¡Ê±Ãâ·ÑÍ¶Ëßµç»°£º400-678-0068-6
 Ãâ·Ñ²¦´òZOL¿ÍÎñµç»°
 ÎÄÕÂÆÀÂÛ
 ±Ê¼Ç±¾£¬Ì¨Ê½»ú
@@ -54926,8 +53263,7 @@ VGN-CR23/P£¨»ªÀö·Û£©
 CPUÀàÐÍ£ºIntel
 ¿áî£2Ë«ºË
 ×î¸ßÖ÷Æµ£º2000.000
-Ñ¸³Û¼¼Êõ£ºÑ¸³ÛIV(Santa
-R
+Ñ¸³Û¼¼Êõ£ºÑ¸³ÛIV(Santa R
 ÏêÏ¸²ÎÊý>>
 ¡¤±±¾©Íø¼ÊÊ±´ú
 ¡¤±±¾©¼Ñ¿¬Î°Òµ¿Æ¼¼
@@ -55045,7 +53381,7 @@ VGN-CR23/P£¨»ª
 CPUÀàÐÍ£ºIntel
 ¿áî£2Ë«
 ×î¸ßÖ÷Æµ£º2000.000
-Ñ¸³Û¼¼Êõ£ºÑ¸³ÛIV(Santa
+Ñ¸³Û¼¼Êõ£ºÑ¸³ÛIV(Santa 
 16ÕÅÍ¼Æ¬
 5ÆªÎÄÕÂ
 ÏêÏ¸ÐÅÏ¢>>
@@ -55064,18 +53400,17 @@ CRÓÃµÄÊÇÊ²Ã´ÅÆ×ÓÄÚ´æ,Çë´ó
 ¶«Ö¥ºÍË÷ÄáÄÄ¸ö±¾±¾¸üºÃ°¡£¿
 ¹Ø×¢
 Ë÷Äá
-VGN-CR23/P£¨»ªÀö·Û
-µÄÓÃ»§»¹ÔÚ¹Ø×¢...
+VGN-CR23/P£¨»ªÀö·Û µÄÓÃ»§»¹ÔÚ¹Ø×¢...
 Ë÷Äá
-VGN-CR23/W£¨´¿ÃÀ°×
+VGN-CR23/W£¨´¿ÃÀ°× 
 Ë÷Äá
 VGN-CR13/P
 Ë÷Äá
-VGN-CR23/B(Å¨ÓôºÚ
+VGN-CR23/B(Å¨ÓôºÚ 
 Ë÷Äá
 VGN-NR23H
 Ë÷Äá
-VGN-TZ18N/X(×ð¹óºÚ
+VGN-TZ18N/X(×ð¹óºÚ 
 Ë÷Äá
 VGN-FZ25
 Ê®´ó±Ê¼Ç±¾
@@ -55555,9 +53890,7 @@ Intel
 ¿áî£2Ë«ºË
 T8300(2.4GHz)
 Ñ¸³Û¼¼Êõ
-Ñ¸³Û4.5(Santa
-Rosa
-Refresh)
+Ñ¸³Û4.5(Santa Rosa Refresh)
 Ö÷°åÃèÊö
 Intel
 PM965
@@ -55623,9 +53956,7 @@ Inspiron
 ¡¾¿Æ¼¼°ÂÔË¡¿
 ¡¾¹Ø±Õ¡¿
 ¼Û¸ñ¼°Ïà¹ØÐÅÏ¢²»×¼Çë²¦´ò
-ZOL(7
-X
-8)Ð¡Ê±Ãâ·ÑÍ¶Ëßµç»°£º400-678-0068-6
+ZOL(7 X 8)Ð¡Ê±Ãâ·ÑÍ¶Ëßµç»°£º400-678-0068-6
 Ãâ·Ñ²¦´òZOL¿ÍÎñµç»°
 ÎÄÕÂÆÀÂÛ
 ±Ê¼Ç±¾£¬Ì¨Ê½»ú
@@ -55652,7 +53983,7 @@ Inspiron
 CPUÀàÐÍ£ºIntel
 ¿áî£2Ë«ºË
 ×î¸ßÖ÷Æµ£º2400.000
-Ñ¸³Û¼¼Êõ£ºÑ¸³Û4.5(Santa
+Ñ¸³Û¼¼Êõ£ºÑ¸³Û4.5(Santa 
 ÏêÏ¸²ÎÊý>>
 ¡¤ÌÚÑ¶´ï¿Æ¼¼
 ¡¤Ñ¶³ÛÊÀ¼Í
@@ -55799,23 +54130,22 @@ CPUÀàÐÍ£ºIntel
 ¹Ø×¢
 ´÷¶û
 Inspiron
-1520£¨R5
-µÄÓÃ»§»¹ÔÚ¹Ø×¢...
+1520£¨R5 µÄÓÃ»§»¹ÔÚ¹Ø×¢...
 ´÷¶û
 XPS
-M1530£¨R51023
+M1530£¨R51023 
 ´÷¶û
 Inspiron
-1520£¨R5
+1520£¨R5 
 ´÷¶û
 Inspiron
-1525£¨R5
+1525£¨R5 
 ´÷¶û
 Inspiron
-1420£¨R5
+1420£¨R5 
 ´÷¶û
 Inspiron
-1420£¨R5
+1420£¨R5 
 ´÷¶û
 Latitude
 D630
@@ -55962,10 +54292,10 @@ Inspiron
 ±±¾©ÓðÃ÷´´Òµ¿Æ¼¼
 010-82537098
 £¤8630
-ÉñÖÝÀ¶¿ì(Õþ¸®²É¹ºÖ¸
+ÉñÖÝÀ¶¿ì(Õþ¸®²É¹ºÖ¸ 
 010-51297858
 £¤7919
-¹èÇÅ¿Æ¼¼£¨Õþ¸®²É¹º
+¹èÇÅ¿Æ¼¼£¨Õþ¸®²É¹º 
 010-82539350
 £¤8800
 ÖÚ³É»ÝÆÖ
@@ -56285,15 +54615,10 @@ GeForce
 8600M
 GT¶ÀÁ¢ÏÔÊ¾Ð¾Æ¬¡£¸ß²ã¼¶µÄÐÔÄÜ±íÏÖÅäºÏÆäÊ±ÉÐµÄÍâ±íÊ¹¸Ã¿îR700±Ê¼Ç±¾ÔÚ¾ºÕù¼¤ÁÒµÄÊÐ³¡ÉÏ²©µÃÁËÒ»Ï¯Ö®µØ¡£
 Íâ¹Û²¿·ÖÊÓÆµÆÀ²â
-ÔÚÇ°¼¸ÌìµÄÆÀ²âÎÄÕÂÖÐ±à¼­Îª´ó¼ÒÏêÏ¸µÄ½éÉÜÁËÕâ¿îÈýÐÇR700±Ê¼Ç±¾µÄ¸÷²¿·ÖÏ¸½Ú£¬¸÷Î»¶ÁÕß¿ÉÒÔÍ¨¹ý¡¶ÊÓÆµ£º45ÄÉÃ×Ó°ÒôÖÐÐÄ
-³õÆÀÈýÐÇR700±¾
-¡·ÕâÆªÎÄÕÂ¶ÔR700±Ê¼Ç±¾½øÐÐ³ä·ÖµÄÁË½â¡£
+ÔÚÇ°¼¸ÌìµÄÆÀ²âÎÄÕÂÖÐ±à¼­Îª´ó¼ÒÏêÏ¸µÄ½éÉÜÁËÕâ¿îÈýÐÇR700±Ê¼Ç±¾µÄ¸÷²¿·ÖÏ¸½Ú£¬¸÷Î»¶ÁÕß¿ÉÒÔÍ¨¹ý¡¶ÊÓÆµ£º45ÄÉÃ×Ó°ÒôÖÐÐÄ ³õÆÀÈýÐÇR700±¾ ¡·ÕâÆªÎÄÕÂ¶ÔR700±Ê¼Ç±¾½øÐÐ³ä·ÖµÄÁË½â¡£
 Ïà¹ØÎÄÕÂÁ´½Ó£º
-¡¶ÊÓÆµ£º45ÄÉÃ×Ó°ÒôÖÐÐÄ
-³õÆÀÈýÐÇR700±¾¡·
-¡¶45ÄÉÃ×T9ÏÖÉí
-»ªË¶Æ½Ì¨Ê×²âT9300
-CPU¡·
+¡¶ÊÓÆµ£º45ÄÉÃ×Ó°ÒôÖÐÐÄ ³õÆÀÈýÐÇR700±¾¡·
+¡¶45ÄÉÃ×T9ÏÖÉí »ªË¶Æ½Ì¨Ê×²âT9300 CPU¡·
 [1]
 [2]
 [3]
@@ -56313,9 +54638,7 @@ CPU¡·
 ¡¾¿Æ¼¼°ÂÔË¡¿
 ¡¾¹Ø±Õ¡¿
 ¼Û¸ñ¼°Ïà¹ØÐÅÏ¢²»×¼Çë²¦´ò
-ZOL(7
-X
-8)Ð¡Ê±Ãâ·ÑÍ¶Ëßµç»°£º400-678-0068-6
+ZOL(7 X 8)Ð¡Ê±Ãâ·ÑÍ¶Ëßµç»°£º400-678-0068-6
 Ãâ·Ñ²¦´òZOL¿ÍÎñµç»°
 ÎÄÕÂÆÀÂÛ
 ±Ê¼Ç±¾£¬Ì¨Ê½»ú
@@ -56339,7 +54662,7 @@ R700-A004
 CPUÀàÐÍ£ºIntel
 ¿áî£2Ë«ºË
 ×î¸ßÖ÷Æµ£º2500.000
-Ñ¸³Û¼¼Êõ£ºÑ¸³Û4.5(Santa
+Ñ¸³Û¼¼Êõ£ºÑ¸³Û4.5(Santa 
 ÏêÏ¸²ÎÊý>>
 ¡¤ÈýÐÇ²úÆ·È«ÏµÁÐ×¨Âôµê
 ¡¤»ªÍØ¶«·½
@@ -56465,7 +54788,7 @@ R25-X005
 X22(A009)
 ´÷¶û
 XPS
-M1730£¨Q51123
+M1730£¨Q51123 
 ÈýÐÇ
 X22(A003)
 ÁªÏë
@@ -56473,7 +54796,7 @@ X22(A003)
 F51A-UT
 ´÷¶û
 XPS
-M1530£¨R51023
+M1530£¨R51023 
 Ê®´ó±Ê¼Ç±¾
 ²ú
 Æ·
@@ -56929,9 +55252,7 @@ CNETÖÐ¹ú¡¤ZOL
 ¡¾¿Æ¼¼°ÂÔË¡¿
 ¡¾¹Ø±Õ¡¿
 ¼Û¸ñ¼°Ïà¹ØÐÅÏ¢²»×¼Çë²¦´ò
-ZOL(7
-X
-8)Ð¡Ê±Ãâ·ÑÍ¶Ëßµç»°£º400-678-0068-6
+ZOL(7 X 8)Ð¡Ê±Ãâ·ÑÍ¶Ëßµç»°£º400-678-0068-6
 Ãâ·Ñ²¦´òZOL¿ÍÎñµç»°
 ÎÄÕÂÆÀÂÛ
 ±Ê¼Ç±¾£¬Ì¨Ê½»ú
@@ -57459,8 +55780,7 @@ ZOLÊ×Ò³
 ÕýÎÄ
 ÁªÏë
 ÌìÒÝ
-F50A-UT(TV
-TUNER)
+F50A-UT(TV TUNER)
 ±¨
 ¼Û
 ²Î
@@ -57536,13 +55856,7 @@ WLANÐÔÄÜ
 ±ê×¼½Ó¿Ú
 3¸öUSB2.0½Ó¿Ú£¬Express
 Card½Ó¿Ú£¬VGA½Ó¿Ú£¬RJ11£¬RJ45¡¢È«ÕóÁÐÊ½¿¹ÔëÂó¿Ë·ç,Ö§³ÖÁ¢ÌåÒôµÄ¶ú»ú²å¿×/ÒôÆµÊä³ö£¬1394½Ó¿Ú£¬ºìÍâ½Ó¿Ú£¨Ö»Ö§³ÖÒ£¿ØÆ÷£©,
-¶àºÏÒ»¶Á¿¨Æ÷(SD/MMC,
-xD,
-MS,
-MS
-pro,
-SD
-Pro)
+¶àºÏÒ»¶Á¿¨Æ÷(SD/MMC, xD, MS, MS pro, SD Pro)
 µç³ØÀàÐÍ
 6Ð¾ï®µç³Ø
 ¹©µçÊ±¼ä
@@ -57582,17 +55896,14 @@ lenovo£¨ÁªÏë£©²úÆ·±¨¼Û
 ¡¾¿Æ¼¼°ÂÔË¡¿
 ¡¾¹Ø±Õ¡¿
 ¼Û¸ñ¼°Ïà¹ØÐÅÏ¢²»×¼Çë²¦´ò
-ZOL(7
-X
-8)Ð¡Ê±Ãâ·ÑÍ¶Ëßµç»°£º400-678-0068-6
+ZOL(7 X 8)Ð¡Ê±Ãâ·ÑÍ¶Ëßµç»°£º400-678-0068-6
 Ãâ·Ñ²¦´òZOL¿ÍÎñµç»°
 ÎÄÕÂÆÀÂÛ
 ±Ê¼Ç±¾£¬Ì¨Ê½»ú
 ²¦´ò800-858-2339,ÎªÄúÁ¿Éí´òÔì£¡
 ÁªÏë
 ÌìÒÝ
-F50A-UT(TV
-TUNER)
+F50A-UT(TV TUNER)
 ×ÛÊö
 ±¨¼Û
 ²ÎÊý
@@ -57604,12 +55915,10 @@ TUNER)
 >
 ÁªÏë
 ÌìÒÝ
-F50A-UT(TV
-TUN
+F50A-UT(TV TUN
 ÁªÏë
 ÌìÒÝ
-F50A-UT(TV
-TUNER)
+F50A-UT(TV TUNER)
 ¾­ÏúÉÌ±¨¼Û
 CPUÀàÐÍ£ºIntel
 ¿áî£2Ë«ºË
@@ -57720,8 +56029,7 @@ Air²âÊÔ³É¼¨ÆØ¹â
 ÏûÏ¢³Æ»ªË¶8GB°æÒ×PC½«ÔÚµÚ¶þ¼¾¶ÈÉÏÊÐ
 ÁªÏë
 ÌìÒÝ
-F50A-UT(TV
-TUNER)
+F50A-UT(TV TUNER)
 ±Ê¼Ç±¾
 >
 ÁªÏë±Ê¼Ç±¾
@@ -57751,22 +56059,19 @@ CPUÀàÐÍ£ºIntel
 ¹Ø×¢
 ÁªÏë
 ÌìÒÝ
-F50A-UT(TV
-T
-µÄÓÃ»§»¹ÔÚ¹Ø×¢...
+F50A-UT(TV T µÄÓÃ»§»¹ÔÚ¹Ø×¢...
 ÁªÏë
 ÌìÒÝ
 F51A-UT
 ÁªÏë
 ÌìÒÝ
-F51A-ST(TV
-T
+F51A-ST(TV T 
 ÁªÏë
 ÐñÈÕ
 N440A-SX
 HP
 Pavilion
-dv2743TX(K
+dv2743TX(K 
 ÁªÏë
 ÌìÒÝ
 F31A-UT
@@ -57897,7 +56202,7 @@ CPU
 ÁªÏë
 ÌìÒÝ
 F50A-UT(TVZOLÍÆ¼ö¾­ÏúÉÌ±¨¼Û
-ÉÌÍ¨ÊÀ¼Í(Õþ¸®²É¹ºÖ¸
+ÉÌÍ¨ÊÀ¼Í(Õþ¸®²É¹ºÖ¸ 
 010-51650643
 £¤7745
 ±±¾©¾ÅÖÝ»ã

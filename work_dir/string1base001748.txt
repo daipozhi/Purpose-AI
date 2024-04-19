@@ -34,8 +34,7 @@ g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 <v>28343</v><c>114</c><r>1408</r>
 3
 <g>电影</g>
-宇翼/xig<q>50925371</q></vi><vi><x>8</x><n>视频：嘻游记第六回《八戒租妻
-回家过年》</n>
+宇翼/xig<q>50925371</q></vi><vi><x>8</x><n>视频：嘻游记第六回《八戒租妻 回家过年》</n>
 3iJLSFZ48Cm
 <v>85485</v><c>171</c><r>1688</r>
 3
@@ -85,11 +84,7 @@ g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 3
 <g>娱乐</g>‘-Ｍaｎ.ｃ&apos;<q>343930627</q></vi></vd></vrank></root></xml>
 QQVideo--视频播放页面
-<?xml
-version="1.0"
-encoding="utf-8"
-standalone="no"
-?>
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
 ﻿
 g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 44E1EY1bVMd
@@ -126,8 +121,7 @@ g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 <v>28343</v><c>114</c><r>1408</r>
 3
 <g>电影</g>
-宇翼/xig<q>50925371</q></vi><vi><x>8</x><n>视频：嘻游记第六回《八戒租妻
-回家过年》</n>
+宇翼/xig<q>50925371</q></vi><vi><x>8</x><n>视频：嘻游记第六回《八戒租妻 回家过年》</n>
 3iJLSFZ48Cm
 <v>85485</v><c>171</c><r>1688</r>
 3
@@ -177,11 +171,7 @@ g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 3
 <g>娱乐</g>‘-Ｍaｎ.ｃ&apos;<q>343930627</q></vi></vd></vrank></root></xml>
 QQVideo--视频播放页面
-<?xml
-version="1.0"
-encoding="utf-8"
-standalone="no"
-?>
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
 ﻿
 g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 44E1EY1bVMd
@@ -218,8 +208,7 @@ g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 <v>28343</v><c>114</c><r>1408</r>
 3
 <g>电影</g>
-宇翼/xig<q>50925371</q></vi><vi><x>8</x><n>视频：嘻游记第六回《八戒租妻
-回家过年》</n>
+宇翼/xig<q>50925371</q></vi><vi><x>8</x><n>视频：嘻游记第六回《八戒租妻 回家过年》</n>
 3iJLSFZ48Cm
 <v>85485</v><c>171</c><r>1688</r>
 3
@@ -269,11 +258,7 @@ g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 3
 <g>娱乐</g>‘-Ｍaｎ.ｃ&apos;<q>343930627</q></vi></vd></vrank></root></xml>
 QQVideo--视频播放页面
-<?xml
-version="1.0"
-encoding="utf-8"
-standalone="no"
-?>
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
 ﻿
 g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 44E1EY1bVMd
@@ -310,8 +295,7 @@ g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 <v>28421</v><c>116</c><r>1426</r>
 3
 <g>电影</g>
-宇翼/xig<q>50925371</q></vi><vi><x>8</x><n>视频：嘻游记第六回《八戒租妻
-回家过年》</n>
+宇翼/xig<q>50925371</q></vi><vi><x>8</x><n>视频：嘻游记第六回《八戒租妻 回家过年》</n>
 3iJLSFZ48Cm
 <v>85613</v><c>171</c><r>1692</r>
 3
@@ -361,11 +345,7 @@ g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 3
 <g>娱乐</g>‘-Ｍaｎ.ｃ&apos;<q>343930627</q></vi></vd></vrank></root></xml>
 QQVideo--视频播放页面
-<?xml
-version="1.0"
-encoding="utf-8"
-standalone="no"
-?>
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
 ﻿
 g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 44E1EY1bVMd
@@ -402,8 +382,7 @@ g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 <v>28336</v><c>114</c><r>1408</r>
 3
 <g>电影</g>
-宇翼/xig<q>50925371</q></vi><vi><x>8</x><n>视频：嘻游记第六回《八戒租妻
-回家过年》</n>
+宇翼/xig<q>50925371</q></vi><vi><x>8</x><n>视频：嘻游记第六回《八戒租妻 回家过年》</n>
 3iJLSFZ48Cm
 <v>85481</v><c>171</c><r>1688</r>
 3
@@ -453,11 +432,7 @@ g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 3
 <g>娱乐</g>‘-Ｍaｎ.ｃ&apos;<q>343930627</q></vi></vd></vrank></root></xml>
 QQVideo--视频播放页面
-<?xml
-version="1.0"
-encoding="utf-8"
-standalone="no"
-?>
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
 ﻿
 g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 44E1EY1bVMd
@@ -494,8 +469,7 @@ g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 <v>28298</v><c>114</c><r>1403</r>
 3
 <g>电影</g>
-宇翼/xig<q>50925371</q></vi><vi><x>8</x><n>视频：嘻游记第六回《八戒租妻
-回家过年》</n>
+宇翼/xig<q>50925371</q></vi><vi><x>8</x><n>视频：嘻游记第六回《八戒租妻 回家过年》</n>
 3iJLSFZ48Cm
 <v>85433</v><c>171</c><r>1688</r>
 3
@@ -545,11 +519,7 @@ g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 3
 <g>娱乐</g>‘-Ｍaｎ.ｃ&apos;<q>343930627</q></vi></vd></vrank></root></xml>
 QQVideo--视频播放页面
-<?xml
-version="1.0"
-encoding="utf-8"
-standalone="no"
-?>
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
 ﻿
 g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 44E1EY1bVMd
@@ -586,8 +556,7 @@ g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 <v>28343</v><c>114</c><r>1408</r>
 3
 <g>电影</g>
-宇翼/xig<q>50925371</q></vi><vi><x>8</x><n>视频：嘻游记第六回《八戒租妻
-回家过年》</n>
+宇翼/xig<q>50925371</q></vi><vi><x>8</x><n>视频：嘻游记第六回《八戒租妻 回家过年》</n>
 3iJLSFZ48Cm
 <v>85485</v><c>171</c><r>1688</r>
 3
@@ -637,11 +606,7 @@ g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 3
 <g>娱乐</g>‘-Ｍaｎ.ｃ&apos;<q>343930627</q></vi></vd></vrank></root></xml>
 QQVideo--视频播放页面
-<?xml
-version="1.0"
-encoding="utf-8"
-standalone="no"
-?>
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
 ﻿
 g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 44E1EY1bVMd
@@ -678,8 +643,7 @@ g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 <v>28421</v><c>116</c><r>1426</r>
 3
 <g>电影</g>
-宇翼/xig<q>50925371</q></vi><vi><x>8</x><n>视频：嘻游记第六回《八戒租妻
-回家过年》</n>
+宇翼/xig<q>50925371</q></vi><vi><x>8</x><n>视频：嘻游记第六回《八戒租妻 回家过年》</n>
 3iJLSFZ48Cm
 <v>85613</v><c>171</c><r>1692</r>
 3
@@ -729,11 +693,7 @@ g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 3
 <g>娱乐</g>‘-Ｍaｎ.ｃ&apos;<q>343930627</q></vi></vd></vrank></root></xml>
 QQVideo--视频播放页面
-<?xml
-version="1.0"
-encoding="utf-8"
-standalone="no"
-?>
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
 ﻿
 g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 44E1EY1bVMd
@@ -770,8 +730,7 @@ g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 <v>28421</v><c>116</c><r>1426</r>
 3
 <g>电影</g>
-宇翼/xig<q>50925371</q></vi><vi><x>8</x><n>视频：嘻游记第六回《八戒租妻
-回家过年》</n>
+宇翼/xig<q>50925371</q></vi><vi><x>8</x><n>视频：嘻游记第六回《八戒租妻 回家过年》</n>
 3iJLSFZ48Cm
 <v>85613</v><c>171</c><r>1692</r>
 3
@@ -821,11 +780,7 @@ g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 3
 <g>娱乐</g>‘-Ｍaｎ.ｃ&apos;<q>343930627</q></vi></vd></vrank></root></xml>
 QQVideo--视频播放页面
-<?xml
-version="1.0"
-encoding="utf-8"
-standalone="no"
-?>
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
 ﻿
 g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 44E1EY1bVMd
@@ -862,8 +817,7 @@ g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 <v>28042</v><c>109</c><r>1357</r>
 3
 <g>电影</g>
-宇翼/xig<q>50925371</q></vi><vi><x>8</x><n>视频：嘻游记第六回《八戒租妻
-回家过年》</n>
+宇翼/xig<q>50925371</q></vi><vi><x>8</x><n>视频：嘻游记第六回《八戒租妻 回家过年》</n>
 3iJLSFZ48Cm
 <v>85130</v><c>171</c><r>1687</r>
 3
@@ -913,11 +867,7 @@ g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 3
 <g>娱乐</g>‘-Ｍaｎ.ｃ&apos;<q>343930627</q></vi></vd></vrank></root></xml>
 QQVideo--视频播放页面
-<?xml
-version="1.0"
-encoding="utf-8"
-standalone="no"
-?>
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
 ﻿
 g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 44E1EY1bVMd
@@ -954,8 +904,7 @@ g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 <v>28425</v><c>116</c><r>1427</r>
 3
 <g>电影</g>
-宇翼/xig<q>50925371</q></vi><vi><x>8</x><n>视频：嘻游记第六回《八戒租妻
-回家过年》</n>
+宇翼/xig<q>50925371</q></vi><vi><x>8</x><n>视频：嘻游记第六回《八戒租妻 回家过年》</n>
 3iJLSFZ48Cm
 <v>85623</v><c>171</c><r>1692</r>
 3
@@ -1005,11 +954,7 @@ g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 3
 <g>娱乐</g>‘-Ｍaｎ.ｃ&apos;<q>343930627</q></vi></vd></vrank></root></xml>
 QQVideo--视频播放页面
-<?xml
-version="1.0"
-encoding="utf-8"
-standalone="no"
-?>
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
 ﻿
 g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 44E1EY1bVMd
@@ -1046,8 +991,7 @@ g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 <v>28037</v><c>109</c><r>1357</r>
 3
 <g>电影</g>
-宇翼/xig<q>50925371</q></vi><vi><x>8</x><n>视频：嘻游记第六回《八戒租妻
-回家过年》</n>
+宇翼/xig<q>50925371</q></vi><vi><x>8</x><n>视频：嘻游记第六回《八戒租妻 回家过年》</n>
 3iJLSFZ48Cm
 <v>85123</v><c>171</c><r>1687</r>
 3
@@ -1097,11 +1041,7 @@ g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 3
 <g>娱乐</g>‘-Ｍaｎ.ｃ&apos;<q>343930627</q></vi></vd></vrank></root></xml>
 QQVideo--视频播放页面
-<?xml
-version="1.0"
-encoding="utf-8"
-standalone="no"
-?>
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
 ﻿
 g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 44E1EY1bVMd
@@ -1138,8 +1078,7 @@ g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 <v>28349</v><c>114</c><r>1410</r>
 3
 <g>电影</g>
-宇翼/xig<q>50925371</q></vi><vi><x>8</x><n>视频：嘻游记第六回《八戒租妻
-回家过年》</n>
+宇翼/xig<q>50925371</q></vi><vi><x>8</x><n>视频：嘻游记第六回《八戒租妻 回家过年》</n>
 3iJLSFZ48Cm
 <v>85494</v><c>171</c><r>1690</r>
 3
@@ -1189,11 +1128,7 @@ g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 3
 <g>娱乐</g>‘-Ｍaｎ.ｃ&apos;<q>343930627</q></vi></vd></vrank></root></xml>
 QQVideo--视频播放页面
-<?xml
-version="1.0"
-encoding="utf-8"
-standalone="no"
-?>
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
 ﻿
 g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 44E1EY1bVMd
@@ -1230,8 +1165,7 @@ g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 <v>28298</v><c>114</c><r>1403</r>
 3
 <g>电影</g>
-宇翼/xig<q>50925371</q></vi><vi><x>8</x><n>视频：嘻游记第六回《八戒租妻
-回家过年》</n>
+宇翼/xig<q>50925371</q></vi><vi><x>8</x><n>视频：嘻游记第六回《八戒租妻 回家过年》</n>
 3iJLSFZ48Cm
 <v>85433</v><c>171</c><r>1688</r>
 3
@@ -1281,11 +1215,7 @@ g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 3
 <g>娱乐</g>‘-Ｍaｎ.ｃ&apos;<q>343930627</q></vi></vd></vrank></root></xml>
 QQVideo--视频播放页面
-<?xml
-version="1.0"
-encoding="utf-8"
-standalone="no"
-?>
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
 ﻿
 g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 44E1EY1bVMd
@@ -1322,8 +1252,7 @@ g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 <v>28343</v><c>114</c><r>1408</r>
 3
 <g>电影</g>
-宇翼/xig<q>50925371</q></vi><vi><x>8</x><n>视频：嘻游记第六回《八戒租妻
-回家过年》</n>
+宇翼/xig<q>50925371</q></vi><vi><x>8</x><n>视频：嘻游记第六回《八戒租妻 回家过年》</n>
 3iJLSFZ48Cm
 <v>85485</v><c>171</c><r>1688</r>
 3
@@ -1373,11 +1302,7 @@ g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 3
 <g>娱乐</g>‘-Ｍaｎ.ｃ&apos;<q>343930627</q></vi></vd></vrank></root></xml>
 QQVideo--视频播放页面
-<?xml
-version="1.0"
-encoding="utf-8"
-standalone="no"
-?>
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
 ﻿
 g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 44E1EY1bVMd
@@ -1414,8 +1339,7 @@ g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 <v>28349</v><c>114</c><r>1410</r>
 3
 <g>电影</g>
-宇翼/xig<q>50925371</q></vi><vi><x>8</x><n>视频：嘻游记第六回《八戒租妻
-回家过年》</n>
+宇翼/xig<q>50925371</q></vi><vi><x>8</x><n>视频：嘻游记第六回《八戒租妻 回家过年》</n>
 3iJLSFZ48Cm
 <v>85494</v><c>171</c><r>1690</r>
 3
@@ -1465,11 +1389,7 @@ g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 3
 <g>娱乐</g>‘-Ｍaｎ.ｃ&apos;<q>343930627</q></vi></vd></vrank></root></xml>
 QQVideo--视频播放页面
-<?xml
-version="1.0"
-encoding="utf-8"
-standalone="no"
-?>
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
 ﻿
 g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 44E1EY1bVMd
@@ -1506,8 +1426,7 @@ g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 <v>28343</v><c>114</c><r>1408</r>
 3
 <g>电影</g>
-宇翼/xig<q>50925371</q></vi><vi><x>8</x><n>视频：嘻游记第六回《八戒租妻
-回家过年》</n>
+宇翼/xig<q>50925371</q></vi><vi><x>8</x><n>视频：嘻游记第六回《八戒租妻 回家过年》</n>
 3iJLSFZ48Cm
 <v>85485</v><c>171</c><r>1688</r>
 3
@@ -1557,11 +1476,7 @@ g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 3
 <g>娱乐</g>‘-Ｍaｎ.ｃ&apos;<q>343930627</q></vi></vd></vrank></root></xml>
 QQVideo--视频播放页面
-<?xml
-version="1.0"
-encoding="utf-8"
-standalone="no"
-?>
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
 ﻿
 g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 44E1EY1bVMd
@@ -1598,8 +1513,7 @@ g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 <v>28328</v><c>114</c><r>1407</r>
 3
 <g>电影</g>
-宇翼/xig<q>50925371</q></vi><vi><x>8</x><n>视频：嘻游记第六回《八戒租妻
-回家过年》</n>
+宇翼/xig<q>50925371</q></vi><vi><x>8</x><n>视频：嘻游记第六回《八戒租妻 回家过年》</n>
 3iJLSFZ48Cm
 <v>85480</v><c>171</c><r>1688</r>
 3
@@ -1649,11 +1563,7 @@ g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 3
 <g>娱乐</g>‘-Ｍaｎ.ｃ&apos;<q>343930627</q></vi></vd></vrank></root></xml>
 QQVideo--视频播放页面
-<?xml
-version="1.0"
-encoding="utf-8"
-standalone="no"
-?>
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
 ﻿
 g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 44E1EY1bVMd
@@ -1690,8 +1600,7 @@ g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 <v>28343</v><c>114</c><r>1408</r>
 3
 <g>电影</g>
-宇翼/xig<q>50925371</q></vi><vi><x>8</x><n>视频：嘻游记第六回《八戒租妻
-回家过年》</n>
+宇翼/xig<q>50925371</q></vi><vi><x>8</x><n>视频：嘻游记第六回《八戒租妻 回家过年》</n>
 3iJLSFZ48Cm
 <v>85485</v><c>171</c><r>1688</r>
 3
@@ -1741,11 +1650,7 @@ g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 3
 <g>娱乐</g>‘-Ｍaｎ.ｃ&apos;<q>343930627</q></vi></vd></vrank></root></xml>
 QQVideo--视频播放页面
-<?xml
-version="1.0"
-encoding="utf-8"
-standalone="no"
-?>
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
 ﻿
 g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 44E1EY1bVMd
@@ -1782,8 +1687,7 @@ g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 <v>28421</v><c>116</c><r>1426</r>
 3
 <g>电影</g>
-宇翼/xig<q>50925371</q></vi><vi><x>8</x><n>视频：嘻游记第六回《八戒租妻
-回家过年》</n>
+宇翼/xig<q>50925371</q></vi><vi><x>8</x><n>视频：嘻游记第六回《八戒租妻 回家过年》</n>
 3iJLSFZ48Cm
 <v>85613</v><c>171</c><r>1692</r>
 3
@@ -1833,11 +1737,7 @@ g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 3
 <g>娱乐</g>‘-Ｍaｎ.ｃ&apos;<q>343930627</q></vi></vd></vrank></root></xml>
 QQVideo--视频播放页面
-<?xml
-version="1.0"
-encoding="utf-8"
-standalone="no"
-?>
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
 ﻿
 g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 44E1EY1bVMd
@@ -1874,8 +1774,7 @@ g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 <v>28421</v><c>116</c><r>1426</r>
 3
 <g>电影</g>
-宇翼/xig<q>50925371</q></vi><vi><x>8</x><n>视频：嘻游记第六回《八戒租妻
-回家过年》</n>
+宇翼/xig<q>50925371</q></vi><vi><x>8</x><n>视频：嘻游记第六回《八戒租妻 回家过年》</n>
 3iJLSFZ48Cm
 <v>85613</v><c>171</c><r>1692</r>
 3
@@ -1925,11 +1824,7 @@ g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 3
 <g>娱乐</g>‘-Ｍaｎ.ｃ&apos;<q>343930627</q></vi></vd></vrank></root></xml>
 QQVideo--视频播放页面
-<?xml
-version="1.0"
-encoding="utf-8"
-standalone="no"
-?>
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
 ﻿
 g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 44E1EY1bVMd
@@ -1966,8 +1861,7 @@ g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 <v>28242</v><c>114</c><r>1393</r>
 3
 <g>电影</g>
-宇翼/xig<q>50925371</q></vi><vi><x>8</x><n>视频：嘻游记第六回《八戒租妻
-回家过年》</n>
+宇翼/xig<q>50925371</q></vi><vi><x>8</x><n>视频：嘻游记第六回《八戒租妻 回家过年》</n>
 3iJLSFZ48Cm
 <v>85368</v><c>171</c><r>1688</r>
 3
@@ -2017,11 +1911,7 @@ g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 3
 <g>娱乐</g>‘-Ｍaｎ.ｃ&apos;<q>343930627</q></vi></vd></vrank></root></xml>
 QQVideo--视频播放页面
-<?xml
-version="1.0"
-encoding="utf-8"
-standalone="no"
-?>
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
 ﻿
 g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 44E1EY1bVMd
@@ -2058,8 +1948,7 @@ g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 <v>28343</v><c>114</c><r>1408</r>
 3
 <g>电影</g>
-宇翼/xig<q>50925371</q></vi><vi><x>8</x><n>视频：嘻游记第六回《八戒租妻
-回家过年》</n>
+宇翼/xig<q>50925371</q></vi><vi><x>8</x><n>视频：嘻游记第六回《八戒租妻 回家过年》</n>
 3iJLSFZ48Cm
 <v>85485</v><c>171</c><r>1688</r>
 3
@@ -2109,11 +1998,7 @@ g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 3
 <g>娱乐</g>‘-Ｍaｎ.ｃ&apos;<q>343930627</q></vi></vd></vrank></root></xml>
 QQVideo--视频播放页面
-<?xml
-version="1.0"
-encoding="utf-8"
-standalone="no"
-?>
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
 ﻿
 g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 44E1EY1bVMd
@@ -2150,8 +2035,7 @@ g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 <v>28336</v><c>114</c><r>1408</r>
 3
 <g>电影</g>
-宇翼/xig<q>50925371</q></vi><vi><x>8</x><n>视频：嘻游记第六回《八戒租妻
-回家过年》</n>
+宇翼/xig<q>50925371</q></vi><vi><x>8</x><n>视频：嘻游记第六回《八戒租妻 回家过年》</n>
 3iJLSFZ48Cm
 <v>85481</v><c>171</c><r>1688</r>
 3
@@ -2201,11 +2085,7 @@ g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 3
 <g>娱乐</g>‘-Ｍaｎ.ｃ&apos;<q>343930627</q></vi></vd></vrank></root></xml>
 QQVideo--视频播放页面
-<?xml
-version="1.0"
-encoding="utf-8"
-standalone="no"
-?>
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
 ﻿
 g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 44E1EY1bVMd
@@ -2242,8 +2122,7 @@ g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 <v>28349</v><c>114</c><r>1410</r>
 3
 <g>电影</g>
-宇翼/xig<q>50925371</q></vi><vi><x>8</x><n>视频：嘻游记第六回《八戒租妻
-回家过年》</n>
+宇翼/xig<q>50925371</q></vi><vi><x>8</x><n>视频：嘻游记第六回《八戒租妻 回家过年》</n>
 3iJLSFZ48Cm
 <v>85494</v><c>171</c><r>1690</r>
 3
@@ -2293,11 +2172,7 @@ g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 3
 <g>娱乐</g>‘-Ｍaｎ.ｃ&apos;<q>343930627</q></vi></vd></vrank></root></xml>
 QQVideo--视频播放页面
-<?xml
-version="1.0"
-encoding="utf-8"
-standalone="no"
-?>
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
 ﻿
 g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 44E1EY1bVMd
@@ -2334,8 +2209,7 @@ g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 <v>28057</v><c>110</c><r>1359</r>
 3
 <g>电影</g>
-宇翼/xig<q>50925371</q></vi><vi><x>8</x><n>视频：嘻游记第六回《八戒租妻
-回家过年》</n>
+宇翼/xig<q>50925371</q></vi><vi><x>8</x><n>视频：嘻游记第六回《八戒租妻 回家过年》</n>
 3iJLSFZ48Cm
 <v>85147</v><c>171</c><r>1688</r>
 3
@@ -2385,11 +2259,7 @@ g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 3
 <g>娱乐</g>‘-Ｍaｎ.ｃ&apos;<q>343930627</q></vi></vd></vrank></root></xml>
 QQVideo--视频播放页面
-<?xml
-version="1.0"
-encoding="utf-8"
-standalone="no"
-?>
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
 ﻿
 g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 44E1EY1bVMd
@@ -2426,8 +2296,7 @@ g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 <v>28349</v><c>114</c><r>1410</r>
 3
 <g>电影</g>
-宇翼/xig<q>50925371</q></vi><vi><x>8</x><n>视频：嘻游记第六回《八戒租妻
-回家过年》</n>
+宇翼/xig<q>50925371</q></vi><vi><x>8</x><n>视频：嘻游记第六回《八戒租妻 回家过年》</n>
 3iJLSFZ48Cm
 <v>85494</v><c>171</c><r>1690</r>
 3
@@ -2477,11 +2346,7 @@ g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 3
 <g>娱乐</g>‘-Ｍaｎ.ｃ&apos;<q>343930627</q></vi></vd></vrank></root></xml>
 QQVideo--视频播放页面
-<?xml
-version="1.0"
-encoding="utf-8"
-standalone="no"
-?>
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
 ﻿
 g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 44E1EY1bVMd
@@ -2518,8 +2383,7 @@ g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 <v>28343</v><c>114</c><r>1408</r>
 3
 <g>电影</g>
-宇翼/xig<q>50925371</q></vi><vi><x>8</x><n>视频：嘻游记第六回《八戒租妻
-回家过年》</n>
+宇翼/xig<q>50925371</q></vi><vi><x>8</x><n>视频：嘻游记第六回《八戒租妻 回家过年》</n>
 3iJLSFZ48Cm
 <v>85485</v><c>171</c><r>1688</r>
 3
@@ -2569,11 +2433,7 @@ g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 3
 <g>娱乐</g>‘-Ｍaｎ.ｃ&apos;<q>343930627</q></vi></vd></vrank></root></xml>
 QQVideo--视频播放页面
-<?xml
-version="1.0"
-encoding="utf-8"
-standalone="no"
-?>
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
 ﻿
 g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 44E1EY1bVMd
@@ -2610,8 +2470,7 @@ g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 <v>28157</v><c>113</c><r>1382</r>
 3
 <g>电影</g>
-宇翼/xig<q>50925371</q></vi><vi><x>8</x><n>视频：嘻游记第六回《八戒租妻
-回家过年》</n>
+宇翼/xig<q>50925371</q></vi><vi><x>8</x><n>视频：嘻游记第六回《八戒租妻 回家过年》</n>
 3iJLSFZ48Cm
 <v>85265</v><c>171</c><r>1688</r>
 3
@@ -2661,11 +2520,7 @@ g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 3
 <g>娱乐</g>‘-Ｍaｎ.ｃ&apos;<q>343930627</q></vi></vd></vrank></root></xml>
 QQVideo--视频播放页面
-<?xml
-version="1.0"
-encoding="utf-8"
-standalone="no"
-?>
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
 ﻿
 g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 44E1EY1bVMd
@@ -2702,8 +2557,7 @@ g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 <v>28343</v><c>114</c><r>1408</r>
 3
 <g>电影</g>
-宇翼/xig<q>50925371</q></vi><vi><x>8</x><n>视频：嘻游记第六回《八戒租妻
-回家过年》</n>
+宇翼/xig<q>50925371</q></vi><vi><x>8</x><n>视频：嘻游记第六回《八戒租妻 回家过年》</n>
 3iJLSFZ48Cm
 <v>85485</v><c>171</c><r>1688</r>
 3
@@ -2753,11 +2607,7 @@ g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 3
 <g>娱乐</g>‘-Ｍaｎ.ｃ&apos;<q>343930627</q></vi></vd></vrank></root></xml>
 QQVideo--视频播放页面
-<?xml
-version="1.0"
-encoding="utf-8"
-standalone="no"
-?>
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
 ﻿
 g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 44E1EY1bVMd
@@ -2794,8 +2644,7 @@ g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 <v>28343</v><c>114</c><r>1408</r>
 3
 <g>电影</g>
-宇翼/xig<q>50925371</q></vi><vi><x>8</x><n>视频：嘻游记第六回《八戒租妻
-回家过年》</n>
+宇翼/xig<q>50925371</q></vi><vi><x>8</x><n>视频：嘻游记第六回《八戒租妻 回家过年》</n>
 3iJLSFZ48Cm
 <v>85485</v><c>171</c><r>1688</r>
 3
@@ -2845,11 +2694,7 @@ g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 3
 <g>娱乐</g>‘-Ｍaｎ.ｃ&apos;<q>343930627</q></vi></vd></vrank></root></xml>
 QQVideo--视频播放页面
-<?xml
-version="1.0"
-encoding="utf-8"
-standalone="no"
-?>
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
 ﻿
 g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 44E1EY1bVMd
@@ -2886,8 +2731,7 @@ g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 <v>28343</v><c>114</c><r>1408</r>
 3
 <g>电影</g>
-宇翼/xig<q>50925371</q></vi><vi><x>8</x><n>视频：嘻游记第六回《八戒租妻
-回家过年》</n>
+宇翼/xig<q>50925371</q></vi><vi><x>8</x><n>视频：嘻游记第六回《八戒租妻 回家过年》</n>
 3iJLSFZ48Cm
 <v>85485</v><c>171</c><r>1688</r>
 3
@@ -2937,11 +2781,7 @@ g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 3
 <g>娱乐</g>‘-Ｍaｎ.ｃ&apos;<q>343930627</q></vi></vd></vrank></root></xml>
 QQVideo--视频播放页面
-<?xml
-version="1.0"
-encoding="utf-8"
-standalone="no"
-?>
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
 ﻿
 g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 44E1EY1bVMd
@@ -2978,8 +2818,7 @@ g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 <v>28343</v><c>114</c><r>1408</r>
 3
 <g>电影</g>
-宇翼/xig<q>50925371</q></vi><vi><x>8</x><n>视频：嘻游记第六回《八戒租妻
-回家过年》</n>
+宇翼/xig<q>50925371</q></vi><vi><x>8</x><n>视频：嘻游记第六回《八戒租妻 回家过年》</n>
 3iJLSFZ48Cm
 <v>85485</v><c>171</c><r>1688</r>
 3
@@ -3029,11 +2868,7 @@ g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 3
 <g>娱乐</g>‘-Ｍaｎ.ｃ&apos;<q>343930627</q></vi></vd></vrank></root></xml>
 QQVideo--视频播放页面
-<?xml
-version="1.0"
-encoding="utf-8"
-standalone="no"
-?>
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
 ﻿
 g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 44E1EY1bVMd
@@ -3070,8 +2905,7 @@ g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 <v>28057</v><c>110</c><r>1359</r>
 3
 <g>电影</g>
-宇翼/xig<q>50925371</q></vi><vi><x>8</x><n>视频：嘻游记第六回《八戒租妻
-回家过年》</n>
+宇翼/xig<q>50925371</q></vi><vi><x>8</x><n>视频：嘻游记第六回《八戒租妻 回家过年》</n>
 3iJLSFZ48Cm
 <v>85147</v><c>171</c><r>1688</r>
 3
@@ -3121,11 +2955,7 @@ g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 3
 <g>娱乐</g>‘-Ｍaｎ.ｃ&apos;<q>343930627</q></vi></vd></vrank></root></xml>
 QQVideo--视频播放页面
-<?xml
-version="1.0"
-encoding="utf-8"
-standalone="no"
-?>
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
 ﻿
 g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 44E1EY1bVMd
@@ -3162,8 +2992,7 @@ g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 <v>28508</v><c>116</c><r>1444</r>
 3
 <g>电影</g>
-宇翼/xig<q>50925371</q></vi><vi><x>8</x><n>视频：嘻游记第六回《八戒租妻
-回家过年》</n>
+宇翼/xig<q>50925371</q></vi><vi><x>8</x><n>视频：嘻游记第六回《八戒租妻 回家过年》</n>
 3iJLSFZ48Cm
 <v>85752</v><c>172</c><r>1695</r>
 3
@@ -3213,11 +3042,7 @@ g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 3
 <g>娱乐</g>‘-Ｍaｎ.ｃ&apos;<q>343930627</q></vi></vd></vrank></root></xml>
 QQVideo--视频播放页面
-<?xml
-version="1.0"
-encoding="utf-8"
-standalone="no"
-?>
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
 ﻿
 g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 44E1EY1bVMd
@@ -3254,8 +3079,7 @@ g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 <v>28346</v><c>114</c><r>1409</r>
 3
 <g>电影</g>
-宇翼/xig<q>50925371</q></vi><vi><x>8</x><n>视频：嘻游记第六回《八戒租妻
-回家过年》</n>
+宇翼/xig<q>50925371</q></vi><vi><x>8</x><n>视频：嘻游记第六回《八戒租妻 回家过年》</n>
 3iJLSFZ48Cm
 <v>85489</v><c>171</c><r>1689</r>
 3
@@ -3305,11 +3129,7 @@ g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 3
 <g>娱乐</g>‘-Ｍaｎ.ｃ&apos;<q>343930627</q></vi></vd></vrank></root></xml>
 QQVideo--视频播放页面
-<?xml
-version="1.0"
-encoding="utf-8"
-standalone="no"
-?>
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
 ﻿
 g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 44E1EY1bVMd
@@ -3346,8 +3166,7 @@ g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 <v>28346</v><c>114</c><r>1409</r>
 3
 <g>电影</g>
-宇翼/xig<q>50925371</q></vi><vi><x>8</x><n>视频：嘻游记第六回《八戒租妻
-回家过年》</n>
+宇翼/xig<q>50925371</q></vi><vi><x>8</x><n>视频：嘻游记第六回《八戒租妻 回家过年》</n>
 3iJLSFZ48Cm
 <v>85489</v><c>171</c><r>1689</r>
 3
@@ -3397,11 +3216,7 @@ g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 3
 <g>娱乐</g>‘-Ｍaｎ.ｃ&apos;<q>343930627</q></vi></vd></vrank></root></xml>
 QQVideo--视频播放页面
-<?xml
-version="1.0"
-encoding="utf-8"
-standalone="no"
-?>
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
 ﻿
 g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 44E1EY1bVMd
@@ -3438,8 +3253,7 @@ g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 <v>28421</v><c>116</c><r>1426</r>
 3
 <g>电影</g>
-宇翼/xig<q>50925371</q></vi><vi><x>8</x><n>视频：嘻游记第六回《八戒租妻
-回家过年》</n>
+宇翼/xig<q>50925371</q></vi><vi><x>8</x><n>视频：嘻游记第六回《八戒租妻 回家过年》</n>
 3iJLSFZ48Cm
 <v>85613</v><c>171</c><r>1692</r>
 3
@@ -3489,11 +3303,7 @@ g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 3
 <g>娱乐</g>‘-Ｍaｎ.ｃ&apos;<q>343930627</q></vi></vd></vrank></root></xml>
 QQVideo--视频播放页面
-<?xml
-version="1.0"
-encoding="utf-8"
-standalone="no"
-?>
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
 ﻿
 g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 44E1EY1bVMd
@@ -3530,8 +3340,7 @@ g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 <v>28343</v><c>114</c><r>1408</r>
 3
 <g>电影</g>
-宇翼/xig<q>50925371</q></vi><vi><x>8</x><n>视频：嘻游记第六回《八戒租妻
-回家过年》</n>
+宇翼/xig<q>50925371</q></vi><vi><x>8</x><n>视频：嘻游记第六回《八戒租妻 回家过年》</n>
 3iJLSFZ48Cm
 <v>85485</v><c>171</c><r>1688</r>
 3
@@ -3581,11 +3390,7 @@ g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 3
 <g>娱乐</g>‘-Ｍaｎ.ｃ&apos;<q>343930627</q></vi></vd></vrank></root></xml>
 QQVideo--视频播放页面
-<?xml
-version="1.0"
-encoding="utf-8"
-standalone="no"
-?>
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
 ﻿
 g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 44E1EY1bVMd
@@ -3622,8 +3427,7 @@ g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 <v>28343</v><c>114</c><r>1408</r>
 3
 <g>电影</g>
-宇翼/xig<q>50925371</q></vi><vi><x>8</x><n>视频：嘻游记第六回《八戒租妻
-回家过年》</n>
+宇翼/xig<q>50925371</q></vi><vi><x>8</x><n>视频：嘻游记第六回《八戒租妻 回家过年》</n>
 3iJLSFZ48Cm
 <v>85485</v><c>171</c><r>1688</r>
 3
@@ -3673,11 +3477,7 @@ g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 3
 <g>娱乐</g>‘-Ｍaｎ.ｃ&apos;<q>343930627</q></vi></vd></vrank></root></xml>
 QQVideo--视频播放页面
-<?xml
-version="1.0"
-encoding="utf-8"
-standalone="no"
-?>
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
 ﻿
 g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 44E1EY1bVMd
@@ -3714,8 +3514,7 @@ g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 <v>28343</v><c>114</c><r>1408</r>
 3
 <g>电影</g>
-宇翼/xig<q>50925371</q></vi><vi><x>8</x><n>视频：嘻游记第六回《八戒租妻
-回家过年》</n>
+宇翼/xig<q>50925371</q></vi><vi><x>8</x><n>视频：嘻游记第六回《八戒租妻 回家过年》</n>
 3iJLSFZ48Cm
 <v>85485</v><c>171</c><r>1688</r>
 3
@@ -3765,11 +3564,7 @@ g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 3
 <g>娱乐</g>‘-Ｍaｎ.ｃ&apos;<q>343930627</q></vi></vd></vrank></root></xml>
 QQVideo--视频播放页面
-<?xml
-version="1.0"
-encoding="utf-8"
-standalone="no"
-?>
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
 ﻿
 g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 44E1EY1bVMd
@@ -3806,8 +3601,7 @@ g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 <v>28421</v><c>116</c><r>1426</r>
 3
 <g>电影</g>
-宇翼/xig<q>50925371</q></vi><vi><x>8</x><n>视频：嘻游记第六回《八戒租妻
-回家过年》</n>
+宇翼/xig<q>50925371</q></vi><vi><x>8</x><n>视频：嘻游记第六回《八戒租妻 回家过年》</n>
 3iJLSFZ48Cm
 <v>85613</v><c>171</c><r>1692</r>
 3
@@ -3857,11 +3651,7 @@ g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 3
 <g>娱乐</g>‘-Ｍaｎ.ｃ&apos;<q>343930627</q></vi></vd></vrank></root></xml>
 QQVideo--视频播放页面
-<?xml
-version="1.0"
-encoding="utf-8"
-standalone="no"
-?>
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
 ﻿
 g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 44E1EY1bVMd
@@ -3898,8 +3688,7 @@ g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 <v>28328</v><c>114</c><r>1407</r>
 3
 <g>电影</g>
-宇翼/xig<q>50925371</q></vi><vi><x>8</x><n>视频：嘻游记第六回《八戒租妻
-回家过年》</n>
+宇翼/xig<q>50925371</q></vi><vi><x>8</x><n>视频：嘻游记第六回《八戒租妻 回家过年》</n>
 3iJLSFZ48Cm
 <v>85480</v><c>171</c><r>1688</r>
 3
@@ -3949,11 +3738,7 @@ g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 3
 <g>娱乐</g>‘-Ｍaｎ.ｃ&apos;<q>343930627</q></vi></vd></vrank></root></xml>
 QQVideo--视频播放页面
-<?xml
-version="1.0"
-encoding="utf-8"
-standalone="no"
-?>
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
 ﻿
 g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 44E1EY1bVMd
@@ -3990,8 +3775,7 @@ g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 <v>28421</v><c>116</c><r>1426</r>
 3
 <g>电影</g>
-宇翼/xig<q>50925371</q></vi><vi><x>8</x><n>视频：嘻游记第六回《八戒租妻
-回家过年》</n>
+宇翼/xig<q>50925371</q></vi><vi><x>8</x><n>视频：嘻游记第六回《八戒租妻 回家过年》</n>
 3iJLSFZ48Cm
 <v>85613</v><c>171</c><r>1692</r>
 3
@@ -4041,11 +3825,7 @@ g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 3
 <g>娱乐</g>‘-Ｍaｎ.ｃ&apos;<q>343930627</q></vi></vd></vrank></root></xml>
 QQVideo--视频播放页面
-<?xml
-version="1.0"
-encoding="utf-8"
-standalone="no"
-?>
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
 ﻿
 g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 44E1EY1bVMd
@@ -4082,8 +3862,7 @@ g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 <v>28346</v><c>114</c><r>1409</r>
 3
 <g>电影</g>
-宇翼/xig<q>50925371</q></vi><vi><x>8</x><n>视频：嘻游记第六回《八戒租妻
-回家过年》</n>
+宇翼/xig<q>50925371</q></vi><vi><x>8</x><n>视频：嘻游记第六回《八戒租妻 回家过年》</n>
 3iJLSFZ48Cm
 <v>85489</v><c>171</c><r>1689</r>
 3
@@ -4133,11 +3912,7 @@ g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 3
 <g>娱乐</g>‘-Ｍaｎ.ｃ&apos;<q>343930627</q></vi></vd></vrank></root></xml>
 QQVideo--视频播放页面
-<?xml
-version="1.0"
-encoding="utf-8"
-standalone="no"
-?>
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
 ﻿
 g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 44E1EY1bVMd
@@ -4174,8 +3949,7 @@ g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 <v>28421</v><c>116</c><r>1426</r>
 3
 <g>电影</g>
-宇翼/xig<q>50925371</q></vi><vi><x>8</x><n>视频：嘻游记第六回《八戒租妻
-回家过年》</n>
+宇翼/xig<q>50925371</q></vi><vi><x>8</x><n>视频：嘻游记第六回《八戒租妻 回家过年》</n>
 3iJLSFZ48Cm
 <v>85613</v><c>171</c><r>1692</r>
 3
@@ -4225,11 +3999,7 @@ g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 3
 <g>娱乐</g>‘-Ｍaｎ.ｃ&apos;<q>343930627</q></vi></vd></vrank></root></xml>
 QQVideo--视频播放页面
-<?xml
-version="1.0"
-encoding="utf-8"
-standalone="no"
-?>
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
 ﻿
 g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 44E1EY1bVMd
@@ -4266,8 +4036,7 @@ g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 <v>28343</v><c>114</c><r>1408</r>
 3
 <g>电影</g>
-宇翼/xig<q>50925371</q></vi><vi><x>8</x><n>视频：嘻游记第六回《八戒租妻
-回家过年》</n>
+宇翼/xig<q>50925371</q></vi><vi><x>8</x><n>视频：嘻游记第六回《八戒租妻 回家过年》</n>
 3iJLSFZ48Cm
 <v>85485</v><c>171</c><r>1688</r>
 3
@@ -4317,11 +4086,7 @@ g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 3
 <g>娱乐</g>‘-Ｍaｎ.ｃ&apos;<q>343930627</q></vi></vd></vrank></root></xml>
 QQVideo--视频播放页面
-<?xml
-version="1.0"
-encoding="utf-8"
-standalone="no"
-?>
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
 ﻿
 g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 44E1EY1bVMd
@@ -4358,8 +4123,7 @@ g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 <v>28343</v><c>114</c><r>1408</r>
 3
 <g>电影</g>
-宇翼/xig<q>50925371</q></vi><vi><x>8</x><n>视频：嘻游记第六回《八戒租妻
-回家过年》</n>
+宇翼/xig<q>50925371</q></vi><vi><x>8</x><n>视频：嘻游记第六回《八戒租妻 回家过年》</n>
 3iJLSFZ48Cm
 <v>85485</v><c>171</c><r>1688</r>
 3
@@ -4409,11 +4173,7 @@ g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 3
 <g>娱乐</g>‘-Ｍaｎ.ｃ&apos;<q>343930627</q></vi></vd></vrank></root></xml>
 QQVideo--视频播放页面
-<?xml
-version="1.0"
-encoding="utf-8"
-standalone="no"
-?>
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
 ﻿
 g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 44E1EY1bVMd
@@ -4450,8 +4210,7 @@ g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 <v>28343</v><c>114</c><r>1408</r>
 3
 <g>电影</g>
-宇翼/xig<q>50925371</q></vi><vi><x>8</x><n>视频：嘻游记第六回《八戒租妻
-回家过年》</n>
+宇翼/xig<q>50925371</q></vi><vi><x>8</x><n>视频：嘻游记第六回《八戒租妻 回家过年》</n>
 3iJLSFZ48Cm
 <v>85485</v><c>171</c><r>1688</r>
 3
@@ -4501,11 +4260,7 @@ g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 3
 <g>娱乐</g>‘-Ｍaｎ.ｃ&apos;<q>343930627</q></vi></vd></vrank></root></xml>
 QQVideo--视频播放页面
-<?xml
-version="1.0"
-encoding="utf-8"
-standalone="no"
-?>
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
 ﻿
 g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 44E1EY1bVMd
@@ -4542,8 +4297,7 @@ g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 <v>28336</v><c>114</c><r>1408</r>
 3
 <g>电影</g>
-宇翼/xig<q>50925371</q></vi><vi><x>8</x><n>视频：嘻游记第六回《八戒租妻
-回家过年》</n>
+宇翼/xig<q>50925371</q></vi><vi><x>8</x><n>视频：嘻游记第六回《八戒租妻 回家过年》</n>
 3iJLSFZ48Cm
 <v>85481</v><c>171</c><r>1688</r>
 3
@@ -4593,11 +4347,7 @@ g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 3
 <g>娱乐</g>‘-Ｍaｎ.ｃ&apos;<q>343930627</q></vi></vd></vrank></root></xml>
 QQVideo--视频播放页面
-<?xml
-version="1.0"
-encoding="utf-8"
-standalone="no"
-?>
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
 ﻿
 g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 44E1EY1bVMd
@@ -4634,8 +4384,7 @@ g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 <v>28343</v><c>114</c><r>1408</r>
 3
 <g>电影</g>
-宇翼/xig<q>50925371</q></vi><vi><x>8</x><n>视频：嘻游记第六回《八戒租妻
-回家过年》</n>
+宇翼/xig<q>50925371</q></vi><vi><x>8</x><n>视频：嘻游记第六回《八戒租妻 回家过年》</n>
 3iJLSFZ48Cm
 <v>85485</v><c>171</c><r>1688</r>
 3
@@ -4685,11 +4434,7 @@ g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 3
 <g>娱乐</g>‘-Ｍaｎ.ｃ&apos;<q>343930627</q></vi></vd></vrank></root></xml>
 QQVideo--视频播放页面
-<?xml
-version="1.0"
-encoding="utf-8"
-standalone="no"
-?>
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
 ﻿
 g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 44E1EY1bVMd
@@ -4726,8 +4471,7 @@ g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 <v>28343</v><c>114</c><r>1408</r>
 3
 <g>电影</g>
-宇翼/xig<q>50925371</q></vi><vi><x>8</x><n>视频：嘻游记第六回《八戒租妻
-回家过年》</n>
+宇翼/xig<q>50925371</q></vi><vi><x>8</x><n>视频：嘻游记第六回《八戒租妻 回家过年》</n>
 3iJLSFZ48Cm
 <v>85485</v><c>171</c><r>1688</r>
 3
@@ -4777,11 +4521,7 @@ g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 3
 <g>娱乐</g>‘-Ｍaｎ.ｃ&apos;<q>343930627</q></vi></vd></vrank></root></xml>
 QQVideo--视频播放页面
-<?xml
-version="1.0"
-encoding="utf-8"
-standalone="no"
-?>
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
 ﻿
 g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 44E1EY1bVMd
@@ -4818,8 +4558,7 @@ g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 <v>28421</v><c>116</c><r>1426</r>
 3
 <g>电影</g>
-宇翼/xig<q>50925371</q></vi><vi><x>8</x><n>视频：嘻游记第六回《八戒租妻
-回家过年》</n>
+宇翼/xig<q>50925371</q></vi><vi><x>8</x><n>视频：嘻游记第六回《八戒租妻 回家过年》</n>
 3iJLSFZ48Cm
 <v>85613</v><c>171</c><r>1692</r>
 3
@@ -4869,11 +4608,7 @@ g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 3
 <g>娱乐</g>‘-Ｍaｎ.ｃ&apos;<q>343930627</q></vi></vd></vrank></root></xml>
 QQVideo--视频播放页面
-<?xml
-version="1.0"
-encoding="utf-8"
-standalone="no"
-?>
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
 ﻿
 g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 44E1EY1bVMd
@@ -4910,8 +4645,7 @@ g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 <v>28343</v><c>114</c><r>1408</r>
 3
 <g>电影</g>
-宇翼/xig<q>50925371</q></vi><vi><x>8</x><n>视频：嘻游记第六回《八戒租妻
-回家过年》</n>
+宇翼/xig<q>50925371</q></vi><vi><x>8</x><n>视频：嘻游记第六回《八戒租妻 回家过年》</n>
 3iJLSFZ48Cm
 <v>85485</v><c>171</c><r>1688</r>
 3
@@ -4961,11 +4695,7 @@ g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 3
 <g>娱乐</g>‘-Ｍaｎ.ｃ&apos;<q>343930627</q></vi></vd></vrank></root></xml>
 QQVideo--视频播放页面
-<?xml
-version="1.0"
-encoding="utf-8"
-standalone="no"
-?>
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
 ﻿
 g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 44E1EY1bVMd
@@ -5002,8 +4732,7 @@ g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 <v>28343</v><c>114</c><r>1408</r>
 3
 <g>电影</g>
-宇翼/xig<q>50925371</q></vi><vi><x>8</x><n>视频：嘻游记第六回《八戒租妻
-回家过年》</n>
+宇翼/xig<q>50925371</q></vi><vi><x>8</x><n>视频：嘻游记第六回《八戒租妻 回家过年》</n>
 3iJLSFZ48Cm
 <v>85485</v><c>171</c><r>1688</r>
 3
@@ -5053,11 +4782,7 @@ g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 3
 <g>娱乐</g>‘-Ｍaｎ.ｃ&apos;<q>343930627</q></vi></vd></vrank></root></xml>
 QQVideo--视频播放页面
-<?xml
-version="1.0"
-encoding="utf-8"
-standalone="no"
-?>
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
 ﻿
 g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 44E1EY1bVMd
@@ -5094,8 +4819,7 @@ g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 <v>28343</v><c>114</c><r>1408</r>
 3
 <g>电影</g>
-宇翼/xig<q>50925371</q></vi><vi><x>8</x><n>视频：嘻游记第六回《八戒租妻
-回家过年》</n>
+宇翼/xig<q>50925371</q></vi><vi><x>8</x><n>视频：嘻游记第六回《八戒租妻 回家过年》</n>
 3iJLSFZ48Cm
 <v>85485</v><c>171</c><r>1688</r>
 3
@@ -5145,11 +4869,7 @@ g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 3
 <g>娱乐</g>‘-Ｍaｎ.ｃ&apos;<q>343930627</q></vi></vd></vrank></root></xml>
 QQVideo--视频播放页面
-<?xml
-version="1.0"
-encoding="utf-8"
-standalone="no"
-?>
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
 ﻿
 g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 44E1EY1bVMd
@@ -5186,8 +4906,7 @@ g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 <v>28489</v><c>116</c><r>1440</r>
 3
 <g>电影</g>
-宇翼/xig<q>50925371</q></vi><vi><x>8</x><n>视频：嘻游记第六回《八戒租妻
-回家过年》</n>
+宇翼/xig<q>50925371</q></vi><vi><x>8</x><n>视频：嘻游记第六回《八戒租妻 回家过年》</n>
 3iJLSFZ48Cm
 <v>85715</v><c>172</c><r>1694</r>
 3
@@ -5237,11 +4956,7 @@ g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 3
 <g>娱乐</g>‘-Ｍaｎ.ｃ&apos;<q>343930627</q></vi></vd></vrank></root></xml>
 QQVideo--视频播放页面
-<?xml
-version="1.0"
-encoding="utf-8"
-standalone="no"
-?>
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
 ﻿
 g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 44E1EY1bVMd
@@ -5278,8 +4993,7 @@ g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 <v>28421</v><c>116</c><r>1426</r>
 3
 <g>电影</g>
-宇翼/xig<q>50925371</q></vi><vi><x>8</x><n>视频：嘻游记第六回《八戒租妻
-回家过年》</n>
+宇翼/xig<q>50925371</q></vi><vi><x>8</x><n>视频：嘻游记第六回《八戒租妻 回家过年》</n>
 3iJLSFZ48Cm
 <v>85613</v><c>171</c><r>1692</r>
 3
@@ -5329,11 +5043,7 @@ g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 3
 <g>娱乐</g>‘-Ｍaｎ.ｃ&apos;<q>343930627</q></vi></vd></vrank></root></xml>
 QQVideo--视频播放页面
-<?xml
-version="1.0"
-encoding="utf-8"
-standalone="no"
-?>
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
 ﻿
 g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 44E1EY1bVMd
@@ -5370,8 +5080,7 @@ g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 <v>28343</v><c>114</c><r>1408</r>
 3
 <g>电影</g>
-宇翼/xig<q>50925371</q></vi><vi><x>8</x><n>视频：嘻游记第六回《八戒租妻
-回家过年》</n>
+宇翼/xig<q>50925371</q></vi><vi><x>8</x><n>视频：嘻游记第六回《八戒租妻 回家过年》</n>
 3iJLSFZ48Cm
 <v>85485</v><c>171</c><r>1688</r>
 3
@@ -5421,11 +5130,7 @@ g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 3
 <g>娱乐</g>‘-Ｍaｎ.ｃ&apos;<q>343930627</q></vi></vd></vrank></root></xml>
 QQVideo--视频播放页面
-<?xml
-version="1.0"
-encoding="utf-8"
-standalone="no"
-?>
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
 ﻿
 g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 44E1EY1bVMd
@@ -5462,8 +5167,7 @@ g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 <v>28037</v><c>109</c><r>1357</r>
 3
 <g>电影</g>
-宇翼/xig<q>50925371</q></vi><vi><x>8</x><n>视频：嘻游记第六回《八戒租妻
-回家过年》</n>
+宇翼/xig<q>50925371</q></vi><vi><x>8</x><n>视频：嘻游记第六回《八戒租妻 回家过年》</n>
 3iJLSFZ48Cm
 <v>85123</v><c>171</c><r>1687</r>
 3
@@ -5513,11 +5217,7 @@ g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 3
 <g>娱乐</g>‘-Ｍaｎ.ｃ&apos;<q>343930627</q></vi></vd></vrank></root></xml>
 QQVideo--视频播放页面
-<?xml
-version="1.0"
-encoding="utf-8"
-standalone="no"
-?>
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
 ﻿
 g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 44E1EY1bVMd
@@ -5554,8 +5254,7 @@ g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 <v>28336</v><c>114</c><r>1408</r>
 3
 <g>电影</g>
-宇翼/xig<q>50925371</q></vi><vi><x>8</x><n>视频：嘻游记第六回《八戒租妻
-回家过年》</n>
+宇翼/xig<q>50925371</q></vi><vi><x>8</x><n>视频：嘻游记第六回《八戒租妻 回家过年》</n>
 3iJLSFZ48Cm
 <v>85481</v><c>171</c><r>1688</r>
 3
@@ -5605,11 +5304,7 @@ g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 3
 <g>娱乐</g>‘-Ｍaｎ.ｃ&apos;<q>343930627</q></vi></vd></vrank></root></xml>
 QQVideo--视频播放页面
-<?xml
-version="1.0"
-encoding="utf-8"
-standalone="no"
-?>
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
 ﻿
 g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 44E1EY1bVMd
@@ -5646,8 +5341,7 @@ g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 <v>28343</v><c>114</c><r>1408</r>
 3
 <g>电影</g>
-宇翼/xig<q>50925371</q></vi><vi><x>8</x><n>视频：嘻游记第六回《八戒租妻
-回家过年》</n>
+宇翼/xig<q>50925371</q></vi><vi><x>8</x><n>视频：嘻游记第六回《八戒租妻 回家过年》</n>
 3iJLSFZ48Cm
 <v>85485</v><c>171</c><r>1688</r>
 3
@@ -5697,11 +5391,7 @@ g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 3
 <g>娱乐</g>‘-Ｍaｎ.ｃ&apos;<q>343930627</q></vi></vd></vrank></root></xml>
 QQVideo--视频播放页面
-<?xml
-version="1.0"
-encoding="utf-8"
-standalone="no"
-?>
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
 ﻿
 g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 44E1EY1bVMd
@@ -5738,8 +5428,7 @@ g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 <v>28343</v><c>114</c><r>1408</r>
 3
 <g>电影</g>
-宇翼/xig<q>50925371</q></vi><vi><x>8</x><n>视频：嘻游记第六回《八戒租妻
-回家过年》</n>
+宇翼/xig<q>50925371</q></vi><vi><x>8</x><n>视频：嘻游记第六回《八戒租妻 回家过年》</n>
 3iJLSFZ48Cm
 <v>85485</v><c>171</c><r>1688</r>
 3
@@ -5789,11 +5478,7 @@ g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 3
 <g>娱乐</g>‘-Ｍaｎ.ｃ&apos;<q>343930627</q></vi></vd></vrank></root></xml>
 QQVideo--视频播放页面
-<?xml
-version="1.0"
-encoding="utf-8"
-standalone="no"
-?>
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
 ﻿
 g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 44E1EY1bVMd
@@ -5830,8 +5515,7 @@ g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 <v>28343</v><c>114</c><r>1408</r>
 3
 <g>电影</g>
-宇翼/xig<q>50925371</q></vi><vi><x>8</x><n>视频：嘻游记第六回《八戒租妻
-回家过年》</n>
+宇翼/xig<q>50925371</q></vi><vi><x>8</x><n>视频：嘻游记第六回《八戒租妻 回家过年》</n>
 3iJLSFZ48Cm
 <v>85485</v><c>171</c><r>1688</r>
 3
@@ -5881,11 +5565,7 @@ g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 3
 <g>娱乐</g>‘-Ｍaｎ.ｃ&apos;<q>343930627</q></vi></vd></vrank></root></xml>
 QQVideo--视频播放页面
-<?xml
-version="1.0"
-encoding="utf-8"
-standalone="no"
-?>
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
 ﻿
 g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 44E1EY1bVMd
@@ -5922,8 +5602,7 @@ g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 <v>28508</v><c>116</c><r>1444</r>
 3
 <g>电影</g>
-宇翼/xig<q>50925371</q></vi><vi><x>8</x><n>视频：嘻游记第六回《八戒租妻
-回家过年》</n>
+宇翼/xig<q>50925371</q></vi><vi><x>8</x><n>视频：嘻游记第六回《八戒租妻 回家过年》</n>
 3iJLSFZ48Cm
 <v>85752</v><c>172</c><r>1695</r>
 3
@@ -5973,11 +5652,7 @@ g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 3
 <g>娱乐</g>‘-Ｍaｎ.ｃ&apos;<q>343930627</q></vi></vd></vrank></root></xml>
 QQVideo--视频播放页面
-<?xml
-version="1.0"
-encoding="utf-8"
-standalone="no"
-?>
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
 ﻿
 g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 44E1EY1bVMd
@@ -6014,8 +5689,7 @@ g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 <v>28508</v><c>116</c><r>1444</r>
 3
 <g>电影</g>
-宇翼/xig<q>50925371</q></vi><vi><x>8</x><n>视频：嘻游记第六回《八戒租妻
-回家过年》</n>
+宇翼/xig<q>50925371</q></vi><vi><x>8</x><n>视频：嘻游记第六回《八戒租妻 回家过年》</n>
 3iJLSFZ48Cm
 <v>85752</v><c>172</c><r>1695</r>
 3
@@ -6065,11 +5739,7 @@ g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 3
 <g>娱乐</g>‘-Ｍaｎ.ｃ&apos;<q>343930627</q></vi></vd></vrank></root></xml>
 QQVideo--视频播放页面
-<?xml
-version="1.0"
-encoding="utf-8"
-standalone="no"
-?>
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
 ﻿
 g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 44E1EY1bVMd
@@ -6106,8 +5776,7 @@ g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 <v>28508</v><c>116</c><r>1444</r>
 3
 <g>电影</g>
-宇翼/xig<q>50925371</q></vi><vi><x>8</x><n>视频：嘻游记第六回《八戒租妻
-回家过年》</n>
+宇翼/xig<q>50925371</q></vi><vi><x>8</x><n>视频：嘻游记第六回《八戒租妻 回家过年》</n>
 3iJLSFZ48Cm
 <v>85752</v><c>172</c><r>1695</r>
 3
@@ -6157,11 +5826,7 @@ g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 3
 <g>娱乐</g>‘-Ｍaｎ.ｃ&apos;<q>343930627</q></vi></vd></vrank></root></xml>
 QQVideo--视频播放页面
-<?xml
-version="1.0"
-encoding="utf-8"
-standalone="no"
-?>
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
 ﻿
 g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 44E1EY1bVMd
@@ -6198,8 +5863,7 @@ g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 <v>28508</v><c>116</c><r>1444</r>
 3
 <g>电影</g>
-宇翼/xig<q>50925371</q></vi><vi><x>8</x><n>视频：嘻游记第六回《八戒租妻
-回家过年》</n>
+宇翼/xig<q>50925371</q></vi><vi><x>8</x><n>视频：嘻游记第六回《八戒租妻 回家过年》</n>
 3iJLSFZ48Cm
 <v>85752</v><c>172</c><r>1695</r>
 3
@@ -6249,11 +5913,7 @@ g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 3
 <g>娱乐</g>‘-Ｍaｎ.ｃ&apos;<q>343930627</q></vi></vd></vrank></root></xml>
 QQVideo--视频播放页面
-<?xml
-version="1.0"
-encoding="utf-8"
-standalone="no"
-?>
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
 ﻿
 g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 44E1EY1bVMd
@@ -6290,8 +5950,7 @@ g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 <v>28508</v><c>116</c><r>1444</r>
 3
 <g>电影</g>
-宇翼/xig<q>50925371</q></vi><vi><x>8</x><n>视频：嘻游记第六回《八戒租妻
-回家过年》</n>
+宇翼/xig<q>50925371</q></vi><vi><x>8</x><n>视频：嘻游记第六回《八戒租妻 回家过年》</n>
 3iJLSFZ48Cm
 <v>85752</v><c>172</c><r>1695</r>
 3
@@ -6341,11 +6000,7 @@ g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 3
 <g>娱乐</g>‘-Ｍaｎ.ｃ&apos;<q>343930627</q></vi></vd></vrank></root></xml>
 QQVideo--视频播放页面
-<?xml
-version="1.0"
-encoding="utf-8"
-standalone="no"
-?>
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
 ﻿
 g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 44E1EY1bVMd
@@ -6382,8 +6037,7 @@ g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 <v>28508</v><c>116</c><r>1444</r>
 3
 <g>电影</g>
-宇翼/xig<q>50925371</q></vi><vi><x>8</x><n>视频：嘻游记第六回《八戒租妻
-回家过年》</n>
+宇翼/xig<q>50925371</q></vi><vi><x>8</x><n>视频：嘻游记第六回《八戒租妻 回家过年》</n>
 3iJLSFZ48Cm
 <v>85752</v><c>172</c><r>1695</r>
 3
@@ -6433,11 +6087,7 @@ g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 3
 <g>娱乐</g>‘-Ｍaｎ.ｃ&apos;<q>343930627</q></vi></vd></vrank></root></xml>
 QQVideo--视频播放页面
-<?xml
-version="1.0"
-encoding="utf-8"
-standalone="no"
-?>
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
 ﻿
 g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 44E1EY1bVMd
@@ -6474,8 +6124,7 @@ g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 <v>28508</v><c>116</c><r>1444</r>
 3
 <g>电影</g>
-宇翼/xig<q>50925371</q></vi><vi><x>8</x><n>视频：嘻游记第六回《八戒租妻
-回家过年》</n>
+宇翼/xig<q>50925371</q></vi><vi><x>8</x><n>视频：嘻游记第六回《八戒租妻 回家过年》</n>
 3iJLSFZ48Cm
 <v>85752</v><c>172</c><r>1695</r>
 3
@@ -6525,11 +6174,7 @@ g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 3
 <g>娱乐</g>‘-Ｍaｎ.ｃ&apos;<q>343930627</q></vi></vd></vrank></root></xml>
 QQVideo--视频播放页面
-<?xml
-version="1.0"
-encoding="utf-8"
-standalone="no"
-?>
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
 ﻿
 g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 44E1EY1bVMd
@@ -6566,8 +6211,7 @@ g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 <v>28508</v><c>116</c><r>1444</r>
 3
 <g>电影</g>
-宇翼/xig<q>50925371</q></vi><vi><x>8</x><n>视频：嘻游记第六回《八戒租妻
-回家过年》</n>
+宇翼/xig<q>50925371</q></vi><vi><x>8</x><n>视频：嘻游记第六回《八戒租妻 回家过年》</n>
 3iJLSFZ48Cm
 <v>85752</v><c>172</c><r>1695</r>
 3
@@ -6617,11 +6261,7 @@ g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 3
 <g>娱乐</g>‘-Ｍaｎ.ｃ&apos;<q>343930627</q></vi></vd></vrank></root></xml>
 QQVideo--视频播放页面
-<?xml
-version="1.0"
-encoding="utf-8"
-standalone="no"
-?>
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
 ﻿
 g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 44E1EY1bVMd
@@ -6658,8 +6298,7 @@ g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 <v>28508</v><c>116</c><r>1444</r>
 3
 <g>电影</g>
-宇翼/xig<q>50925371</q></vi><vi><x>8</x><n>视频：嘻游记第六回《八戒租妻
-回家过年》</n>
+宇翼/xig<q>50925371</q></vi><vi><x>8</x><n>视频：嘻游记第六回《八戒租妻 回家过年》</n>
 3iJLSFZ48Cm
 <v>85752</v><c>172</c><r>1695</r>
 3
@@ -6709,11 +6348,7 @@ g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 3
 <g>娱乐</g>‘-Ｍaｎ.ｃ&apos;<q>343930627</q></vi></vd></vrank></root></xml>
 QQVideo--视频播放页面
-<?xml
-version="1.0"
-encoding="utf-8"
-standalone="no"
-?>
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
 ﻿
 g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 44E1EY1bVMd
@@ -6750,8 +6385,7 @@ g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 <v>28508</v><c>116</c><r>1444</r>
 3
 <g>电影</g>
-宇翼/xig<q>50925371</q></vi><vi><x>8</x><n>视频：嘻游记第六回《八戒租妻
-回家过年》</n>
+宇翼/xig<q>50925371</q></vi><vi><x>8</x><n>视频：嘻游记第六回《八戒租妻 回家过年》</n>
 3iJLSFZ48Cm
 <v>85752</v><c>172</c><r>1695</r>
 3
@@ -6801,11 +6435,7 @@ g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 3
 <g>娱乐</g>‘-Ｍaｎ.ｃ&apos;<q>343930627</q></vi></vd></vrank></root></xml>
 QQVideo--视频播放页面
-<?xml
-version="1.0"
-encoding="utf-8"
-standalone="no"
-?>
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
 ﻿
 g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 44E1EY1bVMd
@@ -6842,8 +6472,7 @@ g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 <v>28508</v><c>116</c><r>1444</r>
 3
 <g>电影</g>
-宇翼/xig<q>50925371</q></vi><vi><x>8</x><n>视频：嘻游记第六回《八戒租妻
-回家过年》</n>
+宇翼/xig<q>50925371</q></vi><vi><x>8</x><n>视频：嘻游记第六回《八戒租妻 回家过年》</n>
 3iJLSFZ48Cm
 <v>85752</v><c>172</c><r>1695</r>
 3
@@ -6893,11 +6522,7 @@ g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 3
 <g>娱乐</g>‘-Ｍaｎ.ｃ&apos;<q>343930627</q></vi></vd></vrank></root></xml>
 QQVideo--视频播放页面
-<?xml
-version="1.0"
-encoding="utf-8"
-standalone="no"
-?>
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
 ﻿
 g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 44E1EY1bVMd
@@ -6934,8 +6559,7 @@ g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 <v>28508</v><c>116</c><r>1444</r>
 3
 <g>电影</g>
-宇翼/xig<q>50925371</q></vi><vi><x>8</x><n>视频：嘻游记第六回《八戒租妻
-回家过年》</n>
+宇翼/xig<q>50925371</q></vi><vi><x>8</x><n>视频：嘻游记第六回《八戒租妻 回家过年》</n>
 3iJLSFZ48Cm
 <v>85752</v><c>172</c><r>1695</r>
 3
@@ -6985,11 +6609,7 @@ g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 3
 <g>娱乐</g>‘-Ｍaｎ.ｃ&apos;<q>343930627</q></vi></vd></vrank></root></xml>
 QQVideo--视频播放页面
-<?xml
-version="1.0"
-encoding="utf-8"
-standalone="no"
-?>
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
 ﻿
 g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 44E1EY1bVMd
@@ -7026,8 +6646,7 @@ g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 <v>28508</v><c>116</c><r>1444</r>
 3
 <g>电影</g>
-宇翼/xig<q>50925371</q></vi><vi><x>8</x><n>视频：嘻游记第六回《八戒租妻
-回家过年》</n>
+宇翼/xig<q>50925371</q></vi><vi><x>8</x><n>视频：嘻游记第六回《八戒租妻 回家过年》</n>
 3iJLSFZ48Cm
 <v>85752</v><c>172</c><r>1695</r>
 3
@@ -7077,11 +6696,7 @@ g><vrank><vd><nt>994</nt><vi><x>0</x><n>不同妆面不同“刷”</n>
 3
 <g>娱乐</g>‘-Ｍaｎ.ｃ&apos;<q>343930627</q></vi></vd></vrank></root></xml>
 QQVideo--视频播放页面
-<?xml
-version="1.0"
-encoding="utf-8"
-standalone="no"
-?>
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
 ﻿ml>
 QQVideo--视频播放列表页面
 ﻿ml>
@@ -8996,8 +8611,7 @@ http://www.sina.com.cn
 《马提与祖父》：爷爷双目紧闭，面色惨白，躺在床上动也不动。亲友们围绕在旁边，泪流满面，但是，七岁的孙子马提却没有哭。就在马提望着天花板上的苍蝇胡思乱想之际，突然听见爷爷开口邀他去散步。于是在虚幻与现实的生死交界处，马提与祖父展开一段奇异的旅程：他们一起漫步田野，用裤子口袋抓鱼，捕获半黑半白的小马??小捣蛋，穿越高高的向日葵林，寻找海盗遗留下来的宝藏……
 在这次奇异的游历中，爷爷不断缩小，从正常高度到跟马提一样高，而后到马提腰际，最后，爷爷让马提将其吸到鼻孔里，从而进入了马提的身体。这个温馨明亮的故事告诉我们：我们所爱的人并不会真正死去，他们永远活在我们心里。
 《马提与祖父》作者：
-普密尼(Roberto
-Piumini),当代杰出的
+普密尼(Roberto Piumini),当代杰出的
 意大利作家，曾经做过教师、演员等与孩子密切相关的工作，因而其作品语言鲜活、极富想象力。其得奖的作品屡次被翻译成英文、法文以及西班牙文。
 更多梅子涵访谈视频：
 视频：梅子涵聊好童书的标准
@@ -10900,8 +10514,7 @@ Reserved
 论坛影音在线
 专业造型师打造平民天后
 流行：能带来好运的蛋白石
-视频：超女三甲亮相《MISS
-格调..
+视频：超女三甲亮相《MISS 格调..
 视频：伊能静防晒美白开讲
 专业造型师打造“平民天后”
 视频：最新ARMANI/BAPTISTA秋冬..
@@ -16325,8 +15938,7 @@ Reserved
 独家-新浪明星会之苗圃自曝爱情故事
 [新浪明星会下期预告：李宇春自揭成名内幕]
 [尚雯婕的浪漫小资生活][Battle的宿舍生活][杨丞琳的变身记]
-[“阿岳正传”
-热狗客串爆料][蔡依林大曝闺中秘事]
+[“阿岳正传” 热狗客串爆料][蔡依林大曝闺中秘事]
 热点专题
 排行榜
 新浪明星会火热推出
@@ -17572,8 +17184,7 @@ Reserved
 实况视频回放|
 访谈预告
 正在回放：第50届美国格莱美奖颁奖典礼片段
-艾米-怀恩豪斯(Amy
-Winehouse)成为本届格莱美最大的赢家，她在自己所得到的六项提名中一共命中了五项(年度最佳唱片、最佳歌曲、最佳新人、最佳流行女歌手、最佳流行演唱专辑)。[视频集]
+艾米-怀恩豪斯(Amy Winehouse)成为本届格莱美最大的赢家，她在自己所得到的六项提名中一共命中了五项(年度最佳唱片、最佳歌曲、最佳新人、最佳流行女歌手、最佳流行演唱专辑)。[视频集]
 [播出结束]
 2月3日14:00
 独家直播《立春》官网启动仪式
@@ -18671,8 +18282,7 @@ Reserved
 杜震宇朱挺失绝杀
 [新浪体育视频汇总页]
 [时事视频排行榜]
-[新浪体育视频年度
-排行榜]
+[新浪体育视频年度 排行榜]
 [欧洲冠军杯独家全程精彩视频]
 [ESPN独家视频放送]
 [体育精彩播客]
@@ -22109,8 +21719,7 @@ Reserved
 ·关于“智讯传播”
 ·《超级方程式》四川电视节获奖
 ·FX-超级方程式互动有奖竞猜
-·《魔法波鲁Magic
-Bolo》登场
+·《魔法波鲁Magic Bolo》登场
 ·《动漫欢乐谷》正式登陆各媒体
 ·动漫欢乐谷缔造中国原创动漫
 ·《赤剑传奇》宣扬勇敢与正义
@@ -22777,12 +22386,7 @@ Reserved
 发布日期
 评论数
 最新评论
-<nc:cache
-maxLife="1M"
-bufSize="32K"
-mgrName="SquareNewsList"
-mgrSize="1024"
-breaker="breaker">
+<nc:cache maxLife="1M" bufSize="32K" mgrName="SquareNewsList" mgrSize="1024" breaker="breaker">
 房产
 土地违法主体"下移"
 谁搅动土地"农转非"暗流？_房产频道_新华网
@@ -23597,8 +23201,7 @@ http://view.QQ.com
 [一场罕见的雪灾][被困女友的短信全记录]
 中国再也不是世界工厂？
 [万余港企面临关闭][黑心资本家无视法律]
-热点：[你买到票了吗
-你患了彭宇恐惧症？]
+热点：[你买到票了吗 你患了彭宇恐惧症？]
 从1983年开始的春节联欢晚会，已经连续举办了24年，高达90％的收视率，覆盖祖国大江南北、穷乡僻壤，乃至全世界的华人区和众多的国家和地区，其影响力无可比拟。尽管主持人换了一茬又一茬，节目翻新了一遍又一遍，对春节晚会的评论也是仁者见仁、智者见智，但除夕夜看春晚，却始终成为了中国人挥之不去的情结，春晚成了一个民俗，成为了春节的一个重要组成部分，缺少了它似乎春节就不完整。
 ·
 -->
@@ -23648,9 +23251,7 @@ http://view.QQ.com
 七病：耽误工夫。春晚本来是要观众爽的，但是却让大部分观众感觉不爽，还觉得耽误了除夕夜的良辰美景。
 &#8212;&#8212;摘自《新世纪周刊》
 摩诃伽叶
-《人民论坛》(
-2007年第3期
-)
+《人民论坛》( 2007年第3期 )
 （人民网－《人民论坛》）
 相关专题：
 中国人为什么要看春晚
@@ -23894,8 +23495,7 @@ http://view.QQ.com
 [一场罕见的雪灾][被困女友的短信全记录]
 中国再也不是世界工厂？
 [万余港企面临关闭][黑心资本家无视法律]
-热点：[你买到票了吗
-你患了彭宇恐惧症？]
+热点：[你买到票了吗 你患了彭宇恐惧症？]
 [1]
 [2]
 [3]
@@ -23916,11 +23516,9 @@ view.news.qq.com
 -->
 更多关于“年味”的新闻
 &#183;“年味”怎么才能越来越浓？
-(2008-02-10
-14:30:27)
+(2008-02-10 14:30:27)
 &#183;年味：如果这都不算浓?
-(2008-02-10
-13:54:47)
+(2008-02-10 13:54:47)
 分类信息
 -->
 -->
@@ -24163,26 +23761,19 @@ view.news.qq.com
 -->
 更多关于“过年”的新闻
 &#183;愿错峰过年成为常态
-(2008-02-10
-09:57:53)
+(2008-02-10 09:57:53)
 &#183;熊培云：从回家过年看中国人的“家教”
-(2008-02-10
-09:30:15)
+(2008-02-10 09:30:15)
 &#183;为什么过年越来越不像过年了
-(2008-02-08
-10:06:19)
+(2008-02-08 10:06:19)
 &#183;过年七天假，应该做点啥？
-(2008-02-07
-08:55:08)
+(2008-02-07 08:55:08)
 &#183;如何才能“有钱没钱，不愁过年”
-(2008-02-06
-08:03:07)
+(2008-02-06 08:03:07)
 &#183;过年需要“有意思”
-(2008-02-04
-07:50:59)
+(2008-02-04 07:50:59)
 &#183;“留下过年”就是最大的人道主义
-(2008-02-03
-10:48:07)
+(2008-02-03 10:48:07)
 分类信息
 -->
 -->
@@ -24425,26 +24016,19 @@ view.news.qq.com
 -->
 更多关于“过年”的新闻
 &#183;愿错峰过年成为常态
-(2008-02-10
-09:57:53)
+(2008-02-10 09:57:53)
 &#183;熊培云：从回家过年看中国人的“家教”
-(2008-02-10
-09:30:15)
+(2008-02-10 09:30:15)
 &#183;为什么过年越来越不像过年了
-(2008-02-08
-10:06:19)
+(2008-02-08 10:06:19)
 &#183;过年七天假，应该做点啥？
-(2008-02-07
-08:55:08)
+(2008-02-07 08:55:08)
 &#183;如何才能“有钱没钱，不愁过年”
-(2008-02-06
-08:03:07)
+(2008-02-06 08:03:07)
 &#183;过年需要“有意思”
-(2008-02-04
-07:50:59)
+(2008-02-04 07:50:59)
 &#183;“留下过年”就是最大的人道主义
-(2008-02-03
-10:48:07)
+(2008-02-03 10:48:07)
 分类信息
 -->
 -->
@@ -24687,26 +24271,19 @@ view.news.qq.com
 -->
 更多关于“过年”的新闻
 &#183;愿错峰过年成为常态
-(2008-02-10
-09:57:53)
+(2008-02-10 09:57:53)
 &#183;熊培云：从回家过年看中国人的“家教”
-(2008-02-10
-09:30:15)
+(2008-02-10 09:30:15)
 &#183;为什么过年越来越不像过年了
-(2008-02-08
-10:06:19)
+(2008-02-08 10:06:19)
 &#183;过年七天假，应该做点啥？
-(2008-02-07
-08:55:08)
+(2008-02-07 08:55:08)
 &#183;如何才能“有钱没钱，不愁过年”
-(2008-02-06
-08:03:07)
+(2008-02-06 08:03:07)
 &#183;过年需要“有意思”
-(2008-02-04
-07:50:59)
+(2008-02-04 07:50:59)
 &#183;“留下过年”就是最大的人道主义
-(2008-02-03
-10:48:07)
+(2008-02-03 10:48:07)
 分类信息
 -->
 -->
@@ -24960,26 +24537,19 @@ view.news.qq.com
 -->
 更多关于“过年”的新闻
 &#183;愿错峰过年成为常态
-(2008-02-10
-09:57:53)
+(2008-02-10 09:57:53)
 &#183;熊培云：从回家过年看中国人的“家教”
-(2008-02-10
-09:30:15)
+(2008-02-10 09:30:15)
 &#183;为什么过年越来越不像过年了
-(2008-02-08
-10:06:19)
+(2008-02-08 10:06:19)
 &#183;过年七天假，应该做点啥？
-(2008-02-07
-08:55:08)
+(2008-02-07 08:55:08)
 &#183;如何才能“有钱没钱，不愁过年”
-(2008-02-06
-08:03:07)
+(2008-02-06 08:03:07)
 &#183;过年需要“有意思”
-(2008-02-04
-07:50:59)
+(2008-02-04 07:50:59)
 &#183;“留下过年”就是最大的人道主义
-(2008-02-03
-10:48:07)
+(2008-02-03 10:48:07)
 分类信息
 -->
 -->
@@ -25284,23 +24854,16 @@ http://view.QQ.com
 评论0条
 川端
 康成
-(
-かわばた
-やすなり,
-Kawabata
-Yasunari
-)
+( かわばた やすなり, Kawabata Yasunari )
 （1899年6月24日&#8212;1972年4月16日）
-日本新感觉派作家，著名小说家。出生在大阪。幼年父母双亡，后祖父母和姐姐又陆续病故。孤独忧郁伴其一生，这反映在他的创作中。在东京大学国文专业学习时，参与复刊《新思潮》（第6
-次）杂志。1924年毕业。同年和横光利一等创办《文艺时代》杂志，后成为由此诞生的新感觉派的中心人物之一。新感觉派衰落后，参加新兴艺术派和新心理主义文学运动，一生创作小说100多篇，中短篇多于长篇。作品富抒情性，追求人生升华的美，并深受佛教思想和虚无主义影响。早期多以下层女性作为小说的主人公，写她们的纯洁和不幸。后期一些作品写了近亲之间、甚至老人的变态情爱心理，表现出颓废的一面。
+日本新感觉派作家，著名小说家。出生在大阪。幼年父母双亡，后祖父母和姐姐又陆续病故。孤独忧郁伴其一生，这反映在他的创作中。在东京大学国文专业学习时，参与复刊《新思潮》（第6 次）杂志。1924年毕业。同年和横光利一等创办《文艺时代》杂志，后成为由此诞生的新感觉派的中心人物之一。新感觉派衰落后，参加新兴艺术派和新心理主义文学运动，一生创作小说100多篇，中短篇多于长篇。作品富抒情性，追求人生升华的美，并深受佛教思想和虚无主义影响。早期多以下层女性作为小说的主人公，写她们的纯洁和不幸。后期一些作品写了近亲之间、甚至老人的变态情爱心理，表现出颓废的一面。
 来吧，把来自你春运路上的亲人、朋友、同事的短信发到这里…
 来自被困列车上的短信
 [腾讯网友短信盼亲人归][崩溃边缘真实对话]
 [一场罕见的雪灾][被困女友的短信全记录]
 中国再也不是世界工厂？
 [万余港企面临关闭][黑心资本家无视法律]
-热点：[你买到票了吗
-你患了彭宇恐惧症？]
+热点：[你买到票了吗 你患了彭宇恐惧症？]
 成名作小说《伊豆的舞女》（1926）描写一个高中生“我”和流浪人的感伤及不幸生活。名作《雪国》（1935～1937）描写了雪国底层女性形体和精神上的纯洁和美，以及作家深沉的虚无感。其他作品还有《浅草红团》（1929～1930）、《水晶幻想》（1931）、《千鹤》（1949～1951）、《山之音》（1949～1954）和《古都》（1961～1962）等。川端担任过国际笔会副会长、日本笔会会长等职。1957年被选为日本艺术院会员。曾获日本政府的文化勋章、法国政府的文化艺术勋章等。1968年获诺贝尔文学奖。1972年在工作室自杀去世。已有多部作品在中国翻译出版。
 【生平】
 川端康成生于京都附近的大阪府，祖辈为地方有名的富贵，家道中落后迁于东京，其父亲习医。2岁丧父
@@ -25337,20 +24900,15 @@ Yasunari
 -->
 更多关于“川端康成”的新闻
 &#183;一段鲜为人知的故事：鲁迅曾拒绝诺贝尔奖提名
-(2007-10-11
-14:17:44)
+(2007-10-11 14:17:44)
 &#183;不必追风“诺贝尔”
-(2007-10-11
-14:12:13)
+(2007-10-11 14:12:13)
 &#183;徐来：诺贝尔，一场文学竞猜游戏
-(2007-10-11
-10:06:55)
+(2007-10-11 10:06:55)
 &#183;丁刚：诺贝尔奖只奖个人漏了什么
-(2007-10-08
-11:56:13)
+(2007-10-08 11:56:13)
 &#183;“另类诺贝尔奖”，搞笑一点又何妨？
-(2007-10-07
-08:32:59)
+(2007-10-07 08:32:59)
 分类信息
 -->
 -->
@@ -25642,8 +25200,7 @@ http://view.QQ.com
 [一场罕见的雪灾][被困女友的短信全记录]
 中国再也不是世界工厂？
 [万余港企面临关闭][黑心资本家无视法律]
-热点：[你买到票了吗
-你患了彭宇恐惧症？]
+热点：[你买到票了吗 你患了彭宇恐惧症？]
 这种说法，除了给“80后”群体贴上一块新文化标签，实在无甚意义。如将“80后”视作1980-1989年出生的所有人的代名词，这一群体最大的已超过25岁，最小的也十七八岁了。他们的登台亮相，既是时代嬗变的既定规律，也早已是人人尽知的社会事实，完全不必借助一部电视剧来“标志”。
 举这一群体中稍有点名气的人来讲，韩寒那帮80后写作者，出道也有近10年了吧。&#8212;&#8212;&#8212;其中有的已经进了暮气沉沉的中国作协。这时候，再来故作姿态、盖棺论定似的“认可”他们已经登上社会大舞台，岂不滑稽。
 不说这些名人，生活在现实中&#8212;&#8212;&#8212;除非彻底不食人间烟火的，谁平常里没有接触过“80后”，没有和这一群体的人打过交道。怎么张颐武先生非得从电视上才能“看到”这群人，才知道这一代人并非想象中的仍然是咬着奶瓶的娃娃？更何况，这部电视剧对“80后”群体也只能是艺术的再现，并且不可能全面反映这一代人的方方面面。&#8212;&#8212;&#8212;某些人贴标签也太过匆忙了。
@@ -25659,38 +25216,28 @@ http://view.QQ.com
 更多关于“标签”的新闻
 相关链接
 &#183;杨禹：80后，那一场风花雪月的《奋斗》
-(2007-10-15
-14:32:30)
+(2007-10-15 14:32:30)
 魏英杰其它文章
 &#183;魏英杰：复建圆明园与攀爬文物并无本质不同
-(2007-09-30
-10:33:10)
+(2007-09-30 10:33:10)
 &#183;魏英杰：单田芳上百家讲坛，不太可能的故事
-(2007-09-24
-09:55:55)
+(2007-09-24 09:55:55)
 &#183;魏英杰：宋祖德的“证件”空荡荡
-(2007-09-17
-09:39:08)
+(2007-09-17 09:39:08)
 &#183;魏英杰：潜规则多了
 文化圈就烂了
-(2007-09-17
-09:33:01)
+(2007-09-17 09:33:01)
 &#183;中国汽车社会刚至
 全面限制私车不妥
-(2007-09-09
-16:46:17)
+(2007-09-09 16:46:17)
 &#183;魏英杰：拉来80后难挽春晚颓势
-(2007-09-10
-09:42:01)
+(2007-09-10 09:42:01)
 &#183;魏英杰：“孔子就是于丹”这道题怎么做
-(2007-09-03
-15:40:10)
+(2007-09-03 15:40:10)
 &#183;“无车日”，一个有创意的环保“秀”
-(2007-08-31
-08:08:58)
+(2007-08-31 08:08:58)
 &#183;魏英杰：排队难、号贩子及其对策
-(2007-08-30
-08:58:49)
+(2007-08-30 08:58:49)
 分类信息
 -->
 -->
@@ -25952,8 +25499,7 @@ http://view.QQ.com
 [一场罕见的雪灾][被困女友的短信全记录]
 中国再也不是世界工厂？
 [万余港企面临关闭][黑心资本家无视法律]
-热点：[你买到票了吗
-你患了彭宇恐惧症？]
+热点：[你买到票了吗 你患了彭宇恐惧症？]
 陆涛在我看来只能算是感情上的成功者，在事业上，他要么求亲生父亲，要么求养父，甚至逼得向来清廉的养父为他走后门。
 这两个父亲倒是剧中比较出彩的人物，养父是规划局的干部，为人清高，安贫乐道，也喜欢给陆涛讲为人处事的道理，实际上他在陆涛身上寄寓了很高的期望。不过，陆涛对他很反感，嫌他迂腐、落伍，所以两人间的谈话大多是不欢而散。而亲父一出现就带着特别的气息，令陆涛大开眼界。他和陆涛的头一次单独会面，就跟陆比俯卧撑，然后远远把陆比下去后，说：“我在华尔街工作的时候，那些成功人士有个共同点，不是精于计算，而是凶狠，必须不断告诉别人‘这是我的，这也是我的’。”这次会面给陆涛留下了深刻的印象，这跟养父的形象反差太大了，他有种蠢蠢欲动的兴奋感。由于亲父的原因，陆涛进入了完全不同的生活圈子，而且亲父身上那种强硬、凶狠的商人作风，以及久经世故的睿智都令陆涛心折。他虽然不在亲父手下工作，但他每一份工作都跟亲父关系密切，很多次是直接求助于他。突然从天上掉下个富爸爸，想得到点好处也无可厚非，只是一面得着好处，一面还摆出一副“我有自己的理想”的假清高，就有些猥琐了。
 养父的角色虽着墨不多，倒是很感人，他一直尽着父亲的责任，而且他并不是没有能力过上富足的生活，只是不屑于那么做。他希望陆涛成为一个正直的人，所以多次提醒陆涛不要被成功的渴望蒙蔽了双眼。可是一旦看到陆涛无助的样子，便尽力成全他，为此不惜破坏自己的原则。在陆涛最迷惘的时候，他说了一段意味深长的话：“陆涛，也许你现在看着眼前这些大楼，觉得这是人生的关键，世界上有许多伟大的建筑当时都承载着设计者的理想，但它们很多都消失了，可以后慢慢会发现，这些所谓的关键只是你人生中的某件事而已。”陆涛越来越体会到养父对自己的深沉的爱，所以情不自禁叫他一声“爸”，养父瞬间老泪纵横。一个男人把别人的孩子当作自己的骨肉大半辈子，直到临了才听到一声“爸”，多年的心血和付出终于有了些安慰，怎么能不百感交集呢。
@@ -25975,14 +25521,11 @@ http://view.QQ.com
 -->
 更多关于“奋斗”的新闻
 &#183;十年砍柴：《奋斗》其实只是一部童话
-(2007-10-24
-16:07:11)
+(2007-10-24 16:07:11)
 &#183;有必要把《奋斗》提到那个高度吗
-(2007-10-24
-08:44:05)
+(2007-10-24 08:44:05)
 &#183;杨禹：80后，那一场风花雪月的《奋斗》
-(2007-10-15
-14:32:30)
+(2007-10-15 14:32:30)
 分类信息
 -->
 -->
@@ -26557,8 +26100,7 @@ http://view.QQ.com
 [一场罕见的雪灾][被困女友的短信全记录]
 中国再也不是世界工厂？
 [万余港企面临关闭][黑心资本家无视法律]
-热点：[你买到票了吗
-你患了彭宇恐惧症？]
+热点：[你买到票了吗 你患了彭宇恐惧症？]
 一愿：物价上涨能够停歇。2007年，和老百姓相关的生活日用品价格出现了很大的上涨，CPI指数也有了较大的上涨，或多或少地影响了老百姓的社会安全感，希望明年政府能够用很大的力度干预物价，让老百姓得到实惠。
 二愿：减排能够全面推广。节能，减排，呵护环境，应该成为全民的共识，更应该在试点的基础上全面推广，只要这样，减排才能体现应有的集约社会效果。
 三愿：奥运之热化解全民健身之冷。2008是奥运会年，奥运会的举行必然激发更多的人观看奥运会，但是，作为公民，对奥运会的最大支持就是应该借助奥运会之热来身体力行进行全民健身，贵在参与就是最好的奥运会行为。
@@ -26580,20 +26122,15 @@ view.news.qq.com
 -->
 更多关于“2008愿望”的新闻
 &#183;2008，平安是福
-(2007-12-31
-08:18:11)
+(2007-12-31 08:18:11)
 &#183;2008年的十个期盼……
-(2007-12-30
-12:18:59)
+(2007-12-30 12:18:59)
 &#183;未知的2008
-(2007-12-28
-09:32:28)
+(2007-12-28 09:32:28)
 &#183;2008江苏民生期盼一：让收入增长跑赢CPI
-(2008-01-01
-15:59:55)
+(2008-01-01 15:59:55)
 &#183;10市民畅抒“我的2008”(图)
-(2008-01-01
-14:27:48)
+(2008-01-01 14:27:48)
 分类信息
 -->
 -->
@@ -26854,8 +26391,7 @@ http://view.QQ.com
 [一场罕见的雪灾][被困女友的短信全记录]
 中国再也不是世界工厂？
 [万余港企面临关闭][黑心资本家无视法律]
-热点：[你买到票了吗
-你患了彭宇恐惧症？]
+热点：[你买到票了吗 你患了彭宇恐惧症？]
 每一个牺牲都永垂不朽。甚至这样的“每一个牺牲”也只是一种铺垫，没有这样的47个牺牲，你就无法理解谷子地要为兄弟们找一个名分的执著。谷子地的执著，我们甚至可以理解成是源于他内心深处的一种“愧疚”。这样的一种“愧疚”，在影片最后他终于找到老部队，在司号员告诉他根本没有吹响过集结号的时候，在他明白47个兄弟从某种意义上来说就是充当了“肉弹”的时候，这样的一种“愧疚”终于达到了一种顶点，甚至是达到了一种“宣泄”。
 响起，就是生；否则，就是死。集结号在这里隐隐成了一种象征，一种有关在战争状态下个体的生命终究无法左右自己命运的象征。前半部将战争的残酷铺垫到了极致，后半部又是宁静的田园生活。时空转换之间，死的死了，生的还在继续，生的要为死的去继续操劳，甚至于侥幸生存下来的还要去接受后来者的“审判”，有关命运上的哲理话题就这样少有地通过战争题材仿若雕像一样浮出水面。
 战争题材，特别是我们所熟悉的那段战争题材，似乎很难突破一般意义上主旋律的主题定义。如果说《亮剑》是这方面在电视剧上的突破，那么《集结号》无疑是这方面在电影上的突破。
@@ -26868,14 +26404,11 @@ view.news.qq.com
 -->
 更多关于“集结号”的新闻
 &#183;《集结号》的抄袭不错
-(2008-01-02
-09:27:00)
+(2008-01-02 09:27:00)
 &#183;越多人被《集结号》感动，越让人失望
-(2007-12-30
-09:51:56)
+(2007-12-30 09:51:56)
 &#183;《集结号》凯旋的原因
-(2007-12-29
-07:28:59)
+(2007-12-29 07:28:59)
 分类信息
 -->
 -->
@@ -27148,8 +26681,7 @@ http://view.QQ.com
 [一场罕见的雪灾][被困女友的短信全记录]
 中国再也不是世界工厂？
 [万余港企面临关闭][黑心资本家无视法律]
-热点：[你买到票了吗
-你患了彭宇恐惧症？]
+热点：[你买到票了吗 你患了彭宇恐惧症？]
 我们可以从三个方面感受到中国改革的困境。
 第一个方面，从上世纪90年代开始，我们推出的改革举措，基本上是社会结构内部要素性的调整。这么多年，我们的改革总是在一些枝节问题上展开，比如说物价要不要调整、房地产要不要放开、公共分房要不要取消，或者你对社会公平如何感受的，你有了钱要不要做慈善家等等。这都是中国近十五年来社会关注的焦点，关注这些焦点有没有错？当然没有错，尤其是当我们把改革放在道德平台上，这些关注让我们的内心迸发出来的道德热情，在近十五年可以说有了发泄的广泛空间。但是，光有道德还不能解决问题，道德是一种愿望，是一种知觉，是一种判断，但道德本身不是解决问题的出路和举措。
 所以，1992年以来的改革，都只是在刺激社会要素上，而不是在国家治理上来解决中国的改革问题。中国人寻求的民主已经变成了一个治道民主的权力来源，比如我们只要领导关注民生问题，但民生问题的前提是要有民权，这一点我们都遗忘了。没有宪法和法律的肯定，请问，即使领导关注了民生，由于你本身的权利没有受到法律以及公共政策的保障，领导对你垂悯，并不能实质性或根本性的改变状况。于是，民生问题就变成了公共汽车点、地铁点设在哪里合适等等，然后，国家要铁腕，来搞定一切。这变成社会政治改革的悲剧。
@@ -27173,44 +26705,31 @@ view.news.qq.com
 更多关于“改革”的新闻
 &#183;吴敬琏PK厉以宁：改革30年
 成败得失
-(2008-01-14
-08:45:30)
+(2008-01-14 08:45:30)
 &#183;茅于轼：国富国穷：制度和中国的经济改革
-(2008-01-07
-07:23:12)
+(2008-01-07 07:23:12)
 &#183;三十年纪念:为了更改革更开放
-(2008-01-03
-08:02:16)
+(2008-01-03 08:02:16)
 &#183;2007：思想在破局，改革要开放
-(2008-01-01
-09:31:57)
+(2008-01-01 09:31:57)
 &#183;秋风：酝酿变革--中国土地改革临界点
-(2007-12-29
-10:55:24)
+(2007-12-29 10:55:24)
 &#183;陈序：而立之年，改革开放还能不能一往无前
-(2007-12-29
-10:51:34)
+(2007-12-29 10:51:34)
 &#183;周其仁：中国改革与发展
-(2007-12-28
-10:26:51)
+(2007-12-28 10:26:51)
 &#183;朱学勤：改革开放三十年的经验总结
-(2007-12-21
-14:46:49)
+(2007-12-21 14:46:49)
 &#183;当改革打破既得利益阶层的利益
-(2007-11-16
-08:53:20)
+(2007-11-16 08:53:20)
 &#183;张维迎：中国所有人都是改革受益者
-(2007-11-02
-10:34:09)
+(2007-11-02 10:34:09)
 &#183;温铁军访谈：回望改革
-(2007-11-01
-09:52:17)
+(2007-11-01 09:52:17)
 &#183;张维迎：30年改革激荡
-(2007-10-29
-15:13:53)
+(2007-10-29 15:13:53)
 &#183;茅于轼：中国改革的制度观
-(2007-10-26
-09:21:28)
+(2007-10-26 09:21:28)
 分类信息
 -->
 -->
@@ -27442,8 +26961,7 @@ http://view.QQ.com
 [一场罕见的雪灾][被困女友的短信全记录]
 中国再也不是世界工厂？
 [万余港企面临关闭][黑心资本家无视法律]
-热点：[你买到票了吗
-你患了彭宇恐惧症？]
+热点：[你买到票了吗 你患了彭宇恐惧症？]
 插队买票引发对骂
 据《南方都市报》报道，昨天上午7时，广州市火车站售票大厅37号售票窗前，几名清洁工正在手持拖把一遍遍地清理地上遗留的大摊血迹。血迹还沾上了附近地上的几张报纸，熙熙攘攘的买票人群从血迹和报纸上走过，有的忍不住驻足，指着地面，谈论着刚刚发生的流血冲突。车站派出所的五十余名警力分布在每个售票窗前和大厅的各个角落，他们中的很多人从前晚20时便开始值班，通宵未眠。
 众多买票群众目睹了事发经过
@@ -27465,20 +26983,15 @@ view.news.qq.com
 -->
 更多关于“火车票”的新闻
 &#183;买票是一场战争
-(2008-01-16
-07:36:05)
+(2008-01-16 07:36:05)
 &#183;我的三次买票经历
-(2008-01-16
-07:32:46)
+(2008-01-16 07:32:46)
 &#183;买票难，难于上青天
-(2008-01-16
-07:25:40)
+(2008-01-16 07:25:40)
 &#183;人去楼空，真够无聊；又要买票，这个难熬
-(2008-01-16
-07:16:27)
+(2008-01-16 07:16:27)
 &#183;各售票点拉开熬夜买票序幕
-(2008-01-15
-16:35:56)
+(2008-01-15 16:35:56)
 分类信息
 -->
 -->
@@ -27799,17 +27312,13 @@ view.news.qq.com
 -->
 相关新闻
 &#183;涨价时代，社会责任感因奢侈而珍贵
-(2008-01-11
-07:37:38)
+(2008-01-11 07:37:38)
 &#183;范辉军：倒奶说掩饰不住行业涨价冲动
-(2008-01-03
-08:48:47)
+(2008-01-03 08:48:47)
 &#183;国家发改委：猪肉涨价主要由农民受益
-(2007-09-17
-22:15:39)
+(2007-09-17 22:15:39)
 &#183;张五常：农产品涨价可喜可贺
-(2007-08-23
-08:32:17)
+(2007-08-23 08:32:17)
 分类信息
 -->
 -->
@@ -28103,8 +27612,7 @@ http://view.QQ.com
 [一场罕见的雪灾][被困女友的短信全记录]
 中国再也不是世界工厂？
 [万余港企面临关闭][黑心资本家无视法律]
-热点：[你买到票了吗
-你患了彭宇恐惧症？]
+热点：[你买到票了吗 你患了彭宇恐惧症？]
 1950年8月，全国第一次卫生工作会议召开，曾经通过了一个“整顿中医案”。可是，由于我国卷入了朝鲜战争。这个决议没有在我国认真的实行。因为朝鲜战争，不但我国的战时财政捉襟见肘，更使我国的国际关系雪上加霜。
 众所周知，“老大哥”曾经承揽了我国的全部战后重建。可是，“老大哥”只帮助我们搞了工业和基建，却没有帮助我们提升医疗卫生水平，既没有援助我们办医院，也没有援助我们办制药厂，甚至也没有往我国的医科大学派医学教授。
 前方要打仗，后方有5亿多中国人要防病和治病。在一个孤立的国际环境中，当时的中央政府只好把防病治病的希望寄托在中医身上。于是，从1954年开始，中央政府开始在全国大办中医。毛泽东甚至发出了“关键是西医学习中医”的号召。
@@ -28127,33 +27635,24 @@ view.news.qq.com
 相关新闻
 &#183;刘夙：山中无老虎
 &#8212;&#8212;中医害的
-(2007-10-18
-13:14:38)
+(2007-10-18 13:14:38)
 &#183;五岳散人：多喝了二两的中医
-(2007-10-17
-14:08:20)
+(2007-10-17 14:08:20)
 &#183;“营养学家”林光常的倒掉
-(2007-10-08
-16:31:55)
+(2007-10-08 16:31:55)
 &#183;张功耀：“亚健康”概念剖析
-(2007-09-27
-13:48:49)
+(2007-09-27 13:48:49)
 &#183;方舟子：中药在美国的日子会更不好过
-(2007-09-25
-14:18:20)
+(2007-09-25 14:18:20)
 &#183;中医废存早已升级为政治问题
-(2007-09-21
-17:23:17)
+(2007-09-21 17:23:17)
 &#183;方舟子解密部分中药毒性
-(2007-09-16
-20:29:00)
+(2007-09-16 20:29:00)
 &#183;剥开“刘太衣”
-(2007-09-16
-18:21:23)
+(2007-09-16 18:21:23)
 &#183;七专家呼吁
 删除教材中鲁迅对中医不敬言语
-(2007-08-21
-21:11:49)
+(2007-08-21 21:11:49)
 分类信息
 -->
 -->
@@ -28448,18 +27947,14 @@ view.news.qq.com
 -->
 更多关于“年终奖”的新闻
 &#183;网上晒工资：攀比？炮轰？招聘网站新业务？
-(2007-02-17
-17:10:57)
+(2007-02-17 17:10:57)
 &#183;单身男女都有过年恐惧症
-(2007-02-09
-17:10:57)
+(2007-02-09 17:10:57)
 &#183;网上“晒”的一般国有企业的工资
-(2007-02-04
-17:10:57)
+(2007-02-04 17:10:57)
 &#183;年底流行“晒工资”
 五行业收入最受关注
-(2007-02-02
-17:10:57)
+(2007-02-02 17:10:57)
 分类信息
 -->
 -->
@@ -28697,8 +28192,7 @@ http://view.QQ.com
 [一场罕见的雪灾][被困女友的短信全记录]
 中国再也不是世界工厂？
 [万余港企面临关闭][黑心资本家无视法律]
-热点：[你买到票了吗
-你患了彭宇恐惧症？]
+热点：[你买到票了吗 你患了彭宇恐惧症？]
 普京是“又一个斯大林”吗？
 “今天恢复斯大林格勒之名，会产生猜疑，使人觉得我们要回到斯大林主义时代去，这不会给我们大家带来好处。”
 笔者认为，一些意识形态色彩浓厚的评论明显是一厢情愿的。其中最明显的例子，是所谓普京“亲斯大林”的说法。普京为纪念卫国战争、弘扬爱国主义而把莫斯科亚历山大花园“英雄城市”纪念石墩上的伏尔加格勒恢复为斯大林格勒，曾经引起国内一些传媒的欢呼，说是普京崇敬斯大林了。其实，“英雄城市”石墩是个历史纪念标志，与城市的现名及现状无关。例如众所周知，列宁格勒剧变后已经改名，可是石墩上的“英雄城市”列宁格勒并未改动，你不能以此否认该城现在叫圣彼得堡。“英雄城市”名单上的11个城市中，基辅、明斯克等6个都位于前苏联其他加盟共和国，如今并不属于俄罗斯，难道石墩上有其名就意味着俄罗斯对它们还有主权？同样，石墩上的“斯大林格勒”并非今天的城市名，更与今天对斯大林的评价无关。
@@ -28726,8 +28220,7 @@ view.news.qq.com
 -->
 更多关于“普京”的新闻
 &#183;普京：俄罗斯的“新沙皇”？
-(2007-10-03
-13:25:50)
+(2007-10-03 13:25:50)
 分类信息
 -->
 -->
@@ -28980,17 +28473,13 @@ view.news.qq.com
 相关新闻
 &#183;普京明年3月将卸任
 俄总统权力可能移交给总理
-(2007-10-03
-13:25:50)
+(2007-10-03 13:25:50)
 &#183;“后普京时代”俄罗斯何去何从？（图）
-(2007-10-03
-13:25:50)
+(2007-10-03 13:25:50)
 &#183;普京，别这样
-(2007-09-21
-13:23:10)
+(2007-09-21 13:23:10)
 &#183;刘朋：普京提名新总理重演当年一幕
-(2007-09-13
-18:36:30)
+(2007-09-13 18:36:30)
 分类信息
 -->
 -->
@@ -29220,8 +28709,7 @@ http://view.QQ.com
 [一场罕见的雪灾][被困女友的短信全记录]
 中国再也不是世界工厂？
 [万余港企面临关闭][黑心资本家无视法律]
-热点：[你买到票了吗
-你患了彭宇恐惧症？]
+热点：[你买到票了吗 你患了彭宇恐惧症？]
 我今天半个小时到40分钟的演讲，我只想跟各位谈一谈你看到这一些现象的本质是什么？或者讲什么是它真正的灵魂？那么经济工作会议提出一个很深刻的观点，那就是要由过去的适度紧缩变成紧缩，当然其目的是预防更进一步的通货膨胀等等，当然这个细节我在这就不做讨论了，大家有兴趣的话可以上网看看中央经济工作会议的实质内容。
 在这我必须要表达我的观点，宏观调控本身的思想是正确的，这一点是毋庸置疑的。当然问题在这，那就是宏观调控的路径选择是什么？而且这个房价高涨现象以及像海尔等等的电器行业相应进入房地产行业，它的推动力是什么？那么我觉得这个更值得我们思考。对于房地产而言，我们可以从市场化的扭曲来做一个开端，我们改革开放这么多年，我们有没有做到真正的市场化？那么我想告诉各位，以房地产而言，在供给面上它是市场化严重不足，而需求面呢是市场化严重过度这么一个行业。当然我曾经在别的场合谈到过这个议题，大家如果有兴趣可以看看我这方面的发言，今天就不过多讲了。利用3分钟的时间，我把过去的一些发言进行一个总结。
 大家想想，房地产的供给面是怎么回事？基本上就是市场化严重不足的供给面，举个例子来讲，真正影响房价的有三大要素。第一大要素就是两大核心资源，包括土地开发权以及银行信贷权，这两个要素牵扯到了甚多的寻租行为，提高了构建成本，第二个要素就是房地产的寻租，从开工、完工销售每个环节都有寻租的迹象，第三个要素就是地方政府卖地的心态，卖地的地价之高，甚至超过全世界你可以想象到的各种经济指标，包括石油、重金属、期货，而且这个价格基本上是只涨不跌，种种因素加在一起，使得地产供给面大幅上升，我们就以第三项公开竞价土地为例，比如万科在福州飙了一块地，可以说是天价，原来福州的房价是6、7千元一平米，万科拍下来之后一平方米地价就要7千元。这个就和我们所谓的政府行为挂钩，包括土地竞价制度都和政府行为挂钩，基本上地产供给面就是由政府参与的，而市场化不足的供给面。
@@ -29247,23 +28735,17 @@ view.news.qq.com
 -->
 更多关于“房地产”的新闻
 &#183;郎咸平：我是个伟大的思想家
-(2007-10-13
-22:11:15)
+(2007-10-13 22:11:15)
 &#183;郭宇宽：警惕郎咸平式的“讲真话”
-(2007-08-27
-14:19:09)
+(2007-08-27 14:19:09)
 &#183;郎咸平：房地产现状及发展趋势（下）
-(2007-08-24
-20:13:01)
+(2007-08-24 20:13:01)
 &#183;郎咸平：房地产现状及发展趋势（上）
-(2007-08-24
-20:13:01)
+(2007-08-24 20:13:01)
 &#183;郎咸平：90年代中期的曲解造成今天的乱象
-(2007-07-16
-16:15:25)
+(2007-07-16 16:15:25)
 &#183;郎咸平：与其“仇富”不如“仇腐”
-(2007-01-31
-17:10:57)
+(2007-01-31 17:10:57)
 分类信息
 -->
 -->
@@ -29770,8 +29252,7 @@ http://view.QQ.com
 [一场罕见的雪灾][被困女友的短信全记录]
 中国再也不是世界工厂？
 [万余港企面临关闭][黑心资本家无视法律]
-热点：[你买到票了吗
-你患了彭宇恐惧症？]
+热点：[你买到票了吗 你患了彭宇恐惧症？]
 问题是，发改委为什么要临时干预价格？一个重要的理由是，年关将近，老百姓要过一个愉快的新年，如果价格尤其是部分食品的价格上涨过快的话，可能影响社会安定。因此如果方便面、食用植物油和牛奶厂商如果“不合理”涨价的话，就会影响社会稳定，带来很高的社会成本。这个理由没有看到的一面是“科斯问题”。发改委制定的“不合理”标准，可能表露出国家治理通胀的决心，也希望通过临时干预价格来稳定百姓的预期。但行政干预价格的后果可能更加严重，使得这一政策有可能陷入得不偿失的境地。
 第一，干预价格固然短期内迎合了作为消费者的老百姓，但却损害了作为生产者的老百姓的效用。企业原本可能趁着年关时消费需求旺盛而通过提价获益，然后将利益部分返回给职工，但政府的价格管制却使得这种情况不可能出现。尤其是对被点名的方便面、食用植物油和牛奶厂商而言，更是如此。当然，辩护者可能会说，因为涉及的厂商数量少，职工人数与全社会总人口而言，也是少数，因此可以通过卡尔多-希克斯标准，大部分人获利超过少数人，这一措施依然可以实行。
 第二，但即便如此，这一措施是不是能惠及普通消费者，依旧是存在疑问的。因为我们知道厂家也是理性的行为主体。因此在遭遇价格管制的条件下，哪怕是临时的价格管制，企业也可以通过减少供应，或者不供应产品来变相提高商品的价格。例如说凭券购买，造成消费者排队的现象；或者企业会短斤缺两，原本一包方便面120克，现在减少到100克，但包装仍旧采用原来的，消费者仍旧是多花了钱；还有以次充好，原本有定价1元和定价2元的方便面，现在将定价1元的方便面原料装到定价两元的包装里。如此等等，不一而足，也就是说企业会采用各种办法来规避价格规制。价格规制对企业有影响，但显然这种影响被转嫁给了消费者。
@@ -29788,20 +29269,15 @@ view.news.qq.com
 -->
 更多关于“价格管制”的新闻
 &#183;价格管制治通胀行不通
-(2008-01-18
-15:38:14)
+(2008-01-18 15:38:14)
 &#183;价格管制只是权宜之计
-(2008-01-18
-15:16:50)
+(2008-01-18 15:16:50)
 &#183;梁宇峰：以价格管制应对通胀无异于缘木求鱼
-(2008-01-18
-15:13:33)
+(2008-01-18 15:13:33)
 &#183;阮一峰：美国70年代的价格管制
-(2008-01-18
-15:08:32)
+(2008-01-18 15:08:32)
 &#183;价格管制导致什么结果？
-(2008-01-18
-15:02:57)
+(2008-01-18 15:02:57)
 分类信息
 -->
 -->
@@ -30098,8 +29574,7 @@ http://view.QQ.com
 [一场罕见的雪灾][被困女友的短信全记录]
 中国再也不是世界工厂？
 [万余港企面临关闭][黑心资本家无视法律]
-热点：[你买到票了吗
-你患了彭宇恐惧症？]
+热点：[你买到票了吗 你患了彭宇恐惧症？]
 既然“春晚”不是春节文化的全部，也就没有必要在这样一个假定的命题上兜圈子。不管人们怎么看，春节都是基于文化认同的一次联欢，而不应该是供人瞻仰的一种文物。如果承认人类社会文化在不断演进，就必须正视春节的外在形式也在不停变化中。尽管“春晚”在一定程度上“改造”了春节，让今天的中国人饱受“亵渎传统文明”的困扰，但文明的进步也不可能让人们永远停留在渔猎火种的原始状态里过年。
 我无意轻蔑5位学者的学识，只是觉得他们与一台晚会较劲，不是高估了自己的能量就是小看老百姓的智商，似乎每年不在这方面制造点动静，中国人就不能活到大年初一。既然自己不喜欢完全可以不看嘛，何必让其他的人去承受这份无聊的沉重？不要说老百姓从来没有把生存的希望寄予一台晚会，就是真的有人让几个文艺节目对13亿人的快乐负责，他们能担待得起吗？从这个意义上说，就算“如今的春节被赋予了太多的教化、劝导和条条框框”也并不是文艺节目本身的过错。
 法国哲学家萨特说过：“存在先于本质”。为了存在，古今中外每种形式的文化都是以社会主体利益为宗旨的。用一句时髦的话说这叫国情不同，以此衍生的文化存在形式及其价值自然不同。春节联欢晚会屡遭非议，主要原因就是一花独放，这也是学者们“抵制春晚”的支撑点。但他们疏忽了一个前提，没有明白人们越来越感觉不到年味儿的结症在哪里。是物质上丰沛造就了人们的“味觉”迟钝，还是精神上的匮乏让人们找不到一个寄存心灵的空间？难怪有人指责他们哗众取宠、借势炒作了，既然没有擎纲提领的真知灼见，就难免误诊误断，而这种结果必然贻笑大方。
@@ -30116,17 +29591,13 @@ view.news.qq.com
 -->
 更多关于“春晚”的新闻
 &#183;港台主持人加盟春晚是个好方案
-(2008-01-18
-15:21:53)
+(2008-01-18 15:21:53)
 &#183;抵制春晚，痴人说梦？
-(2008-01-18
-11:32:48)
+(2008-01-18 11:32:48)
 &#183;喜闻春晚“黑马”杀出来
-(2008-01-10
-14:21:59)
+(2008-01-10 14:21:59)
 &#183;赵本山，别再继续被春晚“忽悠”了
-(2008-01-03
-09:42:21)
+(2008-01-03 09:42:21)
 分类信息
 -->
 -->
@@ -30395,8 +29866,7 @@ http://view.QQ.com
 [一场罕见的雪灾][被困女友的短信全记录]
 中国再也不是世界工厂？
 [万余港企面临关闭][黑心资本家无视法律]
-热点：[你买到票了吗
-你患了彭宇恐惧症？]
+热点：[你买到票了吗 你患了彭宇恐惧症？]
 对上世纪70年代初或更早出生的人来说，没有目睹过地主的样子，而是由教科书或文艺作品告诉他们地主是这样的：刘文彩、黄世仁和那个在雷锋叔叔手臂上砍下三刀的地主婆。
 这样的地主，未必是一个个活生生的人，更多是一种概念演绎。一旦被贴上“地主”的标签，似乎就应该这样凶恶，有如土匪就应该是座山雕那样子。
 中国长期是一个小农经济的国家，人多地少，经济欠发达。在大部分地区特别是南方，地主多是省吃俭用买下几亩水田的小康之家。像刘文彩这种占地极广的地主当然也有，但很少，没有非正常的方式积累财富，不可能占有太多的土地。刘文彩其实只是个管家，那些地是他当西康省主席的兄弟刘文辉拥有的，因为刘文辉和平起义是民主人士，不好作为地主的形象代言人出现。多数地主、富农必须勤劳节俭，必须与人为善，也不可能对雇工太严酷，才可能维持那份家业。
@@ -30415,24 +29885,18 @@ view.news.qq.com
 更多关于“地主”的新闻
 相关链接
 &#183;苏文洋：为什么“大地主”是中国首富？
-(2007-10-15
-08:36:34)
+(2007-10-15 08:36:34)
 十年砍柴其它文章
 &#183;十年砍柴：霸气县官何以多在偏远地区
-(2008-01-22
-07:47:59)
+(2008-01-22 07:47:59)
 &#183;《红楼》也曾“很黄很暴力”
-(2008-01-17
-09:06:37)
+(2008-01-17 09:06:37)
 &#183;把老师叫“老板”是师道尊严吗
-(2008-01-06
-07:44:10)
+(2008-01-06 07:44:10)
 &#183;十年砍柴：县官成为公权力病灶原因何在
-(2008-01-05
-07:13:44)
+(2008-01-05 07:13:44)
 &#183;忍受为什么要是女性的美德
-(2008-01-03
-13:38:37)
+(2008-01-03 13:38:37)
 分类信息
 -->
 -->
@@ -30652,15 +30116,10 @@ http://view.QQ.com
 博客
 方舟子
 评论0条
-2004年7月28日，当代最伟大的生物学家之一、DNA双螺旋结构的共同发现者克里克（Francis
-Crick）在美国圣地亚哥逝世。克里克晚年在圣地亚哥的索尔克生物学研究所工作，我曾经在该所做过博士后研究，与他有数面之缘，聆听过他的教诲，不过给我印象最深的，还是他那辆挂着“ATCG”（表示DNA的碱基配对）车牌的宝马车总是早早地停在专用车位上。9月27日，索尔克研究所举行追悼仪式，在该所工作的一个中国人来函建议我写一篇纪念文章。我正在构思的时候，10月6日，又传来了威尔金斯（Maurice
-Wilkins）逝世的消息。这两名英国生物学家在1962由于他们在1953年发现核酸（DNA）的分子结构及其在生物物质信息传递中的作用，而与美国生物学家沃森（James
-Watson）分享诺贝尔生理医学奖，现在他们又在同一年先后逝世，而且两人年纪相同，都出生于1916年（克里克早出生半年）。但是两人的共同之处还不止于此：与沃森是科班出生的生物学家不同，克里克和威尔金斯原来是物理学家，在第二次世界大战结束之后才转行搞生物学研究。
+2004年7月28日，当代最伟大的生物学家之一、DNA双螺旋结构的共同发现者克里克（Francis Crick）在美国圣地亚哥逝世。克里克晚年在圣地亚哥的索尔克生物学研究所工作，我曾经在该所做过博士后研究，与他有数面之缘，聆听过他的教诲，不过给我印象最深的，还是他那辆挂着“ATCG”（表示DNA的碱基配对）车牌的宝马车总是早早地停在专用车位上。9月27日，索尔克研究所举行追悼仪式，在该所工作的一个中国人来函建议我写一篇纪念文章。我正在构思的时候，10月6日，又传来了威尔金斯（Maurice Wilkins）逝世的消息。这两名英国生物学家在1962由于他们在1953年发现核酸（DNA）的分子结构及其在生物物质信息传递中的作用，而与美国生物学家沃森（James Watson）分享诺贝尔生理医学奖，现在他们又在同一年先后逝世，而且两人年纪相同，都出生于1916年（克里克早出生半年）。但是两人的共同之处还不止于此：与沃森是科班出生的生物学家不同，克里克和威尔金斯原来是物理学家，在第二次世界大战结束之后才转行搞生物学研究。
 克里克奠定了分子生物学的一系列理论基础，为分子生物学的确立做出了无与伦比的贡献
 “双螺旋的第三人”威尔金斯
-第二次世界大战在某种意义上说，是一场科技战争，尤其是像英国这种人力和物力资源都缺乏的岛国，更倚重科技的进步来改变战争的进程。大批的物理学家、数学家被征召为军方服务，破译密码，研制雷达、声纳、计算机、核武器。克里克1937年从伦敦的大学学院物理系本科毕业后，又开始攻读物理博士学位，但是1939年战争爆发，他被迫中断学业，为英国海军部工作，研制磁性水雷和感音水雷。威尔金斯比克里克晚一年获得物理学士学位（剑桥大学），但在1940年读完了物理学博士（伯明翰大学），其论文与雷达有关，在战争期间他参与研制雷达，1943年又到美国伯克利参与曼哈顿计划研制原子弹。战争结束后，这些曾经为战争的胜利立下汗马功劳的物理学家的出路成了问题。许多人必须改行。其中不少年轻的物理学家，在大物理学家波尔和薛定锷的激励下，投身到生物学的研究。此时的物理学界，在经历了相对论和量子力学两场革命后，进入了所谓“常规科学”时期，似乎已没有重大问题可解决，满足不了雄心勃勃的年轻物理学家的求知欲。而生物学相对来说还是一块未开垦的神秘领域，特别是生物的遗传，在当时还是一个谜。波尔和薛定锷都认为通过研究生命现象有可能发现新的物理定律，向物理学家们发出了号召。克里克和威尔金斯后来都强调薛定锷在1944年出版的《生命是什么？》一书对他们的影响，使他们从事生物物理研究&#8212;&#8212;用物理方法研究生命现象。克里克先是研究细胞中磁性颗粒的运动，在听说剑桥大学卡文迪许实验室新成立了一个研究组用X射线衍射法测定蛋白质的结构后，便要求转到那里做博士论文。差不多同时，威尔金斯也到伦敦的国王学院用X射线衍射法测定DNA的晶体结构，以后又来了一位女化学家弗兰克林（Rosalind
-Franklin,
-1920-1958）与他一起工作。当X射线照射到生物大分子的晶体时，晶格中的原子或分子会使射线发生偏转，根据得到的衍射图象，可以推测分子大致的结构和形状。不过，不理解DNA的生物学功能，单纯根据晶体衍射图，有太多的可能性供选择，是很难得出正确的模型的。
+第二次世界大战在某种意义上说，是一场科技战争，尤其是像英国这种人力和物力资源都缺乏的岛国，更倚重科技的进步来改变战争的进程。大批的物理学家、数学家被征召为军方服务，破译密码，研制雷达、声纳、计算机、核武器。克里克1937年从伦敦的大学学院物理系本科毕业后，又开始攻读物理博士学位，但是1939年战争爆发，他被迫中断学业，为英国海军部工作，研制磁性水雷和感音水雷。威尔金斯比克里克晚一年获得物理学士学位（剑桥大学），但在1940年读完了物理学博士（伯明翰大学），其论文与雷达有关，在战争期间他参与研制雷达，1943年又到美国伯克利参与曼哈顿计划研制原子弹。战争结束后，这些曾经为战争的胜利立下汗马功劳的物理学家的出路成了问题。许多人必须改行。其中不少年轻的物理学家，在大物理学家波尔和薛定锷的激励下，投身到生物学的研究。此时的物理学界，在经历了相对论和量子力学两场革命后，进入了所谓“常规科学”时期，似乎已没有重大问题可解决，满足不了雄心勃勃的年轻物理学家的求知欲。而生物学相对来说还是一块未开垦的神秘领域，特别是生物的遗传，在当时还是一个谜。波尔和薛定锷都认为通过研究生命现象有可能发现新的物理定律，向物理学家们发出了号召。克里克和威尔金斯后来都强调薛定锷在1944年出版的《生命是什么？》一书对他们的影响，使他们从事生物物理研究&#8212;&#8212;用物理方法研究生命现象。克里克先是研究细胞中磁性颗粒的运动，在听说剑桥大学卡文迪许实验室新成立了一个研究组用X射线衍射法测定蛋白质的结构后，便要求转到那里做博士论文。差不多同时，威尔金斯也到伦敦的国王学院用X射线衍射法测定DNA的晶体结构，以后又来了一位女化学家弗兰克林（Rosalind Franklin, 1920-1958）与他一起工作。当X射线照射到生物大分子的晶体时，晶格中的原子或分子会使射线发生偏转，根据得到的衍射图象，可以推测分子大致的结构和形状。不过，不理解DNA的生物学功能，单纯根据晶体衍射图，有太多的可能性供选择，是很难得出正确的模型的。
 沃森在获得诺贝尔奖以后，成为了分子生物学的领军人物，在1968年担任冷泉港分子生物学实验室主任，将它变成了研究分子生物学的世界中心
 弗兰克林因为长期接触X射线，患癌症过早地逝世
 但是这两位测定DNA结构的人，当时却对DNA的重要性，DNA究竟在细胞中干什么一无所知，对他们来说，DNA无非是一种普通的生物大分子，能测定一种生物大分子的结构就算得上有了科研成果，如此而已。克里克的论文题目是“多肽和蛋白质：X射线研究”，与DNA更无关系。1951年，23岁的年轻的遗传学家沃森从美国到剑桥大学做博士后，挂着的课题项目是研究烟草花叶病毒，其真实意图却是要研究DNA分子结构，因为他深知DNA的重要性。沃森碰巧与克里克分享一个办公室，便说服他一起研究DNA分子模型，因为他需要克里克在X射线晶体衍射学方面的知识。据他的回忆，他到剑桥后发现克里克也是“知道DNA比蛋白质更为重要的人”。但是按克里克本人的说法，他当时对DNA所知不多，并不觉得它在遗传上比蛋白质更重要，只是认为DNA做为与核蛋白结合的物质，值得研究。对一名研究生来说，确定一种未知分子的结构，就是一个值得一试的课题。正是因为沃森坚信DNA是遗传物质，并且理解遗传物质应该有自我复制、携带遗传信息和突变的特性，很快就做出了重大发现。1953年，在威尔金斯和弗兰克林拍摄到的DNA衍射照片的基础上，沃森和克里克提出了DNA双螺旋模型，给生物学带来一场革命。1958年，年仅38岁的弗兰克林因患癌症逝世（因为长期接触X射线引起的），使得1962年诺贝尔奖委员会给这个发现颁奖时，已无需因为一次最多只能奖给三个人而为取舍大伤脑筋了。在这三个人中，威尔金斯可以说是稀里糊涂得了诺贝尔奖（他的自传的题目叫《双螺旋的第三人》，很准确地反映了这一点），克里克则是在沃森的鼓动下被动地获奖，而只有沃森一开始就志在必得。
@@ -30672,8 +30131,7 @@ Franklin,
 [一场罕见的雪灾][被困女友的短信全记录]
 中国再也不是世界工厂？
 [万余港企面临关闭][黑心资本家无视法律]
-热点：[你买到票了吗
-你患了彭宇恐惧症？]
+热点：[你买到票了吗 你患了彭宇恐惧症？]
 测定DNA的结构，是威尔金斯科研生涯的顶点，也是终点，从那以后，他基本脱离了科研，忙于教学、行政工作和从事反对核武器等社会活动。沃森和克里克则成为了分子生物学的领军人物，特别是克里克，为分子生物学的确立做出了无与伦比的贡献。在1957年，克里克预言了基因控制蛋白质合成的机制，指出遗传信息仅仅体现在DNA的碱基序列上，还需要一种连接物将碱基序列和氨基酸连接起来。这个“连接物假说”，很快就被实验证实了：后来发现的转运RNA就是克里克预言的连接物。1958年，克里克提出了两个学说，奠定了分子生物学的理论基础。第一个学说是“序列假说”，它认为一段核酸的特殊性完全由它的碱基序列所决定，碱基序列编码一个特定蛋白质的氨基酸序列，蛋白质的氨基酸序列决定了蛋白质的三维结构。第二个学说是“中心法则”，遗传信息只能从核酸传递给核酸，或核酸传递给蛋白质，而不能从蛋白质传递给蛋白质，或从蛋白质传回核酸。在1961年，克里克等人在噬菌体中用遗传学方法证明了蛋白质中1个氨基酸的顺序是由3个碱基编码的（称为1个密码子），在破译遗传密码的问题上也做出了重大的贡献。到1970年代，克里克认为分子生物学的基本问题都已解决，分子生物学研究也将进入乏味的“常规科学”时期，于是改而探索另一个未知领域：意识。这也许是一个很合乎逻辑的选择，因为克里克最重要的研究工具就是思考，利用别人获得的数据，靠推理和建构模型来解决问题。
 现在也有大批物理系的毕业生改行从事分子生物学研究，原因还是出路问题。当前的生物学研究要比物理学研究活跃得多，工作机会也多得多。但是他们当中恐怕没有多少人有像他们的前辈们那样要在生物学领域进行一场革命的雄心壮志了，分子生物学也已非常成熟，早就过了可以由其他领域的人士来从事革命的草创时期。克里克这样的天才的出现，终究只是一个不可再现的科学奇迹。（摘自《方舟子带你走近科学》，陕西师大出版社2008年11月出版）
 今日话题·思想博客
@@ -30911,8 +30369,7 @@ http://view.QQ.com
 [一场罕见的雪灾][被困女友的短信全记录]
 中国再也不是世界工厂？
 [万余港企面临关闭][黑心资本家无视法律]
-热点：[你买到票了吗
-你患了彭宇恐惧症？]
+热点：[你买到票了吗 你患了彭宇恐惧症？]
 一晃进入2002年，二号线开通，地铁员工也将从原来的1800人扩张到3000多人的规模，卢光霖认为如果继续执行原有家属优惠政策，虽然是企业化运行但本质是政府补贴的公共交通提供者的地铁，势必将侵占更多公共资源。认为此举不妥的卢光霖把建议带到了班子会议上，并和班子达成了共识，但在不久后举行的地铁职工大会上遭到强烈反对，被高票否决。
 就在公司上层感到为难之时，2003年2月18日，一精神病人在韩国大邱地铁纵火，大火导致198人死亡的人间惨案发生。在查阅国内专家就大邱地铁惨案给出的分析报告时，卢光霖发现事发时没有懂得救援知识的乘客组织撤离和抢救是造成大量伤亡的主要原因。2003年国际恐怖主义势力又有抬头，反恐日益受到城市公共交通部门的重视，但广州地铁运行途中除了驾驶员是没有一个地铁职工在车上的，一旦发生意外，后果不堪设想。卢光霖感觉到免费坐车的地铁家属可以加以培训以备万一，“当然我也想到了地铁当时福利不好，保留这个有利于员工稳定”，卢光霖坦陈。此后数千员工配偶和小孩一一参加了地铁内部组织的撤离救援训练，考核合格的继续享有免费优惠。
 2005年12月12日，广州地铁票价听证会。一民意代表提出质疑，质疑地铁6000余员工及18000名家属何以享受免票待遇。会后，在记者的围堵下，卢解释了上述的考虑，最后总结说：这些免费亲属是地铁的义务安全员，他们免费乘车是为了安全反恐的需要。这句话被作为报章标题，再经过网络传播，省去了语境和背景，一时激起争议无数，名动天下，卢光霖一夜之间成为最受关注也最具争议的网络人物。
@@ -31168,8 +30625,7 @@ http://view.QQ.com
 [一场罕见的雪灾][被困女友的短信全记录]
 中国再也不是世界工厂？
 [万余港企面临关闭][黑心资本家无视法律]
-热点：[你买到票了吗
-你患了彭宇恐惧症？]
+热点：[你买到票了吗 你患了彭宇恐惧症？]
 我们再看看中国历史上最辉煌的几个时期，那时中国不仅仅是为全世界提供最多的物质产品，而且是为全世界提供多种多样的非物质产品，包括政治制度、行政制度、行政体系、法律制度、科学技术、文化艺术、生活方式。那时世界上有两个最大的文明样板，一个是古希腊，一个就是古代中国。提供物质产品很容易，而为全世界提供非物质产品才是最伟大的，因为这是改变人的政治、经济、社会、生活方式和管理方式。
 举一个简单的例子，现在讲香港公务员制度是我们学习的样板，而这一制度又是从英国来的。在西方，人家马上就讲“如果古希腊是全世界古文明民主的摇篮，中国就是全世界理性行政体系的摇篮”，最早对此感到惊讶的是原来英国的东印度公司，东印度公司到了亚洲之后，发现中国的制度太先进了。因为当时欧洲还没有像这样全国范围通过考试来筛选官员的制度，然后东印度公司就把中国的体制引回欧洲，加上现代的因素，就是现代公务员制度的起源。
 那个时候中华文明具有一种整体的投射力。不管过去几十年来，我们中国在经济上取得多大的成就，但还远远没有达到中国历史上整体文明所达到的高度，不具备中华文明历史上的那种对外的投射力，所以当今中国的“再崛起”主要体现在经济方面，在其他方面还比较薄弱。这是我强调“崛起”和“再崛起”有区别的最重要原因。
@@ -31468,8 +30924,7 @@ http://view.QQ.com
 [一场罕见的雪灾][被困女友的短信全记录]
 中国再也不是世界工厂？
 [万余港企面临关闭][黑心资本家无视法律]
-热点：[你买到票了吗
-你患了彭宇恐惧症？]
+热点：[你买到票了吗 你患了彭宇恐惧症？]
 谁能想到，在将近一百年后的今天，在华夏大地，孔家店居然越开越多。一批又一批继承了儒家衣钵的孝子贤孙堂而皇之地登上了第一媒体&#8212;&#8212;央视屏幕，大张旗鼓地开始了新一轮愚民说教。
 不容否认，儒教在中国流传几千年，必有其合理成分。但是谁也不能否认，儒家文化的核心就是维护皇权专制，教化国人循规蹈矩地当奴才、奴隶。正是由于这种酱缸文化的荼毒，国人的膝盖弯曲了几千年，国人的头低了几千年，国人的心理更是压抑了几千年。直到今天，亿万国人仍然没有成为公民的自觉，没有行使公民权利的主动，更没有享受过当家作主的公民人格尊严。
 虽然说民国成立之初就废除了磕头下跪礼仪，但季羡林、钱文忠作为师徒关系，私下里别说磕头，就是亲吻脚趾、端尿盆别人也管不着，那是你们愿打愿挨的事。可是作为颇具影响的公众人物，你们在举国观看的大众媒体面前，身体力行地复辟有辱尊严的磕头下跪礼仪，就是对良知的亵渎。央视传播这样的礼仪，就是对公民政治的挑衅。
@@ -31487,21 +30942,16 @@ view.news.qq.com
 更多关于“央视”的新闻
 &#183;央视换主持人
 闹腾后的心态可玩味
-(2007-12-12
-14:18:37)
+(2007-12-12 14:18:37)
 &#183;央视表示《新闻联播》需要接班人
 不要变革者
-(2007-12-10
-14:52:39)
+(2007-12-10 14:52:39)
 &#183;论央视春晚相声：要么放开，要么放弃
-(2007-11-30
-14:24:09)
+(2007-11-30 14:24:09)
 &#183;国家办奥运，央视卖广告？
-(2007-11-20
-08:38:22)
+(2007-11-20 08:38:22)
 &#183;王小山：央视移花接木
-(2007-09-13
-15:28:23)
+(2007-09-13 15:28:23)
 分类信息
 -->
 -->
@@ -31728,8 +31178,7 @@ http://view.QQ.com
 [一场罕见的雪灾][被困女友的短信全记录]
 中国再也不是世界工厂？
 [万余港企面临关闭][黑心资本家无视法律]
-热点：[你买到票了吗
-你患了彭宇恐惧症？]
+热点：[你买到票了吗 你患了彭宇恐惧症？]
 选院士当然要看贡献，但是并不是什么贡献都算数的，否则岂不是农民以论文写在田地上、工人以论文写在工地上、战士以论文写在战场上、商人以论文写在商场上、运动员以论文写在运动场上……等等为由都可以要求当院士吗？院士称号又不是对社会贡献的奖赏。如果因为谢华安对社会的贡献大（其实其贡献是被媒体大大夸大了的），就认为他什么荣誉都该得，那么今年是不是还得给他发块奥运会金牌？
 选院士要看的是学术贡献。中国科学院院士章程规定得很清楚，院士的标准是“在科学技术领域做出系统的、创造性的成就和重大贡献”，而一名科学家公布自己的学术成果的正常途径就是在有同行评议的学术期刊上发表论文，其他的途径，例如媒体报道、申请专利、开鉴定会等等，都容易受非学术因素的影响，都是不正常的。不发表论文，科学界同行们就无法客观地了解、检验和评价科研成果和成就。评价一个人的学术成就不看论文，难道要看候选人的自我宣传、媒体的炒作或长官的旨意吗？
 论文是衡量一个科研工作者的学术贡献的最客观依据。学术贡献与发表论文不仅不矛盾，而且是一致的。那些把二者对立起来，质问评院士看论文还是讲贡献的人，乃是不了解国际学术界公认的规范。发达国家评教授、评院士乃至评自然科学领域的诺贝尔奖，也都是以论文为依据的。
@@ -31743,14 +31192,11 @@ view.news.qq.com
 相关新闻
 方舟子其它文章
 &#183;克里克：改行改出科学奇迹
-(2008-01-22
-16:08:17)
+(2008-01-22 16:08:17)
 &#183;方舟子：嗜血的生涯
-(2008-01-09
-14:25:31)
+(2008-01-09 14:25:31)
 &#183;方舟子：我为什么取名“舟子”
-(2008-01-03
-15:32:28)
+(2008-01-03 15:32:28)
 分类信息
 -->
 -->
@@ -32038,8 +31484,7 @@ http://view.QQ.com
 [一场罕见的雪灾][被困女友的短信全记录]
 中国再也不是世界工厂？
 [万余港企面临关闭][黑心资本家无视法律]
-热点：[你买到票了吗
-你患了彭宇恐惧症？]
+热点：[你买到票了吗 你患了彭宇恐惧症？]
 有人说低端企业关闭有利于产业转型和升级。对此万勿作浪漫之思。看看弹丸之地的香港转了多少年，再想想数亿民工如何升级？企业关闭当然不能全部归罪于劳动合同法，但无疑这是压倒骆驼的最后一根稻草。我的预言不幸正在变成现实。那么劳动合同法究竟存在什么问题？为什么一部让劳动者读起来热泪盈眶的法律，实施起来，最终却让企业和劳动者双双泪流满面？谁最终会从这部法律获益？
 劳动合同法最大的失误在于错误判断国情。中国的基本国情是，中国是一个13亿人口的大国，这样的国情决定了中国在很长时期内，只能采取低工资，高就业的劳工政策。那种高工资、高就业的理想最终只能是梦想。13亿人口这一基本国情还决定了，中国的普通企业必须而且已经进行了超限度的竞争，任何一个高利润行业一旦出现，立即就有资本和人员拥入，形成平均利润而非暴利———除非自然、技术或行政垄断。这并不是说，中国劳动者的工资水平已无上升空间。为了防止被指责成资本家的代言人，我在此表明立场，即中国劳动者的工资不仅有上升的空间，而且有上升的必要。让劳动者辛苦终生却与住房、教育、医疗保障无缘的劳工政策，决非长久之策。
 那么，劳动者的工资增长从何而来？国家应当割谁的肉补劳动者的疮？答案其实很简单，那就是割超额利益所得者的肉，补弱势群体的疮。超额利益所得者在哪里？在权力者那里，在依靠权力获得不法利益者那里，在依靠自然资源垄断获取暴利者那里……具体来说，在个人资产高达1600亿的房地产开发商那里，在煤矿主以及与煤矿主纠缠在一起的官员那里，在每年公车开支达4000多亿元、吃喝旅游更是无底洞的官僚阶层那里，在电信、电力、医院、大学等垄断经营者那里……而不在普通的经营者那里。读者诸君在理发的时候、在美容的时候、在吃饭的时候，顺便打听一下，这些经营者们是否步履维艰？珠三角万家企业行将关闭的事实，足以证明我的判断。企业已无利润空间，法律强势要求增加工资福利，请问企业如何应对？立法者们应当高度警惕，劳动合同法具有极强的政治性，当法律点燃劳动者欲望之火而实际又无法兑现的时候，很可能引发社会动荡。西方工会的发展史读起来惊心动魄，当权者应当仔细研读。
@@ -32059,57 +31504,40 @@ view.news.qq.com
 更多关于“劳动合同法”的新闻
 相关链接
 &#183;劳动合同法的最佳应对之策
-(2008-01-21
-19:16:08)
+(2008-01-21 19:16:08)
 &#183;新《劳动合同法》不会“自己生效”
-(2008-01-02
-08:05:40)
+(2008-01-02 08:05:40)
 &#183;实施劳动合同法，政府也有责任
-(2007-12-27
-07:20:47)
+(2007-12-27 07:20:47)
 &#183;劳动合同法为何一再伤害劳动者？
-(2007-12-14
-09:44:16)
+(2007-12-14 09:44:16)
 &#183;周业安：新劳动合同法会不会成为一个摆设
-(2007-12-07
-10:55:26)
+(2007-12-07 10:55:26)
 &#183;《劳动合同法》不可孤悬
-(2007-11-22
-10:09:45)
+(2007-11-22 10:09:45)
 &#183;《劳动合同法》：应对还是执行？
-(2007-11-19
-07:44:17)
+(2007-11-19 07:44:17)
 &#183;羽良：新劳动合同法倒逼中国“经济社会”
-(2007-11-02
-08:47:38)
+(2007-11-02 08:47:38)
 &#183;不宜夸大新劳动合同法对企业的倒逼意义
-(2007-10-29
-19:38:05)
+(2007-10-29 19:38:05)
 &#183;新劳动合同法的十年大“陷”
-(2007-10-26
-14:19:16)
+(2007-10-26 14:19:16)
 &#183;《劳动合同法》:老员工不能说开就开
-(2007-10-29
-13:51:57)
+(2007-10-29 13:51:57)
 &#183;《劳动合同法》实施前的阵痛
-(2007-09-26
-10:04:31)
+(2007-09-26 10:04:31)
 何兵其它文章
 &#183;法律要解放千百万劳苦摊贩
-(2008-01-18
-07:50:13)
+(2008-01-18 07:50:13)
 &#183;何兵：我们的好教员为什么被谩骂
-(2008-01-14
-17:58:52)
+(2008-01-14 17:58:52)
 &#183;何兵：必须卸掉城管的武装
-(2008-01-10
-07:32:44)
+(2008-01-10 07:32:44)
 &#183;县委书记要封中央政法委的喉?
-(2008-01-08
-07:52:00)
+(2008-01-08 07:52:00)
 &#183;致绥德县长:上下交攻,只能委屈自己
-(2008-01-03
-07:43:37)
+(2008-01-03 07:43:37)
 分类信息
 -->
 -->
@@ -32400,21 +31828,16 @@ view.news.qq.com
 相关新闻
 相关链接
 &#183;主流经济学家病危
-(2006-08-23
-16:53:05)
+(2006-08-23 16:53:05)
 &#183;中国正清算市场化？
-(2006-07-11
-16:53:02)
+(2006-07-11 16:53:02)
 &#183;谁来保障我们普通人“说真话”的权益？
-(2005-11-12
-16:15:08)
+(2005-11-12 16:15:08)
 郎咸平其它文章
 &#183;郎咸平：从海尔之转向看房地产的本质问题
-(2008-01-18
-14:42:58)
+(2008-01-18 14:42:58)
 &#183;郎咸平：2008年中国面临八大危机
-(2008-01-04
-13:37:35)
+(2008-01-04 13:37:35)
 分类信息
 -->
 -->
@@ -32684,14 +32107,11 @@ view.news.qq.com
 相关新闻
 郎咸平其它文章
 &#183;郎咸平:腐败干部的资金炒房导致泡沫
-(2008-01-24
-10:33:16)
+(2008-01-24 10:33:16)
 &#183;郎咸平：从海尔之转向看房地产的本质问题
-(2008-01-18
-14:42:58)
+(2008-01-18 14:42:58)
 &#183;郎咸平：2008年中国面临八大危机
-(2008-01-04
-13:37:35)
+(2008-01-04 13:37:35)
 分类信息
 -->
 -->
@@ -32926,8 +32346,7 @@ http://view.QQ.com
 [一场罕见的雪灾][被困女友的短信全记录]
 中国再也不是世界工厂？
 [万余港企面临关闭][黑心资本家无视法律]
-热点：[你买到票了吗
-你患了彭宇恐惧症？]
+热点：[你买到票了吗 你患了彭宇恐惧症？]
 34岁的肖汉军几乎落泪，他依然记得10多年前初来广东，和另一批同乡挤在火车上时的兴奋和憧憬。如今一切已成烟云。
 新年的元月，入冬的珠三角正在经历一场前所未有的转移之痛：上千家鞋厂倒闭，万余港企面临关闭潮，更多数量庞大的中小企业计划迁离这里。
 在中国经济版图上曾独领风骚多年的珠三角，昔日热闹、辉煌的“世界工厂”的场景或将成为历史。
@@ -32963,15 +32382,12 @@ view.news.qq.com
 -->
 更多关于“新劳动法”的新闻
 &#183;谁带来了灾难：驳斥张五常《三论新劳动法》
-(2008-01-18
-15:54:17)
+(2008-01-18 15:54:17)
 &#183;华为逼走元老?
 新劳动法未出鞘即割伤受益人
-(2007-10-29
-17:02:52)
+(2007-10-29 17:02:52)
 &#183;华为，迷失在新劳动法颁布的前夜
-(2007-10-29
-15:53:31)
+(2007-10-29 15:53:31)
 分类信息
 -->
 -->
@@ -33244,8 +32660,7 @@ http://view.QQ.com
 [一场罕见的雪灾][被困女友的短信全记录]
 中国再也不是世界工厂？
 [万余港企面临关闭][黑心资本家无视法律]
-热点：[你买到票了吗
-你患了彭宇恐惧症？]
+热点：[你买到票了吗 你患了彭宇恐惧症？]
 又到春运时，人人急回家。这个时候什么最宝贵？不是尊严，君不见二八佳人时髦女郎也能从火车窗口拼命爬进车厢？也不是生命，君未听说女大学生冷静被挤落站台之下惨死？这个时候最宝贵的可能只是一张写着此地与彼地名字的一张小小纸片，一张写满了乡愁写满了归心似箭心思的小小火车票。
 火车票有多难买，已经是个不须问也不须答的不是问题的问题。甚至我们早就不再奢侈地想是否能“走得好”，对于数目庞大的打工者、学生、普通工薪阶层而言，能挤上开往家的春运列车，能“走得了”该是多么幸福的事。然而一票难求的坚硬现实总是无情地撞击我们脆弱的心灵，一次又一次，一年又一年反复搓揉我们的回家梦想。
 虽然不支持这位提刀“买”票的老哥的做法，但他的心情相信很多人都能理解。这都是买票难现实下的蛋，具有非典型的“春运综合征”的性状。过往，我们只见新闻报道有买不到车票急得上火生疮烂嘴牙疼的，也见过压力太大精神崩溃神智失常的，甚至见过买不着火车票买不起火车票走路骑车扒货车回家饿得冻得大病一场的……但那些都是软柿子，面对牛气至极的铁老大，只是自己折腾自己的示弱表现。
@@ -33263,20 +32678,15 @@ view.news.qq.com
 -->
 更多关于“买票”的新闻
 &#183;买票是一场战争
-(2008-01-16
-07:36:05)
+(2008-01-16 07:36:05)
 &#183;我的三次买票经历
-(2008-01-16
-07:32:46)
+(2008-01-16 07:32:46)
 &#183;买票难，难于上青天
-(2008-01-16
-07:25:40)
+(2008-01-16 07:25:40)
 &#183;人去楼空，真够无聊；又要买票，这个难熬
-(2008-01-16
-07:16:27)
+(2008-01-16 07:16:27)
 &#183;各售票点拉开熬夜买票序幕
-(2008-01-15
-16:35:56)
+(2008-01-15 16:35:56)
 分类信息
 -->
 -->
@@ -33528,8 +32938,7 @@ http://view.QQ.com
 博客
 ★/星☆愿★/
 评论0条
-1月25日晚九时30分，在广东佛山工作的女友刘清坐上了开往湖南新化家乡的火车，（N596/N597
-佛山---新化）本来第二天早上九点二十四分只许12个多小时就可以到达新化的火车，却在今天晚上到我发稿时（27日23时31分）才到新化。因湖南中部大雪的原因，火车刚开出广州不远在韶关一停就是近12小时，后来进入湖南界更是走走停停，在郴州到衡阳短短的一百多公里的路程火车就用了8个多小时，后来过了衡阳又停了近10个小时。在我女友的短信息中可以感觉的到火车慢的像蜗牛，火车内没有热水，后来甚至连凉水也没有了，因天气寒冷，又不能打开车厢中部的窗口，车厢内空气浑浊，女友来信息说感觉头很晕，头疼。情绪也出现了烦躁和不安，在我不断的安慰中女友才好一些。因大雪原因火车晚点41小时，就这样，可怜的女友在滞留的火车上苦等了近两天两夜。以下真实记录着女友发来的短信息，从中可以看出火车的滞留及一些车内的情况：
+1月25日晚九时30分，在广东佛山工作的女友刘清坐上了开往湖南新化家乡的火车，（N596/N597 佛山---新化）本来第二天早上九点二十四分只许12个多小时就可以到达新化的火车，却在今天晚上到我发稿时（27日23时31分）才到新化。因湖南中部大雪的原因，火车刚开出广州不远在韶关一停就是近12小时，后来进入湖南界更是走走停停，在郴州到衡阳短短的一百多公里的路程火车就用了8个多小时，后来过了衡阳又停了近10个小时。在我女友的短信息中可以感觉的到火车慢的像蜗牛，火车内没有热水，后来甚至连凉水也没有了，因天气寒冷，又不能打开车厢中部的窗口，车厢内空气浑浊，女友来信息说感觉头很晕，头疼。情绪也出现了烦躁和不安，在我不断的安慰中女友才好一些。因大雪原因火车晚点41小时，就这样，可怜的女友在滞留的火车上苦等了近两天两夜。以下真实记录着女友发来的短信息，从中可以看出火车的滞留及一些车内的情况：
 1月25日
 21时10分：金中（作者名字）。我上车了（佛山火车站），人好多啊，不过估计明天早上就可以到家（湖南新化）了，工作一年终于可以回家了，好高兴哦。
 21时43分：车上人好多，连过道里全部挤满了人，走不走不动。
@@ -33823,8 +33232,7 @@ http://view.QQ.com
 [一场罕见的雪灾][被困女友的短信全记录]
 中国再也不是世界工厂？
 [万余港企面临关闭][黑心资本家无视法律]
-热点：[你买到票了吗
-你患了彭宇恐惧症？]
+热点：[你买到票了吗 你患了彭宇恐惧症？]
 天啦！！
 大哥他们还被困车上呢！
 前天大哥一家从连云港开车回南京，谁知在离南京90公里处因为受南京雨雪影响高速公路封闭，被迫又返回淮安住了一天，因为他手里事情很多，万般无奈，昨天只好把车放在淮安，携家人好不容易挤上火车返回南京，谁知一路被困，开车只需不到两个小时的路程如今走了整整19个小时还不知何时到达？怎不令人郁闷异常？这可恶的天气啊，阻止了多少人出行和归乡的路？
@@ -34066,8 +33474,7 @@ http://view.QQ.com
 [一场罕见的雪灾][被困女友的短信全记录]
 中国再也不是世界工厂？
 [万余港企面临关闭][黑心资本家无视法律]
-热点：[你买到票了吗
-你患了彭宇恐惧症？]
+热点：[你买到票了吗 你患了彭宇恐惧症？]
 据报载，受冻雨天气影响，25日傍晚，京广线衡阳至郴州段、沪昆线怀化至贵阳段地方电力系统高压电线9次断落于铁路接触网上，使得接触网烧坏、电力供电系统波动较大，电力机车无法运行。同时，受冻雨影响，机车受电弓、接触网冰冻，机车无法正常受电运行。由此导致京广线南段基本中断行车。目前，已造成京广线200列旅客列车和沪昆线60列列车晚点。
 可怜的肖同学就在其中一列火车上，在无尽的黑夜里漫长的等待着。
 晚上在甜同学那里得知肖同学被困在武昌&#8212;&#8212;衡阳的火车上了。废话少说，直接把我们的短信联系挂出来吧。
@@ -34354,8 +33761,7 @@ http://view.QQ.com
 [一场罕见的雪灾][被困女友的短信全记录]
 中国再也不是世界工厂？
 [万余港企面临关闭][黑心资本家无视法律]
-热点：[你买到票了吗
-你患了彭宇恐惧症？]
+热点：[你买到票了吗 你患了彭宇恐惧症？]
 其一，建立完善的雪灾预报系统。2005年12月，一场暴风雪光临美国东北部。早在12月3日，美国气象部门就发出“灾难性天气”的警告。在纽约市，各大报纸和电视广播提醒市民“今晚大雪将下15厘米，一定要注意保暖，特别是帮助老人和学生等体质较弱者做好防寒准备”。同时，政府向市民公布了御寒指南。当年11月，德国也普降大雪，虽然受灾范围很广，但损失却不大。究其因，应先归功于德国完善的雪灾预报系统&#8212;&#8212;&#8212;德国在上世纪90年代初就成立了由气象、电力、交通等部门组成的雪灾防治中心，对强降雪灾害及其他紧急情况进行预测和监测。
 其二，建立完备的应对灾害体系。在一些发达国家，早在小学就开设专门的课程教育孩子如何应对大雪、暴雨等各种自然灾害。这样一来，民众在应对恶劣天气的过程中就不再单纯处于等待救援的被动状态，而知道如何进行自救和相互救助，减轻了政府的负担。以2005年美国东北部暴雪为例，尽管雪灾造成15万户停电，但由于人们早就做好准备，家中储藏了防寒物资，因此并未对人们生活造成很大影响。同时，由于暴雪灾害预报发布时间较早，许多城市的公共交通、环卫部门紧急行动起来。新泽西州交通局准备了600辆扫雪车，并准备随时再雇1100辆车，该州还准备了15万吨除雪剂，并在大雪到来前开始往道路上撒。
 与之比较，我国的应急机制往往暴露出迟缓化、被动化、淡薄化的缺点。尤其是应急机制往往局限在政府层面上，公民既不能及时了解情况，也缺乏积极的应对之策。同时，我们在抗灾设施的配备上，也往往缺乏未雨绸缪的意识，比如有的地方缺少扫雪设备和物资。
@@ -34372,31 +33778,23 @@ view.news.qq.com
 更多关于“雪灾”的新闻
 相关链接
 &#183;罕见的雪灾
-(2008-01-29
-01:11:37)
+(2008-01-29 01:11:37)
 &#183;雪灾2008：期待一份未被冰冻的爱
-(2008-01-28
-09:00:35)
+(2008-01-28 09:00:35)
 &#183;抵御雨雪灾害，政府应急体系不设防？
-(2008-01-26
-09:20:54)
+(2008-01-26 09:20:54)
 &#183;雪灾给我们敲响居安思危警钟
-(2008-01-25
-10:28:29)
+(2008-01-25 10:28:29)
 王石川其它文章
 &#183;她死在了回家的路上
-(2008-01-20
-13:22:43)
+(2008-01-20 13:22:43)
 &#183;取消出租车公司，天塌不下来
-(2008-01-12
-09:17:02)
+(2008-01-12 09:17:02)
 &#183;中国奶农也开始倒牛奶了
-(2008-01-03
-08:46:40)
+(2008-01-03 08:46:40)
 &#183;彩票销量破千亿
 产生问题彩民知多少
-(2008-01-01
-10:13:05)
+(2008-01-01 10:13:05)
 分类信息
 -->
 -->
@@ -34629,8 +34027,7 @@ http://view.QQ.com
 [一场罕见的雪灾][被困女友的短信全记录]
 中国再也不是世界工厂？
 [万余港企面临关闭][黑心资本家无视法律]
-热点：[你买到票了吗
-你患了彭宇恐惧症？]
+热点：[你买到票了吗 你患了彭宇恐惧症？]
 腾讯网友
 “健”渐幸福
 回家的路总是那么漫长，看到大家很多都回不了家，心里都不知道是什么滋味，我和妈妈在广州，爸爸在北京，家在江苏，快过年了，都不知道一家人该怎么团聚！08年的雪，好狠的雪……
@@ -34663,20 +34060,15 @@ view.news.qq.com
 -->
 更多关于“雪灾”的新闻
 &#183;王石川：面对雪灾，学学国外怎么做
-(2008-01-29
-08:40:31)
+(2008-01-29 08:40:31)
 &#183;罕见的雪灾
-(2008-01-29
-01:11:37)
+(2008-01-29 01:11:37)
 &#183;雪灾2008：期待一份未被冰冻的爱
-(2008-01-28
-09:00:35)
+(2008-01-28 09:00:35)
 &#183;抵御雨雪灾害，政府应急体系不设防？
-(2008-01-26
-09:20:54)
+(2008-01-26 09:20:54)
 &#183;雪灾给我们敲响居安思危警钟
-(2008-01-25
-10:28:29)
+(2008-01-25 10:28:29)
 分类信息
 -->
 -->
@@ -34905,8 +34297,7 @@ http://view.QQ.com
 [一场罕见的雪灾][被困女友的短信全记录]
 中国再也不是世界工厂？
 [万余港企面临关闭][黑心资本家无视法律]
-热点：[你买到票了吗
-你患了彭宇恐惧症？]
+热点：[你买到票了吗 你患了彭宇恐惧症？]
 小时候看连环图，一个乞丐得到免费食物，大吃一顿，结果撑得抱着肚子满地翻滚，而围观者则哈哈大笑。当时产生的心理阴影至今无法消除。我们为什么要这样做？
 自从我建议提高火车票价以来，领教过不少学者的商榷，说什么“社会文化因素使得需求极为刚性”，所以“鼓动铁路部门涨价就不合适”，而“正确的结论是铁路市场需要开放”云云。
 谁有本事在猴年开放铁路市场，或到马月多修几条铁路，我没有意见；但说什么“需求极为刚性”所以“涨价就不合适”，其实质就是不负责任地鼓动把肉身往风里雨里甚至车轮里推。不外千元的事情，怎么就极为刚性了？更何况，需求刚性也不会让车轮变软。出于儿童时代留下的心理阴影，我再次呼吁提高春运火车票价！
@@ -35453,17 +34844,13 @@ view.news.qq.com
 相关新闻
 方舟子其它文章
 &#183;方舟子：院士就应该是靠论文堆成的
-(2008-01-23
-13:53:51)
+(2008-01-23 13:53:51)
 &#183;克里克：改行改出科学奇迹
-(2008-01-22
-16:08:17)
+(2008-01-22 16:08:17)
 &#183;方舟子：嗜血的生涯
-(2008-01-09
-14:25:31)
+(2008-01-09 14:25:31)
 &#183;方舟子：我为什么取名“舟子”
-(2008-01-03
-15:32:28)
+(2008-01-03 15:32:28)
 分类信息
 -->
 -->
@@ -35729,8 +35116,7 @@ http://view.QQ.com
 [一场罕见的雪灾][被困女友的短信全记录]
 中国再也不是世界工厂？
 [万余港企面临关闭][黑心资本家无视法律]
-热点：[你买到票了吗
-你患了彭宇恐惧症？]
+热点：[你买到票了吗 你患了彭宇恐惧症？]
 杜登勇是伟大还是傻？对这个问题的回答会泄露答题者离爱情距离的远近。爱情心理学分析，当人们沉醉于爱情中时，有一种强烈要证明自己爱情的冲动，“为对方受难”变成一种渴望。若完全不曾进入过爱情，或爱情的记忆已经如此地遥远，一定会觉得他不可理喻、愚蠢可笑；若在感动之余，又能轻叹一口气：傻孩子，去了也白去，趁早回头吧！说明心中尚有爱情不死，只是被套上了理智的辔头；还有一种，是把新闻看一遍哭一遍，犹且不够，还要写下包含泪水的帖，甚或夜不能寐，披衣而起，在自己的博客中挥洒感慨，这恐怕就是离爱情最近的那一类人，这又可细分为甲乙丙三种，甲为春情初动者，乙为热恋中人，丙为曾经的深情被轻易辜负的人。
 在连篇累牍的冰雪灾难新闻中，杜登勇为我们制造了一条爱情新闻。这让人想起聂鲁达的一句诗：“爱情，爱情，即使是在安第斯山险恶的山谷，依然注视着这盲目的白雪的儿子……”
 今日话题·思想博客
@@ -35741,20 +35127,15 @@ view.news.qq.com
 -->
 更多关于“杜登勇”的新闻
 &#183;春运困境中的帮闲者
-(2008-01-30
-07:39:26)
+(2008-01-30 07:39:26)
 &#183;灾难面前，建议政府停止春运
-(2008-01-29
-08:11:07)
+(2008-01-29 08:11:07)
 &#183;期待温暖人心的春运旅程
-(2008-01-28
-07:26:38)
+(2008-01-28 07:26:38)
 &#183;视频：春运期间的火车上
-(2008-01-27
-15:17:05)
+(2008-01-27 15:17:05)
 &#183;春运不应仅仅满足“走得了”
-(2008-01-19
-17:49:28)
+(2008-01-19 17:49:28)
 分类信息
 -->
 -->
@@ -36031,8 +35412,7 @@ http://view.QQ.com
 [一场罕见的雪灾][被困女友的短信全记录]
 中国再也不是世界工厂？
 [万余港企面临关闭][黑心资本家无视法律]
-热点：[你买到票了吗
-你患了彭宇恐惧症？]
+热点：[你买到票了吗 你患了彭宇恐惧症？]
 先别说自己将来会不会做名人，就算做一个普通人也没必要拍下不堪入目的照片留念，别以为这样就可以扣住对方的心一生一世，对方若爱你，有没有全裸照留下都会爱；不爱，就是为他生了孩子，他也不爱。不少新闻是男友在分手时会用两人的性爱录影带来威胁女方留在自己身边或勒索金钱，作为一个名不见经传的普通人也会受害，成为名人后更不用说。
 不论社会怎样开放，旧日的淫欲照曝光，身边的爱侣都会受不了。何必要拍下如AV女优的照片，自我制造定时炸弹呢？加之如今互联网的发达，任何丑事都会无远弗届地传到世界每一个角落，不再是局限于某个地域的八卦新闻一则。大家别辜负几位貌似偶像派艺人的悉力身教，情到浓时，对方若提出拍裸照要求，一脚踢他去垃圾堆。
 今日话题·思想博客
@@ -36043,27 +35423,20 @@ view.news.qq.com
 -->
 更多关于“陈冠希”的新闻
 &#183;癫狂追星，一场“烧钱”的娱乐？
-(2008-01-25
-10:57:46)
+(2008-01-25 10:57:46)
 &#183;在网络调查中娱乐自己
-(2007-12-28
-07:32:17)
+(2007-12-28 07:32:17)
 &#183;美女作家：已在娱乐圈何必再“进军”
-(2007-12-23
-09:49:57)
+(2007-12-23 09:49:57)
 &#183;体育明星从“娱乐化”到“被娱乐”
-(2007-12-11
-11:44:29)
+(2007-12-11 11:44:29)
 &#183;洪金宝之"死":娱乐至死的猥琐标本
-(2007-12-11
-09:20:52)
+(2007-12-11 09:20:52)
 &#183;诺贝尔奖颁奖典礼转播：娱乐和炫耀？
-(2007-12-03
-09:18:47)
+(2007-12-03 09:18:47)
 &#183;陈易希
 我的娱乐就是发明
-(2007-11-29
-18:29:29)
+(2007-11-29 18:29:29)
 分类信息
 -->
 -->
@@ -36292,8 +35665,7 @@ http://view.QQ.com
 [一场罕见的雪灾][被困女友的短信全记录]
 中国再也不是世界工厂？
 [万余港企面临关闭][黑心资本家无视法律]
-热点：[你买到票了吗
-你患了彭宇恐惧症？]
+热点：[你买到票了吗 你患了彭宇恐惧症？]
 2002年，香港《东周刊》杂志因为刊登女星裸照，引发了多个香港演艺团体游行抗议，结果周刊老板杨受成被迫下令杂志停刊，与此同时，周刊总编辑等五人被警方控告。五个月之后，周刊被出售。当年的裸照事件让媒体进行反省，也让香港社会对于媒体提出道德要求。也正是因为这样，这次的私房照片，没有媒体愿意或者敢于购买刊登。但是由于网络的出现，照片发布已经不需要透过传统的媒体，而且网络散布的速度远远要比一本杂志，一张报纸快得多。
 我对于照片本身并不是太关心，也相信香港警方会很快采取行动，但是问题在于，互联网是没有国界的，不法分子当然可以利用香港以外的服务器放上网，因为其他的地方包括内地，对于这些照片发放的监管，似乎没有那样严格，而一些媒体也并没有太大的顾忌，因为没有可能引发的法律后果。
 天涯把这些照片放在讨论版的首页引发争议，而且还可以看到，其他门户网站（网易）上还有一张虽然遮掩，但是不应该贴出的照片；在天涯的一些论坛里面，很容易就可以找到这些照片的超链接，因为有一些非常热心的网民在那里贴出了超链接地址。
@@ -36307,23 +35679,17 @@ view.news.qq.com
 -->
 更多关于“香港”的新闻
 &#183;椿桦：封杀低俗节目，怎一个禁播了得
-(2007-09-17
-14:16:14)
+(2007-09-17 14:16:14)
 &#183;网络虚拟警察的隐忧
-(2007-09-09
-11:16:36)
+(2007-09-09 11:16:36)
 &#183;电台谈性节目为何会泛滥成灾？
-(2007-09-07
-13:14:33)
+(2007-09-07 13:14:33)
 &#183;成都美院女生自拍下体图片登上艺术展(图)
-(2007-07-27
-20:27:08)
+(2007-07-27 20:27:08)
 &#183;裸体不分高低贵贱（组图）
-(2007-07-27
-20:27:08)
+(2007-07-27 20:27:08)
 &#183;中国电信才是网络色情的"带头大哥"
-(2007-06-26
-17:42:34)
+(2007-06-26 17:42:34)
 分类信息
 -->
 -->
@@ -36551,8 +35917,7 @@ http://view.QQ.com
 [一场罕见的雪灾][被困女友的短信全记录]
 中国再也不是世界工厂？
 [万余港企面临关闭][黑心资本家无视法律]
-热点：[你买到票了吗
-你患了彭宇恐惧症？]
+热点：[你买到票了吗 你患了彭宇恐惧症？]
 今年春节不回家。不回家，实在是因为风雪阻隔，使我们暂时不能回。既使勉强上路，路途也太过艰辛，多有不测，令人揪心。所以以自身生命财产的安全计，不回家既是无奈亦属上策。我们不喜欢那种将春节称为“陋习”，将过年说成“劳民伤财”，以劝谕人们留守异乡过年的说辞。这样说着的人，怕是连他们自己也说服不了。因为我们的回家，我们的团圆，其实就是一次对于身份认同的追从，一次对于传统文化的回溯。当然更重要的是，我们需要一个地方，来证明我们的漂泊，奖赏自己一整年的辛劳，为我们积蓄力量。这个地方，就是家。
 我们一直对此深信不疑：在常态下，春节不回家，我们需要无数的理由，而回家，不需要理由。然而今年，我们的不回家，却也只有一个理由，那就是我们不得不共同面对的这一场灾及大半个中国的持续冰雪天气。此次大范围的冰雪天气已持续半月之久，全国受灾人口已逾7700多万，救灾难度已超过98年抗洪。而且就在昨日早上六时，中央气象台再次发布大雪预报，同时也有气象专家预测说，在未来一周之内，全国大范围雨雪的异常天气还是不容乐观。冰雪灾害已导致多省交通停滞，道路封闭，广州地区各大火车站滞留旅客总数已超过50万人，还有无数的人阻困于路途，辗转于冰雪。
 在一个流动的时代，我们都是游子。但在一个冰雪肆虐的季节，我们也都是灾民。我们选择春节不回家，是出于个人的理性与务实，但我们也正因为这种选择，诠注一种身陷灾害中的人性，一种守望相助的公民精神。因为我们每一个人的留守，都使交通少了亿分之一的压力，那么我们更多人的留守，无疑将有效缓解已然陷于困顿的交通形势。同时，我们每一个的人留守，也都使得那些被阻困于路途的车辆“长龙”少了一个人的“尾巴”，更少了一个人的重量。所以我们每一个人的留守，“虽千万人，吾住矣”，就是对政府在紧急情况下做出“留下过年”动员的响应，就是一种付出，一种奉献，就是面对灾害时我们力所能及的应对，亦是公民精神之表达。
@@ -36568,20 +35933,15 @@ view.news.qq.com
 -->
 更多关于“春节”的新闻
 &#183;晏扬：我们应该从雪灾中吸取什么教训
-(2008-02-01
-08:03:51)
+(2008-02-01 08:03:51)
 &#183;湖南抗击雪灾勇士群像
-(2008-01-30
-21:21:13)
+(2008-01-30 21:21:13)
 &#183;希望雪灾不会阻止“城乡大迁徙”的脚步
-(2008-01-31
-08:14:37)
+(2008-01-31 08:14:37)
 &#183;汪永晨：雪灾是怎么造成的
-(2008-01-31
-07:50:17)
+(2008-01-31 07:50:17)
 &#183;面对雪灾，紧急预案究竟是什么？
-(2008-01-30
-07:39:08)
+(2008-01-30 07:39:08)
 分类信息
 -->
 -->
@@ -36801,7 +36161,7 @@ http://view.QQ.com
 新华网
 毛建国
 评论0条
-一场不期而遇的大雪，给春运造成了严重影响，到处是人，到处是儿望家乡焦虑的眼光，到处是母盼儿归期盼的目光。对此，一些评论直接呼吁：为国为已春节不回家；而据《法制
+一场不期而遇的大雪，给春运造成了严重影响，到处是人，到处是儿望家乡焦虑的眼光，到处是母盼儿归期盼的目光。对此，一些评论直接呼吁：为国为已春节不回家；而据《法制 
 日报》1月30日报道，一些地方政府部门也相继发出公告，劝导人们留下过年。
 春节回家对于一个游子来说，意味着什么？家，是一座灯塔，是一处港湾，也是加油站。在家里，能够忘却一年的烦恼，能够激起新年的憧憬。春节回家，既是对父母亲人的慰藉，更是自己放松加油的需要。子非鱼安知鱼之乐，不是游子可能无法体会到那份焦虑、那份激动、那份期待。据《潇湘晨报》1月30日报道，湖南邵阳洞口的唐伟富为了能回家，竟在风雪中步行24小时跋涉80公里。由此可见人们回家的信心与决心。
 来吧，把来自你春运路上的亲人、朋友、同事的短信发到这里…
@@ -36810,8 +36170,7 @@ http://view.QQ.com
 [一场罕见的雪灾][被困女友的短信全记录]
 中国再也不是世界工厂？
 [万余港企面临关闭][黑心资本家无视法律]
-热点：[你买到票了吗
-你患了彭宇恐惧症？]
+热点：[你买到票了吗 你患了彭宇恐惧症？]
 一直以来，外国人乃至国人自己，对于富有中国特色的春运，都不太理解。如果说外国人不理解，那是因为对于中国文化的陌生；国人不理解，则有点“站着说话不腰疼”了。说“春节不回家”的人，大多是那些已与父母妻子团聚的人，他们自己就在家中体会着团圆之乐、天伦之乐，却又让别人不去追求这种快乐，这绝非厚道做法。
 更大的问题在于，民工“春节不回家”，城市做好准备了吗？根据往年惯例，春节一天一天的逼近，副食品价格也一天天上涨，数量庞大的人“春节不回家”，加上今年的大雪，一定会急剧提高餐桌上的成本。如果此时才决定不回家过年，才忙着购置年货，仅仅吃饭支出就要大大上涨。试问，农民工们能承受吗？而且，春节离不开休闲、娱乐，很多城市其实已经习惯市民的自娱自乐，谁带农民工玩，让农民工到何处去玩？
 对于春节来说，团圆是其永恒的话题，年末涌动的回家潮，是春节文化的一大组成部分。如果都不回家了，那么春节的年味，是不是会淡许多？还有一种担忧是，轻言“春节不回家”里隐含着一种不公平。那些回不了家的大多是一些什么人？那里占80%以上的都是普通劳动者，是社会上相对弱势的群体。如果这些人辛劳一年后，回不了家，这与公平社会的理念是不相符的。
@@ -36826,14 +36185,11 @@ view.news.qq.com
 -->
 更多关于“春节”的新闻
 &#183;春节不回家：冰冻时刻我们互相温暖
-(2008-02-01
-14:36:30)
+(2008-02-01 14:36:30)
 &#183;抵制春晚成就不了“新春节文化”
-(2008-01-20
-08:01:59)
+(2008-01-20 08:01:59)
 &#183;20世纪60年代的春节：物质匮乏与激情过剩
-(2008-01-17
-16:45:24)
+(2008-01-17 16:45:24)
 分类信息
 -->
 -->
@@ -37060,8 +36416,7 @@ http://view.QQ.com
 [一场罕见的雪灾][被困女友的短信全记录]
 中国再也不是世界工厂？
 [万余港企面临关闭][黑心资本家无视法律]
-热点：[你买到票了吗
-你患了彭宇恐惧症？]
+热点：[你买到票了吗 你患了彭宇恐惧症？]
 山雨欲来的潮湿气味令人产生改天换地的冲动。已经有评论开始追忆“大萧条”时代。
 也难怪，不好的消息确实很多。不然，Fed(美国联邦储备委员会)也不会有史以来第一次在八天内连续两次大幅调低利率。
 近日，美国商务部公布了去年第四季度美国经济增长数字：0.6%。这是2002年以来的最低水平。虽然第四季度增长放缓早在市场意料之中，但多数分析师事先估计，该季度折合成年率的增幅在1%至1.5%之间。
@@ -37082,33 +36437,24 @@ view.news.qq.com
 相关新闻
 陈序其它文章
 &#183;新江湾城这笔土地交易到底提示了什么问题
-(2008-01-28
-13:05:11)
+(2008-01-28 13:05:11)
 &#183;陈序：中国不必“站出来”“牛市”未必倒下去
-(2008-01-25
-09:42:17)
+(2008-01-25 09:42:17)
 &#183;廉租房还没全住上先别忙照顾中等收入阶层
-(2008-01-23
-09:04:23)
+(2008-01-23 09:04:23)
 &#183;一艘临时客轮上的短缺与价格管制
-(2008-01-18
-14:54:12)
+(2008-01-18 14:54:12)
 &#183;陈序：谁来告诉我们政府管制价格的副作用？
-(2008-01-18
-09:37:38)
+(2008-01-18 09:37:38)
 &#183;陈序：美国经济无起色
 轮到中国说SORRY
-(2008-01-16
-15:51:08)
+(2008-01-16 15:51:08)
 &#183;今年人民币能升多高？
-(2008-01-07
-08:34:04)
+(2008-01-07 08:34:04)
 &#183;陈序：当货币政策从紧遇到就业问题
-(2008-01-04
-08:32:06)
+(2008-01-04 08:32:06)
 &#183;陈序：而立之年，改革开放还能不能一往无前
-(2007-12-29
-10:51:34)
+(2007-12-29 10:51:34)
 分类信息
 -->
 -->
@@ -37336,8 +36682,7 @@ http://view.QQ.com
 [一场罕见的雪灾][被困女友的短信全记录]
 中国再也不是世界工厂？
 [万余港企面临关闭][黑心资本家无视法律]
-热点：[你买到票了吗
-你患了彭宇恐惧症？]
+热点：[你买到票了吗 你患了彭宇恐惧症？]
 追根溯底，美联储就是这场“造富”运动幕后的“推手”。2001年9.11后，美联储持续降息至45年的最低点，从而使泛滥的流动性淹没了全球的宏观经济、股市、房市。
 经过2004年至2007年短暂的升息后，美联储又在打开这个“潘多拉魔盒”：日前，美国联邦公开市场委员会(FOMC)决议再次调降联邦基金利率目标50个基点至3%.同时并调降贴现率50个基点至3.5%。
 美联储此举使联邦基金利率降至2005年6月以来的最低，而且仅在八天前，美联储已大举降息75个基点。在不到两周的时间内连续降息1.25个百分点，这是美联储现代历史上极为少见。
@@ -37356,11 +36701,9 @@ view.news.qq.com
 相关新闻
 陈旭敏其它文章
 &#183;中国黄金投资：戴着镣铐跳舞
-(2008-01-09
-09:24:39)
+(2008-01-09 09:24:39)
 &#183;高油价将吃掉中国“人口红利”
-(2008-01-04
-14:02:10)
+(2008-01-04 14:02:10)
 分类信息
 -->
 -->
@@ -37629,8 +36972,7 @@ http://view.QQ.com
 [一场罕见的雪灾][被困女友的短信全记录]
 中国再也不是世界工厂？
 [万余港企面临关闭][黑心资本家无视法律]
-热点：[你买到票了吗
-你患了彭宇恐惧症？]
+热点：[你买到票了吗 你患了彭宇恐惧症？]
 事实上，不少观点也指出，除了劳动力成本上升外，另外两个方面的因素也非常重要：一是两税并轨，二是环境成本上升。
 两税并轨对外资企业的影响显然很大，这意味着外资企业必须和内资企业处于同一竞争水平上。这或许是外资撤走的一个重要缘由。当然，这并不是说外资全面撤离。根据国家发改委对外经济研究所所长张燕生的数据，约50%的韩资企业在中国销售产品，30%的企业返销母公司或者本土，20%出口海外。如此企业结构意味着后两者所占一半份额的企业，才会考虑撤离中国。因为它们除了受到两税并轨的影响外，还受到出口退税不断降低的影响，利润空间进一步收窄，甚至无利可图，只能一走了之。
 再加上近年来中国对于FDI以及各种投资推动型的经济增长展开全面反思，认为中国的环境成本在30年改革中被大大忽略，因此推出了各种环境保护措施和政策，包括环评风暴、绿色GDP考核等。尽管绿色GDP最后没有实行。而劳动密集型的来料加工制造企业，环境成本本身就比较高。之前地方政府可能出于招商引资的需要放宽标准，但现在环境也成为地方长官的一个考虑目标时，严格环境标准是必然的，这也使得这些外资企业感到压力。
@@ -37647,20 +36989,15 @@ view.news.qq.com
 -->
 更多关于“劳动合同法”的新闻
 &#183;《劳动合同法》下的劳资关系与经济发展
-(2008-02-01
-17:39:52)
+(2008-02-01 17:39:52)
 &#183;郭军：《劳动合同法》一分钱成本都没有直接增加
-(2008-01-31
-18:43:21)
+(2008-01-31 18:43:21)
 &#183;《劳动合同法》下的劳资关系与经济发展沙龙讨论实录
-(2008-01-29
-17:05:39)
+(2008-01-29 17:05:39)
 &#183;腾讯《劳动合同法》沙龙：嘉宾发言实录
-(2008-01-29
-16:39:54)
+(2008-01-29 16:39:54)
 &#183;新劳动合同法倒逼中国“经济社会”
-(2008-01-25
-17:13:09)
+(2008-01-25 17:13:09)
 分类信息
 -->
 -->
@@ -37891,8 +37228,7 @@ http://view.QQ.com
 [一场罕见的雪灾][被困女友的短信全记录]
 中国再也不是世界工厂？
 [万余港企面临关闭][黑心资本家无视法律]
-热点：[你买到票了吗
-你患了彭宇恐惧症？]
+热点：[你买到票了吗 你患了彭宇恐惧症？]
 1988年1月13日晚19时，坐在电视机前的大陆观众注意到，《新闻联播》播音员张宏民罕见地穿着一身黑色中山装，表情凝重。他播报的第一条新闻是，蒋经国在台北去世。
 当时的大陆观众不知道，蒋经国生命最后阶段开启的民主化大门，使台湾正在发生一场翻天覆地的变化，最终将使台湾成为他们日常最关注的新闻焦点。
 20年后的今天，在台湾，蒋经国不曾因时间的流逝而被人淡忘，反声誉日隆。每次民调，对台湾民主、经济、民生等各方面贡献最大的领导人，都是蒋经国。2240万人口的台湾，前往蒋经国暂厝的大溪的凭吊者，每年在100万人次左右。蒋经国执政时期，被认为是台湾历史上社会风气最好、最有希望和活力的时代。
@@ -38220,8 +37556,7 @@ http://view.QQ.com
 [一场罕见的雪灾][被困女友的短信全记录]
 中国再也不是世界工厂？
 [万余港企面临关闭][黑心资本家无视法律]
-热点：[你买到票了吗
-你患了彭宇恐惧症？]
+热点：[你买到票了吗 你患了彭宇恐惧症？]
 这种恶劣的天气条件，交通线没有畅通无阻的可能性，而广州站及其安置点至今滞留人员仍高达百万之众，他们在饥寒中苦苦等候，不断有人身体不适，需要医务人员看护。人数如此之众，一旦秩序混乱，现场不堪设想，而交通运力又无力承担，天气有继续恶化的可能。在这种情况下，什么才是人道主义？
 “留下过年”，迅速缓解广场人员滞留，避免返乡途中再次滞留或者发生意外，确保滞留人员的人身财产安全，这就是当前极端天气情况下最大的人道主义。幸而，政府有关部门认识到了这一化解困局的有效办法，日前已经派出七个工作组分赴各地，协调处理滞留旅客在粤过年的准备工作，为他们准备宿舍、过节补助、加班费，准备丰富的文化生活。据报道，目前已经有半数外来务工者取消了强行北上的念头，只有越来越多的滞留旅客打定主意，就地过个岭南风味的春节，才能为当前的所谓“人道困局”找到一个正解。
 相关专题：
@@ -38234,23 +37569,17 @@ view.news.qq.com
 -->
 更多关于“过年”的新闻
 &#183;鄢烈山：记录下经历雪灾的全过程
-(2008-02-03
-09:48:33)
+(2008-02-03 09:48:33)
 &#183;南方雪灾，让我想起了马桶缺水
-(2008-02-03
-08:11:17)
+(2008-02-03 08:11:17)
 &#183;刘洪波：雪灾中的生命韧性
-(2008-02-02
-09:33:04)
+(2008-02-02 09:33:04)
 &#183;王石川：面对雪灾，学学国外怎么做
-(2008-01-29
-08:40:31)
+(2008-01-29 08:40:31)
 &#183;雪灾2008：期待一份未被冰冻的爱
-(2008-01-28
-09:00:35)
+(2008-01-28 09:00:35)
 &#183;雪灾给我们敲响居安思危警钟
-(2008-01-25
-10:28:29)
+(2008-01-25 10:28:29)
 分类信息
 -->
 -->
@@ -38479,8 +37808,7 @@ http://view.QQ.com
 [一场罕见的雪灾][被困女友的短信全记录]
 中国再也不是世界工厂？
 [万余港企面临关闭][黑心资本家无视法律]
-热点：[你买到票了吗
-你患了彭宇恐惧症？]
+热点：[你买到票了吗 你患了彭宇恐惧症？]
 穷小孩和富小孩，穷爸爸和富爸爸，尖锐的冲突突然变得很美好，一切都是因为一只偶然遗落在地球的外星狗。怨只怨周星驰太会抓人性弱点。小时候不能得到的昂贵玩具是每一个人心中永远的痛。所以我们才拼命长大，变成工作狂或者购物狂。《长江7号》表面上是一个孩子的电影，其实是写给大人的童话。无论如何，长大了的我们，再也没有一个合适的理由去补偿自己童年的缺憾。那时候，我们总期盼一个完美的玩伴，它需要像七仔一样，如影随形永伴身旁，就算它真的只会大便，也能满足我们。这一次，周星驰不惜血本大搞特技。七仔头上的每一根毛都看得清清楚楚，让孤独孩子的虚幻玩伴看起来如此逼真。在《长江7号》的糖衣下面，包裹着有着些许苦涩的糖果，但它终究是甜的。
 今日话题·思想博客
 view.news.qq.com
@@ -38490,17 +37818,13 @@ view.news.qq.com
 -->
 更多关于“周星驰”的新闻
 &#183;中国电影：左手给希望，右手给绝望？
-(2007-09-25
-20:21:51)
+(2007-09-25 20:21:51)
 &#183;周星驰：无厘头教主
-(2007-06-26
-17:42:34)
+(2007-06-26 17:42:34)
 &#183;四大才子之首：观唐伯虎真实一生
-(2006-07-26
-16:15:14)
+(2006-07-26 16:15:14)
 &#183;非常真人:一场网络造星的阳谋
-(2006-06-19
-16:15:11)
+(2006-06-19 16:15:11)
 分类信息
 -->
 -->
@@ -38741,8 +38065,7 @@ view.news.qq.com
 -->
 相关新闻
 &#183;谁带来了灾难：驳斥张五常《三论新劳动法》
-(2008-01-18
-15:54:17)
+(2008-01-18 15:54:17)
 分类信息
 -->
 -->
@@ -38972,8 +38295,7 @@ http://view.QQ.com
 [一场罕见的雪灾][被困女友的短信全记录]
 中国再也不是世界工厂？
 [万余港企面临关闭][黑心资本家无视法律]
-热点：[你买到票了吗
-你患了彭宇恐惧症？]
+热点：[你买到票了吗 你患了彭宇恐惧症？]
 成品粮价格整体稳定，个别地区有些波动。大米价格平稳。多数地区籼米价格在１．５━１．９元／斤，粳米在１．６━２元／斤。重庆粳米价格较前一日上涨５．８％，广西、山西下降６．１％、７．９％。绝大多数地区面粉价格波幅不超过１％。贵州富强粉、云南标准粉价格分别下降９．２％、５．９％。上海富强粉、标准粉价格分别为２．５元／斤、２元／斤，均为全国最高。
 食用植物油价格整体平稳。菜籽调和油、大豆调和油多数地区价格波幅不超过１％。花生调和油个别地区价格略有波动。
 肉类价格大体保持稳定，但部分地区牛羊肉价格上涨较多。鸡蛋价格基本稳定。２２个地区价格维持不变或者有小幅涨跌。白条鸡价格变动幅度较大，有一半的地区涨跌幅度超过了２％且以上涨为主，其中上海上涨了２５％，四川上涨了６．１８％，而山西却下降了５．２％。
@@ -38989,19 +38311,15 @@ view.news.qq.com
 -->
 更多关于“菜价”的新闻
 &#183;锐圆：看看那些流落校园的蹭饭学长们
-(2007-09-13
-10:23:20)
+(2007-09-13 10:23:20)
 &#183;大学城饭堂齐涨价
 学生大叫“吃不起”
-(2007-09-04
-01:16:48)
+(2007-09-04 01:16:48)
 &#183;北大食堂菜价上涨
 部分学生骑车去清华大学吃饭
-(2007-09-04
-01:16:48)
+(2007-09-04 01:16:48)
 &#183;中国人的“智慧”令人震惊
-(2006-05-26
-16:52:59)
+(2006-05-26 16:52:59)
 分类信息
 -->
 -->
@@ -39271,8 +38589,7 @@ http://view.QQ.com
 [一场罕见的雪灾][被困女友的短信全记录]
 中国再也不是世界工厂？
 [万余港企面临关闭][黑心资本家无视法律]
-热点：[你买到票了吗
-你患了彭宇恐惧症？]
+热点：[你买到票了吗 你患了彭宇恐惧症？]
 这是关键时刻的及时表态。理由很简单，正如我国的经济与社会遭受气候灾害一样，我国的实体经济与资本市场正在经历严重内外同时发作的信心危机。
 自然灾害通常会带来经济下挫，目前雪灾的严重程度需要有关方面做出周密部署，防止中国实体经济下挫。不幸的巧合是，差不多与南方出现罕见的雪灾的同时，中国资本市场受外围市场影响，开始了一泻千里的下挫过程，从1月15日开始的10个交易日内，A股市场蒸发了6.37万亿市值，这是一个惊人的数字，大部分投资者深套其中。由资本市场开始的信心动摇很快蔓延到实体经济领域，美国经济衰退与我国蔓延到19个省的雪灾，成为实体经济下挫的最重要的理由。虽然有关部门一再强调，中国实体经济平稳发展，但这样的表态无法抵挡由资本市场引发的信心雪崩。
 在这样的关键时刻，不仅国资委、监管部门尤其是决策部门，理应以对中国资本市场与实体经济的明确规则，对所有投资者一视同仁的保护，来表示对于经济发展的长远关怀，而不是任由上千亿元的再融资方案，对中国资本市场和实体经济进行沉重的打击。
@@ -39289,18 +38606,14 @@ view.news.qq.com
 -->
 更多关于“雪灾”的新闻
 &#183;周俊生：面对股灾，政府该做什么
-(2008-01-23
-07:58:42)
+(2008-01-23 07:58:42)
 &#183;加快金融业的开放与创新来应对股灾
-(2008-01-23
-07:36:03)
+(2008-01-23 07:36:03)
 &#183;全球惊现"1&#183;21"股灾
 日元升值或是罪魁祸首
-(2008-01-22
-07:27:55)
+(2008-01-22 07:27:55)
 &#183;加快金融业的开放与创新来应对股灾
-(2008-01-23
-07:25:37)
+(2008-01-23 07:25:37)
 分类信息
 -->
 -->
@@ -39530,8 +38843,7 @@ http://view.QQ.com
 [一场罕见的雪灾][被困女友的短信全记录]
 中国再也不是世界工厂？
 [万余港企面临关闭][黑心资本家无视法律]
-热点：[你买到票了吗
-你患了彭宇恐惧症？]
+热点：[你买到票了吗 你患了彭宇恐惧症？]
 从小我们就被教育成一种很奇怪的孩子。就拿这个自私或者是无私的话题来说，有无数的影视作品里都有这么样的镜头：主人公因为某某公众事务，放弃了与自己父母、妻儿见上最后一面的权利，然后天人永隔。二十年前这种故事的结尾是主人公青春无悔，二十年后是主人公黯然神伤。从这个进步来看，主人公多少有了些人味儿，可实际上还是告诉观众：无私是好的，总是想着自己那点家务事不好。
 实际的情况当然不是电影里演的那样，要不怎么说艺术是来自生活高于生活呢。一般来说，是不是来自生活谁都不知道，但高于生活还是肯定的。这就让我们总是生活在一个怪异的标准里：一方面我们知道应该选择公而忘私的生活，把公共事务是否放在第一位，成为了一种判断的标准；而另外一方面，我们内心深处也知道，大家都是普通人，真要是完全公而忘私，此人基本算是有毛病。前一个是价值判断，后一个是事实判断。
 可我们在表面上进行褒贬的时候，一定是要按照前面那个黑白分明的价值判断来发表自己的意见的。这就造成了我们在理想与现实之间的一种精神分裂的状态：评价标准很高而心理期待颇低。也就是说，全都知道那个标准实际上是达不到的，但不得不把某人抬上去成为榜样，而实际上大家也都知道，他不是那样的人。
@@ -39549,39 +38861,28 @@ view.news.qq.com
 更多关于“雪灾”的新闻
 相关链接
 &#183;请尊重死刑犯的最后一个人性愿望
-(2008-01-30
-09:12:36)
+(2008-01-30 09:12:36)
 &#183;最人性化加息对市场影响几何
-(2007-12-24
-09:51:29)
+(2007-12-24 09:51:29)
 &#183;火车的人性化服务能否从硬座开始
-(2007-11-18
-07:42:31)
+(2007-11-18 07:42:31)
 &#183;发疯的喷泉，狂热的跟帖，迷乱的人性
-(2007-09-27
-08:46:47)
+(2007-09-27 08:46:47)
 &#183;莫俊超：从韩国女人质义举探人性之光芒
-(2007-09-03
-18:45:32)
+(2007-09-03 18:45:32)
 五岳散人其它文章
 &#183;五岳散人：有的主持人怎么满嘴吐化石
-(2008-01-31
-07:31:07)
+(2008-01-31 07:31:07)
 &#183;散人：财政部门难道一言九鼎为聚财
-(2008-01-29
-09:07:18)
+(2008-01-29 09:07:18)
 &#183;五岳散人：人大代表不能“自废武功”
-(2008-01-25
-10:08:09)
+(2008-01-25 10:08:09)
 &#183;五岳散人：不能把工人削价处理
-(2008-01-21
-07:48:32)
+(2008-01-21 07:48:32)
 &#183;五岳散人：人大代表的发言权也应该凭票供应
-(2008-01-18
-07:56:00)
+(2008-01-18 07:56:00)
 &#183;人大代表的发言权也应该凭票供应
-(2008-01-17
-15:43:56)
+(2008-01-17 15:43:56)
 分类信息
 -->
 -->
@@ -39812,8 +39113,7 @@ http://view.QQ.com
 [一场罕见的雪灾][被困女友的短信全记录]
 中国再也不是世界工厂？
 [万余港企面临关闭][黑心资本家无视法律]
-热点：[你买到票了吗
-你患了彭宇恐惧症？]
+热点：[你买到票了吗 你患了彭宇恐惧症？]
 任何一种传统,靠的是一系列的仪式符号来维持。这些符号残缺不齐,给人的感觉还仅仅是“没意思”；一旦这些符号消失了,则该传统节日也就随之消亡。
 中国的春节,堪称是世界上传统节日中仪式(符号)数量最多、隐喻最多的一种节日。因其仪式多,持续的时间特别长,从上年的腊月初八,一直持续到正月中旬。有些地方,甚至持续到二月二才算真正结束。在此期间,祭灶、扫房、贴门神、守岁、祭祖、拜年、探亲访友、燃放烟花爆竹、吃饺子,无一不是春节的仪式。所有这些活动,唯有全程参与了的人,才能在期盼中体味春节的千年年味的醇香。半途入道过的年,往往是一个支离破碎的春节。觉得“没意思”,也就非常正常了。
 传统节日是日常生活的一面镜子。感知不到生活方式乐趣的人,把握不了日常生活方式内涵的人,他们的春节“没意思”,源于忽略了日常生活的意义。
@@ -39828,17 +39128,13 @@ view.news.qq.com
 -->
 更多关于“过年”的新闻
 &#183;现在，请不要号召“春节不回家”
-(2008-02-01
-14:57:23)
+(2008-02-01 14:57:23)
 &#183;春节不回家：冰冻时刻我们互相温暖
-(2008-02-01
-14:36:30)
+(2008-02-01 14:36:30)
 &#183;抵制春晚成就不了“新春节文化”
-(2008-01-20
-08:01:59)
+(2008-01-20 08:01:59)
 &#183;20世纪60年代的春节：物质匮乏与激情过剩
-(2008-01-17
-16:45:24)
+(2008-01-17 16:45:24)
 分类信息
 -->
 -->
@@ -40067,8 +39363,7 @@ http://view.QQ.com
 [一场罕见的雪灾][被困女友的短信全记录]
 中国再也不是世界工厂？
 [万余港企面临关闭][黑心资本家无视法律]
-热点：[你买到票了吗
-你患了彭宇恐惧症？]
+热点：[你买到票了吗 你患了彭宇恐惧症？]
 我们并不讳言，“中国特色”的社会运转体系距离现代化标准还有距离，政府、社会与市场的关系尚未达到理想状态，但是，人们也应看到并承认，在遭遇重大突发事件，尤其是重大自然灾害来袭时，我们国家特有的政府运作方式所派生的高效社会动员能力和政府效能，不但一般发展中国家无法企及，甚至一些发达国家也难以在短时间内做到。美联社如此评价中国在今次抗灾中的表现：“持续冰雪天气几乎腰斩了中国，放在其他任何一个国家，都将导致国家处于瘫痪，但中国没有，而且正在缓过劲来。”
 各国处置此类突发灾难性事件，均需要政府力量果断介入。2005年末，美国路易斯安娜州新奥尔良市遭遇卡特里娜飓风袭击，因美国联邦政府反应迟钝、当地政府未在第一时间强力介入，灾区在最初曾陷入近乎无政府状态之中，令民众倍受煎熬，救灾工作更遭延误。而当中国面对持续灾害大范围危及民众生活和社会生产秩序时，各级政府强力介入，不但明显减弱了灾情危害，有力阻止了危机的蔓延，还令民众对政府信心倍增，对未来更加充满希望。
 据最新气象预报，到本月10日前，国内部分地区尚可能出现两次危害较小轻的雨雪降温天气，但可以说，今次南方大范围抗击冰雪灾害最困难的阶段已接近尾声。中国因灾而痛，感动为你而生&#8212;&#8212;&#8212;为危难关头的官民一心、共度时艰！
@@ -40085,36 +39380,26 @@ view.news.qq.com
 更多关于“雪灾”的新闻
 相关链接
 &#183;五岳散人：票选雪灾英雄，我投给杜登勇
-(2008-02-04
-07:35:26)
+(2008-02-04 07:35:26)
 &#183;像应对雪灾一样严肃对待股灾
-(2008-02-04
-07:27:34)
+(2008-02-04 07:27:34)
 &#183;面对冰雪灾害，我们总可以做点什么
-(2008-02-03
-16:23:18)
+(2008-02-03 16:23:18)
 &#183;鄢烈山：记录下经历雪灾的全过程
-(2008-02-03
-09:48:33)
+(2008-02-03 09:48:33)
 &#183;南方雪灾，让我想起了马桶缺水
-(2008-02-03
-08:11:17)
+(2008-02-03 08:11:17)
 &#183;刘洪波：雪灾中的生命韧性
-(2008-02-02
-09:33:04)
+(2008-02-02 09:33:04)
 鲁宁其它文章
 &#183;扩大公民有序政治参与的“杭州尝试”
-(2008-01-24
-08:04:20)
+(2008-01-24 08:04:20)
 &#183;现在需要新的“吴市场”和“厉股份”
-(2008-01-15
-10:10:08)
+(2008-01-15 10:10:08)
 &#183;现在需要新的“吴市场”和“厉股份”
-(2008-01-15
-07:53:08)
+(2008-01-15 07:53:08)
 &#183;限价，垄断企业应担起的社会责任
-(2008-01-11
-10:05:33)
+(2008-01-11 10:05:33)
 分类信息
 -->
 -->
@@ -40385,8 +39670,7 @@ http://view.QQ.com
 [一场罕见的雪灾][被困女友的短信全记录]
 中国再也不是世界工厂？
 [万余港企面临关闭][黑心资本家无视法律]
-热点：[你买到票了吗
-你患了彭宇恐惧症？]
+热点：[你买到票了吗 你患了彭宇恐惧症？]
 是的，一年的辛劳忙碌，四季的奔波流浪，终究要有一个魂牵梦萦的所在，终究要有一个无怨无悔的方向。路上的风雪，阻挡不了回家的渴望；一时的困难，也遮蔽不住春节的光芒。正如北宋改革家王安石的诗句所言：“爆竹声中一岁除，春风送暖入屠苏。千门万户瞳瞳日，总把新桃换旧符。”春节，原本就是我们犒劳自己，祝福别人，除旧布新，寄托希望与理想的时节，没有理由不以鼓舞的情绪、灼热的期许待之。
 这“过个好年”的祝福，首先要送给以广东为出发点、以家庭为目的地的风雪夜归人。虽然经历苦苦等待与千辛万苦，但终究可以见到父母妻儿，可以消解一年的困顿疲乏，可以感喟冰冷终可换来温暖。这个春节，格外不易，也因此格外值得珍惜。
 这“过个好年”的祝福，必定还要送给响应号召留在广东过年无法回家团聚的同胞。温总理有言，最应该感谢的，是人民。正是你们的理解与配合，令局势转好，局面转缓，也令广东在这最具温情的时刻获得一个难得的机会，可以稍以回报你们在广东挥汗如雨的辛劳与聚沙成塔的贡献。作为中国的公民，行走在中国的大地上，本来处处是故地，没有何处是他乡。中国正在经历城乡融合的大时代，广东愿以最大热忱身体力行，但求此际开启血脉相通的新局面，但求此地再无孤独惶恐的异乡人。
@@ -40401,23 +39685,17 @@ view.news.qq.com
 -->
 更多关于“雪灾”的新闻
 &#183;鲁宁：再努把力，征服雪灾，过个好年
-(2008-02-04
-07:58:08)
+(2008-02-04 07:58:08)
 &#183;五岳散人：票选雪灾英雄，我投给杜登勇
-(2008-02-04
-07:35:26)
+(2008-02-04 07:35:26)
 &#183;面对冰雪灾害，我们总可以做点什么
-(2008-02-03
-16:23:18)
+(2008-02-03 16:23:18)
 &#183;鄢烈山：记录下经历雪灾的全过程
-(2008-02-03
-09:48:33)
+(2008-02-03 09:48:33)
 &#183;刘洪波：雪灾中的生命韧性
-(2008-02-02
-09:33:04)
+(2008-02-02 09:33:04)
 &#183;晏扬：我们应该从雪灾中吸取什么教训
-(2008-02-01
-08:03:51)
+(2008-02-01 08:03:51)
 分类信息
 -->
 -->
@@ -40646,8 +39924,7 @@ http://view.QQ.com
 [一场罕见的雪灾][被困女友的短信全记录]
 中国再也不是世界工厂？
 [万余港企面临关闭][黑心资本家无视法律]
-热点：[你买到票了吗
-你患了彭宇恐惧症？]
+热点：[你买到票了吗 你患了彭宇恐惧症？]
 网上有香港《东方日报》2月2号的报道，题目是《港警务处长：市民藏不雅照若涉嫌发布将被捕》。本能地说，我很反感这个题目，它直接就是警方向全体港民的施威和警告。我不认为警方在公共媒体上有这样说话的权力，因为它语涉威胁，每一个人（有照的和无照的）都成了被威胁的对象。如果我是读报人，我会认为我无端地受到了权力的骚扰，哪怕我藏有不雅照。从题目到内容，“香港警务处处长邓竟成在一个电台节目上表示，虽然藏有不雅照片未必犯法，但如市民藏有大量不雅照片，可能会因为涉嫌被用作发布或售卖而被捕。至于何为发布，警方会视乎情况，依据经验决定，警方亦会咨询法律意见。”这里的疑问是，什么叫不雅照，这本身就是一个各有定义的问题。比如夫妻之间的私情照叫不叫不雅照，这些照片如果有，在不在这位警官的视野里。另外，不是“虽然藏有不雅照未必违法”，而是藏有根本就不违法。这里没有什么“未必”，这里丝毫容不得警方用权力含糊。更为严重的是最后一句，它的意思是，大量藏有就可能被捕，因为涉嫌发布。这里的逻辑能说得通吗？数量少就不会发布，数量多就一定涉嫌。涉嫌和数量无关，我相信港民中有不少各种艳照的藏有者，仅仅数量，他们就有被拘捕的可能，这岂不让人自危。
 据悉，香港警方为“艳照”风波已经抓了八个人。这八人冤不冤我不知道，因为警方说过，它的抓人逻辑就是数量多，我因此有点不放心，希望警方能在拘留的时限内查明问题。其实按照警方逻辑，正如聪明网友所指出，第一个要抓的就是陈冠希，因为这些照片都是从他电脑里流出，没有比他更符合警方抓捕的条件了。事实上，网络上各种艳照不在少数，警方这次却花了那么大的工夫。如果照主不是这些演艺名流，而是一般街男街女，警方是否会如此不惜力呢。我不知道这里是不是选择性执法，如是，对上传照片的人在法律上就不公正。至于1月29日，港警表示要把案件列作“发布淫亵物品案”处理，这恐怕更为不妥。照片上的人都是很好的朋友，是否谈情说爱也未可知，但至少他（她）们的行为是你情我愿的私密行为，与淫秽无关。怎么可以把私人激情留念当作淫亵品来处理呢。如果这样处理，那照片上的人是不是也该抓起来，毕竟他（她）们“淫秽”在先。香港因其殖民传统一向有着令人称道的法治良序，怎么这次处理艳照，让人有点看不懂。真不懂香港警方现在到底向谁学习。
 2月3日有来自《新文化报》的报道，就香港艳照一事，称：吉林省公安厅网警总队“提醒网民，那些艳照连看都不要看，‘只要认定是淫秽色情图片，尽量不要动，浏览、复制、粘贴、下载、传播等行为都是违法的’。”这样的语言表述，几乎让人发笑，像极了家长吓唬孩子的口吻。是的，也许在权力者眼里，所有的人都是孩子。权力对权利说话恐怕也习惯了这种家长口气。可是，家长制不能永远行得通，尤其是在权利意识长大的今天。今天，我至少可以从权利角度质问权力，是谁认定了陈冠希的那些照片是淫秽色情？另外，我还想问，什么叫“尽量不要动”，动了又如何？好奇心人皆有之，而且越是禁忌越是好奇。难道一个人就这样满足一下自己的好奇心也犯法吗？那么，报告警方，我刚才动过。因为我认为动与不动都是我的权利，而且是任何权力都无权干涉的权利，除非这不是一个法治国家。
@@ -40661,29 +39938,22 @@ view.news.qq.com
 -->
 更多关于“陈冠希”的新闻
 &#183;陈冠希艳照：何必自制定时炸弹！
-(2008-02-01
-07:16:05)
+(2008-02-01 07:16:05)
 &#183;陈冠希艳照案有重大进展
 香港警方锁定事件源头
-(2008-02-05
-07:31:01)
+(2008-02-05 07:31:01)
 &#183;陈冠希身处美国表白
 公开向“欲照”受害人道歉
-(2008-02-05
-06:54:43)
+(2008-02-05 06:54:43)
 &#183;陈冠希向“裸照案”受害人道歉(全文)
-(2008-02-05
-05:42:00)
+(2008-02-05 05:42:00)
 &#183;警方称看"陈冠希淫照"属违法
-(2008-02-03
-15:10:17)
+(2008-02-03 15:10:17)
 &#183;警察称看陈冠希淫照违法
 传播者最高判3年
-(2008-02-03
-08:28:02)
+(2008-02-03 08:28:02)
 &#183;吉林警方提醒网民浏览陈冠希不雅照可能违法
-(2008-02-03
-05:40:22)
+(2008-02-03 05:40:22)
 分类信息
 -->
 -->
@@ -40912,8 +40182,7 @@ http://view.QQ.com
 [一场罕见的雪灾][被困女友的短信全记录]
 中国再也不是世界工厂？
 [万余港企面临关闭][黑心资本家无视法律]
-热点：[你买到票了吗
-你患了彭宇恐惧症？]
+热点：[你买到票了吗 你患了彭宇恐惧症？]
 在交代了如上立场之后，我应该可以松一口气，大胆提出一点自己的“审慎意见”了。的确，自然灾害的发生，和人们选择什么样的经济发展战略，未必有直接的关联（环保主义者们喜欢把自然灾害归结为人类活动的结果，我并不同意这种思维方法。显然，恐龙被某场大规模自然灾害灭绝的时候，人类还差了几千万年没有出现呢）。但是，不同的经济发展战略会形成不同的经济活动、消费生活和社会管理的方式，这些不同的方式在抵御自然灾害的效果上面，却会有天壤之别。想当年，中国遭受“三年自然灾害”期间，就是因为采用了大食堂、大锅饭的人民公社发展战略，使得自然灾害的恶果被成倍放大，酿成大面积饥荒的惨剧，以至于后人评说它是“三分天灾，七分人祸”。如果当时中国走的是一条不同的农村经济发展之路，抵御那场天灾的能力就会强大很多。
 这次南中国大雪灾固然是百年不遇的偶发性灾害，但它之所以造成如此深广的影响，一个不可否认的原因，是它正赶在了春节前夕、数千万农民工返乡的春运高峰。即使没有这场灾害，在此期间，中国的基础设施尤其是铁路和公路系统也一向是绷紧到了接近临界点，处于十分脆弱的状态。
 数千万民工像候鸟一样逐年进城、返乡的壮观，是我国的一个特有现象，即在一个国家内部，居然存在超大规模的“移民经济”。这一现象在每年春运期间，都会引发大规模的争论。某些教条主义的自由市场派认为，这是因为火车票价没有随市场需求浮动而造成的。他们每年春运期间都要撰文，称火车票价太低造成民工返乡潮。终于，今年这场大雪灾彻底证伪了这些教条主义书生们的谬论：假若上百万农民工为了返乡，可以在火车站忍受数天数夜缺吃少睡的煎熬，那么你得把火车票提到什么样的天价，才能阻止他们的返乡欲望呢？
@@ -40928,38 +40197,27 @@ view.news.qq.com
 -->
 更多关于“雪灾”的新闻
 &#183;鲁宁：再努把力，征服雪灾，过个好年
-(2008-02-04
-07:58:08)
+(2008-02-04 07:58:08)
 &#183;面对冰雪灾害，我们总可以做点什么
-(2008-02-03
-16:23:18)
+(2008-02-03 16:23:18)
 &#183;鄢烈山：记录下经历雪灾的全过程
-(2008-02-03
-09:48:33)
+(2008-02-03 09:48:33)
 &#183;南方雪灾，让我想起了马桶缺水
-(2008-02-03
-08:11:17)
+(2008-02-03 08:11:17)
 &#183;刘洪波：雪灾中的生命韧性
-(2008-02-02
-09:33:04)
+(2008-02-02 09:33:04)
 &#183;雪灾能推动煤电网市场化改革吗
-(2008-02-02
-08:45:43)
+(2008-02-02 08:45:43)
 &#183;晏扬：我们应该从雪灾中吸取什么教训
-(2008-02-01
-08:03:51)
+(2008-02-01 08:03:51)
 &#183;希望雪灾不会阻止“城乡大迁徙”的脚步
-(2008-01-31
-08:14:37)
+(2008-01-31 08:14:37)
 &#183;面对雪灾，紧急预案究竟是什么？
-(2008-01-30
-07:39:08)
+(2008-01-30 07:39:08)
 &#183;王石川：面对雪灾，学学国外怎么做
-(2008-01-29
-08:40:31)
+(2008-01-29 08:40:31)
 &#183;抵御雨雪灾害，政府应急体系不设防？
-(2008-01-26
-09:20:54)
+(2008-01-26 09:20:54)
 分类信息
 -->
 -->
@@ -41188,8 +40446,7 @@ http://view.QQ.com
 [一场罕见的雪灾][被困女友的短信全记录]
 中国再也不是世界工厂？
 [万余港企面临关闭][黑心资本家无视法律]
-热点：[你买到票了吗
-你患了彭宇恐惧症？]
+热点：[你买到票了吗 你患了彭宇恐惧症？]
 虽然香港已经抓捕了数名网民，但这数名网民都是因为公开传播“艳照门”照片而被香港警方拘捕，香港居民如果仅仅是在网上浏览、下载乃至个别传看，并不会被拘捕，而内地网民则不同，仅仅浏览、下载就可以被公安机关严厉处罚。对浏览、下载“艳照门”照片这样的行为进行处罚的最重要依据，是1997年12月30日施行的公安部第33号令第5条“任何单位和个人不得利用国际互联网制作、复制、查阅和传播下列信息”之第6款：“宣扬封建迷信、淫秽、色情、赌博、暴力、凶杀、恐怖、教唆犯罪的”。吉林省公安厅网警总队民警正是根据这对网民进行提醒的，并且进一步把“复制、查阅”发挥为了“浏览、复制、粘贴、下载”。
 近十年来，公安部第33号令就如网民头上的达摩克利斯剑，随时可以掉下来削掉脑袋，因为，不管有意、无意，任何网民都可能浏览过淫秽、色情文字、图片和声像。那么，公安部第33号令是否站得住脚呢？至少在2006年3月1日《治安管理处罚法》施行以后并不能站住脚，《治安管理处罚法》第68条规定的是“制作、运输、复制、出售、出租淫秽的书刊、图片、影片、音像制品等淫秽物品或者利用计算机信息网络、电话以及其他通讯工具传播淫秽信息”的行为，也即指传播性、营利性的“复制”，不包括个人性、研究性的浏览、下载。《治安管理处罚法》是上位法，有了这一上位法以后，公安部第33号令相应条文理应失效。但是，在公安部没有明确将第33号令相应条文废除之前，公安机关就可能不管《治安管理处罚法》的存在，随时依据第33号令执法。吉林公安厅网警总队民警的提醒与其说是提醒，不如说更是对内地网民的警告。
 实际上，这一警告是非常荒唐的。它有一个致命的逻辑谬误，它限定的是“任何单位和个人”，那么，公安部门及其工作人员包不包括在内呢？如果不包括，则第33号令就是把公安部门自己列为了法外之人，可以任意浏览、下载淫秽、色情文字、图片和声像。如果包括在“任何单位和个人”之内，公安部门就不能浏览、下载淫秽、色情文字、图片和声像，就不能确定网民浏览、下载的是淫秽、色情文字、图片和声像。如果公安部门知道了网民所浏览、下载的是淫秽、色情文字、图片和声像，则意味着公安部门的工作人员也一定浏览、下载了淫秽、色情文字、图片和声像，是首先触犯了第33号令。作为一个有着“违法”行为的机构，又怎么可以对同样的“违法”行为进行执法呢？
@@ -41203,20 +40460,15 @@ view.news.qq.com
 -->
 更多关于“艳照”的新闻
 &#183;别让“艳照门”带出一个法律门
-(2008-02-05
-07:50:33)
+(2008-02-05 07:50:33)
 &#183;闾丘露薇：艳照事件中的转载者也是犯法的
-(2008-02-01
-07:39:23)
+(2008-02-01 07:39:23)
 &#183;陈冠希艳照：何必自制定时炸弹！
-(2008-02-01
-07:16:05)
+(2008-02-01 07:16:05)
 &#183;吉林警方提醒网民：浏览香港明星艳照属违法
-(2008-02-03
-09:47:46)
+(2008-02-03 09:47:46)
 &#183;“艳照门”事件下艺人的道德危机
-(2008-02-03
-07:25:59)
+(2008-02-03 07:25:59)
 分类信息
 -->
 -->
@@ -41444,8 +40696,7 @@ http://view.QQ.com
 [一场罕见的雪灾][被困女友的短信全记录]
 中国再也不是世界工厂？
 [万余港企面临关闭][黑心资本家无视法律]
-热点：[你买到票了吗
-你患了彭宇恐惧症？]
+热点：[你买到票了吗 你患了彭宇恐惧症？]
 在大雪纷飞道路无法畅通的时候，武汉市33岁的曾力峰驾着自家铲车，在汉口沿江大道六合路口义务清除路上积雪。当贵阳出现灾害性的雪凝天气后，四十出头的颜昌峰毅然将自己的两辆豪华奔驰轿车、一辆现代商务车及一辆越野车用于24小时免费接送市民，同时用家里的一辆面包车给停水居民义务送水，并在车玻璃上贴上了醒目的字牌“需要帮助请招手”，不算短的时间里，颜昌峰每天免费接送的市民达100多位，一次加油就是上千元。
 我是一名受灾区的警察，生活在南方，水灾、旱灾经历了不少，像这样的雪灾对我以及绝多数人来说都是第一次遇到。作为一名警察，当雪灾袭来的时候，首先感觉的不是漫天雪花所带来的美景，而是超强度的身体透支和越来越沉重的责任感。从雪灾开始时，我们就成了无法顾小家的人，路上的积雪要清扫，哪里有危房户要清查，还有随时发来的抢险指令，虽然都是一些很小的事情，但是我们每一个人都在尽职尽责，因为我和我的同事知道，自己多吃一点苦，受冻挨饿的人就会少一些，为了更多人的平安，我们无怨无悔。
 电力职工比我们付出的更多。就像“非典”中的医护人员一样，电力职工在雪灾面前站到了最前面，在我所在的城市，为了抢修高山上的输电塔，上千名电力职工把数百顿的器材背上山，有数百名职工在雪地里搭起帐篷，24小时不间断地进行抢修。在许多受灾的城市，为了尽快修复损毁的线路，为了让受灾群众的生活维持正常，许多电力职工忘我地付出，甚至付出了生命，那些逝去的生命值得我们缅怀，而许多仍然奋战在抢修一线，冒着生命危险工作的电力职工，虽然他们并没有惊天动地的壮举，大家甚至不可能知道他们的名字，但是他们的付出让我们无比感激。
@@ -41458,29 +40709,21 @@ view.news.qq.com
 -->
 更多关于“雪灾”的新闻
 &#183;大雪灾挑战移民经济与中心城市的发展模式
-(2008-02-05
-07:57:15)
+(2008-02-05 07:57:15)
 &#183;鲁宁：再努把力，征服雪灾，过个好年
-(2008-02-04
-07:58:08)
+(2008-02-04 07:58:08)
 &#183;五岳散人：票选雪灾英雄，我投给杜登勇
-(2008-02-04
-07:35:26)
+(2008-02-04 07:35:26)
 &#183;像应对雪灾一样严肃对待股灾
-(2008-02-04
-07:27:34)
+(2008-02-04 07:27:34)
 &#183;面对冰雪灾害，我们总可以做点什么
-(2008-02-03
-16:23:18)
+(2008-02-03 16:23:18)
 &#183;鄢烈山：记录下经历雪灾的全过程
-(2008-02-03
-09:48:33)
+(2008-02-03 09:48:33)
 &#183;刘洪波：雪灾中的生命韧性
-(2008-02-02
-09:33:04)
+(2008-02-02 09:33:04)
 &#183;湖南抗击雪灾勇士群像
-(2008-01-30
-21:21:13)
+(2008-01-30 21:21:13)
 分类信息
 -->
 -->
@@ -41708,8 +40951,7 @@ http://view.QQ.com
 [一场罕见的雪灾][被困女友的短信全记录]
 中国再也不是世界工厂？
 [万余港企面临关闭][黑心资本家无视法律]
-热点：[你买到票了吗
-你患了彭宇恐惧症？]
+热点：[你买到票了吗 你患了彭宇恐惧症？]
 其实，小碧收费站根本不具备恢复重新收费的基本条件：一是收费系统还没有完全恢复；二是还有免费通行的车辆没有入口地证明，要花时间核对入口地。大灾当前，全社会各部门倾尽全力、不讲条件保畅通，为什么小碧收费站却不是积极参与抗击雪灾，为抢运抗灾物资、输送旅客的车辆疏通道路，反而抓住时机，大捞一把过路费呢？
 其中原因之一就是收费站利益至上，局部利益凌驾于全局利益之上。抗击雪灾，公路收费站在保障公路畅通中起着关键作用，核心是要全力保安全、保供应、保畅通。而不是先将自己一碗先盛上，车辆再次拥堵却事不关己，高高挂起。不知收费站的负责人想过没有，一旦过路车辆再次滞留，收费站还能收到钱吗？真是应了那句俗语：“大处不算小处算”。如果收费站能趁着现在前方通畅的机会，缩短收费时间，甚至不收费，让过往车辆早日通行，岂不更有利于恢复正常收费？
 还要看到，小碧收费一个重要的因素，就是突发事件应对的专门法律制度某些方面存在缺失。“突发事件应对法”已于2007年11月1日起施行，但在建立系统的防灾、抗灾、救灾制度，进而动员全社会参与抗击灾害方面，仍有不少地方需要完善和细化，特别是法律责任，需要严格的问责机制予以配合支持，否则，像小碧收费站这样在上一级部门宣布解除灾害警报之前，就擅自重新收费且造成严重后果的行为，就无法得到追究和查处，今后抗击任何自然灾害的协奏曲就很难演绎得协调与和谐。
@@ -41721,23 +40963,17 @@ view.news.qq.com
 -->
 更多关于“雪灾”的新闻
 &#183;大雪灾挑战移民经济与中心城市的发展模式
-(2008-02-05
-07:57:15)
+(2008-02-05 07:57:15)
 &#183;鲁宁：再努把力，征服雪灾，过个好年
-(2008-02-04
-07:58:08)
+(2008-02-04 07:58:08)
 &#183;面对冰雪灾害，我们总可以做点什么
-(2008-02-03
-16:23:18)
+(2008-02-03 16:23:18)
 &#183;鄢烈山：记录下经历雪灾的全过程
-(2008-02-03
-09:48:33)
+(2008-02-03 09:48:33)
 &#183;南方雪灾，让我想起了马桶缺水
-(2008-02-03
-08:11:17)
+(2008-02-03 08:11:17)
 &#183;刘洪波：雪灾中的生命韧性
-(2008-02-02
-09:33:04)
+(2008-02-02 09:33:04)
 分类信息
 -->
 -->
@@ -41966,8 +41202,7 @@ http://view.QQ.com
 [一场罕见的雪灾][被困女友的短信全记录]
 中国再也不是世界工厂？
 [万余港企面临关闭][黑心资本家无视法律]
-热点：[你买到票了吗
-你患了彭宇恐惧症？]
+热点：[你买到票了吗 你患了彭宇恐惧症？]
 有专家称“年终奖也是生产力”
 每到年底，在我市某外贸公司供职的何文，对同学、朋友组织的所有聚餐聚会活动一律能推就推，原因竟然是单位不发年终奖。她解释：“这个时候年终奖是避免不了的话题，人家是讨论发多少，我可是一分钱都没有，太尴尬了。”她认为，现在发年终奖的现象很普遍，职工们也都有这个心理预期，企业不管发多发少，都应该表示一下。“每年对此都绝口不提，实在让人伤心，这种公司我可不愿意长期呆下去。”
 杨来胜说：“部分中小企业，把年终奖仅仅看作增加公司运营成本的负担，意识不到它在劳资关系中扮演的特殊角色。”他认为，年终奖是企业文化的一部分，运用得好，也是企业发展的生产力。
@@ -41992,23 +41227,17 @@ view.news.qq.com
 -->
 更多关于“年终奖”的新闻
 &#183;年终奖应该随物价一起上涨
-(2008-01-29
-08:43:21)
+(2008-01-29 08:43:21)
 &#183;让“临时工”去争奖牌很“残忍”？
-(2008-01-24
-11:13:50)
+(2008-01-24 11:13:50)
 &#183;刘洪波：受灾如同中大奖?
-(2008-01-23
-07:40:31)
+(2008-01-23 07:40:31)
 &#183;你的年终奖是多少个馒头
-(2008-01-18
-07:40:39)
+(2008-01-18 07:40:39)
 &#183;曹林：为“女商人独战权力”感到悲哀
-(2008-01-04
-09:35:57)
+(2008-01-04 09:35:57)
 &#183;最牛钉子户忙领奖，风光还是可悲
-(2008-01-03
-08:31:55)
+(2008-01-03 08:31:55)
 分类信息
 -->
 -->
@@ -42261,8 +41490,7 @@ http://view.QQ.com
 [一场罕见的雪灾][被困女友的短信全记录]
 中国再也不是世界工厂？
 [万余港企面临关闭][黑心资本家无视法律]
-热点：[你买到票了吗
-你患了彭宇恐惧症？]
+热点：[你买到票了吗 你患了彭宇恐惧症？]
 即便是在生活与工作节奏愈益紧张的当下，春节作为中国人心目中最重要的传统佳节依旧在散发着它的无限魅力，并慰藉着所有中国人的身心。在这个节日里，国人除了能充分体验合家团圆的幸福感受之外，亲情的交融，更是让越来越多常年在外打拼的疲惫心灵获得了一个难得的恢复和滋养期。从这个意义上说，国人对于新春佳节理应满怀期待才是，何以超六成的职场人士却犯起“春节愁”来了呢？
 仔细一瞧，合着这些职场人士的“春节愁”，大多来自经济因素，不过，假如是下岗失业群体，眼睁睁佳节将至，却无米下锅，如此凄凉景象，犯犯“春节愁”或许还可以理解，这职场人士，好歹有份职业在手，多少总有相对固定的薪资收入，更何况，人们常说“有钱没钱，回家过年”，春节的喜气甚至应该冲淡平日里的不快和郁闷才是。按照道理，不至于落魄至“没钱”窘境的职场人士，实在不该因为经济原因而犯“春节愁”才是。
 不过，职场人的“春节愁”也未必就全无道理，更不能简单的以“人心不足”或是“花销太滥”来加以解读。毕竟，社会发展了，当然不能指望人们还是仅仅满足于“吃饱”，对于春节的预期年年高也就理所当然，八成职场人士过个春节花掉一个月薪水，其实也未必就真的是自讨没趣的过度消费，回家探亲的来回交通费，父母亲友的过节礼品礼金，花个几千元钱还真是必不可少，仅仅用掉工薪阶层一个月的薪水应该还算是相对节省的了。相对工薪阶层的收入而言，一月薪水的过节成本当然是有些偏高，放在住房、医疗尚缺乏保障的前提下，职场人士们自然难以像国外的消费者那样大玩“寅吃卯粮”的洒脱，对于新春佳节的不菲花销生出些“春节愁”来，也就完全可以理解了。
@@ -42275,17 +41503,13 @@ view.news.qq.com
 -->
 更多关于“春节”的新闻
 &#183;赢不赢球，春节都快乐
-(2008-02-05
-09:46:52)
+(2008-02-05 09:46:52)
 &#183;经历苦难，我们更懂春节的珍贵
-(2008-02-05
-07:45:52)
+(2008-02-05 07:45:52)
 &#183;现在，请不要号召“春节不回家”
-(2008-02-01
-14:57:23)
+(2008-02-01 14:57:23)
 &#183;20世纪60年代的春节：物质匮乏与激情过剩
-(2008-01-17
-16:45:24)
+(2008-01-17 16:45:24)
 分类信息
 -->
 -->
@@ -42521,8 +41745,7 @@ http://view.QQ.com
 [一场罕见的雪灾][被困女友的短信全记录]
 中国再也不是世界工厂？
 [万余港企面临关闭][黑心资本家无视法律]
-热点：[你买到票了吗
-你患了彭宇恐惧症？]
+热点：[你买到票了吗 你患了彭宇恐惧症？]
 □陈继荣（公务员，现居广州）
 不想再被称为“外来工”
 作为一个长年漂泊在深圳的打工者，尽管我已在深圳打拼了十多年，并且已在深圳买了房，但我还是不敢说我是一个深圳人，我的口袋里长期揣着的都是一张暂住证。我想，一个在美国奋斗了十多年的华人，恐怕连绿卡都该拿到了。我也从来没有听说美国人将这些华人称之为“外来工”。走在深圳美丽的大街上，至今我们还是被歧视性地，统统称为“外来工”或者“农民工”。每年春节的时候，我们都不得不像候鸟一样，旅途再苦再累，也要飞向远方那个属于自己的温馨的家。为什么我的眼里常含着泪水，因为我们始终被当做融不进深圳这片热土的异乡人！2008年，我希望深圳成为我们每一个来深建设者的真正的温馨家园。
@@ -42565,17 +41788,13 @@ view.news.qq.com
 -->
 更多关于“新年愿望”的新闻
 &#183;我的新年愿望
-(2008-02-07
-08:30:31)
+(2008-02-07 08:30:31)
 &#183;请尊重死刑犯的最后一个人性愿望
-(2008-01-30
-09:12:36)
+(2008-01-30 09:12:36)
 &#183;一位公民2008的10个社会愿望
-(2007-12-31
-17:41:48)
+(2007-12-31 17:41:48)
 &#183;吕频：2008，我许给三只猫的六个愿望(图)
-(2007-12-31
-16:11:19)
+(2007-12-31 16:11:19)
 分类信息
 -->
 -->
@@ -42803,8 +42022,7 @@ http://view.QQ.com
 [一场罕见的雪灾][被困女友的短信全记录]
 中国再也不是世界工厂？
 [万余港企面临关闭][黑心资本家无视法律]
-热点：[你买到票了吗
-你患了彭宇恐惧症？]
+热点：[你买到票了吗 你患了彭宇恐惧症？]
 泡杯香茶，读本好书。平日的快节奏，心态难免浮躁，舒缓阅读，有益放松。那么，何谓“好”书？中外名著也好，通俗小说也罢，再或是时髦的“古话今说”，一本受欢迎的书往往离不开几大因素——鲜明的风格、丰富的趣味、深刻的内涵、独到的吸引力。书籍是人类进步的阶梯，也是优美、风趣、磅礴文学的传播介质，更是观念与思想对撞的舞台。“好”书没有完全一致的“模式”，百花齐放才是大千世界的本色。博览“杂”书，领略世间的精粹奇妙，开阔丰富思想视野，是许多“杂家”的体会经验。素质教育、学习型社会，同样需要“灵活阅读”，而不是“死读书”。
 与父母交流，和兄弟姐妹谈心。人们常说：清官难断家务事。的确，家事常常没有绝对的“对与错”。一些家庭矛盾往往是由于互不理解引起，一些代沟更是因为互不倾诉、封闭在“自己的圈子”。进而，彼此愈发猜疑，“心病”越来越重。可是，天下的父母哪个不希望儿女过得好？春节过年，无数游子风雪兼程回家团圆，谁又能说他们“亲情淡漠”？在春节这一真情时刻，坦诚相对，说出自己的真心话，将心比心，换位思考，分享彼此的泪水与喜悦，一家人没有解不开的“结”！
 携手亲友，逛逛庙会。如今某些人抱怨“年味”淡了，过年“没劲”。殊不知，“年味”的实质是心灵的主观感受。面对庙会上火红的灯笼、红彤彤的糖葫芦、孩子们红扑扑的笑脸、杂耍与游艺摊前惊喜连连，你的情绪会在不经意间被点燃。热烈欢快的氛围，将感染在场的每一个人。幸福需要人们去发现，快乐需要去融入。不尝梨子，怎么知道它的滋味呢？
@@ -42819,20 +42037,15 @@ view.news.qq.com
 -->
 更多关于“过年”的新闻
 &#183;如何才能“有钱没钱，不愁过年”
-(2008-02-06
-08:03:07)
+(2008-02-06 08:03:07)
 &#183;过年需要“有意思”
-(2008-02-04
-07:50:59)
+(2008-02-04 07:50:59)
 &#183;“留下过年”就是最大的人道主义
-(2008-02-03
-10:48:07)
+(2008-02-03 10:48:07)
 &#183;薛兆丰：承诺让每个人都回乡过年是残忍的
-(2008-01-29
-22:56:18)
+(2008-01-29 22:56:18)
 &#183;紧急动员：为国为己，今年过年不回家
-(2008-01-29
-22:44:56)
+(2008-01-29 22:44:56)
 分类信息
 -->
 -->

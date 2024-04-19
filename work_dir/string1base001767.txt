@@ -1671,10 +1671,7 @@ Inquiry
 Bathroom
 Cabinet
 Buy
-(Synthetic
-Basin
-+
-M
+(Synthetic Basin + M
 Kitchen
 And
 Bathroom
@@ -1987,10 +1984,7 @@ Inquiry
 Bathroom
 Cabinet
 Buy
-(Synthetic
-Basin
-+
-M
+(Synthetic Basin + M
 Kitchen
 And
 Bathroom
@@ -3552,7 +3546,7 @@ IYou(紫菊若辛)
 李贺《梦天》——奇谲的艺术
 “寂寞让我如此美丽”——海
 杜甫《春夜喜雨》赏析
-妙笔生花蜃景迷人──《山市
+妙笔生花蜃景迷人──《山市 
 你认为八斗文学目前最需要改进的是什么?
 页面设计、版面风格
 充实内容、追击热点
@@ -3640,79 +3634,7 @@ beginPosition
 cookieString.indexOf(cookieHeader)
 ;
 if
-(beginPosition
-==
--1){
-var
-Then
-=
-new
-Date()
-;
-var
-hours
-=
-Then.getHours();
-var
-minutes
-=
-Then.getMinutes();
-var
-seconds
-=
-Then.getSeconds();
-var
-lefttime
-=
-1000
-*
-(
-86400
--
-hours*3600
--
-minutes*60
--
-seconds);
-Then.setTime(Then.getTime()
-+
-lefttime
-);
-document.cookie
-=
-"Emar_itsun_1694168=y;expires="+
-Then.toGMTString()
-+";
-path=/";
-var
-fromr=top.document.referrer;
-fromr=(fromr=="")?document.referrer:fromr;
-var
-c_page=top.location.href;
-c_page
-=
-c_page
-==""
-?
-location.href
-:
-c_page;
-var
-query
-=
-'&c_page='
-+
-escape(c_page)
-+
-'&refer1='
-+
-escape(fromr)
-+
-'&c_screen='
-+
-screen.width+
-'x'+screen.height;
-document.write('
+(beginPosition == -1){ var Then = new Date() ; var hours = Then.getHours(); var minutes = Then.getMinutes(); var seconds = Then.getSeconds(); var lefttime = 1000 * ( 86400 - hours*3600 - minutes*60 - seconds); Then.setTime(Then.getTime() + lefttime ); document.cookie = "Emar_itsun_1694168=y;expires="+ Then.toGMTString() +"; path=/"; var fromr=top.document.referrer; fromr=(fromr=="")?document.referrer:fromr; var c_page=top.location.href; c_page = c_page =="" ? location.href : c_page; var query = '&c_page=' + escape(c_page) + '&refer1=' + escape(fromr) + '&c_screen=' + screen.width+ 'x'+screen.height; document.write('
 ');
 }
 document.close();
@@ -4055,24 +3977,15 @@ Z
 中卫
 遵义
 浙江
-本周推荐(Editor's
-Picks)
-夜生活(Night
-Life)
-北京酒吧(Beijing
-Bars)
-上海酒吧(Shanghai
-Bars)
-广州酒吧(Guangzhou
-Bars)
-深圳酒吧(Shenzhen
-Bars)
-北京KTV(Beijing
-KTV)
-上海KTV(Shanghai
-KTV)
-广州KTV(Guangzhou
-KTV)
+本周推荐(Editor's Picks)
+夜生活(Night Life)
+北京酒吧(Beijing Bars)
+上海酒吧(Shanghai Bars)
+广州酒吧(Guangzhou Bars)
+深圳酒吧(Shenzhen Bars)
+北京KTV(Beijing KTV)
+上海KTV(Shanghai KTV)
+广州KTV(Guangzhou KTV)
 重庆旅游问答_八戒知道
 成都运动休闲问答_八戒知道
 天津餐厅问答_八戒知道
@@ -4080,37 +3993,21 @@ KTV)
 杭州旅游问答_八戒知道
 西安购物问答_八戒知道
 长沙生活服务问答_八戒知道
-美容&健身(Beauty
-&
-Spa)
-北京Spa(Beijing
-Spa)
-上海Spa(Shanghai
-Spa)
-广州Spa(Guangzhou
-Spa)
-深圳Spa(Shenzhen
-Spa)
-北京美容院(Beijing
-Beauty
-Salon)
-上海美容院(Shanghai
-Beauty
-Salon)
-广州美容院(Guangzhou
-Beauty
-Salon)
-北京行政区和商圈(Beijing
-Neighborhood)
+美容&健身(Beauty & Spa)
+北京Spa(Beijing Spa)
+上海Spa(Shanghai Spa)
+广州Spa(Guangzhou Spa)
+深圳Spa(Shenzhen Spa)
+北京美容院(Beijing Beauty Salon)
+上海美容院(Shanghai Beauty Salon)
+广州美容院(Guangzhou Beauty Salon)
+北京行政区和商圈(Beijing Neighborhood)
 苏州问答_八戒知道
-上海行政区和商圈(Shanghai
-Neighborhood)
+上海行政区和商圈(Shanghai Neighborhood)
 济南问答_八戒知道
-广州行政区和商圈(Guangzhou
-Neighborhood)
+广州行政区和商圈(Guangzhou Neighborhood)
 武汉问答_八戒知道
-深圳行政区和商圈(Shenzhen
-Neighborhood)
+深圳行政区和商圈(Shenzhen Neighborhood)
 About
 us
 刊登广告
@@ -5340,8 +5237,7 @@ bet365|投注|足球投注|bet365投注|bet365网站
 各位波友，现在www.vbvb.cn
 已经改版了．如果要找旧的导航请点击右上说明，欢迎一直支持本站．
 『发布时间』[2007-7-20]
-&middot;[欧协]里斯本竞技(士
-亭)v
+&middot;[欧协]里斯本竞技(士 亭)v
 [2008-2-13]
 &middot;[欧协]
 格拉斯哥流浪VS帕纳辛
@@ -5357,17 +5253,14 @@ v
 &middot;[欧协]云达不莱梅VS布拉加
 数
 [2008-2-13]
-&middot;[意甲]AC米兰VS利沃诺(利禾
-[2008-2-13]
+&middot;[意甲]AC米兰VS利沃诺(利禾 [2008-2-13]
 &middot;[欧协]布兰(白兰恩)vs埃弗顿
 [2008-2-13]
 &middot;[欧协]
 AEK雅典(希腊)vs
 [2008-2-13]
-&middot;[欧协]加拉塔沙雷vs勒沃库森(
-[2008-2-13]
-玩博彩游戏,中博彩大奖,各种娱乐竟猜游戏,无限礼金等你拿!(广告:开户可获取1000元优惠金点击马上注册
-)
+&middot;[欧协]加拉塔沙雷vs勒沃库森( [2008-2-13]
+玩博彩游戏,中博彩大奖,各种娱乐竟猜游戏,无限礼金等你拿!(广告:开户可获取1000元优惠金点击马上注册 )
 >>>
 实用导航
 澳门原盘
@@ -5402,8 +5295,7 @@ AEK雅典(希腊)vs
 More
 投注锦囊
 More
-&middot;[欧协]里斯本竞技(士
-亭)v
+&middot;[欧协]里斯本竞技(士 亭)v
 [2008-2-13]
 &middot;[欧协]
 格拉斯哥流浪VS帕纳辛
@@ -5419,15 +5311,13 @@ v
 &middot;[欧协]云达不莱梅VS布拉加
 数
 [2008-2-13]
-&middot;[意甲]AC米兰VS利沃诺(利禾
-[2008-2-13]
+&middot;[意甲]AC米兰VS利沃诺(利禾 [2008-2-13]
 &middot;[欧协]布兰(白兰恩)vs埃弗顿
 [2008-2-13]
 &middot;[欧协]
 AEK雅典(希腊)vs
 [2008-2-13]
-&middot;[欧协]加拉塔沙雷vs勒沃库森(
-[2008-2-13]
+&middot;[欧协]加拉塔沙雷vs勒沃库森( [2008-2-13]
 &middot;德甲推荐：拜仁不萊梅巔峰之爭
 [2008-2-10]
 &middot;西甲推荐：桑坦德火拼馬德里體育會
@@ -5709,8 +5599,7 @@ YYOO的婚礼全纪录
 [明星晒客]
 明星也喜欢晒，
 ...[进入]
-[8
-明星皮]
+[8 明星皮]
 关注明星的8卦事...[进入]
 晒小家
 [完美婚礼]
@@ -5740,8 +5629,7 @@ YYOO的婚礼全纪录
 [旅游户外]
 旅游不在远近，
 ...[进入]
-[日韩
-TVB]
+[日韩 TVB]
 挖掘最新最好看
 ...[进入]
 [书·音乐·电影]
@@ -6586,9 +6474,7 @@ player
 9070免费电影网站纯属影视爱好者的个人网站，所有影视均来源于互联网和其它娱乐网站所提供的影片链接，仅供宽带网用户低品质测试和影视交流，影片版权归相关影音公司所有。如发现有侵权，请来信告知，本站将会以最快的速度删除和纠正。
 合作与赞助
 邮箱:ccdy2006#126.com
-(
-请把#换成@
-)
+( 请把#换成@ )
 琼ICP备06003897号
 网程网-教育我全有-教育视频
 在线点播
@@ -6736,19 +6622,15 @@ Flash
 魏书生教育文库
 学生实
 课堂教学监控
-《区角
-儿童智慧的天地
-《另类课堂
-数学卷》
-《另类课堂
-语文卷》
+《区角 儿童智慧的天地
+《另类课堂 数学卷》
+《另类课堂 语文卷》
 《小学品德与生活（品德
 《小学数学课堂诊断》
 《如何当好班主任》
 《小学语文课堂诊断》
 《孩子们,你们好!（新
-《合作课堂
-让学习充满
+《合作课堂 让学习充满
 《初中化学新课程教学法
 《初中英语新课程教学法
 家庭教育手机报
@@ -13979,12 +13861,8 @@ Hot：
 [胃肠外科]
 [泌尿生殖]
 [呼吸病科]
-[口
-腔
-科]
-[妇
-产
-科]
+[口 腔 科]
+[妇 产 科]
 [眼科疾病]
 [神经病学]
 维C会影响血糖尿糖化验！
@@ -14058,9 +13936,7 @@ Hot：
 [婴儿呕吐]
 [耳部疼痛]
 [脚底疼痛]
-[肛
-门
-痛]
+[肛 门 痛]
 [视力异常]
 [阴道出血]
 “痛经”年轻女性难言之隐
@@ -14080,13 +13956,10 @@ Hot：
 [淋巴肿大][阴道出血]
 [性病自测]
 [耳鸣测试]
-[震
-颤]
+[震 颤]
 [皮肤丘疹]
 [肌肉萎缩]
-[高
-血
-压]
+[高 血 压]
 [神经衰弱]
 儿童疾病自测大全
 当孩子有个“头疼脑热”的家长总是不知所措，慌作一团，我们建议您先看看这个，也许会...『全文』
@@ -14643,8 +14516,7 @@ A8博客网
 CHB彩虹桥论...
 江南雨巷——原...
 专职导航
-成功基地[Go...
-天6论坛
+成功基地[Go... 天6论坛 
 综合其他
 网赚一族
 北京冉冉保洁网...
@@ -14881,9 +14753,7 @@ Development
 Co.,Ltd
 网上订单：
 请您按下列要求认真填写你的资料，我们将按照您提交的信息与您联系，确认定购的药品，以便及时给您发货，优惠活动，按网站公告执行！
-（注：带
-*
-号为必选填项)）
+（注：带 * 号为必选填项)）
 友情链接：中国控烟协会
 |
 中国疾控中心控烟办
@@ -15017,10 +14887,10 @@ FactoryBuilder.getFactory(request).getHelpCenterMediaURL()视频帮助中心-->
 徐之明
 ......
 考研新闻
-2007－2008年考研政治大纲对比(四...
-2007－2008年考研政治大纲对比(三...
-2007－2008年考研政治大纲对比(二...
-2007－2008年考研政治大纲对比(一...
+2007－2008年考研政治大纲对比(四... 
+2007－2008年考研政治大纲对比(三... 
+2007－2008年考研政治大纲对比(二... 
+2007－2008年考研政治大纲对比(一... 
 教育部鼓励硕士生两年制
 更多.....
 信息热点
@@ -15035,13 +14905,13 @@ FactoryBuilder.getFactory(request).getHelpCenterMediaURL()视频帮助中心-->
 考研英语
 考研数学
 2008考研强化（政治、英语）套餐
-2008考研（政/英/数）全套课程（基础...
+2008考研（政/英/数）全套课程（基础... 
 2008考研数学强化+冲刺（送点睛班）
 2008考研英语强化+冲刺（送点睛班）
 2008考研政治强化+冲刺（送点睛班）
 更多.....
 专业课试题|
-北京大学1999硕士研究生入学生物化学(...
+北京大学1999硕士研究生入学生物化学(... 
 北大电子系2000年信号与系统考研试题及...
 北大电子系2000年信号与系统考研试题及...
 北京大学管理学科2001年研究生入学考试...
@@ -15206,8 +15076,7 @@ FactoryBuilder.getFactory(request).getZyCourseURL()专业辅导
 李永乐专栏
 崔荣泉专栏
 田茂英专栏
-[专业课
-]
+[专业课 ]
 专业课辅导
 专业课信息
 FactoryBuilder.getFactory(request).getLmZhuyeListURL()专业课试题
@@ -15268,8 +15137,8 @@ FactoryBuilder.getFactory(request).getDaxueListURL()考研院校
 ---考研英语有关事项
 更多.....
 网络课堂
-2008考研强化（政治、...
-2008考研（政/英/数...
+2008考研强化（政治、... 
+2008考研（政/英/数... 
 2008考研数学强化+冲...
 2008考研英语强化+冲...
 2008考研政治强化+冲...
@@ -15498,36 +15367,7 @@ RH阳性(6)
 出生在即
 2月12日
 最新电影
-同事三分亲(237
-2-12
-明天的喜多善男(0
-2-12
-爱迪生之母(5)
-2-12
-快刀洪吉童(12)
-2-12
-NewHeart(
-2-12
-大王世宗(连载4)
-2-12
-和味浓情(10)
-2-12
-秀才爱上兵(16)
-2-12
-4姐妹侦探团(04
-2-12
-成为王子的正确方法
-2-12
-RH阳性(6)
-2-12
-原来我不帅(05)
-2-12
-欢喜来逗阵(07)
-2-12
-斗牛要不要(13)
-2-12
-AYAKASHI(
-2-12
+同事三分亲(237 2-12  明天的喜多善男(0 2-12  爱迪生之母(5) 2-12  快刀洪吉童(12) 2-12  NewHeart( 2-12  大王世宗(连载4) 2-12  和味浓情(10) 2-12  秀才爱上兵(16) 2-12  4姐妹侦探团(04 2-12  成为王子的正确方法 2-12  RH阳性(6) 2-12  原来我不帅(05) 2-12  欢喜来逗阵(07) 2-12  斗牛要不要(13) 2-12  AYAKASHI( 2-12   
 演员关键字导航
 周星驰
 刘德华
@@ -15641,18 +15481,10 @@ mp3/mp4
 产品研发
 内存芯片价格急速拉升
 商家提货困难
-[
-硬件
-]
-[
-数码
-]
-[
-手机
-]
-[
-笔记本电脑
-]
+[ 硬件 ]
+[ 数码 ]
+[ 手机 ]
+[ 笔记本电脑 ]
 [13]
 雪灾导致交通堵塞
 内存价格有望反弹
@@ -16133,8 +15965,7 @@ TVB悬疑惊竦大戏《叠影危情》16日首播
 预测首周收入亿元
 游戏娱乐
 《投名状》Qzone限量珍藏QQ秀送！送！
-足球网游《FIFA
-2》今日限量技术测试
+足球网游《FIFA 2》今日限量技术测试
 《倚天剑与屠龙刀》高薪招募:战地记者
 《功夫世界2008》新国家系统
 前瞻在即
@@ -16621,18 +16452,10 @@ Reserved.
 漫画社区
 易蓝专题快递------
 城市纪&mdash;遨游.序城市宣传片抢先看！
-［Cover
-Coser封面大赛拒绝污染!］
-［易蓝超级COSER专访!橙色篇!
-］［
-超级玛丽奥的耻辱
-］
-［
-我们要说
-游戏本身没有错!
-］
-［遭亲爹轰杀!XB360引发血案
-］［宫崎骏系列作品下载］
+［Cover Coser封面大赛拒绝污染!］
+［易蓝超级COSER专访!橙色篇! ］［ 超级玛丽奥的耻辱 ］
+［ 我们要说 游戏本身没有错! ］
+［遭亲爹轰杀!XB360引发血案 ］［宫崎骏系列作品下载］
 ·
 倾情回顾
 2007最牛X的掌机游戏一览
@@ -16787,8 +16610,7 @@ NBGI公布《灵魂能力4》最新战斗画面!
 ·
 《横冲直撞:终极杀戮》PC版6月份上市
 ·
-次世代新作《战地
-叛逆连队》新画面
+次世代新作《战地 叛逆连队》新画面
 ·
 《天骄II》转生新区
 50万8
@@ -16930,94 +16752,58 @@ QQ表情免费下载
 第三页第二页第一页
 最新添加
 地下城与勇士
-[
-策略
-]
+[ 策略 ]
 2/5
 企鹅餐厅
-[
-休闲
-]
+[ 休闲 ]
 2/5
 宠物料理店
-[
-休闲
-]
+[ 休闲 ]
 2/5
 铁轨双雄
-[
-策略
-]
+[ 策略 ]
 2/5
 打扮邻家女孩
-[
-休闲
-]
+[ 休闲 ]
 2/5
 送仓鼠回家
-[
-益智
-]
+[ 益智 ]
 2/5
 福尔摩斯来找茬
-[
-益智
-]
+[ 益智 ]
 2/2
 模拟人生美眉的家
-[
-休闲
-]
+[ 休闲 ]
 2/2
 海绵宝宝闯雪崩
-[
-体育
-]
+[ 体育 ]
 2/2
 装扮小美女
-[
-休闲
-]
+[ 休闲 ]
 2/2
 梦幻蛋糕屋
-[
-益智
-]
+[ 益智 ]
 2/2
 寻找声音
-[
-益智
-]
+[ 益智 ]
 2/2
 率性女生
-[
-休闲
-]
+[ 休闲 ]
 2/1
 卡通美女连连看
-[
-益智
-]
+[ 益智 ]
 2/1
 史努比砍砖
-[
-体育
-]
+[ 体育 ]
 2/1
 梦幻赛车
-[
-敏捷
-]
+[ 敏捷 ]
 2/1
 幼儿园园长
-[
-休闲
-]
+[ 休闲 ]
 2/1
 基地保卫战
-[
-策略
-]
+[ 策略 ]
 2/1
 上古神器3完美版
 金庸群侠传
@@ -17148,365 +16934,125 @@ UFO卡丁车
 第五页第四页第三页第二页第一页
 经典小游戏
 地下城与勇士
-[
-策略
-→
-RP
-]
+[ 策略 → RP ]
 三国志吞食天地2
-[
-策略
-→
-RP
-]
+[ 策略 → RP ]
 黄金矿工救女友
-[
-策略
-→
-策略
-]
+[ 策略 → 策略 ]
 疯狂的士
-[
-敏捷
-→
-驾驶
-]
+[ 敏捷 → 驾驶 ]
 上古神器3之仙岛
-[
-策略
-→
-RP
-]
+[ 策略 → RP ]
 侠盗车手
-[
-战斗
-→
-射击
-]
+[ 战斗 → 射击 ]
 热舞街
-[
-敏捷
-→
-跳舞
-]
+[ 敏捷 → 跳舞 ]
 猴宝宝劲舞
-[
-敏捷
-→
-跳舞
-]
+[ 敏捷 → 跳舞 ]
 坦克大战2008
-[
-战斗
-→
-坦克
-]
+[ 战斗 → 坦克 ]
 雪地合金弹头
-[
-战斗
-→
-合金
-]
+[ 战斗 → 合金 ]
 超级玛丽完美版
-[
-策略
-→
-超级
-]
+[ 策略 → 超级 ]
 火影忍者冒险之旅
-[
-儿童
-→
-敏捷
-]
+[ 儿童 → 敏捷 ]
 死神VS火影
-[
-敏捷
-→
-格斗
-]
+[ 敏捷 → 格斗 ]
 圣诞节漂亮装
-[
-休闲
-→
-换衣
-]
+[ 休闲 → 换衣 ]
 恶搞跳绳
-[
-敏捷
-→
-动作
-]
+[ 敏捷 → 动作 ]
 雪山兄弟圣诞版
-[
-敏捷
-→
-动作
-]
+[ 敏捷 → 动作 ]
 欢乐碰碰碰
-[
-益智
-→
-对对
-]
+[ 益智 → 对对 ]
 模拟特种兵
-[
-战斗
-→
-合金
-]
+[ 战斗 → 合金 ]
 快打大乱斗
-[
-敏捷
-→
-动作
-]
+[ 敏捷 → 动作 ]
 虹猫蓝兔七侠传
-[
-敏捷
-→
-动作
-]
+[ 敏捷 → 动作 ]
 UFO卡丁车
-[
-体育
-→
-赛车
-]
+[ 体育 → 赛车 ]
 怪兽森林
-[
-策略
-→
-冒险
-]
+[ 策略 → 冒险 ]
 坦克十字军
-[
-战斗
-→
-坦克
-]
+[ 战斗 → 坦克 ]
 终极格斗
-[
-敏捷
-→
-格斗
-]
+[ 敏捷 → 格斗 ]
 旋风小子
-[
-敏捷
-→
-动作
-]
+[ 敏捷 → 动作 ]
 痛击日寇
-[
-战斗
-→
-射击
-]
+[ 战斗 → 射击 ]
 天地会大劫
-[
-敏捷
-→
-格斗
-]
+[ 敏捷 → 格斗 ]
 小型战机
-[
-战斗
-→
-射击
-]
+[ 战斗 → 射击 ]
 梦幻格斗俱乐部
-[
-敏捷
-→
-格斗
-]
+[ 敏捷 → 格斗 ]
 看谁飞得远
-[
-专辑
-→
-打企
-]
+[ 专辑 → 打企 ]
 超能变身男孩
-[
-策略
-→
-冒险
-]
+[ 策略 → 冒险 ]
 滑板小子
-[
-体育
-→
-滑板
-]
+[ 体育 → 滑板 ]
 水果买卖
-[
-策略
-→
-经营
-]
+[ 策略 → 经营 ]
 小个女忍者
-[
-敏捷
-→
-动作
-]
+[ 敏捷 → 动作 ]
 血热拳击赛
-[
-体育
-→
-拳击
-]
+[ 体育 → 拳击 ]
 周星星的烦恼
-[
-敏捷
-→
-挑战
-]
+[ 敏捷 → 挑战 ]
 武装直升机
-[
-战斗
-→
-直升
-]
+[ 战斗 → 直升 ]
 京剧霸王别姬闯关
-[
-策略
-→
-RP
-]
+[ 策略 → RP ]
 冒险岛
-[
-策略
-→
-RP
-]
+[ 策略 → RP ]
 倩女幽魂之追钗奇
-[
-策略
-→
-策略
-]
+[ 策略 → 策略 ]
 泡泡龙闯关
-[
-专辑
-→
-泡泡
-]
+[ 专辑 → 泡泡 ]
 斩的试练
-[
-敏捷
-→
-动作
-]
+[ 敏捷 → 动作 ]
 完美美女更衣
-[
-休闲
-→
-化妆
-]
+[ 休闲 → 化妆 ]
 超级玛丽
-[
-策略
-→
-超级
-]
+[ 策略 → 超级 ]
 小熊祖玛
-[
-益智
-→
-益智
-]
+[ 益智 → 益智 ]
 智力滚木块
-[
-益智
-→
-益智
-]
+[ 益智 → 益智 ]
 兔宝宝叉鱼
-[
-敏捷
-→
-吃东
-]
+[ 敏捷 → 吃东 ]
 小女生开学换装
-[
-休闲
-→
-换衣
-]
+[ 休闲 → 换衣 ]
 超级玛丽鸡
-[
-策略
-→
-超级
-]
+[ 策略 → 超级 ]
 热舞女孩
-[
-敏捷
-→
-跳舞
-]
+[ 敏捷 → 跳舞 ]
 经营迪斯科酒吧
-[
-策略
-→
-经营
-]
+[ 策略 → 经营 ]
 diy生日蛋糕
-[
-休闲
-→
-设计
-]
+[ 休闲 → 设计 ]
 打扮长发MM
-[
-休闲
-→
-化妆
-]
+[ 休闲 → 化妆 ]
 与狗公园漫步
-[
-策略
-→
-冒险
-]
+[ 策略 → 冒险 ]
 雷米美食餐厅
-[
-休闲
-→
-生活
-]
+[ 休闲 → 生活 ]
 花园园艺师
-[
-敏捷
-→
-挑战
-]
+[ 敏捷 → 挑战 ]
 捞金鱼
-[
-敏捷
-→
-挑战
-]
+[ 敏捷 → 挑战 ]
 拳皇wing
-[
-敏捷
-→
-格斗
-]
+[ 敏捷 → 格斗 ]
 成龙冒险出击
-[
-敏捷
-→
-动作
-]
+[ 敏捷 → 动作 ]
 三国志关羽铁骑
-[
-敏捷
-→
-格斗
-]
+[ 敏捷 → 格斗 ]
 近一周内排行榜
 点击榜得分榜
 151412是男人就别眨眼
@@ -17860,17 +17406,14 @@ PSP壁纸板
 游戏论坛
 PSP联盟
 NDS部落
-《Wii
-Fit》日本销量近130万
+《Wii Fit》日本销量近130万
 PSP紧追
 《战国BASARA2》罐饮料第二弹发售
 EA第三季财报继续亏损
 大作延期
 EA预言：今年PS3欧洲远胜XBOX360
-《潜龙谍影
-精华合集》3月美国上市
-《NEW逆转
-NOT裁判》即将发表
+《潜龙谍影 精华合集》3月美国上市
+《NEW逆转 NOT裁判》即将发表
 二月热门掌机游戏推荐
 任天堂加大Wii投资力度
 动漫首页
@@ -18882,37 +18425,13 @@ By
 老呆和小呆看片会
 function
 checkLoginEmpty()
-{
-var
-userName=Form1.username.value;
-var
-passWord=Form1.password.value;
-if(userName=="")
-{
-alert("请输入用户名");
-return
-false;
-}
-else
-if(userName.indexOf("'")>=0)
-{
-alert("你输入带有非法字符符号");
-return
-false;
-}
+{ var userName=Form1.username.value; var passWord=Form1.password.value; if(userName=="") { alert("请输入用户名"); return false; } else if(userName.indexOf("'")>=0)
+{ alert("你输入带有非法字符符号"); return false; }
 else
 if(passWord=="")
-{
-alert("请输入密码");
-return
-false;
-}
+{ alert("请输入密码"); return false; }
 else
-{
-Form1.target='_self';
-Form1.action="/bbs/login_pobaby.asp";
-Form1.submit();
-}
+{ Form1.target='_self'; Form1.action="/bbs/login_pobaby.asp"; Form1.submit(); }
 }
 用户名：
 密
@@ -19199,56 +18718,31 @@ select
 传Facebook设新部门欲..
 10月7日消息
 据外国知名科技博客网站TechCrunch报道，传Facebook准备推出一个网络音乐..
-[
-hjd
-cs战队
-]
+[ hjd cs战队 ]
 我们在学校
 里也参加晚会的演出,有人说
 我们歌唱的比打cs要好其
 实我们...
-[
-详细
-]
-[
-西国の海妖
-]
+[ 详细 ]
+[ 西国の海妖 ]
 目前在复
 念大四,准备明年去美国读
 研,比较典型的AB型金牛哈
 ，很双重...
-[
-详细
-]
-[
-燕振文
-]
+[ 详细 ]
+[ 燕振文 ]
 西安音乐
 学院的学生，很喜欢音乐，
 也希望能交到很多与我一样
 同样喜欢音...
-[
-详细
-]
+[ 详细 ]
 网络草根歌手
-[
-歌手简介
-]
-[
-歌手简介
-]
-[
-歌手简介
-]
-[
-歌手简介
-]
-[
-歌手简介
-]
-[
-歌手简介
-]
+[ 歌手简介 ]
+[ 歌手简介 ]
+[ 歌手简介 ]
+[ 歌手简介 ]
+[ 歌手简介 ]
+[ 歌手简介 ]
 1
 2
 3
@@ -19493,7 +18987,7 @@ hi
 博客热门日志
 《一人一首成名曲》（港台版）
 几辈子一个眼神网络时代小胖的诞...
-新手录音的详细图解[含软件下载...
+新手录音的详细图解[含软件下载... 
 全国影视明星手机号码一览表
 超级大美女(13p)
 25年老照片---刘德华的爱情...
@@ -19590,11 +19084,7 @@ you
 are
 looking
 for
-(or
-one
-of
-its
-dependencies)
+(or one of its dependencies)
 could
 have
 been
@@ -19857,8 +19347,7 @@ DELL（戴尔）
 [12000-15000]
 [15000-20000]
 [20000-25000]
-[25000以上
-]
+[25000以上 ]
 DELL（戴尔）
 等离子显示器
 屏幕保护
@@ -21077,7 +20566,7 @@ IP查询
 生男生女表
 赚钱商机|耳朵大有福|手机主题|色戒删掉了什么|乌鲁木齐火灾|双面飞轮海|
 3000赚20万大揭密|王石建议不买房|当季特价|集结号票房|免费金山杀毒|火影忍者漫画385话|克隆空间
-[
+[ 
 文
 学
 ]
@@ -21088,7 +20577,7 @@ IP查询
 红袖添香
 逐浪小说网
 更多>>
-[
+[ 
 游
 戏
 ]
@@ -21099,7 +20588,7 @@ IP查询
 美女小游戏
 游戏中国
 更多>>
-[
+[ 
 下
 载
 ]
@@ -21110,7 +20599,7 @@ IP查询
 9553软件站
 迷你酷狗
 更多>>
-[
+[ 
 军
 事
 ]
@@ -21121,7 +20610,7 @@ IP查询
 凤凰网军事
 网易军事
 更多>>
-[
+[ 
 音
 乐
 ]
@@ -21132,7 +20621,7 @@ MP3在线音乐
 在线音乐
 我爱音乐网
 更多>>
-[
+[ 
 电
 影
 ]
@@ -21143,7 +20632,7 @@ MP3在线音乐
 3G电影下载
 土豆电影
 更多>>
-[
+[ 
 Ｉ
 Ｔ
 ]
@@ -21154,7 +20643,7 @@ IT168
 IT世界网
 驱动之家
 更多>>
-[
+[ 
 视
 频
 ]
@@ -21166,7 +20655,7 @@ IT世界网
 视频分享
 Openv视频
 更多>>
-[
+[ 
 新
 闻
 ]
@@ -21178,7 +20667,7 @@ Openv视频
 百度新闻
 网易
 更多>>
-[
+[ 
 社
 区
 ]
@@ -21189,7 +20678,7 @@ Openv视频
 猫扑大杂烩
 中国同学录
 更多>>
-[
+[ 
 财
 经
 ]
@@ -21199,7 +20688,7 @@ Openv视频
 新浪财经
 东方财富网
 更多>>
-[
+[ 
 交
 友
 ]
@@ -21210,7 +20699,7 @@ Openv视频
 绝对100婚恋网
 Myspace交友
 更多>>
-[
+[ 
 图
 铃
 ]
@@ -21221,7 +20710,7 @@ Myspace交友
 100图铃网
 图铃乐园
 更多>>
-[
+[ 
 大
 学
 ]
@@ -21232,7 +20721,7 @@ Myspace交友
 上海交大
 南京大学
 更多>>
-[
+[ 
 基
 金
 ]
@@ -21243,7 +20732,7 @@ Myspace交友
 天天基金网
 网易基金
 更多>>
-[
+[ 
 博
 客
 ]
@@ -21254,7 +20743,7 @@ MSN空间
 51博客
 QQ空间
 更多>>
-[
+[ 
 银
 行
 ]
@@ -21265,7 +20754,7 @@ QQ空间
 中国银行
 交通银行
 更多>>
-[
+[ 
 购
 物
 ]
@@ -21277,7 +20766,7 @@ DHC化妆品
 购物返现
 105数字商城
 更多>>
-[
+[ 
 体
 育
 ]
@@ -21288,7 +20777,7 @@ CCTV体育
 Espn中文网
 NBA中文网
 更多>>
-[
+[ 
 手
 机
 ]
@@ -21299,7 +20788,7 @@ NBA中文网
 新浪手机
 趣软无线
 更多>>
-[
+[ 
 人
 才
 ]
@@ -21310,7 +20799,7 @@ NBA中文网
 中华英才网
 南方人才网
 更多>>
-[
+[ 
 汽
 车
 ]
@@ -21321,7 +20810,7 @@ NBA中文网
 中国汽车网
 网上车市
 更多>>
-[
+[ 
 女
 性
 ]
@@ -21332,7 +20821,7 @@ TOM女性
 网易女性
 QQ女性频道
 更多>>
-[
+[ 
 Flash
 ]
 闪吧
@@ -21343,7 +20832,7 @@ FLASH游戏
 闪客
 小破孩
 更多>>
-[
+[ 
 健
 康
 ]
@@ -21353,7 +20842,7 @@ FLASH游戏
 就医网
 成人性趣网
 更多>>
-[
+[ 
 旅
 游
 ]
@@ -21364,7 +20853,7 @@ FLASH游戏
 中国旅游网
 旅游直通车
 更多>>
-[
+[ 
 酷
 站
 ]
@@ -23088,9 +22577,7 @@ Z
 新春特价
 海航送您回家
 国内特价打折机票
-价格更新时间20时28分（蓝色
-6折以上，红色
-6折以下）
+价格更新时间20时28分（蓝色 6折以上，红色 6折以下）
 热点航线
 14日
 15日
@@ -24839,9 +24326,7 @@ Z
 新春特价
 海航送您回家
 国内特价打折机票
-价格更新时间20时26分（蓝色
-6折以上，红色
-6折以下）
+价格更新时间20时26分（蓝色 6折以上，红色 6折以下）
 热点航线
 14日
 15日
@@ -26069,14 +25554,11 @@ E-Banking
 投诉与建议
 /*
 //设置marquee的宽度
-(in
-pixels)
+(in pixels)
 var
 marqueewidth=1024
 //设置marquee的高度
-(in
-pixels,
-该参数只适用于NS)
+(in pixels, 该参数只适用于NS)
 var
 marqueeheight=20
 //设置marquee滚动的速度(数值大速度快)
@@ -26092,20 +25574,11 @@ document.write('
 '+marqueecontents+'
 ')
 function
-regenerate(){
-window.location.reload()
-}
+regenerate(){ window.location.reload() }
 function
-regenerate2(){
-if
-(document.layers){
-setTimeout("window.onresize=regenerate",450)
-intializemarquee()
-}
-}
+regenerate2(){ if (document.layers){ setTimeout("window.onresize=regenerate",450) intializemarquee() } }
 function
-intializemarquee(){
-document.cmarquee01.document.cmarquee02.document.write('
+intializemarquee(){ document.cmarquee01.document.cmarquee02.document.write('
 '+marqueecontents+'
 ')
 document.cmarquee01.document.cmarquee02.document.close()
@@ -26113,16 +25586,8 @@ thelength=document.cmarquee01.document.cmarquee02.document.width
 scrollit()
 }
 function
-scrollit(){
-if
-(document.cmarquee01.document.cmarquee02.left>=thelength*(-1)){
-document.cmarquee01.document.cmarquee02.left-=speed
-setTimeout("scrollit()",100)
-}
-else{
-document.cmarquee01.document.cmarquee02.left=marqueewidth
-scrollit()
-}
+scrollit(){ if (document.cmarquee01.document.cmarquee02.left>=thelength*(-1)){ document.cmarquee01.document.cmarquee02.left-=speed setTimeout("scrollit()",100) }
+else{ document.cmarquee01.document.cmarquee02.left=marqueewidth scrollit() }
 }
 window.onload=regenerate2
 */
@@ -26306,8 +25771,7 @@ Hello
 18禁不禁
 1.19
 韩国
-我的女孩(my
-girl)
+我的女孩(my girl)
 1.21
 我的名字叫金三顺
 1.21
@@ -28382,8 +27846,7 @@ soft各表看法
 EQII是一个全新的与以往截然不同的游戏世界。玩家进入这个世界，可以从16个种族24种职业中选择其自己的角色
 《幻想春秋Online》突破了传统网游单纯练级杀怪的桎梏，将重点放到了生活技能和玩家之间的交流上。
 《圣战》若星汉天空下的第一对新人
-[雪域
-佣兵传说2]法师练级之第1篇
+[雪域 佣兵传说2]法师练级之第1篇
 《天之炼狱》吸血鬼的节日精彩不断
 ·《彩虹骑士》盗贼拉斯职业分析
 ·策划教你如何玩QQ华夏
@@ -28700,7 +28163,7 @@ MIX订座
 1月24日VITAS亚洲巡演2008北京演唱会，首都
 12月31日“焱”新年PARTY，千人跨年电子盛舞
 唐会迷城停业装修与广告语征集通知
-1月26日电音中国邀您与Sasha亲密接触（上海
+1月26日电音中国邀您与Sasha亲密接触（上海 
 随着春节临近，1月19日网站会员再次组织聚会
 更多
 电子代金券/折扣地带
@@ -29582,8 +29045,7 @@ Copyright&copy;2003-2008
 传奇世界私服
 本站免费提供:最新传奇世界私服相关咨讯以及传世私服信息
 传奇世界私服套黄发布联系QQ:100617176
-[传奇世界私服首页]::[传世私
-服文章]::[传世私服图片]::[广告联系QQ]
+[传奇世界私服首页]::[传世私 服文章]::[传世私服图片]::[广告联系QQ]
 999yo传奇世界私服网,提供传奇世界私服相关咨讯以及技术文章,只为传奇世界私服玩家服务.
 服务器名字
 客服QQ
@@ -30308,8 +29770,7 @@ JaY周杰伦
 娱乐八卦
 朱莉娅罗伯茨女儿生病
 火速冲向医院就诊
-2008年2月1日，美国马利布，朱莉娅-罗伯茨(Julia
-Roberts)带女儿火速前往急救中心，45分钟后，朱莉娅抱着女儿缓缓从医院出来，但是她满面愁容，十分焦虑。
+2008年2月1日，美国马利布，朱莉娅-罗伯茨(Julia Roberts)带女儿火速前往急救中心，45分钟后，朱莉娅抱着女儿缓缓从医院出来，但是她满面愁容，十分焦虑。
 41岁女星川上麻衣子与年轻12岁男星过夜遭曝光
 好莱坞施压
 电视台弃播希斯-莱杰嗑药画面
@@ -30451,61 +29912,13 @@ reserved.瑞波洋信国际文化传媒有限公司
 京ICP证070779号
 function
 count99()
-{
-var
-expireDate
-=
-new
-Date();
-var
-hours
-=
-expireDate.getHours();
-var
-minutes
-=
-expireDate.getMinutes();
-var
-seconds
-=
-expireDate.getSeconds();
-var
-lefttime
-=
-1000
-*
-(
-86400
--
-hours*3600
--
-minutes*60
--
-seconds);
-expireDate.setTime
-(expireDate.getTime()
-+
-lefttime);
-document.cookie
-=
-"count99=yes"
-+
-";
-expires="
-+
-expireDate.toGMTString()
-+
-";";
-}
+{ var expireDate = new Date(); var hours = expireDate.getHours(); var minutes = expireDate.getMinutes(); var seconds = expireDate.getSeconds(); var lefttime = 1000 * ( 86400 - hours*3600 - minutes*60 - seconds); expireDate.setTime (expireDate.getTime() + lefttime); document.cookie = "count99=yes" + "; expires=" + expireDate.toGMTString() + ";"; }
 offset
 =
 document.cookie.indexOf("count99");
 if
-(offset
-==
--1)
-{
-document.write("
+(offset == -1)
+{ document.write("
 ");
 //document.write("");
 }
@@ -30666,16 +30079,7 @@ IEA下调全球需求...
 中国经济流动性报道
 人民币升值专题
 盘中直击
-<colgroup><col
-width="15px"
-align="center"
-/><col
-width="340px"
-align="left"
-/><col
-width="84px"
-align="left"
-/></colgroup>
+<colgroup><col width="15px" align="center" /><col width="340px" align="left" /><col width="84px" align="left" /></colgroup>
 尾盘翘扬
 玉米收红十字星...
 02-13
@@ -30709,16 +30113,7 @@ align="left"
 受外盘震荡影响
 农产品期货市场或平静中爆发
 春节长假期间，国际农产品市场走势震荡，芝加哥期货交易所（CBOT）大豆期货在创出1374.5美分/蒲式耳的历史最高价之后，获利了结回落。1月份国内农产品市场交易活跃，预计节后国内农产品市场仍将成为...
-<colgroup><col
-width="15px"
-align="center"
-/><col
-width="320px"
-align="left"
-/><col
-width="90px"
-align="center"
-/></colgroup>
+<colgroup><col width="15px" align="center" /><col width="320px" align="left" /><col width="90px" align="center" /></colgroup>
 春节期间境外农产品表现各有千秋
 02-13
 08:00
@@ -30740,19 +30135,8 @@ align="center"
 访万达工业品与金融衍生品研究中心总监
 蔡东澄
 期市动态
-<?xml
-version="1.0"
-encoding="utf-16"?>
-<colgroup><col
-width="15px"
-align="center"
-/><col
-width="340px"
-align="left"
-/><col
-width="84px"
-align="left"
-/></colgroup>
+<?xml version="1.0" encoding="utf-16"?>
+<colgroup><col width="15px" align="center" /><col width="340px" align="left" /><col width="84px" align="left" /></colgroup>
 NYMEX宣布总统日假期交易和业务处理时间表...
 02-13
 09:03
@@ -30771,19 +30155,8 @@ NYMEX宣布总统日假期交易和业务处理时间表...
 02-13
 08:44
 经济指标
-<?xml
-version="1.0"
-encoding="utf-16"?>
-<colgroup><col
-width="15px"
-align="center"
-/><col
-width="340px"
-align="left"
-/><col
-width="84px"
-align="left"
-/></colgroup>
+<?xml version="1.0" encoding="utf-16"?>
+<colgroup><col width="15px" align="center" /><col width="340px" align="left" /><col width="84px" align="left" /></colgroup>
 经济学家：美国劳动力市场依然稳健...
 02-13
 13:29
@@ -30800,19 +30173,8 @@ align="left"
 02-13
 12:39
 财经要闻
-<?xml
-version="1.0"
-encoding="utf-16"?>
-<colgroup><col
-width="15px"
-align="center"
-/><col
-width="340px"
-align="left"
-/><col
-width="84px"
-align="left"
-/></colgroup>
+<?xml version="1.0" encoding="utf-16"?>
+<colgroup><col width="15px" align="center" /><col width="340px" align="left" /><col width="84px" align="left" /></colgroup>
 提供1.8亿美元融资前贷款...
 02-13
 09:59
@@ -30846,19 +30208,8 @@ align="left"
 12月工行杯股指期货仿真交
 11月“中信证券－中信银行
 金属
-<?xml
-version="1.0"
-encoding="utf-16"?>
-<colgroup><col
-width="15px"
-align="center"
-/><col
-width="205px"
-align="left"
-/><col
-width="84px"
-align="left"
-/></colgroup>
+<?xml version="1.0" encoding="utf-16"?>
+<colgroup><col width="15px" align="center" /><col width="205px" align="left" /><col width="84px" align="left" /></colgroup>
 上海坤泰稀有金属2月13日白银现货市场报价...
 02-13
 14:07
@@ -30875,19 +30226,8 @@ align="left"
 02-13
 13:57
 农产品
-<?xml
-version="1.0"
-encoding="utf-16"?>
-<colgroup><col
-width="15px"
-align="center"
-/><col
-width="205px"
-align="left"
-/><col
-width="84px"
-align="left"
-/></colgroup>
+<?xml version="1.0" encoding="utf-16"?>
+<colgroup><col width="15px" align="center" /><col width="205px" align="left" /><col width="84px" align="left" /></colgroup>
 尾盘翘扬
 玉米收红十字星...
 02-13
@@ -30907,19 +30247,8 @@ align="left"
 02-13
 13:53
 能源化工
-<?xml
-version="1.0"
-encoding="utf-16"?>
-<colgroup><col
-width="15px"
-align="center"
-/><col
-width="205px"
-align="left"
-/><col
-width="84px"
-align="left"
-/></colgroup>
+<?xml version="1.0" encoding="utf-16"?>
+<colgroup><col width="15px" align="center" /><col width="205px" align="left" /><col width="84px" align="left" /></colgroup>
 2月13日中石油西南公司上调顺丁胶报价...
 02-13
 14:07
@@ -30936,19 +30265,8 @@ align="left"
 02-13
 14:05
 金融衍生品
-<?xml
-version="1.0"
-encoding="utf-16"?>
-<colgroup><col
-width="15px"
-align="center"
-/><col
-width="205px"
-align="left"
-/><col
-width="84px"
-align="left"
-/></colgroup>
+<?xml version="1.0" encoding="utf-16"?>
+<colgroup><col width="15px" align="center" /><col width="205px" align="left" /><col width="84px" align="left" /></colgroup>
 中信证券等18家券商获第二批甲类结算参与人资格...
 02-13
 13:10
@@ -30985,19 +30303,8 @@ PTA
 近一周
 近一月
 铜
-<?xml
-version="1.0"
-encoding="utf-16"?>
-<colgroup><col
-width="20px"
-align="center"
-/><col
-width="130px"
-align="left"
-/><col
-width="40px"
-align="left"
-/></colgroup>
+<?xml version="1.0" encoding="utf-16"?>
+<colgroup><col width="20px" align="center" /><col width="130px" align="left" /><col width="40px" align="left" /></colgroup>
 CRU称今年铜市料出现供应缺口，中国铜需求猛增...
 09:28
 假日期间铜价大幅走高...
@@ -31009,19 +30316,8 @@ CRU称今年铜市料出现供应缺口，中国铜需求猛增...
 国际投资者密切关注中国铜市开盘表现...
 08:46
 铝
-<?xml
-version="1.0"
-encoding="utf-16"?>
-<colgroup><col
-width="20px"
-align="center"
-/><col
-width="130px"
-align="left"
-/><col
-width="40px"
-align="left"
-/></colgroup>
+<?xml version="1.0" encoding="utf-16"?>
+<colgroup><col width="20px" align="center" /><col width="130px" align="left" /><col width="40px" align="left" /></colgroup>
 预计国际铝价格还会振荡整理...
 09:19
 氧化铝电解铝短期价格或逆向而动...
@@ -31033,19 +30329,8 @@ AMT2月5日评LME基金属...
 沪铜稳步走高，沪铝继续整固...
 16:15
 锌
-<?xml
-version="1.0"
-encoding="utf-16"?>
-<colgroup><col
-width="20px"
-align="center"
-/><col
-width="130px"
-align="left"
-/><col
-width="40px"
-align="left"
-/></colgroup>
+<?xml version="1.0" encoding="utf-16"?>
+<colgroup><col width="20px" align="center" /><col width="130px" align="left" /><col width="40px" align="left" /></colgroup>
 上海期锌2月13日早盘高开低走...
 11:48
 预计锌价将会受到买盘的支撑而稳定甚至走高...
@@ -31057,19 +30342,8 @@ LME基金属2月12日收盘报价...
 LME基金属2月12日非官方报价...
 07:50
 大豆
-<?xml
-version="1.0"
-encoding="utf-16"?>
-<colgroup><col
-width="20px"
-align="center"
-/><col
-width="130px"
-align="left"
-/><col
-width="40px"
-align="left"
-/></colgroup>
+<?xml version="1.0" encoding="utf-16"?>
+<colgroup><col width="20px" align="center" /><col width="130px" align="left" /><col width="40px" align="left" /></colgroup>
 豆类商品涨跌互现，连豆油一支独秀...
 14:00
 豆类仍将以震荡整理为主
@@ -31082,19 +30356,8 @@ align="left"
 CBOT大豆小幅下跌，连豆短线参与...
 09:15
 玉米
-<?xml
-version="1.0"
-encoding="utf-16"?>
-<colgroup><col
-width="20px"
-align="center"
-/><col
-width="130px"
-align="left"
-/><col
-width="40px"
-align="left"
-/></colgroup>
+<?xml version="1.0" encoding="utf-16"?>
+<colgroup><col width="20px" align="center" /><col width="130px" align="left" /><col width="40px" align="left" /></colgroup>
 尾盘翘扬
 玉米收红十字星...
 14:07
@@ -31109,19 +30372,8 @@ CBOT玉米下挫
 玉米早间评论2.13...
 09:19
 小麦
-<?xml
-version="1.0"
-encoding="utf-16"?>
-<colgroup><col
-width="20px"
-align="center"
-/><col
-width="130px"
-align="left"
-/><col
-width="40px"
-align="left"
-/></colgroup>
+<?xml version="1.0" encoding="utf-16"?>
+<colgroup><col width="20px" align="center" /><col width="130px" align="left" /><col width="40px" align="left" /></colgroup>
 政策激励
 郑麦主力合约涨停...
 13:55
@@ -31136,19 +30388,8 @@ align="left"
 多哈回合曙光初现...
 10:24
 棉花
-<?xml
-version="1.0"
-encoding="utf-16"?>
-<colgroup><col
-width="20px"
-align="center"
-/><col
-width="130px"
-align="left"
-/><col
-width="40px"
-align="left"
-/></colgroup>
+<?xml version="1.0" encoding="utf-16"?>
+<colgroup><col width="20px" align="center" /><col width="130px" align="left" /><col width="40px" align="left" /></colgroup>
 世界需求及美国产量规模将支撑棉花价格...
 11:19
 克力乌兰德：中国棉花消费量近10年首次出现下调...
@@ -31161,19 +30402,8 @@ ICE棉花期货5日收盘下跌...
 郑棉小幅上涨，受偏多交易氛围影响...
 16:35
 豆粕
-<?xml
-version="1.0"
-encoding="utf-16"?>
-<colgroup><col
-width="20px"
-align="center"
-/><col
-width="130px"
-align="left"
-/><col
-width="40px"
-align="left"
-/></colgroup>
+<?xml version="1.0" encoding="utf-16"?>
+<colgroup><col width="20px" align="center" /><col width="130px" align="left" /><col width="40px" align="left" /></colgroup>
 雪灾冲击养殖业
 蛋白粕需求受抑...
 08:50
@@ -31187,19 +30417,8 @@ CBOT豆粕周报(1月28日-2月1日)...
 大连豆粕小幅回...
 14:17
 油脂
-<?xml
-version="1.0"
-encoding="utf-16"?>
-<colgroup><col
-width="20px"
-align="center"
-/><col
-width="130px"
-align="left"
-/><col
-width="40px"
-align="left"
-/></colgroup>
+<?xml version="1.0" encoding="utf-16"?>
+<colgroup><col width="20px" align="center" /><col width="130px" align="left" /><col width="40px" align="left" /></colgroup>
 2月12日印度尼西亚棕榈油现货市场综述...
 10:45
 BMD毛棕榈油期货午盘上涨，交投清淡...
@@ -31213,19 +30432,8 @@ BMD毛棕榈油期货午盘上涨，交投清淡...
 棕榈油宽幅震荡...
 13:24
 白糖
-<?xml
-version="1.0"
-encoding="utf-16"?>
-<colgroup><col
-width="20px"
-align="center"
-/><col
-width="130px"
-align="left"
-/><col
-width="40px"
-align="left"
-/></colgroup>
+<?xml version="1.0" encoding="utf-16"?>
+<colgroup><col width="20px" align="center" /><col width="130px" align="left" /><col width="40px" align="left" /></colgroup>
 郑糖开门红
 中幅上扬...
 13:54
@@ -31240,19 +30448,8 @@ align="left"
 继续维持基准多单仓位...
 09:13
 燃料油
-<?xml
-version="1.0"
-encoding="utf-16"?>
-<colgroup><col
-width="20px"
-align="center"
-/><col
-width="130px"
-align="left"
-/><col
-width="40px"
-align="left"
-/></colgroup>
+<?xml version="1.0" encoding="utf-16"?>
+<colgroup><col width="20px" align="center" /><col width="130px" align="left" /><col width="40px" align="left" /></colgroup>
 上涨动能匮乏
 沪燃料油高开整理...
 13:51
@@ -31266,19 +30463,8 @@ EIA：今年OPEC日产量预估自3,258万桶下调至3,242万桶...
 EIA预计美国春季前汽油库存将达15年高点...
 08:54
 天然橡胶
-<?xml
-version="1.0"
-encoding="utf-16"?>
-<colgroup><col
-width="20px"
-align="center"
-/><col
-width="130px"
-align="left"
-/><col
-width="40px"
-align="left"
-/></colgroup>
+<?xml version="1.0" encoding="utf-16"?>
+<colgroup><col width="20px" align="center" /><col width="130px" align="left" /><col width="40px" align="left" /></colgroup>
 日胶回调
 限制沪胶补涨空间...
 13:52
@@ -31293,19 +30479,8 @@ TOCOM橡胶期货午盘小幅下跌，盘中交投清淡...
 沪胶高位盘整...
 16:37
 PTA
-<?xml
-version="1.0"
-encoding="utf-16"?>
-<colgroup><col
-width="20px"
-align="center"
-/><col
-width="130px"
-align="left"
-/><col
-width="40px"
-align="left"
-/></colgroup>
+<?xml version="1.0" encoding="utf-16"?>
+<colgroup><col width="20px" align="center" /><col width="130px" align="left" /><col width="40px" align="left" /></colgroup>
 多空分歧加剧
 PTA期货涨跌不一...
 13:52
@@ -31320,19 +30495,8 @@ PTA减仓筑底...
 PTA继续筑底...
 10:44
 塑料
-<?xml
-version="1.0"
-encoding="utf-16"?>
-<colgroup><col
-width="20px"
-align="center"
-/><col
-width="130px"
-align="left"
-/><col
-width="40px"
-align="left"
-/></colgroup>
+<?xml version="1.0" encoding="utf-16"?>
+<colgroup><col width="20px" align="center" /><col width="130px" align="left" /><col width="40px" align="left" /></colgroup>
 LLDPE市场继续走高，缺乏支撑不宜追涨...
 17:29
 LLDPE市场横盘整理，节前走势维持平淡...
@@ -31345,19 +30509,8 @@ LLDPE市场横盘整理，节前走势维持平淡...
 LLDPE现货市场成交清淡，期市继续盘整...
 17:25
 金融衍生品
-<?xml
-version="1.0"
-encoding="utf-16"?>
-<colgroup><col
-width="20px"
-align="center"
-/><col
-width="130px"
-align="left"
-/><col
-width="40px"
-align="left"
-/></colgroup>
+<?xml version="1.0" encoding="utf-16"?>
+<colgroup><col width="20px" align="center" /><col width="130px" align="left" /><col width="40px" align="left" /></colgroup>
 中信建投：股指早间评论2.13...
 09:19
 格林期货：股指期货日报2.5...
@@ -31730,9 +30883,7 @@ moved
 99网上书城
 隐私政策
 99网上书城向所有会员承诺:我们将保护您的隐私权并保证您所提供的个人资料的保密性。除非您本人同意或者相应的法律及程序需要，我们不会向第三者透露您的任何个人信息和购买记录。我们所收集的个人资料仅用于为您提供服务及满足您的订单要求。
-[
-关闭窗口
-]
+[ 关闭窗口 ]
 302
 File
 moved
@@ -31854,8 +31005,7 @@ moved
 点击查看全文
 ·难忘的激动与温暖
 作为一个喜欢阅读的人来说,买书是一种享受.可一些书的价格对于一个还没有经济来源的学生来说,确实是不小的负担.所以，每次进去书店,总是很多感慨.感慨书的昂贵,读不起.感慨自己为什么不是富翁!这样就可以想买什么书就买什么书了!
-第一次在网上买东西,是在卓越.可里面的书也不是很便宜的.偶然的一个机会,一个同样是喜欢阅读的网友把99的站点地址发给了我.抱着很不在意的心理点击进去.先是随便看了一下,发现自己想买的书并没有.(记得当时是很想买余杰的香草山,找遍了自己所在的城市所有书店,都找不到.)不过,最后还是习惯性的注册了一个通行证.(说习惯了,那是因为,每次进入一个新的网站...
-...
+第一次在网上买东西,是在卓越.可里面的书也不是很便宜的.偶然的一个机会,一个同样是喜欢阅读的网友把99的站点地址发给了我.抱着很不在意的心理点击进去.先是随便看了一下,发现自己想买的书并没有.(记得当时是很想买余杰的香草山,找遍了自己所在的城市所有书店,都找不到.)不过,最后还是习惯性的注册了一个通行证.(说习惯了,那是因为,每次进入一个新的网站... ...  
 点击查看全文
 ·解读B2C网络书店的web2.0趋势
 来源：电子商务世界
@@ -32919,8 +32069,7 @@ Z
 台《洛汗》新开服务器掉宝与合成机率高
 [13]
 享受击杀乐趣
-韩国网游《BLACK
-SHOT》
+韩国网游《BLACK SHOT》
 今日要闻
 激情共享“完美盛典”，精彩大礼全解密
 《诛仙》新春大拜年，热辣祝福大集锦！
@@ -33611,11 +32760,11 @@ TALK
 ·
 那一夜(谢军)
 ·
-鸟笼山剿匪记(大杀器传...
+鸟笼山剿匪记(大杀器传...  
 ·
-手机预告片(本站联合出...
+手机预告片(本站联合出...  
 ·
-亲爱的妈妈(本站推荐原...
+亲爱的妈妈(本站推荐原...  
 ·
 感人MV美女与野兽现代...
 ·
@@ -33623,13 +32772,13 @@ TALK
 ·
 画匠
 ·
-献给天下父亲的MTV（超...
+献给天下父亲的MTV（超...  
 ·
 英雄救美
 ·
 夜郑州
 ·
-天亮了(感人MV，本站推...
+天亮了(感人MV，本站推...  
 ·
 我不想说我是鸡
 ·
@@ -33645,8 +32794,7 @@ TALK
 01/23
 ·
 [相声]
-满汉全席(郭德纲&于谦...
-01/22
+满汉全席(郭德纲&于谦... 01/22 
 ·
 [爆笑视频]
 憨豆先生憨豆先恶搞门...
@@ -33693,12 +32841,10 @@ TALK
 08/25
 ·
 [小品]
-过年(郭达&蔡明&郭冬临...
-08/20
+过年(郭达&蔡明&郭冬临... 08/20 
 ·
 [小品]
-大变活人(陈佩斯&朱时...
-08/15
+大变活人(陈佩斯&朱时... 08/15 
 ·
 [劲舞]
 The
@@ -33721,12 +32867,10 @@ Eyes
 01/30
 ·
 [韩国MV]
-哭泣的星(全智贤倾情演绎...
-01/29
+哭泣的星(全智贤倾情演绎... 01/29 
 ·
 [韩国MV]
-这个傻瓜(Wonder
-Girls)...
+这个傻瓜(Wonder Girls)...
 01/25
 ·
 [劲舞]
@@ -34640,9 +33784,7 @@ Absolut
 卷三
 红色森林
 第一百一十七章
-官方宣传（..
-林海听涛
-02-13
+官方宣传（.. 林海听涛 02-13 
 [历史]
 《大唐万户侯》
 【大唐万户侯】
@@ -34661,9 +33803,7 @@ Absolut
 《调教初唐》
 【调教初唐】
 第383章
-想和亲失败，给个理由先（召唤月..
-晴了
-02-13
+想和亲失败，给个理由先（召唤月.. 晴了 02-13 
 [玄幻]
 《我的异界特种部队》
 【我的异界特种部队】
@@ -35828,7 +34968,7 @@ v铁钩船长
 更多
 v拳皇2003
 v拳皇97隐藏人物版
-vLF2小斗士游戏(小
+vLF2小斗士游戏(小 
 v街头霸王
 vkof97风云再起
 v拳王10周年
@@ -36094,12 +35234,9 @@ www.9hai.com
 下载
 黄石阳光【神仙∷团队】最新创意(罗琪)
 下载
-云南文山广南维多利亚Two流行慢摇CD(dj
-kukie)
+云南文山广南维多利亚Two流行慢摇CD(dj kukie)
 下载
-性感女皇(dj_R
-xiao
-yi)
+性感女皇(dj_R xiao yi)
 下载
 连云港乱世佳人(Dj小猪_Bobo)
 下载
@@ -36153,28 +35290,18 @@ yi)
 天蝎座-胡静-Dj王志
 下载
 情歌
-2007(Dj阿明Club.Mix
-Extended
-Mix)
+2007(Dj阿明Club.Mix Extended Mix)
 下载
 情场大后备_Pun
 Remix
 Feat
 下载
-情场大后备(Pun
-Remix
-Feat)
+情场大后备(Pun Remix Feat)
 下载
-千嬅_新唱金牌金曲(情歌)[
-樂混Kk
-Two
-ReMiX]
+千嬅_新唱金牌金曲(情歌)[ 樂混Kk Two ReMiX]
 下载
 女生宿舍_望星打卦
-(Rc
-Vs
-Hiling
-Remix2007)
+(Rc Vs Hiling Remix2007)
 下载
 牛牛
 -
@@ -36182,31 +35309,18 @@ Remix2007)
 下载
 男人不該讓女人流淚(合唱版)
 2007
-[Wave
-X
-Anjoe
-RmX]
+[Wave X Anjoe RmX]
 下载
 没有我你怎么办
-[
-Dj
-Viva
-Mix]
+[ Dj Viva Mix]
 下载
 羅百吉_Pieces
 Of
-Heaven天堂一角(台湾DJ希
-2007
-Rmx)
+Heaven天堂一角(台湾DJ希 2007 Rmx)
 下载
-盧巧音_天佑我們(ArG
-2K7
-Mix)
+盧巧音_天佑我們(ArG 2K7 Mix)
 下载
-龙龙_老鼠爱上猫(Dj
-Andy
-Extended
-Mix)
+龙龙_老鼠爱上猫(Dj Andy Extended Mix)
 下载
 睫毛弯弯
 DJ飞扬
@@ -36214,8 +35328,7 @@ DJ飞扬
 哦哦哦
 DJ小宇
 下载
-不怕不怕(Dj
-笑笑)
+不怕不怕(Dj 笑笑)
 下载
 爱我就别伤害我HOUSE
 下载
@@ -36339,8 +35452,7 @@ beyonce-get_me_bodied
 Benny
 Benassi-Last
 Christmas
-(X-Tended
-Mix)
+(X-Tended Mix)
 下载
 believe_somebody
 下载
@@ -36374,10 +35486,7 @@ bomba
 DJ
 Jacky
 Xu
-(Electro
-Extended
-Mix
-2007)
+(Electro Extended Mix 2007)
 下载
 韩国跳舞感觉RAP
 DANCE
@@ -36412,14 +35521,12 @@ Those
 were
 the
 Days
-(radio
-mix)
+(radio mix)
 下载
 Stay
 by
 My
-Side(Oh
-ReMx)
+Side(Oh ReMx)
 下载
 外文女声
 Club
@@ -36453,9 +35560,7 @@ Frog
 -
 Hungry
 Animal
-(DJ
-Dean
-Remix)
+(DJ Dean Remix)
 下载
 D-shark_-_charge_2k7_(d-tune_vs_sunics_mix)
 下载
@@ -36610,15 +35715,10 @@ DJ啊荣DJ琼琼_联手打造中英文Disco大碟
 博罗恒音工作室(DJ夲哥)_迷幻全英文嗨串(赠琪琪)
 推荐中文舞曲
 下载
-李慧珍_爱死了昨天(DJ
-Dong
-Zi
-ReMix)
+李慧珍_爱死了昨天(DJ Dong Zi ReMix)
 下载
 郭美美_爱情女神
-(Goddess
-Club
-Remix)
+(Goddess Club Remix)
 下载
 布丁_每一天
 Everyday(Dj羅百吉Remix)
@@ -36630,25 +35730,15 @@ Everyday(Dj羅百吉Remix)
 下载
 爱不出卖-胡静-Dj王志
 下载
-听着情歌流眼泪(DjSmile
-2007合成)
+听着情歌流眼泪(DjSmile 2007合成)
 下载
-不要用我的爱来伤害我(DJ
-YONG
-Remix)
+不要用我的爱来伤害我(DJ YONG Remix)
 下载
-忧伤的季节(DJ小黑
-商业
-Remix)
+忧伤的季节(DJ小黑 商业 Remix)
 下载
-咖啡走糖(Cheo
-Jou
-2007
-Remix)
+咖啡走糖(Cheo Jou 2007 Remix)
 下载
-代替(Djsound-up
-Explode
-Remix)
+代替(Djsound-up Explode Remix)
 下载
 泉水CLUB(DJ王志Rmx)
 下载
@@ -36667,11 +35757,7 @@ Time-DjSe7en_Z(周曦)
 下载
 我们的歌RnB-DJ龚毅
 下载
-潘佳丽_被爱的女人(JC
-vs
-EXR
-12
-Remix)
+潘佳丽_被爱的女人(JC vs EXR 12 Remix)
 下载
 你是我心内的一首歌
 创新TOP-DJ小华
@@ -36683,9 +35769,7 @@ Remix)
 下载
 峻石_有缘相遇(DJ倾城REMIX)
 下载
-刺心RNB(南通DJ
-Sialy磊
-Remix)
+刺心RNB(南通DJ Sialy磊 Remix)
 下载
 爱情女神RNB(DJ卢杰remix)
 下载
@@ -36708,8 +35792,7 @@ crazy_town_-_butterfly
 VIP
 -
 Sms
-(Vocal
-Piotrek)
+(Vocal Piotrek)
 下载
 Six
 little
@@ -36729,45 +35812,33 @@ Bass-T
 Tell
 Me
 When
-(Rob
-Mayth
-Vs
-Pimp
-Code
-Remix)
+(Rob Mayth Vs Pimp Code Remix)
 下载
 Marcin
 Toples
 Siegienczuk
 Dobry
 Dj
-(tom
-Ace
-Rmx)
+(tom Ace Rmx)
 下载
 Haiducii
 Mne
 S
 Toboy
 Horosho
-[gabry
-Ponte
-Remix]
+[gabry Ponte Remix]
 下载
 Groove_Coverage_Runaway_m7_Rmx
 下载
 Floorfilla
 -
 CyberDream
-(Sound
-Up!
-Remix)
+(Sound Up! Remix)
 下载
 Doctor69
 La
 Bottiglia
-(sandman
-Remix)
+(sandman Remix)
 下载
 推荐舞曲458
 下载
@@ -36780,8 +35851,7 @@ Olvidarte
 下载
 la
 bomba
-(extended
-mix)Pub-DJ_小飞
+(extended mix)Pub-DJ_小飞
 下载
 Ely-T
 Feat.
@@ -36793,8 +35863,7 @@ Cascada
 -
 One
 More
-Night(Willz
-Mix)
+Night(Willz Mix)
 推荐其它舞曲
 下载
 圣诞
@@ -36809,9 +35878,7 @@ Italia
 开场版
 -
 意大利女声
-[Dj
-Rickylee
-Edit]
+[Dj Rickylee Edit]
 下载
 杰克逊气氛说唱
 下载
@@ -37320,8 +36387,7 @@ TOM汽车
 作者名
 作品名
 最新公告:
-大奖赛赛事随时报[2007-9-1
-1:20:57]
+大奖赛赛事随时报[2007-9-1 1:20:57]
 [短篇]第一次爱的人
 作者：papawithyou
 目前得246票
@@ -37704,8 +36770,7 @@ border="0"
 作者名
 作品名
 最新公告:
-大奖赛赛事随时报[2007-9-1
-1:20:57]
+大奖赛赛事随时报[2007-9-1 1:20:57]
 [短篇]第一次爱的人
 作者：papawithyou
 目前得246票
@@ -38116,8 +37181,7 @@ QQ表情下载
 日历
 精选图铃
 免费点歌
-<menu
-class="w">
+<menu class="w">
 九酷首页
 华人男歌
 华人女歌
@@ -38368,13 +37432,11 @@ Preface
 我们不孤单
 (张继聪)
 Boys
-(VS
-何洁)
+(VS 何洁)
 不是我的我不要
 (刘德华)
 爱你是否有罪
-(汀潞
-)
+(汀潞 )
 为你战斗
 (王栎鑫)
 落跑新娘
@@ -38489,8 +37551,7 @@ D厅舞曲唉呦呦
 你是我心内的一首歌
 我在你眼里到底算什么
 爱你是否有罪
-(汀潞
-)
+(汀潞 )
 恭喜发财
 (刘德华)
 上帝是个女孩
@@ -38586,8 +37647,7 @@ Goodb
 (王蓉)
 英文劲爆DJ舞曲08
 Boys
-(VS
-何洁)
+(VS 何洁)
 樱花草
 (Sweety)
 过火
@@ -39112,8 +38172,7 @@ DJ不怕不怕
 【】〖〗＠﹕﹗/
 "
 _
-<
->
+< >
 `,·。≈{}~
 ～()
 _
@@ -39168,8 +38227,7 @@ $
 ⺷_⺷
 ^︵^﹕﹗/\
 "
-<
->
+< >
 `,·。{}~～()
 -√
 $
@@ -40660,8 +39718,7 @@ target="_blank">
 "
 >大陆群星-<鼠来宝>
 兰色花园乐队-生日快乐
-·蔡孟臻（Mon
-Mon）-He's
+·蔡孟臻（Mon Mon）-He's
 form
 AFRICA(60秒)
 ·深度接触乐队-叶子上的天堂
@@ -41117,32 +40174,23 @@ N70
 ￥2350
 最新产品
 ·柯达
-激光胶片(EIR-
-￥2415
+激光胶片(EIR- ￥2415
 ·柯达
-激光胶片(EIR-
-￥3162
+激光胶片(EIR- ￥3162
 ·柯达
-激光胶片(EHN-
-￥2415
+激光胶片(EHN- ￥2415
 ·柯达
-激光胶片(EIR-
-￥2415
+激光胶片(EIR- ￥2415
 ·柯达
-激光胶片(HQB9
-￥3162
+激光胶片(HQB9 ￥3162
 ·柯达
-激光胶片(DVB激
-￥5625
+激光胶片(DVB激 ￥5625
 ·柯达
-激光胶片(11×
-￥4375
+激光胶片(11× ￥4375
 ·柯达
-激光胶片(14×
-￥5000
+激光胶片(14× ￥5000
 ·柯达
-激光胶片(EHG-
-￥2850
+激光胶片(EHG- ￥2850
 ·易彩
 EC-400CC
 墨水
@@ -41455,8 +40503,8 @@ KILL防病毒系统
 奥体西缇国际
 快来看呀,有好房出租了
 丹凤街恒基公寓
-三牌楼合租房出租（和会街买
-珠江路雄狮旁出租一个床位（
+三牌楼合租房出租（和会街买  
+珠江路雄狮旁出租一个床位（  
 长虹南路线441号绿岛华庭
 白下区三山街自由生活馆白领
 热门小区排行
@@ -41674,7 +40722,7 @@ sss
 49
 日本街头穿短裙的男
 汽车灯泡
-试驾保时捷新卡宴（
+试驾保时捷新卡宴（ 
 PHILIPS
 飞
 宝马车内做爱说明书
@@ -41693,7 +40741,7 @@ hi
 外地游客来南京车该怎么停？
 [汽车]
 帅哥美女最爱
-将上市的15款时尚小型车(
+将上市的15款时尚小型车(  
 [房产]
 中建五局严惩有关人员4人被撤职2人记大过
 [教育]
@@ -41910,8 +40958,7 @@ laizijian
 youxia8888
 盲点
 张爽
-[热
-点]
+[热 点]
 A8音乐&#8220;原声飞扬&#8221;大赛投票正式启动
 A8音乐大拜年
 原声好歌听不完！
@@ -41933,8 +40980,7 @@ A8音乐大拜年
 xdxd00
 Sunflower
 万夏
-做了不爱[
-冰火红
+做了不爱[ 冰火红 
 我的爱太执
 花楠萍
 没有钱我有
@@ -43953,10 +42999,7 @@ series
 Acer
 P1265
 商务经典
-(
-XGA
-2400流明
-)
+( XGA 2400流明 )
 Acer
 PD528
 角落也看得见(XGA,3500流明)
@@ -44042,8 +43085,7 @@ PD323
 <cite>推荐给好友</cite>索尼影视于YouTube开播节目(图)
 <cite>推荐给好友</cite>PI.G风雨20年展:人气声优齐助阵(图)
 <cite>推荐给好友</cite>[空之境界3]推迟上映,主题曲公开(图)
-<cite>推荐给好友</cite>峰仓腐女大作[BUS
-GAMER]新情报(图)
+<cite>推荐给好友</cite>峰仓腐女大作[BUS GAMER]新情报(图)
 更多...
 动漫新闻
 <cite>推荐给好友
@@ -45652,9 +44694,7 @@ Google
 提供搜索支持
 *
 英文网页
-<?xml
-version="1.0"
-encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 Adobe
 -
 产品
@@ -46026,9 +45066,7 @@ Ad
 Kit
 2*
 OnLocation
-CS3（前
-DV
-Rack）*
+CS3（前 DV Rack）*
 Output
 Designer*
 Output
@@ -46284,9 +45322,7 @@ Ad
 Kit
 2*
 OnLocation
-CS3（前
-DV
-Rack）*
+CS3（前 DV Rack）*
 Output
 Designer*
 Output
@@ -46441,9 +45477,7 @@ Google
 提供搜索支持
 *
 英文网页
-<?xml
-version="1.0"
-encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 Adobe
 -
 Adobe
@@ -47379,8 +46413,7 @@ http://image1.aeeboo.com/otherimage/homeimage/20081251553101559595546.jpg
 《凤凰娱乐周刊》招聘平面模特、主持人
 北广文化传播有限责任公司招编导、摄像
 大型栏目《我的电影》征集DV作品
-电影《木嘎
-我回来了》剧组招角色演员
+电影《木嘎 我回来了》剧组招角色演员
 北京三思行传媒有限责任公司招聘摄像师
 电视剧《黑三角》剧组招聘男女演员
 爱播访谈
@@ -47873,9 +46906,7 @@ SupeSite
 走入国际
 三毛首次说起英语
 天视全景：版权出口的商业模式
-马可波罗回香都(Marco
-Polo
-R
+马可波罗回香都(Marco Polo R
 阿凡提美术形象创作者获赔
 赵洪祝如何重启浙江引擎
 我动漫业陷误区
@@ -48543,8 +47574,7 @@ WTO农业谈判民意调查
 02-11
 国务院应急中心发布10日抢险抗灾最新进展
 02-10
-国务院应急中心10日发布题为《关于进一步加强...
-02-10
+国务院应急中心10日发布题为《关于进一步加强... 02-10 
 农业部农垦局：农垦“走出去”战略取得重大进...
 02-10
 国务院应急中心：确保山区边远地区受灾群众有...
@@ -48600,7 +47630,7 @@ WTO农业谈判民意调查
 更多信息
 农业部办公厅关于做好畜牧业生产灾后恢...
 农业部办公厅关于组织发送防寒抗冻技术...
-农业部办公厅关于贯彻落实《关于修订农...
+农业部办公厅关于贯彻落实《关于修订农...  
 农业部办公厅关于举办全国首届割胶工技...
 农业部办公厅关于做好橡胶树白粉病防控...
 农业部办公厅关于召开春季田间管理现场...
@@ -48608,7 +47638,7 @@ WTO农业谈判民意调查
 农业部办公厅关于协助选拔第二批援非高...
 [政策法规]
 更多信息
-商务部关于贯彻落实《中共中央国务院关...
+商务部关于贯彻落实《中共中央国务院关...  
 商务部、财政部关于家电下乡试点工作有...
 商务部关于组织大型农产品批发市场和流...
 商务部关于进一步加强抗灾减灾及节日期...
@@ -48828,8 +47858,7 @@ CCTV2007年度三农人物推...
 ◆企业健康管理新模式亮相南京《人民日报、江南时报》05-12-13
 ◆“企业健康管理”新模式亮相南京《家庭医生报》05-12-12
 ◆Preventive
-medicine《中国日报社、Shanghai
-Star》05-12-08
+medicine《中国日报社、Shanghai Star》05-12-08
 ◆2006健康生活5大猜想《北京娱乐信报》05-12-07
 ◆南京：家庭医生需求升温《中国医药报》05-12-06
 ◆南京：家庭医生升温石头城（视点）《人民日报海外版》05-12-05
@@ -48843,8 +47872,7 @@ Star》05-12-08
 ◆近千人拥有私人医生
 南京家庭医疗服务业升温《中国江苏网》05-11-28
 ◆热烈祝贺爱可私人医生全国连锁第106(义乌)会所于05年11月27日隆重开业《爱可连锁总部》05-11-27
-◆爱可总裁：投资健康就是投资将来《南京晨报
-新华报业网》05-11-21
+◆爱可总裁：投资健康就是投资将来《南京晨报 新华报业网》05-11-21
 ◆私人医生、心理咨询发展正火《龙虎网、南京晨报》05-11-18
 ◆过劳死逐年增加发人深省《南京晨报、新华报业网》05-11-17
 ◆八成高收入者身体藏“炸弹”,工作压力大、舍命赚钱已成为患病的主要原因《南京晨报》05-11-16
@@ -48956,8 +47984,7 @@ Star》05-12-08
 ◆四成高收入者愿有私人医生《青岛新闻网》03-09-04
 ◆四成高收入者愿有私人医生《文汇报》03-09-04
 ◆内地高薪群望拥有家庭医生
-高级保健服务前景广阔《中青在线
-红网》03-09-04
+高级保健服务前景广阔《中青在线 红网》03-09-04
 ◆高薪人群希望拥有家庭医生《健康报》03-09-04
 ◆四成高收入家庭愿有私人医生《新华网上海站》03-09-02
 ◆“私人医生”前景看好《齐鲁热线》03-09-02
@@ -49495,83 +48522,53 @@ BBS
 07-12-14
 离北京奥运还有
 百名奥运志愿者请注意！！
-[
-08-01-09
-]
+[ 08-01-09 ]
 ------------------------
 招募咨询热线1602008
-[
-07-09-05
-]
+[ 07-09-05 ]
 ------------------------
 奥运会开幕仪式倒计时一周年庆典活动
-[
-07-08-07
-]
+[ 07-08-07 ]
 ------------------------
 精美奥运火炬图下载
-[
-07-07-06
-]
+[ 07-07-06 ]
 ------------------------
 港澳同胞、台湾同胞、华侨华人和外国人赛会志愿者报名途径
-[
-07-06-27
-]
+[ 07-06-27 ]
 ------------------------
 重
 要
 声
 明
-[
-07-05-22
-]
+[ 07-05-22 ]
 ------------------------
 关于2007安徽省青少年大型书市活动现场捐书的倡议书
-[
-07-04-20
-]
+[ 07-04-20 ]
 ------------------------
 “现场报名者资料不全不能成功提交表格”
-[
-07-02-14
-]
+[ 07-02-14 ]
 ------------------------
 合肥市府广场现场招募活动公告
-[
-07-02-09
-]
+[ 07-02-09 ]
 ------------------------
 更多报名渠道www.zgzyz.org.cn
-[
-07-01-23
-]
+[ 07-01-23 ]
 ------------------------
 警
 告
-[
-07-01-22
-]
+[ 07-01-22 ]
 ------------------------
 有关“志愿中国·人文奥运”主题活动征稿通知
-[
-07-01-20
-]
+[ 07-01-20 ]
 ------------------------
 有关网页图片不能正常浏览问题的解决建议
-[
-07-01-20
-]
+[ 07-01-20 ]
 ------------------------
 关于本站“奥运志愿者招募”报名系统公告
-[
-06-12-29
-]
+[ 06-12-29 ]
 ------------------------
 北京奥运会、残奥会安徽省赛会志愿者招募工作公告
-[
-06-12-25
-]
+[ 06-12-25 ]
 ------------------------
 奥运期间将使用语音地...
 “鸟巢”铺完最后一块...
@@ -50227,34 +49224,19 @@ T
 秦香莲:琵琶词
 彩云坪：情蜜蜜意绵绵
 《两代姻缘》选段
-《碧
-玉
-簪》：洞
+《碧 玉 簪》：洞
 房
 花烛良宵月不圆
 卖油郎:劝小姐莫悲伤
 龙女:晚风习习秋月冷
-《荞
-麦
-记》选
+《荞 麦 记》选
 段
-《
-樊梨花巡营》选段
-《红
-楼
-梦》第五场
-《红
-楼
-梦》第四场
-《红
-楼
-梦》第三场
-《红
-楼
-梦》第二场
-《红
-楼
-梦》第一场
+《 樊梨花巡营》选段
+《红 楼 梦》第五场
+《红 楼 梦》第四场
+《红 楼 梦》第三场
+《红 楼 梦》第二场
+《红 楼 梦》第一场
 体
 育
 ·郑智赛中频被侵犯
@@ -50913,10 +49895,7 @@ Reserved
 简
 报
 <COLGROUP>
-<COL
-style="WIDTH:
-134pt"
-width=178></COLGROUP>
+<COL style="WIDTH: 134pt" width=178></COLGROUP>
 1.办公室
 2.综合法规处
 3.公务员管理处
@@ -51212,9 +50191,9 @@ width=178></COLGROUP>
 关于安徽省2007年度机关事业单位工人技师资格考试笔试考务工作有关问题的通知[安徽省人事考试中心][2007年9月24日]
 关于安徽省人才服务中心“党旗在我心中”板报创刊及“流动党员之家”网页全新改版成功的信息[安徽省人才服务中心][2007年9月24日]
 中央编办副主任黄文平来皖参加全国服务业工作会议
-[编办综合处[2007年9月21日]
+[编办综合处[2007年9月21日] 
 关于在全省公务员中开展依法行政知识考试工作的补充通知
-[考培处[2007年9月21日]
+[考培处[2007年9月21日] 
 转发国家外国专家局关于申报2008年度引进国外技术、管理人才项目计划的通知
 [外专局][2007年9月21日]
 省政府召开新闻发布会，省人事厅成浩副厅长谈十六大以来我省人事人才工作主要成就
@@ -51865,8 +50844,7 @@ Email：ahta001@sohu.com
 (C)2000
 版权所有
 安徽省通信管理局
-(地址：合肥市濉溪路278号财富广场
-邮编：230041
+(地址：合肥市濉溪路278号财富广场 邮编：230041
 关闭
 安徽文学网
 共享阳光，分担风雨，让我们一路同行
@@ -52006,9 +50984,7 @@ Copyright
 新华社记者看安徽
 更多
 ·[陈晔华]合肥火车站迎来节后首个客流高峰
-·[任沁沁
-黄艳
-蔡敏]“民生”关照下的中国百姓春节
+·[任沁沁 黄艳 蔡敏]“民生”关照下的中国百姓春节
 ·[王立武]安徽省三座名山入选全国“十大文化旅游胜地”
 ·[王立武]安徽休宁中小学生诵读经典祈福迎春
 【专题】安徽省领导在抗雪救灾第一线
@@ -53045,8 +52021,7 @@ TOP
 最新MTV
 ·旋风管家《七转八起☆...
 ·南家三姐妹《经验值上...
-·高达00《Ash
-L...
+·高达00《Ash L...
 ·高达00《フレンズ》...
 ·《我的女神战斗之翼》...
 ·守护甜心ED[ホント...
@@ -53299,21 +52274,14 @@ Links：首页连接pr〉4
 翻译培训
 北方教育集团
 网站&amp;设计类：
-设计BOB<
-蓝锋站长站
-网址大全
-私家侦探
-宁波城市资源网
-社区中国
+设计BOB<  蓝锋站长站  网址大全  私家侦探  宁波城市资源网  社区中国 
 Copyright
 &copy;爱迪友联中国
 2006-2008
 all
 right
 Reserved
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 近视手术前18道“安检”
 近视手术预约
 -->
@@ -54199,30 +53167,15 @@ smiling
 日记精选:
 小福狗带来了新年好意头
 ·狗狗想要说...
-(
-by
-嫁个爱狗人
-)
+( by 嫁个爱狗人 )
 ·过健康快乐年
-(
-by
-米纱妈妈
-)
+( by 米纱妈妈 )
 ·《藏熬》的精彩故事
-(
-by
-meiduo
-)
+( by meiduo )
 ·给养狗新手的建议
-(
-by
-vip4260964
-)
+( by vip4260964 )
 ·让我欢喜让我忧
-(
-by
-wy1314921
-)
+( by wy1314921 )
 家园博客推荐
 更多
 飞翔的羽毛
@@ -54572,7 +53525,7 @@ reserved苏ICP备05025745号
 深圳如何去澳门
 精彩香港购物节
 香港文华东方重新开幕大派利是
-平价酒店：香港青年旅舍（HK
+平价酒店：香港青年旅舍（HK  
 香港青逸酒店將開幕
 SASA莎莎购物体会
 港澳旅游依然是广州国际旅游展
@@ -55422,8 +54375,7 @@ ICP:06065551客服中心邮箱:myair160@126.comMSN:myair160@hotmail.com
 ·九龙旺角(窝打老道到界&#8230;)
 ·九龙佐敦(佐敦中心与柯&#8230;)
 ·九龙尖沙咀(本港重要的消&#8230;)
-·尖沙咀东部(尖东商业区
-&#8230;)
+·尖沙咀东部(尖东商业区 &#8230;)
 ·九龙红磡(九龙半岛东面&#8230;)
 ·九龙新界(荃湾/沙田/粉&#8230;)
 ·港岛中西环(政经中心及高&#8230;)
@@ -55443,8 +54395,7 @@ ICP:06065551客服中心邮箱:myair160@126.comMSN:myair160@hotmail.com
 格
 地
 址
-香港九龙油麻地(南至佐敦道北到窝打老道
-庙街/玉器市场/上海街/新填&#8230;)
+香港九龙油麻地(南至佐敦道北到窝打老道 庙街/玉器市场/上海街/新填&#8230;)
 京华国际酒店
 四星
 九龙油麻地
@@ -55500,8 +54451,7 @@ ICP:06065551客服中心邮箱:myair160@126.comMSN:myair160@hotmail.com
 九龙油麻地
 ＄390起
 九龙油麻地鸦打街6号
-香港九龙旺角(窝打老道到界限街一带
-通菜街/登打士街/西洋菜南街&#8230;)
+香港九龙旺角(窝打老道到界限街一带 通菜街/登打士街/西洋菜南街&#8230;)
 香港帝京酒店
 五星
 九龙旺角
@@ -55623,9 +54573,7 @@ ICP:06065551客服中心邮箱:myair160@126.comMSN:myair160@hotmail.com
 九龙佐敦
 ＄410起
 九龙庙街237-247号
-香港九龙尖沙咀(本港重要的消费区
-新世界中心/柏丽大道/
-百利商场/&#8230;)
+香港九龙尖沙咀(本港重要的消费区 新世界中心/柏丽大道/ 百利商场/&#8230;)
 香港半岛酒店
 五星
 九龙尖沙咀
@@ -55776,8 +54724,7 @@ ICP:06065551客服中心邮箱:myair160@126.comMSN:myair160@hotmail.com
 九龙尖沙咀
 ＄450起
 香港九龙弥敦道182号
-香港尖沙咀东部(尖东商业区
-南洋中心/半岛中心/幸福中心/明辉中心/&#8230;)
+香港尖沙咀东部(尖东商业区 南洋中心/半岛中心/幸福中心/明辉中心/&#8230;)
 香港帝苑酒店
 五星
 尖沙咀东部
@@ -55803,8 +54750,7 @@ ICP:06065551客服中心邮箱:myair160@126.comMSN:myair160@hotmail.com
 尖沙咀东部
 ＄1260起
 香港九龙尖沙咀么地道71号
-香港九龙红磡(九龙半岛东面，有大型屋苑、商业大楼、工厂、货仓
-&#8230;)
+香港九龙红磡(九龙半岛东面，有大型屋苑、商业大楼、工厂、货仓 &#8230;)
 香港红勘海逸酒店
 五星
 九龙红磡
@@ -55825,8 +54771,7 @@ ICP:06065551客服中心邮箱:myair160@126.comMSN:myair160@hotmail.com
 九龙红磡
 ＄390起
 九龙红磡芜湖街84-86号
-香港九龙新界(荃湾/沙田/粉岭/上水/屯门/元朗/天水围/西贡等
-粉岭&#8230;)
+香港九龙新界(荃湾/沙田/粉岭/上水/屯门/元朗/天水围/西贡等 粉岭&#8230;)
 香港嘉湖海逸酒店
 五星
 九龙新界
@@ -55922,8 +54867,7 @@ ICP:06065551客服中心邮箱:myair160@126.comMSN:myair160@hotmail.com
 九龙新界
 ＄320起
 九龙深水埗九江街170-172号
-香港港岛中西环(政经中心及高级购物饮食地区
-中银大厦/渣打花园/大&#8230;)
+香港港岛中西环(政经中心及高级购物饮食地区 中银大厦/渣打花园/大&#8230;)
 香港JW万豪酒店
 五星
 港岛中西环
@@ -56025,8 +54969,7 @@ LKF(兰桂坊酒店)
 港岛中西环
 ＄440起
 西環皇后大道西385-387號
-香港港岛湾仔(湾仔是一处新旧对比十分大的地区
-轩尼斯道/庄士敦道&#8230;)
+香港港岛湾仔(湾仔是一处新旧对比十分大的地区 轩尼斯道/庄士敦道&#8230;)
 香港万丽海景酒店
 五星
 港岛湾仔
@@ -56112,8 +55055,7 @@ LKF(兰桂坊酒店)
 港岛湾仔
 ＄620起
 香港湾仔轩尼诗道41-49号
-香港港岛铜锣湾(记利佐治街的皇室堡至到铜锣湾西面的时代广场
-中高&#8230;)
+香港港岛铜锣湾(记利佐治街的皇室堡至到铜锣湾西面的时代广场 中高&#8230;)
 香港怡东酒店
 五星
 港岛铜锣湾
@@ -56321,7 +55263,7 @@ RMB
 首都机场3号航
 ·海口美兰国际机场积极开展
 ·美兰机场航班基本正常
-·美兰机场恢复正常运转(图
+·美兰机场恢复正常运转(图  
 ·昆明国际机场迎来旅客返程
 ·首都机场扩建工程配套交通
 ·贵州最后一个因雪灾关闭的
@@ -56410,7 +55352,7 @@ RMB
 亚洲冠军是超女
 驴人游记·摄影:::社区:::
 ·鼓浪屿：一个人的幸福时光
-·徒步走过美丽大不列颠[（图）
+·徒步走过美丽大不列颠[（图）  
 ·威尼斯
 记忆中水城印象
 ·巴黎：浪漫多情优雅迷人
@@ -56605,7 +55547,7 @@ RMB
 首都机场3号航
 ·海口美兰国际机场积极开展
 ·美兰机场航班基本正常
-·美兰机场恢复正常运转(图
+·美兰机场恢复正常运转(图  
 ·昆明国际机场迎来旅客返程
 ·首都机场扩建工程配套交通
 ·贵州最后一个因雪灾关闭的
@@ -56695,7 +55637,7 @@ RMB
 亚洲冠军是超女
 驴人游记·摄影:::社区:::
 ·鼓浪屿：一个人的幸福时光
-·徒步走过美丽大不列颠[（图）
+·徒步走过美丽大不列颠[（图）  
 ·威尼斯
 记忆中水城印象
 ·巴黎：浪漫多情优雅迷人
@@ -57927,7 +56869,7 @@ GPS导航
 ·第70届中国电子展汽车电子展10/22
 ·第十届北京车展08年4月在国展中心新馆举行10/15
 ·2007中国（南京）国际车用灯具及照明展览会9/4
-·2007中国橡胶市场及技术发展论坛(2007.9.18—208/29
+·2007中国橡胶市场及技术发展论坛(2007.9.18—208/29 
 ·第八届全国汽车产业人才大型招聘会(10月)8/23
 ·2007上海国际汽车零部件及汽车用品展览会8/22
 ·2007宁波汽车零部件及汽车用品出口交易会8/22
@@ -58026,24 +56968,18 @@ ASTONMARTIN
 [外国剪纸艺术图集]
 [自然风光剪纸图集]
 >更多
-[张大千][袁
-武][徐悲鸿]
-[黄
-胄][李可染][李苦禅]
+[张大千][袁 武][徐悲鸿]
+[黄 胄][李可染][李苦禅]
 [潘天寿][吴昌硕]
-[黄宾虹][范
-曾]
-[崔子范
-][齐白石]
+[黄宾虹][范 曾]
+[崔子范 ][齐白石]
 [何香凝][吴作人]
 [郝石林][李留海]
-[苏士澍][王
-宓]
+[苏士澍][王 宓]
 [刘大为][刘勃舒]
 [林凤眠][刘炳森]
 [杨雷鸣][贾广健]
-[吉
-人][杨再春]
+[吉 人][杨再春]
 [中国水墨画的现代魅力]
 精品展示
 >更多...
@@ -58053,7 +56989,7 @@ ASTONMARTIN
 网上商城
 >更多...
 >更多...
-<--欢迎观看北京爱家国际收藏品交流市场隆重开业仪式[组图]
+<--欢迎观看北京爱家国际收藏品交流市场隆重开业仪式[组图] 
 友
 情
 链
@@ -58132,7 +57068,7 @@ UK
 来自英伦的灵魂!定
 9月14日021迎接大学新同学新乐
 8-24周五
-HKD酒吧（电音＋劲舞
+HKD酒吧（电音＋劲舞  
 月蚀乐队（福州）巡演上海021音
 绝对Hip
 Hop
@@ -58239,9 +57175,7 @@ uusee
 不限
 静安区
 热门歌手
-黑眼豆豆（Black
-Eyed
-Peas）
+黑眼豆豆（Black Eyed Peas）
 Black
 Eyed
 Peas(黑眼豆豆)来自洛杉机，是一支融合了灵魂乐、爵士乐与拉丁节奏与现场演唱等多种风格的嘻哈队伍...
@@ -58855,19 +57789,10 @@ cdkey查询
 免费动漫,即点即看
 金“鼠”大拜年
 游侠网为玩家献祝福
-&middot;暗黑之门：伦敦（Hellgate
-London）游侠专业原创简体中文语言包（本语言包由游侠HGL汉化组全体成员完成原创技术破解及翻译制作）（本版汉化系正式版完全汉化，同时支持x86操作系统和x64操作系统，使用本汉化之前请先将游戏升级到最新版本，为了保持本语言包的高质高量，我们将会持续更新本汉化）（本汉化包适用于目前任意版本的英文游戏，傻瓜式安装即可）
-&middot;工人物语6之帝国的崛起（The
-Settlers
-VI
-Rise
-Of
-An
-Empire）官方繁体中文汉化包（本汉化包根据繁体中文版制作而成，使用后可将任意语言版本的游戏转换成繁体中文版，感谢游侠版主poseden原创制作）
+&middot;暗黑之门：伦敦（Hellgate London）游侠专业原创简体中文语言包（本语言包由游侠HGL汉化组全体成员完成原创技术破解及翻译制作）（本版汉化系正式版完全汉化，同时支持x86操作系统和x64操作系统，使用本汉化之前请先将游戏升级到最新版本，为了保持本语言包的高质高量，我们将会持续更新本汉化）（本汉化包适用于目前任意版本的英文游戏，傻瓜式安装即可）
+&middot;工人物语6之帝国的崛起（The Settlers VI Rise Of An Empire）官方繁体中文汉化包（本汉化包根据繁体中文版制作而成，使用后可将任意语言版本的游戏转换成繁体中文版，感谢游侠版主poseden原创制作）
 &middot;忍者神龟2007（TMNT）官方简体中文汉化包（感谢游侠会员Conans根据官方中文版进行提取制作）
-&middot;合金装备（Metal
-Gear
-Solid）汉化及免CD补丁
+&middot;合金装备（Metal Gear Solid）汉化及免CD补丁
 [6日]动作射击游戏《马克思·佩恩》真人电影3月开拍
 [31日]纯爱的记忆
 美少女游戏《手机少女PC》中文版发布
@@ -59092,69 +58017,25 @@ Duty
 Bt下载
 More
 More
-&middot;冲突之拒绝行动（Conflict
-Denied
-Ops）免CD补丁
-&middot;暗黑之门：伦敦（Hellgate
-London）游侠专业原创简体中文语言包（本语言包由游侠HGL汉化组全体成员完成原创技术破解及翻译制作）（本版汉化系正式版完全汉化，同时支持x86操作系统和x64操作系统，使用本汉化之前请先将游戏升级到最新版本，为了保持本语言包的高质高量，我们将会持续更新本汉化）（本汉化包适用于目前任意版本的英文游戏，傻瓜式安装即可）
-&middot;工人物语6之帝国的崛起（The
-Settlers
-VI
-Rise
-Of
-An
-Empire）官方繁体中文汉化包（本汉化包根据繁体中文版制作而成，使用后可将任意语言版本的游戏转换成繁体中文版，感谢游侠版主poseden原创制作）
-&middot;工人物语6之帝国的崛起（The
-Settlers
-VI
-Rise
-Of
-An
-Empire）繁体中文版模拟方式免CD补丁（此为最小镜像，用任意模拟光驱程序即可使用，也支持本游戏各升级档版本）（游侠版主poseden制作）
-&middot;模拟人生之漂流者物语（The
-Sims
-Castaway
-Stories）繁体中文版模拟方式免CD补丁（此为最小镜像，用任意模拟光驱程序即可使用，也支持本游戏各升级档版本）（游侠版主poseden制作）
-&middot;模拟人生之漂流者物语（The
-Sims
-Castaway
-Stories）免CD补丁（附带属性修改器1款）
+&middot;冲突之拒绝行动（Conflict Denied Ops）免CD补丁
+&middot;暗黑之门：伦敦（Hellgate London）游侠专业原创简体中文语言包（本语言包由游侠HGL汉化组全体成员完成原创技术破解及翻译制作）（本版汉化系正式版完全汉化，同时支持x86操作系统和x64操作系统，使用本汉化之前请先将游戏升级到最新版本，为了保持本语言包的高质高量，我们将会持续更新本汉化）（本汉化包适用于目前任意版本的英文游戏，傻瓜式安装即可）
+&middot;工人物语6之帝国的崛起（The Settlers VI Rise Of An Empire）官方繁体中文汉化包（本汉化包根据繁体中文版制作而成，使用后可将任意语言版本的游戏转换成繁体中文版，感谢游侠版主poseden原创制作）
+&middot;工人物语6之帝国的崛起（The Settlers VI Rise Of An Empire）繁体中文版模拟方式免CD补丁（此为最小镜像，用任意模拟光驱程序即可使用，也支持本游戏各升级档版本）（游侠版主poseden制作）
+&middot;模拟人生之漂流者物语（The Sims Castaway Stories）繁体中文版模拟方式免CD补丁（此为最小镜像，用任意模拟光驱程序即可使用，也支持本游戏各升级档版本）（游侠版主poseden制作）
+&middot;模拟人生之漂流者物语（The Sims Castaway Stories）免CD补丁（附带属性修改器1款）
 &middot;忍者神龟2007（TMNT）官方简体中文汉化包（感谢游侠会员Conans根据官方中文版进行提取制作）
-&middot;宇宙战争之地球突袭战（Universe
-At
-War
-Earth
-Assault）游侠原创简体中文V1.1正式版（在之前的V1.0公测版当中，发现的各类已知问题及大的BUG均已经全部修复，同时此正式版已经比较完美，感谢所有为本汉化做出贡献的玩家们。我们本着负责的态度将会持续对本汉化进行版本升级与更新）（本汉化系游侠版主beibei007原创汉化方法，并由游侠战略工作组原创翻译制作。感谢游侠战略工作组及所有为本汉化出力的人员）
-&middot;极品飞车11街头狂飙（Need
-for
-Speed
-ProStreet）繁体中文版V1.1升级档免CD补丁（本免CD补丁采用繁中V1.1原版执行文件制作而成，动画中文字幕、完美免CD一样不缺）（感谢游侠网及CFB组织高手小旅鼠原创制作）
-&middot;极品飞车11街头狂飙（Need
-For
-Speed
-ProStreet）V1.1版游侠繁体中文版汉化包（本汉化包采用最新的V1.1繁体中文版制作，并内附了繁体中文版免CD补丁，可完美免CD）（本汉化包适用于任意的英文版游戏，并且本汉化是基于官方繁体中文版制作，所有翻译文本均来自台湾EA不属于任何个人所有，本汉化包仅用作学习和交流之用请勿用于其他用途）（感谢游侠版主poseden的原创制作）
+&middot;宇宙战争之地球突袭战（Universe At War Earth Assault）游侠原创简体中文V1.1正式版（在之前的V1.0公测版当中，发现的各类已知问题及大的BUG均已经全部修复，同时此正式版已经比较完美，感谢所有为本汉化做出贡献的玩家们。我们本着负责的态度将会持续对本汉化进行版本升级与更新）（本汉化系游侠版主beibei007原创汉化方法，并由游侠战略工作组原创翻译制作。感谢游侠战略工作组及所有为本汉化出力的人员）
+&middot;极品飞车11街头狂飙（Need for Speed ProStreet）繁体中文版V1.1升级档免CD补丁（本免CD补丁采用繁中V1.1原版执行文件制作而成，动画中文字幕、完美免CD一样不缺）（感谢游侠网及CFB组织高手小旅鼠原创制作）
+&middot;极品飞车11街头狂飙（Need For Speed ProStreet）V1.1版游侠繁体中文版汉化包（本汉化包采用最新的V1.1繁体中文版制作，并内附了繁体中文版免CD补丁，可完美免CD）（本汉化包适用于任意的英文版游戏，并且本汉化是基于官方繁体中文版制作，所有翻译文本均来自台湾EA不属于任何个人所有，本汉化包仅用作学习和交流之用请勿用于其他用途）（感谢游侠版主poseden的原创制作）
 &middot;Daemon
 Tools
 (Lite)
-4.12.0游侠原创简体中文汉化V2版（本版同时支持x86和x64系统，DT面板更新了新功能，修正了上一版中的一些BUG）（完整支持最新版Windows
-Vista操作系统，并更新了SPTD
-1.55版以及驱动器增强同时加入新的反黑名单措施及上一版中的BUG修复，推荐更新！）（该版中简体中文语言文件系游侠网richie696及poseden原创翻译制作，修正了官方版里面中文语言文件里的翻译缺失、语言习惯等诸多错误）（最佳模拟光驱软件）
-&middot;幻想三国志4（Fantasia
-Sanguo
-4）V1.0.0.1繁体中文版免CD补丁（感谢游侠特邀版主poseden网友制作）（本补丁仅用作学习和交流之用，请在下载后24小时内删除，如果您喜欢本游戏请支持正版）
-&middot;战锤40K之灵魂风暴（Warhammer
-40000
-Dawn
-of
-War
-Soulstorm）试玩版汉化包（感谢游侠战略游戏工作组tassadarpaladin成员的原创翻译制作）
+4.12.0游侠原创简体中文汉化V2版（本版同时支持x86和x64系统，DT面板更新了新功能，修正了上一版中的一些BUG）（完整支持最新版Windows Vista操作系统，并更新了SPTD 1.55版以及驱动器增强同时加入新的反黑名单措施及上一版中的BUG修复，推荐更新！）（该版中简体中文语言文件系游侠网richie696及poseden原创翻译制作，修正了官方版里面中文语言文件里的翻译缺失、语言习惯等诸多错误）（最佳模拟光驱软件）
+&middot;幻想三国志4（Fantasia Sanguo 4）V1.0.0.1繁体中文版免CD补丁（感谢游侠特邀版主poseden网友制作）（本补丁仅用作学习和交流之用，请在下载后24小时内删除，如果您喜欢本游戏请支持正版）
+&middot;战锤40K之灵魂风暴（Warhammer 40000 Dawn of War Soulstorm）试玩版汉化包（感谢游侠战略游戏工作组tassadarpaladin成员的原创翻译制作）
 &middot;NHL_7多功能游戏修改器（本修改器将PES5、PES6、WE2007、PES2008的各版本ML联赛的数据修改及生化危机2、3、4、信长之野望11等诸多游戏的修改功能集于一身，修改功能强大使用方便）（感谢游侠会员nhl_7原创制作）
-&middot;侠盗猎车手之圣安地列斯（GTA:
-San
-Andreas）完全通关档二款（感谢游侠会员yunclood、浑天乾坤原创制作）
-&middot;霸王之地狱重生（Overlord
-Raising
-Hell）游侠左贤王完美简体中文汉化包V2.0正式版（本汉化包由左贤王专业汉化团队负责全部游戏内容翻译和美工制作，游侠网负责全内核汉化技术支持）（本汉化包适用于目前1.0-1.4所有版本的英文版游戏）（本项目采用专业全内核汉化技术，文字方面遵循了左贤王专业汉化团队的一贯特色即完全汉化、严谨汉化、语言风格完全符合中文表达习惯，同时不乏诙谐幽默，突出表现游戏主题）
+&middot;侠盗猎车手之圣安地列斯（GTA: San Andreas）完全通关档二款（感谢游侠会员yunclood、浑天乾坤原创制作）
+&middot;霸王之地狱重生（Overlord Raising Hell）游侠左贤王完美简体中文汉化包V2.0正式版（本汉化包由左贤王专业汉化团队负责全部游戏内容翻译和美工制作，游侠网负责全内核汉化技术支持）（本汉化包适用于目前1.0-1.4所有版本的英文版游戏）（本项目采用专业全内核汉化技术，文字方面遵循了左贤王专业汉化团队的一贯特色即完全汉化、严谨汉化、语言风格完全符合中文表达习惯，同时不乏诙谐幽默，突出表现游戏主题）
 &middot;轩辕剑外传汉之云
 游戏增强MOD补丁（本MOD包含如下功能：与游戏中的商人对话可无限次获得100000大洋或是99个鲍鱼、人物等级升至99级、可购买飞羽商人那里出售的极品装备）（感谢游侠会员tianwuld原创制作）
 &middot;轩辕剑外传汉之云
@@ -59168,22 +58049,10 @@ V1.0版属性修改器
 &middot;孤岛危机（Crysis）中英文通用x64版V1.1升级档免CD补丁
 &middot;孤岛危机（Crysis）中英文通用x86版V1.1升级档免CD补丁
 &middot;亡命徒之蓝与灰
-（Swashbucklers
-Blue
-Vs
-Grey）原创简繁体英三语汉化包V0.6测试版（V0.6版中新增了大量的地图汉化，完成度基本已经达到100%，同时还优化了游戏的中文字库，减小了其内存占用量，提高执行效率，并且修正了V0.5版中的几处翻译错误，本游戏的汉化程序正处于公测阶段，尚有错误需要进行改进和修复，大家可以在发现问题后直接到NETSHOW论坛航海游戏区提出）（本汉化包技术问题全部由游侠论坛荣誉会员SmokyRain原创制作）
-&middot;宇宙战争之地球突袭战（Universe
-At
-War
-Earth
-Assault）简体中文汉化包（感谢游侠论坛会员jycjyc原创翻译制作）
-&middot;巫师（The
-Witcher）V1.2升级档免CD补丁
-&middot;最高指挥官之冒牌盟友（Supreme
-Comma
-nder
-Forged
-Alliance）简体中文汉化包（感谢游侠论坛会员jiazhipeng95原创翻译制作）
+（Swashbucklers Blue Vs Grey）原创简繁体英三语汉化包V0.6测试版（V0.6版中新增了大量的地图汉化，完成度基本已经达到100%，同时还优化了游戏的中文字库，减小了其内存占用量，提高执行效率，并且修正了V0.5版中的几处翻译错误，本游戏的汉化程序正处于公测阶段，尚有错误需要进行改进和修复，大家可以在发现问题后直接到NETSHOW论坛航海游戏区提出）（本汉化包技术问题全部由游侠论坛荣誉会员SmokyRain原创制作）
+&middot;宇宙战争之地球突袭战（Universe At War Earth Assault）简体中文汉化包（感谢游侠论坛会员jycjyc原创翻译制作）
+&middot;巫师（The Witcher）V1.2升级档免CD补丁
+&middot;最高指挥官之冒牌盟友（Supreme Comma nder Forged Alliance）简体中文汉化包（感谢游侠论坛会员jiazhipeng95原创翻译制作）
 &middot;Alcohol
 120%
 专业零售多国语言版
@@ -60324,10 +59193,7 @@ OEM、外贸、韩版、批发、新奇特
 材
 料
 化工网
-(硬脂酸
-树脂
-无机盐
-甘油）
+(硬脂酸 树脂 无机盐 甘油）
 芳香烃
 氧化锌
 海绵
@@ -60340,10 +59206,7 @@ DOP
 TDI
 更多
 冶金矿产
-(钢材
-有色
-不锈钢
-矿产)
+(钢材 有色 不锈钢 矿产)
 钢管
 涂镀
 磁铁
@@ -60356,9 +59219,7 @@ TDI
 更多
 塑料
 橡胶
-(通用原料
-工程料
-再生料)
+(通用原料 工程料 再生料)
 PP
 PVC
 HDPE
@@ -60371,9 +59232,7 @@ ABS
 橡胶制品
 更多
 纺织、皮革
-(家纺
-坯布
-化纤）
+(家纺 坯布 化纤）
 全棉
 毯子
 坯布
@@ -60387,10 +59246,7 @@ ABS
 针织
 无纺布
 精细化工
-(涂料
-胶粘剂
-颜料
-助剂)
+(涂料 胶粘剂 颜料 助剂)
 油漆
 染料
 胶水
@@ -60403,11 +59259,7 @@ ABS
 化学试剂
 更多
 农业
-(粮食
-蔬菜
-瓜果
-牲畜
-水产品)
+(粮食 蔬菜 瓜果 牲畜 水产品)
 食用菌
 玉米
 豆类
@@ -60422,9 +59274,7 @@ ABS
 更多
 医药
 保健
-(中成药
-西药
-生物制品)
+(中成药 西药  生物制品)
 药材
 原料药
 医疗设备
@@ -60435,9 +59285,7 @@ ABS
 保健品代理
 更多
 建筑、建材
-(涂料
-复合地板
-木材)
+(涂料 复合地板 木材)
 门窗
 灯具
 板材
@@ -60450,10 +59298,7 @@ ABS
 卫浴
 更多
 能源
-(石油
-天然气
-煤炭
-能源代理)
+(石油 天然气 煤炭 能源代理)
 汽油
 柴油
 石油燃料
@@ -60465,9 +59310,7 @@ ABS
 燃气设备
 更多
 废料
-(再生塑料
-废金属
-橡胶再生)
+(再生塑料 废金属 橡胶再生)
 废PE
 废PP
 废PVC
@@ -61915,16 +60758,13 @@ Reserved.ICP证
 探访南阳西峡地区大面积的
 全国唯一保存完整的县级政
 探寻充满了传奇和神秘的和
-[探索&#149;发现
-]锡商（四
+[探索&#149;发现 ]锡商（四
 海上终极豪华奢侈品：百万
 皇宫里到处可以看到的多姿
 科考队首次深入当曲源头寻
-[探索&#149;发现
-]锡商（三
+[探索&#149;发现 ]锡商（三
 加拿大安大略“徐展堂中国
-[探索&#149;发现
-]锡商（二
+[探索&#149;发现 ]锡商（二
 资源下载
 Director
 MX
@@ -61987,8 +60827,7 @@ MX
 [图文]祖国建设新成就--深圳特区
 [图文]祖国建设新成就--三峡工程
 网书在线
-《孝
-经》
+《孝 经》
 《弟子规》
 《人鉴》
 《增广贤文》
@@ -62698,8 +61537,7 @@ admin
 16
 大碗厨万家丽路店
 在这里，猪蹄和香干是招牌菜，头几次去吃感觉还不错，很好吃，但是后来有一次去就感觉一般了。服务还过得去，不是很好，上菜速度也有点慢，也有可能是用餐高峰...
-[2007-8-6
-11:07:00]
+[2007-8-6 11:07:00]
 人均消费：30
 元
 服务：
@@ -62713,8 +61551,7 @@ netboy
 20
 四娭毑特色店
 这边最有名的就是臭干子了，挺有特色的，超臭，而且里边的鱼火锅挺不错的，很辣很鲜，有时间跟朋友一起去吃是蛮爽的啦！至于店名嘛，要用长沙话说才会懂的啦！...
-[2007-8-6
-11:05:35]
+[2007-8-6 11:05:35]
 人均消费：10
 元
 服务：
@@ -62728,8 +61565,7 @@ netboy
 20
 一品香辣蟹
 环境不错，服务不错，味道也不错，螃蟹很新鲜，很美味，推荐朋友们加5元家分红薯在里面，很好吃的```就是稍稍贵了点
-[2007-8-6
-11:04:08]
+[2007-8-6 11:04:08]
 人均消费：30
 元
 服务：
@@ -62743,8 +61579,7 @@ netboy
 20
 何氏排骨
 名气比较大，墙壁上都是老板和本土明星们的合影。服务员确实很精，利索，我点了茸泥蒸排骨和铁板花菜，感觉胃口还不错。就是等太久了，人暴多，位子都没有。不...
-[2007-8-6
-11:02:13]
+[2007-8-6 11:02:13]
 人均消费：20
 元
 服务：
@@ -62758,8 +61593,7 @@ netboy
 20
 火宫殿坡子街总店
 这个可是长沙的百年老字号店来的啊。里面不仅有湖南的特色小吃。而且还有正宗的湘菜。环境不错，特别是服务态度特好的。我最喜欢的两种小吃就数臭豆腐和糖油粑...
-[2007-8-6
-10:49:39]
+[2007-8-6 10:49:39]
 人均消费：40
 元
 服务：
@@ -62768,32 +61602,28 @@ netboy
 有用(0)
 没用(0)
 杭州奥尔蒙电器有限公司
-(2008-1-29
-10:10:00)
+(2008-1-29 10:10:00)
 地址：浙江省杭州市下城区石桥路238号
 电话：0571-28905786
 服务：
 价格：
 综合：
 北京全城二手办公家具回收|二手电脑回收公司
-(2008-1-21
-8:41:09)
+(2008-1-21 8:41:09)
 地址：北京市海淀区
 电话：13811543049
 服务：
 价格：
 综合：
 深圳跃驰培训咨询公司
-(2008-1-16
-11:34:23)
+(2008-1-16 11:34:23)
 地址：深圳市福田区华强北现代之窗A座九楼X室（格兰德酒店直接上九楼即可）
 电话：0755-83280786,83280186
 服务：
 价格：
 综合：
 上海林内热水器维修-56350720
-(2008-1-14
-23:19:03)
+(2008-1-14 23:19:03)
 地址：上海总部
 交通路2121号全市维修服务
 电话：021-56350720
@@ -62801,8 +61631,7 @@ netboy
 价格：
 综合：
 上海博世热水器维修
-(2008-1-14
-23:11:41)
+(2008-1-14 23:11:41)
 地址：上海总部
 交通路2121号全市维修服务
 电话：021-56350720
@@ -62810,32 +61639,28 @@ netboy
 价格：
 综合：
 北京建业二手办公家具回收
-(2008-1-13
-14:33:10)
+(2008-1-13 14:33:10)
 地址：北京玉泉营路66号
 电话：1352-0518901
 服务：
 价格：
 综合：
 人民公社大食堂红色经典店
-(2007-8-6
-12:05:27)
+(2007-8-6 12:05:27)
 地址：车站北路182号
 电话：
 服务：
 价格：
 综合：
 爱晚亭
-(2007-8-6
-12:03:49)
+(2007-8-6 12:03:49)
 地址：岳麓山清风峡
 电话：
 服务：
 价格：
 综合：
 国际影视会展中心酒店
-(2007-8-6
-12:02:51)
+(2007-8-6 12:02:51)
 地址：浏阳河大桥东(金鹰影视文化城)
 电话：
 服务：
@@ -63280,8 +62105,7 @@ lalabook布书
 小狮王辛巴-真乳感十字孔L奶嘴(2入)通用较大（售完为止）￥22.80
 Maria时尚妈妈-提花花边马夹裙（L）￥198.40
 Maria时尚妈妈-全毛呢缎带马夹裙（L）￥198.40
-贝亲-孕妇电磁波防护系列-马甲式(M
-浅灰色)￥370.10
+贝亲-孕妇电磁波防护系列-马甲式(M 浅灰色)￥370.10
 分类推荐
 纸尿裤
 妈咪宝贝
@@ -63754,8 +62578,7 @@ E周刊
 沉思录（总理天天在读的书）￥12.00
 德川家康4：兵变本能寺￥16.90
 明朝那些事儿(朱元璋卷)￥10.50
-别笑我是英文单词书(2)(附1、2册双语朗读光盘
-)￥18.00
+别笑我是英文单词书(2)(附1、2册双语朗读光盘 )￥18.00
 不朽(落落首部随笔集！)￥14.40
 德川家康3：天下布武￥16.40
 杜拉拉升职记(新版)￥14.70
@@ -63764,8 +62587,7 @@ E周刊
 新书排行榜
 沉思录（总理天天在读的书）￥12.00
 德川家康4：兵变本能寺￥16.90
-别笑我是英文单词书(2)(附1、2册双语朗读光盘
-)￥18.00
+别笑我是英文单词书(2)(附1、2册双语朗读光盘 )￥18.00
 不朽(落落首部随笔集！)￥14.40
 德川家康3：天下布武￥16.40
 杜拉拉升职记(新版)￥14.70
@@ -65033,13 +63855,11 @@ Break；精美开本完美呈现至爱典藏；随书赠送可爱盒子贴纸+经典盒子记事簿+DIY折纸公！
 常见问题
 ·问题：
 书本本身制作时尚，内容比较符合潮流。放松的小品
-（作者：shanjing6688************
-2008-02-01）
+（作者：shanjing6688************ 2008-02-01）
 回复：
 ·问题：
 为什么投诉还没有处理？而且还没有回答？
-（作者：shuyi-hu********
-2008-01-16）
+（作者：shuyi-hu******** 2008-01-16）
 回复：
 ·问题：
 请问这个有没有随书附送:
@@ -65048,8 +63868,7 @@ Break；精美开本完美呈现至爱典藏；随书赠送可爱盒子贴纸+经典盒子记事簿+DIY折纸公！
 DIY折纸公仔
 +
 可爱盒子帖纸的?
-（作者：sheep1011*********
-2007-12-21）
+（作者：sheep1011********* 2007-12-21）
 回复：
 [看更多的用户问答]
 用户评论(共18篇评论)
@@ -65090,7 +63909,7 @@ DIY折纸公仔
 21:25:08
 三环路上的幽灵为此商品评分：
 提示：这篇评论有关键情节透露，确定要阅读吗？确定
-等了好久，终于出书了！！！自从上个月在广深线上认识张小盒同学以来，一直关注着他。下定单两天以后终于收到了！送货员晚上七点过来的，真没想到，这么冷的天……有点感动。书印得很不错，看着那一格格熟悉的漫画，张小盒和他的同事们（当然还有老板VC高）。不过有的格子太小了，里面的画和字看不太清楚（比如104页《美好的时光》）。盒子网上介绍的可爱盒子贴纸、经典盒子记事簿和DIY折纸公仔都有！（不过卓越页面上介绍...回应(0)|全文
+等了好久，终于出书了！！！自从上个月在广深线上认识张小盒同学以来，一直关注着他。下定单两天以后终于收到了！送货员晚上七点过来的，真没想到，这么冷的天……有点感动。书印得很不错，看着那一格格熟悉的漫画，张小盒和他的同事们（当然还有老板VC高）。不过有的格子太小了，里面的画和字看不太清楚（比如104页《美好的时光》）。盒子网上介绍的可爱盒子贴纸、经典盒子记事簿和DIY折纸公仔都有！（不过卓越页面上介绍...回应(0)|全文 
 5/6
 人认为此评论有用|这条评论对您
 有用
@@ -65491,13 +64310,11 @@ pages
 常见问题
 ·问题：
 我定了，订单上说是2月7号到，怎么2月11号了还没到？！春节没考虑进日程么！
-（作者：403200021********
-2008-02-11）
+（作者：403200021******** 2008-02-11）
 回复：
 ·问题：
 免费配送包不包括送货上门?
-（作者：xyoshiki2********
-2008-02-07）
+（作者：xyoshiki2******** 2008-02-07）
 回复：
 用户评论(共34篇评论)
 34人
@@ -66596,9 +65413,7 @@ Toys
 Games
 Baby
 Apparel
-(Kids
-&amp;
-Baby)
+(Kids &amp; Baby)
 Books
 Movies
 Music
@@ -66819,9 +65634,7 @@ Toys
 Games
 Baby
 Apparel
-(Kids
-&amp;
-Baby)
+(Kids &amp; Baby)
 Books
 Movies
 Music
@@ -67034,9 +65847,7 @@ Martha
 Beck
 7th
 Heaven
-(Women&#39;s
-Murder
-Club)
+(Women&#39;s Murder Club)
 Hardcover
 by
 James
@@ -67128,8 +65939,7 @@ Blu-ray
 David
 Attenborough
 Enchanted
-(Widescreen
-Edition)
+(Widescreen Edition)
 DVD
 ~
 Amy
@@ -67178,8 +65988,7 @@ Geoffry
 Rush...
 The
 Aristocats
-(Special
-Edition)
+(Special Edition)
 DVD
 ~
 Phil
@@ -67367,8 +66176,7 @@ product
 free.
 Here's
 how
-(restrictions
-apply).
+(restrictions apply).
 Dog
 Treats
 Cat
@@ -67847,16 +66655,16 @@ AC规则
 部件
 消耗品
 其它
-百乐2号（光...
-百乐2号（光...
+百乐2号（光... 
+百乐2号（光... 
 ·
 梦幻三色
 ·
 8成新三七机.20寸全屏液...
 ·
-寻求百乐2号合作伙伴（光...
+寻求百乐2号合作伙伴（光... 
 ·
-寻求百乐2号合作伙伴（光...
+寻求百乐2号合作伙伴（光... 
 ·
 新春抛售模拟机
 ·
@@ -67919,11 +66727,11 @@ AC规则
 行业信息
 行业新闻
 [日本]2008台湾国际...
-[日本]追加視頻~《...
+[日本]追加視頻~《...   
 [日本]KOF官网98UM...
 [日本]蜂シリーズ最...
 [日本]野村哲也&quot;參...
-[台湾]《太鼓之達人...
+[台湾]《太鼓之達人...   
 [日本]VR战士5最新...
 [日本]龙珠Z：突破...
 [日本]湾岸午夜俱乐...

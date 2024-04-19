@@ -6344,13 +6344,7 @@ Reserved
 ÒÑÑ¡³µÐÍ
 ³µÐÍ¶Ô±È
 Í¬Ê±¶Ô¶à¸ö³µÐÍÊý¾Ý¡¢ÅäÖÃ½øÐÐ±È½Ï
-(×¢
-£º1.½ÏÓÅÊý¾Ý½«»á×Ô¶¯¸ßÁÁ¼Ó´ÖÏÔÊ¾¡£2.¡ñ
-´ú±í±ê×¼ÅäÖÃ
-¡Ñ
-´ú±íÑ¡×°ÅäÖÃ
---
-´ú±íÎÞ´ËÅäÖÃ¡£)
+(×¢ £º1.½ÏÓÅÊý¾Ý½«»á×Ô¶¯¸ßÁÁ¼Ó´ÖÏÔÊ¾¡£2.¡ñ ´ú±í±ê×¼ÅäÖÃ ¡Ñ ´ú±íÑ¡×°ÅäÖÃ -- ´ú±íÎÞ´ËÅäÖÃ¡£)
 Êý¾Ý¼ÓÔØÖÐÇëÉÔºò...
 ÏàÍ¬²ÎÊý/ÅäÖÃ£º
 ³µÐÍ¿âÊ×Ò³
@@ -33178,8 +33172,7 @@ sedan¡±£¬¼´¡°ÏÈ½ø¡¢ÓÅÖÊ¡¢ÐÂ¶¼ÊÐ½Î³µ¡±Îª¿ª·¢ÀíÄî£¬Íâ¹ÛÔìÐÍ½ÏÈýÏáfit¸üÎªÐ­µ÷£¬ÄÚ²¿
 Ë¼µÏ£¨city£©¿í³¨µÄÄÚÊÎÓÐ¼ÒµÄÎÂÜ°£¬ÎªÁËÂú×ã²»Í¬ÈËÈº¶Ô¿Õ¼äÊµÓÃÐÔ¼°³Ë×øÊæÊÊÐÔµÄÒªÇó£¬Ë¼µÏ£¨city£©ÓµÓÐ¹Ì¶¨ºóÅÅ×ùÒÎºÍ×éºÏÊ½×ùÒÎÁ½ÖÖ²»Í¬µÄÐÎÊ½¡£¶ø×éºÏ×ùÒÎ¹æ¸ñÔò¸³Óè¿í³¨¿Õ¼äÒÔÈËÐÔ¿Æ¼¼£¬¼¸¸ö¼òµ¥µÄ¶¯×÷¾Í¿ÉÒÔÍê³ÉËÄÖÖ×ùÒÎ×éºÏÄ£Ê½£¬¹ºÎï¡¢³öÓÎ¡¢¸°Ô¼µÈ¸÷ÖÖ³¡ºÏ¶¼ÄÜÇáËÉÓ¦¶Ô£¬Áî¶¼ÊÐÉú»îã«ÒâÎÞÓÇ¡£
 ÕæÆ¤×ùÒÎ¹æ¸ñ×¨Îª×·Çó¸ß¸ñµ÷ºÍÊæÊÊ¸ÐµÄÓÃ»§ËùÉè¼Æ¡£ºóÅÅ×ùÒÎÒÎÃæ¿í´ó¡¢Ö§³ÅÁ¼ºÃ£¬ÅäºÏºÀ»ª¸ÐÊ®×ãµÄ³µÄÚ¿Õ¼ä¡£
 ×ùÒÎÏÂ·½»¹ÅäÓÐË«´¢ÎïºÐ£¬ÓÃ»§Ö»ÐèÒªÒ»ÊÖ¾ÍÄÜÇáËÉ²Ù×÷£¬ÓÃÀ´ÊÕÄÉºÍÕûÀí³µÄÚµÄÎïÆ·£¬Ò²¿É½«ÖØÒªµÄË½ÈËÎï¼þÍ×ÉÆÊÕ²Ø£¬·Â·ðÔÚ¼ÒÖÐ°ã×ÔÔÚËæÐÄ¡£
-Ë¼µÏ£¨city£©µÄÄÚÊÎÉè¼ÆÒÔ³¬Ô½Í¬¼¶±ð½Î³µµÄ¸ßÖÊ¸ÐºÍ¸ß¸ñµ÷ÎªÄ¿±ê£¬ÌåÏÖ³öÏÈ½ø¡¢¾«ÖÂÓëÊµÓÃ£¬²ÉÓÃÁËÑÅ¸ó[±¨¼Û
-Í¼Æ¬]³µÐÍÉÏÊ¹ÓÃµÄ¾ßÓÐ¡°Ó­ËÍÏÔÊ¾¡±¹¦ÄÜµÄ×Ô·¢¹âÒÇ±í£¬ÓªÔì³öÈÚÇ¢µÄ½»Á÷Æø·Õ£¬ÈÃ¼ÝÊ»Õß³äÂúÆÚ´ý¡£
+Ë¼µÏ£¨city£©µÄÄÚÊÎÉè¼ÆÒÔ³¬Ô½Í¬¼¶±ð½Î³µµÄ¸ßÖÊ¸ÐºÍ¸ß¸ñµ÷ÎªÄ¿±ê£¬ÌåÏÖ³öÏÈ½ø¡¢¾«ÖÂÓëÊµÓÃ£¬²ÉÓÃÁËÑÅ¸ó[±¨¼Û Í¼Æ¬]³µÐÍÉÏÊ¹ÓÃµÄ¾ßÓÐ¡°Ó­ËÍÏÔÊ¾¡±¹¦ÄÜµÄ×Ô·¢¹âÒÇ±í£¬ÓªÔì³öÈÚÇ¢µÄ½»Á÷Æø·Õ£¬ÈÃ¼ÝÊ»Õß³äÂúÆÚ´ý¡£
 ¿Õµ÷³ö·ç¿Ú²Ù×÷Å¥¡¢¸÷´¢ÎïºÐ°ÑÊÖ¶¼²ÉÓÃÁË¶Æ¸õ×°ÊÎ£¬¿Õµ÷²Ù×÷¿ª¹ØÒ²Ê¹ÓÃÁËÇÀÑÛµÄÒøÉ«Éè¼Æ£¬¼«¸»ÖÊ¸Ð¡£±äËÙÆ÷»»µ²¸ËÒÔ´øÓÐ
 ¡°city¡±±êÖ¾µÄ½ðÊô°å½øÐÐ×°ÊÎ¡£¶øÇ¶ÈëÊ½¿¨Æ¬ºÐ¡¢Ç°²¿Òþ²ØÊ½Ë«±­×ù¡¢ºóÅÅ´óÐÍË«±­¼ÜÁî³µÄÚ¿Õ¼äµÃÐÄÓ¦ÊÖ¡£
 Ë¼µÏ£¨city£©ÊÇÎ¨Ò»Ò»¿îÔÚÍ¬¼¶³µÐÍÖÐÊ¹ÓÃÁËÔÚ¸ß¼¶³µÉÏ¹ã·º×°±¸µÄ5ËÙ×Ô¶¯±äËÙÆ÷£¨5at£©µÄ³µÐÍ¡£Ë¼µÏ£¨city£©5atÊÇ¹ã±¾×¨ÃÅÎªË¼µÏ£¨city£©¿ª·¢Éè¼Æ£¬²ÉÓÃ±¾Ìï¶À´´µÄ±äËÙÆ÷ÄÚ²¿ÅÅÁÐ½á¹¹£¬ËÄ¡¢ÎåËÙ¹²ÓÃ³ÝÂÖ£¬¼«´óµØ¼õÐ¡ÁË±äËÙÆ÷Ìå»ý£¬ÎªÊµÏÖÕû³µµÄÇáÁ¿»¯×ö³öÁË¹±Ï×¡£¸ü¿íµÄ5µ²ËÙ±È·¶Î§¼°1-4µ²µÍËÙ±È¡£5atÊµÏÖÁË½Ï4at·¶Î§¸ü¿í¸üºÏÀíµÄ±äËÙ±È£¬ÔÚÏàÍ¬¸ßËÙ×´ÏÂ£¬·¢¶¯»ú×ªËÙ¸üµÍ£¬ÐÐÊ»¸ü°²¾²£¬È¼ÓÍ¾­¼ÃÐÔ¸üÓÅ¡£¶øÔÚÏàÍ¬µÍËÙ×´Ì¬ÏÂ£¬5atµÄµÍËÙ±ÈÏà¶Ô4atÐÐÊ»¶¯Á¦¸üÎª³äÅæ£¬Ê¹ÐÐÊ»ÐÔÄÜµÃµ½½øÒ»²½Ìá¸ß¡£
@@ -33347,90 +33340,44 @@ ATºÀ»ªÐÍ
 ÑéÖ¤Âë
 £º
 (°´Ctrl+Enter¿ÉÖ±½Ó·¢±í)
-<xmp
-id="xmp_topic_list"
-style="display:none">
-<?xml
-version="1.0"
-encoding="GB2312"?>
-<xsl:stylesheet
-version="1.0"
-xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-<xsl:output
-method="html"
-encoding="gb2312"
-/>
-<xsl:template
-match="/sobar_interface">
+<xmp id="xmp_topic_list" style="display:none">
+<?xml version="1.0" encoding="GB2312"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:output method="html" encoding="gb2312" />
+<xsl:template match="/sobar_interface">
 ±êÌâ
 µã»÷/»Ø¸´
-<xsl:apply-templates
-select="//topic"
-/>
+<xsl:apply-templates select="//topic" />
 </xsl:template>
-<xsl:template
-match="topic">
+<xsl:template match="topic">
 <xsl:choose>
-<xsl:when
-test="position()
-mod
-2
-=
-1">
-<xsl:if
-test="status='4'">
+<xsl:when test="position() mod 2 = 1">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:when>
 <xsl:otherwise>
-<xsl:if
-test="status='4'">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:otherwise>
 </xsl:choose>
 </xsl:template>
@@ -33873,8 +33820,7 @@ sedan¡±£¬¼´¡°ÏÈ½ø¡¢ÓÅÖÊ¡¢ÐÂ¶¼ÊÐ½Î³µ¡±Îª¿ª·¢ÀíÄî£¬Íâ¹ÛÔìÐÍ½ÏÈýÏáfit¸üÎªÐ­µ÷£¬ÄÚ²¿
 Ë¼µÏ£¨city£©¿í³¨µÄÄÚÊÎÓÐ¼ÒµÄÎÂÜ°£¬ÎªÁËÂú×ã²»Í¬ÈËÈº¶Ô¿Õ¼äÊµÓÃÐÔ¼°³Ë×øÊæÊÊÐÔµÄÒªÇó£¬Ë¼µÏ£¨city£©ÓµÓÐ¹Ì¶¨ºóÅÅ×ùÒÎºÍ×éºÏÊ½×ùÒÎÁ½ÖÖ²»Í¬µÄÐÎÊ½¡£¶ø×éºÏ×ùÒÎ¹æ¸ñÔò¸³Óè¿í³¨¿Õ¼äÒÔÈËÐÔ¿Æ¼¼£¬¼¸¸ö¼òµ¥µÄ¶¯×÷¾Í¿ÉÒÔÍê³ÉËÄÖÖ×ùÒÎ×éºÏÄ£Ê½£¬¹ºÎï¡¢³öÓÎ¡¢¸°Ô¼µÈ¸÷ÖÖ³¡ºÏ¶¼ÄÜÇáËÉÓ¦¶Ô£¬Áî¶¼ÊÐÉú»îã«ÒâÎÞÓÇ¡£
 ÕæÆ¤×ùÒÎ¹æ¸ñ×¨Îª×·Çó¸ß¸ñµ÷ºÍÊæÊÊ¸ÐµÄÓÃ»§ËùÉè¼Æ¡£ºóÅÅ×ùÒÎÒÎÃæ¿í´ó¡¢Ö§³ÅÁ¼ºÃ£¬ÅäºÏºÀ»ª¸ÐÊ®×ãµÄ³µÄÚ¿Õ¼ä¡£
 ×ùÒÎÏÂ·½»¹ÅäÓÐË«´¢ÎïºÐ£¬ÓÃ»§Ö»ÐèÒªÒ»ÊÖ¾ÍÄÜÇáËÉ²Ù×÷£¬ÓÃÀ´ÊÕÄÉºÍÕûÀí³µÄÚµÄÎïÆ·£¬Ò²¿É½«ÖØÒªµÄË½ÈËÎï¼þÍ×ÉÆÊÕ²Ø£¬·Â·ðÔÚ¼ÒÖÐ°ã×ÔÔÚËæÐÄ¡£
-Ë¼µÏ£¨city£©µÄÄÚÊÎÉè¼ÆÒÔ³¬Ô½Í¬¼¶±ð½Î³µµÄ¸ßÖÊ¸ÐºÍ¸ß¸ñµ÷ÎªÄ¿±ê£¬ÌåÏÖ³öÏÈ½ø¡¢¾«ÖÂÓëÊµÓÃ£¬²ÉÓÃÁËÑÅ¸ó[±¨¼Û
-Í¼Æ¬]³µÐÍÉÏÊ¹ÓÃµÄ¾ßÓÐ¡°Ó­ËÍÏÔÊ¾¡±¹¦ÄÜµÄ×Ô·¢¹âÒÇ±í£¬ÓªÔì³öÈÚÇ¢µÄ½»Á÷Æø·Õ£¬ÈÃ¼ÝÊ»Õß³äÂúÆÚ´ý¡£
+Ë¼µÏ£¨city£©µÄÄÚÊÎÉè¼ÆÒÔ³¬Ô½Í¬¼¶±ð½Î³µµÄ¸ßÖÊ¸ÐºÍ¸ß¸ñµ÷ÎªÄ¿±ê£¬ÌåÏÖ³öÏÈ½ø¡¢¾«ÖÂÓëÊµÓÃ£¬²ÉÓÃÁËÑÅ¸ó[±¨¼Û Í¼Æ¬]³µÐÍÉÏÊ¹ÓÃµÄ¾ßÓÐ¡°Ó­ËÍÏÔÊ¾¡±¹¦ÄÜµÄ×Ô·¢¹âÒÇ±í£¬ÓªÔì³öÈÚÇ¢µÄ½»Á÷Æø·Õ£¬ÈÃ¼ÝÊ»Õß³äÂúÆÚ´ý¡£
 ¿Õµ÷³ö·ç¿Ú²Ù×÷Å¥¡¢¸÷´¢ÎïºÐ°ÑÊÖ¶¼²ÉÓÃÁË¶Æ¸õ×°ÊÎ£¬¿Õµ÷²Ù×÷¿ª¹ØÒ²Ê¹ÓÃÁËÇÀÑÛµÄÒøÉ«Éè¼Æ£¬¼«¸»ÖÊ¸Ð¡£±äËÙÆ÷»»µ²¸ËÒÔ´øÓÐ
 ¡°city¡±±êÖ¾µÄ½ðÊô°å½øÐÐ×°ÊÎ¡£¶øÇ¶ÈëÊ½¿¨Æ¬ºÐ¡¢Ç°²¿Òþ²ØÊ½Ë«±­×ù¡¢ºóÅÅ´óÐÍË«±­¼ÜÁî³µÄÚ¿Õ¼äµÃÐÄÓ¦ÊÖ¡£
 Ë¼µÏ£¨city£©ÊÇÎ¨Ò»Ò»¿îÔÚÍ¬¼¶³µÐÍÖÐÊ¹ÓÃÁËÔÚ¸ß¼¶³µÉÏ¹ã·º×°±¸µÄ5ËÙ×Ô¶¯±äËÙÆ÷£¨5at£©µÄ³µÐÍ¡£Ë¼µÏ£¨city£©5atÊÇ¹ã±¾×¨ÃÅÎªË¼µÏ£¨city£©¿ª·¢Éè¼Æ£¬²ÉÓÃ±¾Ìï¶À´´µÄ±äËÙÆ÷ÄÚ²¿ÅÅÁÐ½á¹¹£¬ËÄ¡¢ÎåËÙ¹²ÓÃ³ÝÂÖ£¬¼«´óµØ¼õÐ¡ÁË±äËÙÆ÷Ìå»ý£¬ÎªÊµÏÖÕû³µµÄÇáÁ¿»¯×ö³öÁË¹±Ï×¡£¸ü¿íµÄ5µ²ËÙ±È·¶Î§¼°1-4µ²µÍËÙ±È¡£5atÊµÏÖÁË½Ï4at·¶Î§¸ü¿í¸üºÏÀíµÄ±äËÙ±È£¬ÔÚÏàÍ¬¸ßËÙ×´ÏÂ£¬·¢¶¯»ú×ªËÙ¸üµÍ£¬ÐÐÊ»¸ü°²¾²£¬È¼ÓÍ¾­¼ÃÐÔ¸üÓÅ¡£¶øÔÚÏàÍ¬µÍËÙ×´Ì¬ÏÂ£¬5atµÄµÍËÙ±ÈÏà¶Ô4atÐÐÊ»¶¯Á¦¸üÎª³äÅæ£¬Ê¹ÐÐÊ»ÐÔÄÜµÃµ½½øÒ»²½Ìá¸ß¡£
@@ -34042,90 +33988,44 @@ ATºÀ»ªÐÍ
 ÑéÖ¤Âë
 £º
 (°´Ctrl+Enter¿ÉÖ±½Ó·¢±í)
-<xmp
-id="xmp_topic_list"
-style="display:none">
-<?xml
-version="1.0"
-encoding="GB2312"?>
-<xsl:stylesheet
-version="1.0"
-xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-<xsl:output
-method="html"
-encoding="gb2312"
-/>
-<xsl:template
-match="/sobar_interface">
+<xmp id="xmp_topic_list" style="display:none">
+<?xml version="1.0" encoding="GB2312"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:output method="html" encoding="gb2312" />
+<xsl:template match="/sobar_interface">
 ±êÌâ
 µã»÷/»Ø¸´
-<xsl:apply-templates
-select="//topic"
-/>
+<xsl:apply-templates select="//topic" />
 </xsl:template>
-<xsl:template
-match="topic">
+<xsl:template match="topic">
 <xsl:choose>
-<xsl:when
-test="position()
-mod
-2
-=
-1">
-<xsl:if
-test="status='4'">
+<xsl:when test="position() mod 2 = 1">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:when>
 <xsl:otherwise>
-<xsl:if
-test="status='4'">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:otherwise>
 </xsl:choose>
 </xsl:template>
@@ -34556,11 +34456,7 @@ Reserved
 ÀàÐÍ£º
 µÚ°Ë´úÑÅ¸ó½âÎö£º
 Ò»¡¢Íâ¹Û
-Íâ¹ÛÊÇµÚ°Ë´úÑÅ¸óËù¸Ä±ä×î´óµÄµØ·½£¬Ò²ÊÇÎÒÃÇËù×îÄÜÒ»Ä¿ÁËÈ»µÄµØ·½¡£³ýÁËÔÚÇ°Á³ºÍÎ²²¿µÄ±ä»¯Ö®Íâ£¬Ã÷ÑÛÈËÒ»¿´¾ÍÖªµÀ£¬³µ×Ó±ÈÒÔÇ°³¤ÁËºÜ¶à¡£³¤¶È´ï4945mm£¬Öá¾àÒ²Ôö³¤µ½ÁË2800mm£¬¿°ÓëC¼¶³µÐÍæÇÃÀ¡£¹ã±¾Ö´ÐÐ¸±×Ü¾­Àí¸¶ÊØ½Ü³Æ£¬µÚ°Ë´úÑÅ¸óÊÇÒ»¿îB++¼¶²úÆ·¡£ÁíÍâ£¬Íâ¹ÛµÄ¸Ä±ä¸ü¼ÓÊÊºÏÏÖÊ±Ö÷Á÷Ïû·ÑÈËÈºµÄÉóÃÀÒªÇó£¬½«Ö®Ç°µÄ¡°¼âÁ³¡±¸ÄÎª¡°·½Á³¡±(±È½Ï³É¹¦µÄÀý×Ó¾ÍÊÇ¿­ÃÀÈð
-VS
-ÀÏ¿î¼ÑÃÀ£¬ÒÔ¼°Ò»Æû±¼ÌÚ
-VS
-Mazda6)£¬·½Á³´øÀ´µÄ±ä»¯¾ÍÊÇ¸ü¼ÓµÄÎÈÖØºÍ´óÆø£¬ÕâÈÃÉÌÎñÈËÊ¿¾õµÃ¸ü¼ÓÇ×ÇÐÒÔ¼°·ûºÏËûÃÇµÄ¶¨Î»¡£ÁíÍâÐÂÑÅ¸óµÄÇ°²¿ÕûÌåµÄÔìÐÍÓÉÖ®Ç°µÄÇ°ËúÊ½Ò²¸ÄÎªÂÔÏòÉÏÑïÊ½£¬¸ü¾ßÇÖÂÔÐÔ¼°»îÁ¦£¬ÕâÑù£¬ÐÂÑÅ¸óµÄÊÊÓ¦Ïû·ÑÈºÌå±ÈÖ®Ç°»áÓÐÔöÎÞ¼õ(ÓÐ30ËêÒÔÉÏÈËÈºÏò¸üµÍÄêÁä²ã·¢Õ¹£¬Í¬Ê±¿ÉÒÔ¼æ¹ËÔ­Ïû·ÑÈËÈº)¡£
+Íâ¹ÛÊÇµÚ°Ë´úÑÅ¸óËù¸Ä±ä×î´óµÄµØ·½£¬Ò²ÊÇÎÒÃÇËù×îÄÜÒ»Ä¿ÁËÈ»µÄµØ·½¡£³ýÁËÔÚÇ°Á³ºÍÎ²²¿µÄ±ä»¯Ö®Íâ£¬Ã÷ÑÛÈËÒ»¿´¾ÍÖªµÀ£¬³µ×Ó±ÈÒÔÇ°³¤ÁËºÜ¶à¡£³¤¶È´ï4945mm£¬Öá¾àÒ²Ôö³¤µ½ÁË2800mm£¬¿°ÓëC¼¶³µÐÍæÇÃÀ¡£¹ã±¾Ö´ÐÐ¸±×Ü¾­Àí¸¶ÊØ½Ü³Æ£¬µÚ°Ë´úÑÅ¸óÊÇÒ»¿îB++¼¶²úÆ·¡£ÁíÍâ£¬Íâ¹ÛµÄ¸Ä±ä¸ü¼ÓÊÊºÏÏÖÊ±Ö÷Á÷Ïû·ÑÈËÈºµÄÉóÃÀÒªÇó£¬½«Ö®Ç°µÄ¡°¼âÁ³¡±¸ÄÎª¡°·½Á³¡±(±È½Ï³É¹¦µÄÀý×Ó¾ÍÊÇ¿­ÃÀÈð VS ÀÏ¿î¼ÑÃÀ£¬ÒÔ¼°Ò»Æû±¼ÌÚ VS Mazda6)£¬·½Á³´øÀ´µÄ±ä»¯¾ÍÊÇ¸ü¼ÓµÄÎÈÖØºÍ´óÆø£¬ÕâÈÃÉÌÎñÈËÊ¿¾õµÃ¸ü¼ÓÇ×ÇÐÒÔ¼°·ûºÏËûÃÇµÄ¶¨Î»¡£ÁíÍâÐÂÑÅ¸óµÄÇ°²¿ÕûÌåµÄÔìÐÍÓÉÖ®Ç°µÄÇ°ËúÊ½Ò²¸ÄÎªÂÔÏòÉÏÑïÊ½£¬¸ü¾ßÇÖÂÔÐÔ¼°»îÁ¦£¬ÕâÑù£¬ÐÂÑÅ¸óµÄÊÊÓ¦Ïû·ÑÈºÌå±ÈÖ®Ç°»áÓÐÔöÎÞ¼õ(ÓÐ30ËêÒÔÉÏÈËÈºÏò¸üµÍÄêÁä²ã·¢Õ¹£¬Í¬Ê±¿ÉÒÔ¼æ¹ËÔ­Ïû·ÑÈËÈº)¡£
 ¶þ¡¢¶¯Á¦
 µÚ°Ë´úÑÅ¸ó½«ÓÐÈý¸ö²»Í¬·¢¶¯»úÅäÖÃµÄ³µÐÍÍ¶·ÅÊÐ³¡£¬·Ö±ð´îÔØ2.0Lµ¥¶¥ÖÃÍ¹ÂÖÖá·¢¶¯»ú£¬2.4LË«¶¥ÖÃÍ¹ÂÖÖá·¢¶¯»úºÍ3.5L
 VCM·¢¶¯»ú¡£¸ù¾Ý¹ãÖÝ±¾ÌïµÄÍÆ¹ã¼Æ»®£¬2.0°æ±¾ÏÔÈ»²»ÊÇËûÃÇµÄÖ÷Á¦³µÐÍ£¬ÔÚ1ÔÂ6ÈÕ¹«²¼µÄ¼Û¸ñ±íÖÐÒ²²»»á³öÏÖ£¬½ñºóÒ²ºÜÓÐ¿ÉÄÜÔÚÒ»¶ÎÊ±¼ä³öÏÖÓÐ¼ÛÎÞ³µµÄ¶©µ¥Ê½Éú²úÄ£Ê½¡£2.4LÅÅÁ¿ÒÔ¼°¸ü¸ß¶ËµÄ3.5L²ÅÊÇÐÂÑÅ¸óÖ÷´òµÄ³µÐÍ¡£×÷ÎªµÚ°Ë´úÑÅ¸óÖÐÖ÷´òµÄ2.4L³µÐÍ£¬ÆäºÍÀÏ¿îµÚÆß´úÑÅ¸óÒ»ÑùÖ§³Öi-VTECÖÇÄÜ¿É±äÆøÃÅÕýÊ±¼¼Êõ£¬·¢¶¯»úµÄ¹¦ÂÊÎª132Kw/6500rpm£¬Å¤¾ØÎª225Nm/4500rpm£¬¶øÏÖ¿îÑÅ¸ó2.4µÄ×î´ó¹¦ÂÊÖ»ÓÐ125Kw£¬Å¤¾ØÎª220Nm£¬ÁíÍâµÚ°Ë´úÑÅ¸óµÄ×î´ó¹¦ÂÊ¼°Å¤¾ØµÄ·¢³ö×ªËÙÉÏÒ²½Ï7´úÑÅ¸ó2.4LÓÐËùÌá¸ß¡£¶ø3.5LÅÅÁ¿³µÐÍËäÈ»ÓµÓÐ3¶ÎVCM¿É±äÆø¸×¹ÜÀíÏµÍ³£¬²»¹ý¾ÍÆä¶¨Î»ÒÔ¼°Æä½«Òª¹«²¼µÄÊÛ¼ÛÀ´¿´£¬3.5L³µÐÍµÄÏúÁ¿Ó¦µ±²»»áÌ«¸ß¡£²»¹ý¶ÔÆóÒµ»òÕþ¸®·½ÃæµÄÐÐÒµ¸ß¶ËÓÃ»§À´Ëµ£¬3.5L³µÐÍµÄÐÂ¿Æ¼¼´øÀ´ÀÖÈ¤ÊÇ¾ø¶ÔÖµµÃ³¢ÊÔµÄ¡£
@@ -34570,9 +34466,7 @@ VCM·¢¶¯»ú¡£¸ù¾Ý¹ãÖÝ±¾ÌïµÄÍÆ¹ã¼Æ»®£¬2.0°æ±¾ÏÔÈ»²»ÊÇËûÃÇµÄÖ÷Á¦³µÐÍ£¬ÔÚ1ÔÂ6ÈÕ¹«²¼µÄ
 ËÄ¡¢ÅäÖÃ
 ³ýÁËÈÃÈË¶úÄ¿Ò»ÐÂµÄÍâÐÎºÍÄÚÊÎ£¬µÚ°Ë´úÑÅ¸óÔÚÅäÖÃÉÏµÄÌáÉýÊ®·ÖÃ÷ÏÔ¡£3.5L³µÐÍµÄÖÐ¿ØÌ¨ÉÏµÄ¶à¹¦ÄÜÒº¾§ÆÁÄ»£¬¼æ¹ËGPSµ¼º½ºÍDVDÓ°ÒôÓéÀÖ¹¦ÄÜÒÔ¼°È«²Ê¿ÉÊÓµ¹³µÀ×´ïÆÁ¡£´ËÍâ£¬µÚ°Ë´úÑÅ¸ó²ÉÓÃÁËµ±ÏÂÁ÷ÐÐµÄ¿¨Æ¬ÖÇÄÜÔ¿³×¼°ÎÞÔ¿³×µã»ðÏµÍ³¡£ÁíÍâÔÚ¼ÝÊ»Ô±¿ªÆô³µÃÅµÄË²¼ä£¬³µÃÅ²¿Î»µÄ¸ÐÓ¦Æ÷»áË²¼ä¸ÐÓ¦ÊÖ²¿Ïà¶ÔÓÚ³µÉíµÄÎ»ÖÃ£¬×öµ½¼°Ê±¿ªËø¡£ÁíÍâ¿É¿ØÒôÏìÕæÆ¤¶à¹¦ÄÜ·½ÏòÅÌ¼°ÆäËûÖîÈç¶ÀÁ¢Ë«ÎÂÇø×Ô¶¯¿Õµ÷µÈÅäÖÃ¶¼ÊÇ±ê×¼ÅäÖÃ¡£¶ø3.5L³µÐÍÉÏµÄ¼ÝÊ»Ï¯×ùÒÎ»¹Ö§³Ö8Ïòµç¶¯µ÷½Ú¼°µç¼ÓÈÈ¹¦ÄÜ¡£½«ËùÓÐÊ±ÏÂÁ÷ÐÐµÄÅäÖÃÒ»Ò»ÄÒÀ¨¡£
 Îå¡¢¼Û¸ñ
-08¿­ÃÀÈðÒµÒÑÉÏÊÐ¡£ÆäÔö¼ÓµÄÈ«ÆøÄÒµÄ°²È«ÅäÖÃÈÃÕûÌå°²È«µÈ¼¶ÀíÂÛÉÏ´ïµ½ÁËÅ·ÖÞNCAPµÄ5ÐÇË®Æ½¡£¶ø¹ãÖÝ±¾ÌïÈ´ÒÑ¾­×öºÃÁËÐÄÀí×¼±¸£¬¹ã±¾Ö´ÐÐ¸±×Ü¾­Àí¸¶ÊØ½Ü³Æ£ºËûÃÇ½«Éú²úÏßÌáÇ°Ò»¸öÔÂ½øÐÐÁËµ÷Õû£¬ÒÔÖÂÓÚÓ°ÏìÁËÀÏ¿îÑÅ¸óµÄ²úÏúÁ¿¡£ÄÇÃ´ÔÚ08ÄêÓÖ¼¸ºõÏûºÄÁËÒ»ÖÜµÄÊ±¼ä²ÅÕýÊ½ÉÏÊÐ¡£ÓÉÓÚ´Ë´ÎÊÇ´¹Ö±»»´ú£¬ÀÏ¿îÑÅ¸ó½«ÍË³öÊÐ³¡£¬¼Û¸ñÊÇµÚ°Ë´úÑÅ¸óÄÜ·ñÔÚÈ«¹úÒ»ÅÚ´òÏìµÄ¹Ø¼üÒòËØ£¬×Ý¹Û´Ë´ÎµÚ°Ë´úÑÅ¸óµÄ»»´ú£¬ËùÉý¼¶µÄ²¿·ÖÒÔ¼°¸Ä½ø¶¼ÊÇÎªÁËÖÐ¼¶³µÊÐ³¡±¦×ù¶øÀ´¡£ÎÄÊ×Ìáµ½£¬ÒÔ¹ãÖÝ±¾ÌïºÍÑÅ¸óµÄÆ·ÅÆ¶ÈÀ´½²£¬¼Û¸ñÏÔÈ»²»Ó¦¸Ã¸ßÓÚ¿­ÃÀÈð¡£ÈçºÎÔÚ08°ÂÔËÄê´óÕ¹È­½Å£¬»¹Òª¿´¹ãÖÝ±¾ÌïºÍ¹ãÖÝ·áÌïÈçºÎÒýÁì½ñÄêB¼¶³µÊÐ³¡µÄÒ»·¬´óÕ½ÁË¡£(ÎÄ
-ÌÚÑ¶Æû³µ
-ÓÚÏªéª)
+08¿­ÃÀÈðÒµÒÑÉÏÊÐ¡£ÆäÔö¼ÓµÄÈ«ÆøÄÒµÄ°²È«ÅäÖÃÈÃÕûÌå°²È«µÈ¼¶ÀíÂÛÉÏ´ïµ½ÁËÅ·ÖÞNCAPµÄ5ÐÇË®Æ½¡£¶ø¹ãÖÝ±¾ÌïÈ´ÒÑ¾­×öºÃÁËÐÄÀí×¼±¸£¬¹ã±¾Ö´ÐÐ¸±×Ü¾­Àí¸¶ÊØ½Ü³Æ£ºËûÃÇ½«Éú²úÏßÌáÇ°Ò»¸öÔÂ½øÐÐÁËµ÷Õû£¬ÒÔÖÂÓÚÓ°ÏìÁËÀÏ¿îÑÅ¸óµÄ²úÏúÁ¿¡£ÄÇÃ´ÔÚ08ÄêÓÖ¼¸ºõÏûºÄÁËÒ»ÖÜµÄÊ±¼ä²ÅÕýÊ½ÉÏÊÐ¡£ÓÉÓÚ´Ë´ÎÊÇ´¹Ö±»»´ú£¬ÀÏ¿îÑÅ¸ó½«ÍË³öÊÐ³¡£¬¼Û¸ñÊÇµÚ°Ë´úÑÅ¸óÄÜ·ñÔÚÈ«¹úÒ»ÅÚ´òÏìµÄ¹Ø¼üÒòËØ£¬×Ý¹Û´Ë´ÎµÚ°Ë´úÑÅ¸óµÄ»»´ú£¬ËùÉý¼¶µÄ²¿·ÖÒÔ¼°¸Ä½ø¶¼ÊÇÎªÁËÖÐ¼¶³µÊÐ³¡±¦×ù¶øÀ´¡£ÎÄÊ×Ìáµ½£¬ÒÔ¹ãÖÝ±¾ÌïºÍÑÅ¸óµÄÆ·ÅÆ¶ÈÀ´½²£¬¼Û¸ñÏÔÈ»²»Ó¦¸Ã¸ßÓÚ¿­ÃÀÈð¡£ÈçºÎÔÚ08°ÂÔËÄê´óÕ¹È­½Å£¬»¹Òª¿´¹ãÖÝ±¾ÌïºÍ¹ãÖÝ·áÌïÈçºÎÒýÁì½ñÄêB¼¶³µÊÐ³¡µÄÒ»·¬´óÕ½ÁË¡£(ÎÄ ÌÚÑ¶Æû³µ ÓÚÏªéª)
 ÑÅ¸óÀúÊ·£º
 1976Äê£¬ÔÚÊÊÓ¦ÄÜÔ´Î£»úºÍ¶ÔÅÅÆøµÄÏÞÖÆµÈÐÂÐÎÊÆµÄÒªÇóÏÂ£¬µÚÒ»´úÑÅ¸óÎÊÊÀ¡£¡°³öÉú¡±µÄÊ±´ú±³¾°¾ö¶¨ÁËËü¾ßÓÐ×îÓÅÔ½µÄ½ÚÄÜ¡¢»·±£ÐÔÄÜ¡£´ËºóÃ¿¸ô¼¸Äê£¬±¾Ìï½«µ±Ê±×îÐÂ¡¢×îÏÈ½øµÄ¼¼ÊõÔËÓÃÔÚÑÅ¸óÉíÉÏ£¬Ê¹Æä¸ü»·±£¡¢¸ü½ÚÄÜ¡¢¸ü°²È«£¬ÐÔÄÜ¸üÏÈ½ø£¬³É¹¦ÊµÏÖÒ»´ÎÓÖÒ»´ÎÉý¼¶»»´ú¡£
 1998Äê£¬¹ãÖÝ±¾Ìï³ÉÁ¢£¬Òý½ø1997Äê¸Õ»»´úµÄ±±ÃÀ°æµÚÁù´úÑÅ¸ó£¬ÊÇµ±Ê±ÖÐ¹úÆû³µÊÐ³¡Òý½øÉú²úµÄµÚÒ»¿îÓë¹ú¼Ê½Ó¹ìµÄ³µÐÍ¡£¿ÉÒÔËµ£¬ÊÇ¹ãÖÝ±¾ÌïÊ¹µÃÑÅ¸óµÄ¹ÊÊÂµÃÒÔÔÚÖÐ¹ú³É¹¦ÐøÐ´£¬Ò²¿ÉÒÔËµ£¬ÊÇÑÅ¸óÏåÖúÁË¹ãÖÝ±¾ÌïµÄ²¦ÔÆ¼ûÈÕ¡¢ÕôÕôÈÕÉÏ¡£
@@ -34580,10 +34474,7 @@ VCM·¢¶¯»ú¡£¸ù¾Ý¹ãÖÝ±¾ÌïµÄÍÆ¹ã¼Æ»®£¬2.0°æ±¾ÏÔÈ»²»ÊÇËûÃÇµÄÖ÷Á¦³µÐÍ£¬ÔÚ1ÔÂ6ÈÕ¹«²¼µÄ
 ÔÚµÚÁù´úÑÅ¸ó»¹¹©²»Ó¦ÇóµÄÇé¿öÏÂ£¬2002Äêµ×£¬¹ãÖÝ±¾ÌïÒãÈ»Í£Ö¹Õâ¿î³µµÄÉú²ú£¬ÓÚ2003Äê1ÔÂ15ÈÕÍÆ³öÁËÎÞÂÛÔÚÐÐÊ»ÐÔÄÜ»¹ÊÇÔÚÍâÐÎÉè¼ÆÉÏ¾ù¸üÉÏÒ»²ãÂ¥µÄµÚÆß´ú¡¢03¿îÑÅ¸ó£¬¶ø¼Û¸ñ¸ü¼Ó¹ú¼Ê»¯£¬ÒýÆðÁËÖÐ¹ú³µÊÐÓÈÆäÊÇÖÐ¸ßµµ³µÊÐµÄ´óÕðµ´¡£
 03¿îÑÅ¸óµÄÍÆ³öÊ¹ÑÅ¸óÔÚÖÐ¹úµÄÕ÷Õ½ÅÊÉÏÁËÒ»¸öÐÂµÄ¸ß·å£¬»ñµÃÁËÎÞÊý½±Ïî£¬Ò²Ó®µÃ¸ü¶à¹Ë¿ÍµÄÇàíù£¬ÓµÓÐÁË¸ü¶àÓµõ»¡£
 2005Äê12ÔÂ28ÈÕ£¬¹ãÖÝ±¾Ìï06¿îÑÅ¸óÔÚ¹ãÖÝÊÐÐÂÌåÓý¹ÝÂ¡ÖØÏÂÏß¡£06¿îÑÅ¸óµÄÍÆ³ö£¬Ö¤Ã÷ÑÅ¸óµÄ¾«²Ê»¹ÔÚÑÓÐø¡­¡­
-ÎªÁËÂú×ãÓÃ»§¶ÔÑÅ¸ó¸ü¸ß²ã´ÎµÄ¼ÛÖµÆÚÍû£¬¹ãÖÝ±¾Ìï½«¡°3more¡±ÀíÄîÔËÓÃÓÚ06¿îÑÅ¸óµÄ¿ª·¢Ö®ÖÐ¡£ÔÚ¼Ì³ÐÒÑÓÐ¸ßÆ·ÖÊµÄ»ù´¡ÉÏ£¬Í¨¹ý¡°¸ü¸ß¼¶¡±£¨more
-advanced£©¡¢¡°¸ü¶¯¸Ð¡±(more
-sporty)¡¢¡°¸ü°²È«¡±(more
-secure)Èý¸öÖ§µã´´Ôì³öÕ¸ÐÂµÄ06¿îÑÅ¸óÐÎÏó£¬´ïµ½Íâ¹Û¡¢ÄÚÊÎ¡¢¶¯Á¦¡¢²Ù¿Ø¸÷·½Ãæ¸ü¸ßË®Æ½µÄºÍÐ³Í³Ò»£¬³É¾ÍÒ»¿îÖÇ»Û¡¢½øÈ¡¡¢³¬Ô½Í¬¼¶±ðµÄ¸ßÐÔÄÜ½Î³µ¡£
+ÎªÁËÂú×ãÓÃ»§¶ÔÑÅ¸ó¸ü¸ß²ã´ÎµÄ¼ÛÖµÆÚÍû£¬¹ãÖÝ±¾Ìï½«¡°3more¡±ÀíÄîÔËÓÃÓÚ06¿îÑÅ¸óµÄ¿ª·¢Ö®ÖÐ¡£ÔÚ¼Ì³ÐÒÑÓÐ¸ßÆ·ÖÊµÄ»ù´¡ÉÏ£¬Í¨¹ý¡°¸ü¸ß¼¶¡±£¨more advanced£©¡¢¡°¸ü¶¯¸Ð¡±(more sporty)¡¢¡°¸ü°²È«¡±(more secure)Èý¸öÖ§µã´´Ôì³öÕ¸ÐÂµÄ06¿îÑÅ¸óÐÎÏó£¬´ïµ½Íâ¹Û¡¢ÄÚÊÎ¡¢¶¯Á¦¡¢²Ù¿Ø¸÷·½Ãæ¸ü¸ßË®Æ½µÄºÍÐ³Í³Ò»£¬³É¾ÍÒ»¿îÖÇ»Û¡¢½øÈ¡¡¢³¬Ô½Í¬¼¶±ðµÄ¸ßÐÔÄÜ½Î³µ¡£
 ÓÅÑÅÓë¶¯¸Ð¼æ¾ßµÄÍâ¹Û
 06¿îÑÅ¸ó³µÉíÏßÌõÏ´Á·¡¢Á÷³©£¬Õû³µÔìÐÍÈÚºÏÊ±ÉÐ¶¯¸ÐºÍÓºÈÝÆø¶È¡£È«ÐÂµÄ³µÎ²ÔìÐÍÈÃÈËÑÛÇ°Ò»ÁÁ£º²ÉÓÃºÀ»ª³µÐÍ³£ÓÃµÄled¸ßÎ»É²³µµÆ¼°µäÑÅµÄÈý½ÇÐÎ×éºÏÎ²µÆ£¬¼ò½àÃ÷¿ì£¬Óë¶ÀÌØµÄ¿íÅÆÕÕ°åÒ»ÆðÓªÔì³ö´óÆø³ÁÎÈµÄÓ¡Ïó¡£¸ßÁÁ¶È¡¢ÑóÒç¿Æ¼¼¸ÐµÄledÎ²µÆÒ²½«³ÉÎª³µÁ÷ÖÐ×îÌØ±ðµÄ·ç¾°¡£
 ÐÂµÄÎ²²¿ÔìÐÍ´ïµ½ÓëÇ°²¿¸üÐ­µ÷µÄºôÓ¦£¬Ê¹Õû³µÐÎÏó¸üÎªÍ»³ö¡£ºÍÐ³µÄÍâ¹ÛÔÌº­ÁË06¿îÑÅ¸ó¶ÀÌØµÄÃÀ¸Ð£º¸öÐÔÊ®×ã¡¢ºôÖ®Óû³öµÄÇ°Á³¡¢³äÂú¶¯ÊÆÓëÁ¦¶ÈµÄ²àÎ§ÒÔ¼°´óÆøÊæÕ¹¡¢¸»ÓÐÖÊ¸ÐµÄÎ²²¿¡­¡­ÎªÓÃ»§´øÀ´¸ü·á¸»¡¢Éî¿ÌµÄÊÓ¾õÏíÊÜ¡£
@@ -34604,23 +34495,17 @@ vtec³µÐÍÉÏÑ¡×°µ¹³µºóÉãÏñÍ·£¬½«³µºóÇé¿öÒ»ÀÀÎÞÓà£¬¸ü°²ÐÄµØ½øÐÐµ¹³µ²Ù×÷¡£
 ·¢¶¯»ú£¬¼¯¸ß¶¯Á¦¡¢µÍÓÍºÄµÄÓÅÒìÐÔÄÜÓÚÒ»Éí¡£×¿Ô½µÄi-vtec·¢¶¯»ú½áºÏÁËhondaÏÈ½øµÄvtec£¨¿É±äÆøÃÅÕýÊ±¼°Éý³Ìµç×Ó¿ØÖÆ£©¼¼ÊõºÍ·¢¶¯»úÔÚ²»Í¬×ªËÙÇøÓòÁ¬Ðøµ÷¿ØÅäÆøÏàÎ»µÄvtc¼¼Êõ£¬¾ßÓÐÇ¿´óµÄÅ¤¾ØÊä³öÒÔ¼°ÅìÅÈÃôÈñµÄ¼ÓËÙÐÔÄÜ¡£Í¨¹ýecuµç×Ó¿ØÖÆµ¥Ôª£¬¿ØÖÆ½øÅÅÆøÃÅµÄ¿ªÆôºÍ¹Ø±Õ£¬Ê¹·¢¶¯»úµÄÈ¼ÉÕ×´Ì¬±£³Ö×î¼Ñ£¬´Ó¶øÊµÏÖÁË¸ß¹¦ÂÊÊä³ö¡¢µÍÈ¼ÓÍÏûºÄºÍÇå½àÅÅ·ÅµÄÀíÏëÆ½ºâ¡£
 2.4li-vtec·¢¶¯»úÍ¨¹ý¶Ô½ø¡¢ÅÅÆøÏµÍ³µÄ¸Ä½ø£¬Ìá¸ßÁË¿ÕÆøÁ÷¶¯ÂÊ£¬Ê¹ÅÅÆøÐ§ÂÊµÃµ½ÓÅ»¯£¬ÅçÓÍÐ§ÂÊµÃÒÔÌá¸ß£¬×î´ó¹¦ÂÊ½Ï05¿îÌáÉýÁË10ÂíÁ¦¡£ÔÚ2.4li-vtecºÍ3.0l
 v6
-vtec³µÐÍÉÏ£¬06¿îÑÅ¸ó»¹Ó¦ÓÃÁË¾«×¼µÄdbw£¨drive
-by
-wire£©Ïß¿ØÓÍÃÅÇý¶¯×°ÖÃ£¨µç×ÓÓÍÃÅ£©¡£dbwÏµÍ³¸Ä±ä´«Í³ÐÎÊ½£¬Í¨¹ý´«¸ÐÆ÷À´¼ì²âÓÍÃÅÌ¤°åÎ»ÖÃ£¬¾­¹ýecuÅÐ¶Ï£¬½øÐÐ×î¼ÑµÄ¿ØÖÆ£¬ÊµÏÖÁË³µÁ¾Æ½Ë³µÄÆð²½¼ÓËÙºÍÇ¿¾¢µÄ¸ßËÙÐÐÊ»£¬»¹´ó´óÌá¸ßÁËÈ¼ÓÍ¾­¼ÃÐÔ¡£Í¬Ê±¼¯³ÉµÄ¶¨ËÙÑ²º½¹¦ÄÜÒ²ÈÃ¼ÝÊ»¸ü¼ÓÇáËÉ¡£
+vtec³µÐÍÉÏ£¬06¿îÑÅ¸ó»¹Ó¦ÓÃÁË¾«×¼µÄdbw£¨drive by wire£©Ïß¿ØÓÍÃÅÇý¶¯×°ÖÃ£¨µç×ÓÓÍÃÅ£©¡£dbwÏµÍ³¸Ä±ä´«Í³ÐÎÊ½£¬Í¨¹ý´«¸ÐÆ÷À´¼ì²âÓÍÃÅÌ¤°åÎ»ÖÃ£¬¾­¹ýecuÅÐ¶Ï£¬½øÐÐ×î¼ÑµÄ¿ØÖÆ£¬ÊµÏÖÁË³µÁ¾Æ½Ë³µÄÆð²½¼ÓËÙºÍÇ¿¾¢µÄ¸ßËÙÐÐÊ»£¬»¹´ó´óÌá¸ßÁËÈ¼ÓÍ¾­¼ÃÐÔ¡£Í¬Ê±¼¯³ÉµÄ¶¨ËÙÑ²º½¹¦ÄÜÒ²ÈÃ¼ÝÊ»¸ü¼ÓÇáËÉ¡£
 ½ô´Õ»¯Éè¼ÆµÄ5ËÙ×Ô¶¯±äËÙÆ÷½«»»µ²³å»÷½µµ½×îµÍ£¬ÊµÏÖÁËÈ¼ÓÍ¾­¼ÃÐÔºÍ¸ßÐ§ÂÊµÄÍ³Ò»£¬²¢²ÉÓÃÐÂµÄÁã¼þÉè¼Æ±ê×¼£¬ÌáÉýÁË±äËÙÆ÷µÄÄÍÓÃÐÔÒÔ¼°ÕûÌåÐÔÄÜ¡£ÁíÍâ£¬×¨ÎªÂú×ãÓÃ»§µÄ¶àÔª»¯ÐèÇó¶øÉè¼ÆÁË5ËÙÊÖ¶¯±äËÙÆ÷£¬´øÀ´´¿´âµÄ¼ÝÊ»ÀÖÈ¤¡£
 Ðü¹ÒÏµÍ³¼Ì³ÐÁËÑÅ¸ó³ÉÊì¸ßË®×¼µÄ¼¼Êõ£¬ÎÞÂÛÊÇË«ºá±Û¶ÀÁ¢Ç°Ðü¹Ò£¬»¹ÊÇÎåÁ¬¸ËË«ºá±Û¶ÀÁ¢ºóÐü¹Ò¶¼ÎªÊµÏÖ¶àÑùµÄ¼ÝÊ»ÀÖÈ¤ºÍÊæÊÊµÄ³Ë×øÌåÑé×÷³öÁË¹±Ï×¡£
 Á÷³©µÄÕû³µÔìÐÍÒÔ¼°¸ßÐ§ÂÊ·ÀÔë¼¼ÊõµÄÓ¦ÓÃ£¬Ê¹06¿îÑÅ¸ó¾ßÓÐ³öÉ«µÄ¿ÕÆø¶¯Á¦Ñ§ÐÔÄÜºÍnvhÐÔÄÜ¡£
-ÔÚ¶¯Á¦¡¢²Ù¿ØºÍÐ³Í³Ò»µÄÍ¬Ê±£¬06¿îÑÅ¸óÒ²ÖÂÁ¦×·ÇóÓë×ÔÈ»µÄºÍÐ³Ïà´¦¡£ÏÈ½øµÄ·¢¶¯»ú¼¼Êõ´øÀ´ÁË¼«¼ÑµÄÈ¼ÓÍ¾­¼ÃÐÔ£¬90km/hµÈËÙÐÐÊ»°Ù¹«ÀïÓÍºÄ½öÎª7.1l£¨2.4l
-i-vtec£©£¬Í¬Ê±ÅÅ·Å´ïµ½euro-¢ôË®Æ½¡£
+ÔÚ¶¯Á¦¡¢²Ù¿ØºÍÐ³Í³Ò»µÄÍ¬Ê±£¬06¿îÑÅ¸óÒ²ÖÂÁ¦×·ÇóÓë×ÔÈ»µÄºÍÐ³Ïà´¦¡£ÏÈ½øµÄ·¢¶¯»ú¼¼Êõ´øÀ´ÁË¼«¼ÑµÄÈ¼ÓÍ¾­¼ÃÐÔ£¬90km/hµÈËÙÐÐÊ»°Ù¹«ÀïÓÍºÄ½öÎª7.1l£¨2.4l i-vtec£©£¬Í¬Ê±ÅÅ·Å´ïµ½euro-¢ôË®Æ½¡£
 ÊÀ½ç×î¸ßË®Æ½µÄ°²È«ÐÔÄÜ
 ÑÅ¸óÒ»Ö±×·ÇóÊÀ½ç×î¸ßË®Æ½µÄ°²È«ÐÔÄÜ£¬ÈÃÓÃ»§ÔÚ¾¡ÇéÏíÊÜ¼ÝÊ»ÀÖÈ¤µÄÍ¬Ê±£¬Ò²»ñµÃÈ«ÃæµÄ°²È«±£ÕÏ¡£06¿îÑÅ¸ó2.4l
 i-vtecºÍ3.0l
 v6
 vtec³µÐÍ±êÅäÁËvsaÏµÍ³ºÍÇ°ÅÅ×ùÒÎ²àÆøÄÒ£¬´øÀ´ÁË¸ü¼Ó³öÉ«µÄ³µÁ¾°²È«¡£
-vsa£¨vehicle
-stability
-assist£©³µÁ¾ÎÈ¶¨ÐÔ¿ØÖÆÏµÍ³£¬ÊÇ¾ßÓÐÊÀ½çÏÈ½øË®Æ½µÄÌá¸ß³µÁ¾ÎÈ¶¨ÐÔºÍÐÐÊ»°²È«ÐÔµÄ¿ØÖÆÏµÍ³¡£¸ÃÏµÍ³³ý¾ßÓÐ´«Í³µÄÖÆ¶¯·À±§ËÀ£¨abs£©¹¦ÄÜºÍÇ£ÒýÁ¦¿ØÖÆ£¨tcs£©¹¦ÄÜÍâ£¬»¹¾ßÓÐ·À»¬¿ØÖÆ£¨skid
-control£©¹¦ÄÜ¡£ÔÚ³µÁ¾±»ÅÐ¶ÏÎª×ªÏò²»×ã»ò×ªÏò¹ý¶ÈÊ±£¬Í¨¹ý¼ÆËã£¬Ê¹³µÁ¾²úÉú·´·½ÏòµÄ×ª¾Ø£¬´Ó¶øÒÖÖÆ×ªÏò²»×ã»ò×ªÏò¹ý¶È£¬±£Ö¤ÁË³µÁ¾ÔÚÖ±ÐÐ¡¢×ªÏòÒÔ¼°ÖÆ¶¯µÈ¸÷ÖÖÐÐÊ»×´Ì¬ÏÂµÄÎÈ¶¨ÐÔ¡£
+vsa£¨vehicle stability assist£©³µÁ¾ÎÈ¶¨ÐÔ¿ØÖÆÏµÍ³£¬ÊÇ¾ßÓÐÊÀ½çÏÈ½øË®Æ½µÄÌá¸ß³µÁ¾ÎÈ¶¨ÐÔºÍÐÐÊ»°²È«ÐÔµÄ¿ØÖÆÏµÍ³¡£¸ÃÏµÍ³³ý¾ßÓÐ´«Í³µÄÖÆ¶¯·À±§ËÀ£¨abs£©¹¦ÄÜºÍÇ£ÒýÁ¦¿ØÖÆ£¨tcs£©¹¦ÄÜÍâ£¬»¹¾ßÓÐ·À»¬¿ØÖÆ£¨skid control£©¹¦ÄÜ¡£ÔÚ³µÁ¾±»ÅÐ¶ÏÎª×ªÏò²»×ã»ò×ªÏò¹ý¶ÈÊ±£¬Í¨¹ý¼ÆËã£¬Ê¹³µÁ¾²úÉú·´·½ÏòµÄ×ª¾Ø£¬´Ó¶øÒÖÖÆ×ªÏò²»×ã»ò×ªÏò¹ý¶È£¬±£Ö¤ÁË³µÁ¾ÔÚÖ±ÐÐ¡¢×ªÏòÒÔ¼°ÖÆ¶¯µÈ¸÷ÖÖÐÐÊ»×´Ì¬ÏÂµÄÎÈ¶¨ÐÔ¡£
 vsaÏµÍ³ÄÜ¹»°ïÖú¼ÝÊ»Õß¸ü¼Ó´ÓÈÝµØ²Ù¿Ø³µÁ¾£¬½«³µÁ¾¿ØÖÆÔÚÕý³£µÄ¼ÝÊ»·¶Î§ÄÚ£¬´øÀ´¸ü¼Ó°²ÐÄµÄ¼ÝÊ»¸ÐÊÜ¡£ÌØ±ðÔÚÓöµ½½ô¼±Çé¿öÍ»È»×ªÏò¡¢Í¨¹ýÊª»¬Â·ÃæµÈÇé¿öÏÂ£¬ÄÜ¹»×î´ó³Ì¶ÈµØÈ·±£³µÁ¾µÄÐÐÊ»°²È«¡£
 ÔÚÔ­ÓÐµÄÖÇÄÜË«°²È«ÆøÄÒºÍÇ°ºóÅÅ°²È«´øµÄ»ù´¡ÉÏ£¬06¿îÑÅ¸ó½«ÒÔÍùÖ»ÔÚ3.0l
 v6
@@ -34874,90 +34759,44 @@ V6
 ÑéÖ¤Âë
 £º
 (°´Ctrl+Enter¿ÉÖ±½Ó·¢±í)
-<xmp
-id="xmp_topic_list"
-style="display:none">
-<?xml
-version="1.0"
-encoding="GB2312"?>
-<xsl:stylesheet
-version="1.0"
-xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-<xsl:output
-method="html"
-encoding="gb2312"
-/>
-<xsl:template
-match="/sobar_interface">
+<xmp id="xmp_topic_list" style="display:none">
+<?xml version="1.0" encoding="GB2312"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:output method="html" encoding="gb2312" />
+<xsl:template match="/sobar_interface">
 ±êÌâ
 µã»÷/»Ø¸´
-<xsl:apply-templates
-select="//topic"
-/>
+<xsl:apply-templates select="//topic" />
 </xsl:template>
-<xsl:template
-match="topic">
+<xsl:template match="topic">
 <xsl:choose>
-<xsl:when
-test="position()
-mod
-2
-=
-1">
-<xsl:if
-test="status='4'">
+<xsl:when test="position() mod 2 = 1">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:when>
 <xsl:otherwise>
-<xsl:if
-test="status='4'">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:otherwise>
 </xsl:choose>
 </xsl:template>
@@ -35384,11 +35223,7 @@ Reserved
 ³µÏµ¼ò½é
 µÚ°Ë´úÑÅ¸ó½âÎö£º
 Ò»¡¢Íâ¹Û
-Íâ¹ÛÊÇµÚ°Ë´úÑÅ¸óËù¸Ä±ä×î´óµÄµØ·½£¬Ò²ÊÇÎÒÃÇËù×îÄÜÒ»Ä¿ÁËÈ»µÄµØ·½¡£³ýÁËÔÚÇ°Á³ºÍÎ²²¿µÄ±ä»¯Ö®Íâ£¬Ã÷ÑÛÈËÒ»¿´¾ÍÖªµÀ£¬³µ×Ó±ÈÒÔÇ°³¤ÁËºÜ¶à¡£³¤¶È´ï4945mm£¬Öá¾àÒ²Ôö³¤µ½ÁË2800mm£¬¿°ÓëC¼¶³µÐÍæÇÃÀ¡£¹ã±¾Ö´ÐÐ¸±×Ü¾­Àí¸¶ÊØ½Ü³Æ£¬µÚ°Ë´úÑÅ¸óÊÇÒ»¿îB++¼¶²úÆ·¡£ÁíÍâ£¬Íâ¹ÛµÄ¸Ä±ä¸ü¼ÓÊÊºÏÏÖÊ±Ö÷Á÷Ïû·ÑÈËÈºµÄÉóÃÀÒªÇó£¬½«Ö®Ç°µÄ¡°¼âÁ³¡±¸ÄÎª¡°·½Á³¡±(±È½Ï³É¹¦µÄÀý×Ó¾ÍÊÇ¿­ÃÀÈð
-VS
-ÀÏ¿î¼ÑÃÀ£¬ÒÔ¼°Ò»Æû±¼ÌÚ
-VS
-Mazda6)£¬·½Á³´øÀ´µÄ±ä»¯¾ÍÊÇ¸ü¼ÓµÄÎÈÖØºÍ´óÆø£¬ÕâÈÃÉÌÎñÈËÊ¿¾õµÃ¸ü¼ÓÇ×ÇÐÒÔ¼°·ûºÏËûÃÇµÄ¶¨Î»¡£ÁíÍâÐÂÑÅ¸óµÄÇ°²¿ÕûÌåµÄÔìÐÍÓÉÖ®Ç°µÄÇ°ËúÊ½Ò²¸ÄÎªÂÔÏòÉÏÑïÊ½£¬¸ü¾ßÇÖÂÔÐÔ¼°»îÁ¦£¬ÕâÑù£¬ÐÂÑÅ¸óµÄÊÊÓ¦Ïû·ÑÈºÌå±ÈÖ®Ç°»áÓÐÔöÎÞ¼õ(ÓÐ30ËêÒÔÉÏÈËÈºÏò¸üµÍÄêÁä²ã·¢Õ¹£¬Í¬Ê±¿ÉÒÔ¼æ¹ËÔ­Ïû·ÑÈËÈº)¡£
+Íâ¹ÛÊÇµÚ°Ë´úÑÅ¸óËù¸Ä±ä×î´óµÄµØ·½£¬Ò²ÊÇÎÒÃÇËù×îÄÜÒ»Ä¿ÁËÈ»µÄµØ·½¡£³ýÁËÔÚÇ°Á³ºÍÎ²²¿µÄ±ä»¯Ö®Íâ£¬Ã÷ÑÛÈËÒ»¿´¾ÍÖªµÀ£¬³µ×Ó±ÈÒÔÇ°³¤ÁËºÜ¶à¡£³¤¶È´ï4945mm£¬Öá¾àÒ²Ôö³¤µ½ÁË2800mm£¬¿°ÓëC¼¶³µÐÍæÇÃÀ¡£¹ã±¾Ö´ÐÐ¸±×Ü¾­Àí¸¶ÊØ½Ü³Æ£¬µÚ°Ë´úÑÅ¸óÊÇÒ»¿îB++¼¶²úÆ·¡£ÁíÍâ£¬Íâ¹ÛµÄ¸Ä±ä¸ü¼ÓÊÊºÏÏÖÊ±Ö÷Á÷Ïû·ÑÈËÈºµÄÉóÃÀÒªÇó£¬½«Ö®Ç°µÄ¡°¼âÁ³¡±¸ÄÎª¡°·½Á³¡±(±È½Ï³É¹¦µÄÀý×Ó¾ÍÊÇ¿­ÃÀÈð VS ÀÏ¿î¼ÑÃÀ£¬ÒÔ¼°Ò»Æû±¼ÌÚ VS Mazda6)£¬·½Á³´øÀ´µÄ±ä»¯¾ÍÊÇ¸ü¼ÓµÄÎÈÖØºÍ´óÆø£¬ÕâÈÃÉÌÎñÈËÊ¿¾õµÃ¸ü¼ÓÇ×ÇÐÒÔ¼°·ûºÏËûÃÇµÄ¶¨Î»¡£ÁíÍâÐÂÑÅ¸óµÄÇ°²¿ÕûÌåµÄÔìÐÍÓÉÖ®Ç°µÄÇ°ËúÊ½Ò²¸ÄÎªÂÔÏòÉÏÑïÊ½£¬¸ü¾ßÇÖÂÔÐÔ¼°»îÁ¦£¬ÕâÑù£¬ÐÂÑÅ¸óµÄÊÊÓ¦Ïû·ÑÈºÌå±ÈÖ®Ç°»áÓÐÔöÎÞ¼õ(ÓÐ30ËêÒÔÉÏÈËÈºÏò¸üµÍÄêÁä²ã·¢Õ¹£¬Í¬Ê±¿ÉÒÔ¼æ¹ËÔ­Ïû·ÑÈËÈº)¡£
 ¶þ¡¢¶¯Á¦
 µÚ°Ë´úÑÅ¸ó½«ÓÐÈý¸ö²»Í¬·¢¶¯»úÅäÖÃµÄ³µÐÍÍ¶·ÅÊÐ³¡£¬·Ö±ð´îÔØ2.0Lµ¥¶¥ÖÃÍ¹ÂÖÖá·¢¶¯»ú£¬2.4LË«¶¥ÖÃÍ¹ÂÖÖá·¢¶¯»úºÍ3.5L
 VCM·¢¶¯»ú¡£¸ù¾Ý¹ãÖÝ±¾ÌïµÄÍÆ¹ã¼Æ»®£¬2.0°æ±¾ÏÔÈ»²»ÊÇËûÃÇµÄÖ÷Á¦³µÐÍ£¬ÔÚ1ÔÂ6ÈÕ¹«²¼µÄ¼Û¸ñ±íÖÐÒ²²»»á³öÏÖ£¬½ñºóÒ²ºÜÓÐ¿ÉÄÜÔÚÒ»¶ÎÊ±¼ä³öÏÖÓÐ¼ÛÎÞ³µµÄ¶©µ¥Ê½Éú²úÄ£Ê½¡£2.4LÅÅÁ¿ÒÔ¼°¸ü¸ß¶ËµÄ3.5L²ÅÊÇÐÂÑÅ¸óÖ÷´òµÄ³µÐÍ¡£×÷ÎªµÚ°Ë´úÑÅ¸óÖÐÖ÷´òµÄ2.4L³µÐÍ£¬ÆäºÍÀÏ¿îµÚÆß´úÑÅ¸óÒ»ÑùÖ§³Öi-VTECÖÇÄÜ¿É±äÆøÃÅÕýÊ±¼¼Êõ£¬·¢¶¯»úµÄ¹¦ÂÊÎª132Kw/6500rpm£¬Å¤¾ØÎª225Nm/4500rpm£¬¶øÏÖ¿îÑÅ¸ó2.4µÄ×î´ó¹¦ÂÊÖ»ÓÐ125Kw£¬Å¤¾ØÎª220Nm£¬ÁíÍâµÚ°Ë´úÑÅ¸óµÄ×î´ó¹¦ÂÊ¼°Å¤¾ØµÄ·¢³ö×ªËÙÉÏÒ²½Ï7´úÑÅ¸ó2.4LÓÐËùÌá¸ß¡£¶ø3.5LÅÅÁ¿³µÐÍËäÈ»ÓµÓÐ3¶ÎVCM¿É±äÆø¸×¹ÜÀíÏµÍ³£¬²»¹ý¾ÍÆä¶¨Î»ÒÔ¼°Æä½«Òª¹«²¼µÄÊÛ¼ÛÀ´¿´£¬3.5L³µÐÍµÄÏúÁ¿Ó¦µ±²»»áÌ«¸ß¡£²»¹ý¶ÔÆóÒµ»òÕþ¸®·½ÃæµÄÐÐÒµ¸ß¶ËÓÃ»§À´Ëµ£¬3.5L³µÐÍµÄÐÂ¿Æ¼¼´øÀ´ÀÖÈ¤ÊÇ¾ø¶ÔÖµµÃ³¢ÊÔµÄ¡£
@@ -35398,9 +35233,7 @@ VCM·¢¶¯»ú¡£¸ù¾Ý¹ãÖÝ±¾ÌïµÄÍÆ¹ã¼Æ»®£¬2.0°æ±¾ÏÔÈ»²»ÊÇËûÃÇµÄÖ÷Á¦³µÐÍ£¬ÔÚ1ÔÂ6ÈÕ¹«²¼µÄ
 ËÄ¡¢ÅäÖÃ
 ³ýÁËÈÃÈË¶úÄ¿Ò»ÐÂµÄÍâÐÎºÍÄÚÊÎ£¬µÚ°Ë´úÑÅ¸óÔÚÅäÖÃÉÏµÄÌáÉýÊ®·ÖÃ÷ÏÔ¡£3.5L³µÐÍµÄÖÐ¿ØÌ¨ÉÏµÄ¶à¹¦ÄÜÒº¾§ÆÁÄ»£¬¼æ¹ËGPSµ¼º½ºÍDVDÓ°ÒôÓéÀÖ¹¦ÄÜÒÔ¼°È«²Ê¿ÉÊÓµ¹³µÀ×´ïÆÁ¡£´ËÍâ£¬µÚ°Ë´úÑÅ¸ó²ÉÓÃÁËµ±ÏÂÁ÷ÐÐµÄ¿¨Æ¬ÖÇÄÜÔ¿³×¼°ÎÞÔ¿³×µã»ðÏµÍ³¡£ÁíÍâÔÚ¼ÝÊ»Ô±¿ªÆô³µÃÅµÄË²¼ä£¬³µÃÅ²¿Î»µÄ¸ÐÓ¦Æ÷»áË²¼ä¸ÐÓ¦ÊÖ²¿Ïà¶ÔÓÚ³µÉíµÄÎ»ÖÃ£¬×öµ½¼°Ê±¿ªËø¡£ÁíÍâ¿É¿ØÒôÏìÕæÆ¤¶à¹¦ÄÜ·½ÏòÅÌ¼°ÆäËûÖîÈç¶ÀÁ¢Ë«ÎÂÇø×Ô¶¯¿Õµ÷µÈÅäÖÃ¶¼ÊÇ±ê×¼ÅäÖÃ¡£¶ø3.5L³µÐÍÉÏµÄ¼ÝÊ»Ï¯×ùÒÎ»¹Ö§³Ö8Ïòµç¶¯µ÷½Ú¼°µç¼ÓÈÈ¹¦ÄÜ¡£½«ËùÓÐÊ±ÏÂÁ÷ÐÐµÄÅäÖÃÒ»Ò»ÄÒÀ¨¡£
 Îå¡¢¼Û¸ñ
-08¿­ÃÀÈðÒµÒÑÉÏÊÐ¡£ÆäÔö¼ÓµÄÈ«ÆøÄÒµÄ°²È«ÅäÖÃÈÃÕûÌå°²È«µÈ¼¶ÀíÂÛÉÏ´ïµ½ÁËÅ·ÖÞNCAPµÄ5ÐÇË®Æ½¡£¶ø¹ãÖÝ±¾ÌïÈ´ÒÑ¾­×öºÃÁËÐÄÀí×¼±¸£¬¹ã±¾Ö´ÐÐ¸±×Ü¾­Àí¸¶ÊØ½Ü³Æ£ºËûÃÇ½«Éú²úÏßÌáÇ°Ò»¸öÔÂ½øÐÐÁËµ÷Õû£¬ÒÔÖÂÓÚÓ°ÏìÁËÀÏ¿îÑÅ¸óµÄ²úÏúÁ¿¡£ÄÇÃ´ÔÚ08ÄêÓÖ¼¸ºõÏûºÄÁËÒ»ÖÜµÄÊ±¼ä²ÅÕýÊ½ÉÏÊÐ¡£ÓÉÓÚ´Ë´ÎÊÇ´¹Ö±»»´ú£¬ÀÏ¿îÑÅ¸ó½«ÍË³öÊÐ³¡£¬¼Û¸ñÊÇµÚ°Ë´úÑÅ¸óÄÜ·ñÔÚÈ«¹úÒ»ÅÚ´òÏìµÄ¹Ø¼üÒòËØ£¬×Ý¹Û´Ë´ÎµÚ°Ë´úÑÅ¸óµÄ»»´ú£¬ËùÉý¼¶µÄ²¿·ÖÒÔ¼°¸Ä½ø¶¼ÊÇÎªÁËÖÐ¼¶³µÊÐ³¡±¦×ù¶øÀ´¡£ÎÄÊ×Ìáµ½£¬ÒÔ¹ãÖÝ±¾ÌïºÍÑÅ¸óµÄÆ·ÅÆ¶ÈÀ´½²£¬¼Û¸ñÏÔÈ»²»Ó¦¸Ã¸ßÓÚ¿­ÃÀÈð¡£ÈçºÎÔÚ08°ÂÔËÄê´óÕ¹È­½Å£¬»¹Òª¿´¹ãÖÝ±¾ÌïºÍ¹ãÖÝ·áÌïÈçºÎÒýÁì½ñÄêB¼¶³µÊÐ³¡µÄÒ»·¬´óÕ½ÁË¡£(ÎÄ
-ÌÚÑ¶Æû³µ
-ÓÚÏªéª)
+08¿­ÃÀÈðÒµÒÑÉÏÊÐ¡£ÆäÔö¼ÓµÄÈ«ÆøÄÒµÄ°²È«ÅäÖÃÈÃÕûÌå°²È«µÈ¼¶ÀíÂÛÉÏ´ïµ½ÁËÅ·ÖÞNCAPµÄ5ÐÇË®Æ½¡£¶ø¹ãÖÝ±¾ÌïÈ´ÒÑ¾­×öºÃÁËÐÄÀí×¼±¸£¬¹ã±¾Ö´ÐÐ¸±×Ü¾­Àí¸¶ÊØ½Ü³Æ£ºËûÃÇ½«Éú²úÏßÌáÇ°Ò»¸öÔÂ½øÐÐÁËµ÷Õû£¬ÒÔÖÂÓÚÓ°ÏìÁËÀÏ¿îÑÅ¸óµÄ²úÏúÁ¿¡£ÄÇÃ´ÔÚ08ÄêÓÖ¼¸ºõÏûºÄÁËÒ»ÖÜµÄÊ±¼ä²ÅÕýÊ½ÉÏÊÐ¡£ÓÉÓÚ´Ë´ÎÊÇ´¹Ö±»»´ú£¬ÀÏ¿îÑÅ¸ó½«ÍË³öÊÐ³¡£¬¼Û¸ñÊÇµÚ°Ë´úÑÅ¸óÄÜ·ñÔÚÈ«¹úÒ»ÅÚ´òÏìµÄ¹Ø¼üÒòËØ£¬×Ý¹Û´Ë´ÎµÚ°Ë´úÑÅ¸óµÄ»»´ú£¬ËùÉý¼¶µÄ²¿·ÖÒÔ¼°¸Ä½ø¶¼ÊÇÎªÁËÖÐ¼¶³µÊÐ³¡±¦×ù¶øÀ´¡£ÎÄÊ×Ìáµ½£¬ÒÔ¹ãÖÝ±¾ÌïºÍÑÅ¸óµÄÆ·ÅÆ¶ÈÀ´½²£¬¼Û¸ñÏÔÈ»²»Ó¦¸Ã¸ßÓÚ¿­ÃÀÈð¡£ÈçºÎÔÚ08°ÂÔËÄê´óÕ¹È­½Å£¬»¹Òª¿´¹ãÖÝ±¾ÌïºÍ¹ãÖÝ·áÌïÈçºÎÒýÁì½ñÄêB¼¶³µÊÐ³¡µÄÒ»·¬´óÕ½ÁË¡£(ÎÄ ÌÚÑ¶Æû³µ ÓÚÏªéª)
 ÑÅ¸óÀúÊ·£º
 1976Äê£¬ÔÚÊÊÓ¦ÄÜÔ´Î£»úºÍ¶ÔÅÅÆøµÄÏÞÖÆµÈÐÂÐÎÊÆµÄÒªÇóÏÂ£¬µÚÒ»´úÑÅ¸óÎÊÊÀ¡£¡°³öÉú¡±µÄÊ±´ú±³¾°¾ö¶¨ÁËËü¾ßÓÐ×îÓÅÔ½µÄ½ÚÄÜ¡¢»·±£ÐÔÄÜ¡£´ËºóÃ¿¸ô¼¸Äê£¬±¾Ìï½«µ±Ê±×îÐÂ¡¢×îÏÈ½øµÄ¼¼ÊõÔËÓÃÔÚÑÅ¸óÉíÉÏ£¬Ê¹Æä¸ü»·±£¡¢¸ü½ÚÄÜ¡¢¸ü°²È«£¬ÐÔÄÜ¸üÏÈ½ø£¬³É¹¦ÊµÏÖÒ»´ÎÓÖÒ»´ÎÉý¼¶»»´ú¡£
 1998Äê£¬¹ãÖÝ±¾Ìï³ÉÁ¢£¬Òý½ø1997Äê¸Õ»»´úµÄ±±ÃÀ°æµÚÁù´úÑÅ¸ó£¬ÊÇµ±Ê±ÖÐ¹úÆû³µÊÐ³¡Òý½øÉú²úµÄµÚÒ»¿îÓë¹ú¼Ê½Ó¹ìµÄ³µÐÍ¡£¿ÉÒÔËµ£¬ÊÇ¹ãÖÝ±¾ÌïÊ¹µÃÑÅ¸óµÄ¹ÊÊÂµÃÒÔÔÚÖÐ¹ú³É¹¦ÐøÐ´£¬Ò²¿ÉÒÔËµ£¬ÊÇÑÅ¸óÏåÖúÁË¹ãÖÝ±¾ÌïµÄ²¦ÔÆ¼ûÈÕ¡¢ÕôÕôÈÕÉÏ¡£
@@ -35408,10 +35241,7 @@ VCM·¢¶¯»ú¡£¸ù¾Ý¹ãÖÝ±¾ÌïµÄÍÆ¹ã¼Æ»®£¬2.0°æ±¾ÏÔÈ»²»ÊÇËûÃÇµÄÖ÷Á¦³µÐÍ£¬ÔÚ1ÔÂ6ÈÕ¹«²¼µÄ
 ÔÚµÚÁù´úÑÅ¸ó»¹¹©²»Ó¦ÇóµÄÇé¿öÏÂ£¬2002Äêµ×£¬¹ãÖÝ±¾ÌïÒãÈ»Í£Ö¹Õâ¿î³µµÄÉú²ú£¬ÓÚ2003Äê1ÔÂ15ÈÕÍÆ³öÁËÎÞÂÛÔÚÐÐÊ»ÐÔÄÜ»¹ÊÇÔÚÍâÐÎÉè¼ÆÉÏ¾ù¸üÉÏÒ»²ãÂ¥µÄµÚÆß´ú¡¢03¿îÑÅ¸ó£¬¶ø¼Û¸ñ¸ü¼Ó¹ú¼Ê»¯£¬ÒýÆðÁËÖÐ¹ú³µÊÐÓÈÆäÊÇÖÐ¸ßµµ³µÊÐµÄ´óÕðµ´¡£
 03¿îÑÅ¸óµÄÍÆ³öÊ¹ÑÅ¸óÔÚÖÐ¹úµÄÕ÷Õ½ÅÊÉÏÁËÒ»¸öÐÂµÄ¸ß·å£¬»ñµÃÁËÎÞÊý½±Ïî£¬Ò²Ó®µÃ¸ü¶à¹Ë¿ÍµÄÇàíù£¬ÓµÓÐÁË¸ü¶àÓµõ»¡£
 2005Äê12ÔÂ28ÈÕ£¬¹ãÖÝ±¾Ìï06¿îÑÅ¸óÔÚ¹ãÖÝÊÐÐÂÌåÓý¹ÝÂ¡ÖØÏÂÏß¡£06¿îÑÅ¸óµÄÍÆ³ö£¬Ö¤Ã÷ÑÅ¸óµÄ¾«²Ê»¹ÔÚÑÓÐø¡­¡­
-ÎªÁËÂú×ãÓÃ»§¶ÔÑÅ¸ó¸ü¸ß²ã´ÎµÄ¼ÛÖµÆÚÍû£¬¹ãÖÝ±¾Ìï½«¡°3more¡±ÀíÄîÔËÓÃÓÚ06¿îÑÅ¸óµÄ¿ª·¢Ö®ÖÐ¡£ÔÚ¼Ì³ÐÒÑÓÐ¸ßÆ·ÖÊµÄ»ù´¡ÉÏ£¬Í¨¹ý¡°¸ü¸ß¼¶¡±£¨more
-advanced£©¡¢¡°¸ü¶¯¸Ð¡±(more
-sporty)¡¢¡°¸ü°²È«¡±(more
-secure)Èý¸öÖ§µã´´Ôì³öÕ¸ÐÂµÄ06¿îÑÅ¸óÐÎÏó£¬´ïµ½Íâ¹Û¡¢ÄÚÊÎ¡¢¶¯Á¦¡¢²Ù¿Ø¸÷·½Ãæ¸ü¸ßË®Æ½µÄºÍÐ³Í³Ò»£¬³É¾ÍÒ»¿îÖÇ»Û¡¢½øÈ¡¡¢³¬Ô½Í¬¼¶±ðµÄ¸ßÐÔÄÜ½Î³µ¡£
+ÎªÁËÂú×ãÓÃ»§¶ÔÑÅ¸ó¸ü¸ß²ã´ÎµÄ¼ÛÖµÆÚÍû£¬¹ãÖÝ±¾Ìï½«¡°3more¡±ÀíÄîÔËÓÃÓÚ06¿îÑÅ¸óµÄ¿ª·¢Ö®ÖÐ¡£ÔÚ¼Ì³ÐÒÑÓÐ¸ßÆ·ÖÊµÄ»ù´¡ÉÏ£¬Í¨¹ý¡°¸ü¸ß¼¶¡±£¨more advanced£©¡¢¡°¸ü¶¯¸Ð¡±(more sporty)¡¢¡°¸ü°²È«¡±(more secure)Èý¸öÖ§µã´´Ôì³öÕ¸ÐÂµÄ06¿îÑÅ¸óÐÎÏó£¬´ïµ½Íâ¹Û¡¢ÄÚÊÎ¡¢¶¯Á¦¡¢²Ù¿Ø¸÷·½Ãæ¸ü¸ßË®Æ½µÄºÍÐ³Í³Ò»£¬³É¾ÍÒ»¿îÖÇ»Û¡¢½øÈ¡¡¢³¬Ô½Í¬¼¶±ðµÄ¸ßÐÔÄÜ½Î³µ¡£
 ÓÅÑÅÓë¶¯¸Ð¼æ¾ßµÄÍâ¹Û
 06¿îÑÅ¸ó³µÉíÏßÌõÏ´Á·¡¢Á÷³©£¬Õû³µÔìÐÍÈÚºÏÊ±ÉÐ¶¯¸ÐºÍÓºÈÝÆø¶È¡£È«ÐÂµÄ³µÎ²ÔìÐÍÈÃÈËÑÛÇ°Ò»ÁÁ£º²ÉÓÃºÀ»ª³µÐÍ³£ÓÃµÄled¸ßÎ»É²³µµÆ¼°µäÑÅµÄÈý½ÇÐÎ×éºÏÎ²µÆ£¬¼ò½àÃ÷¿ì£¬Óë¶ÀÌØµÄ¿íÅÆÕÕ°åÒ»ÆðÓªÔì³ö´óÆø³ÁÎÈµÄÓ¡Ïó¡£¸ßÁÁ¶È¡¢ÑóÒç¿Æ¼¼¸ÐµÄledÎ²µÆÒ²½«³ÉÎª³µÁ÷ÖÐ×îÌØ±ðµÄ·ç¾°¡£
 ÐÂµÄÎ²²¿ÔìÐÍ´ïµ½ÓëÇ°²¿¸üÐ­µ÷µÄºôÓ¦£¬Ê¹Õû³µÐÎÏó¸üÎªÍ»³ö¡£ºÍÐ³µÄÍâ¹ÛÔÌº­ÁË06¿îÑÅ¸ó¶ÀÌØµÄÃÀ¸Ð£º¸öÐÔÊ®×ã¡¢ºôÖ®Óû³öµÄÇ°Á³¡¢³äÂú¶¯ÊÆÓëÁ¦¶ÈµÄ²àÎ§ÒÔ¼°´óÆøÊæÕ¹¡¢¸»ÓÐÖÊ¸ÐµÄÎ²²¿¡­¡­ÎªÓÃ»§´øÀ´¸ü·á¸»¡¢Éî¿ÌµÄÊÓ¾õÏíÊÜ¡£
@@ -35432,23 +35262,17 @@ vtec³µÐÍÉÏÑ¡×°µ¹³µºóÉãÏñÍ·£¬½«³µºóÇé¿öÒ»ÀÀÎÞÓà£¬¸ü°²ÐÄµØ½øÐÐµ¹³µ²Ù×÷¡£
 ·¢¶¯»ú£¬¼¯¸ß¶¯Á¦¡¢µÍÓÍºÄµÄÓÅÒìÐÔÄÜÓÚÒ»Éí¡£×¿Ô½µÄi-vtec·¢¶¯»ú½áºÏÁËhondaÏÈ½øµÄvtec£¨¿É±äÆøÃÅÕýÊ±¼°Éý³Ìµç×Ó¿ØÖÆ£©¼¼ÊõºÍ·¢¶¯»úÔÚ²»Í¬×ªËÙÇøÓòÁ¬Ðøµ÷¿ØÅäÆøÏàÎ»µÄvtc¼¼Êõ£¬¾ßÓÐÇ¿´óµÄÅ¤¾ØÊä³öÒÔ¼°ÅìÅÈÃôÈñµÄ¼ÓËÙÐÔÄÜ¡£Í¨¹ýecuµç×Ó¿ØÖÆµ¥Ôª£¬¿ØÖÆ½øÅÅÆøÃÅµÄ¿ªÆôºÍ¹Ø±Õ£¬Ê¹·¢¶¯»úµÄÈ¼ÉÕ×´Ì¬±£³Ö×î¼Ñ£¬´Ó¶øÊµÏÖÁË¸ß¹¦ÂÊÊä³ö¡¢µÍÈ¼ÓÍÏûºÄºÍÇå½àÅÅ·ÅµÄÀíÏëÆ½ºâ¡£
 2.4li-vtec·¢¶¯»úÍ¨¹ý¶Ô½ø¡¢ÅÅÆøÏµÍ³µÄ¸Ä½ø£¬Ìá¸ßÁË¿ÕÆøÁ÷¶¯ÂÊ£¬Ê¹ÅÅÆøÐ§ÂÊµÃµ½ÓÅ»¯£¬ÅçÓÍÐ§ÂÊµÃÒÔÌá¸ß£¬×î´ó¹¦ÂÊ½Ï05¿îÌáÉýÁË10ÂíÁ¦¡£ÔÚ2.4li-vtecºÍ3.0l
 v6
-vtec³µÐÍÉÏ£¬06¿îÑÅ¸ó»¹Ó¦ÓÃÁË¾«×¼µÄdbw£¨drive
-by
-wire£©Ïß¿ØÓÍÃÅÇý¶¯×°ÖÃ£¨µç×ÓÓÍÃÅ£©¡£dbwÏµÍ³¸Ä±ä´«Í³ÐÎÊ½£¬Í¨¹ý´«¸ÐÆ÷À´¼ì²âÓÍÃÅÌ¤°åÎ»ÖÃ£¬¾­¹ýecuÅÐ¶Ï£¬½øÐÐ×î¼ÑµÄ¿ØÖÆ£¬ÊµÏÖÁË³µÁ¾Æ½Ë³µÄÆð²½¼ÓËÙºÍÇ¿¾¢µÄ¸ßËÙÐÐÊ»£¬»¹´ó´óÌá¸ßÁËÈ¼ÓÍ¾­¼ÃÐÔ¡£Í¬Ê±¼¯³ÉµÄ¶¨ËÙÑ²º½¹¦ÄÜÒ²ÈÃ¼ÝÊ»¸ü¼ÓÇáËÉ¡£
+vtec³µÐÍÉÏ£¬06¿îÑÅ¸ó»¹Ó¦ÓÃÁË¾«×¼µÄdbw£¨drive by wire£©Ïß¿ØÓÍÃÅÇý¶¯×°ÖÃ£¨µç×ÓÓÍÃÅ£©¡£dbwÏµÍ³¸Ä±ä´«Í³ÐÎÊ½£¬Í¨¹ý´«¸ÐÆ÷À´¼ì²âÓÍÃÅÌ¤°åÎ»ÖÃ£¬¾­¹ýecuÅÐ¶Ï£¬½øÐÐ×î¼ÑµÄ¿ØÖÆ£¬ÊµÏÖÁË³µÁ¾Æ½Ë³µÄÆð²½¼ÓËÙºÍÇ¿¾¢µÄ¸ßËÙÐÐÊ»£¬»¹´ó´óÌá¸ßÁËÈ¼ÓÍ¾­¼ÃÐÔ¡£Í¬Ê±¼¯³ÉµÄ¶¨ËÙÑ²º½¹¦ÄÜÒ²ÈÃ¼ÝÊ»¸ü¼ÓÇáËÉ¡£
 ½ô´Õ»¯Éè¼ÆµÄ5ËÙ×Ô¶¯±äËÙÆ÷½«»»µ²³å»÷½µµ½×îµÍ£¬ÊµÏÖÁËÈ¼ÓÍ¾­¼ÃÐÔºÍ¸ßÐ§ÂÊµÄÍ³Ò»£¬²¢²ÉÓÃÐÂµÄÁã¼þÉè¼Æ±ê×¼£¬ÌáÉýÁË±äËÙÆ÷µÄÄÍÓÃÐÔÒÔ¼°ÕûÌåÐÔÄÜ¡£ÁíÍâ£¬×¨ÎªÂú×ãÓÃ»§µÄ¶àÔª»¯ÐèÇó¶øÉè¼ÆÁË5ËÙÊÖ¶¯±äËÙÆ÷£¬´øÀ´´¿´âµÄ¼ÝÊ»ÀÖÈ¤¡£
 Ðü¹ÒÏµÍ³¼Ì³ÐÁËÑÅ¸ó³ÉÊì¸ßË®×¼µÄ¼¼Êõ£¬ÎÞÂÛÊÇË«ºá±Û¶ÀÁ¢Ç°Ðü¹Ò£¬»¹ÊÇÎåÁ¬¸ËË«ºá±Û¶ÀÁ¢ºóÐü¹Ò¶¼ÎªÊµÏÖ¶àÑùµÄ¼ÝÊ»ÀÖÈ¤ºÍÊæÊÊµÄ³Ë×øÌåÑé×÷³öÁË¹±Ï×¡£
 Á÷³©µÄÕû³µÔìÐÍÒÔ¼°¸ßÐ§ÂÊ·ÀÔë¼¼ÊõµÄÓ¦ÓÃ£¬Ê¹06¿îÑÅ¸ó¾ßÓÐ³öÉ«µÄ¿ÕÆø¶¯Á¦Ñ§ÐÔÄÜºÍnvhÐÔÄÜ¡£
-ÔÚ¶¯Á¦¡¢²Ù¿ØºÍÐ³Í³Ò»µÄÍ¬Ê±£¬06¿îÑÅ¸óÒ²ÖÂÁ¦×·ÇóÓë×ÔÈ»µÄºÍÐ³Ïà´¦¡£ÏÈ½øµÄ·¢¶¯»ú¼¼Êõ´øÀ´ÁË¼«¼ÑµÄÈ¼ÓÍ¾­¼ÃÐÔ£¬90km/hµÈËÙÐÐÊ»°Ù¹«ÀïÓÍºÄ½öÎª7.1l£¨2.4l
-i-vtec£©£¬Í¬Ê±ÅÅ·Å´ïµ½euro-¢ôË®Æ½¡£
+ÔÚ¶¯Á¦¡¢²Ù¿ØºÍÐ³Í³Ò»µÄÍ¬Ê±£¬06¿îÑÅ¸óÒ²ÖÂÁ¦×·ÇóÓë×ÔÈ»µÄºÍÐ³Ïà´¦¡£ÏÈ½øµÄ·¢¶¯»ú¼¼Êõ´øÀ´ÁË¼«¼ÑµÄÈ¼ÓÍ¾­¼ÃÐÔ£¬90km/hµÈËÙÐÐÊ»°Ù¹«ÀïÓÍºÄ½öÎª7.1l£¨2.4l i-vtec£©£¬Í¬Ê±ÅÅ·Å´ïµ½euro-¢ôË®Æ½¡£
 ÊÀ½ç×î¸ßË®Æ½µÄ°²È«ÐÔÄÜ
 ÑÅ¸óÒ»Ö±×·ÇóÊÀ½ç×î¸ßË®Æ½µÄ°²È«ÐÔÄÜ£¬ÈÃÓÃ»§ÔÚ¾¡ÇéÏíÊÜ¼ÝÊ»ÀÖÈ¤µÄÍ¬Ê±£¬Ò²»ñµÃÈ«ÃæµÄ°²È«±£ÕÏ¡£06¿îÑÅ¸ó2.4l
 i-vtecºÍ3.0l
 v6
 vtec³µÐÍ±êÅäÁËvsaÏµÍ³ºÍÇ°ÅÅ×ùÒÎ²àÆøÄÒ£¬´øÀ´ÁË¸ü¼Ó³öÉ«µÄ³µÁ¾°²È«¡£
-vsa£¨vehicle
-stability
-assist£©³µÁ¾ÎÈ¶¨ÐÔ¿ØÖÆÏµÍ³£¬ÊÇ¾ßÓÐÊÀ½çÏÈ½øË®Æ½µÄÌá¸ß³µÁ¾ÎÈ¶¨ÐÔºÍÐÐÊ»°²È«ÐÔµÄ¿ØÖÆÏµÍ³¡£¸ÃÏµÍ³³ý¾ßÓÐ´«Í³µÄÖÆ¶¯·À±§ËÀ£¨abs£©¹¦ÄÜºÍÇ£ÒýÁ¦¿ØÖÆ£¨tcs£©¹¦ÄÜÍâ£¬»¹¾ßÓÐ·À»¬¿ØÖÆ£¨skid
-control£©¹¦ÄÜ¡£ÔÚ³µÁ¾±»ÅÐ¶ÏÎª×ªÏò²»×ã»ò×ªÏò¹ý¶ÈÊ±£¬Í¨¹ý¼ÆËã£¬Ê¹³µÁ¾²úÉú·´·½ÏòµÄ×ª¾Ø£¬´Ó¶øÒÖÖÆ×ªÏò²»×ã»ò×ªÏò¹ý¶È£¬±£Ö¤ÁË³µÁ¾ÔÚÖ±ÐÐ¡¢×ªÏòÒÔ¼°ÖÆ¶¯µÈ¸÷ÖÖÐÐÊ»×´Ì¬ÏÂµÄÎÈ¶¨ÐÔ¡£
+vsa£¨vehicle stability assist£©³µÁ¾ÎÈ¶¨ÐÔ¿ØÖÆÏµÍ³£¬ÊÇ¾ßÓÐÊÀ½çÏÈ½øË®Æ½µÄÌá¸ß³µÁ¾ÎÈ¶¨ÐÔºÍÐÐÊ»°²È«ÐÔµÄ¿ØÖÆÏµÍ³¡£¸ÃÏµÍ³³ý¾ßÓÐ´«Í³µÄÖÆ¶¯·À±§ËÀ£¨abs£©¹¦ÄÜºÍÇ£ÒýÁ¦¿ØÖÆ£¨tcs£©¹¦ÄÜÍâ£¬»¹¾ßÓÐ·À»¬¿ØÖÆ£¨skid control£©¹¦ÄÜ¡£ÔÚ³µÁ¾±»ÅÐ¶ÏÎª×ªÏò²»×ã»ò×ªÏò¹ý¶ÈÊ±£¬Í¨¹ý¼ÆËã£¬Ê¹³µÁ¾²úÉú·´·½ÏòµÄ×ª¾Ø£¬´Ó¶øÒÖÖÆ×ªÏò²»×ã»ò×ªÏò¹ý¶È£¬±£Ö¤ÁË³µÁ¾ÔÚÖ±ÐÐ¡¢×ªÏòÒÔ¼°ÖÆ¶¯µÈ¸÷ÖÖÐÐÊ»×´Ì¬ÏÂµÄÎÈ¶¨ÐÔ¡£
 vsaÏµÍ³ÄÜ¹»°ïÖú¼ÝÊ»Õß¸ü¼Ó´ÓÈÝµØ²Ù¿Ø³µÁ¾£¬½«³µÁ¾¿ØÖÆÔÚÕý³£µÄ¼ÝÊ»·¶Î§ÄÚ£¬´øÀ´¸ü¼Ó°²ÐÄµÄ¼ÝÊ»¸ÐÊÜ¡£ÌØ±ðÔÚÓöµ½½ô¼±Çé¿öÍ»È»×ªÏò¡¢Í¨¹ýÊª»¬Â·ÃæµÈÇé¿öÏÂ£¬ÄÜ¹»×î´ó³Ì¶ÈµØÈ·±£³µÁ¾µÄÐÐÊ»°²È«¡£
 ÔÚÔ­ÓÐµÄÖÇÄÜË«°²È«ÆøÄÒºÍÇ°ºóÅÅ°²È«´øµÄ»ù´¡ÉÏ£¬06¿îÑÅ¸ó½«ÒÔÍùÖ»ÔÚ3.0l
 v6
@@ -35879,11 +35703,7 @@ Reserved
 ÀàÐÍ£º
 µÚ°Ë´úÑÅ¸ó½âÎö£º
 Ò»¡¢Íâ¹Û
-Íâ¹ÛÊÇµÚ°Ë´úÑÅ¸óËù¸Ä±ä×î´óµÄµØ·½£¬Ò²ÊÇÎÒÃÇËù×îÄÜÒ»Ä¿ÁËÈ»µÄµØ·½¡£³ýÁËÔÚÇ°Á³ºÍÎ²²¿µÄ±ä»¯Ö®Íâ£¬Ã÷ÑÛÈËÒ»¿´¾ÍÖªµÀ£¬³µ×Ó±ÈÒÔÇ°³¤ÁËºÜ¶à¡£³¤¶È´ï4945mm£¬Öá¾àÒ²Ôö³¤µ½ÁË2800mm£¬¿°ÓëC¼¶³µÐÍæÇÃÀ¡£¹ã±¾Ö´ÐÐ¸±×Ü¾­Àí¸¶ÊØ½Ü³Æ£¬µÚ°Ë´úÑÅ¸óÊÇÒ»¿îB++¼¶²úÆ·¡£ÁíÍâ£¬Íâ¹ÛµÄ¸Ä±ä¸ü¼ÓÊÊºÏÏÖÊ±Ö÷Á÷Ïû·ÑÈËÈºµÄÉóÃÀÒªÇó£¬½«Ö®Ç°µÄ¡°¼âÁ³¡±¸ÄÎª¡°·½Á³¡±(±È½Ï³É¹¦µÄÀý×Ó¾ÍÊÇ¿­ÃÀÈð
-VS
-ÀÏ¿î¼ÑÃÀ£¬ÒÔ¼°Ò»Æû±¼ÌÚ
-VS
-Mazda6)£¬·½Á³´øÀ´µÄ±ä»¯¾ÍÊÇ¸ü¼ÓµÄÎÈÖØºÍ´óÆø£¬ÕâÈÃÉÌÎñÈËÊ¿¾õµÃ¸ü¼ÓÇ×ÇÐÒÔ¼°·ûºÏËûÃÇµÄ¶¨Î»¡£ÁíÍâÐÂÑÅ¸óµÄÇ°²¿ÕûÌåµÄÔìÐÍÓÉÖ®Ç°µÄÇ°ËúÊ½Ò²¸ÄÎªÂÔÏòÉÏÑïÊ½£¬¸ü¾ßÇÖÂÔÐÔ¼°»îÁ¦£¬ÕâÑù£¬ÐÂÑÅ¸óµÄÊÊÓ¦Ïû·ÑÈºÌå±ÈÖ®Ç°»áÓÐÔöÎÞ¼õ(ÓÐ30ËêÒÔÉÏÈËÈºÏò¸üµÍÄêÁä²ã·¢Õ¹£¬Í¬Ê±¿ÉÒÔ¼æ¹ËÔ­Ïû·ÑÈËÈº)¡£
+Íâ¹ÛÊÇµÚ°Ë´úÑÅ¸óËù¸Ä±ä×î´óµÄµØ·½£¬Ò²ÊÇÎÒÃÇËù×îÄÜÒ»Ä¿ÁËÈ»µÄµØ·½¡£³ýÁËÔÚÇ°Á³ºÍÎ²²¿µÄ±ä»¯Ö®Íâ£¬Ã÷ÑÛÈËÒ»¿´¾ÍÖªµÀ£¬³µ×Ó±ÈÒÔÇ°³¤ÁËºÜ¶à¡£³¤¶È´ï4945mm£¬Öá¾àÒ²Ôö³¤µ½ÁË2800mm£¬¿°ÓëC¼¶³µÐÍæÇÃÀ¡£¹ã±¾Ö´ÐÐ¸±×Ü¾­Àí¸¶ÊØ½Ü³Æ£¬µÚ°Ë´úÑÅ¸óÊÇÒ»¿îB++¼¶²úÆ·¡£ÁíÍâ£¬Íâ¹ÛµÄ¸Ä±ä¸ü¼ÓÊÊºÏÏÖÊ±Ö÷Á÷Ïû·ÑÈËÈºµÄÉóÃÀÒªÇó£¬½«Ö®Ç°µÄ¡°¼âÁ³¡±¸ÄÎª¡°·½Á³¡±(±È½Ï³É¹¦µÄÀý×Ó¾ÍÊÇ¿­ÃÀÈð VS ÀÏ¿î¼ÑÃÀ£¬ÒÔ¼°Ò»Æû±¼ÌÚ VS Mazda6)£¬·½Á³´øÀ´µÄ±ä»¯¾ÍÊÇ¸ü¼ÓµÄÎÈÖØºÍ´óÆø£¬ÕâÈÃÉÌÎñÈËÊ¿¾õµÃ¸ü¼ÓÇ×ÇÐÒÔ¼°·ûºÏËûÃÇµÄ¶¨Î»¡£ÁíÍâÐÂÑÅ¸óµÄÇ°²¿ÕûÌåµÄÔìÐÍÓÉÖ®Ç°µÄÇ°ËúÊ½Ò²¸ÄÎªÂÔÏòÉÏÑïÊ½£¬¸ü¾ßÇÖÂÔÐÔ¼°»îÁ¦£¬ÕâÑù£¬ÐÂÑÅ¸óµÄÊÊÓ¦Ïû·ÑÈºÌå±ÈÖ®Ç°»áÓÐÔöÎÞ¼õ(ÓÐ30ËêÒÔÉÏÈËÈºÏò¸üµÍÄêÁä²ã·¢Õ¹£¬Í¬Ê±¿ÉÒÔ¼æ¹ËÔ­Ïû·ÑÈËÈº)¡£
 ¶þ¡¢¶¯Á¦
 µÚ°Ë´úÑÅ¸ó½«ÓÐÈý¸ö²»Í¬·¢¶¯»úÅäÖÃµÄ³µÐÍÍ¶·ÅÊÐ³¡£¬·Ö±ð´îÔØ2.0Lµ¥¶¥ÖÃÍ¹ÂÖÖá·¢¶¯»ú£¬2.4LË«¶¥ÖÃÍ¹ÂÖÖá·¢¶¯»úºÍ3.5L
 VCM·¢¶¯»ú¡£¸ù¾Ý¹ãÖÝ±¾ÌïµÄÍÆ¹ã¼Æ»®£¬2.0°æ±¾ÏÔÈ»²»ÊÇËûÃÇµÄÖ÷Á¦³µÐÍ£¬ÔÚ1ÔÂ6ÈÕ¹«²¼µÄ¼Û¸ñ±íÖÐÒ²²»»á³öÏÖ£¬½ñºóÒ²ºÜÓÐ¿ÉÄÜÔÚÒ»¶ÎÊ±¼ä³öÏÖÓÐ¼ÛÎÞ³µµÄ¶©µ¥Ê½Éú²úÄ£Ê½¡£2.4LÅÅÁ¿ÒÔ¼°¸ü¸ß¶ËµÄ3.5L²ÅÊÇÐÂÑÅ¸óÖ÷´òµÄ³µÐÍ¡£×÷ÎªµÚ°Ë´úÑÅ¸óÖÐÖ÷´òµÄ2.4L³µÐÍ£¬ÆäºÍÀÏ¿îµÚÆß´úÑÅ¸óÒ»ÑùÖ§³Öi-VTECÖÇÄÜ¿É±äÆøÃÅÕýÊ±¼¼Êõ£¬·¢¶¯»úµÄ¹¦ÂÊÎª132Kw/6500rpm£¬Å¤¾ØÎª225Nm/4500rpm£¬¶øÏÖ¿îÑÅ¸ó2.4µÄ×î´ó¹¦ÂÊÖ»ÓÐ125Kw£¬Å¤¾ØÎª220Nm£¬ÁíÍâµÚ°Ë´úÑÅ¸óµÄ×î´ó¹¦ÂÊ¼°Å¤¾ØµÄ·¢³ö×ªËÙÉÏÒ²½Ï7´úÑÅ¸ó2.4LÓÐËùÌá¸ß¡£¶ø3.5LÅÅÁ¿³µÐÍËäÈ»ÓµÓÐ3¶ÎVCM¿É±äÆø¸×¹ÜÀíÏµÍ³£¬²»¹ý¾ÍÆä¶¨Î»ÒÔ¼°Æä½«Òª¹«²¼µÄÊÛ¼ÛÀ´¿´£¬3.5L³µÐÍµÄÏúÁ¿Ó¦µ±²»»áÌ«¸ß¡£²»¹ý¶ÔÆóÒµ»òÕþ¸®·½ÃæµÄÐÐÒµ¸ß¶ËÓÃ»§À´Ëµ£¬3.5L³µÐÍµÄÐÂ¿Æ¼¼´øÀ´ÀÖÈ¤ÊÇ¾ø¶ÔÖµµÃ³¢ÊÔµÄ¡£
@@ -35893,9 +35713,7 @@ VCM·¢¶¯»ú¡£¸ù¾Ý¹ãÖÝ±¾ÌïµÄÍÆ¹ã¼Æ»®£¬2.0°æ±¾ÏÔÈ»²»ÊÇËûÃÇµÄÖ÷Á¦³µÐÍ£¬ÔÚ1ÔÂ6ÈÕ¹«²¼µÄ
 ËÄ¡¢ÅäÖÃ
 ³ýÁËÈÃÈË¶úÄ¿Ò»ÐÂµÄÍâÐÎºÍÄÚÊÎ£¬µÚ°Ë´úÑÅ¸óÔÚÅäÖÃÉÏµÄÌáÉýÊ®·ÖÃ÷ÏÔ¡£3.5L³µÐÍµÄÖÐ¿ØÌ¨ÉÏµÄ¶à¹¦ÄÜÒº¾§ÆÁÄ»£¬¼æ¹ËGPSµ¼º½ºÍDVDÓ°ÒôÓéÀÖ¹¦ÄÜÒÔ¼°È«²Ê¿ÉÊÓµ¹³µÀ×´ïÆÁ¡£´ËÍâ£¬µÚ°Ë´úÑÅ¸ó²ÉÓÃÁËµ±ÏÂÁ÷ÐÐµÄ¿¨Æ¬ÖÇÄÜÔ¿³×¼°ÎÞÔ¿³×µã»ðÏµÍ³¡£ÁíÍâÔÚ¼ÝÊ»Ô±¿ªÆô³µÃÅµÄË²¼ä£¬³µÃÅ²¿Î»µÄ¸ÐÓ¦Æ÷»áË²¼ä¸ÐÓ¦ÊÖ²¿Ïà¶ÔÓÚ³µÉíµÄÎ»ÖÃ£¬×öµ½¼°Ê±¿ªËø¡£ÁíÍâ¿É¿ØÒôÏìÕæÆ¤¶à¹¦ÄÜ·½ÏòÅÌ¼°ÆäËûÖîÈç¶ÀÁ¢Ë«ÎÂÇø×Ô¶¯¿Õµ÷µÈÅäÖÃ¶¼ÊÇ±ê×¼ÅäÖÃ¡£¶ø3.5L³µÐÍÉÏµÄ¼ÝÊ»Ï¯×ùÒÎ»¹Ö§³Ö8Ïòµç¶¯µ÷½Ú¼°µç¼ÓÈÈ¹¦ÄÜ¡£½«ËùÓÐÊ±ÏÂÁ÷ÐÐµÄÅäÖÃÒ»Ò»ÄÒÀ¨¡£
 Îå¡¢¼Û¸ñ
-08¿­ÃÀÈðÒµÒÑÉÏÊÐ¡£ÆäÔö¼ÓµÄÈ«ÆøÄÒµÄ°²È«ÅäÖÃÈÃÕûÌå°²È«µÈ¼¶ÀíÂÛÉÏ´ïµ½ÁËÅ·ÖÞNCAPµÄ5ÐÇË®Æ½¡£¶ø¹ãÖÝ±¾ÌïÈ´ÒÑ¾­×öºÃÁËÐÄÀí×¼±¸£¬¹ã±¾Ö´ÐÐ¸±×Ü¾­Àí¸¶ÊØ½Ü³Æ£ºËûÃÇ½«Éú²úÏßÌáÇ°Ò»¸öÔÂ½øÐÐÁËµ÷Õû£¬ÒÔÖÂÓÚÓ°ÏìÁËÀÏ¿îÑÅ¸óµÄ²úÏúÁ¿¡£ÄÇÃ´ÔÚ08ÄêÓÖ¼¸ºõÏûºÄÁËÒ»ÖÜµÄÊ±¼ä²ÅÕýÊ½ÉÏÊÐ¡£ÓÉÓÚ´Ë´ÎÊÇ´¹Ö±»»´ú£¬ÀÏ¿îÑÅ¸ó½«ÍË³öÊÐ³¡£¬¼Û¸ñÊÇµÚ°Ë´úÑÅ¸óÄÜ·ñÔÚÈ«¹úÒ»ÅÚ´òÏìµÄ¹Ø¼üÒòËØ£¬×Ý¹Û´Ë´ÎµÚ°Ë´úÑÅ¸óµÄ»»´ú£¬ËùÉý¼¶µÄ²¿·ÖÒÔ¼°¸Ä½ø¶¼ÊÇÎªÁËÖÐ¼¶³µÊÐ³¡±¦×ù¶øÀ´¡£ÎÄÊ×Ìáµ½£¬ÒÔ¹ãÖÝ±¾ÌïºÍÑÅ¸óµÄÆ·ÅÆ¶ÈÀ´½²£¬¼Û¸ñÏÔÈ»²»Ó¦¸Ã¸ßÓÚ¿­ÃÀÈð¡£ÈçºÎÔÚ08°ÂÔËÄê´óÕ¹È­½Å£¬»¹Òª¿´¹ãÖÝ±¾ÌïºÍ¹ãÖÝ·áÌïÈçºÎÒýÁì½ñÄêB¼¶³µÊÐ³¡µÄÒ»·¬´óÕ½ÁË¡£(ÎÄ
-ÌÚÑ¶Æû³µ
-ÓÚÏªéª)
+08¿­ÃÀÈðÒµÒÑÉÏÊÐ¡£ÆäÔö¼ÓµÄÈ«ÆøÄÒµÄ°²È«ÅäÖÃÈÃÕûÌå°²È«µÈ¼¶ÀíÂÛÉÏ´ïµ½ÁËÅ·ÖÞNCAPµÄ5ÐÇË®Æ½¡£¶ø¹ãÖÝ±¾ÌïÈ´ÒÑ¾­×öºÃÁËÐÄÀí×¼±¸£¬¹ã±¾Ö´ÐÐ¸±×Ü¾­Àí¸¶ÊØ½Ü³Æ£ºËûÃÇ½«Éú²úÏßÌáÇ°Ò»¸öÔÂ½øÐÐÁËµ÷Õû£¬ÒÔÖÂÓÚÓ°ÏìÁËÀÏ¿îÑÅ¸óµÄ²úÏúÁ¿¡£ÄÇÃ´ÔÚ08ÄêÓÖ¼¸ºõÏûºÄÁËÒ»ÖÜµÄÊ±¼ä²ÅÕýÊ½ÉÏÊÐ¡£ÓÉÓÚ´Ë´ÎÊÇ´¹Ö±»»´ú£¬ÀÏ¿îÑÅ¸ó½«ÍË³öÊÐ³¡£¬¼Û¸ñÊÇµÚ°Ë´úÑÅ¸óÄÜ·ñÔÚÈ«¹úÒ»ÅÚ´òÏìµÄ¹Ø¼üÒòËØ£¬×Ý¹Û´Ë´ÎµÚ°Ë´úÑÅ¸óµÄ»»´ú£¬ËùÉý¼¶µÄ²¿·ÖÒÔ¼°¸Ä½ø¶¼ÊÇÎªÁËÖÐ¼¶³µÊÐ³¡±¦×ù¶øÀ´¡£ÎÄÊ×Ìáµ½£¬ÒÔ¹ãÖÝ±¾ÌïºÍÑÅ¸óµÄÆ·ÅÆ¶ÈÀ´½²£¬¼Û¸ñÏÔÈ»²»Ó¦¸Ã¸ßÓÚ¿­ÃÀÈð¡£ÈçºÎÔÚ08°ÂÔËÄê´óÕ¹È­½Å£¬»¹Òª¿´¹ãÖÝ±¾ÌïºÍ¹ãÖÝ·áÌïÈçºÎÒýÁì½ñÄêB¼¶³µÊÐ³¡µÄÒ»·¬´óÕ½ÁË¡£(ÎÄ ÌÚÑ¶Æû³µ ÓÚÏªéª)
 ÑÅ¸óÀúÊ·£º
 1976Äê£¬ÔÚÊÊÓ¦ÄÜÔ´Î£»úºÍ¶ÔÅÅÆøµÄÏÞÖÆµÈÐÂÐÎÊÆµÄÒªÇóÏÂ£¬µÚÒ»´úÑÅ¸óÎÊÊÀ¡£¡°³öÉú¡±µÄÊ±´ú±³¾°¾ö¶¨ÁËËü¾ßÓÐ×îÓÅÔ½µÄ½ÚÄÜ¡¢»·±£ÐÔÄÜ¡£´ËºóÃ¿¸ô¼¸Äê£¬±¾Ìï½«µ±Ê±×îÐÂ¡¢×îÏÈ½øµÄ¼¼ÊõÔËÓÃÔÚÑÅ¸óÉíÉÏ£¬Ê¹Æä¸ü»·±£¡¢¸ü½ÚÄÜ¡¢¸ü°²È«£¬ÐÔÄÜ¸üÏÈ½ø£¬³É¹¦ÊµÏÖÒ»´ÎÓÖÒ»´ÎÉý¼¶»»´ú¡£
 1998Äê£¬¹ãÖÝ±¾Ìï³ÉÁ¢£¬Òý½ø1997Äê¸Õ»»´úµÄ±±ÃÀ°æµÚÁù´úÑÅ¸ó£¬ÊÇµ±Ê±ÖÐ¹úÆû³µÊÐ³¡Òý½øÉú²úµÄµÚÒ»¿îÓë¹ú¼Ê½Ó¹ìµÄ³µÐÍ¡£¿ÉÒÔËµ£¬ÊÇ¹ãÖÝ±¾ÌïÊ¹µÃÑÅ¸óµÄ¹ÊÊÂµÃÒÔÔÚÖÐ¹ú³É¹¦ÐøÐ´£¬Ò²¿ÉÒÔËµ£¬ÊÇÑÅ¸óÏåÖúÁË¹ãÖÝ±¾ÌïµÄ²¦ÔÆ¼ûÈÕ¡¢ÕôÕôÈÕÉÏ¡£
@@ -35903,10 +35721,7 @@ VCM·¢¶¯»ú¡£¸ù¾Ý¹ãÖÝ±¾ÌïµÄÍÆ¹ã¼Æ»®£¬2.0°æ±¾ÏÔÈ»²»ÊÇËûÃÇµÄÖ÷Á¦³µÐÍ£¬ÔÚ1ÔÂ6ÈÕ¹«²¼µÄ
 ÔÚµÚÁù´úÑÅ¸ó»¹¹©²»Ó¦ÇóµÄÇé¿öÏÂ£¬2002Äêµ×£¬¹ãÖÝ±¾ÌïÒãÈ»Í£Ö¹Õâ¿î³µµÄÉú²ú£¬ÓÚ2003Äê1ÔÂ15ÈÕÍÆ³öÁËÎÞÂÛÔÚÐÐÊ»ÐÔÄÜ»¹ÊÇÔÚÍâÐÎÉè¼ÆÉÏ¾ù¸üÉÏÒ»²ãÂ¥µÄµÚÆß´ú¡¢03¿îÑÅ¸ó£¬¶ø¼Û¸ñ¸ü¼Ó¹ú¼Ê»¯£¬ÒýÆðÁËÖÐ¹ú³µÊÐÓÈÆäÊÇÖÐ¸ßµµ³µÊÐµÄ´óÕðµ´¡£
 03¿îÑÅ¸óµÄÍÆ³öÊ¹ÑÅ¸óÔÚÖÐ¹úµÄÕ÷Õ½ÅÊÉÏÁËÒ»¸öÐÂµÄ¸ß·å£¬»ñµÃÁËÎÞÊý½±Ïî£¬Ò²Ó®µÃ¸ü¶à¹Ë¿ÍµÄÇàíù£¬ÓµÓÐÁË¸ü¶àÓµõ»¡£
 2005Äê12ÔÂ28ÈÕ£¬¹ãÖÝ±¾Ìï06¿îÑÅ¸óÔÚ¹ãÖÝÊÐÐÂÌåÓý¹ÝÂ¡ÖØÏÂÏß¡£06¿îÑÅ¸óµÄÍÆ³ö£¬Ö¤Ã÷ÑÅ¸óµÄ¾«²Ê»¹ÔÚÑÓÐø¡­¡­
-ÎªÁËÂú×ãÓÃ»§¶ÔÑÅ¸ó¸ü¸ß²ã´ÎµÄ¼ÛÖµÆÚÍû£¬¹ãÖÝ±¾Ìï½«¡°3more¡±ÀíÄîÔËÓÃÓÚ06¿îÑÅ¸óµÄ¿ª·¢Ö®ÖÐ¡£ÔÚ¼Ì³ÐÒÑÓÐ¸ßÆ·ÖÊµÄ»ù´¡ÉÏ£¬Í¨¹ý¡°¸ü¸ß¼¶¡±£¨more
-advanced£©¡¢¡°¸ü¶¯¸Ð¡±(more
-sporty)¡¢¡°¸ü°²È«¡±(more
-secure)Èý¸öÖ§µã´´Ôì³öÕ¸ÐÂµÄ06¿îÑÅ¸óÐÎÏó£¬´ïµ½Íâ¹Û¡¢ÄÚÊÎ¡¢¶¯Á¦¡¢²Ù¿Ø¸÷·½Ãæ¸ü¸ßË®Æ½µÄºÍÐ³Í³Ò»£¬³É¾ÍÒ»¿îÖÇ»Û¡¢½øÈ¡¡¢³¬Ô½Í¬¼¶±ðµÄ¸ßÐÔÄÜ½Î³µ¡£
+ÎªÁËÂú×ãÓÃ»§¶ÔÑÅ¸ó¸ü¸ß²ã´ÎµÄ¼ÛÖµÆÚÍû£¬¹ãÖÝ±¾Ìï½«¡°3more¡±ÀíÄîÔËÓÃÓÚ06¿îÑÅ¸óµÄ¿ª·¢Ö®ÖÐ¡£ÔÚ¼Ì³ÐÒÑÓÐ¸ßÆ·ÖÊµÄ»ù´¡ÉÏ£¬Í¨¹ý¡°¸ü¸ß¼¶¡±£¨more advanced£©¡¢¡°¸ü¶¯¸Ð¡±(more sporty)¡¢¡°¸ü°²È«¡±(more secure)Èý¸öÖ§µã´´Ôì³öÕ¸ÐÂµÄ06¿îÑÅ¸óÐÎÏó£¬´ïµ½Íâ¹Û¡¢ÄÚÊÎ¡¢¶¯Á¦¡¢²Ù¿Ø¸÷·½Ãæ¸ü¸ßË®Æ½µÄºÍÐ³Í³Ò»£¬³É¾ÍÒ»¿îÖÇ»Û¡¢½øÈ¡¡¢³¬Ô½Í¬¼¶±ðµÄ¸ßÐÔÄÜ½Î³µ¡£
 ÓÅÑÅÓë¶¯¸Ð¼æ¾ßµÄÍâ¹Û
 06¿îÑÅ¸ó³µÉíÏßÌõÏ´Á·¡¢Á÷³©£¬Õû³µÔìÐÍÈÚºÏÊ±ÉÐ¶¯¸ÐºÍÓºÈÝÆø¶È¡£È«ÐÂµÄ³µÎ²ÔìÐÍÈÃÈËÑÛÇ°Ò»ÁÁ£º²ÉÓÃºÀ»ª³µÐÍ³£ÓÃµÄled¸ßÎ»É²³µµÆ¼°µäÑÅµÄÈý½ÇÐÎ×éºÏÎ²µÆ£¬¼ò½àÃ÷¿ì£¬Óë¶ÀÌØµÄ¿íÅÆÕÕ°åÒ»ÆðÓªÔì³ö´óÆø³ÁÎÈµÄÓ¡Ïó¡£¸ßÁÁ¶È¡¢ÑóÒç¿Æ¼¼¸ÐµÄledÎ²µÆÒ²½«³ÉÎª³µÁ÷ÖÐ×îÌØ±ðµÄ·ç¾°¡£
 ÐÂµÄÎ²²¿ÔìÐÍ´ïµ½ÓëÇ°²¿¸üÐ­µ÷µÄºôÓ¦£¬Ê¹Õû³µÐÎÏó¸üÎªÍ»³ö¡£ºÍÐ³µÄÍâ¹ÛÔÌº­ÁË06¿îÑÅ¸ó¶ÀÌØµÄÃÀ¸Ð£º¸öÐÔÊ®×ã¡¢ºôÖ®Óû³öµÄÇ°Á³¡¢³äÂú¶¯ÊÆÓëÁ¦¶ÈµÄ²àÎ§ÒÔ¼°´óÆøÊæÕ¹¡¢¸»ÓÐÖÊ¸ÐµÄÎ²²¿¡­¡­ÎªÓÃ»§´øÀ´¸ü·á¸»¡¢Éî¿ÌµÄÊÓ¾õÏíÊÜ¡£
@@ -35927,23 +35742,17 @@ vtec³µÐÍÉÏÑ¡×°µ¹³µºóÉãÏñÍ·£¬½«³µºóÇé¿öÒ»ÀÀÎÞÓà£¬¸ü°²ÐÄµØ½øÐÐµ¹³µ²Ù×÷¡£
 ·¢¶¯»ú£¬¼¯¸ß¶¯Á¦¡¢µÍÓÍºÄµÄÓÅÒìÐÔÄÜÓÚÒ»Éí¡£×¿Ô½µÄi-vtec·¢¶¯»ú½áºÏÁËhondaÏÈ½øµÄvtec£¨¿É±äÆøÃÅÕýÊ±¼°Éý³Ìµç×Ó¿ØÖÆ£©¼¼ÊõºÍ·¢¶¯»úÔÚ²»Í¬×ªËÙÇøÓòÁ¬Ðøµ÷¿ØÅäÆøÏàÎ»µÄvtc¼¼Êõ£¬¾ßÓÐÇ¿´óµÄÅ¤¾ØÊä³öÒÔ¼°ÅìÅÈÃôÈñµÄ¼ÓËÙÐÔÄÜ¡£Í¨¹ýecuµç×Ó¿ØÖÆµ¥Ôª£¬¿ØÖÆ½øÅÅÆøÃÅµÄ¿ªÆôºÍ¹Ø±Õ£¬Ê¹·¢¶¯»úµÄÈ¼ÉÕ×´Ì¬±£³Ö×î¼Ñ£¬´Ó¶øÊµÏÖÁË¸ß¹¦ÂÊÊä³ö¡¢µÍÈ¼ÓÍÏûºÄºÍÇå½àÅÅ·ÅµÄÀíÏëÆ½ºâ¡£
 2.4li-vtec·¢¶¯»úÍ¨¹ý¶Ô½ø¡¢ÅÅÆøÏµÍ³µÄ¸Ä½ø£¬Ìá¸ßÁË¿ÕÆøÁ÷¶¯ÂÊ£¬Ê¹ÅÅÆøÐ§ÂÊµÃµ½ÓÅ»¯£¬ÅçÓÍÐ§ÂÊµÃÒÔÌá¸ß£¬×î´ó¹¦ÂÊ½Ï05¿îÌáÉýÁË10ÂíÁ¦¡£ÔÚ2.4li-vtecºÍ3.0l
 v6
-vtec³µÐÍÉÏ£¬06¿îÑÅ¸ó»¹Ó¦ÓÃÁË¾«×¼µÄdbw£¨drive
-by
-wire£©Ïß¿ØÓÍÃÅÇý¶¯×°ÖÃ£¨µç×ÓÓÍÃÅ£©¡£dbwÏµÍ³¸Ä±ä´«Í³ÐÎÊ½£¬Í¨¹ý´«¸ÐÆ÷À´¼ì²âÓÍÃÅÌ¤°åÎ»ÖÃ£¬¾­¹ýecuÅÐ¶Ï£¬½øÐÐ×î¼ÑµÄ¿ØÖÆ£¬ÊµÏÖÁË³µÁ¾Æ½Ë³µÄÆð²½¼ÓËÙºÍÇ¿¾¢µÄ¸ßËÙÐÐÊ»£¬»¹´ó´óÌá¸ßÁËÈ¼ÓÍ¾­¼ÃÐÔ¡£Í¬Ê±¼¯³ÉµÄ¶¨ËÙÑ²º½¹¦ÄÜÒ²ÈÃ¼ÝÊ»¸ü¼ÓÇáËÉ¡£
+vtec³µÐÍÉÏ£¬06¿îÑÅ¸ó»¹Ó¦ÓÃÁË¾«×¼µÄdbw£¨drive by wire£©Ïß¿ØÓÍÃÅÇý¶¯×°ÖÃ£¨µç×ÓÓÍÃÅ£©¡£dbwÏµÍ³¸Ä±ä´«Í³ÐÎÊ½£¬Í¨¹ý´«¸ÐÆ÷À´¼ì²âÓÍÃÅÌ¤°åÎ»ÖÃ£¬¾­¹ýecuÅÐ¶Ï£¬½øÐÐ×î¼ÑµÄ¿ØÖÆ£¬ÊµÏÖÁË³µÁ¾Æ½Ë³µÄÆð²½¼ÓËÙºÍÇ¿¾¢µÄ¸ßËÙÐÐÊ»£¬»¹´ó´óÌá¸ßÁËÈ¼ÓÍ¾­¼ÃÐÔ¡£Í¬Ê±¼¯³ÉµÄ¶¨ËÙÑ²º½¹¦ÄÜÒ²ÈÃ¼ÝÊ»¸ü¼ÓÇáËÉ¡£
 ½ô´Õ»¯Éè¼ÆµÄ5ËÙ×Ô¶¯±äËÙÆ÷½«»»µ²³å»÷½µµ½×îµÍ£¬ÊµÏÖÁËÈ¼ÓÍ¾­¼ÃÐÔºÍ¸ßÐ§ÂÊµÄÍ³Ò»£¬²¢²ÉÓÃÐÂµÄÁã¼þÉè¼Æ±ê×¼£¬ÌáÉýÁË±äËÙÆ÷µÄÄÍÓÃÐÔÒÔ¼°ÕûÌåÐÔÄÜ¡£ÁíÍâ£¬×¨ÎªÂú×ãÓÃ»§µÄ¶àÔª»¯ÐèÇó¶øÉè¼ÆÁË5ËÙÊÖ¶¯±äËÙÆ÷£¬´øÀ´´¿´âµÄ¼ÝÊ»ÀÖÈ¤¡£
 Ðü¹ÒÏµÍ³¼Ì³ÐÁËÑÅ¸ó³ÉÊì¸ßË®×¼µÄ¼¼Êõ£¬ÎÞÂÛÊÇË«ºá±Û¶ÀÁ¢Ç°Ðü¹Ò£¬»¹ÊÇÎåÁ¬¸ËË«ºá±Û¶ÀÁ¢ºóÐü¹Ò¶¼ÎªÊµÏÖ¶àÑùµÄ¼ÝÊ»ÀÖÈ¤ºÍÊæÊÊµÄ³Ë×øÌåÑé×÷³öÁË¹±Ï×¡£
 Á÷³©µÄÕû³µÔìÐÍÒÔ¼°¸ßÐ§ÂÊ·ÀÔë¼¼ÊõµÄÓ¦ÓÃ£¬Ê¹06¿îÑÅ¸ó¾ßÓÐ³öÉ«µÄ¿ÕÆø¶¯Á¦Ñ§ÐÔÄÜºÍnvhÐÔÄÜ¡£
-ÔÚ¶¯Á¦¡¢²Ù¿ØºÍÐ³Í³Ò»µÄÍ¬Ê±£¬06¿îÑÅ¸óÒ²ÖÂÁ¦×·ÇóÓë×ÔÈ»µÄºÍÐ³Ïà´¦¡£ÏÈ½øµÄ·¢¶¯»ú¼¼Êõ´øÀ´ÁË¼«¼ÑµÄÈ¼ÓÍ¾­¼ÃÐÔ£¬90km/hµÈËÙÐÐÊ»°Ù¹«ÀïÓÍºÄ½öÎª7.1l£¨2.4l
-i-vtec£©£¬Í¬Ê±ÅÅ·Å´ïµ½euro-¢ôË®Æ½¡£
+ÔÚ¶¯Á¦¡¢²Ù¿ØºÍÐ³Í³Ò»µÄÍ¬Ê±£¬06¿îÑÅ¸óÒ²ÖÂÁ¦×·ÇóÓë×ÔÈ»µÄºÍÐ³Ïà´¦¡£ÏÈ½øµÄ·¢¶¯»ú¼¼Êõ´øÀ´ÁË¼«¼ÑµÄÈ¼ÓÍ¾­¼ÃÐÔ£¬90km/hµÈËÙÐÐÊ»°Ù¹«ÀïÓÍºÄ½öÎª7.1l£¨2.4l i-vtec£©£¬Í¬Ê±ÅÅ·Å´ïµ½euro-¢ôË®Æ½¡£
 ÊÀ½ç×î¸ßË®Æ½µÄ°²È«ÐÔÄÜ
 ÑÅ¸óÒ»Ö±×·ÇóÊÀ½ç×î¸ßË®Æ½µÄ°²È«ÐÔÄÜ£¬ÈÃÓÃ»§ÔÚ¾¡ÇéÏíÊÜ¼ÝÊ»ÀÖÈ¤µÄÍ¬Ê±£¬Ò²»ñµÃÈ«ÃæµÄ°²È«±£ÕÏ¡£06¿îÑÅ¸ó2.4l
 i-vtecºÍ3.0l
 v6
 vtec³µÐÍ±êÅäÁËvsaÏµÍ³ºÍÇ°ÅÅ×ùÒÎ²àÆøÄÒ£¬´øÀ´ÁË¸ü¼Ó³öÉ«µÄ³µÁ¾°²È«¡£
-vsa£¨vehicle
-stability
-assist£©³µÁ¾ÎÈ¶¨ÐÔ¿ØÖÆÏµÍ³£¬ÊÇ¾ßÓÐÊÀ½çÏÈ½øË®Æ½µÄÌá¸ß³µÁ¾ÎÈ¶¨ÐÔºÍÐÐÊ»°²È«ÐÔµÄ¿ØÖÆÏµÍ³¡£¸ÃÏµÍ³³ý¾ßÓÐ´«Í³µÄÖÆ¶¯·À±§ËÀ£¨abs£©¹¦ÄÜºÍÇ£ÒýÁ¦¿ØÖÆ£¨tcs£©¹¦ÄÜÍâ£¬»¹¾ßÓÐ·À»¬¿ØÖÆ£¨skid
-control£©¹¦ÄÜ¡£ÔÚ³µÁ¾±»ÅÐ¶ÏÎª×ªÏò²»×ã»ò×ªÏò¹ý¶ÈÊ±£¬Í¨¹ý¼ÆËã£¬Ê¹³µÁ¾²úÉú·´·½ÏòµÄ×ª¾Ø£¬´Ó¶øÒÖÖÆ×ªÏò²»×ã»ò×ªÏò¹ý¶È£¬±£Ö¤ÁË³µÁ¾ÔÚÖ±ÐÐ¡¢×ªÏòÒÔ¼°ÖÆ¶¯µÈ¸÷ÖÖÐÐÊ»×´Ì¬ÏÂµÄÎÈ¶¨ÐÔ¡£
+vsa£¨vehicle stability assist£©³µÁ¾ÎÈ¶¨ÐÔ¿ØÖÆÏµÍ³£¬ÊÇ¾ßÓÐÊÀ½çÏÈ½øË®Æ½µÄÌá¸ß³µÁ¾ÎÈ¶¨ÐÔºÍÐÐÊ»°²È«ÐÔµÄ¿ØÖÆÏµÍ³¡£¸ÃÏµÍ³³ý¾ßÓÐ´«Í³µÄÖÆ¶¯·À±§ËÀ£¨abs£©¹¦ÄÜºÍÇ£ÒýÁ¦¿ØÖÆ£¨tcs£©¹¦ÄÜÍâ£¬»¹¾ßÓÐ·À»¬¿ØÖÆ£¨skid control£©¹¦ÄÜ¡£ÔÚ³µÁ¾±»ÅÐ¶ÏÎª×ªÏò²»×ã»ò×ªÏò¹ý¶ÈÊ±£¬Í¨¹ý¼ÆËã£¬Ê¹³µÁ¾²úÉú·´·½ÏòµÄ×ª¾Ø£¬´Ó¶øÒÖÖÆ×ªÏò²»×ã»ò×ªÏò¹ý¶È£¬±£Ö¤ÁË³µÁ¾ÔÚÖ±ÐÐ¡¢×ªÏòÒÔ¼°ÖÆ¶¯µÈ¸÷ÖÖÐÐÊ»×´Ì¬ÏÂµÄÎÈ¶¨ÐÔ¡£
 vsaÏµÍ³ÄÜ¹»°ïÖú¼ÝÊ»Õß¸ü¼Ó´ÓÈÝµØ²Ù¿Ø³µÁ¾£¬½«³µÁ¾¿ØÖÆÔÚÕý³£µÄ¼ÝÊ»·¶Î§ÄÚ£¬´øÀ´¸ü¼Ó°²ÐÄµÄ¼ÝÊ»¸ÐÊÜ¡£ÌØ±ðÔÚÓöµ½½ô¼±Çé¿öÍ»È»×ªÏò¡¢Í¨¹ýÊª»¬Â·ÃæµÈÇé¿öÏÂ£¬ÄÜ¹»×î´ó³Ì¶ÈµØÈ·±£³µÁ¾µÄÐÐÊ»°²È«¡£
 ÔÚÔ­ÓÐµÄÖÇÄÜË«°²È«ÆøÄÒºÍÇ°ºóÅÅ°²È«´øµÄ»ù´¡ÉÏ£¬06¿îÑÅ¸ó½«ÒÔÍùÖ»ÔÚ3.0l
 v6
@@ -36197,90 +36006,44 @@ V6
 ÑéÖ¤Âë
 £º
 (°´Ctrl+Enter¿ÉÖ±½Ó·¢±í)
-<xmp
-id="xmp_topic_list"
-style="display:none">
-<?xml
-version="1.0"
-encoding="GB2312"?>
-<xsl:stylesheet
-version="1.0"
-xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-<xsl:output
-method="html"
-encoding="gb2312"
-/>
-<xsl:template
-match="/sobar_interface">
+<xmp id="xmp_topic_list" style="display:none">
+<?xml version="1.0" encoding="GB2312"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:output method="html" encoding="gb2312" />
+<xsl:template match="/sobar_interface">
 ±êÌâ
 µã»÷/»Ø¸´
-<xsl:apply-templates
-select="//topic"
-/>
+<xsl:apply-templates select="//topic" />
 </xsl:template>
-<xsl:template
-match="topic">
+<xsl:template match="topic">
 <xsl:choose>
-<xsl:when
-test="position()
-mod
-2
-=
-1">
-<xsl:if
-test="status='4'">
+<xsl:when test="position() mod 2 = 1">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:when>
 <xsl:otherwise>
-<xsl:if
-test="status='4'">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:otherwise>
 </xsl:choose>
 </xsl:template>
@@ -37693,90 +37456,44 @@ TRCÇ£ÒýÁ¦¿ØÖÆÏµÍ³£ºµ±³µÁ¾ÔÚÊª»¬Â·Ãæ×ªÏò¹ý¶È»ò×ªÏò²»×ãÊ±£¬VSC³µÉíÎÈ¶¨¿ØÖÆÏµÍ³½«×Ô
 ÑéÖ¤Âë
 £º
 (°´Ctrl+Enter¿ÉÖ±½Ó·¢±í)
-<xmp
-id="xmp_topic_list"
-style="display:none">
-<?xml
-version="1.0"
-encoding="GB2312"?>
-<xsl:stylesheet
-version="1.0"
-xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-<xsl:output
-method="html"
-encoding="gb2312"
-/>
-<xsl:template
-match="/sobar_interface">
+<xmp id="xmp_topic_list" style="display:none">
+<?xml version="1.0" encoding="GB2312"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:output method="html" encoding="gb2312" />
+<xsl:template match="/sobar_interface">
 ±êÌâ
 µã»÷/»Ø¸´
-<xsl:apply-templates
-select="//topic"
-/>
+<xsl:apply-templates select="//topic" />
 </xsl:template>
-<xsl:template
-match="topic">
+<xsl:template match="topic">
 <xsl:choose>
-<xsl:when
-test="position()
-mod
-2
-=
-1">
-<xsl:if
-test="status='4'">
+<xsl:when test="position() mod 2 = 1">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:when>
 <xsl:otherwise>
-<xsl:if
-test="status='4'">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:otherwise>
 </xsl:choose>
 </xsl:template>
@@ -38348,90 +38065,44 @@ TRCÇ£ÒýÁ¦¿ØÖÆÏµÍ³£ºµ±³µÁ¾ÔÚÊª»¬Â·Ãæ×ªÏò¹ý¶È»ò×ªÏò²»×ãÊ±£¬VSC³µÉíÎÈ¶¨¿ØÖÆÏµÍ³½«×Ô
 ÑéÖ¤Âë
 £º
 (°´Ctrl+Enter¿ÉÖ±½Ó·¢±í)
-<xmp
-id="xmp_topic_list"
-style="display:none">
-<?xml
-version="1.0"
-encoding="GB2312"?>
-<xsl:stylesheet
-version="1.0"
-xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-<xsl:output
-method="html"
-encoding="gb2312"
-/>
-<xsl:template
-match="/sobar_interface">
+<xmp id="xmp_topic_list" style="display:none">
+<?xml version="1.0" encoding="GB2312"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:output method="html" encoding="gb2312" />
+<xsl:template match="/sobar_interface">
 ±êÌâ
 µã»÷/»Ø¸´
-<xsl:apply-templates
-select="//topic"
-/>
+<xsl:apply-templates select="//topic" />
 </xsl:template>
-<xsl:template
-match="topic">
+<xsl:template match="topic">
 <xsl:choose>
-<xsl:when
-test="position()
-mod
-2
-=
-1">
-<xsl:if
-test="status='4'">
+<xsl:when test="position() mod 2 = 1">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:when>
 <xsl:otherwise>
-<xsl:if
-test="status='4'">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:otherwise>
 </xsl:choose>
 </xsl:template>
@@ -38867,8 +38538,7 @@ Reserved
 Clarity¡±£¨»îÁ¦¡¢ÇåË¬£©µÄÉè¼ÆÀíÄî£¬ÐÂÒ»´úCAMRYÍâ¹Û¸ü¾ß¶¯¸Ð£¬¿´ÉÏÈ¥³äÂúÁË½øÈ¡µÄÄÜÁ¿£»ÄÚÊÎ¼ò½àÃ÷¿ì£¬Ê¹Éí´¦ÆäÖÐµÄ¼Ý³ËÕßÉñÇéÆøË¬¡£
 ÐÂÒ»´úCAMRY³µÉí³¤¡¢¿í¡¢¸ß·Ö±ðÎª4815mm¡¢1820mm¡¢1470mm£¬Öá¾àÎª2775mm£¬Ç°ºóÂÖ¾à·Ö±ðÊÇ1575mmºÍ1565mm£¬ÓëÇ°´úÏà±È£¬³µÉí³¤¶ÈÎ´±ä¡¢¿í¶ÈÔö¼ÓÁË25mm£¬µ«Öá¾àÔö¼ÓÁË55mm¡¢Ç°ºóÂÖ¾à¸÷Ôö¼ÓÁË30mm£¬ÕâÑùµÄ±ä»¯Ê¹µÃÐÂÒ»´úCAMRYÄÚ²¿¿Õ¼ä»ñµÃÁË´ó·ù¶ÈÌáÉý£¬³µÄÚ³¤¶ÈºÍ¿í¶È·Ö±ðÌáÉýÁË260mºÍ10mm£¬ÕâÊ¹µÃ¼Ý³ËÕß»ñµÃ¸üÊæÊÊµÄ¿Õ¼ä£¬ÐÐÀîÏáµÄ¿Õ¼äÒ²¸ü¼Ó¿í³¨¡£³µÉí¸ß¶È±ÈÇ°´ú½µµÍÁË20mm£¬Õâ¸ö±ä»¯Ôö¼ÓÁËÐÂÒ»´úCAMRYµÄ²Ù¿ØÎÈ¶¨ÐÔ¡£
 ³µÉí·½Ãæ£¬¸ßÇ¿¶ÈÇáÁ¿»¯³µÉíÉè¼ÆµÄÊ¹ÓÃ£¬Ê¹µÃÐÂÒ»´úCAMRY½µµÍÁËÉùÔë£¬²¢ÇÒ»ñµÃÁË¸üÓÅÒìµÄ¿ÕÆø¶¯Á¦Ñ§±íÏÖ£»¼ÓÉÏÏÈ½øµÄµ×ÅÌ¼¼Êõ£¬±£Ö¤ÁËÐÂÒ»´úCAMRYµÄ¼ÝÊ»ÀÖÈ¤¡£¶¯Á¦·½Ãæ£¬ÐÂÒ»´úCAMRYÖ÷ÒªÊ¹ÓÃ2.4L·¢¶¯»ú£¬ÅäÓÐÆû¸×ËøºÍ½øÅÅÆøÏµÍ³£¬²¢ÇÒÒÑ¾­¾­¹ýÈ«ÐÂ¹¤³ÌÉè¼Æ£¬¶¯Á¦¸ü¼Ó³äÅæ¡£´«¶¯·½Ãæ£¬Ç°ÂÖÇý¶¯¿îÅäÌ×Ê¹ÓÃ¸ß¶ÈÖÇÄÜ»¯µÄ5ËÙ×Ô¶¯±äËÙÏä£¬ËÄÂÖÇý¶¯¿îÅäÌ×Ê¹ÓÃ4ËÙ×Ô¶¯±äËÙÏä£¬Ê¹µÃ¼ÝÊ»Ë³³©ÓÐÁ¦¡£ÖÆ¶¯·½Ãæ£¬ËÄÂÖÅÌÊ½É²³µÒÔ¼°´óÅÌµÄÊ¹ÓÃ£¬Ê¹µÃ³µÁ¾É²³µÐÔÄÜ±íÏÖÓÅÒì¡£Æ½ÎÈ·½Ãæ£¬Ç°Ðü¹ÒÎªÂó¸¥Ñ·£¬ºóÐü¹ÒÔò²ÉÓÃÁË¶àÁ¬¸ËÊ½£¬ÈÃ¼Ý³Ë¸üÆ½ÎÈ£¬²Ù¿Ø¸Ð¸üºÃ¡£
-ÔÚ°²È«·½Ãæ£¬·áÌïÔÚÐÂÒ»´úCAMRYÉÏ×ö×ãÁË¹¤·ò¡£×÷ÎªÕû³µ°²È«ÐÔµÄ×î»ù´¡±£ÕÏ£¬ÐÂÒ»´úCAMRY²ÉÓÃ·áÌï×îÏÈ½øµÄGOA°²È«³µÉí£¬²¢ÇÒÒÔ¡°¶àÏò¼æÈÝ¡±£¨omni-directional
-compatibility£©¸ÅÄî½øÒ»²½Éý¼¶¡£¾ÍËãÊÇÔÚ×îÎ£ÏÕµÄ²àÃæ×²»÷·¢ÉúÊ±£¬³µÉíÒ²ÄÜ¹»Ñ¸ËÙ¡¢ÓÐÐ§µØÎüÊÕÅö×²ÄÜÁ¿£¬²¢½«Æä·ÖÉ¢ÖÁ³µÉí¸÷²¿Î»¹Ç¼ÜÒÔ»¯½â³å»÷Á¦¡£³µÉíÉÏµÄ²àÁº¡¢³µ¶¥¡¢ÖÐÑëºáÁº¡¢Ç°ÅÅ×ùÒÎ½á¹¹¶¼±»¼ÓÇ¿£¬ÒÔ¼õÉÙÅö×²Ê±¼Ý³Ë²ÖµÄ±äÐÎ¡£´ËÍâ¸÷ÖÖ¿ÉÒÔÏëµÃµ½µÄ°²È«×°±¸²»Ò»¶ø×ã¡£
+ÔÚ°²È«·½Ãæ£¬·áÌïÔÚÐÂÒ»´úCAMRYÉÏ×ö×ãÁË¹¤·ò¡£×÷ÎªÕû³µ°²È«ÐÔµÄ×î»ù´¡±£ÕÏ£¬ÐÂÒ»´úCAMRY²ÉÓÃ·áÌï×îÏÈ½øµÄGOA°²È«³µÉí£¬²¢ÇÒÒÔ¡°¶àÏò¼æÈÝ¡±£¨omni-directional compatibility£©¸ÅÄî½øÒ»²½Éý¼¶¡£¾ÍËãÊÇÔÚ×îÎ£ÏÕµÄ²àÃæ×²»÷·¢ÉúÊ±£¬³µÉíÒ²ÄÜ¹»Ñ¸ËÙ¡¢ÓÐÐ§µØÎüÊÕÅö×²ÄÜÁ¿£¬²¢½«Æä·ÖÉ¢ÖÁ³µÉí¸÷²¿Î»¹Ç¼ÜÒÔ»¯½â³å»÷Á¦¡£³µÉíÉÏµÄ²àÁº¡¢³µ¶¥¡¢ÖÐÑëºáÁº¡¢Ç°ÅÅ×ùÒÎ½á¹¹¶¼±»¼ÓÇ¿£¬ÒÔ¼õÉÙÅö×²Ê±¼Ý³Ë²ÖµÄ±äÐÎ¡£´ËÍâ¸÷ÖÖ¿ÉÒÔÏëµÃµ½µÄ°²È«×°±¸²»Ò»¶ø×ã¡£
 ¼øÓÚÇ°¼¸´úCAMRY²»½öÔÚÃÀ¹úÊÐ³¡·ç¹âÎÞÏÞ£¬¶øÇÒÔÚÎÒ¹ú½ø¿Ú³µÊÐ³¡Ò²¶àÄêÃûÁÐµÚÒ»£¬³ÉÎª½ø¿Ú½Î³µµÄ±ê¸Ë£¬Òò´ËÐÂÒ»´úCAMRY½«¹ú²úµÄÏûÏ¢Òý·¢ÁËÐí¶àÏû·ÑÕßµÄÆÚ´ý¡£»ù±¾ÐÍÔÚÈÕ±¾ÉÏÊÐÖ®ºó£¬Ðí¶àÏû·ÑÕß×ÔÈ»½«Æä×÷ÎªÐÄÄ¿ÖÐ¹ú²ú¿­ÃÀÈðµÄ²Î¿¼¶ÔÏó¡£¶øÊµ¼ÊÉÏ½«ÔÚ¹ãÖÝÉú²úµÄ¿­ÃÀÈð½«ÊÇ²»Í¬µÄ°æ±¾£¬¾Ý¹ãÖÝ·áÌï¹Ù·½¿É¿¿ÏûÏ¢£¬½«ÔÚ¹ãÖÝ·áÌïÄÏÉ³¹¤³§Éú²úµÄ¿­ÃÀÈð½«ÊÇÐÂÒ»´úCAMRYµÄÆì½¢ÐÍ£¬Óë»ù±¾ÐÍÏà±È£¬Æì½¢ÐÍ½«ÍâÐÍ¸ü×ð¹ó¡¢ÄÚÊÎ¸üµäÑÅ¡¢ÅäÖÃ¸üºÀ»ª¡¢³Ë×ø¸üÊæÊÊ¡£¾ÝÏ¤£¬¹ãÖÝ·áÌï³õ²½È·¶¨½«ÓÚ4ÔÂ·Ý¾ÙÐÐ¿­ÃÀÈðµÄ³µÐÍ·¢²¼£¬½ìÊ±¿ÉÒÔÒ»ÀÀÆäÈ«Ã²£¬ÈÃÎÒÃÇÊÃÄ¿ÒÔ´ý¡£
 ¿­ÃÀÈðÏà¹ØÐÂÎÅ:¸ü¶à
 ¡¤ÃÉµÏÅ·£­ÖÂÊ¤Ê®´ó·¨±¦PKµ±½ñ°ÔÖ÷¿­ÃÀÈð
@@ -39023,90 +38693,44 @@ compatibility£©¸ÅÄî½øÒ»²½Éý¼¶¡£¾ÍËãÊÇÔÚ×îÎ£ÏÕµÄ²àÃæ×²»÷·¢ÉúÊ±£¬³µÉíÒ²ÄÜ¹»Ñ¸ËÙ¡¢Ó
 ÑéÖ¤Âë
 £º
 (°´Ctrl+Enter¿ÉÖ±½Ó·¢±í)
-<xmp
-id="xmp_topic_list"
-style="display:none">
-<?xml
-version="1.0"
-encoding="GB2312"?>
-<xsl:stylesheet
-version="1.0"
-xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-<xsl:output
-method="html"
-encoding="gb2312"
-/>
-<xsl:template
-match="/sobar_interface">
+<xmp id="xmp_topic_list" style="display:none">
+<?xml version="1.0" encoding="GB2312"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:output method="html" encoding="gb2312" />
+<xsl:template match="/sobar_interface">
 ±êÌâ
 µã»÷/»Ø¸´
-<xsl:apply-templates
-select="//topic"
-/>
+<xsl:apply-templates select="//topic" />
 </xsl:template>
-<xsl:template
-match="topic">
+<xsl:template match="topic">
 <xsl:choose>
-<xsl:when
-test="position()
-mod
-2
-=
-1">
-<xsl:if
-test="status='4'">
+<xsl:when test="position() mod 2 = 1">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:when>
 <xsl:otherwise>
-<xsl:if
-test="status='4'">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:otherwise>
 </xsl:choose>
 </xsl:template>
@@ -39537,8 +39161,7 @@ Reserved
 Clarity¡±£¨»îÁ¦¡¢ÇåË¬£©µÄÉè¼ÆÀíÄî£¬ÐÂÒ»´úCAMRYÍâ¹Û¸ü¾ß¶¯¸Ð£¬¿´ÉÏÈ¥³äÂúÁË½øÈ¡µÄÄÜÁ¿£»ÄÚÊÎ¼ò½àÃ÷¿ì£¬Ê¹Éí´¦ÆäÖÐµÄ¼Ý³ËÕßÉñÇéÆøË¬¡£
 ÐÂÒ»´úCAMRY³µÉí³¤¡¢¿í¡¢¸ß·Ö±ðÎª4815mm¡¢1820mm¡¢1470mm£¬Öá¾àÎª2775mm£¬Ç°ºóÂÖ¾à·Ö±ðÊÇ1575mmºÍ1565mm£¬ÓëÇ°´úÏà±È£¬³µÉí³¤¶ÈÎ´±ä¡¢¿í¶ÈÔö¼ÓÁË25mm£¬µ«Öá¾àÔö¼ÓÁË55mm¡¢Ç°ºóÂÖ¾à¸÷Ôö¼ÓÁË30mm£¬ÕâÑùµÄ±ä»¯Ê¹µÃÐÂÒ»´úCAMRYÄÚ²¿¿Õ¼ä»ñµÃÁË´ó·ù¶ÈÌáÉý£¬³µÄÚ³¤¶ÈºÍ¿í¶È·Ö±ðÌáÉýÁË260mºÍ10mm£¬ÕâÊ¹µÃ¼Ý³ËÕß»ñµÃ¸üÊæÊÊµÄ¿Õ¼ä£¬ÐÐÀîÏáµÄ¿Õ¼äÒ²¸ü¼Ó¿í³¨¡£³µÉí¸ß¶È±ÈÇ°´ú½µµÍÁË20mm£¬Õâ¸ö±ä»¯Ôö¼ÓÁËÐÂÒ»´úCAMRYµÄ²Ù¿ØÎÈ¶¨ÐÔ¡£
 ³µÉí·½Ãæ£¬¸ßÇ¿¶ÈÇáÁ¿»¯³µÉíÉè¼ÆµÄÊ¹ÓÃ£¬Ê¹µÃÐÂÒ»´úCAMRY½µµÍÁËÉùÔë£¬²¢ÇÒ»ñµÃÁË¸üÓÅÒìµÄ¿ÕÆø¶¯Á¦Ñ§±íÏÖ£»¼ÓÉÏÏÈ½øµÄµ×ÅÌ¼¼Êõ£¬±£Ö¤ÁËÐÂÒ»´úCAMRYµÄ¼ÝÊ»ÀÖÈ¤¡£¶¯Á¦·½Ãæ£¬ÐÂÒ»´úCAMRYÖ÷ÒªÊ¹ÓÃ2.4L·¢¶¯»ú£¬ÅäÓÐÆû¸×ËøºÍ½øÅÅÆøÏµÍ³£¬²¢ÇÒÒÑ¾­¾­¹ýÈ«ÐÂ¹¤³ÌÉè¼Æ£¬¶¯Á¦¸ü¼Ó³äÅæ¡£´«¶¯·½Ãæ£¬Ç°ÂÖÇý¶¯¿îÅäÌ×Ê¹ÓÃ¸ß¶ÈÖÇÄÜ»¯µÄ5ËÙ×Ô¶¯±äËÙÏä£¬ËÄÂÖÇý¶¯¿îÅäÌ×Ê¹ÓÃ4ËÙ×Ô¶¯±äËÙÏä£¬Ê¹µÃ¼ÝÊ»Ë³³©ÓÐÁ¦¡£ÖÆ¶¯·½Ãæ£¬ËÄÂÖÅÌÊ½É²³µÒÔ¼°´óÅÌµÄÊ¹ÓÃ£¬Ê¹µÃ³µÁ¾É²³µÐÔÄÜ±íÏÖÓÅÒì¡£Æ½ÎÈ·½Ãæ£¬Ç°Ðü¹ÒÎªÂó¸¥Ñ·£¬ºóÐü¹ÒÔò²ÉÓÃÁË¶àÁ¬¸ËÊ½£¬ÈÃ¼Ý³Ë¸üÆ½ÎÈ£¬²Ù¿Ø¸Ð¸üºÃ¡£
-ÔÚ°²È«·½Ãæ£¬·áÌïÔÚÐÂÒ»´úCAMRYÉÏ×ö×ãÁË¹¤·ò¡£×÷ÎªÕû³µ°²È«ÐÔµÄ×î»ù´¡±£ÕÏ£¬ÐÂÒ»´úCAMRY²ÉÓÃ·áÌï×îÏÈ½øµÄGOA°²È«³µÉí£¬²¢ÇÒÒÔ¡°¶àÏò¼æÈÝ¡±£¨omni-directional
-compatibility£©¸ÅÄî½øÒ»²½Éý¼¶¡£¾ÍËãÊÇÔÚ×îÎ£ÏÕµÄ²àÃæ×²»÷·¢ÉúÊ±£¬³µÉíÒ²ÄÜ¹»Ñ¸ËÙ¡¢ÓÐÐ§µØÎüÊÕÅö×²ÄÜÁ¿£¬²¢½«Æä·ÖÉ¢ÖÁ³µÉí¸÷²¿Î»¹Ç¼ÜÒÔ»¯½â³å»÷Á¦¡£³µÉíÉÏµÄ²àÁº¡¢³µ¶¥¡¢ÖÐÑëºáÁº¡¢Ç°ÅÅ×ùÒÎ½á¹¹¶¼±»¼ÓÇ¿£¬ÒÔ¼õÉÙÅö×²Ê±¼Ý³Ë²ÖµÄ±äÐÎ¡£´ËÍâ¸÷ÖÖ¿ÉÒÔÏëµÃµ½µÄ°²È«×°±¸²»Ò»¶ø×ã¡£
+ÔÚ°²È«·½Ãæ£¬·áÌïÔÚÐÂÒ»´úCAMRYÉÏ×ö×ãÁË¹¤·ò¡£×÷ÎªÕû³µ°²È«ÐÔµÄ×î»ù´¡±£ÕÏ£¬ÐÂÒ»´úCAMRY²ÉÓÃ·áÌï×îÏÈ½øµÄGOA°²È«³µÉí£¬²¢ÇÒÒÔ¡°¶àÏò¼æÈÝ¡±£¨omni-directional compatibility£©¸ÅÄî½øÒ»²½Éý¼¶¡£¾ÍËãÊÇÔÚ×îÎ£ÏÕµÄ²àÃæ×²»÷·¢ÉúÊ±£¬³µÉíÒ²ÄÜ¹»Ñ¸ËÙ¡¢ÓÐÐ§µØÎüÊÕÅö×²ÄÜÁ¿£¬²¢½«Æä·ÖÉ¢ÖÁ³µÉí¸÷²¿Î»¹Ç¼ÜÒÔ»¯½â³å»÷Á¦¡£³µÉíÉÏµÄ²àÁº¡¢³µ¶¥¡¢ÖÐÑëºáÁº¡¢Ç°ÅÅ×ùÒÎ½á¹¹¶¼±»¼ÓÇ¿£¬ÒÔ¼õÉÙÅö×²Ê±¼Ý³Ë²ÖµÄ±äÐÎ¡£´ËÍâ¸÷ÖÖ¿ÉÒÔÏëµÃµ½µÄ°²È«×°±¸²»Ò»¶ø×ã¡£
 ¼øÓÚÇ°¼¸´úCAMRY²»½öÔÚÃÀ¹úÊÐ³¡·ç¹âÎÞÏÞ£¬¶øÇÒÔÚÎÒ¹ú½ø¿Ú³µÊÐ³¡Ò²¶àÄêÃûÁÐµÚÒ»£¬³ÉÎª½ø¿Ú½Î³µµÄ±ê¸Ë£¬Òò´ËÐÂÒ»´úCAMRY½«¹ú²úµÄÏûÏ¢Òý·¢ÁËÐí¶àÏû·ÑÕßµÄÆÚ´ý¡£»ù±¾ÐÍÔÚÈÕ±¾ÉÏÊÐÖ®ºó£¬Ðí¶àÏû·ÑÕß×ÔÈ»½«Æä×÷ÎªÐÄÄ¿ÖÐ¹ú²ú¿­ÃÀÈðµÄ²Î¿¼¶ÔÏó¡£¶øÊµ¼ÊÉÏ½«ÔÚ¹ãÖÝÉú²úµÄ¿­ÃÀÈð½«ÊÇ²»Í¬µÄ°æ±¾£¬¾Ý¹ãÖÝ·áÌï¹Ù·½¿É¿¿ÏûÏ¢£¬½«ÔÚ¹ãÖÝ·áÌïÄÏÉ³¹¤³§Éú²úµÄ¿­ÃÀÈð½«ÊÇÐÂÒ»´úCAMRYµÄÆì½¢ÐÍ£¬Óë»ù±¾ÐÍÏà±È£¬Æì½¢ÐÍ½«ÍâÐÍ¸ü×ð¹ó¡¢ÄÚÊÎ¸üµäÑÅ¡¢ÅäÖÃ¸üºÀ»ª¡¢³Ë×ø¸üÊæÊÊ¡£¾ÝÏ¤£¬¹ãÖÝ·áÌï³õ²½È·¶¨½«ÓÚ4ÔÂ·Ý¾ÙÐÐ¿­ÃÀÈðµÄ³µÐÍ·¢²¼£¬½ìÊ±¿ÉÒÔÒ»ÀÀÆäÈ«Ã²£¬ÈÃÎÒÃÇÊÃÄ¿ÒÔ´ý¡£
 Í¬Æ·ÅÆÆäËû³µÐÍ
 ººÀ¼´ï
@@ -39967,8 +39590,7 @@ Reserved
 Clarity¡±£¨»îÁ¦¡¢ÇåË¬£©µÄÉè¼ÆÀíÄî£¬ÐÂÒ»´úCAMRYÍâ¹Û¸ü¾ß¶¯¸Ð£¬¿´ÉÏÈ¥³äÂúÁË½øÈ¡µÄÄÜÁ¿£»ÄÚÊÎ¼ò½àÃ÷¿ì£¬Ê¹Éí´¦ÆäÖÐµÄ¼Ý³ËÕßÉñÇéÆøË¬¡£
 ÐÂÒ»´úCAMRY³µÉí³¤¡¢¿í¡¢¸ß·Ö±ðÎª4815mm¡¢1820mm¡¢1470mm£¬Öá¾àÎª2775mm£¬Ç°ºóÂÖ¾à·Ö±ðÊÇ1575mmºÍ1565mm£¬ÓëÇ°´úÏà±È£¬³µÉí³¤¶ÈÎ´±ä¡¢¿í¶ÈÔö¼ÓÁË25mm£¬µ«Öá¾àÔö¼ÓÁË55mm¡¢Ç°ºóÂÖ¾à¸÷Ôö¼ÓÁË30mm£¬ÕâÑùµÄ±ä»¯Ê¹µÃÐÂÒ»´úCAMRYÄÚ²¿¿Õ¼ä»ñµÃÁË´ó·ù¶ÈÌáÉý£¬³µÄÚ³¤¶ÈºÍ¿í¶È·Ö±ðÌáÉýÁË260mºÍ10mm£¬ÕâÊ¹µÃ¼Ý³ËÕß»ñµÃ¸üÊæÊÊµÄ¿Õ¼ä£¬ÐÐÀîÏáµÄ¿Õ¼äÒ²¸ü¼Ó¿í³¨¡£³µÉí¸ß¶È±ÈÇ°´ú½µµÍÁË20mm£¬Õâ¸ö±ä»¯Ôö¼ÓÁËÐÂÒ»´úCAMRYµÄ²Ù¿ØÎÈ¶¨ÐÔ¡£
 ³µÉí·½Ãæ£¬¸ßÇ¿¶ÈÇáÁ¿»¯³µÉíÉè¼ÆµÄÊ¹ÓÃ£¬Ê¹µÃÐÂÒ»´úCAMRY½µµÍÁËÉùÔë£¬²¢ÇÒ»ñµÃÁË¸üÓÅÒìµÄ¿ÕÆø¶¯Á¦Ñ§±íÏÖ£»¼ÓÉÏÏÈ½øµÄµ×ÅÌ¼¼Êõ£¬±£Ö¤ÁËÐÂÒ»´úCAMRYµÄ¼ÝÊ»ÀÖÈ¤¡£¶¯Á¦·½Ãæ£¬ÐÂÒ»´úCAMRYÖ÷ÒªÊ¹ÓÃ2.4L·¢¶¯»ú£¬ÅäÓÐÆû¸×ËøºÍ½øÅÅÆøÏµÍ³£¬²¢ÇÒÒÑ¾­¾­¹ýÈ«ÐÂ¹¤³ÌÉè¼Æ£¬¶¯Á¦¸ü¼Ó³äÅæ¡£´«¶¯·½Ãæ£¬Ç°ÂÖÇý¶¯¿îÅäÌ×Ê¹ÓÃ¸ß¶ÈÖÇÄÜ»¯µÄ5ËÙ×Ô¶¯±äËÙÏä£¬ËÄÂÖÇý¶¯¿îÅäÌ×Ê¹ÓÃ4ËÙ×Ô¶¯±äËÙÏä£¬Ê¹µÃ¼ÝÊ»Ë³³©ÓÐÁ¦¡£ÖÆ¶¯·½Ãæ£¬ËÄÂÖÅÌÊ½É²³µÒÔ¼°´óÅÌµÄÊ¹ÓÃ£¬Ê¹µÃ³µÁ¾É²³µÐÔÄÜ±íÏÖÓÅÒì¡£Æ½ÎÈ·½Ãæ£¬Ç°Ðü¹ÒÎªÂó¸¥Ñ·£¬ºóÐü¹ÒÔò²ÉÓÃÁË¶àÁ¬¸ËÊ½£¬ÈÃ¼Ý³Ë¸üÆ½ÎÈ£¬²Ù¿Ø¸Ð¸üºÃ¡£
-ÔÚ°²È«·½Ãæ£¬·áÌïÔÚÐÂÒ»´úCAMRYÉÏ×ö×ãÁË¹¤·ò¡£×÷ÎªÕû³µ°²È«ÐÔµÄ×î»ù´¡±£ÕÏ£¬ÐÂÒ»´úCAMRY²ÉÓÃ·áÌï×îÏÈ½øµÄGOA°²È«³µÉí£¬²¢ÇÒÒÔ¡°¶àÏò¼æÈÝ¡±£¨omni-directional
-compatibility£©¸ÅÄî½øÒ»²½Éý¼¶¡£¾ÍËãÊÇÔÚ×îÎ£ÏÕµÄ²àÃæ×²»÷·¢ÉúÊ±£¬³µÉíÒ²ÄÜ¹»Ñ¸ËÙ¡¢ÓÐÐ§µØÎüÊÕÅö×²ÄÜÁ¿£¬²¢½«Æä·ÖÉ¢ÖÁ³µÉí¸÷²¿Î»¹Ç¼ÜÒÔ»¯½â³å»÷Á¦¡£³µÉíÉÏµÄ²àÁº¡¢³µ¶¥¡¢ÖÐÑëºáÁº¡¢Ç°ÅÅ×ùÒÎ½á¹¹¶¼±»¼ÓÇ¿£¬ÒÔ¼õÉÙÅö×²Ê±¼Ý³Ë²ÖµÄ±äÐÎ¡£´ËÍâ¸÷ÖÖ¿ÉÒÔÏëµÃµ½µÄ°²È«×°±¸²»Ò»¶ø×ã¡£
+ÔÚ°²È«·½Ãæ£¬·áÌïÔÚÐÂÒ»´úCAMRYÉÏ×ö×ãÁË¹¤·ò¡£×÷ÎªÕû³µ°²È«ÐÔµÄ×î»ù´¡±£ÕÏ£¬ÐÂÒ»´úCAMRY²ÉÓÃ·áÌï×îÏÈ½øµÄGOA°²È«³µÉí£¬²¢ÇÒÒÔ¡°¶àÏò¼æÈÝ¡±£¨omni-directional compatibility£©¸ÅÄî½øÒ»²½Éý¼¶¡£¾ÍËãÊÇÔÚ×îÎ£ÏÕµÄ²àÃæ×²»÷·¢ÉúÊ±£¬³µÉíÒ²ÄÜ¹»Ñ¸ËÙ¡¢ÓÐÐ§µØÎüÊÕÅö×²ÄÜÁ¿£¬²¢½«Æä·ÖÉ¢ÖÁ³µÉí¸÷²¿Î»¹Ç¼ÜÒÔ»¯½â³å»÷Á¦¡£³µÉíÉÏµÄ²àÁº¡¢³µ¶¥¡¢ÖÐÑëºáÁº¡¢Ç°ÅÅ×ùÒÎ½á¹¹¶¼±»¼ÓÇ¿£¬ÒÔ¼õÉÙÅö×²Ê±¼Ý³Ë²ÖµÄ±äÐÎ¡£´ËÍâ¸÷ÖÖ¿ÉÒÔÏëµÃµ½µÄ°²È«×°±¸²»Ò»¶ø×ã¡£
 ¼øÓÚÇ°¼¸´úCAMRY²»½öÔÚÃÀ¹úÊÐ³¡·ç¹âÎÞÏÞ£¬¶øÇÒÔÚÎÒ¹ú½ø¿Ú³µÊÐ³¡Ò²¶àÄêÃûÁÐµÚÒ»£¬³ÉÎª½ø¿Ú½Î³µµÄ±ê¸Ë£¬Òò´ËÐÂÒ»´úCAMRY½«¹ú²úµÄÏûÏ¢Òý·¢ÁËÐí¶àÏû·ÑÕßµÄÆÚ´ý¡£»ù±¾ÐÍÔÚÈÕ±¾ÉÏÊÐÖ®ºó£¬Ðí¶àÏû·ÑÕß×ÔÈ»½«Æä×÷ÎªÐÄÄ¿ÖÐ¹ú²ú¿­ÃÀÈðµÄ²Î¿¼¶ÔÏó¡£¶øÊµ¼ÊÉÏ½«ÔÚ¹ãÖÝÉú²úµÄ¿­ÃÀÈð½«ÊÇ²»Í¬µÄ°æ±¾£¬¾Ý¹ãÖÝ·áÌï¹Ù·½¿É¿¿ÏûÏ¢£¬½«ÔÚ¹ãÖÝ·áÌïÄÏÉ³¹¤³§Éú²úµÄ¿­ÃÀÈð½«ÊÇÐÂÒ»´úCAMRYµÄÆì½¢ÐÍ£¬Óë»ù±¾ÐÍÏà±È£¬Æì½¢ÐÍ½«ÍâÐÍ¸ü×ð¹ó¡¢ÄÚÊÎ¸üµäÑÅ¡¢ÅäÖÃ¸üºÀ»ª¡¢³Ë×ø¸üÊæÊÊ¡£¾ÝÏ¤£¬¹ãÖÝ·áÌï³õ²½È·¶¨½«ÓÚ4ÔÂ·Ý¾ÙÐÐ¿­ÃÀÈðµÄ³µÐÍ·¢²¼£¬½ìÊ±¿ÉÒÔÒ»ÀÀÆäÈ«Ã²£¬ÈÃÎÒÃÇÊÃÄ¿ÒÔ´ý¡£
 ¿­ÃÀÈðÏà¹ØÐÂÎÅ:¸ü¶à
 ¡¤ÃÉµÏÅ·£­ÖÂÊ¤Ê®´ó·¨±¦PKµ±½ñ°ÔÖ÷¿­ÃÀÈð
@@ -40123,90 +39745,44 @@ compatibility£©¸ÅÄî½øÒ»²½Éý¼¶¡£¾ÍËãÊÇÔÚ×îÎ£ÏÕµÄ²àÃæ×²»÷·¢ÉúÊ±£¬³µÉíÒ²ÄÜ¹»Ñ¸ËÙ¡¢Ó
 ÑéÖ¤Âë
 £º
 (°´Ctrl+Enter¿ÉÖ±½Ó·¢±í)
-<xmp
-id="xmp_topic_list"
-style="display:none">
-<?xml
-version="1.0"
-encoding="GB2312"?>
-<xsl:stylesheet
-version="1.0"
-xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-<xsl:output
-method="html"
-encoding="gb2312"
-/>
-<xsl:template
-match="/sobar_interface">
+<xmp id="xmp_topic_list" style="display:none">
+<?xml version="1.0" encoding="GB2312"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:output method="html" encoding="gb2312" />
+<xsl:template match="/sobar_interface">
 ±êÌâ
 µã»÷/»Ø¸´
-<xsl:apply-templates
-select="//topic"
-/>
+<xsl:apply-templates select="//topic" />
 </xsl:template>
-<xsl:template
-match="topic">
+<xsl:template match="topic">
 <xsl:choose>
-<xsl:when
-test="position()
-mod
-2
-=
-1">
-<xsl:if
-test="status='4'">
+<xsl:when test="position() mod 2 = 1">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:when>
 <xsl:otherwise>
-<xsl:if
-test="status='4'">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:otherwise>
 </xsl:choose>
 </xsl:template>
@@ -41561,90 +41137,44 @@ Reserved
 ÑéÖ¤Âë
 £º
 (°´Ctrl+Enter¿ÉÖ±½Ó·¢±í)
-<xmp
-id="xmp_topic_list"
-style="display:none">
-<?xml
-version="1.0"
-encoding="GB2312"?>
-<xsl:stylesheet
-version="1.0"
-xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-<xsl:output
-method="html"
-encoding="gb2312"
-/>
-<xsl:template
-match="/sobar_interface">
+<xmp id="xmp_topic_list" style="display:none">
+<?xml version="1.0" encoding="GB2312"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:output method="html" encoding="gb2312" />
+<xsl:template match="/sobar_interface">
 ±êÌâ
 µã»÷/»Ø¸´
-<xsl:apply-templates
-select="//topic"
-/>
+<xsl:apply-templates select="//topic" />
 </xsl:template>
-<xsl:template
-match="topic">
+<xsl:template match="topic">
 <xsl:choose>
-<xsl:when
-test="position()
-mod
-2
-=
-1">
-<xsl:if
-test="status='4'">
+<xsl:when test="position() mod 2 = 1">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:when>
 <xsl:otherwise>
-<xsl:if
-test="status='4'">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:otherwise>
 </xsl:choose>
 </xsl:template>
@@ -42576,90 +42106,44 @@ Reserved
 ÑéÖ¤Âë
 £º
 (°´Ctrl+Enter¿ÉÖ±½Ó·¢±í)
-<xmp
-id="xmp_topic_list"
-style="display:none">
-<?xml
-version="1.0"
-encoding="GB2312"?>
-<xsl:stylesheet
-version="1.0"
-xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-<xsl:output
-method="html"
-encoding="gb2312"
-/>
-<xsl:template
-match="/sobar_interface">
+<xmp id="xmp_topic_list" style="display:none">
+<?xml version="1.0" encoding="GB2312"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:output method="html" encoding="gb2312" />
+<xsl:template match="/sobar_interface">
 ±êÌâ
 µã»÷/»Ø¸´
-<xsl:apply-templates
-select="//topic"
-/>
+<xsl:apply-templates select="//topic" />
 </xsl:template>
-<xsl:template
-match="topic">
+<xsl:template match="topic">
 <xsl:choose>
-<xsl:when
-test="position()
-mod
-2
-=
-1">
-<xsl:if
-test="status='4'">
+<xsl:when test="position() mod 2 = 1">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:when>
 <xsl:otherwise>
-<xsl:if
-test="status='4'">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:otherwise>
 </xsl:choose>
 </xsl:template>
@@ -43938,8 +43422,7 @@ Reserved
 Æ·ÅÆ£º¹þ·ÉÆû³µ
 ÀàÐÍ£º
 2005Äê4ÔÂ17ÈÕÏÂÏßµÄ¹þ·ÉÈü±ª£¬°´ÅÅÁ¿»®·ÖÎª1.6l¡¢2.0lÁ½¸ö³µÐÍ²¢ÇÒÓÐ¿ÉÄÜ»áÔÚÄêµ×ÔÙÍÆÒ»¿î´îÔØÈýÁâÔ­×°4g93ÅÅÁ¿Îª1.8lµÄÔË¶¯°æ±¾¡£ÆäÖÐ°´ÅäÖÃµÄ²»Í¬Á½¸ö³µÐÍ¶¼»áÍÆ³ö±ê×¼°æºÍºÀ»ª°æ¡£
-¹þ·ÉÈü±ªµÄÍâÐÍÒâ´óÀû±öÄá·¨ÈðÄÉ£¨pininfarina£©¹«Ë¾Éè¼Æ£¬Ç°Á³±¥ÂúÔ²ÈóµÄÉè¼Æ£¬¶ÜÐÎ¸ñÕ¤¼°ÈýÅÚÍ²Ç°´óµÆÓÐ±ð¿Ë¿­Ô½[±¨¼Û
-Í¼Æ¬]µÄÓ°×Ó£»Ê±ÉÐµÄÈý½ÇÐÎÎ²µÆÓë¸£ÌØÃÉµÏÅ·Èç³öÒ»ÕÞ£»³µÃÅÀ­ÊÖ¡¢Ë®Ïä¸ñÕ¤¡¢Ç°ºó·À²ÁÌõµÈÈ«³µ¶à´¦¶Æ¸õ´¦Àí£¬Ò²ÈÃÈËÖÃÒÉËüÊÇ·ñ¾ßÓÐº«Ïµ³µµÄ¡°ÑªÍ³¡±¡£
+¹þ·ÉÈü±ªµÄÍâÐÍÒâ´óÀû±öÄá·¨ÈðÄÉ£¨pininfarina£©¹«Ë¾Éè¼Æ£¬Ç°Á³±¥ÂúÔ²ÈóµÄÉè¼Æ£¬¶ÜÐÎ¸ñÕ¤¼°ÈýÅÚÍ²Ç°´óµÆÓÐ±ð¿Ë¿­Ô½[±¨¼Û Í¼Æ¬]µÄÓ°×Ó£»Ê±ÉÐµÄÈý½ÇÐÎÎ²µÆÓë¸£ÌØÃÉµÏÅ·Èç³öÒ»ÕÞ£»³µÃÅÀ­ÊÖ¡¢Ë®Ïä¸ñÕ¤¡¢Ç°ºó·À²ÁÌõµÈÈ«³µ¶à´¦¶Æ¸õ´¦Àí£¬Ò²ÈÃÈËÖÃÒÉËüÊÇ·ñ¾ßÓÐº«Ïµ³µµÄ¡°ÑªÍ³¡±¡£
 Èü±ªµÄÕûÌåÍâ¹Û³ß´çÎª4434/1708/1471Öá¾à2600mm£¬µ«´ÓÊýÖµÉÏ¿´Í¬¼¶±ð³µÐÍÖÐ±íÏÖÖÐÓ¹¡£Õû³µµÄ²àÃæÏßÌõÉè¼Æ½ÏÎªÁ÷³©£¬aÖùÏòÇ°ÑÓÉìµÄ½Ç¶È½Ï´ó¡¢cÖùÏò³µºóÑÓÉì½Ç¶È½ÏÐ¡Ê¹µÃ³öÏÖÁËÇ°µÍºó¸ßµÄÔìÐÍ£¬ÎªÆäÌí¼ÓÁË¼¸·Ö¶¯¸Ð¡£
 ÔÚÎ²²¿µÄÉè¼ÆÖÐ£¬Í¬Ñù²ÉÓÃÁË¿í´óµÄ¶Æ¸õ×°ÊÎÌõ¡£Î²µÆÉè¼ÆÓÐÐ©ÒÁÀ¼ÌØµÄÓ°×Ó¡£ËäÃ»ÓÐÈÃÈËÑÛÇ°Ò»ÁÁµÄ¸Ð¾õµ«Óë³µÇ°¡¢³µ²àÔìÐÍµÄÕûÌå´îÅäµ¹Ò²ºÍÐ³¡£
 Èü±ªÐÐÀîÏäÊÇËüµÄÂôµãÖ®Ò»£¬ÔÚºó×ù²»·Åµ¹µÄÇé¿öÏÂÈÝ»ý¿É´ïµ½500l£¬Èç¹û¼ÓÉÏ5/5·Åµ¹ºóµÄ×ùÒÎ×î´óÈÝ»ý¿É³å»÷1000l¡£
@@ -44024,90 +43507,44 @@ Reserved
 ÑéÖ¤Âë
 £º
 (°´Ctrl+Enter¿ÉÖ±½Ó·¢±í)
-<xmp
-id="xmp_topic_list"
-style="display:none">
-<?xml
-version="1.0"
-encoding="GB2312"?>
-<xsl:stylesheet
-version="1.0"
-xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-<xsl:output
-method="html"
-encoding="gb2312"
-/>
-<xsl:template
-match="/sobar_interface">
+<xmp id="xmp_topic_list" style="display:none">
+<?xml version="1.0" encoding="GB2312"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:output method="html" encoding="gb2312" />
+<xsl:template match="/sobar_interface">
 ±êÌâ
 µã»÷/»Ø¸´
-<xsl:apply-templates
-select="//topic"
-/>
+<xsl:apply-templates select="//topic" />
 </xsl:template>
-<xsl:template
-match="topic">
+<xsl:template match="topic">
 <xsl:choose>
-<xsl:when
-test="position()
-mod
-2
-=
-1">
-<xsl:if
-test="status='4'">
+<xsl:when test="position() mod 2 = 1">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:when>
 <xsl:otherwise>
-<xsl:if
-test="status='4'">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:otherwise>
 </xsl:choose>
 </xsl:template>
@@ -44539,8 +43976,7 @@ Reserved
 Æ·ÅÆ£º¹þ·ÉÆû³µ
 ÀàÐÍ£º
 2005Äê4ÔÂ17ÈÕÏÂÏßµÄ¹þ·ÉÈü±ª£¬°´ÅÅÁ¿»®·ÖÎª1.6l¡¢2.0lÁ½¸ö³µÐÍ²¢ÇÒÓÐ¿ÉÄÜ»áÔÚÄêµ×ÔÙÍÆÒ»¿î´îÔØÈýÁâÔ­×°4g93ÅÅÁ¿Îª1.8lµÄÔË¶¯°æ±¾¡£ÆäÖÐ°´ÅäÖÃµÄ²»Í¬Á½¸ö³µÐÍ¶¼»áÍÆ³ö±ê×¼°æºÍºÀ»ª°æ¡£
-¹þ·ÉÈü±ªµÄÍâÐÍÒâ´óÀû±öÄá·¨ÈðÄÉ£¨pininfarina£©¹«Ë¾Éè¼Æ£¬Ç°Á³±¥ÂúÔ²ÈóµÄÉè¼Æ£¬¶ÜÐÎ¸ñÕ¤¼°ÈýÅÚÍ²Ç°´óµÆÓÐ±ð¿Ë¿­Ô½[±¨¼Û
-Í¼Æ¬]µÄÓ°×Ó£»Ê±ÉÐµÄÈý½ÇÐÎÎ²µÆÓë¸£ÌØÃÉµÏÅ·Èç³öÒ»ÕÞ£»³µÃÅÀ­ÊÖ¡¢Ë®Ïä¸ñÕ¤¡¢Ç°ºó·À²ÁÌõµÈÈ«³µ¶à´¦¶Æ¸õ´¦Àí£¬Ò²ÈÃÈËÖÃÒÉËüÊÇ·ñ¾ßÓÐº«Ïµ³µµÄ¡°ÑªÍ³¡±¡£
+¹þ·ÉÈü±ªµÄÍâÐÍÒâ´óÀû±öÄá·¨ÈðÄÉ£¨pininfarina£©¹«Ë¾Éè¼Æ£¬Ç°Á³±¥ÂúÔ²ÈóµÄÉè¼Æ£¬¶ÜÐÎ¸ñÕ¤¼°ÈýÅÚÍ²Ç°´óµÆÓÐ±ð¿Ë¿­Ô½[±¨¼Û Í¼Æ¬]µÄÓ°×Ó£»Ê±ÉÐµÄÈý½ÇÐÎÎ²µÆÓë¸£ÌØÃÉµÏÅ·Èç³öÒ»ÕÞ£»³µÃÅÀ­ÊÖ¡¢Ë®Ïä¸ñÕ¤¡¢Ç°ºó·À²ÁÌõµÈÈ«³µ¶à´¦¶Æ¸õ´¦Àí£¬Ò²ÈÃÈËÖÃÒÉËüÊÇ·ñ¾ßÓÐº«Ïµ³µµÄ¡°ÑªÍ³¡±¡£
 Èü±ªµÄÕûÌåÍâ¹Û³ß´çÎª4434/1708/1471Öá¾à2600mm£¬µ«´ÓÊýÖµÉÏ¿´Í¬¼¶±ð³µÐÍÖÐ±íÏÖÖÐÓ¹¡£Õû³µµÄ²àÃæÏßÌõÉè¼Æ½ÏÎªÁ÷³©£¬aÖùÏòÇ°ÑÓÉìµÄ½Ç¶È½Ï´ó¡¢cÖùÏò³µºóÑÓÉì½Ç¶È½ÏÐ¡Ê¹µÃ³öÏÖÁËÇ°µÍºó¸ßµÄÔìÐÍ£¬ÎªÆäÌí¼ÓÁË¼¸·Ö¶¯¸Ð¡£
 ÔÚÎ²²¿µÄÉè¼ÆÖÐ£¬Í¬Ñù²ÉÓÃÁË¿í´óµÄ¶Æ¸õ×°ÊÎÌõ¡£Î²µÆÉè¼ÆÓÐÐ©ÒÁÀ¼ÌØµÄÓ°×Ó¡£ËäÃ»ÓÐÈÃÈËÑÛÇ°Ò»ÁÁµÄ¸Ð¾õµ«Óë³µÇ°¡¢³µ²àÔìÐÍµÄÕûÌå´îÅäµ¹Ò²ºÍÐ³¡£
 Èü±ªÐÐÀîÏäÊÇËüµÄÂôµãÖ®Ò»£¬ÔÚºó×ù²»·Åµ¹µÄÇé¿öÏÂÈÝ»ý¿É´ïµ½500l£¬Èç¹û¼ÓÉÏ5/5·Åµ¹ºóµÄ×ùÒÎ×î´óÈÝ»ý¿É³å»÷1000l¡£
@@ -44625,90 +44061,44 @@ Reserved
 ÑéÖ¤Âë
 £º
 (°´Ctrl+Enter¿ÉÖ±½Ó·¢±í)
-<xmp
-id="xmp_topic_list"
-style="display:none">
-<?xml
-version="1.0"
-encoding="GB2312"?>
-<xsl:stylesheet
-version="1.0"
-xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-<xsl:output
-method="html"
-encoding="gb2312"
-/>
-<xsl:template
-match="/sobar_interface">
+<xmp id="xmp_topic_list" style="display:none">
+<?xml version="1.0" encoding="GB2312"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:output method="html" encoding="gb2312" />
+<xsl:template match="/sobar_interface">
 ±êÌâ
 µã»÷/»Ø¸´
-<xsl:apply-templates
-select="//topic"
-/>
+<xsl:apply-templates select="//topic" />
 </xsl:template>
-<xsl:template
-match="topic">
+<xsl:template match="topic">
 <xsl:choose>
-<xsl:when
-test="position()
-mod
-2
-=
-1">
-<xsl:if
-test="status='4'">
+<xsl:when test="position() mod 2 = 1">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:when>
 <xsl:otherwise>
-<xsl:if
-test="status='4'">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:otherwise>
 </xsl:choose>
 </xsl:template>
@@ -45212,90 +44602,44 @@ Reserved
 ÑéÖ¤Âë
 £º
 (°´Ctrl+Enter¿ÉÖ±½Ó·¢±í)
-<xmp
-id="xmp_topic_list"
-style="display:none">
-<?xml
-version="1.0"
-encoding="GB2312"?>
-<xsl:stylesheet
-version="1.0"
-xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-<xsl:output
-method="html"
-encoding="gb2312"
-/>
-<xsl:template
-match="/sobar_interface">
+<xmp id="xmp_topic_list" style="display:none">
+<?xml version="1.0" encoding="GB2312"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:output method="html" encoding="gb2312" />
+<xsl:template match="/sobar_interface">
 ±êÌâ
 µã»÷/»Ø¸´
-<xsl:apply-templates
-select="//topic"
-/>
+<xsl:apply-templates select="//topic" />
 </xsl:template>
-<xsl:template
-match="topic">
+<xsl:template match="topic">
 <xsl:choose>
-<xsl:when
-test="position()
-mod
-2
-=
-1">
-<xsl:if
-test="status='4'">
+<xsl:when test="position() mod 2 = 1">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:when>
 <xsl:otherwise>
-<xsl:if
-test="status='4'">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:otherwise>
 </xsl:choose>
 </xsl:template>
@@ -45799,90 +45143,44 @@ Reserved
 ÑéÖ¤Âë
 £º
 (°´Ctrl+Enter¿ÉÖ±½Ó·¢±í)
-<xmp
-id="xmp_topic_list"
-style="display:none">
-<?xml
-version="1.0"
-encoding="GB2312"?>
-<xsl:stylesheet
-version="1.0"
-xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-<xsl:output
-method="html"
-encoding="gb2312"
-/>
-<xsl:template
-match="/sobar_interface">
+<xmp id="xmp_topic_list" style="display:none">
+<?xml version="1.0" encoding="GB2312"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:output method="html" encoding="gb2312" />
+<xsl:template match="/sobar_interface">
 ±êÌâ
 µã»÷/»Ø¸´
-<xsl:apply-templates
-select="//topic"
-/>
+<xsl:apply-templates select="//topic" />
 </xsl:template>
-<xsl:template
-match="topic">
+<xsl:template match="topic">
 <xsl:choose>
-<xsl:when
-test="position()
-mod
-2
-=
-1">
-<xsl:if
-test="status='4'">
+<xsl:when test="position() mod 2 = 1">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:when>
 <xsl:otherwise>
-<xsl:if
-test="status='4'">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:otherwise>
 </xsl:choose>
 </xsl:template>
@@ -46388,90 +45686,44 @@ Reserved
 ÑéÖ¤Âë
 £º
 (°´Ctrl+Enter¿ÉÖ±½Ó·¢±í)
-<xmp
-id="xmp_topic_list"
-style="display:none">
-<?xml
-version="1.0"
-encoding="GB2312"?>
-<xsl:stylesheet
-version="1.0"
-xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-<xsl:output
-method="html"
-encoding="gb2312"
-/>
-<xsl:template
-match="/sobar_interface">
+<xmp id="xmp_topic_list" style="display:none">
+<?xml version="1.0" encoding="GB2312"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:output method="html" encoding="gb2312" />
+<xsl:template match="/sobar_interface">
 ±êÌâ
 µã»÷/»Ø¸´
-<xsl:apply-templates
-select="//topic"
-/>
+<xsl:apply-templates select="//topic" />
 </xsl:template>
-<xsl:template
-match="topic">
+<xsl:template match="topic">
 <xsl:choose>
-<xsl:when
-test="position()
-mod
-2
-=
-1">
-<xsl:if
-test="status='4'">
+<xsl:when test="position() mod 2 = 1">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:when>
 <xsl:otherwise>
-<xsl:if
-test="status='4'">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:otherwise>
 </xsl:choose>
 </xsl:template>
@@ -46977,90 +46229,44 @@ Reserved
 ÑéÖ¤Âë
 £º
 (°´Ctrl+Enter¿ÉÖ±½Ó·¢±í)
-<xmp
-id="xmp_topic_list"
-style="display:none">
-<?xml
-version="1.0"
-encoding="GB2312"?>
-<xsl:stylesheet
-version="1.0"
-xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-<xsl:output
-method="html"
-encoding="gb2312"
-/>
-<xsl:template
-match="/sobar_interface">
+<xmp id="xmp_topic_list" style="display:none">
+<?xml version="1.0" encoding="GB2312"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:output method="html" encoding="gb2312" />
+<xsl:template match="/sobar_interface">
 ±êÌâ
 µã»÷/»Ø¸´
-<xsl:apply-templates
-select="//topic"
-/>
+<xsl:apply-templates select="//topic" />
 </xsl:template>
-<xsl:template
-match="topic">
+<xsl:template match="topic">
 <xsl:choose>
-<xsl:when
-test="position()
-mod
-2
-=
-1">
-<xsl:if
-test="status='4'">
+<xsl:when test="position() mod 2 = 1">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:when>
 <xsl:otherwise>
-<xsl:if
-test="status='4'">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:otherwise>
 </xsl:choose>
 </xsl:template>
@@ -47626,90 +46832,44 @@ Reserved
 ÑéÖ¤Âë
 £º
 (°´Ctrl+Enter¿ÉÖ±½Ó·¢±í)
-<xmp
-id="xmp_topic_list"
-style="display:none">
-<?xml
-version="1.0"
-encoding="GB2312"?>
-<xsl:stylesheet
-version="1.0"
-xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-<xsl:output
-method="html"
-encoding="gb2312"
-/>
-<xsl:template
-match="/sobar_interface">
+<xmp id="xmp_topic_list" style="display:none">
+<?xml version="1.0" encoding="GB2312"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:output method="html" encoding="gb2312" />
+<xsl:template match="/sobar_interface">
 ±êÌâ
 µã»÷/»Ø¸´
-<xsl:apply-templates
-select="//topic"
-/>
+<xsl:apply-templates select="//topic" />
 </xsl:template>
-<xsl:template
-match="topic">
+<xsl:template match="topic">
 <xsl:choose>
-<xsl:when
-test="position()
-mod
-2
-=
-1">
-<xsl:if
-test="status='4'">
+<xsl:when test="position() mod 2 = 1">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:when>
 <xsl:otherwise>
-<xsl:if
-test="status='4'">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:otherwise>
 </xsl:choose>
 </xsl:template>
@@ -48275,90 +47435,44 @@ Reserved
 ÑéÖ¤Âë
 £º
 (°´Ctrl+Enter¿ÉÖ±½Ó·¢±í)
-<xmp
-id="xmp_topic_list"
-style="display:none">
-<?xml
-version="1.0"
-encoding="GB2312"?>
-<xsl:stylesheet
-version="1.0"
-xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-<xsl:output
-method="html"
-encoding="gb2312"
-/>
-<xsl:template
-match="/sobar_interface">
+<xmp id="xmp_topic_list" style="display:none">
+<?xml version="1.0" encoding="GB2312"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:output method="html" encoding="gb2312" />
+<xsl:template match="/sobar_interface">
 ±êÌâ
 µã»÷/»Ø¸´
-<xsl:apply-templates
-select="//topic"
-/>
+<xsl:apply-templates select="//topic" />
 </xsl:template>
-<xsl:template
-match="topic">
+<xsl:template match="topic">
 <xsl:choose>
-<xsl:when
-test="position()
-mod
-2
-=
-1">
-<xsl:if
-test="status='4'">
+<xsl:when test="position() mod 2 = 1">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:when>
 <xsl:otherwise>
-<xsl:if
-test="status='4'">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:otherwise>
 </xsl:choose>
 </xsl:template>
@@ -48877,90 +47991,44 @@ Reserved
 ÑéÖ¤Âë
 £º
 (°´Ctrl+Enter¿ÉÖ±½Ó·¢±í)
-<xmp
-id="xmp_topic_list"
-style="display:none">
-<?xml
-version="1.0"
-encoding="GB2312"?>
-<xsl:stylesheet
-version="1.0"
-xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-<xsl:output
-method="html"
-encoding="gb2312"
-/>
-<xsl:template
-match="/sobar_interface">
+<xmp id="xmp_topic_list" style="display:none">
+<?xml version="1.0" encoding="GB2312"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:output method="html" encoding="gb2312" />
+<xsl:template match="/sobar_interface">
 ±êÌâ
 µã»÷/»Ø¸´
-<xsl:apply-templates
-select="//topic"
-/>
+<xsl:apply-templates select="//topic" />
 </xsl:template>
-<xsl:template
-match="topic">
+<xsl:template match="topic">
 <xsl:choose>
-<xsl:when
-test="position()
-mod
-2
-=
-1">
-<xsl:if
-test="status='4'">
+<xsl:when test="position() mod 2 = 1">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:when>
 <xsl:otherwise>
-<xsl:if
-test="status='4'">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:otherwise>
 </xsl:choose>
 </xsl:template>
@@ -49479,90 +48547,44 @@ Reserved
 ÑéÖ¤Âë
 £º
 (°´Ctrl+Enter¿ÉÖ±½Ó·¢±í)
-<xmp
-id="xmp_topic_list"
-style="display:none">
-<?xml
-version="1.0"
-encoding="GB2312"?>
-<xsl:stylesheet
-version="1.0"
-xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-<xsl:output
-method="html"
-encoding="gb2312"
-/>
-<xsl:template
-match="/sobar_interface">
+<xmp id="xmp_topic_list" style="display:none">
+<?xml version="1.0" encoding="GB2312"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:output method="html" encoding="gb2312" />
+<xsl:template match="/sobar_interface">
 ±êÌâ
 µã»÷/»Ø¸´
-<xsl:apply-templates
-select="//topic"
-/>
+<xsl:apply-templates select="//topic" />
 </xsl:template>
-<xsl:template
-match="topic">
+<xsl:template match="topic">
 <xsl:choose>
-<xsl:when
-test="position()
-mod
-2
-=
-1">
-<xsl:if
-test="status='4'">
+<xsl:when test="position() mod 2 = 1">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:when>
 <xsl:otherwise>
-<xsl:if
-test="status='4'">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:otherwise>
 </xsl:choose>
 </xsl:template>
@@ -50085,90 +49107,44 @@ Reserved
 ÑéÖ¤Âë
 £º
 (°´Ctrl+Enter¿ÉÖ±½Ó·¢±í)
-<xmp
-id="xmp_topic_list"
-style="display:none">
-<?xml
-version="1.0"
-encoding="GB2312"?>
-<xsl:stylesheet
-version="1.0"
-xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-<xsl:output
-method="html"
-encoding="gb2312"
-/>
-<xsl:template
-match="/sobar_interface">
+<xmp id="xmp_topic_list" style="display:none">
+<?xml version="1.0" encoding="GB2312"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:output method="html" encoding="gb2312" />
+<xsl:template match="/sobar_interface">
 ±êÌâ
 µã»÷/»Ø¸´
-<xsl:apply-templates
-select="//topic"
-/>
+<xsl:apply-templates select="//topic" />
 </xsl:template>
-<xsl:template
-match="topic">
+<xsl:template match="topic">
 <xsl:choose>
-<xsl:when
-test="position()
-mod
-2
-=
-1">
-<xsl:if
-test="status='4'">
+<xsl:when test="position() mod 2 = 1">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:when>
 <xsl:otherwise>
-<xsl:if
-test="status='4'">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:otherwise>
 </xsl:choose>
 </xsl:template>
@@ -50691,90 +49667,44 @@ Reserved
 ÑéÖ¤Âë
 £º
 (°´Ctrl+Enter¿ÉÖ±½Ó·¢±í)
-<xmp
-id="xmp_topic_list"
-style="display:none">
-<?xml
-version="1.0"
-encoding="GB2312"?>
-<xsl:stylesheet
-version="1.0"
-xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-<xsl:output
-method="html"
-encoding="gb2312"
-/>
-<xsl:template
-match="/sobar_interface">
+<xmp id="xmp_topic_list" style="display:none">
+<?xml version="1.0" encoding="GB2312"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:output method="html" encoding="gb2312" />
+<xsl:template match="/sobar_interface">
 ±êÌâ
 µã»÷/»Ø¸´
-<xsl:apply-templates
-select="//topic"
-/>
+<xsl:apply-templates select="//topic" />
 </xsl:template>
-<xsl:template
-match="topic">
+<xsl:template match="topic">
 <xsl:choose>
-<xsl:when
-test="position()
-mod
-2
-=
-1">
-<xsl:if
-test="status='4'">
+<xsl:when test="position() mod 2 = 1">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:when>
 <xsl:otherwise>
-<xsl:if
-test="status='4'">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:otherwise>
 </xsl:choose>
 </xsl:template>
@@ -51391,90 +50321,44 @@ AT
 ÑéÖ¤Âë
 £º
 (°´Ctrl+Enter¿ÉÖ±½Ó·¢±í)
-<xmp
-id="xmp_topic_list"
-style="display:none">
-<?xml
-version="1.0"
-encoding="GB2312"?>
-<xsl:stylesheet
-version="1.0"
-xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-<xsl:output
-method="html"
-encoding="gb2312"
-/>
-<xsl:template
-match="/sobar_interface">
+<xmp id="xmp_topic_list" style="display:none">
+<?xml version="1.0" encoding="GB2312"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:output method="html" encoding="gb2312" />
+<xsl:template match="/sobar_interface">
 ±êÌâ
 µã»÷/»Ø¸´
-<xsl:apply-templates
-select="//topic"
-/>
+<xsl:apply-templates select="//topic" />
 </xsl:template>
-<xsl:template
-match="topic">
+<xsl:template match="topic">
 <xsl:choose>
-<xsl:when
-test="position()
-mod
-2
-=
-1">
-<xsl:if
-test="status='4'">
+<xsl:when test="position() mod 2 = 1">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:when>
 <xsl:otherwise>
-<xsl:if
-test="status='4'">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:otherwise>
 </xsl:choose>
 </xsl:template>
@@ -52076,90 +50960,44 @@ AT
 ÑéÖ¤Âë
 £º
 (°´Ctrl+Enter¿ÉÖ±½Ó·¢±í)
-<xmp
-id="xmp_topic_list"
-style="display:none">
-<?xml
-version="1.0"
-encoding="GB2312"?>
-<xsl:stylesheet
-version="1.0"
-xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-<xsl:output
-method="html"
-encoding="gb2312"
-/>
-<xsl:template
-match="/sobar_interface">
+<xmp id="xmp_topic_list" style="display:none">
+<?xml version="1.0" encoding="GB2312"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:output method="html" encoding="gb2312" />
+<xsl:template match="/sobar_interface">
 ±êÌâ
 µã»÷/»Ø¸´
-<xsl:apply-templates
-select="//topic"
-/>
+<xsl:apply-templates select="//topic" />
 </xsl:template>
-<xsl:template
-match="topic">
+<xsl:template match="topic">
 <xsl:choose>
-<xsl:when
-test="position()
-mod
-2
-=
-1">
-<xsl:if
-test="status='4'">
+<xsl:when test="position() mod 2 = 1">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:when>
 <xsl:otherwise>
-<xsl:if
-test="status='4'">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:otherwise>
 </xsl:choose>
 </xsl:template>
@@ -52685,90 +51523,44 @@ Reserved
 ÑéÖ¤Âë
 £º
 (°´Ctrl+Enter¿ÉÖ±½Ó·¢±í)
-<xmp
-id="xmp_topic_list"
-style="display:none">
-<?xml
-version="1.0"
-encoding="GB2312"?>
-<xsl:stylesheet
-version="1.0"
-xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-<xsl:output
-method="html"
-encoding="gb2312"
-/>
-<xsl:template
-match="/sobar_interface">
+<xmp id="xmp_topic_list" style="display:none">
+<?xml version="1.0" encoding="GB2312"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:output method="html" encoding="gb2312" />
+<xsl:template match="/sobar_interface">
 ±êÌâ
 µã»÷/»Ø¸´
-<xsl:apply-templates
-select="//topic"
-/>
+<xsl:apply-templates select="//topic" />
 </xsl:template>
-<xsl:template
-match="topic">
+<xsl:template match="topic">
 <xsl:choose>
-<xsl:when
-test="position()
-mod
-2
-=
-1">
-<xsl:if
-test="status='4'">
+<xsl:when test="position() mod 2 = 1">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:when>
 <xsl:otherwise>
-<xsl:if
-test="status='4'">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:otherwise>
 </xsl:choose>
 </xsl:template>
@@ -53294,90 +52086,44 @@ Reserved
 ÑéÖ¤Âë
 £º
 (°´Ctrl+Enter¿ÉÖ±½Ó·¢±í)
-<xmp
-id="xmp_topic_list"
-style="display:none">
-<?xml
-version="1.0"
-encoding="GB2312"?>
-<xsl:stylesheet
-version="1.0"
-xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-<xsl:output
-method="html"
-encoding="gb2312"
-/>
-<xsl:template
-match="/sobar_interface">
+<xmp id="xmp_topic_list" style="display:none">
+<?xml version="1.0" encoding="GB2312"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:output method="html" encoding="gb2312" />
+<xsl:template match="/sobar_interface">
 ±êÌâ
 µã»÷/»Ø¸´
-<xsl:apply-templates
-select="//topic"
-/>
+<xsl:apply-templates select="//topic" />
 </xsl:template>
-<xsl:template
-match="topic">
+<xsl:template match="topic">
 <xsl:choose>
-<xsl:when
-test="position()
-mod
-2
-=
-1">
-<xsl:if
-test="status='4'">
+<xsl:when test="position() mod 2 = 1">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:when>
 <xsl:otherwise>
-<xsl:if
-test="status='4'">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:otherwise>
 </xsl:choose>
 </xsl:template>
@@ -53987,90 +52733,44 @@ r16ÂÖÌ¥£¬µ«Õ­ÂÖÌ¥Ò²ÓÐÊ¡ÓÍµÄÓÅµã¡£ÒªËµÈ±µã£¬
 ÑéÖ¤Âë
 £º
 (°´Ctrl+Enter¿ÉÖ±½Ó·¢±í)
-<xmp
-id="xmp_topic_list"
-style="display:none">
-<?xml
-version="1.0"
-encoding="GB2312"?>
-<xsl:stylesheet
-version="1.0"
-xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-<xsl:output
-method="html"
-encoding="gb2312"
-/>
-<xsl:template
-match="/sobar_interface">
+<xmp id="xmp_topic_list" style="display:none">
+<?xml version="1.0" encoding="GB2312"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:output method="html" encoding="gb2312" />
+<xsl:template match="/sobar_interface">
 ±êÌâ
 µã»÷/»Ø¸´
-<xsl:apply-templates
-select="//topic"
-/>
+<xsl:apply-templates select="//topic" />
 </xsl:template>
-<xsl:template
-match="topic">
+<xsl:template match="topic">
 <xsl:choose>
-<xsl:when
-test="position()
-mod
-2
-=
-1">
-<xsl:if
-test="status='4'">
+<xsl:when test="position() mod 2 = 1">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:when>
 <xsl:otherwise>
-<xsl:if
-test="status='4'">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:otherwise>
 </xsl:choose>
 </xsl:template>
@@ -55122,90 +53822,44 @@ r16ÂÖÌ¥£¬µ«Õ­ÂÖÌ¥Ò²ÓÐÊ¡ÓÍµÄÓÅµã¡£ÒªËµÈ±µã£¬
 ÑéÖ¤Âë
 £º
 (°´Ctrl+Enter¿ÉÖ±½Ó·¢±í)
-<xmp
-id="xmp_topic_list"
-style="display:none">
-<?xml
-version="1.0"
-encoding="GB2312"?>
-<xsl:stylesheet
-version="1.0"
-xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-<xsl:output
-method="html"
-encoding="gb2312"
-/>
-<xsl:template
-match="/sobar_interface">
+<xmp id="xmp_topic_list" style="display:none">
+<?xml version="1.0" encoding="GB2312"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:output method="html" encoding="gb2312" />
+<xsl:template match="/sobar_interface">
 ±êÌâ
 µã»÷/»Ø¸´
-<xsl:apply-templates
-select="//topic"
-/>
+<xsl:apply-templates select="//topic" />
 </xsl:template>
-<xsl:template
-match="topic">
+<xsl:template match="topic">
 <xsl:choose>
-<xsl:when
-test="position()
-mod
-2
-=
-1">
-<xsl:if
-test="status='4'">
+<xsl:when test="position() mod 2 = 1">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:when>
 <xsl:otherwise>
-<xsl:if
-test="status='4'">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:otherwise>
 </xsl:choose>
 </xsl:template>
@@ -56656,90 +55310,44 @@ Reserved
 ÑéÖ¤Âë
 £º
 (°´Ctrl+Enter¿ÉÖ±½Ó·¢±í)
-<xmp
-id="xmp_topic_list"
-style="display:none">
-<?xml
-version="1.0"
-encoding="GB2312"?>
-<xsl:stylesheet
-version="1.0"
-xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-<xsl:output
-method="html"
-encoding="gb2312"
-/>
-<xsl:template
-match="/sobar_interface">
+<xmp id="xmp_topic_list" style="display:none">
+<?xml version="1.0" encoding="GB2312"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:output method="html" encoding="gb2312" />
+<xsl:template match="/sobar_interface">
 ±êÌâ
 µã»÷/»Ø¸´
-<xsl:apply-templates
-select="//topic"
-/>
+<xsl:apply-templates select="//topic" />
 </xsl:template>
-<xsl:template
-match="topic">
+<xsl:template match="topic">
 <xsl:choose>
-<xsl:when
-test="position()
-mod
-2
-=
-1">
-<xsl:if
-test="status='4'">
+<xsl:when test="position() mod 2 = 1">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:when>
 <xsl:otherwise>
-<xsl:if
-test="status='4'">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:otherwise>
 </xsl:choose>
 </xsl:template>
@@ -57766,90 +56374,44 @@ Reserved
 ÑéÖ¤Âë
 £º
 (°´Ctrl+Enter¿ÉÖ±½Ó·¢±í)
-<xmp
-id="xmp_topic_list"
-style="display:none">
-<?xml
-version="1.0"
-encoding="GB2312"?>
-<xsl:stylesheet
-version="1.0"
-xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-<xsl:output
-method="html"
-encoding="gb2312"
-/>
-<xsl:template
-match="/sobar_interface">
+<xmp id="xmp_topic_list" style="display:none">
+<?xml version="1.0" encoding="GB2312"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:output method="html" encoding="gb2312" />
+<xsl:template match="/sobar_interface">
 ±êÌâ
 µã»÷/»Ø¸´
-<xsl:apply-templates
-select="//topic"
-/>
+<xsl:apply-templates select="//topic" />
 </xsl:template>
-<xsl:template
-match="topic">
+<xsl:template match="topic">
 <xsl:choose>
-<xsl:when
-test="position()
-mod
-2
-=
-1">
-<xsl:if
-test="status='4'">
+<xsl:when test="position() mod 2 = 1">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:when>
 <xsl:otherwise>
-<xsl:if
-test="status='4'">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:otherwise>
 </xsl:choose>
 </xsl:template>
@@ -59236,90 +57798,44 @@ MPVÉÏÑÝ¡°ÅÉÏµÖ®Õù¡±
 ÑéÖ¤Âë
 £º
 (°´Ctrl+Enter¿ÉÖ±½Ó·¢±í)
-<xmp
-id="xmp_topic_list"
-style="display:none">
-<?xml
-version="1.0"
-encoding="GB2312"?>
-<xsl:stylesheet
-version="1.0"
-xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-<xsl:output
-method="html"
-encoding="gb2312"
-/>
-<xsl:template
-match="/sobar_interface">
+<xmp id="xmp_topic_list" style="display:none">
+<?xml version="1.0" encoding="GB2312"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:output method="html" encoding="gb2312" />
+<xsl:template match="/sobar_interface">
 ±êÌâ
 µã»÷/»Ø¸´
-<xsl:apply-templates
-select="//topic"
-/>
+<xsl:apply-templates select="//topic" />
 </xsl:template>
-<xsl:template
-match="topic">
+<xsl:template match="topic">
 <xsl:choose>
-<xsl:when
-test="position()
-mod
-2
-=
-1">
-<xsl:if
-test="status='4'">
+<xsl:when test="position() mod 2 = 1">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:when>
 <xsl:otherwise>
-<xsl:if
-test="status='4'">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:otherwise>
 </xsl:choose>
 </xsl:template>
@@ -59869,90 +58385,44 @@ MPVÉÏÑÝ¡°ÅÉÏµÖ®Õù¡±
 ÑéÖ¤Âë
 £º
 (°´Ctrl+Enter¿ÉÖ±½Ó·¢±í)
-<xmp
-id="xmp_topic_list"
-style="display:none">
-<?xml
-version="1.0"
-encoding="GB2312"?>
-<xsl:stylesheet
-version="1.0"
-xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-<xsl:output
-method="html"
-encoding="gb2312"
-/>
-<xsl:template
-match="/sobar_interface">
+<xmp id="xmp_topic_list" style="display:none">
+<?xml version="1.0" encoding="GB2312"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:output method="html" encoding="gb2312" />
+<xsl:template match="/sobar_interface">
 ±êÌâ
 µã»÷/»Ø¸´
-<xsl:apply-templates
-select="//topic"
-/>
+<xsl:apply-templates select="//topic" />
 </xsl:template>
-<xsl:template
-match="topic">
+<xsl:template match="topic">
 <xsl:choose>
-<xsl:when
-test="position()
-mod
-2
-=
-1">
-<xsl:if
-test="status='4'">
+<xsl:when test="position() mod 2 = 1">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:when>
 <xsl:otherwise>
-<xsl:if
-test="status='4'">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:otherwise>
 </xsl:choose>
 </xsl:template>
@@ -60526,90 +58996,44 @@ AT×ð¹óÐÍ
 ÑéÖ¤Âë
 £º
 (°´Ctrl+Enter¿ÉÖ±½Ó·¢±í)
-<xmp
-id="xmp_topic_list"
-style="display:none">
-<?xml
-version="1.0"
-encoding="GB2312"?>
-<xsl:stylesheet
-version="1.0"
-xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-<xsl:output
-method="html"
-encoding="gb2312"
-/>
-<xsl:template
-match="/sobar_interface">
+<xmp id="xmp_topic_list" style="display:none">
+<?xml version="1.0" encoding="GB2312"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:output method="html" encoding="gb2312" />
+<xsl:template match="/sobar_interface">
 ±êÌâ
 µã»÷/»Ø¸´
-<xsl:apply-templates
-select="//topic"
-/>
+<xsl:apply-templates select="//topic" />
 </xsl:template>
-<xsl:template
-match="topic">
+<xsl:template match="topic">
 <xsl:choose>
-<xsl:when
-test="position()
-mod
-2
-=
-1">
-<xsl:if
-test="status='4'">
+<xsl:when test="position() mod 2 = 1">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:when>
 <xsl:otherwise>
-<xsl:if
-test="status='4'">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:otherwise>
 </xsl:choose>
 </xsl:template>
@@ -61613,90 +60037,44 @@ AT×ð¹óÐÍ
 ÑéÖ¤Âë
 £º
 (°´Ctrl+Enter¿ÉÖ±½Ó·¢±í)
-<xmp
-id="xmp_topic_list"
-style="display:none">
-<?xml
-version="1.0"
-encoding="GB2312"?>
-<xsl:stylesheet
-version="1.0"
-xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-<xsl:output
-method="html"
-encoding="gb2312"
-/>
-<xsl:template
-match="/sobar_interface">
+<xmp id="xmp_topic_list" style="display:none">
+<?xml version="1.0" encoding="GB2312"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:output method="html" encoding="gb2312" />
+<xsl:template match="/sobar_interface">
 ±êÌâ
 µã»÷/»Ø¸´
-<xsl:apply-templates
-select="//topic"
-/>
+<xsl:apply-templates select="//topic" />
 </xsl:template>
-<xsl:template
-match="topic">
+<xsl:template match="topic">
 <xsl:choose>
-<xsl:when
-test="position()
-mod
-2
-=
-1">
-<xsl:if
-test="status='4'">
+<xsl:when test="position() mod 2 = 1">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:when>
 <xsl:otherwise>
-<xsl:if
-test="status='4'">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:otherwise>
 </xsl:choose>
 </xsl:template>
@@ -63033,90 +61411,44 @@ Reserved
 ÑéÖ¤Âë
 £º
 (°´Ctrl+Enter¿ÉÖ±½Ó·¢±í)
-<xmp
-id="xmp_topic_list"
-style="display:none">
-<?xml
-version="1.0"
-encoding="GB2312"?>
-<xsl:stylesheet
-version="1.0"
-xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-<xsl:output
-method="html"
-encoding="gb2312"
-/>
-<xsl:template
-match="/sobar_interface">
+<xmp id="xmp_topic_list" style="display:none">
+<?xml version="1.0" encoding="GB2312"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:output method="html" encoding="gb2312" />
+<xsl:template match="/sobar_interface">
 ±êÌâ
 µã»÷/»Ø¸´
-<xsl:apply-templates
-select="//topic"
-/>
+<xsl:apply-templates select="//topic" />
 </xsl:template>
-<xsl:template
-match="topic">
+<xsl:template match="topic">
 <xsl:choose>
-<xsl:when
-test="position()
-mod
-2
-=
-1">
-<xsl:if
-test="status='4'">
+<xsl:when test="position() mod 2 = 1">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:when>
 <xsl:otherwise>
-<xsl:if
-test="status='4'">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:otherwise>
 </xsl:choose>
 </xsl:template>
@@ -63589,90 +61921,44 @@ Reserved
 ÑéÖ¤Âë
 £º
 (°´Ctrl+Enter¿ÉÖ±½Ó·¢±í)
-<xmp
-id="xmp_topic_list"
-style="display:none">
-<?xml
-version="1.0"
-encoding="GB2312"?>
-<xsl:stylesheet
-version="1.0"
-xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-<xsl:output
-method="html"
-encoding="gb2312"
-/>
-<xsl:template
-match="/sobar_interface">
+<xmp id="xmp_topic_list" style="display:none">
+<?xml version="1.0" encoding="GB2312"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:output method="html" encoding="gb2312" />
+<xsl:template match="/sobar_interface">
 ±êÌâ
 µã»÷/»Ø¸´
-<xsl:apply-templates
-select="//topic"
-/>
+<xsl:apply-templates select="//topic" />
 </xsl:template>
-<xsl:template
-match="topic">
+<xsl:template match="topic">
 <xsl:choose>
-<xsl:when
-test="position()
-mod
-2
-=
-1">
-<xsl:if
-test="status='4'">
+<xsl:when test="position() mod 2 = 1">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:when>
 <xsl:otherwise>
-<xsl:if
-test="status='4'">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:otherwise>
 </xsl:choose>
 </xsl:template>
@@ -64081,8 +62367,7 @@ Reserved
 Æ·ÅÆ£º»ª³¿ÖÐ»ª
 ÀàÐÍ£º
 ÆµÆµÔÚ¹úÄÚÍâ³µÕ¹ÉÏÁÁÏàµÄ»ª³¿M3ÖÕÓÚÔÚ9ÔÂ26ÈÕÕýÊ½ÉÏÊÐ£¬¶ø¡°ÖÐ»ªCOUPE¡±µÄ³µÃûÒ²ÕýÊ½´úÌæÁËM3µÄÑÐ·¢´úºÅ¡£×÷Îª»ª³¿µÚÒ»¿îË«ÃÅ½ô´Õ¼¶½ÎÅÜ³µ£¬ÖÐ»ªCOUPEµ£¸º×ÅÌáÉý»ª³¿Æ·ÅÆÐÎÏóºÍÍêÉÆ²úÆ·ÏßµÄÖØÈÎ¡£¡°ÖÐ¹úµÚÒ»ÅÜ¡±µÄÃûºÅËäÈ»ÒÑ¾­±»¼ªÀûÃÀÈË±ª½Ý×ãÏÈµÇ£¬µ«ÊÇ³Â¾ÉµÄ·ÂÏÄÀûÐü¼ÜºÍ1.3ÉýÐ¡ÅÅÁ¿·¢¶¯»úÊ¹µÃ¼ªÀûÃÀÈË±ªÔÚÉÏÊÐºó²¢Ã»ÓÐÏÆÆðÊÐ³¡µÄÐùÈ»´ó²¨¡£ÄÇÃ´´Ë´Î»ª³¿ÖÐ»ªCOUPEµÄÉÏÊÐÊÇ·ñÄÜÏÆÆð½ô´Õ¼¶½Î³µÊÐ³¡µÄ²¨À½ÄØ£¿
-ÖÐ»ªCOUPEÊÇÅÜ³µÂð£¿´ð°¸ÊÇ·ñ¶¨µÄ¡£°´ÕÕ¹ú¼ÊÍ¨ÐÐµÄ³µÐÍ·ÖÀà·½·¨À´Ëµ£¬ÖÐ»ªCOUPEÊôÓÚË«ÃÅ½ô´Õ¼¶½Î³µ£¨Compact
-Car/2-door£©¡£ÆäÖ÷Òª×÷ÓÃÊÇÎªÁËÃÖ²¹´«Í³ËÄÃÅ½ô´Õ¼¶½Î³µµÄÏ¸·ÖÊÐ³¡¡£ÒÔÑ©·ðÀ¼CobaltÎªÀý£¬Í¨ÓÃ¹²ÍÆ³öÁËÈý¿î³µÐÍ£¬Ò»¿îÎªË«ÃÅ½ô´Õ¼¶½Î³µ£¬Ò»¿îÎªËÄÃÅ½ô´Õ¼¶½Î³µ£¬ÁíÒ»¿îÊÇ¾­¹ý¶¯Á¦¼ÓÇ¿µÄSSË«ÃÅÔË¶¯°æ¡£Òò´ËÖÐ»ªCOUPE²»ÊÇÅÜ³µ£¬Ò²²»ÊÇ½ÎÅÜ³µ£¬ËüÊôÓÚ½ô´Õ¼¶½Î³µ¡£
+ÖÐ»ªCOUPEÊÇÅÜ³µÂð£¿´ð°¸ÊÇ·ñ¶¨µÄ¡£°´ÕÕ¹ú¼ÊÍ¨ÐÐµÄ³µÐÍ·ÖÀà·½·¨À´Ëµ£¬ÖÐ»ªCOUPEÊôÓÚË«ÃÅ½ô´Õ¼¶½Î³µ£¨Compact Car/2-door£©¡£ÆäÖ÷Òª×÷ÓÃÊÇÎªÁËÃÖ²¹´«Í³ËÄÃÅ½ô´Õ¼¶½Î³µµÄÏ¸·ÖÊÐ³¡¡£ÒÔÑ©·ðÀ¼CobaltÎªÀý£¬Í¨ÓÃ¹²ÍÆ³öÁËÈý¿î³µÐÍ£¬Ò»¿îÎªË«ÃÅ½ô´Õ¼¶½Î³µ£¬Ò»¿îÎªËÄÃÅ½ô´Õ¼¶½Î³µ£¬ÁíÒ»¿îÊÇ¾­¹ý¶¯Á¦¼ÓÇ¿µÄSSË«ÃÅÔË¶¯°æ¡£Òò´ËÖÐ»ªCOUPE²»ÊÇÅÜ³µ£¬Ò²²»ÊÇ½ÎÅÜ³µ£¬ËüÊôÓÚ½ô´Õ¼¶½Î³µ¡£
 Ã÷È·ÁË³µÐÍ¶¨Î»£¬¾ºÕù¶ÔÊÖ×ÔÈ»Ò²¾ÍÖð½¥Ã÷ÁËÁË¡£ºÜÏÔÈ»£¬ÏÖ´ú¿áÅÉ²»ÔÙÊÇÖÐ»ªCOUPEÎ¨Ò»µÄ¶ÔÍ·£¬ÓëÖÐ»ªCOUPEÒ»Ñù²ÉÓÃÎÐÂÖÔöÑ¹·¢¶¯»úµÄ½ô´Õ¼¶½Î³µÈç´óÖÚËÙÌÚ1.8T£¬Ë¹¿Â´ïÃ÷Èñ1.8
 TFSI£¬Ãû¾ôMG7
 1.8TµÈÒ²³ÉÎªÁËÖÐ»ªCOUPEµÄ¾ºÕù¶ÔÊÖ¡£Ãæ¶ÔÖÚ¶àµÄ¶ÔÊÖ£¬ÖÐ»ªCOUPEµÄÁÁµãºÍÁÓÊÆÔÚÄÄ£¿
@@ -64173,90 +62458,44 @@ TFSI£¬Ãû¾ôMG7
 ÑéÖ¤Âë
 £º
 (°´Ctrl+Enter¿ÉÖ±½Ó·¢±í)
-<xmp
-id="xmp_topic_list"
-style="display:none">
-<?xml
-version="1.0"
-encoding="GB2312"?>
-<xsl:stylesheet
-version="1.0"
-xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-<xsl:output
-method="html"
-encoding="gb2312"
-/>
-<xsl:template
-match="/sobar_interface">
+<xmp id="xmp_topic_list" style="display:none">
+<?xml version="1.0" encoding="GB2312"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:output method="html" encoding="gb2312" />
+<xsl:template match="/sobar_interface">
 ±êÌâ
 µã»÷/»Ø¸´
-<xsl:apply-templates
-select="//topic"
-/>
+<xsl:apply-templates select="//topic" />
 </xsl:template>
-<xsl:template
-match="topic">
+<xsl:template match="topic">
 <xsl:choose>
-<xsl:when
-test="position()
-mod
-2
-=
-1">
-<xsl:if
-test="status='4'">
+<xsl:when test="position() mod 2 = 1">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:when>
 <xsl:otherwise>
-<xsl:if
-test="status='4'">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:otherwise>
 </xsl:choose>
 </xsl:template>
@@ -64665,8 +62904,7 @@ Reserved
 Æ·ÅÆ£º»ª³¿ÖÐ»ª
 ÀàÐÍ£º
 ÆµÆµÔÚ¹úÄÚÍâ³µÕ¹ÉÏÁÁÏàµÄ»ª³¿M3ÖÕÓÚÔÚ9ÔÂ26ÈÕÕýÊ½ÉÏÊÐ£¬¶ø¡°ÖÐ»ªCOUPE¡±µÄ³µÃûÒ²ÕýÊ½´úÌæÁËM3µÄÑÐ·¢´úºÅ¡£×÷Îª»ª³¿µÚÒ»¿îË«ÃÅ½ô´Õ¼¶½ÎÅÜ³µ£¬ÖÐ»ªCOUPEµ£¸º×ÅÌáÉý»ª³¿Æ·ÅÆÐÎÏóºÍÍêÉÆ²úÆ·ÏßµÄÖØÈÎ¡£¡°ÖÐ¹úµÚÒ»ÅÜ¡±µÄÃûºÅËäÈ»ÒÑ¾­±»¼ªÀûÃÀÈË±ª½Ý×ãÏÈµÇ£¬µ«ÊÇ³Â¾ÉµÄ·ÂÏÄÀûÐü¼ÜºÍ1.3ÉýÐ¡ÅÅÁ¿·¢¶¯»úÊ¹µÃ¼ªÀûÃÀÈË±ªÔÚÉÏÊÐºó²¢Ã»ÓÐÏÆÆðÊÐ³¡µÄÐùÈ»´ó²¨¡£ÄÇÃ´´Ë´Î»ª³¿ÖÐ»ªCOUPEµÄÉÏÊÐÊÇ·ñÄÜÏÆÆð½ô´Õ¼¶½Î³µÊÐ³¡µÄ²¨À½ÄØ£¿
-ÖÐ»ªCOUPEÊÇÅÜ³µÂð£¿´ð°¸ÊÇ·ñ¶¨µÄ¡£°´ÕÕ¹ú¼ÊÍ¨ÐÐµÄ³µÐÍ·ÖÀà·½·¨À´Ëµ£¬ÖÐ»ªCOUPEÊôÓÚË«ÃÅ½ô´Õ¼¶½Î³µ£¨Compact
-Car/2-door£©¡£ÆäÖ÷Òª×÷ÓÃÊÇÎªÁËÃÖ²¹´«Í³ËÄÃÅ½ô´Õ¼¶½Î³µµÄÏ¸·ÖÊÐ³¡¡£ÒÔÑ©·ðÀ¼CobaltÎªÀý£¬Í¨ÓÃ¹²ÍÆ³öÁËÈý¿î³µÐÍ£¬Ò»¿îÎªË«ÃÅ½ô´Õ¼¶½Î³µ£¬Ò»¿îÎªËÄÃÅ½ô´Õ¼¶½Î³µ£¬ÁíÒ»¿îÊÇ¾­¹ý¶¯Á¦¼ÓÇ¿µÄSSË«ÃÅÔË¶¯°æ¡£Òò´ËÖÐ»ªCOUPE²»ÊÇÅÜ³µ£¬Ò²²»ÊÇ½ÎÅÜ³µ£¬ËüÊôÓÚ½ô´Õ¼¶½Î³µ¡£
+ÖÐ»ªCOUPEÊÇÅÜ³µÂð£¿´ð°¸ÊÇ·ñ¶¨µÄ¡£°´ÕÕ¹ú¼ÊÍ¨ÐÐµÄ³µÐÍ·ÖÀà·½·¨À´Ëµ£¬ÖÐ»ªCOUPEÊôÓÚË«ÃÅ½ô´Õ¼¶½Î³µ£¨Compact Car/2-door£©¡£ÆäÖ÷Òª×÷ÓÃÊÇÎªÁËÃÖ²¹´«Í³ËÄÃÅ½ô´Õ¼¶½Î³µµÄÏ¸·ÖÊÐ³¡¡£ÒÔÑ©·ðÀ¼CobaltÎªÀý£¬Í¨ÓÃ¹²ÍÆ³öÁËÈý¿î³µÐÍ£¬Ò»¿îÎªË«ÃÅ½ô´Õ¼¶½Î³µ£¬Ò»¿îÎªËÄÃÅ½ô´Õ¼¶½Î³µ£¬ÁíÒ»¿îÊÇ¾­¹ý¶¯Á¦¼ÓÇ¿µÄSSË«ÃÅÔË¶¯°æ¡£Òò´ËÖÐ»ªCOUPE²»ÊÇÅÜ³µ£¬Ò²²»ÊÇ½ÎÅÜ³µ£¬ËüÊôÓÚ½ô´Õ¼¶½Î³µ¡£
 Ã÷È·ÁË³µÐÍ¶¨Î»£¬¾ºÕù¶ÔÊÖ×ÔÈ»Ò²¾ÍÖð½¥Ã÷ÁËÁË¡£ºÜÏÔÈ»£¬ÏÖ´ú¿áÅÉ²»ÔÙÊÇÖÐ»ªCOUPEÎ¨Ò»µÄ¶ÔÍ·£¬ÓëÖÐ»ªCOUPEÒ»Ñù²ÉÓÃÎÐÂÖÔöÑ¹·¢¶¯»úµÄ½ô´Õ¼¶½Î³µÈç´óÖÚËÙÌÚ1.8T£¬Ë¹¿Â´ïÃ÷Èñ1.8
 TFSI£¬Ãû¾ôMG7
 1.8TµÈÒ²³ÉÎªÁËÖÐ»ªCOUPEµÄ¾ºÕù¶ÔÊÖ¡£Ãæ¶ÔÖÚ¶àµÄ¶ÔÊÖ£¬ÖÐ»ªCOUPEµÄÁÁµãºÍÁÓÊÆÔÚÄÄ£¿
@@ -64757,90 +62995,44 @@ TFSI£¬Ãû¾ôMG7
 ÑéÖ¤Âë
 £º
 (°´Ctrl+Enter¿ÉÖ±½Ó·¢±í)
-<xmp
-id="xmp_topic_list"
-style="display:none">
-<?xml
-version="1.0"
-encoding="GB2312"?>
-<xsl:stylesheet
-version="1.0"
-xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-<xsl:output
-method="html"
-encoding="gb2312"
-/>
-<xsl:template
-match="/sobar_interface">
+<xmp id="xmp_topic_list" style="display:none">
+<?xml version="1.0" encoding="GB2312"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:output method="html" encoding="gb2312" />
+<xsl:template match="/sobar_interface">
 ±êÌâ
 µã»÷/»Ø¸´
-<xsl:apply-templates
-select="//topic"
-/>
+<xsl:apply-templates select="//topic" />
 </xsl:template>
-<xsl:template
-match="topic">
+<xsl:template match="topic">
 <xsl:choose>
-<xsl:when
-test="position()
-mod
-2
-=
-1">
-<xsl:if
-test="status='4'">
+<xsl:when test="position() mod 2 = 1">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:when>
 <xsl:otherwise>
-<xsl:if
-test="status='4'">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:otherwise>
 </xsl:choose>
 </xsl:template>
@@ -65428,90 +63620,44 @@ ATÐÐÕþÐÍ
 ÑéÖ¤Âë
 £º
 (°´Ctrl+Enter¿ÉÖ±½Ó·¢±í)
-<xmp
-id="xmp_topic_list"
-style="display:none">
-<?xml
-version="1.0"
-encoding="GB2312"?>
-<xsl:stylesheet
-version="1.0"
-xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-<xsl:output
-method="html"
-encoding="gb2312"
-/>
-<xsl:template
-match="/sobar_interface">
+<xmp id="xmp_topic_list" style="display:none">
+<?xml version="1.0" encoding="GB2312"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:output method="html" encoding="gb2312" />
+<xsl:template match="/sobar_interface">
 ±êÌâ
 µã»÷/»Ø¸´
-<xsl:apply-templates
-select="//topic"
-/>
+<xsl:apply-templates select="//topic" />
 </xsl:template>
-<xsl:template
-match="topic">
+<xsl:template match="topic">
 <xsl:choose>
-<xsl:when
-test="position()
-mod
-2
-=
-1">
-<xsl:if
-test="status='4'">
+<xsl:when test="position() mod 2 = 1">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:when>
 <xsl:otherwise>
-<xsl:if
-test="status='4'">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:otherwise>
 </xsl:choose>
 </xsl:template>
@@ -66120,90 +64266,44 @@ ATÐÐÕþÐÍ
 ÑéÖ¤Âë
 £º
 (°´Ctrl+Enter¿ÉÖ±½Ó·¢±í)
-<xmp
-id="xmp_topic_list"
-style="display:none">
-<?xml
-version="1.0"
-encoding="GB2312"?>
-<xsl:stylesheet
-version="1.0"
-xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-<xsl:output
-method="html"
-encoding="gb2312"
-/>
-<xsl:template
-match="/sobar_interface">
+<xmp id="xmp_topic_list" style="display:none">
+<?xml version="1.0" encoding="GB2312"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:output method="html" encoding="gb2312" />
+<xsl:template match="/sobar_interface">
 ±êÌâ
 µã»÷/»Ø¸´
-<xsl:apply-templates
-select="//topic"
-/>
+<xsl:apply-templates select="//topic" />
 </xsl:template>
-<xsl:template
-match="topic">
+<xsl:template match="topic">
 <xsl:choose>
-<xsl:when
-test="position()
-mod
-2
-=
-1">
-<xsl:if
-test="status='4'">
+<xsl:when test="position() mod 2 = 1">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:when>
 <xsl:otherwise>
-<xsl:if
-test="status='4'">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:otherwise>
 </xsl:choose>
 </xsl:template>
@@ -66709,90 +64809,44 @@ Reserved
 ÑéÖ¤Âë
 £º
 (°´Ctrl+Enter¿ÉÖ±½Ó·¢±í)
-<xmp
-id="xmp_topic_list"
-style="display:none">
-<?xml
-version="1.0"
-encoding="GB2312"?>
-<xsl:stylesheet
-version="1.0"
-xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-<xsl:output
-method="html"
-encoding="gb2312"
-/>
-<xsl:template
-match="/sobar_interface">
+<xmp id="xmp_topic_list" style="display:none">
+<?xml version="1.0" encoding="GB2312"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:output method="html" encoding="gb2312" />
+<xsl:template match="/sobar_interface">
 ±êÌâ
 µã»÷/»Ø¸´
-<xsl:apply-templates
-select="//topic"
-/>
+<xsl:apply-templates select="//topic" />
 </xsl:template>
-<xsl:template
-match="topic">
+<xsl:template match="topic">
 <xsl:choose>
-<xsl:when
-test="position()
-mod
-2
-=
-1">
-<xsl:if
-test="status='4'">
+<xsl:when test="position() mod 2 = 1">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:when>
 <xsl:otherwise>
-<xsl:if
-test="status='4'">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:otherwise>
 </xsl:choose>
 </xsl:template>
@@ -67300,90 +65354,44 @@ Reserved
 ÑéÖ¤Âë
 £º
 (°´Ctrl+Enter¿ÉÖ±½Ó·¢±í)
-<xmp
-id="xmp_topic_list"
-style="display:none">
-<?xml
-version="1.0"
-encoding="GB2312"?>
-<xsl:stylesheet
-version="1.0"
-xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-<xsl:output
-method="html"
-encoding="gb2312"
-/>
-<xsl:template
-match="/sobar_interface">
+<xmp id="xmp_topic_list" style="display:none">
+<?xml version="1.0" encoding="GB2312"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:output method="html" encoding="gb2312" />
+<xsl:template match="/sobar_interface">
 ±êÌâ
 µã»÷/»Ø¸´
-<xsl:apply-templates
-select="//topic"
-/>
+<xsl:apply-templates select="//topic" />
 </xsl:template>
-<xsl:template
-match="topic">
+<xsl:template match="topic">
 <xsl:choose>
-<xsl:when
-test="position()
-mod
-2
-=
-1">
-<xsl:if
-test="status='4'">
+<xsl:when test="position() mod 2 = 1">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:when>
 <xsl:otherwise>
-<xsl:if
-test="status='4'">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:otherwise>
 </xsl:choose>
 </xsl:template>
@@ -67878,90 +65886,44 @@ Reserved
 ÑéÖ¤Âë
 £º
 (°´Ctrl+Enter¿ÉÖ±½Ó·¢±í)
-<xmp
-id="xmp_topic_list"
-style="display:none">
-<?xml
-version="1.0"
-encoding="GB2312"?>
-<xsl:stylesheet
-version="1.0"
-xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-<xsl:output
-method="html"
-encoding="gb2312"
-/>
-<xsl:template
-match="/sobar_interface">
+<xmp id="xmp_topic_list" style="display:none">
+<?xml version="1.0" encoding="GB2312"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:output method="html" encoding="gb2312" />
+<xsl:template match="/sobar_interface">
 ±êÌâ
 µã»÷/»Ø¸´
-<xsl:apply-templates
-select="//topic"
-/>
+<xsl:apply-templates select="//topic" />
 </xsl:template>
-<xsl:template
-match="topic">
+<xsl:template match="topic">
 <xsl:choose>
-<xsl:when
-test="position()
-mod
-2
-=
-1">
-<xsl:if
-test="status='4'">
+<xsl:when test="position() mod 2 = 1">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:when>
 <xsl:otherwise>
-<xsl:if
-test="status='4'">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:otherwise>
 </xsl:choose>
 </xsl:template>
@@ -68456,90 +66418,44 @@ Reserved
 ÑéÖ¤Âë
 £º
 (°´Ctrl+Enter¿ÉÖ±½Ó·¢±í)
-<xmp
-id="xmp_topic_list"
-style="display:none">
-<?xml
-version="1.0"
-encoding="GB2312"?>
-<xsl:stylesheet
-version="1.0"
-xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-<xsl:output
-method="html"
-encoding="gb2312"
-/>
-<xsl:template
-match="/sobar_interface">
+<xmp id="xmp_topic_list" style="display:none">
+<?xml version="1.0" encoding="GB2312"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:output method="html" encoding="gb2312" />
+<xsl:template match="/sobar_interface">
 ±êÌâ
 µã»÷/»Ø¸´
-<xsl:apply-templates
-select="//topic"
-/>
+<xsl:apply-templates select="//topic" />
 </xsl:template>
-<xsl:template
-match="topic">
+<xsl:template match="topic">
 <xsl:choose>
-<xsl:when
-test="position()
-mod
-2
-=
-1">
-<xsl:if
-test="status='4'">
+<xsl:when test="position() mod 2 = 1">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:when>
 <xsl:otherwise>
-<xsl:if
-test="status='4'">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:otherwise>
 </xsl:choose>
 </xsl:template>
@@ -69135,90 +67051,44 @@ Reserved
 ÑéÖ¤Âë
 £º
 (°´Ctrl+Enter¿ÉÖ±½Ó·¢±í)
-<xmp
-id="xmp_topic_list"
-style="display:none">
-<?xml
-version="1.0"
-encoding="GB2312"?>
-<xsl:stylesheet
-version="1.0"
-xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-<xsl:output
-method="html"
-encoding="gb2312"
-/>
-<xsl:template
-match="/sobar_interface">
+<xmp id="xmp_topic_list" style="display:none">
+<?xml version="1.0" encoding="GB2312"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:output method="html" encoding="gb2312" />
+<xsl:template match="/sobar_interface">
 ±êÌâ
 µã»÷/»Ø¸´
-<xsl:apply-templates
-select="//topic"
-/>
+<xsl:apply-templates select="//topic" />
 </xsl:template>
-<xsl:template
-match="topic">
+<xsl:template match="topic">
 <xsl:choose>
-<xsl:when
-test="position()
-mod
-2
-=
-1">
-<xsl:if
-test="status='4'">
+<xsl:when test="position() mod 2 = 1">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:when>
 <xsl:otherwise>
-<xsl:if
-test="status='4'">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:otherwise>
 </xsl:choose>
 </xsl:template>
@@ -69814,90 +67684,44 @@ Reserved
 ÑéÖ¤Âë
 £º
 (°´Ctrl+Enter¿ÉÖ±½Ó·¢±í)
-<xmp
-id="xmp_topic_list"
-style="display:none">
-<?xml
-version="1.0"
-encoding="GB2312"?>
-<xsl:stylesheet
-version="1.0"
-xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-<xsl:output
-method="html"
-encoding="gb2312"
-/>
-<xsl:template
-match="/sobar_interface">
+<xmp id="xmp_topic_list" style="display:none">
+<?xml version="1.0" encoding="GB2312"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:output method="html" encoding="gb2312" />
+<xsl:template match="/sobar_interface">
 ±êÌâ
 µã»÷/»Ø¸´
-<xsl:apply-templates
-select="//topic"
-/>
+<xsl:apply-templates select="//topic" />
 </xsl:template>
-<xsl:template
-match="topic">
+<xsl:template match="topic">
 <xsl:choose>
-<xsl:when
-test="position()
-mod
-2
-=
-1">
-<xsl:if
-test="status='4'">
+<xsl:when test="position() mod 2 = 1">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:when>
 <xsl:otherwise>
-<xsl:if
-test="status='4'">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:otherwise>
 </xsl:choose>
 </xsl:template>
@@ -70481,90 +68305,44 @@ x1430mmµÄ³µ³¤¡¢¿í¡¢¸ß£¬2540mmµÄÖá¾à£¬»ªÆÕ²îÒì»¯Õ½ÂÔµÄÄ¿µÄÔÚº£Óò305ÉíÉÏµÃµ½ÁËÌåÏÖ
 ÑéÖ¤Âë
 £º
 (°´Ctrl+Enter¿ÉÖ±½Ó·¢±í)
-<xmp
-id="xmp_topic_list"
-style="display:none">
-<?xml
-version="1.0"
-encoding="GB2312"?>
-<xsl:stylesheet
-version="1.0"
-xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-<xsl:output
-method="html"
-encoding="gb2312"
-/>
-<xsl:template
-match="/sobar_interface">
+<xmp id="xmp_topic_list" style="display:none">
+<?xml version="1.0" encoding="GB2312"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:output method="html" encoding="gb2312" />
+<xsl:template match="/sobar_interface">
 ±êÌâ
 µã»÷/»Ø¸´
-<xsl:apply-templates
-select="//topic"
-/>
+<xsl:apply-templates select="//topic" />
 </xsl:template>
-<xsl:template
-match="topic">
+<xsl:template match="topic">
 <xsl:choose>
-<xsl:when
-test="position()
-mod
-2
-=
-1">
-<xsl:if
-test="status='4'">
+<xsl:when test="position() mod 2 = 1">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:when>
 <xsl:otherwise>
-<xsl:if
-test="status='4'">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:otherwise>
 </xsl:choose>
 </xsl:template>
@@ -71148,90 +68926,44 @@ x1430mmµÄ³µ³¤¡¢¿í¡¢¸ß£¬2540mmµÄÖá¾à£¬»ªÆÕ²îÒì»¯Õ½ÂÔµÄÄ¿µÄÔÚº£Óò305ÉíÉÏµÃµ½ÁËÌåÏÖ
 ÑéÖ¤Âë
 £º
 (°´Ctrl+Enter¿ÉÖ±½Ó·¢±í)
-<xmp
-id="xmp_topic_list"
-style="display:none">
-<?xml
-version="1.0"
-encoding="GB2312"?>
-<xsl:stylesheet
-version="1.0"
-xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-<xsl:output
-method="html"
-encoding="gb2312"
-/>
-<xsl:template
-match="/sobar_interface">
+<xmp id="xmp_topic_list" style="display:none">
+<?xml version="1.0" encoding="GB2312"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:output method="html" encoding="gb2312" />
+<xsl:template match="/sobar_interface">
 ±êÌâ
 µã»÷/»Ø¸´
-<xsl:apply-templates
-select="//topic"
-/>
+<xsl:apply-templates select="//topic" />
 </xsl:template>
-<xsl:template
-match="topic">
+<xsl:template match="topic">
 <xsl:choose>
-<xsl:when
-test="position()
-mod
-2
-=
-1">
-<xsl:if
-test="status='4'">
+<xsl:when test="position() mod 2 = 1">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:when>
 <xsl:otherwise>
-<xsl:if
-test="status='4'">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:otherwise>
 </xsl:choose>
 </xsl:template>
@@ -71766,90 +69498,44 @@ Reserved
 ÑéÖ¤Âë
 £º
 (°´Ctrl+Enter¿ÉÖ±½Ó·¢±í)
-<xmp
-id="xmp_topic_list"
-style="display:none">
-<?xml
-version="1.0"
-encoding="GB2312"?>
-<xsl:stylesheet
-version="1.0"
-xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-<xsl:output
-method="html"
-encoding="gb2312"
-/>
-<xsl:template
-match="/sobar_interface">
+<xmp id="xmp_topic_list" style="display:none">
+<?xml version="1.0" encoding="GB2312"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:output method="html" encoding="gb2312" />
+<xsl:template match="/sobar_interface">
 ±êÌâ
 µã»÷/»Ø¸´
-<xsl:apply-templates
-select="//topic"
-/>
+<xsl:apply-templates select="//topic" />
 </xsl:template>
-<xsl:template
-match="topic">
+<xsl:template match="topic">
 <xsl:choose>
-<xsl:when
-test="position()
-mod
-2
-=
-1">
-<xsl:if
-test="status='4'">
+<xsl:when test="position() mod 2 = 1">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:when>
 <xsl:otherwise>
-<xsl:if
-test="status='4'">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:otherwise>
 </xsl:choose>
 </xsl:template>
@@ -72378,90 +70064,44 @@ Reserved
 ÑéÖ¤Âë
 £º
 (°´Ctrl+Enter¿ÉÖ±½Ó·¢±í)
-<xmp
-id="xmp_topic_list"
-style="display:none">
-<?xml
-version="1.0"
-encoding="GB2312"?>
-<xsl:stylesheet
-version="1.0"
-xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-<xsl:output
-method="html"
-encoding="gb2312"
-/>
-<xsl:template
-match="/sobar_interface">
+<xmp id="xmp_topic_list" style="display:none">
+<?xml version="1.0" encoding="GB2312"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:output method="html" encoding="gb2312" />
+<xsl:template match="/sobar_interface">
 ±êÌâ
 µã»÷/»Ø¸´
-<xsl:apply-templates
-select="//topic"
-/>
+<xsl:apply-templates select="//topic" />
 </xsl:template>
-<xsl:template
-match="topic">
+<xsl:template match="topic">
 <xsl:choose>
-<xsl:when
-test="position()
-mod
-2
-=
-1">
-<xsl:if
-test="status='4'">
+<xsl:when test="position() mod 2 = 1">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:when>
 <xsl:otherwise>
-<xsl:if
-test="status='4'">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:otherwise>
 </xsl:choose>
 </xsl:template>
@@ -72999,90 +70639,44 @@ Reserved
 ÑéÖ¤Âë
 £º
 (°´Ctrl+Enter¿ÉÖ±½Ó·¢±í)
-<xmp
-id="xmp_topic_list"
-style="display:none">
-<?xml
-version="1.0"
-encoding="GB2312"?>
-<xsl:stylesheet
-version="1.0"
-xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-<xsl:output
-method="html"
-encoding="gb2312"
-/>
-<xsl:template
-match="/sobar_interface">
+<xmp id="xmp_topic_list" style="display:none">
+<?xml version="1.0" encoding="GB2312"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:output method="html" encoding="gb2312" />
+<xsl:template match="/sobar_interface">
 ±êÌâ
 µã»÷/»Ø¸´
-<xsl:apply-templates
-select="//topic"
-/>
+<xsl:apply-templates select="//topic" />
 </xsl:template>
-<xsl:template
-match="topic">
+<xsl:template match="topic">
 <xsl:choose>
-<xsl:when
-test="position()
-mod
-2
-=
-1">
-<xsl:if
-test="status='4'">
+<xsl:when test="position() mod 2 = 1">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:when>
 <xsl:otherwise>
-<xsl:if
-test="status='4'">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:otherwise>
 </xsl:choose>
 </xsl:template>
@@ -73620,90 +71214,44 @@ Reserved
 ÑéÖ¤Âë
 £º
 (°´Ctrl+Enter¿ÉÖ±½Ó·¢±í)
-<xmp
-id="xmp_topic_list"
-style="display:none">
-<?xml
-version="1.0"
-encoding="GB2312"?>
-<xsl:stylesheet
-version="1.0"
-xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-<xsl:output
-method="html"
-encoding="gb2312"
-/>
-<xsl:template
-match="/sobar_interface">
+<xmp id="xmp_topic_list" style="display:none">
+<?xml version="1.0" encoding="GB2312"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:output method="html" encoding="gb2312" />
+<xsl:template match="/sobar_interface">
 ±êÌâ
 µã»÷/»Ø¸´
-<xsl:apply-templates
-select="//topic"
-/>
+<xsl:apply-templates select="//topic" />
 </xsl:template>
-<xsl:template
-match="topic">
+<xsl:template match="topic">
 <xsl:choose>
-<xsl:when
-test="position()
-mod
-2
-=
-1">
-<xsl:if
-test="status='4'">
+<xsl:when test="position() mod 2 = 1">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:when>
 <xsl:otherwise>
-<xsl:if
-test="status='4'">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:otherwise>
 </xsl:choose>
 </xsl:template>
@@ -74272,90 +71820,44 @@ Reserved
 ÑéÖ¤Âë
 £º
 (°´Ctrl+Enter¿ÉÖ±½Ó·¢±í)
-<xmp
-id="xmp_topic_list"
-style="display:none">
-<?xml
-version="1.0"
-encoding="GB2312"?>
-<xsl:stylesheet
-version="1.0"
-xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-<xsl:output
-method="html"
-encoding="gb2312"
-/>
-<xsl:template
-match="/sobar_interface">
+<xmp id="xmp_topic_list" style="display:none">
+<?xml version="1.0" encoding="GB2312"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:output method="html" encoding="gb2312" />
+<xsl:template match="/sobar_interface">
 ±êÌâ
 µã»÷/»Ø¸´
-<xsl:apply-templates
-select="//topic"
-/>
+<xsl:apply-templates select="//topic" />
 </xsl:template>
-<xsl:template
-match="topic">
+<xsl:template match="topic">
 <xsl:choose>
-<xsl:when
-test="position()
-mod
-2
-=
-1">
-<xsl:if
-test="status='4'">
+<xsl:when test="position() mod 2 = 1">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:when>
 <xsl:otherwise>
-<xsl:if
-test="status='4'">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:otherwise>
 </xsl:choose>
 </xsl:template>
@@ -75362,90 +72864,44 @@ Reserved
 ÑéÖ¤Âë
 £º
 (°´Ctrl+Enter¿ÉÖ±½Ó·¢±í)
-<xmp
-id="xmp_topic_list"
-style="display:none">
-<?xml
-version="1.0"
-encoding="GB2312"?>
-<xsl:stylesheet
-version="1.0"
-xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-<xsl:output
-method="html"
-encoding="gb2312"
-/>
-<xsl:template
-match="/sobar_interface">
+<xmp id="xmp_topic_list" style="display:none">
+<?xml version="1.0" encoding="GB2312"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:output method="html" encoding="gb2312" />
+<xsl:template match="/sobar_interface">
 ±êÌâ
 µã»÷/»Ø¸´
-<xsl:apply-templates
-select="//topic"
-/>
+<xsl:apply-templates select="//topic" />
 </xsl:template>
-<xsl:template
-match="topic">
+<xsl:template match="topic">
 <xsl:choose>
-<xsl:when
-test="position()
-mod
-2
-=
-1">
-<xsl:if
-test="status='4'">
+<xsl:when test="position() mod 2 = 1">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:when>
 <xsl:otherwise>
-<xsl:if
-test="status='4'">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:otherwise>
 </xsl:choose>
 </xsl:template>
@@ -76868,90 +74324,44 @@ Reserved
 ÑéÖ¤Âë
 £º
 (°´Ctrl+Enter¿ÉÖ±½Ó·¢±í)
-<xmp
-id="xmp_topic_list"
-style="display:none">
-<?xml
-version="1.0"
-encoding="GB2312"?>
-<xsl:stylesheet
-version="1.0"
-xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-<xsl:output
-method="html"
-encoding="gb2312"
-/>
-<xsl:template
-match="/sobar_interface">
+<xmp id="xmp_topic_list" style="display:none">
+<?xml version="1.0" encoding="GB2312"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:output method="html" encoding="gb2312" />
+<xsl:template match="/sobar_interface">
 ±êÌâ
 µã»÷/»Ø¸´
-<xsl:apply-templates
-select="//topic"
-/>
+<xsl:apply-templates select="//topic" />
 </xsl:template>
-<xsl:template
-match="topic">
+<xsl:template match="topic">
 <xsl:choose>
-<xsl:when
-test="position()
-mod
-2
-=
-1">
-<xsl:if
-test="status='4'">
+<xsl:when test="position() mod 2 = 1">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:when>
 <xsl:otherwise>
-<xsl:if
-test="status='4'">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:otherwise>
 </xsl:choose>
 </xsl:template>
@@ -77944,90 +75354,44 @@ Reserved
 ÑéÖ¤Âë
 £º
 (°´Ctrl+Enter¿ÉÖ±½Ó·¢±í)
-<xmp
-id="xmp_topic_list"
-style="display:none">
-<?xml
-version="1.0"
-encoding="GB2312"?>
-<xsl:stylesheet
-version="1.0"
-xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-<xsl:output
-method="html"
-encoding="gb2312"
-/>
-<xsl:template
-match="/sobar_interface">
+<xmp id="xmp_topic_list" style="display:none">
+<?xml version="1.0" encoding="GB2312"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:output method="html" encoding="gb2312" />
+<xsl:template match="/sobar_interface">
 ±êÌâ
 µã»÷/»Ø¸´
-<xsl:apply-templates
-select="//topic"
-/>
+<xsl:apply-templates select="//topic" />
 </xsl:template>
-<xsl:template
-match="topic">
+<xsl:template match="topic">
 <xsl:choose>
-<xsl:when
-test="position()
-mod
-2
-=
-1">
-<xsl:if
-test="status='4'">
+<xsl:when test="position() mod 2 = 1">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:when>
 <xsl:otherwise>
-<xsl:if
-test="status='4'">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:otherwise>
 </xsl:choose>
 </xsl:template>
@@ -79441,90 +76805,44 @@ ATºÀ»ª°æ
 ÑéÖ¤Âë
 £º
 (°´Ctrl+Enter¿ÉÖ±½Ó·¢±í)
-<xmp
-id="xmp_topic_list"
-style="display:none">
-<?xml
-version="1.0"
-encoding="GB2312"?>
-<xsl:stylesheet
-version="1.0"
-xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-<xsl:output
-method="html"
-encoding="gb2312"
-/>
-<xsl:template
-match="/sobar_interface">
+<xmp id="xmp_topic_list" style="display:none">
+<?xml version="1.0" encoding="GB2312"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:output method="html" encoding="gb2312" />
+<xsl:template match="/sobar_interface">
 ±êÌâ
 µã»÷/»Ø¸´
-<xsl:apply-templates
-select="//topic"
-/>
+<xsl:apply-templates select="//topic" />
 </xsl:template>
-<xsl:template
-match="topic">
+<xsl:template match="topic">
 <xsl:choose>
-<xsl:when
-test="position()
-mod
-2
-=
-1">
-<xsl:if
-test="status='4'">
+<xsl:when test="position() mod 2 = 1">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:when>
 <xsl:otherwise>
-<xsl:if
-test="status='4'">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:otherwise>
 </xsl:choose>
 </xsl:template>
@@ -80083,90 +77401,44 @@ ATºÀ»ª°æ
 ÑéÖ¤Âë
 £º
 (°´Ctrl+Enter¿ÉÖ±½Ó·¢±í)
-<xmp
-id="xmp_topic_list"
-style="display:none">
-<?xml
-version="1.0"
-encoding="GB2312"?>
-<xsl:stylesheet
-version="1.0"
-xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-<xsl:output
-method="html"
-encoding="gb2312"
-/>
-<xsl:template
-match="/sobar_interface">
+<xmp id="xmp_topic_list" style="display:none">
+<?xml version="1.0" encoding="GB2312"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:output method="html" encoding="gb2312" />
+<xsl:template match="/sobar_interface">
 ±êÌâ
 µã»÷/»Ø¸´
-<xsl:apply-templates
-select="//topic"
-/>
+<xsl:apply-templates select="//topic" />
 </xsl:template>
-<xsl:template
-match="topic">
+<xsl:template match="topic">
 <xsl:choose>
-<xsl:when
-test="position()
-mod
-2
-=
-1">
-<xsl:if
-test="status='4'">
+<xsl:when test="position() mod 2 = 1">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:when>
 <xsl:otherwise>
-<xsl:if
-test="status='4'">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:otherwise>
 </xsl:choose>
 </xsl:template>
@@ -80721,90 +77993,44 @@ S-MAX¡¢°ÂµÂÈü¡¢Í¾°²¸ÃÑ¡Ë­
 ÑéÖ¤Âë
 £º
 (°´Ctrl+Enter¿ÉÖ±½Ó·¢±í)
-<xmp
-id="xmp_topic_list"
-style="display:none">
-<?xml
-version="1.0"
-encoding="GB2312"?>
-<xsl:stylesheet
-version="1.0"
-xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-<xsl:output
-method="html"
-encoding="gb2312"
-/>
-<xsl:template
-match="/sobar_interface">
+<xmp id="xmp_topic_list" style="display:none">
+<?xml version="1.0" encoding="GB2312"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:output method="html" encoding="gb2312" />
+<xsl:template match="/sobar_interface">
 ±êÌâ
 µã»÷/»Ø¸´
-<xsl:apply-templates
-select="//topic"
-/>
+<xsl:apply-templates select="//topic" />
 </xsl:template>
-<xsl:template
-match="topic">
+<xsl:template match="topic">
 <xsl:choose>
-<xsl:when
-test="position()
-mod
-2
-=
-1">
-<xsl:if
-test="status='4'">
+<xsl:when test="position() mod 2 = 1">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:when>
 <xsl:otherwise>
-<xsl:if
-test="status='4'">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:otherwise>
 </xsl:choose>
 </xsl:template>
@@ -81785,90 +79011,44 @@ S-MAX¡¢°ÂµÂÈü¡¢Í¾°²¸ÃÑ¡Ë­
 ÑéÖ¤Âë
 £º
 (°´Ctrl+Enter¿ÉÖ±½Ó·¢±í)
-<xmp
-id="xmp_topic_list"
-style="display:none">
-<?xml
-version="1.0"
-encoding="GB2312"?>
-<xsl:stylesheet
-version="1.0"
-xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-<xsl:output
-method="html"
-encoding="gb2312"
-/>
-<xsl:template
-match="/sobar_interface">
+<xmp id="xmp_topic_list" style="display:none">
+<?xml version="1.0" encoding="GB2312"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:output method="html" encoding="gb2312" />
+<xsl:template match="/sobar_interface">
 ±êÌâ
 µã»÷/»Ø¸´
-<xsl:apply-templates
-select="//topic"
-/>
+<xsl:apply-templates select="//topic" />
 </xsl:template>
-<xsl:template
-match="topic">
+<xsl:template match="topic">
 <xsl:choose>
-<xsl:when
-test="position()
-mod
-2
-=
-1">
-<xsl:if
-test="status='4'">
+<xsl:when test="position() mod 2 = 1">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:when>
 <xsl:otherwise>
-<xsl:if
-test="status='4'">
+<xsl:if test="status='4'">
 </xsl:if>
-<xsl:if
-test="is_pick='1'">
+<xsl:if test="is_pick='1'">
 </xsl:if>
-<xsl:attribute
-name="href">
-<xsl:value-of
-select="id"
-/>
+<xsl:attribute name="href">
+<xsl:value-of select="id" />
 </xsl:attribute>
-<xsl:attribute
-name="title">
-<xsl:value-of
-select="title"
-/>
+<xsl:attribute name="title">
+<xsl:value-of select="title" />
 </xsl:attribute>
-<xsl:value-of
-select="title"
-/>
-<xsl:value-of
-select="click_num"
-/>/<xsl:value-of
-select="post_num"
-/>
+<xsl:value-of select="title" />
+<xsl:value-of select="click_num" />/<xsl:value-of select="post_num" />
 </xsl:otherwise>
 </xsl:choose>
 </xsl:template>

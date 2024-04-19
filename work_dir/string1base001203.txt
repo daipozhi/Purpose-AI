@@ -1008,10 +1008,8 @@ Maria
 [¶À¼ÒÆÀÂÛ£ºÄê¶ÈÊ¢µä´óÅÆÕ¹Íþ·ç][
 ÍêÈ«»ñ½±Ãûµ¥
 ]
-[ÉÏ°ë³¡±ù´¨ÆÚ¡ª¡ªºòÅåá¯´Ç²»´ïÒâ
-²ÌÒÀÁÖÄÑ¼ûÐ¦ÑÕ]
-[ÏÂ°ë³¡ÏûÈÚÆÚ£ºÎâ×ÚÏÜÇÉÉèÏÝÚå
-³ª¸è¡°ÏûÇ²¡±ÖÜºò]
+[ÉÏ°ë³¡±ù´¨ÆÚ¡ª¡ªºòÅåá¯´Ç²»´ïÒâ ²ÌÒÀÁÖÄÑ¼ûÐ¦ÑÕ]
+[ÏÂ°ë³¡ÏûÈÚÆÚ£ºÎâ×ÚÏÜÇÉÉèÏÝÚå ³ª¸è¡°ÏûÇ²¡±ÖÜºò]
 ÓÉÖÐ¹úÒÆ¶¯¡¢SMGÁªºÏ´òÔìµÄµÚ2½ìÖÐ¹úÒÆ¶¯ÎÞÏßÒôÀÖÄê¶ÈÊ¢µäÔÚÉÏº£´óÎèÌ¨ÂäÏÂá¡Ä»¡£ÎÞÏßÒôÀÖµÄ20¸ö½±ÏîµÃÖ÷¸÷¸÷¼ÓÃá¡£ÖÜ½ÜÂ×Á¬¶áËÄ¸ö´ó½±£¬Ê¹Ëû³ÉÎªÈ«³¡×îÖõÄ¿µÄ½¹µã¡£²»¹ýËûÒ²³ÉÎªÁË½ñÍí»ÓÖ®²»È¥µÄ»°ÌâÈËÎïÖ®Ò»¡£[
 ÏêÏ¸
 ][
@@ -1241,10 +1239,8 @@ Maria
 [¶À¼ÒÆÀÂÛ£ºÄê¶ÈÊ¢µä´óÅÆÕ¹Íþ·ç][
 ÍêÈ«»ñ½±Ãûµ¥
 ]
-[ÉÏ°ë³¡±ù´¨ÆÚ¡ª¡ªºòÅåá¯´Ç²»´ïÒâ
-²ÌÒÀÁÖÄÑ¼ûÐ¦ÑÕ]
-[ÏÂ°ë³¡ÏûÈÚÆÚ£ºÎâ×ÚÏÜÇÉÉèÏÝÚå
-³ª¸è¡°ÏûÇ²¡±ÖÜºò]
+[ÉÏ°ë³¡±ù´¨ÆÚ¡ª¡ªºòÅåá¯´Ç²»´ïÒâ ²ÌÒÀÁÖÄÑ¼ûÐ¦ÑÕ]
+[ÏÂ°ë³¡ÏûÈÚÆÚ£ºÎâ×ÚÏÜÇÉÉèÏÝÚå ³ª¸è¡°ÏûÇ²¡±ÖÜºò]
 ÓÉÖÐ¹úÒÆ¶¯¡¢SMGÁªºÏ´òÔìµÄµÚ2½ìÖÐ¹úÒÆ¶¯ÎÞÏßÒôÀÖÄê¶ÈÊ¢µäÔÚÉÏº£´óÎèÌ¨ÂäÏÂá¡Ä»¡£ÎÞÏßÒôÀÖµÄ20¸ö½±ÏîµÃÖ÷¸÷¸÷¼ÓÃá¡£ÖÜ½ÜÂ×Á¬¶áËÄ¸ö´ó½±£¬Ê¹Ëû³ÉÎªÈ«³¡×îÖõÄ¿µÄ½¹µã¡£²»¹ýËûÒ²³ÉÎªÁË½ñÍí»ÓÖ®²»È¥µÄ»°ÌâÈËÎïÖ®Ò»¡£[
 ÏêÏ¸
 ][
@@ -1822,8 +1818,7 @@ Q°É
 ÁõÈôÓ¢
 ¸ü¶à
 ±íÑÝ£º
-SJÑÝ³ª¡¶Marry
-U¡·
+SJÑÝ³ª¡¶Marry U¡·
 ÕÅÕðÔÀ¡¶Ë¼ÄîÊÇÒ»ÖÖ²¡¡·
 ÄªÎÄÎµÏÖ³¡³ªÐÂ¸è
 ÑîØ©ÁÕ¾¢¸èÈÈÎè
@@ -1841,8 +1836,7 @@ Junior
 ¡¤Ì¨Íå×îÊÜ»¶Ó­µçÊÓ¾çÄÐÑÝÔ±£ºÃ÷µÀ
 Áõ³ãÆ½ÏÈÉúºôÓõÍøÓÑÍ¶Éí¹«ÒæÊÂÒµ
 Super
-JuniorÑÝ³ª¡¶Marry
-U¡·
+JuniorÑÝ³ª¡¶Marry U¡·
 ÐÇ¹âÃ÷ÐÇ×¨·Ã
 °ä½±ÏÖ³¡ÊÓÆµÖ±»÷
 °ä½±Ê±¼ä
@@ -2120,8 +2114,7 @@ JuniorÉÁÁÁÁÁÏàºìµØÌº
 ¾«²ÊÒ»¿Ì
 ÑîØ©ÁÕÏÖ³¡¶¯¸ÐÈÈÎè£¬»îÁ¦ËÄÉä£¬²¢Ï×³ª¡¶È±Ñõ¡·ºÍ¡¶ÈÎÒâÃÅ¡·Á½Ê×¸è¡£¸ü¶à
 Super
-JuniorÏÖ³¡ÑÝ³ª¡¶Marry
-you¡·£¬ÒýÆð·ÛË¿ÃÇµÄÕóÕó¼â½ÐÉù¡£¸ü¶à
+JuniorÏÖ³¡ÑÝ³ª¡¶Marry you¡·£¬ÒýÆð·ÛË¿ÃÇµÄÕóÕó¼â½ÐÉù¡£¸ü¶à
 ¸èÊÖÍô·åÏÖ³¡¼¤ÇéÑÝ³ª»ñ½±¸èÇú¡¶ÓÂ¸ÒµÄÐÄ¡·
 È«³¡ÎªÖ®»¶ÌÚ¡£¸ü¶à
 ÊÓÆµ£ºÌÚÑ¶×Ü²ÃÁõ³ãÆ½ºôÓõÍøÓÑÍ¶Éí¹«Òæ
@@ -2458,8 +2451,7 @@ Q°É
 ¡°Ð»Ð»QQ.COM£¬Ð»Ð»Í¶Æ±¸øÎÒµÄÅóÓÑ£¬ÕâÊÇµÚÒ»´Î²Î¼ÓÕâ¸öÊ¢µä£¬»ñµÃÕâ¸ö½±Ïî¡£Ï£ÍûÃ÷Äê¿ÉÒÔÒÔ¸èÊÖµÄÉí·ÝÔÙÀ´²Î¼ÓÐÇ¹â´óµä¡£¡±
 »ñ½±Ë²¼äÊÓÆµ»Ø¹Ë
 °ä½±¼Î±ö£º³Â¾Õºì¡¢ÕÅÖ®ÁÁ
-[ÐÇ¹â´óµäºìµØÌº
-ÁõÈôÓ¢É¢·¢ÖªÐÔÃÀ]
+[ÐÇ¹â´óµäºìµØÌº ÁõÈôÓ¢É¢·¢ÖªÐÔÃÀ]
 [ÁõÈôÓ¢ÉÏÌ¨Áì½±]
 [»ñ½±ÊÓÆµ]
 [×¨·ÃÍ¼ÎÄÊÓÆµ]
@@ -3223,13 +3215,11 @@ Boy
 ËÕÐÑÓðÈªºÏ³ª¡¶°®Èç³±Ë®¡·
 ¡¶×îÃÀ¡·
 Îèµ¸Ðã£º³þÉú¡¶ÎÒÒªÎÒÃÇÔÚÒ»Æð¡·
-ËÕÐÑ¡¶Rock
-you¡·
+ËÕÐÑ¡¶Rock you¡·
 Å¼Ïñ×éPKÊµÁ¦×é£º³Â³þÉúÂÊÖÚ¸ß¸è¡¶Ç§Íò´ÎµØÎÊ¡·
 ËÕÐÑÂÊÎº³¿Óáå°Ã÷ÍõèÝöÎÅ¼ÏñÐ¡ÉúÑÝ³ª¡¶Á÷ÐÇÓê¡·
 ÄîÇ×¶÷£º³Â³þÉú¡¶°Ö°ÖµÄ²ÝÐ¬¡·
-ËÕÐÑ¡¶for
-Mama¡·
+ËÕÐÑ¡¶for Mama¡·
 ÍêÃÀÐ»Ä»³Â³þÉú¶áµÃ×Ü¹Ú¾ü
 13Ç¿Í¬³ª¡¶ÎÒ×îÉÁÁÁ¡·
 ÏÖ³¡ÈÈÍ¼£º11Ç¿ÖúÍþ¹Ú¾üÈü
@@ -3255,8 +3245,7 @@ Mama¡·
 2½ø1ÊÓÆµ
 ¹Û¿´È«³Ì
 ¡¤ËÕÐÑ¡¶Superme¡·
-¡¤13Ç¿¡¶Hello
-Mr.Superboy¡·
+¡¤13Ç¿¡¶Hello Mr.Superboy¡·
 ¡¤³Â³þÉúÉË¸Ð¡¶Æå×Ó¡·
 ¡¤ËÕÐÑÓðÈªÑÝÒï¡¶°®Èç³±Ë®¡·
 ¡¤Î×ÆôÏÍÊ¢ÔÞ³þÉú
@@ -3265,18 +3254,14 @@ Mr.Superboy¡·
 ¡¤³Â³þÉúÆëÇØ¡¶ÍâÃæµÄÊÀ½ç¡·
 ¡¤13Ç¿Ñ¡ÊÖ´®ÉÕÐã
 ¡¤11Ç¿ºÏ³ª¡¶¸ÒÎÊÂ·ÔÚºÎ·½¡·
-¡¤ËÕÐÑ¡¶Rock
-you¡·
+¡¤ËÕÐÑ¡¶Rock you¡·
 ¡¤³Â³þÉú¡¶ÎÒÒªÎÒÃÇÔÚÒ»Æð¡·
 ¡¤³Â³þÉúÉîÇé¡¶ÔÙ»ØÊ×¡·
 ¡¤ËÕÐÑ¸Ð¿®¡¶Èý°ÙÁùÊ®ÎåÀïÂ·¡·
 ¡¤Å¼Ïñ×é¡¶Á÷ÐÇÓê¡·
 ¡¤ÊµÁ¦×é¡¶Ç§Íò´ÎµØÎÊ¡·
 ¡¤³Â³þÉú¡¶°Ö°ÖµÄ²ÝÐ¬¡·
-¡¤ËÕÐÑ¡¶A
-song
-for
-Mama¡·
+¡¤ËÕÐÑ¡¶A song for Mama¡·
 ¡¤³Â³þÉúËÕÐÑÆë¡¶·îÏ×¡·
 ¡¤13Ç¿Í¬³ª¡¶ÎÒ×îÉÁÁÁ¡·
 ×¨·ÃÊÓÆµ
@@ -4217,13 +4202,11 @@ Boy
 ËÕÐÑÓðÈªºÏ³ª¡¶°®Èç³±Ë®¡·
 ¡¶×îÃÀ¡·
 Îèµ¸Ðã£º³þÉú¡¶ÎÒÒªÎÒÃÇÔÚÒ»Æð¡·
-ËÕÐÑ¡¶Rock
-you¡·
+ËÕÐÑ¡¶Rock you¡·
 Å¼Ïñ×éPKÊµÁ¦×é£º³Â³þÉúÂÊÖÚ¸ß¸è¡¶Ç§Íò´ÎµØÎÊ¡·
 ËÕÐÑÂÊÎº³¿Óáå°Ã÷ÍõèÝöÎÅ¼ÏñÐ¡ÉúÑÝ³ª¡¶Á÷ÐÇÓê¡·
 ÄîÇ×¶÷£º³Â³þÉú¡¶°Ö°ÖµÄ²ÝÐ¬¡·
-ËÕÐÑ¡¶for
-Mama¡·
+ËÕÐÑ¡¶for Mama¡·
 ÍêÃÀÐ»Ä»³Â³þÉú¶áµÃ×Ü¹Ú¾ü
 13Ç¿Í¬³ª¡¶ÎÒ×îÉÁÁÁ¡·
 ÏÖ³¡ÈÈÍ¼£º11Ç¿ÖúÍþ¹Ú¾üÈü
@@ -4249,8 +4232,7 @@ Mama¡·
 2½ø1ÊÓÆµ
 ¹Û¿´È«³Ì
 ¡¤ËÕÐÑ¡¶Superme¡·
-¡¤13Ç¿¡¶Hello
-Mr.Superboy¡·
+¡¤13Ç¿¡¶Hello Mr.Superboy¡·
 ¡¤³Â³þÉúÉË¸Ð¡¶Æå×Ó¡·
 ¡¤ËÕÐÑÓðÈªÑÝÒï¡¶°®Èç³±Ë®¡·
 ¡¤Î×ÆôÏÍÊ¢ÔÞ³þÉú
@@ -4259,18 +4241,14 @@ Mr.Superboy¡·
 ¡¤³Â³þÉúÆëÇØ¡¶ÍâÃæµÄÊÀ½ç¡·
 ¡¤13Ç¿Ñ¡ÊÖ´®ÉÕÐã
 ¡¤11Ç¿ºÏ³ª¡¶¸ÒÎÊÂ·ÔÚºÎ·½¡·
-¡¤ËÕÐÑ¡¶Rock
-you¡·
+¡¤ËÕÐÑ¡¶Rock you¡·
 ¡¤³Â³þÉú¡¶ÎÒÒªÎÒÃÇÔÚÒ»Æð¡·
 ¡¤³Â³þÉúÉîÇé¡¶ÔÙ»ØÊ×¡·
 ¡¤ËÕÐÑ¸Ð¿®¡¶Èý°ÙÁùÊ®ÎåÀïÂ·¡·
 ¡¤Å¼Ïñ×é¡¶Á÷ÐÇÓê¡·
 ¡¤ÊµÁ¦×é¡¶Ç§Íò´ÎµØÎÊ¡·
 ¡¤³Â³þÉú¡¶°Ö°ÖµÄ²ÝÐ¬¡·
-¡¤ËÕÐÑ¡¶A
-song
-for
-Mama¡·
+¡¤ËÕÐÑ¡¶A song for Mama¡·
 ¡¤³Â³þÉúËÕÐÑÆë¡¶·îÏ×¡·
 ¡¤13Ç¿Í¬³ª¡¶ÎÒ×îÉÁÁÁ¡·
 ×¨·ÃÊÓÆµ
@@ -5310,9 +5288,7 @@ SuperJunior
 µÄÖÐÎÄÒâË¼ÊÇ¡°³¬¼¶ÃÀÉÙÄê¡±,ËûÃÇÓÚ2005Äê11ÔÂÓÉSM¹«Ë¾·¢¾ò²¢×éºÏ¶ø³É¡£×î³õÓÐ12Ãû³ÉÔ±£¬ºó¼ÓÉÏÄêÁä×îÐ¡µÄÕÔ¿üÏÍ(¼´³µ»öÖÐÊÜÉË×îÑÏÖØµÄ³ÉÔ±)¡­²é¿´ÏêÏ¸
 ¡¤SJ³µ»öÉî²ãÔ­ÒòÖµµÃË¼¿¼
 º«¹ú¸èÊÖÉú´æ¿Õ¼äÐ¡
-Õâ´Î³µ»öÊÇÔÚSJ³ÉÔ±½áÊøKBS¡¶KISS
-THE
-RADIO¡·½ÚÄ¿ºó·µ»ØÍ¾ÖÐ·¢ÉúµÄ¡£Õâ13¸öÄÐº¢ÔÚ¸è³ª¡¢Îèµ¸¡¢ÑÝÒÕ¡¢Ö÷³Ö¡¢×ÛÒÕµÈÁìÓòÈ«Ãæ·¢Õ¹£¬Ñ¹Á¦·Ç³£Ö®ÖØ¡£º«ÒµÄÚÈËÊ¿Í¸Â¶£¬³µ»öÆµ·±·¢ÉúÔÚ¸èÊÖÉíÉÏ±©Â¶ÁË³ªÆ¬¹«Ë¾ÊÐ³¡ÏôÌõ£¬¸èÊÖÑ¹Á¦¹ý´óµÄÞÏÞÎ¾³Óö¡£
+Õâ´Î³µ»öÊÇÔÚSJ³ÉÔ±½áÊøKBS¡¶KISS THE RADIO¡·½ÚÄ¿ºó·µ»ØÍ¾ÖÐ·¢ÉúµÄ¡£Õâ13¸öÄÐº¢ÔÚ¸è³ª¡¢Îèµ¸¡¢ÑÝÒÕ¡¢Ö÷³Ö¡¢×ÛÒÕµÈÁìÓòÈ«Ãæ·¢Õ¹£¬Ñ¹Á¦·Ç³£Ö®ÖØ¡£º«ÒµÄÚÈËÊ¿Í¸Â¶£¬³µ»öÆµ·±·¢ÉúÔÚ¸èÊÖÉíÉÏ±©Â¶ÁË³ªÆ¬¹«Ë¾ÊÐ³¡ÏôÌõ£¬¸èÊÖÑ¹Á¦¹ý´óµÄÞÏÞÎ¾³Óö¡£
 Ã÷ÐÇÊÂ¹ÊÂ¼
 »Æ¾õÓö³µ»öÉËÇé²»Ã÷
 ÕÅÐÅÕÜÓöÏÕÐÄÓÐÓà¼Â
@@ -6130,10 +6106,8 @@ Reserved
 ³¬Ç°°æÔ¤¸æ
 Ô¤¸æÆ¬Ò»
 Ô¤¸æÆ¬¶þ
-ÇæÌìÖù(Peterbilt
-389)
-ÌúÆ¤(GMC
-4500/Topkick)
+ÇæÌìÖù(Peterbilt 389)
+ÌúÆ¤(GMC 4500/Topkick)
 ´ó»Æ·ä(Ñ©·ðÀ¼Camaro)
 ¾ôÊ¿(ÅÓµÙÑÇ¿ËSolstice)
 ¾È»¤³µ(º·ÂíH2)
@@ -6156,8 +6130,7 @@ G2Ê±´ú
 Âþ»­ÐÀÉÍ
 ±äÐÎ½ð¸Õ±àÄêÊ·£ºÆðÔ´
 ¡¶±äÐÎ½ð¸Õ¡·ÊÇÀúÊ·ÉÏ×î³É¹¦µÄÉÌÒµ¶¯»­Ö®Ò»£¬ËüÔÚÍæ¾ßÊÐ³¡ºÍÒôÏñÊÐ³¡ÉÏÈ¡µÃµÄ³É¹¦ÊÇ¿ÕÇ°¾Þ´óµÄ£¬ÒÔÖÁÓÚ80Äê´úÒ»¶È·çÃÒÈ«Çò£¬ÔÚÑÇÅ·ÃÀµÈ¶à¸ö¹ú¼Ò¶¼ÐËÆðÁËÒ»¹É¡°±äÐÎ½ð¸Õ
-¡±ÈÈ£¬ÈÃ¡°transformers¡±³ÉÎªÈ«ÊÀ½ç¼ÒÓ÷»§ÏþµÄÃû´Ê¡£È»¶ø´ó²¿·ÖÈË¶¼ÈÏÎª±äÐÎ½ð¸ÕÍæ¾ßÊÇ¶¯»­µÄÑÜÉúÎï£¬Êµ¼ÊÉÏÇ¡Ç¡Ïà·´£¬±äÐÎ½ð¸ÕÕæÕýµ®ÉúµÄÉí·Ý¾ÍÊÇÒ»ÖÖ±äÐÎÍæ¾ß£¬¶øËüÃÇÕæÕýµÄ³öÉúµØÒ²²»ÊÇÃÀ¹ú£¬¶øÊÇÈÕ±¾.ÄÜ±äÐÎµÄ»úÆ÷ÈË£¬Õâ¸ö´´ÒâÊÇÓÉÈÕ±¾Íæ¾ß¹«Ë¾TAKARAÊ×ÏÈÌá³ö²¢Ê¹ÓÃÔÚÊµ¼ÊµÄÍæ¾ßÉú²úÖÐµÄ£¬ËûÃÇÔÚ1983ÄêÍÆ³öÁËÁ½ÖÖ·Ö±ð½Ð×öDIAKRONºÍMICROMANµÄ¿É±äÐÎ»úÆ÷ÈË¡­¡­[ÏêÏ¸][Í¼Æ¬Ìá¹©£ºÈûÁªÕó
-¿ñì­ÒëÖÆ]
+¡±ÈÈ£¬ÈÃ¡°transformers¡±³ÉÎªÈ«ÊÀ½ç¼ÒÓ÷»§ÏþµÄÃû´Ê¡£È»¶ø´ó²¿·ÖÈË¶¼ÈÏÎª±äÐÎ½ð¸ÕÍæ¾ßÊÇ¶¯»­µÄÑÜÉúÎï£¬Êµ¼ÊÉÏÇ¡Ç¡Ïà·´£¬±äÐÎ½ð¸ÕÕæÕýµ®ÉúµÄÉí·Ý¾ÍÊÇÒ»ÖÖ±äÐÎÍæ¾ß£¬¶øËüÃÇÕæÕýµÄ³öÉúµØÒ²²»ÊÇÃÀ¹ú£¬¶øÊÇÈÕ±¾.ÄÜ±äÐÎµÄ»úÆ÷ÈË£¬Õâ¸ö´´ÒâÊÇÓÉÈÕ±¾Íæ¾ß¹«Ë¾TAKARAÊ×ÏÈÌá³ö²¢Ê¹ÓÃÔÚÊµ¼ÊµÄÍæ¾ßÉú²úÖÐµÄ£¬ËûÃÇÔÚ1983ÄêÍÆ³öÁËÁ½ÖÖ·Ö±ð½Ð×öDIAKRONºÍMICROMANµÄ¿É±äÐÎ»úÆ÷ÈË¡­¡­[ÏêÏ¸][Í¼Æ¬Ìá¹©£ºÈûÁªÕó ¿ñì­ÒëÖÆ]
 Èû²®Ì¹ÐÇÇò
 Ä§Á¦ÉñÇò
 »ðÖÖ
@@ -6172,8 +6145,7 @@ G2Ê±´ú
 Than
 Meet
 the
-EyesµÄÈý¼¯£¬ºóÀ´±»ºÏ³ÆÎª±äÐÎ½ð¸ÕTV°æµÄµÚÒ»²¿¡£ÔÚµÚÒ»²¿¶¯»­Àï£¬Ö÷Òª½²ÊöµÄÊÇÒÔÇæÌìÖùÎªÊ×µÄÆû³µÈË(²©ÅÉ)ºÍÒÔÍþÕðÌìÎªÊ×µÄ°ÔÌì»¢(¿ñÅÉ)Ö®¼äÔÚµØÇòÉÏ½øÐÐµÄÕ½Õù£¬ÔÚµÚÒ»²¿¶¯»­µÄÊ±ºò£¬¾çÇé²¢²»¸´ÔÓ£¬Ö»ÊÇÌáµ½ÕâÁ½Åú»úÆ÷ÈË½«Ö®¼äµÄÕ½Õù´ÓÈü²©Ì¹ÐÇÇòÒýÉêµ½ÁËµØÇòÉÏ¡­¡­[ÏêÏ¸][Í¼Æ¬Ìá¹©£ºÈûÁªÕó
-¿ñì­ÒëÖÆ]
+EyesµÄÈý¼¯£¬ºóÀ´±»ºÏ³ÆÎª±äÐÎ½ð¸ÕTV°æµÄµÚÒ»²¿¡£ÔÚµÚÒ»²¿¶¯»­Àï£¬Ö÷Òª½²ÊöµÄÊÇÒÔÇæÌìÖùÎªÊ×µÄÆû³µÈË(²©ÅÉ)ºÍÒÔÍþÕðÌìÎªÊ×µÄ°ÔÌì»¢(¿ñÅÉ)Ö®¼äÔÚµØÇòÉÏ½øÐÐµÄÕ½Õù£¬ÔÚµÚÒ»²¿¶¯»­µÄÊ±ºò£¬¾çÇé²¢²»¸´ÔÓ£¬Ö»ÊÇÌáµ½ÕâÁ½Åú»úÆ÷ÈË½«Ö®¼äµÄÕ½Õù´ÓÈü²©Ì¹ÐÇÇòÒýÉêµ½ÁËµØÇòÉÏ¡­¡­[ÏêÏ¸][Í¼Æ¬Ìá¹©£ºÈûÁªÕó ¿ñì­ÒëÖÆ]
 Æû³µÈË
 Æû³µÈËºÏÓ°
 ÇæÌìÖù
@@ -6184,10 +6156,7 @@ EyesµÄÈý¼¯£¬ºóÀ´±»ºÏ³ÆÎª±äÐÎ½ð¸ÕTV°æµÄµÚÒ»²¿¡£ÔÚµÚÒ»²¿¶¯»­Àï£¬Ö÷Òª½²ÊöµÄÊÇÒÔÇæÌì
 ºìÖ©Öë
 Éù²¨
 ±äÐÎ½ð¸Õ±àÄêÊ·£º±äÐÎ½ð¸Õ´óµçÓ°
-1986Äê£¬±äÐÎ½ð¸ÕÏµÁÐµÄ×î¸ß·å³öÏÖÁË£¬Õâ¾ÍÊÇ±»ÓþÎªÄÑÒÔ³¬Ô½µÄ¾­µäµÄ¡¶±äÐÎ½ð¸Õ´óµçÓ°¡·(Transformers
-The
-Movie)£¬Í¬Ê±Õâ²¿µçÓ°Ò²ÊÇº¢Ö®±¦¹«Ë¾×ÔÖ÷¿ª·¢µÄÐÂ²úÆ·´óÁ¿ÉÏÊÐµÄÊ±¼ä£¬Õâ²¿³¤Ô¼100·ÖÖÓµÄµçÓ°ÊÇÓÉº¢Ö®±¦¹«Ë¾ºÍMARVELÁªºÏÖÆ×÷µÄ£¬Õâ²¿µçÓ°ÔÚ±äÐÎ½ð¸ÕÀúÊ·ÉÏÖØÒªÒâÒå²»½ö½öÊÇÒòÎªËüÔÚ±äÐÎ½ð¸ÕµÄÆðÔ´ÉÏ¸ø³öÁËÒ»¸öºÏÀíµÄ½âÊÍ¡¢Ò²²»ÊÇÓÉÓÚÔÚµçÓ°ÀïÃæ³öÏÖÁËÊ·ÉÏ×î´óµÄ±äÐÎ½ð¸Õ¡ª¡ªÓîÖæ´óµÛ£»´óµçÓ°µÄ×îÖØÒªÒâÒåÊÇËüÔÚºÏÀíµÄ½âÊÍÏÂµÚÒ»´ÎÍê³ÉÁË±äÐÎ½ð¸ÕµÄ¸üÐÂ»»´ú£¬Á½ÅÉ¶¼ÓÐ´óÅú¾ÉÈËÎï°üÀ¨ÁìÐäÈËÎïÔÚµçÓ°ÖÐËÀÍö£¬Æä²ÒÁÒ³Ì¶ÈÔ¶·ÇTV°æ¶¯»­¿É±È¡£¡­¡­[ÏêÏ¸][Í¼Æ¬Ìá¹©£ºÈûÁªÕó
-¿ñì­ÒëÖÆ]
+1986Äê£¬±äÐÎ½ð¸ÕÏµÁÐµÄ×î¸ß·å³öÏÖÁË£¬Õâ¾ÍÊÇ±»ÓþÎªÄÑÒÔ³¬Ô½µÄ¾­µäµÄ¡¶±äÐÎ½ð¸Õ´óµçÓ°¡·(Transformers The Movie)£¬Í¬Ê±Õâ²¿µçÓ°Ò²ÊÇº¢Ö®±¦¹«Ë¾×ÔÖ÷¿ª·¢µÄÐÂ²úÆ·´óÁ¿ÉÏÊÐµÄÊ±¼ä£¬Õâ²¿³¤Ô¼100·ÖÖÓµÄµçÓ°ÊÇÓÉº¢Ö®±¦¹«Ë¾ºÍMARVELÁªºÏÖÆ×÷µÄ£¬Õâ²¿µçÓ°ÔÚ±äÐÎ½ð¸ÕÀúÊ·ÉÏÖØÒªÒâÒå²»½ö½öÊÇÒòÎªËüÔÚ±äÐÎ½ð¸ÕµÄÆðÔ´ÉÏ¸ø³öÁËÒ»¸öºÏÀíµÄ½âÊÍ¡¢Ò²²»ÊÇÓÉÓÚÔÚµçÓ°ÀïÃæ³öÏÖÁËÊ·ÉÏ×î´óµÄ±äÐÎ½ð¸Õ¡ª¡ªÓîÖæ´óµÛ£»´óµçÓ°µÄ×îÖØÒªÒâÒåÊÇËüÔÚºÏÀíµÄ½âÊÍÏÂµÚÒ»´ÎÍê³ÉÁË±äÐÎ½ð¸ÕµÄ¸üÐÂ»»´ú£¬Á½ÅÉ¶¼ÓÐ´óÅú¾ÉÈËÎï°üÀ¨ÁìÐäÈËÎïÔÚµçÓ°ÖÐËÀÍö£¬Æä²ÒÁÒ³Ì¶ÈÔ¶·ÇTV°æ¶¯»­¿É±È¡£¡­¡­[ÏêÏ¸][Í¼Æ¬Ìá¹©£ºÈûÁªÕó ¿ñì­ÒëÖÆ]
 Áìµ¼Ä£¿é
 ÓîÖæ´óµÛ
 ÈÈÆÆ
@@ -6198,8 +6167,7 @@ Movie)£¬Í¬Ê±Õâ²¿µçÓ°Ò²ÊÇº¢Ö®±¦¹«Ë¾×ÔÖ÷¿ª·¢µÄÐÂ²úÆ·´óÁ¿ÉÏÊÐµÄÊ±¼ä£¬Õâ²¿³¤Ô¼100·ÖÖ
 À¬»øÐÇ
 Óª¾È³µ
 ±äÐÎ½ð¸Õ±àÄêÊ·£º¡¶2010¡·ºÍ¡¶ÐÂÉú¡·
-½ôËæ¡¶´óµçÓ°¡·Ö®ºó£¬º¢Ö®±¦³ÃÈÈ´òÌú£¬ÍÆ³öÁËµÚÈý¼¾¶¯»­£¬±³¾°ÊÇ·¢ÉúÔÚ´óµçÓ°ÎåÄêºóÒ²¾ÍÊÇ2010Äê£¬Òò´ËµÚÈý¼¾µÄÈÕ°æ±»³ÆÎª¡¶±äÐÎ½ð¸Õ2010¡·£¬×÷ÎªÒ»¸ö¶ÀÁ¢µÄÏµÁÐ£¬µÚÈý¼¾ÔÚÖÆ×÷ÉÏÊÇ·Ç³£³ÉÊìµÄ£¬¾çÇéÒ²ÓëµçÓ°°æ½ôÃÜÏÎ½Ó£¬Ò»¿ªÊ¼¾ÍÊÇÓÐ¹Ø´óµçÓ°ÖÐ³ö³¡µÄÐ°¶ñÁìÖ÷ÎåÃæ¹ÖµÄ¹ÊÊÂ£¬¶øÇÒÒòÎª´óµçÓ°¼«´óµÄÍØÕ¹ÁË±äÐÎ½ð¸ÕµÄÊÀ½ç·¶Î§£¬¾çÇéÒ²¾Í±äµÃ¸üÎª¸´ÔÓ£¬ÈËÎïÒ²¸üÎª·±¶à¡£ÔÚÈËÎïÐÔ¸ñµÄ¿Ì»­ÉÏÒ²±£³ÖÁËÓÅÁ¼µÄË®Æ½£¬¶ÔÆû³µÈËµÄµÚ¶þ´úÁìÐä²¹ÌìÊ¿µÄÐÎÏó¿Ì»­ÓÈÎª·áÂú£º×÷ÎªÁÙÎ£ÊÜÃüµÄÁìÐä£¬²¹ÌìÊ¿Ê¼ÖÕ¶Ô×Ô¼ºµÄÐÅÐÄ²»×ã£¬ËäÈ»ËûÒ²ÆÄ¸»ÁìÐäÆøÖÊ£¬µ«Ã÷ÏÔÈ±·¦Ç°ÈÎÇæÌìÖùµÄÄÇÖÖÓ¢ÐÛÆÇÁ¦¡­¡­[ÏêÏ¸][Í¼Æ¬Ìá¹©£ºÈûÁªÕó
-¿ñì­ÒëÖÆ]
+½ôËæ¡¶´óµçÓ°¡·Ö®ºó£¬º¢Ö®±¦³ÃÈÈ´òÌú£¬ÍÆ³öÁËµÚÈý¼¾¶¯»­£¬±³¾°ÊÇ·¢ÉúÔÚ´óµçÓ°ÎåÄêºóÒ²¾ÍÊÇ2010Äê£¬Òò´ËµÚÈý¼¾µÄÈÕ°æ±»³ÆÎª¡¶±äÐÎ½ð¸Õ2010¡·£¬×÷ÎªÒ»¸ö¶ÀÁ¢µÄÏµÁÐ£¬µÚÈý¼¾ÔÚÖÆ×÷ÉÏÊÇ·Ç³£³ÉÊìµÄ£¬¾çÇéÒ²ÓëµçÓ°°æ½ôÃÜÏÎ½Ó£¬Ò»¿ªÊ¼¾ÍÊÇÓÐ¹Ø´óµçÓ°ÖÐ³ö³¡µÄÐ°¶ñÁìÖ÷ÎåÃæ¹ÖµÄ¹ÊÊÂ£¬¶øÇÒÒòÎª´óµçÓ°¼«´óµÄÍØÕ¹ÁË±äÐÎ½ð¸ÕµÄÊÀ½ç·¶Î§£¬¾çÇéÒ²¾Í±äµÃ¸üÎª¸´ÔÓ£¬ÈËÎïÒ²¸üÎª·±¶à¡£ÔÚÈËÎïÐÔ¸ñµÄ¿Ì»­ÉÏÒ²±£³ÖÁËÓÅÁ¼µÄË®Æ½£¬¶ÔÆû³µÈËµÄµÚ¶þ´úÁìÐä²¹ÌìÊ¿µÄÐÎÏó¿Ì»­ÓÈÎª·áÂú£º×÷ÎªÁÙÎ£ÊÜÃüµÄÁìÐä£¬²¹ÌìÊ¿Ê¼ÖÕ¶Ô×Ô¼ºµÄÐÅÐÄ²»×ã£¬ËäÈ»ËûÒ²ÆÄ¸»ÁìÐäÆøÖÊ£¬µ«Ã÷ÏÔÈ±·¦Ç°ÈÎÇæÌìÖùµÄÄÇÖÖÓ¢ÐÛÆÇÁ¦¡­¡­[ÏêÏ¸][Í¼Æ¬Ìá¹©£ºÈûÁªÕó ¿ñì­ÒëÖÆ]
 ¸ÖËø
 °¢¶ûÎ÷
 ÁùÃæÊÞ
@@ -6211,8 +6179,7 @@ Movie)£¬Í¬Ê±Õâ²¿µçÓ°Ò²ÊÇº¢Ö®±¦¹«Ë¾×ÔÖ÷¿ª·¢µÄÐÂ²úÆ·´óÁ¿ÉÏÊÐµÄÊ±¼ä£¬Õâ²¿³¤Ô¼100·ÖÖ
 Ìú¼×Áú
 ±äÐÎ½ð¸Õ±àÄêÊ·£ºGeneration
 OneµÄ½áÊø
-1987Äê£¬±äÐÎ½ð¸ÕµÄ·¢Ô´µØTAKARA¹«Ë¾´Óº¢Ö®±¦ÄÇÀïÂòµ½ÁË¶¯»­°æµÄÖÆ×÷È¨£¬ÔÙ´ÎºÍ¶«Ó³¹«Ë¾ºÏ×÷£¬¿ªÊ¼ÎªÐÂ°æÍæ¾ßÖÆ×÷ÏµÁÐ¶¯»­£¬ÓÉÓÚÈÕ±¾Í¬Ê±ÔÚÏúÊÛÃÀ°æºÍÈÕ°æµÄÍæ¾ß£¬ËùÒÔÐÂ°æ¶¯»­µÄµÇ³¡ÈËÎï¾Í±È½ÏÎå»¨°ËÃÅ£¬Ê×ÏÈÍÆ³öµÄ¾ÍÊÇ¡¶Í·ÁìÕ½Ê¿¡·ÏµÁÐ£¬¹ÊÊÂÀ´Ô´ÊÇËµÄÜ¹»±ä³É»úÆ÷ÈËÍ·²¿µÄ»úÆ÷ÈËÂíË¹ËþÈË£¬Ò²¾ÍÊÇÍ·ÁìÕ½Ê¿£¬À´µ½ÁËÈü²©Â¡ÐÇÇò£¬·Ö×÷Á½ÅÉ¼ÓÈëÁËÆû³µÈËºÍ°ÔÌì»¢Ë«·½£¬ºóÀ´ÎªÁËÈÃÍ·ÁìÕ½Ê¿È¡µÃÖ÷µ¼µØÎ»£¬Á½ÅÉµÄÔ­À´ÁìÐä¶¼ÔÚ±à¾çµÄÊÚÒâÏÂ±»ÆÈÈÃÎ»£ºÇæÌìÖùÔÙÒ»´ÎÕ½ËÀ£¬²¹ÌìÊ¿½«Áìµ¼È¨ÈÃ¸øÁËÍ·ÁìÕ½Ê¿¾ÞÎÞ°Ô¸£ÌØ£¬´øÁì±­×ÓµÈÈËÈ¥ÂþÓÎÓîÖæÁË£¬¾ªÆÆÌìÔò±»·âÔÚÄÏ¼«±ù´¨ÖÐ¡­¡­[ÏêÏ¸][Í¼Æ¬Ìá¹©£ºÈûÁªÕó
-¿ñì­ÒëÖÆ]
+1987Äê£¬±äÐÎ½ð¸ÕµÄ·¢Ô´µØTAKARA¹«Ë¾´Óº¢Ö®±¦ÄÇÀïÂòµ½ÁË¶¯»­°æµÄÖÆ×÷È¨£¬ÔÙ´ÎºÍ¶«Ó³¹«Ë¾ºÏ×÷£¬¿ªÊ¼ÎªÐÂ°æÍæ¾ßÖÆ×÷ÏµÁÐ¶¯»­£¬ÓÉÓÚÈÕ±¾Í¬Ê±ÔÚÏúÊÛÃÀ°æºÍÈÕ°æµÄÍæ¾ß£¬ËùÒÔÐÂ°æ¶¯»­µÄµÇ³¡ÈËÎï¾Í±È½ÏÎå»¨°ËÃÅ£¬Ê×ÏÈÍÆ³öµÄ¾ÍÊÇ¡¶Í·ÁìÕ½Ê¿¡·ÏµÁÐ£¬¹ÊÊÂÀ´Ô´ÊÇËµÄÜ¹»±ä³É»úÆ÷ÈËÍ·²¿µÄ»úÆ÷ÈËÂíË¹ËþÈË£¬Ò²¾ÍÊÇÍ·ÁìÕ½Ê¿£¬À´µ½ÁËÈü²©Â¡ÐÇÇò£¬·Ö×÷Á½ÅÉ¼ÓÈëÁËÆû³µÈËºÍ°ÔÌì»¢Ë«·½£¬ºóÀ´ÎªÁËÈÃÍ·ÁìÕ½Ê¿È¡µÃÖ÷µ¼µØÎ»£¬Á½ÅÉµÄÔ­À´ÁìÐä¶¼ÔÚ±à¾çµÄÊÚÒâÏÂ±»ÆÈÈÃÎ»£ºÇæÌìÖùÔÙÒ»´ÎÕ½ËÀ£¬²¹ÌìÊ¿½«Áìµ¼È¨ÈÃ¸øÁËÍ·ÁìÕ½Ê¿¾ÞÎÞ°Ô¸£ÌØ£¬´øÁì±­×ÓµÈÈËÈ¥ÂþÓÎÓîÖæÁË£¬¾ªÆÆÌìÔò±»·âÔÚÄÏ¼«±ù´¨ÖÐ¡­¡­[ÏêÏ¸][Í¼Æ¬Ìá¹©£ºÈûÁªÕó ¿ñì­ÒëÖÆ]
 ÐÇÔÆÐÇ
 Í·ÁìÕ½Ê¿
 ¾ÞÎÞ°Ô¸£ÌØ
@@ -6224,8 +6191,7 @@ OneµÄ½áÊø
 ÄÜÁ¿»ùÎäÆ÷
 ±äÐÎ½ð¸Õ±àÄêÊ·£ºGeneration
 Two
-1993Äê£¬³Á¼ÅÁËÁ½ÄêµÄº¢Ö®±¦ÓÖ´òÆðÁË±äÐÎ½ð¸ÕµÄÖ÷Òâ£¬ÆäÔ­ÒòÔòÊÇËûÃÇµÄÁíÒ»¿îÖ÷´ò¶¯»­¡¶G.I.JOE¡·(¼´ÌØÖÖ²¿¶Ó£¬¹úÄÚÔø¾­Òý½ø¹ý)ÎÞ·¨Óëµ±Ê±ÈÈ²¥µÄ¡¶Ï£Âü¡·ºÍ¡¶Ï£Èð¡·(ÕâÁ½¸ö¾Í²»ÓÃ½âÊÍÁË°É)Ïà¿¹ºâ£¬ÓÚÊÇÈÃÇæÌìÖùºÍÍþÕðÌìÔÙ´ÎÉÏÕó£¬½«Õâ´Î±äÐÎ½ð¸ÕÖØ³ö½­ºþÃüÃûÎªG2£¬ÓÚÊÇÓÐÁËÖ®Ç°µÄG1µÄ³Æºô£¬µ«Êµ¼ÊÉÏ£¬G2³ýÁË·¢ÐÐÁËÒ»Ð©ÐÂ°æÍæ¾ßÍâ£¬²¢Ã»ÓÐÊ²Ã´´ó¶¯×÷£¬¸ü¶àµÄÊÇÍæ¾ß·½ÃæµÄ¿ª·¢£¬Îª»úÆ÷ÈËÅä±¸¸ü¶à¿É¶¯ÎäÆ÷ºÍÉù¹âÐ§¹û£¬Í¬Ê±Å·ÖÞÒ²ÔÚÍÆ³ö±äÐÎ½ð¸ÕµÄÐÂ°æ£¬²»¹ý×ßµÄÊÇ²»Í¬µÄÂ·×Ó¡£ÈÕ±¾·½Ãæ¾ÍÊÇÖ±½Ó°ÑÃÀ°æ°á¹ýÀ´ÓÃÁË¡£¶¯»­·½Ãæ£¬º¢Ö®±¦Íµ¹¤¼õÁÏµÄÓÃ3DÐ§¹ûÖÆ×÷ÁËÐÂµÄÆ¬Í·ºÍ¹ý³¤¶¯»­Ð§¹û¡­¡­[ÏêÏ¸][Í¼Æ¬Ìá¹©£ºÈûÁªÕó
-¿ñì­ÒëÖÆ]
+1993Äê£¬³Á¼ÅÁËÁ½ÄêµÄº¢Ö®±¦ÓÖ´òÆðÁË±äÐÎ½ð¸ÕµÄÖ÷Òâ£¬ÆäÔ­ÒòÔòÊÇËûÃÇµÄÁíÒ»¿îÖ÷´ò¶¯»­¡¶G.I.JOE¡·(¼´ÌØÖÖ²¿¶Ó£¬¹úÄÚÔø¾­Òý½ø¹ý)ÎÞ·¨Óëµ±Ê±ÈÈ²¥µÄ¡¶Ï£Âü¡·ºÍ¡¶Ï£Èð¡·(ÕâÁ½¸ö¾Í²»ÓÃ½âÊÍÁË°É)Ïà¿¹ºâ£¬ÓÚÊÇÈÃÇæÌìÖùºÍÍþÕðÌìÔÙ´ÎÉÏÕó£¬½«Õâ´Î±äÐÎ½ð¸ÕÖØ³ö½­ºþÃüÃûÎªG2£¬ÓÚÊÇÓÐÁËÖ®Ç°µÄG1µÄ³Æºô£¬µ«Êµ¼ÊÉÏ£¬G2³ýÁË·¢ÐÐÁËÒ»Ð©ÐÂ°æÍæ¾ßÍâ£¬²¢Ã»ÓÐÊ²Ã´´ó¶¯×÷£¬¸ü¶àµÄÊÇÍæ¾ß·½ÃæµÄ¿ª·¢£¬Îª»úÆ÷ÈËÅä±¸¸ü¶à¿É¶¯ÎäÆ÷ºÍÉù¹âÐ§¹û£¬Í¬Ê±Å·ÖÞÒ²ÔÚÍÆ³ö±äÐÎ½ð¸ÕµÄÐÂ°æ£¬²»¹ý×ßµÄÊÇ²»Í¬µÄÂ·×Ó¡£ÈÕ±¾·½Ãæ¾ÍÊÇÖ±½Ó°ÑÃÀ°æ°á¹ýÀ´ÓÃÁË¡£¶¯»­·½Ãæ£¬º¢Ö®±¦Íµ¹¤¼õÁÏµÄÓÃ3DÐ§¹ûÖÆ×÷ÁËÐÂµÄÆ¬Í·ºÍ¹ý³¤¶¯»­Ð§¹û¡­¡­[ÏêÏ¸][Í¼Æ¬Ìá¹©£ºÈûÁªÕó ¿ñì­ÒëÖÆ]
 îÑÊ¦¸µ
 ±­×Ó
 Ç§½ï¶¥
@@ -6236,10 +6202,8 @@ Two
 »ìÌì±ª
 ÎÁÒß
 ±äÐÎ½ð¸Õ±àÄêÊ·£º´Ó1996µ½2007
-1996Äê£¬º¢Ö®±¦³öÆ·ÁË¡¶³¬ÄÜÓÂÊ¿¡·(Beast
-Wars)ÏµÁÐ£¬¸ÃÏµÁÐÊÇÈ«3D¶¯»­ÖÆ×÷£¬ÀïÃæµÄ±äÐÎ½ð¸Õ¶¼ÊÇÒ°ÊÞºÍ»úÆ÷ÈËÐÎÌ¬£¬ËäÈ»·ç¸ñ¿´ÉÏÈ¥ÓëÀÏ°æµÄ±äÐÎ½ð¸Õ´óÏà¾¶Í¥£¬µ«ÊÇÊµ¼ÊÉÏÁ½ÕßµÄ¾çÇéÉè¶¨ÓÐ×ÅºÜÉîµÄÔ¨Ô´£¬¿ÉÒÔËµ£¬Ïà±ÈÈÕ°æµÄÒ»ÏµÁÐ¶¯»­×÷Æ·À´Ëµ£¬¡¶³¬ÄÜÓÂÊ¿¡·ÏµÁÐ²ÅÊÇ¸üÕý×ÚµÄ±äÐÎ½ð¸ÕµÄÐø¼¯¡£¡¶³¬ÄÜÓÂÊ¿¡·¹²·ÖÈý²¿£¬Ôø¾­ÔÚ¹úÄÚÒý½ø£¬Òý·¢ÁË¶Ô±äÐÎ½ð¸ÕµÄÒ»¹É»Ø¹éÈÈ³±¡£
-1998Äê£¬ÈÕ±¾ÔÚ¡¶³¬ÄÜÓÂÊ¿¡·Ö®ºó£¬ÎªÆäÖÆ×÷ÁËÐø¼¯¡¶³¬ÄÜÓÂÊ¿2¡·(Ð¡ÈÕ±¾µÄÕÕÆ°»­ºùÂ«µÄÄÜÁ¦ÊµÔÚÈÃÈËÅå·þ)£¬´ÓÈËÎïÉè¶¨ÉÏÀàËÆÓÚÃÀ°æ£¬µ«ºÍÇ°×÷²¢ÎÞÌ«´ó¹ØÁª¡­¡­[ÏêÏ¸][Í¼Æ¬Ìá¹©£ºÈûÁªÕó
-¿ñì­ÒëÖÆ]
+1996Äê£¬º¢Ö®±¦³öÆ·ÁË¡¶³¬ÄÜÓÂÊ¿¡·(Beast Wars)ÏµÁÐ£¬¸ÃÏµÁÐÊÇÈ«3D¶¯»­ÖÆ×÷£¬ÀïÃæµÄ±äÐÎ½ð¸Õ¶¼ÊÇÒ°ÊÞºÍ»úÆ÷ÈËÐÎÌ¬£¬ËäÈ»·ç¸ñ¿´ÉÏÈ¥ÓëÀÏ°æµÄ±äÐÎ½ð¸Õ´óÏà¾¶Í¥£¬µ«ÊÇÊµ¼ÊÉÏÁ½ÕßµÄ¾çÇéÉè¶¨ÓÐ×ÅºÜÉîµÄÔ¨Ô´£¬¿ÉÒÔËµ£¬Ïà±ÈÈÕ°æµÄÒ»ÏµÁÐ¶¯»­×÷Æ·À´Ëµ£¬¡¶³¬ÄÜÓÂÊ¿¡·ÏµÁÐ²ÅÊÇ¸üÕý×ÚµÄ±äÐÎ½ð¸ÕµÄÐø¼¯¡£¡¶³¬ÄÜÓÂÊ¿¡·¹²·ÖÈý²¿£¬Ôø¾­ÔÚ¹úÄÚÒý½ø£¬Òý·¢ÁË¶Ô±äÐÎ½ð¸ÕµÄÒ»¹É»Ø¹éÈÈ³±¡£
+1998Äê£¬ÈÕ±¾ÔÚ¡¶³¬ÄÜÓÂÊ¿¡·Ö®ºó£¬ÎªÆäÖÆ×÷ÁËÐø¼¯¡¶³¬ÄÜÓÂÊ¿2¡·(Ð¡ÈÕ±¾µÄÕÕÆ°»­ºùÂ«µÄÄÜÁ¦ÊµÔÚÈÃÈËÅå·þ)£¬´ÓÈËÎïÉè¶¨ÉÏÀàËÆÓÚÃÀ°æ£¬µ«ºÍÇ°×÷²¢ÎÞÌ«´ó¹ØÁª¡­¡­[ÏêÏ¸][Í¼Æ¬Ìá¹©£ºÈûÁªÕó ¿ñì­ÒëÖÆ]
 °ÔÍõÁú
 ÃÍÊÞÏÀ
 À×öªÕ½¶Ó
@@ -8924,8 +8888,7 @@ Artist£ºJakobAlbum£ºCale£ºdrewLable£ºMidiumRealeased£º2003Í¨ÍùJakobµÄÂ·ÉÏµ½´¦ÊÇ¼
 ¡°ÈôÒª½«ÕâÒôÀÖÅäÉÏ×Ö¾ä/ÃèÊöÄãµÄíú/¹ØÓÚÄãµÄÑÛ¶úÍ··¢/ÄÜÓÃÐ©Ê²Ã´×ÖÓëÊ²Ã´´Ê/ÃèÊöÄãÔÚÃÎÖÐÄÇÃÀÑÞ¡±£¬ÕâÊÇMyLittleAirportÔÚ¡¶Íõ·Æ£¬¹ØÓÚÄãµÄÃ¼¡·Ò»ÇúÖÐ¡­¡­
 [ÏêÏ¸]
 ¡¤Ð¡ÐÜÎ¬Ë¹ÌØÇóÑ§¼Ç(07ÈÕ10:57)
-KanyeWestµÄ×îÐÂ×¨¼­¡¶Graduation¡·ÊÇËûÇóÑ§ÏµÁÐµÄÖÕ½áÆª£¬Ö®Ç°µÄê¡Ñ§Æª¡¶CollegeDropout¡·¼°×¢²áÆª¡¶Lateregistration¡­¡­
-[ÏêÏ¸]
+KanyeWestµÄ×îÐÂ×¨¼­¡¶Graduation¡·ÊÇËûÇóÑ§ÏµÁÐµÄÖÕ½áÆª£¬Ö®Ç°µÄê¡Ñ§Æª¡¶CollegeDropout¡·¼°×¢²áÆª¡¶Lateregistration¡­¡­ [ÏêÏ¸]
 ¡¤Ä³Ìì£¬ÄãÒâÊ¶µ½Çå³¿¡­¡­(28ÈÕ12:48)
 ÔÚË¯ÑÛÐÊâìµÄÔç³¿£¬ÎÒÃÇÐèÒªÒ»Ð©ÉùÒôÀ´ÇýÉ¢Æ£±¹µÄî§Ë¯³æ¡£ÔÚÕâÐ©ÉùÒôÀï£¬ÈËÃÇ¿ÉÒÔã«ÒâµØ·ÅÂýÃ¦ÂµµÄ½Å²½£¬Ò²ÄÜÇáËÉµØ¹æ»®Ò»ÕûÌìµÄ¼Æ»®¡£¶øÕâÐ©ÉùÒô£¬²¢²»ÊôÓÚ¼¤ÁÒ¿ñÔêµÄ¸èÇú¡­¡­
 [ÏêÏ¸]
@@ -9080,8 +9043,7 @@ Artist£ºJakobAlbum£ºCale£ºdrewLable£ºMidiumRealeased£º2003Í¨ÍùJakobµÄÂ·ÉÏµ½´¦ÊÇ¼
 ¡°ÈôÒª½«ÕâÒôÀÖÅäÉÏ×Ö¾ä/ÃèÊöÄãµÄíú/¹ØÓÚÄãµÄÑÛ¶úÍ··¢/ÄÜÓÃÐ©Ê²Ã´×ÖÓëÊ²Ã´´Ê/ÃèÊöÄãÔÚÃÎÖÐÄÇÃÀÑÞ¡±£¬ÕâÊÇMyLittleAirportÔÚ¡¶Íõ·Æ£¬¹ØÓÚÄãµÄÃ¼¡·Ò»ÇúÖÐ¡­¡­
 [ÏêÏ¸]
 ¡¤Ð¡ÐÜÎ¬Ë¹ÌØÇóÑ§¼Ç(07ÈÕ10:57)
-KanyeWestµÄ×îÐÂ×¨¼­¡¶Graduation¡·ÊÇËûÇóÑ§ÏµÁÐµÄÖÕ½áÆª£¬Ö®Ç°µÄê¡Ñ§Æª¡¶CollegeDropout¡·¼°×¢²áÆª¡¶Lateregistration¡­¡­
-[ÏêÏ¸]
+KanyeWestµÄ×îÐÂ×¨¼­¡¶Graduation¡·ÊÇËûÇóÑ§ÏµÁÐµÄÖÕ½áÆª£¬Ö®Ç°µÄê¡Ñ§Æª¡¶CollegeDropout¡·¼°×¢²áÆª¡¶Lateregistration¡­¡­ [ÏêÏ¸]
 ¡¤Ä³Ìì£¬ÄãÒâÊ¶µ½Çå³¿¡­¡­(28ÈÕ12:48)
 ÔÚË¯ÑÛÐÊâìµÄÔç³¿£¬ÎÒÃÇÐèÒªÒ»Ð©ÉùÒôÀ´ÇýÉ¢Æ£±¹µÄî§Ë¯³æ¡£ÔÚÕâÐ©ÉùÒôÀï£¬ÈËÃÇ¿ÉÒÔã«ÒâµØ·ÅÂýÃ¦ÂµµÄ½Å²½£¬Ò²ÄÜÇáËÉµØ¹æ»®Ò»ÕûÌìµÄ¼Æ»®¡£¶øÕâÐ©ÉùÒô£¬²¢²»ÊôÓÚ¼¤ÁÒ¿ñÔêµÄ¸èÇú¡­¡­
 [ÏêÏ¸]
@@ -9523,8 +9485,7 @@ Reserved
 ÏíÄê66Ëê
 ²¡Òò£º
 [ÓÒ·ÎÐ¡Ï¸°û·Î°©×ªÒÆ][Ò»ÄêÀ´Ò»Ö±×¡Ôº]
-[ÎÄÐËÓîÑÌñ«Ææ´ó1ÈÕ3°ü
-³éÑÌÊÇµÃ²¡×ï¿ý»öÊ×]
+[ÎÄÐËÓîÑÌñ«Ææ´ó1ÈÕ3°ü ³éÑÌÊÇµÃ²¡×ï¿ý»öÊ×]
 [ÎÄÐËÓîÃÖÁôÖ®¼Ê»¹¿íÎ¿¼ÒÈË][ÀÏ°éÇéÐ÷ÎÈ¶¨]
 ºóÊÂ£º
 [ÖÎÉ¥Î¯Ô±»á³ÉÁ¢][×·µ¿»á¿ÉÄÜÔÚ°Ë±¦É½¾ÙÐÐ]
@@ -9664,8 +9625,7 @@ Reserved
 ÀÖ¹ÛµÄÒ»¸öÀÏÍ·°¡.ÎÒÊÇÄÇÃ´µÄÏ²»¶Äú,¿´ÄúµÄ±íÑÝÄÜÈÃÈËÔÚÑ¹Á¦Ö®¼ÊµÃµ½×îºÃµÄ·ÅËÉ.ÓÐÄúµÄ±íÑÝ,ÉùÒô,ÐÄÇéÊÇÄÇÃ´µÄÓä¿ì
 ÇáËÉ.Äú×ßµÃÌ«ÔçÁË,Ìýµ½Äú¹ýÊÀµÄÏûÏ¢ÊµÔÚÈÃÈËÌ«ÄÑ½ÓÊÜ,Ì«ÈÃÈËÉËÐÄÁË,ÖÔÐÄ×£Ô¸ÄúÀÏÈË¼ÒÔÚÌìÌÃÄÜ¹ýµÃ¿ª¿ªÐÄÐÄ,Æ½Æ½°²°²µÄ,ÓÀÔ¶»³ÄîÄú!
 ¤ÙÄãµÄŒšØ¤Ù
-(49087416
-)
+(49087416 )
 ·¢±íÆÀÂÛ£º´ó¼Ò--ÎÒÈÏÊ¶µÄ²»ÈÏÊ¶£ºÄãÃÇºÃ`Ð»Ð»ÄãÃÇ²»ÒªÔÚÕâÀïËµÕâÐ©²»ºÃÌýµÄ»°
 Ð»Ð»£¡ÎÄÒ¯Ò¯
 ×îÄÑÍüµÄ¾ÍÊÇÄãÄÇË¬ÀÊµÄÐ¦Éù
@@ -10329,11 +10289,7 @@ CBSµçÊÓÌ¨Ñ©ÉÏ¼ÓËª
 ÃÀ¹ú±à¾çÐ­»á¼ò½é
 Î÷²¿Ð­»á»á±ê
 ¶«²¿Ð­»á»á±ê
-ÃÀ¹ú±à¾çÐ­»á(The
-Writers
-Guild
-of
-America)ÊÇÓ°ÊÓÈ¦ÄÚµÄÒ»¸öÊ®·ÖÖØÒªµÄ×éÖ¯£¬ÓÉÒ»Èº¸»ÓÐÌì·ÖµÄ±à¾ç×é³É£¬ÆäÀúÊ·×îÔçÄÜ×·ËÝµ½1912Äê¡£Ò²ÐíÄã¾õµÃ±à¾çµÄÉú»î¿ÝÔïÎÞÎ¶Ñ­¹æµ¸¾Ø£¬ÆäÊµ²¢·ÇÈç´Ë£¬ËûÃÇµÄ¹¤×÷·Ç³£ÓÐÈ¤£¬ÉõÖÁ±¾Éí¾Í×ãÒÔÐ´³ÉÒ»²¿Ó°ÊÓ×÷Æ·¡£
+ÃÀ¹ú±à¾çÐ­»á(The Writers Guild of America)ÊÇÓ°ÊÓÈ¦ÄÚµÄÒ»¸öÊ®·ÖÖØÒªµÄ×éÖ¯£¬ÓÉÒ»Èº¸»ÓÐÌì·ÖµÄ±à¾ç×é³É£¬ÆäÀúÊ·×îÔçÄÜ×·ËÝµ½1912Äê¡£Ò²ÐíÄã¾õµÃ±à¾çµÄÉú»î¿ÝÔïÎÞÎ¶Ñ­¹æµ¸¾Ø£¬ÆäÊµ²¢·ÇÈç´Ë£¬ËûÃÇµÄ¹¤×÷·Ç³£ÓÐÈ¤£¬ÉõÖÁ±¾Éí¾Í×ãÒÔÐ´³ÉÒ»²¿Ó°ÊÓ×÷Æ·¡£
 ÔðÈÎ±à¼­£ºÆíÇçÍÞÍÞ
 ¹ØÓÚÌÚÑ¶
 |
@@ -10442,8 +10398,7 @@ Reserved
 Óë´ºÍí±È¸ß
 ¾«²Ê´óÆ¬µ±¡°ÄêÒ¹·¹¡±
 Íû¾©ÐÇÃÀ¹ú¼ÊÓ°³ÇÓÚ´óÄê29¡¢³õÒ»ÖÁ³õÎåÎªÄú×¼±¸ÁË·áÊ¢µÄÐÂÄê´ó²Í£¬¸Ï½ô´øÉÏÄãµÄ¼ÒÈË¡­¡­[ÏêÏ¸]
-[Íû¾©ÐÇÃÀÇéÈË½Ú¡°Å¨ÇéÌ×²Í¡±
-2ÔÂ13.14.15ÈÕÅ®Ê¿°ë¼Û]
+[Íû¾©ÐÇÃÀÇéÈË½Ú¡°Å¨ÇéÌ×²Í¡± 2ÔÂ13.14.15ÈÕÅ®Ê¿°ë¼Û]
 [Ó°ÔºÁªÃËÍû¾©ÐÇÃÀ·ÖÇø][Á¢¼´ÔÚÍøÉÏ¹ºÂòÍû¾©ÐÇÃÀÓ°Æ±]
 Íû¾©ÐÇÃÀÓ°Ñ¶
 ¡¤±±¾©Íû¾©ÐÇÃÀ¹ú¼ÊÓ°³ÇÓ°Ñ¶(2ÔÂ12ÈÕ)
@@ -10657,8 +10612,7 @@ Reserved
 Óë´ºÍí±È¸ß
 ¾«²Ê´óÆ¬µ±¡°ÄêÒ¹·¹¡±
 Íû¾©ÐÇÃÀ¹ú¼ÊÓ°³ÇÓÚ´óÄê29¡¢³õÒ»ÖÁ³õÎåÎªÄú×¼±¸ÁË·áÊ¢µÄÐÂÄê´ó²Í£¬¸Ï½ô´øÉÏÄãµÄ¼ÒÈË¡­¡­[ÏêÏ¸]
-[Íû¾©ÐÇÃÀÇéÈË½Ú¡°Å¨ÇéÌ×²Í¡±
-2ÔÂ13.14.15ÈÕÅ®Ê¿°ë¼Û]
+[Íû¾©ÐÇÃÀÇéÈË½Ú¡°Å¨ÇéÌ×²Í¡± 2ÔÂ13.14.15ÈÕÅ®Ê¿°ë¼Û]
 [Ó°ÔºÁªÃËÍû¾©ÐÇÃÀ·ÖÇø][Á¢¼´ÔÚÍøÉÏ¹ºÂòÍû¾©ÐÇÃÀÓ°Æ±]
 Íû¾©ÐÇÃÀÓ°Ñ¶
 ¡¤±±¾©Íû¾©ÐÇÃÀ¹ú¼ÊÓ°³ÇÓ°Ñ¶(2ÔÂ12ÈÕ)
@@ -11074,8 +11028,7 @@ Reserved
 ÍøÓÑÆÀÂÛ>>
 ¶À¼Ò£ºÀî°²Êé»ªÀöÆªÕÂ
 »ªÓïÆ¬ÈÔÐëÅ¬Á¦
-[ÊÓÆµ£º½ªÎÄ¡¶Ì«Ñô¡·ÁÁÏàÍþÄáË¹µçÓ°½Ú
-Íâ½ç°ý±á²»Ò»
+[ÊÓÆµ£º½ªÎÄ¡¶Ì«Ñô¡·ÁÁÏàÍþÄáË¹µçÓ°½Ú Íâ½ç°ý±á²»Ò»
 ]
 [ÌÚÑ¶¿íÆµÌØ±ð²ß»®£ºÏÀ¿ÍÐÐ¡ª¡ª¼ÇÂ¼Àî°²µÄµçÓ°Ö®Â·]
 [ÊÓÆµ£ºÀî°²Ì¸¡¶É«£¬½ä¡·¼¤ÇéÏ·£ºÃ¿Ò»³öÏ·¶¼ºÜÅ¤Çú
@@ -11115,8 +11068,7 @@ Herzi
 ¡¶ÎÞÓÃ¡·
 (ÖÐ¹ú)
 ×î¼Ñ¶ÌÆ¬½ðÊ¨½±
-¡¶Dog
-altogether¡·(Ó¢¹ú)
+¡¶Dog altogether¡·(Ó¢¹ú)
 Å·ÖÝ×î¼Ñ¶ÌÆ¬
 ¡¶Alumbramiento¡·(Î÷°àÑÀ)
 ÖÕÉí³É¾Í½±
@@ -11749,7 +11701,7 @@ www.piaowutong.com
 (09ÔÂ11ÈÕ)
 Àµµ¼¼ò½é
 ¡ÑÀµÉù´¨£¨µ¼ÑÝ/±à¾ç£©
-±»¡¶ÑÇÖÞÖÜ¿¯¡·ÓþÎª¡¸ÑÇÖÞ¾ç³¡µ¼ÑÝÖ®ÇÌ³þ¡¹£¬ÀµÉù´¨ÊÇ»ªÎÄÊÀ½ç×îÖøÃûµÄ¾ç³¡¹¤×÷ÕßÖ®Ò»£¬´Ó1984ÒÔÀ´£¬ÒÔÇ¿ÁÒµÄ´´ÒâÎüÒý¹ÛÖÚÓ¿Èë¾ç³¡¡­ÏêÏ¸</
+±»¡¶ÑÇÖÞÖÜ¿¯¡·ÓþÎª¡¸ÑÇÖÞ¾ç³¡µ¼ÑÝÖ®ÇÌ³þ¡¹£¬ÀµÉù´¨ÊÇ»ªÎÄÊÀ½ç×îÖøÃûµÄ¾ç³¡¹¤×÷ÕßÖ®Ò»£¬´Ó1984ÒÔÀ´£¬ÒÔÇ¿ÁÒµÄ´´ÒâÎüÒý¹ÛÖÚÓ¿Èë¾ç³¡¡­ÏêÏ¸</  
 ÔðÈÎ±à¼­£ºÀ¶À¶
 ¹ØÓÚÌÚÑ¶
 |
@@ -11959,7 +11911,7 @@ www.piaowutong.com
 (09ÔÂ11ÈÕ)
 Àµµ¼¼ò½é
 ¡ÑÀµÉù´¨£¨µ¼ÑÝ/±à¾ç£©
-±»¡¶ÑÇÖÞÖÜ¿¯¡·ÓþÎª¡¸ÑÇÖÞ¾ç³¡µ¼ÑÝÖ®ÇÌ³þ¡¹£¬ÀµÉù´¨ÊÇ»ªÎÄÊÀ½ç×îÖøÃûµÄ¾ç³¡¹¤×÷ÕßÖ®Ò»£¬´Ó1984ÒÔÀ´£¬ÒÔÇ¿ÁÒµÄ´´ÒâÎüÒý¹ÛÖÚÓ¿Èë¾ç³¡¡­ÏêÏ¸</
+±»¡¶ÑÇÖÞÖÜ¿¯¡·ÓþÎª¡¸ÑÇÖÞ¾ç³¡µ¼ÑÝÖ®ÇÌ³þ¡¹£¬ÀµÉù´¨ÊÇ»ªÎÄÊÀ½ç×îÖøÃûµÄ¾ç³¡¹¤×÷ÕßÖ®Ò»£¬´Ó1984ÒÔÀ´£¬ÒÔÇ¿ÁÒµÄ´´ÒâÎüÒý¹ÛÖÚÓ¿Èë¾ç³¡¡­ÏêÏ¸</  
 ÔðÈÎ±à¼­£ºÀ¶À¶
 ¹ØÓÚÌÚÑ¶
 |
@@ -12176,8 +12128,7 @@ Reserved
 µçÊÓ¾çÈýÊ®Äê
 30Äê¼ä£¬¶àÉÙ¾­µäÀÏ¾çÅã°éÎÒÃÇ×ß¹ýÁËÒ»¶Î¶ÎÄÑÍüµÄÈËÉúÀú³Ì£¬¶àÉÙÅ¼ÏñÈËÎïÈÃÎÒÃÇ»³ÄîÖÁ½ñ¡£Í¨¹ýµçÊÓ¾ç£¬ÎÒÃÇ¼ûÖ¤ÁË30ÄêÖÐ¹úÉç»áµÄ±äÇ¨¡¢¼ÛÖµ¹ÛµÄÁ÷×ª¡£
 ¡°Ð¡Â¹´¿×Ó¡±×ö¿Í¡°ÐÇÃÎÆæÔµ¡±
-[¡°Ð¡Â¹´¿×Ó¡±Â¼ÖÆ½ÚÄ¿
-¸´³öÓÐÒâÓëÕÅÒÕÄ±ºÏ×÷]
+[¡°Ð¡Â¹´¿×Ó¡±Â¼ÖÆ½ÚÄ¿ ¸´³öÓÐÒâÓëÕÅÒÕÄ±ºÏ×÷]
 [¡°Ð¡Â¹´¿×Ó¡±¸Êµ±Ð¢Ë³Ï±¸¾][½øÈëQQliveÊÕ¿´¾­µäÀÏ¾ç]
 ¡°ÎÒµÄÐÇÃÎÆæÔµ¡±
 ÍøÂçÕ÷ÎÄ´óÈü
@@ -13476,8 +13427,7 @@ Reserved
 ¸÷·½·´Ó¦£º
 [ÉòµîÏ¼ÈëÔº´óÅú´«Ã½×··Ã][ÓéÀÖÈ¦ÖÚºÃÓÑÒ»ÐÄÇó¼ªÈËÌìÏà(Í¼)]
 ²¡´Ó¿ÚÈë£º
-[Á¬³Ô6Ö»´óÕ¢Ð·
-¸Î¹¦ÎÞ·¨¸ººÉ][¹úÇì³Ô»ð¹ø][¼ÒÖÐÔ¡¸×ÅÝÓã³á][ÓëÅ®¶ùÀ­¹³±£Ö¤½ä¿Ú]
+[Á¬³Ô6Ö»´óÕ¢Ð· ¸Î¹¦ÎÞ·¨¸ººÉ][¹úÇì³Ô»ð¹ø][¼ÒÖÐÔ¡¸×ÅÝÓã³á][ÓëÅ®¶ùÀ­¹³±£Ö¤½ä¿Ú]
 Ç×ÓÑÌ½Íû£º
 [Ö£ÉÙÇïµ½Ò½ÔºÌ½ÊÓ·Ê½ã(Í¼)][ÓëÉòµîÏ¼ÓÃÑÛÉñ½»Á÷(Í¼)][Ö£ÐÀÒËµ½Ò½ÔºÌ½Ä¸]
 [µÒ²¨À­°§ÇóÃ½Ìå¡°¸øÌõÉúÂ·¡±][Å®¶ùÐÀÒË¼±ºìÑÛ¿ô(Í¼)][Ö£ÉÙÇïÔÞÅ®¶ùÁÙÎ£²»ÂÒ]
@@ -13838,18 +13788,18 @@ Reserved
 [ÀÖÌ³ÏÖ×´¸öÐÔ»¯µ÷²é][´«Í³Á÷ÐÐÒôÀÖ²úÒµ¼´½«±ÀÅÌ]
 ÖÐÁª°ñÇìÉú»á
 ËÕÓÐÅóÐ¯Å®ÓÑÁÁÏà
-[È«³¡ÊÓÆµ»Ø·Å][ËÕÓÐÅóÀËÂþÒôÀÖ¾ç
-][Ðí·ÉÏ×³ª
+[È«³¡ÊÓÆµ»Ø·Å][ËÕÓÐÅóÀËÂþÒôÀÖ¾ç 
+][Ðí·ÉÏ×³ª 
 ]
-[ËùÓÐ¼Î±öÇÐµ°¸â
-][BOBO×éºÏ
-][SARA¿ª³¡
+[ËùÓÐ¼Î±öÇÐµ°¸â 
+][BOBO×éºÏ 
+][SARA¿ª³¡ 
 ]
-[ÖªÃûDJ¹²ÇìÖÐÁª°ñÉúÈÕ
-][ÌÚÑ¶Íø×Ü±à¼­³Â¾Õºì
+[ÖªÃûDJ¹²ÇìÖÐÁª°ñÉúÈÕ 
+][ÌÚÑ¶Íø×Ü±à¼­³Â¾Õºì 
 ]
-[Ðí·ÉÌ¹ÑÔÏ²»¶°¢ÄÂÂ¡
-][ËÕÓÐÅóÍ¸Â¶ÐÂ×¨¼­½ø¶È
+[Ðí·ÉÌ¹ÑÔÏ²»¶°¢ÄÂÂ¡ 
+][ËÕÓÐÅóÍ¸Â¶ÐÂ×¨¼­½ø¶È 
 ]
 ÈºÐÇ×£¸££º[ÎÂá°][³ÂÏþ¶«][°¬ÃÎÃÈ][¸ñÈÕÀÖ][energy]
 [
@@ -14057,8 +14007,7 @@ SARA¿ª³¡¾¢¸èÈÈÎè
 Ì¹ÑÔÏ²»¶°¢ÄÂÂ¡
 ¡¤ÊÓÆµ»Ø·Å£ºÌÚÑ¶Íø×Ü±à¼­³Â¾ÕºìÖÂ´Ç
 ¡¤ÊÓÆµ»Ø·Å£ºÐí·ÉÑÝ³ª¡¶ÓµÓÐÄãµÄÈÕ×Ó¡·
-¡¤ÊÓÆµ»Ø·Å£ºSARAÑÝ³ª¡¶Hey
-come!¡·
+¡¤ÊÓÆµ»Ø·Å£ºSARAÑÝ³ª¡¶Hey come!¡·
 ¡¤ÊÓÆµ»Ø·Å£ºÖÚÖªÃûDJ¹²ÇìÖÐÁª°ñÉúÈÕ
 ¡¤ÊÓÆµ»Ø·Å£º³¬ÈËÆø×éºÏBOBOÁÁÏàÏ×³ª
 ¡¤ÊÓÆµ»Ø·Å£ºËÕÓÐÅóÒôÀÖ¾ç¡¶°®Çé¼ô½Ó¡·
@@ -14450,11 +14399,8 @@ SHE¡¶ÖÐ¹ú»°¡·
 ÕÅº¬ÔÏ£º¡¶ÎÒºÜÕÅº¬ÔÏ¡·¡¶Çà´ºÎÞµÐ¡·
 ÀîÓî´º£º¡¶ÎÒµÄ¡·¡¶»ÊºóÓëÃÎÏë¡·
 ÖÜ±Ê³©£º¡¶Ë­¶¯ÁËÎÒµÄÇÙÏÒ¡·¡¶WOW¡·¡¶NOW¡·
-ÕÅö¦Ó±¡¶The
-One¡·¡¶Update¡·
-ºÎ½à¡¶·¢¹âÌå¡·¡¶Ã÷Ã÷²»ÊÇ
-Angel
-¡·
+ÕÅö¦Ó±¡¶The One¡·¡¶Update¡·
+ºÎ½à¡¶·¢¹âÌå¡·¡¶Ã÷Ã÷²»ÊÇ Angel ¡·
 »ÆÑÅÀò¡¶áÌáÌ¡·ÂíÌìÓî¡¶Óî¹âÊ®É«¡·
 ÉÐö©æ¼¡¶èó¸ßµÄÐÇ¿ÕÏÂ¡·¡¶¹ØÓÚÎÒÃÇ¡·
 ÕÅ½Ü¡¶µÚÒ»ÕÅ¡·¡¶ÔÙ°®ÎÒÒ»»Ø¡·
@@ -14640,11 +14586,8 @@ SHE¡¶ÖÐ¹ú»°¡·
 ÕÅº¬ÔÏ£º¡¶ÎÒºÜÕÅº¬ÔÏ¡·¡¶Çà´ºÎÞµÐ¡·
 ÀîÓî´º£º¡¶ÎÒµÄ¡·¡¶»ÊºóÓëÃÎÏë¡·
 ÖÜ±Ê³©£º¡¶Ë­¶¯ÁËÎÒµÄÇÙÏÒ¡·¡¶WOW¡·¡¶NOW¡·
-ÕÅö¦Ó±¡¶The
-One¡·¡¶Update¡·
-ºÎ½à¡¶·¢¹âÌå¡·¡¶Ã÷Ã÷²»ÊÇ
-Angel
-¡·
+ÕÅö¦Ó±¡¶The One¡·¡¶Update¡·
+ºÎ½à¡¶·¢¹âÌå¡·¡¶Ã÷Ã÷²»ÊÇ Angel ¡·
 »ÆÑÅÀò¡¶áÌáÌ¡·ÂíÌìÓî¡¶Óî¹âÊ®É«¡·
 ÉÐö©æ¼¡¶èó¸ßµÄÐÇ¿ÕÏÂ¡·¡¶¹ØÓÚÎÒÃÇ¡·
 ÕÅ½Ü¡¶µÚÒ»ÕÅ¡·¡¶ÔÙ°®ÎÒÒ»»Ø¡·
@@ -14837,9 +14780,7 @@ Kanye
 West±íÑÝÔìÐÍÁíÀà
 ·Æ¼§¡¢John
 LegendÍ¬Ì¨±íÑÝ
-°¬ÈðÉ¯³ª¡¶Let
-It
-Be¡·
+°¬ÈðÉ¯³ª¡¶Let It Be¡·
 ÀÙ¹þÄÈÓðÒíÈ¹Å¤ÍÎÈÈÎè
 Ì«ÑôÂíÏ·ÍÅ±íÑÝ¾ªÏÕ´Ì¼¤
 ÌÀÄ·&#183;ºº¿ËË¹ÁÁÏà·¢ÑÔ
@@ -15369,8 +15310,7 @@ AM´÷ºÚÉ«ÀñÃ±ÉÏÎèÌ¨
 ÏÖ³¡¼´ÐË´´×÷ÑÝ³ö
 (02ÔÂ11ÈÕ)
 ¡¤Vince
-GillÆ¾¡¶These
-Days¡·ÅõµÃ×î¼ÑÏç´å×¨¼­
+GillÆ¾¡¶These Days¡·ÅõµÃ×î¼ÑÏç´å×¨¼­
 (02ÔÂ11ÈÕ)
 ¡¤BonnerateµÇÌ¨Ïò¹ÛÖÚ½éÉÜ±íÑÝ¼Î±öJon
 Fogery
@@ -15381,9 +15321,7 @@ GrobanÉîÇéºÏ³ª
 ¡¤ÏÖ³¡»Ø¹Ë¸ñÀ³ÃÀ50ÄêµÄÀú³Ì
 »Ø·ÅÀú½ì»ñ½±¸èÊÖ
 (02ÔÂ11ÈÕ)
-¡¤EldarÈÎ±íÑÝ¼Î±öÐã¸ÖÇÙ¶À×à¡¶Place
-ST
-HENRI¡·
+¡¤EldarÈÎ±íÑÝ¼Î±öÐã¸ÖÇÙ¶À×à¡¶Place ST HENRI¡·
 (02ÔÂ11ÈÕ)
 ¡¤¸ñÀ³ÃÀÖ÷Ï¯Neil
 PortnowµÇÌ¨
@@ -15419,8 +15357,7 @@ HancockÒ»¹²µÇÌ¨ÑÝ×à¸ÖÇÙ
 (02ÔÂ11ÈÕ)
 ¡¤Alicia
 Keys×Å½ðÉ«»ª·þ
-×Ôµ¯×Ô³ª¡¶NO
-ONE¡·
+×Ôµ¯×Ô³ª¡¶NO ONE¡·
 (02ÔÂ11ÈÕ)
 ¡¤25´Î¸ñÀ³ÃÀµÃÖ÷Ê·µÙ·òÍú´ïÈÎ¼Î±ö
 ±íÑÝ´µ¿ÚÇÙ
@@ -15457,8 +15394,7 @@ LopezµÇÌ¨
 ÓëÌ¨ÏÂ»¥¶¯¿ªÍæÐ¦ÓïÑÔÚ¶Ð³
 (02ÔÂ11ÈÕ)
 ¡¤Foo
-FightersÌ¨ÉÏ»Óº¹ÑÝ³ª¡¶The
-Pretender¡·
+FightersÌ¨ÉÏ»Óº¹ÑÝ³ª¡¶The Pretender¡·
 (02ÔÂ11ÈÕ)
 ¡¤°ä½±ÀñÂåÉ¼í¶·Ö»á³¡
 ANN
@@ -15473,8 +15409,7 @@ MATIE»ñµÃ¹ÛÖÚÍ¶Æ±½±
 ÒøÉ«ÁÁÆ¬¶Ì¿îÀñ·þµÇÌ¨Ï×³ª
 (02ÔÂ11ÈÕ)
 ¡¤Tina
-TurnerÆ¤¿ã×°ÑûBeyonce³ª¡¶Proud
-Mary¡·
+TurnerÆ¤¿ã×°ÑûBeyonce³ª¡¶Proud Mary¡·
 (02ÔÂ11ÈÕ)
 ¡¤BeyonceÉí´©½ôÉíÐ¡ÈÈ¿ãµÇÌ¨
 ÈÈÁ¦ËÄÉä¶¯¸ÐÏ×³ª
@@ -15523,9 +15458,7 @@ NatemanÍ¨¹ý´óÆÁÄ»Ïò¹ÛÖÚ´òÕÐºô
 LauperºÍCyrusÉÏÌ¨ÎªÈ±Ï¯µÄ×î¼ÑÐÂÈË°ä½±
 (02ÔÂ11ÈÕ)
 ¡¤Áé»ê¸èºó°¬ÈðÉ¯ÉÏÌ¨Ï×ÒÕ
-·­³ª¡¶Let
-it
-Be¡·
+·­³ª¡¶Let it Be¡·
 (02ÔÂ11ÈÕ)
 ¡¤·ÅÀÏ¸èÏòBeatlsÖÂ¾´
 ÁÐÙ¯ÒÅæ×Ð¡Ò°Ñó×ÓÌ¨ÏÂ×ø
@@ -15598,9 +15531,7 @@ PaisleyÐÝÏÐ´ò°çÁìÈ¡×î¼ÑÏç´åÀÖÆ÷ÑÝ×à½±
 ¡¤Foo
 Fighters»ñ¸ñÀ³ÃÀ×î¼ÑÓ²Ò¡¹öÑÝ×à½±
 (02ÔÂ11ÈÕ)
-¡¤°×É«ÌõÎÆ(The
-White
-Stripes)»ñ×î¼ÑÒ¡¹öÀÖ¶Ó
+¡¤°×É«ÌõÎÆ(The White Stripes)»ñ×î¼ÑÒ¡¹öÀÖ¶Ó
 (02ÔÂ11ÈÕ)
 ¡¤Ashley
 ClevelandÕªÈ¡×î¼ÑÒ¡¹ö/Ëµ³ªÁéÀÖ×¨¼­½±
@@ -15655,9 +15586,7 @@ Guitar»ñÏÄÍþÒÄ×¨¼­½±
 (02ÔÂ11ÈÕ)
 ¡¤×î¼ÑÀ­¶¡Ò¡¹ö×¨¼­½±±»Black£ºGuayabaÊÕÈëÄÒÖÐ
 (02ÔÂ11ÈÕ)
-¡¤Âó½ã¡¶The
-Confessions
-Tour¡·»ñ×î¼Ñ³¤ÆªMV½±
+¡¤Âó½ã¡¶The Confessions Tour¡·»ñ×î¼Ñ³¤ÆªMV½±
 (02ÔÂ11ÈÕ)
 ¡¤ÌÚÑ¶ÍøÕýÔÂ³õÎåÈ«³ÌÖ±²¥µÚ50½ì¸ñÀ³ÃÀ°ä½±Ê¢µä
 (02ÔÂ04ÈÕ)
@@ -15727,10 +15656,7 @@ Reserved
 £¨²é¿´ÍêÈ«»ñ½±Ãûµ¥£©
 Äê¶È×î¼Ñ×¨¼­
 £º
-¡¶River:
-The
-Joni
-Letters¡·Herbie
+¡¶River: The Joni Letters¡·Herbie
 Hancock
 »ñµÃÌáÃûµÄÓÐ
 :
@@ -15801,43 +15727,25 @@ Winehouse
 Amy
 Winehouse,
 songwriter
-(Amy
-Winehouse)
+(Amy Winehouse)
 »ñµÃÌáÃûµÄÓÐ
 :
 "Before
 He
 Cheats"
-(Josh
-Kear
-&amp;
-Chris
-Tompkins)
+(Josh Kear &amp; Chris Tompkins)
 "Hey
 There
 Delilah"
-(Tom
-Higgenson)
+(Tom Higgenson)
 "Like
 A
 Star"
-(Corinne
-Bailey
-Rae)
+(Corinne Bailey Rae)
 "Rehab"
-(Amy
-Winehouse)
+(Amy Winehouse)
 "Umbrella"
-(Shawn
-Carter,
-Kuk
-Harrell,
-Terius
-'Dream'
-Nash
-&amp;
-Christopher
-Stewart)
+(Shawn Carter, Kuk Harrell, Terius 'Dream' Nash &amp; Christopher Stewart)
 ×î¼ÑÐÂÈË£º
 Amy
 Winehouse
@@ -15880,10 +15788,7 @@ Winehouse
 -
 "Rehab"
 ×î¼ÑÁ÷ÐÐÄÐ¸èÊÖ£º
-¡¶What
-Goes
-Around...Comes
-Around¡·
+¡¶What Goes Around...Comes Around¡·
 Justin
 Timberlake
 »ñµÃÌáÃûµÄÓÐ
@@ -15913,18 +15818,14 @@ Around...
 Comes
 Around"
 ×î¼ÑÁ÷ÐÐÀÖ¶Ó/×éºÏ£º
-¡¶Makes
-Me
-Wonder¡·Maroon
+¡¶Makes Me Wonder¡·Maroon
 5
 »ñµÃÌáÃûµÄÓÐ
 :
 Bon
 Jovi
 -
-"(You
-Want
-To)
+"(You Want To)
 Make
 A
 Memory"
@@ -15951,9 +15852,7 @@ In
 The
 Skies"
 ×î¼ÑÁ÷ÐÐÑÝ³ª×¨¼­£º
-¡¶Back
-To
-Black¡·Amy
+¡¶Back To Black¡·Amy
 Winehouse
 »ñµÃÌáÃûµÄÓÐ
 :
@@ -15989,10 +15888,7 @@ To
 Black
 ×î¼ÑÁ÷ÐÐÆ÷ÀÖÑÝ×à
 £º
-¡¶One
-Week
-Last
-Summer¡·Joni
+¡¶One Week Last Summer¡·Joni
 Mitchell
 »ñµÃÌáÃûµÄÓÐ
 :
@@ -16032,8 +15928,7 @@ Gyra
 Pleasures"
 ×î¼ÑÁ÷ÐÐÀÖÆ÷ÑÝ×à×¨¼­
 £º
-¡¶The
-Mix-Up¡·Beastie
+¡¶The Mix-Up¡·Beastie
 Boys
 »ñµÃÌáÃûµÄÓÐ
 :
@@ -16064,12 +15959,7 @@ Whalum
 Roundtrip
 ×î¼ÑÁ÷ÐÐºÏ³ª
 £º
-¡¶Gone
-Gone
-Gone
-(Done
-Moved
-On)¡·
+¡¶Gone Gone Gone (Done Moved On)¡·
 Robert
 Plant
 &amp;
@@ -16122,9 +16012,7 @@ To
 Me"
 ×î¼Ñ´«Í³Á÷ÐÐÑÝ³ª×¨¼­
 £º
-¡¶Call
-Me
-Irresponsible¡·Michael
+¡¶Call Me Irresponsible¡·Michael
 Bubl¨¦
 »ñµÃÌáÃûµÄÓÐ
 :
@@ -16158,10 +16046,7 @@ Taylor
 At
 Christmas
 ×î¼ÑÎèÇú³ªÆ¬£º
-¡¶LoveStoned/I
-Think
-She
-Knows¡·
+¡¶LoveStoned/I Think She Knows¡·
 Justin
 Timberlake
 »ñµÃÌáÃûµÄÓÐ
@@ -16191,10 +16076,7 @@ Timberlake
 "LoveStoned"
 ×î¼Ñµç×Ó/ÎèÇú×¨¼­
 £º
-¡¶We
-Are
-The
-Night¡·The
+¡¶We Are The Night¡·The
 Chemical
 Brothers
 »ñµÃÌáÃûµÄÓÐ
@@ -16230,8 +16112,7 @@ Life
 ×î¼ÑR
 &
 BÅ®¸èÊÖ£º
-¡¶No
-One¡·Alicia
+¡¶No One¡·Alicia
 Keys
 »ñµÃÌáÃûµÄÓÐ
 :
@@ -16270,9 +16151,7 @@ Me"
 &
 BÄÐ¸èÊÖ
 £º
-¡¶Future
-Baby
-Mama¡·Prince
+¡¶Future Baby Mama¡·Prince
 »ñµÃÌáÃûµÄÓÐ
 :
 Raheem
@@ -16350,8 +16229,7 @@ Akon
 &
 B¸èÇú
 £º
-¡¶No
-One¡·
+¡¶No One¡·
 Dirty
 Harry,
 Kerry
@@ -16360,77 +16238,32 @@ Brothers
 Alicia
 Keys,
 songwriters
-(Alicia
-Keys)
+(Alicia Keys)
 »ñµÃÌáÃûµÄÓÐ
 :
 "Beautiful
 Flower"
-(India.Arie
-&amp;
-Joyce
-Simpson)
+(India.Arie &amp; Joyce Simpson)
 "Hate
 That
 I
 Love
 You"
-(M.S.
-Eriksen,
-T.E.
-Hermansen
-&amp;
-Shaffer
-Smith)
+(M.S. Eriksen, T.E. Hermansen &amp; Shaffer Smith)
 "No
 One"
-(Dirty
-Harry,
-Kerry
-Brothers
-&amp;
-Alicia
-Keys)
+(Dirty Harry, Kerry Brothers &amp; Alicia Keys)
 "Teachme"
-(Ivan
-Barias,
-Adam
-W.
-Blackstone,
-Randall
-C.
-Bowland,
-Carvin
-Haggins,
-Johnnie
-Smith
-II
-&amp;
-Corey
-Latif
-Williams)
+(Ivan Barias, Adam W. Blackstone, Randall C. Bowland, Carvin Haggins, Johnnie Smith II &amp; Corey Latif Williams)
 "When
 I
 See
 U"
-(Louis
-Biancaniello,
-Waynne
-Nugent,
-Erika
-Nuri,
-Kevin
-Risto,
-Janet
-Swel
-&amp;
-Sam
-Watters)
+(Louis Biancaniello, Waynne Nugent, Erika Nuri, Kevin Risto, Janet Swel &amp; Sam Watters)
 ×î¼ÑR
 &
 B×¨¼­£º
-¡¶Funk
-This¡·Chaka
+¡¶Funk This¡·Chaka
 Khan
 »ñµÃÌáÃûµÄÓÐ
 :
@@ -16469,9 +16302,7 @@ Pain
 &
 B´«Í³¸èÊÖ
 £º
-¡¶In
-My
-Songs¡·Gerald
+¡¶In My Songs¡·Gerald
 Levert
 »ñµÃÌáÃûµÄÓÐ
 :
@@ -16553,9 +16384,7 @@ Smith
 &
 B×¨¼­
 £º
-¡¶Because
-Of
-You¡·Ne-Yo
+¡¶Because Of You¡·Ne-Yo
 »ñµÃÌáÃûµÄÓÐ
 :
 Akon
@@ -16583,9 +16412,7 @@ Of
 You
 ×î¼ÑÏç´åÅ®¸èÊÖ
 £º
-¡¶Before
-He
-Cheats¡·Carrie
+¡¶Before He Cheats¡·Carrie
 Underwood
 »ñµÃÌáÃûµÄÓÐ
 :
@@ -16627,8 +16454,7 @@ Of
 Love"
 ×î¼ÑÏç´åÄÐ¸èÊÖ
 £º
-¡¶Stupid
-Boy¡·Keith
+¡¶Stupid Boy¡·Keith
 Urban
 »ñµÃÌáÃûµÄÓÐ
 :
@@ -16663,8 +16489,7 @@ Urban
 "Stupid
 Boy"
 ×î¼ÑÏç´åÀÖ¶Ó/×éºÏ£º
-¡¶How
-Long¡·Eagles
+¡¶How Long¡·Eagles
 »ñµÃÌáÃûµÄÓÐ
 :
 Brooks
@@ -16698,8 +16523,7 @@ Jumpers
 "Sweet
 Memories"
 ×î¼ÑÏç´åºÏ³ª£º
-¡¶Lost
-Highway¡·Willie
+¡¶Lost Highway¡·Willie
 Nelson
 &amp;
 Ray
@@ -16751,8 +16575,7 @@ Underwood
 "Oh
 Love"
 ×î¼ÑÏç´å×¨¼­£º
-¡¶These
-Days¡·Vince
+¡¶These Days¡·Vince
 Gill
 »ñµÃÌáÃûµÄÓÐ
 :
@@ -16786,103 +16609,60 @@ Just
 Comes
 Natural
 ×î¼ÑÏç´å¸èÇú£º
-¡¶Before
-He
-Cheats¡·
+¡¶Before He Cheats¡·
 Josh
 Kear
 &amp;
 Chris
 Tompkins,
 songwriters
-(Carrie
-Underwood)
+(Carrie Underwood)
 »ñµÃÌáÃûµÄÓÐ
 :
 "Before
 He
 Cheats"
-(Josh
-Kear
-&amp;
-Chris
-Tompkins)
+(Josh Kear &amp; Chris Tompkins)
 "Give
 It
 Away"
-(Bill
-Anderson,
-Buddy
-Cannon
-&amp;
-Jamey
-Johnson)
+(Bill Anderson, Buddy Cannon &amp; Jamey Johnson)
 "I
 Need
 You"
-(Tony
-Lane
-&amp;
-David
-Lee)
+(Tony Lane &amp; David Lee)
 "If
 You're
 Reading
 This"
-(Tim
-McGraw,
-Brad
-Warren
-&amp;
-Brett
-Warren)
+(Tim McGraw, Brad Warren &amp; Brett Warren)
 "Long
 trip
 Alone"
-(Brett
-Beavers,
-Dierks
-Bentley
-&amp;
-Steve
-Bogard)
+(Brett Beavers, Dierks Bentley &amp; Steve Bogard)
 ×î¼ÑÒ¡¹ö¸èÇú£º
-¡¶Radio
-Nowhere¡·Bruce
+¡¶Radio Nowhere¡·Bruce
 Springsteen
 »ñµÃÌáÃûµÄÓÐ
 :
 "Come
 On"
-(Lucinda
-Williams)
+(Lucinda Williams)
 "Icky
 Thump"
-(Jack
-White)
+(Jack White)
 "It's
 Not
 Over"
-(Chris
-Daughtry,
-Gregg
-Wattenberg,
-Mark
-Wilkerson
-&amp;
-Brett
-Young)
+(Chris Daughtry, Gregg Wattenberg, Mark Wilkerson &amp; Brett Young)
 "The
 Pretender"
-(Foo
-Fighters)
+(Foo Fighters)
 "Radio
 Nowhere"
-(Bruce
-Springsteen)
+(Bruce Springsteen)
 ×î¼ÑÒ¡¹ö¸èÊÖ£º
-¡¶Radio
-Nowhere¡·Bruce
+¡¶Radio Nowhere¡·Bruce
 Springsteen
 »ñµÃÌáÃûµÄÓÐ
 :
@@ -16911,8 +16691,7 @@ Williams
 "Come
 On"
 ×î¼ÑÒ¡¹öÀÖ¶Ó/×éºÏ£º
-¡¶Icky
-Thump¡·The
+¡¶Icky Thump¡·The
 White
 Stripes
 »ñµÃÌáÃûµÄÓÐ
@@ -16943,8 +16722,7 @@ Stripes
 "Icky
 Thump"
 ×î¼ÑÓ²Ò¡¹öÑÝ×à£º
-¡¶The
-Pretender¡·Foo
+¡¶The Pretender¡·Foo
 Fighters
 »ñµÃÌáÃûµÄÓÐ
 :
@@ -16978,8 +16756,7 @@ Tool
 "The
 Pot"
 ×î¼Ñ½ðÊôÑÝ×à£º
-¡¶Final
-Six¡·Slayer
+¡¶Final Six¡·Slayer
 »ñµÃÌáÃûµÄÓÐ
 :
 As
@@ -17010,13 +16787,7 @@ Slayer
 "Final
 Six"
 ×î¼ÑÒ¡¹öÀÖÆ÷ÑÝ×à£º
-¡¶Once
-Upon
-A
-Time
-In
-The
-West¡·
+¡¶Once Upon A Time In The West¡·
 Bruce
 Springsteen
 »ñµÃÌáÃûµÄÓÐ
@@ -17058,11 +16829,7 @@ Attitude
 Song"
 ×î¼ÑÒ¡¹ö×¨¼­
 £º
-¡¶Echoes,
-Silence,
-Patience
-&amp;
-Grace¡·
+¡¶Echoes, Silence, Patience &amp; Grace¡·
 Foo
 Fighters
 »ñµÃÌáÃûµÄÓÐ
@@ -17093,8 +16860,7 @@ Blue
 Sky
 ×î¼ÑÁíÀàÒôÀÖ×¨¼­
 £º
-¡¶Icky
-Thump¡·The
+¡¶Icky Thump¡·The
 White
 Stripes
 »ñµÃÌáÃûµÄÓÐ
@@ -17197,8 +16963,7 @@ T.I.
 "Big
 Things
 Poppin'
-(Do
-It)"
+(Do It)"
 Kanye
 West
 -
@@ -17240,9 +17005,7 @@ OutKast
 "Int'l
 Players
 Anthem
-(I
-Choose
-You)"
+(I Choose You)"
 Kanye
 West
 ,
@@ -17256,8 +17019,7 @@ I've
 Ever
 Been"
 ×î¼ÑËµ³ª¸èÇú£º
-¡¶Good
-Life¡·
+¡¶Good Life¡·
 Aldrin
 Davis,
 Mike
@@ -17268,61 +17030,28 @@ Najm
 Kanye
 West,
 songwriters
-(J.
-Ingram
-&amp;
-Q.
-Jones,
-songwriters)(Kanye
-West
-Featuring
-T-Pain)
+(J. Ingram &amp; Q. Jones, songwriters)(Kanye West Featuring T-Pain)
 »ñµÃÌáÃûµÄÓÐ
 :
 "Ayo
 Technology"
-(Nate
-(Danja)
-Hills,
-Curtis
-Jackson,
-Timothy
-Mosley
-&amp;
-Justin
-Timberlake)
+(Nate (Danja) Hills, Curtis Jackson, Timothy Mosley &amp; Justin Timberlake)
 "Big
 Things
 Poppin'
-(Do
-It)"
-(Clifford
-Harris
-&amp;
-Byron
-Thomas)
+(Do It)"
+(Clifford Harris &amp; Byron Thomas)
 "Can't
 Tell
 Me
 Nothing"
-(A.
-Davis
-&amp;
-Kanye
-West)
+(A. Davis &amp; Kanye West)
 "Crank
 That"
-(Soulja
-Boy)
+(Soulja Boy)
 "Good
 Life"
-(A.
-Davis,
-F.
-Najm
-&amp;
-Kanye
-West)
+(A. Davis, F. Najm &amp; Kanye West)
 ×î¼ÑËµ³ª×¨¼­£º
 ¡¶Graduation¡·Kanye
 West
@@ -17907,8 +17636,7 @@ Reserved
 ¡¤¡¶×óÓÒ¡·ÏÆÇÜ¡°ÐÜ¡±´óÕ½
 ÍõÐ¡Ë§×Ô´´ÊÖÊÆ×³ÉùÊÆ
 °ØÁÖµçÓ°½ÚÈÕ³Ì°²ÅÅ
-[2ÔÂ7ÈÕ-12ÈÕ
-13ÈÕ-17ÈÕ]
+[2ÔÂ7ÈÕ-12ÈÕ 13ÈÕ-17ÈÕ]
 ¿ªÄ»Æ¬¼ò½é
 Æ¬Ãû£ºShine
 a
@@ -17994,8 +17722,7 @@ Light
 åÐÒ£×ÔÔÚ
 (Ó¢¹ú)
 ÎÞÐÝÎÞÖ¹
-(ÒÔÉ«ÁÐ/µÂ¹ú
-µÈ)
+(ÒÔÉ«ÁÐ/µÂ¹ú µÈ)
 Íì¸è
 (ÃÀ¹ú)
 É³ÄÒ
@@ -18117,8 +17844,7 @@ Light
 ¡¤µÚ58½ì°ØÁÖµçÓ°½ÚÖ÷¾ºÈüµ¥Ôª£º¡¶åÐÒ£×ÔÔÚ¡·(2008Äê02ÔÂ02ÈÕ)
 ¡¤µÚ58½ì°ØÁÖµçÓ°½ÚÖ÷¾ºÈüµ¥Ôª£º¡¶Äþ¾²µÄ»ìÂÒ¡·(2008Äê02ÔÂ02ÈÕ)
 ¡¤µÚ58½ì°ØÁÖµçÓ°½ÚÖ÷¾ºÈüµ¥Ôª£º¡¶¼òÅ®Ê¿¡·(2008Äê02ÔÂ02ÈÕ)
-¡¤µÚ58½ì°ØÁÖµçÓ°½ÚÖ÷¾ºÈüµ¥Ôª£º¡¶ÎÄÈ¸
-¡·(2008Äê02ÔÂ02ÈÕ)
+¡¤µÚ58½ì°ØÁÖµçÓ°½ÚÖ÷¾ºÈüµ¥Ôª£º¡¶ÎÄÈ¸ ¡·(2008Äê02ÔÂ02ÈÕ)
 ¡¤µÚ58½ì°ØÁÖµçÓ°½ÚÖ÷¾ºÈüµ¥Ôª£º¡¶ÖìÀöæ«¡·(2008Äê02ÔÂ02ÈÕ)
 ¡¤µÚ58½ì°ØÁÖµçÓ°½ÚÖ÷¾ºÈüµ¥Ôª£º¡¶ÐÄ»ð¡·(2008Äê02ÔÂ02ÈÕ)
 ¡¤µÚ58½ì°ØÁÖµçÓ°½ÚÖ÷¾ºÈüµ¥Ôª£º¡¶¾«Èñ²¿¶Ó¡·(2008Äê02ÔÂ02ÈÕ)
@@ -18219,8 +17945,7 @@ Reserved
 ¡¤¡¶×óÓÒ¡·ÏÆÇÜ¡°ÐÜ¡±´óÕ½
 ÍõÐ¡Ë§×Ô´´ÊÖÊÆ×³ÉùÊÆ
 °ØÁÖµçÓ°½ÚÈÕ³Ì°²ÅÅ
-[2ÔÂ7ÈÕ-12ÈÕ
-13ÈÕ-17ÈÕ]
+[2ÔÂ7ÈÕ-12ÈÕ 13ÈÕ-17ÈÕ]
 ¿ªÄ»Æ¬¼ò½é
 Æ¬Ãû£ºShine
 a
@@ -18306,8 +18031,7 @@ Light
 åÐÒ£×ÔÔÚ
 (Ó¢¹ú)
 ÎÞÐÝÎÞÖ¹
-(ÒÔÉ«ÁÐ/µÂ¹ú
-µÈ)
+(ÒÔÉ«ÁÐ/µÂ¹ú µÈ)
 Íì¸è
 (ÃÀ¹ú)
 É³ÄÒ
@@ -18429,8 +18153,7 @@ Light
 ¡¤µÚ58½ì°ØÁÖµçÓ°½ÚÖ÷¾ºÈüµ¥Ôª£º¡¶åÐÒ£×ÔÔÚ¡·(2008Äê02ÔÂ02ÈÕ)
 ¡¤µÚ58½ì°ØÁÖµçÓ°½ÚÖ÷¾ºÈüµ¥Ôª£º¡¶Äþ¾²µÄ»ìÂÒ¡·(2008Äê02ÔÂ02ÈÕ)
 ¡¤µÚ58½ì°ØÁÖµçÓ°½ÚÖ÷¾ºÈüµ¥Ôª£º¡¶¼òÅ®Ê¿¡·(2008Äê02ÔÂ02ÈÕ)
-¡¤µÚ58½ì°ØÁÖµçÓ°½ÚÖ÷¾ºÈüµ¥Ôª£º¡¶ÎÄÈ¸
-¡·(2008Äê02ÔÂ02ÈÕ)
+¡¤µÚ58½ì°ØÁÖµçÓ°½ÚÖ÷¾ºÈüµ¥Ôª£º¡¶ÎÄÈ¸ ¡·(2008Äê02ÔÂ02ÈÕ)
 ¡¤µÚ58½ì°ØÁÖµçÓ°½ÚÖ÷¾ºÈüµ¥Ôª£º¡¶ÖìÀöæ«¡·(2008Äê02ÔÂ02ÈÕ)
 ¡¤µÚ58½ì°ØÁÖµçÓ°½ÚÖ÷¾ºÈüµ¥Ôª£º¡¶ÐÄ»ð¡·(2008Äê02ÔÂ02ÈÕ)
 ¡¤µÚ58½ì°ØÁÖµçÓ°½ÚÖ÷¾ºÈüµ¥Ôª£º¡¶¾«Èñ²¿¶Ó¡·(2008Äê02ÔÂ02ÈÕ)
@@ -18486,39 +18209,21 @@ Reserved
 È«Õ¾µ¼º½
 °ÂË¹¿¨¼ò½é
 ¡°°ÂË¹¿¨½ðÏñ½±¡±µÄÕýÊ½Ãû³ÆÊÇ¡°µçÓ°ÒÕÊõÓë¿ÆÑ§Ñ§Ôº½±¡±£¬1927ÄêÉèÁ¢£¬Ã¿ÄêÒ»´ÎÔÚÃÀ¹úÂåÉ¼í¶¾ÙÐÐ¡£°ë¸ö¶àÊÀ¼ÍÀ´Ò»Ö±ÏíÓÐÊ¢Óþ¡£Ëü²»Áî·´Ó³ÃÀ¹úµçÓ°ÒÕÊõµÄ·¢Õ¹½ø³ÌºÍ¾Í¶øÇÒ¶ÔÊÀ½çÐí¶à¹ú¼ÒµÄµçÓ°ÒÕÊõÓÐ×Å²»¿ÉºöÊÓµÄÓ°Ïì¡£
-1927Äê5ÔÂ£¬ÃÀ¹úµçÓ°½çÖªÃûÈËÊ¿ÔÚºÃÀ³Îë·¢Æð×éÖ¯Ò»¸ö¡°·ÇÓ®Àû×éÖ¯¡±£¬¶¨ÃûÎªµçÓ°ÒÕÊõÓë¿ÆÑ§Ñ§Ôº(Academy
-of
-mo
-tion
-picture
-Arts
-and
-Sciences
-ËõÐ´ÎªA.M.P.A.S.)£¬ËüµÄ×ÚÖ¼ÊÇ´Ù½øµçÓ°ÒÕÊõºÍ¼¼ÊõµÄ½ø²½¡£Ñ§Ôº¾ö¶¨¶ÔÓÅÐãµçÓ°¹¤×÷ÕßµÄÏÔÖø³É¾Í¸øÓè±íÕÃ£¬ËùÒÔÉèÁ¢ÁË¡°µçÓ°ÒÕÊõÓë¿ÆÑ§Ñ§Ôº½±¡±(Academy
-Award)£¬1931Äêºó£¬¡°Ñ§Ôº½±¡±Öð½¥±»ÆäÍ¨Ë×½Ð·¨¡°°ÂË¹¿¨½ðÏñ½±¡±Ëù´úÌæ£¬µ½Èç½ñ£¬ÆäÕýÊ½Ãû³ÆÒÑ¾­ÏÊÎªÈËÖªÁË¡­¡­
+1927Äê5ÔÂ£¬ÃÀ¹úµçÓ°½çÖªÃûÈËÊ¿ÔÚºÃÀ³Îë·¢Æð×éÖ¯Ò»¸ö¡°·ÇÓ®Àû×éÖ¯¡±£¬¶¨ÃûÎªµçÓ°ÒÕÊõÓë¿ÆÑ§Ñ§Ôº(Academy of mo tion picture Arts and Sciences ËõÐ´ÎªA.M.P.A.S.)£¬ËüµÄ×ÚÖ¼ÊÇ´Ù½øµçÓ°ÒÕÊõºÍ¼¼ÊõµÄ½ø²½¡£Ñ§Ôº¾ö¶¨¶ÔÓÅÐãµçÓ°¹¤×÷ÕßµÄÏÔÖø³É¾Í¸øÓè±íÕÃ£¬ËùÒÔÉèÁ¢ÁË¡°µçÓ°ÒÕÊõÓë¿ÆÑ§Ñ§Ôº½±¡±(Academy Award)£¬1931Äêºó£¬¡°Ñ§Ôº½±¡±Öð½¥±»ÆäÍ¨Ë×½Ð·¨¡°°ÂË¹¿¨½ðÏñ½±¡±Ëù´úÌæ£¬µ½Èç½ñ£¬ÆäÕýÊ½Ãû³ÆÒÑ¾­ÏÊÎªÈËÖªÁË¡­¡­
 ²é¿´ÏêÏ¸
 °ÂË¹¿¨ÌáÃû£º¡°ÀäÑªÉ±ÊÖ¡±PK¡°ÀäÑª´óºà¡±
-[ÓéÀÖÔÚÏß£ºÃ÷ÐÇÃûµ¼
-Ò»¸ö²»ÉÙ][µÚ80½ì°ÂË¹¿¨ÌáÃûÃûµ¥]
+[ÓéÀÖÔÚÏß£ºÃ÷ÐÇÃûµ¼ Ò»¸ö²»ÉÙ][µÚ80½ì°ÂË¹¿¨ÌáÃûÃûµ¥]
 [Â·Í¸Éç£º¡¶ÀÏÎÞËùÒÀ¡·¡¶ÑªÉ«½«ÖÁ¡·×îÔçÈëÎ§][·¢±íÆÀÂÛ]
-[CNN£ºµÚ80½ì°ÂË¹¿¨ÌáÃûÃûµ¥¹«²¼
-ÓÐ±¯ÓÐÏ²Á½ÖØÌì]
-[ÃÀÁªÉç£º¡¶Êê×ï¡·°ÂË¹¿¨ÆßÏîÌáÃû
-´íÊ§ÄÐÅ®Ö÷½Ç½±Ïî]
-[»ñ°ÂË¹¿¨ÌáÃûÖÚÈË·¢±í¸ÐÏë
-±à¾ç°Õ¹¤ÒÀÈ»ÊÇ×î´óÎÊÌâ]
+[CNN£ºµÚ80½ì°ÂË¹¿¨ÌáÃûÃûµ¥¹«²¼ ÓÐ±¯ÓÐÏ²Á½ÖØÌì]
+[ÃÀÁªÉç£º¡¶Êê×ï¡·°ÂË¹¿¨ÆßÏîÌáÃû ´íÊ§ÄÐÅ®Ö÷½Ç½±Ïî]
+[»ñ°ÂË¹¿¨ÌáÃûÖÚÈË·¢±í¸ÐÏë ±à¾ç°Õ¹¤ÒÀÈ»ÊÇ×î´óÎÊÌâ]
 °Õ¹¤Ì¸ÅÐ½øÕ¹Ë³Àû
 °ä½±ÀñÓÐÍûË³Àû¾ÙÐÐ
-[µ¼ÑÝÔö¼ÓÀûÈó±à¾çÓÐÕÂ¿ÉÑ­
-°ÂË¹¿¨°ä½±Àñ¾¯±¨ÓÐÍû½â³ý]
-[ÜïÀòÁ¦Í¦±à¾ç¹¤»á
-³ÆÈç¹ûÈ¡Ïû°ÂË¹¿¨¾ÍÈ¥¿ËÂ³Äá¼Ò]
-[ºÃÀ³Îëµ¼ÑÝÓëÖÆ×÷ÈË´ï³ÉÐ­Òé
-°ÂË¹¿¨°ä½±Àñ³öÏÖÊï¹â]
-[°ÂË¹¿¨×öºÃÁ½ÊÖ×¼±¸
-¡°±¸·Ý¡±Ó¦¼±Íí»á·ÀÖ¹°Õ¹¤Ó°Ïì]
-[½ðÇò°ä½±±»ÆÈÊÝÉíµçÊÓ×ª²¥È«Ãâ
-°ÂË¹¿¨¿àÏëÓ¦¶Ô°ì·¨]
+[µ¼ÑÝÔö¼ÓÀûÈó±à¾çÓÐÕÂ¿ÉÑ­ °ÂË¹¿¨°ä½±Àñ¾¯±¨ÓÐÍû½â³ý]
+[ÜïÀòÁ¦Í¦±à¾ç¹¤»á ³ÆÈç¹ûÈ¡Ïû°ÂË¹¿¨¾ÍÈ¥¿ËÂ³Äá¼Ò]
+[ºÃÀ³Îëµ¼ÑÝÓëÖÆ×÷ÈË´ï³ÉÐ­Òé °ÂË¹¿¨°ä½±Àñ³öÏÖÊï¹â]
+[°ÂË¹¿¨×öºÃÁ½ÊÖ×¼±¸ ¡°±¸·Ý¡±Ó¦¼±Íí»á·ÀÖ¹°Õ¹¤Ó°Ïì]
+[½ðÇò°ä½±±»ÆÈÊÝÉíµçÊÓ×ª²¥È«Ãâ °ÂË¹¿¨¿àÏëÓ¦¶Ô°ì·¨]
 ÌáÃûÕßËµ£º»ñ°ÂË¹¿¨ÌáÃûÖÚÈË·¢¸ÐÏë
 Ï£Íû°Õ¹¤²»Ó°Ïì°ä½±Àñ
 ·çÏòÖ¸±ê£º½ðÇò½±¡¶Êê×ï¡·Åõ×î¼Ñ
@@ -18825,21 +18530,12 @@ Norbit
 ¡÷¡¶ÃÀÊ³×Ü¶¯Ô±¡·£¬Âõ¿Ë¶û¡¤¼ªÑÇÆæÅµ
 ¡÷¡¶¾ö¶·ÓÌÂíÕò¡·£¬Âí¿Ë¡¤±´¶ûÌØÀ­Ã×
 ¡ú×î¼Ñ¸èÇú£º
-¡÷¡¶Falling
-Slowly¡·£¬¡¶Ôø¾­¡·Once
-¡÷¡¶Happy
-Working
-Song¡·£¬¡¶Ä§·¨ÆæÔµ¡·
-¡÷¡¶Raise
-It
-Up¡·
+¡÷¡¶Falling Slowly¡·£¬¡¶Ôø¾­¡·Once
+¡÷¡¶Happy Working Song¡·£¬¡¶Ä§·¨ÆæÔµ¡·
+¡÷¡¶Raise It Up¡·
 £¬¡¶°ËÔÂÃÔÇé¡·
-¡÷¡¶So
-Close¡·£¬¡¶Ä§·¨ÆæÔµ¡·
-¡÷¡¶That¡¯s
-How
-You
-Know¡·£¬¡¶Ä§·¨ÆæÔµ¡·
+¡÷¡¶So Close¡·£¬¡¶Ä§·¨ÆæÔµ¡·
+¡÷¡¶That¡¯s How You Know¡·£¬¡¶Ä§·¨ÆæÔµ¡·
 ¡ú×î¼Ñ¼ÍÂ¼Æ¬£º
 ¡÷¡¶Ò»ÍûÎÞ¼Ê¡·No
 End
@@ -18870,12 +18566,8 @@ Baba
 ¡÷¡¶ÈøÀûµÄÂèÂè¡·Sari's
 Mother
 ¡ú×î¼Ñ¶¯»­¶ÌÆ¬£º
-¡÷¡¶I
-Met
-the
-Walrus¡·
-¡÷¡¶Madame
-Tutli-Putli¡·
+¡÷¡¶I Met the Walrus¡·
+¡÷¡¶Madame Tutli-Putli¡·
 ¡÷¡¶ÌìÌÃ¿ªÃÅ¡·M¨ºme
 Les
 Pigeons
@@ -18894,8 +18586,7 @@ Lyubov
 the
 Wolf
 ¡ú×î¼ÑÕæÈË¶ÌÆ¬£º
-¡÷¡¶ÔÚÒ¹Àï¡·£¨At
-Night£©
+¡÷¡¶ÔÚÒ¹Àï¡·£¨At Night£©
 ¡÷¡¶Ä§¹íÏÈ·æ¡·Il
 Supplente/The
 Substitute
@@ -18906,11 +18597,8 @@ Pickpockets/The
 Mozart
 Of
 Pickpockets
-¡÷¡¶Tanghi
-Argentini¡·
-¡÷¡¶The
-Tonto
-Woman¡·
+¡÷¡¶Tanghi Argentini¡·
+¡÷¡¶The Tonto Woman¡·
 ¡úÖÕÉí³É¾Í½±£º
 ¡÷ÂÞ²®ÌØ¡¤±´¶û
 Robert
@@ -19609,8 +19297,7 @@ Reserved
 ·¢±íÆÀÂÛ
 ¡¶³¤½­7ºÅ¡·ÕýÊ½ÉÏÓ³
 ÐÇÒ¯±»ÇÀÁË·çÍ·
-[¡°ÖÜÐÇÐÇ±äÖÜÐÂÐÂ¡±(Í¼)
-]
+[¡°ÖÜÐÇÐÇ±äÖÜÐÂÐÂ¡±(Í¼) ]
 [¡°ÐÇÅ®ÀÉ¡±ÈÔÊÇ´ó»¨Æ¿]
 [¡¶³¤½­7ºÅ¡·Ïã¸ÛÊ×Ó³Ê½]
 [ÖÜÐÇ³ÛÓëÕÅÓêç²²»ºÏÅÄ£¿]
@@ -19890,8 +19577,7 @@ Reserved
 ·¢±íÆÀÂÛ
 ¡¶³¤½­7ºÅ¡·ÕýÊ½ÉÏÓ³
 ÐÇÒ¯±»ÇÀÁË·çÍ·
-[¡°ÖÜÐÇÐÇ±äÖÜÐÂÐÂ¡±(Í¼)
-]
+[¡°ÖÜÐÇÐÇ±äÖÜÐÂÐÂ¡±(Í¼) ]
 [¡°ÐÇÅ®ÀÉ¡±ÈÔÊÇ´ó»¨Æ¿]
 [¡¶³¤½­7ºÅ¡·Ïã¸ÛÊ×Ó³Ê½]
 [ÖÜÐÇ³ÛÓëÕÅÓêç²²»ºÏÅÄ£¿]
@@ -20158,8 +19844,7 @@ Reserved
 Á½ÈË×ßºìÃ¦ÊÂÒµ£¬¸ÐÇé×ªµ­
 Á½ÈËÐÔ¸ñ²»ºÏ£¬¸ÐÇéÆÆÁÑ
 ÆäËûÔ­Òò
-[ÊÓÆµ£º¹¤×÷·±Ã¦¾ÛÉÙÀë¶à
-´óSºÍÖÜÓåÃñÐû²¼·ÖÊÖ]
+[ÊÓÆµ£º¹¤×÷·±Ã¦¾ÛÉÙÀë¶à ´óSºÍÖÜÓåÃñÐû²¼·ÖÊÖ]
 [´óS·¢±í·ÖÊÖÉùÃ÷]
 [ÆÀÂÛ]
 ÏàÁµÊ±³¤£º
@@ -20304,8 +19989,7 @@ Reserved
 Á½ÈË×ßºìÃ¦ÊÂÒµ£¬¸ÐÇé×ªµ­
 Á½ÈËÐÔ¸ñ²»ºÏ£¬¸ÐÇéÆÆÁÑ
 ÆäËûÔ­Òò
-[ÊÓÆµ£º¹¤×÷·±Ã¦¾ÛÉÙÀë¶à
-´óSºÍÖÜÓåÃñÐû²¼·ÖÊÖ]
+[ÊÓÆµ£º¹¤×÷·±Ã¦¾ÛÉÙÀë¶à ´óSºÍÖÜÓåÃñÐû²¼·ÖÊÖ]
 [´óS·¢±í·ÖÊÖÉùÃ÷]
 [ÆÀÂÛ]
 ÏàÁµÊ±³¤£º
@@ -20943,42 +20627,28 @@ Reserved
 ÌÚÑ¶Ê×Ò³
 È«Õ¾µ¼º½
 ½ðÇò½±¼ò½é
-½ðÇò½±£¨Golden
-Globe
-Awards£©ÊÇÃÀ¹úµÄÒ»¸öµçÓ°ÓëµçÊÓ½±Ïî£¬ÒÔÕýÍ³¾Û²ÍµÄ·½Ê½¾ÙÐÐ£¬¾Ù°ì·½ÊÇºÃÀ³ÎëÍâ¹ú¼ÇÕßÐ­»á£¨Hollywood
-Foreign
-Press
-Association£¬HFPA£©¡£´Ë½±´Ó1944ÄêÆð£¬Ã¿Äê¾Ù°ìÒ»´Î¡£Ò»°ãÈÏÎª´Ë½±ÊÇÃÀ¹úÓ°ÊÓ½çµÚÈýÖØÒªµÄ½±Ïî£­µÚÒ»ÊÇµçÓ°½çµÄ°ÂË¹¿¨½±£¬µÚ¶þÊÇµçÊÓ½çµÄ°¬ÃÀ½±¡£1996Äêµ±HFPAÇ©ÏÂÐÂµÄµçÊÓ×ª²¥Ð­Òéºó£¬ÕâÖÖÇé¿ö¸ü¼ÓÃ÷ÏÔ¡£
+½ðÇò½±£¨Golden Globe Awards£©ÊÇÃÀ¹úµÄÒ»¸öµçÓ°ÓëµçÊÓ½±Ïî£¬ÒÔÕýÍ³¾Û²ÍµÄ·½Ê½¾ÙÐÐ£¬¾Ù°ì·½ÊÇºÃÀ³ÎëÍâ¹ú¼ÇÕßÐ­»á£¨Hollywood Foreign Press Association£¬HFPA£©¡£´Ë½±´Ó1944ÄêÆð£¬Ã¿Äê¾Ù°ìÒ»´Î¡£Ò»°ãÈÏÎª´Ë½±ÊÇÃÀ¹úÓ°ÊÓ½çµÚÈýÖØÒªµÄ½±Ïî£­µÚÒ»ÊÇµçÓ°½çµÄ°ÂË¹¿¨½±£¬µÚ¶þÊÇµçÊÓ½çµÄ°¬ÃÀ½±¡£1996Äêµ±HFPAÇ©ÏÂÐÂµÄµçÊÓ×ª²¥Ð­Òéºó£¬ÕâÖÖÇé¿ö¸ü¼ÓÃ÷ÏÔ¡£
 ´Ë½±µÄ×îÖÕ½á¹û£¬ÊÇÓÉ96Î»¼ÇÕß£¨´ó¶àÊýÊÇ¼æÖ°£©µÄÍ¶Æ±²úÉú¡£ÕâÐ©ÈË¾Ó×¡ÔÚ¼ÓÀû¸£ÄáÑÇÖÝµÄºÃÀ³Îë£¬¶¼ÓëÃÀ¹ú¹úÍâµÄÃ½Ìå´ò½»µÀ¡£Ö±µ½2003ÄêÖ®Ç°£¬½ðÇò½±µÄ°ä½±ÍíÑç¶¼ÔÚÃÀ¹úµçÓ°ÒÕÊõÓë¿ÆÑ§Ñ§ÔºÎª°ÂË¹¿¨½±Í¶Æ±Ö®ÈÕµÄ¼¸ÌìÇ°¾Ù°ì¡£²é¿´ÏêÏ¸
 ¡¶Êê×ï¡·Åõ×î¼Ñ
 ¡¶É«£¬½ä¡·±§º¶ÍâÓïÆ¬½±
 [µÚ65½ì½ðÇò½±µçÓ°Àà½±ÌáÃû][µÚ65½ì½ðÇò½±µçÊÓÀà½±ÌáÃû]
-[ÃÀÁªÉç£º½ðÇò½±²Ý²ÝÊÕ³¡
-¡¶Êê×ï¡·µÍµ÷»ñ½±][·¢±íÆÀÂÛ]
+[ÃÀÁªÉç£º½ðÇò½±²Ý²ÝÊÕ³¡ ¡¶Êê×ï¡·µÍµ÷»ñ½±][·¢±íÆÀÂÛ]
 [Â·Í¸Éç£ºÊê×ï¡¢Àí·¢Ê¦½ðÇò½±ÉÏÆ½·ÖÇïÉ«¸÷¶áµÃÁ½½ð]
-[·¨ÐÂÉç£º²»ÁÐµß·çÏ¯¾í½ðÇò½±
-Ó¢¹úÃ÷ÐÇ¡°³ÆÍõ·âºó¡±]
-[¶À¼Ò×ÛÆÀ£ºµÚ65½ì½ðÇò½±ÎÞÈËºÈ²Ê
-¼Å¾²ÀïÍ¸Â¶×ÅÐúÏù]
+[·¨ÐÂÉç£º²»ÁÐµß·çÏ¯¾í½ðÇò½± Ó¢¹úÃ÷ÐÇ¡°³ÆÍõ·âºó¡±]
+[¶À¼Ò×ÛÆÀ£ºµÚ65½ì½ðÇò½±ÎÞÈËºÈ²Ê ¼Å¾²ÀïÍ¸Â¶×ÅÐúÏù]
 ½ðÇò°ä½±Àñ65ÄêÀ´Ê×´ÎÈ¡Ïû
 ¿÷8000ÍòÃÀÔª
 [Ë¹µÙ·Ò¡¤Ë¹Æ¤¶û²®¸ñ½ðÇò½±¡°ÖÕÉú³É¾Í½±¡±ÍÆ³ÙÒ»ÄêÁì½±]
-[½ðÇò½±°ä½±Àñ±»ÆÈÈ¡Ïû
-ÇÇÖÎ¡¤¿ËÂ³Äá±»Ö¸ÊÇÄ»ºóÍÆÊÖ]
-[70Î»Ã÷ÐÇÁªÊÖ±à¾ç¼¯ÌåµÖÖÆ½ðÇò
-¶àÎ»ºÃÀ³Îë´óÍóÏìÓ¦]
-[ÃÀ¹ú±à¾ç´ó°Õ¹¤»ðÊÆÂûÑÓ
-½ðÇò½±°ÂË¹¿¨ÃæÁÙ¡°´ÊÇî¡±]
-[Ôâ¶àÎ»ÐÇµÖÖÆ
-Ö÷°ì·½£ºÅ¬Á¦°ìºÃÃ»ÓÐÑÝÔ±²Î¼ÓµÄ½ðÇò½±]
+[½ðÇò½±°ä½±Àñ±»ÆÈÈ¡Ïû ÇÇÖÎ¡¤¿ËÂ³Äá±»Ö¸ÊÇÄ»ºóÍÆÊÖ]
+[70Î»Ã÷ÐÇÁªÊÖ±à¾ç¼¯ÌåµÖÖÆ½ðÇò ¶àÎ»ºÃÀ³Îë´óÍóÏìÓ¦]
+[ÃÀ¹ú±à¾ç´ó°Õ¹¤»ðÊÆÂûÑÓ ½ðÇò½±°ÂË¹¿¨ÃæÁÙ¡°´ÊÇî¡±]
+[Ôâ¶àÎ»ÐÇµÖÖÆ Ö÷°ì·½£ºÅ¬Á¦°ìºÃÃ»ÓÐÑÝÔ±²Î¼ÓµÄ½ðÇò½±]
 ¾çÇéÀà×î¼ÑÓ°Æ¬£º
 ¡¶Êê×ï¡·
-×î¼Ñµ¼ÑÝ£ºÖìÀû°²¡¤Ð¤±´¶û(
-¡¶Ç±Ë®ÖÓÓëºûµû¡·)
+×î¼Ñµ¼ÑÝ£ºÖìÀû°²¡¤Ð¤±´¶û( ¡¶Ç±Ë®ÖÓÓëºûµû¡·)
 ¾çÇéÀà×î¼ÑÄÐÑÝÔ±£º
 µ¤Äá¶û¡¤´÷-ÁõÒ×Ë¹
-(
-¡¶ÑªÉ«½«ÖÁ¡·)
+( ¡¶ÑªÉ«½«ÖÁ¡·)
 ¾çÇéÀà×î¼ÑÅ®ÑÝÔ±£ºÜïÀò¡¤¿ËÀïË¹µÙ
 (¡¶Ô¶ÀëËý¡·)
 Ï²¾ç/ÒôÀÖÀà×î¼ÑÓ°Æ¬£º
@@ -20986,18 +20656,15 @@ Association£¬HFPA£©¡£´Ë½±´Ó1944ÄêÆð£¬Ã¿Äê¾Ù°ìÒ»´Î¡£Ò»°ãÈÏÎª´Ë½±ÊÇÃÀ¹úÓ°ÊÓ½çµÚÈýÖ
 Ï²¾ç/ÒôÀÖÀà×î¼ÑÄÐÑÝÔ±£º
 Ô¼º²Äá¡¤µÂÆÕ
 (¡¶Àí·¢Ê¦ÌÕµÂ¡·)
-Ï²¾ç/ÒôÀÖÀà×î¼ÑÅ®ÑÝÔ±£ºÂêÀö°º¡¤¸èµÙÑÇ(
-¡¶Ãµ¹åÈËÉú¡·)
+Ï²¾ç/ÒôÀÖÀà×î¼ÑÅ®ÑÝÔ±£ºÂêÀö°º¡¤¸èµÙÑÇ( ¡¶Ãµ¹åÈËÉú¡·)
 ×î¼ÑÄÐÅä½Ç£º
 ¼ÖÎ¬¶û¡¤°ÍµÇ
-(
-¡¶ÀÏÎÞËùÒÀ¡·)
+( ¡¶ÀÏÎÞËùÒÀ¡·)
 ×î¼ÑÅ®Åä½Ç£º
 ¿­ÌØ¡¤²¼À¼ÇÐÌØ
 (¡¶×ÔÓÉ³Û³Ò¡·)
 ×î¼Ñ±à¾ç£º¿Æ¶÷ÐÖµÜ
-(
-¡¶ÀÏÎÞËùÒÀ¡·)
+( ¡¶ÀÏÎÞËùÒÀ¡·)
 ×î¼ÑÍâÓïÆ¬£º
 ¡¶Ç±Ë®ÖÓÓëºûµû¡·£¬
 ·¨¹ú
@@ -21014,21 +20681,15 @@ Spielberg
 ¾çÇéÀà×î¼Ñ¾ç¼¯£º
 ¡¶¹ã¸æ¿ñÈË¡·
 ¾çÇéÀà×î¼ÑÄÐÑÝÔ±£ºÇÇ¡¤ººÄ·
-(
-¡¶¹ã¸æ¿ñÈË¡·
-)
+( ¡¶¹ã¸æ¿ñÈË¡· )
 ¾çÇéÀà×î¼ÑÅ®ÑÝÔ±£º
 ¸ñÂ×¡¤¿ËÂåË¹
-(
-¡¶ÁÑºÛ¡·
-)
+( ¡¶ÁÑºÛ¡· )
 ÒôÀÖ/Ï²¾çÀà×î¼Ñ¾ç¼¯£º
 ¡¶ÁÙÊ±ÑÝÔ±¡·
 ÒôÀÖ/Ï²¾çÀà×î¼ÑÄÐÑÝÔ±£º
 ´óÎÀ¡¤¶Å³þÄá
-(
-¡¶¼ÓÖÝÃÒÇé¡·
-)
+( ¡¶¼ÓÖÝÃÒÇé¡· )
 ÒôÀÖ/Ï²¾çÀà×î¼ÑÅ®ÑÝÔ±£º
 µÙÄÈ¡¤·Æ
 (¡¶ÎÒÎªÏ²¾ç¿ñ¡·)
@@ -21233,16 +20894,13 @@ the
 Time
 of
 Cholera£º¡¶Despedida¡·
-¡¶ÐÒ¸£ÒÑÊÅ¡·£º¡¶Grace
-Is
-Gone¡·
+¡¶ÐÒ¸£ÒÑÊÅ¡·£º¡¶Grace Is Gone¡·
 ¡¶»ÄÒ°Éú´æ¡·£ºGuaranteed
 ¡¶Ä§·¨ÆæÔµ¡·£ºThat's
 How
 You
 Know
-¡¶ÓÀ²»Ö¹²½¡·£º¡¶Walk
-Hard¡·
+¡¶ÓÀ²»Ö¹²½¡·£º¡¶Walk Hard¡·
 ¡úÖÕÉí³É¾Í½±£º
 ¡÷Ë¹µÙÎÄ¡¤Ë¹Æ¤¶û²®¸ñ
 µçÊÓÀà£º¾çÇéÀà×î¼Ñ¾ç¼¯ÌáÃû
@@ -21282,17 +20940,11 @@ Hard¡·
 ¡¶Ú¤ÕìÌ½°¬°¬¡·
 ¡¶ÁÙÊ±ÑÝÔ±¡·
 ×î¼ÑÃÔÄã¾ç£¯µçÊÓµçÓ°ÌáÃû
-¡÷¡¶»ê¹éÉËÏ¥¹È¡·(Bury
-My
-Heart
-at
-Wounded
-Knee)
+¡÷¡¶»ê¹éÉËÏ¥¹È¡·(Bury My Heart at Wounded Knee)
 ¡÷¡¶ºÏ»ïÈË¡·
 The
 Company
-¡÷¡¶ÎåÈÕ¡·(Five
-Days)
+¡÷¡¶ÎåÈÕ¡·(Five Days)
 ¡÷
 ¡¶¹ú¼ÒÄÚ²¿¡·
 The
@@ -21341,69 +20993,44 @@ Serkis
 ¡÷ÍþÁ®¡¤ÏÄÌØÄÉ
 William
 Shatner
-(¡¶²¨Ê¿¶ÙÂÉ·¨¡·Boston
-Legal)
+(¡¶²¨Ê¿¶ÙÂÉ·¨¡·Boston Legal)
 ¡÷ÌÆÄÉµÂ¡¤ÈøÉªÀ¼
 Donald
 Sutherland
-(¡¶×ï¶ñ²Æ¸»¡·Dirty
-Sexy
-Money)
+(¡¶×ï¶ñ²Æ¸»¡·Dirty Sexy Money)
 ¡ú×î¼ÑÅ®Åä½ÇÌáÃû£º
 ¡÷ÂÜË¿¡¤°Ý¶÷Rose
 Byrne
 (¡¶ÁÑºÛ¡·Damages)
 ¡÷ÈðÇÐ¶û¡¤¸ñÀï·ÆË¹Rachel
 Griffith
-(¡¶¼Ò×å·çÔÆ¡·Brothers
-&amp;
-Sisters)
+(¡¶¼Ò×å·çÔÆ¡·Brothers &amp; Sisters)
 ¡÷¿­ÉªÁÕ¡¤Ï£¶ûKatherine
 Heigl
-(¡¶ÊµÏ°Ò½Éú¸ñÀÙ¡·Grey's
-Anatomy)
+(¡¶ÊµÏ°Ò½Éú¸ñÀÙ¡·Grey's Anatomy)
 ¡÷ÈøÂüÉ¯¡¤Äª¶ÙSamantha
 Morton
 (¡¶ÀÊ¸£Õò¡·Longford)
 ¡÷°²ÄÈ¡¤ÅÁ¿üÒò
 Anna
 Paquin
-(¡¶»ê¹éÉËÏ¥¹È¡·Bury
-My
-Heart
-at
-Wounded
-Knee)
+(¡¶»ê¹éÉËÏ¥¹È¡·Bury My Heart at Wounded Knee)
 ¡÷½ÜÃ×-ÆÕÀ³Ë¹ÀûJamie
 Pressly
-(¡¶ÓÞÈËÉÆÊÂ¡·My
-Name
-is
-Earl)
+(¡¶ÓÞÈËÉÆÊÂ¡·My Name is Earl)
 ¡ú×î¼ÑÃÔÄã¾ç»òµçÊÓµçÓ°ÄÐÑÝÔ±ÌáÃû£º
 ¡÷ÑÇµ±¡¤±ÈÆæAdam
-Beach(¡¶»ê¹éÉËÏ¥¹È¡·Bury
-My
-Heart
-at
-Wounded
-Knee)
+Beach(¡¶»ê¹éÉËÏ¥¹È¡·Bury My Heart at Wounded Knee)
 ¡÷¼ªÄ·¡¤¼ªÀÍµÂ±¾ÌØJim
 Broadbent
 (¡¶ÀÊ¸£Õò¡·Longford)
 ¡÷Å·ÄÚË¹ÌØ¡¤²©¸ñÄþ
 Ernest
-Borgnine(¡¶Ê¥µ®½ÚÒ¯Ò¯¡·
-A
-Grandpa
-for
-Christmas)
+Borgnine(¡¶Ê¥µ®½ÚÒ¯Ò¯¡· A Grandpa for Christmas)
 ¡÷½ÜÉ­¡¤°¬Èø¿Ë
 Jason
 Issacs
-(¡¶¹ú¼ÒÄÚ²¿¡·The
-State
-Within)
+(¡¶¹ú¼ÒÄÚ²¿¡·The State Within)
 ¡÷Õ²Ä·Ë¹¡¤ÄÚË¹±ÈÌØ
 James
 Nesbitt
@@ -21412,28 +21039,18 @@ Nesbitt
 ¡÷²¼À³Ë¹¡¤´ïÀ­Ë¹¡¤»ô»ªµÂ
 Bryce
 Dallas
-Howard(¡¶ÈçÄãËù°®¡·As
-You
-Like
-It)
+Howard(¡¶ÈçÄãËù°®¡·As You Like It)
 ¡÷¿üÒò¡¤À­µÙ·¨Queen
 Latifah
-(¡¶ÉúÃüÖ§µã¡·Life
-Support)
+(¡¶ÉúÃüÖ§µã¡·Life Support)
 ¡÷´÷²©À­¡¤Ã·Î÷Debra
-Messing(¡¶Í·ºÅÇ°ÆÞ¡·The
-Starter
-Wife)
+Messing(¡¶Í·ºÅÇ°ÆÞ¡·The Starter Wife)
 ¡÷Î÷Ï¯¡¤Ë¹±´Î÷¿ËSisissy
 Spacek
-(¡¶»ôÀòË¹¡¤ÎÚ×ÈÓ°Ïñ¡·Pictures
-of
-Hollis
-Woods)
+(¡¶»ôÀòË¹¡¤ÎÚ×ÈÓ°Ïñ¡·Pictures of Hollis Woods)
 ¡÷Â³Ë¼¡¤Íþ¶ûÉ­Ruth
 Wilson
-(¡¶¼ò°®¡·Jane
-Eyre)
+(¡¶¼ò°®¡·Jane Eyre)
 ½ðÇòÃûÆ¬
 ¡¶°Í±ðËþ¡·
 64½ì½ðÇò½±×î¼Ñ¾çÇéÆ¬£¬²¼À­µÂ¡¤±ËÌØÖ÷ÑÝ¡£
@@ -21939,11 +21556,7 @@ KittyÃÎ»ÃÖ®¹âÎèÌ¨¾çÈ«¹úÊ×ÑÝ±±¾©Õ¾
 ³¡¹Ý£º½â·Å¾ü¸è¾çÔº
 Æ±¼Û£º80/180/280/480/680/880
 ¾çÇé1
-ÓîÖæµÄ¹«Ö÷ºÍÍõ×Ó£¨Hello
-Kitty
-ºÍ
-Dear
-Daniel£©»¹ÓÐËûÃÇÈÈÇéµÄÅóÓÑÃÇ´ø×Å¿ìÀÖºÍ¸èÉùÀ´µ½ÁËµØÇò£¬ËûÃÇÊÇÎ§ÈÆ×ÅÓîÖæ»·ÓÎµÄÓîÖæ¿ñ»¶½ÚÊ¹Õß¡­¡­
+ÓîÖæµÄ¹«Ö÷ºÍÍõ×Ó£¨Hello Kitty ºÍ Dear Daniel£©»¹ÓÐËûÃÇÈÈÇéµÄÅóÓÑÃÇ´ø×Å¿ìÀÖºÍ¸èÉùÀ´µ½ÁËµØÇò£¬ËûÃÇÊÇÎ§ÈÆ×ÅÓîÖæ»·ÓÎµÄÓîÖæ¿ñ»¶½ÚÊ¹Õß¡­¡­
 ¾çÇé2
 Õýµ±¿ñ»¶½Ú½øÈë¸ß³±Ê±£¬Í»È»¼äÖ§ÅäÓîÖæµØÓüµÄºÚ°µÖ®Íõ¡ª¡ªºÚ¶´³öÏÖÁË£»ËûÏàÐÅÈËÃÇÊÇ×ÔË½µÄ£¬ÓÚÊÇÓÃºÚ°µÁ¦Á¿´ø×ßÁËHello
 Kitty
@@ -22008,11 +21621,7 @@ KittyÃÎ»ÃÖ®¹âÎèÌ¨¾çÈ«¹úÊ×ÑÝ±±¾©Õ¾
 ³¡¹Ý£º½â·Å¾ü¸è¾çÔº
 Æ±¼Û£º80/180/280/480/680/880
 ¾çÇé1
-ÓîÖæµÄ¹«Ö÷ºÍÍõ×Ó£¨Hello
-Kitty
-ºÍ
-Dear
-Daniel£©»¹ÓÐËûÃÇÈÈÇéµÄÅóÓÑÃÇ´ø×Å¿ìÀÖºÍ¸èÉùÀ´µ½ÁËµØÇò£¬ËûÃÇÊÇÎ§ÈÆ×ÅÓîÖæ»·ÓÎµÄÓîÖæ¿ñ»¶½ÚÊ¹Õß¡­¡­
+ÓîÖæµÄ¹«Ö÷ºÍÍõ×Ó£¨Hello Kitty ºÍ Dear Daniel£©»¹ÓÐËûÃÇÈÈÇéµÄÅóÓÑÃÇ´ø×Å¿ìÀÖºÍ¸èÉùÀ´µ½ÁËµØÇò£¬ËûÃÇÊÇÎ§ÈÆ×ÅÓîÖæ»·ÓÎµÄÓîÖæ¿ñ»¶½ÚÊ¹Õß¡­¡­
 ¾çÇé2
 Õýµ±¿ñ»¶½Ú½øÈë¸ß³±Ê±£¬Í»È»¼äÖ§ÅäÓîÖæµØÓüµÄºÚ°µÖ®Íõ¡ª¡ªºÚ¶´³öÏÖÁË£»ËûÏàÐÅÈËÃÇÊÇ×ÔË½µÄ£¬ÓÚÊÇÓÃºÚ°µÁ¦Á¿´ø×ßÁËHello
 Kitty
@@ -22468,8 +22077,7 @@ Reserved
 ¡¶ÃÀÎ¶µÄÍ¯»°¡·¾«´âÐÀÉÍ
 ºþÄÏÎÀÊÓ¡¢ÌÚÑ¶Íø°®ÐÄ×Ü¶¯Ô±
 [ÖÜ±Ê³©·ÅÆúÑÝ³ö»ØºþÄÏêâÔÖ]ºþÄÏÎÀÊÓÎåÖØ¾ªÏ²ºØÐÂ´º]
-[ºþÄÏÎÀÊÓ°®ÐÄ´óÇ©Ãû
-¶ÌÐÅÊÕÈëÈ«¶î¾èÔù]
+[ºþÄÏÎÀÊÓ°®ÐÄ´óÇ©Ãû ¶ÌÐÅÊÕÈëÈ«¶î¾èÔù]
 ¡¶Î¢Ð¦°ÙÊÂ´ï¡·2ÔÂ3ÈÕ¿ªÑÝ
 ¡¶Î¢Ð¦°ÙÊÂ´ï¡·½«ÓÉÌðÃÛ½ÌÖ÷ÍõÐÄÁèºÍÈËÆøÐ¡ÌìÍõÕÅ¶°ÁºÁªñÇ´òÔì¡­[ÏêÏ¸]
 ºþÄÏÎÀÊÓ¡°½ðÓ¥¶À²¥¾ç³¡¡±2ÔÂ3ÈÕ¿ªÑÝ¡£
@@ -22706,8 +22314,7 @@ Reserved
 ¡¶ÃÀÎ¶µÄÍ¯»°¡·¾«´âÐÀÉÍ
 ºþÄÏÎÀÊÓ¡¢ÌÚÑ¶Íø°®ÐÄ×Ü¶¯Ô±
 [ÖÜ±Ê³©·ÅÆúÑÝ³ö»ØºþÄÏêâÔÖ]ºþÄÏÎÀÊÓÎåÖØ¾ªÏ²ºØÐÂ´º]
-[ºþÄÏÎÀÊÓ°®ÐÄ´óÇ©Ãû
-¶ÌÐÅÊÕÈëÈ«¶î¾èÔù]
+[ºþÄÏÎÀÊÓ°®ÐÄ´óÇ©Ãû ¶ÌÐÅÊÕÈëÈ«¶î¾èÔù]
 ¡¶Î¢Ð¦°ÙÊÂ´ï¡·2ÔÂ3ÈÕ¿ªÑÝ
 ¡¶Î¢Ð¦°ÙÊÂ´ï¡·½«ÓÉÌðÃÛ½ÌÖ÷ÍõÐÄÁèºÍÈËÆøÐ¡ÌìÍõÕÅ¶°ÁºÁªñÇ´òÔì¡­[ÏêÏ¸]
 ºþÄÏÎÀÊÓ¡°½ðÓ¥¶À²¥¾ç³¡¡±2ÔÂ3ÈÕ¿ªÑÝ¡£
@@ -23265,8 +22872,7 @@ Reserved
 ÊÓÆµ×¨·ÃÖ÷´´£º
 [µ¼ÑÝÖìÑÓÆ½][ÖÜ½ÜÂ×][¡°ºÚÆ¤¡±»Æ²³]
 ÊÓÆµÈº·ÃÖ÷´´£º
-[ÖÜ½ÜÂ×¡¢°¢Sa
-][Îâ×ÚÏÜ¡¢ÖìÑÓÆ½][ãÆÄÝ]
+[ÖÜ½ÜÂ×¡¢°¢Sa ][Îâ×ÚÏÜ¡¢ÖìÑÓÆ½][ãÆÄÝ]
 ×îÐÂ±¨µÀ
 ¡¤³õÒ»¡°·ÖÒ»°ë¡±
 ¡¶´ó¹àÀº¡·ÉÏÓ³Á½ÌìÆ±·¿3000Íò
@@ -23307,8 +22913,7 @@ Chu
 ÉÏÓ³£º
 08Äê2ÔÂ7ÈÕ
 ¾çÇé£º
-ÉÙÄêÊÀ½Ü(ÖÜ½ÜÂ×
-ÊÎ)´ÓÐ¡ÔÚ¹¦·òÑ§Ð£³¤´ó£¬Á·¾ÍÁËÒ»ÉíºÃ¹¦·ò²¢ÓµÓÐÒìÓÚ³£ÈËµÄÊÖ¸Ð£¬ÎÞÒâ¼äÕ¹ÏÖ¡°ÖÐÍ¶¡±µÄÉñ¼¼£¬£¬±»½ÖÍ·ÌÖÉú»îÇÒ¹íµã×ÓÌØ¶àµÄÁ¢Êå¡­[¸ü¶à]
+ÉÙÄêÊÀ½Ü(ÖÜ½ÜÂ× ÊÎ)´ÓÐ¡ÔÚ¹¦·òÑ§Ð£³¤´ó£¬Á·¾ÍÁËÒ»ÉíºÃ¹¦·ò²¢ÓµÓÐÒìÓÚ³£ÈËµÄÊÖ¸Ð£¬ÎÞÒâ¼äÕ¹ÏÖ¡°ÖÐÍ¶¡±µÄÉñ¼¼£¬£¬±»½ÖÍ·ÌÖÉú»îÇÒ¹íµã×ÓÌØ¶àµÄÁ¢Êå¡­[¸ü¶à]
 ¡¶´ó¹àÀº¡·ÖØÒª½ÇÉ«ÈËÎïÆ×
 ÊÀ
 ½Ü(ÖÜ½ÜÂ×ÊÎ)
@@ -23811,8 +23416,7 @@ Reserved
 ÎÒÑÝÁÖÄï×ÓÊÊºÏÂð
 ÀÏ°æ¡¶Ë®ä°¡·¾­µä»Ø¹Ë
 ÕÅÉÜÁÖ¼ò½é£º
-ÖÐ¹úµçÊÓ¾çÖÆ×÷ÖÐÐÄÒ»¼¶µ¼ÑÝ¡£´ú±í×÷ÓÐ¡¶Èý
-¹úÑÝÒå¡·¡¢¡¶Ë®ä°´«¡·¡¢
+ÖÐ¹úµçÊÓ¾çÖÆ×÷ÖÐÐÄÒ»¼¶µ¼ÑÝ¡£´ú±í×÷ÓÐ¡¶Èý ¹úÑÝÒå¡·¡¢¡¶Ë®ä°´«¡·¡¢
 ¡¶Ñî¼Ò½«¡·µÈ¡£
 96°æ¡¶Ë®ä°´«¡·ÓµÓÐÇ¿´óµÄÖÆ×÷°àµ×£¬ÊÇÀÏ°æËÄ´óÃûÖøÖÐ¸Ä±àµÃ½ÏÎª³É¹¦µÄÒ»²¿¡£ÀîÑ©½¡¡¢ê°½ðÉú¡¢Ò°Ã¢µÈÑÝÔ±ËÜÔìµÄÁºÉ½ºÃººÐÎÏó³ÉÎª¼ÒÓ÷»§ÏþµÄ¾­µäÐÎÏó¡£Ò»Ê×¡¶ºÃºº¸è¡·¸üÊÇÁ÷´«ÖÁ½ñ¡£
 ÀÏ°æ¡¶Ë®ä°¡·Ö÷ÌâÇúÊÔÌý
@@ -23897,11 +23501,8 @@ Nightwish¸æ±ð³Â¾É½øÈëÐÂÊ±´ú
 ¡¤ÌÚÑ¶Ò¡¹ö×¨·ÃNightwish
 ¾Û½¹ÐÂÖ÷³ªÌôÕ½Ô­·ç¸ñ
 ¡¤NightwishÅ¯³¡ÀÖ¶ÓSkylarkÑÝÒï½»ÏìÊ·Ê«ËÙ¶È½ðÊô
-¡¤ÐÂÖ÷³ªAnette´øÀ´È«ÐÂ×¨¼­¡¶Dark
-Passion
-Play¡·
-¡¤¡¶Century
-Child¡·¼ÓÈëÄÐÉù
+¡¤ÐÂÖ÷³ªAnette´øÀ´È«ÐÂ×¨¼­¡¶Dark Passion Play¡·
+¡¤¡¶Century Child¡·¼ÓÈëÄÐÉù
 ÄÐÅ®¶Ô³ª±íÏÖ²»Ë×
 ¡¤¡¶Wishmaster¡·´øÀ´·ÒÀ¼¸è¾ç½»Ïì½ðÊôµÄÁ¦Á¿ÌåÑé
 ¡¤NightwishÆù½ñÎªÖ¹×îºÃµÄ×¨¼­Ö®Ò»¡¶Oceanborn¡·
@@ -23926,9 +23527,7 @@ Turunen
 ÒôÀÖµÄÔ­´´ÐÔ×ÔÈ»ÊÇNightwishÊÜµ½»¶Ó­µÄÔ­Òò£¬²»¹ý´ÓÐ¡±ã½ÓÊÜ¹ÅµäÉùÀÖÑÝ³ªÑµÁ·µÄTarja£¬¸üÊÇNightwish³É¹¦µÄÖØÒª¹¦³¼£¬ÔÚ¼ÓÈëNightwishÖ®Ç°¡­¡­
 Anette
 Olzon
-µ±NightwishÔÚÍøÉÏÐû²¼Ñ°ÕÒÐÂÖ÷³ªÊ±¾ÍÒýÆð¸èÃÔ¼«´óµÄ¹Ø×¢¡£Ö±ÖÁ2007ÄêÐÂÖ÷³ªAnette²Å¾ªÑÞÁÁÏà£¬ÔÚÐÂ×¨¼­¡¶Dark
-Passion
-Play¡·µ£¸ÙÖ÷³ª¡­¡­
+µ±NightwishÔÚÍøÉÏÐû²¼Ñ°ÕÒÐÂÖ÷³ªÊ±¾ÍÒýÆð¸èÃÔ¼«´óµÄ¹Ø×¢¡£Ö±ÖÁ2007ÄêÐÂÖ÷³ªAnette²Å¾ªÑÞÁÁÏà£¬ÔÚÐÂ×¨¼­¡¶Dark Passion Play¡·µ£¸ÙÖ÷³ª¡­¡­
 Tarja
 Turunen
 NightwishÈ«ÐÂÕóÈÝ
@@ -23949,11 +23548,8 @@ Olzon
 µã»÷ÊÕ¿´MV
 ¡¶Oceanborn¡·
 ¡¶Wishmaster¡·
-¡¶Century
-Child¡·
-¡¶Dark
-Passion
-Play¡·
+¡¶Century Child¡·
+¡¶Dark Passion Play¡·
 ¹ØÓÚÌÚÑ¶
 |
 About
@@ -23995,11 +23591,8 @@ Nightwish¸æ±ð³Â¾É½øÈëÐÂÊ±´ú
 ¡¤ÌÚÑ¶Ò¡¹ö×¨·ÃNightwish
 ¾Û½¹ÐÂÖ÷³ªÌôÕ½Ô­·ç¸ñ
 ¡¤NightwishÅ¯³¡ÀÖ¶ÓSkylarkÑÝÒï½»ÏìÊ·Ê«ËÙ¶È½ðÊô
-¡¤ÐÂÖ÷³ªAnette´øÀ´È«ÐÂ×¨¼­¡¶Dark
-Passion
-Play¡·
-¡¤¡¶Century
-Child¡·¼ÓÈëÄÐÉù
+¡¤ÐÂÖ÷³ªAnette´øÀ´È«ÐÂ×¨¼­¡¶Dark Passion Play¡·
+¡¤¡¶Century Child¡·¼ÓÈëÄÐÉù
 ÄÐÅ®¶Ô³ª±íÏÖ²»Ë×
 ¡¤¡¶Wishmaster¡·´øÀ´·ÒÀ¼¸è¾ç½»Ïì½ðÊôµÄÁ¦Á¿ÌåÑé
 ¡¤NightwishÆù½ñÎªÖ¹×îºÃµÄ×¨¼­Ö®Ò»¡¶Oceanborn¡·
@@ -24024,9 +23617,7 @@ Turunen
 ÒôÀÖµÄÔ­´´ÐÔ×ÔÈ»ÊÇNightwishÊÜµ½»¶Ó­µÄÔ­Òò£¬²»¹ý´ÓÐ¡±ã½ÓÊÜ¹ÅµäÉùÀÖÑÝ³ªÑµÁ·µÄTarja£¬¸üÊÇNightwish³É¹¦µÄÖØÒª¹¦³¼£¬ÔÚ¼ÓÈëNightwishÖ®Ç°¡­¡­
 Anette
 Olzon
-µ±NightwishÔÚÍøÉÏÐû²¼Ñ°ÕÒÐÂÖ÷³ªÊ±¾ÍÒýÆð¸èÃÔ¼«´óµÄ¹Ø×¢¡£Ö±ÖÁ2007ÄêÐÂÖ÷³ªAnette²Å¾ªÑÞÁÁÏà£¬ÔÚÐÂ×¨¼­¡¶Dark
-Passion
-Play¡·µ£¸ÙÖ÷³ª¡­¡­
+µ±NightwishÔÚÍøÉÏÐû²¼Ñ°ÕÒÐÂÖ÷³ªÊ±¾ÍÒýÆð¸èÃÔ¼«´óµÄ¹Ø×¢¡£Ö±ÖÁ2007ÄêÐÂÖ÷³ªAnette²Å¾ªÑÞÁÁÏà£¬ÔÚÐÂ×¨¼­¡¶Dark Passion Play¡·µ£¸ÙÖ÷³ª¡­¡­
 Tarja
 Turunen
 NightwishÈ«ÐÂÕóÈÝ
@@ -24047,11 +23638,8 @@ Olzon
 µã»÷ÊÕ¿´MV
 ¡¶Oceanborn¡·
 ¡¶Wishmaster¡·
-¡¶Century
-Child¡·
-¡¶Dark
-Passion
-Play¡·
+¡¶Century Child¡·
+¡¶Dark Passion Play¡·
 ¹ØÓÚÌÚÑ¶
 |
 About
@@ -24170,8 +23758,7 @@ Reserved
 &#183;Õâ¸öÊ±¼ä£¬¶¨¸ñÔÚ1984Äê1ÔÂ20ÈÕ&#183;Õâ¸öµØµã£¬·¢ÉúÔÚÕýÈ«ËÙÆð·ÉµÄ·Éµú³ªÆ¬&#183;ÕâÕÅ×¨¼­£¬Ãû½Ð¡¶ÝëÈ»»ØÊ×¡·&#183;ÕâÎ»¸èÊÖ£¬Ãû½ÐËÕÜÇ&#183;Õâ´ÎÅÅÃû£¬Ì¨Íå°Ù¼Ñ×¨¼­µÚ43Ãû19¡­¡­
 [ÏêÏ¸]
 ¡¤ºúÝíÎµ£ºÔÚÒâ£¬Ö»ÒòÓûÍû»¹µÃ¼ÌÐø(09ÈÕ15:08)
-²»Öª¹ýÁË¶àÉÙÄê£¬ºúÝíÎµÖÕÓÚÓÖÓÐÁËÐÂµÄ³ªÆ¬¡£µ«ÕâÒ»´Î£¬²»ÊÇ´óµú£¬ÊÇEP¡£×¨¼­£¬¶ÔÓÚËýÀ´Ëµ£¬ËÆºõÊÇÒ»¸öÎÞ·¨ÊµÏÖµÄÃÎÏë¡£¡¶¡¶Don¡¯tThinkJustDo¡·£¬±ðÈ¥Ïë¡­¡­
-[ÏêÏ¸]
+²»Öª¹ýÁË¶àÉÙÄê£¬ºúÝíÎµÖÕÓÚÓÖÓÐÁËÐÂµÄ³ªÆ¬¡£µ«ÕâÒ»´Î£¬²»ÊÇ´óµú£¬ÊÇEP¡£×¨¼­£¬¶ÔÓÚËýÀ´Ëµ£¬ËÆºõÊÇÒ»¸öÎÞ·¨ÊµÏÖµÄÃÎÏë¡£¡¶¡¶Don¡¯tThinkJustDo¡·£¬±ðÈ¥Ïë¡­¡­ [ÏêÏ¸]
 ¡¤Çñ´óÁ¢£ºÎ¬ÄÉË¹Ê¥µ®Ö®²»Ò¹Çé(09ÈÕ15:02)
 12ÔÂ24ÈÕÍí£¬µ±»ÆÒ«Ã÷ÂÊÁì×ÅÈËÉ½ÈËº£µÄ5Ãû³ÉÔ±ÔÙ´ÎÔÚÉÏº£´óÎèÌ¨¿ª³ªÊ±£¬ËûËµËûÔÚÉÏº£¶È¹ýÁËÒ»¸öºÜÄÑÍüµÄÊ¥µ®¡£ÔÚ2007Äê7ÔÂ³õ£¬»ÆÒ«Ã÷ÔÚ²Î¼ÓÍêLiveEarth¡­¡­
 [ÏêÏ¸]
@@ -24316,8 +23903,7 @@ S.H.E×ö¿Í¡¶·ÛË¿¡·High·­ÏÖ³¡
 ¡¤¡°ÎèÁÖÖÁ×ð¡±µÚÒ»³¡¾öÈü¿ªÈü
 Îèµ¸Ê¢ÑçÉÁÒ«È«³¡
 (01ÔÂ17ÈÕ)
-¡¤¶¼ÊÐ±¯ÇéÏ·¡¶±±·ç´µ
-Ñ©»¨Æ®¡·
+¡¤¶¼ÊÐ±¯ÇéÏ·¡¶±±·ç´µ Ñ©»¨Æ®¡·
 ÕæÇé¸Ð¶¯ÄãÎÒËû
 (01ÔÂ16ÈÕ)
 ¡¤µÚÒ»³¡¾öÈü¼´½«¿ªÈü
@@ -24469,8 +24055,7 @@ S.H.E×ö¿Í¡¶·ÛË¿¡·High·­ÏÖ³¡
 ¡¤¡°ÎèÁÖÖÁ×ð¡±µÚÒ»³¡¾öÈü¿ªÈü
 Îèµ¸Ê¢ÑçÉÁÒ«È«³¡
 (01ÔÂ17ÈÕ)
-¡¤¶¼ÊÐ±¯ÇéÏ·¡¶±±·ç´µ
-Ñ©»¨Æ®¡·
+¡¤¶¼ÊÐ±¯ÇéÏ·¡¶±±·ç´µ Ñ©»¨Æ®¡·
 ÕæÇé¸Ð¶¯ÄãÎÒËû
 (01ÔÂ16ÈÕ)
 ¡¤µÚÒ»³¡¾öÈü¼´½«¿ªÈü
@@ -26274,7 +25859,7 @@ Reserved
 ÒôÀÖÆµµÀ
 ÌÚÑ¶Ê×Ò³
 È«Õ¾µ¼º½
-</
+</ 
 04ÄêÆëÔ¥ÑÝ³ª»áÖ®ºó
 ÆëÇØÆëÔ¥3ÔÂÔÙ¶ÈºÏÌåÑÝ³ª
 ¡¤BeyondË«½Ü×òÍí±±¾©¿ª³ª
@@ -26337,7 +25922,7 @@ Reserved
 ÒôÀÖÆµµÀ
 ÌÚÑ¶Ê×Ò³
 È«Õ¾µ¼º½
-</
+</ 
 04ÄêÆëÔ¥ÑÝ³ª»áÖ®ºó
 ÆëÇØÆëÔ¥3ÔÂÔÙ¶ÈºÏÌåÑÝ³ª
 ¡¤BeyondË«½Ü×òÍí±±¾©¿ª³ª
@@ -26411,10 +25996,8 @@ Reserved
 µã»÷¹Û¿´ÊÓÆµ£º¡¶ÒÔÒ»µÐ°Ù¡·Ðû´«Æ¬
 ¡ï
 ¡°¿ìÀÖ´ðÈË¡±ÎÞÃÅ¼÷»ðÈÈÕ÷¼¯ÖÐ
-[¡¶ÒÔÒ»µÐ°Ù¡·ÌâÐÍ½âÃÜ
-²ÎÈüÌâ¾Å´óÀàÐÍÖØÔÚ°ÂÔË]
-[ºþÄÏÎÀÊÓ½«ÍÆ³ö¡¶ÒÔÒ»µÐ°Ù¡·
-Íôº­³õ²½È·¶¨¼ÓÃË]
+[¡¶ÒÔÒ»µÐ°Ù¡·ÌâÐÍ½âÃÜ ²ÎÈüÌâ¾Å´óÀàÐÍÖØÔÚ°ÂÔË]
+[ºþÄÏÎÀÊÓ½«ÍÆ³ö¡¶ÒÔÒ»µÐ°Ù¡· Íôº­³õ²½È·¶¨¼ÓÃË]
 ¡ï¡¶ÒÔÒ»µÐ°Ù¡·Õ÷¼¯Áî¡ï
 ºþÄÏÎÀÊÓ½«ÓÚ2008ÄêÅ©ÀúÐÂÄêÖ®ºó£¬ÕýÊ½Æô¶¯Ò»µµÓÉÒ»¸öÈËÓëÒ»¸öÒ»°ÙÈËµÄÍÅ¶Ó±ÈÆ´ÖÇÁ¦µÄÈ«ÐÂÄ£Ê½µÄÒæÖÇÀà½ÚÄ¿¡¶ÒÔÒ»µÐ°Ù¡·¡£
 ÈÎºÎÈË¶¼ÓÐ»ú»á»ñµÃ½±Æ·»òÃÎÏë¡£ÎÞÂÛÊÇ±»Ñ¡ÖÐµÄÄÇÒ»¸öÈË£¬»¹ÊÇ²ÎÓëÒ»°ÙÈËµÄÍÅ¶Ó£¬¶¼»áÓÐ»ñ½±µÄ»ú»á¡£ÏÖÔÚÕýÔÚ»ðÈÈÕ÷¼¯ÓÐÐËÈ¤±¨Ãû²Î¼Ó½ÚÄ¿µÄ¡°¿ìÀÖ´ðÈË¡±£¡[ÏêÏ¸][±¨Ãû]
@@ -26841,8 +26424,7 @@ Reserved
 µ±µØÊ±¼ä1ÔÂ22ÈÕÇå³¿£¬µÚ80½ì°ÂË¹¿¨ÌáÃûÃûµ¥ÔÚ±´¸¥ÀûÉ½ÈçÆÚ¹«²¼¡£ÒÔÀäÑªÉ±ÊÖºÍÀäÑª´óºàÎªÖ÷½ÇµÄ¡¶ÀÏÎÞËùÒÀ¡·ºÍ¡¶ÑªÉ«½«ÖÁ¡·¸÷8ÏîÌáÃûÔÚ°ÂË¹¿¨Ö®ÕùÖÐÁìÏÈÒ»²½¡­¡­
 ÏêÏ¸
 Ó°ÐÇÏ£Ë¹¡¤À³¼ª¶ûÉíÍö
-ÔøÖ÷ÑÝ¡¶¶Ï±³É½¡·µÄ°Ä´óÀûÑÇÄÐÑÝÔ±Ï£Ë¹¡¤À³¼ª¶û(Heath
-Ledger)ÓÚÃÀ¹úÊ±¼ä1ÔÂ22ÈÕËÀÓÚÅ¦Ô¼Âü¹þ¶ÙµÄ¹«Ô¢ÄÚ£¬¾¯·½³ÆÆäËÀÒò¿ÉÄÜÎªÓÃÒ©¹ýÁ¿£¬Äê½ö28Ëê¡­¡­
+ÔøÖ÷ÑÝ¡¶¶Ï±³É½¡·µÄ°Ä´óÀûÑÇÄÐÑÝÔ±Ï£Ë¹¡¤À³¼ª¶û(Heath Ledger)ÓÚÃÀ¹úÊ±¼ä1ÔÂ22ÈÕËÀÓÚÅ¦Ô¼Âü¹þ¶ÙµÄ¹«Ô¢ÄÚ£¬¾¯·½³ÆÆäËÀÒò¿ÉÄÜÎªÓÃÒ©¹ýÁ¿£¬Äê½ö28Ëê¡­¡­
 ÏêÏ¸
 Vitas2008ÐÂ´ºÑÝ³ª»á
 2007Äê6ÔÂ£¬Î¬ËþË¹Ê×¶ÈÖÐ¹úÑ²ÑÝÏÆÆð²»Ð¡ÀË³±£¬¸èÃÔ¿ªÊ¼¶ÔÕâÎ»³äÂúÉñÃØµÄ¶íÂÞË¹Ìì²Å¸èÊÖÈç³ÕÈç×í¡£½ñÄê£¬Ê×ÑÝÓÚÊ¥±ËµÃ±¤µÄVitas¡¶»Ø¼Ò¡·Ñ²»ØÑÝ³ª»á½«ÒÆÊ¦ÖÐ¹ú¡­¡­
@@ -28357,18 +27939,15 @@ QÕÅ°ØÖ¥´©Í¬¿îÄÚ¿ã
 ¡¤¡¶Æ»¹û¡·
 ¡¤¡¶ÃüÔËºô½Ð×ªÒÆ¡·
 ¡¤¡¶ÎÒ½ÐÁõÔ¾½ø¡·
-¡¤»ªÒáµ¼ÑÝÀîÑîÐÂ×÷¡¶Ã¤
-¡¤ÊÓÆµ£ºÐì¿Ë¡¢¶Åç÷·å¡¢
+¡¤»ªÒáµ¼ÑÝÀîÑîÐÂ×÷¡¶Ã¤ ¡¤ÊÓÆµ£ºÐì¿Ë¡¢¶Åç÷·å¡¢
 ¸èÊÖ£ºÎá¿á×éºÏ
 µ¥Çú£º¡¶Îá¿á½²¹ÊÊÂ¡·
 ¸èÊÖ£ºÁÖ¿¡½Ü¡¢½ðÉ¯
 µ¥Çú£º¡¶ÆÚ´ý°®¡·
 ¡¤Îº³¿¡¶Ò»¸öÈËË¯¡·
 ¡¤¶«À´¶«Íù¡¢Ê¸Ò°ºÆ¶þ¡¢
-¡¤ÕÅö¦Ó±¡¶DEAR
-JANE¡·
-¡¤ÅË¼ÎÀö¡¶SHAKALAKA
-BA
+¡¤ÕÅö¦Ó±¡¶DEAR JANE¡·
+¡¤ÅË¼ÎÀö¡¶SHAKALAKA BA
 ÖÜ½ÜÂ×
 ¡¶ÖÜ´óÏÀ¡·
 Î×ÆôÏÍ
@@ -28694,11 +28273,7 @@ S.K.YÀÖÍÅÁªÊÖÈ«¹ú¸ßÐ£ÍÆ¹ã¡°ÂÌÉ«ÎÞÎÛÈ¾°ÂÔË¡±
 ÓëÁÎ²ýÓÀÂ¼°ÂÔË¸è(Í¼)
 1992°ÍÈûÂÞÄÇ°ÂÔË»áÖ÷ÌâÇúFreddie
 Mercu¡¶Barcelona¡·
-1996ÑÇÌØÀ¼´ó°ÂÔË»á¡¶The
-Power
-Of
-The
-Dream¡·
+1996ÑÇÌØÀ¼´ó°ÂÔË»á¡¶The Power Of The Dream¡·
 ×£¸£08°ÂÔË
 ¸èÇú¡¶°ÂÔËÁú¡·Å¯ÀÖÍÅ
 ¸èÇúËÑË÷£º
@@ -29379,8 +28954,7 @@ bar¹«¸æÔ±
 9
 0
 ¡¾Ðý·çÔÙÆð¡¿¡¾Ð¡Ö¾²©¿Í¡¿ÊóÄê”µíŒš,ÊÂÊÂºÃß\µ½
-(2008-02-12
-)
+(2008-02-12 )
 °®Ó±ÎÞ¼äµÀ
 2008-02-13
 7892
@@ -29573,10 +29147,7 @@ DVD/CD
 50
 ½ì¸ñÀ³ÃÀ
 ÊÓÆµ»Ø·Å
-[»ñ½±Ãûµ¥][×ÛÊö
-ÐÂÎÅ
-Í¼¼¯
-ÊÓÆµ][×¨¼ÒµãÆÀÊµÂ¼][ÆÀÂÛ]
+[»ñ½±Ãûµ¥][×ÛÊö ÐÂÎÅ Í¼¼¯ ÊÓÆµ][×¨¼ÒµãÆÀÊµÂ¼][ÆÀÂÛ]
 ²ß»®£ºÇéÈË½ÚÓéÀÖ´ó²Í
 ±´¿ËººÄ·´ÌÇàÊ¾°®(Í¼)
 ÖÜÐÇ³Û´º½ÚÆ±·¿Õ½Ê¤ÖÜ½ÜÂ×
@@ -30033,8 +29604,7 @@ DJÑ¡°ÎÈü
 ÁõÏþÇì
 ÖÜÓåÃñºÍËûµÄÁù´óç³ÎÅÅ®ÓÑ
 ÂíÉÆ¼Ç
-Îª»éÏ¢Ó°µÄÎå´ó»ªÈËÅ®ÐÇ(
-ÂíÉÆ¼Ç
+Îª»éÏ¢Ó°µÄÎå´ó»ªÈËÅ®ÐÇ( ÂíÉÆ¼Ç
 Ã¿ÈÕ
 |
 Ã¿ÖÜ
@@ -30553,8 +30123,7 @@ HOPÍÅÌåÁúÃÅÕóµÇÂ½Ó¢Â×Òý¹Ø×¢(Í¼)
 °ô°ôÌÃ¡¶ÄÄÀïÅÂ¡·
 ÐíÈãÜ¿¡¶±±Î³66¶È¡·
 Twins¡¶Í©»°åûÓï¡·
-ÕÅÉØº­¡¶Ang
-5.0¡·
+ÕÅÉØº­¡¶Ang 5.0¡·
 Îº³¿¡¶ÀÖÌìÅÉ¡·
 ²Ü¸ñ¡¶Super¡­¡·
 ÍõÈôÁÕ¡¶Start¡­¡·
@@ -30670,8 +30239,7 @@ SaraË®¹û×°
 ÈÕº«Å¼Ïñ
 Ò¦²ÉÓ±¾íÈëÉæÏÓÎü¶¾°¸¼þ
 ±»´ø·µ¾¯ÊðÑéÄò(¸½Í¼)
-[ÉæÏÓÎü¶¾
-Ò»ÖÜÄÚ»áÓÐ½áÂÛ]
+[ÉæÏÓÎü¶¾ Ò»ÖÜÄÚ»áÓÐ½áÂÛ]
 [ÓëÅáÁÕ°¸¶¾··À´ÍùÉõÃÜ]
 [Ì¨Íå¶àÃûÒÕÈËÉæ¶¾]
 [¸èÊÖÐ»¶«Îü¶¾±»´þ²¶]
@@ -30756,17 +30324,13 @@ S.H.E
 ÃÔµüÏã
 [²ÌÒÀÁÖ]
 ÂíµÂÀï²»Ë¼Òé
-[S.H.E
-]
+[S.H.E ]
 ´¥µç
-[Æë
-ÇØ]
+[Æë ÇØ]
 ÍùÊÂËæ·ç
 [ÍõÁ¦ºê]
 ÎÒÃÇµÄ¸è
-[
-BOBO
-]
+[ BOBO ]
 ³ª¸è¸øÄãÌý
 [ÑîØ©ÁÕ]
 µÚ¶þ¸ö×Ô¼º
@@ -31086,7 +30650,7 @@ RANCHÔìÐÍ(Í¼)
 ¡°ÑÞÕÕÃÅ¡±ÊÂ¼þ²»¶ÏÉý¼¶µÄ¾ÅµãÒÉ»ó
 Ë®·¿
 ÖÜÑ¸Àî´óÆë£ºÄê¶ÈÉñÃØÇéÂÂ(¸½ÊÓÆµ)
-¡¶ÓéÀÖÏÖ
+¡¶ÓéÀÖÏÖ 
 ²»ÑÅÕÕÊÂ¼þ´Ó³Â¹ÚÏ£¿ªÊ¼µ½Ë­ÎªÖ¹£¿
 ºèË®
 ÕÅ½ÜÉÏ¿ìÀÖ´ó±¾Óª(Í¼)
@@ -31354,8 +30918,7 @@ ABC
 KBS
 2.¡¶Àîµ{¡·
 MBC
-3.¡¶New
-Heart¡·
+3.¡¶New Heart¡·
 MBC
 4.¡¶»Æ½ðÐÂÄï¡·
 SBS
@@ -31563,19 +31126,12 @@ NewHeart
 50
 ½ì¸ñÀ³ÃÀ
 °¬Ã×-»³¶÷ºÀË¹Îå½±´óÓ®
-[»ñ½±Ãûµ¥][×ÛÊö
-ÐÂÎÅ
-Í¼¼¯
-ÊÓÆµ][×¨¼ÒµãÆÀÊµÂ¼][ÆÀÂÛ]
-½¹µã£º[°¬Ã×-»³¶÷ºÀË¹·âºó
-Î¬Ë¹ÌØÔÙ·âÍõ
-ÀÉÀÊÒÅº¶ÂäÑ¡]
+[»ñ½±Ãûµ¥][×ÛÊö ÐÂÎÅ Í¼¼¯ ÊÓÆµ][×¨¼ÒµãÆÀÊµÂ¼][ÆÀÂÛ]
+½¹µã£º[°¬Ã×-»³¶÷ºÀË¹·âºó Î¬Ë¹ÌØÔÙ·âÍõ ÀÉÀÊÒÅº¶ÂäÑ¡]
 ÃÀ¹úbillboardÅÅÐÐ°ñ
 1.
 Alicia
-Keys¡¶As
-I
-Am¡·
+Keys¡¶As I Am¡·
 2.
 µçÓ°Ô­Éùµú¡¶Juno¡·
 3.
@@ -31583,29 +31139,24 @@ Mary
 J
 Blige¡¶Growing¡­¡·
 4.
-Radiohead¡¶In
-Rainbows¡·
+Radiohead¡¶In Rainbows¡·
 5.
 Raheem
 DeVaughn¡¶Love¡­¡·
 6.
 Taylor
-Swift¡¶Taylor
-Swift¡·
+Swift¡¶Taylor Swift¡·
 7.
 John
-Legend¡¶Live
-From¡­¡·
+Legend¡¶Live From¡­¡·
 8.
-ÈºÐÇ¡¶NOW
-26¡·
+ÈºÐÇ¡¶NOW 26¡·
 9.
 Chris
 Brown¡¶Exclusive¡·
 10.
 Miley
-Cyrus¡¶Hannah
-Mon¡­¡·
+Cyrus¡¶Hannah Mon¡­¡·
 ¸ü¶à
 Ì¨ÍåG-musicÅÅÐÐ°ñ
 1.
@@ -31621,15 +31172,11 @@ Mon¡­¡·
 6.
 ÐÇ¹â¶þ°à¡¶ÄãÃÇÊÇÎÒµÄÐÇ¹â¡·
 7.
-ÍõÈôÁÕ¡¶Start
-from
-Here¡·
+ÍõÈôÁÕ¡¶Start from Here¡·
 8.
-²Ü¸ñ¡¶Super
-Sunshine¡·
+²Ü¸ñ¡¶Super Sunshine¡·
 9.
-ÕÅÉØº­¡¶Ang
-5.0¡·
+ÕÅÉØº­¡¶Ang 5.0¡·
 10.
 ÐíÈãÜ¿¡¶±±Î³66¶È¡·
 ¸ü¶à
@@ -31641,8 +31188,7 @@ AndyÇéÈË½ÚÓëÖÐ¹ú¸èÃÔ¹²¶È
 ±±¾©ÒôÀÖÌ¨½«Ö±²¥°ä½±Àñ
 Æ½¹û×³×å¸èÛ×ÒôÀÖ½Ú¿ªÄ»
 ×³ÏçÌìô¥Çãµ¹°Ë·½±ö¿Í
-ÉÙÅ®Ê±´ú¡¶Kissing
-You¡·ÈËÆø´óÍú´´ÈÈÇú¼ÇÂ¼
+ÉÙÅ®Ê±´ú¡¶Kissing You¡·ÈËÆø´óÍú´´ÈÈÇú¼ÇÂ¼
 Âíè÷º­Óë³ÂºÆÃñÐû´«ÐÂ¸è
 ³ÆÁ½ÈËÊÇÐÖ³¤ÅóÓÑ(Í¼)
 ÆîÓÖÒ»£ºSilent
@@ -31842,27 +31388,13 @@ DVD¿ì±¨
 CDÊÕ²Ø
 Enya×¨¼­¡¶Amarantine¡·
 ¡¤Rod
-Stewart:¡¶Thanks
-For
-The¡·
-¡¤Santana:¡¶All
-That
-I
-Am¡·
-¡¤Ô­Éù¡¶Get
-Rich
-or
-Die
-Tryin¡·
+Stewart:¡¶Thanks For The¡·
+¡¤Santana:¡¶All That I Am¡·
+¡¤Ô­Éù¡¶Get Rich or Die Tryin¡·
 ¡¤Neil
-Young:¡¶Prairie
-Wind¡·
-¡¤Dylan:¡¶No
-Direction
-Home¡·
-¡¤Chesney:¡¶The
-Road&the
-Radio¡·
+Young:¡¶Prairie Wind¡·
+¡¤Dylan:¡¶No Direction Home¡·
+¡¤Chesney:¡¶The Road&the Radio¡·
 ×ÔÓÉÆÀÂÛ
 ÓéÀÖÂÛÌ³
 ¡¤Ã÷ÐÇÌùÍ¼
@@ -32199,33 +31731,18 @@ DVD/CD
 50
 ½ì¸ñÀ³ÃÀ
 °¬Ã×-»³¶÷ºÀË¹Îå½±´óÓ®
-[»ñ½±Ãûµ¥][×ÛÊö
-ÐÂÎÅ
-Í¼¼¯
-ÊÓÆµ][×¨¼ÒµãÆÀÊµÂ¼][ÆÀÂÛ]
-½¹µã£º[°¬Ã×-»³¶÷ºÀË¹·âºó
-Î¬Ë¹ÌØÔÙ·âÍõ
-ÀÉÀÊÒÅº¶ÂäÑ¡]
-×éÍ¼£º[Å®ÐÇÅÌµã
-°¬ÀöÎ÷æ«-¿­Ë¹
-±Ì°ºË¿
-·Æ¼§
-°²µÂÎéµÂ]
+[»ñ½±Ãûµ¥][×ÛÊö ÐÂÎÅ Í¼¼¯ ÊÓÆµ][×¨¼ÒµãÆÀÊµÂ¼][ÆÀÂÛ]
+½¹µã£º[°¬Ã×-»³¶÷ºÀË¹·âºó Î¬Ë¹ÌØÔÙ·âÍõ ÀÉÀÊÒÅº¶ÂäÑ¡]
+×éÍ¼£º[Å®ÐÇÅÌµã °¬ÀöÎ÷æ«-¿­Ë¹ ±Ì°ºË¿ ·Æ¼§ °²µÂÎéµÂ]
 Ã½Ìå£º[CNN][Ì©ÎîÊ¿][Å¦Ô¼Ê±±¨][Â·Í¸Éç][ÃÀÁª][ÂåÉ¼í¶]
-¹Ûµã£º[¿ÉÌýÐÔ±È½Ï¸ß
-Á÷ÐÐÉÌÒµÖ¸ÄÏ][¸ñÀ³ÃÀÀï³Ì±®Ê±´ú]
+¹Ûµã£º[¿ÉÌýÐÔ±È½Ï¸ß Á÷ÐÐÉÌÒµÖ¸ÄÏ][¸ñÀ³ÃÀÀï³Ì±®Ê±´ú]
 µ¼ÑÝÍõ¾§Á¦³Å°¢½¿
 ´«Ð»öª·æÅ­ÖÀ»é½ä
-¸÷·½£º[»ÆÇïÉúÐÀÉÍ
-³ÂÐ¡´ºÁ¦ÔÞ
-ÕÅ¼áÍ¥ºôÓõ
-¹ã¸æÉÌÖ§³Ö]
-[³Â¹ÚÏ£±¾ÖÜ»Ø¸Û][ÉñÃØÍøÓÑ±¬ÁÏ][°¢½¿»ØÓ¦
-ÊÓÆµ][Í¼]
+¸÷·½£º[»ÆÇïÉúÐÀÉÍ ³ÂÐ¡´ºÁ¦ÔÞ ÕÅ¼áÍ¥ºôÓõ ¹ã¸æÉÌÖ§³Ö]
+[³Â¹ÚÏ£±¾ÖÜ»Ø¸Û][ÉñÃØÍøÓÑ±¬ÁÏ][°¢½¿»ØÓ¦ ÊÓÆµ][Í¼]
 Êæä¿ÖúÕó¡¶ÎÄÈ¸¡·Ê×Ó³
 ÏÖ³¡ÊÓÆµ
-[¡¶ÎÄÈ¸¡·¼ÇÕß»á
-¶Åç÷·å½²ÊöÏã¸ÛÇé»³][ÏÖ³¡ÊÓÆµ]
+[¡¶ÎÄÈ¸¡·¼ÇÕß»á ¶Åç÷·å½²ÊöÏã¸ÛÇé»³][ÏÖ³¡ÊÓÆµ]
 Ê×Ó³£º[ÒÁÀÊÓ°Æ¬ÂéÈ¸Ö®¸è][±¾ÍÁÃ÷ÐÇ¡¶Ó£»¨¡·ºìÌºÕùÑÞ]
 Ó°ÆÀ£º[¡¶Íì¸è¡·²¢·ÇÂåÀöËþÄÇÃ´¼òµ¥][ÈâÉíµÄ¡¶Íì¸è¡·]
 Ì¨ÒÕÈËºéÆäµÂ¾Æ¼Ý×²ËÀ¸¾ÈË
@@ -32641,8 +32158,7 @@ DJÑ¡°ÎÈü
 ÎÄÕÂ±êÌâ
 ²©¿Í×÷Õß
 ²©¿ÍÈ¦
-¶À¼Ò£ºÁõÍþÝÚ¾ªÑÞ°ØÁÖ£¨×é
-È¦ÀïÈ¦Íâ
+¶À¼Ò£ºÁõÍþÝÚ¾ªÑÞ°ØÁÖ£¨×é È¦ÀïÈ¦Íâ
 ÁõÏþÇìµÄÄêÈýÊ®(×éÍ¼)
 ÖÐ¹úÃ÷ÐÇ
 ÆØ¹â:³Â¹ÚÏ£ÑÞÕÕÃÅÔâÍøÓÑ
@@ -32691,8 +32207,7 @@ DJÑ¡°ÎÈü
 ÁõÏþÇì
 ÖÜÓåÃñºÍËûµÄÁù´óç³ÎÅÅ®ÓÑ
 ÂíÉÆ¼Ç
-Îª»éÏ¢Ó°µÄÎå´ó»ªÈËÅ®ÐÇ(
-ÂíÉÆ¼Ç
+Îª»éÏ¢Ó°µÄÎå´ó»ªÈËÅ®ÐÇ( ÂíÉÆ¼Ç
 Ã¿ÈÕ
 |
 Ã¿ÖÜ
@@ -33211,8 +32726,7 @@ YouthÀÖ¶ÓÕû×°´ý·¢
 °ô°ôÌÃ¡¶ÄÄÀïÅÂ¡·
 ÐíÈãÜ¿¡¶±±Î³66¶È¡·
 Twins¡¶Í©»°åûÓï¡·
-ÕÅÉØº­¡¶Ang
-5.0¡·
+ÕÅÉØº­¡¶Ang 5.0¡·
 Îº³¿¡¶ÀÖÌìÅÉ¡·
 ²Ü¸ñ¡¶Super¡­¡·
 ÍõÈôÁÕ¡¶Start¡­¡·
@@ -33413,17 +32927,13 @@ S.H.E
 ÃÔµüÏã
 [²ÌÒÀÁÖ]
 ÂíµÂÀï²»Ë¼Òé
-[S.H.E
-]
+[S.H.E ]
 ´¥µç
-[Æë
-ÇØ]
+[Æë ÇØ]
 ÍùÊÂËæ·ç
 [ÍõÁ¦ºê]
 ÎÒÃÇµÄ¸è
-[
-BOBO
-]
+[ BOBO ]
 ³ª¸è¸øÄãÌý
 [ÑîØ©ÁÕ]
 µÚ¶þ¸ö×Ô¼º
@@ -33550,8 +33060,7 @@ SuperJuniorÓö³µ»ö
 ÓéÀÖ²©¿Í
 ¡¶×óÓÒ¡·Î´Ó³ÏÈÈÈ
 ÁõÍþÝÚÎªºÎ³ÉÓ°ºóÈÈÃÅ
-[ºèË®£ºÁõÍþÝÚ³ÉÃûÖ®Â·Òª×ß¶àÔ¶][°ØÁÖµçÓ°½ÚÇ°Õ°£º¶«·½¹ýÄê
-Î÷·½ÑªÕ½]
+[ºèË®£ºÁõÍþÝÚ³ÉÃûÖ®Â·Òª×ß¶àÔ¶][°ØÁÖµçÓ°½ÚÇ°Õ°£º¶«·½¹ýÄê Î÷·½ÑªÕ½]
 [°ØÁÖµçÓ°½ÚÖ®Å®ÈËÍùÊÂ][ÁõÍþÝÚÁì¾ü¶«ÑÇËÄÇ¿³å»÷°ØÁÖµçÓ°½Ú]
 Ã÷ÐÇ²©¿Í
 ÁõÈôÓ¢
@@ -34002,8 +33511,7 @@ ABC
 KBS
 2.¡¶Àîµ{¡·
 MBC
-3.¡¶New
-Heart¡·
+3.¡¶New Heart¡·
 MBC
 4.¡¶»Æ½ðÐÂÄï¡·
 SBS
@@ -34129,8 +33637,7 @@ ABC¾ç¼¯¡¶ÃÔÊ§¡·½«ÔÚ·¨¹ú²¥³ö
 ¡¶Àîµ{¡·ÊÕÊÓÂÊÔÙ´´ÐÂ¸ß
 Ö±±Æ40µã´ó¹Ø(¸½Í¼)
 ¡¶ÂèÂè³¤½ÇÁË¡·¿ª²¥Á½ÌìÊÕÊÓ¼´±Æ30µã´ó¹Ø(Í¼)
-º«¾ç¡¶On
-Air¡·ÕóÈÝ¶¦Ê¢
+º«¾ç¡¶On Air¡·ÕóÈÝ¶¦Ê¢
 ´óÅÆÃ÷ÐÇÕùÏà¿Í´®(Í¼)
 ¡¤¡¶´ó¹ýÄê¡·
 ¡¶ÖÐ¹úÅ®·¨¹Ù¡·
@@ -34211,19 +33718,12 @@ NewHeart
 50
 ½ì¸ñÀ³ÃÀ
 °¬Ã×-»³¶÷ºÀË¹Îå½±´óÓ®
-[»ñ½±Ãûµ¥][×ÛÊö
-ÐÂÎÅ
-Í¼¼¯
-ÊÓÆµ][×¨¼ÒµãÆÀÊµÂ¼][ÆÀÂÛ]
-½¹µã£º[°¬Ã×-»³¶÷ºÀË¹·âºó
-Î¬Ë¹ÌØÔÙ·âÍõ
-ÀÉÀÊÒÅº¶ÂäÑ¡]
+[»ñ½±Ãûµ¥][×ÛÊö ÐÂÎÅ Í¼¼¯ ÊÓÆµ][×¨¼ÒµãÆÀÊµÂ¼][ÆÀÂÛ]
+½¹µã£º[°¬Ã×-»³¶÷ºÀË¹·âºó Î¬Ë¹ÌØÔÙ·âÍõ ÀÉÀÊÒÅº¶ÂäÑ¡]
 ÃÀ¹úbillboardÅÅÐÐ°ñ
 1.
 Alicia
-Keys¡¶As
-I
-Am¡·
+Keys¡¶As I Am¡·
 2.
 µçÓ°Ô­Éùµú¡¶Juno¡·
 3.
@@ -34231,29 +33731,24 @@ Mary
 J
 Blige¡¶Growing¡­¡·
 4.
-Radiohead¡¶In
-Rainbows¡·
+Radiohead¡¶In Rainbows¡·
 5.
 Raheem
 DeVaughn¡¶Love¡­¡·
 6.
 Taylor
-Swift¡¶Taylor
-Swift¡·
+Swift¡¶Taylor Swift¡·
 7.
 John
-Legend¡¶Live
-From¡­¡·
+Legend¡¶Live From¡­¡·
 8.
-ÈºÐÇ¡¶NOW
-26¡·
+ÈºÐÇ¡¶NOW 26¡·
 9.
 Chris
 Brown¡¶Exclusive¡·
 10.
 Miley
-Cyrus¡¶Hannah
-Mon¡­¡·
+Cyrus¡¶Hannah Mon¡­¡·
 ¸ü¶à
 Ì¨ÍåG-musicÅÅÐÐ°ñ
 1.
@@ -34269,15 +33764,11 @@ Mon¡­¡·
 6.
 ÐÇ¹â¶þ°à¡¶ÄãÃÇÊÇÎÒµÄÐÇ¹â¡·
 7.
-ÍõÈôÁÕ¡¶Start
-from
-Here¡·
+ÍõÈôÁÕ¡¶Start from Here¡·
 8.
-²Ü¸ñ¡¶Super
-Sunshine¡·
+²Ü¸ñ¡¶Super Sunshine¡·
 9.
-ÕÅÉØº­¡¶Ang
-5.0¡·
+ÕÅÉØº­¡¶Ang 5.0¡·
 10.
 ÐíÈãÜ¿¡¶±±Î³66¶È¡·
 ¸ü¶à
@@ -34485,27 +33976,13 @@ DVD¿ì±¨
 CDÊÕ²Ø
 Enya×¨¼­¡¶Amarantine¡·
 ¡¤Rod
-Stewart:¡¶Thanks
-For
-The¡·
-¡¤Santana:¡¶All
-That
-I
-Am¡·
-¡¤Ô­Éù¡¶Get
-Rich
-or
-Die
-Tryin¡·
+Stewart:¡¶Thanks For The¡·
+¡¤Santana:¡¶All That I Am¡·
+¡¤Ô­Éù¡¶Get Rich or Die Tryin¡·
 ¡¤Neil
-Young:¡¶Prairie
-Wind¡·
-¡¤Dylan:¡¶No
-Direction
-Home¡·
-¡¤Chesney:¡¶The
-Road&the
-Radio¡·
+Young:¡¶Prairie Wind¡·
+¡¤Dylan:¡¶No Direction Home¡·
+¡¤Chesney:¡¶The Road&the Radio¡·
 ×ÔÓÉÆÀÂÛ
 ÓéÀÖÂÛÌ³
 ¡¤Ã÷ÐÇÌùÍ¼
@@ -34814,14 +34291,8 @@ Reserved
 ÐÂÀËÓéÀÖ¹«ÒæMV
 <left>
 ÔÚÒ»Æ¬êâÔÖÉùÖÐ£¬ÑëÊÓ´ºÍí¼ÓÈëÁËêâÔÖ»·½Ú£¬´ºÍíÐÂÈËÕÅÀ½À½¶À³ª¸èÇú¡¶Ò»¼ÒÈË¡·ºÍÖÜ½ÜÂ×¶À³ªÒ»Æð£¬±»µ÷Õûµ½ÁËÁãµã±¨Ê±Ö®ºó¡­¡­[ÏêÎÄ][ÐÂÀËÈ¦×Ó³ÏÑû±±Æ¯×å]
-Ã÷ÐÇ³«Òé£º[¹ùÏþ¶¬
-¿×Î¬
-³ÂÀöÄÈ
-³µÓÀÀò]
-[½âÐ¡¶«
-ÇÇÈÎÁº
-Ñ¦¼ÑÄý²Î¼ÓêâÔÖÒåÑÝ
-ÇúÒÕ½ç¾Ù°ìÒåÑÝ]
+Ã÷ÐÇ³«Òé£º[¹ùÏþ¶¬ ¿×Î¬ ³ÂÀöÄÈ ³µÓÀÀò]
+[½âÐ¡¶« ÇÇÈÎÁº Ñ¦¼ÑÄý²Î¼ÓêâÔÖÒåÑÝ ÇúÒÕ½ç¾Ù°ìÒåÑÝ]
 </left>
 ¸÷µØµçÊÓÌ¨¿¹»÷Ñ©ÔÖ
 ¡úÑëÊÓ´ºÍí
@@ -34946,425 +34417,308 @@ SMG:Á¬Ò¹¸ÏÖÆ¹«Òæ¹ã¸æ
 Ã½Ìå¾Û½¹
 ÎÞÏß×Ü¾­Àí³ÂÖ¾ÔÆ³öÏ¯¼ÇÕß»á
 ÑûTwinsËÍÅ¯êâÔÖ
-(0213
-10:49)
+(0213 10:49)
 ºþÄÏÎÀÊÓÊ®ÎåÐ¡Ê±Ö±²¥êâÔÖ½ÚÄ¿
 Ä¼µÃÈýÒÚÉÆ¿î
-(0207
-04:21)
+(0207 04:21)
 ¡°ÖÓ»±¡±¹ýÄê»ØÐÂ½®
 ¹¢ÀÖ´ºÍí°ÝÐ»±øÍÅÈË(¸½Í¼)
-(0206
-14:38)
+(0206 14:38)
 ÀîÏæêâÔÖ³öÇ®ÓÖ³öÁ¦
 Ö÷³Ö°®ÐÄ´óÈÚ±ù¸Ð¶¯ÂäÀá
-(0206
-13:42)
+(0206 13:42)
 ÁõÜ¿Ç£¹ÒºþÄÏ¼ÒÏç¸¸ÀÏ
 ¿¶¿®½âÄÒÖ§Ô®ÔÖÇø(¸½Í¼)
-(0206
-11:47)
+(0206 11:47)
 ÑëÊÓ´ºÍíÍ»³öêâÔÖ
 ÖÜ½ÜÂ×ÕÅÀ½À½½ÚÄ¿µ÷Õû(Í¼)
-(0206
-11:08)
+(0206 11:08)
 ×éÍ¼£º±±¾©ÇúÒÕ½çêâÔÖÒåÑÝ
 ½ªÀ¥Ö¸»ÓÖÚÑÝÔ±ºÏ³ª
-(0206
-10:10)
+(0206 10:10)
 ¸èÊÖ×æº£ÎªÑ©ÔÖ¾è¿î15Íò
 ³É¾è¿î×î¶àÒÕÈË(×éÍ¼)
-(0205
-15:18)
+(0205 15:18)
 Ô¬Á¢ÁÁÏà±±¾©Ì¨êâÔÖÒåÑÝ
 ºôÓõ¸÷½çÏ×°®ÐÄ(Í¼)
-(0205
-14:06)
+(0205 14:06)
 °ÙÎ»Ã÷ÐÇêâÔÖÒåÑÝËÍÎÂÅ¯
 Í¬³ªÒ»Ê×¸è´«µÝÖÐ»ªÇé
-(0205
-12:05)
+(0205 12:05)
 Ê®´ó¿ìÀÖÃ÷ÐÇ¼ÒÍ¥ÆÀÑ¡³öÂ¯
 ÎÌºç·ò¸¾Ï×³ö°®ÐÄ³µ
-(0205
-12:00)
+(0205 12:00)
 Ì·¾§ÎªÑ©ÔÖ¾èÔù10ÍòÔª
 ¹ÄÀøÊÜÖúÑ§Éú»Ø±¨Éç»á
-(0205
-11:46)
+(0205 11:46)
 ºÃÄÐ¶ù¿¶¿®¾è³öÄêÖÕ½±
 ÐÂÈÎÔÖÇé¾èÖú½ÓÏßÔ±(Í¼)
-(0205
-11:45)
+(0205 11:45)
 È«Çò»ªÈËÐÂ´ºÒôÀÖ»á¼´½«ÉÏÑÝ
 ÑÝ³öÆ±¿îÓÃÓÚêâÔÖ
-(0205
-11:41)
+(0205 11:41)
 ÖÜ±Ê³©ÍæÃüÄ¼¾è
 ÉÏº£ºþÄÏÁ½µØêâÔÖµ±¿ÕÖÐ·ÉÈË
-(0205
-05:26)
+(0205 05:26)
 µ¼ÑÝÖ£¿ËºéÂÊ¡¶ÀîÊ±Õä¡·¾ç×éÎªÔÖÇøÍ¬°û¾èÖÐÒ©
-(0204
-16:43)
+(0204 16:43)
 ÖìÒðÇ×Îª°®È®½ÓÉú
 ¸ÐÌ¾Óö´ó·çÑ©ÖÍÁôºÏ·Ê(Í¼)
-(0204
-16:25)
+(0204 16:25)
 ÇÇÈÎÁº²Î¼ÓêâÔÖÒåÑÝ
 ÇéÏµÔÖÇø¾èÔùÑÝ³ö·þ(Í¼)
-(0204
-16:25)
+(0204 16:25)
 ×éÍ¼£º½âÐ¡¶«ÇÇÈÎÁºÑ¦¼ÑÄý³öÏ¯´óÐÍêâÔÖÒåÑÝ
-(0204
-16:17)
+(0204 16:17)
 ÇúÒÕ½ç¾Ù°ìêâÔÖÒåÑÝ
 °®ÐÄ»¯±ùÑ©ÕæÇéÅ¯ÈË¼ä
-(0204
-15:53)
+(0204 15:53)
 Ê¯Ð¡Èº·çÑ©·µÏçÓ­ÐÂ´º
 ±»À§»ú³¡ÈýÊ®Ð¡Ê±ÏÔÕæÇé
-(0204
-15:39)
+(0204 15:39)
 ½¯ö©Àö¹Ë³¤ÎÀÎªÔÖÇø½âÄÒ
 ¡¶Á¢´º¡·ÐÂº£±¨½ÒÄ»
-(0204
-15:06)
+(0204 15:06)
 ÀîÏæÐÄÏµºþÄÏÔÖÇø
 Á¬Ò¹¸ÏÍù³¤É³Ö§³ÖêâÔÖ(Í¼)
-(0204
-14:45)
+(0204 14:45)
 ¹ã¶«°®ÐÄÒåÑÝ
 ¡¶±¾µØÀÉ¡·¿µ¼ÒÎªÍâÀ´¹¤ËÍ½È×Ó
-(0204
-14:38)
+(0204 14:38)
 Ïã¸Û°ÙÎ»ÒÕÈËÍ¨ÏüÂ¼Òô
 ¡¶Ñ©ÖÐËÍÅ¯¡·ÎªÔÖÃñ´òÆø
-(0204
-14:38)
+(0204 14:38)
 ¡¶Á¢´º¡·ÒòÑ©ÔÖÍÆ³ÙÉÏÓ³
 ¹Ë³¤ÎÀ½¯ö©Àö¾è¿îêâÔÖ
-(0204
-13:38)
+(0204 13:38)
 ÑÝÒÕÈ¦´µÏìêâÔÖ¼¯½áºÅ
 ¹ùµÂ¸Ù½¯ö©Àö¾è¿î¾ÈÔÖ
-(0204
-10:30)
+(0204 10:30)
 4ÈÕ20Ê±Õã½­ÎÀÊÓÏÖ³¡Ö±²¥¿¹»÷±ùÑ©ÔÖº¦ÌØ±ðÍí»á
-(0204
-10:10)
+(0204 10:10)
 È«¹úÑÝÒÕÈ¦½ô¼±¿¹ÔÖ
 ´ºÍíÎ´µ½êâÔÖÍí»áÏÈÐÐ(Í¼)
-(0204
-09:32)
+(0204 09:32)
 ¸ü¶àÄÚÈÝ
 Ã÷ÐÇ¿¹ÔÖ
 ×óÐ¡Çà£ºÐÄÁéµÄ½¹×Æ--Ö§Ô®Ñ©ÔÖÎÒÒå²»ÈÝ´Ç
-(0213
-00:10)
+(0213 00:10)
 Ñî×Ó£º×ö×ÔºÀµÄÖÐ¹úÈË£¬ÏòÖÐ¹úÖÂ¾´
-(0206
-17:44)
+(0206 17:44)
 º«Ñ©£ºÕâ¸ö´º½ÚÀá¹âÉÁ¶¯
 ÓëÔÖÇøÈËÃñÐÄÁ¬ÐÄ(Í¼)
-(0206
-14:51)
+(0206 14:51)
 ÖÐ¹úÇúÐ­êâÔÖÒåÑÝ
 70¶àÎ»Ð¦ÐÇÐÂ´ºÅ¯ÈËÐÄ(Í¼)
-(0206
-01:40)
+(0206 01:40)
 ÄôÔ¶³«ÒéÃ÷ÐÇÀÏÏç¿¹ÔÖ
 ÁªÊÖÇ­¶«ÄÏÕþ¸®°®ÐÄÄ¼¼¯
-(0205
-16:36)
+(0205 16:36)
 ÄôÔ¶ÊÜÆ¸Ç­¶«ÄÏÕþ¸®°®ÐÄÊ¹Õß
 ÎªÔÖÇø³ïÇ§ÍòÉÆ¿î
-(0205
-16:33)
+(0205 16:33)
 ³Â·¨ÈØ£ºÄÏ·½¾ç×é³öÆæÀä£¬ÓðÈÞ·þ³ÉÇÀÊÖ»õ(Í¼)
-(0205
-13:29)
+(0205 13:29)
 ºé½£ÌÎ£ºÑ©º®ÈËÐÄÅ¯£¬»¹ÎÒ½­ÄÏÖ®ÏÊ»¨ÂÌ²Ý
-(0205
-13:26)
+(0205 13:26)
 ×æº££ºÑ©ÔÚÊÖÖÐÈÚ»¯£¬°®ÔÚÐÄÖÐ´«µÝ(Í¼)
-(0205
-13:23)
+(0205 13:23)
 Ê×ÌåêâÔÖÒåÑÝÇÇÈÎÁºÔÙ¶ÈÏ×Éù
 ·îÏ×°®ÐÄÐÐ¶¯±í´ï
-(0205
-05:19)
+(0205 05:19)
 ¾©¾çÃû¼ÒêâÔÖÒåÑÝ
 Ì·ÔªÊÙ×æËïÈý´úÔòÍ¬Ì¨ÁÁÏà
-(0204
-15:19)
+(0204 15:19)
 ÕÔ±£ÀÖµÈÇàµºÃ÷ÐÇ°®ÐÄÈÚ±ù
 »ÆÏþÃ÷ÒÑ¾èÊ®ÍòêâÔÖ
-(0204
-13:07)
+(0204 13:07)
 ½âÐ¡¶«Ñ¦¼ÑÄýÇÇÈÎÁºÏ×°®ÐÄ
 Îª°ÂÔËêâÔÖÍí»á·Å¸è
-(0204
-11:49)
+(0204 11:49)
 ÖÐ¹ú·öÆ¶»ù½ð»á½ô¼±¾ÈÖú
 ÎºçøÏÀÎÂÅ¯¼ÄÓï(Í¼)
-(0204
-09:53)
+(0204 09:53)
 ¹ÊÏçµÄÔÆº£Ï¿µÄ·çÖ÷ÌâÍí»á
 ·ÑÏèÈÎ°®ÐÄ´óÊ¹(Í¼)
-(0204
-03:48)
+(0204 03:48)
 ÄÏ±±Ã÷ÐÇÏ×°®ÐÄ
 ÀîÓî´º¾è¿î5ÍòÀîÁ¬½Ü²¦³ö95Íò
-(0204
-02:44)
+(0204 02:44)
 Vitas¡¶ÎèÁÖÊ¢µä¡·¾è¿î1Íò
 ÖÜ±Ê³©ÌÍ¿Õ¿Ú´ü(Í¼)
-(0204
-00:09)
+(0204 00:09)
 ²ÜêØÎÄ£º»Ø¼Ò¹ýÄê·çÑ©ÎÞ×è
 ÔÖÇéµ²²»ÁËÇ°ÐÐ(Í¼)
-(0203
-17:15)
+(0203 17:15)
 ÑÝÒÕÃ÷ÐÇ´µÏìêâÔÖ¼¯½áºÅ
 Ä¼¼¯ÉÆ¿îÒÑ´ï5000¶àÍò
-(0203
-16:47)
+(0203 16:47)
 ¸ü¶àÄÚÈÝ
 ¸ÛÌ¨¶¯Ì¬
 ×éÍ¼£ºÏã¸Û°ÙÎ»ÒÕÈË¶¬ÈÕ·Å¸è
 ÎªÄÚµØÍ¬°ûËÍÎÂÅ¯
-(0204
-10:28)
+(0204 10:28)
 Ïã¸Û°ÙÎ»ÒÕÈËÑ©ÖÐËÍÅ¯
 ÎªÄÚµØÍ¬°ûÏ×¸èÉù(Í¼)
-(0204
-01:32)
+(0204 01:32)
 ±ùÑ©ÎÞÇéÈË¼äÓÐÇé
 Ïã¸ÛÒÕÈË×éÖ¯Â¼ÖÆêâÔÖ¸èÇú
-(0203
-05:37)
+(0203 05:37)
 º«ÐÇSARA¸ÏÂ¼´ºÍí
 ²»Î·Ñ©ÔÖÐÂ¸èÎ¿ÎÊ¹ÛÖÚ(×éÍ¼)
-(0201
-14:00)
+(0201 14:00)
 ÀîÁ¬½Ü¾è95ÍòÔª¾ÈÑ©ÔÖ
 Ò¼»ù½ðºôÓõ»¥Ïà°ïÖú
-(0131
-12:17)
+(0131 12:17)
 ÀîÁ¬½ÜÒ¼»ù½ð²¦¿î95Íò¾ÈÖúÑ©ÔÖ
 Óõ¹Ø»³Óë°®(Í¼)
-(0131
-08:51)
+(0131 08:51)
 ÀîÁ¬½ÜÒ¼»ù½ðÃÜÇÐ¹Ø×¢ÔÖÇé
 ²¦¿î95ÍòÔª¾ÈÑ©ÔÖ
-(0131
-02:18)
+(0131 02:18)
 Ð»öª·æÒòÑ©ÔÖÖÍÁô·¸²¡
 ¡¶Ã·À¼·¼¡·¾ç×é¹ºÒÂ·Àº®
-(0130
-09:27)
+(0130 09:27)
 Ñ©ÔÖÓ°ÏìÓéÀÖÈ¦
 Á½Ó°Æ¬ÅÄÉãÄÑÐ»öª·æ·¸Ïø´­(Í¼)
-(0130
-02:05)
+(0130 02:05)
 ÕÅ¶«½¡ÐÐÉÆ²»ÎªÈËºó
 µÍµ÷¾è3ÒÚº«ÔªêâÑ©ÔÖ(Í¼)
-(1230
-15:44)
+(1230 15:44)
 ¸ü¶àÄÚÈÝ
 ÏÖ³¡Í¼Æ¬
 Í¼ÎÄ£ºÏã¸ÛÒÕÈË·Å¸è-ÎâÐ¡ÀòÏ×³ª¡¶Ñ©ÖÐËÍÅ¯¡·
-(0204
-10:24)
+(0204 10:24)
 Í¼ÎÄ£ºÏã¸ÛÒÕÈË·Å¸è-ÈÝ×æ¶ù·ÅÉù¸ß¸è
-(0204
-10:24)
+(0204 10:24)
 Í¼ÎÄ£ºÏã¸ÛÒÕÈË·Å¸è-³Â»ÛÁÕ»ý¼«ÏìÓ¦
-(0204
-10:24)
+(0204 10:24)
 Í¼ÎÄ£ºÏã¸ÛÒÕÈË·Å¸è-Ö£ÐãÎÄºÚ¿òÑÛ¾µÕ¹ÏÖÖªÐÔ
-(0204
-10:24)
+(0204 10:24)
 Í¼ÎÄ£ºÏã¸ÛÒÕÈË·Å¸è-ÔøÖ¾Î°µÈ·Å¸è
-(0204
-10:24)
+(0204 10:24)
 Í¼ÎÄ£ºÏã¸ÛÒÕÈË·Å¸è-Ì·Ó½÷ëºÍÁõµÂ»ª
-(0204
-10:24)
+(0204 10:24)
 Í¼ÎÄ£ºÏã¸ÛÒÕÈË·Å¸è-ÈÝ×æ¶ù²Ì×¿åûÖ£ÐãÎÄ³Â»ÛÁÕºÏ³ª
-(0204
-10:24)
+(0204 10:24)
 Í¼ÎÄ£ºÏã¸ÛÒÕÈË·Å¸è-Ïã¸Û°ÙÎ»ÒÕÈË·Å¸è
-(0204
-10:24)
+(0204 10:24)
 Í¼ÎÄ£ºÏã¸ÛÒÕÈË¸èÉùËÍÎÂÅ¯--Ö£ÐãÎÄ¸Ïµ½ÏÖ³¡
-(0203
-10:18)
+(0203 10:18)
 Í¼ÎÄ£ºÏã¸ÛÒÕÈË¸èÉùËÍÎÂÅ¯--ÔøÖ¾Î°¸Ïµ½ÏÖ³¡
-(0203
-10:18)
+(0203 10:18)
 Í¼ÎÄ£ºÏã¸ÛÒÕÈË¸èÉùËÍÎÂÅ¯--²Ì×¿åûËÍ×£¸£
-(0203
-10:18)
+(0203 10:18)
 Í¼ÎÄ£ºÏã¸ÛÒÕÈË¸èÉùËÍÎÂÅ¯--ÈÝ×æ¶ù¸Ïµ½ÏÖ³¡
-(0203
-10:18)
+(0203 10:18)
 Í¼ÎÄ£ºÏã¸ÛÒÕÈË¸èÉùËÍÎÂÅ¯--ÔøÖ¾Î°»»ÉÏ·þ×°
-(0203
-10:18)
+(0203 10:18)
 Í¼ÎÄ£ºÏã¸ÛÒÕÈË¸èÉùËÍÎÂÅ¯--ÖÜÀöä¿ÏìÓ¦»î¶¯
-(0203
-10:18)
+(0203 10:18)
 Í¼ÎÄ£ºÏã¸ÛÒÕÈË¸èÉùËÍÎÂÅ¯--Ì·Ó½÷ëÕ¹Ê¾·þ×°
-(0203
-10:17)
+(0203 10:17)
 Í¼ÎÄ£ºÏã¸ÛÒÕÈË¸èÉùËÍÎÂÅ¯--³Â»ÛÁÕºÍÈÎ´ï»ª
-(0203
-10:17)
+(0203 10:17)
 Í¼ÎÄ£ºÏã¸ÛÒÕÈË¸èÉùËÍÎÂÅ¯--³Â»ÛÁÕÄÑµÖÑÏº®
-(0203
-10:17)
+(0203 10:17)
 Í¼ÎÄ£ºÏã¸ÛÒÕÈË¸èÉùËÍÎÂÅ¯--ÁõµÂ»ª×¼±¸·¢ÑÔ
-(0203
-10:17)
+(0203 10:17)
 Í¼ÎÄ£ºÏã¸ÛÒÕÈË¸èÉùËÍÎÂÅ¯--ÖÓ¼ÎÐÀºÍÑîË¼çù
-(0203
-10:17)
+(0203 10:17)
 Í¼ÎÄ£ºÏã¸ÛÒÕÈË¸èÉùËÍÎÂÅ¯--Ì·Ó½÷ëºÍ³Â»ÛÁÕ
-(0203
-10:17)
+(0203 10:17)
 Í¼ÎÄ£ºÏã¸ÛÒÕÈË¸èÉùËÍÎÂÅ¯--ÈÎ´ï»ªºÍÁõµÂ»ª
-(0203
-10:17)
+(0203 10:17)
 Í¼ÎÄ£ºÏã¸ÛÒÕÈË¸èÉùËÍÎÂÅ¯--Ö£ÐãÎÄ²Î¼Ó»î¶¯
-(0203
-10:17)
+(0203 10:17)
 Í¼ÎÄ£ºÏã¸ÛÒÕÈË¸èÉùËÍÎÂÅ¯--Áº¼Ò»ÔÃæ¶Ô¾µÍ·
-(0203
-10:17)
+(0203 10:17)
 Í¼ÎÄ£ºÏã¸ÛÒÕÈË¸èÉùËÍÎÂÅ¯--ÁõµÂ»ª¸Ïµ½ÏÖ³¡
-(0203
-10:17)
+(0203 10:17)
 Í¼ÎÄ£º2008ÐÂ´ºµçÓ°ÒôÀÖ»á--·ëÐ¡¸Õ¾è15ÍòÏÖ½ð
-(0202
-09:36)
+(0202 09:36)
 Í¼ÎÄ£º2008ÐÂ´ºµçÓ°ÒôÀÖ»á--³Â»ÛÁÕ¹ùÏþ¶¬±íÑÝ
-(0202
-00:56)
+(0202 00:56)
 Í¼ÎÄ£º2008ÐÂ´ºµçÓ°ÒôÀÖ»á--ÈÎÈªÍí»á±íÑÝ
-(0202
-00:56)
+(0202 00:56)
 Í¼ÎÄ£º2008ÐÂ´ºµçÓ°ÒôÀÖ»á--Ì·¾§ÏÖ³¡ÑÝ³ª¸èÇú
-(0202
-00:56)
+(0202 00:56)
 Í¼ÎÄ£º2008ÐÂ´ºµçÓ°ÒôÀÖ»á--´ÔÉºÖìÊ±Ã¯
-(0202
-00:56)
+(0202 00:56)
 ¸ü¶àÄÚÈÝ
 ¸÷·½ÆÀÂÛ
 ·çÑ©ÎÞÇéÈË¼äÓÐ°®
 ÕÅÀ½À½´ºÍíÐÂ¸èÎÂÜ°¸ÐÈË(Í¼)
-(0207
-10:12)
+(0207 10:12)
 ½ðÉ¯£ºÑ©ÔÖÖ®ÖÐ£¬ÓÐµÄÈËÐÄ¿ÉÒÔ±ÈÑ©¸üÀä
-(0206
-04:08)
+(0206 04:08)
 ½­Ò»Ñà£ºÃ»ÓÐÉí´¦Ñ©ÔÖÏÖ³¡Ò²Í¬´óÑ©²«¶·×Å
-(0204
-11:41)
+(0204 11:41)
 ³Â³½£ºÑ©ÈËµÄ×Ô°×£¬Äã¿ÉÔøÁôÒâµ½ÎÒ
-(0203
-11:10)
+(0203 11:10)
 ³ÂÀöÄÈ£º´º½Ú½«ÖÁ£¬ÓÃÎÂÅ¯¸Ð¶¯ÊÜÔÖµÄÅóÓÑ
-(0203
-10:52)
+(0203 10:52)
 ÅÌµãÑ©ÔÖÃæÇ°×îÈÃÈËÎÂÅ¯µÄ5¼ÒÃ½Ìå
-(0203
-10:01)
+(0203 10:01)
 ÐíÈãÜ¿£ºÓÃÎ¢Ð¦ºÍœØÅ¯ÈÚ»¯º®ÀäµÄ±ùÑ©(Í¼)
-(0202
-22:56)
+(0202 22:56)
 ³óÓãÄáÄª£º¿¹Ñ©¾ÈÔÖÓéÀÖÈ¦¾è¿îÅÅÐÐ°ñ
-(0202
-22:04)
+(0202 22:04)
 ÁõÍþÝÚ£ºÖÐ¹ú°æÃÔÄã¡°ºóÌì¡±
 ÎÒÃÇÐèÒªÏà»¥ÎÂÅ¯
-(0202
-10:41)
+(0202 10:41)
 »ªÎ÷¶¼ÊÐ±¨£º´ºÍíêâÔÖ--ÒÔÔðÈÎµÄÃûÒå
-(0131
-17:51)
+(0131 17:51)
 ÐÂ»ªÍø£º²»Èç°Ñ´ºÍí±ä³ÉêâÔÖÒåÑÝ
-(0130
-10:01)
+(0130 10:01)
 ¸ü¶àÄÚÈÝ
 ÊÓÆµ¶¯Ì¬
 ÊÓÆµ£ºÏã¸Û°ÙÎ»ÒÕÈË¶¬ÈÕ·Å¸è
 ¡¶Ñ©ÖÐËÍÅ¯¡·MV
-(0205
-16:33)
+(0205 16:33)
 ÊÓÆµ£º¹ÊÏçµÄÔÆêâÔÖÒôÀÖ»á
 ÕÅ½ÜÌ·Î¬Î¬ºÏ³ª
-(0205
-11:34)
+(0205 11:34)
 ÊÓÆµ£º¹ÊÏçµÄÔÆêâÔÖÒôÀÖ»á
 ÕÅ½ÜÏÖ³¡ÑÝ³ª¸èÇú
-(0205
-11:27)
+(0205 11:27)
 ÊÓÆµ£º¹ÊÏçµÄÔÆêâÔÖÒôÀÖ»á
 ¸ßÃ÷¿¥ÏÖ³¡ÑÝ³ª
-(0205
-11:22)
+(0205 11:22)
 ÊÓÆµ£º¹ÊÏçµÄÔÆêâÔÖÒôÀÖ»á
 Ì·½¡³£ÏÖ³¡ÑÝ³ª
-(0205
-11:17)
+(0205 11:17)
 ÊÓÆµ£º¹ÊÏçµÄÔÆêâÔÖÒôÀÖ»á
 ÐÁÏþç÷ÑÝ³ª¡¶ÁìÎò¡·
-(0205
-11:11)
+(0205 11:11)
 ÊÓÆµ£º¹ÊÏçµÄÔÆêâÔÖÒôÀÖ»á
 ·ÑÏèºôÓõêâÔÖ¾è¿î
-(0205
-11:01)
+(0205 11:01)
 ÊÓÆµ£º³µÓÀÀòÇéÏµÑ©ÔÖµØÇø
 ÎªÔÖÃñ¼ÓÓÍ´òÆø
-(0203
-21:45)
+(0203 21:45)
 ÊÓÆµ£ºÖÚÃ÷ÐÇÍ¨¹ýÐÂÀËÓéÀÖºôÓõÏòÑ©ÔÖÇøÏ×°®ÐÄ
-(0203
-19:10)
+(0203 19:10)
 ÊÓÆµ£ºÍ¬Ò»Ê×¸èêâÔÖÒåÑÝ-ËïÔÃÑÝ³ª¡¶×£ÄãÆ½°²¡·
-(0203
-11:28)
+(0203 11:28)
 ÊÓÆµ£ºÍ¬Ò»Ê×¸èêâÔÖÒåÑÝ-ËïÔÃÑÝ³ª¡¶ÐÖµÜ½ãÃÃ¡·
-(0203
-11:27)
+(0203 11:27)
 ÊÓÆµ£ºÍ¬Ò»Ê×¸èêâÔÖÒåÑÝ-ËïÔÃÑÝ³ª¡¶´ó¼ÒÒ»ÆðÀ´¡·
-(0203
-11:27)
+(0203 11:27)
 ÊÓÆµ£ºÍ¬Ò»Ê×¸èÒåÑÝ-ÈºÐÇÑÝ³ª¡¶ÈÃÊÀ½ç³äÂú°®¡·
-(0203
-11:25)
+(0203 11:25)
 ÊÓÆµ£ºÍ¬Ò»Ê×¸èêâÔÖÒåÑÝ-ÆëÔ¥ÑÝ³ª¡¶éÏé­Ê÷¡·
-(0203
-11:20)
+(0203 11:20)
 ÊÓÆµ£ºÍ¬Ò»Ê×¸èêâÔÖÒåÑÝ-Ã«ÄþÑÝ³ª¡¶¸ÐÐ»Äã¡·
-(0203
-11:18)
+(0203 11:18)
 ÊÓÆµ£º¾°¸ÚÉ½ËïºÆ»Æ¸ñÑ¡ÑÝ³ª¡¶ÊÀ½çÐèÒªÈÈÐÄ³¦¡·
-(0203
-11:16)
+(0203 11:16)
 ÊÓÆµ£ºÍ¬Ò»Ê×¸èêâÔÖÒåÑÝ-¹ù·åÑÝ³ª¡¶Ò»Â·Í¬ÐÐ¡·
-(0203
-11:15)
+(0203 11:15)
 ÊÓÆµ£ºÍ¬Ò»Ê×¸è--¹®ººÁÖ·ò¸¾¡¶·òÆÞË«Ë«°Ñ¼Ò»¹¡·
-(0203
-11:09)
+(0203 11:09)
 ÊÓÆµ£ºÍ¬Ò»Ê×¸èÒåÑÝ--¸¶µÑÉú¡¶ÖÚÈË»®½°¿ª´ó´¬¡·
-(0203
-11:03)
+(0203 11:03)
 ¸ü¶àÄÚÈÝ
 ×¨ÌâÄÚËÑË÷
 ¹Ø¼ü´Ê
@@ -35436,14 +34790,8 @@ Reserved
 ÐÂÀËÓéÀÖ¹«ÒæMV
 <left>
 ÔÚÒ»Æ¬êâÔÖÉùÖÐ£¬ÑëÊÓ´ºÍí¼ÓÈëÁËêâÔÖ»·½Ú£¬´ºÍíÐÂÈËÕÅÀ½À½¶À³ª¸èÇú¡¶Ò»¼ÒÈË¡·ºÍÖÜ½ÜÂ×¶À³ªÒ»Æð£¬±»µ÷Õûµ½ÁËÁãµã±¨Ê±Ö®ºó¡­¡­[ÏêÎÄ][ÐÂÀËÈ¦×Ó³ÏÑû±±Æ¯×å]
-Ã÷ÐÇ³«Òé£º[¹ùÏþ¶¬
-¿×Î¬
-³ÂÀöÄÈ
-³µÓÀÀò]
-[½âÐ¡¶«
-ÇÇÈÎÁº
-Ñ¦¼ÑÄý²Î¼ÓêâÔÖÒåÑÝ
-ÇúÒÕ½ç¾Ù°ìÒåÑÝ]
+Ã÷ÐÇ³«Òé£º[¹ùÏþ¶¬ ¿×Î¬ ³ÂÀöÄÈ ³µÓÀÀò]
+[½âÐ¡¶« ÇÇÈÎÁº Ñ¦¼ÑÄý²Î¼ÓêâÔÖÒåÑÝ ÇúÒÕ½ç¾Ù°ìÒåÑÝ]
 </left>
 ¸÷µØµçÊÓÌ¨¿¹»÷Ñ©ÔÖ
 ¡úÑëÊÓ´ºÍí
@@ -35568,425 +34916,308 @@ SMG:Á¬Ò¹¸ÏÖÆ¹«Òæ¹ã¸æ
 Ã½Ìå¾Û½¹
 ÎÞÏß×Ü¾­Àí³ÂÖ¾ÔÆ³öÏ¯¼ÇÕß»á
 ÑûTwinsËÍÅ¯êâÔÖ
-(0213
-10:49)
+(0213 10:49)
 ºþÄÏÎÀÊÓÊ®ÎåÐ¡Ê±Ö±²¥êâÔÖ½ÚÄ¿
 Ä¼µÃÈýÒÚÉÆ¿î
-(0207
-04:21)
+(0207 04:21)
 ¡°ÖÓ»±¡±¹ýÄê»ØÐÂ½®
 ¹¢ÀÖ´ºÍí°ÝÐ»±øÍÅÈË(¸½Í¼)
-(0206
-14:38)
+(0206 14:38)
 ÀîÏæêâÔÖ³öÇ®ÓÖ³öÁ¦
 Ö÷³Ö°®ÐÄ´óÈÚ±ù¸Ð¶¯ÂäÀá
-(0206
-13:42)
+(0206 13:42)
 ÁõÜ¿Ç£¹ÒºþÄÏ¼ÒÏç¸¸ÀÏ
 ¿¶¿®½âÄÒÖ§Ô®ÔÖÇø(¸½Í¼)
-(0206
-11:47)
+(0206 11:47)
 ÑëÊÓ´ºÍíÍ»³öêâÔÖ
 ÖÜ½ÜÂ×ÕÅÀ½À½½ÚÄ¿µ÷Õû(Í¼)
-(0206
-11:08)
+(0206 11:08)
 ×éÍ¼£º±±¾©ÇúÒÕ½çêâÔÖÒåÑÝ
 ½ªÀ¥Ö¸»ÓÖÚÑÝÔ±ºÏ³ª
-(0206
-10:10)
+(0206 10:10)
 ¸èÊÖ×æº£ÎªÑ©ÔÖ¾è¿î15Íò
 ³É¾è¿î×î¶àÒÕÈË(×éÍ¼)
-(0205
-15:18)
+(0205 15:18)
 Ô¬Á¢ÁÁÏà±±¾©Ì¨êâÔÖÒåÑÝ
 ºôÓõ¸÷½çÏ×°®ÐÄ(Í¼)
-(0205
-14:06)
+(0205 14:06)
 °ÙÎ»Ã÷ÐÇêâÔÖÒåÑÝËÍÎÂÅ¯
 Í¬³ªÒ»Ê×¸è´«µÝÖÐ»ªÇé
-(0205
-12:05)
+(0205 12:05)
 Ê®´ó¿ìÀÖÃ÷ÐÇ¼ÒÍ¥ÆÀÑ¡³öÂ¯
 ÎÌºç·ò¸¾Ï×³ö°®ÐÄ³µ
-(0205
-12:00)
+(0205 12:00)
 Ì·¾§ÎªÑ©ÔÖ¾èÔù10ÍòÔª
 ¹ÄÀøÊÜÖúÑ§Éú»Ø±¨Éç»á
-(0205
-11:46)
+(0205 11:46)
 ºÃÄÐ¶ù¿¶¿®¾è³öÄêÖÕ½±
 ÐÂÈÎÔÖÇé¾èÖú½ÓÏßÔ±(Í¼)
-(0205
-11:45)
+(0205 11:45)
 È«Çò»ªÈËÐÂ´ºÒôÀÖ»á¼´½«ÉÏÑÝ
 ÑÝ³öÆ±¿îÓÃÓÚêâÔÖ
-(0205
-11:41)
+(0205 11:41)
 ÖÜ±Ê³©ÍæÃüÄ¼¾è
 ÉÏº£ºþÄÏÁ½µØêâÔÖµ±¿ÕÖÐ·ÉÈË
-(0205
-05:26)
+(0205 05:26)
 µ¼ÑÝÖ£¿ËºéÂÊ¡¶ÀîÊ±Õä¡·¾ç×éÎªÔÖÇøÍ¬°û¾èÖÐÒ©
-(0204
-16:43)
+(0204 16:43)
 ÖìÒðÇ×Îª°®È®½ÓÉú
 ¸ÐÌ¾Óö´ó·çÑ©ÖÍÁôºÏ·Ê(Í¼)
-(0204
-16:25)
+(0204 16:25)
 ÇÇÈÎÁº²Î¼ÓêâÔÖÒåÑÝ
 ÇéÏµÔÖÇø¾èÔùÑÝ³ö·þ(Í¼)
-(0204
-16:25)
+(0204 16:25)
 ×éÍ¼£º½âÐ¡¶«ÇÇÈÎÁºÑ¦¼ÑÄý³öÏ¯´óÐÍêâÔÖÒåÑÝ
-(0204
-16:17)
+(0204 16:17)
 ÇúÒÕ½ç¾Ù°ìêâÔÖÒåÑÝ
 °®ÐÄ»¯±ùÑ©ÕæÇéÅ¯ÈË¼ä
-(0204
-15:53)
+(0204 15:53)
 Ê¯Ð¡Èº·çÑ©·µÏçÓ­ÐÂ´º
 ±»À§»ú³¡ÈýÊ®Ð¡Ê±ÏÔÕæÇé
-(0204
-15:39)
+(0204 15:39)
 ½¯ö©Àö¹Ë³¤ÎÀÎªÔÖÇø½âÄÒ
 ¡¶Á¢´º¡·ÐÂº£±¨½ÒÄ»
-(0204
-15:06)
+(0204 15:06)
 ÀîÏæÐÄÏµºþÄÏÔÖÇø
 Á¬Ò¹¸ÏÍù³¤É³Ö§³ÖêâÔÖ(Í¼)
-(0204
-14:45)
+(0204 14:45)
 ¹ã¶«°®ÐÄÒåÑÝ
 ¡¶±¾µØÀÉ¡·¿µ¼ÒÎªÍâÀ´¹¤ËÍ½È×Ó
-(0204
-14:38)
+(0204 14:38)
 Ïã¸Û°ÙÎ»ÒÕÈËÍ¨ÏüÂ¼Òô
 ¡¶Ñ©ÖÐËÍÅ¯¡·ÎªÔÖÃñ´òÆø
-(0204
-14:38)
+(0204 14:38)
 ¡¶Á¢´º¡·ÒòÑ©ÔÖÍÆ³ÙÉÏÓ³
 ¹Ë³¤ÎÀ½¯ö©Àö¾è¿îêâÔÖ
-(0204
-13:38)
+(0204 13:38)
 ÑÝÒÕÈ¦´µÏìêâÔÖ¼¯½áºÅ
 ¹ùµÂ¸Ù½¯ö©Àö¾è¿î¾ÈÔÖ
-(0204
-10:30)
+(0204 10:30)
 4ÈÕ20Ê±Õã½­ÎÀÊÓÏÖ³¡Ö±²¥¿¹»÷±ùÑ©ÔÖº¦ÌØ±ðÍí»á
-(0204
-10:10)
+(0204 10:10)
 È«¹úÑÝÒÕÈ¦½ô¼±¿¹ÔÖ
 ´ºÍíÎ´µ½êâÔÖÍí»áÏÈÐÐ(Í¼)
-(0204
-09:32)
+(0204 09:32)
 ¸ü¶àÄÚÈÝ
 Ã÷ÐÇ¿¹ÔÖ
 ×óÐ¡Çà£ºÐÄÁéµÄ½¹×Æ--Ö§Ô®Ñ©ÔÖÎÒÒå²»ÈÝ´Ç
-(0213
-00:10)
+(0213 00:10)
 Ñî×Ó£º×ö×ÔºÀµÄÖÐ¹úÈË£¬ÏòÖÐ¹úÖÂ¾´
-(0206
-17:44)
+(0206 17:44)
 º«Ñ©£ºÕâ¸ö´º½ÚÀá¹âÉÁ¶¯
 ÓëÔÖÇøÈËÃñÐÄÁ¬ÐÄ(Í¼)
-(0206
-14:51)
+(0206 14:51)
 ÖÐ¹úÇúÐ­êâÔÖÒåÑÝ
 70¶àÎ»Ð¦ÐÇÐÂ´ºÅ¯ÈËÐÄ(Í¼)
-(0206
-01:40)
+(0206 01:40)
 ÄôÔ¶³«ÒéÃ÷ÐÇÀÏÏç¿¹ÔÖ
 ÁªÊÖÇ­¶«ÄÏÕþ¸®°®ÐÄÄ¼¼¯
-(0205
-16:36)
+(0205 16:36)
 ÄôÔ¶ÊÜÆ¸Ç­¶«ÄÏÕþ¸®°®ÐÄÊ¹Õß
 ÎªÔÖÇø³ïÇ§ÍòÉÆ¿î
-(0205
-16:33)
+(0205 16:33)
 ³Â·¨ÈØ£ºÄÏ·½¾ç×é³öÆæÀä£¬ÓðÈÞ·þ³ÉÇÀÊÖ»õ(Í¼)
-(0205
-13:29)
+(0205 13:29)
 ºé½£ÌÎ£ºÑ©º®ÈËÐÄÅ¯£¬»¹ÎÒ½­ÄÏÖ®ÏÊ»¨ÂÌ²Ý
-(0205
-13:26)
+(0205 13:26)
 ×æº££ºÑ©ÔÚÊÖÖÐÈÚ»¯£¬°®ÔÚÐÄÖÐ´«µÝ(Í¼)
-(0205
-13:23)
+(0205 13:23)
 Ê×ÌåêâÔÖÒåÑÝÇÇÈÎÁºÔÙ¶ÈÏ×Éù
 ·îÏ×°®ÐÄÐÐ¶¯±í´ï
-(0205
-05:19)
+(0205 05:19)
 ¾©¾çÃû¼ÒêâÔÖÒåÑÝ
 Ì·ÔªÊÙ×æËïÈý´úÔòÍ¬Ì¨ÁÁÏà
-(0204
-15:19)
+(0204 15:19)
 ÕÔ±£ÀÖµÈÇàµºÃ÷ÐÇ°®ÐÄÈÚ±ù
 »ÆÏþÃ÷ÒÑ¾èÊ®ÍòêâÔÖ
-(0204
-13:07)
+(0204 13:07)
 ½âÐ¡¶«Ñ¦¼ÑÄýÇÇÈÎÁºÏ×°®ÐÄ
 Îª°ÂÔËêâÔÖÍí»á·Å¸è
-(0204
-11:49)
+(0204 11:49)
 ÖÐ¹ú·öÆ¶»ù½ð»á½ô¼±¾ÈÖú
 ÎºçøÏÀÎÂÅ¯¼ÄÓï(Í¼)
-(0204
-09:53)
+(0204 09:53)
 ¹ÊÏçµÄÔÆº£Ï¿µÄ·çÖ÷ÌâÍí»á
 ·ÑÏèÈÎ°®ÐÄ´óÊ¹(Í¼)
-(0204
-03:48)
+(0204 03:48)
 ÄÏ±±Ã÷ÐÇÏ×°®ÐÄ
 ÀîÓî´º¾è¿î5ÍòÀîÁ¬½Ü²¦³ö95Íò
-(0204
-02:44)
+(0204 02:44)
 Vitas¡¶ÎèÁÖÊ¢µä¡·¾è¿î1Íò
 ÖÜ±Ê³©ÌÍ¿Õ¿Ú´ü(Í¼)
-(0204
-00:09)
+(0204 00:09)
 ²ÜêØÎÄ£º»Ø¼Ò¹ýÄê·çÑ©ÎÞ×è
 ÔÖÇéµ²²»ÁËÇ°ÐÐ(Í¼)
-(0203
-17:15)
+(0203 17:15)
 ÑÝÒÕÃ÷ÐÇ´µÏìêâÔÖ¼¯½áºÅ
 Ä¼¼¯ÉÆ¿îÒÑ´ï5000¶àÍò
-(0203
-16:47)
+(0203 16:47)
 ¸ü¶àÄÚÈÝ
 ¸ÛÌ¨¶¯Ì¬
 ×éÍ¼£ºÏã¸Û°ÙÎ»ÒÕÈË¶¬ÈÕ·Å¸è
 ÎªÄÚµØÍ¬°ûËÍÎÂÅ¯
-(0204
-10:28)
+(0204 10:28)
 Ïã¸Û°ÙÎ»ÒÕÈËÑ©ÖÐËÍÅ¯
 ÎªÄÚµØÍ¬°ûÏ×¸èÉù(Í¼)
-(0204
-01:32)
+(0204 01:32)
 ±ùÑ©ÎÞÇéÈË¼äÓÐÇé
 Ïã¸ÛÒÕÈË×éÖ¯Â¼ÖÆêâÔÖ¸èÇú
-(0203
-05:37)
+(0203 05:37)
 º«ÐÇSARA¸ÏÂ¼´ºÍí
 ²»Î·Ñ©ÔÖÐÂ¸èÎ¿ÎÊ¹ÛÖÚ(×éÍ¼)
-(0201
-14:00)
+(0201 14:00)
 ÀîÁ¬½Ü¾è95ÍòÔª¾ÈÑ©ÔÖ
 Ò¼»ù½ðºôÓõ»¥Ïà°ïÖú
-(0131
-12:17)
+(0131 12:17)
 ÀîÁ¬½ÜÒ¼»ù½ð²¦¿î95Íò¾ÈÖúÑ©ÔÖ
 Óõ¹Ø»³Óë°®(Í¼)
-(0131
-08:51)
+(0131 08:51)
 ÀîÁ¬½ÜÒ¼»ù½ðÃÜÇÐ¹Ø×¢ÔÖÇé
 ²¦¿î95ÍòÔª¾ÈÑ©ÔÖ
-(0131
-02:18)
+(0131 02:18)
 Ð»öª·æÒòÑ©ÔÖÖÍÁô·¸²¡
 ¡¶Ã·À¼·¼¡·¾ç×é¹ºÒÂ·Àº®
-(0130
-09:27)
+(0130 09:27)
 Ñ©ÔÖÓ°ÏìÓéÀÖÈ¦
 Á½Ó°Æ¬ÅÄÉãÄÑÐ»öª·æ·¸Ïø´­(Í¼)
-(0130
-02:05)
+(0130 02:05)
 ÕÅ¶«½¡ÐÐÉÆ²»ÎªÈËºó
 µÍµ÷¾è3ÒÚº«ÔªêâÑ©ÔÖ(Í¼)
-(1230
-15:44)
+(1230 15:44)
 ¸ü¶àÄÚÈÝ
 ÏÖ³¡Í¼Æ¬
 Í¼ÎÄ£ºÏã¸ÛÒÕÈË·Å¸è-ÎâÐ¡ÀòÏ×³ª¡¶Ñ©ÖÐËÍÅ¯¡·
-(0204
-10:24)
+(0204 10:24)
 Í¼ÎÄ£ºÏã¸ÛÒÕÈË·Å¸è-ÈÝ×æ¶ù·ÅÉù¸ß¸è
-(0204
-10:24)
+(0204 10:24)
 Í¼ÎÄ£ºÏã¸ÛÒÕÈË·Å¸è-³Â»ÛÁÕ»ý¼«ÏìÓ¦
-(0204
-10:24)
+(0204 10:24)
 Í¼ÎÄ£ºÏã¸ÛÒÕÈË·Å¸è-Ö£ÐãÎÄºÚ¿òÑÛ¾µÕ¹ÏÖÖªÐÔ
-(0204
-10:24)
+(0204 10:24)
 Í¼ÎÄ£ºÏã¸ÛÒÕÈË·Å¸è-ÔøÖ¾Î°µÈ·Å¸è
-(0204
-10:24)
+(0204 10:24)
 Í¼ÎÄ£ºÏã¸ÛÒÕÈË·Å¸è-Ì·Ó½÷ëºÍÁõµÂ»ª
-(0204
-10:24)
+(0204 10:24)
 Í¼ÎÄ£ºÏã¸ÛÒÕÈË·Å¸è-ÈÝ×æ¶ù²Ì×¿åûÖ£ÐãÎÄ³Â»ÛÁÕºÏ³ª
-(0204
-10:24)
+(0204 10:24)
 Í¼ÎÄ£ºÏã¸ÛÒÕÈË·Å¸è-Ïã¸Û°ÙÎ»ÒÕÈË·Å¸è
-(0204
-10:24)
+(0204 10:24)
 Í¼ÎÄ£ºÏã¸ÛÒÕÈË¸èÉùËÍÎÂÅ¯--Ö£ÐãÎÄ¸Ïµ½ÏÖ³¡
-(0203
-10:18)
+(0203 10:18)
 Í¼ÎÄ£ºÏã¸ÛÒÕÈË¸èÉùËÍÎÂÅ¯--ÔøÖ¾Î°¸Ïµ½ÏÖ³¡
-(0203
-10:18)
+(0203 10:18)
 Í¼ÎÄ£ºÏã¸ÛÒÕÈË¸èÉùËÍÎÂÅ¯--²Ì×¿åûËÍ×£¸£
-(0203
-10:18)
+(0203 10:18)
 Í¼ÎÄ£ºÏã¸ÛÒÕÈË¸èÉùËÍÎÂÅ¯--ÈÝ×æ¶ù¸Ïµ½ÏÖ³¡
-(0203
-10:18)
+(0203 10:18)
 Í¼ÎÄ£ºÏã¸ÛÒÕÈË¸èÉùËÍÎÂÅ¯--ÔøÖ¾Î°»»ÉÏ·þ×°
-(0203
-10:18)
+(0203 10:18)
 Í¼ÎÄ£ºÏã¸ÛÒÕÈË¸èÉùËÍÎÂÅ¯--ÖÜÀöä¿ÏìÓ¦»î¶¯
-(0203
-10:18)
+(0203 10:18)
 Í¼ÎÄ£ºÏã¸ÛÒÕÈË¸èÉùËÍÎÂÅ¯--Ì·Ó½÷ëÕ¹Ê¾·þ×°
-(0203
-10:17)
+(0203 10:17)
 Í¼ÎÄ£ºÏã¸ÛÒÕÈË¸èÉùËÍÎÂÅ¯--³Â»ÛÁÕºÍÈÎ´ï»ª
-(0203
-10:17)
+(0203 10:17)
 Í¼ÎÄ£ºÏã¸ÛÒÕÈË¸èÉùËÍÎÂÅ¯--³Â»ÛÁÕÄÑµÖÑÏº®
-(0203
-10:17)
+(0203 10:17)
 Í¼ÎÄ£ºÏã¸ÛÒÕÈË¸èÉùËÍÎÂÅ¯--ÁõµÂ»ª×¼±¸·¢ÑÔ
-(0203
-10:17)
+(0203 10:17)
 Í¼ÎÄ£ºÏã¸ÛÒÕÈË¸èÉùËÍÎÂÅ¯--ÖÓ¼ÎÐÀºÍÑîË¼çù
-(0203
-10:17)
+(0203 10:17)
 Í¼ÎÄ£ºÏã¸ÛÒÕÈË¸èÉùËÍÎÂÅ¯--Ì·Ó½÷ëºÍ³Â»ÛÁÕ
-(0203
-10:17)
+(0203 10:17)
 Í¼ÎÄ£ºÏã¸ÛÒÕÈË¸èÉùËÍÎÂÅ¯--ÈÎ´ï»ªºÍÁõµÂ»ª
-(0203
-10:17)
+(0203 10:17)
 Í¼ÎÄ£ºÏã¸ÛÒÕÈË¸èÉùËÍÎÂÅ¯--Ö£ÐãÎÄ²Î¼Ó»î¶¯
-(0203
-10:17)
+(0203 10:17)
 Í¼ÎÄ£ºÏã¸ÛÒÕÈË¸èÉùËÍÎÂÅ¯--Áº¼Ò»ÔÃæ¶Ô¾µÍ·
-(0203
-10:17)
+(0203 10:17)
 Í¼ÎÄ£ºÏã¸ÛÒÕÈË¸èÉùËÍÎÂÅ¯--ÁõµÂ»ª¸Ïµ½ÏÖ³¡
-(0203
-10:17)
+(0203 10:17)
 Í¼ÎÄ£º2008ÐÂ´ºµçÓ°ÒôÀÖ»á--·ëÐ¡¸Õ¾è15ÍòÏÖ½ð
-(0202
-09:36)
+(0202 09:36)
 Í¼ÎÄ£º2008ÐÂ´ºµçÓ°ÒôÀÖ»á--³Â»ÛÁÕ¹ùÏþ¶¬±íÑÝ
-(0202
-00:56)
+(0202 00:56)
 Í¼ÎÄ£º2008ÐÂ´ºµçÓ°ÒôÀÖ»á--ÈÎÈªÍí»á±íÑÝ
-(0202
-00:56)
+(0202 00:56)
 Í¼ÎÄ£º2008ÐÂ´ºµçÓ°ÒôÀÖ»á--Ì·¾§ÏÖ³¡ÑÝ³ª¸èÇú
-(0202
-00:56)
+(0202 00:56)
 Í¼ÎÄ£º2008ÐÂ´ºµçÓ°ÒôÀÖ»á--´ÔÉºÖìÊ±Ã¯
-(0202
-00:56)
+(0202 00:56)
 ¸ü¶àÄÚÈÝ
 ¸÷·½ÆÀÂÛ
 ·çÑ©ÎÞÇéÈË¼äÓÐ°®
 ÕÅÀ½À½´ºÍíÐÂ¸èÎÂÜ°¸ÐÈË(Í¼)
-(0207
-10:12)
+(0207 10:12)
 ½ðÉ¯£ºÑ©ÔÖÖ®ÖÐ£¬ÓÐµÄÈËÐÄ¿ÉÒÔ±ÈÑ©¸üÀä
-(0206
-04:08)
+(0206 04:08)
 ½­Ò»Ñà£ºÃ»ÓÐÉí´¦Ñ©ÔÖÏÖ³¡Ò²Í¬´óÑ©²«¶·×Å
-(0204
-11:41)
+(0204 11:41)
 ³Â³½£ºÑ©ÈËµÄ×Ô°×£¬Äã¿ÉÔøÁôÒâµ½ÎÒ
-(0203
-11:10)
+(0203 11:10)
 ³ÂÀöÄÈ£º´º½Ú½«ÖÁ£¬ÓÃÎÂÅ¯¸Ð¶¯ÊÜÔÖµÄÅóÓÑ
-(0203
-10:52)
+(0203 10:52)
 ÅÌµãÑ©ÔÖÃæÇ°×îÈÃÈËÎÂÅ¯µÄ5¼ÒÃ½Ìå
-(0203
-10:01)
+(0203 10:01)
 ÐíÈãÜ¿£ºÓÃÎ¢Ð¦ºÍœØÅ¯ÈÚ»¯º®ÀäµÄ±ùÑ©(Í¼)
-(0202
-22:56)
+(0202 22:56)
 ³óÓãÄáÄª£º¿¹Ñ©¾ÈÔÖÓéÀÖÈ¦¾è¿îÅÅÐÐ°ñ
-(0202
-22:04)
+(0202 22:04)
 ÁõÍþÝÚ£ºÖÐ¹ú°æÃÔÄã¡°ºóÌì¡±
 ÎÒÃÇÐèÒªÏà»¥ÎÂÅ¯
-(0202
-10:41)
+(0202 10:41)
 »ªÎ÷¶¼ÊÐ±¨£º´ºÍíêâÔÖ--ÒÔÔðÈÎµÄÃûÒå
-(0131
-17:51)
+(0131 17:51)
 ÐÂ»ªÍø£º²»Èç°Ñ´ºÍí±ä³ÉêâÔÖÒåÑÝ
-(0130
-10:01)
+(0130 10:01)
 ¸ü¶àÄÚÈÝ
 ÊÓÆµ¶¯Ì¬
 ÊÓÆµ£ºÏã¸Û°ÙÎ»ÒÕÈË¶¬ÈÕ·Å¸è
 ¡¶Ñ©ÖÐËÍÅ¯¡·MV
-(0205
-16:33)
+(0205 16:33)
 ÊÓÆµ£º¹ÊÏçµÄÔÆêâÔÖÒôÀÖ»á
 ÕÅ½ÜÌ·Î¬Î¬ºÏ³ª
-(0205
-11:34)
+(0205 11:34)
 ÊÓÆµ£º¹ÊÏçµÄÔÆêâÔÖÒôÀÖ»á
 ÕÅ½ÜÏÖ³¡ÑÝ³ª¸èÇú
-(0205
-11:27)
+(0205 11:27)
 ÊÓÆµ£º¹ÊÏçµÄÔÆêâÔÖÒôÀÖ»á
 ¸ßÃ÷¿¥ÏÖ³¡ÑÝ³ª
-(0205
-11:22)
+(0205 11:22)
 ÊÓÆµ£º¹ÊÏçµÄÔÆêâÔÖÒôÀÖ»á
 Ì·½¡³£ÏÖ³¡ÑÝ³ª
-(0205
-11:17)
+(0205 11:17)
 ÊÓÆµ£º¹ÊÏçµÄÔÆêâÔÖÒôÀÖ»á
 ÐÁÏþç÷ÑÝ³ª¡¶ÁìÎò¡·
-(0205
-11:11)
+(0205 11:11)
 ÊÓÆµ£º¹ÊÏçµÄÔÆêâÔÖÒôÀÖ»á
 ·ÑÏèºôÓõêâÔÖ¾è¿î
-(0205
-11:01)
+(0205 11:01)
 ÊÓÆµ£º³µÓÀÀòÇéÏµÑ©ÔÖµØÇø
 ÎªÔÖÃñ¼ÓÓÍ´òÆø
-(0203
-21:45)
+(0203 21:45)
 ÊÓÆµ£ºÖÚÃ÷ÐÇÍ¨¹ýÐÂÀËÓéÀÖºôÓõÏòÑ©ÔÖÇøÏ×°®ÐÄ
-(0203
-19:10)
+(0203 19:10)
 ÊÓÆµ£ºÍ¬Ò»Ê×¸èêâÔÖÒåÑÝ-ËïÔÃÑÝ³ª¡¶×£ÄãÆ½°²¡·
-(0203
-11:28)
+(0203 11:28)
 ÊÓÆµ£ºÍ¬Ò»Ê×¸èêâÔÖÒåÑÝ-ËïÔÃÑÝ³ª¡¶ÐÖµÜ½ãÃÃ¡·
-(0203
-11:27)
+(0203 11:27)
 ÊÓÆµ£ºÍ¬Ò»Ê×¸èêâÔÖÒåÑÝ-ËïÔÃÑÝ³ª¡¶´ó¼ÒÒ»ÆðÀ´¡·
-(0203
-11:27)
+(0203 11:27)
 ÊÓÆµ£ºÍ¬Ò»Ê×¸èÒåÑÝ-ÈºÐÇÑÝ³ª¡¶ÈÃÊÀ½ç³äÂú°®¡·
-(0203
-11:25)
+(0203 11:25)
 ÊÓÆµ£ºÍ¬Ò»Ê×¸èêâÔÖÒåÑÝ-ÆëÔ¥ÑÝ³ª¡¶éÏé­Ê÷¡·
-(0203
-11:20)
+(0203 11:20)
 ÊÓÆµ£ºÍ¬Ò»Ê×¸èêâÔÖÒåÑÝ-Ã«ÄþÑÝ³ª¡¶¸ÐÐ»Äã¡·
-(0203
-11:18)
+(0203 11:18)
 ÊÓÆµ£º¾°¸ÚÉ½ËïºÆ»Æ¸ñÑ¡ÑÝ³ª¡¶ÊÀ½çÐèÒªÈÈÐÄ³¦¡·
-(0203
-11:16)
+(0203 11:16)
 ÊÓÆµ£ºÍ¬Ò»Ê×¸èêâÔÖÒåÑÝ-¹ù·åÑÝ³ª¡¶Ò»Â·Í¬ÐÐ¡·
-(0203
-11:15)
+(0203 11:15)
 ÊÓÆµ£ºÍ¬Ò»Ê×¸è--¹®ººÁÖ·ò¸¾¡¶·òÆÞË«Ë«°Ñ¼Ò»¹¡·
-(0203
-11:09)
+(0203 11:09)
 ÊÓÆµ£ºÍ¬Ò»Ê×¸èÒåÑÝ--¸¶µÑÉú¡¶ÖÚÈË»®½°¿ª´ó´¬¡·
-(0203
-11:03)
+(0203 11:03)
 ¸ü¶àÄÚÈÝ
 ×¨ÌâÄÚËÑË÷
 ¹Ø¼ü´Ê
@@ -36549,8 +35780,7 @@ Reserved
 ÒÚÊ¤ÖÜ½ÜÂ×
 [Ê×ÖÜÆ±·¿6276Íò][¹«Ó³Ê×ÈÕÆ±·¿1200Íò][ÐÂÀË¹ÛÓ°ÍÅ][¹Ûºó¸Ðµ÷²é]
 [Ðì½¿Æ¬³êÒÑ´ï6Î»Êý][Ì«¿Õ¹·ÔâµÁ°æÀ§ÈÅ][Â³Ô¥ÓÐÔ¼Ö®ÖÜÐÇ³Û]
-[ÊÓÆµ£ººÃÐ¦ºÃ¸ÐÈËÆ¬¶Î][ÊÔÌý£ºÓ¢ÎÄÖ÷ÌâÇú
-SHE³ª¹úÓï°æ]
+[ÊÓÆµ£ººÃÐ¦ºÃ¸ÐÈËÆ¬¶Î][ÊÔÌý£ºÓ¢ÎÄÖ÷ÌâÇú SHE³ª¹úÓï°æ]
 ¡ï
 ¿´Íê¡¶³¤½­7ºÅ¡·ºóµÄNÖÖÇéÐ÷
 ¸ü¶à
@@ -36889,269 +36119,193 @@ MMÄ£·ÂÖÜÐÇ³Û¾­µä±íÇé
 ¡°ÐÇ¡±¶¯Ì¬
 ¼ÙÆÚµçÓ°ÊÐ³¡Æ®ºì
 ÖÜÐÇ³Û×¬1.2ÒÚÊ¤ÖÜ½ÜÂ×(Í¼)
-(0213
-09:31)
+(0213 09:31)
 ´ó¹àÀº6ÌìÀ¿6000Íò
 ³¤½­ÆßºÅÆ±·¿´ï1.2ÒÚ(Í¼)
-(0213
-01:28)
+(0213 01:28)
 Ïã¸ÛÆ±·¿×ÛÊö£º¡¶³¤½­ÆßºÅ¡·ÔÙÆð·çÔÆ(Í¼)
-(0212
-16:41)
+(0212 16:41)
 ¡¶³¤½­ÆßºÅ¡·Ì¨±±Æ±·¿µÇ¶¥
 ÖÜÐÇ³Û´óÊ¤ÖÜ½ÜÂ×
-(0212
-09:48)
+(0212 09:48)
 ¡¶³¤½­7ºÅ¡·Æ±·¿ÆÆÒÚ
 ÖÜÐÇ³ÛÇéÈË½ÚÓë¹ÛÖÚ¼ûÃæ
-(0211
-00:48)
+(0211 00:48)
 ¡¶³¤½­7ºÅ¡·Æ±·¿¹ýÒÚ
 ÇéÈË½ÚÆô¶¯ÄÚµØ¼ûÃæ»á
-(0209
-16:52)
+(0209 16:52)
 ¡¶Ã¿ÈÕÐÂ±¨¡·×¨·ÃÐì½¿£ºÃ»°ì·¨
 ÄÇ¾Íµ±Ã÷ÐÇ°É
-(0208
-12:02)
+(0208 12:02)
 ×éÍ¼£ºÖÜÐÇ³ÛÕÅÓêç²¡¶³¤½­7ºÅ¡·ÂíÀ´Î÷ÑÇÊ×Ó³
-(0206
-10:06)
+(0206 10:06)
 ÖÜÐÇ³ÛÐû´«Æ£Ì¬±ÏÂ¶
 ÇëÅ©Ãñ¹¤¹Û¿´¡¶³¤½­7ºÅ¡·
-(0206
-09:41)
+(0206 09:41)
 ¡¶³¤½­7ºÅ¡·±»ÒÉ³­Ï®±¦ºùÂ«
 ÖÜÐÇ³Û´ÓÎ´ÌýËµ
-(0205
-11:36)
+(0205 11:36)
 µçÓ°¡¶³¤½­7ºÅ¡·ÔÚÉòÑôÉÏÓ³Á½ÈÕ±§×ß30ÍòÆ±·¿
-(0205
-11:33)
+(0205 11:33)
 ¡¶³¤½­ÆßºÅ¡·±±¾©ËÍÎÂÅ¯
 ÖÐÓ°¹«ÒæÃâ·Ñ¹ÛÓ°»î¶¯
-(0205
-00:58)
+(0205 00:58)
 ¡¶³¤½­ÆßºÅ¡·Ê×ÖÜÆ±·¿6276Íò
 Æ¬·½¸Ðµ½ºÜÂúÒâ
-(0205
-00:12)
+(0205 00:12)
 Ïã¸ÛÆ±·¿×ÛÊö£º¡¶³¤½­ÆßºÅ¡··¢Éä³É¹¦µÇ·å(Í¼)
-(0204
-17:37)
+(0204 17:37)
 ×éÍ¼£ºÖÜÐÇ³Û¾èµ¥³µ³ïÉÆ¿î
 ×Ô³°³ª¸è²»¼°Ðì½¿
-(0204
-14:42)
+(0204 14:42)
 Õý°æÌ«¿Õ¹·µÖÓå
 ²»ÂôÖ»ËÍÒý·¢Ó°ÃÔ¿ÕÇ°ÈÈÇé(Í¼)
-(0204
-09:26)
+(0204 09:26)
 ¡¶³¤½­7ºÅ¡·ÉÏÓ³4ÌìÔâµÁ°æ
 Æ¬·½²»µ£ÐÄÓ°ÏìÆ±·¿
-(0204
-05:48)
+(0204 05:48)
 ¡¶³¤½­ÆßºÅ¡·¹ãÊÜºÃÆÀ
 3Ìì°ëÆ±·¿Í»ÆÆ5000Íò
-(0204
-01:21)
+(0204 01:21)
 ¹ÛÖÚ¿´¡¶³¤½­ÆßºÅ¡·ÐÄÇéÍ¦¸´ÔÓ
 ¸Ð¶¯½»ÔÓÊ§Íû
-(0203
-17:34)
+(0203 17:34)
 ¸ü¶àÄÚÈÝ
 *
 ¡°ÐÇ¡±ÊÓÆµ
 ÊÓÆµ£º¡¶Â³Ô¥ÓÐÔ¼¡·ÍõÕß¹éÀ´
 ÔÙ¼ûÖÜÐÇ³Û(1)
-(0202
-09:25)
+(0202 09:25)
 ÊÓÆµ£ºÂ³Ô¥ÓÐÔ¼Ö®ÖÜÐÇ³Û
 Ä»ºó¸ãÐ¦»¨ÐõÆØ¹â(2)
-(0202
-09:23)
+(0202 09:23)
 ÊÓÆµ£º¹ÛÖÚÆÀËµ¡¶³¤½­7ºÅ¡·
 ÍâÐÇÐ¡¹·×îÊÜ»¶Ó­
-(0201
-01:31)
+(0201 01:31)
 ÊÓÆµ£ºÖÜÐÇ³ÛÌ¨ÍåÐû´«ÐÂÆ¬
 ×ÔÆØÔøÁ½´ÎÄ¿¶ÃUFO
-(0131
-12:42)
+(0131 12:42)
 ÊÓÆµ£ºÊ©ÑÞ·ÉÌ¸¡¶³¤½­ÆßºÅ¡·
 ±»Ðì½¿ÑÝ¼¼´ò¶¯
-(0131
-12:32)
+(0131 12:32)
 ÊÓÆµ£º»ÆÑÅÀòÌ¸¡¶³¤½­ÆßºÅ¡·
 ¸Ð¾õÒâÓÌÎ´¾¡
-(0131
-12:31)
+(0131 12:31)
 ÊÓÆµ£º¶­è¯Ì¸¡¶³¤½­ÆßºÅ¡·
 Îª¸¸×ÓÖ®Çé¸Ð¶¯Á÷Àá
-(0131
-12:29)
+(0131 12:29)
 ÊÓÆµ£ºÃ÷ÐÇ¹ÛÓ°¡¶³¤½­ÆßºÅ¡·
 ¸¸×ÓÇéÉî×î¸Ð¶¯
-(0131
-11:30)
+(0131 11:30)
 ÊÓÆµ£º¡¶³¤½­ÆßºÅ¡·µÖÌ¨Ðû´«
 ÖÜÐÇ³ÛÖÓ°®SHE
-(0130
-12:03)
+(0130 12:03)
 ÊÓÆµ£º¡¶³¤½­ÆßºÅ¡·¾«²ÊÆ¬¶ÎÇÀÏÈ¿´
 ºÃÐ¦ºÃ¸ÐÈË
-(0128
-17:12)
+(0128 17:12)
 ÊÓÆµ£ºS.H.EÑÝ³ª¡¶³¤½­ÆßºÅ¡·Ö÷ÌâÇú¡¶Æß×Ð¡·
-(0128
-17:10)
+(0128 17:10)
 ¡¶ÓéÀÖÏÖ³¡¡·ÊÓÆµ£ºÖÜÐÇ³ÛµçÓ°Ð¡ÈËÎïÓÐ´ó×÷Îª
-(0127
-21:56)
+(0127 21:56)
 ¡¶ÓéÀÖÀÖ·­Ìì¡·ÊÓÆµ£ºÖÜÐÇ³Û¸ÅÀ¨¡°Èý¸öµÚÒ»¡±
-(0127
-21:43)
+(0127 21:43)
 ÊÓÆµ£º°®ÉÏÖÜÐÇ³ÛÆªÍâÆª
 Ïò¡¶³¤½­ÆßºÅ¡·Ï×Àñ
-(0127
-19:00)
+(0127 19:00)
 ÊÓÆµ£ºÖÜÐÇ³ÛµçÓ°´®ÉÕ¶ñ¸ã
 Õ¹ÏÖÏã¸Û»Ø¹éÊ®Äê
-(0127
-18:56)
+(0127 18:56)
 ÓéÀÖÏÖ³¡ÊÓÆµ£ºÖÜÐÇ³Û³Æ¡¶³¤½­ÆßºÅ¡·¾¡È«Á¦ÁË
-(0127
-13:38)
+(0127 13:38)
 ¡¶ÓéÀÖÀÖ·­Ìì¡·ÊÓÆµ£ºÖÜÐÇ³Û²»ÖªµÀ¡¶´ó¹àÀº¡·
-(0127
-13:26)
+(0127 13:26)
 ÊÓÆµ£º¡¶³¤½­ÆßºÅ¡··¢²¼»á
 Ðì½¿ÐÄÖÐ¸ÉµùÁãÈ±µã
-(0126
-15:46)
+(0126 15:46)
 ÊÓÆµ£ºÖÜÐÇ³Û¸Ï³¡µ±´óÊ¹¡°ºó»Ú¡±µ±³õÑ¡Ðì½¿
-(0126
-00:10)
+(0126 00:10)
 ¸ü¶àÄÚÈÝ
 *
 ¡°ÐÇ¡±Í¼Ðã
 Í¼ÎÄ£ºÐÂÀË¹ÛÓ°¡¶³¤½­7ºÅ¡·--¼òÃÀåûÓë·ÛË¿ºÏÓ°
-(0131
-06:35)
+(0131 06:35)
 Í¼ÎÄ£ºÐÂÀË¹ÛÓ°¡¶³¤½­7ºÅ¡·--Ê©ÑÞ·ÉÏ²°®Ð¡ÀËÈË
-(0131
-06:35)
+(0131 06:35)
 Í¼ÎÄ£ºÐÂÀË¹ÛÓ°¡¶³¤½­7ºÅ¡·--Ê©ÑÞ·ÉÏÖ³¡·¢ÑÔ
-(0131
-06:35)
+(0131 06:35)
 Í¼ÎÄ£ºÐÂÀË¹ÛÓ°¡¶³¤½­7ºÅ¡·--»ÆÑÅÀòÈÏÕæ±íÇé
-(0131
-06:35)
+(0131 06:35)
 Í¼ÎÄ£ºÐÂÀË¹ÛÓ°¡¶³¤½­7ºÅ¡·--¼òÃÀåû½ÓÊÜ·ÃÎÊ
-(0131
-06:35)
+(0131 06:35)
 Í¼ÎÄ£ºÐÂÀË¹ÛÓ°¡¶³¤½­7ºÅ¡·--»ÆÑÅÀòÏÖ³¡Ç©Ãû
-(0131
-06:35)
+(0131 06:35)
 Í¼ÎÄ£ºÐÂÀË¹ÛÓ°¡¶³¤½­7ºÅ¡·--¶­è¯·¢±í¹ÛÓ°¸ÐÑÔ
-(0131
-06:35)
+(0131 06:35)
 Í¼ÎÄ£ºÐÂÀË¹ÛÓ°¡¶³¤½­7ºÅ¡·--»ÆÑÅÀò¿É°®±íÇé
-(0131
-06:35)
+(0131 06:35)
 Í¼ÎÄ£ºÐÂÀË¹ÛÓ°¡¶³¤½­7ºÅ¡·--ÖÚÃ÷ÐÇÁÁÏà
-(0131
-06:35)
+(0131 06:35)
 Í¼ÎÄ£ºÐÂÀË¹ÛÓ°¡¶³¤½­7ºÅ¡·--¼òÃÀåû³¤·¢ÃÔÈË
-(0131
-06:35)
+(0131 06:35)
 Í¼ÎÄ£ºÐÂÀË¹ÛÓ°¡¶³¤½­7ºÅ¡·--Ê©ÑÞ·ÉÐ¦ÈÝÌðÃÀ
-(0131
-06:35)
+(0131 06:35)
 Í¼ÎÄ£ºÐÂÀË¹ÛÓ°¡¶³¤½­7ºÅ¡·--¶­è¯ö¦ÀöÁÁÏà
-(0131
-06:35)
+(0131 06:35)
 Í¼ÎÄ£ºÐÂÀË¹ÛÓ°¡¶³¤½­7ºÅ¡·--»ÆÑÅÀòÇÎÆ¤ºÏÓ°
-(0131
-06:35)
+(0131 06:35)
 Í¼ÎÄ£º¡¶³¤½­ÆßºÅ¡·Ì¨±±Ê×Ó³-Ö÷³ÖÈËÌÕ¾§Ó¨
-(0130
-12:17)
+(0130 12:17)
 Í¼ÎÄ£º¡¶³¤½­ÆßºÅ¡·Ì¨±±Ê×Ó³-ÖÜÐÇ³ÛÓëS.H.E
-(0130
-12:17)
+(0130 12:17)
 Í¼ÎÄ£º¡¶³¤½­ÆßºÅ¡·Ì¨±±Ê×Ó³-ÖÜÐÇ³Û³¤·¢Æ®Æ®
-(0130
-12:17)
+(0130 12:17)
 Í¼ÎÄ£º¡¶³¤½­ÆßºÅ¡·Ì¨±±Ê×Ó³-SelinaÀÖ¿ª»³
-(0130
-12:17)
+(0130 12:17)
 Í¼ÎÄ£º¡¶³¤½­ÆßºÅ¡·Ì¨±±Ê×Ó³-S.H.EÏ×³ª
-(0130
-12:17)
+(0130 12:17)
 Í¼ÎÄ£º¡¶³¤½­ÆßºÅ¡·Ì¨±±Ê×Ó³-HebeÂ¶Ïã¼ç
-(0130
-12:17)
+(0130 12:17)
 ¸ü¶àÄÚÈÝ
 *
 ¡°ÐÇ¡±ÂÛÌ³
 ¡¶³¤½­ÆßºÅ¡·£ºÖÜÐÇ³ÛµÄÖ´×Å±³Ó°
-(0213
-08:37)
+(0213 08:37)
 º«Ñ©£ºÏ£Íû×Ô¼ºÒ²¿ÉÒÔÓµÓÐ¡°³¤½­ÆßºÅ¡±(Í¼)
-(0211
-14:51)
+(0211 14:51)
 Ì··É£ºÎÒÎªºÎÂî¡¶¹¦·ò¡·Åõ¡¶³¤½­ÆßºÅ¡·
-(0206
-03:26)
+(0206 03:26)
 ¡¶³¤½­7ºÅ¡·ÈÃºØËê¶àÁËÐ©»¶ÀÖÓë¸Ð¶¯
-(0204
-12:11)
+(0204 12:11)
 ¡¶³¤½­7ºÅ¡·£ºÆ½µ­µÄÍÉ±ä
-(0204
-12:02)
+(0204 12:02)
 ¡¶³¤½­7ºÅ¡·£ºÖÜÐÇÐÇÔ²¶ùÊ±ÃÎ
-(0204
-11:45)
+(0204 11:45)
 ÁõÔ°Ô°£ºÈç¹ûÖÜÐÇ³Û²»ÔÙÎÞÀåÍ·»áÔõÑù£¿
-(0204
-10:48)
+(0204 10:48)
 Ìï»ÜÈº£ºÈôµçÓ°ÖÐÖ»Ê£ÁËÖÜÐÇ³ÛµÄÃÎ
-(0204
-10:39)
+(0204 10:39)
 ÆÀÂÛ£º¡¶³¤½­ÆßºÅ¡·Ò»´ÎÎÞÀåÍ·µÄÕæÕýÉý»ª
-(0203
-17:08)
+(0203 17:08)
 ¡¶³¤½­7ºÅ¡·£º¸ãÐ¦ºô½Ð×ªÒÆ
-(0203
-14:42)
+(0203 14:42)
 ¡¶³¤½­7ºÅ¡·£ºÍ¯È¤°»È»µÄºóÖÜÐÇ³Û×÷Æ·
-(0203
-12:18)
+(0203 12:18)
 ¡¶³¤½­7ºÅ¡·£º²Ý¸ù¼ÛÖµ¹ÛµÄÄÅº°ÔÄ¶Á
-(0203
-12:15)
+(0203 12:15)
 ¡¶³¤½­7ºÅ¡·£ºÍ¯»°ÊÀ½çÏÆÆð¸Ð¶¯áÛ·å
-(0203
-12:10)
+(0203 12:10)
 ¡¶³¤½­7ºÅ¡·ÎªÁËÍüÈ´µÄÍ¯Äê
-(0203
-12:05)
+(0203 12:05)
 ¡¶³¤½­7ºÅ¡·£º´øÉÏÄãµÄº¢×ÓÒ»ÆðÈ¥¿´
-(0203
-12:03)
+(0203 12:03)
 Ê©ÑÞ·É£ºÈÃÎÒËáËáÓÖÌðÌðµÄ¡¶³¤½­ÆßºÅ¡·(Í¼)
-(0203
-11:45)
+(0203 11:45)
 ²éÐ¡ÐÀ£ºÖÜÐÇ³Û×ªÐÍ°Ñ¹ÛÖÚÈºÃé×¼º¢×ÓºÍÅ®ÈË
-(0203
-10:32)
+(0203 10:32)
 ÄÏ·½¶¼ÊÐ±¨£ºÖÜÐÇ³ÛÕÒµ½ÁË´«ÈË
-(0203
-03:39)
+(0203 03:39)
 ¡¶³¤½­ÆßºÅ¡·Ã»ÓÐ½á¾ÖµÄ½á¾Ö
-(0202
-17:30)
+(0202 17:30)
 ¸ü¶àÄÚÈÝ
 º£±¨ÐÀÉÍ
 Ê×¿îÖÐÓ¢ÎÄÈý°æº£±¨
@@ -37225,8 +36379,7 @@ Reserved
 ÒÚÊ¤ÖÜ½ÜÂ×
 [Ê×ÖÜÆ±·¿6276Íò][¹«Ó³Ê×ÈÕÆ±·¿1200Íò][ÐÂÀË¹ÛÓ°ÍÅ][¹Ûºó¸Ðµ÷²é]
 [Ðì½¿Æ¬³êÒÑ´ï6Î»Êý][Ì«¿Õ¹·ÔâµÁ°æÀ§ÈÅ][Â³Ô¥ÓÐÔ¼Ö®ÖÜÐÇ³Û]
-[ÊÓÆµ£ººÃÐ¦ºÃ¸ÐÈËÆ¬¶Î][ÊÔÌý£ºÓ¢ÎÄÖ÷ÌâÇú
-SHE³ª¹úÓï°æ]
+[ÊÓÆµ£ººÃÐ¦ºÃ¸ÐÈËÆ¬¶Î][ÊÔÌý£ºÓ¢ÎÄÖ÷ÌâÇú SHE³ª¹úÓï°æ]
 ¡ï
 ¿´Íê¡¶³¤½­7ºÅ¡·ºóµÄNÖÖÇéÐ÷
 ¸ü¶à
@@ -37565,269 +36718,193 @@ MMÄ£·ÂÖÜÐÇ³Û¾­µä±íÇé
 ¡°ÐÇ¡±¶¯Ì¬
 ¼ÙÆÚµçÓ°ÊÐ³¡Æ®ºì
 ÖÜÐÇ³Û×¬1.2ÒÚÊ¤ÖÜ½ÜÂ×(Í¼)
-(0213
-09:31)
+(0213 09:31)
 ´ó¹àÀº6ÌìÀ¿6000Íò
 ³¤½­ÆßºÅÆ±·¿´ï1.2ÒÚ(Í¼)
-(0213
-01:28)
+(0213 01:28)
 Ïã¸ÛÆ±·¿×ÛÊö£º¡¶³¤½­ÆßºÅ¡·ÔÙÆð·çÔÆ(Í¼)
-(0212
-16:41)
+(0212 16:41)
 ¡¶³¤½­ÆßºÅ¡·Ì¨±±Æ±·¿µÇ¶¥
 ÖÜÐÇ³Û´óÊ¤ÖÜ½ÜÂ×
-(0212
-09:48)
+(0212 09:48)
 ¡¶³¤½­7ºÅ¡·Æ±·¿ÆÆÒÚ
 ÖÜÐÇ³ÛÇéÈË½ÚÓë¹ÛÖÚ¼ûÃæ
-(0211
-00:48)
+(0211 00:48)
 ¡¶³¤½­7ºÅ¡·Æ±·¿¹ýÒÚ
 ÇéÈË½ÚÆô¶¯ÄÚµØ¼ûÃæ»á
-(0209
-16:52)
+(0209 16:52)
 ¡¶Ã¿ÈÕÐÂ±¨¡·×¨·ÃÐì½¿£ºÃ»°ì·¨
 ÄÇ¾Íµ±Ã÷ÐÇ°É
-(0208
-12:02)
+(0208 12:02)
 ×éÍ¼£ºÖÜÐÇ³ÛÕÅÓêç²¡¶³¤½­7ºÅ¡·ÂíÀ´Î÷ÑÇÊ×Ó³
-(0206
-10:06)
+(0206 10:06)
 ÖÜÐÇ³ÛÐû´«Æ£Ì¬±ÏÂ¶
 ÇëÅ©Ãñ¹¤¹Û¿´¡¶³¤½­7ºÅ¡·
-(0206
-09:41)
+(0206 09:41)
 ¡¶³¤½­7ºÅ¡·±»ÒÉ³­Ï®±¦ºùÂ«
 ÖÜÐÇ³Û´ÓÎ´ÌýËµ
-(0205
-11:36)
+(0205 11:36)
 µçÓ°¡¶³¤½­7ºÅ¡·ÔÚÉòÑôÉÏÓ³Á½ÈÕ±§×ß30ÍòÆ±·¿
-(0205
-11:33)
+(0205 11:33)
 ¡¶³¤½­ÆßºÅ¡·±±¾©ËÍÎÂÅ¯
 ÖÐÓ°¹«ÒæÃâ·Ñ¹ÛÓ°»î¶¯
-(0205
-00:58)
+(0205 00:58)
 ¡¶³¤½­ÆßºÅ¡·Ê×ÖÜÆ±·¿6276Íò
 Æ¬·½¸Ðµ½ºÜÂúÒâ
-(0205
-00:12)
+(0205 00:12)
 Ïã¸ÛÆ±·¿×ÛÊö£º¡¶³¤½­ÆßºÅ¡··¢Éä³É¹¦µÇ·å(Í¼)
-(0204
-17:37)
+(0204 17:37)
 ×éÍ¼£ºÖÜÐÇ³Û¾èµ¥³µ³ïÉÆ¿î
 ×Ô³°³ª¸è²»¼°Ðì½¿
-(0204
-14:42)
+(0204 14:42)
 Õý°æÌ«¿Õ¹·µÖÓå
 ²»ÂôÖ»ËÍÒý·¢Ó°ÃÔ¿ÕÇ°ÈÈÇé(Í¼)
-(0204
-09:26)
+(0204 09:26)
 ¡¶³¤½­7ºÅ¡·ÉÏÓ³4ÌìÔâµÁ°æ
 Æ¬·½²»µ£ÐÄÓ°ÏìÆ±·¿
-(0204
-05:48)
+(0204 05:48)
 ¡¶³¤½­ÆßºÅ¡·¹ãÊÜºÃÆÀ
 3Ìì°ëÆ±·¿Í»ÆÆ5000Íò
-(0204
-01:21)
+(0204 01:21)
 ¹ÛÖÚ¿´¡¶³¤½­ÆßºÅ¡·ÐÄÇéÍ¦¸´ÔÓ
 ¸Ð¶¯½»ÔÓÊ§Íû
-(0203
-17:34)
+(0203 17:34)
 ¸ü¶àÄÚÈÝ
 *
 ¡°ÐÇ¡±ÊÓÆµ
 ÊÓÆµ£º¡¶Â³Ô¥ÓÐÔ¼¡·ÍõÕß¹éÀ´
 ÔÙ¼ûÖÜÐÇ³Û(1)
-(0202
-09:25)
+(0202 09:25)
 ÊÓÆµ£ºÂ³Ô¥ÓÐÔ¼Ö®ÖÜÐÇ³Û
 Ä»ºó¸ãÐ¦»¨ÐõÆØ¹â(2)
-(0202
-09:23)
+(0202 09:23)
 ÊÓÆµ£º¹ÛÖÚÆÀËµ¡¶³¤½­7ºÅ¡·
 ÍâÐÇÐ¡¹·×îÊÜ»¶Ó­
-(0201
-01:31)
+(0201 01:31)
 ÊÓÆµ£ºÖÜÐÇ³ÛÌ¨ÍåÐû´«ÐÂÆ¬
 ×ÔÆØÔøÁ½´ÎÄ¿¶ÃUFO
-(0131
-12:42)
+(0131 12:42)
 ÊÓÆµ£ºÊ©ÑÞ·ÉÌ¸¡¶³¤½­ÆßºÅ¡·
 ±»Ðì½¿ÑÝ¼¼´ò¶¯
-(0131
-12:32)
+(0131 12:32)
 ÊÓÆµ£º»ÆÑÅÀòÌ¸¡¶³¤½­ÆßºÅ¡·
 ¸Ð¾õÒâÓÌÎ´¾¡
-(0131
-12:31)
+(0131 12:31)
 ÊÓÆµ£º¶­è¯Ì¸¡¶³¤½­ÆßºÅ¡·
 Îª¸¸×ÓÖ®Çé¸Ð¶¯Á÷Àá
-(0131
-12:29)
+(0131 12:29)
 ÊÓÆµ£ºÃ÷ÐÇ¹ÛÓ°¡¶³¤½­ÆßºÅ¡·
 ¸¸×ÓÇéÉî×î¸Ð¶¯
-(0131
-11:30)
+(0131 11:30)
 ÊÓÆµ£º¡¶³¤½­ÆßºÅ¡·µÖÌ¨Ðû´«
 ÖÜÐÇ³ÛÖÓ°®SHE
-(0130
-12:03)
+(0130 12:03)
 ÊÓÆµ£º¡¶³¤½­ÆßºÅ¡·¾«²ÊÆ¬¶ÎÇÀÏÈ¿´
 ºÃÐ¦ºÃ¸ÐÈË
-(0128
-17:12)
+(0128 17:12)
 ÊÓÆµ£ºS.H.EÑÝ³ª¡¶³¤½­ÆßºÅ¡·Ö÷ÌâÇú¡¶Æß×Ð¡·
-(0128
-17:10)
+(0128 17:10)
 ¡¶ÓéÀÖÏÖ³¡¡·ÊÓÆµ£ºÖÜÐÇ³ÛµçÓ°Ð¡ÈËÎïÓÐ´ó×÷Îª
-(0127
-21:56)
+(0127 21:56)
 ¡¶ÓéÀÖÀÖ·­Ìì¡·ÊÓÆµ£ºÖÜÐÇ³Û¸ÅÀ¨¡°Èý¸öµÚÒ»¡±
-(0127
-21:43)
+(0127 21:43)
 ÊÓÆµ£º°®ÉÏÖÜÐÇ³ÛÆªÍâÆª
 Ïò¡¶³¤½­ÆßºÅ¡·Ï×Àñ
-(0127
-19:00)
+(0127 19:00)
 ÊÓÆµ£ºÖÜÐÇ³ÛµçÓ°´®ÉÕ¶ñ¸ã
 Õ¹ÏÖÏã¸Û»Ø¹éÊ®Äê
-(0127
-18:56)
+(0127 18:56)
 ÓéÀÖÏÖ³¡ÊÓÆµ£ºÖÜÐÇ³Û³Æ¡¶³¤½­ÆßºÅ¡·¾¡È«Á¦ÁË
-(0127
-13:38)
+(0127 13:38)
 ¡¶ÓéÀÖÀÖ·­Ìì¡·ÊÓÆµ£ºÖÜÐÇ³Û²»ÖªµÀ¡¶´ó¹àÀº¡·
-(0127
-13:26)
+(0127 13:26)
 ÊÓÆµ£º¡¶³¤½­ÆßºÅ¡··¢²¼»á
 Ðì½¿ÐÄÖÐ¸ÉµùÁãÈ±µã
-(0126
-15:46)
+(0126 15:46)
 ÊÓÆµ£ºÖÜÐÇ³Û¸Ï³¡µ±´óÊ¹¡°ºó»Ú¡±µ±³õÑ¡Ðì½¿
-(0126
-00:10)
+(0126 00:10)
 ¸ü¶àÄÚÈÝ
 *
 ¡°ÐÇ¡±Í¼Ðã
 Í¼ÎÄ£ºÐÂÀË¹ÛÓ°¡¶³¤½­7ºÅ¡·--¼òÃÀåûÓë·ÛË¿ºÏÓ°
-(0131
-06:35)
+(0131 06:35)
 Í¼ÎÄ£ºÐÂÀË¹ÛÓ°¡¶³¤½­7ºÅ¡·--Ê©ÑÞ·ÉÏ²°®Ð¡ÀËÈË
-(0131
-06:35)
+(0131 06:35)
 Í¼ÎÄ£ºÐÂÀË¹ÛÓ°¡¶³¤½­7ºÅ¡·--Ê©ÑÞ·ÉÏÖ³¡·¢ÑÔ
-(0131
-06:35)
+(0131 06:35)
 Í¼ÎÄ£ºÐÂÀË¹ÛÓ°¡¶³¤½­7ºÅ¡·--»ÆÑÅÀòÈÏÕæ±íÇé
-(0131
-06:35)
+(0131 06:35)
 Í¼ÎÄ£ºÐÂÀË¹ÛÓ°¡¶³¤½­7ºÅ¡·--¼òÃÀåû½ÓÊÜ·ÃÎÊ
-(0131
-06:35)
+(0131 06:35)
 Í¼ÎÄ£ºÐÂÀË¹ÛÓ°¡¶³¤½­7ºÅ¡·--»ÆÑÅÀòÏÖ³¡Ç©Ãû
-(0131
-06:35)
+(0131 06:35)
 Í¼ÎÄ£ºÐÂÀË¹ÛÓ°¡¶³¤½­7ºÅ¡·--¶­è¯·¢±í¹ÛÓ°¸ÐÑÔ
-(0131
-06:35)
+(0131 06:35)
 Í¼ÎÄ£ºÐÂÀË¹ÛÓ°¡¶³¤½­7ºÅ¡·--»ÆÑÅÀò¿É°®±íÇé
-(0131
-06:35)
+(0131 06:35)
 Í¼ÎÄ£ºÐÂÀË¹ÛÓ°¡¶³¤½­7ºÅ¡·--ÖÚÃ÷ÐÇÁÁÏà
-(0131
-06:35)
+(0131 06:35)
 Í¼ÎÄ£ºÐÂÀË¹ÛÓ°¡¶³¤½­7ºÅ¡·--¼òÃÀåû³¤·¢ÃÔÈË
-(0131
-06:35)
+(0131 06:35)
 Í¼ÎÄ£ºÐÂÀË¹ÛÓ°¡¶³¤½­7ºÅ¡·--Ê©ÑÞ·ÉÐ¦ÈÝÌðÃÀ
-(0131
-06:35)
+(0131 06:35)
 Í¼ÎÄ£ºÐÂÀË¹ÛÓ°¡¶³¤½­7ºÅ¡·--¶­è¯ö¦ÀöÁÁÏà
-(0131
-06:35)
+(0131 06:35)
 Í¼ÎÄ£ºÐÂÀË¹ÛÓ°¡¶³¤½­7ºÅ¡·--»ÆÑÅÀòÇÎÆ¤ºÏÓ°
-(0131
-06:35)
+(0131 06:35)
 Í¼ÎÄ£º¡¶³¤½­ÆßºÅ¡·Ì¨±±Ê×Ó³-Ö÷³ÖÈËÌÕ¾§Ó¨
-(0130
-12:17)
+(0130 12:17)
 Í¼ÎÄ£º¡¶³¤½­ÆßºÅ¡·Ì¨±±Ê×Ó³-ÖÜÐÇ³ÛÓëS.H.E
-(0130
-12:17)
+(0130 12:17)
 Í¼ÎÄ£º¡¶³¤½­ÆßºÅ¡·Ì¨±±Ê×Ó³-ÖÜÐÇ³Û³¤·¢Æ®Æ®
-(0130
-12:17)
+(0130 12:17)
 Í¼ÎÄ£º¡¶³¤½­ÆßºÅ¡·Ì¨±±Ê×Ó³-SelinaÀÖ¿ª»³
-(0130
-12:17)
+(0130 12:17)
 Í¼ÎÄ£º¡¶³¤½­ÆßºÅ¡·Ì¨±±Ê×Ó³-S.H.EÏ×³ª
-(0130
-12:17)
+(0130 12:17)
 Í¼ÎÄ£º¡¶³¤½­ÆßºÅ¡·Ì¨±±Ê×Ó³-HebeÂ¶Ïã¼ç
-(0130
-12:17)
+(0130 12:17)
 ¸ü¶àÄÚÈÝ
 *
 ¡°ÐÇ¡±ÂÛÌ³
 ¡¶³¤½­ÆßºÅ¡·£ºÖÜÐÇ³ÛµÄÖ´×Å±³Ó°
-(0213
-08:37)
+(0213 08:37)
 º«Ñ©£ºÏ£Íû×Ô¼ºÒ²¿ÉÒÔÓµÓÐ¡°³¤½­ÆßºÅ¡±(Í¼)
-(0211
-14:51)
+(0211 14:51)
 Ì··É£ºÎÒÎªºÎÂî¡¶¹¦·ò¡·Åõ¡¶³¤½­ÆßºÅ¡·
-(0206
-03:26)
+(0206 03:26)
 ¡¶³¤½­7ºÅ¡·ÈÃºØËê¶àÁËÐ©»¶ÀÖÓë¸Ð¶¯
-(0204
-12:11)
+(0204 12:11)
 ¡¶³¤½­7ºÅ¡·£ºÆ½µ­µÄÍÉ±ä
-(0204
-12:02)
+(0204 12:02)
 ¡¶³¤½­7ºÅ¡·£ºÖÜÐÇÐÇÔ²¶ùÊ±ÃÎ
-(0204
-11:45)
+(0204 11:45)
 ÁõÔ°Ô°£ºÈç¹ûÖÜÐÇ³Û²»ÔÙÎÞÀåÍ·»áÔõÑù£¿
-(0204
-10:48)
+(0204 10:48)
 Ìï»ÜÈº£ºÈôµçÓ°ÖÐÖ»Ê£ÁËÖÜÐÇ³ÛµÄÃÎ
-(0204
-10:39)
+(0204 10:39)
 ÆÀÂÛ£º¡¶³¤½­ÆßºÅ¡·Ò»´ÎÎÞÀåÍ·µÄÕæÕýÉý»ª
-(0203
-17:08)
+(0203 17:08)
 ¡¶³¤½­7ºÅ¡·£º¸ãÐ¦ºô½Ð×ªÒÆ
-(0203
-14:42)
+(0203 14:42)
 ¡¶³¤½­7ºÅ¡·£ºÍ¯È¤°»È»µÄºóÖÜÐÇ³Û×÷Æ·
-(0203
-12:18)
+(0203 12:18)
 ¡¶³¤½­7ºÅ¡·£º²Ý¸ù¼ÛÖµ¹ÛµÄÄÅº°ÔÄ¶Á
-(0203
-12:15)
+(0203 12:15)
 ¡¶³¤½­7ºÅ¡·£ºÍ¯»°ÊÀ½çÏÆÆð¸Ð¶¯áÛ·å
-(0203
-12:10)
+(0203 12:10)
 ¡¶³¤½­7ºÅ¡·ÎªÁËÍüÈ´µÄÍ¯Äê
-(0203
-12:05)
+(0203 12:05)
 ¡¶³¤½­7ºÅ¡·£º´øÉÏÄãµÄº¢×ÓÒ»ÆðÈ¥¿´
-(0203
-12:03)
+(0203 12:03)
 Ê©ÑÞ·É£ºÈÃÎÒËáËáÓÖÌðÌðµÄ¡¶³¤½­ÆßºÅ¡·(Í¼)
-(0203
-11:45)
+(0203 11:45)
 ²éÐ¡ÐÀ£ºÖÜÐÇ³Û×ªÐÍ°Ñ¹ÛÖÚÈºÃé×¼º¢×ÓºÍÅ®ÈË
-(0203
-10:32)
+(0203 10:32)
 ÄÏ·½¶¼ÊÐ±¨£ºÖÜÐÇ³ÛÕÒµ½ÁË´«ÈË
-(0203
-03:39)
+(0203 03:39)
 ¡¶³¤½­ÆßºÅ¡·Ã»ÓÐ½á¾ÖµÄ½á¾Ö
-(0202
-17:30)
+(0202 17:30)
 ¸ü¶àÄÚÈÝ
 º£±¨ÐÀÉÍ
 Ê×¿îÖÐÓ¢ÎÄÈý°æº£±¨
@@ -38054,93 +37131,66 @@ _Ó°ÒôÓéÀÖ_ÐÂÀËÍø
 ³ÈÌìÒÕÔ±
 Ô¬Á¢×öÖÐ¹ú¡°ÄªÄá¿¨¡±
 ÊÀ½çÖøÃûµ¼ÑÝÑ¡ÖÐ¹úÅ®½Ç
-(10ÔÂ11ÈÕ
-14:52)
+(10ÔÂ11ÈÕ 14:52)
 ×éÍ¼£º¿×ïîÉº»ªÀöÁÁÏàÊ¢»á
 ¾ÙÊÖÍ¶×ã¼ä¾¡ÏÔ¸ß¹ó
-(9ÔÂ20ÈÕ
-16:45)
+(9ÔÂ20ÈÕ 16:45)
 ÏÄÓêÍæ×ªÐÂÂÃÐÐ
-¡¶Easy
-Mroning¡·ÐãÓ¢Óï(Í¼)
-(9ÔÂ19ÈÕ
-17:56)
+¡¶Easy Mroning¡·ÐãÓ¢Óï(Í¼)
+(9ÔÂ19ÈÕ 17:56)
 ×ÊÁÏ£ºÑÝÔ±Ð¡ËÎ¼Ñ¸öÈËµµ°¸(Í¼)
-(9ÔÂ8ÈÕ
-15:03)
+(9ÔÂ8ÈÕ 15:03)
 Ù¡´óÎªÊÜÑû³öÏ¯2006Íò±¦ÁúÒÕÊõ°ä½±Àñ(¸½Í¼)
-(6ÔÂ13ÈÕ
-13:22)
+(6ÔÂ13ÈÕ 13:22)
 ×ÊÁÏÍ¼Æ¬£º³ÈÌìÓéÀÖÒÕÈË-ÖìÓê³½
-(6ÔÂ2ÈÕ
-18:42)
+(6ÔÂ2ÈÕ 18:42)
 ×ÊÁÏÍ¼Æ¬£º³ÈÌìÓéÀÖÒÕÈË-Ð¤ÈÙÉú
-(6ÔÂ2ÈÕ
-18:38)
+(6ÔÂ2ÈÕ 18:38)
 ×ÊÁÏÍ¼Æ¬£º³ÈÌìÓéÀÖÒÕÈË-ÎâéÐ
-(6ÔÂ2ÈÕ
-18:33)
+(6ÔÂ2ÈÕ 18:33)
 ×ÊÁÏÍ¼Æ¬£º³ÈÌìÓéÀÖÒÕÈË-ÁõÀÚ
-(6ÔÂ2ÈÕ
-18:23)
+(6ÔÂ2ÈÕ 18:23)
 ×ÊÁÏÍ¼Æ¬£º³ÈÌìÓéÀÖÒÕÈË-Áº´óÎ¬
-(6ÔÂ2ÈÕ
-18:20)
+(6ÔÂ2ÈÕ 18:20)
 ×ÊÁÏÍ¼Æ¬£º³ÈÌìÓéÀÖÒÕÈË-»ÆÖ¾ÖÒ
-(6ÔÂ2ÈÕ
-18:16)
+(6ÔÂ2ÈÕ 18:16)
 ×ÊÁÏÍ¼Æ¬£º³ÈÌìÓéÀÖÒÕÈË-ÕÅá¿
-(6ÔÂ2ÈÕ
-17:55)
+(6ÔÂ2ÈÕ 17:55)
 ×ÊÁÏÍ¼Æ¬£º³ÈÌìÓéÀÖÒÕÈË-ÕÅºã
-(6ÔÂ2ÈÕ
-17:54)
+(6ÔÂ2ÈÕ 17:54)
 ×ÊÁÏÍ¼Æ¬£º³ÈÌìÓéÀÖÒÕÈË-ÑîÓåÓå
-(6ÔÂ2ÈÕ
-17:51)
+(6ÔÂ2ÈÕ 17:51)
 ×ÊÁÏÍ¼Æ¬£º³ÈÌìÓéÀÖÒÕÈË-½­Ò»Ñà
-(6ÔÂ2ÈÕ
-17:48)
+(6ÔÂ2ÈÕ 17:48)
 ×ÊÁÏÍ¼Æ¬£º³ÈÌìÓéÀÖÒÕÈË-³Âºç³Ø
-(6ÔÂ2ÈÕ
-17:44)
+(6ÔÂ2ÈÕ 17:44)
 ×ÊÁÏÍ¼Æ¬£ºµÚ38½ì½ðÂí½±×î¼Ñµ¼ÑÝ¹Ø½õÅô
-(6ÔÂ1ÈÕ
-20:11)
+(6ÔÂ1ÈÕ 20:11)
 ×ÊÁÏÍ¼Æ¬£ºµÚ24½ì½ðÏñ½±×î¼ÑÃÀÊõµÃÖ÷ÕÅÊåÆ½
-(6ÔÂ1ÈÕ
-20:09)
+(6ÔÂ1ÈÕ 20:09)
 ¡¶°®µÄÁ¦Á¿¡·ÑîÈôÙâ£ºÂèÂèµÄ°®ÊÇ²»Àë²»Æú(Í¼)
-(5ÔÂ13ÈÕ
-15:14)
+(5ÔÂ13ÈÕ 15:14)
 ¡¶ÃÀÅ®Ò²³î¼Þ¡·ÈÈ²¥
 ³ÂºÃ¡°ÃÀÅ®Ð§Ó¦¡±³ÉÈÈµã
-(4ÔÂ1ÈÕ
-15:50)
+(4ÔÂ1ÈÕ 15:50)
 µçÊÓ¾ç¡¶³¤ºÞ¸è¡·ÈÈ²¥
 ³ÂÀòÄÈ±íÑÝµÃµ½ÈÏ¿É(Í¼)
-(4ÔÂ1ÈÕ
-13:36)
+(4ÔÂ1ÈÕ 13:36)
 Ù¡´óÎª³ªÏì¾ø°æÇà´º
 ¡¶ÓëÇà´ºÓÐ¹ØµÄÈÕ×Ó¡·¿ª²¥
-(4ÔÂ1ÈÕ
-10:42)
+(4ÔÂ1ÈÕ 10:42)
 ËÕÑÒ³öÏ¯±¨Ö½»î¶¯
 ÎªÐÒÔË¶ÁÕßËÍÉÏÓµ±§(¸½Í¼)
-(3ÔÂ31ÈÕ
-15:54)
+(3ÔÂ31ÈÕ 15:54)
 ËÕÑÒ¾É×÷ÖØ·ÅÊÜ¹Ø×¢
 ¡°½¯ÀöÀò¡±±ä¡°Ô½¹ìÖ÷¸¾¡±
-(3ÔÂ28ÈÕ
-12:28)
+(3ÔÂ28ÈÕ 12:28)
 ×éÍ¼£º³ÂºÃ¸èÓÑ»á³ªÐÂÇú
 ´óÆ´Îè¼¼°®µ±ÀÖÌ³ÐÂÈË
-(3ÔÂ20ÈÕ
-10:39)
+(3ÔÂ20ÈÕ 10:39)
 ºú¾ü¡¶ÎÔÐ½³¢µ¨¡·ÊÎÑÝ·ò²î
 ÏÀ¹ÇÈáÇé²»½öÊÇÓ²ºº
-(3ÔÂ2ÈÕ
-14:23)
+(3ÔÂ2ÈÕ 14:23)
 >>
 ¡°Çé¡±ÈËÕóÈÝ
 >>
@@ -38177,8 +37227,7 @@ Mroning¡·ÐãÓ¢Óï(Í¼)
 >>
 Ìïº£ÈØÐ´Õæ
 Í¼ÎÄ£ºÌïº£ÈØ·¨¹úÉÝ»ªÐ´Õæ--Çå´¿ÌðÃÀ
-(12ÔÂ19ÈÕ
-19:07)
+(12ÔÂ19ÈÕ 19:07)
 >>
 °®ÅÄµçÓ°¾ç±¾Æ±Ñ¡
 >>
@@ -38190,20 +37239,15 @@ Mroning¡·ÐãÓ¢Óï(Í¼)
 >>
 ÊÓÆµÐÀÉÍ
 ¡¶ÓéÀÖÏÖ³¡¡·ÊÓÆµ£ºÍõ±¦Ç¿±¾É«³öÑÝÈÇÀ´²»Âú
-(8ÔÂ16ÈÕ
-22:54)
+(8ÔÂ16ÈÕ 22:54)
 ¡¶ÓéÀÖÏÖ³¡¡·ÊÓÆµ£ºÎÂá°ÖÊÒÉÖÜ½ÜÂ×µÄÖÆ×÷ÄÜÁ¦
-(8ÔÂ16ÈÕ
-02:14)
+(8ÔÂ16ÈÕ 02:14)
 ¡¶ÓéÀÖÏÖ³¡¡·ÊÓÆµ£ºÁõìÇÕÔÁÕÅÄÏ·»¥³Æ¡°ÀÏÊ¦¡±
-(8ÔÂ16ÈÕ
-02:11)
+(8ÔÂ16ÈÕ 02:11)
 ¡¶ÓéÀÖÏÖ³¡¡·ÊÓÆµ£º¿ìÄÐ»ý¼«±¸Õ½Ñ²»ØÑÝ³ª»á
-(8ÔÂ14ÈÕ
-22:30)
+(8ÔÂ14ÈÕ 22:30)
 ¡¶ÓéÀÖÏÖ³¡¡·ÊÓÆµ£ºÁÖÇàÏ¼Ì½°à¡¶°µÁµÌÒ»¨Ô´¡·
-(8ÔÂ14ÈÕ
-22:29)
+(8ÔÂ14ÈÕ 22:29)
 >>
 ÉÌÒµÍÆ¹ã
 >>
@@ -38215,32 +37259,23 @@ Mroning¡·ÐãÓ¢Óï(Í¼)
 >>
 ÊÓÆµÐÀÉÍ
 ¡¶ÓéÀÖÏÖ³¡¡·ÊÓÆµ£ºÍõ±¦Ç¿±¾É«³öÑÝÈÇÀ´²»Âú
-(8ÔÂ16ÈÕ
-22:54)
+(8ÔÂ16ÈÕ 22:54)
 ¡¶ÓéÀÖÏÖ³¡¡·ÊÓÆµ£ºÎÂá°ÖÊÒÉÖÜ½ÜÂ×µÄÖÆ×÷ÄÜÁ¦
-(8ÔÂ16ÈÕ
-02:14)
+(8ÔÂ16ÈÕ 02:14)
 ¡¶ÓéÀÖÏÖ³¡¡·ÊÓÆµ£ºÁõìÇÕÔÁÕÅÄÏ·»¥³Æ¡°ÀÏÊ¦¡±
-(8ÔÂ16ÈÕ
-02:11)
+(8ÔÂ16ÈÕ 02:11)
 ¡¶ÓéÀÖÏÖ³¡¡·ÊÓÆµ£º¿ìÄÐ»ý¼«±¸Õ½Ñ²»ØÑÝ³ª»á
-(8ÔÂ14ÈÕ
-22:30)
+(8ÔÂ14ÈÕ 22:30)
 ¡¶ÓéÀÖÏÖ³¡¡·ÊÓÆµ£ºÁÖÇàÏ¼Ì½°à¡¶°µÁµÌÒ»¨Ô´¡·
-(8ÔÂ14ÈÕ
-22:29)
+(8ÔÂ14ÈÕ 22:29)
 ¡¶ÓéÀÖÏÖ³¡¡·ÊÓÆµ£ºÑÝÔ±ÇØá°±»´ò¶ú¹â¼ÇÒäÓÌÐÂ
-(8ÔÂ14ÈÕ
-04:23)
+(8ÔÂ14ÈÕ 04:23)
 ¡¶ÓéÀÖÏÖ³¡¡·ÊÓÆµ£ºÊæä¿ÕÅÕðºÏ×÷Ì«¶àÉúÑá¾ë
-(8ÔÂ14ÈÕ
-04:19)
+(8ÔÂ14ÈÕ 04:19)
 ÓéÀÖÏÖ³¡ÊÓÆµ£º´¿ÇéÃÀÅ®ÕÔÁÕ½ÒÊÒÓÑºú¿ÉÀÏµ×
-(8ÔÂ12ÈÕ
-20:11)
+(8ÔÂ12ÈÕ 20:11)
 ÓéÀÖÏÖ³¡ÊÓÆµ£ºÖ÷³ÖÈË»Æ×ÓÙ®ÅÌµãÈýÎ»´óÅÆÅ®ÓÑ
-(8ÔÂ12ÈÕ
-20:04)
+(8ÔÂ12ÈÕ 20:04)
 >>
 ¸÷·½ÆÀÂÛ
 >>
@@ -38265,8 +37300,7 @@ Mroning¡·ÐãÓ¢Óï(Í¼)
 ÐÂÎÅ»Ø¹Ë
 ×éÍ¼£º¿­ÌØ-Ä¦Ë¿È«Âã¹ã¸æ
 ÍêÃÀÉí²ÄÕ¹Â¶ÎÞÒÅ
-½üÈÕ£¬Ó¢¹úÃûÄ£¿­ÌØ¡¤Ä¦Ë¿(Kate
-Moss)×îÐÂ´úÑÔµÄ×îºÀ»ªÊÎÆ·¹ã¸æÅÆ³öÏÖÔÚÂåÉ¼í¶µÄ¹«Â·ÅÔ¡£¹ã¸æÖÐµÄÄ¦Ë¿½ö½ö´÷×Å¼¸´®ÊÖÁ´£¬ÍêÃÀÉí²ÄÕ¹Â¶ÎÞÒÅ¡£¡­>>·¢±íÆÀÂÛ
+½üÈÕ£¬Ó¢¹úÃûÄ£¿­ÌØ¡¤Ä¦Ë¿(Kate Moss)×îÐÂ´úÑÔµÄ×îºÀ»ªÊÎÆ·¹ã¸æÅÆ³öÏÖÔÚÂåÉ¼í¶µÄ¹«Â·ÅÔ¡£¹ã¸æÖÐµÄÄ¦Ë¿½ö½ö´÷×Å¼¸´®ÊÖÁ´£¬ÍêÃÀÉí²ÄÕ¹Â¶ÎÞÒÅ¡£¡­>>·¢±íÆÀÂÛ
 ÁõÁ¦ÑïÓëº½ÔÃÁµÇéÆØ¹â
 ÏÖÉíÍõ·Æ·¢ÀÈ(×éÍ¼)
 ±±¾©£¬06³¬Å®ÁõÁ¦ÑïÓëÖøÃûÔìÐÍÊ¦º½ÔÃµÄÁµÇéÈÕÇ°ÆØ¹â£¬Á½ÈË²»¾ÃÇ°±»ÅÄµ½Ò»Æð½øÈë¹¤ÌåÄÏÃÅµÄ»­¼äÉ³Áú´òÀí·¢ÐÍ¡£Ç°¶ÎÊ±¼äÒòÎªÅÄÉã¹ã¸æ¶øË¤¶ÏÍÈµÄÁõÁ¦Ñï»¹Öô×ÅË«¹Õ£¬µ«¼´±ã³öÐÐÈç´Ë²»±ã¡­>>·¢±íÆÀÂÛ
@@ -38301,9 +37335,7 @@ God¡±¡­¡­>>·¢±íÆÀÂÛ
 ¼ÇÕß×òÌì´Ó´ºÍí¾ç×é»ñÏ¤£¬³Ù³ÙÃ»ÓÐµ½ÑëÊÓ´ºÍí¾ç×é±¨µ½µÄÕÔ±¾É½£¬¼´½«Èë×¤´ºÍí¾ç×é¡£¾ç×éµÄÒ»Î»¹¤×÷ÈËÔ±ÎÞÒâÖÐÏò¼ÇÕßÍ¸Â¶ÁËÕÔ±¾É½2007Äê´ºÍíÐ¡Æ·µÄºËÐÄ»úÃÜ¡ª¡ª¡ª¡°ÀÏÕÔ½ñÄê´ø×ÅÍ½µÜÂô·¿×Ó¡±¡£Ëæºó¡­¡­>>·¢±íÆÀÂÛ
 ×éÍ¼£ºÏ£¶û¶ÙÌ°±­ÖÕÄð¶ñ¹û
 »ñÈýÄê»ºÐÌÄÑÌÓ·£¿î
-2007Äê1ÔÂ23ÈÕ£¬È¥Äê9ÔÂ£¬Òò×í¼Ý±»²¶µÄºÀÃÅÑÞÅ®ÅÁÀöË¹¡¤Ï£¶û¶Ù(Paris
-Hilton
-)ÈÕÇ°(1ÔÂ22ÈÕ)±»·¨Í¥ÅÐ´¦ÈýÄê»ºÐÌ¡£ÕâÎ»Ç§½ðÐ¡½ã²¢Î´Ç××Ô³öÍ¥£¬¶øÊÇÎ¯ÍÐÂÉÊ¦È«Á¦±ç»¤¡­¡­>>·¢±íÆÀÂÛ
+2007Äê1ÔÂ23ÈÕ£¬È¥Äê9ÔÂ£¬Òò×í¼Ý±»²¶µÄºÀÃÅÑÞÅ®ÅÁÀöË¹¡¤Ï£¶û¶Ù(Paris Hilton )ÈÕÇ°(1ÔÂ22ÈÕ)±»·¨Í¥ÅÐ´¦ÈýÄê»ºÐÌ¡£ÕâÎ»Ç§½ðÐ¡½ã²¢Î´Ç××Ô³öÍ¥£¬¶øÊÇÎ¯ÍÐÂÉÊ¦È«Á¦±ç»¤¡­¡­>>·¢±íÆÀÂÛ
 ÑëÊÓ²¥Òô¶Á´íÒ»¸öÒô·£¿î50Ôª
 Â³½¡±§Ô¹ÎÞËùÊÊ´Ó
 ¡¶Ò§ÎÄ½À×Ö¡·ÔÓÖ¾¸Õ¸Õ·¢²¼È¥ÄêÊ®´óÓïÎÄ´íÎó£¬ÑëÊÓÖ÷³ÖÂ³½¡¾ÍÔÚ²©¿Í¸Ð¿®¡°²¥ÒôÔ±²»Ê¶×Ö¡±£¬ÉõÖÁ²»ÖªµÀÍÂÞ¬µÄ¡°Þ¬¡±Ó¦¸ÃÈçºÎ¶Á¡£×òÈÕËû½ÓÊÜ¼ÇÕßµç»°²É·ÃÊ±¸üÍ¸Â¶£¬Èç´ËÒ§ÎÄ½À×ÖÒ²ÊÇÆÈÓÚÐÎÊÆ£¬ÑëÊÓ¶ÔÖ÷³ÖÒªÇóÏàµ±ÑÏ¸ñ
@@ -38347,9 +37379,8 @@ S.H.EµÇ³µÔâÎ§Ë«ÊÖ»¤ÐØ
 ³É¶¼ÓâÇ§FansÅÄ´ò²£Á§
 Ì¨ÍåÁ½¶ÓÈËÆø×éºÏS.H.E¼°·ÉÂÖº££¬×òÈÕ(1ÔÂ20ÈÕ)ÓëÓ¾¶ù¡¢Soler¡¢¹âÁ¼·ÉµÖ³É¶¼³öÏ¯¡¶Ñ©±Ì°ñ°ä½±Àñ¡·£¬·ÉÂÖº£¼°S.H.E²½³ö»ú³¡¼´ÒýÆð´ó»ìÂÒ¡­¡­>>·¢±íÆÀÂÛ
 ²¨¼§Ð¡Ë¿±£ÑøÓÐ·½
-±§°®Å®³öÃÅ¾¡ÏÔÀ±Âè·ç·¶(Í¼
-½üÈÕ£¬ÊÀ½ç³¬¼¶Ä£ÌØ²¨¼§¡¤Ð¡Ë¿(Brooke
-Shields)»³±§×Å×Ô¼ºµÄ°®Å®ÏÖÉí¼ÒÃÅ¿Ú£¬Ð¡¼Ò»ï¿´ÉÏÈ¥±È½ÏÐË·Ü£¬ÔÚÂèÂèµÄ»³Àï²»ÔõÃ´ÀÏÊµ£¬²¨¼§¡¤Ð¡Ë¿Éí²ÄÒÀ¾É¸ßÌôÃçÌõ£¬Ä«¾µÕÚÃæ·ç×Ëö¦Àö£¬ËýÎÂÈáµÄÇ×ÎÇ
+±§°®Å®³öÃÅ¾¡ÏÔÀ±Âè·ç·¶(Í¼ 
+½üÈÕ£¬ÊÀ½ç³¬¼¶Ä£ÌØ²¨¼§¡¤Ð¡Ë¿(Brooke Shields)»³±§×Å×Ô¼ºµÄ°®Å®ÏÖÉí¼ÒÃÅ¿Ú£¬Ð¡¼Ò»ï¿´ÉÏÈ¥±È½ÏÐË·Ü£¬ÔÚÂèÂèµÄ»³Àï²»ÔõÃ´ÀÏÊµ£¬²¨¼§¡¤Ð¡Ë¿Éí²ÄÒÀ¾É¸ßÌôÃçÌõ£¬Ä«¾µÕÚÃæ·ç×Ëö¦Àö£¬ËýÎÂÈáµÄÇ×ÎÇ
 ¡­¡­>>·¢±íÆÀÂÛ
 ±õÆé²½È¾ÉÏÐÔ²¡
 ²¡Ô´ÒÉÎªÄÐÓÑ³¤äþÖÇÒ²»òÅ£ÀÉ
@@ -38394,35 +37425,25 @@ Shields)»³±§×Å×Ô¼ºµÄ°®Å®ÏÖÉí¼ÒÃÅ¿Ú£¬Ð¡¼Ò»ï¿´ÉÏÈ¥±È½ÏÐË·Ü£¬ÔÚÂèÂèµÄ»³Àï²»ÔõÃ´ÀÏÊµ
 >>
 Ìì½òµØÇøÑÝ³ö×ÊÑ¶
 Í¼ÎÄ£ºÉÏº£5Ç¿×ö¿ÍÐÂÀË--Ð¡ËÉÎªÉÏº£¼ÓÓÍ
-(5ÔÂ6ÈÕ
-16:09)
+(5ÔÂ6ÈÕ 16:09)
 Í¼ÎÄ£ºÉÏº£5Ç¿×ö¿ÍÐÂÀË--Ð¡ËÉºÍÍõ´«¾ýÊÇÊÒÓÑ
-(5ÔÂ6ÈÕ
-16:09)
+(5ÔÂ6ÈÕ 16:09)
 Í¼ÎÄ£ºÉÏº£5Ç¿×ö¿ÍÐÂÀË--Ð¡ËÉ
-(5ÔÂ6ÈÕ
-16:09)
+(5ÔÂ6ÈÕ 16:09)
 Í¼ÎÄ£ºÉÏº£5Ç¿×ö¿ÍÐÂÀË--Íõî£
-(5ÔÂ6ÈÕ
-16:09)
+(5ÔÂ6ÈÕ 16:09)
 Í¼ÎÄ£ºÉÏº£5Ç¿×ö¿ÍÐÂÀË--Íõ´«¾ý±»³ÆÎª¾«ÉñÁìÐä
-(5ÔÂ6ÈÕ
-16:09)
+(5ÔÂ6ÈÕ 16:09)
 Í¼ÎÄ£ºÉÏº£5Ç¿×ö¿ÍÐÂÀË--Íõ´«¾ý¾ªºôÕâÊÇÊ²Ã´£¿
-(5ÔÂ6ÈÕ
-16:09)
+(5ÔÂ6ÈÕ 16:09)
 Í¼ÎÄ£ºÉÏº£5Ç¿×ö¿ÍÐÂÀË--ÉÏº£5Ç¿¼¯Ìå¸ãÐ¦
-(5ÔÂ6ÈÕ
-16:09)
+(5ÔÂ6ÈÕ 16:09)
 Í¼ÎÄ£ºÉÏº£5Ç¿×ö¿ÍÐÂÀË--ÇØÑ×ÊËºÍÍõ´«¾ý¸ãÐ¦´îµµ
-(5ÔÂ6ÈÕ
-16:09)
+(5ÔÂ6ÈÕ 16:09)
 Í¼ÎÄ£ºÉÏº£5Ç¿×ö¿ÍÐÂÀË--ÆøÖÊÍõ×ÓÍõî£ÓÐÓÄÄ¬Ç±ÖÊ
-(5ÔÂ6ÈÕ
-16:09)
+(5ÔÂ6ÈÕ 16:09)
 Í¼ÎÄ£ºÉÏº£5Ç¿×ö¿ÍÐÂÀË--¸ã¹Ö´ïÈËÇØÑ×ÊË
-(5ÔÂ6ÈÕ
-16:09)
+(5ÔÂ6ÈÕ 16:09)
 >>
 >>
 >>
@@ -38452,32 +37473,23 @@ Shields)»³±§×Å×Ô¼ºµÄ°®Å®ÏÖÉí¼ÒÃÅ¿Ú£¬Ð¡¼Ò»ï¿´ÉÏÈ¥±È½ÏÐË·Ü£¬ÔÚÂèÂèµÄ»³Àï²»ÔõÃ´ÀÏÊµ
 >>
 ÊÓÆµÐÀÉÍ
 ¡¶ÓéÀÖÏÖ³¡¡·ÊÓÆµ£ºÍõ±¦Ç¿±¾É«³öÑÝÈÇÀ´²»Âú
-(8ÔÂ16ÈÕ
-22:54)
+(8ÔÂ16ÈÕ 22:54)
 ¡¶ÓéÀÖÏÖ³¡¡·ÊÓÆµ£ºÎÂá°ÖÊÒÉÖÜ½ÜÂ×µÄÖÆ×÷ÄÜÁ¦
-(8ÔÂ16ÈÕ
-02:14)
+(8ÔÂ16ÈÕ 02:14)
 ¡¶ÓéÀÖÏÖ³¡¡·ÊÓÆµ£ºÁõìÇÕÔÁÕÅÄÏ·»¥³Æ¡°ÀÏÊ¦¡±
-(8ÔÂ16ÈÕ
-02:11)
+(8ÔÂ16ÈÕ 02:11)
 ¡¶ÓéÀÖÏÖ³¡¡·ÊÓÆµ£º¿ìÄÐ»ý¼«±¸Õ½Ñ²»ØÑÝ³ª»á
-(8ÔÂ14ÈÕ
-22:30)
+(8ÔÂ14ÈÕ 22:30)
 ¡¶ÓéÀÖÏÖ³¡¡·ÊÓÆµ£ºÁÖÇàÏ¼Ì½°à¡¶°µÁµÌÒ»¨Ô´¡·
-(8ÔÂ14ÈÕ
-22:29)
+(8ÔÂ14ÈÕ 22:29)
 ¡¶ÓéÀÖÏÖ³¡¡·ÊÓÆµ£ºÑÝÔ±ÇØá°±»´ò¶ú¹â¼ÇÒäÓÌÐÂ
-(8ÔÂ14ÈÕ
-04:23)
+(8ÔÂ14ÈÕ 04:23)
 ¡¶ÓéÀÖÏÖ³¡¡·ÊÓÆµ£ºÊæä¿ÕÅÕðºÏ×÷Ì«¶àÉúÑá¾ë
-(8ÔÂ14ÈÕ
-04:19)
+(8ÔÂ14ÈÕ 04:19)
 ÓéÀÖÏÖ³¡ÊÓÆµ£º´¿ÇéÃÀÅ®ÕÔÁÕ½ÒÊÒÓÑºú¿ÉÀÏµ×
-(8ÔÂ12ÈÕ
-20:11)
+(8ÔÂ12ÈÕ 20:11)
 ÓéÀÖÏÖ³¡ÊÓÆµ£ºÖ÷³ÖÈË»Æ×ÓÙ®ÅÌµãÈýÎ»´óÅÆÅ®ÓÑ
-(8ÔÂ12ÈÕ
-20:04)
+(8ÔÂ12ÈÕ 20:04)
 >>
 ¸÷·½ÆÀÂÛ
 >>
@@ -38495,32 +37507,23 @@ Shields)»³±§×Å×Ô¼ºµÄ°®Å®ÏÖÉí¼ÒÃÅ¿Ú£¬Ð¡¼Ò»ï¿´ÉÏÈ¥±È½ÏÐË·Ü£¬ÔÚÂèÂèµÄ»³Àï²»ÔõÃ´ÀÏÊµ
 >>
 ÊÓÆµÐÀÉÍ
 ¡¶ÓéÀÖÏÖ³¡¡·ÊÓÆµ£ºÍõ±¦Ç¿±¾É«³öÑÝÈÇÀ´²»Âú
-(8ÔÂ16ÈÕ
-22:54)
+(8ÔÂ16ÈÕ 22:54)
 ¡¶ÓéÀÖÏÖ³¡¡·ÊÓÆµ£ºÎÂá°ÖÊÒÉÖÜ½ÜÂ×µÄÖÆ×÷ÄÜÁ¦
-(8ÔÂ16ÈÕ
-02:14)
+(8ÔÂ16ÈÕ 02:14)
 ¡¶ÓéÀÖÏÖ³¡¡·ÊÓÆµ£ºÁõìÇÕÔÁÕÅÄÏ·»¥³Æ¡°ÀÏÊ¦¡±
-(8ÔÂ16ÈÕ
-02:11)
+(8ÔÂ16ÈÕ 02:11)
 ¡¶ÓéÀÖÏÖ³¡¡·ÊÓÆµ£º¿ìÄÐ»ý¼«±¸Õ½Ñ²»ØÑÝ³ª»á
-(8ÔÂ14ÈÕ
-22:30)
+(8ÔÂ14ÈÕ 22:30)
 ¡¶ÓéÀÖÏÖ³¡¡·ÊÓÆµ£ºÁÖÇàÏ¼Ì½°à¡¶°µÁµÌÒ»¨Ô´¡·
-(8ÔÂ14ÈÕ
-22:29)
+(8ÔÂ14ÈÕ 22:29)
 ¡¶ÓéÀÖÏÖ³¡¡·ÊÓÆµ£ºÑÝÔ±ÇØá°±»´ò¶ú¹â¼ÇÒäÓÌÐÂ
-(8ÔÂ14ÈÕ
-04:23)
+(8ÔÂ14ÈÕ 04:23)
 ¡¶ÓéÀÖÏÖ³¡¡·ÊÓÆµ£ºÊæä¿ÕÅÕðºÏ×÷Ì«¶àÉúÑá¾ë
-(8ÔÂ14ÈÕ
-04:19)
+(8ÔÂ14ÈÕ 04:19)
 ÓéÀÖÏÖ³¡ÊÓÆµ£º´¿ÇéÃÀÅ®ÕÔÁÕ½ÒÊÒÓÑºú¿ÉÀÏµ×
-(8ÔÂ12ÈÕ
-20:11)
+(8ÔÂ12ÈÕ 20:11)
 ÓéÀÖÏÖ³¡ÊÓÆµ£ºÖ÷³ÖÈË»Æ×ÓÙ®ÅÌµãÈýÎ»´óÅÆÅ®ÓÑ
-(8ÔÂ12ÈÕ
-20:04)
+(8ÔÂ12ÈÕ 20:04)
 >>
 ÌáÃûÃûµ¥
 >>
@@ -38537,32 +37540,23 @@ Shields)»³±§×Å×Ô¼ºµÄ°®Å®ÏÖÉí¼ÒÃÅ¿Ú£¬Ð¡¼Ò»ï¿´ÉÏÈ¥±È½ÏÐË·Ü£¬ÔÚÂèÂèµÄ»³Àï²»ÔõÃ´ÀÏÊµ
 >>
 ÊÓÆµÐÀÉÍ
 ¡¶ÓéÀÖÏÖ³¡¡·ÊÓÆµ£ºÍõ±¦Ç¿±¾É«³öÑÝÈÇÀ´²»Âú
-(8ÔÂ16ÈÕ
-22:54)
+(8ÔÂ16ÈÕ 22:54)
 ¡¶ÓéÀÖÏÖ³¡¡·ÊÓÆµ£ºÎÂá°ÖÊÒÉÖÜ½ÜÂ×µÄÖÆ×÷ÄÜÁ¦
-(8ÔÂ16ÈÕ
-02:14)
+(8ÔÂ16ÈÕ 02:14)
 ¡¶ÓéÀÖÏÖ³¡¡·ÊÓÆµ£ºÁõìÇÕÔÁÕÅÄÏ·»¥³Æ¡°ÀÏÊ¦¡±
-(8ÔÂ16ÈÕ
-02:11)
+(8ÔÂ16ÈÕ 02:11)
 ¡¶ÓéÀÖÏÖ³¡¡·ÊÓÆµ£º¿ìÄÐ»ý¼«±¸Õ½Ñ²»ØÑÝ³ª»á
-(8ÔÂ14ÈÕ
-22:30)
+(8ÔÂ14ÈÕ 22:30)
 ¡¶ÓéÀÖÏÖ³¡¡·ÊÓÆµ£ºÁÖÇàÏ¼Ì½°à¡¶°µÁµÌÒ»¨Ô´¡·
-(8ÔÂ14ÈÕ
-22:29)
+(8ÔÂ14ÈÕ 22:29)
 ¡¶ÓéÀÖÏÖ³¡¡·ÊÓÆµ£ºÑÝÔ±ÇØá°±»´ò¶ú¹â¼ÇÒäÓÌÐÂ
-(8ÔÂ14ÈÕ
-04:23)
+(8ÔÂ14ÈÕ 04:23)
 ¡¶ÓéÀÖÏÖ³¡¡·ÊÓÆµ£ºÊæä¿ÕÅÕðºÏ×÷Ì«¶àÉúÑá¾ë
-(8ÔÂ14ÈÕ
-04:19)
+(8ÔÂ14ÈÕ 04:19)
 ÓéÀÖÏÖ³¡ÊÓÆµ£º´¿ÇéÃÀÅ®ÕÔÁÕ½ÒÊÒÓÑºú¿ÉÀÏµ×
-(8ÔÂ12ÈÕ
-20:11)
+(8ÔÂ12ÈÕ 20:11)
 ÓéÀÖÏÖ³¡ÊÓÆµ£ºÖ÷³ÖÈË»Æ×ÓÙ®ÅÌµãÈýÎ»´óÅÆÅ®ÓÑ
-(8ÔÂ12ÈÕ
-20:04)
+(8ÔÂ12ÈÕ 20:04)
 >>
 ÌáÃûÃûµ¥
 >>
@@ -38570,32 +37564,23 @@ Shields)»³±§×Å×Ô¼ºµÄ°®Å®ÏÖÉí¼ÒÃÅ¿Ú£¬Ð¡¼Ò»ï¿´ÉÏÈ¥±È½ÏÐË·Ü£¬ÔÚÂèÂèµÄ»³Àï²»ÔõÃ´ÀÏÊµ
 >>
 ÊÓÆµÐÀÉÍ
 ¡¶ÓéÀÖÏÖ³¡¡·ÊÓÆµ£ºÍõ±¦Ç¿±¾É«³öÑÝÈÇÀ´²»Âú
-(8ÔÂ16ÈÕ
-22:54)
+(8ÔÂ16ÈÕ 22:54)
 ¡¶ÓéÀÖÏÖ³¡¡·ÊÓÆµ£ºÎÂá°ÖÊÒÉÖÜ½ÜÂ×µÄÖÆ×÷ÄÜÁ¦
-(8ÔÂ16ÈÕ
-02:14)
+(8ÔÂ16ÈÕ 02:14)
 ¡¶ÓéÀÖÏÖ³¡¡·ÊÓÆµ£ºÁõìÇÕÔÁÕÅÄÏ·»¥³Æ¡°ÀÏÊ¦¡±
-(8ÔÂ16ÈÕ
-02:11)
+(8ÔÂ16ÈÕ 02:11)
 ¡¶ÓéÀÖÏÖ³¡¡·ÊÓÆµ£º¿ìÄÐ»ý¼«±¸Õ½Ñ²»ØÑÝ³ª»á
-(8ÔÂ14ÈÕ
-22:30)
+(8ÔÂ14ÈÕ 22:30)
 ¡¶ÓéÀÖÏÖ³¡¡·ÊÓÆµ£ºÁÖÇàÏ¼Ì½°à¡¶°µÁµÌÒ»¨Ô´¡·
-(8ÔÂ14ÈÕ
-22:29)
+(8ÔÂ14ÈÕ 22:29)
 ¡¶ÓéÀÖÏÖ³¡¡·ÊÓÆµ£ºÑÝÔ±ÇØá°±»´ò¶ú¹â¼ÇÒäÓÌÐÂ
-(8ÔÂ14ÈÕ
-04:23)
+(8ÔÂ14ÈÕ 04:23)
 ¡¶ÓéÀÖÏÖ³¡¡·ÊÓÆµ£ºÊæä¿ÕÅÕðºÏ×÷Ì«¶àÉúÑá¾ë
-(8ÔÂ14ÈÕ
-04:19)
+(8ÔÂ14ÈÕ 04:19)
 ÓéÀÖÏÖ³¡ÊÓÆµ£º´¿ÇéÃÀÅ®ÕÔÁÕ½ÒÊÒÓÑºú¿ÉÀÏµ×
-(8ÔÂ12ÈÕ
-20:11)
+(8ÔÂ12ÈÕ 20:11)
 ÓéÀÖÏÖ³¡ÊÓÆµ£ºÖ÷³ÖÈË»Æ×ÓÙ®ÅÌµãÈýÎ»´óÅÆÅ®ÓÑ
-(8ÔÂ12ÈÕ
-20:04)
+(8ÔÂ12ÈÕ 20:04)
 >>
 ÎÄÔ·ËÝÔ´
 >>
@@ -38672,8 +37657,7 @@ G-musicÌ¨ÍåÅÅÐÐ°ñ_Ó°ÒôÓéÀÖ_ÐÂÀËÍø
 ÔÚÏßÊÔÌý
 Ñî×ÚÎ³¡¶¸ë×Ó¡·
 ÁõÈôÓ¢¡¶ÎÒºÜºÃ¡·
-²Ü¸ñ¡¶Super
-Sun¡­¡·
+²Ü¸ñ¡¶Super Sun¡­¡·
 °ô°ôÌÃ¡¶ÄÄÀïÅÂ¡·
 ÂÞÖ¾Ïé¡¶Ò»Ö§¶ÀÐã¡·
 ÐíÈãÜ¿¡¶ÄÐÈËÅ®ÈË¡·
@@ -38732,300 +37716,209 @@ S.H.E
 LL
 ×îÐÂ°ñµ¥
 Ì¨ÍåG-MUSIC·çÔÆÅÅÐÐ°ñ2008ÄêµÚÎåÆÚ(×éÍ¼)
-(0212
-16:51)
+(0212 16:51)
 Ì¨ÍåG-MUSIC·çÔÆÅÅÐÐ°ñ2008ÄêµÚËÄÆÚ(×éÍ¼)
-(0204
-13:45)
+(0204 13:45)
 Ì¨ÍåG-MUSIC·çÔÆÅÅÐÐ°ñ2008ÄêµÚÈýÆÚ(×éÍ¼)
-(0128
-14:50)
+(0128 14:50)
 Ì¨ÍåG-MUSIC·çÔÆÅÅÐÐ°ñ2008ÄêµÚ¶þÆÚ(×éÍ¼)
-(0121
-16:53)
+(0121 16:53)
 Ì¨ÍåG-MUSIC·çÔÆÅÅÐÐ°ñ2008ÄêµÚÒ»ÆÚ(×éÍ¼)
-(0114
-17:50)
+(0114 17:50)
 Ì¨ÍåG-MUSIC·çÔÆÅÅÐÐ°ñ07ÄêµÚÎåÊ®¶þÆÚ(×éÍ¼)
-(0107
-17:10)
+(0107 17:10)
 Ì¨ÍåG-MUSIC·çÔÆÅÅÐÐ°ñ07ÄêµÚÎåÊ®Ò»ÆÚ(×éÍ¼)
-(0102
-17:40)
+(0102 17:40)
 Ì¨ÍåG-MUSIC·çÔÆÅÅÐÐ°ñ07ÄêµÚÎåÊ®ÆÚ(×éÍ¼)
-(1224
-13:28)
+(1224 13:28)
 Ì¨ÍåG-MUSIC·çÔÆÅÅÐÐ°ñ07ÄêµÚËÄÊ®¾ÅÆÚ(×éÍ¼)
-(1217
-14:21)
+(1217 14:21)
 Ì¨ÍåG-MUSIC·çÔÆÅÅÐÐ°ñ07ÄêµÚËÄÊ®°ËÆÚ(×éÍ¼)
-(1210
-18:28)
+(1210 18:28)
 Ì¨ÍåG-MUSIC·çÔÆÅÅÐÐ°ñ07ÄêµÚËÄÊ®ÆßÆÚ(×éÍ¼)
-(1203
-14:26)
+(1203 14:26)
 Ì¨ÍåG-MUSIC·çÔÆÅÅÐÐ°ñ07ÄêµÚËÄÊ®ÁùÆÚ(×éÍ¼)
-(1126
-13:54)
+(1126 13:54)
 Ì¨ÍåG-MUSIC·çÔÆÅÅÐÐ°ñ07ÄêµÚËÄÊ®ÎåÆÚ(×éÍ¼)
-(1119
-12:48)
+(1119 12:48)
 Ì¨ÍåG-MUSIC·çÔÆÅÅÐÐ°ñ07ÄêµÚËÄÊ®ËÄÆÚ(×éÍ¼)
-(1112
-19:32)
+(1112 19:32)
 Ì¨ÍåG-MUSIC·çÔÆÅÅÐÐ°ñ07ÄêµÚËÄÊ®ÈýÆÚ(×éÍ¼)
-(1105
-15:59)
+(1105 15:59)
 Ì¨ÍåG-MUSIC·çÔÆÅÅÐÐ°ñ07ÄêµÚËÄÊ®¶þÆÚ(×éÍ¼)
-(1029
-16:16)
+(1029 16:16)
 Ì¨ÍåG-MUSIC·çÔÆÅÅÐÐ°ñ07ÄêµÚËÄÊ®Ò»ÆÚ(×éÍ¼)
-(1022
-12:18)
+(1022 12:18)
 Ì¨ÍåG-MUSIC·çÔÆÅÅÐÐ°ñ07ÄêµÚËÄÊ®ÆÚ(×éÍ¼)
-(1015
-16:16)
+(1015 16:16)
 Ì¨ÍåG-MUSIC·çÔÆÅÅÐÐ°ñ07ÄêµÚÈýÊ®¾ÅÆÚ(×éÍ¼)
-(1008
-12:09)
+(1008 12:09)
 Ì¨ÍåG-MUSIC·çÔÆÅÅÐÐ°ñ07ÄêµÚÈýÊ®°ËÆÚ(×éÍ¼)
-(0930
-09:44)
+(0930 09:44)
 Ì¨ÍåG-MUSIC·çÔÆÅÅÐÐ°ñ07ÄêµÚÈýÊ®ÆßÆÚ(×éÍ¼)
-(0924
-16:07)
+(0924 16:07)
 Ì¨ÍåG-MUSIC·çÔÆÅÅÐÐ°ñ07ÄêµÚÈýÊ®ÁùÆÚ(×éÍ¼)
-(0917
-14:16)
+(0917 14:16)
 Ì¨ÍåG-MUSIC·çÔÆÅÅÐÐ°ñ07ÄêµÚÈýÊ®ÎåÆÚ(×éÍ¼)
-(0910
-16:00)
+(0910 16:00)
 Ì¨ÍåG-MUSIC·çÔÆÅÅÐÐ°ñ07ÄêµÚÈýÊ®ËÄÆÚ(×éÍ¼)
-(0903
-13:39)
+(0903 13:39)
 Ì¨ÍåG-MUSIC·çÔÆÅÅÐÐ°ñ07ÄêµÚÈýÊ®ÈýÆÚ(×éÍ¼)
-(0827
-13:40)
+(0827 13:40)
 Ì¨ÍåG-MUSIC·çÔÆÅÅÐÐ°ñ07ÄêµÚÈýÊ®¶þÆÚ(×éÍ¼)
-(0820
-16:36)
+(0820 16:36)
 Ì¨ÍåG-MUSIC·çÔÆÅÅÐÐ°ñ07ÄêµÚÈýÊ®Ò»ÆÚ(×éÍ¼)
-(0813
-17:43)
+(0813 17:43)
 Ì¨ÍåG-MUSIC·çÔÆÅÅÐÐ°ñ2007ÄêµÚÈýÊ®ÆÚ(×éÍ¼)
-(0806
-19:14)
+(0806 19:14)
 Ì¨ÍåG-MUSIC·çÔÆÅÅÐÐ°ñ07ÄêµÚ¶þÊ®¾ÅÆÚ(×éÍ¼)
-(0730
-16:14)
+(0730 16:14)
 ¸ü¶àÄÚÈÝ
 ÈÈÃÅ´óµú
 ×¨¼­£ºÖÜ½ÜÂ×--¡¶2007Ñ²»ØÑÝ³ª»á¡·
-(0212
-16:02)
+(0212 16:02)
 ×¨¼­£ºµçÊÓÔ­Éù´ø--¡¶Ô­À´ÎÒ²»Ë§¡·
-(0212
-15:58)
+(0212 15:58)
 ×¨¼­£ºÓÎºèÃ÷--¡¶2008Çé¸è½ðÑ¡×îÖÕ»Ø¡·
-(0212
-15:56)
-×¨¼­£ºÁõµÂ»ª-¡¶WONDERFUL
-WORLDÏã¸ÛÑÝ³ª»á¡·
-(0212
-15:46)
+(0212 15:56)
+×¨¼­£ºÁõµÂ»ª-¡¶WONDERFUL WORLDÏã¸ÛÑÝ³ª»á¡·
+(0212 15:46)
 ×¨¼­£ºÑîÅà°²--¡¶ÑîÅà°²III¡·
-(0204
-12:40)
+(0204 12:40)
 ×¨¼­£ºÐÂÔ«½áÒÂ--¡¶Áµ¿ÕSORA¡·
-(0204
-12:34)
+(0204 12:34)
 ×¨¼­£ºÅ·µÃÑó--¡¶Å·¸èÕæ°®¡·
-(0204
-12:31)
+(0204 12:31)
 ×¨¼­£º»¯Ñ§³¬ÄÐ×Ó--¡¶Ïà¶ÔÂÛ¡·
-(0204
-12:26)
+(0204 12:26)
 ×¨¼­£ºÐÇ¹â2°à--¡¶ÄãÃÇÊÇÎÒµÄÐÇ¹â¡·
-(0128
-13:59)
+(0128 13:59)
 ×¨¼­£ºÐÅÀÖÍÅV.S¶¯Á¦»ð³µ¡¶²»ËÀÐÄ»¹ÔÚ(µ¥Çú)¡·
-(0128
-13:55)
+(0128 13:55)
 ×¨¼­£ºÏô»ÍÆæ--¡¶ÎÒÃÇµÄ¹ÊÊÂ¡·
-(0128
-13:51)
+(0128 13:51)
 ×¨¼­£ºÃ×Ï£ÑÇ--¡¶µÚ°Ë¶È¿Õ¼ä¡·
-(0128
-13:39)
+(0128 13:39)
 ×¨¼­£ºÕÅÓêÉú--¡¶ÈçÑàÅÌÐý¶øÀ´µÄË¼Äî¡·
-(0121
-16:05)
+(0121 16:05)
 ×¨¼­£ºÓÀ°î--¡¶Ô¸Íû¡·
-(0121
-15:50)
-×¨¼­£ºÍõÈôÁÕ--¡¶start
-from
-here¡·
-(0121
-14:59)
+(0121 15:50)
+×¨¼­£ºÍõÈôÁÕ--¡¶start from here¡·
+(0121 14:59)
 ×¨¼­£ºÍõèÝöÎ--¡¶ÌìÉúÒ»¶Ô(Ì¨Íå°æ)¡·
-(0121
-14:52)
+(0121 14:52)
 ×¨¼­£ºÀîÊ¥½Ü--¡¶ÊÕ·Å×ÔÈç¡·
-(0121
-14:48)
+(0121 14:48)
 ×¨¼­£ºÑî×ÚÎ³--¡¶¸ë×Ó¡·
-(0114
-16:45)
+(0114 16:45)
 ×¨¼­£ºÐìÖ¾½Ü--¡¶¼ÇÒäÖÐµÄÏòÈÕ¿û¡·
-(0114
-16:43)
+(0114 16:43)
 ×¨¼­£ºÁõÈôÓ¢--¡¶ÎÒºÜºÃ¡·
-(0114
-16:41)
+(0114 16:41)
 ×¨¼­£º5566--¡¶ºÈ²É¡·
-(0114
-16:38)
+(0114 16:38)
 ×¨¼­£ºÐÅ--¡¶ÎÒ¾ÍÊÇÎÒ¡·(LIVEÓ°Òôµä²Ø°æ)
-(0109
-18:23)
+(0109 18:23)
 ×¨¼­£ºÈý½Çcool--¡¶¿á¿áÉ¨¡·
-(0107
-16:06)
+(0107 16:06)
 ×¨¼­£ºÂÞÎÄ´Ï--¡¶ÇéÂ·×÷Á÷Ã¥¡·
-(0107
-16:03)
+(0107 16:03)
 ×¨¼­£º·ÉÂÖº£--¡¶Ë«Ãæ·ÉÂÖº£¡·
-(0107
-15:56)
+(0107 15:56)
 ×¨¼­£º·½´óÍ¬--¡¶Î´À´¡·
-(0107
-15:42)
+(0107 15:42)
 ×¨¼­£ºµçÊÓÔ­Éù´ø--¡¶¶ñ×÷¾ç2ÎÇ¡·
-(0107
-15:39)
-×¨¼­£º²Ü¸ñ--¡¶Super
-Sunshine¡·
-(0107
-15:38)
+(0107 15:39)
+×¨¼­£º²Ü¸ñ--¡¶Super Sunshine¡·
+(0107 15:38)
 ×¨¼­£º±õÆé²½--¡¶GUILTY¡·
-(0107
-15:34)
+(0107 15:34)
 ¸ü¶àÄÚÈÝ
 Ïà¹ØÐÂÎÅ
 Ñî×ÚÎ³ËÄ¶ÈÎÊ¶¦·çÔÆ°ñ
 ÐÂÄêÓ¦¾°µú»ð±¬ÊÐ³¡(Í¼)
-(0212
-12:12)
+(0212 12:12)
 Ñî×ÚÎ³·çÔÆ°ñÈý¶È³ÆÍõ
 ÂÞÖ¾ÏéÐÂµú·¢ÐÐµÚÈý°æ
-(0204
-13:43)
+(0204 13:43)
 Ñî×ÚÎ³Á¬×¯·çÔÆ°ñ
 F4ÈÈÁ¦Ðû´«ÏúÁ¿´ó·´µ¯(×éÍ¼)
-(0128
-14:47)
+(0128 14:47)
 Ñ¡Ðã¸èÊÖ´óÈÈ·çÔÆ°ñ
 Ñî×ÚÎ³¶á¹ÚÍõèÝöÎ¾Ó´Î(Í¼)
-(0121
-16:48)
+(0121 16:48)
 ·ÉÂÖº£µÇÉÏ·çÔÆ°ñ¹Ú¾ü±¦×ù
 5566ÐÂµú¾Ó´ÎÏ¯(Í¼)
-(0114
-17:40)
+(0114 17:40)
 °ô°ôÌÃÁ¦Ñ¹F4·çÔÆ°ñ³ÆÍõ
 Ì¨ÍåÅ¼ÏñÄÐÍÅ´óPK(Í¼)
-(0107
-17:08)
+(0107 17:08)
 Ê¥µ®µµ³ªÆ¬ÊÐ³¡´óÈÈ
 ÐíÈãÜ¿ÐÂµú³É¹¦ÎÊ¶¦·çÔÆ°ñ
-(0102
-17:36)
+(0102 17:36)
 ÂÞÖ¾ÏéÖØµÇÌ¨Íå°ñ°ñÊ×
 ²ÌÒÀÁÖÐÂ×¨¼­·¢ÐÐµÚÈý°æ
-(1217
-14:18)
+(1217 14:18)
 ÍõÐÄÁè·çÔÆ°ñ¶á¹Ú
 ÁõµÂ»ª¾«Ñ¡×¨¼­³¬Öµ·¢ÐÐ(Í¼)
-(1210
-18:17)
+(1210 18:17)
 ÐÂÈË×éºÏ»ð±¬Ì¨Íå°ñ
 ÂÞÖ¾ÏéÐÂ×¨¼­ÔÙ´Î³ÆÍõ(Í¼)
-(1203
-14:24)
+(1203 14:24)
 ÂÞÖ¾ÏéÐÂ×¨¼­·çÔÆ°ñ³ÆÍõ
 Áº¾²Èã¡¶³ç°Ý¡·¾Ó´ÎÏ¯
-(1126
-13:49)
+(1126 13:49)
 Áº¾²ÈãÇáËÉ¶á¹Ú·çÔÆ°ñ
 ¹âÁ¼ÐÂµúÃûÁÐµÚÎåÃû(Í¼)
-(1119
-12:46)
+(1119 12:46)
 ÖÜ½ÜÂ×·çÔÆ°ñ¶á¹Ú
 ËÕ´òÂÌÐÂ×¨¼­³©Ïú¾Ó´ÎÏ¯(Í¼)
-(1112
-19:31)
+(1112 19:31)
 ÖÜ½ÜÂ×¡°×§¡±ÉñÉÏÉí²»×ö¹Ú¾ü
 ÖÜÓåÃñ·çÔÆ°ñµÇ¶¥
-(1105
-15:57)
+(1105 15:57)
 ²Ì½¡ÑÅÐÂµú´óÈÈ·çÔÆ°ñ
 ¾¡ÏÔ½ðÇú¸èºó·ç·¶(¸½Í¼)
-(1029
-15:45)
+(1029 15:45)
 ENERGY±¬Àä¶á¹Ú·çÔÆ°ñ
 ²ÌÒÀÁÖÐÂµúÏúÁ¿¸ß¾Ó´ÎÏ¯
-(1022
-11:43)
+(1022 11:43)
 ÐÇ¹â°ïºÏ¼­Ì¨Íå°ñ³ÆÍõ
 ÏúÁ¿Óë²ÌÒÀÁÖÆ½·ÖÇïÉ«
-(1015
-15:31)
+(1015 15:31)
 ²ÌÒÀÁÖÐÂ×¨¼­ËùÏòÅûÃÒ
 Ì¨Íå·çÔÆ°ñÔÙ¿ªºìÅÌ(Í¼)
-(1008
-11:39)
+(1008 11:39)
 ²ÌÒÀÁÖÐÂ×¨¼­È«ÑÇÖÞ·¢ÐÐ
 ³Æ°ÔÌ¨Íå·çÔÆ°ñ(×éÍ¼)
-(0930
-09:13)
+(0930 09:13)
 ÅËçâ°Ø¡¶Íæ¿á¡·ÄÑµÃ³ªK¸è
 ÇáËÉÎÊ¶¦Ì¨Íå·çÔÆ°ñ
-(0924
-13:58)
+(0924 13:58)
 ÑîØ©ÁÕÇáËÉÎÊ¶¦·çÔÆ°ñ
 ÍõÁ¦ºêÐÂµú¸Ä°æÆ´ÏúÁ¿
-(0917
-13:35)
+(0917 13:35)
 Å¼Ïñ¾çÔ­Éù´ø´óÈÈ·çÔÆ°ñ
 °ô°ôÌÃºÚÉ¬»á´´Ôì¼Ñ¼¨
-(0910
-15:14)
+(0910 15:14)
 ÕÅ»ÝÃÃÁ¬ÐøËÄÖÜÎÊ¶¦·çÔÆ°ñ
 Ììºó½ÏÁ¿ÎÂá°ÔÙÂä°Ü
-(0903
-13:15)
+(0903 13:15)
 ÕÅ»ÝÃÃÌ¨Íå·çÔÆ°ñÈýÁ¬¹Ú
 ÑîØ©ÁÕÔ¤¹ºµúÌ¨Íå¿ªÅÜ
-(0827
-13:11)
+(0827 13:11)
 ÕÅ»ÝÃÃ²õÁª·çÔÆ°ñ¹Ú¾ü
 ÍõÁ¦ºêÉËÓú¸´³öÏúÁ¿·´µ¯
-(0820
-15:58)
+(0820 15:58)
 ÌìºóÕÅ»ÝÃÃ±¦µ¶Î´ÀÏ
 ÐÂµúµÇ¶¥G-musicÅÅÐÐ°ñ
-(0813
-16:30)
+(0813 16:30)
 °ñÆÀ£ºG-musicÒôÀÖÅÅÐÐ°ñ2007ÄêµÚÈýÊ®ÆÚ
-(0806
-18:24)
+(0806 18:24)
 °ñÆÀ£ºG-musicÒôÀÖÅÅÐÐ°ñ2007ÄêµÚ¶þÊ®¾ÅÆÚ
-(0730
-14:54)
+(0730 14:54)
 °ñÆÀ£ºG-musicÒôÀÖÅÅÐÐ°ñ2007ÄêµÚ¶þÊ®°ËÆÚ
-(0723
-18:19)
+(0723 18:19)
 ¸ü¶àÄÚÈÝ
 Ó°ÒôÓéÀÖÒâ¼û·´À¡ÁôÑÔ°å
 µç»°£º010-62647003
@@ -39084,8 +37977,7 @@ G-musicÌ¨ÍåÅÅÐÐ°ñ_Ó°ÒôÓéÀÖ_ÐÂÀËÍø
 ÔÚÏßÊÔÌý
 Ñî×ÚÎ³¡¶¸ë×Ó¡·
 ÁõÈôÓ¢¡¶ÎÒºÜºÃ¡·
-²Ü¸ñ¡¶Super
-Sun¡­¡·
+²Ü¸ñ¡¶Super Sun¡­¡·
 °ô°ôÌÃ¡¶ÄÄÀïÅÂ¡·
 ÂÞÖ¾Ïé¡¶Ò»Ö§¶ÀÐã¡·
 ÐíÈãÜ¿¡¶ÄÐÈËÅ®ÈË¡·
@@ -39144,300 +38036,209 @@ S.H.E
 LL
 ×îÐÂ°ñµ¥
 Ì¨ÍåG-MUSIC·çÔÆÅÅÐÐ°ñ2008ÄêµÚÎåÆÚ(×éÍ¼)
-(0212
-16:51)
+(0212 16:51)
 Ì¨ÍåG-MUSIC·çÔÆÅÅÐÐ°ñ2008ÄêµÚËÄÆÚ(×éÍ¼)
-(0204
-13:45)
+(0204 13:45)
 Ì¨ÍåG-MUSIC·çÔÆÅÅÐÐ°ñ2008ÄêµÚÈýÆÚ(×éÍ¼)
-(0128
-14:50)
+(0128 14:50)
 Ì¨ÍåG-MUSIC·çÔÆÅÅÐÐ°ñ2008ÄêµÚ¶þÆÚ(×éÍ¼)
-(0121
-16:53)
+(0121 16:53)
 Ì¨ÍåG-MUSIC·çÔÆÅÅÐÐ°ñ2008ÄêµÚÒ»ÆÚ(×éÍ¼)
-(0114
-17:50)
+(0114 17:50)
 Ì¨ÍåG-MUSIC·çÔÆÅÅÐÐ°ñ07ÄêµÚÎåÊ®¶þÆÚ(×éÍ¼)
-(0107
-17:10)
+(0107 17:10)
 Ì¨ÍåG-MUSIC·çÔÆÅÅÐÐ°ñ07ÄêµÚÎåÊ®Ò»ÆÚ(×éÍ¼)
-(0102
-17:40)
+(0102 17:40)
 Ì¨ÍåG-MUSIC·çÔÆÅÅÐÐ°ñ07ÄêµÚÎåÊ®ÆÚ(×éÍ¼)
-(1224
-13:28)
+(1224 13:28)
 Ì¨ÍåG-MUSIC·çÔÆÅÅÐÐ°ñ07ÄêµÚËÄÊ®¾ÅÆÚ(×éÍ¼)
-(1217
-14:21)
+(1217 14:21)
 Ì¨ÍåG-MUSIC·çÔÆÅÅÐÐ°ñ07ÄêµÚËÄÊ®°ËÆÚ(×éÍ¼)
-(1210
-18:28)
+(1210 18:28)
 Ì¨ÍåG-MUSIC·çÔÆÅÅÐÐ°ñ07ÄêµÚËÄÊ®ÆßÆÚ(×éÍ¼)
-(1203
-14:26)
+(1203 14:26)
 Ì¨ÍåG-MUSIC·çÔÆÅÅÐÐ°ñ07ÄêµÚËÄÊ®ÁùÆÚ(×éÍ¼)
-(1126
-13:54)
+(1126 13:54)
 Ì¨ÍåG-MUSIC·çÔÆÅÅÐÐ°ñ07ÄêµÚËÄÊ®ÎåÆÚ(×éÍ¼)
-(1119
-12:48)
+(1119 12:48)
 Ì¨ÍåG-MUSIC·çÔÆÅÅÐÐ°ñ07ÄêµÚËÄÊ®ËÄÆÚ(×éÍ¼)
-(1112
-19:32)
+(1112 19:32)
 Ì¨ÍåG-MUSIC·çÔÆÅÅÐÐ°ñ07ÄêµÚËÄÊ®ÈýÆÚ(×éÍ¼)
-(1105
-15:59)
+(1105 15:59)
 Ì¨ÍåG-MUSIC·çÔÆÅÅÐÐ°ñ07ÄêµÚËÄÊ®¶þÆÚ(×éÍ¼)
-(1029
-16:16)
+(1029 16:16)
 Ì¨ÍåG-MUSIC·çÔÆÅÅÐÐ°ñ07ÄêµÚËÄÊ®Ò»ÆÚ(×éÍ¼)
-(1022
-12:18)
+(1022 12:18)
 Ì¨ÍåG-MUSIC·çÔÆÅÅÐÐ°ñ07ÄêµÚËÄÊ®ÆÚ(×éÍ¼)
-(1015
-16:16)
+(1015 16:16)
 Ì¨ÍåG-MUSIC·çÔÆÅÅÐÐ°ñ07ÄêµÚÈýÊ®¾ÅÆÚ(×éÍ¼)
-(1008
-12:09)
+(1008 12:09)
 Ì¨ÍåG-MUSIC·çÔÆÅÅÐÐ°ñ07ÄêµÚÈýÊ®°ËÆÚ(×éÍ¼)
-(0930
-09:44)
+(0930 09:44)
 Ì¨ÍåG-MUSIC·çÔÆÅÅÐÐ°ñ07ÄêµÚÈýÊ®ÆßÆÚ(×éÍ¼)
-(0924
-16:07)
+(0924 16:07)
 Ì¨ÍåG-MUSIC·çÔÆÅÅÐÐ°ñ07ÄêµÚÈýÊ®ÁùÆÚ(×éÍ¼)
-(0917
-14:16)
+(0917 14:16)
 Ì¨ÍåG-MUSIC·çÔÆÅÅÐÐ°ñ07ÄêµÚÈýÊ®ÎåÆÚ(×éÍ¼)
-(0910
-16:00)
+(0910 16:00)
 Ì¨ÍåG-MUSIC·çÔÆÅÅÐÐ°ñ07ÄêµÚÈýÊ®ËÄÆÚ(×éÍ¼)
-(0903
-13:39)
+(0903 13:39)
 Ì¨ÍåG-MUSIC·çÔÆÅÅÐÐ°ñ07ÄêµÚÈýÊ®ÈýÆÚ(×éÍ¼)
-(0827
-13:40)
+(0827 13:40)
 Ì¨ÍåG-MUSIC·çÔÆÅÅÐÐ°ñ07ÄêµÚÈýÊ®¶þÆÚ(×éÍ¼)
-(0820
-16:36)
+(0820 16:36)
 Ì¨ÍåG-MUSIC·çÔÆÅÅÐÐ°ñ07ÄêµÚÈýÊ®Ò»ÆÚ(×éÍ¼)
-(0813
-17:43)
+(0813 17:43)
 Ì¨ÍåG-MUSIC·çÔÆÅÅÐÐ°ñ2007ÄêµÚÈýÊ®ÆÚ(×éÍ¼)
-(0806
-19:14)
+(0806 19:14)
 Ì¨ÍåG-MUSIC·çÔÆÅÅÐÐ°ñ07ÄêµÚ¶þÊ®¾ÅÆÚ(×éÍ¼)
-(0730
-16:14)
+(0730 16:14)
 ¸ü¶àÄÚÈÝ
 ÈÈÃÅ´óµú
 ×¨¼­£ºÖÜ½ÜÂ×--¡¶2007Ñ²»ØÑÝ³ª»á¡·
-(0212
-16:02)
+(0212 16:02)
 ×¨¼­£ºµçÊÓÔ­Éù´ø--¡¶Ô­À´ÎÒ²»Ë§¡·
-(0212
-15:58)
+(0212 15:58)
 ×¨¼­£ºÓÎºèÃ÷--¡¶2008Çé¸è½ðÑ¡×îÖÕ»Ø¡·
-(0212
-15:56)
-×¨¼­£ºÁõµÂ»ª-¡¶WONDERFUL
-WORLDÏã¸ÛÑÝ³ª»á¡·
-(0212
-15:46)
+(0212 15:56)
+×¨¼­£ºÁõµÂ»ª-¡¶WONDERFUL WORLDÏã¸ÛÑÝ³ª»á¡·
+(0212 15:46)
 ×¨¼­£ºÑîÅà°²--¡¶ÑîÅà°²III¡·
-(0204
-12:40)
+(0204 12:40)
 ×¨¼­£ºÐÂÔ«½áÒÂ--¡¶Áµ¿ÕSORA¡·
-(0204
-12:34)
+(0204 12:34)
 ×¨¼­£ºÅ·µÃÑó--¡¶Å·¸èÕæ°®¡·
-(0204
-12:31)
+(0204 12:31)
 ×¨¼­£º»¯Ñ§³¬ÄÐ×Ó--¡¶Ïà¶ÔÂÛ¡·
-(0204
-12:26)
+(0204 12:26)
 ×¨¼­£ºÐÇ¹â2°à--¡¶ÄãÃÇÊÇÎÒµÄÐÇ¹â¡·
-(0128
-13:59)
+(0128 13:59)
 ×¨¼­£ºÐÅÀÖÍÅV.S¶¯Á¦»ð³µ¡¶²»ËÀÐÄ»¹ÔÚ(µ¥Çú)¡·
-(0128
-13:55)
+(0128 13:55)
 ×¨¼­£ºÏô»ÍÆæ--¡¶ÎÒÃÇµÄ¹ÊÊÂ¡·
-(0128
-13:51)
+(0128 13:51)
 ×¨¼­£ºÃ×Ï£ÑÇ--¡¶µÚ°Ë¶È¿Õ¼ä¡·
-(0128
-13:39)
+(0128 13:39)
 ×¨¼­£ºÕÅÓêÉú--¡¶ÈçÑàÅÌÐý¶øÀ´µÄË¼Äî¡·
-(0121
-16:05)
+(0121 16:05)
 ×¨¼­£ºÓÀ°î--¡¶Ô¸Íû¡·
-(0121
-15:50)
-×¨¼­£ºÍõÈôÁÕ--¡¶start
-from
-here¡·
-(0121
-14:59)
+(0121 15:50)
+×¨¼­£ºÍõÈôÁÕ--¡¶start from here¡·
+(0121 14:59)
 ×¨¼­£ºÍõèÝöÎ--¡¶ÌìÉúÒ»¶Ô(Ì¨Íå°æ)¡·
-(0121
-14:52)
+(0121 14:52)
 ×¨¼­£ºÀîÊ¥½Ü--¡¶ÊÕ·Å×ÔÈç¡·
-(0121
-14:48)
+(0121 14:48)
 ×¨¼­£ºÑî×ÚÎ³--¡¶¸ë×Ó¡·
-(0114
-16:45)
+(0114 16:45)
 ×¨¼­£ºÐìÖ¾½Ü--¡¶¼ÇÒäÖÐµÄÏòÈÕ¿û¡·
-(0114
-16:43)
+(0114 16:43)
 ×¨¼­£ºÁõÈôÓ¢--¡¶ÎÒºÜºÃ¡·
-(0114
-16:41)
+(0114 16:41)
 ×¨¼­£º5566--¡¶ºÈ²É¡·
-(0114
-16:38)
+(0114 16:38)
 ×¨¼­£ºÐÅ--¡¶ÎÒ¾ÍÊÇÎÒ¡·(LIVEÓ°Òôµä²Ø°æ)
-(0109
-18:23)
+(0109 18:23)
 ×¨¼­£ºÈý½Çcool--¡¶¿á¿áÉ¨¡·
-(0107
-16:06)
+(0107 16:06)
 ×¨¼­£ºÂÞÎÄ´Ï--¡¶ÇéÂ·×÷Á÷Ã¥¡·
-(0107
-16:03)
+(0107 16:03)
 ×¨¼­£º·ÉÂÖº£--¡¶Ë«Ãæ·ÉÂÖº£¡·
-(0107
-15:56)
+(0107 15:56)
 ×¨¼­£º·½´óÍ¬--¡¶Î´À´¡·
-(0107
-15:42)
+(0107 15:42)
 ×¨¼­£ºµçÊÓÔ­Éù´ø--¡¶¶ñ×÷¾ç2ÎÇ¡·
-(0107
-15:39)
-×¨¼­£º²Ü¸ñ--¡¶Super
-Sunshine¡·
-(0107
-15:38)
+(0107 15:39)
+×¨¼­£º²Ü¸ñ--¡¶Super Sunshine¡·
+(0107 15:38)
 ×¨¼­£º±õÆé²½--¡¶GUILTY¡·
-(0107
-15:34)
+(0107 15:34)
 ¸ü¶àÄÚÈÝ
 Ïà¹ØÐÂÎÅ
 Ñî×ÚÎ³ËÄ¶ÈÎÊ¶¦·çÔÆ°ñ
 ÐÂÄêÓ¦¾°µú»ð±¬ÊÐ³¡(Í¼)
-(0212
-12:12)
+(0212 12:12)
 Ñî×ÚÎ³·çÔÆ°ñÈý¶È³ÆÍõ
 ÂÞÖ¾ÏéÐÂµú·¢ÐÐµÚÈý°æ
-(0204
-13:43)
+(0204 13:43)
 Ñî×ÚÎ³Á¬×¯·çÔÆ°ñ
 F4ÈÈÁ¦Ðû´«ÏúÁ¿´ó·´µ¯(×éÍ¼)
-(0128
-14:47)
+(0128 14:47)
 Ñ¡Ðã¸èÊÖ´óÈÈ·çÔÆ°ñ
 Ñî×ÚÎ³¶á¹ÚÍõèÝöÎ¾Ó´Î(Í¼)
-(0121
-16:48)
+(0121 16:48)
 ·ÉÂÖº£µÇÉÏ·çÔÆ°ñ¹Ú¾ü±¦×ù
 5566ÐÂµú¾Ó´ÎÏ¯(Í¼)
-(0114
-17:40)
+(0114 17:40)
 °ô°ôÌÃÁ¦Ñ¹F4·çÔÆ°ñ³ÆÍõ
 Ì¨ÍåÅ¼ÏñÄÐÍÅ´óPK(Í¼)
-(0107
-17:08)
+(0107 17:08)
 Ê¥µ®µµ³ªÆ¬ÊÐ³¡´óÈÈ
 ÐíÈãÜ¿ÐÂµú³É¹¦ÎÊ¶¦·çÔÆ°ñ
-(0102
-17:36)
+(0102 17:36)
 ÂÞÖ¾ÏéÖØµÇÌ¨Íå°ñ°ñÊ×
 ²ÌÒÀÁÖÐÂ×¨¼­·¢ÐÐµÚÈý°æ
-(1217
-14:18)
+(1217 14:18)
 ÍõÐÄÁè·çÔÆ°ñ¶á¹Ú
 ÁõµÂ»ª¾«Ñ¡×¨¼­³¬Öµ·¢ÐÐ(Í¼)
-(1210
-18:17)
+(1210 18:17)
 ÐÂÈË×éºÏ»ð±¬Ì¨Íå°ñ
 ÂÞÖ¾ÏéÐÂ×¨¼­ÔÙ´Î³ÆÍõ(Í¼)
-(1203
-14:24)
+(1203 14:24)
 ÂÞÖ¾ÏéÐÂ×¨¼­·çÔÆ°ñ³ÆÍõ
 Áº¾²Èã¡¶³ç°Ý¡·¾Ó´ÎÏ¯
-(1126
-13:49)
+(1126 13:49)
 Áº¾²ÈãÇáËÉ¶á¹Ú·çÔÆ°ñ
 ¹âÁ¼ÐÂµúÃûÁÐµÚÎåÃû(Í¼)
-(1119
-12:46)
+(1119 12:46)
 ÖÜ½ÜÂ×·çÔÆ°ñ¶á¹Ú
 ËÕ´òÂÌÐÂ×¨¼­³©Ïú¾Ó´ÎÏ¯(Í¼)
-(1112
-19:31)
+(1112 19:31)
 ÖÜ½ÜÂ×¡°×§¡±ÉñÉÏÉí²»×ö¹Ú¾ü
 ÖÜÓåÃñ·çÔÆ°ñµÇ¶¥
-(1105
-15:57)
+(1105 15:57)
 ²Ì½¡ÑÅÐÂµú´óÈÈ·çÔÆ°ñ
 ¾¡ÏÔ½ðÇú¸èºó·ç·¶(¸½Í¼)
-(1029
-15:45)
+(1029 15:45)
 ENERGY±¬Àä¶á¹Ú·çÔÆ°ñ
 ²ÌÒÀÁÖÐÂµúÏúÁ¿¸ß¾Ó´ÎÏ¯
-(1022
-11:43)
+(1022 11:43)
 ÐÇ¹â°ïºÏ¼­Ì¨Íå°ñ³ÆÍõ
 ÏúÁ¿Óë²ÌÒÀÁÖÆ½·ÖÇïÉ«
-(1015
-15:31)
+(1015 15:31)
 ²ÌÒÀÁÖÐÂ×¨¼­ËùÏòÅûÃÒ
 Ì¨Íå·çÔÆ°ñÔÙ¿ªºìÅÌ(Í¼)
-(1008
-11:39)
+(1008 11:39)
 ²ÌÒÀÁÖÐÂ×¨¼­È«ÑÇÖÞ·¢ÐÐ
 ³Æ°ÔÌ¨Íå·çÔÆ°ñ(×éÍ¼)
-(0930
-09:13)
+(0930 09:13)
 ÅËçâ°Ø¡¶Íæ¿á¡·ÄÑµÃ³ªK¸è
 ÇáËÉÎÊ¶¦Ì¨Íå·çÔÆ°ñ
-(0924
-13:58)
+(0924 13:58)
 ÑîØ©ÁÕÇáËÉÎÊ¶¦·çÔÆ°ñ
 ÍõÁ¦ºêÐÂµú¸Ä°æÆ´ÏúÁ¿
-(0917
-13:35)
+(0917 13:35)
 Å¼Ïñ¾çÔ­Éù´ø´óÈÈ·çÔÆ°ñ
 °ô°ôÌÃºÚÉ¬»á´´Ôì¼Ñ¼¨
-(0910
-15:14)
+(0910 15:14)
 ÕÅ»ÝÃÃÁ¬ÐøËÄÖÜÎÊ¶¦·çÔÆ°ñ
 Ììºó½ÏÁ¿ÎÂá°ÔÙÂä°Ü
-(0903
-13:15)
+(0903 13:15)
 ÕÅ»ÝÃÃÌ¨Íå·çÔÆ°ñÈýÁ¬¹Ú
 ÑîØ©ÁÕÔ¤¹ºµúÌ¨Íå¿ªÅÜ
-(0827
-13:11)
+(0827 13:11)
 ÕÅ»ÝÃÃ²õÁª·çÔÆ°ñ¹Ú¾ü
 ÍõÁ¦ºêÉËÓú¸´³öÏúÁ¿·´µ¯
-(0820
-15:58)
+(0820 15:58)
 ÌìºóÕÅ»ÝÃÃ±¦µ¶Î´ÀÏ
 ÐÂµúµÇ¶¥G-musicÅÅÐÐ°ñ
-(0813
-16:30)
+(0813 16:30)
 °ñÆÀ£ºG-musicÒôÀÖÅÅÐÐ°ñ2007ÄêµÚÈýÊ®ÆÚ
-(0806
-18:24)
+(0806 18:24)
 °ñÆÀ£ºG-musicÒôÀÖÅÅÐÐ°ñ2007ÄêµÚ¶þÊ®¾ÅÆÚ
-(0730
-14:54)
+(0730 14:54)
 °ñÆÀ£ºG-musicÒôÀÖÅÅÐÐ°ñ2007ÄêµÚ¶þÊ®°ËÆÚ
-(0723
-18:19)
+(0723 18:19)
 ¸ü¶àÄÚÈÝ
 Ó°ÒôÓéÀÖÒâ¼û·´À¡ÁôÑÔ°å
 µç»°£º010-62647003
@@ -39710,406 +38511,294 @@ Q
 ÐÂÎÅ×·×Ù
 °¢½¿ÓÂ¸ÒÃæ¶Ô²»ÑÅÕÕÊÂ¼þ
 ¹ã¸æÉÌÁ¦±£´úÑÔµØÎ»
-(0213
-11:39)
+(0213 11:39)
 ÁÖÖ¾ÁáÔøÒòÊÖ»úËÍÐÞÍâÐ¹ÒþË½ÕÕ
 ¸ÐÌ¾Éç»á·çÆø
-(0213
-11:18)
+(0213 11:18)
 ÖÚÐÇÈçºÎ×ß³ö²»ÑÅÕÕ·ç²¨
 Å®ÐÇ´ó¶àÎ£¼°»éÊÂ
-(0213
-11:11)
+(0213 11:11)
 Ã÷ÐÇÃæ¶Ô·çÀË×ö·¨²»Í¬
 Ì¹³ÐÈÏ´íÓ®µÃ´óÖÚÖ§³Ö
-(0213
-11:06)
+(0213 11:06)
 Ã÷ÐÇ²»ÑÅÕÕ±»ÖÆ³É¹âÅÌ
 ÉîÛÚ½ÖÍ·½ÐÂô20ÔªÒ»ÕÅ
-(0213
-11:03)
+(0213 11:03)
 ÂÀÁ¼Î°Å­Ôð³Â¹ÚÏ£ÌÓ±ÜÔðÈÎ
 ³Å°¢½¿ÓÂ¸Ò»ØÓ¦(Í¼)
-(0213
-10:59)
+(0213 10:59)
 ÙÜÊ«Âü³Å°¢½¿ÓÂ¸Ò
 ÕÅ¾´ÐùÅÎ´óÖÚ¿íÈÝµ±ÊÂÈË(Í¼)
-(0213
-10:54)
+(0213 10:54)
 400¶àÕÅ²»ÑÅÕÕ¡°Ò»ºå¶øÉÏ¡±
 Maggie
 QÒ²ÊÜÇ£Á¬
-(0213
-10:51)
+(0213 10:51)
 ²»ÑÅÕÕ·ç²¨ºóÐø£º¹ÚÏ£°¢½¿½«³ÉÐÔÓÃÆ·ÉÌ±ê(Í¼)
-(0213
-10:50)
+(0213 10:50)
 ÈÕ±¾Å®ÐÇÁåÄ¾ÐÓ¾íÈë¡°ÑÞÕÕÃÅ¡±
 ³ÉµÚ¾ÅÎ»ÊÜº¦Õß
-(0213
-10:49)
+(0213 10:49)
 ×éÍ¼£º½ðÅÆ¾­¼ÍÈË»Æ°Ø¸ßÐ¯·½Á¦ÉêËÕÓÀ¿µµÈÆí¸£
-(0213
-10:40)
+(0213 10:40)
 Ð»öª·æÕÅ°ØÖ¥¼±°á¼Ò±Ü·çÍ·
 ¾­¼ÍÈË²»ÖªÐÂ¼ÒµØÖ·
-(0213
-10:39)
+(0213 10:39)
 ·½Á¦ÉêÈ¥°Ý¸£ÈÏÍ¬³Â¹ÚÏ£Ó¦½»´ú
 ¼á³ÆÖÓÐÀÍ©ÓÂ¸Ò
-(0213
-10:38)
+(0213 10:38)
 ÙÜÊ«Âü³öÏ¯ÉÌ³¡»î¶¯·¢ÐÂÄê²Æ
 ÔÞÖÓÐÀÍ©ÓÂ¸Ò(Í¼)
-(0213
-10:32)
+(0213 10:32)
 Ïã¸ÛËÄ³ÉÖÐÐ¡Ñ§ÉúÔø½Ó´¥²»ÑÅÕÕ
 ´óÑ§ÉúÕùÏà×·¿´
-(0213
-10:31)
+(0213 10:31)
 °¢½¿Ê×´Î»ØÓ¦²»ÑÅÕÕÊÂ¼þ
 ³Æ×Ô¼ºÒÔÇ°Ì«ÌìÕæÌ«Éµ
-(0213
-10:15)
+(0213 10:15)
 ÁÖÖ¾ÁáÎÅ²»ÑÅÕÕÆ¬É«±ä
 Îª°ÂÔËÑÝ³ª»á×ö×¼±¸(Í¼)
-(0213
-10:10)
+(0213 10:10)
 ³Â¹ÚÏ£²»ÑÅÕÕ·ç²¨ÒÉÖÐ¡°òùòðÏÀ×çÖä¡±£¿(¸½Í¼)
-(0213
-10:08)
+(0213 10:08)
 µÚ3ÃûÉæÏÓ·¢²¼Õß×ò±»¿Ø
 ·¢³¬Á´ÎÄÔ±»ñ±£ÊÍ(Í¼)
-(0213
-10:05)
+(0213 10:05)
 ÙÜÊ«ÂüÔÞ°¢½¿ÓÂ¸Ò
 ºôÓõ³Â¹ÚÏ£³öÀ´½»´ú(¸½Í¼)
-(0213
-09:57)
+(0213 09:57)
 ´«°¢½¿Ê§¹ã¸æºÏÔ¼
 ÉÌ¼Ò³ÆÆä´úÑÔÈËÉí·Ý²»±ä(Í¼)
-(0213
-09:55)
+(0213 09:55)
 ÂÀÁ¼Î°Íû³Â¹ÚÏ£ÎðÌÓ±Ü
 ³ÆÄÐÈËÓ¦¿Ïµ£µ±(Í¼)
-(0213
-09:48)
+(0213 09:48)
 °¢½¿×Ô±ÕÁ½ÖÜÊ×¶È¸´¹¤
 ÑîÊÜ³É±íÊ¾È«Á¦Ö§³Ö(Í¼)
-(0213
-09:47)
+(0213 09:47)
 °¢½¿ÉùÃ÷±»Ö¸ÄÚÈÝ¿Õ¶´
 Î´¶ÔÉç»áÓ°Ïì¸ºÔðÈÎ(Í¼)
-(0213
-09:45)
+(0213 09:45)
 ¸ÛÌØÊ×ÔøÒñÈ¨¹Ø×¢²»ÑÅÕÕÊÂ¼þ
 Ôð³É¾¯·½ÑÏÀ÷Ö´·¨
-(0213
-09:40)
+(0213 09:40)
 ´«Ð»öª·æÕÅ°ØÖ¥»éÒöÒÑÁÁºìµÆ
 ¾­¼ÍÈË½ô¼±³ÎÇå
-(0213
-09:38)
+(0213 09:38)
 ×éÍ¼£ºÑîÊÜ³É¾ÜÔù°¢½¿¹ÉÆ±³åÏ²
 ±ÜÌ¸²»ÑÅÕÕÊÂ¼þ
-(0213
-09:37)
+(0213 09:37)
 ²»ÑÅÕÕÖ÷½Ç¾ÉµúÔâ´ÙÏú
 ³Â¹ÚÏ£¸è´ÊÐ¹×ÔÅÄñ±(Í¼)
-(0213
-09:37)
+(0213 09:37)
 ²»ÑÅÕÕÆ¬ÊÂ¼þÒý¹ú¼Ê¹Ø×¢
 µÚ3ÃûÉæÏÓÕß±»¿Ø(Í¼)
-(0213
-09:30)
+(0213 09:30)
 ¸ü¶àÄÚÈÝ
 Ïà¹ØÊÓÆµ
 ÊÓÆµ£º120¶Î³Â¹ÚÏ£²»ÑÅÕÕÊÂ¼þÏà¹ØÊÓÆµ×¨¼­
-(0213
-10:45)
+(0213 10:45)
 ÊÓÆµ£º113¶Î°¢½¿²»ÑÅÕÕÊÂ¼þÏà¹ØÊÓÆµ×¨¼­
-(0213
-10:43)
+(0213 10:43)
 ÊÓÆµ£º³ÉÁú¹«Ë¾²è»°»á
 ¶Ô²»ÑÅÕÕÊÜº¦ÈË±íÊ¾¾´Åå
-(0212
-14:37)
+(0212 14:37)
 ÊÓÆµ£º°¢½¿Ê×¶È»ØÓ¦ÒÕÈË²»ÑÅÕÕÊÂ¼þ
 ³ÆÒÔÇ°ºÜÉµ
-(0212
-14:34)
+(0212 14:34)
 ÊÓÆµ£º²»ÑÅÕÕÊÂ¼þÒýÈ«Çò»ªÈË¹Ø×¢
 ¾¿¾¹Ë­Ö®¹ý
-(0211
-20:35)
+(0211 20:35)
 ÊÓÆµ£º°¢½¿ºôÓõ¸èÃÔÃÇÖ§³Ö
 Ì¬¶È×ÔÈ»²»ÊÜÓ°Ïì
-(0211
-17:41)
+(0211 17:41)
 ÊÓÆµ£ºtwins¸èÃÔ¼ûÃæ»á
 °¢½¿Ê×´Î¹«¿ªÂ¶Ãæ
-(0211
-16:59)
+(0211 16:59)
 ÊÓÆµ£º°¢½¿Ê×´Î¹«¿ªÌ¸²»ÑÅÕÕ
 ³ÆÒÔÇ°ºÜÉµºÜÌìÕæ
-(0211
-16:59)
+(0211 16:59)
 ÊÓÆµ£º°¢½¿·¢±íÉùÃ÷Ïò²»ÑÅÕÕÆ¬ÊÂ¼þÊÜº¦ÈËÖÂÇ¸
-(0211
-16:17)
+(0211 16:17)
 ÊÓÆµ£º°¢½¿Ê×¶È»ØÓ¦²»ÑÅÕÕÊÂ¼þ
 ³ÆÒÔÇ°ºÜÉµ
-(0211
-16:16)
+(0211 16:16)
 ÊÓÆµ£º°¢½¿½«¾Í²»ÑÅÕÕÆ¬·¢±íÉùÃ÷
 ÖÚÈËÃÅ¿ÚµÈºò
-(0211
-16:15)
+(0211 16:15)
 ÊÓÆµ£ºTwins½ñ¿ª¸èÃÔ»á
 °¢½¿½«Ê×´Î»ØÓ¦²»ÑÅÕÕ
-(0211
-13:18)
+(0211 13:18)
 ÊÓÆµ£º³Â¹ÚÏ£¶ÌÆ¬ÏòÊÜ²»ÑÅÕÕÓ°ÏìÈËÊ¿¹«¿ªµÀÇ¸
-(0204
-23:28)
+(0204 23:28)
 ÓéÀÖÏÖ³¡ÊÓÆµ£º»ôãëÏ£²»»ØÓ¦ÖÓÐÀÍ©²»ÑÅÕÕÊÂ¼þ
-(0202
-23:00)
+(0202 23:00)
 ÊÓÆµ£ºÖÓÐÀÍ©²»ÑÅÕÕÍøÉÏÁ÷´«
 Ó¢»ÊÎ¯ÍÐÂÉÊ¦¸ú½ø
-(0130
-12:39)
+(0130 12:39)
 ÊÓÆµ£º³Â¹ÚÏ£Ð¹Â¶Ë½ÃÜÕÕ
 Ï¸ÊýÖÚÃ÷ÐÇ±»ÒÆ»¨½ÓÄ¾
-(0129
-22:26)
+(0129 22:26)
 ¸ü¶àÄÚÈÝ
 ¸÷·½ÆÀÂÛ
 ´ò²»ËÀµÄ»ªÄÏ»¢
 Í£²»ÁËµÄ²»ÑÅÕÕ·ç²¨
-(0213
-11:56)
+(0213 11:56)
 ²»ÑÅÕÕÊÂ¼þ´Ó³Â¹ÚÏ£¿ªÊ¼µ½Ë­ÎªÖ¹£¿
-(0213
-00:11)
+(0213 00:11)
 ²éÐ¡ÐÀ£ºÃæ¶ÔÊÂÊµ£¬²»ÒªÓ¢ÐÛ»¯»òÊÜº¦»¯
-(0212
-23:54)
+(0212 23:54)
 ²éÐ¡ÐÀ£º²»ÑÅÕÕÊÂ¼þÂÒµÀÇ¸ÊÇÍÆ±ðÈËÂä»ð¿Ó
-(0212
-23:51)
+(0212 23:51)
 ²»ÑÅÕÕÃÅÉý¼¶±³ºóµÄ7´ó»ý¼«ÒâÒå
-(0212
-23:25)
+(0212 23:25)
 ÖÓÐÀÍ©¹«¿ªµÀÇ¸±³ºóµÄÈý´óÒÉ»ó(Í¼)
-(0212
-23:23)
+(0212 23:23)
 ÖÓÐÀÍ©»ñµÃÖ§³Ö
 Ë­À´°²Î¿³Â¹ÚÏ££¿
-(0212
-23:17)
+(0212 23:17)
 Twins¸èÃÔÍÅ°Ý»á°¢½¿ÉùÃ÷¼°Ïà¹ØÇé¿ö
-(0212
-23:16)
+(0212 23:16)
 °¢½¿Ê×¶È»ØÓ¦Í¸Â¶³öÈý´ó¹Ø¼üÐÅÏ¢
-(0212
-23:15)
+(0212 23:15)
 Ì··É£º°¢½¿Ä¬ÈÏÊÇÕýµÀ£¬ÎÒ¸üµ£ÐÄÕÅ°ØÖ¥
-(0212
-00:13)
+(0212 00:13)
 ÓéÀÖÈ¦ÓÐµÄ£¬³Â¹ÚÏ£ÄÇÀï¶¼ÆëÁË¡£
-(0211
-01:41)
+(0211 01:41)
 µçÄÔ³ÉµØÀ×£¬³Â¹ÚÏ£±ÈÑÏÊØÒ»¸üÞÏÞÎ
-(0211
-01:31)
+(0211 01:31)
 ÀÏº«£ºÕÕÆ¬ÃÅ--¡°ÓÞÀÖ¡±ÊÀ½çµÄ¡°º®¶¬À°ÔÂ¡±
-(0210
-18:43)
+(0210 18:43)
 ³Â¹ÚÏ£µÀÇ¸ÖÕÓÚÖ¤Ã÷ÕÕÆ¬µÄÕæÊµÐÔ
-(0205
-07:44)
+(0205 07:44)
 ÖØÇìÉÌ±¨£ºÃ÷ÐÇ²»ÑÅÕÕÊÂ¼þË­µ±×ÔÊ¡£¿
-(0205
-03:03)
+(0205 03:03)
 ³Â¹ÚÏ£ÊÓÆµµÀÇ¸±³ºóµÄÎå¸ö¹ÊÊÂ
-(0205
-00:27)
+(0205 00:27)
 ²éÐ¡ÐÀ£º²»ÑÅÕÕ·ç±©¶ÔÓéÀÖÈ¦µÄÓ°Ïì
-(0204
-15:44)
+(0204 15:44)
 Ñò³ÇÍí±¨£º²»ÑÅÕÕÊÂ¼þ£¬Ë­µ±×ÔÊ¡£¿
-(0204
-14:38)
+(0204 14:38)
 ºÎ¿àÒª¡°¸ã¿å¡±Ð»öª·æÕÅ°ØÖ¥µÄ»éÒö£¿
-(0204
-11:55)
+(0204 11:55)
 ³Â¹ÚÏ£°¢½¿²»¸Ã³ÉÎªÓßÂÛµÄÑÛÖÐ¶¤
-(0204
-11:53)
+(0204 11:53)
 ´óÑóÍø£ºÎªÊ²Ã´ÊÜÉËµÄ×ÜÊÇÓ¢»ÊÒÕÈË£¿
-(0204
-09:06)
+(0204 09:06)
 »ªÉÌ³¿±¨£º¡°ÑÞÕÕÃÅ¡±ÉËº¦ÁËË­£¿
-(0203
-17:11)
+(0203 17:11)
 Ñò³ÇÍí±¨£º¿´Ã÷ÐÇ²»ÑÅÕÕÊÂ¼þ--ÄêÇáÈËÈÝÒ×³å¶¯
-(0203
-14:30)
+(0203 14:30)
 ÆëÂ³Íí±¨£º·¢¡°²»ÑÅÕÕ¡±µÄÈËºÜ±©Á¦
-(0203
-11:49)
+(0203 11:49)
 ³Â¹ÚÏ£»Ø»÷½ÒÊ¾²»ÑÅÕÕÊÂ¼þÈý´óÄÚÇé
-(0203
-10:02)
+(0203 10:02)
 ÄÏ·½¶¼ÊÐ±¨£º²»ÑÅÕÕµÄÒÕÊõ
-(0203
-03:39)
+(0203 03:39)
 °¢½¿×ÔÅÄË½·¿ÕÕÆØ¹â(×éÍ¼)
-(0202
-17:25)
+(0202 17:25)
 ³Â¹ÚÏ£²»ÑÅÕÕÊÂ¼þÉæÏÓ¼¯ÍÅ²ß»®³´×÷
-(0202
-16:36)
+(0202 16:36)
 ³É¶¼ÉÌ±¨£ºÐÒÔÖÀÖ»öÓë±¯ÃõÍ¬ÐÐ
-(0202
-15:01)
+(0202 15:01)
 ¸ü¶àÄÚÈÝ
 ÏÖ³¡¿ìÑ¶
 ×éÍ¼£º°¢½¿»ØÓ¦²»ÑÅÕÕÊÂ¼þ
 ¾­¼ÍÈË»ôãëÏ£·¢ÑÔ
-(0211
-16:54)
+(0211 16:54)
 ×éÍ¼£º°¢½¿Ê×¶È»ØÓ¦²»ÑÅÕÕÊÂ¼þ
 Ó¾¶ùµ½³¡Ö§³Ö
-(0211
-16:44)
+(0211 16:44)
 ×éÍ¼£º°¢½¿Ê×¶È»ØÓ¦²»ÑÅÕÕÊÂ¼þ
 Ö£Ï£âùµ½³¡Ö§³Ö
-(0211
-16:37)
+(0211 16:37)
 ÏêÑ¶£º°¢½¿¸èÃÔÈ«²¿¶ÔÊÂ¼þ·â×ì
 Ä¬Ä¬Àë¿ª
-(0211
-16:08)
+(0211 16:08)
 ×éÍ¼£º°¢½¿»ØÓ¦²»ÑÅÕÕÊÂ¼þ
 ÑîÊÜ³Éµ½³¡Ö§³Ö
-(0211
-16:04)
+(0211 16:04)
 ×éÍ¼£º°¢½¿Ê×¶È»ØÓ¦ÒÕÈË²»ÑÅÕÕÊÂ¼þ
 ³ÆÒÔÇ°ºÜÉµ
-(0211
-15:19)
+(0211 15:19)
 ÏêÑ¶£ºÖÓÐÀÍ©±íÊ¾ÒªÓÂ¸ÒÃæ¶ÔÎ´À´
-(0211
-14:59)
+(0211 14:59)
 ÏêÑ¶£ºÓ¢»ÊÆìÏÂÒÕÈË´Ëºó·â¿Ú²»ÔÙÌ¸ÂÛ´ËÊÂ
-(0211
-14:48)
+(0211 14:48)
 ¿ìÑ¶£ºÖÓÐÀÍ©²Î¼Ó¸èÃÔ»á±íÇé×ÔÈ»
-(0211
-14:45)
+(0211 14:45)
 ¿ìÑ¶£ºÖÓÐÀÍ©¸ÐÐ»Ã½ÌåÓëµ½³¡¸èÃÔÖ§³Ö
-(0211
-14:40)
+(0211 14:40)
 ÏêÑ¶£º°¢½¿Ì¹È»Ãæ¶ÔÃ½Ìå
 ½ñºó»ý¼«Ãæ¶ÔÈËÉú
-(0211
-14:35)
+(0211 14:35)
 ¿ìÑ¶£ºTwins¸èÃÔ»áÒÑ¾­½áÊø
 Ã½Ìå¼ÇÕß²»Ô¸Àë³¡
-(0211
-14:32)
+(0211 14:32)
 ÏêÑ¶£º°¢½¿Óë¸èÃÔ¼ûÃæÌ¬¶È×ÔÈ»
 ÐÄÇéÎ´ÊÜÓ°Ïì
-(0211
-14:30)
+(0211 14:30)
 ¿ìÑ¶£ºTwins¸èÃÔ»áÈËÍ·ÔÜ¶¯
 ´óÁ¿fansµ½´ïÏÖ³¡
-(0211
-14:28)
+(0211 14:28)
 ¿ìÑ¶£ºTwins¸èÃÔÍÅ°Ý»á
 ·ÛË¿¼á¾öÖ§³ÖÐÄÖÐÅ¼Ïñ
-(0211
-14:27)
+(0211 14:27)
 ¿ìÑ¶£º¸èÃÔ»áÏÖ³¡»ìÂÒ
 ½ü200Ãû¼ÇÕßµ½³¡
-(0211
-14:26)
+(0211 14:26)
 ¿ìÑ¶£ºTwins¸èÃÔ»áÒÑ¿ªÊ¼
 °ÙÓà¸èÃÔµ½³¡
-(0211
-14:05)
+(0211 14:05)
 Twins¸èÃÔÍÅ°Ý»á¾Û¼¯ÖÚ¶à¸èÃÔ
 ¾¯·½Î¬³ÖÖÈÐò
-(0211
-13:17)
+(0211 13:17)
 ¸ü¶àÄÚÈÝ
 Í¼Æ¬±¨µÀ
 Í¼ÎÄ£ºÖÓÐÀÍ©¸´¹¤ÒýÃ½ÌåÉ§ÂÒ--Óµ¶Â²È»µÃÅ¿Ú½ðéÙ
-(0212
-23:32)
+(0212 23:32)
 Í¼ÎÄ£ºÖÓÐÀÍ©¸´¹¤ÒýÃ½ÌåÉ§ÂÒ--Ã½Ìå×·ÎÊ²»ÑÅÕÕÏ¸½Ú
-(0212
-23:30)
+(0212 23:30)
 Í¼ÎÄ£ºÖÓÐÀÍ©¸´¹¤ÒýÃ½ÌåÉ§ÂÒ--Ã½ÌåÓµ¶ÂÈÇ°¢½¿´ó½Ð
-(0212
-23:28)
+(0212 23:28)
 Í¼ÎÄ£ºÖÓÐÀÍ©¸´¹¤ÒýÃ½ÌåÉ§ÂÒ--Ê×¶È¸´¹¤ÉñÇéÆ½µ­
-(0212
-23:26)
+(0212 23:26)
 Í¼ÎÄ£ºÖÓÐÀÍ©¸´¹¤ÒýÃ½ÌåÉ§ÂÒ--Ð»¾øÔÙÌ¸²»ÑÅÕÕ
-(0212
-23:24)
+(0212 23:24)
 Í¼ÎÄ£ºÖÓÐÀÍ©¸´¹¤ÒýÃ½ÌåÉ§ÂÒ--Ã½Ìå³¤Ç¹¶ÌÅÚ¶Ô×¼°¢½¿
-(0212
-23:17)
+(0212 23:17)
 Í¼ÎÄ£ºÖÓÐÀÍ©¸´¹¤ÒýÃ½ÌåÉ§ÂÒ--²Ì×¿åûÏÖÉíÁ¦Í¦°¢½¿
-(0212
-23:15)
+(0212 23:15)
 ×éÍ¼£ºÖÓÐÀÍ©¸´¹¤ÒýÃ½ÌåÉ§ÂÒ
 ±Õ¿Ú²»Ì¸²»ÑÅÕÕ
-(0212
-21:58)
+(0212 21:58)
 Í¼ÎÄ£º°¢½¿»ØÓ¦²»ÑÅÕÕÊÂ¼þ
 ¹ØÖÇ±óºÚÒÂ³öÏ¯
-(0211
-23:00)
+(0211 23:00)
 Í¼ÎÄ£º°¢½¿»ØÓ¦²»ÑÅÕÕÊÂ¼þ
 ÕÅÖÂºãÏò´ó¼Ò´òÕÐºô
-(0211
-22:57)
+(0211 22:57)
 ×éÍ¼£ºÅÌµã³Â¹ÚÏ£Àú½ìç³ÎÅÅ®ÓÑ¡ª¡ªÏôÑÇÐù(2)
-(0129
-18:59)
+(0129 18:59)
 ×éÍ¼£ºÅÌµã³Â¹ÚÏ£Àú½ìç³ÎÅÅ®ÓÑ¡ª¡ªÕÅ°ØÖ¥(7)
-(0129
-18:59)
+(0129 18:59)
 ×éÍ¼£ºÅÌµã³Â¹ÚÏ£Àú½ìç³ÎÅÅ®ÓÑ¡ª¡ª³ÂÎÄæÂ(3)
-(0129
-18:59)
+(0129 18:59)
 ×éÍ¼£ºÅÌµã³Â¹ÚÏ£Àú½ìç³ÎÅÅ®ÓÑ¡ª¡ªÖÓÐÀÍ©(5)
-(0129
-18:59)
+(0129 18:59)
 ×éÍ¼£ºÅÌµã³Â¹ÚÏ£Àú½ìç³ÎÅÅ®ÓÑ¡ª¡ªµËÀöÐÀ(4)
-(0129
-18:59)
+(0129 18:59)
 ×éÍ¼£ºÅÌµã³Â¹ÚÏ£Àú½ìç³ÎÅÅ®ÓÑ¡ª¡ªMaggie
 Q(1)
-(0129
-18:59)
+(0129 18:59)
 ×éÍ¼£ºÅÌµã³Â¹ÚÏ£Àú½ìç³ÎÅÅ®ÓÑ¡ª¡ªÑîÓÀÇç(10)
-(0129
-18:59)
+(0129 18:59)
 ×éÍ¼£ºÅÌµã³Â¹ÚÏ£Àú½ìç³ÎÅÅ®ÓÑ¡ª¡ª²ÌÒÀÁÖ(9)
-(0129
-18:59)
+(0129 18:59)
 ×éÍ¼£ºÅÌµã³Â¹ÚÏ£Àú½ìç³ÎÅÅ®ÓÑ¡ª¡ªÖÜÀöä¿(6)
-(0129
-18:59)
+(0129 18:59)
 ×éÍ¼£ºÅÌµã³Â¹ÚÏ£Àú½ìç³ÎÅÅ®ÓÑ¡ª¡ª»ÆÍñ¾ý(8)
-(0129
-18:59)
+(0129 18:59)
 ¸ü¶àÄÚÈÝ
 ×¨ÌâËÑË÷»Ø¹Ë
 ×¨ÌâËÑË÷
@@ -40405,406 +39094,294 @@ Q
 ÐÂÎÅ×·×Ù
 °¢½¿ÓÂ¸ÒÃæ¶Ô²»ÑÅÕÕÊÂ¼þ
 ¹ã¸æÉÌÁ¦±£´úÑÔµØÎ»
-(0213
-11:39)
+(0213 11:39)
 ÁÖÖ¾ÁáÔøÒòÊÖ»úËÍÐÞÍâÐ¹ÒþË½ÕÕ
 ¸ÐÌ¾Éç»á·çÆø
-(0213
-11:18)
+(0213 11:18)
 ÖÚÐÇÈçºÎ×ß³ö²»ÑÅÕÕ·ç²¨
 Å®ÐÇ´ó¶àÎ£¼°»éÊÂ
-(0213
-11:11)
+(0213 11:11)
 Ã÷ÐÇÃæ¶Ô·çÀË×ö·¨²»Í¬
 Ì¹³ÐÈÏ´íÓ®µÃ´óÖÚÖ§³Ö
-(0213
-11:06)
+(0213 11:06)
 Ã÷ÐÇ²»ÑÅÕÕ±»ÖÆ³É¹âÅÌ
 ÉîÛÚ½ÖÍ·½ÐÂô20ÔªÒ»ÕÅ
-(0213
-11:03)
+(0213 11:03)
 ÂÀÁ¼Î°Å­Ôð³Â¹ÚÏ£ÌÓ±ÜÔðÈÎ
 ³Å°¢½¿ÓÂ¸Ò»ØÓ¦(Í¼)
-(0213
-10:59)
+(0213 10:59)
 ÙÜÊ«Âü³Å°¢½¿ÓÂ¸Ò
 ÕÅ¾´ÐùÅÎ´óÖÚ¿íÈÝµ±ÊÂÈË(Í¼)
-(0213
-10:54)
+(0213 10:54)
 400¶àÕÅ²»ÑÅÕÕ¡°Ò»ºå¶øÉÏ¡±
 Maggie
 QÒ²ÊÜÇ£Á¬
-(0213
-10:51)
+(0213 10:51)
 ²»ÑÅÕÕ·ç²¨ºóÐø£º¹ÚÏ£°¢½¿½«³ÉÐÔÓÃÆ·ÉÌ±ê(Í¼)
-(0213
-10:50)
+(0213 10:50)
 ÈÕ±¾Å®ÐÇÁåÄ¾ÐÓ¾íÈë¡°ÑÞÕÕÃÅ¡±
 ³ÉµÚ¾ÅÎ»ÊÜº¦Õß
-(0213
-10:49)
+(0213 10:49)
 ×éÍ¼£º½ðÅÆ¾­¼ÍÈË»Æ°Ø¸ßÐ¯·½Á¦ÉêËÕÓÀ¿µµÈÆí¸£
-(0213
-10:40)
+(0213 10:40)
 Ð»öª·æÕÅ°ØÖ¥¼±°á¼Ò±Ü·çÍ·
 ¾­¼ÍÈË²»ÖªÐÂ¼ÒµØÖ·
-(0213
-10:39)
+(0213 10:39)
 ·½Á¦ÉêÈ¥°Ý¸£ÈÏÍ¬³Â¹ÚÏ£Ó¦½»´ú
 ¼á³ÆÖÓÐÀÍ©ÓÂ¸Ò
-(0213
-10:38)
+(0213 10:38)
 ÙÜÊ«Âü³öÏ¯ÉÌ³¡»î¶¯·¢ÐÂÄê²Æ
 ÔÞÖÓÐÀÍ©ÓÂ¸Ò(Í¼)
-(0213
-10:32)
+(0213 10:32)
 Ïã¸ÛËÄ³ÉÖÐÐ¡Ñ§ÉúÔø½Ó´¥²»ÑÅÕÕ
 ´óÑ§ÉúÕùÏà×·¿´
-(0213
-10:31)
+(0213 10:31)
 °¢½¿Ê×´Î»ØÓ¦²»ÑÅÕÕÊÂ¼þ
 ³Æ×Ô¼ºÒÔÇ°Ì«ÌìÕæÌ«Éµ
-(0213
-10:15)
+(0213 10:15)
 ÁÖÖ¾ÁáÎÅ²»ÑÅÕÕÆ¬É«±ä
 Îª°ÂÔËÑÝ³ª»á×ö×¼±¸(Í¼)
-(0213
-10:10)
+(0213 10:10)
 ³Â¹ÚÏ£²»ÑÅÕÕ·ç²¨ÒÉÖÐ¡°òùòðÏÀ×çÖä¡±£¿(¸½Í¼)
-(0213
-10:08)
+(0213 10:08)
 µÚ3ÃûÉæÏÓ·¢²¼Õß×ò±»¿Ø
 ·¢³¬Á´ÎÄÔ±»ñ±£ÊÍ(Í¼)
-(0213
-10:05)
+(0213 10:05)
 ÙÜÊ«ÂüÔÞ°¢½¿ÓÂ¸Ò
 ºôÓõ³Â¹ÚÏ£³öÀ´½»´ú(¸½Í¼)
-(0213
-09:57)
+(0213 09:57)
 ´«°¢½¿Ê§¹ã¸æºÏÔ¼
 ÉÌ¼Ò³ÆÆä´úÑÔÈËÉí·Ý²»±ä(Í¼)
-(0213
-09:55)
+(0213 09:55)
 ÂÀÁ¼Î°Íû³Â¹ÚÏ£ÎðÌÓ±Ü
 ³ÆÄÐÈËÓ¦¿Ïµ£µ±(Í¼)
-(0213
-09:48)
+(0213 09:48)
 °¢½¿×Ô±ÕÁ½ÖÜÊ×¶È¸´¹¤
 ÑîÊÜ³É±íÊ¾È«Á¦Ö§³Ö(Í¼)
-(0213
-09:47)
+(0213 09:47)
 °¢½¿ÉùÃ÷±»Ö¸ÄÚÈÝ¿Õ¶´
 Î´¶ÔÉç»áÓ°Ïì¸ºÔðÈÎ(Í¼)
-(0213
-09:45)
+(0213 09:45)
 ¸ÛÌØÊ×ÔøÒñÈ¨¹Ø×¢²»ÑÅÕÕÊÂ¼þ
 Ôð³É¾¯·½ÑÏÀ÷Ö´·¨
-(0213
-09:40)
+(0213 09:40)
 ´«Ð»öª·æÕÅ°ØÖ¥»éÒöÒÑÁÁºìµÆ
 ¾­¼ÍÈË½ô¼±³ÎÇå
-(0213
-09:38)
+(0213 09:38)
 ×éÍ¼£ºÑîÊÜ³É¾ÜÔù°¢½¿¹ÉÆ±³åÏ²
 ±ÜÌ¸²»ÑÅÕÕÊÂ¼þ
-(0213
-09:37)
+(0213 09:37)
 ²»ÑÅÕÕÖ÷½Ç¾ÉµúÔâ´ÙÏú
 ³Â¹ÚÏ£¸è´ÊÐ¹×ÔÅÄñ±(Í¼)
-(0213
-09:37)
+(0213 09:37)
 ²»ÑÅÕÕÆ¬ÊÂ¼þÒý¹ú¼Ê¹Ø×¢
 µÚ3ÃûÉæÏÓÕß±»¿Ø(Í¼)
-(0213
-09:30)
+(0213 09:30)
 ¸ü¶àÄÚÈÝ
 Ïà¹ØÊÓÆµ
 ÊÓÆµ£º120¶Î³Â¹ÚÏ£²»ÑÅÕÕÊÂ¼þÏà¹ØÊÓÆµ×¨¼­
-(0213
-10:45)
+(0213 10:45)
 ÊÓÆµ£º113¶Î°¢½¿²»ÑÅÕÕÊÂ¼þÏà¹ØÊÓÆµ×¨¼­
-(0213
-10:43)
+(0213 10:43)
 ÊÓÆµ£º³ÉÁú¹«Ë¾²è»°»á
 ¶Ô²»ÑÅÕÕÊÜº¦ÈË±íÊ¾¾´Åå
-(0212
-14:37)
+(0212 14:37)
 ÊÓÆµ£º°¢½¿Ê×¶È»ØÓ¦ÒÕÈË²»ÑÅÕÕÊÂ¼þ
 ³ÆÒÔÇ°ºÜÉµ
-(0212
-14:34)
+(0212 14:34)
 ÊÓÆµ£º²»ÑÅÕÕÊÂ¼þÒýÈ«Çò»ªÈË¹Ø×¢
 ¾¿¾¹Ë­Ö®¹ý
-(0211
-20:35)
+(0211 20:35)
 ÊÓÆµ£º°¢½¿ºôÓõ¸èÃÔÃÇÖ§³Ö
 Ì¬¶È×ÔÈ»²»ÊÜÓ°Ïì
-(0211
-17:41)
+(0211 17:41)
 ÊÓÆµ£ºtwins¸èÃÔ¼ûÃæ»á
 °¢½¿Ê×´Î¹«¿ªÂ¶Ãæ
-(0211
-16:59)
+(0211 16:59)
 ÊÓÆµ£º°¢½¿Ê×´Î¹«¿ªÌ¸²»ÑÅÕÕ
 ³ÆÒÔÇ°ºÜÉµºÜÌìÕæ
-(0211
-16:59)
+(0211 16:59)
 ÊÓÆµ£º°¢½¿·¢±íÉùÃ÷Ïò²»ÑÅÕÕÆ¬ÊÂ¼þÊÜº¦ÈËÖÂÇ¸
-(0211
-16:17)
+(0211 16:17)
 ÊÓÆµ£º°¢½¿Ê×¶È»ØÓ¦²»ÑÅÕÕÊÂ¼þ
 ³ÆÒÔÇ°ºÜÉµ
-(0211
-16:16)
+(0211 16:16)
 ÊÓÆµ£º°¢½¿½«¾Í²»ÑÅÕÕÆ¬·¢±íÉùÃ÷
 ÖÚÈËÃÅ¿ÚµÈºò
-(0211
-16:15)
+(0211 16:15)
 ÊÓÆµ£ºTwins½ñ¿ª¸èÃÔ»á
 °¢½¿½«Ê×´Î»ØÓ¦²»ÑÅÕÕ
-(0211
-13:18)
+(0211 13:18)
 ÊÓÆµ£º³Â¹ÚÏ£¶ÌÆ¬ÏòÊÜ²»ÑÅÕÕÓ°ÏìÈËÊ¿¹«¿ªµÀÇ¸
-(0204
-23:28)
+(0204 23:28)
 ÓéÀÖÏÖ³¡ÊÓÆµ£º»ôãëÏ£²»»ØÓ¦ÖÓÐÀÍ©²»ÑÅÕÕÊÂ¼þ
-(0202
-23:00)
+(0202 23:00)
 ÊÓÆµ£ºÖÓÐÀÍ©²»ÑÅÕÕÍøÉÏÁ÷´«
 Ó¢»ÊÎ¯ÍÐÂÉÊ¦¸ú½ø
-(0130
-12:39)
+(0130 12:39)
 ÊÓÆµ£º³Â¹ÚÏ£Ð¹Â¶Ë½ÃÜÕÕ
 Ï¸ÊýÖÚÃ÷ÐÇ±»ÒÆ»¨½ÓÄ¾
-(0129
-22:26)
+(0129 22:26)
 ¸ü¶àÄÚÈÝ
 ¸÷·½ÆÀÂÛ
 ´ò²»ËÀµÄ»ªÄÏ»¢
 Í£²»ÁËµÄ²»ÑÅÕÕ·ç²¨
-(0213
-11:56)
+(0213 11:56)
 ²»ÑÅÕÕÊÂ¼þ´Ó³Â¹ÚÏ£¿ªÊ¼µ½Ë­ÎªÖ¹£¿
-(0213
-00:11)
+(0213 00:11)
 ²éÐ¡ÐÀ£ºÃæ¶ÔÊÂÊµ£¬²»ÒªÓ¢ÐÛ»¯»òÊÜº¦»¯
-(0212
-23:54)
+(0212 23:54)
 ²éÐ¡ÐÀ£º²»ÑÅÕÕÊÂ¼þÂÒµÀÇ¸ÊÇÍÆ±ðÈËÂä»ð¿Ó
-(0212
-23:51)
+(0212 23:51)
 ²»ÑÅÕÕÃÅÉý¼¶±³ºóµÄ7´ó»ý¼«ÒâÒå
-(0212
-23:25)
+(0212 23:25)
 ÖÓÐÀÍ©¹«¿ªµÀÇ¸±³ºóµÄÈý´óÒÉ»ó(Í¼)
-(0212
-23:23)
+(0212 23:23)
 ÖÓÐÀÍ©»ñµÃÖ§³Ö
 Ë­À´°²Î¿³Â¹ÚÏ££¿
-(0212
-23:17)
+(0212 23:17)
 Twins¸èÃÔÍÅ°Ý»á°¢½¿ÉùÃ÷¼°Ïà¹ØÇé¿ö
-(0212
-23:16)
+(0212 23:16)
 °¢½¿Ê×¶È»ØÓ¦Í¸Â¶³öÈý´ó¹Ø¼üÐÅÏ¢
-(0212
-23:15)
+(0212 23:15)
 Ì··É£º°¢½¿Ä¬ÈÏÊÇÕýµÀ£¬ÎÒ¸üµ£ÐÄÕÅ°ØÖ¥
-(0212
-00:13)
+(0212 00:13)
 ÓéÀÖÈ¦ÓÐµÄ£¬³Â¹ÚÏ£ÄÇÀï¶¼ÆëÁË¡£
-(0211
-01:41)
+(0211 01:41)
 µçÄÔ³ÉµØÀ×£¬³Â¹ÚÏ£±ÈÑÏÊØÒ»¸üÞÏÞÎ
-(0211
-01:31)
+(0211 01:31)
 ÀÏº«£ºÕÕÆ¬ÃÅ--¡°ÓÞÀÖ¡±ÊÀ½çµÄ¡°º®¶¬À°ÔÂ¡±
-(0210
-18:43)
+(0210 18:43)
 ³Â¹ÚÏ£µÀÇ¸ÖÕÓÚÖ¤Ã÷ÕÕÆ¬µÄÕæÊµÐÔ
-(0205
-07:44)
+(0205 07:44)
 ÖØÇìÉÌ±¨£ºÃ÷ÐÇ²»ÑÅÕÕÊÂ¼þË­µ±×ÔÊ¡£¿
-(0205
-03:03)
+(0205 03:03)
 ³Â¹ÚÏ£ÊÓÆµµÀÇ¸±³ºóµÄÎå¸ö¹ÊÊÂ
-(0205
-00:27)
+(0205 00:27)
 ²éÐ¡ÐÀ£º²»ÑÅÕÕ·ç±©¶ÔÓéÀÖÈ¦µÄÓ°Ïì
-(0204
-15:44)
+(0204 15:44)
 Ñò³ÇÍí±¨£º²»ÑÅÕÕÊÂ¼þ£¬Ë­µ±×ÔÊ¡£¿
-(0204
-14:38)
+(0204 14:38)
 ºÎ¿àÒª¡°¸ã¿å¡±Ð»öª·æÕÅ°ØÖ¥µÄ»éÒö£¿
-(0204
-11:55)
+(0204 11:55)
 ³Â¹ÚÏ£°¢½¿²»¸Ã³ÉÎªÓßÂÛµÄÑÛÖÐ¶¤
-(0204
-11:53)
+(0204 11:53)
 ´óÑóÍø£ºÎªÊ²Ã´ÊÜÉËµÄ×ÜÊÇÓ¢»ÊÒÕÈË£¿
-(0204
-09:06)
+(0204 09:06)
 »ªÉÌ³¿±¨£º¡°ÑÞÕÕÃÅ¡±ÉËº¦ÁËË­£¿
-(0203
-17:11)
+(0203 17:11)
 Ñò³ÇÍí±¨£º¿´Ã÷ÐÇ²»ÑÅÕÕÊÂ¼þ--ÄêÇáÈËÈÝÒ×³å¶¯
-(0203
-14:30)
+(0203 14:30)
 ÆëÂ³Íí±¨£º·¢¡°²»ÑÅÕÕ¡±µÄÈËºÜ±©Á¦
-(0203
-11:49)
+(0203 11:49)
 ³Â¹ÚÏ£»Ø»÷½ÒÊ¾²»ÑÅÕÕÊÂ¼þÈý´óÄÚÇé
-(0203
-10:02)
+(0203 10:02)
 ÄÏ·½¶¼ÊÐ±¨£º²»ÑÅÕÕµÄÒÕÊõ
-(0203
-03:39)
+(0203 03:39)
 °¢½¿×ÔÅÄË½·¿ÕÕÆØ¹â(×éÍ¼)
-(0202
-17:25)
+(0202 17:25)
 ³Â¹ÚÏ£²»ÑÅÕÕÊÂ¼þÉæÏÓ¼¯ÍÅ²ß»®³´×÷
-(0202
-16:36)
+(0202 16:36)
 ³É¶¼ÉÌ±¨£ºÐÒÔÖÀÖ»öÓë±¯ÃõÍ¬ÐÐ
-(0202
-15:01)
+(0202 15:01)
 ¸ü¶àÄÚÈÝ
 ÏÖ³¡¿ìÑ¶
 ×éÍ¼£º°¢½¿»ØÓ¦²»ÑÅÕÕÊÂ¼þ
 ¾­¼ÍÈË»ôãëÏ£·¢ÑÔ
-(0211
-16:54)
+(0211 16:54)
 ×éÍ¼£º°¢½¿Ê×¶È»ØÓ¦²»ÑÅÕÕÊÂ¼þ
 Ó¾¶ùµ½³¡Ö§³Ö
-(0211
-16:44)
+(0211 16:44)
 ×éÍ¼£º°¢½¿Ê×¶È»ØÓ¦²»ÑÅÕÕÊÂ¼þ
 Ö£Ï£âùµ½³¡Ö§³Ö
-(0211
-16:37)
+(0211 16:37)
 ÏêÑ¶£º°¢½¿¸èÃÔÈ«²¿¶ÔÊÂ¼þ·â×ì
 Ä¬Ä¬Àë¿ª
-(0211
-16:08)
+(0211 16:08)
 ×éÍ¼£º°¢½¿»ØÓ¦²»ÑÅÕÕÊÂ¼þ
 ÑîÊÜ³Éµ½³¡Ö§³Ö
-(0211
-16:04)
+(0211 16:04)
 ×éÍ¼£º°¢½¿Ê×¶È»ØÓ¦ÒÕÈË²»ÑÅÕÕÊÂ¼þ
 ³ÆÒÔÇ°ºÜÉµ
-(0211
-15:19)
+(0211 15:19)
 ÏêÑ¶£ºÖÓÐÀÍ©±íÊ¾ÒªÓÂ¸ÒÃæ¶ÔÎ´À´
-(0211
-14:59)
+(0211 14:59)
 ÏêÑ¶£ºÓ¢»ÊÆìÏÂÒÕÈË´Ëºó·â¿Ú²»ÔÙÌ¸ÂÛ´ËÊÂ
-(0211
-14:48)
+(0211 14:48)
 ¿ìÑ¶£ºÖÓÐÀÍ©²Î¼Ó¸èÃÔ»á±íÇé×ÔÈ»
-(0211
-14:45)
+(0211 14:45)
 ¿ìÑ¶£ºÖÓÐÀÍ©¸ÐÐ»Ã½ÌåÓëµ½³¡¸èÃÔÖ§³Ö
-(0211
-14:40)
+(0211 14:40)
 ÏêÑ¶£º°¢½¿Ì¹È»Ãæ¶ÔÃ½Ìå
 ½ñºó»ý¼«Ãæ¶ÔÈËÉú
-(0211
-14:35)
+(0211 14:35)
 ¿ìÑ¶£ºTwins¸èÃÔ»áÒÑ¾­½áÊø
 Ã½Ìå¼ÇÕß²»Ô¸Àë³¡
-(0211
-14:32)
+(0211 14:32)
 ÏêÑ¶£º°¢½¿Óë¸èÃÔ¼ûÃæÌ¬¶È×ÔÈ»
 ÐÄÇéÎ´ÊÜÓ°Ïì
-(0211
-14:30)
+(0211 14:30)
 ¿ìÑ¶£ºTwins¸èÃÔ»áÈËÍ·ÔÜ¶¯
 ´óÁ¿fansµ½´ïÏÖ³¡
-(0211
-14:28)
+(0211 14:28)
 ¿ìÑ¶£ºTwins¸èÃÔÍÅ°Ý»á
 ·ÛË¿¼á¾öÖ§³ÖÐÄÖÐÅ¼Ïñ
-(0211
-14:27)
+(0211 14:27)
 ¿ìÑ¶£º¸èÃÔ»áÏÖ³¡»ìÂÒ
 ½ü200Ãû¼ÇÕßµ½³¡
-(0211
-14:26)
+(0211 14:26)
 ¿ìÑ¶£ºTwins¸èÃÔ»áÒÑ¿ªÊ¼
 °ÙÓà¸èÃÔµ½³¡
-(0211
-14:05)
+(0211 14:05)
 Twins¸èÃÔÍÅ°Ý»á¾Û¼¯ÖÚ¶à¸èÃÔ
 ¾¯·½Î¬³ÖÖÈÐò
-(0211
-13:17)
+(0211 13:17)
 ¸ü¶àÄÚÈÝ
 Í¼Æ¬±¨µÀ
 Í¼ÎÄ£ºÖÓÐÀÍ©¸´¹¤ÒýÃ½ÌåÉ§ÂÒ--Óµ¶Â²È»µÃÅ¿Ú½ðéÙ
-(0212
-23:32)
+(0212 23:32)
 Í¼ÎÄ£ºÖÓÐÀÍ©¸´¹¤ÒýÃ½ÌåÉ§ÂÒ--Ã½Ìå×·ÎÊ²»ÑÅÕÕÏ¸½Ú
-(0212
-23:30)
+(0212 23:30)
 Í¼ÎÄ£ºÖÓÐÀÍ©¸´¹¤ÒýÃ½ÌåÉ§ÂÒ--Ã½ÌåÓµ¶ÂÈÇ°¢½¿´ó½Ð
-(0212
-23:28)
+(0212 23:28)
 Í¼ÎÄ£ºÖÓÐÀÍ©¸´¹¤ÒýÃ½ÌåÉ§ÂÒ--Ê×¶È¸´¹¤ÉñÇéÆ½µ­
-(0212
-23:26)
+(0212 23:26)
 Í¼ÎÄ£ºÖÓÐÀÍ©¸´¹¤ÒýÃ½ÌåÉ§ÂÒ--Ð»¾øÔÙÌ¸²»ÑÅÕÕ
-(0212
-23:24)
+(0212 23:24)
 Í¼ÎÄ£ºÖÓÐÀÍ©¸´¹¤ÒýÃ½ÌåÉ§ÂÒ--Ã½Ìå³¤Ç¹¶ÌÅÚ¶Ô×¼°¢½¿
-(0212
-23:17)
+(0212 23:17)
 Í¼ÎÄ£ºÖÓÐÀÍ©¸´¹¤ÒýÃ½ÌåÉ§ÂÒ--²Ì×¿åûÏÖÉíÁ¦Í¦°¢½¿
-(0212
-23:15)
+(0212 23:15)
 ×éÍ¼£ºÖÓÐÀÍ©¸´¹¤ÒýÃ½ÌåÉ§ÂÒ
 ±Õ¿Ú²»Ì¸²»ÑÅÕÕ
-(0212
-21:58)
+(0212 21:58)
 Í¼ÎÄ£º°¢½¿»ØÓ¦²»ÑÅÕÕÊÂ¼þ
 ¹ØÖÇ±óºÚÒÂ³öÏ¯
-(0211
-23:00)
+(0211 23:00)
 Í¼ÎÄ£º°¢½¿»ØÓ¦²»ÑÅÕÕÊÂ¼þ
 ÕÅÖÂºãÏò´ó¼Ò´òÕÐºô
-(0211
-22:57)
+(0211 22:57)
 ×éÍ¼£ºÅÌµã³Â¹ÚÏ£Àú½ìç³ÎÅÅ®ÓÑ¡ª¡ªÏôÑÇÐù(2)
-(0129
-18:59)
+(0129 18:59)
 ×éÍ¼£ºÅÌµã³Â¹ÚÏ£Àú½ìç³ÎÅÅ®ÓÑ¡ª¡ªÕÅ°ØÖ¥(7)
-(0129
-18:59)
+(0129 18:59)
 ×éÍ¼£ºÅÌµã³Â¹ÚÏ£Àú½ìç³ÎÅÅ®ÓÑ¡ª¡ª³ÂÎÄæÂ(3)
-(0129
-18:59)
+(0129 18:59)
 ×éÍ¼£ºÅÌµã³Â¹ÚÏ£Àú½ìç³ÎÅÅ®ÓÑ¡ª¡ªÖÓÐÀÍ©(5)
-(0129
-18:59)
+(0129 18:59)
 ×éÍ¼£ºÅÌµã³Â¹ÚÏ£Àú½ìç³ÎÅÅ®ÓÑ¡ª¡ªµËÀöÐÀ(4)
-(0129
-18:59)
+(0129 18:59)
 ×éÍ¼£ºÅÌµã³Â¹ÚÏ£Àú½ìç³ÎÅÅ®ÓÑ¡ª¡ªMaggie
 Q(1)
-(0129
-18:59)
+(0129 18:59)
 ×éÍ¼£ºÅÌµã³Â¹ÚÏ£Àú½ìç³ÎÅÅ®ÓÑ¡ª¡ªÑîÓÀÇç(10)
-(0129
-18:59)
+(0129 18:59)
 ×éÍ¼£ºÅÌµã³Â¹ÚÏ£Àú½ìç³ÎÅÅ®ÓÑ¡ª¡ª²ÌÒÀÁÖ(9)
-(0129
-18:59)
+(0129 18:59)
 ×éÍ¼£ºÅÌµã³Â¹ÚÏ£Àú½ìç³ÎÅÅ®ÓÑ¡ª¡ªÖÜÀöä¿(6)
-(0129
-18:59)
+(0129 18:59)
 ×éÍ¼£ºÅÌµã³Â¹ÚÏ£Àú½ìç³ÎÅÅ®ÓÑ¡ª¡ª»ÆÍñ¾ý(8)
-(0129
-18:59)
+(0129 18:59)
 ¸ü¶àÄÚÈÝ
 ×¨ÌâËÑË÷»Ø¹Ë
 ×¨ÌâËÑË÷
@@ -41446,16 +40023,14 @@ DVD
 Ë¹Íú¿Ë³öÏ¯´ÈÉÆ»î¶¯
 ÎÄÈ¸Ê×Ó³
 ÊÓÆµ
-[¡¶ÎÄÈ¸¡·¼ÇÕß»á
-¶Åç÷·å½²ÊöÏã¸ÛÇé»³][ÏÖ³¡ÊÓÆµ]
+[¡¶ÎÄÈ¸¡·¼ÇÕß»á ¶Åç÷·å½²ÊöÏã¸ÛÇé»³][ÏÖ³¡ÊÓÆµ]
 Ê×Ó³ºìÌº£º[º«¹úÅ®ÐÇÆÓ¶÷»Ý±ðÖÂÀñ·þ][Ó¢¹úÅ®ÐÇ¸öÐÔ·þ×°]
 ¼ÇÕß»á£º[Âõ¿Ë-ÀîÐÂÆ¬¡¶ÎÞÓÇÎÞÂÇ¡·][Ó°Æ¬¡¶±ê×¼Á÷³Ì¡·]
 ¡¶³¤½­7ºÅ¡·Æ±·¿¹ýÒÚ
 ÇéÈË½ÚÆô¶¯¼ûÃæ»á
 [Ì¨±±Æ±·¿µÇ¶¥][Ïã¸Û½ü4000Íò][¹Ûºó¸Ðµ÷²é][Ó°ÆÀÜöÝÍ]
 [Ðì½¿Æ¬³ê´ï6Î»Êý][Ì«¿Õ¹·ÔâµÁ°æÀ§ÈÅ][Â³Ô¥ÓÐÔ¼ÖÜÐÇ³Û]
-[ºÃÐ¦ºÃ¸ÐÈËÆ¬¶Î][ÊÔÌý£ºÓ¢ÎÄÖ÷ÌâÇú
-SHE³ª¹úÓï°æ]
+[ºÃÐ¦ºÃ¸ÐÈËÆ¬¶Î][ÊÔÌý£ºÓ¢ÎÄÖ÷ÌâÇú SHE³ª¹úÓï°æ]
 ÈÈÃÅ¹Ø¼ü×Ö£º
 ´óµçÓ°2
 Í¶Ãû×´
@@ -41680,7 +40255,7 @@ LÖ®ÖÕÕÂ
 ÊÓÆµËÑË÷
 ¡¶ÃÀ°æ¹íÓ°¡·Ô¤¸æÆ¬
 Ï²¾ç¡¶°ëÖ°ÒµÑ¡ÊÖ¡·
-¾ªã¤Æ¬¡¶°ËÊ®°Ë·ÖÖÓ
+¾ªã¤Æ¬¡¶°ËÊ®°Ë·ÖÖÓ 
 ¡¶°Ý¼û²¼ÀÊÒ»¼Ò¡·Ô¤
 ÖÜ½ÜÂ××·Å®º¢¾ø¼¼
 [Æ¬»¨·ÅËÍ]
@@ -41728,8 +40303,7 @@ LÖ®ÖÕÕÂ
 Ã¤É½
 ÕÅ´¿Èç
 ¡¶·ï»Ë¡·
-¡¶
-ÓÎÏÀºìÄµµ¤¡·
+¡¶ ÓÎÏÀºìÄµµ¤¡·
 ¡¶¹þ£¡¹þ£¡¹þ£¡¡·
 ¡¶ºîÏé÷ë¡·
 ¡¶ÃÎÖ®¶Ó¡·
@@ -42042,8 +40616,7 @@ DVDµú±¨
 ÐÂÎÅ
 ËïÒÕÕä½ðÖùºÕÐ¯ÊÖÖ÷ÑÝÐÂÆ¬¡¶ÆÞ×Ó½á»éÁË¡·(Í¼)
 ×éÍ¼£º´ÞÕêæÂ´Þ³É¹úµÈ³öÏ¯¡¶´óº«ºÍÃñ¹ú¡·Ê×Ó³
-¡¶The
-Game¡·º«Æ±·¿¶á¹Ú
+¡¶The Game¡·º«Æ±·¿¶á¹Ú
 ¡¶¾«²Ê¡·¹ÛÖÚ³¬300Íò
 ÆÓÔÞÐñËÎ¿µê»ºÏ×÷ÐÂÆ¬¡¶òùòð¡·2ÔÂ½«¿ªÅÄ(¸½Í¼)
 ´¿ÇéÄÐÈËÇÄÈ»»Ø¹é
@@ -42418,223 +40991,163 @@ more
 ÐÂÎÅ±¨µÀ
 ½ðÇò½±°ä½±µäÀñ²Òµ­ÂäÄ»
 °ÂË¹¿¨Ç°¾°²»¼Ñ(Í¼)
-(0123
-01:44)
+(0123 01:44)
 ¡¶Àí·¢Ê¦ÍÐµÂ¡·ÑªÖÐÓÐÀá
 Ç¿ÄáµÂÆÕ¸èºíÁîÈË¾ªÏ²
-(0118
-11:32)
+(0118 11:32)
 ÇÇÄÉÉ­-ÈðË¹-Âõ¶ûË¹Âä°ñ²»ÒÅº¶
 ×£ºØÍ¬°ûÕª½ðÇò
-(0117
-11:36)
+(0117 11:36)
 ½ðÇò½±·¢²¼»áÊÕÊÓÂÊÌøË®
 ¹ÛÖÚ½öÎªÈ¥ÄêËÄ·ÖÖ®Ò»
-(0116
-14:29)
+(0116 14:29)
 ±à¾ç°Õ¹¤µ¼ÖÂ½ðÇò½±ÊÕÊÓÏÂ»¬
 Ó°ÏìÎ£¼°¸ñÀ³ÃÀ
-(0116
-11:42)
+(0116 11:42)
 µÚ65½ì½ðÇò½±²Òµ­ÂäÄ»
 Ë¹Æ¤¶û²®¸ñÃ÷ÄêÁì³É¾Í½±
-(0115
-19:07)
+(0115 19:07)
 Ç¿Äá-´÷ÆÕÊ×¶á½ðÇòÓ°µÛ
 Àî°²ÇáËÉÃæ¶ÔÎÞ½±(Í¼)
-(0115
-15:31)
+(0115 15:31)
 ½ðÇò½±45·ÖÖÓ²Ý²Ý½áÊø
 »ñ½±Æ¬¡¶Êê×ï¡·ÏÂÔÂµÇÂ½
-(0115
-14:36)
+(0115 14:36)
 ½ðÇò°ä½±Àñ±ä³É¼ÇÕß»á
 Ò»ÏßÃ÷ÐÇ¼Î±ö·×·×È±Ï¯
-(0115
-14:33)
+(0115 14:33)
 ¡¶Êê×ï¡·ÒÔÇéÈ¡Ê¤½ðÇò½±
 ¡¶É«£¬½ä¡·¿ÕÊÖ¶ø¹é
-(0115
-14:25)
+(0115 14:25)
 µÚ65½ì½ðÇò½±½ÒÏþ¡¶Êê×ï¡·¶á´ó½±¡¶É«½ä¡·Âä°Ü
-(0115
-14:18)
+(0115 14:18)
 65Ëê¡°½ðÇò¡±ÎÞÈËºÈ²Ê
 °ä½±ÏÖ³¡ÀäÇå½á¾Ö±¬Àä
-(0115
-14:03)
+(0115 14:03)
 ½ðÇò½±Ö÷°ì·½ËðÊ§½ü2ÒÚÈËÃñ±Ò
 Á½´óÀäÃÅÒýÕùÒé
-(0115
-13:24)
+(0115 13:24)
 ½ðÇò½±ÀäÇåÊÕ³¡
 ×î¼Ñ¾çÇéÆ¬¡¶Êê×ï¡·ÏÂÔÂµÇÂ½
-(0115
-12:02)
+(0115 12:02)
 +
 more
 ÊÓÆµ±¨µÀ
 ÊÓÆµ£ºÇÇÖÎ¿ËÂ³Äá¡¶Âõ¿Ë¶û-¿ËÀ³¶Ù¡·Ô¤¸æÆ¬
-(0131
-17:59)
+(0131 17:59)
 ÊÓÆµ£º°ÂË¹¿¨½±ÌáÃû½«¹«²¼
 ¡¶Êê×ï¡·ÊÇ¶á±êÈÈÃÅ
-(0122
-17:52)
+(0122 17:52)
 ÊÓÆµ£º°ÂË¹¿¨½±ÌáÃû½«¹«²¼
 ¡¶Êê×ï¡·ÊÇ¶á±êÈÈÃÅ
-(0122
-17:52)
+(0122 17:52)
 ÊÓÆµ£º¿Æ¶÷ÐÖµÜÊ§¿ØµÄ±©Á¦¡¶ÀÏÎÞËùÒÀ¡·Ô¤¸æÆ¬
-(1220
-18:44)
+(1220 18:44)
 ÊÓÆµ£º°ÂË¹¿¨ÈÈÃÅÓ°Æ¬¡¶×··çóÝµÄÈË¡·Ô¤¸æÆ¬
-(1220
-13:59)
+(1220 13:59)
 ÊÓÆµ£º¿­À­-ÄÎÌØÀòÖ÷ÑÝ¡¶Êê×ï¡·Ô¤¸æÆ¬
-(1214
-20:12)
+(1214 20:12)
 ÊÓÆµ£º°ÂË¹¿¨ÈÈÃÅÓ°Æ¬¡¶Î´Ñª³ñçÑ¡·Ô¤¸æÆ¬
-(1210
-15:53)
+(1210 15:53)
 ÊÓÆµ£º¡¶ÖìÅµ¡·Ô¤¸æÆ¬
 Ä¬Ä¬ÎÞÎÅµÄÉÙÅ®Ò»Ò¹´ó¶Ç
-(1204
-14:09)
+(1204 14:09)
 ÊÓÆµ£º¡¶Ç±Ë®ÖÓÓëºûµû¡·Ô¤¸æÆ¬
 ÐÄµÄ×ÔÓÉ·ÉÏè
-(1203
-14:20)
+(1203 14:20)
 ÊÓÆµ£ºÇ¿Äá-µÂÆÕÖ÷ÑÝ¡¶Àí·¢Ê¦ÌÕµÂ¡·Ô¤¸æÆ¬
-(1130
-16:26)
+(1130 16:26)
 +
 more
 ±³¾°×ÊÁÏ
 ×ÊÁÏ£ºµÚ71½ì-µÚ78½ì°ÂË¹¿¨½ðÏñ½±»ñ½±Ãûµ¥
-(0203
-14:37)
+(0203 14:37)
 ×ÊÁÏ£ºµÚ61½ì-µÚ70½ì°ÂË¹¿¨½ðÏñ½±»ñ½±Ãûµ¥
-(0203
-14:02)
+(0203 14:02)
 ×ÊÁÏ£ºµÚ51½ì-µÚ60½ì°ÂË¹¿¨½ðÏñ½±»ñ½±Ãûµ¥
-(0202
-22:59)
+(0202 22:59)
 ×ÊÁÏ£ºµÚ41½ì-µÚ50½ì°ÂË¹¿¨½ðÏñ½±»ñ½±Ãûµ¥
-(0202
-22:44)
+(0202 22:44)
 ×ÊÁÏ£ºµÚ31½ì-µÚ40½ì°ÂË¹¿¨½ðÏñ½±»ñ½±Ãûµ¥
-(0202
-22:26)
+(0202 22:26)
 ×ÊÁÏ£ºµÚ21½ì-µÚ30½ì°ÂË¹¿¨½ðÏñ½±»ñ½±Ãûµ¥
-(0202
-22:12)
+(0202 22:12)
 ×ÊÁÏ£ºµÚ11½ì-µÚ20½ì°ÂË¹¿¨½ðÏñ½±»ñ½±Ãûµ¥
-(0202
-21:56)
+(0202 21:56)
 ×ÊÁÏ£ºµÚ1½ì-µÚ10½ì°ÂË¹¿¨½ðÏñ½±»ñ½±Ãûµ¥
-(0202
-21:34)
+(0202 21:34)
 ×ÊÁÏ£º×î¼Ñ¶¯»­¶ÌÆ¬ÌáÃû-¡¶¸ë×ÓÒ²ÄÜÉÏÌìÌÃ¡·
-(0131
-22:40)
+(0131 22:40)
 ×ÊÁÏ£º°ÂË¹¿¨×î¼Ñ¼ÍÂ¼¶ÌÆ¬ÌáÃû-¡¶ÈøÀûµÄÂèÂè¡·
-(0131
-21:56)
+(0131 21:56)
 ×ÊÁÏ£º°ÂË¹¿¨×î¼Ñ¼ÍÂ¼¶ÌÆ¬ÌáÃû-¡¶ÈøÀûÄ·°Ö°Ö¡·
-(0131
-21:54)
+(0131 21:54)
 ×ÊÁÏ£º°ÂË¹¿¨×î¼Ñ¼ÍÂ¼¶ÌÆ¬ÌáÃû-¡¶»Ê¹Ú¡·
-(0131
-21:51)
+(0131 21:51)
 ×ÊÁÏ£º°ÂË¹¿¨×î¼Ñ¼ÍÂ¼¶ÌÆ¬ÌáÃû-¡¶×ÔÓÉ¿Õ¼ä¡·
-(0131
-21:48)
-×ÊÁÏ£º°ÂË¹¿¨×î¼ÑÕæÈË¶ÌÆ¬ÌáÃû-¡¶at
-night¡·
-(0131
-21:31)
+(0131 21:48)
+×ÊÁÏ£º°ÂË¹¿¨×î¼ÑÕæÈË¶ÌÆ¬ÌáÃû-¡¶at night¡·
+(0131 21:31)
 +
 more
 ·çÏò±ê
 ÔÚÏßÓ°ÊÓÆÀÂÛÐ­»á½±ÌáÃû¹«²¼
 ¡¶É«½ä¡·ËÄÏîÈëÎ§
-(0130
-09:27)
+(0130 09:27)
 ÑÝÔ±¹¤»á½±½ÒÏþ
 ¡¶ÀÏÎÞËùÒÀ¡·µÇ»ùÅ®Åä±¬Àä(Í¼)
-(0128
-12:27)
+(0128 12:27)
 ÉãÓ°Ê¦¹¤»á½±½ÒÏþ£º¡¶Î´Ñª³ñçÑ¡·±¬ÀäÉÏÎ»(Í¼)
-(0127
-20:11)
+(0127 20:11)
 ÃÀ¹úµ¼ÑÝ¹¤»á½±½ÒÏþ
 ¿Æ¶÷ÐÖµÜÎÞÐüÄî¾ýÁÙ(¸½Í¼)
-(0127
-20:03)
+(0127 20:03)
 µÚ80½ì°ÂË¹¿¨·çÏò±ê°ä½±Ê±¼ä±í
-(0126
-15:02)
+(0126 15:02)
 ÒôÏìÐ§¹û¹¤»á½±ÌáÃû½ÒÏþ
 º£µÁ¡¢ºÚ°ï²¢¼çÁìÅÜ
-(0126
-11:40)
+(0126 11:40)
 °®ºÉ»ªÓ°ÆÀÈËÐ­»á½±£º¡¶ÀÏÎÞËùÒÀ¡·ÔÚ³å´Ì(Í¼)
-(0118
-11:51)
+(0118 11:51)
 ·þ×°Éè¼Æ¹¤»á½±ÌáÃû£º¡¶300¡·ÈëÎ§×î¼Ñ·þ×°(Í¼)
-(0118
-11:40)
+(0118 11:40)
 Ó¢¹úµçÓ°Ñ§Ôº½±½ÒÏþ
 ÌÀÎ¨ÉÏ°ñ¡¶Àí·¢Ê¦¡·³ö¾Ö
-(0116
-18:40)
+(0116 18:40)
 ÖÆÆ¬ÈË¹¤»á½±ÌáÃû¹«²¼
 ½ðÇòÁ½Ê¤Õß½Ô³ö¾Ö(Í¼)
-(0116
-14:48)
+(0116 14:48)
 ¼ô¼­Ê¦¹¤»á½±ÌáÃû£º¡¶Êê×ï¡·¡¶ÄÏ¾©¡·³ö°ñ(Í¼)
-(0114
-14:31)
+(0114 14:31)
 ¶íº¥¶íÖÐ²¿Ó°ÆÀÈËÐ­»á½±£º¡¶ÀÏÎÞËùÒÀ¡·³Æ°Ô
-(0114
-14:25)
+(0114 14:25)
 Â¼ÒôÊ¦¹¤»á½±ÌáÃû
 ¡¶µýÓ°3¡·¡¶±äÐÎ½ð¸Õ¡·ÊÜ³è
-(0111
-15:25)
+(0111 15:25)
 ±à¾ç¹¤»á½±ÌáÃû½ÒÏþ
 ¡¶ÄÏ¾©¡·³öºõÒâÁÏÈëÎ§(Í¼)
-(0111
-15:14)
+(0111 15:14)
 +
 more
 Ã½ÌåÆÀÂÛ
 ÐÂÎÅ³¿±¨£ºÓÐÁË°ÂË¹¿¨ÈÕ×Ó¸üºÃ¹ý
-(0128
-03:00)
+(0128 03:00)
 ÖÐ¹úÓ°Æ¬³å»÷°ÂË¹¿¨£ºÒ»³¡ÂÅ°ÜÂÅÕ½µÄÕ½ÒÛ
-(0124
-17:33)
+(0124 17:33)
 °ÂË¹¿¨½ñÄêºÜÏÖÊµ
 ÖÓÇéÆ½ÃñÉóÊÓÉç»áÎÊÌâ(Í¼)
-(0124
-05:01)
+(0124 05:01)
 ½ðÇò½±°ä½±µäÀñ²Òµ­ÂäÄ»
 °ÂË¹¿¨Ç°¾°²»¼Ñ(Í¼)
-(0123
-01:44)
+(0123 01:44)
 ¶¼ÊÐ¿ì±¨£º½ñÄê°ÂË¹¿¨ÒÑ¾­Ã»ÖÐ¹úµçÓ°Ê²Ã´ÊÂÁË
-(0117
-04:10)
+(0117 04:10)
 ½ðÇò½±²¢·Ç°ÂË¹¿¨·çÏò±ê
 ¡°·çÏò¡±Ö®ËµÎÞÆ¾ÎÞ¾Ý
-(0115
-14:12)
+(0115 14:12)
 ÆÀÂÛ£ºÌåÖÆ²©ÞÄÉÐÐèÊ±ÈÕ
 °ÂË¹¿¨°ä½±Àñ±ØÊÜÓ°Ïì
-(0111
-18:32)
+(0111 18:32)
 +
 more
 ÍøÓÑÆÀÂÛ
@@ -42934,223 +41447,163 @@ more
 ÐÂÎÅ±¨µÀ
 ½ðÇò½±°ä½±µäÀñ²Òµ­ÂäÄ»
 °ÂË¹¿¨Ç°¾°²»¼Ñ(Í¼)
-(0123
-01:44)
+(0123 01:44)
 ¡¶Àí·¢Ê¦ÍÐµÂ¡·ÑªÖÐÓÐÀá
 Ç¿ÄáµÂÆÕ¸èºíÁîÈË¾ªÏ²
-(0118
-11:32)
+(0118 11:32)
 ÇÇÄÉÉ­-ÈðË¹-Âõ¶ûË¹Âä°ñ²»ÒÅº¶
 ×£ºØÍ¬°ûÕª½ðÇò
-(0117
-11:36)
+(0117 11:36)
 ½ðÇò½±·¢²¼»áÊÕÊÓÂÊÌøË®
 ¹ÛÖÚ½öÎªÈ¥ÄêËÄ·ÖÖ®Ò»
-(0116
-14:29)
+(0116 14:29)
 ±à¾ç°Õ¹¤µ¼ÖÂ½ðÇò½±ÊÕÊÓÏÂ»¬
 Ó°ÏìÎ£¼°¸ñÀ³ÃÀ
-(0116
-11:42)
+(0116 11:42)
 µÚ65½ì½ðÇò½±²Òµ­ÂäÄ»
 Ë¹Æ¤¶û²®¸ñÃ÷ÄêÁì³É¾Í½±
-(0115
-19:07)
+(0115 19:07)
 Ç¿Äá-´÷ÆÕÊ×¶á½ðÇòÓ°µÛ
 Àî°²ÇáËÉÃæ¶ÔÎÞ½±(Í¼)
-(0115
-15:31)
+(0115 15:31)
 ½ðÇò½±45·ÖÖÓ²Ý²Ý½áÊø
 »ñ½±Æ¬¡¶Êê×ï¡·ÏÂÔÂµÇÂ½
-(0115
-14:36)
+(0115 14:36)
 ½ðÇò°ä½±Àñ±ä³É¼ÇÕß»á
 Ò»ÏßÃ÷ÐÇ¼Î±ö·×·×È±Ï¯
-(0115
-14:33)
+(0115 14:33)
 ¡¶Êê×ï¡·ÒÔÇéÈ¡Ê¤½ðÇò½±
 ¡¶É«£¬½ä¡·¿ÕÊÖ¶ø¹é
-(0115
-14:25)
+(0115 14:25)
 µÚ65½ì½ðÇò½±½ÒÏþ¡¶Êê×ï¡·¶á´ó½±¡¶É«½ä¡·Âä°Ü
-(0115
-14:18)
+(0115 14:18)
 65Ëê¡°½ðÇò¡±ÎÞÈËºÈ²Ê
 °ä½±ÏÖ³¡ÀäÇå½á¾Ö±¬Àä
-(0115
-14:03)
+(0115 14:03)
 ½ðÇò½±Ö÷°ì·½ËðÊ§½ü2ÒÚÈËÃñ±Ò
 Á½´óÀäÃÅÒýÕùÒé
-(0115
-13:24)
+(0115 13:24)
 ½ðÇò½±ÀäÇåÊÕ³¡
 ×î¼Ñ¾çÇéÆ¬¡¶Êê×ï¡·ÏÂÔÂµÇÂ½
-(0115
-12:02)
+(0115 12:02)
 +
 more
 ÊÓÆµ±¨µÀ
 ÊÓÆµ£ºÇÇÖÎ¿ËÂ³Äá¡¶Âõ¿Ë¶û-¿ËÀ³¶Ù¡·Ô¤¸æÆ¬
-(0131
-17:59)
+(0131 17:59)
 ÊÓÆµ£º°ÂË¹¿¨½±ÌáÃû½«¹«²¼
 ¡¶Êê×ï¡·ÊÇ¶á±êÈÈÃÅ
-(0122
-17:52)
+(0122 17:52)
 ÊÓÆµ£º°ÂË¹¿¨½±ÌáÃû½«¹«²¼
 ¡¶Êê×ï¡·ÊÇ¶á±êÈÈÃÅ
-(0122
-17:52)
+(0122 17:52)
 ÊÓÆµ£º¿Æ¶÷ÐÖµÜÊ§¿ØµÄ±©Á¦¡¶ÀÏÎÞËùÒÀ¡·Ô¤¸æÆ¬
-(1220
-18:44)
+(1220 18:44)
 ÊÓÆµ£º°ÂË¹¿¨ÈÈÃÅÓ°Æ¬¡¶×··çóÝµÄÈË¡·Ô¤¸æÆ¬
-(1220
-13:59)
+(1220 13:59)
 ÊÓÆµ£º¿­À­-ÄÎÌØÀòÖ÷ÑÝ¡¶Êê×ï¡·Ô¤¸æÆ¬
-(1214
-20:12)
+(1214 20:12)
 ÊÓÆµ£º°ÂË¹¿¨ÈÈÃÅÓ°Æ¬¡¶Î´Ñª³ñçÑ¡·Ô¤¸æÆ¬
-(1210
-15:53)
+(1210 15:53)
 ÊÓÆµ£º¡¶ÖìÅµ¡·Ô¤¸æÆ¬
 Ä¬Ä¬ÎÞÎÅµÄÉÙÅ®Ò»Ò¹´ó¶Ç
-(1204
-14:09)
+(1204 14:09)
 ÊÓÆµ£º¡¶Ç±Ë®ÖÓÓëºûµû¡·Ô¤¸æÆ¬
 ÐÄµÄ×ÔÓÉ·ÉÏè
-(1203
-14:20)
+(1203 14:20)
 ÊÓÆµ£ºÇ¿Äá-µÂÆÕÖ÷ÑÝ¡¶Àí·¢Ê¦ÌÕµÂ¡·Ô¤¸æÆ¬
-(1130
-16:26)
+(1130 16:26)
 +
 more
 ±³¾°×ÊÁÏ
 ×ÊÁÏ£ºµÚ71½ì-µÚ78½ì°ÂË¹¿¨½ðÏñ½±»ñ½±Ãûµ¥
-(0203
-14:37)
+(0203 14:37)
 ×ÊÁÏ£ºµÚ61½ì-µÚ70½ì°ÂË¹¿¨½ðÏñ½±»ñ½±Ãûµ¥
-(0203
-14:02)
+(0203 14:02)
 ×ÊÁÏ£ºµÚ51½ì-µÚ60½ì°ÂË¹¿¨½ðÏñ½±»ñ½±Ãûµ¥
-(0202
-22:59)
+(0202 22:59)
 ×ÊÁÏ£ºµÚ41½ì-µÚ50½ì°ÂË¹¿¨½ðÏñ½±»ñ½±Ãûµ¥
-(0202
-22:44)
+(0202 22:44)
 ×ÊÁÏ£ºµÚ31½ì-µÚ40½ì°ÂË¹¿¨½ðÏñ½±»ñ½±Ãûµ¥
-(0202
-22:26)
+(0202 22:26)
 ×ÊÁÏ£ºµÚ21½ì-µÚ30½ì°ÂË¹¿¨½ðÏñ½±»ñ½±Ãûµ¥
-(0202
-22:12)
+(0202 22:12)
 ×ÊÁÏ£ºµÚ11½ì-µÚ20½ì°ÂË¹¿¨½ðÏñ½±»ñ½±Ãûµ¥
-(0202
-21:56)
+(0202 21:56)
 ×ÊÁÏ£ºµÚ1½ì-µÚ10½ì°ÂË¹¿¨½ðÏñ½±»ñ½±Ãûµ¥
-(0202
-21:34)
+(0202 21:34)
 ×ÊÁÏ£º×î¼Ñ¶¯»­¶ÌÆ¬ÌáÃû-¡¶¸ë×ÓÒ²ÄÜÉÏÌìÌÃ¡·
-(0131
-22:40)
+(0131 22:40)
 ×ÊÁÏ£º°ÂË¹¿¨×î¼Ñ¼ÍÂ¼¶ÌÆ¬ÌáÃû-¡¶ÈøÀûµÄÂèÂè¡·
-(0131
-21:56)
+(0131 21:56)
 ×ÊÁÏ£º°ÂË¹¿¨×î¼Ñ¼ÍÂ¼¶ÌÆ¬ÌáÃû-¡¶ÈøÀûÄ·°Ö°Ö¡·
-(0131
-21:54)
+(0131 21:54)
 ×ÊÁÏ£º°ÂË¹¿¨×î¼Ñ¼ÍÂ¼¶ÌÆ¬ÌáÃû-¡¶»Ê¹Ú¡·
-(0131
-21:51)
+(0131 21:51)
 ×ÊÁÏ£º°ÂË¹¿¨×î¼Ñ¼ÍÂ¼¶ÌÆ¬ÌáÃû-¡¶×ÔÓÉ¿Õ¼ä¡·
-(0131
-21:48)
-×ÊÁÏ£º°ÂË¹¿¨×î¼ÑÕæÈË¶ÌÆ¬ÌáÃû-¡¶at
-night¡·
-(0131
-21:31)
+(0131 21:48)
+×ÊÁÏ£º°ÂË¹¿¨×î¼ÑÕæÈË¶ÌÆ¬ÌáÃû-¡¶at night¡·
+(0131 21:31)
 +
 more
 ·çÏò±ê
 ÔÚÏßÓ°ÊÓÆÀÂÛÐ­»á½±ÌáÃû¹«²¼
 ¡¶É«½ä¡·ËÄÏîÈëÎ§
-(0130
-09:27)
+(0130 09:27)
 ÑÝÔ±¹¤»á½±½ÒÏþ
 ¡¶ÀÏÎÞËùÒÀ¡·µÇ»ùÅ®Åä±¬Àä(Í¼)
-(0128
-12:27)
+(0128 12:27)
 ÉãÓ°Ê¦¹¤»á½±½ÒÏþ£º¡¶Î´Ñª³ñçÑ¡·±¬ÀäÉÏÎ»(Í¼)
-(0127
-20:11)
+(0127 20:11)
 ÃÀ¹úµ¼ÑÝ¹¤»á½±½ÒÏþ
 ¿Æ¶÷ÐÖµÜÎÞÐüÄî¾ýÁÙ(¸½Í¼)
-(0127
-20:03)
+(0127 20:03)
 µÚ80½ì°ÂË¹¿¨·çÏò±ê°ä½±Ê±¼ä±í
-(0126
-15:02)
+(0126 15:02)
 ÒôÏìÐ§¹û¹¤»á½±ÌáÃû½ÒÏþ
 º£µÁ¡¢ºÚ°ï²¢¼çÁìÅÜ
-(0126
-11:40)
+(0126 11:40)
 °®ºÉ»ªÓ°ÆÀÈËÐ­»á½±£º¡¶ÀÏÎÞËùÒÀ¡·ÔÚ³å´Ì(Í¼)
-(0118
-11:51)
+(0118 11:51)
 ·þ×°Éè¼Æ¹¤»á½±ÌáÃû£º¡¶300¡·ÈëÎ§×î¼Ñ·þ×°(Í¼)
-(0118
-11:40)
+(0118 11:40)
 Ó¢¹úµçÓ°Ñ§Ôº½±½ÒÏþ
 ÌÀÎ¨ÉÏ°ñ¡¶Àí·¢Ê¦¡·³ö¾Ö
-(0116
-18:40)
+(0116 18:40)
 ÖÆÆ¬ÈË¹¤»á½±ÌáÃû¹«²¼
 ½ðÇòÁ½Ê¤Õß½Ô³ö¾Ö(Í¼)
-(0116
-14:48)
+(0116 14:48)
 ¼ô¼­Ê¦¹¤»á½±ÌáÃû£º¡¶Êê×ï¡·¡¶ÄÏ¾©¡·³ö°ñ(Í¼)
-(0114
-14:31)
+(0114 14:31)
 ¶íº¥¶íÖÐ²¿Ó°ÆÀÈËÐ­»á½±£º¡¶ÀÏÎÞËùÒÀ¡·³Æ°Ô
-(0114
-14:25)
+(0114 14:25)
 Â¼ÒôÊ¦¹¤»á½±ÌáÃû
 ¡¶µýÓ°3¡·¡¶±äÐÎ½ð¸Õ¡·ÊÜ³è
-(0111
-15:25)
+(0111 15:25)
 ±à¾ç¹¤»á½±ÌáÃû½ÒÏþ
 ¡¶ÄÏ¾©¡·³öºõÒâÁÏÈëÎ§(Í¼)
-(0111
-15:14)
+(0111 15:14)
 +
 more
 Ã½ÌåÆÀÂÛ
 ÐÂÎÅ³¿±¨£ºÓÐÁË°ÂË¹¿¨ÈÕ×Ó¸üºÃ¹ý
-(0128
-03:00)
+(0128 03:00)
 ÖÐ¹úÓ°Æ¬³å»÷°ÂË¹¿¨£ºÒ»³¡ÂÅ°ÜÂÅÕ½µÄÕ½ÒÛ
-(0124
-17:33)
+(0124 17:33)
 °ÂË¹¿¨½ñÄêºÜÏÖÊµ
 ÖÓÇéÆ½ÃñÉóÊÓÉç»áÎÊÌâ(Í¼)
-(0124
-05:01)
+(0124 05:01)
 ½ðÇò½±°ä½±µäÀñ²Òµ­ÂäÄ»
 °ÂË¹¿¨Ç°¾°²»¼Ñ(Í¼)
-(0123
-01:44)
+(0123 01:44)
 ¶¼ÊÐ¿ì±¨£º½ñÄê°ÂË¹¿¨ÒÑ¾­Ã»ÖÐ¹úµçÓ°Ê²Ã´ÊÂÁË
-(0117
-04:10)
+(0117 04:10)
 ½ðÇò½±²¢·Ç°ÂË¹¿¨·çÏò±ê
 ¡°·çÏò¡±Ö®ËµÎÞÆ¾ÎÞ¾Ý
-(0115
-14:12)
+(0115 14:12)
 ÆÀÂÛ£ºÌåÖÆ²©ÞÄÉÐÐèÊ±ÈÕ
 °ÂË¹¿¨°ä½±Àñ±ØÊÜÓ°Ïì
-(0111
-18:32)
+(0111 18:32)
 +
 more
 ÍøÓÑÆÀÂÛ
@@ -43242,14 +41695,9 @@ Reserved
 µã»÷½øÈëÊÓÆµ¼¯>>>
 ¶À¼Ò×¨·Ã£ºÁÖÎõÀÙ¿´ºÃ¡¶ÎÄÈ¸¡·°ØÁÖÇÜÐÜ
 ÊÓÆµ
-[¡¶ÎÄÈ¸¡·°ØÁÖ¼ÇÕß»á
-¶Åç÷·å½²ÊöÏã¸ÛÇé»³
-ÏÖ³¡ÊÓÆµ]
-[Ó¢¹úµ¼ÑÝÂõ¿Ë-ÀîÐ¯¡¶ÎÞÓÇÎÞÂÇ¡·ÁÁÏà¼ÇÕß»á
-Ê×Ó³ºìÌº]
-[¡¶Ò¹ÍíºÍ°×Ìì¡·Ê×Ó³
-ÆÓ¶÷»Ý±ðÖÂÀñ·þ
-¡¶±ê×¼Á÷³Ì¡·¼ÇÕß»á]
+[¡¶ÎÄÈ¸¡·°ØÁÖ¼ÇÕß»á ¶Åç÷·å½²ÊöÏã¸ÛÇé»³ ÏÖ³¡ÊÓÆµ]
+[Ó¢¹úµ¼ÑÝÂõ¿Ë-ÀîÐ¯¡¶ÎÞÓÇÎÞÂÇ¡·ÁÁÏà¼ÇÕß»á Ê×Ó³ºìÌº]
+[¡¶Ò¹ÍíºÍ°×Ìì¡·Ê×Ó³ ÆÓ¶÷»Ý±ðÖÂÀñ·þ ¡¶±ê×¼Á÷³Ì¡·¼ÇÕß»á]
 °ØÁÖÈÕ³Ì
 ½ñÈÕÖ÷µ¥Ôª
 £º¡¶Äþ¾²µÄ»ìÂÒ¡·
@@ -43334,9 +41782,7 @@ Reserved
 ÒÕÊõÐÔÔÚÈý´óµçÓ°½ÚÖÐ²»×ã
 »ªÓïÆ¬µÄ¸£µØ
 ¹Ø×¢¶È²»¼°ê©ÄÉºÍÍþÄáË¹
-{
-»ªÓïÆ¬¡¶ÎÄÈ¸¡·Ê×Ó³ºìÌº
-}
+{ »ªÓïÆ¬¡¶ÎÄÈ¸¡·Ê×Ó³ºìÌº }
 >>>>>>¸ü¶à
 ¶Åç÷·å
 ÈÎ´ï»ª
@@ -43344,9 +41790,7 @@ Reserved
 ÈÎ´ï»ªçùçù·ò¸¾
 Êæä¿
 ÈÎ´ï»ªÁÖÎõÀÙ
-{
-°ØÁÖµçÓ°½ÚµçÓ°Ê×Ó³ºìÌº
-}
+{ °ØÁÖµçÓ°½ÚµçÓ°Ê×Ó³ºìÌº }
 >>>>>>¸ü¶à
 ¡¶»¨Ô°ÀïµÄÓ©»ð³æ¡·
 ¡¶Íì¸è¡·
@@ -43354,9 +41798,7 @@ Reserved
 ¡¶Ì«ºÆºþ¡·
 ¡¶ÖìÀòæ«¡·
 ¡¶µçÓ°ÎªºÍÆ½¡·
-{
-ÄÚµØ²ÎÈüÆ¬¡¶×óÓÒ¡·ÕÀ·Å°ØÁÖ
-}
+{ ÄÚµØ²ÎÈüÆ¬¡¶×óÓÒ¡·ÕÀ·Å°ØÁÖ }
 >>>>>>¸ü¶à
 Ö÷´´ÁÁÏàºìÌº
 µ¼ÑÝÍõÐ¡Ë§
@@ -43364,10 +41806,7 @@ Reserved
 Å®Ö÷½ÇÁõÍþÝÚ
 Ö÷ÑÝ³ÉÌ©Ÿö
 ÖÆÆ¬ÈË»Æ±ó
-{
-¿ªÄ»ºìÌºÐÇ¹â
-Êæä¿ºìÈ¹ÇÀÑÛ
-}
+{ ¿ªÄ»ºìÌºÐÇ¹â Êæä¿ºìÈ¹ÇÀÑÛ }
 >>>>>>¸ü¶à
 Ö÷¾ºÈüµ¥ÔªÆÀÎ¯»á
 ÆÀÎ¯£ºÌ¨ÍåÅ®ÐÇÊæä¿
@@ -43375,9 +41814,7 @@ Reserved
 µçÓ°½ÚÖ÷Ï¯µÏÌØ
 ÃÀ¹úÅ®ÐÇ¸èµÙ-º«
 µÂ¹úÄÐÐÇµ¤Äá¶û
-{
-¹öÊ¯ÀÖ¶Ó¡¶ÉÁÁÁÖ®¹â¡·½ÒÄ»°ØÁÖ
-}
+{ ¹öÊ¯ÀÖ¶Ó¡¶ÉÁÁÁÖ®¹â¡·½ÒÄ»°ØÁÖ }
 >>>>>>¸ü¶à
 Ã×¿Ë-¼Ö¸ñ¶û
 µ¼ÑÝÂí¶¡-Ë¹¿ÆÈûË¹
@@ -43385,9 +41822,7 @@ Reserved
 ¹öÊ¯³ÉÔ±¿­Ë¹
 ¹öÊ¯³ÉÔ±ÈÙ-ÎéµÂ
 ¹öÊ¯³ÉÔ±²éÀí-ÎÖ´Ä
-{
-Ïê½â°ØÁÖ¸÷´óµ¥Ôª
-}
+{ Ïê½â°ØÁÖ¸÷´óµ¥Ôª }
 -
 Ö÷¾ºÈüµ¥Ôª
 -
@@ -43481,9 +41916,7 @@ Generation¡±µ¥Ôª
 ¡¶ÍõÅÆÖÆÆ¬¼Ò¡·
 »¨Ô°ÀïµÄÓ©»ð³æ
 ¡¶ð¯Õ¼Èµ³²¡·
-{
-Ö÷¾ºÈüµ¥Ôª°ËÈËÆÀÎ¯»á
-}
+{ Ö÷¾ºÈüµ¥Ôª°ËÈËÆÀÎ¯»á }
 ÕâÀïÊÇ±êÌâ1
 1
 2
@@ -43528,9 +41961,7 @@ Generation¡±µ¥Ôª
 ¼ÖÕÁ¿ÂÎª³õÈëÐÐÕßÖ§ÕÐ
 ¼ÖÕÁ¿ÂÔÚ¡°Ìì²ÅÑµÁ·Óª¡±ÉÏºÍÀ´×ÔÊÀ½ç¸÷µØÓÐÖ¾ÓÚÅÄÉãµçÓ°µÄ¡°Ìì²Å¡±¶Ô»°¡£ËûÓëËûÃÇÌ½ÌÖÅÄÆ¬µÄÀ§¾³£¬ÃèÊö³öµ±½ñÖÐ¹úÅÄÉãµçÓ°µÄ¡­¡­
 [È«ÎÄ]
-{
-»ªÓïµçÓ°µÄ°ØÁÖÕ½¼¨
-}
+{ »ªÓïµçÓ°µÄ°ØÁÖÕ½¼¨ }
 ºì¸ßÁ»
 µÚÈýÊ®°Ë½ì½ðÐÜ½±
 ÍíÖÓ
@@ -43564,535 +41995,382 @@ Generation¡±µ¥Ôª
 ÐÂÎÅ±¨µÀ
 °ØÁÖµçÓ°½Ú¹ÎÖÐ¹ú·ç
 ÖÐÉ½×°¶ÐÃæ³ñÏÔ¶«·½÷ÈÁ¦
-(0213
-11:50)
+(0213 11:50)
 ÍõÐ¡Ë§Ô¶¸°µÂ¹ú´³ÊÐ³¡
 ¡¶×óÓÒ¡·´óÈÈ°ØÁÖµçÓ°½Ú
-(0213
-11:26)
+(0213 11:26)
 ³ÉÌ©Ÿö°ØÁÖÊ×¿´¡¶×óÓÒ¡·
 ¡°ÀÏÐ»¡±¸Ð¶¯ÊÀ½ç(Í¼)
-(0213
-11:23)
+(0213 11:23)
 ¡¶×óÓÒ¡·Ê×Ó³·´ÏìÈÈÁÒ
 ÍõÐ¡Ë§7ÄêºóÔÙÕù½ðÐÜ
-(0213
-10:56)
+(0213 10:56)
 Êæä¿Ä¨ÐØÀñ·þ¾ªÑÞÁÁÏà°ØÁÖ
 ±»³ÆÎª×îÐÔ¸ÐÅ®Ê¿
-(0213
-10:41)
+(0213 10:41)
 ¡¶ÎÄÈ¸¡·ÁÁÏà°ØÁÖµçÓ°½Ú
 ½²Êö¶Åç÷·åµÄÏã¸ÛÇé»³
-(0213
-10:37)
+(0213 10:37)
 Êæä¿°ØÁÖÖúÕó¡¶ÎÄÈ¸¡·
 °ä½±Ç°·¸¹æ½²¹Ûºó¸Ð(Í¼)
-(0213
-10:35)
+(0213 10:35)
 ¡¶ÎÄÈ¸¡·ÁÁÏà°ØÁÖ
 ÈÎ´ï»ªÐ¯ÆÞ°ØÁÖºìÌºÉ¹¶÷°®
-(0213
-10:33)
+(0213 10:33)
 ×éÍ¼£ºÕÅ×÷æ÷µ¼ÑÝ³Å–ÊÕÈ
 Ð¯Ö÷½ÇÐû´«¡¶ºûµû¡·
-(0213
-10:31)
+(0213 10:31)
 ¶Åç÷·å°ØÁÖ¾ÙÐÐ¼ÇÕß»á
 ºä¸Û¸®ÆÆ»µ¾ÉÓÐ¾°Îï(Í¼)
-(0213
-10:22)
+(0213 10:22)
 °ØÁÖÉÏ¿Õ¡¶ÎÄÈ¸¡·Õ¹³á
 ÈÎ´ï»ªçùçùÁÖÎõÀÙÆëÁÁÏà
-(0213
-10:11)
+(0213 10:11)
 Êæä¿°ØÁÖÖúÕó¡¶ÎÄÈ¸¡·
 ºÚÉ«Àñ·þÏÔ¶Ë×¯(¸½Í¼)
-(0213
-10:06)
+(0213 10:06)
 ¡¶×óÓÒ¡·ÓÐÍû°ØÁÖÇÜÐÜ
 ÍõÐ¡Ë§¶ÔÓ°Æ¬Æ±·¿ÓÐÐÅÐÄ
-(0213
-09:51)
+(0213 09:51)
 ¹ú¼Ê¼¶µ¼ÑÝ°²¶«Äá-Ã÷¸ñÀ­
 ÈÎ½ð¾ô½±ÆÀÉóÍÅÖ÷Ï¯
-(0213
-09:44)
+(0213 09:44)
 ÉÏº£¹ú¼ÊµçÓ°½Ú°ØÁÖÔìÊÆ
 °²¶«Äá¡°Ö÷Õþ¡±½ð¾ô
-(0213
-09:43)
+(0213 09:43)
 ½ñÄê¡°½ðÐÜ¡±ÔâÓö¡°ÐÜÊÐ¡±
 Èü³Ì¹ý°ë¼ÑÆ¬ÁÈÁÈ
-(0213
-09:41)
+(0213 09:41)
 ÁÖÎõÀÙ¿´ºÃ¡¶ÎÄÈ¸¡·
 ÆØ×îÏëºÍ¼ÖÕÁ¿ÂºÏ×÷(Í¼)
-(0213
-09:33)
+(0213 09:33)
 ¡¶ÎÄÈ¸¡·Õ¹³á°ØÁÖ
 ÈÎ´ï»ªÁÖÎõÀÙ³öÏ¯Ê×Ó³Àñ(Í¼)
-(0213
-09:25)
+(0213 09:25)
 ¡¶ÁíÒ»¸ö²¨ÁÕ¼ÒµÄÅ®º¢¡·±¾ÔÂ15ÈÕ½«ÁÁÏà°ØÁÖ
-(0213
-09:24)
+(0213 09:24)
 ¡¶ÉñÌ½¡·½øÄÚµØÓÐÉ¾½Ú
 ¶Åç÷·å°ØÁÖÊ×Ó³¡¶ÎÄÈ¸¡·
-(0213
-08:55)
+(0213 08:55)
 ÁõÍþÝÚ°ØÁÖÎªÔÓÖ¾ÅÄÕÕ
 Ó¢Â×·ç¸ñÑÞÀö¶¯ÈË(Í¼)
-(0213
-08:22)
+(0213 08:22)
 ÍõÐ¡Ë§¡¶×óÓÒ¡·ÁÁÏà°ØÁÖ
 ÆÚ´ý»ñµÃ¹úÄÚÊÐ³¡ÈÏ¿É
-(0213
-07:53)
+(0213 07:53)
 ²ÎÈüÆ¬¡¶ÎÞÓÇÎÞÂÇ¡·Ê×Ó³
 Ó¢¹úÅ®ÐÇºìÌº´òÍ·Õó(Í¼)
-(0213
-04:23)
+(0213 04:23)
 Ó¢¹úµ¼ÑÝÂõ¿Ë-ÀîÐ¯¡¶ÎÞÓÇÎÞÂÇ¡·³öÏ¯¼ÇÕß»á(Í¼)
-(0213
-04:17)
+(0213 04:17)
 ¡¶Ò¹ÍíºÍ°×Ìì¡·Ê×Ó³
 ÆÓ¶÷»Ý±ðÖÂÀñ·þ³É½¹µã(Í¼)
-(0213
-04:09)
+(0213 04:09)
 ×éÍ¼£º¡¶±ê×¼Á÷³Ì¡·¼ÇÕß»á
 µ¼ÑÝÖÆÆ¬¹Âµ¥¶ÔÃ½Ìå
-(0213
-03:34)
+(0213 03:34)
 ×éÍ¼£ºÏ£À­Àï-Ë¹Íú¿ËÓÅÑÅ³öÏ¯ºÍÆ½µçÓ°´ÈÉÆ»î¶¯
-(0213
-03:00)
+(0213 03:00)
 ¡¶Ò¹ÍíÓë°×Ìì¡·¼ÇÕß»á
 ÆÓ¶÷»ÝÕ¹ÌðÃÀÐ¦ÈÝ(×éÍ¼)
-(0213
-02:08)
+(0213 02:08)
 ¶Åç÷·å¡¶ÎÄÈ¸¡·×òÈÕÁè³¿°ØÁÖµçÓ°½ÚÊ×Ó³(¸½Í¼)
-(0213
-00:57)
+(0213 00:57)
 ¸ü¶àÄÚÈÝ
 ¸÷·½ÈÈÆÀ
 ³É¶¼Íí±¨£º»ªÓïµçÓ°ÄÜ·ñ¡°Å£ÊÐ¡±µ½µ×£¿
-(0213
-11:46)
+(0213 11:46)
 ÆÀÂÛ£º¡¶×óÓÒ¡·ÈÃ¹ÛÖÚ×ß½üÖÐ¹ú
-(0212
-12:54)
+(0212 12:54)
 ·¨ÐÂÉçÆÀ¡¶×óÓÒ¡·£ºÌøÍÑÉ¿Çéñ½¾ÊµÄÇé¸Ð¼ÑÆ¬
-(0212
-10:37)
+(0212 10:37)
 ¡¶Ó£»¨¡·¶À¼ÒÓ°ÆÀ£ºÀÏÄêÉ¥Å¼µÄ±¯ÉË
-(0212
-05:58)
+(0212 05:58)
 ¶À¼Ò£º¡¶Íì¸è¡·ÈâÉíµÄÍì¸è£¬Òà»ò°®ÇéµÄÍì¸è£¿
-(0211
-16:42)
+(0211 16:42)
 °ØÁÖµçÓ°½Ú¾ºÈüÆ¬É¨Ãè
 ÍõÐ¡Ë§¶Åç÷·å¾ºÕùÁ¦·ÖÎö
-(0129
-12:03)
+(0129 12:03)
 µØµÀÏã¸ÛÈËÇéÌØÉ«½«¼ÌÐø×ßÇÎ°ØÁÖ¹ú¼ÊµçÓ°½Ú
-(0129
-12:03)
+(0129 12:03)
 °ØÁÖµçÓ°½Ú»ªÓïÆ¬ÃæÁÙÈýÖ»´óÏó¹ÉÌôÕ½(×éÍ¼)(2)
-(0129
-01:22)
+(0129 01:22)
 °ØÁÖµçÓ°½Ú»ªÓïÆ¬ÃæÁÙÈýÖ»´óÏó¹ÉÌôÕ½(×éÍ¼)
-(0129
-01:22)
+(0129 01:22)
 °ØÁÖµçÓ°½ÚÖ®Å®ÈËÍùÊÂ
-(0127
-05:15)
+(0127 05:15)
 ÆÀÂÛ£º³Ë¡¶×óÓÒ¡·¿ì³µ
 ÁõÍþÝÚÄÜ·ñÕ÷·þ°ØÁÖ
-(0124
-15:26)
+(0124 15:26)
 ÆÀÂÛ£º°ØÁÖµçÓ°½ÚÎªºÎÆ«°®Å®ÐÔµçÓ°£¿(×éÍ¼)
-(0123
-15:06)
+(0123 15:06)
 ÆÀÂÛ£ºÏ¸Êý°ØÁÖÖÐ¹úÅ®ÈËÍùÊÂ
 ÁõÍþÝÚ½«Ó®µÃ×ðÖØ
-(0122
-16:46)
+(0122 16:46)
 ÎªºÎ°ØÁÖµçÓ°½Ú¶Ô»ªÈËÅ®ÐÇÇéÓÐ¶ÀÖÓ
-(0122
-12:55)
+(0122 12:55)
 ¸ü¶àÄÚÈÝ
 Í¼ÎÄ±¨µÀ
 Í¼ÎÄ£ºÁÖÎõÀÙ°ØÁÖ×¨·Ã
 ÁÖÎõÀÙÔÞ°ØÁÖÓ°Õ¹ºÜÒÕÊõ
-(0213
-10:03)
+(0213 10:03)
 Í¼ÎÄ£ºÁÖÎõÀÙ°ØÁÖ×¨·Ã
 ÁÖÎõÀÙÎª×Ô¼ºµÄ½ÇÉ«ÐÄËá
-(0213
-10:00)
+(0213 10:00)
 Í¼ÎÄ£ºÁÖÎõÀÙ°ØÁÖ×¨·Ã
 ÁÖÎõÀÙ¿´ºÃ¡¶ÎÄÈ¸¡·»ñ½±
-(0213
-09:59)
+(0213 09:59)
 Í¼ÎÄ£ºÁÖÎõÀÙ°ØÁÖ×¨·Ã
 ÁÖÎõÀÙ¿É°®±íÇé
-(0213
-09:57)
+(0213 09:57)
 Í¼ÎÄ£ºÁÖÎõÀÙ°ØÁÖ×¨·Ã
 ÁÖÎõÀÙ×îÏëºÍ¼ÖÕÁ¿ÂºÏ×÷
-(0213
-09:50)
+(0213 09:50)
 Í¼ÎÄ£ºÁÖÎõÀÙ°ØÁÖ×¨·Ã
 ÁÖÎõÀÙÌðÃÀÐ¦ÈÝ
-(0213
-09:49)
+(0213 09:49)
 Í¼ÎÄ£º¡°ºÍÆ½µçÓ°¡±´ÈÉÆ»î¶¯--Ë¹Íú¿ËÈÈÇé»ÓÊÖ
-(0213
-02:53)
+(0213 02:53)
 Í¼ÎÄ£º¡°ºÍÆ½µçÓ°¡±´ÈÉÆ»î¶¯--µÂÄÉÜ½ÈÝÑÕÒÀ¾É
-(0213
-02:53)
+(0213 02:53)
 Í¼ÎÄ£º¡°ºÍÆ½µçÓ°¡±´ÈÉÆ»î¶¯--Ë¹Íú¿ËÓÅÑÅÀñ·þ
-(0213
-02:53)
+(0213 02:53)
 Í¼ÎÄ£º¡°ºÍÆ½µçÓ°¡±´ÈÉÆ»î¶¯--Ë¹Íú¿Ë»ØíøÒ»Ð¦
-(0213
-02:53)
+(0213 02:53)
 Í¼ÎÄ£º¡°ºÍÆ½µçÓ°¡±´ÈÉÆ»î¶¯--·ÑÒòË¹Îª´ÈÉÆÐû´«
-(0213
-02:53)
+(0213 02:53)
 Í¼ÎÄ£º¡°ºÍÆ½µçÓ°¡±´ÈÉÆ»î¶¯--±¾-½ðË¹ÀûÐ¯·òÈË³öÏ¯
-(0213
-02:53)
+(0213 02:53)
 Í¼ÎÄ£º¡°ºÍÆ½µçÓ°¡±´ÈÉÆ»î¶¯--µÂÄÉÜ½ÓºÈÝ»ª¹ó
-(0213
-02:53)
+(0213 02:53)
 Í¼ÎÄ£º¡°ºÍÆ½µçÓ°¡±´ÈÉÆ»î¶¯--Ô¼Éª·ò-·ÑÒòË¹ÓëÅ®ÓÑ
-(0213
-02:53)
+(0213 02:53)
 Í¼ÎÄ£ºÅ·ÖÞ¾ÅÎ»ÐÂÐÇÅÄÉãÐ´Õæ--ÐÂÐÇ¾Û¼¯ÅÄÉãÐ´Õæ
-(0213
-02:26)
+(0213 02:26)
 Í¼ÎÄ£ºÅ·ÖÞ¾ÅÎ»ÐÂÐÇÅÄÉãÐ´Õæ--¾ÅÎ»ÐÂÐÇ¹²Í¬ÁôÓ°
-(0213
-02:26)
+(0213 02:26)
 Í¼ÎÄ£ºÅ·ÖÞ¾ÅÎ»ÐÂÐÇÅÄÉãÐ´Õæ--Ë¹Âå·¥¿ËÑÝÔ±Âí¿É
-(0213
-02:26)
+(0213 02:26)
 Í¼ÎÄ£ºÅ·ÖÞ¾ÅÎ»ÐÂÐÇÅÄÉãÐ´Õæ--Òâ´óÀûÑÝÔ±°¬ÀïÅ·
-(0213
-02:25)
+(0213 02:25)
 Í¼ÎÄ£ºÅ·ÖÞ¾ÅÎ»ÐÂÐÇÅÄÉãÐ´Õæ--ÂÞÂíÄáÑÇÑÝÔ±°²ÄÈÂêÀöÑÇ
-(0213
-02:25)
+(0213 02:25)
 Í¼ÎÄ£ºÅ·ÖÞ¾ÅÎ»ÐÂÐÇÅÄÉãÐ´Õæ--·¨¹úÑÝÔ±Äá¹ÅÀ­Ë¹
-(0213
-02:25)
+(0213 02:25)
 Í¼ÎÄ£ºÅ·ÖÞ¾ÅÎ»ÐÂÐÇÅÄÉãÐ´Õæ--ÈðÊ¿ÑÝÔ±ÇÇ¶û
-(0213
-02:25)
+(0213 02:25)
 Í¼ÎÄ£ºÅ·ÖÞ¾ÅÎ»ÐÂÐÇÅÄÉãÐ´Õæ--µÂ¹úÑÝÔ±ººÄÈ
-(0213
-02:25)
+(0213 02:25)
 Í¼ÎÄ£ºÅ·ÖÞ¾ÅÎ»ÐÂÐÇÅÄÉãÐ´Õæ--µ¤ÂóÑÝÔ±Ë¹÷ì°²
-(0213
-02:25)
+(0213 02:25)
 Í¼ÎÄ£ºÅ·ÖÞ¾ÅÎ»ÐÂÐÇÅÄÉãÐ´Õæ--ÐÙÑÀÀûÑÝÔ±Ë÷¶ûÌØ
-(0213
-02:25)
+(0213 02:25)
 Í¼ÎÄ£ºÅ·ÖÞ¾ÅÎ»ÐÂÐÇÅÄÉãÐ´Õæ--ºÉÀ¼ÑÝÔ±ÂíÑÇÄ·
-(0213
-02:25)
+(0213 02:25)
 Í¼ÎÄ£º¡¶ÎÄÈ¸¡·Ê×Ó³ºìÌº--½ÓÊÜÐÂÀË²É·Ã
-(0212
-06:33)
+(0212 06:33)
 Í¼ÎÄ£º¡¶ÎÄÈ¸¡·Ê×Ó³ºìÌº--ÈÎ´ï»ªÏíÊÜºìÌº
-(0212
-06:33)
+(0212 06:33)
 Í¼ÎÄ£º¡¶ÎÄÈ¸¡·Ê×Ó³ºìÌº--ÈÎ´ï»ªÇáËÉÊÜ·Ã
-(0212
-06:33)
+(0212 06:33)
 Í¼ÎÄ£º¡¶ÎÄÈ¸¡·Ê×Ó³ºìÌº--½ÓÊÜ²É·ÃÌ¸ÎÄÈ¸
-(0212
-06:33)
+(0212 06:33)
 ¸ü¶àÄÚÈÝ
 ¾«²ÊÊÓÆµ
 ÊÓÆµ£º°ØÁÖ¶Ô»°ÁÖÎõÀÙ
 ÆÚÍû¡¶ÎÄÈ¸¡·ÄÜ»ñ½ðÐÜ
-(0213
-09:36)
+(0213 09:36)
 ÊÓÆµ£ºÊæä¿ÖúÕóÎÄÈ¸ºìÌº
 ÁÖÎõÀÙÈÎ´ï»ªÏ£Íû»ñ½±
-(0212
-09:53)
+(0212 09:53)
 ÊÓÆµ£º¶Åç÷·åÁÖÎõÀÙÈÎ´ï»ª
 ³öÏ¯¡¶ÎÄÈ¸¡··¢²¼»á
-(0212
-09:51)
+(0212 09:51)
 ÊÓÆµ£ºÐÂÀËÓéÀÖ¶À¼Ò×¨·Ã¡¶×óÓÒ¡·µ¼ÑÝÍõÐ¡Ë§
-(0211
-11:01)
+(0211 11:01)
 ÊÓÆµ£º¡¶»¨Ô°ÀïµÄÓ©»ð³æ¡·º£µÇÏòÖÐ¹úÓ°ÃÔÎÊºÃ
-(0211
-10:32)
+(0211 10:32)
 ÊÓÆµ£º¡¶Íì¸è¡·Ê×Ó³ºìÌº
 Å®ÐÇ¿ËÂ³×ÈÒý±¬»á³¡
-(0211
-09:54)
+(0211 09:54)
 ÊÓÆµ£ºÐÂÀËÓéÀÖ¶À¼Ò¶Ô»°¡¶×óÓÒ¡·ÖÆÆ¬ÈË»Æ±ó
-(0211
-00:40)
+(0211 00:40)
 ÊÓÆµ£ºÐÂÀËÓéÀÖ¶À¼Ò¶Ô»°µçÓ°¡¶×óÓÒ¡·Ö÷´´ÁõÍþÝÚ
-(0210
-16:21)
+(0210 16:21)
 ÊÓÆµ£ºÐÂÀËÓéÀÖ¶À¼Ò¶Ô»°µçÓ°¡¶×óÓÒ¡·Ö÷´´ÕÅ¼ÎÒë
-(0210
-16:12)
+(0210 16:12)
 ÊÓÆµ£ºÐÂÀËÓéÀÖ¶À¼Ò¶Ô»°µçÓ°¡¶×óÓÒ¡·Ö÷´´³ÉÌ©Ÿö
-(0210
-16:07)
+(0210 16:07)
 ÊÓÆµ£ºÍõÐ¡Ë§ÂÊÖ÷´´Ì¤¡¶×óÓÒ¡·°ØÁÖÊ×Ó³Ê½ºìÌº
-(0210
-15:59)
+(0210 15:59)
 ÊÓÆµ£º¡¶×óÓÒ¡·°ØÁÖÇì¹¦
 ÍõÐ¡Ë§ÆÚ´ý¹úÄÚÆ±·¿ºÃ
-(0210
-10:15)
+(0210 10:15)
 ÊÓÆµ£ºµçÓ°¡¶Ò¹»¨Ô°¡·Ê×Ó³ºìµØÌº
-(0210
-09:29)
+(0210 09:29)
 ÊÓÆµ£ºÍõÐ¡Ë§ÂÊ¡¶×óÓÒ¡·Ö÷´´³öÏ¯°ØÁÖ·¢²¼»á
-(0210
-05:23)
+(0210 05:23)
 ÊÓÆµ£ºµÚ58½ì°ØÁÖµçÓ°½Ú¿ªÄ»Ê½¾«²ÊÆ¬¶Î»Ø·Å
-(0210
-04:12)
+(0210 04:12)
 ÊÓÆµ£º°ØÁÖµçÓ°½ÚÆÀÎ¯ÁÁÏà
 Êæä¿¶Ë×¯Ãî´ðÌáÎÊ
-(0210
-02:57)
+(0210 02:57)
 ÊÓÆµ£ºË¹¿ÆÈûË¹£º¹öÊ¯µÄÒôÀÖÊÇÎÒÉúÃüµÄÒ»²¿·Ö
-(0210
-02:48)
+(0210 02:48)
 ÊÓÆµ£º¹öÊ¯Ö÷³ª¼Ö¸ñ¶ù²»ÂúµÂ¹ú¼ÇÕßÌáÎÊºÚÁ³
-(0210
-02:45)
+(0210 02:45)
 ÊÓÆµ£ºÊæä¿ö¦×±ÁÁÏàµÚ58½ì°ØÁÖµçÓ°½Ú
-(0210
-02:39)
+(0210 02:39)
 ÊÓÆµ£º¹öÊ¯¼ªËûÊÖÈÙ-ÎéµÂÏòÖÐ¹úÍøÓÑÎÊºÃ
-(0209
-21:40)
+(0209 21:40)
 ÊÓÆµ£º¹öÊ¯³ÉÔ±¿­Ë¹½ÓÊÜ²É·Ã
 ±¾É«³öÑÝÀÖÔÚÆäÖÐ
-(0209
-19:23)
+(0209 19:23)
 ÊÓÆµ£º58½ì°ØÁÖµçÓ°½Úµ¹¼ÆÊ±¿ªÊ¼
 »á³¡Æø·ÕÅ¨ºñ
-(0207
-20:40)
+(0207 20:40)
 ÊÓÆµ£ºÊæä¿ÒÑµÖ´ï°ØÁÖ
 ËØÑÕ×öÆÀÎ¯µçÓ°½Ú¹ý´º½Ú
-(0206
-01:51)
+(0206 01:51)
 ¸ü¶àÄÚÈÝ
 ÏÖ³¡¿ìÑ¶
 ¿ìÑ¶£º°ØÁÖµçÓ°½ÚºìÌº½áÊø
 ¼Î±öÃÇ¾²´ý¿ªÄ»Æ¬
-(0208
-02:51)
+(0208 02:51)
 ¿ìÑ¶£º¸èÃÔÈÔÔÚºô»½
 Ê®·ÖÖÓºó·ÅÓ³¡¶ÉÁÁÁÖ®¹â¡·
-(0208
-02:49)
+(0208 02:49)
 ¿ìÑ¶£º¹öÊ¯·Ö¿ª½ÓÊÜ×¨·Ã
 ±íÇé¸ã¹Ö¾¡ÏÔÌìÍõ·¶
-(0208
-02:48)
+(0208 02:48)
 ¿ìÑ¶£º¸èÃÔ¼¯Ìåºô»½¹öÊ¯ÀÖ¶Ó
 ÄÅº°ÉùÕûÆë»®Ò»
-(0208
-02:47)
+(0208 02:47)
 ¿ìÑ¶£ºÃ×ÆæÂÊÏÈ½øÈë»á³¡
 Òý·¢ÔÚ³¡¸èÃÔÃ½Ìå²»Âú
-(0208
-02:47)
+(0208 02:47)
 ¿ìÑ¶£º¹öÊ¯ÀÖ¶ÓÖ÷Òô¼ªËûÊÖ¿­Ë¹-Àí²éµÂÈÈÇéÓÑºÃ
-(0208
-02:45)
+(0208 02:45)
 ¿ìÑ¶£º¹öÊ¯ÀÖ¶ÓËÄ³ÉÔ±Ò»ÆðÏòÖÐ¹ú¸èÃÔ»ÓÊÖÖÂÒâ
-(0208
-02:45)
+(0208 02:45)
 ¿ìÑ¶£º¸èÃÔºô»½¡¶ÉÁÁÁÖ®¹â¡·
 Îå´óÀÏË§¸ç·ç¶È×ã
-(0208
-02:41)
+(0208 02:41)
 ¿ìÑ¶£º¹öÊ¯ËÄ×Ó·çÔÏÓÌÔÚ
 Ì¨·çÀÏÀ±¸èÃÔÎªÖ®ÐÄ¶¯
-(0208
-02:40)
+(0208 02:40)
 ¿ìÑ¶£º¹öÊ¯ÏÖÉí±ãÓëÂí¶¡Óµ±§
 ÎåÈËºÏÓ°·ÛË¿·è¿ñ
-(0208
-02:39)
+(0208 02:39)
 ¿ìÑ¶£ºÀÏÂí¶¡³ÉºìÌº×îÈÈÃÅÈËÎï
 ·ÛË¿¼â½ÐÏÔÈÈÇé
-(0208
-02:35)
+(0208 02:35)
 ¿ìÑ¶£º´óÒøÄ»ÎªºæÍÐÆø·ÕÔÙ²¥¡¶ÉÁÁÁÖ®¹â¡·Æ¬¶Î
-(0208
-02:30)
+(0208 02:30)
 ¿ìÑ¶£ºÀÏÂí¶¡ÁÁÏàºìÌº
 ÀÏ½«Ñ¹ÕóÏÔ¿ªÄ»Æ¬ÆøÊÆ
-(0208
-02:29)
+(0208 02:29)
 ¿ìÑ¶£º¿ËÂ³¸ñÊæä¿¸÷×Ô·ÛË¿ÎªÐÄÖÐÅ¼ÏñÂôÁ¦¸ßºô
-(0208
-02:26)
+(0208 02:26)
 ¿ìÑ¶£º¿ËÂ³¸ñºÚÉ«Â¶±³³¤È¹ÓëÊæä¿³¤È¹¿îÊ½À×Í¬
-(0208
-02:25)
+(0208 02:25)
 ¿ìÑ¶£ºÊæä¿Éí×ÅÈâ¹ðÉ«Àñ·þ³¤È¹
 ÍðÈçÏ£À°Å®Éñ
-(0208
-02:25)
+(0208 02:25)
 ¿ìÑ¶£º¿ÆË¹ËþÐ¯ÆÀÎ¯µÇ³¡
 Êæä¿ÅÌÆð³¤·¢ÏÔåüÃÄ
-(0208
-02:24)
+(0208 02:24)
 ¿ìÑ¶£ººìÌºÃ÷ÐÇ¾ù¶Ô¡¶ÉÁÁÁÖ®¹â¡·±§ÓÐºÜ¸ßÆÚ´ý
-(0208
-02:21)
+(0208 02:21)
 ¿ìÑ¶£ºÔÙ²¥¡¶ÉÁÁÁÖ®¹â¡·ÒÔ¼°¹öÊ¯¼ûÃæ»áÆ¬¶Î
-(0208
-02:20)
+(0208 02:20)
 ¿ìÑ¶£º½ÜÎ÷¿¨µÂ¹úÈËÆøÆÄ¸ß
 ÇåÁ¹´ò°çÎªÆä¼Ó·Ö
-(0208
-02:13)
+(0208 02:13)
 ¿ìÑ¶£º½ÜÎ÷¿¨×Åµõ´ø°×É«³¤È¹Â¶Óñ±³ÏÖÉíºìÌº
-(0208
-02:12)
+(0208 02:12)
 ¿ìÑ¶£ºµÂ¹ú±¾ÍÁÅ®ÐÇººÄÈÏÖÉí
 ÆäÓ°Æ¬Ò²½«²ÎÕ¹
-(0208
-02:01)
+(0208 02:01)
 ¿ìÑ¶£º´óÒøÄ»²¥·Å°ØÁÖÒ¹¾°
 ³ÇÊÐ¾²Ú×µÆ»ð»Ô»Í
-(0208
-01:59)
+(0208 01:59)
 ¿ìÑ¶£ººÃÀ³ÎëÅ®ÐÇ¿ÆµÏ-»ô¶÷Éí×ÅÆ¤²ÝÏÔÓºÈÝ
-(0208
-01:58)
+(0208 01:58)
 ¿ìÑ¶£ºµÂ¹ú±¾ÍÁÅ®ÐÇµÏÄÈ-µÏÌØÐ¯ÄÐÓÑÁÁÏà
-(0208
-01:52)
+(0208 01:52)
 ¿ìÑ¶£º°ØÁÖºìÌºÅ®ÐÇ×Å×°±£ÊØ
 ÉÔÏÔÐÔ¸Ð¼´³É½¹µã
-(0208
-01:50)
+(0208 01:50)
 ¿ìÑ¶£º¼Î±öÅõ³¡¡¶ÉÁÁÁÖ®¹â¡·
 ¾ù×ÅÊ¢×°ÁÁÏàºìÌº
-(0208
-01:49)
+(0208 01:49)
 ¿ìÑ¶£º¹öÊ¯ÀÖ¶Ó³Ù³ÙÎ´µÇ³¡
 ·ÛË¿ºôÉùÖð½¥¸ßÕÇ
-(0208
-01:48)
+(0208 01:48)
 ¿ìÑ¶£ºÁ½Î»Å®ÐÇÇ×ÃÜ×´µÇ³¡
 ½ð·¢Ò«ÑÛÁ÷Á¬ºìÌº
-(0208
-01:47)
+(0208 01:47)
 ¸ü¶àÄÚÈÝ
 °ØÁÖ×ÊÁÏ¿â
 ×ÊÁÏ£ºµÚ58½ì°ØÁÖµçÓ°½ÚÖ÷¾ºÈüµ¥ÔªÆÀÎ¯ÎÖ¶ûÌØ-Ä¬Ææ
-(0131
-19:10)
+(0131 19:10)
 ×ÊÁÏ£ºµÚ58½ì°ØÁÖµçÓ°½ÚÖ÷¾ºÈüµ¥ÔªÆÀÎ¯÷ì°²-¿ËÂ³¸ñ
-(0131
-19:10)
+(0131 19:10)
 ×ÊÁÏ£ºµÚ58½ì°ØÁÖµçÓ°½ÚÖ÷¾ºÈüµ¥ÔªÆÀÎ¯ÎÚÀï-ººÄáÊ²
-(0131
-19:10)
+(0131 19:10)
 ×ÊÁÏ£ºµÚ58½ì°ØÁÖµçÓ°½ÚÖ÷¾ºÈüµ¥ÔªÆÀÎ¯É£µÂÀïÄÈ
-(0131
-19:10)
+(0131 19:10)
 ×ÊÁÏ£ºµÚ58½ì°ØÁÖµçÓ°½ÚÖ÷¾ºÈüµ¥ÔªÆÀÎ¯ËÕÉºÄÈ
-(0131
-19:10)
+(0131 19:10)
 ×ÊÁÏ£ºµÚ58½ì°ØÁÖµçÓ°½ÚÖ÷¾ºÈüµ¥ÔªÆÀÎ¯ÑÇÀúÉ½´ó
-(0131
-19:10)
+(0131 19:10)
 ×ÊÁÏ£ºµÚ58½ì°ØÁÖµçÓ°½ÚÖ÷¾ºÈüµ¥ÔªÆÀÎ¯»áÖ÷Ï¯¿ÆË¹Ëþ
-(0131
-19:10)
+(0131 19:10)
 ×ÊÁÏ£ºµÚ58½ì°ØÁÖµçÓ°½ÚÖ÷¾ºÈüµ¥ÔªÆÀÎ¯Êæä¿
-(0131
-19:10)
+(0131 19:10)
 ×ÊÁÏ£ºµÚ58½ì°ØÁÖµçÓ°½ÚÖ÷¾ºÈüµ¥Ôª²ÎÈü²ÎÕ¹Æ¬Ä¿
-(0130
-23:23)
+(0130 23:23)
 °ØÁÖµçÓ°½ÚÈ«¾°µ¥ÔªÖ®¡¶Ò»ÇÐ¶¼ºÃ¡·
-(0129
-23:50)
+(0129 23:50)
 °ØÁÖµçÓ°½ÚÈ«¾°µ¥ÔªÖ®¡¶À­¿üÀ­Å®ÍõéóÊÂ¡·
-(0129
-23:49)
+(0129 23:49)
 °ØÁÖµçÓ°½ÚÈ«¾°µ¥ÔªÖ®¡¶ÃÀÈËÓã¡·
-(0129
-23:47)
+(0129 23:47)
 °ØÁÖµçÓ°½ÚÈ«¾°µ¥ÔªÖ®¡¶Æ®ÀËÇà´º¡·
-(0129
-23:46)
+(0129 23:46)
 °ØÁÖµçÓ°½ÚÈ«¾°µ¥ÔªÖ®¡¶°ÂÍÐ£¬Óë½©Ê¬Í¬ÐÐ¡·
-(0129
-23:45)
+(0129 23:45)
 °ØÁÖµçÓ°½ÚÈ«¾°µ¥ÔªÖ®¡¶ÑÛ¾µ¡·
-(0129
-23:43)
+(0129 23:43)
 °ØÁÖµçÓ°½ÚÈ«¾°µ¥ÔªÖ®¡¶ÁíÒ»¸ö°®Çé¹ÊÊÂ¡·
-(0129
-23:42)
+(0129 23:42)
 °ØÁÖµçÓ°½ÚÈ«¾°µ¥ÔªÖ®¡¶½Ç¶·¡·
-(0129
-23:41)
+(0129 23:41)
 °ØÁÖµçÓ°½ÚÈ«¾°µ¥ÔªÖ®¡¶Ò®Â·ÈöÀä¡·
-(0129
-23:40)
+(0129 23:40)
 °ØÁÖµçÓ°½ÚÈ«¾°µ¥ÔªÖ®¡¶ÎÒÀ´×ÔÌáÍ¼·ò¡·
-(0129
-23:39)
+(0129 23:39)
 °ØÁÖµçÓ°½ÚÈ«¾°µ¥ÔªÖ®¡¶³õÁµ¡·
-(0129
-23:38)
+(0129 23:38)
 °ØÁÖµçÓ°½ÚÈ«¾°µ¥ÔªÖ®¡¶Ë®×å¹Ý¡·
-(0129
-23:37)
+(0129 23:37)
 °ØÁÖµçÓ°½ÚÈ«¾°µ¥ÔªÖ®¡¶ËéÆ¬¡·
-(0129
-23:36)
+(0129 23:36)
 °ØÁÖµçÓ°½ÚÈ«¾°µ¥ÔªÖ®¡¶ÃÎÄÐº¢¡·
-(0129
-23:35)
+(0129 23:35)
 °ØÁÖµçÓ°½ÚÈ«¾°µ¥ÔªÖ®¡¶×ï¶ñ¡·
-(0129
-23:34)
+(0129 23:34)
 °ØÁÖµçÓ°½ÚÈ«¾°µ¥ÔªÖ®¡¶Å®ÈËÐÄ¡·
-(0129
-23:32)
+(0129 23:32)
 °ØÁÖµçÓ°½ÚÈ«¾°µ¥ÔªÖ®¡¶ÄÐº¢A¡·
-(0129
-23:31)
+(0129 23:31)
 ×ÊÁÏ£ºµÚ58½ì°ØÁÖµçÓ°½ÚÈ«¾°µ¥Ôª
-(0128
-11:45)
+(0128 11:45)
 ×ÊÁÏ£ºµÚ58½ì°ØÁÖµçÓ°½Ú¶ÌÆ¬µ¥Ôª½éÉÜ
-(0128
-11:36)
+(0128 11:36)
 58½ì°ØÁÖµçÓ°½ÚÖ÷¾ºÈüµ¥Ôª-¡¶ÉÁÁÁÖ®¹â¡·
-(0126
-23:17)
+(0126 23:17)
 ¸ü¶àÄÚÈÝ
 ¡¤ÖÆ×÷ÍÅ¶Ó¡¤
 Ôð±à£ºÔÞÌ«¡¢ÀîÀÚ
@@ -44176,14 +42454,9 @@ Reserved
 µã»÷½øÈëÊÓÆµ¼¯>>>
 ¶À¼Ò×¨·Ã£ºÁÖÎõÀÙ¿´ºÃ¡¶ÎÄÈ¸¡·°ØÁÖÇÜÐÜ
 ÊÓÆµ
-[¡¶ÎÄÈ¸¡·°ØÁÖ¼ÇÕß»á
-¶Åç÷·å½²ÊöÏã¸ÛÇé»³
-ÏÖ³¡ÊÓÆµ]
-[Ó¢¹úµ¼ÑÝÂõ¿Ë-ÀîÐ¯¡¶ÎÞÓÇÎÞÂÇ¡·ÁÁÏà¼ÇÕß»á
-Ê×Ó³ºìÌº]
-[¡¶Ò¹ÍíºÍ°×Ìì¡·Ê×Ó³
-ÆÓ¶÷»Ý±ðÖÂÀñ·þ
-¡¶±ê×¼Á÷³Ì¡·¼ÇÕß»á]
+[¡¶ÎÄÈ¸¡·°ØÁÖ¼ÇÕß»á ¶Åç÷·å½²ÊöÏã¸ÛÇé»³ ÏÖ³¡ÊÓÆµ]
+[Ó¢¹úµ¼ÑÝÂõ¿Ë-ÀîÐ¯¡¶ÎÞÓÇÎÞÂÇ¡·ÁÁÏà¼ÇÕß»á Ê×Ó³ºìÌº]
+[¡¶Ò¹ÍíºÍ°×Ìì¡·Ê×Ó³ ÆÓ¶÷»Ý±ðÖÂÀñ·þ ¡¶±ê×¼Á÷³Ì¡·¼ÇÕß»á]
 °ØÁÖÈÕ³Ì
 ½ñÈÕÖ÷µ¥Ôª
 £º¡¶Äþ¾²µÄ»ìÂÒ¡·
@@ -44268,9 +42541,7 @@ Reserved
 ÒÕÊõÐÔÔÚÈý´óµçÓ°½ÚÖÐ²»×ã
 »ªÓïÆ¬µÄ¸£µØ
 ¹Ø×¢¶È²»¼°ê©ÄÉºÍÍþÄáË¹
-{
-»ªÓïÆ¬¡¶ÎÄÈ¸¡·Ê×Ó³ºìÌº
-}
+{ »ªÓïÆ¬¡¶ÎÄÈ¸¡·Ê×Ó³ºìÌº }
 >>>>>>¸ü¶à
 ¶Åç÷·å
 ÈÎ´ï»ª
@@ -44278,9 +42549,7 @@ Reserved
 ÈÎ´ï»ªçùçù·ò¸¾
 Êæä¿
 ÈÎ´ï»ªÁÖÎõÀÙ
-{
-°ØÁÖµçÓ°½ÚµçÓ°Ê×Ó³ºìÌº
-}
+{ °ØÁÖµçÓ°½ÚµçÓ°Ê×Ó³ºìÌº }
 >>>>>>¸ü¶à
 ¡¶»¨Ô°ÀïµÄÓ©»ð³æ¡·
 ¡¶Íì¸è¡·
@@ -44288,9 +42557,7 @@ Reserved
 ¡¶Ì«ºÆºþ¡·
 ¡¶ÖìÀòæ«¡·
 ¡¶µçÓ°ÎªºÍÆ½¡·
-{
-ÄÚµØ²ÎÈüÆ¬¡¶×óÓÒ¡·ÕÀ·Å°ØÁÖ
-}
+{ ÄÚµØ²ÎÈüÆ¬¡¶×óÓÒ¡·ÕÀ·Å°ØÁÖ }
 >>>>>>¸ü¶à
 Ö÷´´ÁÁÏàºìÌº
 µ¼ÑÝÍõÐ¡Ë§
@@ -44298,10 +42565,7 @@ Reserved
 Å®Ö÷½ÇÁõÍþÝÚ
 Ö÷ÑÝ³ÉÌ©Ÿö
 ÖÆÆ¬ÈË»Æ±ó
-{
-¿ªÄ»ºìÌºÐÇ¹â
-Êæä¿ºìÈ¹ÇÀÑÛ
-}
+{ ¿ªÄ»ºìÌºÐÇ¹â Êæä¿ºìÈ¹ÇÀÑÛ }
 >>>>>>¸ü¶à
 Ö÷¾ºÈüµ¥ÔªÆÀÎ¯»á
 ÆÀÎ¯£ºÌ¨ÍåÅ®ÐÇÊæä¿
@@ -44309,9 +42573,7 @@ Reserved
 µçÓ°½ÚÖ÷Ï¯µÏÌØ
 ÃÀ¹úÅ®ÐÇ¸èµÙ-º«
 µÂ¹úÄÐÐÇµ¤Äá¶û
-{
-¹öÊ¯ÀÖ¶Ó¡¶ÉÁÁÁÖ®¹â¡·½ÒÄ»°ØÁÖ
-}
+{ ¹öÊ¯ÀÖ¶Ó¡¶ÉÁÁÁÖ®¹â¡·½ÒÄ»°ØÁÖ }
 >>>>>>¸ü¶à
 Ã×¿Ë-¼Ö¸ñ¶û
 µ¼ÑÝÂí¶¡-Ë¹¿ÆÈûË¹
@@ -44319,9 +42581,7 @@ Reserved
 ¹öÊ¯³ÉÔ±¿­Ë¹
 ¹öÊ¯³ÉÔ±ÈÙ-ÎéµÂ
 ¹öÊ¯³ÉÔ±²éÀí-ÎÖ´Ä
-{
-Ïê½â°ØÁÖ¸÷´óµ¥Ôª
-}
+{ Ïê½â°ØÁÖ¸÷´óµ¥Ôª }
 -
 Ö÷¾ºÈüµ¥Ôª
 -
@@ -44415,9 +42675,7 @@ Generation¡±µ¥Ôª
 ¡¶ÍõÅÆÖÆÆ¬¼Ò¡·
 »¨Ô°ÀïµÄÓ©»ð³æ
 ¡¶ð¯Õ¼Èµ³²¡·
-{
-Ö÷¾ºÈüµ¥Ôª°ËÈËÆÀÎ¯»á
-}
+{ Ö÷¾ºÈüµ¥Ôª°ËÈËÆÀÎ¯»á }
 ÕâÀïÊÇ±êÌâ1
 1
 2
@@ -44462,9 +42720,7 @@ Generation¡±µ¥Ôª
 ¼ÖÕÁ¿ÂÎª³õÈëÐÐÕßÖ§ÕÐ
 ¼ÖÕÁ¿ÂÔÚ¡°Ìì²ÅÑµÁ·Óª¡±ÉÏºÍÀ´×ÔÊÀ½ç¸÷µØÓÐÖ¾ÓÚÅÄÉãµçÓ°µÄ¡°Ìì²Å¡±¶Ô»°¡£ËûÓëËûÃÇÌ½ÌÖÅÄÆ¬µÄÀ§¾³£¬ÃèÊö³öµ±½ñÖÐ¹úÅÄÉãµçÓ°µÄ¡­¡­
 [È«ÎÄ]
-{
-»ªÓïµçÓ°µÄ°ØÁÖÕ½¼¨
-}
+{ »ªÓïµçÓ°µÄ°ØÁÖÕ½¼¨ }
 ºì¸ßÁ»
 µÚÈýÊ®°Ë½ì½ðÐÜ½±
 ÍíÖÓ
@@ -44498,535 +42754,382 @@ Generation¡±µ¥Ôª
 ÐÂÎÅ±¨µÀ
 °ØÁÖµçÓ°½Ú¹ÎÖÐ¹ú·ç
 ÖÐÉ½×°¶ÐÃæ³ñÏÔ¶«·½÷ÈÁ¦
-(0213
-11:50)
+(0213 11:50)
 ÍõÐ¡Ë§Ô¶¸°µÂ¹ú´³ÊÐ³¡
 ¡¶×óÓÒ¡·´óÈÈ°ØÁÖµçÓ°½Ú
-(0213
-11:26)
+(0213 11:26)
 ³ÉÌ©Ÿö°ØÁÖÊ×¿´¡¶×óÓÒ¡·
 ¡°ÀÏÐ»¡±¸Ð¶¯ÊÀ½ç(Í¼)
-(0213
-11:23)
+(0213 11:23)
 ¡¶×óÓÒ¡·Ê×Ó³·´ÏìÈÈÁÒ
 ÍõÐ¡Ë§7ÄêºóÔÙÕù½ðÐÜ
-(0213
-10:56)
+(0213 10:56)
 Êæä¿Ä¨ÐØÀñ·þ¾ªÑÞÁÁÏà°ØÁÖ
 ±»³ÆÎª×îÐÔ¸ÐÅ®Ê¿
-(0213
-10:41)
+(0213 10:41)
 ¡¶ÎÄÈ¸¡·ÁÁÏà°ØÁÖµçÓ°½Ú
 ½²Êö¶Åç÷·åµÄÏã¸ÛÇé»³
-(0213
-10:37)
+(0213 10:37)
 Êæä¿°ØÁÖÖúÕó¡¶ÎÄÈ¸¡·
 °ä½±Ç°·¸¹æ½²¹Ûºó¸Ð(Í¼)
-(0213
-10:35)
+(0213 10:35)
 ¡¶ÎÄÈ¸¡·ÁÁÏà°ØÁÖ
 ÈÎ´ï»ªÐ¯ÆÞ°ØÁÖºìÌºÉ¹¶÷°®
-(0213
-10:33)
+(0213 10:33)
 ×éÍ¼£ºÕÅ×÷æ÷µ¼ÑÝ³Å–ÊÕÈ
 Ð¯Ö÷½ÇÐû´«¡¶ºûµû¡·
-(0213
-10:31)
+(0213 10:31)
 ¶Åç÷·å°ØÁÖ¾ÙÐÐ¼ÇÕß»á
 ºä¸Û¸®ÆÆ»µ¾ÉÓÐ¾°Îï(Í¼)
-(0213
-10:22)
+(0213 10:22)
 °ØÁÖÉÏ¿Õ¡¶ÎÄÈ¸¡·Õ¹³á
 ÈÎ´ï»ªçùçùÁÖÎõÀÙÆëÁÁÏà
-(0213
-10:11)
+(0213 10:11)
 Êæä¿°ØÁÖÖúÕó¡¶ÎÄÈ¸¡·
 ºÚÉ«Àñ·þÏÔ¶Ë×¯(¸½Í¼)
-(0213
-10:06)
+(0213 10:06)
 ¡¶×óÓÒ¡·ÓÐÍû°ØÁÖÇÜÐÜ
 ÍõÐ¡Ë§¶ÔÓ°Æ¬Æ±·¿ÓÐÐÅÐÄ
-(0213
-09:51)
+(0213 09:51)
 ¹ú¼Ê¼¶µ¼ÑÝ°²¶«Äá-Ã÷¸ñÀ­
 ÈÎ½ð¾ô½±ÆÀÉóÍÅÖ÷Ï¯
-(0213
-09:44)
+(0213 09:44)
 ÉÏº£¹ú¼ÊµçÓ°½Ú°ØÁÖÔìÊÆ
 °²¶«Äá¡°Ö÷Õþ¡±½ð¾ô
-(0213
-09:43)
+(0213 09:43)
 ½ñÄê¡°½ðÐÜ¡±ÔâÓö¡°ÐÜÊÐ¡±
 Èü³Ì¹ý°ë¼ÑÆ¬ÁÈÁÈ
-(0213
-09:41)
+(0213 09:41)
 ÁÖÎõÀÙ¿´ºÃ¡¶ÎÄÈ¸¡·
 ÆØ×îÏëºÍ¼ÖÕÁ¿ÂºÏ×÷(Í¼)
-(0213
-09:33)
+(0213 09:33)
 ¡¶ÎÄÈ¸¡·Õ¹³á°ØÁÖ
 ÈÎ´ï»ªÁÖÎõÀÙ³öÏ¯Ê×Ó³Àñ(Í¼)
-(0213
-09:25)
+(0213 09:25)
 ¡¶ÁíÒ»¸ö²¨ÁÕ¼ÒµÄÅ®º¢¡·±¾ÔÂ15ÈÕ½«ÁÁÏà°ØÁÖ
-(0213
-09:24)
+(0213 09:24)
 ¡¶ÉñÌ½¡·½øÄÚµØÓÐÉ¾½Ú
 ¶Åç÷·å°ØÁÖÊ×Ó³¡¶ÎÄÈ¸¡·
-(0213
-08:55)
+(0213 08:55)
 ÁõÍþÝÚ°ØÁÖÎªÔÓÖ¾ÅÄÕÕ
 Ó¢Â×·ç¸ñÑÞÀö¶¯ÈË(Í¼)
-(0213
-08:22)
+(0213 08:22)
 ÍõÐ¡Ë§¡¶×óÓÒ¡·ÁÁÏà°ØÁÖ
 ÆÚ´ý»ñµÃ¹úÄÚÊÐ³¡ÈÏ¿É
-(0213
-07:53)
+(0213 07:53)
 ²ÎÈüÆ¬¡¶ÎÞÓÇÎÞÂÇ¡·Ê×Ó³
 Ó¢¹úÅ®ÐÇºìÌº´òÍ·Õó(Í¼)
-(0213
-04:23)
+(0213 04:23)
 Ó¢¹úµ¼ÑÝÂõ¿Ë-ÀîÐ¯¡¶ÎÞÓÇÎÞÂÇ¡·³öÏ¯¼ÇÕß»á(Í¼)
-(0213
-04:17)
+(0213 04:17)
 ¡¶Ò¹ÍíºÍ°×Ìì¡·Ê×Ó³
 ÆÓ¶÷»Ý±ðÖÂÀñ·þ³É½¹µã(Í¼)
-(0213
-04:09)
+(0213 04:09)
 ×éÍ¼£º¡¶±ê×¼Á÷³Ì¡·¼ÇÕß»á
 µ¼ÑÝÖÆÆ¬¹Âµ¥¶ÔÃ½Ìå
-(0213
-03:34)
+(0213 03:34)
 ×éÍ¼£ºÏ£À­Àï-Ë¹Íú¿ËÓÅÑÅ³öÏ¯ºÍÆ½µçÓ°´ÈÉÆ»î¶¯
-(0213
-03:00)
+(0213 03:00)
 ¡¶Ò¹ÍíÓë°×Ìì¡·¼ÇÕß»á
 ÆÓ¶÷»ÝÕ¹ÌðÃÀÐ¦ÈÝ(×éÍ¼)
-(0213
-02:08)
+(0213 02:08)
 ¶Åç÷·å¡¶ÎÄÈ¸¡·×òÈÕÁè³¿°ØÁÖµçÓ°½ÚÊ×Ó³(¸½Í¼)
-(0213
-00:57)
+(0213 00:57)
 ¸ü¶àÄÚÈÝ
 ¸÷·½ÈÈÆÀ
 ³É¶¼Íí±¨£º»ªÓïµçÓ°ÄÜ·ñ¡°Å£ÊÐ¡±µ½µ×£¿
-(0213
-11:46)
+(0213 11:46)
 ÆÀÂÛ£º¡¶×óÓÒ¡·ÈÃ¹ÛÖÚ×ß½üÖÐ¹ú
-(0212
-12:54)
+(0212 12:54)
 ·¨ÐÂÉçÆÀ¡¶×óÓÒ¡·£ºÌøÍÑÉ¿Çéñ½¾ÊµÄÇé¸Ð¼ÑÆ¬
-(0212
-10:37)
+(0212 10:37)
 ¡¶Ó£»¨¡·¶À¼ÒÓ°ÆÀ£ºÀÏÄêÉ¥Å¼µÄ±¯ÉË
-(0212
-05:58)
+(0212 05:58)
 ¶À¼Ò£º¡¶Íì¸è¡·ÈâÉíµÄÍì¸è£¬Òà»ò°®ÇéµÄÍì¸è£¿
-(0211
-16:42)
+(0211 16:42)
 °ØÁÖµçÓ°½Ú¾ºÈüÆ¬É¨Ãè
 ÍõÐ¡Ë§¶Åç÷·å¾ºÕùÁ¦·ÖÎö
-(0129
-12:03)
+(0129 12:03)
 µØµÀÏã¸ÛÈËÇéÌØÉ«½«¼ÌÐø×ßÇÎ°ØÁÖ¹ú¼ÊµçÓ°½Ú
-(0129
-12:03)
+(0129 12:03)
 °ØÁÖµçÓ°½Ú»ªÓïÆ¬ÃæÁÙÈýÖ»´óÏó¹ÉÌôÕ½(×éÍ¼)(2)
-(0129
-01:22)
+(0129 01:22)
 °ØÁÖµçÓ°½Ú»ªÓïÆ¬ÃæÁÙÈýÖ»´óÏó¹ÉÌôÕ½(×éÍ¼)
-(0129
-01:22)
+(0129 01:22)
 °ØÁÖµçÓ°½ÚÖ®Å®ÈËÍùÊÂ
-(0127
-05:15)
+(0127 05:15)
 ÆÀÂÛ£º³Ë¡¶×óÓÒ¡·¿ì³µ
 ÁõÍþÝÚÄÜ·ñÕ÷·þ°ØÁÖ
-(0124
-15:26)
+(0124 15:26)
 ÆÀÂÛ£º°ØÁÖµçÓ°½ÚÎªºÎÆ«°®Å®ÐÔµçÓ°£¿(×éÍ¼)
-(0123
-15:06)
+(0123 15:06)
 ÆÀÂÛ£ºÏ¸Êý°ØÁÖÖÐ¹úÅ®ÈËÍùÊÂ
 ÁõÍþÝÚ½«Ó®µÃ×ðÖØ
-(0122
-16:46)
+(0122 16:46)
 ÎªºÎ°ØÁÖµçÓ°½Ú¶Ô»ªÈËÅ®ÐÇÇéÓÐ¶ÀÖÓ
-(0122
-12:55)
+(0122 12:55)
 ¸ü¶àÄÚÈÝ
 Í¼ÎÄ±¨µÀ
 Í¼ÎÄ£ºÁÖÎõÀÙ°ØÁÖ×¨·Ã
 ÁÖÎõÀÙÔÞ°ØÁÖÓ°Õ¹ºÜÒÕÊõ
-(0213
-10:03)
+(0213 10:03)
 Í¼ÎÄ£ºÁÖÎõÀÙ°ØÁÖ×¨·Ã
 ÁÖÎõÀÙÎª×Ô¼ºµÄ½ÇÉ«ÐÄËá
-(0213
-10:00)
+(0213 10:00)
 Í¼ÎÄ£ºÁÖÎõÀÙ°ØÁÖ×¨·Ã
 ÁÖÎõÀÙ¿´ºÃ¡¶ÎÄÈ¸¡·»ñ½±
-(0213
-09:59)
+(0213 09:59)
 Í¼ÎÄ£ºÁÖÎõÀÙ°ØÁÖ×¨·Ã
 ÁÖÎõÀÙ¿É°®±íÇé
-(0213
-09:57)
+(0213 09:57)
 Í¼ÎÄ£ºÁÖÎõÀÙ°ØÁÖ×¨·Ã
 ÁÖÎõÀÙ×îÏëºÍ¼ÖÕÁ¿ÂºÏ×÷
-(0213
-09:50)
+(0213 09:50)
 Í¼ÎÄ£ºÁÖÎõÀÙ°ØÁÖ×¨·Ã
 ÁÖÎõÀÙÌðÃÀÐ¦ÈÝ
-(0213
-09:49)
+(0213 09:49)
 Í¼ÎÄ£º¡°ºÍÆ½µçÓ°¡±´ÈÉÆ»î¶¯--Ë¹Íú¿ËÈÈÇé»ÓÊÖ
-(0213
-02:53)
+(0213 02:53)
 Í¼ÎÄ£º¡°ºÍÆ½µçÓ°¡±´ÈÉÆ»î¶¯--µÂÄÉÜ½ÈÝÑÕÒÀ¾É
-(0213
-02:53)
+(0213 02:53)
 Í¼ÎÄ£º¡°ºÍÆ½µçÓ°¡±´ÈÉÆ»î¶¯--Ë¹Íú¿ËÓÅÑÅÀñ·þ
-(0213
-02:53)
+(0213 02:53)
 Í¼ÎÄ£º¡°ºÍÆ½µçÓ°¡±´ÈÉÆ»î¶¯--Ë¹Íú¿Ë»ØíøÒ»Ð¦
-(0213
-02:53)
+(0213 02:53)
 Í¼ÎÄ£º¡°ºÍÆ½µçÓ°¡±´ÈÉÆ»î¶¯--·ÑÒòË¹Îª´ÈÉÆÐû´«
-(0213
-02:53)
+(0213 02:53)
 Í¼ÎÄ£º¡°ºÍÆ½µçÓ°¡±´ÈÉÆ»î¶¯--±¾-½ðË¹ÀûÐ¯·òÈË³öÏ¯
-(0213
-02:53)
+(0213 02:53)
 Í¼ÎÄ£º¡°ºÍÆ½µçÓ°¡±´ÈÉÆ»î¶¯--µÂÄÉÜ½ÓºÈÝ»ª¹ó
-(0213
-02:53)
+(0213 02:53)
 Í¼ÎÄ£º¡°ºÍÆ½µçÓ°¡±´ÈÉÆ»î¶¯--Ô¼Éª·ò-·ÑÒòË¹ÓëÅ®ÓÑ
-(0213
-02:53)
+(0213 02:53)
 Í¼ÎÄ£ºÅ·ÖÞ¾ÅÎ»ÐÂÐÇÅÄÉãÐ´Õæ--ÐÂÐÇ¾Û¼¯ÅÄÉãÐ´Õæ
-(0213
-02:26)
+(0213 02:26)
 Í¼ÎÄ£ºÅ·ÖÞ¾ÅÎ»ÐÂÐÇÅÄÉãÐ´Õæ--¾ÅÎ»ÐÂÐÇ¹²Í¬ÁôÓ°
-(0213
-02:26)
+(0213 02:26)
 Í¼ÎÄ£ºÅ·ÖÞ¾ÅÎ»ÐÂÐÇÅÄÉãÐ´Õæ--Ë¹Âå·¥¿ËÑÝÔ±Âí¿É
-(0213
-02:26)
+(0213 02:26)
 Í¼ÎÄ£ºÅ·ÖÞ¾ÅÎ»ÐÂÐÇÅÄÉãÐ´Õæ--Òâ´óÀûÑÝÔ±°¬ÀïÅ·
-(0213
-02:25)
+(0213 02:25)
 Í¼ÎÄ£ºÅ·ÖÞ¾ÅÎ»ÐÂÐÇÅÄÉãÐ´Õæ--ÂÞÂíÄáÑÇÑÝÔ±°²ÄÈÂêÀöÑÇ
-(0213
-02:25)
+(0213 02:25)
 Í¼ÎÄ£ºÅ·ÖÞ¾ÅÎ»ÐÂÐÇÅÄÉãÐ´Õæ--·¨¹úÑÝÔ±Äá¹ÅÀ­Ë¹
-(0213
-02:25)
+(0213 02:25)
 Í¼ÎÄ£ºÅ·ÖÞ¾ÅÎ»ÐÂÐÇÅÄÉãÐ´Õæ--ÈðÊ¿ÑÝÔ±ÇÇ¶û
-(0213
-02:25)
+(0213 02:25)
 Í¼ÎÄ£ºÅ·ÖÞ¾ÅÎ»ÐÂÐÇÅÄÉãÐ´Õæ--µÂ¹úÑÝÔ±ººÄÈ
-(0213
-02:25)
+(0213 02:25)
 Í¼ÎÄ£ºÅ·ÖÞ¾ÅÎ»ÐÂÐÇÅÄÉãÐ´Õæ--µ¤ÂóÑÝÔ±Ë¹÷ì°²
-(0213
-02:25)
+(0213 02:25)
 Í¼ÎÄ£ºÅ·ÖÞ¾ÅÎ»ÐÂÐÇÅÄÉãÐ´Õæ--ÐÙÑÀÀûÑÝÔ±Ë÷¶ûÌØ
-(0213
-02:25)
+(0213 02:25)
 Í¼ÎÄ£ºÅ·ÖÞ¾ÅÎ»ÐÂÐÇÅÄÉãÐ´Õæ--ºÉÀ¼ÑÝÔ±ÂíÑÇÄ·
-(0213
-02:25)
+(0213 02:25)
 Í¼ÎÄ£º¡¶ÎÄÈ¸¡·Ê×Ó³ºìÌº--½ÓÊÜÐÂÀË²É·Ã
-(0212
-06:33)
+(0212 06:33)
 Í¼ÎÄ£º¡¶ÎÄÈ¸¡·Ê×Ó³ºìÌº--ÈÎ´ï»ªÏíÊÜºìÌº
-(0212
-06:33)
+(0212 06:33)
 Í¼ÎÄ£º¡¶ÎÄÈ¸¡·Ê×Ó³ºìÌº--ÈÎ´ï»ªÇáËÉÊÜ·Ã
-(0212
-06:33)
+(0212 06:33)
 Í¼ÎÄ£º¡¶ÎÄÈ¸¡·Ê×Ó³ºìÌº--½ÓÊÜ²É·ÃÌ¸ÎÄÈ¸
-(0212
-06:33)
+(0212 06:33)
 ¸ü¶àÄÚÈÝ
 ¾«²ÊÊÓÆµ
 ÊÓÆµ£º°ØÁÖ¶Ô»°ÁÖÎõÀÙ
 ÆÚÍû¡¶ÎÄÈ¸¡·ÄÜ»ñ½ðÐÜ
-(0213
-09:36)
+(0213 09:36)
 ÊÓÆµ£ºÊæä¿ÖúÕóÎÄÈ¸ºìÌº
 ÁÖÎõÀÙÈÎ´ï»ªÏ£Íû»ñ½±
-(0212
-09:53)
+(0212 09:53)
 ÊÓÆµ£º¶Åç÷·åÁÖÎõÀÙÈÎ´ï»ª
 ³öÏ¯¡¶ÎÄÈ¸¡··¢²¼»á
-(0212
-09:51)
+(0212 09:51)
 ÊÓÆµ£ºÐÂÀËÓéÀÖ¶À¼Ò×¨·Ã¡¶×óÓÒ¡·µ¼ÑÝÍõÐ¡Ë§
-(0211
-11:01)
+(0211 11:01)
 ÊÓÆµ£º¡¶»¨Ô°ÀïµÄÓ©»ð³æ¡·º£µÇÏòÖÐ¹úÓ°ÃÔÎÊºÃ
-(0211
-10:32)
+(0211 10:32)
 ÊÓÆµ£º¡¶Íì¸è¡·Ê×Ó³ºìÌº
 Å®ÐÇ¿ËÂ³×ÈÒý±¬»á³¡
-(0211
-09:54)
+(0211 09:54)
 ÊÓÆµ£ºÐÂÀËÓéÀÖ¶À¼Ò¶Ô»°¡¶×óÓÒ¡·ÖÆÆ¬ÈË»Æ±ó
-(0211
-00:40)
+(0211 00:40)
 ÊÓÆµ£ºÐÂÀËÓéÀÖ¶À¼Ò¶Ô»°µçÓ°¡¶×óÓÒ¡·Ö÷´´ÁõÍþÝÚ
-(0210
-16:21)
+(0210 16:21)
 ÊÓÆµ£ºÐÂÀËÓéÀÖ¶À¼Ò¶Ô»°µçÓ°¡¶×óÓÒ¡·Ö÷´´ÕÅ¼ÎÒë
-(0210
-16:12)
+(0210 16:12)
 ÊÓÆµ£ºÐÂÀËÓéÀÖ¶À¼Ò¶Ô»°µçÓ°¡¶×óÓÒ¡·Ö÷´´³ÉÌ©Ÿö
-(0210
-16:07)
+(0210 16:07)
 ÊÓÆµ£ºÍõÐ¡Ë§ÂÊÖ÷´´Ì¤¡¶×óÓÒ¡·°ØÁÖÊ×Ó³Ê½ºìÌº
-(0210
-15:59)
+(0210 15:59)
 ÊÓÆµ£º¡¶×óÓÒ¡·°ØÁÖÇì¹¦
 ÍõÐ¡Ë§ÆÚ´ý¹úÄÚÆ±·¿ºÃ
-(0210
-10:15)
+(0210 10:15)
 ÊÓÆµ£ºµçÓ°¡¶Ò¹»¨Ô°¡·Ê×Ó³ºìµØÌº
-(0210
-09:29)
+(0210 09:29)
 ÊÓÆµ£ºÍõÐ¡Ë§ÂÊ¡¶×óÓÒ¡·Ö÷´´³öÏ¯°ØÁÖ·¢²¼»á
-(0210
-05:23)
+(0210 05:23)
 ÊÓÆµ£ºµÚ58½ì°ØÁÖµçÓ°½Ú¿ªÄ»Ê½¾«²ÊÆ¬¶Î»Ø·Å
-(0210
-04:12)
+(0210 04:12)
 ÊÓÆµ£º°ØÁÖµçÓ°½ÚÆÀÎ¯ÁÁÏà
 Êæä¿¶Ë×¯Ãî´ðÌáÎÊ
-(0210
-02:57)
+(0210 02:57)
 ÊÓÆµ£ºË¹¿ÆÈûË¹£º¹öÊ¯µÄÒôÀÖÊÇÎÒÉúÃüµÄÒ»²¿·Ö
-(0210
-02:48)
+(0210 02:48)
 ÊÓÆµ£º¹öÊ¯Ö÷³ª¼Ö¸ñ¶ù²»ÂúµÂ¹ú¼ÇÕßÌáÎÊºÚÁ³
-(0210
-02:45)
+(0210 02:45)
 ÊÓÆµ£ºÊæä¿ö¦×±ÁÁÏàµÚ58½ì°ØÁÖµçÓ°½Ú
-(0210
-02:39)
+(0210 02:39)
 ÊÓÆµ£º¹öÊ¯¼ªËûÊÖÈÙ-ÎéµÂÏòÖÐ¹úÍøÓÑÎÊºÃ
-(0209
-21:40)
+(0209 21:40)
 ÊÓÆµ£º¹öÊ¯³ÉÔ±¿­Ë¹½ÓÊÜ²É·Ã
 ±¾É«³öÑÝÀÖÔÚÆäÖÐ
-(0209
-19:23)
+(0209 19:23)
 ÊÓÆµ£º58½ì°ØÁÖµçÓ°½Úµ¹¼ÆÊ±¿ªÊ¼
 »á³¡Æø·ÕÅ¨ºñ
-(0207
-20:40)
+(0207 20:40)
 ÊÓÆµ£ºÊæä¿ÒÑµÖ´ï°ØÁÖ
 ËØÑÕ×öÆÀÎ¯µçÓ°½Ú¹ý´º½Ú
-(0206
-01:51)
+(0206 01:51)
 ¸ü¶àÄÚÈÝ
 ÏÖ³¡¿ìÑ¶
 ¿ìÑ¶£º°ØÁÖµçÓ°½ÚºìÌº½áÊø
 ¼Î±öÃÇ¾²´ý¿ªÄ»Æ¬
-(0208
-02:51)
+(0208 02:51)
 ¿ìÑ¶£º¸èÃÔÈÔÔÚºô»½
 Ê®·ÖÖÓºó·ÅÓ³¡¶ÉÁÁÁÖ®¹â¡·
-(0208
-02:49)
+(0208 02:49)
 ¿ìÑ¶£º¹öÊ¯·Ö¿ª½ÓÊÜ×¨·Ã
 ±íÇé¸ã¹Ö¾¡ÏÔÌìÍõ·¶
-(0208
-02:48)
+(0208 02:48)
 ¿ìÑ¶£º¸èÃÔ¼¯Ìåºô»½¹öÊ¯ÀÖ¶Ó
 ÄÅº°ÉùÕûÆë»®Ò»
-(0208
-02:47)
+(0208 02:47)
 ¿ìÑ¶£ºÃ×ÆæÂÊÏÈ½øÈë»á³¡
 Òý·¢ÔÚ³¡¸èÃÔÃ½Ìå²»Âú
-(0208
-02:47)
+(0208 02:47)
 ¿ìÑ¶£º¹öÊ¯ÀÖ¶ÓÖ÷Òô¼ªËûÊÖ¿­Ë¹-Àí²éµÂÈÈÇéÓÑºÃ
-(0208
-02:45)
+(0208 02:45)
 ¿ìÑ¶£º¹öÊ¯ÀÖ¶ÓËÄ³ÉÔ±Ò»ÆðÏòÖÐ¹ú¸èÃÔ»ÓÊÖÖÂÒâ
-(0208
-02:45)
+(0208 02:45)
 ¿ìÑ¶£º¸èÃÔºô»½¡¶ÉÁÁÁÖ®¹â¡·
 Îå´óÀÏË§¸ç·ç¶È×ã
-(0208
-02:41)
+(0208 02:41)
 ¿ìÑ¶£º¹öÊ¯ËÄ×Ó·çÔÏÓÌÔÚ
 Ì¨·çÀÏÀ±¸èÃÔÎªÖ®ÐÄ¶¯
-(0208
-02:40)
+(0208 02:40)
 ¿ìÑ¶£º¹öÊ¯ÏÖÉí±ãÓëÂí¶¡Óµ±§
 ÎåÈËºÏÓ°·ÛË¿·è¿ñ
-(0208
-02:39)
+(0208 02:39)
 ¿ìÑ¶£ºÀÏÂí¶¡³ÉºìÌº×îÈÈÃÅÈËÎï
 ·ÛË¿¼â½ÐÏÔÈÈÇé
-(0208
-02:35)
+(0208 02:35)
 ¿ìÑ¶£º´óÒøÄ»ÎªºæÍÐÆø·ÕÔÙ²¥¡¶ÉÁÁÁÖ®¹â¡·Æ¬¶Î
-(0208
-02:30)
+(0208 02:30)
 ¿ìÑ¶£ºÀÏÂí¶¡ÁÁÏàºìÌº
 ÀÏ½«Ñ¹ÕóÏÔ¿ªÄ»Æ¬ÆøÊÆ
-(0208
-02:29)
+(0208 02:29)
 ¿ìÑ¶£º¿ËÂ³¸ñÊæä¿¸÷×Ô·ÛË¿ÎªÐÄÖÐÅ¼ÏñÂôÁ¦¸ßºô
-(0208
-02:26)
+(0208 02:26)
 ¿ìÑ¶£º¿ËÂ³¸ñºÚÉ«Â¶±³³¤È¹ÓëÊæä¿³¤È¹¿îÊ½À×Í¬
-(0208
-02:25)
+(0208 02:25)
 ¿ìÑ¶£ºÊæä¿Éí×ÅÈâ¹ðÉ«Àñ·þ³¤È¹
 ÍðÈçÏ£À°Å®Éñ
-(0208
-02:25)
+(0208 02:25)
 ¿ìÑ¶£º¿ÆË¹ËþÐ¯ÆÀÎ¯µÇ³¡
 Êæä¿ÅÌÆð³¤·¢ÏÔåüÃÄ
-(0208
-02:24)
+(0208 02:24)
 ¿ìÑ¶£ººìÌºÃ÷ÐÇ¾ù¶Ô¡¶ÉÁÁÁÖ®¹â¡·±§ÓÐºÜ¸ßÆÚ´ý
-(0208
-02:21)
+(0208 02:21)
 ¿ìÑ¶£ºÔÙ²¥¡¶ÉÁÁÁÖ®¹â¡·ÒÔ¼°¹öÊ¯¼ûÃæ»áÆ¬¶Î
-(0208
-02:20)
+(0208 02:20)
 ¿ìÑ¶£º½ÜÎ÷¿¨µÂ¹úÈËÆøÆÄ¸ß
 ÇåÁ¹´ò°çÎªÆä¼Ó·Ö
-(0208
-02:13)
+(0208 02:13)
 ¿ìÑ¶£º½ÜÎ÷¿¨×Åµõ´ø°×É«³¤È¹Â¶Óñ±³ÏÖÉíºìÌº
-(0208
-02:12)
+(0208 02:12)
 ¿ìÑ¶£ºµÂ¹ú±¾ÍÁÅ®ÐÇººÄÈÏÖÉí
 ÆäÓ°Æ¬Ò²½«²ÎÕ¹
-(0208
-02:01)
+(0208 02:01)
 ¿ìÑ¶£º´óÒøÄ»²¥·Å°ØÁÖÒ¹¾°
 ³ÇÊÐ¾²Ú×µÆ»ð»Ô»Í
-(0208
-01:59)
+(0208 01:59)
 ¿ìÑ¶£ººÃÀ³ÎëÅ®ÐÇ¿ÆµÏ-»ô¶÷Éí×ÅÆ¤²ÝÏÔÓºÈÝ
-(0208
-01:58)
+(0208 01:58)
 ¿ìÑ¶£ºµÂ¹ú±¾ÍÁÅ®ÐÇµÏÄÈ-µÏÌØÐ¯ÄÐÓÑÁÁÏà
-(0208
-01:52)
+(0208 01:52)
 ¿ìÑ¶£º°ØÁÖºìÌºÅ®ÐÇ×Å×°±£ÊØ
 ÉÔÏÔÐÔ¸Ð¼´³É½¹µã
-(0208
-01:50)
+(0208 01:50)
 ¿ìÑ¶£º¼Î±öÅõ³¡¡¶ÉÁÁÁÖ®¹â¡·
 ¾ù×ÅÊ¢×°ÁÁÏàºìÌº
-(0208
-01:49)
+(0208 01:49)
 ¿ìÑ¶£º¹öÊ¯ÀÖ¶Ó³Ù³ÙÎ´µÇ³¡
 ·ÛË¿ºôÉùÖð½¥¸ßÕÇ
-(0208
-01:48)
+(0208 01:48)
 ¿ìÑ¶£ºÁ½Î»Å®ÐÇÇ×ÃÜ×´µÇ³¡
 ½ð·¢Ò«ÑÛÁ÷Á¬ºìÌº
-(0208
-01:47)
+(0208 01:47)
 ¸ü¶àÄÚÈÝ
 °ØÁÖ×ÊÁÏ¿â
 ×ÊÁÏ£ºµÚ58½ì°ØÁÖµçÓ°½ÚÖ÷¾ºÈüµ¥ÔªÆÀÎ¯ÎÖ¶ûÌØ-Ä¬Ææ
-(0131
-19:10)
+(0131 19:10)
 ×ÊÁÏ£ºµÚ58½ì°ØÁÖµçÓ°½ÚÖ÷¾ºÈüµ¥ÔªÆÀÎ¯÷ì°²-¿ËÂ³¸ñ
-(0131
-19:10)
+(0131 19:10)
 ×ÊÁÏ£ºµÚ58½ì°ØÁÖµçÓ°½ÚÖ÷¾ºÈüµ¥ÔªÆÀÎ¯ÎÚÀï-ººÄáÊ²
-(0131
-19:10)
+(0131 19:10)
 ×ÊÁÏ£ºµÚ58½ì°ØÁÖµçÓ°½ÚÖ÷¾ºÈüµ¥ÔªÆÀÎ¯É£µÂÀïÄÈ
-(0131
-19:10)
+(0131 19:10)
 ×ÊÁÏ£ºµÚ58½ì°ØÁÖµçÓ°½ÚÖ÷¾ºÈüµ¥ÔªÆÀÎ¯ËÕÉºÄÈ
-(0131
-19:10)
+(0131 19:10)
 ×ÊÁÏ£ºµÚ58½ì°ØÁÖµçÓ°½ÚÖ÷¾ºÈüµ¥ÔªÆÀÎ¯ÑÇÀúÉ½´ó
-(0131
-19:10)
+(0131 19:10)
 ×ÊÁÏ£ºµÚ58½ì°ØÁÖµçÓ°½ÚÖ÷¾ºÈüµ¥ÔªÆÀÎ¯»áÖ÷Ï¯¿ÆË¹Ëþ
-(0131
-19:10)
+(0131 19:10)
 ×ÊÁÏ£ºµÚ58½ì°ØÁÖµçÓ°½ÚÖ÷¾ºÈüµ¥ÔªÆÀÎ¯Êæä¿
-(0131
-19:10)
+(0131 19:10)
 ×ÊÁÏ£ºµÚ58½ì°ØÁÖµçÓ°½ÚÖ÷¾ºÈüµ¥Ôª²ÎÈü²ÎÕ¹Æ¬Ä¿
-(0130
-23:23)
+(0130 23:23)
 °ØÁÖµçÓ°½ÚÈ«¾°µ¥ÔªÖ®¡¶Ò»ÇÐ¶¼ºÃ¡·
-(0129
-23:50)
+(0129 23:50)
 °ØÁÖµçÓ°½ÚÈ«¾°µ¥ÔªÖ®¡¶À­¿üÀ­Å®ÍõéóÊÂ¡·
-(0129
-23:49)
+(0129 23:49)
 °ØÁÖµçÓ°½ÚÈ«¾°µ¥ÔªÖ®¡¶ÃÀÈËÓã¡·
-(0129
-23:47)
+(0129 23:47)
 °ØÁÖµçÓ°½ÚÈ«¾°µ¥ÔªÖ®¡¶Æ®ÀËÇà´º¡·
-(0129
-23:46)
+(0129 23:46)
 °ØÁÖµçÓ°½ÚÈ«¾°µ¥ÔªÖ®¡¶°ÂÍÐ£¬Óë½©Ê¬Í¬ÐÐ¡·
-(0129
-23:45)
+(0129 23:45)
 °ØÁÖµçÓ°½ÚÈ«¾°µ¥ÔªÖ®¡¶ÑÛ¾µ¡·
-(0129
-23:43)
+(0129 23:43)
 °ØÁÖµçÓ°½ÚÈ«¾°µ¥ÔªÖ®¡¶ÁíÒ»¸ö°®Çé¹ÊÊÂ¡·
-(0129
-23:42)
+(0129 23:42)
 °ØÁÖµçÓ°½ÚÈ«¾°µ¥ÔªÖ®¡¶½Ç¶·¡·
-(0129
-23:41)
+(0129 23:41)
 °ØÁÖµçÓ°½ÚÈ«¾°µ¥ÔªÖ®¡¶Ò®Â·ÈöÀä¡·
-(0129
-23:40)
+(0129 23:40)
 °ØÁÖµçÓ°½ÚÈ«¾°µ¥ÔªÖ®¡¶ÎÒÀ´×ÔÌáÍ¼·ò¡·
-(0129
-23:39)
+(0129 23:39)
 °ØÁÖµçÓ°½ÚÈ«¾°µ¥ÔªÖ®¡¶³õÁµ¡·
-(0129
-23:38)
+(0129 23:38)
 °ØÁÖµçÓ°½ÚÈ«¾°µ¥ÔªÖ®¡¶Ë®×å¹Ý¡·
-(0129
-23:37)
+(0129 23:37)
 °ØÁÖµçÓ°½ÚÈ«¾°µ¥ÔªÖ®¡¶ËéÆ¬¡·
-(0129
-23:36)
+(0129 23:36)
 °ØÁÖµçÓ°½ÚÈ«¾°µ¥ÔªÖ®¡¶ÃÎÄÐº¢¡·
-(0129
-23:35)
+(0129 23:35)
 °ØÁÖµçÓ°½ÚÈ«¾°µ¥ÔªÖ®¡¶×ï¶ñ¡·
-(0129
-23:34)
+(0129 23:34)
 °ØÁÖµçÓ°½ÚÈ«¾°µ¥ÔªÖ®¡¶Å®ÈËÐÄ¡·
-(0129
-23:32)
+(0129 23:32)
 °ØÁÖµçÓ°½ÚÈ«¾°µ¥ÔªÖ®¡¶ÄÐº¢A¡·
-(0129
-23:31)
+(0129 23:31)
 ×ÊÁÏ£ºµÚ58½ì°ØÁÖµçÓ°½ÚÈ«¾°µ¥Ôª
-(0128
-11:45)
+(0128 11:45)
 ×ÊÁÏ£ºµÚ58½ì°ØÁÖµçÓ°½Ú¶ÌÆ¬µ¥Ôª½éÉÜ
-(0128
-11:36)
+(0128 11:36)
 58½ì°ØÁÖµçÓ°½ÚÖ÷¾ºÈüµ¥Ôª-¡¶ÉÁÁÁÖ®¹â¡·
-(0126
-23:17)
+(0126 23:17)
 ¸ü¶àÄÚÈÝ
 ¡¤ÖÆ×÷ÍÅ¶Ó¡¤
 Ôð±à£ºÔÞÌ«¡¢ÀîÀÚ
@@ -45262,300 +43365,212 @@ PK
 ÐÂÎÅ±¨µÀ
 Ç°ÑëÊÓÖ÷³ÖÈËÕÔÁÕÌôÕ½×ÔÎÒ
 ÓÂ´³¡¶ÃûÉù´óÕð¡·
-(1030
-17:53)
+(1030 17:53)
 ÃûÉù´óÕðÆÀÎ¯ÕóÈÝ³öÂ¯
 °üÐ¡°ØËÎ¿ÂºÍºÚéªµ£¸Ù
-(1030
-17:39)
+(1030 17:39)
 11ÔÂ1ÈÕÖ±²¥ÃûÉù´óÕð¼ûÃæ»á
 ³¬Ç¿Ã÷ÐÇÕóÈÝÁÁÏà
-(1030
-16:31)
+(1030 16:31)
 ¡¶ÃûÉù´óÕð¡·ÕóÈÝÇÃ¶¨
 º«¹úÃÀÅ®·ÇÖÞË§¸ç¾¡ÔÚ
-(1030
-11:43)
+(1030 11:43)
 ÃûÉù´óÕð18Ã÷ÐÇÇÃ¶¨
 ¹úÄÚÍâÒ»ÏßÒÕÈËÈ«Á¦³å»÷
-(1029
-19:09)
+(1029 19:09)
 ÃûÉù´óÕðÃ÷ÐÇÕóÈÝ¸¡³öË®Ãæ
 É£Ñ©½Ó°ôÁõè¯³å¹Ú¾ü
-(1029
-00:45)
+(1029 00:45)
 º«¹úÃÀÅ®²Ìåû¼òÃÀåû¼ÓÃË¡°ÃûÉù´óÕð¡±µÚ¶þ¼¾
-(1028
-17:24)
+(1028 17:24)
 ¡°ÃûÉù´óÕð¡±µÚ¶þ¼¾½«¿ª²¥
 Ì©°æÕÅö¦Ó±ÈÈÁ¦¼ÓÃË
-(1028
-01:39)
+(1028 01:39)
 ÃûÉù´óÕðÖ÷´´ÁÄÌìÊµÂ¼-Íôº­³ÎÇå²¡ÇéÑÏÖØ´«ÎÅ
-(1026
-18:27)
+(1026 18:27)
 ÃûÉù´óÕðÖ÷´´ÁÄÌìÊµÂ¼-Íôº­Í¸Â¶Å®´îµµÈËÑ¡ÃØÃÜ
-(1026
-18:27)
+(1026 18:27)
 ¡¶ÃûÉù´óÕð¡·¶þ¼¾½«ÍÆ³ö
 ³ÂÂ³Ô¥Íôº­×öÖ÷³Ö(Í¼)
-(1024
-01:10)
+(1024 01:10)
 Ê®ÔÂ·Å¸èµÚ2³¡¼¤ÇéÑóÒç
 ×æ¹ú5ÄêÔ¾Ç¨Æ¬¶ÎÖØÏÖ
-(1019
-21:47)
+(1019 21:47)
 ¡¶ÎªÃÎÏë¶øÕ½¡·½ÚÄ¿µ¥³öÂ¯
 ÖÚÐÇÎª¹ÛÖÚÊµÏÖÐÄÔ¸
-(0308
-17:25)
+(0308 17:25)
 ¡¶ÃûÉù´óÕð¡·¾«»ª´óÅÌµã
 ½ñÍí°ËÏÉ¹ýº£ÈºÐÇ°ÝÄê
-(0209
-15:43)
+(0209 15:43)
 ÆÓÊ÷ÓÎÏ·Ò²µÃÈÏÕæÍæ
 ¡¶ÃûÉù´óÕð¡·ÖÐÖÕ¶á¹Ú
-(0205
-08:03)
+(0205 08:03)
 ¡¶ÃûÉù´óÕð¡·×Ü¾öÈüÂäÄ»
 Ã÷ÐÇÒ²´òÇ×Çé°®ÇéÅÆ
-(0203
-15:02)
+(0203 15:02)
 ÆÓÊ÷Áõè¯³É¡°ÃûÉù´óÕð¡±×Ü¹Ú¾ü
 Ï²Å­°§ÀÖ²»×ö×÷
-(0203
-09:31)
+(0203 09:31)
 ÆÓÊ÷Áõè¯Õæ³ÏÓë¹²
 ¶á¹Ú¡°ÃûÉù´óÕð¡±²»Ö¹ÓéÀÖ
-(0202
-23:28)
+(0202 23:28)
 ¡¶ÃûÉù´óÕð¡·µÚÒ»¼¾ÂäÄ»
 ÆÓÊ÷Áõè¯ÎÊ¶¦¹Ú¾ü(Í¼)
-(0202
-21:49)
+(0202 21:49)
 ¸ü¶àÄÚÈÝ
 Í¼ÎÄ±¨µÀ
 Í¼ÎÄ£ºÃûÉù´óÕðÖ÷´´×ö¿ÍÐÂÀË-Íôº­Ù©Ù©¶øÌ¸
-(1026
-19:14)
+(1026 19:14)
 Í¼ÎÄ£ºÃûÉù´óÕðÖ÷´´×ö¿ÍÐÂÀË-Ò×æèÌ¸½ÚÄ¿¹¹Ïë
-(1026
-19:14)
+(1026 19:14)
 Í¼ÎÄ£ºÃûÉù´óÕðÖ÷´´×ö¿ÍÐÂÀË-Íôº­ºÜÆÚ´ýµÚ¶þ¼¾
-(1026
-19:14)
+(1026 19:14)
 Í¼ÎÄ£ºÃûÉù´óÕðÖ÷´´×ö¿ÍÐÂÀË-Íôº­³ÎÇå²¡Çé´«ÎÅ
-(1026
-19:14)
+(1026 19:14)
 Í¼ÎÄ£ºÃûÉù´óÕðÖ÷´´×ö¿ÍÐÂÀË-Ò×æèÍôº­Ä¬Æõ
-(1026
-19:14)
+(1026 19:14)
 Í¼ÎÄ£ºÃûÉù´óÕðÖ÷´´×ö¿ÍÐÂÀË-Íôº­Í¸Â¶Å®´îµµ
-(1026
-19:14)
+(1026 19:14)
 Í¼ÎÄ£ºÃûÉù´óÕðÖ÷´´×ö¿ÍÐÂÀË-Íôº­±íÇé·ÅËÉ
-(1026
-19:14)
+(1026 19:14)
 Í¼ÎÄ£ºÃûÉù´óÕðÖ÷´´×ö¿ÍÐÂÀË-Íôº­¼çÉÏµ£×ÓÖØ
-(1026
-19:14)
+(1026 19:14)
 Í¼ÎÄ£ºÃûÉù´óÕðÖ÷´´×ö¿ÍÐÂÀË-Ö÷´´Ì¸Ì¨Ç°Ä»ºó
-(1026
-19:14)
+(1026 19:14)
 Í¼ÎÄ£ºÃûÉù´óÕðÖ÷´´×ö¿ÍÐÂÀË-Íôº­¶Ô»°Ö÷³ÖÈË
-(1026
-19:14)
+(1026 19:14)
 Í¼ÎÄ£ºÃûÉù´óÕðÖ÷´´×ö¿ÍÐÂÀË-Íôº­ÄÃ×ÅÐ¡ÀËÈË
-(1026
-19:14)
+(1026 19:14)
 Í¼ÎÄ£ºÃûÉù´óÕðÖ÷´´×ö¿ÍÐÂÀË-×Üµ¼ÑÝÒ×æè
-(1026
-19:14)
+(1026 19:14)
 Í¼ÎÄ£ºÃûÉù´óÕðÖ÷´´×ö¿ÍÐÂÀË-Íôº­ÈÎÎñÖØ
-(1026
-19:14)
+(1026 19:14)
 Í¼ÎÄ£ºÃûÉù´óÕðÖ÷´´×ö¿ÍÐÂÀË-Íôº­ºÍÒ×æè
-(1026
-19:14)
+(1026 19:14)
 Í¼ÎÄ£ºÃûÉù´óÕðÖ÷´´×ö¿ÍÐÂÀË-Á½Î»Ö÷´´µ½³¡
-(1026
-19:14)
+(1026 19:14)
 Í¼ÎÄ£ºÁ½×éÑ¡ÊÖÓµ±§ÔÚÒ»Æð
-(0202
-23:19)
+(0202 23:19)
 Í¼ÎÄ£ºÐ»ÓêÐÀºÍÁõè¯Óµ±§
-(0202
-23:19)
+(0202 23:19)
 Í¼ÎÄ£º¹ùÌÎÐ»ÓêÐÀÆ½¾²µÈ´ý
-(0202
-23:19)
+(0202 23:19)
 Í¼ÎÄ£º×Ü¾öÈü¹Ú¾ü½±±­
-(0202
-23:19)
+(0202 23:19)
 ¸ü¶àÄÚÈÝ
 ¾«²ÊÊÓÆµ
 ÊÓÆµ£ºÃûÉù´óÕðÍôº­ÐÂÀËÁÄÌì³ÎÇå²¡Çé´«ÎÅ
-(1026
-20:10)
+(1026 20:10)
 ÊÓÆµ£ºÃûÉù´óÕðÍôº­ÐÂÀËÁÄÌì½âÃÜÅ®´îµµÈËÑ¡
-(1026
-20:09)
+(1026 20:09)
 ÊÓÆµ£ºÌ··Éºé»ÎÖ£Ô¨½à×ö¿ÍÐÂÀËÁÄ¡¶ÃûÉù´óÕð¡·
-(0202
-18:53)
+(0202 18:53)
 ÊÓÆµ£ºÓÚÄÈÎ×ÆôÏÍ×ö¿ÍÐÂÀËÁÄ¡¶ÃûÉù´óÕð¡·
-(0202
-17:48)
+(0202 17:48)
 ÊÓÆµ£ºÓÚÐ¡Î°°¢É£ºÚéª×ö¿ÍÐÂÀËÁÄ¡¶ÃûÉù´óÕð¡·
-(0201
-23:51)
+(0201 23:51)
 ÊÓÆµ£º¡°ÌÍÐÄ¡±×éºÏ¹ùÌÎÐ»ÓêÐÀÁÄ¡¶ÃûÉù´óÕð¡·
-(0201
-22:41)
+(0201 22:41)
 ÊÓÆµ£ºÆÓÊ÷Áõè¯ÐÂÀË³©Ì¸²Î¼Ó¡¶ÃûÉù´óÕð¡·¾­Àú
-(0201
-16:49)
+(0201 16:49)
 ÊÓÆµ£º¡¶ÃûÉù´óÕð¡·µÚÆß³¡¡°³å´ÌáÛ·å¡±
-(0126
-19:27)
+(0126 19:27)
 ÊÓÆµ£º¡¶ÃûÉù´óÕð¡·µÚÁù³¡¡°Åù½øÈý¼×¡±
-(0119
-19:16)
+(0119 19:16)
 ÊÓÆµ£ºÒ¶Ýíºú¶«×ö¿ÍÁÄ¡¶ÃûÉù´óÕð¡·
-(0118
-16:48)
+(0118 16:48)
 ÊÓÆµ£º¡¶ÃûÉù´óÕð¡·ÓÚÄÈ°ç»¤Ê¿Å°´ýÎ×ÆôÏÍ
-(0117
-15:49)
+(0117 15:49)
 ÊÓÆµ£º¡¶ÃûÉù´óÕð¡·µÚÎå³¡
 Ò¶Ýíºú¶«×éºÏÔâÌÔÌ­
-(0113
-13:06)
+(0113 13:06)
 ÊÓÆµ£º¡¶ÃûÉù´óÕð¡·µÚÎå³¡¡°ç²ÀöÖ®ÂÃ¡±
-(0112
-19:30)
+(0112 19:30)
 ÊÓÆµ£ºê°ÌìË·ÖÜº£ÃÄ¡¶ÃûÉù´óÕð¡·ÒÅº¶ÔâÌÔÌ­
-(0106
-12:08)
+(0106 12:08)
 ÊÓÆµ£º¡¶ÃûÉù´óÕð¡·µÚÈý³¡ÂäÄ»
 ºÚéª°¢É£ÔâÌÔÌ­
-(1230
-02:42)
+(1230 02:42)
 ¶À¼ÒÊÓÆµ£º¿ÂÒÔÃôÅÚºä¡¶ÃûÉù´óÕð¡·ÆÀÎ¯ÐíÏþ·å
-(1226
-18:06)
+(1226 18:06)
 ÊÓÆµ£º¡¶ÃûÉù´óÕð¡·µÚ¶þ³¡
 ¿ÂÒÔÃôÓÚÐ¡Î°ÔâÌÔÌ­
-(1223
-01:04)
+(1223 01:04)
 ÊÓÆµ£º¡¶ÃûÉù´óÕð¡·µÚÒ»³¡
 È«Ã÷ÐÇÕóÈÝ¿ª³ª
-(1216
-00:48)
+(1216 00:48)
 ÊÓÆµ£º»Æ½¡ÏèÍôº­Á½´óÃû×ìPK
 ÆÚ´ýË«ÐÛÆðÎè
-(1214
-17:59)
+(1214 17:59)
 ¸ü¶àÄÚÈÝ
 ÆÀÉóÍÅ
 ×ÊÁÏ£º¡¶ÃûÉù´óÕð¡·ÆÀÎ¯--ÕÅÑÇ¶«(×éÍ¼)
-(0118
-12:40)
+(0118 12:40)
 ×ÊÁÏ£º¡¶ÃûÉù´óÕð¡·ÆÀÎ¯--ÂÀË¼Çå(×éÍ¼)
-(0103
-20:46)
+(0103 20:46)
 ×ÊÁÏ£º¡¶ÃûÉù´óÕð¡·ÆÀÎ¯--°üÐ¡ËÉ(¸½Í¼)
-(0103
-20:43)
+(0103 20:43)
 ×ÊÁÏ£º¡¶ÃûÉù´óÕð¡·ÆÀÎ¯--»Æ´óì¿(¸½Í¼)
-(1228
-17:05)
+(1228 17:05)
 ×ÊÁÏ£º¡¶ÃûÉù´óÕð¡·ÆÀÎ¯--ÐíÏþ·å(¸½Í¼)
-(1221
-14:41)
+(1221 14:41)
 ×ÊÁÏ£º¡¶ÃûÉù´óÕð¡·ÆÀÎ¯--ÎéÖÞÍ®(×éÍ¼)
-(1214
-11:49)
+(1214 11:49)
 ×ÊÁÏ£º¡¶ÃûÉù´óÕð¡·ÆÀÎ¯--Íõ¶«(¸½Í¼)
-(1213
-14:21)
+(1213 14:21)
 ×ÊÁÏ£º¡¶ÃûÉù´óÕð¡·ÆÀÎ¯--Ð¡¿Â(×éÍ¼)
-(1213
-14:18)
+(1213 14:18)
 ×ÊÁÏ£º¡¶ÃûÉù´óÕð¡·ÆÀÎ¯--»Æ½¡Ïè(×éÍ¼)
-(1208
-00:48)
+(1208 00:48)
 ×ÊÁÏ£º¡¶ÃûÉù´óÕð¡·ÆÀÎ¯--ÀîÁáÓñ(×éÍ¼)
-(1208
-00:45)
+(1208 00:45)
 ×ÊÁÏ£º¡¶ÃûÉù´óÕð¡·ÆÀÎ¯--Õç×Óµ¤(×éÍ¼)
-(1208
-00:42)
+(1208 00:42)
 ×ÊÁÏ£º¡¶ÃûÉù´óÕð¡·ÆÀÎ¯--»ÆÔÏÁá(×éÍ¼)
-(1208
-00:40)
+(1208 00:40)
 ¸ü¶àÄÚÈÝ
 ¾«²ÊÆÀÂÛ
 ÃûÉù´óÕð¡ª¹ùÌÎÆ¾Ê²Ã´Ëµ×Ô¼ºÓÐ¶ù×ÓÁË
-(0205
-18:06)
+(0205 18:06)
 ÌæÉíºÍ°éÂÂ--ÎéÖÞÍ®×ö¡¶ÃûÉù´óÕð¡·ÆÀÎ¯ÓÐ¸Ð
-(0130
-15:31)
+(0130 15:31)
 ÖÚ¼Î±öÖúÕóÈÃ¡¶ÃûÉù´óÕð¡·Ãû¸±ÆäÊµ
-(0128
-02:30)
+(0128 02:30)
 ¹ûÈ»ÊÇÆÓÊ÷ºÍ³¬Å®À´Íì¾È¡¶ÃûÉù´óÕð¡·
-(0127
-04:06)
+(0127 04:06)
 ÆÓè¯×éºÏÒ»ÎÇ½ú¼¶
 ·è¿ñÊ¯Í··¢·èµ½µ×
-(0127
-00:37)
+(0127 00:37)
 ¡¶ÃûÉù´óÕð¡·»Æ½¡Ïè¡¢ÆÓÊ÷ÐÊÐÊÏàÏ§
-(0126
-23:37)
+(0126 23:37)
 ÃûÉù´óÕð¹Ú¾üÎªºÎÊÇÆÓÊ÷Áõè¯
-(0126
-23:32)
+(0126 23:32)
 Ì··É£º¡¶ÃûÉù´óÕð¡·ÆÓÊ÷·òÆÞÈÈÎÇÈÚ»¯ç³ÎÅ
-(0126
-23:21)
+(0126 23:21)
 ¡¶ÃûÉù´óÕð¡·£º¹ùÌÎµÄ±¾É«Õ½Ê¤ÁËÍôº­µÄ¡°×ö×÷¡±
-(0126
-23:10)
+(0126 23:10)
 ÆÓÊ÷²»¸ÒÏòÎâÏþÃôÐíÏÂÎ´À´
 ÒÉËÆÐÄÀïÒÑÓÐËýÈË
-(0126
-23:09)
+(0126 23:09)
 Íôº­ÌÀ²Ó´Ó¡°ÌìÌÃ¡±µøÈë¡°µØÓü¡±
-(0126
-23:06)
+(0126 23:06)
 ¡¶ÃûÉù´óÕð¡·£ºÍôº­ÌÀ²ÓÊäµÄ²»Ô©Í÷
-(0126
-22:56)
+(0126 22:56)
 ¡¶ÃûÉù´óÕð¡·£ºÑ¡ÊÖÊ¹¾¡»ëÉí½âÊý¡°³å´ÌáÛ·å¡±
-(0126
-22:47)
+(0126 22:47)
 ¡¶ÃûÉù´óÕð¡·ÆÓÊ÷Ð¯Ì«Ì«´òÆÆ´«ÎÅ³åÉÏáÛ·å
-(0126
-22:34)
+(0126 22:34)
 Íôº­ÌÀ²ÓÔÚ¼ÒÃÅ¿Ú¡°Ä±É±¡±ÁË×Ô¼º
-(0126
-22:29)
+(0126 22:29)
 ÀîÓî´º³ÉÁË¡¶ÃûÉù´óÕð¡·µÄ¾ÈÃüµ¾²Ý
-(0124
-16:00)
+(0124 16:00)
 Î×ÆôÏÍ£ºÃûÉù´óÕðÃúÓÚÐÄ
 ÉîÇéµãÆÀ°Ë¶Ô×éºÏ(Í¼)
-(0124
-12:41)
+(0124 12:41)
 Íõ¶«£ºÈçºÎ°ÑÃûÉù´óÕðÓë¡¶ÁæÈËÍùÊÂ¡·³¶µ½Ò»Æð
-(0122
-16:56)
+(0122 16:56)
 ¡¶ÃûÉù´óÕð¡·¾ÓÈ»ÕÒµ½¡¶³¬¼¶Å®Éù¡·µÄ¸Ð¶¯
-(0121
-23:40)
+(0121 23:40)
 ¸ü¶àÄÚÈÝ
 ¡¤²©¿ÍÆÀÉóÍÅ¡¤
 ºé»Î
@@ -45730,62 +43745,43 @@ CMCB
 ¸ü¶àÄÚÈÝ
 ¾«²ÊÍ¼Æ¬
 Í¼ÎÄ£º·çÏÄÒôÀÖ¼¾Ã÷ÐÇÜöÝÍÈÈÁ¦¿ª³¡--Ã÷ÐÇ¾è¿î
-(0709
-13:24)
+(0709 13:24)
 Í¼ÎÄ£º·çÏÄÒôÀÖ¼¾Ã÷ÐÇÜöÝÍÈÈÁ¦¿ª³¡--´ÈÉÆ¾è¿î
-(0709
-13:23)
+(0709 13:23)
 Í¼ÎÄ£º·çÏÄÒôÀÖ¼¾Ã÷ÐÇÜöÝÍÈÈÁ¦¿ª³¡--°¢Å£
-(0709
-13:23)
+(0709 13:23)
 Í¼ÎÄ£º·çÏÄÒôÀÖ¼¾Ã÷ÐÇÜöÝÍÈÈÁ¦¿ª³¡--½ðº£ÐÄ
-(0709
-13:22)
+(0709 13:22)
 Í¼ÎÄ£º·çÏÄÒôÀÖ¼¾Ã÷ÐÇÜöÝÍÈÈÁ¦¿ª³¡--Ñ¦Ö®Ç«
-(0709
-13:22)
+(0709 13:22)
 Í¼ÎÄ£º·çÏÄÒôÀÖ¼¾Ã÷ÐÇÜöÝÍÈÈÁ¦¿ª³¡--ÓÎºèÃ÷
-(0709
-13:21)
+(0709 13:21)
 Í¼ÎÄ£º·çÏÄÒôÀÖ¼¾Ã÷ÐÇÜöÝÍÈÈÁ¦¿ª³¡--ÈÝ×æ¶ù(2)
-(0709
-13:21)
+(0709 13:21)
 Í¼ÎÄ£º·çÏÄÒôÀÖ¼¾Ã÷ÐÇÜöÝÍÈÈÁ¦¿ª³¡--ÈÝ×æ¶ù(1)
-(0709
-13:20)
+(0709 13:20)
 Í¼ÎÄ£º·çÏÄÒôÀÖ¼¾Ã÷ÐÇÜöÝÍÈÈÁ¦¿ª³¡--ÖÜ±Ê³©(2)
-(0709
-13:20)
+(0709 13:20)
 Í¼ÎÄ£º·çÏÄÒôÀÖ¼¾Ã÷ÐÇÜöÝÍÈÈÁ¦¿ª³¡--ÖÜ±Ê³©(1)
-(0709
-13:19)
+(0709 13:19)
 Í¼ÎÄ£º·çÏÄÒôÀÖ¼¾Ã÷ÐÇÜöÝÍÈÈÁ¦¿ª³¡--ºÎ½à(2)
-(0709
-13:19)
+(0709 13:19)
 Í¼ÎÄ£º·çÏÄÒôÀÖ¼¾Ã÷ÐÇÜöÝÍÈÈÁ¦¿ª³¡--ºÎ½à(1)
-(0709
-13:18)
+(0709 13:18)
 Í¼ÎÄ£º·çÏÄÒôÀÖ¼¾Ã÷ÐÇÜöÝÍÈÈÁ¦¿ª³¡--ÎåÔÂÌì(4)
-(0709
-13:18)
+(0709 13:18)
 Í¼ÎÄ£º·çÏÄÒôÀÖ¼¾Ã÷ÐÇÜöÝÍÈÈÁ¦¿ª³¡--ÎåÔÂÌì(3)
-(0709
-13:17)
+(0709 13:17)
 Í¼ÎÄ£º·çÏÄÒôÀÖ¼¾Ã÷ÐÇÜöÝÍÈÈÁ¦¿ª³¡--ÎåÔÂÌì(2)
-(0709
-13:17)
+(0709 13:17)
 Í¼ÎÄ£º·çÏÄÒôÀÖ¼¾Ã÷ÐÇÜöÝÍÈÈÁ¦¿ª³¡--ÎåÔÂÌì(1)
-(0709
-13:16)
+(0709 13:16)
 Í¼ÎÄ£º·çÏÄÒôÀÖ¼¾Ã÷ÐÇÜöÝÍÈÈÁ¦¿ª³¡--Twins(3)
-(0709
-13:16)
+(0709 13:16)
 Í¼ÎÄ£º·çÏÄÒôÀÖ¼¾Ã÷ÐÇÜöÝÍÈÈÁ¦¿ª³¡--Twins(2)
-(0709
-13:15)
+(0709 13:15)
 Í¼ÎÄ£º·çÏÄÒôÀÖ¼¾Ã÷ÐÇÜöÝÍÈÈÁ¦¿ª³¡--Soler(3)
-(0709
-13:14)
+(0709 13:14)
 ¸ü¶àÄÚÈÝ
 ¡¤³Ð°ì·½¡¤
 ¡¤ÍøÂçÖ§³Ö¡¤
@@ -45956,62 +43952,43 @@ CMCB
 ¸ü¶àÄÚÈÝ
 ¾«²ÊÍ¼Æ¬
 Í¼ÎÄ£º·çÏÄÒôÀÖ¼¾Ã÷ÐÇÜöÝÍÈÈÁ¦¿ª³¡--Ã÷ÐÇ¾è¿î
-(0709
-13:24)
+(0709 13:24)
 Í¼ÎÄ£º·çÏÄÒôÀÖ¼¾Ã÷ÐÇÜöÝÍÈÈÁ¦¿ª³¡--´ÈÉÆ¾è¿î
-(0709
-13:23)
+(0709 13:23)
 Í¼ÎÄ£º·çÏÄÒôÀÖ¼¾Ã÷ÐÇÜöÝÍÈÈÁ¦¿ª³¡--°¢Å£
-(0709
-13:23)
+(0709 13:23)
 Í¼ÎÄ£º·çÏÄÒôÀÖ¼¾Ã÷ÐÇÜöÝÍÈÈÁ¦¿ª³¡--½ðº£ÐÄ
-(0709
-13:22)
+(0709 13:22)
 Í¼ÎÄ£º·çÏÄÒôÀÖ¼¾Ã÷ÐÇÜöÝÍÈÈÁ¦¿ª³¡--Ñ¦Ö®Ç«
-(0709
-13:22)
+(0709 13:22)
 Í¼ÎÄ£º·çÏÄÒôÀÖ¼¾Ã÷ÐÇÜöÝÍÈÈÁ¦¿ª³¡--ÓÎºèÃ÷
-(0709
-13:21)
+(0709 13:21)
 Í¼ÎÄ£º·çÏÄÒôÀÖ¼¾Ã÷ÐÇÜöÝÍÈÈÁ¦¿ª³¡--ÈÝ×æ¶ù(2)
-(0709
-13:21)
+(0709 13:21)
 Í¼ÎÄ£º·çÏÄÒôÀÖ¼¾Ã÷ÐÇÜöÝÍÈÈÁ¦¿ª³¡--ÈÝ×æ¶ù(1)
-(0709
-13:20)
+(0709 13:20)
 Í¼ÎÄ£º·çÏÄÒôÀÖ¼¾Ã÷ÐÇÜöÝÍÈÈÁ¦¿ª³¡--ÖÜ±Ê³©(2)
-(0709
-13:20)
+(0709 13:20)
 Í¼ÎÄ£º·çÏÄÒôÀÖ¼¾Ã÷ÐÇÜöÝÍÈÈÁ¦¿ª³¡--ÖÜ±Ê³©(1)
-(0709
-13:19)
+(0709 13:19)
 Í¼ÎÄ£º·çÏÄÒôÀÖ¼¾Ã÷ÐÇÜöÝÍÈÈÁ¦¿ª³¡--ºÎ½à(2)
-(0709
-13:19)
+(0709 13:19)
 Í¼ÎÄ£º·çÏÄÒôÀÖ¼¾Ã÷ÐÇÜöÝÍÈÈÁ¦¿ª³¡--ºÎ½à(1)
-(0709
-13:18)
+(0709 13:18)
 Í¼ÎÄ£º·çÏÄÒôÀÖ¼¾Ã÷ÐÇÜöÝÍÈÈÁ¦¿ª³¡--ÎåÔÂÌì(4)
-(0709
-13:18)
+(0709 13:18)
 Í¼ÎÄ£º·çÏÄÒôÀÖ¼¾Ã÷ÐÇÜöÝÍÈÈÁ¦¿ª³¡--ÎåÔÂÌì(3)
-(0709
-13:17)
+(0709 13:17)
 Í¼ÎÄ£º·çÏÄÒôÀÖ¼¾Ã÷ÐÇÜöÝÍÈÈÁ¦¿ª³¡--ÎåÔÂÌì(2)
-(0709
-13:17)
+(0709 13:17)
 Í¼ÎÄ£º·çÏÄÒôÀÖ¼¾Ã÷ÐÇÜöÝÍÈÈÁ¦¿ª³¡--ÎåÔÂÌì(1)
-(0709
-13:16)
+(0709 13:16)
 Í¼ÎÄ£º·çÏÄÒôÀÖ¼¾Ã÷ÐÇÜöÝÍÈÈÁ¦¿ª³¡--Twins(3)
-(0709
-13:16)
+(0709 13:16)
 Í¼ÎÄ£º·çÏÄÒôÀÖ¼¾Ã÷ÐÇÜöÝÍÈÈÁ¦¿ª³¡--Twins(2)
-(0709
-13:15)
+(0709 13:15)
 Í¼ÎÄ£º·çÏÄÒôÀÖ¼¾Ã÷ÐÇÜöÝÍÈÈÁ¦¿ª³¡--Soler(3)
-(0709
-13:14)
+(0709 13:14)
 ¸ü¶àÄÚÈÝ
 ¡¤³Ð°ì·½¡¤
 ¡¤ÍøÂçÖ§³Ö¡¤
@@ -46066,14 +44043,7 @@ Reserved
 ¹ú×ã±¸Õ½ÑÇÖÞ±­
 ÀîÌú¹é¶ÓÑµÁ·
 ÖªÃûÓéÀÖÃ½ÌåÕÆÃÅÈË¼ÓÃËÓ°ÆÀ¼Ò¹ÙÍø
-[Àî¶àîÚ
-ºú½¨Àñ
-ºÎÁú
-Ð»Ïþ
-ÑîÕ¹Òµ
-ÍõÌ©°×
-Íõê¿
-ÕÅÏþÈ»]
+[Àî¶àîÚ ºú½¨Àñ ºÎÁú Ð»Ïþ ÑîÕ¹Òµ ÍõÌ©°× Íõê¿ ÕÅÏþÈ»]
 [ÖÐ¹úÓ°ÆÀ¼Ò¹ÙÍø½éÉÜ][ÖÐ¹úµçÓ°ÆÀÂÛÑ§»á½éÉÜ][ÆÀÂÛ]
 ×¨¼Ò¼ÄÓïÖÐ¹úÓ°ÆÀ¼Ò¹ÙÍø
 µçÓ°ÆÀÂÛÑ§»á¸±»á³¤Åí¼Óèª£ºÖÐ¹úµçÓ°Ô½À´Ô½·±ÈÙ
@@ -46529,236 +44499,162 @@ Reserved
 ÐÂÎÅ±¨µÀ
 ÖªÃûÃ½ÌåÓ°ÆÀÈË¿ª²©
 Âä»§ÐÂÀËÖÐ¹úÓ°ÆÀ¼Ò¹ÙÍø
-(0530
-11:06)
+(0530 11:06)
 ÖÐ¹úÓ°ÆÀ¼Ò¹ÙÍøÂä»§ÐÂÀË
 30ÃûÖøÃûÓ°ÆÀÈË¾ù¿ª²©
-(0418
-23:55)
+(0418 23:55)
 ÕÂ°ØÇàÕÅÎÀ×ö¿ÍÁÄÖÐ¹úÓ°ÆÀ¼Ò¹ÙÍøÂä»§ÐÂÀË(Í¼)
-(0418
-16:16)
+(0418 16:16)
 ÖÐ¹úµçÓ°ÆÀÂÛÑ§»á¼ò½é
-(0418
-05:14)
+(0418 05:14)
 ÖÐ¹úÓ°ÆÀ¼Ò¹Ù·½ÍøÕ¾¼ò½é
-(0418
-05:11)
+(0418 05:11)
 ÕÂ°ØÇàÕÅÎÀ18ÈÕ15Ê±ÁÄ¡°ÖÐ¹úÓ°ÆÀ¼Ò¹ÙÍø¡±³ÉÁ¢
-(0417
-15:07)
+(0417 15:07)
 ¸ü¶àÄÚÈÝ
 ×¨¼Ò¼ò½é
 ¹ãÖÝ¡¶ÐÂ¿ì±¨¡·ÓéÀÖÆÀÂÛ¾«Ñ¡-Ë®ÖóÓé¼ò½é£¨Í¼£©
-(0525
-21:26)
+(0525 21:26)
 ¹ãÖÝ¡¶Ñò³ÇÍí±¨¡·ÎÄÒÕ²¿Ö÷ÈÎºÎÁú¸öÈË¼ò½é£¨Í¼£©
-(0525
-21:19)
+(0525 21:19)
 ¡¶ÄÏ¶¼ÖÜ¿¯-ÓéÀÖ±¨µÀ¡·Ö´ÐÐÖ÷±àÐ»Ïþ¸öÈË¼òÀú
-(0525
-21:14)
+(0525 21:14)
 ¡¶ÐÂÃñÍí±¨¡·ÎÄ»¯ÓéÀÖ°æÖ÷¹ÜÑîÕ¹Òµ¸öÈË¼òÀú
-(0525
-21:10)
+(0525 21:10)
 ÉÏº£¡¶¶«·½Ôç±¨¡·¸±Ö÷±àÍõÌ©°×¸öÈË¼ò½é£¨Í¼£©
-(0525
-21:02)
+(0525 21:02)
 ¡¶ÐÂÃñÍí±¨¡·ÎÄ»¯ÐÂÎÅ²¿Ö÷ÈÎÕÅÏþÈ»¸öÈË¼ò½é
-(0525
-20:54)
+(0525 20:54)
 ÉÏº£ÐÂÎÅ±¨×Ü±à¼­ÖúÀíÍõê¿ÏÈÉú¸öÈË¼òÀú£¨Í¼£©
-(0525
-20:46)
+(0525 20:46)
 ¡¶¾©»ªÊ±±¨¡·ÎÄÓé²¿Ö÷ÈÎºú½¨Àñ¸öÈË¼ò½é£¨¸½Í¼£©
-(0525
-20:38)
+(0525 20:38)
 ¡¶ÐÂ¾©±¨¡·Éç¸±×Ü±à¼­Àî¶àîÚ¸öÈË¼ò½é£¨¸½Í¼£©
-(0525
-20:34)
+(0525 20:34)
 ±±¾©µçÓ°Ñ§Ôº¸±½ÌÊÚ¶ÅÇì´º¸öÈË¼ò½é(Í¼)
-(0418
-23:38)
+(0418 23:38)
 ±±¾©±£Àû²©ÄÉµçÓ°·¢ÐÐÓÐÏÞ¹«Ë¾×Ü¾­ÀíÓÚ¶¬¼ò½é
-(0418
-22:50)
+(0418 22:50)
 ÇàÄêÓ°ÆÀ¼ÒÈüÈË¸öÈË¼ò½é(¸½Í¼)
-(0416
-15:06)
+(0416 15:06)
 ±±¾©µçÓ°Ñ§Ôº½ÌÊÚ´ÞÎÀÆ½¸öÈË¼ò½é(Í¼)
-(0415
-12:00)
+(0415 12:00)
 Ó°ÆÀ¼ÒÂ½ºëÊ¯¼ò½é(Í¼)
-(0415
-11:49)
+(0415 11:49)
 ÖÐ¹úµçÓ°ÆÀÂÛÑ§»á¸±»á³¤Åí¼Óèª¸öÈË¼ò½é(Í¼)
-(0415
-11:36)
+(0415 11:36)
 Í¬ÐÄ³ö°æÉç³£Îñ¸±×Ü±à¼­½âçôè°¸öÈË¼ò½é(Í¼)
-(0415
-11:17)
+(0415 11:17)
 ¸´µ©´óÑ§½ÌÊÚÖÜ±ó¸öÈË¼ò½é(¸½Í¼)
-(0413
-15:54)
+(0413 15:54)
 ÖÐ¹úµçÓ°ÆÀÂÛÑ§»áÃûÓþ»á³¤ÓàÙ»¸öÈË¼ò½é(Í¼)
-(0412
-21:48)
+(0412 21:48)
 ÖÐ¹úµçÓ°ÆÀÂÛÑ§»áÃûÓþ»á³¤ÂÞÒÕ¾ü¸öÈË¼ò½é(Í¼)
-(0412
-21:43)
+(0412 21:43)
 ¸ü¶àÄÚÈÝ
 ×¨¼Ò²©¿Í
 Í¬ÐÄ³ö°æÉç¸±×Ü±à¼­½âçôè°²©¿ÍÈëÖ÷Ó°ÆÀ¼Ò¹ÙÍø
-(0418
-23:10)
+(0418 23:10)
 ¡¶µçÓ°±¨µÀ¡·ÖÆÆ¬ÈËÕÅÎÀÐÂÀË¿ª²©
-(0418
-23:07)
+(0418 23:07)
 ±±¾©µçÓ°Ñ§ÔºµçÓ°ÑÐ¾¿ËùËù³¤ÍõÖ¾ÃôÐÂÀË¿ª²©
-(0418
-23:06)
+(0418 23:06)
 ÖÐ¹úÒÕÊõÑÐ¾¿ÔºÓ°ÊÓËùËù³¤¶¡ÑÇÆ½ÐÂÀË¿ª²©
-(0418
-23:06)
+(0418 23:06)
 ±±´ó½ÌÊÚÕÅÒÃÎä²©¿ÍÈëÖ÷ÖÐ¹úÓ°ÆÀ¼Ò¹ÙÍø
-(0418
-23:05)
+(0418 23:05)
 Ó°ÆÀ¼ÒÂ½ºëÊ¯ÐÂÀË¿ª²©
-(0418
-23:05)
+(0418 23:05)
 Çå»ªÐÂÎÅ´«²¥Ñ§Ôº¸±Ôº³¤Òüºè²©¿ÍÈëÖ÷Ó°ÆÀ¼Ò¹ÙÍø
-(0418
-23:04)
+(0418 23:04)
 ÖÐ¹úµçÓ°ÆÀÂÛÑ§»á»á³¤ÕÂ°ØÇàÐÂÀË¿ª²©
-(0418
-23:04)
+(0418 23:04)
 ±±¾©µçÓ°Ñ§Ôº½ÌÊÚÑîÔ¶Ó¤ÐÂÀË¿ª²©
-(0418
-23:03)
+(0418 23:03)
 ±±¾©µçÓ°Ñ§Ôº½ÌÊÚÖÓ´ó·áÐÂÀË¿ª²©
-(0418
-23:02)
+(0418 23:02)
 ±±¾©µçÓ°Ñ§Ôº½ÌÊÚºÂ½¨ÐÂÀË¿ª²©
-(0418
-23:02)
+(0418 23:02)
 µçÓ°Ñ§Ôº¸±½ÌÊÚ¶ÅÇì´º²©¿ÍÈëÖ÷ÖÐ¹úÓ°ÆÀ¼Ò¹ÙÍø
-(0418
-23:01)
+(0418 23:01)
 ¡¶µçÓ°ÒÕÊõ¡·Ö÷±àÎâ¹ÚÆ½²©¿ÍÈëÖ÷ÖÐ¹úÓ°ÆÀ¼Ò¹ÙÍø
-(0418
-22:57)
+(0418 22:57)
 ±±¾©µçÓ°Ñ§Ôº½ÌÊÚ´ÞÎÀÆ½²©¿ÍÈëÖ÷ÖÐ¹úÓ°ÆÀ¼Ò¹ÙÍø
-(0418
-22:57)
+(0418 22:57)
 ±±Ê¦´ó½ÌÊÚÖÜÐÇ²©¿ÍÈëÖ÷ÖÐ¹úÓ°ÆÀ¼Ò¹ÙÍø
-(0418
-22:52)
+(0418 22:52)
 ÖÐ¹úµçÓ°ÆÀÂÛÑ§»áÃûÓþ»á³¤ÂÞÒÕ¾üÐÂÀË¿ª²©
-(0418
-22:51)
+(0418 22:51)
 ÖÐ¹úµçÓ°ÆÀÂÛÑ§»áÃûÓþ»á³¤ÓàÙ»ÐÂÀË¿ª²©
-(0418
-22:51)
+(0418 22:51)
 ÉÏº£´óÑ§Ó°ÊÓÑ§Ôº½ÌÊÚ³ÂÏ¬ºÌÐÂÀË¿ª²©
-(0418
-22:50)
+(0418 22:50)
 ¸´µ©´óÑ§½ÌÊÚÖÜ±óÐÂÀË¿ª²©
-(0418
-22:50)
+(0418 22:50)
 ¸ü¶àÄÚÈÝ
 Ó°ÆÀÈË²©¿Í
 »ªÓï´«Ã½´ó½±×Ü²ß»®î×½­Ã÷²©¿ÍÈëÖ÷Ó°ÆÀ¼Ò¹ÙÍø
-(0430
-04:08)
+(0430 04:08)
 ×ÊÉîÓ°ÆÀÈËÎÀÎ÷ÚÐ²©¿ÍÈëÖ÷ÖÐ¹úÓ°ÆÀ¼Ò¹ÙÍø
-(0430
-04:07)
+(0430 04:07)
 Ó°ÆÀÈËËïÃÏ½ú²©¿ÍÈëÖ÷ÖÐ¹úÓ°ÆÀ¼Ò¹ÙÍø
-(0430
-04:04)
+(0430 04:04)
 ×ÊÉîÓ°ÆÀÈË»ÆÐ¡Ð°²©¿ÍÈëÖ÷ÖÐ¹úÓ°ÆÀ¼Ò¹ÙÍø
-(0430
-04:03)
+(0430 04:03)
 °ÂË¹¿¨µÚÒ»ÈË±Ï³É¹¦²©¿ÍÈëÖ÷ÖÐ¹úÓ°ÆÀ¼Ò¹ÙÍø
-(0430
-04:03)
+(0430 04:03)
 Ó°ÆÀÈËÀÏ»Î²©¿ÍÈëÖ÷ÖÐ¹úÓ°ÆÀ¼Ò¹ÙÍø
-(0430
-04:02)
+(0430 04:02)
 ±±¾©µçÊÓÌ¨ÖÆÆ¬ÈË×¿±ðÁé²©¿ÍÈëÖ÷ÖÐ¹úÓ°ÆÀ¼Ò¹ÙÍø
-(0430
-04:01)
+(0430 04:01)
 Ó°ÆÀÈËÒ¶º½²©¿ÍÈëÖ÷ÖÐ¹úÓ°ÆÀ¼Ò¹ÙÍø
-(0430
-03:59)
+(0430 03:59)
 ¶«·½µçÊÓÌ¨×ÛÒÕ²¿¸±Ö÷ÈÎÒü´óÎª²©¿ÍÈëÖ÷Ó°ÆÀ¼Ò¹ÙÍø
-(0430
-03:59)
+(0430 03:59)
 Ó°ÊÓ²ß»®ÈËÓ°ÆÀÈËÁõ¾ü²©¿ÍÈëÖ÷ÖÐ¹úÓ°ÆÀ¼Ò¹ÙÍø
-(0430
-03:57)
+(0430 03:57)
 ²ß»®ÈËÓéÆÀÈËÌ··É²©¿ÍÈëÖ÷ÖÐ¹úÓ°ÆÀ¼Ò¹ÙÍø
-(0430
-03:57)
+(0430 03:57)
 ¡¶DVD¡·µ¼¿¯Ö÷±àÑýÁéÑý²©¿ÍÈëÖ÷ÖÐ¹úÓ°ÆÀ¼Ò¹ÙÍø
-(0430
-03:56)
+(0430 03:56)
 Ó°ÆÀÈËÖñí²Ãú²©¿ÍÈëÖ÷ÖÐ¹úÓ°ÆÀ¼Ò¹ÙÍø
-(0430
-03:55)
+(0430 03:55)
 Ó°ÆÀÈË³àÒ¶Çà·ã²©¿ÍÈëÖ÷ÖÐ¹úÓ°ÆÀ¼Ò¹ÙÍø
-(0430
-03:54)
+(0430 03:54)
 Ó°ÆÀÈË´ïµ½³§²©¿ÍÈëÖ÷ÖÐ¹úÓ°ÆÀ¼Ò¹ÙÍø
-(0430
-03:53)
+(0430 03:53)
 ²ß»®ÈËÓ°ÆÀÈËÕÅ½­ÄÏ²©¿ÍÈëÖ÷ÖÐ¹úÓ°ÆÀ¼Ò¹ÙÍø
-(0430
-03:51)
+(0430 03:51)
 Ó°ÆÀÈËºì¾¯ËÕºì²»¶®°®²©¿ÍÈëÖ÷ÖÐ¹úÓ°ÆÀ¼Ò¹ÙÍø
-(0430
-03:50)
+(0430 03:50)
 Ó°ÆÀÈË²ß»®ÈËÑî¾¢ËÉ²©¿ÍÈëÖ÷ÖÐ¹úÓ°ÆÀ¼Ò¹ÙÍø
-(0430
-03:49)
+(0430 03:49)
 ±±Ê¦´ó¸±½ÌÊÚÌï»ÜÈº²©¿ÍÈëÖ÷ÖÐ¹úÓ°ÆÀ¼Ò¹ÙÍø
-(0430
-03:49)
+(0430 03:49)
 ¸ü¶àÄÚÈÝ
 ×¨¼Ò¼ÄÓï
 Õã½­´óÑ§ÖÐÎÄÏµ½ÌÊÚÅÌ½£¼ÄÓïÖÐ¹úÓ°ÆÀ¼Ò¹ÙÍø
-(0420
-03:15)
+(0420 03:15)
 ¡¶µçÓ°±¨µÀ¡·ÖÆÆ¬ÈËÕÅÎÀ¼ÄÓïÖÐ¹úÓ°ÆÀ¼Ò¹ÙÍø
-(0418
-14:50)
+(0418 14:50)
 ¡¶½ñÈÕÓ°ÊÓ¡·ÖÆÆ¬ÈËÔø×Óº½¼ÄÓïÖÐ¹úÓ°ÆÀ¼Ò¹ÙÍø
-(0418
-11:44)
+(0418 11:44)
 ÖÐ¹úµçÓ°ÆÀÂÛÑ§»á¸±»á³¤Åí¼Óèª¼ÄÓïÓ°ÆÀ¼Ò¹ÙÍø
-(0418
-11:32)
+(0418 11:32)
 ¸´µ©´óÑ§½ÌÊÚÖÜ±ó¼ÄÓïÖÐ¹úÓ°ÆÀ¼Ò¹ÙÍø
-(0418
-11:03)
+(0418 11:03)
 ±±¾©´óÑ§ÖÐÎÄÏµ½ÌÊÚÕÅÒÃÎä¼ÄÓïÖÐ¹úÓ°ÆÀ¼Ò¹ÙÍø
-(0418
-10:31)
+(0418 10:31)
 ÉÏº£´óÑ§Ó°ÊÓÑ§Ôº½ÌÊÚ³ÂÏ¬ºÌ¼ÄÓïÖÐ¹úÓ°ÆÀ¼Ò¹ÙÍø
-(0418
-10:13)
+(0418 10:13)
 ±±¾©µçÓ°Ñ§ÔºµçÓ°ÑÐ¾¿ËùËù³¤ÍõÖ¾Ãô¼ÄÓï
-(0418
-10:00)
+(0418 10:00)
 ÇàÄêÓ°ÆÀ¼ÒÈüÈË¼ÄÓïÖÐ¹úÓ°ÆÀ¼Ò¹ÙÍø
-(0417
-14:40)
+(0417 14:40)
 ±±¾©µçÓ°Ñ§Ôº½ÌÊÚ´ÞÎÀÆ½¼ÄÓïÖÐ¹úÓ°ÆÀ¼Ò¹ÙÍø
-(0417
-11:23)
+(0417 11:23)
 Í¬ÐÄ³ö°æÉç³£Îñ¸±×Ü±à½âçôè°¼ÄÓïÖÐ¹úÓ°ÆÀ¼Ò¹ÙÍø
-(0415
-12:33)
+(0415 12:33)
 ¸ü¶àÄÚÈÝ
 ÐÂÀËµçÓ°³öÆ·
 Ó°ÒôÓéÀÖÒâ¼û·´À¡ÁôÑÔ°å
@@ -46810,14 +44706,7 @@ Reserved
 ¹ú×ã±¸Õ½ÑÇÖÞ±­
 ÀîÌú¹é¶ÓÑµÁ·
 ÖªÃûÓéÀÖÃ½ÌåÕÆÃÅÈË¼ÓÃËÓ°ÆÀ¼Ò¹ÙÍø
-[Àî¶àîÚ
-ºú½¨Àñ
-ºÎÁú
-Ð»Ïþ
-ÑîÕ¹Òµ
-ÍõÌ©°×
-Íõê¿
-ÕÅÏþÈ»]
+[Àî¶àîÚ ºú½¨Àñ ºÎÁú Ð»Ïþ ÑîÕ¹Òµ ÍõÌ©°× Íõê¿ ÕÅÏþÈ»]
 [ÖÐ¹úÓ°ÆÀ¼Ò¹ÙÍø½éÉÜ][ÖÐ¹úµçÓ°ÆÀÂÛÑ§»á½éÉÜ][ÆÀÂÛ]
 ×¨¼Ò¼ÄÓïÖÐ¹úÓ°ÆÀ¼Ò¹ÙÍø
 µçÓ°ÆÀÂÛÑ§»á¸±»á³¤Åí¼Óèª£ºÖÐ¹úµçÓ°Ô½À´Ô½·±ÈÙ
@@ -47273,236 +45162,162 @@ Reserved
 ÐÂÎÅ±¨µÀ
 ÖªÃûÃ½ÌåÓ°ÆÀÈË¿ª²©
 Âä»§ÐÂÀËÖÐ¹úÓ°ÆÀ¼Ò¹ÙÍø
-(0530
-11:06)
+(0530 11:06)
 ÖÐ¹úÓ°ÆÀ¼Ò¹ÙÍøÂä»§ÐÂÀË
 30ÃûÖøÃûÓ°ÆÀÈË¾ù¿ª²©
-(0418
-23:55)
+(0418 23:55)
 ÕÂ°ØÇàÕÅÎÀ×ö¿ÍÁÄÖÐ¹úÓ°ÆÀ¼Ò¹ÙÍøÂä»§ÐÂÀË(Í¼)
-(0418
-16:16)
+(0418 16:16)
 ÖÐ¹úµçÓ°ÆÀÂÛÑ§»á¼ò½é
-(0418
-05:14)
+(0418 05:14)
 ÖÐ¹úÓ°ÆÀ¼Ò¹Ù·½ÍøÕ¾¼ò½é
-(0418
-05:11)
+(0418 05:11)
 ÕÂ°ØÇàÕÅÎÀ18ÈÕ15Ê±ÁÄ¡°ÖÐ¹úÓ°ÆÀ¼Ò¹ÙÍø¡±³ÉÁ¢
-(0417
-15:07)
+(0417 15:07)
 ¸ü¶àÄÚÈÝ
 ×¨¼Ò¼ò½é
 ¹ãÖÝ¡¶ÐÂ¿ì±¨¡·ÓéÀÖÆÀÂÛ¾«Ñ¡-Ë®ÖóÓé¼ò½é£¨Í¼£©
-(0525
-21:26)
+(0525 21:26)
 ¹ãÖÝ¡¶Ñò³ÇÍí±¨¡·ÎÄÒÕ²¿Ö÷ÈÎºÎÁú¸öÈË¼ò½é£¨Í¼£©
-(0525
-21:19)
+(0525 21:19)
 ¡¶ÄÏ¶¼ÖÜ¿¯-ÓéÀÖ±¨µÀ¡·Ö´ÐÐÖ÷±àÐ»Ïþ¸öÈË¼òÀú
-(0525
-21:14)
+(0525 21:14)
 ¡¶ÐÂÃñÍí±¨¡·ÎÄ»¯ÓéÀÖ°æÖ÷¹ÜÑîÕ¹Òµ¸öÈË¼òÀú
-(0525
-21:10)
+(0525 21:10)
 ÉÏº£¡¶¶«·½Ôç±¨¡·¸±Ö÷±àÍõÌ©°×¸öÈË¼ò½é£¨Í¼£©
-(0525
-21:02)
+(0525 21:02)
 ¡¶ÐÂÃñÍí±¨¡·ÎÄ»¯ÐÂÎÅ²¿Ö÷ÈÎÕÅÏþÈ»¸öÈË¼ò½é
-(0525
-20:54)
+(0525 20:54)
 ÉÏº£ÐÂÎÅ±¨×Ü±à¼­ÖúÀíÍõê¿ÏÈÉú¸öÈË¼òÀú£¨Í¼£©
-(0525
-20:46)
+(0525 20:46)
 ¡¶¾©»ªÊ±±¨¡·ÎÄÓé²¿Ö÷ÈÎºú½¨Àñ¸öÈË¼ò½é£¨¸½Í¼£©
-(0525
-20:38)
+(0525 20:38)
 ¡¶ÐÂ¾©±¨¡·Éç¸±×Ü±à¼­Àî¶àîÚ¸öÈË¼ò½é£¨¸½Í¼£©
-(0525
-20:34)
+(0525 20:34)
 ±±¾©µçÓ°Ñ§Ôº¸±½ÌÊÚ¶ÅÇì´º¸öÈË¼ò½é(Í¼)
-(0418
-23:38)
+(0418 23:38)
 ±±¾©±£Àû²©ÄÉµçÓ°·¢ÐÐÓÐÏÞ¹«Ë¾×Ü¾­ÀíÓÚ¶¬¼ò½é
-(0418
-22:50)
+(0418 22:50)
 ÇàÄêÓ°ÆÀ¼ÒÈüÈË¸öÈË¼ò½é(¸½Í¼)
-(0416
-15:06)
+(0416 15:06)
 ±±¾©µçÓ°Ñ§Ôº½ÌÊÚ´ÞÎÀÆ½¸öÈË¼ò½é(Í¼)
-(0415
-12:00)
+(0415 12:00)
 Ó°ÆÀ¼ÒÂ½ºëÊ¯¼ò½é(Í¼)
-(0415
-11:49)
+(0415 11:49)
 ÖÐ¹úµçÓ°ÆÀÂÛÑ§»á¸±»á³¤Åí¼Óèª¸öÈË¼ò½é(Í¼)
-(0415
-11:36)
+(0415 11:36)
 Í¬ÐÄ³ö°æÉç³£Îñ¸±×Ü±à¼­½âçôè°¸öÈË¼ò½é(Í¼)
-(0415
-11:17)
+(0415 11:17)
 ¸´µ©´óÑ§½ÌÊÚÖÜ±ó¸öÈË¼ò½é(¸½Í¼)
-(0413
-15:54)
+(0413 15:54)
 ÖÐ¹úµçÓ°ÆÀÂÛÑ§»áÃûÓþ»á³¤ÓàÙ»¸öÈË¼ò½é(Í¼)
-(0412
-21:48)
+(0412 21:48)
 ÖÐ¹úµçÓ°ÆÀÂÛÑ§»áÃûÓþ»á³¤ÂÞÒÕ¾ü¸öÈË¼ò½é(Í¼)
-(0412
-21:43)
+(0412 21:43)
 ¸ü¶àÄÚÈÝ
 ×¨¼Ò²©¿Í
 Í¬ÐÄ³ö°æÉç¸±×Ü±à¼­½âçôè°²©¿ÍÈëÖ÷Ó°ÆÀ¼Ò¹ÙÍø
-(0418
-23:10)
+(0418 23:10)
 ¡¶µçÓ°±¨µÀ¡·ÖÆÆ¬ÈËÕÅÎÀÐÂÀË¿ª²©
-(0418
-23:07)
+(0418 23:07)
 ±±¾©µçÓ°Ñ§ÔºµçÓ°ÑÐ¾¿ËùËù³¤ÍõÖ¾ÃôÐÂÀË¿ª²©
-(0418
-23:06)
+(0418 23:06)
 ÖÐ¹úÒÕÊõÑÐ¾¿ÔºÓ°ÊÓËùËù³¤¶¡ÑÇÆ½ÐÂÀË¿ª²©
-(0418
-23:06)
+(0418 23:06)
 ±±´ó½ÌÊÚÕÅÒÃÎä²©¿ÍÈëÖ÷ÖÐ¹úÓ°ÆÀ¼Ò¹ÙÍø
-(0418
-23:05)
+(0418 23:05)
 Ó°ÆÀ¼ÒÂ½ºëÊ¯ÐÂÀË¿ª²©
-(0418
-23:05)
+(0418 23:05)
 Çå»ªÐÂÎÅ´«²¥Ñ§Ôº¸±Ôº³¤Òüºè²©¿ÍÈëÖ÷Ó°ÆÀ¼Ò¹ÙÍø
-(0418
-23:04)
+(0418 23:04)
 ÖÐ¹úµçÓ°ÆÀÂÛÑ§»á»á³¤ÕÂ°ØÇàÐÂÀË¿ª²©
-(0418
-23:04)
+(0418 23:04)
 ±±¾©µçÓ°Ñ§Ôº½ÌÊÚÑîÔ¶Ó¤ÐÂÀË¿ª²©
-(0418
-23:03)
+(0418 23:03)
 ±±¾©µçÓ°Ñ§Ôº½ÌÊÚÖÓ´ó·áÐÂÀË¿ª²©
-(0418
-23:02)
+(0418 23:02)
 ±±¾©µçÓ°Ñ§Ôº½ÌÊÚºÂ½¨ÐÂÀË¿ª²©
-(0418
-23:02)
+(0418 23:02)
 µçÓ°Ñ§Ôº¸±½ÌÊÚ¶ÅÇì´º²©¿ÍÈëÖ÷ÖÐ¹úÓ°ÆÀ¼Ò¹ÙÍø
-(0418
-23:01)
+(0418 23:01)
 ¡¶µçÓ°ÒÕÊõ¡·Ö÷±àÎâ¹ÚÆ½²©¿ÍÈëÖ÷ÖÐ¹úÓ°ÆÀ¼Ò¹ÙÍø
-(0418
-22:57)
+(0418 22:57)
 ±±¾©µçÓ°Ñ§Ôº½ÌÊÚ´ÞÎÀÆ½²©¿ÍÈëÖ÷ÖÐ¹úÓ°ÆÀ¼Ò¹ÙÍø
-(0418
-22:57)
+(0418 22:57)
 ±±Ê¦´ó½ÌÊÚÖÜÐÇ²©¿ÍÈëÖ÷ÖÐ¹úÓ°ÆÀ¼Ò¹ÙÍø
-(0418
-22:52)
+(0418 22:52)
 ÖÐ¹úµçÓ°ÆÀÂÛÑ§»áÃûÓþ»á³¤ÂÞÒÕ¾üÐÂÀË¿ª²©
-(0418
-22:51)
+(0418 22:51)
 ÖÐ¹úµçÓ°ÆÀÂÛÑ§»áÃûÓþ»á³¤ÓàÙ»ÐÂÀË¿ª²©
-(0418
-22:51)
+(0418 22:51)
 ÉÏº£´óÑ§Ó°ÊÓÑ§Ôº½ÌÊÚ³ÂÏ¬ºÌÐÂÀË¿ª²©
-(0418
-22:50)
+(0418 22:50)
 ¸´µ©´óÑ§½ÌÊÚÖÜ±óÐÂÀË¿ª²©
-(0418
-22:50)
+(0418 22:50)
 ¸ü¶àÄÚÈÝ
 Ó°ÆÀÈË²©¿Í
 »ªÓï´«Ã½´ó½±×Ü²ß»®î×½­Ã÷²©¿ÍÈëÖ÷Ó°ÆÀ¼Ò¹ÙÍø
-(0430
-04:08)
+(0430 04:08)
 ×ÊÉîÓ°ÆÀÈËÎÀÎ÷ÚÐ²©¿ÍÈëÖ÷ÖÐ¹úÓ°ÆÀ¼Ò¹ÙÍø
-(0430
-04:07)
+(0430 04:07)
 Ó°ÆÀÈËËïÃÏ½ú²©¿ÍÈëÖ÷ÖÐ¹úÓ°ÆÀ¼Ò¹ÙÍø
-(0430
-04:04)
+(0430 04:04)
 ×ÊÉîÓ°ÆÀÈË»ÆÐ¡Ð°²©¿ÍÈëÖ÷ÖÐ¹úÓ°ÆÀ¼Ò¹ÙÍø
-(0430
-04:03)
+(0430 04:03)
 °ÂË¹¿¨µÚÒ»ÈË±Ï³É¹¦²©¿ÍÈëÖ÷ÖÐ¹úÓ°ÆÀ¼Ò¹ÙÍø
-(0430
-04:03)
+(0430 04:03)
 Ó°ÆÀÈËÀÏ»Î²©¿ÍÈëÖ÷ÖÐ¹úÓ°ÆÀ¼Ò¹ÙÍø
-(0430
-04:02)
+(0430 04:02)
 ±±¾©µçÊÓÌ¨ÖÆÆ¬ÈË×¿±ðÁé²©¿ÍÈëÖ÷ÖÐ¹úÓ°ÆÀ¼Ò¹ÙÍø
-(0430
-04:01)
+(0430 04:01)
 Ó°ÆÀÈËÒ¶º½²©¿ÍÈëÖ÷ÖÐ¹úÓ°ÆÀ¼Ò¹ÙÍø
-(0430
-03:59)
+(0430 03:59)
 ¶«·½µçÊÓÌ¨×ÛÒÕ²¿¸±Ö÷ÈÎÒü´óÎª²©¿ÍÈëÖ÷Ó°ÆÀ¼Ò¹ÙÍø
-(0430
-03:59)
+(0430 03:59)
 Ó°ÊÓ²ß»®ÈËÓ°ÆÀÈËÁõ¾ü²©¿ÍÈëÖ÷ÖÐ¹úÓ°ÆÀ¼Ò¹ÙÍø
-(0430
-03:57)
+(0430 03:57)
 ²ß»®ÈËÓéÆÀÈËÌ··É²©¿ÍÈëÖ÷ÖÐ¹úÓ°ÆÀ¼Ò¹ÙÍø
-(0430
-03:57)
+(0430 03:57)
 ¡¶DVD¡·µ¼¿¯Ö÷±àÑýÁéÑý²©¿ÍÈëÖ÷ÖÐ¹úÓ°ÆÀ¼Ò¹ÙÍø
-(0430
-03:56)
+(0430 03:56)
 Ó°ÆÀÈËÖñí²Ãú²©¿ÍÈëÖ÷ÖÐ¹úÓ°ÆÀ¼Ò¹ÙÍø
-(0430
-03:55)
+(0430 03:55)
 Ó°ÆÀÈË³àÒ¶Çà·ã²©¿ÍÈëÖ÷ÖÐ¹úÓ°ÆÀ¼Ò¹ÙÍø
-(0430
-03:54)
+(0430 03:54)
 Ó°ÆÀÈË´ïµ½³§²©¿ÍÈëÖ÷ÖÐ¹úÓ°ÆÀ¼Ò¹ÙÍø
-(0430
-03:53)
+(0430 03:53)
 ²ß»®ÈËÓ°ÆÀÈËÕÅ½­ÄÏ²©¿ÍÈëÖ÷ÖÐ¹úÓ°ÆÀ¼Ò¹ÙÍø
-(0430
-03:51)
+(0430 03:51)
 Ó°ÆÀÈËºì¾¯ËÕºì²»¶®°®²©¿ÍÈëÖ÷ÖÐ¹úÓ°ÆÀ¼Ò¹ÙÍø
-(0430
-03:50)
+(0430 03:50)
 Ó°ÆÀÈË²ß»®ÈËÑî¾¢ËÉ²©¿ÍÈëÖ÷ÖÐ¹úÓ°ÆÀ¼Ò¹ÙÍø
-(0430
-03:49)
+(0430 03:49)
 ±±Ê¦´ó¸±½ÌÊÚÌï»ÜÈº²©¿ÍÈëÖ÷ÖÐ¹úÓ°ÆÀ¼Ò¹ÙÍø
-(0430
-03:49)
+(0430 03:49)
 ¸ü¶àÄÚÈÝ
 ×¨¼Ò¼ÄÓï
 Õã½­´óÑ§ÖÐÎÄÏµ½ÌÊÚÅÌ½£¼ÄÓïÖÐ¹úÓ°ÆÀ¼Ò¹ÙÍø
-(0420
-03:15)
+(0420 03:15)
 ¡¶µçÓ°±¨µÀ¡·ÖÆÆ¬ÈËÕÅÎÀ¼ÄÓïÖÐ¹úÓ°ÆÀ¼Ò¹ÙÍø
-(0418
-14:50)
+(0418 14:50)
 ¡¶½ñÈÕÓ°ÊÓ¡·ÖÆÆ¬ÈËÔø×Óº½¼ÄÓïÖÐ¹úÓ°ÆÀ¼Ò¹ÙÍø
-(0418
-11:44)
+(0418 11:44)
 ÖÐ¹úµçÓ°ÆÀÂÛÑ§»á¸±»á³¤Åí¼Óèª¼ÄÓïÓ°ÆÀ¼Ò¹ÙÍø
-(0418
-11:32)
+(0418 11:32)
 ¸´µ©´óÑ§½ÌÊÚÖÜ±ó¼ÄÓïÖÐ¹úÓ°ÆÀ¼Ò¹ÙÍø
-(0418
-11:03)
+(0418 11:03)
 ±±¾©´óÑ§ÖÐÎÄÏµ½ÌÊÚÕÅÒÃÎä¼ÄÓïÖÐ¹úÓ°ÆÀ¼Ò¹ÙÍø
-(0418
-10:31)
+(0418 10:31)
 ÉÏº£´óÑ§Ó°ÊÓÑ§Ôº½ÌÊÚ³ÂÏ¬ºÌ¼ÄÓïÖÐ¹úÓ°ÆÀ¼Ò¹ÙÍø
-(0418
-10:13)
+(0418 10:13)
 ±±¾©µçÓ°Ñ§ÔºµçÓ°ÑÐ¾¿ËùËù³¤ÍõÖ¾Ãô¼ÄÓï
-(0418
-10:00)
+(0418 10:00)
 ÇàÄêÓ°ÆÀ¼ÒÈüÈË¼ÄÓïÖÐ¹úÓ°ÆÀ¼Ò¹ÙÍø
-(0417
-14:40)
+(0417 14:40)
 ±±¾©µçÓ°Ñ§Ôº½ÌÊÚ´ÞÎÀÆ½¼ÄÓïÖÐ¹úÓ°ÆÀ¼Ò¹ÙÍø
-(0417
-11:23)
+(0417 11:23)
 Í¬ÐÄ³ö°æÉç³£Îñ¸±×Ü±à½âçôè°¼ÄÓïÖÐ¹úÓ°ÆÀ¼Ò¹ÙÍø
-(0415
-12:33)
+(0415 12:33)
 ¸ü¶àÄÚÈÝ
 ÐÂÀËµçÓ°³öÆ·
 Ó°ÒôÓéÀÖÒâ¼û·´À¡ÁôÑÔ°å
@@ -47552,8 +45367,7 @@ Reserved
 |
 2008Ã÷ÐÇ´øÄã»·ÓÎÊÀ½ç_ÐÂÀËÓéÀÖ
 Ó°ÒôÓéÀÖÊ×Ò³|ÓéÀÖ²©¿ÍÊ×Ò³|Í¼Æ¬²©¿Í|ÓéÀÖ°É
-[×ß±éÃÀ¹ú
-ãåÔ¡´óÑó±Ë°¶µÄÑô¹â]
+[×ß±éÃÀ¹ú ãåÔ¡´óÑó±Ë°¶µÄÑô¹â]
 Ã·æÃÅ¦Ô¼ÓÎÑ§ÈÕ¼Ç
 Ó¦²É¶ù£ºÏÂÒ»Õ¾ÃÀ¹úÊ±´ú¹ã³¡
 ËÕÑÒ£º»·ÇòÓ°³ÇÃÀ¹úµçÓ°ÓéÀÖ¹Û
@@ -47564,8 +45378,7 @@ Reserved
 ¹¨ÝíÆƒ£ºÂåÉ¼í¶µÄºÃ³ÔºÃÍæ
 ÐìÈô¬uÔÚŠWË¹¿¨
 ËÉËÉÓÎÈý·ªÊÐ
-[ÓÎÀúÅ·ÖÞ
-¸ÐÊÜÎ÷·½¹Åµä÷ÈÁ¦]
+[ÓÎÀúÅ·ÖÞ ¸ÐÊÜÎ÷·½¹Åµä÷ÈÁ¦]
 Àî±ù±ù·¨¹ú¹éÀ´
 Îâ½¨·É£ºÔÚ°ØÁÖÓ­ÐÂÄê
 ÕÔÌÎ£ºÃ×À¼µÄ°×½ÌÌÃ
@@ -47576,8 +45389,7 @@ Reserved
 ·¶±ù±ù£ºÈÃ°ØÁÖÓëÄãÎÒÍ¬ÀÖ
 ÕÔÌÎÂÞÂíÄ¾Å¼µê
 Ù¡´óÎª°ØÁÖ²Ôñ·ÏÂ
-[ÈÕº«Ö®ÂÃ
-Ã÷ÐÇ´øÄã¹þÈÕ¹þº«]
+[ÈÕº«Ö®ÂÃ Ã÷ÐÇ´øÄã¹þÈÕ¹þº«]
 ÃçÆÔ¶«¾©µÄÍõ×ÓÓë¹«Ö÷
 ÂÀÓñÀ´£ºÒ»¸öÈËµÄ¸ªÉ½
 ÌÆæÌ£º¸ªÉ½Óöµ½¡°Ð¡ÀËÈË¡±
@@ -47646,8 +45458,7 @@ Reserved
 |
 2008Ã÷ÐÇ´øÄã»·ÓÎÊÀ½ç_ÐÂÀËÓéÀÖ
 Ó°ÒôÓéÀÖÊ×Ò³|ÓéÀÖ²©¿ÍÊ×Ò³|Í¼Æ¬²©¿Í|ÓéÀÖ°É
-[×ß±éÃÀ¹ú
-ãåÔ¡´óÑó±Ë°¶µÄÑô¹â]
+[×ß±éÃÀ¹ú ãåÔ¡´óÑó±Ë°¶µÄÑô¹â]
 Ã·æÃÅ¦Ô¼ÓÎÑ§ÈÕ¼Ç
 Ó¦²É¶ù£ºÏÂÒ»Õ¾ÃÀ¹úÊ±´ú¹ã³¡
 ËÕÑÒ£º»·ÇòÓ°³ÇÃÀ¹úµçÓ°ÓéÀÖ¹Û
@@ -47658,8 +45469,7 @@ Reserved
 ¹¨ÝíÆƒ£ºÂåÉ¼í¶µÄºÃ³ÔºÃÍæ
 ÐìÈô¬uÔÚŠWË¹¿¨
 ËÉËÉÓÎÈý·ªÊÐ
-[ÓÎÀúÅ·ÖÞ
-¸ÐÊÜÎ÷·½¹Åµä÷ÈÁ¦]
+[ÓÎÀúÅ·ÖÞ ¸ÐÊÜÎ÷·½¹Åµä÷ÈÁ¦]
 Àî±ù±ù·¨¹ú¹éÀ´
 Îâ½¨·É£ºÔÚ°ØÁÖÓ­ÐÂÄê
 ÕÔÌÎ£ºÃ×À¼µÄ°×½ÌÌÃ
@@ -47670,8 +45480,7 @@ Reserved
 ·¶±ù±ù£ºÈÃ°ØÁÖÓëÄãÎÒÍ¬ÀÖ
 ÕÔÌÎÂÞÂíÄ¾Å¼µê
 Ù¡´óÎª°ØÁÖ²Ôñ·ÏÂ
-[ÈÕº«Ö®ÂÃ
-Ã÷ÐÇ´øÄã¹þÈÕ¹þº«]
+[ÈÕº«Ö®ÂÃ Ã÷ÐÇ´øÄã¹þÈÕ¹þº«]
 ÃçÆÔ¶«¾©µÄÍõ×ÓÓë¹«Ö÷
 ÂÀÓñÀ´£ºÒ»¸öÈËµÄ¸ªÉ½
 ÌÆæÌ£º¸ªÉ½Óöµ½¡°Ð¡ÀËÈË¡±
@@ -48583,239 +46392,173 @@ Document
 ÐÂÎÅ±¨µÀ
 ³¬3ÒÚÉÆ¿î°®ÐÄÆë¾Û´óÈÚ±ù
 ÎÒÃÇÒ»Æð¹ýÄêÊÜÊ¢ÔÞ
-(0206
-02:45)
+(0206 02:45)
 °®ÐÄÈÚ±ù¸Ð¶¯ÉñÖÝ
 ÎÒÃÇÒ»Æð¹ýÄêÎÂÅ¯ÃÖÂþ(×éÍ¼)
-(0206
-02:40)
+(0206 02:40)
 ºþÄÏÀÏÏç¿¶¿®½âÄÒ
 ×£¸£ÔÖÇøÈËÃñÐÂÄêÉú»î°²¿µ
-(0205
-21:31)
+(0205 21:31)
 ºþÄÏÎÀÊÓêâÔÖ½ÚÄ¿¡¶ÎÒÃÇÒ»Æð¹ýÄê¡·×îÐÂ½ÚÄ¿µ¥
-(0205
-18:06)
+(0205 18:06)
 Ïã¸ÛÌØ±ðÐÐÕþÇøÕþ¸®¾èÔù1ÒÚ¸Û±ÒÓÃÓÚ¿¹±ù¾ÈÔÖ
-(0205
-17:15)
+(0205 17:15)
 »ÆÊ¥ÒÀÐ¯ÊÖÑî×ÓÎªºþÄÏÔÖÇø¾è¿îÊ®Íò·îÏ×°®ÐÄ
-(0205
-17:13)
+(0205 17:13)
 ¡¶°®ÐÄ´óÈÚ±ù¡·êâÔÖ½ÚÄ¿--ÎÒÃÇÒ»Æð¹ýÄê½ÚÄ¿µ¥
-(0205
-12:10)
+(0205 12:10)
 ¡¶°®ÐÄ´óÈÚ±ù¡·µ¹¼ÆÊ±
 °®ÐÄ×Ü¶¯Ô±Ö±²¥15Ð¡Ê±
-(0204
-17:42)
+(0204 17:42)
 ºþÄÏÎÀÊÓ°®ÐÄÈÚ±ù×Ü¶¯Ô±
 Ê®ÎåÐ¡Ê±êâÔÖÖ±²¥
-(0204
-15:12)
+(0204 15:12)
 ¡°°®ÐÄ´óÈÚ±ù¡±Ö÷³ÖÕóÈÝÔÙÌíÖØ°õ
 Â³Ô¥ÇãÇé¼ÓÃË
-(0203
-16:43)
+(0203 16:43)
 ±±¾©µçÊÓÌ¨´ºÍí¾«²Ê·×³Ê
 ÁõÏþÇì¾¢Îè½ªÀ¥¶ºßç
-(0203
-09:27)
+(0203 09:27)
 5ÈÕÊÓÆµÖ±²¥ºþÄÏÎÀÊÓÌØ±ð½ÚÄ¿--°®ÐÄ´óÈÚ±ù
-(0202
-15:42)
+(0202 15:42)
 ´óÑ©·âÍ£ºþÄÏÌ¨´ºÍí
 ÍøÓÑ½¨ÒéÍÆÖÁ³ýÏ¦PKÑëÊÓ
-(0129
-17:11)
+(0129 17:11)
 ºþÄÏÎÀÊÓÈ¡ÏûÐ¡ÄêÒ¹´º½ÚÍí»á
 ´óÑ©¶Â×¡Ã÷ÐÇÂ·
-(0129
-15:04)
+(0129 15:04)
 ´óÑ©³ÉÔÖ½»Í¨ÊÜ×è
 ºþÄÏÎÀÊÓ½ô¼±È¡ÏûÐ¡ÄêÒ¹´ºÍí
-(0129
-12:20)
+(0129 12:20)
 ºþÄÏÎÀÊÓÈ¡Ïû´ºÍí
 ²¿·ÖÖØÒª½ÚÄ¿ÔªÏüÍí»áÁÁÏà
-(0129
-12:12)
+(0129 12:12)
 ºþÄÏ´ºÍíÒò±©Ñ©±»ÆÈÈ¡Ïû
 Ö±½ÓËðÊ§Ô¼400Íò(Í¼)
-(0129
-11:13)
+(0129 11:13)
 ºþÄÏÎÀÊÓ´ºÍíÒò´óÑ©È¡Ïû
 Ö±½ÓËðÊ§½ü400Íò(Í¼)
-(0129
-01:54)
+(0129 01:54)
 ºþÄÏÎÀÊÓÈ¡Ïû´º½ÚÁª»¶Íí»á
 Òò±ùÑ©×è¼Î±öµÖ³¤É³
-(0128
-18:24)
+(0128 18:24)
 ºþÄÏÎÀÊÓÒòÌìÆøÔ­ÒòÈ¡Ïû´ºÍí
 ÔªÏüÍí»áÕý³£²¥³ö
-(0128
-17:52)
+(0128 17:52)
 ºþÄÏÎÀÊÓ´ºÍíÒò±©Ñ©È¡Ïû
 ÑÒÄÐÀÉÔªÏü½ÚÔÙ¾Û(Í¼)
-(0128
-17:16)
+(0128 17:16)
 Íõ±¦Ç¿ÒªÕÒÈýºÃÏ±¸¾
 ÍõÂèÏ²»¶ÀîÏæÄÇÑùµÄ(Í¼)
-(0128
-11:25)
+(0128 11:25)
 ºþÄÏÎÀÊÓÊ¢Ñû°×¾²´ºÍí¡°»ØÄï¼Ò¡±Ï×³ª¸èÇú(Í¼)
-(0128
-11:02)
+(0128 11:02)
 ºþÄÏ´ºÍíÈÃÄúÑøÑÛ
 ÇØá°ÖÜÒ»Î§ÁìÏÎÃÀÅ®Ë§ÄÐ
-(0126
-17:22)
+(0126 17:22)
 ºþÄÏ±ù¶³ÔÖº¦ÑÏÖØ
 Ö÷°ì·½¿Ë·þÀ§ÄÑÈ·±£´ºÍí
-(0126
-17:20)
+(0126 17:20)
 ÌÆ¹úÇ¿¼ÓÃËºþÄÏ´ºÍí
 µÇÌ¨ÀÊËÐ½²Êö¸Ä¸ï30Äê¾Þ±ä
-(0125
-16:00)
+(0125 16:00)
 ÖÜÒ»Î§ÕÅ¾þÄþºþÄÏÂ¼´ºÍíºÏ³ª
 ±»ÆØ²»ºÍ±íÇéÞÏÞÎ
-(0125
-11:20)
+(0125 11:20)
 Ïæ¼®ÑÝÔ±ÉÏºþÄÏ´ºÍí
 ÖÜÒ»Î§ÕäÏ§»Ø¼ÒµÄ¸Ð¾õ(Í¼)
-(0124
-19:07)
+(0124 19:07)
 TWINS¾Ü¡°ÆßÄêÖ®Ñ÷¡±²Î¼ÓºþÄÏ´ºÍí·ÛËé½âÉ¢Ò¥ÑÔ
-(0124
-18:15)
+(0124 18:15)
 ¿ìÄÐ13Ç¿ÖØ¾ÛºþÄÏ´ºÍí
 ³Â³þÉúÀîÓî´º¾«²ÊÑ¹Öá
-(0124
-15:59)
+(0124 15:59)
 ¿ìÄÐÊ®ÈýÌ«±£ÉÏºþÄÏ´ºÍí
 ³Â³þÉúÀîÓî´ºÑ¹Öá(Í¼)
-(0124
-09:18)
+(0124 09:18)
 ÀîÏæÐ»ÄÈÓë²ÜÓ±Ê×¶ÈÍ¬Ì¨
 ºþÄÏ´ºÍíÖ÷³Ö²»ÇëÍâÔ®
-(0123
-14:33)
+(0123 14:33)
 ¡°Ð£³¤°Ö°Ö¡±¸Ð¶¯ºþÄÏ´ºÍí
 ÀîÓî´ºÓµ¹Â¶ùÏ×³ª
-(0123
-14:31)
+(0123 14:31)
 ºþÄÏ´ºÍí²»Çë¡°ÍâÔ®¡±
 ÀîÏæÐ»ÄÈ²ÜÓ±Í¬Ì¨Ö÷³Ö
-(0123
-10:55)
+(0123 10:55)
 08ºþÄÏ´ºÍíÐ¡ÄêÒ¹¾ÙÐÐ
 Íõ±¦Ç¿ÕÅ¹úÁ¢µÈÒ²½«²Î¼Ó
-(0122
-13:58)
+(0122 13:58)
 ºþÄÏ´ºÍíÊ¢ÑûÈÎÈª
 ¡°ÀÏ¸èÐÂ³ª¡±ÐøÐ´ÍêÃÀÍÉ±ä
-(0121
-16:04)
+(0121 16:04)
 ÕÅ»ÝÃÃÁªÊÖËïéª¿×Ïé¶«
 ºþÄÏ´ºÍíÃ÷ÐÇÕóÈÝºÀ»ª
-(0121
-15:07)
+(0121 15:07)
 ºþÄÏÎÀÊÓÑû¶Ø»ÍÉ³»­½ø´ºÍí
 ×ö»­¡¶¶´Í¥Óæ¸è¡·
-(0121
-12:09)
+(0121 12:09)
 ÖÜ±Ê³©Ë¼ÏçÐÄÇÐ
 Ð¡ÄêÒ¹»ØºþÄÏ¡°´ºÍí¡±¹ýÄê
-(0117
-18:19)
+(0117 18:19)
 ¸ü¶àÄÚÈÝ
 Í¼Æ¬ÐÀÉÍ
 Í¼ÎÄ£ººþÄÏÎÀÊÓêâÔÖÌØ±ð½ÚÄ¿ÑÝÔ±ÃÇ²ÊÅÅ(25)
-(0205
-12:31)
+(0205 12:31)
 Í¼ÎÄ£ººþÄÏÎÀÊÓêâÔÖÌØ±ð½ÚÄ¿ÑÝÔ±ÃÇ²ÊÅÅ(24)
-(0205
-12:31)
+(0205 12:31)
 Í¼ÎÄ£ººþÄÏÎÀÊÓêâÔÖÌØ±ð½ÚÄ¿ÑÝÔ±ÃÇ²ÊÅÅ(23)
-(0205
-12:31)
+(0205 12:31)
 Í¼ÎÄ£ººþÄÏÎÀÊÓêâÔÖÌØ±ð½ÚÄ¿ÑÝÔ±ÃÇ²ÊÅÅ(22)
-(0205
-12:31)
+(0205 12:31)
 Í¼ÎÄ£ººþÄÏÎÀÊÓêâÔÖÌØ±ð½ÚÄ¿ÑÝÔ±ÃÇ²ÊÅÅ(21)
-(0205
-12:31)
+(0205 12:31)
 Í¼ÎÄ£ººþÄÏÎÀÊÓêâÔÖÌØ±ð½ÚÄ¿ÑÝÔ±ÃÇ²ÊÅÅ(20)
-(0205
-12:31)
+(0205 12:31)
 Í¼ÎÄ£ººþÄÏÎÀÊÓêâÔÖÌØ±ð½ÚÄ¿ÑÝÔ±ÃÇ²ÊÅÅ(19)
-(0205
-12:31)
+(0205 12:31)
 Í¼ÎÄ£ººþÄÏÎÀÊÓêâÔÖÌØ±ð½ÚÄ¿ÑÝÔ±ÃÇ²ÊÅÅ(18)
-(0205
-12:30)
+(0205 12:30)
 Í¼ÎÄ£ººþÄÏÎÀÊÓêâÔÖÌØ±ð½ÚÄ¿ÑÝÔ±ÃÇ²ÊÅÅ(17)
-(0205
-12:30)
+(0205 12:30)
 Í¼ÎÄ£ººþÄÏÎÀÊÓêâÔÖÌØ±ð½ÚÄ¿ÑÝÔ±ÃÇ²ÊÅÅ(16)
-(0205
-12:30)
+(0205 12:30)
 Í¼ÎÄ£ººþÄÏÎÀÊÓêâÔÖÌØ±ð½ÚÄ¿ÑÝÔ±ÃÇ²ÊÅÅ(15)
-(0205
-12:30)
+(0205 12:30)
 Í¼ÎÄ£ººþÄÏÎÀÊÓêâÔÖÌØ±ð½ÚÄ¿ÑÝÔ±ÃÇ²ÊÅÅ(14)
-(0205
-12:30)
+(0205 12:30)
 Í¼ÎÄ£ººþÄÏÎÀÊÓêâÔÖÌØ±ð½ÚÄ¿ÑÝÔ±ÃÇ²ÊÅÅ(13)
-(0205
-12:30)
+(0205 12:30)
 Í¼ÎÄ£ººþÄÏÎÀÊÓêâÔÖÌØ±ð½ÚÄ¿ÑÝÔ±ÃÇ²ÊÅÅ(12)
-(0205
-12:30)
+(0205 12:30)
 Í¼ÎÄ£ººþÄÏÎÀÊÓêâÔÖÌØ±ð½ÚÄ¿ÑÝÔ±ÃÇ²ÊÅÅ(11)
-(0205
-12:30)
+(0205 12:30)
 Í¼ÎÄ£ººþÄÏÎÀÊÓêâÔÖÌØ±ð½ÚÄ¿ÑÝÔ±ÃÇ²ÊÅÅ(10)
-(0205
-12:30)
+(0205 12:30)
 Í¼ÎÄ£ººþÄÏÎÀÊÓêâÔÖÌØ±ð½ÚÄ¿ÑÝÔ±ÃÇ²ÊÅÅ(9)
-(0205
-12:30)
+(0205 12:30)
 Í¼ÎÄ£ººþÄÏÎÀÊÓêâÔÖÌØ±ð½ÚÄ¿ÑÝÔ±ÃÇ²ÊÅÅ(8)
-(0205
-12:30)
+(0205 12:30)
 Í¼ÎÄ£ººþÄÏÎÀÊÓêâÔÖÌØ±ð½ÚÄ¿ÑÝÔ±ÃÇ²ÊÅÅ(7)
-(0205
-12:30)
+(0205 12:30)
 ¸ü¶àÄÚÈÝ
 Ïà¹ØÆÀÂÛ
 ºþÄÏÎÀÊÓÈ¡Ïû´ºÍíÊÇË­µÄËðÊ§£¿
-(0128
-23:17)
+(0128 23:17)
 ÆÀÂÛ£ººþÄÏÎÀÊÓ´ºÍíÈ¡ÏûÕÃÏÔÃ½ÌåÔðÈÎ¸Ð
-(0128
-18:03)
+(0128 18:03)
 ÆÀÂÛ£º±Ø¿´ºþÄÏÎÀÊÓ´ºÍíµÄ10´óÀíÓÉ
-(0125
-21:21)
+(0125 21:21)
 ÆÀÂÛ£ºÈÏÕæ¸ãÐ¦2008ºþÄÏ´ºÍíÓÖ¼ûÅ®Ö÷³ÖÈËPK
-(0125
-21:21)
+(0125 21:21)
 ½ÒÃÜºþÄÏ´ºÍíÖ÷³ÖÕóÈÝÏæÄÈÑÝ½ðÖ¦ÓûÄõ
-(0125
-21:20)
+(0125 21:20)
 ÆÀÂÛ£º²ÜÓ±Æ½ºâÀîÏæÐ»ÄÈµÄÃ÷Õù°µ¶·
-(0125
-21:19)
+(0125 21:19)
 ºþÄÏÎÀÊÓ´ºÍíÁÁÆßÕÐ½Ð°åÑëÊÓ´ºÍí?(Í¼)
-(0125
-21:18)
+(0125 21:18)
 ºþÄÏ´ºÍí·¢¶¯ÄÐÉ«ÆðÒå
 ¿´Ê®ÈýÌ«±£ÈçºÎPKÑÒÄÐÀÉ
-(0125
-21:16)
+(0125 21:16)
 ¸ü¶àÄÚÈÝ
 Ïà¹ØÁ¬½Ó
 ×¨ÌâÄÚËÑË÷
@@ -48954,239 +46697,173 @@ Document
 ÐÂÎÅ±¨µÀ
 ³¬3ÒÚÉÆ¿î°®ÐÄÆë¾Û´óÈÚ±ù
 ÎÒÃÇÒ»Æð¹ýÄêÊÜÊ¢ÔÞ
-(0206
-02:45)
+(0206 02:45)
 °®ÐÄÈÚ±ù¸Ð¶¯ÉñÖÝ
 ÎÒÃÇÒ»Æð¹ýÄêÎÂÅ¯ÃÖÂþ(×éÍ¼)
-(0206
-02:40)
+(0206 02:40)
 ºþÄÏÀÏÏç¿¶¿®½âÄÒ
 ×£¸£ÔÖÇøÈËÃñÐÂÄêÉú»î°²¿µ
-(0205
-21:31)
+(0205 21:31)
 ºþÄÏÎÀÊÓêâÔÖ½ÚÄ¿¡¶ÎÒÃÇÒ»Æð¹ýÄê¡·×îÐÂ½ÚÄ¿µ¥
-(0205
-18:06)
+(0205 18:06)
 Ïã¸ÛÌØ±ðÐÐÕþÇøÕþ¸®¾èÔù1ÒÚ¸Û±ÒÓÃÓÚ¿¹±ù¾ÈÔÖ
-(0205
-17:15)
+(0205 17:15)
 »ÆÊ¥ÒÀÐ¯ÊÖÑî×ÓÎªºþÄÏÔÖÇø¾è¿îÊ®Íò·îÏ×°®ÐÄ
-(0205
-17:13)
+(0205 17:13)
 ¡¶°®ÐÄ´óÈÚ±ù¡·êâÔÖ½ÚÄ¿--ÎÒÃÇÒ»Æð¹ýÄê½ÚÄ¿µ¥
-(0205
-12:10)
+(0205 12:10)
 ¡¶°®ÐÄ´óÈÚ±ù¡·µ¹¼ÆÊ±
 °®ÐÄ×Ü¶¯Ô±Ö±²¥15Ð¡Ê±
-(0204
-17:42)
+(0204 17:42)
 ºþÄÏÎÀÊÓ°®ÐÄÈÚ±ù×Ü¶¯Ô±
 Ê®ÎåÐ¡Ê±êâÔÖÖ±²¥
-(0204
-15:12)
+(0204 15:12)
 ¡°°®ÐÄ´óÈÚ±ù¡±Ö÷³ÖÕóÈÝÔÙÌíÖØ°õ
 Â³Ô¥ÇãÇé¼ÓÃË
-(0203
-16:43)
+(0203 16:43)
 ±±¾©µçÊÓÌ¨´ºÍí¾«²Ê·×³Ê
 ÁõÏþÇì¾¢Îè½ªÀ¥¶ºßç
-(0203
-09:27)
+(0203 09:27)
 5ÈÕÊÓÆµÖ±²¥ºþÄÏÎÀÊÓÌØ±ð½ÚÄ¿--°®ÐÄ´óÈÚ±ù
-(0202
-15:42)
+(0202 15:42)
 ´óÑ©·âÍ£ºþÄÏÌ¨´ºÍí
 ÍøÓÑ½¨ÒéÍÆÖÁ³ýÏ¦PKÑëÊÓ
-(0129
-17:11)
+(0129 17:11)
 ºþÄÏÎÀÊÓÈ¡ÏûÐ¡ÄêÒ¹´º½ÚÍí»á
 ´óÑ©¶Â×¡Ã÷ÐÇÂ·
-(0129
-15:04)
+(0129 15:04)
 ´óÑ©³ÉÔÖ½»Í¨ÊÜ×è
 ºþÄÏÎÀÊÓ½ô¼±È¡ÏûÐ¡ÄêÒ¹´ºÍí
-(0129
-12:20)
+(0129 12:20)
 ºþÄÏÎÀÊÓÈ¡Ïû´ºÍí
 ²¿·ÖÖØÒª½ÚÄ¿ÔªÏüÍí»áÁÁÏà
-(0129
-12:12)
+(0129 12:12)
 ºþÄÏ´ºÍíÒò±©Ñ©±»ÆÈÈ¡Ïû
 Ö±½ÓËðÊ§Ô¼400Íò(Í¼)
-(0129
-11:13)
+(0129 11:13)
 ºþÄÏÎÀÊÓ´ºÍíÒò´óÑ©È¡Ïû
 Ö±½ÓËðÊ§½ü400Íò(Í¼)
-(0129
-01:54)
+(0129 01:54)
 ºþÄÏÎÀÊÓÈ¡Ïû´º½ÚÁª»¶Íí»á
 Òò±ùÑ©×è¼Î±öµÖ³¤É³
-(0128
-18:24)
+(0128 18:24)
 ºþÄÏÎÀÊÓÒòÌìÆøÔ­ÒòÈ¡Ïû´ºÍí
 ÔªÏüÍí»áÕý³£²¥³ö
-(0128
-17:52)
+(0128 17:52)
 ºþÄÏÎÀÊÓ´ºÍíÒò±©Ñ©È¡Ïû
 ÑÒÄÐÀÉÔªÏü½ÚÔÙ¾Û(Í¼)
-(0128
-17:16)
+(0128 17:16)
 Íõ±¦Ç¿ÒªÕÒÈýºÃÏ±¸¾
 ÍõÂèÏ²»¶ÀîÏæÄÇÑùµÄ(Í¼)
-(0128
-11:25)
+(0128 11:25)
 ºþÄÏÎÀÊÓÊ¢Ñû°×¾²´ºÍí¡°»ØÄï¼Ò¡±Ï×³ª¸èÇú(Í¼)
-(0128
-11:02)
+(0128 11:02)
 ºþÄÏ´ºÍíÈÃÄúÑøÑÛ
 ÇØá°ÖÜÒ»Î§ÁìÏÎÃÀÅ®Ë§ÄÐ
-(0126
-17:22)
+(0126 17:22)
 ºþÄÏ±ù¶³ÔÖº¦ÑÏÖØ
 Ö÷°ì·½¿Ë·þÀ§ÄÑÈ·±£´ºÍí
-(0126
-17:20)
+(0126 17:20)
 ÌÆ¹úÇ¿¼ÓÃËºþÄÏ´ºÍí
 µÇÌ¨ÀÊËÐ½²Êö¸Ä¸ï30Äê¾Þ±ä
-(0125
-16:00)
+(0125 16:00)
 ÖÜÒ»Î§ÕÅ¾þÄþºþÄÏÂ¼´ºÍíºÏ³ª
 ±»ÆØ²»ºÍ±íÇéÞÏÞÎ
-(0125
-11:20)
+(0125 11:20)
 Ïæ¼®ÑÝÔ±ÉÏºþÄÏ´ºÍí
 ÖÜÒ»Î§ÕäÏ§»Ø¼ÒµÄ¸Ð¾õ(Í¼)
-(0124
-19:07)
+(0124 19:07)
 TWINS¾Ü¡°ÆßÄêÖ®Ñ÷¡±²Î¼ÓºþÄÏ´ºÍí·ÛËé½âÉ¢Ò¥ÑÔ
-(0124
-18:15)
+(0124 18:15)
 ¿ìÄÐ13Ç¿ÖØ¾ÛºþÄÏ´ºÍí
 ³Â³þÉúÀîÓî´º¾«²ÊÑ¹Öá
-(0124
-15:59)
+(0124 15:59)
 ¿ìÄÐÊ®ÈýÌ«±£ÉÏºþÄÏ´ºÍí
 ³Â³þÉúÀîÓî´ºÑ¹Öá(Í¼)
-(0124
-09:18)
+(0124 09:18)
 ÀîÏæÐ»ÄÈÓë²ÜÓ±Ê×¶ÈÍ¬Ì¨
 ºþÄÏ´ºÍíÖ÷³Ö²»ÇëÍâÔ®
-(0123
-14:33)
+(0123 14:33)
 ¡°Ð£³¤°Ö°Ö¡±¸Ð¶¯ºþÄÏ´ºÍí
 ÀîÓî´ºÓµ¹Â¶ùÏ×³ª
-(0123
-14:31)
+(0123 14:31)
 ºþÄÏ´ºÍí²»Çë¡°ÍâÔ®¡±
 ÀîÏæÐ»ÄÈ²ÜÓ±Í¬Ì¨Ö÷³Ö
-(0123
-10:55)
+(0123 10:55)
 08ºþÄÏ´ºÍíÐ¡ÄêÒ¹¾ÙÐÐ
 Íõ±¦Ç¿ÕÅ¹úÁ¢µÈÒ²½«²Î¼Ó
-(0122
-13:58)
+(0122 13:58)
 ºþÄÏ´ºÍíÊ¢ÑûÈÎÈª
 ¡°ÀÏ¸èÐÂ³ª¡±ÐøÐ´ÍêÃÀÍÉ±ä
-(0121
-16:04)
+(0121 16:04)
 ÕÅ»ÝÃÃÁªÊÖËïéª¿×Ïé¶«
 ºþÄÏ´ºÍíÃ÷ÐÇÕóÈÝºÀ»ª
-(0121
-15:07)
+(0121 15:07)
 ºþÄÏÎÀÊÓÑû¶Ø»ÍÉ³»­½ø´ºÍí
 ×ö»­¡¶¶´Í¥Óæ¸è¡·
-(0121
-12:09)
+(0121 12:09)
 ÖÜ±Ê³©Ë¼ÏçÐÄÇÐ
 Ð¡ÄêÒ¹»ØºþÄÏ¡°´ºÍí¡±¹ýÄê
-(0117
-18:19)
+(0117 18:19)
 ¸ü¶àÄÚÈÝ
 Í¼Æ¬ÐÀÉÍ
 Í¼ÎÄ£ººþÄÏÎÀÊÓêâÔÖÌØ±ð½ÚÄ¿ÑÝÔ±ÃÇ²ÊÅÅ(25)
-(0205
-12:31)
+(0205 12:31)
 Í¼ÎÄ£ººþÄÏÎÀÊÓêâÔÖÌØ±ð½ÚÄ¿ÑÝÔ±ÃÇ²ÊÅÅ(24)
-(0205
-12:31)
+(0205 12:31)
 Í¼ÎÄ£ººþÄÏÎÀÊÓêâÔÖÌØ±ð½ÚÄ¿ÑÝÔ±ÃÇ²ÊÅÅ(23)
-(0205
-12:31)
+(0205 12:31)
 Í¼ÎÄ£ººþÄÏÎÀÊÓêâÔÖÌØ±ð½ÚÄ¿ÑÝÔ±ÃÇ²ÊÅÅ(22)
-(0205
-12:31)
+(0205 12:31)
 Í¼ÎÄ£ººþÄÏÎÀÊÓêâÔÖÌØ±ð½ÚÄ¿ÑÝÔ±ÃÇ²ÊÅÅ(21)
-(0205
-12:31)
+(0205 12:31)
 Í¼ÎÄ£ººþÄÏÎÀÊÓêâÔÖÌØ±ð½ÚÄ¿ÑÝÔ±ÃÇ²ÊÅÅ(20)
-(0205
-12:31)
+(0205 12:31)
 Í¼ÎÄ£ººþÄÏÎÀÊÓêâÔÖÌØ±ð½ÚÄ¿ÑÝÔ±ÃÇ²ÊÅÅ(19)
-(0205
-12:31)
+(0205 12:31)
 Í¼ÎÄ£ººþÄÏÎÀÊÓêâÔÖÌØ±ð½ÚÄ¿ÑÝÔ±ÃÇ²ÊÅÅ(18)
-(0205
-12:30)
+(0205 12:30)
 Í¼ÎÄ£ººþÄÏÎÀÊÓêâÔÖÌØ±ð½ÚÄ¿ÑÝÔ±ÃÇ²ÊÅÅ(17)
-(0205
-12:30)
+(0205 12:30)
 Í¼ÎÄ£ººþÄÏÎÀÊÓêâÔÖÌØ±ð½ÚÄ¿ÑÝÔ±ÃÇ²ÊÅÅ(16)
-(0205
-12:30)
+(0205 12:30)
 Í¼ÎÄ£ººþÄÏÎÀÊÓêâÔÖÌØ±ð½ÚÄ¿ÑÝÔ±ÃÇ²ÊÅÅ(15)
-(0205
-12:30)
+(0205 12:30)
 Í¼ÎÄ£ººþÄÏÎÀÊÓêâÔÖÌØ±ð½ÚÄ¿ÑÝÔ±ÃÇ²ÊÅÅ(14)
-(0205
-12:30)
+(0205 12:30)
 Í¼ÎÄ£ººþÄÏÎÀÊÓêâÔÖÌØ±ð½ÚÄ¿ÑÝÔ±ÃÇ²ÊÅÅ(13)
-(0205
-12:30)
+(0205 12:30)
 Í¼ÎÄ£ººþÄÏÎÀÊÓêâÔÖÌØ±ð½ÚÄ¿ÑÝÔ±ÃÇ²ÊÅÅ(12)
-(0205
-12:30)
+(0205 12:30)
 Í¼ÎÄ£ººþÄÏÎÀÊÓêâÔÖÌØ±ð½ÚÄ¿ÑÝÔ±ÃÇ²ÊÅÅ(11)
-(0205
-12:30)
+(0205 12:30)
 Í¼ÎÄ£ººþÄÏÎÀÊÓêâÔÖÌØ±ð½ÚÄ¿ÑÝÔ±ÃÇ²ÊÅÅ(10)
-(0205
-12:30)
+(0205 12:30)
 Í¼ÎÄ£ººþÄÏÎÀÊÓêâÔÖÌØ±ð½ÚÄ¿ÑÝÔ±ÃÇ²ÊÅÅ(9)
-(0205
-12:30)
+(0205 12:30)
 Í¼ÎÄ£ººþÄÏÎÀÊÓêâÔÖÌØ±ð½ÚÄ¿ÑÝÔ±ÃÇ²ÊÅÅ(8)
-(0205
-12:30)
+(0205 12:30)
 Í¼ÎÄ£ººþÄÏÎÀÊÓêâÔÖÌØ±ð½ÚÄ¿ÑÝÔ±ÃÇ²ÊÅÅ(7)
-(0205
-12:30)
+(0205 12:30)
 ¸ü¶àÄÚÈÝ
 Ïà¹ØÆÀÂÛ
 ºþÄÏÎÀÊÓÈ¡Ïû´ºÍíÊÇË­µÄËðÊ§£¿
-(0128
-23:17)
+(0128 23:17)
 ÆÀÂÛ£ººþÄÏÎÀÊÓ´ºÍíÈ¡ÏûÕÃÏÔÃ½ÌåÔðÈÎ¸Ð
-(0128
-18:03)
+(0128 18:03)
 ÆÀÂÛ£º±Ø¿´ºþÄÏÎÀÊÓ´ºÍíµÄ10´óÀíÓÉ
-(0125
-21:21)
+(0125 21:21)
 ÆÀÂÛ£ºÈÏÕæ¸ãÐ¦2008ºþÄÏ´ºÍíÓÖ¼ûÅ®Ö÷³ÖÈËPK
-(0125
-21:21)
+(0125 21:21)
 ½ÒÃÜºþÄÏ´ºÍíÖ÷³ÖÕóÈÝÏæÄÈÑÝ½ðÖ¦ÓûÄõ
-(0125
-21:20)
+(0125 21:20)
 ÆÀÂÛ£º²ÜÓ±Æ½ºâÀîÏæÐ»ÄÈµÄÃ÷Õù°µ¶·
-(0125
-21:19)
+(0125 21:19)
 ºþÄÏÎÀÊÓ´ºÍíÁÁÆßÕÐ½Ð°åÑëÊÓ´ºÍí?(Í¼)
-(0125
-21:18)
+(0125 21:18)
 ºþÄÏ´ºÍí·¢¶¯ÄÐÉ«ÆðÒå
 ¿´Ê®ÈýÌ«±£ÈçºÎPKÑÒÄÐÀÉ
-(0125
-21:16)
+(0125 21:16)
 ¸ü¶àÄÚÈÝ
 Ïà¹ØÁ¬½Ó
 ×¨ÌâÄÚËÑË÷
@@ -49362,8 +47039,7 @@ S.H.EÏÖ³¡ÑÝ³ª¡¶ÖÐ¹ú»°¡·
 Ð¡Æ·¡¶»ð¾æÊÖ¡·
 (ÕÔ±¾É½¡¢ËÎµ¤µ¤¡¢ÁõÁ÷)
 ÇëÑ¡³öÄúÏ²»¶µÄ08´º½ÚÍí»á½ÚÄ¿(¸èÎèÀà)
-¸èÎè¡¶·ÉÏò´ºÌì¡·(ÍõÑÇ±òÁìÎè
-À×¼ÑµÈÑÝ³ª)
+¸èÎè¡¶·ÉÏò´ºÌì¡·(ÍõÑÇ±òÁìÎè À×¼ÑµÈÑÝ³ª)
 ¸èÇú¡¶ÌïÒ°µÄ´ºÌì¡·(ËÎ×æÓ¢)
 ¸èÇú¡¶ÖÐ»ªÈ«¼Ò¸£¡·(½­ÌÎ¡¢ÂÀÞ±¡¢ÁÖÒÀÂÖµÈ)
 ¸èÇú¡¶ÌìÅ®É¢»¨¡·(ÕÂ×Óâù)
@@ -49378,15 +47054,9 @@ S.H.EÏÖ³¡ÑÝ³ª¡¶ÖÐ¹ú»°¡·
 ¸èÇú¡¶ºÍÐ³´ó¼ÒÔ°¡·(Ì·¾§¡¢ÂÀ¼Ìºê¡¢ÕÅÒ²)
 Áª³ª¡¶µã»÷Ê±ÉÐ¡·(ÅÓÁú¡¢ÕÅÀ½À½¡¢»ÆÊ¥ÒÀµÈ)
 ¸èÇú¡¶Çà»¨´É¡·(ÖÜ½ÜÂ×)
-¸èÇú¡¶Ï²ÊÂ¶à¡·(±«ÈØ
-¸ß³©
-ÁºÒô
-Îâ´ºÑàµÈ)
+¸èÇú¡¶Ï²ÊÂ¶à¡·(±«ÈØ ¸ß³© ÁºÒô Îâ´ºÑàµÈ)
 ¸èÇú¡¶À­¶þºú¡·(ÁõºÍ¸Õ¡¢¹¢Îª»ª¡¢³ÂÐ¡ÌÎµÈ)
-¸èÇú¡¶ÄÑÍü½ñÏü¡·(ÍõÏ¼
-ÍõÀò
-ÍõÓ¨
-Ù¡ÌúöÎµÈ)
+¸èÇú¡¶ÄÑÍü½ñÏü¡·(ÍõÏ¼ ÍõÀò ÍõÓ¨ Ù¡ÌúöÎµÈ)
 ¸èÇú¡¶Í¬Ò»¸öÃÎÏë¡·(Î¤Î¨¡¢³ÂÞÈÑ¸¡¢Ã«ÄþµÈ)
 ÄúÏ²»¶µÄ08´º½ÚÍí»á½ÚÄ¿(Ï·ÇúÇúÒÕ¼°ÆäËüÀà)
 ÏàÉù¡¶·è¿ñ¹ÉÃÔ¡·(Îä±ö¡¢ÀîÎ°½¡)
@@ -49394,8 +47064,7 @@ S.H.EÏÖ³¡ÑÝ³ª¡¶ÖÐ¹ú»°¡·
 ÏàÉù¾ç¡¶¹«½»Ð­×àÇú¡·(·ë¹®¡¢ÑÖÑ§¾§¡¢Íõ±¦Ç¿)
 ÔÓ¼¼¡¶»¨Ê½ÀºÇò¡·(ÉòÑô¾üÇøÇ°½øÔÓ¼¼ÍÅ)
 Ï·ÇúÁª³ª¡¶æ±×ÏæÌºì¡·
-ÖÐ»ªÎäÊõ(ºÓÄÏÉÙÁÖËþ¹µÎäÊõÑ§Ð£
-¹ú¼Ò¶Ó)
+ÖÐ»ªÎäÊõ(ºÓÄÏÉÙÁÖËþ¹µÎäÊõÑ§Ð£ ¹ú¼Ò¶Ó)
 ÌìµØ½»Ïì
 ÊÖÓ°Ï·¡¶¶ºÈ¤¡·(½¹½¨¶«¡¢Ê¯ÀÚ)
 Ä§Êõ¡¶ÐÄÏëÊÂ³É¡·(ÀîÓ½)
@@ -49605,380 +47274,274 @@ S.H.E¡¶ÖÐ¹ú»°¡·
 µÀ
 ²ÌÃ÷³ÎÇåÌ¨´Ê³­Ï®´«ÎÅ
 ²Î¼Ó´ºÍí±¨³ê3000Ôª(Í¼)
-(0213
-11:05)
+(0213 11:05)
 µØ·½Ì¨´ºÍíÀ´ÊÆÐÚÐÚ
 ±±¾©Ì¨´ºÍí³ÉÊóÄê¡°ºÚÂí¡±(2)
-(0213
-10:39)
+(0213 10:39)
 µØ·½Ì¨´ºÍíÀ´ÊÆÐÚÐÚ
 ±±¾©Ì¨´ºÍí³ÉÊóÄê¡°ºÚÂí¡±(3)
-(0213
-10:39)
+(0213 10:39)
 µØ·½Ì¨´ºÍíÀ´ÊÆÐÚÐÚ
 ±±¾©Ì¨´ºÍí³ÉÊóÄê¡°ºÚÂí¡±
-(0213
-10:39)
+(0213 10:39)
 ¹ÛÖÚ×ÜÌåÆÀ¼Û¸ßÓÚÍù½ì
 Ï¸Ëµ2008´ºÍí¡°ËÄ×Ú×î¡±(2)
-(0213
-10:32)
+(0213 10:32)
 ¹ÛÖÚ×ÜÌåÆÀ¼Û¸ßÓÚÍù½ì
 Ï¸Ëµ2008´ºÍí¡°ËÄ×Ú×î¡±
-(0213
-10:32)
+(0213 10:32)
 ´ºÍíÖ®¡°×î¡±»Øíø
 ÕÂ×Óâù¸èÉù×îÈÃÈËÊ§Íû(×éÍ¼)
-(0213
-10:00)
+(0213 10:00)
 ×ÜÖ¸»ÓÖìÍ®½ÒÃØ´ºÍíÄ»ºó
 Î¤Î¨²ÊÅÅÍ»·¢ÐÄÔà²¡
-(0213
-05:10)
+(0213 05:10)
 ´ºÍíÉÃ×ÔÊ¹ÓÃÕÕÆ¬×ö±³¾°
 ÖØÇìÉãÓ°¼ÒË÷Åâ°ÙÍò
-(0213
-01:16)
+(0213 01:16)
 ÁºÓ½ç÷°ËÄêºóÔÙµÇÑëÊÓ´ºÍí
 Õ¹ÏÖÃÀÀöÓë°§³î(Í¼)
-(0212
-17:24)
+(0212 17:24)
 ÁõÁ÷¡¶»ð¾æÊÖ¡·¼´ÐË¸Ä¶¯×÷£ºÎÒÒªÏòÕÔ±¾É½ÈÏ´í
-(0212
-15:52)
+(0212 15:52)
 ÕÔ±¾É½ÓÐÍû²õÁªÐ¡Æ·Íõ
 ÔªÏüÍí»á½«Ð¯µÜ×ÓÁÁÏà
-(0212
-10:24)
+(0212 10:24)
 º«Ñ©Ì¹³Â´ºÍíÄ»ºóÕæÇé£ºÎÒ¸ø×Ô¼ºµÄ±íÑÝ´ò90·Ö
-(0211
-13:35)
+(0211 13:35)
 ²ÌÃ÷´ºÍíÌ¨´Ê¿ËÂ¡·ëÐ¡¸ÕÇÅ¶Î
 ÍøÓÑ³Æ²»±Ø×·¾¿
-(0211
-12:30)
+(0211 12:30)
 ÁºÓ½ç÷£ºÊ±¸ô°ËÄêÔÙ´ÎµÇÉÏÑëÊÓ´º½ÚÍí»á(Í¼)
-(0211
-00:47)
+(0211 00:47)
 Ê±´úÉÌ±¨£ºÅÌµã08ÑëÊÓ´ºÍíÒý·¢µÄ7³¡¿ÚË®Õ½(Í¼)
-(0210
-14:50)
+(0210 14:50)
 ½ÒÃØ08´ºÍí¡°·ÉÌìÏÉÅ®¡±ÇãÐ±²»µ¹µÄÃØÃÜ(¸½Í¼)
-(0210
-08:36)
+(0210 08:36)
 ×Üµ¼ÑÝ³ÂÁÙ´º×ö¿ÍÐÂÀË
 ³ÆÊóÄêÑëÊÓ´ºÍíºÜÐÒÔË
-(0209
-11:57)
+(0209 11:57)
 08ÑëÊÓ´ºÍíÒý·¢ÈÈÒé
 µãÆÀ×îÆ¯ÁÁµÄÁù´óÅ®ÐÇ(Í¼)
-(0209
-10:21)
+(0209 10:21)
 ÖÜ½ÜÂ×ÈÃÊÕÊÓ·­·¬
 ÍøÓÑÍ¶Æ±×ÜÆ±Êý½ö´ÎÓÚÕÔ±¾É½
-(0208
-17:40)
+(0208 17:40)
 ×Üµ¼ÑÝ³ÂÁÙ´ºÌ¸´ºÍí£ºÍõ±¦Ç¿±íÏÖÈÃËùÓÐÈËÂúÒâ
-(0208
-17:35)
+(0208 17:35)
 ³ÂÁÙ´º´ðÒÉ£ºÕÂ×ÓâùÃ»¼Ù³ª¡¶¼¤ÇéÅÀ¸Ë¡·ÊÇÂ¼²¥
-(0208
-17:29)
+(0208 17:29)
 ´«»ÆÊ¥ÒÀ×ßÏÂ´ºÍíÎèÌ¨¾Í°¤Åú
 ³ÂÁÙ´º¶Ô´Ë²»»ØÓ¦
-(0208
-16:48)
+(0208 16:48)
 ÕÂ×Óâù´ºÍí¶À³ª°¤Åú
 ¼Ù³ªÌ«ÒµÓà´Ê¶¼Ã»¼ÇÊì(Í¼)
-(0208
-15:55)
+(0208 15:55)
 »ÆÊ¥ÒÀÊ×µÇ´ºÍí´ó·ÅÒì²Ê
 ÕÂ×Óâù²Ê×°±»ÆØ³¬°ÙÍò
-(0208
-14:25)
+(0208 14:25)
 ´ºÍí×Üµ¼ÑÝ³ÂÁÙ´º»ØÓ¦¡°ÒÉÎÊ¡±
 Í¸Â¶Ä»ºóÏ¸½Ú
-(0208
-14:13)
+(0208 14:13)
 ÑëÊÓ¹«²¼×îÐÂµ÷²é½á¹û
 °Ë³É¹ÛÖÚÂúÒâÊóÄê´ºÍí
-(0208
-14:02)
+(0208 14:02)
 ½ÒÃÔÑëÊÓ´ºÍí±»±Ð½ÚÄ¿
 ¶­ÇäÔ­±¾Ó¦ÓëÀÏ±ÏÀ´¶·×ì
-(0208
-13:40)
+(0208 13:40)
 ÕÔ±¾É½Ð¡Æ·»¹ÊÇºÜ¶º
 ÖÜ½ÜÂ×¸èÉù±»±ÞÅÚÉùÑÍÃ»
-(0208
-12:32)
+(0208 12:32)
 ÕÔ±¾É½´ºÍíÖ±²¥Ç°´òµõÆ¿¡°ÎªÊ²Ã´ÄØ¡±³ÉÁ÷ÐÐ
 (2)
-(0208
-12:18)
+(0208 12:18)
 ÕÔ±¾É½´ºÍíÖ±²¥Ç°´òµõÆ¿¡°ÎªÊ²Ã´ÄØ¡±³ÉÁ÷ÐÐ
-(0208
-12:18)
+(0208 12:18)
 Ì½ÃØ´ºÍí¾«²Ê½ÚÄ¿¡¶»¨Ê½ÀºÇò¡·
 Ë¤³öÀ´µÄ¸ßÄÑ¶È
-(0208
-12:05)
+(0208 12:05)
 ÑëÊÓ´ºÍíÍêÃÀÂäÄ»
 Íõ±¦Ç¿º«Ñ©Á½ÐÂÈË½»³ö³É¼¨µ¥
-(0208
-09:35)
+(0208 09:35)
 ÑëÊÓ´ºÍíÉ±³öºÚÂí
 º«Ñ©¡¶½ÖÍ·ÎÀÊ¿¡·±íÏÖ³öÖÚ
-(0208
-09:31)
+(0208 09:31)
 ¸ü¶à¾«
 ²Ê
 Í¼
 Æ¬
 Í¼ÎÄ£º´ºÍí×Üµ¼ÑÝ×ö¿Í--³ÂÁÙ´º¸ÐÐ»¹ÛÖÚÓëÍøÓÑ
-(0207
-16:37)
+(0207 16:37)
 Í¼ÎÄ£º´ºÍí×Üµ¼ÑÝ×ö¿Í--³ÂÁÙ´º³Æ´ºÍíÖÚ¿ÚÄÑµ÷
-(0207
-16:36)
+(0207 16:36)
 Í¼ÎÄ£º´ºÍí×Üµ¼ÑÝ×ö¿Í--³ÂÁÙ´ºÌ¸ÕÂ×ÓâùÉÏ´ºÍí
-(0207
-16:33)
+(0207 16:33)
 Í¼ÎÄ£º´ºÍí×Üµ¼ÑÝ×ö¿Í--³ÂÁÙ´ºÌ¸ÕÔ±¾É½Ð¡Æ·
-(0207
-16:31)
+(0207 16:31)
 Í¼ÎÄ£º´ºÍí×Üµ¼ÑÝ×ö¿Í--³ÂÁÙ´ºÍ¸Â¶ÊÕÊÓÂÊ96%
-(0207
-16:27)
+(0207 16:27)
 Í¼ÎÄ£º´ºÍí×Üµ¼ÑÝ×ö¿Í--³ÂÁÙ´º¸ÐÐ»ÍøÓÑµÄÖ§³Ö
-(0207
-16:26)
+(0207 16:26)
 Í¼ÎÄ£º´ºÍí×Üµ¼ÑÝ×ö¿Í--³ÂÁÙ´º½éÉÜ½ÚÄ¿¹¹Ïë
-(0207
-16:25)
+(0207 16:25)
 Í¼ÎÄ£º´ºÍí×Üµ¼ÑÝ×ö¿Í--³ÂÁÙ´º³©ÁÄ³ï±¸»¨Ðõ
-(0207
-14:32)
+(0207 14:32)
 Í¼ÎÄ£º´ºÍí×Üµ¼ÑÝ×ö¿Í--³ÂÁÙ´º³Æ»¹Î´´ïµ½ÍêÃÀ
-(0207
-14:32)
+(0207 14:32)
 Í¼ÎÄ£º´ºÍí×Üµ¼ÑÝ×ö¿Í--³ÂÁÙ´º½â´ðÍøÓÑÎÊÌâ
-(0207
-14:32)
+(0207 14:32)
 Í¼ÎÄ£º´ºÍí×Üµ¼ÑÝ×ö¿Í--ÐÂÀËÍøÓÑÓ»Ô¾ÌáÎÊ
-(0207
-14:32)
+(0207 14:32)
 Í¼ÎÄ£º´ºÍí×Üµ¼ÑÝ×ö¿Í--³ÂÁÙ´º½éÉÜÏÖ³¡Çé¿ö
-(0207
-14:32)
+(0207 14:32)
 Í¼ÎÄ£º´ºÍí×Üµ¼ÑÝ×ö¿Í--³ÂÁÙ´º»Ø´ðÍøÓÑÌáÎÊ
-(0207
-14:32)
+(0207 14:32)
 Í¼ÎÄ£º´ºÍí×Üµ¼ÑÝ×ö¿Í--³ÂÁÙ´ºÓëÖ÷³ÖÈË¹µÍ¨
-(0207
-14:32)
+(0207 14:32)
 Í¼ÎÄ£º´ºÍí×Üµ¼ÑÝ×ö¿Í--³ÂÁÙ´º²é¿´ÍøÓÑÆÀÂÛ
-(0207
-14:32)
+(0207 14:32)
 Í¼ÎÄ£º´ºÍí×Üµ¼ÑÝ×ö¿Í--³ÂÁÙ´ºÓä¿ì½ÓÊÜ·ÃÎÊ
-(0207
-14:32)
+(0207 14:32)
 Í¼ÎÄ£º´ºÍí×Üµ¼ÑÝ×ö¿Í--³ÂÁÙ´ºÓëÐ¡ÀËÈËºÏÓ°
-(0207
-14:32)
+(0207 14:32)
 Í¼ÎÄ£º2008ÑëÊÓ´ºÍí--»ÆÊ¥ÒÀÓëÁºÓ½ç÷ºÏ³ª
-(0207
-04:01)
+(0207 04:01)
 Í¼ÎÄ£º2008ÑëÊÓ´ºÍí--»ÆÊ¥ÒÀÒ»Í·ÑÞÀö·ÛÉ«Ðã·¢
-(0207
-04:00)
+(0207 04:00)
 ¸ü¶àÍø
 ÓÑ
 ÆÀ
 ÂÛ
 ´ºÍí¹ÛÖÚÏ¯ÉñÃØÅ®º¢(×éÍ¼)
-(0213
-11:54)
+(0213 11:54)
 ´ºÍí³­Ï®ÃÅ£º²ÌÃ÷³ÉÎªÌæ×ïÑò
-(0212
-23:25)
+(0212 23:25)
 ÑëÊÓ°ì´ºÍíÐè»»Ë¼Â·¸üÐè·Å´óÆø¶È
-(0212
-07:20)
+(0212 07:20)
 ÕÔ±¾É½ÊÇÖÐ¹úµÄ×¿±ðÁÖÂð£¿
-(0212
-07:02)
+(0212 07:02)
 ¡¶Çà»¨´É¡·--×îÊÇÄÇÒ»Ä¨ÂÌ
-(0212
-06:58)
+(0212 06:58)
 ÍõÑÇ±ò£ºCCTV´º½ÚÁª»¶Íí»áµÚÒ»ÃÀÈË
-(0209
-17:24)
+(0209 17:24)
 2008´ºÍíÊ®´ó×î¾ß¹Ú¾üÏàµÄ½ÚÄ¿ÆÀÑ¡(Í¼)
-(0209
-12:18)
+(0209 12:18)
 ½ÒÃØÕÂ×ÓâùÎªºÎÃ»ÔÚ´ºÍíÇÃÖÓ(Í¼)
-(0209
-12:15)
+(0209 12:15)
 ÎÒ¶ÔÑëÊÓ´ºÍíÓ¡Ïó
-(0209
-12:14)
+(0209 12:14)
 ÕÔ±¾É½ºÍËÎµ¤µ¤µÄ²î¾à
-(0209
-12:12)
+(0209 12:12)
 ½ñÄê´ºÍíÊÕÊÓÉý
 ÆÀµã´ºÍí¸Ð´¥Éî
-(0209
-12:10)
+(0209 12:10)
 ÎªÕÂ×ÓâùÔâÅÚºäº°Ô©
-(0209
-12:09)
+(0209 12:09)
 ²ÌÃ÷¡°ÎªÊ²Ã´ÄØ¡±ÕæµÄØâÇÔÓÚÐ¡ÉòÑô£¿
-(0209
-12:07)
+(0209 12:07)
 ÀîÓ½¿ÚÎóÖ®Ëµ´¿Êô×ÓÐéÎÚÓÐ(Í¼)
-(0209
-12:06)
+(0209 12:06)
 »ÆÊ¥ÒÀ´ºÍíÁÙÕó»»ÔìÐÍµÄÖ÷ÒªÔ­Òò
-(0209
-09:23)
+(0209 09:23)
 2008´ºÍíÖ÷³Ö¿ÚÎó°Ë×Ú¡°×ï¡±(Í¼)
-(0209
-01:20)
+(0209 01:20)
 ÍøÓÑÆÀÂÛ£ºÎÒÑÛÖÐµÄ2008ÑëÊÓ´º½ÚÍí»áÁÁµã
-(0208
-22:16)
+(0208 22:16)
 ÍøÓÑÆÀÂÛ£ºÒòÎªÕÂ×Óâù
 ÎÒ¶ÔÑëÊÓ´ºÍí³äÂúÆÚ´ý
-(0208
-22:12)
+(0208 22:12)
 ÍøÓÑÆÀÂÛ£º´ºÍíºÃ¿´Ö®´¦Ö÷Òª»¹ÊÇÐ¡Æ·
-(0208
-22:11)
+(0208 22:11)
 ¸ü¶àÃ½
 Ìå
 ¹Û
 µã
 ÆëÂ³Íí±¨£º´ºÍíµÄ±¾ÒâÊÇÊ²Ã´
-(0213
-10:50)
+(0213 10:50)
 ´ÓÐ¡Ñ§Îèµ¸´óÆ¬µ±ÌæÉí
 ÍõÑÇ±ò´ºÍí·É³öµÄÅ®Ò»ºÅ
-(0213
-10:44)
+(0213 10:44)
 ´ÓÐ¡Ñ§Îèµ¸´óÆ¬µ±ÌæÉí
 ÍõÑÇ±ò´ºÍí·É³öµÄÅ®Ò»ºÅ
-(0213
-10:44)
+(0213 10:44)
 ´ºÍí»Ø·ÅÖ®ÔÓ¼¼¡¶¼¤ÇéÅÀ¸Ë¡·
 ¾ªÏÕÀ´×Ô¶àÄêÑªº¹
-(0213
-10:42)
+(0213 10:42)
 ÆëÂ³Íí±¨£º´ºÍíµÄ±¾ÒâÊÇÊ²Ã´
-(0213
-10:42)
+(0213 10:42)
 ÆëÂ³Íí±¨£º×ÜÊÇÂî´ºÍí£¬ÎªÊ²Ã´ÄØ£¿
-(0213
-10:34)
+(0213 10:34)
 ÖÐ¹úÍø£º´Ó¡°±¾É½½ÌÖ÷¡±µÇ»ùËµÆð
-(0213
-09:22)
+(0213 09:22)
 ºìÍø£º¼ÙÈçÊÇÎÒÖ´µ¼08´ºÍí
-(0213
-09:13)
+(0213 09:13)
 ºìÍø£ºÑëÊÓ´ºÍí±ð¼±×ÅÎª×Ô¼º¹ÄÕÆº°ºÃ
-(0213
-09:10)
+(0213 09:10)
 ÐÂ»ªÍø£º´ºÍíÔõÃ´³ÉÁË"Â¶Á³"µÄµØ·½£¿
-(0213
-09:07)
+(0213 09:07)
 ºìÍø£º·ë¹®Ëã²»Ëã¡°ÐÔÉ§ÈÅ¡±£¿
-(0213
-09:04)
+(0213 09:04)
 ºìÍø£º´ºÍí½ÚÄ¿²»ÄÜÖ»Áîµ¼ÑÝ¸Ð¶¯
-(0213
-09:00)
+(0213 09:00)
 ¶«·½Ôç±¨£º´ºÍíÒª×öÉç»á½ø²½µÄ¼ÇÂ¼Õß
-(0213
-08:57)
+(0213 08:57)
 ÖÐ¹úÍø£ºÒÔ¿íÈÝµÄÐÄÌ¬¿´´ý½ñÄê´ºÍí
-(0211
-13:00)
+(0211 13:00)
 ½ðÑòÍø£º´ºÍíµÄÈ±ÏÝÌåÏÖ¼ÛÖµ¹ÛµÄ²î¾à
-(0211
-12:52)
+(0211 12:52)
 ºìÍø£º´ºÍíËÄÖ÷³ÖÈýÈËÑÝÐ¡Æ·
 ´ÕÊ²Ã´ÈÈÄÖ£¿
-(0211
-12:49)
+(0211 12:49)
 ºìÍø£º´ºÍíµÄÃÀÖÐ²»×ã¡ª¡ªÕÂ×Óâù
-(0211
-12:46)
+(0211 12:46)
 Ñï×ÓÍí±¨£º´ºÍíÊÇ²»ÊÇÐÂÃñË×
-(0211
-12:42)
+(0211 12:42)
 Ñï×ÓÍí±¨£º´ºÍíÒý·¢¿ÚË®Õ½(Í¼)
-(0211
-12:39)
+(0211 12:39)
 ¸ü¶à¾«
 ²Ê
 ÊÓ
 Æµ
 ÊÓÆµ£ºÕÔ±¾É½ÓÐºÜ¶àÄÑ´¦
 °ÂÔËÖ÷Ìâ²»ÄÜ±»µ÷Ù©
-(0207
-16:54)
+(0207 16:54)
 ÊÓÆµ£ºÕÂ×ÓâùºÜÃÀºÜ»ªÀö
 Íõ±¦Ç¿ºÜÕæºÜÆÓÊµ
-(0207
-16:53)
+(0207 16:53)
 ÊÓÆµ£ºÐÂÀËÂúÒâ¶Èµ÷²é
 8³ÉÍøÓÑ¶Ô´ºÍí¸øÓè¿Ï¶¨
-(0207
-16:52)
+(0207 16:52)
 ÊÓÆµ£ºÏ£Íû¹ÛÖÚÀí½âÖ§³Ö
 ´ºÍíÊÇÖÐ¹úµÄÃñ×å²úÎï
-(0207
-16:50)
+(0207 16:50)
 ÊÓÆµ£ºÊÕÊÓÂÊ´ïµ½96%
 ÎÒÃÇ²»µ£ÐÄÇòÈüµÄÓ°Ïì
-(0207
-16:49)
+(0207 16:49)
 ÊÓÆµ£º¹ÛÖÚÈÈÇéµ¼ÖÂ½ø³Ì±äÂý
 ÁãµãÇÃÖÓÇ¡µ½ºÃ´¦
-(0207
-16:47)
+(0207 16:47)
 ÊÓÆµ£º²ÌÃ÷µÄ¡°ÎªÊ²Ã´¡±½«³ÉÎª½ñÄêµÄÁ÷ÐÐÓï
-(0207
-16:45)
+(0207 16:45)
 ÊÓÆµ£º°ÂÔËºÍÑ©ÔÖÎª´ºÍíÔö¼ÓÁËºÜ¶àºñÖØµÄ¶«Î÷
-(0207
-16:44)
+(0207 16:44)
 ÊÓÆµ£º´ºÍí×Üµ¼ÑÝ³ÂÁÙ´º×ö¿Í
 ³Æ´ºÍíÊÇÖÐ¹úÌØÉ«
-(0207
-15:11)
+(0207 15:11)
 ÊÓÆµ£ºÕÔ±¾É½¹®ººÁÖÔçÄê¾­µäÐ¡Æ·¡¶Èç´Ë¾ºÕù¡·
-(0128
-11:36)
+(0128 11:36)
 ¡¶ÓéÀÖÀÖ·­Ìì¡·ÊÓÆµ£ºSHE³ÂÞÈÑ¸³ÐÈÏÉÏÑëÊÓ´ºÍí
-(0127
-21:35)
+(0127 21:35)
 ÊÓÆµ£ºÖì¾ü´ºÍíÑÝ³ö½ÚÄ¿ÆØ¹â
 ´îµµ¾¹ÊÇÒ»Æ¥Âí
-(0125
-18:26)
+(0125 18:26)
 ÊÓÆµ£ºÕÔ±¾É½08´ºÍí¡°°×ÔÆºÚÍÁ¡±ÏµÁÐÊ×´ÎÆØ¹â
-(0124
-12:26)
+(0124 12:26)
 ÊÓÆµ£ºÕÔ±¾É½´ºÍíÐ¡Æ·ÇÀÏÈÆØ¹â
 ÌØÒâÑÝ°ÂÔËÖ÷Ìâ
-(0110
-15:43)
+(0110 15:43)
 ÊÓÆµ£ºÕÔ±¾É½³ÆÌú¶¨ÉÏ´ºÍí
 ¾¿¾¹ÑÝÉ¶¼ÇÕßÌ½ÃØ
-(0103
-19:05)
+(0103 19:05)
 Ó°ÒôÓéÀÖÒâ¼û·´À¡ÁôÑÔ°å
 µç»°£º010-62647003
 »¶Ó­ÅúÆÀÖ¸Õý
@@ -50147,8 +47710,7 @@ S.H.EÏÖ³¡ÑÝ³ª¡¶ÖÐ¹ú»°¡·
 Ð¡Æ·¡¶»ð¾æÊÖ¡·
 (ÕÔ±¾É½¡¢ËÎµ¤µ¤¡¢ÁõÁ÷)
 ÇëÑ¡³öÄúÏ²»¶µÄ08´º½ÚÍí»á½ÚÄ¿(¸èÎèÀà)
-¸èÎè¡¶·ÉÏò´ºÌì¡·(ÍõÑÇ±òÁìÎè
-À×¼ÑµÈÑÝ³ª)
+¸èÎè¡¶·ÉÏò´ºÌì¡·(ÍõÑÇ±òÁìÎè À×¼ÑµÈÑÝ³ª)
 ¸èÇú¡¶ÌïÒ°µÄ´ºÌì¡·(ËÎ×æÓ¢)
 ¸èÇú¡¶ÖÐ»ªÈ«¼Ò¸£¡·(½­ÌÎ¡¢ÂÀÞ±¡¢ÁÖÒÀÂÖµÈ)
 ¸èÇú¡¶ÌìÅ®É¢»¨¡·(ÕÂ×Óâù)
@@ -50163,15 +47725,9 @@ S.H.EÏÖ³¡ÑÝ³ª¡¶ÖÐ¹ú»°¡·
 ¸èÇú¡¶ºÍÐ³´ó¼ÒÔ°¡·(Ì·¾§¡¢ÂÀ¼Ìºê¡¢ÕÅÒ²)
 Áª³ª¡¶µã»÷Ê±ÉÐ¡·(ÅÓÁú¡¢ÕÅÀ½À½¡¢»ÆÊ¥ÒÀµÈ)
 ¸èÇú¡¶Çà»¨´É¡·(ÖÜ½ÜÂ×)
-¸èÇú¡¶Ï²ÊÂ¶à¡·(±«ÈØ
-¸ß³©
-ÁºÒô
-Îâ´ºÑàµÈ)
+¸èÇú¡¶Ï²ÊÂ¶à¡·(±«ÈØ ¸ß³© ÁºÒô Îâ´ºÑàµÈ)
 ¸èÇú¡¶À­¶þºú¡·(ÁõºÍ¸Õ¡¢¹¢Îª»ª¡¢³ÂÐ¡ÌÎµÈ)
-¸èÇú¡¶ÄÑÍü½ñÏü¡·(ÍõÏ¼
-ÍõÀò
-ÍõÓ¨
-Ù¡ÌúöÎµÈ)
+¸èÇú¡¶ÄÑÍü½ñÏü¡·(ÍõÏ¼ ÍõÀò ÍõÓ¨ Ù¡ÌúöÎµÈ)
 ¸èÇú¡¶Í¬Ò»¸öÃÎÏë¡·(Î¤Î¨¡¢³ÂÞÈÑ¸¡¢Ã«ÄþµÈ)
 ÄúÏ²»¶µÄ08´º½ÚÍí»á½ÚÄ¿(Ï·ÇúÇúÒÕ¼°ÆäËüÀà)
 ÏàÉù¡¶·è¿ñ¹ÉÃÔ¡·(Îä±ö¡¢ÀîÎ°½¡)
@@ -50179,8 +47735,7 @@ S.H.EÏÖ³¡ÑÝ³ª¡¶ÖÐ¹ú»°¡·
 ÏàÉù¾ç¡¶¹«½»Ð­×àÇú¡·(·ë¹®¡¢ÑÖÑ§¾§¡¢Íõ±¦Ç¿)
 ÔÓ¼¼¡¶»¨Ê½ÀºÇò¡·(ÉòÑô¾üÇøÇ°½øÔÓ¼¼ÍÅ)
 Ï·ÇúÁª³ª¡¶æ±×ÏæÌºì¡·
-ÖÐ»ªÎäÊõ(ºÓÄÏÉÙÁÖËþ¹µÎäÊõÑ§Ð£
-¹ú¼Ò¶Ó)
+ÖÐ»ªÎäÊõ(ºÓÄÏÉÙÁÖËþ¹µÎäÊõÑ§Ð£ ¹ú¼Ò¶Ó)
 ÌìµØ½»Ïì
 ÊÖÓ°Ï·¡¶¶ºÈ¤¡·(½¹½¨¶«¡¢Ê¯ÀÚ)
 Ä§Êõ¡¶ÐÄÏëÊÂ³É¡·(ÀîÓ½)
@@ -50390,380 +47945,274 @@ S.H.E¡¶ÖÐ¹ú»°¡·
 µÀ
 ²ÌÃ÷³ÎÇåÌ¨´Ê³­Ï®´«ÎÅ
 ²Î¼Ó´ºÍí±¨³ê3000Ôª(Í¼)
-(0213
-11:05)
+(0213 11:05)
 µØ·½Ì¨´ºÍíÀ´ÊÆÐÚÐÚ
 ±±¾©Ì¨´ºÍí³ÉÊóÄê¡°ºÚÂí¡±(2)
-(0213
-10:39)
+(0213 10:39)
 µØ·½Ì¨´ºÍíÀ´ÊÆÐÚÐÚ
 ±±¾©Ì¨´ºÍí³ÉÊóÄê¡°ºÚÂí¡±(3)
-(0213
-10:39)
+(0213 10:39)
 µØ·½Ì¨´ºÍíÀ´ÊÆÐÚÐÚ
 ±±¾©Ì¨´ºÍí³ÉÊóÄê¡°ºÚÂí¡±
-(0213
-10:39)
+(0213 10:39)
 ¹ÛÖÚ×ÜÌåÆÀ¼Û¸ßÓÚÍù½ì
 Ï¸Ëµ2008´ºÍí¡°ËÄ×Ú×î¡±(2)
-(0213
-10:32)
+(0213 10:32)
 ¹ÛÖÚ×ÜÌåÆÀ¼Û¸ßÓÚÍù½ì
 Ï¸Ëµ2008´ºÍí¡°ËÄ×Ú×î¡±
-(0213
-10:32)
+(0213 10:32)
 ´ºÍíÖ®¡°×î¡±»Øíø
 ÕÂ×Óâù¸èÉù×îÈÃÈËÊ§Íû(×éÍ¼)
-(0213
-10:00)
+(0213 10:00)
 ×ÜÖ¸»ÓÖìÍ®½ÒÃØ´ºÍíÄ»ºó
 Î¤Î¨²ÊÅÅÍ»·¢ÐÄÔà²¡
-(0213
-05:10)
+(0213 05:10)
 ´ºÍíÉÃ×ÔÊ¹ÓÃÕÕÆ¬×ö±³¾°
 ÖØÇìÉãÓ°¼ÒË÷Åâ°ÙÍò
-(0213
-01:16)
+(0213 01:16)
 ÁºÓ½ç÷°ËÄêºóÔÙµÇÑëÊÓ´ºÍí
 Õ¹ÏÖÃÀÀöÓë°§³î(Í¼)
-(0212
-17:24)
+(0212 17:24)
 ÁõÁ÷¡¶»ð¾æÊÖ¡·¼´ÐË¸Ä¶¯×÷£ºÎÒÒªÏòÕÔ±¾É½ÈÏ´í
-(0212
-15:52)
+(0212 15:52)
 ÕÔ±¾É½ÓÐÍû²õÁªÐ¡Æ·Íõ
 ÔªÏüÍí»á½«Ð¯µÜ×ÓÁÁÏà
-(0212
-10:24)
+(0212 10:24)
 º«Ñ©Ì¹³Â´ºÍíÄ»ºóÕæÇé£ºÎÒ¸ø×Ô¼ºµÄ±íÑÝ´ò90·Ö
-(0211
-13:35)
+(0211 13:35)
 ²ÌÃ÷´ºÍíÌ¨´Ê¿ËÂ¡·ëÐ¡¸ÕÇÅ¶Î
 ÍøÓÑ³Æ²»±Ø×·¾¿
-(0211
-12:30)
+(0211 12:30)
 ÁºÓ½ç÷£ºÊ±¸ô°ËÄêÔÙ´ÎµÇÉÏÑëÊÓ´º½ÚÍí»á(Í¼)
-(0211
-00:47)
+(0211 00:47)
 Ê±´úÉÌ±¨£ºÅÌµã08ÑëÊÓ´ºÍíÒý·¢µÄ7³¡¿ÚË®Õ½(Í¼)
-(0210
-14:50)
+(0210 14:50)
 ½ÒÃØ08´ºÍí¡°·ÉÌìÏÉÅ®¡±ÇãÐ±²»µ¹µÄÃØÃÜ(¸½Í¼)
-(0210
-08:36)
+(0210 08:36)
 ×Üµ¼ÑÝ³ÂÁÙ´º×ö¿ÍÐÂÀË
 ³ÆÊóÄêÑëÊÓ´ºÍíºÜÐÒÔË
-(0209
-11:57)
+(0209 11:57)
 08ÑëÊÓ´ºÍíÒý·¢ÈÈÒé
 µãÆÀ×îÆ¯ÁÁµÄÁù´óÅ®ÐÇ(Í¼)
-(0209
-10:21)
+(0209 10:21)
 ÖÜ½ÜÂ×ÈÃÊÕÊÓ·­·¬
 ÍøÓÑÍ¶Æ±×ÜÆ±Êý½ö´ÎÓÚÕÔ±¾É½
-(0208
-17:40)
+(0208 17:40)
 ×Üµ¼ÑÝ³ÂÁÙ´ºÌ¸´ºÍí£ºÍõ±¦Ç¿±íÏÖÈÃËùÓÐÈËÂúÒâ
-(0208
-17:35)
+(0208 17:35)
 ³ÂÁÙ´º´ðÒÉ£ºÕÂ×ÓâùÃ»¼Ù³ª¡¶¼¤ÇéÅÀ¸Ë¡·ÊÇÂ¼²¥
-(0208
-17:29)
+(0208 17:29)
 ´«»ÆÊ¥ÒÀ×ßÏÂ´ºÍíÎèÌ¨¾Í°¤Åú
 ³ÂÁÙ´º¶Ô´Ë²»»ØÓ¦
-(0208
-16:48)
+(0208 16:48)
 ÕÂ×Óâù´ºÍí¶À³ª°¤Åú
 ¼Ù³ªÌ«ÒµÓà´Ê¶¼Ã»¼ÇÊì(Í¼)
-(0208
-15:55)
+(0208 15:55)
 »ÆÊ¥ÒÀÊ×µÇ´ºÍí´ó·ÅÒì²Ê
 ÕÂ×Óâù²Ê×°±»ÆØ³¬°ÙÍò
-(0208
-14:25)
+(0208 14:25)
 ´ºÍí×Üµ¼ÑÝ³ÂÁÙ´º»ØÓ¦¡°ÒÉÎÊ¡±
 Í¸Â¶Ä»ºóÏ¸½Ú
-(0208
-14:13)
+(0208 14:13)
 ÑëÊÓ¹«²¼×îÐÂµ÷²é½á¹û
 °Ë³É¹ÛÖÚÂúÒâÊóÄê´ºÍí
-(0208
-14:02)
+(0208 14:02)
 ½ÒÃÔÑëÊÓ´ºÍí±»±Ð½ÚÄ¿
 ¶­ÇäÔ­±¾Ó¦ÓëÀÏ±ÏÀ´¶·×ì
-(0208
-13:40)
+(0208 13:40)
 ÕÔ±¾É½Ð¡Æ·»¹ÊÇºÜ¶º
 ÖÜ½ÜÂ×¸èÉù±»±ÞÅÚÉùÑÍÃ»
-(0208
-12:32)
+(0208 12:32)
 ÕÔ±¾É½´ºÍíÖ±²¥Ç°´òµõÆ¿¡°ÎªÊ²Ã´ÄØ¡±³ÉÁ÷ÐÐ
 (2)
-(0208
-12:18)
+(0208 12:18)
 ÕÔ±¾É½´ºÍíÖ±²¥Ç°´òµõÆ¿¡°ÎªÊ²Ã´ÄØ¡±³ÉÁ÷ÐÐ
-(0208
-12:18)
+(0208 12:18)
 Ì½ÃØ´ºÍí¾«²Ê½ÚÄ¿¡¶»¨Ê½ÀºÇò¡·
 Ë¤³öÀ´µÄ¸ßÄÑ¶È
-(0208
-12:05)
+(0208 12:05)
 ÑëÊÓ´ºÍíÍêÃÀÂäÄ»
 Íõ±¦Ç¿º«Ñ©Á½ÐÂÈË½»³ö³É¼¨µ¥
-(0208
-09:35)
+(0208 09:35)
 ÑëÊÓ´ºÍíÉ±³öºÚÂí
 º«Ñ©¡¶½ÖÍ·ÎÀÊ¿¡·±íÏÖ³öÖÚ
-(0208
-09:31)
+(0208 09:31)
 ¸ü¶à¾«
 ²Ê
 Í¼
 Æ¬
 Í¼ÎÄ£º´ºÍí×Üµ¼ÑÝ×ö¿Í--³ÂÁÙ´º¸ÐÐ»¹ÛÖÚÓëÍøÓÑ
-(0207
-16:37)
+(0207 16:37)
 Í¼ÎÄ£º´ºÍí×Üµ¼ÑÝ×ö¿Í--³ÂÁÙ´º³Æ´ºÍíÖÚ¿ÚÄÑµ÷
-(0207
-16:36)
+(0207 16:36)
 Í¼ÎÄ£º´ºÍí×Üµ¼ÑÝ×ö¿Í--³ÂÁÙ´ºÌ¸ÕÂ×ÓâùÉÏ´ºÍí
-(0207
-16:33)
+(0207 16:33)
 Í¼ÎÄ£º´ºÍí×Üµ¼ÑÝ×ö¿Í--³ÂÁÙ´ºÌ¸ÕÔ±¾É½Ð¡Æ·
-(0207
-16:31)
+(0207 16:31)
 Í¼ÎÄ£º´ºÍí×Üµ¼ÑÝ×ö¿Í--³ÂÁÙ´ºÍ¸Â¶ÊÕÊÓÂÊ96%
-(0207
-16:27)
+(0207 16:27)
 Í¼ÎÄ£º´ºÍí×Üµ¼ÑÝ×ö¿Í--³ÂÁÙ´º¸ÐÐ»ÍøÓÑµÄÖ§³Ö
-(0207
-16:26)
+(0207 16:26)
 Í¼ÎÄ£º´ºÍí×Üµ¼ÑÝ×ö¿Í--³ÂÁÙ´º½éÉÜ½ÚÄ¿¹¹Ïë
-(0207
-16:25)
+(0207 16:25)
 Í¼ÎÄ£º´ºÍí×Üµ¼ÑÝ×ö¿Í--³ÂÁÙ´º³©ÁÄ³ï±¸»¨Ðõ
-(0207
-14:32)
+(0207 14:32)
 Í¼ÎÄ£º´ºÍí×Üµ¼ÑÝ×ö¿Í--³ÂÁÙ´º³Æ»¹Î´´ïµ½ÍêÃÀ
-(0207
-14:32)
+(0207 14:32)
 Í¼ÎÄ£º´ºÍí×Üµ¼ÑÝ×ö¿Í--³ÂÁÙ´º½â´ðÍøÓÑÎÊÌâ
-(0207
-14:32)
+(0207 14:32)
 Í¼ÎÄ£º´ºÍí×Üµ¼ÑÝ×ö¿Í--ÐÂÀËÍøÓÑÓ»Ô¾ÌáÎÊ
-(0207
-14:32)
+(0207 14:32)
 Í¼ÎÄ£º´ºÍí×Üµ¼ÑÝ×ö¿Í--³ÂÁÙ´º½éÉÜÏÖ³¡Çé¿ö
-(0207
-14:32)
+(0207 14:32)
 Í¼ÎÄ£º´ºÍí×Üµ¼ÑÝ×ö¿Í--³ÂÁÙ´º»Ø´ðÍøÓÑÌáÎÊ
-(0207
-14:32)
+(0207 14:32)
 Í¼ÎÄ£º´ºÍí×Üµ¼ÑÝ×ö¿Í--³ÂÁÙ´ºÓëÖ÷³ÖÈË¹µÍ¨
-(0207
-14:32)
+(0207 14:32)
 Í¼ÎÄ£º´ºÍí×Üµ¼ÑÝ×ö¿Í--³ÂÁÙ´º²é¿´ÍøÓÑÆÀÂÛ
-(0207
-14:32)
+(0207 14:32)
 Í¼ÎÄ£º´ºÍí×Üµ¼ÑÝ×ö¿Í--³ÂÁÙ´ºÓä¿ì½ÓÊÜ·ÃÎÊ
-(0207
-14:32)
+(0207 14:32)
 Í¼ÎÄ£º´ºÍí×Üµ¼ÑÝ×ö¿Í--³ÂÁÙ´ºÓëÐ¡ÀËÈËºÏÓ°
-(0207
-14:32)
+(0207 14:32)
 Í¼ÎÄ£º2008ÑëÊÓ´ºÍí--»ÆÊ¥ÒÀÓëÁºÓ½ç÷ºÏ³ª
-(0207
-04:01)
+(0207 04:01)
 Í¼ÎÄ£º2008ÑëÊÓ´ºÍí--»ÆÊ¥ÒÀÒ»Í·ÑÞÀö·ÛÉ«Ðã·¢
-(0207
-04:00)
+(0207 04:00)
 ¸ü¶àÍø
 ÓÑ
 ÆÀ
 ÂÛ
 ´ºÍí¹ÛÖÚÏ¯ÉñÃØÅ®º¢(×éÍ¼)
-(0213
-11:54)
+(0213 11:54)
 ´ºÍí³­Ï®ÃÅ£º²ÌÃ÷³ÉÎªÌæ×ïÑò
-(0212
-23:25)
+(0212 23:25)
 ÑëÊÓ°ì´ºÍíÐè»»Ë¼Â·¸üÐè·Å´óÆø¶È
-(0212
-07:20)
+(0212 07:20)
 ÕÔ±¾É½ÊÇÖÐ¹úµÄ×¿±ðÁÖÂð£¿
-(0212
-07:02)
+(0212 07:02)
 ¡¶Çà»¨´É¡·--×îÊÇÄÇÒ»Ä¨ÂÌ
-(0212
-06:58)
+(0212 06:58)
 ÍõÑÇ±ò£ºCCTV´º½ÚÁª»¶Íí»áµÚÒ»ÃÀÈË
-(0209
-17:24)
+(0209 17:24)
 2008´ºÍíÊ®´ó×î¾ß¹Ú¾üÏàµÄ½ÚÄ¿ÆÀÑ¡(Í¼)
-(0209
-12:18)
+(0209 12:18)
 ½ÒÃØÕÂ×ÓâùÎªºÎÃ»ÔÚ´ºÍíÇÃÖÓ(Í¼)
-(0209
-12:15)
+(0209 12:15)
 ÎÒ¶ÔÑëÊÓ´ºÍíÓ¡Ïó
-(0209
-12:14)
+(0209 12:14)
 ÕÔ±¾É½ºÍËÎµ¤µ¤µÄ²î¾à
-(0209
-12:12)
+(0209 12:12)
 ½ñÄê´ºÍíÊÕÊÓÉý
 ÆÀµã´ºÍí¸Ð´¥Éî
-(0209
-12:10)
+(0209 12:10)
 ÎªÕÂ×ÓâùÔâÅÚºäº°Ô©
-(0209
-12:09)
+(0209 12:09)
 ²ÌÃ÷¡°ÎªÊ²Ã´ÄØ¡±ÕæµÄØâÇÔÓÚÐ¡ÉòÑô£¿
-(0209
-12:07)
+(0209 12:07)
 ÀîÓ½¿ÚÎóÖ®Ëµ´¿Êô×ÓÐéÎÚÓÐ(Í¼)
-(0209
-12:06)
+(0209 12:06)
 »ÆÊ¥ÒÀ´ºÍíÁÙÕó»»ÔìÐÍµÄÖ÷ÒªÔ­Òò
-(0209
-09:23)
+(0209 09:23)
 2008´ºÍíÖ÷³Ö¿ÚÎó°Ë×Ú¡°×ï¡±(Í¼)
-(0209
-01:20)
+(0209 01:20)
 ÍøÓÑÆÀÂÛ£ºÎÒÑÛÖÐµÄ2008ÑëÊÓ´º½ÚÍí»áÁÁµã
-(0208
-22:16)
+(0208 22:16)
 ÍøÓÑÆÀÂÛ£ºÒòÎªÕÂ×Óâù
 ÎÒ¶ÔÑëÊÓ´ºÍí³äÂúÆÚ´ý
-(0208
-22:12)
+(0208 22:12)
 ÍøÓÑÆÀÂÛ£º´ºÍíºÃ¿´Ö®´¦Ö÷Òª»¹ÊÇÐ¡Æ·
-(0208
-22:11)
+(0208 22:11)
 ¸ü¶àÃ½
 Ìå
 ¹Û
 µã
 ÆëÂ³Íí±¨£º´ºÍíµÄ±¾ÒâÊÇÊ²Ã´
-(0213
-10:50)
+(0213 10:50)
 ´ÓÐ¡Ñ§Îèµ¸´óÆ¬µ±ÌæÉí
 ÍõÑÇ±ò´ºÍí·É³öµÄÅ®Ò»ºÅ
-(0213
-10:44)
+(0213 10:44)
 ´ÓÐ¡Ñ§Îèµ¸´óÆ¬µ±ÌæÉí
 ÍõÑÇ±ò´ºÍí·É³öµÄÅ®Ò»ºÅ
-(0213
-10:44)
+(0213 10:44)
 ´ºÍí»Ø·ÅÖ®ÔÓ¼¼¡¶¼¤ÇéÅÀ¸Ë¡·
 ¾ªÏÕÀ´×Ô¶àÄêÑªº¹
-(0213
-10:42)
+(0213 10:42)
 ÆëÂ³Íí±¨£º´ºÍíµÄ±¾ÒâÊÇÊ²Ã´
-(0213
-10:42)
+(0213 10:42)
 ÆëÂ³Íí±¨£º×ÜÊÇÂî´ºÍí£¬ÎªÊ²Ã´ÄØ£¿
-(0213
-10:34)
+(0213 10:34)
 ÖÐ¹úÍø£º´Ó¡°±¾É½½ÌÖ÷¡±µÇ»ùËµÆð
-(0213
-09:22)
+(0213 09:22)
 ºìÍø£º¼ÙÈçÊÇÎÒÖ´µ¼08´ºÍí
-(0213
-09:13)
+(0213 09:13)
 ºìÍø£ºÑëÊÓ´ºÍí±ð¼±×ÅÎª×Ô¼º¹ÄÕÆº°ºÃ
-(0213
-09:10)
+(0213 09:10)
 ÐÂ»ªÍø£º´ºÍíÔõÃ´³ÉÁË"Â¶Á³"µÄµØ·½£¿
-(0213
-09:07)
+(0213 09:07)
 ºìÍø£º·ë¹®Ëã²»Ëã¡°ÐÔÉ§ÈÅ¡±£¿
-(0213
-09:04)
+(0213 09:04)
 ºìÍø£º´ºÍí½ÚÄ¿²»ÄÜÖ»Áîµ¼ÑÝ¸Ð¶¯
-(0213
-09:00)
+(0213 09:00)
 ¶«·½Ôç±¨£º´ºÍíÒª×öÉç»á½ø²½µÄ¼ÇÂ¼Õß
-(0213
-08:57)
+(0213 08:57)
 ÖÐ¹úÍø£ºÒÔ¿íÈÝµÄÐÄÌ¬¿´´ý½ñÄê´ºÍí
-(0211
-13:00)
+(0211 13:00)
 ½ðÑòÍø£º´ºÍíµÄÈ±ÏÝÌåÏÖ¼ÛÖµ¹ÛµÄ²î¾à
-(0211
-12:52)
+(0211 12:52)
 ºìÍø£º´ºÍíËÄÖ÷³ÖÈýÈËÑÝÐ¡Æ·
 ´ÕÊ²Ã´ÈÈÄÖ£¿
-(0211
-12:49)
+(0211 12:49)
 ºìÍø£º´ºÍíµÄÃÀÖÐ²»×ã¡ª¡ªÕÂ×Óâù
-(0211
-12:46)
+(0211 12:46)
 Ñï×ÓÍí±¨£º´ºÍíÊÇ²»ÊÇÐÂÃñË×
-(0211
-12:42)
+(0211 12:42)
 Ñï×ÓÍí±¨£º´ºÍíÒý·¢¿ÚË®Õ½(Í¼)
-(0211
-12:39)
+(0211 12:39)
 ¸ü¶à¾«
 ²Ê
 ÊÓ
 Æµ
 ÊÓÆµ£ºÕÔ±¾É½ÓÐºÜ¶àÄÑ´¦
 °ÂÔËÖ÷Ìâ²»ÄÜ±»µ÷Ù©
-(0207
-16:54)
+(0207 16:54)
 ÊÓÆµ£ºÕÂ×ÓâùºÜÃÀºÜ»ªÀö
 Íõ±¦Ç¿ºÜÕæºÜÆÓÊµ
-(0207
-16:53)
+(0207 16:53)
 ÊÓÆµ£ºÐÂÀËÂúÒâ¶Èµ÷²é
 8³ÉÍøÓÑ¶Ô´ºÍí¸øÓè¿Ï¶¨
-(0207
-16:52)
+(0207 16:52)
 ÊÓÆµ£ºÏ£Íû¹ÛÖÚÀí½âÖ§³Ö
 ´ºÍíÊÇÖÐ¹úµÄÃñ×å²úÎï
-(0207
-16:50)
+(0207 16:50)
 ÊÓÆµ£ºÊÕÊÓÂÊ´ïµ½96%
 ÎÒÃÇ²»µ£ÐÄÇòÈüµÄÓ°Ïì
-(0207
-16:49)
+(0207 16:49)
 ÊÓÆµ£º¹ÛÖÚÈÈÇéµ¼ÖÂ½ø³Ì±äÂý
 ÁãµãÇÃÖÓÇ¡µ½ºÃ´¦
-(0207
-16:47)
+(0207 16:47)
 ÊÓÆµ£º²ÌÃ÷µÄ¡°ÎªÊ²Ã´¡±½«³ÉÎª½ñÄêµÄÁ÷ÐÐÓï
-(0207
-16:45)
+(0207 16:45)
 ÊÓÆµ£º°ÂÔËºÍÑ©ÔÖÎª´ºÍíÔö¼ÓÁËºÜ¶àºñÖØµÄ¶«Î÷
-(0207
-16:44)
+(0207 16:44)
 ÊÓÆµ£º´ºÍí×Üµ¼ÑÝ³ÂÁÙ´º×ö¿Í
 ³Æ´ºÍíÊÇÖÐ¹úÌØÉ«
-(0207
-15:11)
+(0207 15:11)
 ÊÓÆµ£ºÕÔ±¾É½¹®ººÁÖÔçÄê¾­µäÐ¡Æ·¡¶Èç´Ë¾ºÕù¡·
-(0128
-11:36)
+(0128 11:36)
 ¡¶ÓéÀÖÀÖ·­Ìì¡·ÊÓÆµ£ºSHE³ÂÞÈÑ¸³ÐÈÏÉÏÑëÊÓ´ºÍí
-(0127
-21:35)
+(0127 21:35)
 ÊÓÆµ£ºÖì¾ü´ºÍíÑÝ³ö½ÚÄ¿ÆØ¹â
 ´îµµ¾¹ÊÇÒ»Æ¥Âí
-(0125
-18:26)
+(0125 18:26)
 ÊÓÆµ£ºÕÔ±¾É½08´ºÍí¡°°×ÔÆºÚÍÁ¡±ÏµÁÐÊ×´ÎÆØ¹â
-(0124
-12:26)
+(0124 12:26)
 ÊÓÆµ£ºÕÔ±¾É½´ºÍíÐ¡Æ·ÇÀÏÈÆØ¹â
 ÌØÒâÑÝ°ÂÔËÖ÷Ìâ
-(0110
-15:43)
+(0110 15:43)
 ÊÓÆµ£ºÕÔ±¾É½³ÆÌú¶¨ÉÏ´ºÍí
 ¾¿¾¹ÑÝÉ¶¼ÇÕßÌ½ÃØ
-(0103
-19:05)
+(0103 19:05)
 Ó°ÒôÓéÀÖÒâ¼û·´À¡ÁôÑÔ°å
 µç»°£º010-62647003
 »¶Ó­ÅúÆÀÖ¸Õý
@@ -51011,210 +48460,152 @@ Reserved
 ×îÐÂ±¨µÀ
 ¹ÛÖÚ´½Ç¹Éà½£¡¶´³¹Ø¶«¡·
 ÊÇ´«Ææ»¹ÊÇÀëÆæ£¿(Í¼)
-(0204
-01:44)
+(0204 01:44)
 ¡¶´³¹Ø¶«¡·Áé»êÊÇ´³
 Öì¿ªÉ½ÐÎÏóËÜÔìÇ°ËùÎ´ÓÐ
-(0201
-16:43)
+(0201 16:43)
 ¡¶´³¹Ø¶«¡·ÈÈ¶È²»¼õ
 Ð¡ËÎ¼ÑÍÊÈ¥¸¡»ªÆÓÊµÑÝ³ö
-(0201
-15:04)
+(0201 15:04)
 ¡¶´³¹Ø¶«¡·Á¬´´ÊÕÊÓ¼ÍÂ¼
 »ÆÐ¡ÀÙÓÅÑÅ×ªÉí(×éÍ¼)
-(0130
-15:43)
+(0130 15:43)
 ÊÓÆµ£ºÀîÓ×±ó¿ªÄê´óÏ·¡¶´³¹Ø¶«¡·Æ¬¶ÎÐÀÉÍ(2)
-(0130
-11:50)
+(0130 11:50)
 ÊÓÆµ£ºÀîÓ×±ó¿ªÄê´óÏ·¡¶´³¹Ø¶«¡·Æ¬¶ÎÐÀÉÍ(1)
-(0130
-11:50)
+(0130 11:50)
 ÊÓÆµ£ºÀîÓ×±ó¿ªÄê´óÏ·¡¶´³¹Ø¶«¡·³¬³¤Æ¬»¨ÐÀÉÍ
-(0130
-11:48)
+(0130 11:48)
 ¡¶´³¹Ø¶«¡·¶à¼ÒÊ¡Ì¨ÈÈ²¥
 ½øÐÐÒ»ÂÖ¼¯Ìå¡°É¨Ã¤¡±
-(0130
-11:12)
+(0130 11:12)
 ¡¶´³¹Ø¶«¡·ÒÑ×ÅÊÖ´´×÷Ðø¼¯
 ÓÐÍûÃ÷ÄêÓë¹ÛÖÚ¼ûÃæ
-(0130
-10:21)
+(0130 10:21)
 µçÊÓ¾ç¡¶´³¹Ø¶«¡·´´×÷×ùÌ¸»á¾ÙÐÐ
 »ñµÃ¸÷·½ºÃÆÀ
-(0130
-09:44)
+(0130 09:44)
 ¡¶´³¹Ø¶«¡·Æø¸Å»Ø³¦µ´Æø
 µ«¾çÇéÒ²²»·¦Ó²ÉË(Í¼)
-(0129
-17:47)
+(0129 17:47)
 ¡¶´³¹Ø¶«¡·È«¹úÈÈ²¥
 ÊÕÊÓË¢ÐÂÑëÊÓ¿ªÄêÏ·¼ÍÂ¼
-(0129
-12:30)
+(0129 12:30)
 ¡¶´³¹Ø¶«¡·ºì»ðÊÕÎ²
 ¡¶±øÐÄÒÀ¾É¡·½Ó°ôÑ¹Á¦²»Ð¡
-(0129
-12:16)
+(0129 12:16)
 ¡¶´³¹Ø¶«¡·´´ÑëÊÓÊÕÊÓÐÂ¸ß
 Ðø¼¯Ã÷ÄêÃæÊÀ(Í¼)
-(0129
-12:00)
+(0129 12:00)
 ¡¶´³¹Ø¶«¡·Ðø¼¯ÏÂ°ëÄêÍ¶ÅÄ
 ÀîÓ×±óÓÐÍûÔÙ¶È¼ÓÃË
-(0129
-10:55)
+(0129 10:55)
 ¡¶´³¹Ø¶«¡·¡°´³¡±³öÓ«ÆÁÐÂÌìµØ
 ¸ß×àÊÕÊÓ¿­¸è(2)
-(0129
-10:39)
+(0129 10:39)
 ¡¶´³¹Ø¶«¡·¡°´³¡±³öÓ«ÆÁÐÂÌìµØ
 ¸ß×àÊÕÊÓ¿­¸è
-(0129
-10:39)
+(0129 10:39)
 ¡¶´³¹Ø¶«¡·¶þÂÖÈÈ²¥
 ¸ßÂúÌÃÐø¼¯´ó¸ÙÒÑ´´×÷Íê±Ï
-(0129
-02:13)
+(0129 02:13)
 ¡¶´³¹Ø¶«¡·³ï±¸Ðø¼¯
 ¾ç±¾½«ÓÚÉÏ°ëÄêÍê³É(Í¼)
-(0129
-02:05)
+(0129 02:05)
 È«¹ú1/4µÄ¹ÛÖÚÔÚ¿´¡¶´³¹Ø¶«¡·
 µØ·½Ì¨Ã÷ÄêÖØ²¥
-(0128
-18:37)
+(0128 18:37)
 ÈÈµãµ÷²é£ºµçÊÓ¾ç¡¶´³¹Ø¶«¡·ÂúÒâ¶È
-(0128
-16:20)
+(0128 16:20)
 ¡¶´³¹Ø¶«¡·´´ÑëÊÓÊÕÊÓÆæ¼£
 ¡¶»ôÔª¼×¡·½ôËæÆäºó
-(0128
-16:05)
+(0128 16:05)
 ÅÑÄæÈËÎïÈÇÕùÒé
 ÖìÑÇÎÄ£º´«ÎäÊÇ¸öÕæÕýµÄÓÂÊ¿
-(0128
-11:50)
+(0128 11:50)
 ¡¶½¹µã·ÃÌ¸¡·¹Ø×¢¡¶´³¹Ø¶«¡·
 Ê¢ÔÞ´³¹Ø¶«¾«Éñ
-(0128
-00:04)
+(0128 00:04)
 ×ÊÁÏ£ºµçÊÓ¾ç¡¶´³¹Ø¶«¡·Ö÷ÒªÑÝÔ±
-(0127
-14:05)
+(0127 14:05)
 ¡¶´³¹Ø¶«¡·ÎªÉ¶ÕâÃ´»ð£¿
 ¼Ò×åÊ·ÓëÉç»áÊ·ÏàÈÚºÏ
-(0126
-16:38)
+(0126 16:38)
 ¡¶´³¹Ø¶«¡·ÊÕÊÓ´´ÐÂ¸ß
 Ð¡ËÎ¼ÑÅ×Ë½Çé±¨¼Ò¹úºÞ
-(0126
-14:00)
+(0126 14:00)
 ¡¶´³¹Ø¶«¡·ÉÏÁË¡¶½¹µã·ÃÌ¸¡·
-(0126
-02:29)
+(0126 02:29)
 ¡¶´³¹Ø¶«¡·±±¾©ËÄÁ¬¹Ú
 µ¥¼¯ÊÕÊÓ´ïµ½16.05%
-(0126
-01:32)
+(0126 01:32)
 ¸ü¶àÄÚÈÝ
 ¸÷·½ÆÀÂÛ
 ÆÊÎö¡¶´³¹Ø¶«¡·ÀïµÄËÄ¸öÄÐÈË
-(0203
-14:50)
+(0203 14:50)
 ¡¶´³¹Ø¶«¡·ÀîÓ×±ó±íÑÝÊÜ¿Ï¶¨
 Öì¿ªÉ½±ÈÀîÔÆÁú°ô
-(0203
-01:30)
+(0203 01:30)
 ¡¶´³¹Ø¶«¡·£ºµ×²ãÓ¢ÐÛµÄÊ·Ê«
-(0201
-17:27)
+(0201 17:27)
 ÀîÓ×±ó²»ÊÇ¡¶´³¹Ø¶«¡·×î´óÓ®¼Ò
-(0201
-16:37)
+(0201 16:37)
 Íõ¿üÁú£º¡¶´³¹Ø¶«¡·¸øÁõÏò¾©Æ½ÁË·´£¡
-(0131
-12:03)
+(0131 12:03)
 ÂÛºìºì»ð»ðµÄ¡¶´³¹Ø¶«¡·
-(0130
-17:38)
+(0130 17:38)
 ¡¶´³¹Ø¶«¡·£ºÓÐ´³¾¢
-(0130
-17:20)
+(0130 17:20)
 ´óÖÚµçÊÓ
 £º¡¶´³¹Ø¶«¡·--±à¾ç¸ßÂúÌÃ£º¸ÐÐ»¾Ë¾Ë
-(0129
-16:38)
+(0129 16:38)
 ´óÖÚµçÊÓ
 £º¡¶´³¹Ø¶«¡·--ºîºèÁÁÔø¾­½Ò²»¿ª¹ø
-(0129
-16:38)
+(0129 16:38)
 ´óÖÚµçÊÓ
 £ºµçÊÓ¾ç¡¶´³¹Ø¶«¡·--ÍòÏóÀîÓ×±ó
-(0129
-16:38)
+(0129 16:38)
 ´óÖÚµçÊÓ
 £º¡¶´³¹Ø¶«¡·--Ò»´úÈËµÄ»ØÒäºÍÃÎÏë
-(0129
-16:38)
+(0129 16:38)
 ´óÖÚµçÊÓ
 £º¡¶´³¹Ø¶«¡·--»¹Ô­ÕæÊµµÄÀúÊ·
-(0129
-16:38)
+(0129 16:38)
 Ö÷´´×ÔÆÀ¡¶´³¹Ø¶«¡·
 ±à¾ç¸ßÂúÌÃÎª×÷Æ·´ò98·Ö
-(0129
-11:02)
+(0129 11:02)
 ¡¶´³¹Ø¶«¡·£ºÒ»²¿¾«ÉñÎÄ¾í
-(0129
-10:44)
+(0129 10:44)
 ¡°´³¹Ø¶«¡±ÒÔºóÎÒÃÇ»¹¿´Ê²Ã´£¿
-(0128
-20:06)
+(0128 20:06)
 ¡¶´³¹Ø¶«¡·±à¾çµÄÓ²ÉË
-(0128
-20:04)
+(0128 20:04)
 ¡¶´³¹Ø¶«¡·µÄ°×èµÎ¢è¦
-(0128
-20:03)
+(0128 20:03)
 ¡¶´³¹Ø¶«¡·ÈËÎï¸öÐÔÌØÉ«
-(0128
-19:42)
+(0128 19:42)
 ¡¶´³¹Ø¶«¡·£ºÀîÓ×±óµÄÊÕÊÓÉñ»°
-(0128
-15:42)
+(0128 15:42)
 ¡¶´³¹Ø¶«¡·Íê½áÁË£¬Ì¸Ì¸¸ÐÊÜ
-(0128
-12:53)
+(0128 12:53)
 ¡¶´³¹Ø¶«¡·¶ùÅ®¼ÒÔ°»æ³ö²»ÇüµÄÃñ×åÑªÀáÊ·
-(0128
-09:30)
+(0128 09:30)
 Å­³âµçÊÓ¾ç¡¶´³¹Ø¶«¡·µÄ´ó½á¾Ö
-(0125
-15:27)
+(0125 15:27)
 ¡¶¸ê±ÚÄ¸Ç×¡·¡¶´³¹Ø¶«¡·¸÷³öÁËÒ»¸ö¸ºÐÄºº
-(0125
-11:17)
+(0125 11:17)
 ´óÖÚÈÕ±¨£º¡¶´³¹Ø¶«¡·£¬É½¶«ÈËµÄÐÂÃûÆ¬
-(0125
-08:29)
+(0125 08:29)
 ÎÒµÄ¼ÒÔÚ¶«±±¡ªÎÒ¿´¡¶´³¹Ø¶«¡·
-(0124
-23:00)
+(0124 23:00)
 ¡¶´³¹Ø¶«¡·»½ÐÑ¶«±±ÈËµÄ¼ÇÒäËéÆ¬
-(0124
-22:52)
+(0124 22:52)
 ¡¶´³¹Ø¶«¡·µÄÒÅº¶£º´«ÎäºÍÏÊÃ»ÄÜ³ÉÇ×
-(0124
-22:49)
+(0124 22:49)
 ÐÒ¸£¸ô×Å²£Á§--ÃÔÉÏÁË¡¶´³¹Ø¶«¡·
-(0124
-22:38)
+(0124 22:38)
 ³É¹¦Ñ§Óë¡¶´³¹Ø¶«¡·
-(0124
-22:36)
+(0124 22:36)
 ¸ü¶àÄÚÈÝ
 ÈÈµãµ÷²é
 ÄãÏ²»¶¡¶´³¹Ø¶«¡·ÄÄ¸ö½ÇÉ«
@@ -51494,210 +48885,152 @@ Reserved
 ×îÐÂ±¨µÀ
 ¹ÛÖÚ´½Ç¹Éà½£¡¶´³¹Ø¶«¡·
 ÊÇ´«Ææ»¹ÊÇÀëÆæ£¿(Í¼)
-(0204
-01:44)
+(0204 01:44)
 ¡¶´³¹Ø¶«¡·Áé»êÊÇ´³
 Öì¿ªÉ½ÐÎÏóËÜÔìÇ°ËùÎ´ÓÐ
-(0201
-16:43)
+(0201 16:43)
 ¡¶´³¹Ø¶«¡·ÈÈ¶È²»¼õ
 Ð¡ËÎ¼ÑÍÊÈ¥¸¡»ªÆÓÊµÑÝ³ö
-(0201
-15:04)
+(0201 15:04)
 ¡¶´³¹Ø¶«¡·Á¬´´ÊÕÊÓ¼ÍÂ¼
 »ÆÐ¡ÀÙÓÅÑÅ×ªÉí(×éÍ¼)
-(0130
-15:43)
+(0130 15:43)
 ÊÓÆµ£ºÀîÓ×±ó¿ªÄê´óÏ·¡¶´³¹Ø¶«¡·Æ¬¶ÎÐÀÉÍ(2)
-(0130
-11:50)
+(0130 11:50)
 ÊÓÆµ£ºÀîÓ×±ó¿ªÄê´óÏ·¡¶´³¹Ø¶«¡·Æ¬¶ÎÐÀÉÍ(1)
-(0130
-11:50)
+(0130 11:50)
 ÊÓÆµ£ºÀîÓ×±ó¿ªÄê´óÏ·¡¶´³¹Ø¶«¡·³¬³¤Æ¬»¨ÐÀÉÍ
-(0130
-11:48)
+(0130 11:48)
 ¡¶´³¹Ø¶«¡·¶à¼ÒÊ¡Ì¨ÈÈ²¥
 ½øÐÐÒ»ÂÖ¼¯Ìå¡°É¨Ã¤¡±
-(0130
-11:12)
+(0130 11:12)
 ¡¶´³¹Ø¶«¡·ÒÑ×ÅÊÖ´´×÷Ðø¼¯
 ÓÐÍûÃ÷ÄêÓë¹ÛÖÚ¼ûÃæ
-(0130
-10:21)
+(0130 10:21)
 µçÊÓ¾ç¡¶´³¹Ø¶«¡·´´×÷×ùÌ¸»á¾ÙÐÐ
 »ñµÃ¸÷·½ºÃÆÀ
-(0130
-09:44)
+(0130 09:44)
 ¡¶´³¹Ø¶«¡·Æø¸Å»Ø³¦µ´Æø
 µ«¾çÇéÒ²²»·¦Ó²ÉË(Í¼)
-(0129
-17:47)
+(0129 17:47)
 ¡¶´³¹Ø¶«¡·È«¹úÈÈ²¥
 ÊÕÊÓË¢ÐÂÑëÊÓ¿ªÄêÏ·¼ÍÂ¼
-(0129
-12:30)
+(0129 12:30)
 ¡¶´³¹Ø¶«¡·ºì»ðÊÕÎ²
 ¡¶±øÐÄÒÀ¾É¡·½Ó°ôÑ¹Á¦²»Ð¡
-(0129
-12:16)
+(0129 12:16)
 ¡¶´³¹Ø¶«¡·´´ÑëÊÓÊÕÊÓÐÂ¸ß
 Ðø¼¯Ã÷ÄêÃæÊÀ(Í¼)
-(0129
-12:00)
+(0129 12:00)
 ¡¶´³¹Ø¶«¡·Ðø¼¯ÏÂ°ëÄêÍ¶ÅÄ
 ÀîÓ×±óÓÐÍûÔÙ¶È¼ÓÃË
-(0129
-10:55)
+(0129 10:55)
 ¡¶´³¹Ø¶«¡·¡°´³¡±³öÓ«ÆÁÐÂÌìµØ
 ¸ß×àÊÕÊÓ¿­¸è(2)
-(0129
-10:39)
+(0129 10:39)
 ¡¶´³¹Ø¶«¡·¡°´³¡±³öÓ«ÆÁÐÂÌìµØ
 ¸ß×àÊÕÊÓ¿­¸è
-(0129
-10:39)
+(0129 10:39)
 ¡¶´³¹Ø¶«¡·¶þÂÖÈÈ²¥
 ¸ßÂúÌÃÐø¼¯´ó¸ÙÒÑ´´×÷Íê±Ï
-(0129
-02:13)
+(0129 02:13)
 ¡¶´³¹Ø¶«¡·³ï±¸Ðø¼¯
 ¾ç±¾½«ÓÚÉÏ°ëÄêÍê³É(Í¼)
-(0129
-02:05)
+(0129 02:05)
 È«¹ú1/4µÄ¹ÛÖÚÔÚ¿´¡¶´³¹Ø¶«¡·
 µØ·½Ì¨Ã÷ÄêÖØ²¥
-(0128
-18:37)
+(0128 18:37)
 ÈÈµãµ÷²é£ºµçÊÓ¾ç¡¶´³¹Ø¶«¡·ÂúÒâ¶È
-(0128
-16:20)
+(0128 16:20)
 ¡¶´³¹Ø¶«¡·´´ÑëÊÓÊÕÊÓÆæ¼£
 ¡¶»ôÔª¼×¡·½ôËæÆäºó
-(0128
-16:05)
+(0128 16:05)
 ÅÑÄæÈËÎïÈÇÕùÒé
 ÖìÑÇÎÄ£º´«ÎäÊÇ¸öÕæÕýµÄÓÂÊ¿
-(0128
-11:50)
+(0128 11:50)
 ¡¶½¹µã·ÃÌ¸¡·¹Ø×¢¡¶´³¹Ø¶«¡·
 Ê¢ÔÞ´³¹Ø¶«¾«Éñ
-(0128
-00:04)
+(0128 00:04)
 ×ÊÁÏ£ºµçÊÓ¾ç¡¶´³¹Ø¶«¡·Ö÷ÒªÑÝÔ±
-(0127
-14:05)
+(0127 14:05)
 ¡¶´³¹Ø¶«¡·ÎªÉ¶ÕâÃ´»ð£¿
 ¼Ò×åÊ·ÓëÉç»áÊ·ÏàÈÚºÏ
-(0126
-16:38)
+(0126 16:38)
 ¡¶´³¹Ø¶«¡·ÊÕÊÓ´´ÐÂ¸ß
 Ð¡ËÎ¼ÑÅ×Ë½Çé±¨¼Ò¹úºÞ
-(0126
-14:00)
+(0126 14:00)
 ¡¶´³¹Ø¶«¡·ÉÏÁË¡¶½¹µã·ÃÌ¸¡·
-(0126
-02:29)
+(0126 02:29)
 ¡¶´³¹Ø¶«¡·±±¾©ËÄÁ¬¹Ú
 µ¥¼¯ÊÕÊÓ´ïµ½16.05%
-(0126
-01:32)
+(0126 01:32)
 ¸ü¶àÄÚÈÝ
 ¸÷·½ÆÀÂÛ
 ÆÊÎö¡¶´³¹Ø¶«¡·ÀïµÄËÄ¸öÄÐÈË
-(0203
-14:50)
+(0203 14:50)
 ¡¶´³¹Ø¶«¡·ÀîÓ×±ó±íÑÝÊÜ¿Ï¶¨
 Öì¿ªÉ½±ÈÀîÔÆÁú°ô
-(0203
-01:30)
+(0203 01:30)
 ¡¶´³¹Ø¶«¡·£ºµ×²ãÓ¢ÐÛµÄÊ·Ê«
-(0201
-17:27)
+(0201 17:27)
 ÀîÓ×±ó²»ÊÇ¡¶´³¹Ø¶«¡·×î´óÓ®¼Ò
-(0201
-16:37)
+(0201 16:37)
 Íõ¿üÁú£º¡¶´³¹Ø¶«¡·¸øÁõÏò¾©Æ½ÁË·´£¡
-(0131
-12:03)
+(0131 12:03)
 ÂÛºìºì»ð»ðµÄ¡¶´³¹Ø¶«¡·
-(0130
-17:38)
+(0130 17:38)
 ¡¶´³¹Ø¶«¡·£ºÓÐ´³¾¢
-(0130
-17:20)
+(0130 17:20)
 ´óÖÚµçÊÓ
 £º¡¶´³¹Ø¶«¡·--±à¾ç¸ßÂúÌÃ£º¸ÐÐ»¾Ë¾Ë
-(0129
-16:38)
+(0129 16:38)
 ´óÖÚµçÊÓ
 £º¡¶´³¹Ø¶«¡·--ºîºèÁÁÔø¾­½Ò²»¿ª¹ø
-(0129
-16:38)
+(0129 16:38)
 ´óÖÚµçÊÓ
 £ºµçÊÓ¾ç¡¶´³¹Ø¶«¡·--ÍòÏóÀîÓ×±ó
-(0129
-16:38)
+(0129 16:38)
 ´óÖÚµçÊÓ
 £º¡¶´³¹Ø¶«¡·--Ò»´úÈËµÄ»ØÒäºÍÃÎÏë
-(0129
-16:38)
+(0129 16:38)
 ´óÖÚµçÊÓ
 £º¡¶´³¹Ø¶«¡·--»¹Ô­ÕæÊµµÄÀúÊ·
-(0129
-16:38)
+(0129 16:38)
 Ö÷´´×ÔÆÀ¡¶´³¹Ø¶«¡·
 ±à¾ç¸ßÂúÌÃÎª×÷Æ·´ò98·Ö
-(0129
-11:02)
+(0129 11:02)
 ¡¶´³¹Ø¶«¡·£ºÒ»²¿¾«ÉñÎÄ¾í
-(0129
-10:44)
+(0129 10:44)
 ¡°´³¹Ø¶«¡±ÒÔºóÎÒÃÇ»¹¿´Ê²Ã´£¿
-(0128
-20:06)
+(0128 20:06)
 ¡¶´³¹Ø¶«¡·±à¾çµÄÓ²ÉË
-(0128
-20:04)
+(0128 20:04)
 ¡¶´³¹Ø¶«¡·µÄ°×èµÎ¢è¦
-(0128
-20:03)
+(0128 20:03)
 ¡¶´³¹Ø¶«¡·ÈËÎï¸öÐÔÌØÉ«
-(0128
-19:42)
+(0128 19:42)
 ¡¶´³¹Ø¶«¡·£ºÀîÓ×±óµÄÊÕÊÓÉñ»°
-(0128
-15:42)
+(0128 15:42)
 ¡¶´³¹Ø¶«¡·Íê½áÁË£¬Ì¸Ì¸¸ÐÊÜ
-(0128
-12:53)
+(0128 12:53)
 ¡¶´³¹Ø¶«¡·¶ùÅ®¼ÒÔ°»æ³ö²»ÇüµÄÃñ×åÑªÀáÊ·
-(0128
-09:30)
+(0128 09:30)
 Å­³âµçÊÓ¾ç¡¶´³¹Ø¶«¡·µÄ´ó½á¾Ö
-(0125
-15:27)
+(0125 15:27)
 ¡¶¸ê±ÚÄ¸Ç×¡·¡¶´³¹Ø¶«¡·¸÷³öÁËÒ»¸ö¸ºÐÄºº
-(0125
-11:17)
+(0125 11:17)
 ´óÖÚÈÕ±¨£º¡¶´³¹Ø¶«¡·£¬É½¶«ÈËµÄÐÂÃûÆ¬
-(0125
-08:29)
+(0125 08:29)
 ÎÒµÄ¼ÒÔÚ¶«±±¡ªÎÒ¿´¡¶´³¹Ø¶«¡·
-(0124
-23:00)
+(0124 23:00)
 ¡¶´³¹Ø¶«¡·»½ÐÑ¶«±±ÈËµÄ¼ÇÒäËéÆ¬
-(0124
-22:52)
+(0124 22:52)
 ¡¶´³¹Ø¶«¡·µÄÒÅº¶£º´«ÎäºÍÏÊÃ»ÄÜ³ÉÇ×
-(0124
-22:49)
+(0124 22:49)
 ÐÒ¸£¸ô×Å²£Á§--ÃÔÉÏÁË¡¶´³¹Ø¶«¡·
-(0124
-22:38)
+(0124 22:38)
 ³É¹¦Ñ§Óë¡¶´³¹Ø¶«¡·
-(0124
-22:36)
+(0124 22:36)
 ¸ü¶àÄÚÈÝ
 ÈÈµãµ÷²é
 ÄãÏ²»¶¡¶´³¹Ø¶«¡·ÄÄ¸ö½ÇÉ«
@@ -51781,9 +49114,7 @@ Reserved
 ¡¶Îè¶¯Ææ¼£¡·
 Ê±¼ä£º8ÔÂ30ÈÕÆð
 Ã¿ÖÜËÄ¡¢ÎåÍí20£º30Ö±²¥
-Ô´×Ô£ºÓ¢¹ú¡¶strictly
-come
-dancing¡·
+Ô´×Ô£ºÓ¢¹ú¡¶strictly come dancing¡·
 Ö÷°ì£ººþÄÏÎÀÊÓ
 Ïã¸ÛTVB
 ÌÆÐ¦Ð»Ìì»ª»ñ¡°Îè¶¯Ææ¼£¡±ÖÕ¼«¹ð¹Ú
@@ -51843,9 +49174,7 @@ dancing¡·
 ¡¤
 ³Â³þÉúÐ´Ö÷ÌâÇúÀîÓî´ºÀ´³ª
 ¹«¸æÀ¸
-¡¶Îè¶¯Ææ¼£¡·ÊÇºþÄÏÎÀÊÓÒý½øÓ¢¹úBBCµçÊÓÌ¨»ð±éÈ«ÇòµÄ¡¶strictly
-come
-dancing¡·µÄ½ÚÄ¿Ä£Ê½£¬½øÐÐ±¾ÍÁ»¯¸ÄÔìµÄ´´ÐÂ½ÚÄ¿,Ò²ÊÇÖÐ¹úÄÚµØµçÊÓÌ¨µÚÒ»´ÎÒý½ø¹ºÂòÓ¢¹úÎèµ¸½ÚÄ¿°æÈ¨¡£
+¡¶Îè¶¯Ææ¼£¡·ÊÇºþÄÏÎÀÊÓÒý½øÓ¢¹úBBCµçÊÓÌ¨»ð±éÈ«ÇòµÄ¡¶strictly come dancing¡·µÄ½ÚÄ¿Ä£Ê½£¬½øÐÐ±¾ÍÁ»¯¸ÄÔìµÄ´´ÐÂ½ÚÄ¿,Ò²ÊÇÖÐ¹úÄÚµØµçÊÓÌ¨µÚÒ»´ÎÒý½ø¹ºÂòÓ¢¹úÎèµ¸½ÚÄ¿°æÈ¨¡£
 »¥¶¯µ÷²é
 1¡¢Äú×î¹Ø×¢Õâµµ½ÚÄ¿µÄÄÄÐ©·½Ãæ£¿
 Ã÷ÐÇÕóÈÝ
@@ -51886,423 +49215,297 @@ dancing¡·µÄ½ÚÄ¿Ä£Ê½£¬½øÐÐ±¾ÍÁ»¯¸ÄÔìµÄ´´ÐÂ½ÚÄ¿,Ò²ÊÇÖÐ¹úÄÚµØµçÊÓÌ¨µÚÒ»´ÎÒý½ø¹ºÂòÓ¢
 ¶¯Ì¬×·×Ù
 ÑîË¼çùÌøÎè²»µ£ÐÄ±»¿«ÓÍ
 ÆØ´îµµÕÅ½ÜÓÐÅ®ÓÑ(Í¼)
-(1002
-10:53)
+(1002 10:53)
 Ð»ÄÈ¼ª½Ü±»ÆÀ×îÍêÃÀ´îµµ
 ÈÈÀ±Îè×Ë´«µÝ¿ìÀÖ(Í¼)
-(0930
-12:38)
+(0930 12:38)
 ÌÆÐ¦ÊµÁ¦×÷Ö¤
 ¿ìÄÐ³¬Å®½»³öÂúÒâ´ð¾í(×éÍ¼)
-(0929
-15:42)
+(0929 15:42)
 Ð»Ìì»ªÌÆÐ¦ÕªµÃ¡¶Îè¶¯Ææ¼£¡·ÎèÍõÎèºó(¸½Í¼)
-(0929
-02:33)
+(0929 02:33)
 ÌÆÐ¦Ð»Ìì»ªÍ»³öÖØÎ§
 ¡°Îè¶¯Ææ¼£¡±ÖÕ¼«¹ð¹Ú(Í¼)
-(0929
-00:39)
+(0929 00:39)
 ¡°Îè¶¯¡±´ó¾öÕ½Ö®Ò¹Ã÷ÐÇÕóÈÝÇ¿´ó
 ½ÚÄ¿µ¥ÆØ¹â
-(0928
-17:54)
+(0928 17:54)
 ¡¶Îè¶¯Ææ¼£¡·¾öÈüÓÐÐüÄî
 ÀîÓî´º½ñÍíÓÐÍûÐãÈ¹Îè
-(0928
-15:05)
+(0928 15:05)
 ¡°Îè¶¯¡±ÉÏÑÝ¾öÕ½Ö®Ò¹
 ËÄ¶ÔÃ÷ÐÇ×éºÏ½ñÍí¾ö¹Ú¾ü
-(0928
-09:52)
+(0928 09:52)
 Ð¡ÁúÅ®×ßÐ¡ÍõÒ¯½Ó°à
 ÃçÇÈÎ°µãÆÀ¡°Îè¶¯¡±¾öÕ½
-(0928
-09:48)
+(0928 09:48)
 É½ºÓ±¸Õ½Îè¶¯Ææ¼£¾öÈü
 Ï°¹ßÄ»ºóÎÞÒâÌ¨Ç°(Í¼)
-(0928
-08:46)
+(0928 08:46)
 ÑîË¼çùºþÄÏÁ·ÎèÊÜÉË
 ×óÊÖÊÖÖ¸¹ÇÁÑµ±³¡Í´¿Þ
-(0928
-07:49)
+(0928 07:49)
 ¡°Îè¶¯¡±¾öÕ½Ò¹Ò»´¥¼´·¢
 µ¹¼ÆÊ±½ÚÄ¿ÌáÇ°Ô¤ÈÈ
-(0926
-18:47)
+(0926 18:47)
 ÕÅ½ÜÎè¶¯Ææ¼£ÂôÁ¦ÅÅÁ·
 ±»ÌßÖÐÁ³²¿ÑÛ½ÇÊÜÉË
-(0926
-16:18)
+(0926 16:18)
 Ô­¶¨28ÈÕ³Â°ÙÏéÃçÇÈÎ°×ö¿ÍÁÄÌìÒò¹ÊÈ¡Ïû
-(0926
-13:41)
+(0926 13:41)
 ¡°Îè¶¯¡±±¾ÖÜÎå¾öÕ½
 ³Â°ÙÏéÖ÷³ÖÃçÇÈÎ°µãÆÀ(Í¼)
-(0926
-02:22)
+(0926 02:22)
 ³Â°ÙÏé½Ó°ô¡°Îè¶¯¡±Ë¾ÒÇ
 ÃçÇÈÎ°ÆÀÅÐ¹Ú¾ü¹éÊô
-(0925
-17:41)
+(0925 17:41)
 ÀîÓî´ºÈ¹×°ÁÁÏà±¾ÖÜÎè¶¯Ææ¼£
 ÍøÓÑ±¬ÁÏ³É½¹µã
-(0925
-12:10)
+(0925 12:10)
 ¡°´ÏÃ÷ÎèÕß¡±Ð»ÄÈ±¯ÇéÉÏÑÝ¡¶°ÔÍõ±ð¼§¡·(×éÍ¼)
-(0924
-18:21)
+(0924 18:21)
 ¡°Îè¶¯Ææ¼£¡±×ß½øÖØÇìÉçÇø
 ÈýÎ»Ã÷ÐÇ½ÌÐ¡º¢ÌøÎè
-(0924
-06:15)
+(0924 06:15)
 ¡°Îè¶¯¡±Ñ¡ÊÖÖØÇìÐãÎè
 Öì½­¹ÖÀîÑ§ÇìÌ«¸ß(Í¼)
-(0923
-14:08)
+(0923 14:08)
 ¡°Îè¶¯Ææ¼£¡±½«×ß½øÉçÇø
 ´òÔì¡°ËÄ³ÇÎè¶¯¡±
-(0922
-21:51)
+(0922 21:51)
 Ð»ÄÈ³ÆÔÙÒ²²»»á¹«¿ªÁµÇé
 ÎªÇéÐ÷Ê§¿ØÀ¢¾Î(¸½Í¼)
-(0922
-16:15)
+(0922 16:15)
 ¡¶Îè¶¯Ææ¼£¡·µÚ°Ë³¡¸Ð¶¯±ÈÎè£ºÔÙ¼û¡°ÇíÅ®ÀÉ¡±
-(0922
-01:06)
+(0922 01:06)
 ±¾ÖÜ¡¶Îè¶¯Ææ¼£¡·ÓÖ¼û¡°Ð¡ÁúÅ®¡±
 ³ÂÓñÁ«
-(0921
-17:11)
+(0921 17:11)
 Ð»ÄÈÁÄ¡°Îè¶¯¡±²»ÀíÖÇÐÐÎª
 ¸Ðµ½¶Ô²»Æð´ó¼Ò(Í¼)
-(0921
-14:21)
+(0921 14:21)
 Ð»ÄÈ¼ª½ÜÁÄ¡°Îè¶¯¡±¾­Àú
 »¥Ïà±¬ÁÏ´µÅõ
-(0921
-14:21)
+(0921 14:21)
 ¡°Îè¶¯Ææ¼£¡±Ð»Ìì»ª¿¿ÐÔ¸Ð¡°Ìô¶º¡±ÌÆÐ¦(×éÍ¼)
-(0921
-13:46)
+(0921 13:46)
 ÕÅ¼ÎÄß£ºÎÒºÍÅ¼Ïñ³ÂÓñÁ«µÄºÏÓ°(Í¼)
-(0921
-11:33)
+(0921 11:33)
 Ð¡ÁúÅ®ÖØ³ö½­ºþ
 ³ÂÓñÁ«±ÜÌ¸Óë·¢¸çÇé¸Ð¾À¸ð(Í¼)
-(0921
-11:27)
+(0921 11:27)
 ¸ü¶àÄÚÈÝ
 ¾«²ÊÍ¼Æ¬
 Í¼ÎÄ£º¡°Îè¶¯Ææ¼£¡±¾öÈü--ÕÅ½Ü¡°S¡±±³Ó°
-(0929
-01:05)
+(0929 01:05)
 Í¼ÎÄ£º¡°Îè¶¯Ææ¼£¡±¾öÈü--·þ×°ÔìÐÍ»ªÀö
-(0929
-01:05)
+(0929 01:05)
 Í¼ÎÄ£º¡°Îè¶¯Ææ¼£¡±¾öÈü--ÌÆÐ¦Ð»Ìì»ªÍêÃÀÐ»Ä»
-(0929
-01:05)
+(0929 01:05)
 Í¼ÎÄ£º¡°Îè¶¯Ææ¼£¡±¾öÈü--ÑîË¼çùÓñÍÈÓÕÈË
-(0929
-01:05)
+(0929 01:05)
 Í¼ÎÄ£º¡°Îè¶¯Ææ¼£¡±¾öÈü--¼ª½Üµ¥Ï¥ÏÂ¹ò
-(0929
-01:05)
+(0929 01:05)
 Í¼ÎÄ£º¡°Îè¶¯Ææ¼£¡±¾öÈü--¡°ÌìÊ¹¡±×éºÏ
-(0929
-01:05)
+(0929 01:05)
 Í¼ÎÄ£º¡°Îè¶¯Ææ¼£¡±¾öÈü--Ð»ÄÈ³¤È¹·ÉÎè
-(0929
-01:05)
+(0929 01:05)
 Í¼ÎÄ£º¡°Îè¶¯Ææ¼£¡±¾öÈü--Ð»Ìì»ªÏÖ³¡ÈÈÎè
-(0929
-01:05)
+(0929 01:05)
 Í¼ÎÄ£º¡°Îè¶¯Ææ¼£¡±¾öÈü--Îâ¼ÒÀÖ¸ßÄÑ¶¯×÷
-(0929
-01:05)
+(0929 01:05)
 Í¼ÎÄ£º¡°Îè¶¯Ææ¼£¡±¾öÈü--ÕÅ½ÜºÍÑîË¼çù
-(0929
-01:05)
+(0929 01:05)
 Í¼ÎÄ£º¡°Îè¶¯Ææ¼£¡±¾öÈü--¼ª½ÜÉÏÑÝÃñ×åÎè
-(0929
-01:05)
+(0929 01:05)
 Í¼ÎÄ£º¡°Îè¶¯Ææ¼£¡±¾öÈü--ìÅÄ¿ÎèÌ¨Ð§¹û
-(0929
-01:05)
+(0929 01:05)
 Í¼ÎÄ£º¡°Îè¶¯Ææ¼£¡±¾öÈü--Á½ÈËÅäºÏÄ¬Æõ
-(0929
-01:05)
+(0929 01:05)
 Í¼ÎÄ£º¡°Îè¶¯Ææ¼£¡±¾öÈü--ÌÆÐ¦È¹°Ú·ÉÑï
-(0929
-01:04)
+(0929 01:04)
 Í¼ÎÄ£º¡°Îè¶¯Ææ¼£¡±¾öÈü--ÌÆÐ¦Ð»Ìì»ªÌôÕ½
-(0929
-01:04)
+(0929 01:04)
 Í¼ÎÄ£º¡°Îè¶¯Ææ¼£¡±¾öÈü--Ñ¡ÊÖ¼¯ÌåÎè
-(0929
-01:04)
+(0929 01:04)
 Í¼ÎÄ£º¡°Îè¶¯Ææ¼£¡±¾öÈü--Ñ¡ÊÖÆëÆëÁÁÏà
-(0929
-01:04)
+(0929 01:04)
 Í¼ÎÄ£º¡°Îè¶¯¡±µÚÆß³¡-Ö÷³ÖÈËÕÅ¿ÉÒÃºÎêÁ
-(0921
-10:12)
+(0921 10:12)
 Í¼ÎÄ£º¡°Îè¶¯¡±µÚÆß³¡-ÕÅ½Ü·ç±©Ö®Éñ
-(0921
-10:12)
+(0921 10:12)
 ¸ü¶àÄÚÈÝ
 Îè¶¯ÊÓÆµ
 ÊÓÆµ£º¡¶Îè¶¯Ææ¼£¡·ÕÅ½ÜÑîË¼çù¶Ô»°ÐÂÀËÓéÀÖ
-(0930
-05:09)
+(0930 05:09)
 ÊÓÆµ£º¡¶Îè¶¯Ææ¼£¡·»ªÀöÂäÄ»
 ÖÚÐÇ»¶¾ÛÇì¹¦Ñç
-(0930
-05:06)
+(0930 05:06)
 ÊÓÆµ£º¡¶Îè¶¯Ææ¼£¡·»ªÀöÂäÄ»
 ÖÚÐÇ»¶¾ÛÇì¹¦Ñç
-(0930
-05:06)
+(0930 05:06)
 ÊÓÆµ£ºÎâ¼ÒÀÖ¹ùÏÛÄÝÌôÕ½¸ßÄÑ¶È
 ±¸Õ½¾öÕ½Ö®Ò¹
-(0929
-15:46)
+(0929 15:46)
 ÊÓÆµ£º¹ùÏÛÄÝ¡¢Îâ¼ÒÀÖÏà»¥ÐÅÈÎPKÍõÔÙ´´Ææ¼£
-(0929
-15:44)
+(0929 15:44)
 ÊÓÆµ£ºÌÆÐ¦¡¢Ð»Ìì»ª±¸Õ½Îè¶¯Ææ¼£¾öÕ½Ö®Ò¹
-(0929
-15:44)
+(0929 15:44)
 ÊÓÆµ£ºÌìÊ¹×éºÏÈÏÕæ±¸Õ½
 ÑîË¼çùÅÅÁ·ÊÖÖ¸¹ÇÁÑ
-(0929
-15:43)
+(0929 15:43)
 ÊÓÆµ£º¼ªÄÈÎè¶¯ÅÄµµÓÃÁé»êÌøÎè±¸Õ½×Ü¾öÈü
-(0929
-15:42)
+(0929 15:42)
 ÊÓÆµ£º¡°Îè¶¯¡±Ð»ÄÈ¼ª½Ü¸÷×ÔÅÅÁ·²»ÅöÃæ
-(0929
-15:41)
+(0929 15:41)
 ÊÓÆµ£ºÌÆÐ¦¡¢Ð»Ìì»ª¡°Îè¶¯Ææ¼£¡±µÄ¼áÐÁÖ®Â·
-(0929
-15:40)
+(0929 15:40)
 ÊÓÆµ£ºÑîË¼çùËÍÔÂ±ý¸øÕÅ½Ü
 Á½ÈËÇéÒêÉîºñ
-(0929
-15:39)
+(0929 15:39)
 ÊÓÆµ£ºÕÅ½Ü¡¶Îè¶¯Ææ¼£¡·ÉÏ°çÑÝÂõ¿Ë¶û-½Ü¿ËÑ·
-(0920
-18:56)
+(0920 18:56)
 ÊÓÆµ£º¡°Îè¶¯¡±Ô¬Î°ºÀÕÅ¼ÎÄßÁÄ³¤É³±ÈÈüÈ¤ÊÂ
-(0920
-09:44)
+(0920 09:44)
 ÊÓÆµ£º¡°Îè¶¯¡±ÕÅ½ÜÑîË¼çùÐÂÀËÁÄÌì»¥Ïà±¬ÁÏ
-(0920
-09:43)
+(0920 09:43)
 ÊÓÆµ£ºÎè¶¯Ææ¼£µÚÁù³¡Ð»ÄÈÏÖ³¡¾Ï¹ªµÀÇ¸
-(0917
-10:21)
+(0917 10:21)
 ÊÓÆµ£ºÕÅ½ÜÁ·Ï°¶·Å£ÎèÑ°ÕÒ¹Ú¾ü¸Ð¾õ
-(0914
-18:42)
+(0914 18:42)
 ÊÓÆµ£ºÖì½­³öÉ±ÊÖïµ
 Áà×ÅË®Í°Á·Æ½ºâ
-(0914
-18:41)
+(0914 18:41)
 ÊÓÆµ£º»Æ³¤ÐËµÜµÜÖúÕó¹²Í¬Îè¶¯Ææ¼£
-(0914
-18:40)
+(0914 18:40)
 ÊÓÆµ£º»ª¶û×È¿¼µ¹ÕÅ¼ÎÄß
 ¶¯×÷Ì«ÄÑ²»Í£pass
-(0914
-18:39)
+(0914 18:39)
 ÊÓÆµ£ºÐ»ÄÈ¾ç×éÍµÏÐÅÅÎèµ¸
 Õùµ±×îÔçÆðÑ¡ÊÖ
-(0914
-18:38)
+(0914 18:38)
 ÊÓÆµ£ºÐ»Ìì»ªµ£µ±Ç°·æÐã¾ôÊ¿¼ÓÇ¡Ç¡
-(0914
-18:36)
+(0914 18:36)
 ÊÓÆµ£ºÖÜ¼ÒÎµÂíµÂÖÓÏà»¥ÍÆ¼ö±Ë´ËÐÅÈÎ
-(0914
-18:26)
+(0914 18:26)
 ÊÓÆµ£º¹ùÏÛÄÝ¡¢Îâ¼ÒÀÖ³ö³¡Ë³Ðò²ÂÈ­¶¨
-(0914
-18:24)
+(0914 18:24)
 ÊÓÆµ£ºÎè¶¯Ã÷ÐÇÅÅÁ·¾«²Ê»¨Ðõ
-(0906
-20:46)
+(0906 20:46)
 ÊÓÆµ£ºÅíÓî½ÌÄãÅöÅöÎè
-(0906
-20:39)
+(0906 20:39)
 ÊÓÆµ£ºÑîË¼çù´ÓÔç²ÍÁ·µ½Íí²Í
-(0906
-20:36)
+(0906 20:36)
 ÊÓÆµ£ºÇØá°ÅÅÎè×ÔÚ¼ÓÐ¡°¸ß¸úÐ¬ÒõÓ°¡±
-(0906
-20:31)
+(0906 20:31)
 ÊÓÆµ£º²ÜÃôÀò²»¾åÉË²¡ÌôÕ½Â×°Í
-(0906
-20:26)
+(0906 20:26)
 ÊÓÆµ£ºÌÆÐ¦¸ÄÌøHipHop·è¿ñÅÅÎè
-(0906
-20:23)
+(0906 20:23)
 ¸ü¶àÄÚÈÝ
 ÈÈµãÆÀÂÛ
 Ð»ÄÈ£º¡¶Îè¶¯Ææ¼£¡·ÂäÄ»ÁË£¬¸Ð¶¯ÔÚÑÓÐø(Í¼)
-(0929
-15:17)
+(0929 15:17)
 ÕÅ½ÜÊ§ÀûÐ»ÄÈÐ¦ÁËºÎêÁãÂÁËÑïÑï¿ÞÁË
-(0929
-10:39)
+(0929 10:39)
 ÖÚ¶àÆæ¼£ÏÂÌÆÐ¦Ð»Ìì»ªÄÃÏÂ¹Ú¾ü
-(0929
-00:44)
+(0929 00:44)
 ÕÅ½Ü×Ô¿ìÄÐºóÓÖ³ÉÎè¶¯Ææ¼£µÄ¡°ÆúÓ¤¡±
-(0929
-00:43)
+(0929 00:43)
 ¡¶Îè¶¯Ææ¼£¡·´ø¸øÎÒÃÇÒ»¸öÔÂµÄ¸Ð¶¯
-(0929
-00:37)
+(0929 00:37)
 Îè¶¯Ææ¼£µÄÎèÌ¨Ö»ÓÐÎè¶¯Ã»ÓÐÆæ¼£
-(0929
-00:34)
+(0929 00:34)
 ¡¶Îè¶¯Ææ¼£¡·£¬Îå¸öÀñ°Ý³É¾ÍÒ»¶ÎÆæ¼£
-(0929
-00:30)
+(0929 00:30)
 Îè¶¯Ææ¼£×Ü¾öÈüÈý´óÁÁµãÓëÈý´óÒÅº¶
-(0929
-00:27)
+(0929 00:27)
 Ô¤²â£ºÎè¶¯Ææ¼£ÕÅ½ÜµÇ¶¥µÄÈý´óÒòËØ
-(0928
-10:45)
+(0928 10:45)
 ¡¶Îè¶¯Ææ¼£¡·¾öÕ½Ö®Ò¹ÆÚ´ýÕÅ½Ü¶á¹Ú
-(0928
-01:33)
+(0928 01:33)
 ÇØá°PK¹ùÏÛÄÝ£¬ÃÀÅ®Îè¶¯ÒàÈÏÕæ
-(0927
-14:18)
+(0927 14:18)
 ÀîÓî´ºµÄÈ¹×°ÎªºÎÈç´ËÊÜ¹Ø×¢£¿
-(0927
-00:33)
+(0927 00:33)
 Ð»ÄÈ£º¡¶Îè¶¯Ææ¼£¡·ÈÃÎÒ½»µ½Ðí¶àºÃÅóÓÑ(Í¼)
-(0926
-16:25)
+(0926 16:25)
 ¼ª½Ü£ºÎè¶¯Ææ¼££¬ÓÃÕæ³ÏÎè¶¯Ææ¼£
-(0924
-12:04)
+(0924 12:04)
 Îè¶¯Ææ¼£ì­Àá´óÕ½
 Ã÷ÐÇÒ²ÊÇÆÕÍ¨ÈË
-(0922
-00:09)
+(0922 00:09)
 ÕÅ½ÜÐ»Ìì»ªÓÃ¸÷×ÔµÄ·½Ê½Ú¹ÊÍ¾­µä
-(0921
-16:33)
+(0921 16:33)
 ÕÅ½Ü¼ª½ÜÐ»Ìì»ª»á²»»áÊÇÎè¶¯Ææ¼£ÈýÇ¿
-(0921
-16:16)
+(0921 16:16)
 Ð»ÄÈ·­Íê°×ÑÛÓûÍË³öÎè¶¯Ææ¼££¿
-(0916
-23:06)
+(0916 23:06)
 Ð»ÄÈ¼«Á¦Õü¾ÈÎè¶¯Ææ¼£µÄÁù´óÌúÖ¤
-(0916
-12:41)
+(0916 12:41)
 ÌÆÐ¦Ð»Ìì»ªÓÃÍêÃÀµÄÎè²½Õ÷·þÈ«³¡
-(0915
-23:52)
+(0915 23:52)
 Îè¶¯Ææ¼£Ð»ÄÈÊ§¿ØºóÕÅ½Ü¶ÔËýËµÁËÊ²Ã´
-(0914
-15:26)
+(0914 15:26)
 Ð»ÄÈ£ºÔÚ¡¶Îè¶¯Ææ¼£¡··¢ÉúµÄÒ»ÇÐ
 ÎÒÏëËµ¶Ô²»Æð
-(0914
-10:13)
+(0914 10:13)
 Ð»ÄÈÔÚÎè¶¯Ææ¼£µÄÊ§Ì¬ÊÇÅ¼È»ÖÐµÄ±ØÈ»
-(0913
-23:44)
+(0913 23:44)
 ÕÅ½ÜµÄÕæ°ÔÆøÓëÐ»ÄÈµÄÕæÐÔÇé
-(0913
-23:17)
+(0913 23:17)
 Ð»ÄÈµÄà½×ìºÍÕÅ½ÜµÄ°ÔÆø²úÉúÏÊÃ÷¶Ô±È
-(0913
-23:06)
+(0913 23:06)
 ¼ª½ÜÐ»ÄÈ×éºÏÔÚÎè¶¯Ææ¼£×î¾ß¹Ú¾üÏà
-(0908
-15:07)
+(0908 15:07)
 ÕÅ½ÜºÍÎè°éÍæÅüÍÈ£¬Ð»ÄÈ¸Ð¾õÈçºÎ£¿
-(0908
-14:06)
+(0908 14:06)
 Îè¶¯Ææ¼£×¢¶¨Îè²»³öÆæ¼££¿
-(0907
-15:18)
+(0907 15:18)
 ÕÅ½Ü¸ô°¶Ð¦¿´Ð»ÄÈ¡°×°ÄÛÂ¶µ×¡±(Í¼)
-(0906
-23:27)
+(0906 23:27)
 ¸ü¶àÄÚÈÝ
 Îè¶¯Ñ¡ÊÖ
 ×ÊÁÏ£ººþÄÏÎÀÊÓ¡¶Îè¶¯Ææ¼£¡·Ñ¡ÊÖ--Öì½­
-(0830
-23:34)
+(0830 23:34)
 ×ÊÁÏ£ººþÄÏÎÀÊÓ¡¶Îè¶¯Ææ¼£¡·Ñ¡ÊÖ--ÖÜÎÀÐÇ
-(0830
-23:34)
+(0830 23:34)
 ×ÊÁÏ£ººþÄÏÎÀÊÓ¡¶Îè¶¯Ææ¼£¡·Ñ¡ÊÖ--ÖÜ¼ÒÎµ
-(0830
-23:34)
+(0830 23:34)
 ×ÊÁÏ£ººþÄÏÎÀÊÓ¡¶Îè¶¯Ææ¼£¡·Ñ¡ÊÖ--ÕÅ¼ÎÄß
-(0830
-23:34)
+(0830 23:34)
 ×ÊÁÏ£ººþÄÏÎÀÊÓ¡¶Îè¶¯Ææ¼£¡·Ñ¡ÊÖ--ÕÅ½Ü
-(0830
-23:34)
+(0830 23:34)
 ×ÊÁÏ£ººþÄÏÎÀÊÓ¡¶Îè¶¯Ææ¼£¡·Ñ¡ÊÖ--Ô¬Î°ºÀ
-(0830
-23:34)
+(0830 23:34)
 ×ÊÁÏ£ººþÄÏÎÀÊÓ¡¶Îè¶¯Ææ¼£¡·Ñ¡ÊÖ--ÑîË¼çù
-(0830
-23:34)
+(0830 23:34)
 ×ÊÁÏ£ººþÄÏÎÀÊÓ¡¶Îè¶¯Ææ¼£¡·Ñ¡ÊÖ--Ð»Ìì»ª
-(0830
-23:34)
+(0830 23:34)
 ×ÊÁÏ£ººþÄÏÎÀÊÓ¡¶Îè¶¯Ææ¼£¡·Ñ¡ÊÖ--Ð»ÄÈ
-(0830
-23:34)
+(0830 23:34)
 ×ÊÁÏ£ººþÄÏÎÀÊÓ¡¶Îè¶¯Ææ¼£¡·Ñ¡ÊÖ--ÎâÀÖ¼Ò
-(0830
-23:34)
+(0830 23:34)
 ×ÊÁÏ£ººþÄÏÎÀÊÓ¡¶Îè¶¯Ææ¼£¡·Ñ¡ÊÖ--ÌÆÐ¦
-(0830
-23:34)
+(0830 23:34)
 ×ÊÁÏ£ººþÄÏÎÀÊÓ¡¶Îè¶¯Ææ¼£¡·Ñ¡ÊÖ--ÇØá°
-(0830
-23:34)
+(0830 23:34)
 ×ÊÁÏ£ººþÄÏÎÀÊÓ¡¶Îè¶¯Ææ¼£¡·Ñ¡ÊÖ--ÂíµÂÖÓ
-(0830
-23:34)
+(0830 23:34)
 ×ÊÁÏ£ººþÄÏÎÀÊÓ¡¶Îè¶¯Ææ¼£¡·Ñ¡ÊÖ--ÀîÑ§Çì
-(0830
-23:34)
+(0830 23:34)
 ×ÊÁÏ£ººþÄÏÎÀÊÓ¡¶Îè¶¯Ææ¼£¡·Ñ¡ÊÖ--½­¼ÎÁ¼
-(0830
-23:33)
+(0830 23:33)
 ×ÊÁÏ£ººþÄÏÎÀÊÓ¡¶Îè¶¯Ææ¼£¡·Ñ¡ÊÖ--¼ª½Ü
-(0830
-23:33)
+(0830 23:33)
 ×ÊÁÏ£ººþÄÏÎÀÊÓ¡¶Îè¶¯Ææ¼£¡·Ñ¡ÊÖ--»Æ³¤ÐË
-(0830
-23:33)
+(0830 23:33)
 ×ÊÁÏ£ººþÄÏÎÀÊÓ¡¶Îè¶¯Ææ¼£¡·Ñ¡ÊÖ--¹ùÏÛÄÝ
-(0830
-23:33)
+(0830 23:33)
 ×ÊÁÏ£ººþÄÏÎÀÊÓ¡¶Îè¶¯Ææ¼£¡·Ñ¡ÊÖ--³ÂÃôÖ®
-(0830
-23:33)
+(0830 23:33)
 ×ÊÁÏ£ººþÄÏÎÀÊÓ¡¶Îè¶¯Ææ¼£¡·Ñ¡ÊÖ--²ÜÃôÀò
-(0830
-23:33)
+(0830 23:33)
 ¸ü¶àÄÚÈÝ
 Ã÷ÐÇ²©¿Í
 Ð»ÄÈ

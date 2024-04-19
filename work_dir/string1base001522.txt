@@ -1,3 +1,1541 @@
+BenQ(Ã÷»ù)±Ê¼Ç±¾±¨¼Û
+-
+IT168
+Ê×Ò³
+¸öÈË
+ÆóÒµ
+±¨¼ÛÐÐÇé
+¾­ÏúÉÌ
+±Ê¼Ç±¾
+ÊÖ»ú
+ÊýÂëÓ°Ïñ
+Ïû·ÑÊýÂë
+DIYÓ²¼þ
+Í¶Ó°»ú
+¼ÒÓÃµçÄÔ
+ÉÌÓÃµçÄÔ
+°ì¹«
+Çý¶¯
+Íø¿¯
+ÂÛÌ³
+×ÊÑ¶
+ÆÀ²â
+ÏÂÔØ
+¼¼Êõ¿ª·¢
+ÐÅÏ¢»¯
+·þÎñÆ÷
+´æ´¢
+ÍøÂçÍ¨ÐÅ
+°²È«
+GPSµ¼º½
+ÎÞÏßµç
+Êý×Ö¼Òµç
+¼ÒÍ¥×éÍø
+´òÓ¡
+É¨Ãè
+Ñ§Ôº
+Èí¼þ
+µÇÂ¼|×¢²á
+ÐÅÏä
+EÔÓÖ¾
+ÄúµÄÎ»ÖÃ£ºÊ×Ò³
+±¨¼ÛÐÐÇé
+±Ê¼Ç±¾
+±Ê¼Ç±¾²úÆ·ÁÐ±í
+BenQ(Ã÷»ù)±Ê¼Ç±¾
+²úÆ·ÁÐ±í
+²úÆ·É¸Ñ¡
+Çë¹´Ñ¡»òµã»÷Ïà¹Ø²úÆ·²ÎÊý£¬½øÒ»²½Ñ¡Ôñ·ûºÏÄúÒªÇóµÄ²úÆ·
+Æ·ÅÆ
+Acer/ºê³ž
+BenQ/Ã÷»ù
+DELL/´÷¶û
+GATEWAY
+GETAC
+HP/»ÝÆÕ
+LG
+MSI/Î¢ÐÇ
+OQO
+SONY/Ë÷Äá
+TCL
+ThinkPad/IBM
+³¤³Ç/Greatwall
+¶«Ö¥/TOSHIBA
+·½Õý/Founder
+¸»Ê¿Í¨/FUJITSU
+º£¶û/Haier
+ººÍõ/HW
+»ªË¶/ASUS
+ÁªÏë/lenovo
+Æ½ÖÎ¶«·½
+Æ»¹û/Apple
+ÆßÏ²/HEDY
+Çå»ªÍ¬·½
+Çå»ª×Ï¹â/thunis
+ÈýÐÇ/SAMSUNG
+ÉñÖÛ/HASEE
+ËÉÏÂ/Panasonic
+ÐÂÀ¶/XINLAN
+¼Û¸ñÇø¼ä
+1
+Ôª
+-
+4000
+Ôª
+4001
+Ôª
+-
+5000
+Ôª
+5001
+Ôª
+-
+6000
+Ôª
+6001
+Ôª
+-
+7000
+Ôª
+7001
+Ôª
+-
+8000
+Ôª
+8001
+Ôª
+-
+10000
+Ôª
+10001
+Ôª
+-
+12000
+Ôª
+12001
+Ôª
+-
+15000
+Ôª
+15001
+Ôª
+ÒÔÉÏ
+±Ê¼Ç±¾ÀàÐÍ
+UMPCÕÆÉÏÐÍ
+±¡°å¼Ò¾ÓÐÍ
+Æ½°åÊÖÐ´ÐÍ
+Çá±¡±ãÐ¯ÐÍ
+ÈëÃÅÆÕ¼°ÐÍ
+ÉÌÎñÓ¦ÓÃÐÍ
+Ó°Òô¼ÒÍ¥ÐÍ
+ÓéÀÖÓÎÏ·ÐÍ
+´¦ÀíÆ÷Æ·ÅÆ
+AMD
+Intel£¨Ó¢ÌØ¶û£©
+VIA£¨ÍþÊ¢£©
+´¦ÀíÆ÷ÏµÁÐ
+Celeron(ÈüÑï)M
+Core
+2
+Duo(¿áî£2)
+Core
+2
+Solo(¿áî£2)
+Core
+2
+XE(¿áî£2)
+Core
+Duo(¿áî£)
+Core
+Solo(¿áî£)
+Pentium
+Dual-Core
+Pentium(±¼ÌÚ)M
+Turion(ìÅÁú)64
+Turion(ìÅÁú)64
+X2
+XScale
+ÍþÊ¢C7-M
+ÒÆ¶¯°æÉÁÁú
+ÒÆ¶¯°æË«ºËËÙÁú64
+Ñ¸³Û¼¼Êõ
+²»Ö§³Ö
+Ñ¸³Û(Centrino)
+Ñ¸³ÛII(Sonoma)
+Ñ¸³ÛIII(Napa)
+Ñ¸³ÛIV(Santa Rosa)
+±ê³ÆÖ÷Æµ(MHz)
+1000MHzÒÔÏÂ
+1000MHz¡«1500MHz
+1500MHz¡«2000MHz
+2000MHz¡«2500MHz
+2500MHzÒÔÉÏ
+±ê×¼ÄÚ´æÈÝÁ¿(MB)
+64
+256
+512
+1024
+1280
+2048
+2560
+4096
+Ó²ÅÌÈÝÁ¿
+100GB
+120GB
+160GB
+200GB
+20GB
+250GB
+30GB
+320GB
+32GB
+32GB£¨ÉÁ´æ£©+160GB
+40GB
+48GB£¨ÉÁ´æ£©
+4GB
+500GB
+60GB
+80GB
+ÏÔÊ¾ÆÁ³ß´ç(Ó¢´ç)
+12Ó¢´çÒÔÏÂ
+12-14Ó¢´ç
+14-15Ó¢´ç
+15Ó¢´çÒÔÉÏ
+ÆÁÄ»±ÈÀý
+4£º3
+¿íÆÁ
+ÏÔ¿¨ÀàÐÍ
+¶ÀÁ¢/¼¯³ÉÏÔ¿¨
+¶ÀÁ¢ÏÔ¿¨
+¼¯³ÉÏÔ¿¨
+Ö¸ÎÆÊ¶±ð
+²»Ö§³Ö
+Ö§³Ö
+¹âÇýÈíÇýÎ»ÖÃ
+¹âÇýÄÚÖÃ
+¹âÈí»¥»»
+È«ÍâÖÃ
+ÖØÁ¿(kg)
+1KgÒÔÏÂ
+1-1.5Kg
+1.5-2Kg
+2-3Kg
+3KgÒÔÉÏ
+ÏÔÊ¾¸ü¶àÉ¸Ñ¡Ìõ¼þ£º
+´¦ÀíÆ÷Æ·ÅÆ
+´¦ÀíÆ÷ÏµÁÐ
+Ñ¸³Û¼¼Êõ
+±ê³ÆÖ÷Æµ(MHz)
+±ê×¼ÄÚ´æÈÝÁ¿(MB)
+Ó²ÅÌÈÝÁ¿
+ÏÔÊ¾ÆÁ³ß´ç(Ó¢´ç)
+ÆÁÄ»±ÈÀý
+ÏÔ¿¨ÀàÐÍ
+Ö¸ÎÆÊ¶±ð
+¹âÇýÈíÇýÎ»ÖÃ
+ÖØÁ¿(kg)
+Çå¿ÕÖØÌî·ûºÏÄãµ±Ç°Ñ¡ÔñµÄÓÐ
+72
+¿î
+²úÆ·ÅÅÐò
+¹Ø×¢¸ß¡úµÍ
+ÍÆ¼öÖ¸Êý¸ß¡úµÍ
+¼Û¸ñ¸ß¡úµÍ
+¼Û¸ñµÍ¡ú¸ß
+ÉÏÊÐÊ±¼äÐÂ¡ú¾É
+ÆÀÂÛ¶à¡úÉÙ
+¾­ÏúÉÌ¶à¡úÉÙ
+¹²72¿î²úÆ·£¬µÚ1Ò³/¹²5Ò³
+¶Ô²»Æð£¬Äú²éÑ¯µÄ²úÆ·ÔÝÊ±Ã»ÓÐ±¨¼Û£¬ÇëÖØÐÂ²éÑ¯£¡
+±È
+BenQ
+Joybook
+R43(LC02)
+£¤5700Ôª
+ÍÆ¼öÖ¸Êý
+61
+´¦ÀíÆ÷ÀàÐÍ:Core
+2
+Duo
+T5250\±ê³ÆÖ÷Æµ(MHz):1500\±ê×¼ÄÚ´æÈÝÁ¿(MB):1024\Ó²ÅÌÈÝÁ¿:120GB\ÏÔÊ¾ÆÁ³ß´ç(Ó¢´ç):14.1\ÖØÁ¿(kg):2.38......
+[¸ü¶à²ÎÊý]
+[Õ÷¼¯ÊÖ²á]
+²é¿´ÉÌ¼Ò±¨¼Û
+±à¼­µãÆÀ
+·¢±íÆÀÂÛ
+»ñ1¸ö½±Ïî
+ÓÐÎÊ±Ø´ð
+¡¤¶þÏßÆ·ÅÆ×¢ÖØ¸öÐÔ
+ÒÔµã´øÃæÍ»ÆÆÎ§½ËÕ½
+¡¤¶þÏßÆ·ÅÆ×¢ÖØ¸öÐÔ
+ÒÔµã´øÃæÍ»ÆÆÎ§½ËÕ½
+[¹²21ÆªÏà¹ØÎÄÕÂ]
+±È
+BenQ
+Joybook
+C41(101)
+£¤4688Ôª
+ÍÆ¼öÖ¸Êý
+56
+´¦ÀíÆ÷ÀàÐÍ:Core
+Duo
+T2080\±ê³ÆÖ÷Æµ(MHz):1730\±ê×¼ÄÚ´æÈÝÁ¿(MB):512\Ó²ÅÌÈÝÁ¿:80GB\ÏÔÊ¾ÆÁ³ß´ç(Ó¢´ç):14.1\ÖØÁ¿(kg):2.3......
+[¸ü¶à²ÎÊý]
+[ÓÃ»§ÊÖ²á]
+²é¿´ÉÌ¼Ò±¨¼Û
+±à¼­µãÆÀ
+¹²1ÌõÆÀÂÛ
+ÔÝÎÞ½±Ïî
+ÓÐÎÊ±Ø´ð
+¡¤Ë­ËµµÍ¼Û¾ÍÃ»ºÃ»õ£¿3999Ôª±Ê¼Ç±¾´óÍÆ¼ö...
+¡¤Ë­ËµµÍ¼Û¾ÍÃ»ºÃ»õ£¿3999Ôª±Ê¼Ç±¾´óÍÆ¼ö...
+[¹²11ÆªÏà¹ØÎÄÕÂ]
+±È
+BenQ
+Joybook
+C42(103)
+£¤4999Ôª
+ÍÆ¼öÖ¸Êý
+56
+´¦ÀíÆ÷ÀàÐÍ:Core
+Duo
+T2350\±ê³ÆÖ÷Æµ(MHz):1860\±ê×¼ÄÚ´æÈÝÁ¿(MB):512\Ó²ÅÌÈÝÁ¿:80GB\ÏÔÊ¾ÆÁ³ß´ç(Ó¢´ç):14.1\ÖØÁ¿(kg):2......
+[¸ü¶à²ÎÊý]
+[ÓÃ»§ÊÖ²á]
+²é¿´ÉÌ¼Ò±¨¼Û
+±à¼­µãÆÀ
+¹²12ÌõÆÀÂÛ
+ÔÝÎÞ½±Ïî
+ÓÐÎÊ±Ø´ð
+¡¤[³¤É³]Ã÷»ùÉÌÎñ»úC42-103
+½öÊÛ5999Ôª
+¡¤[³É¶¼]ÉÌÎñ¼ÑÑ¡£¡BenQË«ºË±¾½öÊÛ5200Ôª...
+[¹²5ÆªÏà¹ØÎÄÕÂ]
+±È
+BenQ
+Joybook
+A52E(104)
+£¤3888Ôª
+ÍÆ¼öÖ¸Êý
+57
+´¦ÀíÆ÷ÀàÐÍ:Celeron-M
+440\±ê³ÆÖ÷Æµ(MHz):1860\±ê×¼ÄÚ´æÈÝÁ¿(MB):512\Ó²ÅÌÈÝÁ¿:80GB\ÏÔÊ¾ÆÁ³ß´ç(Ó¢´ç):15.4\ÖØÁ¿(kg):2.5......
+[¸ü¶à²ÎÊý]
+[ÓÃ»§ÊÖ²á]
+²é¿´ÉÌ¼Ò±¨¼Û
+±à¼­µãÆÀ
+¹²23ÌõÆÀÂÛ
+ÔÝÎÞ½±Ïî
+ÓÐÎÊ±Ø´ð
+¡¤[Ö£ÖÝ]½ö3799Ôª
+Ã÷»ùÁÁÆÁA52EÔÙ´´ÐÂµÍ
+¡¤[Ö£ÖÝ]15´ç¸ßÁÁ±ãÐ¯
+Ã÷»ùA52EµÍ¼ÛËÍÀñ
+[¹²37ÆªÏà¹ØÎÄÕÂ]
+±È
+BenQ
+Joybook
+R42(119)
+£¤4800Ôª
+ÍÆ¼öÖ¸Êý
+57
+´¦ÀíÆ÷ÀàÐÍ:Core
+Duo
+T2450\±ê³ÆÖ÷Æµ(MHz):2000\±ê×¼ÄÚ´æÈÝÁ¿(MB):512\Ó²ÅÌÈÝÁ¿:80GB\ÏÔÊ¾ÆÁ³ß´ç(Ó¢´ç):14.1\ÖØÁ¿(kg):2.3......
+[¸ü¶à²ÎÊý]
+[ÓÃ»§ÊÖ²á]
+²é¿´ÉÌ¼Ò±¨¼Û
+±à¼­µãÆÀ
+¹²16ÌõÆÀÂÛ
+ÔÝÎÞ½±Ïî
+ÓÐÎÊ±Ø´ð
+¡¤[À¥Ã÷]T2450Ë«ºË
+Ã÷»ùR42ÎÞÏß±¾±Æ½ü5K
+¡¤[±±¾©]¾Ü¾øÈüÑï
+Ã÷»ùË«ºËÎÞÏß±¾½ö4800
+[¹²2ÆªÏà¹ØÎÄÕÂ]
+±È
+BenQ
+Joybook
+A52E(107)
+£¤3900Ôª
+ÍÆ¼öÖ¸Êý
+57
+´¦ÀíÆ÷ÀàÐÍ:Celeron-M
+520\±ê³ÆÖ÷Æµ(MHz):1600\±ê×¼ÄÚ´æÈÝÁ¿(MB):512\Ó²ÅÌÈÝÁ¿:80GB\ÏÔÊ¾ÆÁ³ß´ç(Ó¢´ç):15.4\ÖØÁ¿(kg):2.5......
+[¸ü¶à²ÎÊý]
+[ÓÃ»§ÊÖ²á]
+²é¿´ÉÌ¼Ò±¨¼Û
+±à¼­µãÆÀ
+¹²25ÌõÆÀÂÛ
+ÔÝÎÞ½±Ïî
+ÓÐÎÊ±Ø´ð
+¡¤[ÄÏ¾©]15.4Ó¢´çÀöÆÁ
+Ã÷»ùA52E½öÓÐ3999
+¡¤[À¥Ã÷]MeromºËÐÄ
+Ã÷»ùö¦Àö¿íÆÁ±¾ÊÛ3XXX...
+[¹²8ÆªÏà¹ØÎÄÕÂ]
+±È
+BenQ
+Joybook
+C41E(104)
+£¤3999Ôª
+ÍÆ¼öÖ¸Êý
+60
+´¦ÀíÆ÷ÀàÐÍ:Celeron-M
+440\±ê³ÆÖ÷Æµ(MHz):1860\±ê×¼ÄÚ´æÈÝÁ¿(MB):512\Ó²ÅÌÈÝÁ¿:80GB\ÏÔÊ¾ÆÁ³ß´ç(Ó¢´ç):14.1\ÖØÁ¿(kg):2.3......
+[¸ü¶à²ÎÊý]
+[ÓÃ»§ÊÖ²á]
+²é¿´ÉÌ¼Ò±¨¼Û
+±à¼­µãÆÀ
+¹²4ÌõÆÀÂÛ
+ÔÝÎÞ½±Ïî
+ÓÐÎÊ±Ø´ð
+¡¤[À¥Ã÷]YonahºËÐÄ
+Ã÷»ùÔÙÏÖ3999ÔªÊµÓÃ±¾...
+¡¤[ÄÏ¾©]Õë¶ÔÐÂÉú
+Ã÷»ù3999Ôª±¾±¾ËÍÊó±ê
+[¹²9ÆªÏà¹ØÎÄÕÂ]
+±È
+BenQ
+Joybook
+C42E(102)
+£¤4300Ôª
+ÍÆ¼öÖ¸Êý
+55
+´¦ÀíÆ÷ÀàÐÍ:Celeron-M
+440\±ê³ÆÖ÷Æµ(MHz):1860\±ê×¼ÄÚ´æÈÝÁ¿(MB):512\Ó²ÅÌÈÝÁ¿:80GB\ÏÔÊ¾ÆÁ³ß´ç(Ó¢´ç):14.1\ÖØÁ¿(kg):2......
+[¸ü¶à²ÎÊý]
+[Õ÷¼¯ÊÖ²á]
+²é¿´ÉÌ¼Ò±¨¼Û
+±à¼­µãÆÀ
+¹²6ÌõÆÀÂÛ
+ÔÝÎÞ½±Ïî
+ÓÐÎÊ±Ø´ð
+¡¤[Ö£ÖÝ]3999ÅäÎÞÏß
+Ã÷»ùC42E±¾µÍ¼ÛÉ±ÖÁ
+¡¤[¼ÃÄÏ]YonahÈüÑï
+Ã÷»ùÊ±ÉÐÐÂ±¾ÏÖÊÛ5500...
+[¹²2ÆªÏà¹ØÎÄÕÂ]
+±È
+BenQ
+Joybook
+C42(101)
+£¤6600Ôª
+ÍÆ¼öÖ¸Êý
+54
+´¦ÀíÆ÷ÀàÐÍ:Core
+2
+Duo
+T5500\±ê³ÆÖ÷Æµ(MHz):1660\±ê×¼ÄÚ´æÈÝÁ¿(MB):512\Ó²ÅÌÈÝÁ¿:80GB\ÏÔÊ¾ÆÁ³ß´ç(Ó¢´ç):14.1\ÖØÁ¿(kg):2......
+[¸ü¶à²ÎÊý]
+[ÓÃ»§ÊÖ²á]
+²é¿´ÉÌ¼Ò±¨¼Û
+±à¼­µãÆÀ
+¹²2ÌõÆÀÂÛ
+ÔÝÎÞ½±Ïî
+ÓÐÎÊ±Ø´ð
+¡¤[¼ÃÄÏ]¿áî£2Ë«ºË
+Ã÷»ùÊ±ÉÐC42ÓûÆÆ7000
+¡¤[¼ÃÄÏ]Ã÷»ùC42ÉÌÎñ±¾±¾Êî´Ù½öÊÛ6999Ôª
+[¹²8ÆªÏà¹ØÎÄÕÂ]
+±È
+BenQ
+Joybook
+R42(106)
+£¤4999Ôª
+ÍÆ¼öÖ¸Êý
+56
+´¦ÀíÆ÷ÀàÐÍ:Core
+Duo
+T2350\±ê³ÆÖ÷Æµ(MHz):1860\±ê×¼ÄÚ´æÈÝÁ¿(MB):512\Ó²ÅÌÈÝÁ¿:80GB\ÏÔÊ¾ÆÁ³ß´ç(Ó¢´ç):14.1\ÖØÁ¿(kg):2.3......
+[¸ü¶à²ÎÊý]
+[ÓÃ»§ÊÖ²á]
+²é¿´ÉÌ¼Ò±¨¼Û
+±à¼­µãÆÀ
+¹²3ÌõÆÀÂÛ
+ÔÝÎÞ½±Ïî
+ÓÐÎÊ±Ø´ð
+¡¤[À¥Ã÷]µÍ¼Û²»¶Ï
+Ã÷»ùT2350Ë«ºË±¾½ö4999...
+¡¤[±±¾©]4999Ò²·è¿ñ
+Ã÷»ùË«ºË±¾ÖØÈ­³ö»÷
+[¹²2ÆªÏà¹ØÎÄÕÂ]
+±È
+BenQ
+Joybook
+R42(110)
+£¤6800Ôª
+ÍÆ¼öÖ¸Êý
+56
+´¦ÀíÆ÷ÀàÐÍ:Core
+2
+Duo
+T5500\±ê³ÆÖ÷Æµ(MHz):1660\±ê×¼ÄÚ´æÈÝÁ¿(MB):512\Ó²ÅÌÈÝÁ¿:120GB\ÏÔÊ¾ÆÁ³ß´ç(Ó¢´ç):14.1\ÖØÁ¿(kg):2.3......
+[¸ü¶à²ÎÊý]
+[ÓÃ»§ÊÖ²á]
+²é¿´ÉÌ¼Ò±¨¼Û
+±à¼­µãÆÀ
+¹²3ÌõÆÀÂÛ
+ÔÝÎÞ½±Ïî
+ÓÐÎÊ±Ø´ð
+±È
+BenQ
+Joybook
+C41E(103)
+£¤3888Ôª
+ÍÆ¼öÖ¸Êý
+60
+´¦ÀíÆ÷ÀàÐÍ:Celeron-M
+440\±ê³ÆÖ÷Æµ(MHz):1860\±ê×¼ÄÚ´æÈÝÁ¿(MB):512\Ó²ÅÌÈÝÁ¿:80GB\ÏÔÊ¾ÆÁ³ß´ç(Ó¢´ç):14.1\ÖØÁ¿(kg):2.3......
+[¸ü¶à²ÎÊý]
+[ÓÃ»§ÊÖ²á]
+²é¿´ÉÌ¼Ò±¨¼Û
+±à¼­µãÆÀ
+¹²5ÌõÆÀÂÛ
+ÔÝÎÞ½±Ïî
+ÓÐÎÊ±Ø´ð
+¡¤¿ÉÒÔ²»Âò²»ÄÜ²»¿´
+Ò»ÏßÆ·ÅÆÆëÍÆ3999±Ê¼Ç...
+¡¤[Îäºº]Ã÷»ù3999!
+2.3Ç§¿ËC41EÇÀÕ¼µÍ¶Ë
+[¹²11ÆªÏà¹ØÎÄÕÂ]
+±È
+BenQ
+Joybook
+C41E(105)
+£¤4299Ôª
+ÍÆ¼öÖ¸Êý
+55
+´¦ÀíÆ÷ÀàÐÍ:Celeron-M
+520\±ê³ÆÖ÷Æµ(MHz):1600\±ê×¼ÄÚ´æÈÝÁ¿(MB):512\Ó²ÅÌÈÝÁ¿:80GB\ÏÔÊ¾ÆÁ³ß´ç(Ó¢´ç):14.1\ÖØÁ¿(kg):2.3......
+[¸ü¶à²ÎÊý]
+[ÓÃ»§ÊÖ²á]
+²é¿´ÉÌ¼Ò±¨¼Û
+±à¼­µãÆÀ
+¹²2ÌõÆÀÂÛ
+ÔÝÎÞ½±Ïî
+ÓÐÎÊ±Ø´ð
+±È
+BenQ
+Joybook
+C42(552B)
+£¤6700Ôª
+ÍÆ¼öÖ¸Êý
+55
+´¦ÀíÆ÷ÀàÐÍ:Core
+2
+Duo
+T5500\±ê³ÆÖ÷Æµ(MHz):1660\±ê×¼ÄÚ´æÈÝÁ¿(MB):512\Ó²ÅÌÈÝÁ¿:80GB\ÏÔÊ¾ÆÁ³ß´ç(Ó¢´ç):14.1\ÖØÁ¿(kg):2......
+[¸ü¶à²ÎÊý]
+[ÓÃ»§ÊÖ²á]
+²é¿´ÉÌ¼Ò±¨¼Û
+±à¼­µãÆÀ
+·¢±íÆÀÂÛ
+ÔÝÎÞ½±Ïî
+ÓÐÎÊ±Ø´ð
+±È
+BenQ
+Joybook
+R41E(107)
+£¤4200Ôª
+ÍÆ¼öÖ¸Êý
+54
+´¦ÀíÆ÷ÀàÐÍ:Celeron-M
+430\±ê³ÆÖ÷Æµ(MHz):1730\±ê×¼ÄÚ´æÈÝÁ¿(MB):512\Ó²ÅÌÈÝÁ¿:80GB\ÏÔÊ¾ÆÁ³ß´ç(Ó¢´ç):14.1\ÖØÁ¿(kg):2.3......
+[¸ü¶à²ÎÊý]
+[ÓÃ»§ÊÖ²á]
+²é¿´ÉÌ¼Ò±¨¼Û
+±à¼­µãÆÀ
+¹²15ÌõÆÀÂÛ
+ÔÝÎÞ½±Ïî
+ÓÐÎÊ±Ø´ð
+¡¤[Î÷°²¿ìÑ¶]Ó­ÎåÒ»Ã÷»ù±¾±¾µÍ¼Û±§»Ø¼Ò
+¡¤[¼ÃÄÏ]YonahºËÐÄÈüÑï
+Ã÷»ùR41E±¾ÊÛ5599...
+[¹²5ÆªÏà¹ØÎÄÕÂ]
+1
+2
+3
+4
+5
+µ½µÚ
+Ò³
+ÆäËû²úÆ·ÏßËÑË÷
+£º
+²úÆ·´óÀà
+Õû»ú
+ÊýÂë
+Ö÷»úÅä¼þ
+Íâ½ÓÅä¼þ
+°ì¹«
+ÍøÂç
+ºÄ²Ä
+ÎÞÏßÍø
+ÍøÂç´æ´¢
+»ú·¿²¼Ïß
+ÒÆ¶¯´æ´¢
+Í¨Ñ¶²úÆ·
+ÏÔÊ¾Éè±¸
+ÓïÒôÊÓÆµ
+×¨ÒµÓ¡ÖÆ
+Æû³µµç×Ó
+Êý×Ö¼Òµç
+Èí¼þ²úÆ·
+²úÆ·Àà±ð
+È«²¿±Ê¼Ç±¾Æ·ÅÆÁÐ±í
+Acer(ºê³ž)±Ê¼Ç±¾
+BenQ(Ã÷»ù)±Ê¼Ç±¾
+DELL(´÷¶û)±Ê¼Ç±¾
+GATEWAY±Ê¼Ç±¾
+GETAC±Ê¼Ç±¾
+HP(»ÝÆÕ)±Ê¼Ç±¾
+LG±Ê¼Ç±¾
+MSI(Î¢ÐÇ)±Ê¼Ç±¾
+OQO±Ê¼Ç±¾
+SONY(Ë÷Äá)±Ê¼Ç±¾
+TCL±Ê¼Ç±¾
+ThinkPad(IBM)±Ê¼Ç...
+³¤³Ç(Greatwall)±Ê...
+¶«Ö¥(TOSHIBA)±Ê¼Ç...
+·½Õý(Founder)±Ê¼Ç...
+¸»Ê¿Í¨(FUJITSU)±Ê...
+º£¶û(Haier)±Ê¼Ç±¾...
+ººÍõ(HW)±Ê¼Ç±¾
+»ªË¶(ASUS)±Ê¼Ç±¾
+ÁªÏë(lenovo)±Ê¼Ç±¾...
+Æ½ÖÎ¶«·½±Ê¼Ç±¾
+Æ»¹û(Apple)±Ê¼Ç±¾...
+ÆßÏ²(HEDY)±Ê¼Ç±¾
+Çå»ªÍ¬·½±Ê¼Ç±¾
+Çå»ª×Ï¹â(thunis)±Ê...
+ÈýÐÇ(SAMSUNG)±Ê¼Ç...
+ÉñÖÛ(HASEE)±Ê¼Ç±¾...
+ËÉÏÂ(Panasonic)±Ê...
+ÐÂÀ¶(XINLAN)±Ê¼Ç±¾...
+ÐÂÀ¶(XINLAN)±Ê¼Ç±¾"
+target="_blank">ÐÂÀ¶(XINLAN)±Ê¼Ç±¾...
+71-->ÐÂÀ¶(XINLAN)±Ê¼Ç±¾"
+target="_blank">ÐÂÀ¶(XINLAN)±Ê¼Ç±¾...
+71-->ÐÂÀ¶(XINLAN)±Ê¼Ç±¾"
+target="_blank">ÐÂÀ¶(XINLAN)±Ê¼Ç±¾...
+Ê¼Ç±¾"
+target="_blank">ÐÂÀ¶(XINLAN)±Ê¼Ç±¾...
+Ê¼Ç±¾"
+target="_blank">ÐÂÀ¶(XINLAN)±Ê¼Ç±¾...
+¤7„1¤7„1¤7„1¤72-->Ê¼Ç±¾"
+target="_blank">ÐÂÀ¶(XINLAN)±Ê¼Ç±¾...
+¸ü¶àBenQ±Ê¼Ç±¾ÐÂÆ·TOP8
+BenQ
+Joybook
+R43
+BenQ
+Joybook
+R43
+BenQ
+Joybook
+T31W
+BenQ
+Joybook
+A52E
+BenQ
+Joybook
+A52
+BenQ
+Joybook
+A52
+BenQ
+Joybook
+T31E
+BenQ
+Joybook
+S31V
+l'
+target="_blank"
+title='BenQ
+Joybook
+S31V(127)'>
+->l'
+target="_blank"
+title='BenQ
+Joybook
+S31V(127)'>
+¸ü¶àBenQ±Ê¼Ç±¾¹Ø×¢TOP8
+BenQ
+Joybook
+R43
+BenQ
+Joybook
+S41
+BenQ
+Joybook
+A52E
+BenQ
+Joybook
+A52E
+BenQ
+Joybook
+R43
+BenQ
+Joybook
+C41E
+BenQ
+Joybook
+S31VEW
+BenQ
+Joybook
+C42
+'BenQ
+Joybook
+C42(101)'>
+¸ü¶à±Ê¼Ç±¾Æ·ÅÆTOP8
+HP/»ÝÆÕ
+ÁªÏë/lenovo
+»ªË¶/ASUS
+SONY/Ë÷Äá
+DELL/´÷¶û
+Acer/ºê³ž
+ThinkPad/IBM
+ÉñÖÛ/HASEE
+±Ê¼Ç±¾Ñ¡¹º±¦µä
+NEW
+!
+²úÆ·Ó¦ÓÃÀàÐÍ
+Å®ÐÔ±Ê¼Ç±¾
+±ãÐ¯±Ê¼Ç±¾
+µÍ¼Û±Ê¼Ç±¾
+ÉÌÎñ±Ê¼Ç±¾
+ÓÎÏ·¼°Ó°Òô±Ê¼Ç±¾
+¸ü¶àÓ¦ÓÃÀàÐÍÏê½â
+Æ·ÅÆÏµÁÐ·ÖÀà
+IBM
+TÏµÁÐ
+XÏµÁÐ
+RÏµÁÐ
+HP
+PavalionÏµÁÐ
+PresarioÏµÁÐ
+EvoÏµÁÐ
+¸ü¶àÆ·ÅÆÏµÁÐÏê½â
+-->
+ÊõÓïÏê½â
+±Ê¼Ç±¾ÀàÐÍ
+CPUÆ·ÅÆ
+ÏµÁÐÐÍºÅ
+ÒÆ¶¯°æCPU
+CPUºËÐÄ
+Ñ¸³ÛÒÆ¶¯¼ÆËã¼¼Êõ
+´¦ÀíÆ÷Ö÷Æµ
+´¦ÀíÆ÷»º´æ
+Ö÷°åÐ¾Æ¬×é
+Ç°¶Ë×ÜÏßÆµÂÊ
+ÄÚ´æÀàÐÍ
+±ê×¼ÄÚ´æÈÝÁ¿
+¸ü¶àÊõÓïÏê½â
+±¾Ò³ÊÇIT168±¨¼ÛÖÐÐÄÎªÄúÌá¹©µÄBenQ±Ê¼Ç±¾²úÆ·×îÐÂ±¨¼Û£¬ÄÒÀ¨ÁË²ÎÊý¡¢ÆÀ²â¡¢Í¼Æ¬¡¢ÆÀÂÛ¡¢½±ÏîµÈÐÅÏ¢£¬ÊÇÃ÷»ù±Ê¼Ç±¾
+²úÆ·µÄÈ¨ÍþÊý¾Ý¿â¡£ÎÒÃÇ»á¾¡È«Á¦ÎªÄúÌá¹©×¼È·¡¢È«Ãæ
+µÄ²úÆ·ÐÅÏ¢£¬µ«²»¶ÔÐÅÏ¢ÖÐ¿ÉÄÜ³öÏÖµÄ´íÎó»òÒÅÂ©³Ðµ£ÔðÈÎ¡£ÄúÔÚÑ¡¹º²úÆ·Ç°Çë×ÐÏ¸Ñ¯ÎÊ¾­ÏúÉÌÓÐ¹Ø²úÆ·µÄÊµ¼ÊÅäÖÃ¡¢Íâ¹ÛÒÔ¼°¼Û¸ñµÈ¡£
+¹ØÓÚð©³½
+|
+¹ØÓÚIT168
+|
+ºÏ×÷»ï°é
+|
+¹ã¸æ·þÎñ
+|
+Ê¹ÓÃÌõ¿î
+|
+Í¶¸åÖ¸ÄÏ
+|
+³ÏÆ¸¾«Ó¢
+|
+ÁªÏµÎÒÃÇ
+|
+·¨ÂÉ¹ËÎÊ
+|
+ÍøÕ¾µØÍ¼
+|
+·±Ìå°æ
+CopyRight
+1999-2007
+www.it168.com
+All
+Right
+Reserved.
+±±¾©ð©³½ÍøÓòÍøÂçÐÅÏ¢¼¼ÊõÓÐÏÞ¹«Ë¾.
+°æÈ¨ËùÓÐ
+¾©ICPÖ¤:060528ºÅ
+-->
+Ö¾ºÏÐËÒµ
+010-51722073
+51722071
+ÁªÏµÈË£ºÏúÊÛ²¿
+Ö÷Óª²úÆ·£º
+IBM±Ê¼Ç±¾
+DELL±Ê¼Ç±¾
+ÉÌ¼ÒÉÏÏßÊ±¼ä£º07Äê11ÔÂ
+±Ê¼Ç±¾±¨¼Û
+-
+IT168
+Ê×Ò³
+¸öÈË
+ÆóÒµ
+±¨¼ÛÐÐÇé
+¾­ÏúÉÌ
+±Ê¼Ç±¾
+ÊÖ»ú
+ÊýÂëÓ°Ïñ
+Ïû·ÑÊýÂë
+DIYÓ²¼þ
+Í¶Ó°»ú
+¼ÒÓÃµçÄÔ
+ÉÌÓÃµçÄÔ
+°ì¹«
+Çý¶¯
+Íø¿¯
+ÂÛÌ³
+×ÊÑ¶
+ÆÀ²â
+ÏÂÔØ
+¼¼Êõ¿ª·¢
+ÐÅÏ¢»¯
+·þÎñÆ÷
+´æ´¢
+ÍøÂçÍ¨ÐÅ
+°²È«
+GPSµ¼º½
+ÎÞÏßµç
+Êý×Ö¼Òµç
+¼ÒÍ¥×éÍø
+´òÓ¡
+É¨Ãè
+Ñ§Ôº
+Èí¼þ
+µÇÂ¼|×¢²á
+ÐÅÏä
+EÔÓÖ¾
+ÄúµÄÎ»ÖÃ£ºÊ×Ò³
+±¨¼ÛÐÐÇé
+±Ê¼Ç±¾
+±Ê¼Ç±¾²úÆ·ÁÐ±í
+²úÆ·ÁÐ±í
+²úÆ·É¸Ñ¡
+Çë¹´Ñ¡»òµã»÷Ïà¹Ø²úÆ·²ÎÊý£¬½øÒ»²½Ñ¡Ôñ·ûºÏÄúÒªÇóµÄ²úÆ·
+Æ·ÅÆ
+Acer/ºê³ž
+BenQ/Ã÷»ù
+DELL/´÷¶û
+GATEWAY
+GETAC
+HP/»ÝÆÕ
+LG
+MSI/Î¢ÐÇ
+OQO
+SONY/Ë÷Äá
+TCL
+ThinkPad/IBM
+³¤³Ç/Greatwall
+¶«Ö¥/TOSHIBA
+·½Õý/Founder
+¸»Ê¿Í¨/FUJITSU
+º£¶û/Haier
+ººÍõ/HW
+»ªË¶/ASUS
+ÁªÏë/lenovo
+Æ½ÖÎ¶«·½
+Æ»¹û/Apple
+ÆßÏ²/HEDY
+Çå»ªÍ¬·½
+Çå»ª×Ï¹â/thunis
+ÈýÐÇ/SAMSUNG
+ÉñÖÛ/HASEE
+ËÉÏÂ/Panasonic
+ÐÂÀ¶/XINLAN
+¼Û¸ñÇø¼ä
+1
+Ôª
+-
+4000
+Ôª
+4001
+Ôª
+-
+5000
+Ôª
+5001
+Ôª
+-
+6000
+Ôª
+6001
+Ôª
+-
+7000
+Ôª
+7001
+Ôª
+-
+8000
+Ôª
+8001
+Ôª
+-
+10000
+Ôª
+10001
+Ôª
+-
+12000
+Ôª
+12001
+Ôª
+-
+15000
+Ôª
+15001
+Ôª
+ÒÔÉÏ
+±Ê¼Ç±¾ÀàÐÍ
+UMPCÕÆÉÏÐÍ
+±¡°å¼Ò¾ÓÐÍ
+Æ½°åÊÖÐ´ÐÍ
+Çá±¡±ãÐ¯ÐÍ
+ÈëÃÅÆÕ¼°ÐÍ
+ÉÌÎñÓ¦ÓÃÐÍ
+Ó°Òô¼ÒÍ¥ÐÍ
+ÓéÀÖÓÎÏ·ÐÍ
+´¦ÀíÆ÷Æ·ÅÆ
+AMD
+Intel£¨Ó¢ÌØ¶û£©
+VIA£¨ÍþÊ¢£©
+´¦ÀíÆ÷ÏµÁÐ
+Celeron(ÈüÑï)M
+Core
+2
+Duo(¿áî£2)
+Core
+2
+Solo(¿áî£2)
+Core
+2
+XE(¿áî£2)
+Core
+Duo(¿áî£)
+Core
+Solo(¿áî£)
+Pentium
+Dual-Core
+Pentium(±¼ÌÚ)M
+Turion(ìÅÁú)64
+Turion(ìÅÁú)64
+X2
+XScale
+ÍþÊ¢C7-M
+ÒÆ¶¯°æÉÁÁú
+ÒÆ¶¯°æË«ºËËÙÁú64
+Ñ¸³Û¼¼Êõ
+²»Ö§³Ö
+Ñ¸³Û(Centrino)
+Ñ¸³ÛII(Sonoma)
+Ñ¸³ÛIII(Napa)
+Ñ¸³ÛIV(Santa Rosa)
+±ê³ÆÖ÷Æµ(MHz)
+1000MHzÒÔÏÂ
+1000MHz¡«1500MHz
+1500MHz¡«2000MHz
+2000MHz¡«2500MHz
+2500MHzÒÔÉÏ
+±ê×¼ÄÚ´æÈÝÁ¿(MB)
+64
+256
+512
+1024
+1280
+2048
+2560
+4096
+Ó²ÅÌÈÝÁ¿
+100GB
+120GB
+160GB
+200GB
+20GB
+250GB
+30GB
+320GB
+32GB
+32GB£¨ÉÁ´æ£©+160GB
+40GB
+48GB£¨ÉÁ´æ£©
+4GB
+500GB
+60GB
+80GB
+ÏÔÊ¾ÆÁ³ß´ç(Ó¢´ç)
+12Ó¢´çÒÔÏÂ
+12-14Ó¢´ç
+14-15Ó¢´ç
+15Ó¢´çÒÔÉÏ
+ÆÁÄ»±ÈÀý
+4£º3
+¿íÆÁ
+ÏÔ¿¨ÀàÐÍ
+¶ÀÁ¢/¼¯³ÉÏÔ¿¨
+¶ÀÁ¢ÏÔ¿¨
+¼¯³ÉÏÔ¿¨
+Ö¸ÎÆÊ¶±ð
+²»Ö§³Ö
+Ö§³Ö
+¹âÇýÈíÇýÎ»ÖÃ
+¹âÇýÄÚÖÃ
+¹âÈí»¥»»
+È«ÍâÖÃ
+ÖØÁ¿(kg)
+1KgÒÔÏÂ
+1-1.5Kg
+1.5-2Kg
+2-3Kg
+3KgÒÔÉÏ
+ÏÔÊ¾¸ü¶àÉ¸Ñ¡Ìõ¼þ£º
+´¦ÀíÆ÷Æ·ÅÆ
+´¦ÀíÆ÷ÏµÁÐ
+Ñ¸³Û¼¼Êõ
+±ê³ÆÖ÷Æµ(MHz)
+±ê×¼ÄÚ´æÈÝÁ¿(MB)
+Ó²ÅÌÈÝÁ¿
+ÏÔÊ¾ÆÁ³ß´ç(Ó¢´ç)
+ÆÁÄ»±ÈÀý
+ÏÔ¿¨ÀàÐÍ
+Ö¸ÎÆÊ¶±ð
+¹âÇýÈíÇýÎ»ÖÃ
+ÖØÁ¿(kg)
+Çå¿ÕÖØÌî·ûºÏÄãµ±Ç°Ñ¡ÔñµÄÓÐ
+1585
+¿î
+²úÆ·ÅÅÐò
+¹Ø×¢¸ß¡úµÍ
+ÍÆ¼öÖ¸Êý¸ß¡úµÍ
+¼Û¸ñ¸ß¡úµÍ
+¼Û¸ñµÍ¡ú¸ß
+ÉÏÊÐÊ±¼äÐÂ¡ú¾É
+ÆÀÂÛ¶à¡úÉÙ
+¾­ÏúÉÌ¶à¡úÉÙ
+¹²1585¿î²úÆ·£¬µÚ1Ò³/¹²106Ò³
+¶Ô²»Æð£¬Äú²éÑ¯µÄ²úÆ·ÔÝÊ±Ã»ÓÐ±¨¼Û£¬ÇëÖØÐÂ²éÑ¯£¡
+±È
+Acer
+Aspire
+4310(400508C)
+£¤3750Ôª
+ÍÆ¼öÖ¸Êý
+61
+´¦ÀíÆ÷ÀàÐÍ:Celeron-M
+530\±ê³ÆÖ÷Æµ(MHz):1730\±ê×¼ÄÚ´æÈÝÁ¿(MB):512\Ó²ÅÌÈÝÁ¿:80GB\ÏÔÊ¾ÆÁ³ß´ç(Ó¢´ç):14.1\ÖØÁ¿(kg):2.6......
+[¸ü¶à²ÎÊý]
+[ÓÃ»§ÊÖ²á]
+²é¿´ÉÌ¼Ò±¨¼Û
+±à¼­µãÆÀ
+¹²11ÌõÆÀÂÛ
+ÔÝÎÞ½±Ïî
+ÓÐÎÊ±Ø´ð
+¡¤[º¼ÖÝ]Ñ§Éú±¾¾ªÌ¾¼Û
+ºê³ž4310½ö3600Ôª
+¡¤[ÉÏº£]Ñ§Éú±¾
+ACER±¦Ê¯±¾ÐÂÄê´ÙÏú¿ªÆô
+[¹²16ÆªÏà¹ØÎÄÕÂ]
+±È
+Acer
+TravelMate
+4320(101G16Mi)
+£¤4600Ôª
+ÍÆ¼öÖ¸Êý
+60
+´¦ÀíÆ÷ÀàÐÍ:Celeron-M
+540\±ê³ÆÖ÷Æµ(MHz):1860\±ê×¼ÄÚ´æÈÝÁ¿(MB):1024\Ó²ÅÌÈÝÁ¿:160GB\ÏÔÊ¾ÆÁ³ß´ç(Ó¢´ç):14.1\ÖØÁ¿(kg):2.4......
+[¸ü¶à²ÎÊý]
+[Õ÷¼¯ÊÖ²á]
+²é¿´ÉÌ¼Ò±¨¼Û
+±à¼­µãÆÀ
+¹²6ÌõÆÀÂÛ
+ÔÝÎÞ½±Ïî
+ÓÐÎÊ±Ø´ð
+¡¤[±±¾©]º£Á¿´æ´¢
+AcerÉÌÎñD¿Ì±¾¾ª±¬4499...
+¡¤[±±¾©]DVD¿ÌÂ¼
+AcerÎÞÏß±Ê¼Ç±¾ÏÖ4600
+[¹²10ÆªÏà¹ØÎÄÕÂ]
+±È
+Acer
+Aspire
+4310(400512C)
+£¤3750Ôª
+ÍÆ¼öÖ¸Êý
+60
+´¦ÀíÆ÷ÀàÐÍ:Celeron-M
+530\±ê³ÆÖ÷Æµ(MHz):1730\±ê×¼ÄÚ´æÈÝÁ¿(MB):512\Ó²ÅÌÈÝÁ¿:120GB\ÏÔÊ¾ÆÁ³ß´ç(Ó¢´ç):14.1\ÖØÁ¿(kg):2.6......
+[¸ü¶à²ÎÊý]
+[ÓÃ»§ÊÖ²á]
+²é¿´ÉÌ¼Ò±¨¼Û
+±à¼­µãÆÀ
+¹²12ÌõÆÀÂÛ
+ÔÝÎÞ½±Ïî
+ÓÐÎÊ±Ø´ð
+¡¤[±±¾©]æÇÃÀÌ¨Ê½»ú
+ACER14´ç±¾½öÊÛ3799
+¡¤[ÄÏ¾©]ÄÚÖÃÉãÏñÍ·
+Acer
+As4310²»×ã3999...
+[¹²6ÆªÏà¹ØÎÄÕÂ]
+±È
+Acer
+TravelMate
+4320(101G16Ci)
+£¤4999Ôª
+ÍÆ¼öÖ¸Êý
+59
+´¦ÀíÆ÷ÀàÐÍ:Celeron-M
+540\±ê³ÆÖ÷Æµ(MHz):1860\±ê×¼ÄÚ´æÈÝÁ¿(MB):1024\Ó²ÅÌÈÝÁ¿:160GB\ÏÔÊ¾ÆÁ³ß´ç(Ó¢´ç):14.1\ÖØÁ¿(kg):2.4......
+[¸ü¶à²ÎÊý]
+[Õ÷¼¯ÊÖ²á]
+²é¿´ÉÌ¼Ò±¨¼Û
+±à¼­µãÆÀ
+·¢±íÆÀÂÛ
+ÔÝÎÞ½±Ïî
+ÓÐÎÊ±Ø´ð
+¡¤[À¥Ã÷]160GÓ²ÅÌ
+ºê³žÎÞÏßÉÌÎñ±¾½ö4XXX
+[¹²1ÆªÏà¹ØÎÄÕÂ]
+±È
+¶«Ö¥
+Satellite
+L200(L205(Éîº£À¶))
+£¤5499Ôª
+ÍÆ¼öÖ¸Êý
+61
+´¦ÀíÆ÷ÀàÐÍ:Core
+Duo
+T2330\±ê³ÆÖ÷Æµ(MHz):1600\±ê×¼ÄÚ´æÈÝÁ¿(MB):1024\Ó²ÅÌÈÝÁ¿:120GB\ÏÔÊ¾ÆÁ³ß´ç(Ó¢´ç):14.1\ÖØÁ¿(kg):2.2......
+[¸ü¶à²ÎÊý]
+[Õ÷¼¯ÊÖ²á]
+²é¿´ÉÌ¼Ò±¨¼Û
+±à¼­µãÆÀ
+·¢±íÆÀÂÛ
+ÔÝÎÞ½±Ïî
+ÓÐÎÊ±Ø´ð
+¡¤[ÉòÑô]À¶öèÓÖÌíÐÂ¶¡
+¶«Ö¥L205ÉÏÊÐ5499
+[¹²1ÆªÏà¹ØÎÄÕÂ]
+±È
+DELL
+Vostro
+1200(T7250/1G/120G)
+£¤7000Ôª
+ÍÆ¼öÖ¸Êý
+61
+´¦ÀíÆ÷ÀàÐÍ:Core
+2
+Duo
+T7250\±ê³ÆÖ÷Æµ(MHz):2000\±ê×¼ÄÚ´æÈÝÁ¿(MB):1024\Ó²ÅÌÈÝÁ¿:120GB\ÏÔÊ¾ÆÁ³ß´ç(Ó¢´ç):12.1\ÖØÁ¿(kg):1.9......
+[¸ü¶à²ÎÊý]
+[Õ÷¼¯ÊÖ²á]
+²é¿´ÉÌ¼Ò±¨¼Û
+±à¼­µãÆÀ
+¹²4ÌõÆÀÂÛ
+ÔÝÎÞ½±Ïî
+ÓÐÎÊ±Ø´ð
+¡¤[ÉÏº£]²»×ãÁùÇ§
+¿´Êµ»Ý±¾12´çÑ¸ËÄDELL
+¡¤[±±¾©]ÉÌÎñºÃÀñ
+´÷¶ûÑ¸³Û4±ãÐ¯±¾±¬6400...
+[¹²2ÆªÏà¹ØÎÄÕÂ]
+±È
+SONY
+VGN-NR23H
+£¤6988Ôª
+ÍÆ¼öÖ¸Êý
+60
+´¦ÀíÆ÷ÀàÐÍ:Core
+Duo
+T2330\±ê³ÆÖ÷Æµ(MHz):1600\±ê×¼ÄÚ´æÈÝÁ¿(MB):1024\Ó²ÅÌÈÝÁ¿:160GB\ÏÔÊ¾ÆÁ³ß´ç(Ó¢´ç):15.4\ÖØÁ¿(kg):2.9......
+[¸ü¶à²ÎÊý]
+[Õ÷¼¯ÊÖ²á]
+²é¿´ÉÌ¼Ò±¨¼Û
+±à¼­µãÆÀ
+¹²6ÌõÆÀÂÛ
+ÔÝÎÞ½±Ïî
+ÓÐÎÊ±Ø´ð
+¡¤[»¦ÊÐ±¾±¾ÖÜÆÀ]ÓÎÏ·ÓéÀÖÐÂÆ·½µ¼ÛÒ²³ÆÍõ...
+¡¤[»¦ÊÐ±¾±¾ÖÜÆÀ]ÓÎÏ·ÓéÀÖÐÂÆ·½µ¼ÛÒ²³ÆÍõ...
+[¹²12ÆªÏà¹ØÎÄÕÂ]
+±È
+HP
+Compaq
+6520s(KL340PA)
+£¤6800Ôª
+ÍÆ¼öÖ¸Êý
+60
+´¦ÀíÆ÷ÀàÐÍ:Core
+2
+Duo
+T5470\±ê³ÆÖ÷Æµ(MHz):1600\±ê×¼ÄÚ´æÈÝÁ¿(MB):1024\Ó²ÅÌÈÝÁ¿:160GB\ÏÔÊ¾ÆÁ³ß´ç(Ó¢´ç):14.1\ÖØÁ¿(kg):2.27......
+[¸ü¶à²ÎÊý]
+[Õ÷¼¯ÊÖ²á]
+²é¿´ÉÌ¼Ò±¨¼Û
+±à¼­µãÆÀ
+·¢±íÆÀÂÛ
+ÔÝÎÞ½±Ïî
+ÓÐÎÊ±Ø´ð
+±È
+»ªË¶
+F3QA55Ke-SL
+£¤6000Ôª
+ÍÆ¼öÖ¸Êý
+59
+´¦ÀíÆ÷ÀàÐÍ:Athlon
+64
+X2
+TK-55\±ê³ÆÖ÷Æµ(MHz):1800\±ê×¼ÄÚ´æÈÝÁ¿(MB):512\Ó²ÅÌÈÝÁ¿:120GB\ÏÔÊ¾ÆÁ³ß´ç(Ó¢´ç):15.4\ÖØÁ¿(kg):2.75......
+[¸ü¶à²ÎÊý]
+[Õ÷¼¯ÊÖ²á]
+²é¿´ÉÌ¼Ò±¨¼Û
+±à¼­µãÆÀ
+¹²1ÌõÆÀÂÛ
+ÔÝÎÞ½±Ïî
+ÓÐÎÊ±Ø´ð
+±È
+ÁªÏë
+ÐñÈÕN220(G-UX)
+£¤7500Ôª
+ÍÆ¼öÖ¸Êý
+61
+´¦ÀíÆ÷ÀàÐÍ:Core
+2
+Duo
+T5450\±ê³ÆÖ÷Æµ(MHz):1660\±ê×¼ÄÚ´æÈÝÁ¿(MB):1024\Ó²ÅÌÈÝÁ¿:160GB\ÏÔÊ¾ÆÁ³ß´ç(Ó¢´ç):12.1\ÖØÁ¿(kg):1.82......
+[¸ü¶à²ÎÊý]
+[ÓÃ»§ÊÖ²á]
+²é¿´ÉÌ¼Ò±¨¼Û
+±à¼­µãÆÀ
+·¢±íÆÀÂÛ
+ÔÝÎÞ½±Ïî
+ÓÐÎÊ±Ø´ð
+±È
+·½Õý
+S655R(VUS655R-410)
+£¤6499Ôª
+ÍÆ¼öÖ¸Êý
+59
+´¦ÀíÆ÷ÀàÐÍ:Core
+Duo
+T2330\±ê³ÆÖ÷Æµ(MHz):1600\±ê×¼ÄÚ´æÈÝÁ¿(MB):1024\Ó²ÅÌÈÝÁ¿:160GB\ÏÔÊ¾ÆÁ³ß´ç(Ó¢´ç):14.1\ÖØÁ¿(kg):2.4......
+[¸ü¶à²ÎÊý]
+[Õ÷¼¯ÊÖ²á]
+²é¿´ÉÌ¼Ò±¨¼Û
+±à¼­µãÆÀ
+¹²2ÌõÆÀÂÛ
+ÔÝÎÞ½±Ïî
+ÓÐÎÊ±Ø´ð
+±È
+Æ»¹û
+MacBook
+Air
+£¤16999Ôª
+ÍÆ¼öÖ¸Êý
+62
+´¦ÀíÆ÷ÀàÐÍ:Core
+2
+Duo\±ê³ÆÖ÷Æµ(MHz):1600\±ê×¼ÄÚ´æÈÝÁ¿(MB):2048\Ó²ÅÌÈÝÁ¿:80GB\ÏÔÊ¾ÆÁ³ß´ç(Ó¢´ç):13.3\ÖØÁ¿(kg):1.36......
+[¸ü¶à²ÎÊý]
+[Õ÷¼¯ÊÖ²á]
+²é¿´ÉÌ¼Ò±¨¼Û
+±à¼­µãÆÀ
+¹²7ÌõÆÀÂÛ
+ÔÝÎÞ½±Ïî
+ÓÐÎÊ±Ø´ð
+±È
+ÈýÐÇ
+Q45(X002)
+£¤6800Ôª
+ÍÆ¼öÖ¸Êý
+60
+´¦ÀíÆ÷ÀàÐÍ:Core
+Duo
+T2370\±ê³ÆÖ÷Æµ(MHz):1730\±ê×¼ÄÚ´æÈÝÁ¿(MB):1024\Ó²ÅÌÈÝÁ¿:160GB\ÏÔÊ¾ÆÁ³ß´ç(Ó¢´ç):12.1\ÖØÁ¿(kg):1.86......
+[¸ü¶à²ÎÊý]
+[ÓÃ»§ÊÖ²á]
+²é¿´ÉÌ¼Ò±¨¼Û
+±à¼­µãÆÀ
+·¢±íÆÀÂÛ
+»ñ1¸ö½±Ïî
+ÓÐÎÊ±Ø´ð
+±È
+Çå»ªÍ¬·½
+·æÈñ
+K420A(04)
+£¤5778Ôª
+ÍÆ¼öÖ¸Êý
+59
+´¦ÀíÆ÷ÀàÐÍ:Turion
+64
+X2
+TL-50\±ê³ÆÖ÷Æµ(MHz):1600\±ê×¼ÄÚ´æÈÝÁ¿(MB):1024\Ó²ÅÌÈÝÁ¿:120GB\ÏÔÊ¾ÆÁ³ß´ç(Ó¢´ç):14.1\ÖØÁ¿(kg):2.5......
+[¸ü¶à²ÎÊý]
+[Õ÷¼¯ÊÖ²á]
+²é¿´ÉÌ¼Ò±¨¼Û
+±à¼­µãÆÀ
+¹²2ÌõÆÀÂÛ
+ÔÝÎÞ½±Ïî
+ÓÐÎÊ±Ø´ð
+¡¤[±±¾©]Ö§³ÖDX10
+Í¬·½Ë«ºËÓéÀÖÐÂ±¾5100
+¡¤[³¤É³]Ë«ºË¶ÀÏÔ
+Í¬·½·æÈñK420A¾ªÏÖ5198...
+[¹²6ÆªÏà¹ØÎÄÕÂ]
+±È
+BenQ
+Joybook
+R43(LC02)
+£¤5700Ôª
+ÍÆ¼öÖ¸Êý
+61
+´¦ÀíÆ÷ÀàÐÍ:Core
+2
+Duo
+T5250\±ê³ÆÖ÷Æµ(MHz):1500\±ê×¼ÄÚ´æÈÝÁ¿(MB):1024\Ó²ÅÌÈÝÁ¿:120GB\ÏÔÊ¾ÆÁ³ß´ç(Ó¢´ç):14.1\ÖØÁ¿(kg):2.38......
+[¸ü¶à²ÎÊý]
+[Õ÷¼¯ÊÖ²á]
+²é¿´ÉÌ¼Ò±¨¼Û
+±à¼­µãÆÀ
+·¢±íÆÀÂÛ
+»ñ1¸ö½±Ïî
+ÓÐÎÊ±Ø´ð
+¡¤¶þÏßÆ·ÅÆ×¢ÖØ¸öÐÔ
+ÒÔµã´øÃæÍ»ÆÆÎ§½ËÕ½
+¡¤¶þÏßÆ·ÅÆ×¢ÖØ¸öÐÔ
+ÒÔµã´øÃæÍ»ÆÆÎ§½ËÕ½
+[¹²21ÆªÏà¹ØÎÄÕÂ]
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+Î²Ò³
+µ½µÚ
+Ò³
+ÆäËû²úÆ·ÏßËÑË÷
+£º
+²úÆ·´óÀà
+Õû»ú
+ÊýÂë
+Ö÷»úÅä¼þ
+Íâ½ÓÅä¼þ
+°ì¹«
+ÍøÂç
+ºÄ²Ä
+ÎÞÏßÍø
+ÍøÂç´æ´¢
+»ú·¿²¼Ïß
+ÒÆ¶¯´æ´¢
+Í¨Ñ¶²úÆ·
+ÏÔÊ¾Éè±¸
+ÓïÒôÊÓÆµ
+×¨ÒµÓ¡ÖÆ
+Æû³µµç×Ó
+Êý×Ö¼Òµç
+Èí¼þ²úÆ·
+²úÆ·Àà±ð
+È«²¿±Ê¼Ç±¾Æ·ÅÆÁÐ±í
+Acer(ºê³ž)±Ê¼Ç±¾
+BenQ(Ã÷»ù)±Ê¼Ç±¾
+DELL(´÷¶û)±Ê¼Ç±¾
+GATEWAY±Ê¼Ç±¾
+GETAC±Ê¼Ç±¾
+HP(»ÝÆÕ)±Ê¼Ç±¾
+LG±Ê¼Ç±¾
+MSI(Î¢ÐÇ)±Ê¼Ç±¾
+OQO±Ê¼Ç±¾
+SONY(Ë÷Äá)±Ê¼Ç±¾
+TCL±Ê¼Ç±¾
+ThinkPad(IBM)±Ê¼Ç...
+³¤³Ç(Greatwall)±Ê...
+¶«Ö¥(TOSHIBA)±Ê¼Ç...
+·½Õý(Founder)±Ê¼Ç...
+¸»Ê¿Í¨(FUJITSU)±Ê...
+º£¶û(Haier)±Ê¼Ç±¾...
+ººÍõ(HW)±Ê¼Ç±¾
+»ªË¶(ASUS)±Ê¼Ç±¾
+ÁªÏë(lenovo)±Ê¼Ç±¾...
+Æ½ÖÎ¶«·½±Ê¼Ç±¾
+Æ»¹û(Apple)±Ê¼Ç±¾...
+ÆßÏ²(HEDY)±Ê¼Ç±¾
+Çå»ªÍ¬·½±Ê¼Ç±¾
+Çå»ª×Ï¹â(thunis)±Ê...
+ÈýÐÇ(SAMSUNG)±Ê¼Ç...
+ÉñÖÛ(HASEE)±Ê¼Ç±¾...
+ËÉÏÂ(Panasonic)±Ê...
+ÐÂÀ¶(XINLAN)±Ê¼Ç±¾...
+ÐÂÀ¶(XINLAN)±Ê¼Ç±¾"
+target="_blank">ÐÂÀ¶(XINLAN)±Ê¼Ç±¾...
+71-->ÐÂÀ¶(XINLAN)±Ê¼Ç±¾"
+target="_blank">ÐÂÀ¶(XINLAN)±Ê¼Ç±¾...
+71-->ÐÂÀ¶(XINLAN)±Ê¼Ç±¾"
+target="_blank">ÐÂÀ¶(XINLAN)±Ê¼Ç±¾...
+Ê¼Ç±¾"
+target="_blank">ÐÂÀ¶(XINLAN)±Ê¼Ç±¾...
+Ê¼Ç±¾"
+target="_blank">ÐÂÀ¶(XINLAN)±Ê¼Ç±¾...
+¤7„1¤7„1¤7„1¤72-->Ê¼Ç±¾"
+target="_blank">ÐÂÀ¶(XINLAN)±Ê¼Ç±¾...
+¸ü¶à±Ê¼Ç±¾ÐÂÆ·TOP8
+ThinkPad
+R61i
+º£¶û
+¾«²ÊA20
+ÉñÖÛ
+ÌìÔË
+F237R
+ÉñÖÛ
+ÌìÔË
+Q540C
+ÉñÖÛ
+ÌìÔË
+Q233S
+ÉñÖÛ
+ÌìÔË
+F545R
+Acer
+TravelMate
+4320
+¶«Ö¥
+Satellite
+L200
+l'
+target="_blank"
+title='¶«Ö¥
+Satellite
+L200(L205(Éîº£À¶))'>
+->l'
+target="_blank"
+title='¶«Ö¥
+Satellite
+L200(L205(Éîº£À¶))'>
+¸ü¶à±Ê¼Ç±¾¹Ø×¢TOP8
+HP
+Compaq
+Presario
+V3706TX
+HP
+Compaq
+6520s
+»ªË¶
+F8H545Sv-SL
+SONY
+VGN-NR23H
+»ªË¶
+Eee
+PCÒ×PC
+ÁªÏë
+ÌìÒÝF41
+SONY
+VGN-CR23
+HP
+Compaq
+Presario
+V3704TX
+'HP
+Compaq
+Presario
+V3704TX(KG565PA)'>
+¸ü¶à±Ê¼Ç±¾Æ·ÅÆTOP8
+HP/»ÝÆÕ
+ÁªÏë/lenovo
+»ªË¶/ASUS
+SONY/Ë÷Äá
+DELL/´÷¶û
+Acer/ºê³ž
+ThinkPad/IBM
+ÉñÖÛ/HASEE
+±Ê¼Ç±¾Ñ¡¹º±¦µä
+NEW
+!
+²úÆ·Ó¦ÓÃÀàÐÍ
+Å®ÐÔ±Ê¼Ç±¾
+±ãÐ¯±Ê¼Ç±¾
+µÍ¼Û±Ê¼Ç±¾
+ÉÌÎñ±Ê¼Ç±¾
+ÓÎÏ·¼°Ó°Òô±Ê¼Ç±¾
+¸ü¶àÓ¦ÓÃÀàÐÍÏê½â
+Æ·ÅÆÏµÁÐ·ÖÀà
+IBM
+TÏµÁÐ
+XÏµÁÐ
+RÏµÁÐ
+HP
+PavalionÏµÁÐ
+PresarioÏµÁÐ
+EvoÏµÁÐ
+¸ü¶àÆ·ÅÆÏµÁÐÏê½â
+-->
+ÊõÓïÏê½â
+±Ê¼Ç±¾ÀàÐÍ
+CPUÆ·ÅÆ
+ÏµÁÐÐÍºÅ
+ÒÆ¶¯°æCPU
+CPUºËÐÄ
+Ñ¸³ÛÒÆ¶¯¼ÆËã¼¼Êõ
+´¦ÀíÆ÷Ö÷Æµ
+´¦ÀíÆ÷»º´æ
+Ö÷°åÐ¾Æ¬×é
+Ç°¶Ë×ÜÏßÆµÂÊ
+ÄÚ´æÀàÐÍ
+±ê×¼ÄÚ´æÈÝÁ¿
+¸ü¶àÊõÓïÏê½â
+±¾Ò³ÊÇIT168±¨¼ÛÖÐÐÄÎªÄúÌá¹©µÄ±Ê¼Ç±¾²úÆ·×îÐÂ±¨¼Û£¬ÄÒÀ¨ÁË²ÎÊý¡¢ÆÀ²â¡¢Í¼Æ¬¡¢ÆÀÂÛ¡¢½±ÏîµÈÐÅÏ¢£¬ÊÇ±Ê¼Ç±¾²úÆ·µÄÈ¨ÍþÊý¾Ý¿â¡£ÎÒÃÇ»á¾¡È«Á¦ÎªÄúÌá¹©×¼È·¡¢È«Ãæ
+µÄ²úÆ·ÐÅÏ¢£¬µ«²»¶ÔÐÅÏ¢ÖÐ¿ÉÄÜ³öÏÖµÄ´íÎó»òÒÅÂ©³Ðµ£ÔðÈÎ¡£ÄúÔÚÑ¡¹º²úÆ·Ç°Çë×ÐÏ¸Ñ¯ÎÊ¾­ÏúÉÌÓÐ¹Ø²úÆ·µÄÊµ¼ÊÅäÖÃ¡¢Íâ¹ÛÒÔ¼°¼Û¸ñµÈ¡£
+¹ØÓÚð©³½
+|
+¹ØÓÚIT168
+|
+ºÏ×÷»ï°é
+|
+¹ã¸æ·þÎñ
+|
+Ê¹ÓÃÌõ¿î
+|
+Í¶¸åÖ¸ÄÏ
+|
+³ÏÆ¸¾«Ó¢
+|
+ÁªÏµÎÒÃÇ
+|
+·¨ÂÉ¹ËÎÊ
+|
+ÍøÕ¾µØÍ¼
+|
+·±Ìå°æ
+CopyRight
+1999-2007
+www.it168.com
+All
+Right
+Reserved.
+±±¾©ð©³½ÍøÓòÍøÂçÐÅÏ¢¼¼ÊõÓÐÏÞ¹«Ë¾.
+°æÈ¨ËùÓÐ
+¾©ICPÖ¤:060528ºÅ
+-->
+Ö¾ºÏÐËÒµ
+010-51722073
+51722071
+ÁªÏµÈË£ºÏúÊÛ²¿
+Ö÷Óª²úÆ·£º
+IBM±Ê¼Ç±¾
+DELL±Ê¼Ç±¾
+ÉÌ¼ÒÉÏÏßÊ±¼ä£º07Äê11ÔÂ
 ThinkPad(IBM)±Ê¼Ç±¾±¨¼Û
 -
 IT168
@@ -163,8 +1701,7 @@ XScale
 Ñ¸³Û(Centrino)
 Ñ¸³ÛII(Sonoma)
 Ñ¸³ÛIII(Napa)
-Ñ¸³ÛIV(Santa
-Rosa)
+Ñ¸³ÛIV(Santa Rosa)
 ±ê³ÆÖ÷Æµ(MHz)
 1000MHzÒÔÏÂ
 1000MHz¡«1500MHz
@@ -1135,8 +2672,7 @@ Flash¹¦ÄÜ
 ±È
 MOTO
 RAZR
-V8(2GB
-»Æ½ðµä²Ø°æ)
+V8(2GB »Æ½ðµä²Ø°æ)
 £¤6180Ôª
 ÍÆ¼öÖ¸Êý
 61
@@ -1494,8 +3030,7 @@ MobileÊÖ»ú...
 ¼¼¼Î(GIGABYTE)ÊÖ»ú...
 ½ðÁ¢(GiONEE)ÊÖ»ú
 ÁªÏë(lenovo)ÊÖ»ú
-ÂÌÁ¦(Green
-Power)...
+ÂÌÁ¦(Green Power)...
 Åµ»ùÑÇ(NOKIA)ÊÖ»ú...
 Æ»¹û(Apple)ÊÖ»ú
 ÈýÐÇ(SAMSUNG)ÊÖ»ú...
@@ -1583,8 +3118,7 @@ RAZR
 V8
 'MOTO
 RAZR
-V8(2GB
-»Æ½ðµä²Ø°æ)'>
+V8(2GB »Æ½ðµä²Ø°æ)'>
 ¸ü¶àÊÖ»úÆ·ÅÆTOP8
 Åµ»ùÑÇ/NOKIA
 Ë÷Äá°®Á¢ÐÅ/Ë÷°®
@@ -2068,8 +3602,7 @@ MobileÊÖ»ú...
 ¼¼¼Î(GIGABYTE)ÊÖ»ú...
 ½ðÁ¢(GiONEE)ÊÖ»ú
 ÁªÏë(lenovo)ÊÖ»ú
-ÂÌÁ¦(Green
-Power)...
+ÂÌÁ¦(Green Power)...
 Åµ»ùÑÇ(NOKIA)ÊÖ»ú...
 Æ»¹û(Apple)ÊÖ»ú
 ÈýÐÇ(SAMSUNG)ÊÖ»ú...
@@ -2588,8 +4121,7 @@ MobileÊÖ»ú...
 ¼¼¼Î(GIGABYTE)ÊÖ»ú...
 ½ðÁ¢(GiONEE)ÊÖ»ú
 ÁªÏë(lenovo)ÊÖ»ú
-ÂÌÁ¦(Green
-Power)...
+ÂÌÁ¦(Green Power)...
 Åµ»ùÑÇ(NOKIA)ÊÖ»ú...
 Æ»¹û(Apple)ÊÖ»ú
 ÈýÐÇ(SAMSUNG)ÊÖ»ú...
@@ -3384,8 +4916,7 @@ MobileÊÖ»ú...
 ¼¼¼Î(GIGABYTE)ÊÖ»ú...
 ½ðÁ¢(GiONEE)ÊÖ»ú
 ÁªÏë(lenovo)ÊÖ»ú
-ÂÌÁ¦(Green
-Power)...
+ÂÌÁ¦(Green Power)...
 Åµ»ùÑÇ(NOKIA)ÊÖ»ú...
 Æ»¹û(Apple)ÊÖ»ú
 ÈýÐÇ(SAMSUNG)ÊÖ»ú...
@@ -4031,8 +5562,7 @@ MobileÊÖ»ú...
 ¼¼¼Î(GIGABYTE)ÊÖ»ú...
 ½ðÁ¢(GiONEE)ÊÖ»ú
 ÁªÏë(lenovo)ÊÖ»ú
-ÂÌÁ¦(Green
-Power)...
+ÂÌÁ¦(Green Power)...
 Åµ»ùÑÇ(NOKIA)ÊÖ»ú...
 Æ»¹û(Apple)ÊÖ»ú
 ÈýÐÇ(SAMSUNG)ÊÖ»ú...
@@ -4687,8 +6217,7 @@ MobileÊÖ»ú...
 ¼¼¼Î(GIGABYTE)ÊÖ»ú...
 ½ðÁ¢(GiONEE)ÊÖ»ú
 ÁªÏë(lenovo)ÊÖ»ú
-ÂÌÁ¦(Green
-Power)...
+ÂÌÁ¦(Green Power)...
 Åµ»ùÑÇ(NOKIA)ÊÖ»ú...
 Æ»¹û(Apple)ÊÖ»ú
 ÈýÐÇ(SAMSUNG)ÊÖ»ú...
@@ -5520,8 +7049,7 @@ MobileÊÖ»ú...
 ¼¼¼Î(GIGABYTE)ÊÖ»ú...
 ½ðÁ¢(GiONEE)ÊÖ»ú
 ÁªÏë(lenovo)ÊÖ»ú
-ÂÌÁ¦(Green
-Power)...
+ÂÌÁ¦(Green Power)...
 Åµ»ùÑÇ(NOKIA)ÊÖ»ú...
 Æ»¹û(Apple)ÊÖ»ú
 ÈýÐÇ(SAMSUNG)ÊÖ»ú...
@@ -6371,8 +7899,7 @@ MobileÊÖ»ú...
 ¼¼¼Î(GIGABYTE)ÊÖ»ú...
 ½ðÁ¢(GiONEE)ÊÖ»ú
 ÁªÏë(lenovo)ÊÖ»ú
-ÂÌÁ¦(Green
-Power)...
+ÂÌÁ¦(Green Power)...
 Åµ»ùÑÇ(NOKIA)ÊÖ»ú...
 Æ»¹û(Apple)ÊÖ»ú
 ÈýÐÇ(SAMSUNG)ÊÖ»ú...
@@ -7226,8 +8753,7 @@ MobileÊÖ»ú...
 ¼¼¼Î(GIGABYTE)ÊÖ»ú...
 ½ðÁ¢(GiONEE)ÊÖ»ú
 ÁªÏë(lenovo)ÊÖ»ú
-ÂÌÁ¦(Green
-Power)...
+ÂÌÁ¦(Green Power)...
 Åµ»ùÑÇ(NOKIA)ÊÖ»ú...
 Æ»¹û(Apple)ÊÖ»ú
 ÈýÐÇ(SAMSUNG)ÊÖ»ú...
@@ -7868,8 +9394,7 @@ MobileÊÖ»ú...
 ¼¼¼Î(GIGABYTE)ÊÖ»ú...
 ½ðÁ¢(GiONEE)ÊÖ»ú
 ÁªÏë(lenovo)ÊÖ»ú
-ÂÌÁ¦(Green
-Power)...
+ÂÌÁ¦(Green Power)...
 Åµ»ùÑÇ(NOKIA)ÊÖ»ú...
 Æ»¹û(Apple)ÊÖ»ú
 ÈýÐÇ(SAMSUNG)ÊÖ»ú...
@@ -8703,8 +10228,7 @@ MobileÊÖ»ú...
 ¼¼¼Î(GIGABYTE)ÊÖ»ú...
 ½ðÁ¢(GiONEE)ÊÖ»ú
 ÁªÏë(lenovo)ÊÖ»ú
-ÂÌÁ¦(Green
-Power)...
+ÂÌÁ¦(Green Power)...
 Åµ»ùÑÇ(NOKIA)ÊÖ»ú...
 Æ»¹û(Apple)ÊÖ»ú
 ÈýÐÇ(SAMSUNG)ÊÖ»ú...
@@ -9282,8 +10806,7 @@ MobileÊÖ»ú...
 ¼¼¼Î(GIGABYTE)ÊÖ»ú...
 ½ðÁ¢(GiONEE)ÊÖ»ú
 ÁªÏë(lenovo)ÊÖ»ú
-ÂÌÁ¦(Green
-Power)...
+ÂÌÁ¦(Green Power)...
 Åµ»ùÑÇ(NOKIA)ÊÖ»ú...
 Æ»¹û(Apple)ÊÖ»ú
 ÈýÐÇ(SAMSUNG)ÊÖ»ú...
@@ -10089,8 +11612,7 @@ MobileÊÖ»ú...
 ¼¼¼Î(GIGABYTE)ÊÖ»ú...
 ½ðÁ¢(GiONEE)ÊÖ»ú
 ÁªÏë(lenovo)ÊÖ»ú
-ÂÌÁ¦(Green
-Power)...
+ÂÌÁ¦(Green Power)...
 Åµ»ùÑÇ(NOKIA)ÊÖ»ú...
 Æ»¹û(Apple)ÊÖ»ú
 ÈýÐÇ(SAMSUNG)ÊÖ»ú...
@@ -10928,8 +12450,7 @@ MobileÊÖ»ú...
 ¼¼¼Î(GIGABYTE)ÊÖ»ú...
 ½ðÁ¢(GiONEE)ÊÖ»ú
 ÁªÏë(lenovo)ÊÖ»ú
-ÂÌÁ¦(Green
-Power)...
+ÂÌÁ¦(Green Power)...
 Åµ»ùÑÇ(NOKIA)ÊÖ»ú...
 Æ»¹û(Apple)ÊÖ»ú
 ÈýÐÇ(SAMSUNG)ÊÖ»ú...
@@ -11764,8 +13285,7 @@ MobileÊÖ»ú...
 ¼¼¼Î(GIGABYTE)ÊÖ»ú...
 ½ðÁ¢(GiONEE)ÊÖ»ú
 ÁªÏë(lenovo)ÊÖ»ú
-ÂÌÁ¦(Green
-Power)...
+ÂÌÁ¦(Green Power)...
 Åµ»ùÑÇ(NOKIA)ÊÖ»ú...
 Æ»¹û(Apple)ÊÖ»ú
 ÈýÐÇ(SAMSUNG)ÊÖ»ú...
@@ -12368,8 +13888,7 @@ MobileÊÖ»ú...
 ¼¼¼Î(GIGABYTE)ÊÖ»ú...
 ½ðÁ¢(GiONEE)ÊÖ»ú
 ÁªÏë(lenovo)ÊÖ»ú
-ÂÌÁ¦(Green
-Power)...
+ÂÌÁ¦(Green Power)...
 Åµ»ùÑÇ(NOKIA)ÊÖ»ú...
 Æ»¹û(Apple)ÊÖ»ú
 ÈýÐÇ(SAMSUNG)ÊÖ»ú...
@@ -12933,8 +14452,7 @@ C750
 ±È
 MOTO
 RAZR
-V8(2GB
-»Æ½ðµä²Ø°æ)
+V8(2GB »Æ½ðµä²Ø°æ)
 £¤6180Ôª
 ÍÆ¼öÖ¸Êý
 61
@@ -13196,8 +14714,7 @@ MobileÊÖ»ú...
 ¼¼¼Î(GIGABYTE)ÊÖ»ú...
 ½ðÁ¢(GiONEE)ÊÖ»ú
 ÁªÏë(lenovo)ÊÖ»ú
-ÂÌÁ¦(Green
-Power)...
+ÂÌÁ¦(Green Power)...
 Åµ»ùÑÇ(NOKIA)ÊÖ»ú...
 Æ»¹û(Apple)ÊÖ»ú
 ÈýÐÇ(SAMSUNG)ÊÖ»ú...
@@ -13853,8 +15370,7 @@ MobileÊÖ»ú...
 ¼¼¼Î(GIGABYTE)ÊÖ»ú...
 ½ðÁ¢(GiONEE)ÊÖ»ú
 ÁªÏë(lenovo)ÊÖ»ú
-ÂÌÁ¦(Green
-Power)...
+ÂÌÁ¦(Green Power)...
 Åµ»ùÑÇ(NOKIA)ÊÖ»ú...
 Æ»¹û(Apple)ÊÖ»ú
 ÈýÐÇ(SAMSUNG)ÊÖ»ú...
@@ -14658,8 +16174,7 @@ MobileÊÖ»ú...
 ¼¼¼Î(GIGABYTE)ÊÖ»ú...
 ½ðÁ¢(GiONEE)ÊÖ»ú
 ÁªÏë(lenovo)ÊÖ»ú
-ÂÌÁ¦(Green
-Power)...
+ÂÌÁ¦(Green Power)...
 Åµ»ùÑÇ(NOKIA)ÊÖ»ú...
 Æ»¹û(Apple)ÊÖ»ú
 ÈýÐÇ(SAMSUNG)ÊÖ»ú...
@@ -15486,8 +17001,7 @@ MobileÊÖ»ú...
 ¼¼¼Î(GIGABYTE)ÊÖ»ú...
 ½ðÁ¢(GiONEE)ÊÖ»ú
 ÁªÏë(lenovo)ÊÖ»ú
-ÂÌÁ¦(Green
-Power)...
+ÂÌÁ¦(Green Power)...
 Åµ»ùÑÇ(NOKIA)ÊÖ»ú...
 Æ»¹û(Apple)ÊÖ»ú
 ÈýÐÇ(SAMSUNG)ÊÖ»ú...
@@ -16085,8 +17599,7 @@ MobileÊÖ»ú...
 ¼¼¼Î(GIGABYTE)ÊÖ»ú...
 ½ðÁ¢(GiONEE)ÊÖ»ú
 ÁªÏë(lenovo)ÊÖ»ú
-ÂÌÁ¦(Green
-Power)...
+ÂÌÁ¦(Green Power)...
 Åµ»ùÑÇ(NOKIA)ÊÖ»ú...
 Æ»¹û(Apple)ÊÖ»ú
 ÈýÐÇ(SAMSUNG)ÊÖ»ú...
@@ -16864,8 +18377,7 @@ MobileÊÖ»ú...
 ¼¼¼Î(GIGABYTE)ÊÖ»ú...
 ½ðÁ¢(GiONEE)ÊÖ»ú
 ÁªÏë(lenovo)ÊÖ»ú
-ÂÌÁ¦(Green
-Power)...
+ÂÌÁ¦(Green Power)...
 Åµ»ùÑÇ(NOKIA)ÊÖ»ú...
 Æ»¹û(Apple)ÊÖ»ú
 ÈýÐÇ(SAMSUNG)ÊÖ»ú...
@@ -28621,8 +30133,7 @@ M-TECH(¶¯ÔªËØ)ÊýÂë...
 ÂÞ¼¼(LOGITECH)ÊýÂë...
 ÂõµÂ¿ËË¹ÊýÂëÉãÏñÍ·...
 Ã÷ÔÂÊýÂëÉãÏñÍ·
-Ä§ËÙ(Magic
-Fast)Êý...
+Ä§ËÙ(Magic Fast)Êý...
 Çå»ª×Ï¹â(thunis)Êý...
 Ë«ÇÉÐÇ(two-star)Êý...
 Ì¨µç(TELECT)ÊýÂëÉã...
@@ -29725,8 +31236,7 @@ TrekStorMP3²¥·ÅÆ÷...
 °ËÒôºÐMP3²¥·ÅÆ÷
 ³¤ºç¼Ñ»ª(ZARVA)MP...
 ³ÛÎª(chuwi)MP3²¥·Å...
-µÀÇÚ(DO
-QUICK)MP3...
+µÀÇÚ(DO QUICK)MP3...
 ¶«Ö¥(TOSHIBA)MP3²¥...
 ·ÉÀûÆÖ(PHILIPS)MP...
 ½ðÐÇ(JinXing)MP3²¥...
@@ -30476,8 +31986,7 @@ TrekStorMP3²¥·ÅÆ÷...
 °ËÒôºÐMP3²¥·ÅÆ÷
 ³¤ºç¼Ñ»ª(ZARVA)MP...
 ³ÛÎª(chuwi)MP3²¥·Å...
-µÀÇÚ(DO
-QUICK)MP3...
+µÀÇÚ(DO QUICK)MP3...
 ¶«Ö¥(TOSHIBA)MP3²¥...
 ·ÉÀûÆÖ(PHILIPS)MP...
 ½ðÐÇ(JinXing)MP3²¥...
@@ -31178,8 +32687,7 @@ TrekStorMP3²¥·ÅÆ÷...
 °ËÒôºÐMP3²¥·ÅÆ÷
 ³¤ºç¼Ñ»ª(ZARVA)MP...
 ³ÛÎª(chuwi)MP3²¥·Å...
-µÀÇÚ(DO
-QUICK)MP3...
+µÀÇÚ(DO QUICK)MP3...
 ¶«Ö¥(TOSHIBA)MP3²¥...
 ·ÉÀûÆÖ(PHILIPS)MP...
 ½ðÐÇ(JinXing)MP3²¥...
@@ -31873,8 +33381,7 @@ TrekStorMP3²¥·ÅÆ÷...
 °ËÒôºÐMP3²¥·ÅÆ÷
 ³¤ºç¼Ñ»ª(ZARVA)MP...
 ³ÛÎª(chuwi)MP3²¥·Å...
-µÀÇÚ(DO
-QUICK)MP3...
+µÀÇÚ(DO QUICK)MP3...
 ¶«Ö¥(TOSHIBA)MP3²¥...
 ·ÉÀûÆÖ(PHILIPS)MP...
 ½ðÐÇ(JinXing)MP3²¥...
@@ -32457,8 +33964,7 @@ TrekStorMP3²¥·ÅÆ÷...
 °ËÒôºÐMP3²¥·ÅÆ÷
 ³¤ºç¼Ñ»ª(ZARVA)MP...
 ³ÛÎª(chuwi)MP3²¥·Å...
-µÀÇÚ(DO
-QUICK)MP3...
+µÀÇÚ(DO QUICK)MP3...
 ¶«Ö¥(TOSHIBA)MP3²¥...
 ·ÉÀûÆÖ(PHILIPS)MP...
 ½ðÐÇ(JinXing)MP3²¥...
@@ -33199,8 +34705,7 @@ TrekStorMP3²¥·ÅÆ÷...
 °ËÒôºÐMP3²¥·ÅÆ÷
 ³¤ºç¼Ñ»ª(ZARVA)MP...
 ³ÛÎª(chuwi)MP3²¥·Å...
-µÀÇÚ(DO
-QUICK)MP3...
+µÀÇÚ(DO QUICK)MP3...
 ¶«Ö¥(TOSHIBA)MP3²¥...
 ·ÉÀûÆÖ(PHILIPS)MP...
 ½ðÐÇ(JinXing)MP3²¥...
@@ -33924,8 +35429,7 @@ TrekStorMP3²¥·ÅÆ÷...
 °ËÒôºÐMP3²¥·ÅÆ÷
 ³¤ºç¼Ñ»ª(ZARVA)MP...
 ³ÛÎª(chuwi)MP3²¥·Å...
-µÀÇÚ(DO
-QUICK)MP3...
+µÀÇÚ(DO QUICK)MP3...
 ¶«Ö¥(TOSHIBA)MP3²¥...
 ·ÉÀûÆÖ(PHILIPS)MP...
 ½ðÐÇ(JinXing)MP3²¥...
@@ -34501,8 +36005,7 @@ TrekStorMP3²¥·ÅÆ÷...
 °ËÒôºÐMP3²¥·ÅÆ÷
 ³¤ºç¼Ñ»ª(ZARVA)MP...
 ³ÛÎª(chuwi)MP3²¥·Å...
-µÀÇÚ(DO
-QUICK)MP3...
+µÀÇÚ(DO QUICK)MP3...
 ¶«Ö¥(TOSHIBA)MP3²¥...
 ·ÉÀûÆÖ(PHILIPS)MP...
 ½ðÐÇ(JinXing)MP3²¥...
@@ -35268,8 +36771,7 @@ TrekStorMP3²¥·ÅÆ÷...
 °ËÒôºÐMP3²¥·ÅÆ÷
 ³¤ºç¼Ñ»ª(ZARVA)MP...
 ³ÛÎª(chuwi)MP3²¥·Å...
-µÀÇÚ(DO
-QUICK)MP3...
+µÀÇÚ(DO QUICK)MP3...
 ¶«Ö¥(TOSHIBA)MP3²¥...
 ·ÉÀûÆÖ(PHILIPS)MP...
 ½ðÐÇ(JinXing)MP3²¥...
@@ -36009,8 +37511,7 @@ TrekStorMP3²¥·ÅÆ÷...
 °ËÒôºÐMP3²¥·ÅÆ÷
 ³¤ºç¼Ñ»ª(ZARVA)MP...
 ³ÛÎª(chuwi)MP3²¥·Å...
-µÀÇÚ(DO
-QUICK)MP3...
+µÀÇÚ(DO QUICK)MP3...
 ¶«Ö¥(TOSHIBA)MP3²¥...
 ·ÉÀûÆÖ(PHILIPS)MP...
 ½ðÐÇ(JinXing)MP3²¥...
@@ -36585,8 +38086,7 @@ TrekStorMP3²¥·ÅÆ÷...
 °ËÒôºÐMP3²¥·ÅÆ÷
 ³¤ºç¼Ñ»ª(ZARVA)MP...
 ³ÛÎª(chuwi)MP3²¥·Å...
-µÀÇÚ(DO
-QUICK)MP3...
+µÀÇÚ(DO QUICK)MP3...
 ¶«Ö¥(TOSHIBA)MP3²¥...
 ·ÉÀûÆÖ(PHILIPS)MP...
 ½ðÐÇ(JinXing)MP3²¥...
@@ -37300,8 +38800,7 @@ TrekStorMP3²¥·ÅÆ÷...
 °ËÒôºÐMP3²¥·ÅÆ÷
 ³¤ºç¼Ñ»ª(ZARVA)MP...
 ³ÛÎª(chuwi)MP3²¥·Å...
-µÀÇÚ(DO
-QUICK)MP3...
+µÀÇÚ(DO QUICK)MP3...
 ¶«Ö¥(TOSHIBA)MP3²¥...
 ·ÉÀûÆÖ(PHILIPS)MP...
 ½ðÐÇ(JinXing)MP3²¥...
@@ -37894,8 +39393,7 @@ TrekStorMP3²¥·ÅÆ÷...
 °ËÒôºÐMP3²¥·ÅÆ÷
 ³¤ºç¼Ñ»ª(ZARVA)MP...
 ³ÛÎª(chuwi)MP3²¥·Å...
-µÀÇÚ(DO
-QUICK)MP3...
+µÀÇÚ(DO QUICK)MP3...
 ¶«Ö¥(TOSHIBA)MP3²¥...
 ·ÉÀûÆÖ(PHILIPS)MP...
 ½ðÐÇ(JinXing)MP3²¥...
@@ -38339,8 +39837,7 @@ TrekStorMP3²¥·ÅÆ÷...
 °ËÒôºÐMP3²¥·ÅÆ÷
 ³¤ºç¼Ñ»ª(ZARVA)MP...
 ³ÛÎª(chuwi)MP3²¥·Å...
-µÀÇÚ(DO
-QUICK)MP3...
+µÀÇÚ(DO QUICK)MP3...
 ¶«Ö¥(TOSHIBA)MP3²¥...
 ·ÉÀûÆÖ(PHILIPS)MP...
 ½ðÐÇ(JinXing)MP3²¥...
@@ -39026,8 +40523,7 @@ TrekStorMP3²¥·ÅÆ÷...
 °ËÒôºÐMP3²¥·ÅÆ÷
 ³¤ºç¼Ñ»ª(ZARVA)MP...
 ³ÛÎª(chuwi)MP3²¥·Å...
-µÀÇÚ(DO
-QUICK)MP3...
+µÀÇÚ(DO QUICK)MP3...
 ¶«Ö¥(TOSHIBA)MP3²¥...
 ·ÉÀûÆÖ(PHILIPS)MP...
 ½ðÐÇ(JinXing)MP3²¥...
@@ -39749,8 +41245,7 @@ TrekStorMP3²¥·ÅÆ÷...
 °ËÒôºÐMP3²¥·ÅÆ÷
 ³¤ºç¼Ñ»ª(ZARVA)MP...
 ³ÛÎª(chuwi)MP3²¥·Å...
-µÀÇÚ(DO
-QUICK)MP3...
+µÀÇÚ(DO QUICK)MP3...
 ¶«Ö¥(TOSHIBA)MP3²¥...
 ·ÉÀûÆÖ(PHILIPS)MP...
 ½ðÐÇ(JinXing)MP3²¥...
@@ -45007,8 +46502,7 @@ U2O(UÍØ)ÊýÂëÏà»ú°é...
 ²©¿ÆË¼ÊýÂëÏà»ú°éÂÂ...
 ´¨Óî(INTELLINK)Êý...
 ºã¶¯ÊýÂëÏà»ú°éÂÂ
-¿íÑó(PAN
-OCEAN)Êý...
+¿íÑó(PAN OCEAN)Êý...
 ÁªÏë(lenovo)ÊýÂëÏà...
 ÂÃÖ®ÐÇ(TravelStar...
 Å¦Âü(Newsmy)ÊýÂëÏà...
@@ -49483,9 +50977,7 @@ SB-800
 £¤2700Ôª
 ÍÆ¼öÖ¸Êý
 70
-ÉÁ¹â·¶Î§:24ºÁÃ×ÖÁ105ºÁÃ×(±ä½¹ÒÔÃ¿5ºÁÃ××÷Ôö¼õ
-)£»17ºÁÃ×£¬14ºÁÃ×(ÅäºÏÊ¹ÓÃ¹ã½ÇÉÁ¹âÅä½ÓÆ÷
-)£»14ºÁÃ×(ÅäºÏÊ¹ÓÃÈá¹âÕÖ)......
+ÉÁ¹â·¶Î§:24ºÁÃ×ÖÁ105ºÁÃ×(±ä½¹ÒÔÃ¿5ºÁÃ××÷Ôö¼õ )£»17ºÁÃ×£¬14ºÁÃ×(ÅäºÏÊ¹ÓÃ¹ã½ÇÉÁ¹âÅä½ÓÆ÷ )£»14ºÁÃ×(ÅäºÏÊ¹ÓÃÈá¹âÕÖ)......
 [¸ü¶à²ÎÊý]
 [ÓÃ»§ÊÖ²á]
 ²é¿´ÉÌ¼Ò±¨¼Û
@@ -51653,8 +53145,7 @@ B20
 81
 ÆÁÄ»:2.4Ó¢´çTFT
 LCD
-£¨262K
-color,320*240£©\ÈÝÁ¿:1GB\´æ´¢¿¨:Mini
+£¨262K color,320*240£©\ÈÝÁ¿:1GB\´æ´¢¿¨:Mini
 SD......
 [¸ü¶à²ÎÊý]
 [Õ÷¼¯ÊÖ²á]
@@ -53328,8 +54819,7 @@ T1
 ¶Ô²»Æð£¬Äú²éÑ¯µÄ²úÆ·ÔÝÊ±Ã»ÓÐ±¨¼Û£¬ÇëÖØÐÂ²éÑ¯£¡
 ±È
 Æ»¹û
-Xserve(MA409CH/A
-A)
+Xserve(MA409CH/A A)
 £¤31900Ôª
 ÍÆ¼öÖ¸Êý
 54
@@ -53403,19 +54893,16 @@ Xserve
 l'
 target="_blank"
 title='Æ»¹û
-Xserve(MA409CH/A
-A)'>
+Xserve(MA409CH/A A)'>
 ->l'
 target="_blank"
 title='Æ»¹û
-Xserve(MA409CH/A
-A)'>
+Xserve(MA409CH/A A)'>
 ¸ü¶àÆ»¹û·þÎñÆ÷¹Ø×¢TOP8
 Æ»¹û
 Xserve
 'Æ»¹û
-Xserve(MA409CH/A
-A)'>
+Xserve(MA409CH/A A)'>
 ¸ü¶à·þÎñÆ÷Æ·ÅÆTOP8
 DELL/´÷¶û
 IBM
@@ -53951,8 +55438,7 @@ T1
 ±È
 DELL
 PowerEdge
-SC1430(Xeon
-5110/1GB/160GB)
+SC1430(Xeon 5110/1GB/160GB)
 £¤6600Ôª
 ÍÆ¼öÖ¸Êý
 59
@@ -53974,8 +55460,7 @@ SC1430±¨¼Û7500...
 ±È
 DELL
 PowerEdge
-1900(Xeon
-5110/1GB/73GB)
+1900(Xeon 5110/1GB/73GB)
 £¤9800Ôª
 ÍÆ¼öÖ¸Êý
 59
@@ -53997,8 +55482,7 @@ DELLµÍ¼ÛÍæ×ªÊÐ³¡
 ±È
 DELL
 PowerEdge
-2950(Xeon
-5130/1GB/73GB)
+2950(Xeon 5130/1GB/73GB)
 £¤11200Ôª
 ÍÆ¼öÖ¸Êý
 63
@@ -54020,8 +55504,7 @@ DELL·þÎñÆ÷ÏÖÔÚÊÛ¼Û17500
 ±È
 DELL
 PowerEdge
-2900(Xeon
-5110/1GB/73GB)
+2900(Xeon 5110/1GB/73GB)
 £¤11500Ôª
 ÍÆ¼öÖ¸Êý
 60
@@ -54044,8 +55527,7 @@ PE2900±¨12800
 ±È
 DELL
 PowerEdge
-1900(Xeon
-5130/1GB/73GB)
+1900(Xeon 5130/1GB/73GB)
 £¤10800Ôª
 ÍÆ¼öÖ¸Êý
 58
@@ -54062,8 +55544,7 @@ Xeon
 ±È
 DELL
 PowerEdge
-860(Xeon
-3050/512MB*2/160GB)
+860(Xeon 3050/512MB*2/160GB)
 £¤6700Ôª
 ÍÆ¼öÖ¸Êý
 61
@@ -54086,8 +55567,7 @@ Xeon
 ±È
 DELL
 PowerEdge
-1900(Xeon
-5130/1GB/146GB)
+1900(Xeon 5130/1GB/146GB)
 £¤14000Ôª
 ÍÆ¼öÖ¸Êý
 59
@@ -54104,8 +55584,7 @@ Xeon
 ±È
 DELL
 PowerEdge
-1950(Xeon
-5110/2GB/146GB*2)
+1950(Xeon 5110/2GB/146GB*2)
 £¤18000Ôª
 ÍÆ¼öÖ¸Êý
 65
@@ -54127,8 +55606,7 @@ DELL»ú¼Ü·þÎñÆ÷µÍ¼Û¿ªÊÛ
 ±È
 DELL
 PowerEdge
-2950(Xeon
-5130/2GB/73GB*3)
+2950(Xeon 5130/2GB/73GB*3)
 £¤23000Ôª
 ÍÆ¼öÖ¸Êý
 61
@@ -54151,8 +55629,7 @@ POWEREDGE
 ±È
 DELL
 PowerEdge
-840(Xeon
-3050/512MB*2/160GB)
+840(Xeon 3050/512MB*2/160GB)
 £¤6500Ôª
 ÍÆ¼öÖ¸Êý
 59
@@ -54173,8 +55650,7 @@ Xeon
 ±È
 DELL
 PowerEdge
-860(Xeon
-3050/512MB/80GB)
+860(Xeon 3050/512MB/80GB)
 £¤6500Ôª
 ÍÆ¼öÖ¸Êý
 57
@@ -54191,8 +55667,7 @@ Xeon
 ±È
 DELL
 PowerEdge
-2950(Xeon
-5050/1GB/73GB)
+2950(Xeon 5050/1GB/73GB)
 £¤8500Ôª
 ÍÆ¼öÖ¸Êý
 66
@@ -54216,8 +55691,7 @@ Xeon
 ±È
 DELL
 PowerEdge
-1950(Xeon
-5110/1GB/146GB)
+1950(Xeon 5110/1GB/146GB)
 £¤10500Ôª
 ÍÆ¼öÖ¸Êý
 70
@@ -54234,8 +55708,7 @@ Xeon
 ±È
 DELL
 PowerEdge
-2950(Xeon
-5110/1GB/73GB)
+2950(Xeon 5110/1GB/73GB)
 £¤10200Ôª
 ÍÆ¼öÖ¸Êý
 64
@@ -54258,8 +55731,7 @@ Dell
 ±È
 DELL
 PowerEdge
-1900(Xeon
-5050/1GB/73GB)
+1900(Xeon 5050/1GB/73GB)
 £¤10000Ôª
 ÍÆ¼öÖ¸Êý
 56
@@ -54364,14 +55836,12 @@ l'
 target="_blank"
 title='DELL
 PowerEdge
-2900(Xeon
-E5310/1GB/73GB)'>
+2900(Xeon E5310/1GB/73GB)'>
 ->l'
 target="_blank"
 title='DELL
 PowerEdge
-2900(Xeon
-E5310/1GB/73GB)'>
+2900(Xeon E5310/1GB/73GB)'>
 ¸ü¶àDELL·þÎñÆ÷¹Ø×¢TOP8
 DELL
 PowerEdge
@@ -54399,8 +55869,7 @@ PowerEdge
 860
 'DELL
 PowerEdge
-860(Xeon
-3050/512MB*2/160GB)'>
+860(Xeon 3050/512MB*2/160GB)'>
 ¸ü¶à·þÎñÆ÷Æ·ÅÆTOP8
 DELL/´÷¶û
 IBM
@@ -56932,9 +58401,7 @@ Opteron
 ±È
 SUN
 Fire
-X2100(AMD
-Opteron
-146/1GB/80GB)
+X2100(AMD Opteron 146/1GB/80GB)
 ¼Û¸ñÃæÒé
 ÍÆ¼öÖ¸Êý
 52
@@ -57755,8 +59222,7 @@ T1
 ·½Õý
 Ô²Ã÷
 MR100
-1400(Xeon
-5160/512MB/80GB)
+1400(Xeon 5160/512MB/80GB)
 £¤21000Ôª
 ÍÆ¼öÖ¸Êý
 53
@@ -57774,8 +59240,7 @@ Xeon
 ·½Õý
 Ô²Ã÷
 LR200
-1400(P4
-524/512MB/80GB)
+1400(P4 524/512MB/80GB)
 £¤8000Ôª
 ÍÆ¼öÖ¸Êý
 52
@@ -57857,15 +59322,13 @@ target="_blank"
 title='·½Õý
 Ô²Ã÷
 LR200
-1400(P4
-524/512MB/80GB)'>
+1400(P4 524/512MB/80GB)'>
 ->l'
 target="_blank"
 title='·½Õý
 Ô²Ã÷
 LR200
-1400(P4
-524/512MB/80GB)'>
+1400(P4 524/512MB/80GB)'>
 ¸ü¶à·½Õý·þÎñÆ÷¹Ø×¢TOP8
 ·½Õý
 Ô²Ã÷
@@ -57878,8 +59341,7 @@ LR200
 '·½Õý
 Ô²Ã÷
 LR200
-1400(P4
-524/512MB/80GB)'>
+1400(P4 524/512MB/80GB)'>
 ¸ü¶à·þÎñÆ÷Æ·ÅÆTOP8
 DELL/´÷¶û
 IBM
@@ -58414,9 +59876,7 @@ T1
 ¶Ô²»Æð£¬Äú²éÑ¯µÄ²úÆ·ÔÝÊ±Ã»ÓÐ±¨¼Û£¬ÇëÖØÐÂ²éÑ¯£¡
 ±È
 »ªË¶
-RS161-E4/PA2(AMD
-Opteron
-2210/512MB)
+RS161-E4/PA2(AMD Opteron 2210/512MB)
 £¤8000Ôª
 ÍÆ¼öÖ¸Êý
 53
@@ -58432,9 +59892,7 @@ Opteron
 ÓÐÎÊ±Ø´ð
 ±È
 »ªË¶
-RS120-E3(Pentium
-D
-2.8GHz/512MB)
+RS120-E3(Pentium D 2.8GHz/512MB)
 £¤8000Ôª
 ÍÆ¼öÖ¸Êý
 50
@@ -58450,9 +59908,7 @@ D\±ê³ÆÖ÷Æµ£¨MHz£©:2800\×î´ó´¦ÀíÆ÷ÊýÁ¿:1\±ê×¼ÄÚ´æÈÝÁ¿:512MB......
 ÓÐÎÊ±Ø´ð
 ±È
 »ªË¶
-TS100-E3/PI2(Pentium
-D
-820/512MB)
+TS100-E3/PI2(Pentium D 820/512MB)
 £¤6000Ôª
 ÍÆ¼öÖ¸Êý
 52
@@ -58472,8 +59928,7 @@ D\±ê³ÆÖ÷Æµ£¨MHz£©:2800\×î´ó´¦ÀíÆ÷ÊýÁ¿:1\±ê×¼ÄÚ´æÈÝÁ¿:512MB......
 [¹²2ÆªÏà¹ØÎÄÕÂ]
 ±È
 »ªË¶
-TS500-E4/PX4(Xeon
-5110/1GB)
+TS500-E4/PX4(Xeon 5110/1GB)
 £¤14000Ôª
 ÍÆ¼öÖ¸Êý
 52
@@ -58492,8 +59947,7 @@ Xeon
 [¹²2ÆªÏà¹ØÎÄÕÂ]
 ±È
 »ªË¶
-RS162-E4/RX4(Xeon
-5110/1GB)
+RS162-E4/RX4(Xeon 5110/1GB)
 £¤14000Ôª
 ÍÆ¼öÖ¸Êý
 56
@@ -58513,8 +59967,7 @@ Xeon
 [¹²2ÆªÏà¹ØÎÄÕÂ]
 ±È
 »ªË¶
-RS120-E4/PA2(Xeon
-3040/512MB/80GB)
+RS120-E4/PA2(Xeon 3040/512MB/80GB)
 £¤10000Ôª
 ÍÆ¼öÖ¸Êý
 54
@@ -58598,15 +60051,11 @@ RS120-E3
 l'
 target="_blank"
 title='»ªË¶
-RS120-E3(Pentium
-D
-2.8GHz/512MB)'>
+RS120-E3(Pentium D 2.8GHz/512MB)'>
 ->l'
 target="_blank"
 title='»ªË¶
-RS120-E3(Pentium
-D
-2.8GHz/512MB)'>
+RS120-E3(Pentium D 2.8GHz/512MB)'>
 ¸ü¶à»ªË¶·þÎñÆ÷¹Ø×¢TOP8
 »ªË¶
 RS120-E4/PA2
@@ -58621,9 +60070,7 @@ RS161-E4/PA2
 »ªË¶
 RS120-E3
 '»ªË¶
-RS120-E3(Pentium
-D
-2.8GHz/512MB)'>
+RS120-E3(Pentium D 2.8GHz/512MB)'>
 ¸ü¶à·þÎñÆ÷Æ·ÅÆTOP8
 DELL/´÷¶û
 IBM
@@ -59855,8 +61302,7 @@ T1
 ¶Ô²»Æð£¬Äú²éÑ¯µÄ²úÆ·ÔÝÊ±Ã»ÓÐ±¨¼Û£¬ÇëÖØÐÂ²éÑ¯£¡
 ±È
 ÀË³±
-Ó¢ÐÅNF290D(Xeon
-5110/1GB/73SCSI/6*HSB)
+Ó¢ÐÅNF290D(Xeon 5110/1GB/73SCSI/6*HSB)
 £¤20300Ôª
 ÍÆ¼öÖ¸Êý
 58
@@ -59872,8 +61318,7 @@ Xeon
 ÓÐÎÊ±Ø´ð
 ±È
 ÀË³±
-Ó¢ÐÅNF290DPR(Xeon
-E5320/2GB/73SAS*3/6*HSB)
+Ó¢ÐÅNF290DPR(Xeon E5320/2GB/73SAS*3/6*HSB)
 £¤40000Ôª
 ÍÆ¼öÖ¸Êý
 58
@@ -59889,8 +61334,7 @@ E5320\±ê³ÆÖ÷Æµ£¨MHz£©:1860\×î´ó´¦ÀíÆ÷ÊýÁ¿:2\±ê×¼ÄÚ´æÈÝÁ¿:2GB......
 ÓÐÎÊ±Ø´ð
 ±È
 ÀË³±
-Ó¢ÐÅNF290DPR(Xeon
-E5320/2GB/73SCSI*3/6*HSB)
+Ó¢ÐÅNF290DPR(Xeon E5320/2GB/73SCSI*3/6*HSB)
 £¤36500Ôª
 ÍÆ¼öÖ¸Êý
 58
@@ -59906,8 +61350,7 @@ E5320\±ê³ÆÖ÷Æµ£¨MHz£©:1860\×î´ó´¦ÀíÆ÷ÊýÁ¿:2\±ê×¼ÄÚ´æÈÝÁ¿:2GB......
 ÓÐÎÊ±Ø´ð
 ±È
 ÀË³±
-Ó¢ÐÅNF290DR(Xeon
-E5320/2GB/73SCSI*3/6*HSB)
+Ó¢ÐÅNF290DR(Xeon E5320/2GB/73SCSI*3/6*HSB)
 £¤35100Ôª
 ÍÆ¼öÖ¸Êý
 58
@@ -59923,8 +61366,7 @@ E5320\±ê³ÆÖ÷Æµ£¨MHz£©:1860\×î´ó´¦ÀíÆ÷ÊýÁ¿:2\±ê×¼ÄÚ´æÈÝÁ¿:2GB......
 ÓÐÎÊ±Ø´ð
 ±È
 ÀË³±
-Ó¢ÐÅNP370DH(Xeon
-5110/1GB/73GB/6*HSB)
+Ó¢ÐÅNP370DH(Xeon 5110/1GB/73GB/6*HSB)
 £¤13000Ôª
 ÍÆ¼öÖ¸Êý
 55
@@ -59940,8 +61382,7 @@ Xeon
 ÓÐÎÊ±Ø´ð
 ±È
 ÀË³±
-Ó¢ÐÅNP370DR(Xeon
-5110/1GB/160GB*2)
+Ó¢ÐÅNP370DR(Xeon 5110/1GB/160GB*2)
 £¤10000Ôª
 ÍÆ¼öÖ¸Êý
 57
@@ -59957,8 +61398,7 @@ Xeon
 ÓÐÎÊ±Ø´ð
 ±È
 ÀË³±
-Ó¢ÐÅNP370D(Xeon
-5110/1GB/160GB)
+Ó¢ÐÅNP370D(Xeon 5110/1GB/160GB)
 £¤12000Ôª
 ÍÆ¼öÖ¸Êý
 55
@@ -59974,8 +61414,7 @@ Xeon
 ÓÐÎÊ±Ø´ð
 ±È
 ÀË³±
-Ó¢ÐÅNP120DR(Intel
-3040/1GB/160GB*2)
+Ó¢ÐÅNP120DR(Intel 3040/1GB/160GB*2)
 £¤9000Ôª
 ÍÆ¼öÖ¸Êý
 58
@@ -59991,8 +61430,7 @@ Xeon
 ÓÐÎÊ±Ø´ð
 ±È
 ÀË³±
-Ó¢ÐÅNP370DHR(Xeon
-E5310/1GB/160GB*2/4*HSB)
+Ó¢ÐÅNP370DHR(Xeon E5310/1GB/160GB*2/4*HSB)
 £¤15000Ôª
 ÍÆ¼öÖ¸Êý
 58
@@ -60008,8 +61446,7 @@ E5310\±ê³ÆÖ÷Æµ£¨MHz£©:1600\×î´ó´¦ÀíÆ÷ÊýÁ¿:2\±ê×¼ÄÚ´æÈÝÁ¿:1GB......
 ÓÐÎÊ±Ø´ð
 ±È
 ÀË³±
-Ó¢ÐÅNP370DH(Xeon
-E5310/1GB/73GB/6*HSB)
+Ó¢ÐÅNP370DH(Xeon E5310/1GB/73GB/6*HSB)
 £¤15000Ôª
 ÍÆ¼öÖ¸Êý
 58
@@ -60025,8 +61462,7 @@ E5310\±ê³ÆÖ÷Æµ£¨MHz£©:1600\×î´ó´¦ÀíÆ÷ÊýÁ¿:2\±ê×¼ÄÚ´æÈÝÁ¿:1GB......
 ÓÐÎÊ±Ø´ð
 ±È
 ÀË³±
-Ó¢ÐÅNF190D(Xeon
-5110/1GB/160GB)
+Ó¢ÐÅNF190D(Xeon 5110/1GB/160GB)
 £¤12500Ôª
 ÍÆ¼öÖ¸Êý
 57
@@ -60042,9 +61478,7 @@ Xeon
 ÓÐÎÊ±Ø´ð
 ±È
 ÀË³±
-Ó¢ÐÅNF190DS(Xeon
-5110/1GB/320GB
-SCSI/2*HSB)
+Ó¢ÐÅNF190DS(Xeon 5110/1GB/320GB SCSI/2*HSB)
 £¤16900Ôª
 ÍÆ¼öÖ¸Êý
 59
@@ -60063,9 +61497,7 @@ Xeon
 [¹²1ÆªÏà¹ØÎÄÕÂ]
 ±È
 ÀË³±
-Ó¢ÐÅNF190DS(Xeon
-E5310/2GB/73GB
-SAS/2*HSB)
+Ó¢ÐÅNF190DS(Xeon E5310/2GB/73GB SAS/2*HSB)
 £¤21700Ôª
 ÍÆ¼öÖ¸Êý
 59
@@ -60081,8 +61513,7 @@ E5310\±ê³ÆÖ÷Æµ£¨MHz£©:1600\×î´ó´¦ÀíÆ÷ÊýÁ¿:2\±ê×¼ÄÚ´æÈÝÁ¿:2GB......
 ÓÐÎÊ±Ø´ð
 ±È
 ÀË³±
-Ó¢ÐÅNF190D(Xeon
-E5310/2GB/73GB*3/4*HSB)
+Ó¢ÐÅNF190D(Xeon E5310/2GB/73GB*3/4*HSB)
 £¤33900Ôª
 ÍÆ¼öÖ¸Êý
 59
@@ -60098,9 +61529,7 @@ E5310\±ê³ÆÖ÷Æµ£¨MHz£©:1600\×î´ó´¦ÀíÆ÷ÊýÁ¿:2\±ê×¼ÄÚ´æÈÝÁ¿:2GB......
 ÓÐÎÊ±Ø´ð
 ±È
 ÀË³±
-Ó¢ÐÅNL230DPR(Xeon
-E5310/2GB/73GB*3
-SAS/8*HSB)
+Ó¢ÐÅNL230DPR(Xeon E5310/2GB/73GB*3 SAS/8*HSB)
 £¤42300Ôª
 ÍÆ¼öÖ¸Êý
 58
@@ -60191,13 +61620,11 @@ arget="_blank">ÖÂÈÙ·þÎñÆ÷
 l'
 target="_blank"
 title='ÀË³±
-Ó¢ÐÅNF130D(Pentium
-D925/1GB/160GB)'>
+Ó¢ÐÅNF130D(Pentium D925/1GB/160GB)'>
 ->l'
 target="_blank"
 title='ÀË³±
-Ó¢ÐÅNF130D(Pentium
-D925/1GB/160GB)'>
+Ó¢ÐÅNF130D(Pentium D925/1GB/160GB)'>
 ¸ü¶àÀË³±·þÎñÆ÷¹Ø×¢TOP8
 ÀË³±
 Ó¢ÐÅNP370D
@@ -60216,9 +61643,7 @@ D925/1GB/160GB)'>
 ÀË³±
 Ó¢ÐÅNF380DP
 'ÀË³±
-Ó¢ÐÅNF380DP(Xeon
-E5320/2GB/146GB
-SAS/8*HSB)'>
+Ó¢ÐÅNF380DP(Xeon E5320/2GB/146GB SAS/8*HSB)'>
 ¸ü¶à·þÎñÆ÷Æ·ÅÆTOP8
 DELL/´÷¶û
 IBM
@@ -60755,8 +62180,7 @@ T1
 ÁªÏë
 ÍòÈ«
 R630
-G6(S3.16GX4
-1G/0ANPÎÞµ¼¹ì)
+G6(S3.16GX4 1G/0ANPÎÞµ¼¹ì)
 £¤90000Ôª
 ÍÆ¼öÖ¸Êý
 54
@@ -60776,8 +62200,7 @@ MP\±ê³ÆÖ÷Æµ£¨MHz£©:3160\×î´ó´¦ÀíÆ÷ÊýÁ¿:4\±ê×¼ÄÚ´æÈÝÁ¿:512MB*2......
 ÁªÏë
 ÍòÈ«
 R630
-G6(S3.16GX4
-1G/0NPÎÞµ¼¹ì)
+G6(S3.16GX4 1G/0NPÎÞµ¼¹ì)
 £¤92000Ôª
 ÍÆ¼öÖ¸Êý
 53
@@ -60798,8 +62221,7 @@ MP\±ê³ÆÖ÷Æµ£¨MHz£©:3160\×î´ó´¦ÀíÆ÷ÊýÁ¿:4\±ê×¼ÄÚ´æÈÝÁ¿:512MB*2......
 ±È
 ÁªÏë
 ÍòÈ«
-R280(S5310
-1G/73NR1)
+R280(S5310 1G/73NR1)
 £¤23000Ôª
 ÍÆ¼öÖ¸Êý
 57
@@ -60817,8 +62239,7 @@ E5310\±ê³ÆÖ÷Æµ£¨MHz£©:1600\×î´ó´¦ÀíÆ÷ÊýÁ¿:2\±ê×¼ÄÚ´æÈÝÁ¿:1GB......
 ÁªÏë
 ÍòÈ«
 R510
-G6(S5310
-1G/160SNÈíµ¼)
+G6(S5310 1G/160SNÈíµ¼)
 £¤18000Ôª
 ÍÆ¼öÖ¸Êý
 57
@@ -60836,9 +62257,7 @@ E5310\±ê³ÆÖ÷Æµ£¨MHz£©:1600\×î´ó´¦ÀíÆ÷ÊýÁ¿:2\±ê×¼ÄÚ´æÈÝÁ¿:1GB......
 ÁªÏë
 ÍòÈ«
 R510
-G6(S5310
-1G/73ANÈíµ¼
-15K)
+G6(S5310 1G/73ANÈíµ¼ 15K)
 £¤24500Ôª
 ÍÆ¼öÖ¸Êý
 57
@@ -60856,8 +62275,7 @@ E5310\±ê³ÆÖ÷Æµ£¨MHz£©:1600\×î´ó´¦ÀíÆ÷ÊýÁ¿:2\±ê×¼ÄÚ´æÈÝÁ¿:1GB......
 ÁªÏë
 ÍòÈ«
 R510
-G6(S5310
-1G/73NÈíµ¼)
+G6(S5310 1G/73NÈíµ¼)
 £¤22000Ôª
 ÍÆ¼öÖ¸Êý
 57
@@ -60875,8 +62293,7 @@ E5310\±ê³ÆÖ÷Æµ£¨MHz£©:1600\×î´ó´¦ÀíÆ÷ÊýÁ¿:2\±ê×¼ÄÚ´æÈÝÁ¿:1GB......
 ÁªÏë
 ÍòÈ«
 R520
-G6(S5310
-1G/73NÈíµ¼)
+G6(S5310 1G/73NÈíµ¼)
 £¤23500Ôª
 ÍÆ¼öÖ¸Êý
 57
@@ -60894,8 +62311,7 @@ E5310\±ê³ÆÖ÷Æµ£¨MHz£©:1600\×î´ó´¦ÀíÆ÷ÊýÁ¿:2\±ê×¼ÄÚ´æÈÝÁ¿:1GB......
 ÁªÏë
 ÍòÈ«
 R520
-G6(S5310
-1G/160SNÈíµ¼)
+G6(S5310 1G/160SNÈíµ¼)
 £¤18000Ôª
 ÍÆ¼öÖ¸Êý
 57
@@ -60913,9 +62329,7 @@ E5310\±ê³ÆÖ÷Æµ£¨MHz£©:1600\×î´ó´¦ÀíÆ÷ÊýÁ¿:2\±ê×¼ÄÚ´æÈÝÁ¿:1GB......
 ÁªÏë
 ÍòÈ«
 R520
-G6(S5310
-1G/73ANÈíµ¼
-15K)
+G6(S5310 1G/73ANÈíµ¼ 15K)
 £¤24000Ôª
 ÍÆ¼öÖ¸Êý
 57
@@ -60932,9 +62346,7 @@ E5310\±ê³ÆÖ÷Æµ£¨MHz£©:1600\×î´ó´¦ÀíÆ÷ÊýÁ¿:2\±ê×¼ÄÚ´æÈÝÁ¿:1GB......
 ±È
 ÁªÏë
 ÍòÈ«
-T280(S5310
-1G
-/73N)
+T280(S5310 1G /73N)
 £¤16002Ôª
 ÍÆ¼öÖ¸Êý
 57
@@ -60956,9 +62368,7 @@ T280·þÎñÆ÷½öÊÛ18200Ôª£¡
 ±È
 ÁªÏë
 ÍòÈ«
-T280(S5310
-1G
-/73NÈÈ²å°Î)
+T280(S5310 1G /73NÈÈ²å°Î)
 £¤18050Ôª
 ÍÆ¼öÖ¸Êý
 57
@@ -60975,10 +62385,7 @@ E5310\±ê³ÆÖ÷Æµ£¨MHz£©:1600\×î´ó´¦ÀíÆ÷ÊýÁ¿:2\±ê×¼ÄÚ´æÈÝÁ¿:1GB......
 ±È
 ÁªÏë
 ÍòÈ«
-T280(S5310
-1G
-/2*160SN
-HR)
+T280(S5310 1G /2*160SN HR)
 £¤16006Ôª
 ÍÆ¼öÖ¸Êý
 57
@@ -60995,10 +62402,7 @@ E5310\±ê³ÆÖ÷Æµ£¨MHz£©:1600\×î´ó´¦ÀíÆ÷ÊýÁ¿:2\±ê×¼ÄÚ´æÈÝÁ¿:1GB......
 ±È
 ÁªÏë
 ÍòÈ«
-T280(S5310
-1G
-/2*160SNÈÈ²å°Î
-HR)
+T280(S5310 1G /2*160SNÈÈ²å°Î HR)
 £¤16001Ôª
 ÍÆ¼öÖ¸Êý
 57
@@ -61015,8 +62419,7 @@ E5310\±ê³ÆÖ÷Æµ£¨MHz£©:1600\×î´ó´¦ÀíÆ÷ÊýÁ¿:2\±ê×¼ÄÚ´æÈÝÁ¿:1GB......
 ±È
 ÁªÏë
 ÍòÈ«
-T280(S5310
-1G/73NR1)
+T280(S5310 1G/73NR1)
 £¤20000Ôª
 ÍÆ¼öÖ¸Êý
 57
@@ -61033,8 +62436,7 @@ E5310\±ê³ÆÖ÷Æµ£¨MHz£©:1600\×î´ó´¦ÀíÆ÷ÊýÁ¿:2\±ê×¼ÄÚ´æÈÝÁ¿:1GB......
 ±È
 ÁªÏë
 ÍòÈ«
-T280(S5310
-1G/73AN)
+T280(S5310 1G/73AN)
 £¤20000Ôª
 ÍÆ¼öÖ¸Êý
 57
@@ -61140,15 +62542,13 @@ target="_blank"
 title='ÁªÏë
 ÍòÈ«
 T400
-G7(S641
-1G/160SÇ§Õ×)'>
+G7(S641 1G/160SÇ§Õ×)'>
 ->l'
 target="_blank"
 title='ÁªÏë
 ÍòÈ«
 T400
-G7(S641
-1G/160SÇ§Õ×)'>
+G7(S641 1G/160SÇ§Õ×)'>
 ¸ü¶àÁªÏë·þÎñÆ÷¹Ø×¢TOP8
 ÁªÏë
 ÍòÈ«
@@ -61185,8 +62585,7 @@ G4
 'ÁªÏë
 ÍòÈ«
 T168
-G4(S3040
-1G/250SC)'>
+G4(S3040 1G/250SC)'>
 ¸ü¶à·þÎñÆ÷Æ·ÅÆTOP8
 DELL/´÷¶û
 IBM
@@ -62312,8 +63711,7 @@ T1
 ¶Ô²»Æð£¬Äú²éÑ¯µÄ²úÆ·ÔÝÊ±Ã»ÓÐ±¨¼Û£¬ÇëÖØÐÂ²éÑ¯£¡
 ±È
 Êï¹â
-ÌìÀ«A650£¨r£©-FY1(Opteron
-2214/1GB/160GB)
+ÌìÀ«A650£¨r£©-FY1(Opteron 2214/1GB/160GB)
 £¤21900Ôª
 ÍÆ¼öÖ¸Êý
 59
@@ -62329,8 +63727,7 @@ Opteron
 ÓÐÎÊ±Ø´ð
 ±È
 Êï¹â
-ÌìÀ«A650£¨r£©-FY2(Opteron
-2214/1GB/73GB)
+ÌìÀ«A650£¨r£©-FY2(Opteron 2214/1GB/73GB)
 £¤30400Ôª
 ÍÆ¼öÖ¸Êý
 59
@@ -62346,8 +63743,7 @@ Opteron
 ÓÐÎÊ±Ø´ð
 ±È
 Êï¹â
-ÌìÀ«A650£¨r£©-FY3(Opteron
-2214/1GB/73GB*2)
+ÌìÀ«A650£¨r£©-FY3(Opteron 2214/1GB/73GB*2)
 £¤40400Ôª
 ÍÆ¼öÖ¸Êý
 59
@@ -62363,8 +63759,7 @@ Opteron
 ÓÐÎÊ±Ø´ð
 ±È
 Êï¹â
-ÌìÀ«A650£¨r£©-F6(Opteron
-2214/1GB/73GB)
+ÌìÀ«A650£¨r£©-F6(Opteron 2214/1GB/73GB)
 £¤28400Ôª
 ÍÆ¼öÖ¸Êý
 58
@@ -62380,8 +63775,7 @@ Opteron
 ÓÐÎÊ±Ø´ð
 ±È
 Êï¹â
-ÌìÀ«A650£¨r£©-F7(Opteron
-2214/1GB/73GB*2)
+ÌìÀ«A650£¨r£©-F7(Opteron 2214/1GB/73GB*2)
 £¤37100Ôª
 ÍÆ¼öÖ¸Êý
 58
@@ -62397,8 +63791,7 @@ Opteron
 ÓÐÎÊ±Ø´ð
 ±È
 Êï¹â
-ÌìÀ«A650£¨r£©-F10(Opteron
-2214/1GB/73GB*2)
+ÌìÀ«A650£¨r£©-F10(Opteron 2214/1GB/73GB*2)
 £¤43800Ôª
 ÍÆ¼öÖ¸Êý
 58
@@ -62414,8 +63807,7 @@ Opteron
 ÓÐÎÊ±Ø´ð
 ±È
 Êï¹â
-ÌìÀ«A610r-F1(Opteron
-2214/1GB/73GB)
+ÌìÀ«A610r-F1(Opteron 2214/1GB/73GB)
 £¤32200Ôª
 ÍÆ¼öÖ¸Êý
 58
@@ -62431,8 +63823,7 @@ Opteron
 ÓÐÎÊ±Ø´ð
 ±È
 Êï¹â
-ÌìÀ«A620£¨r£©-FY1(Opteron
-2214/1GB/160GB)
+ÌìÀ«A620£¨r£©-FY1(Opteron 2214/1GB/160GB)
 £¤22000Ôª
 ÍÆ¼öÖ¸Êý
 58
@@ -62448,8 +63839,7 @@ Opteron
 ÓÐÎÊ±Ø´ð
 ±È
 Êï¹â
-ÌìÀ«A620£¨r£©-F7(Opteron
-2214/1GB/73GB*2)
+ÌìÀ«A620£¨r£©-F7(Opteron 2214/1GB/73GB*2)
 £¤37600Ôª
 ÍÆ¼öÖ¸Êý
 58
@@ -62465,8 +63855,7 @@ Opteron
 ÓÐÎÊ±Ø´ð
 ±È
 Êï¹â
-ÌìÀ«A620£¨r£©-F10(Opteron
-2214/1GB/73GB*2)
+ÌìÀ«A620£¨r£©-F10(Opteron 2214/1GB/73GB*2)
 £¤44400Ôª
 ÍÆ¼öÖ¸Êý
 58
@@ -62482,8 +63871,7 @@ Opteron
 ÓÐÎÊ±Ø´ð
 ±È
 Êï¹â
-ÌìÀ«A440£¨r£©-FY1(Opteron
-2214/1GB/160GB)
+ÌìÀ«A440£¨r£©-FY1(Opteron 2214/1GB/160GB)
 £¤19000Ôª
 ÍÆ¼öÖ¸Êý
 58
@@ -62499,9 +63887,7 @@ Opteron
 ÓÐÎÊ±Ø´ð
 ±È
 Êï¹â
-ÌìÀ«A820r-F3(AMD
-Opteron
-8212*2/2GB/160GB)
+ÌìÀ«A820r-F3(AMD Opteron 8212*2/2GB/160GB)
 £¤72700Ôª
 ÍÆ¼öÖ¸Êý
 58
@@ -62517,9 +63903,7 @@ Opteron
 ÓÐÎÊ±Ø´ð
 ±È
 Êï¹â
-ÌìÀ«A830£¨r£©-F3(AMD
-Opteron
-8212*2/2GB/160GB)
+ÌìÀ«A830£¨r£©-F3(AMD Opteron 8212*2/2GB/160GB)
 £¤82500Ôª
 ÍÆ¼öÖ¸Êý
 58
@@ -62535,8 +63919,7 @@ Opteron
 ÓÐÎÊ±Ø´ð
 ±È
 Êï¹â
-ÌìÀ«I450£¨r£©-F3(Xeon
-5110/512MB/73GB)
+ÌìÀ«I450£¨r£©-F3(Xeon 5110/512MB/73GB)
 £¤26300Ôª
 ÍÆ¼öÖ¸Êý
 58
@@ -62552,8 +63935,7 @@ Xeon
 ÓÐÎÊ±Ø´ð
 ±È
 Êï¹â
-ÌìÀ«I650£¨r£©-F2(Xeon
-5110/1GB/73GB*2)
+ÌìÀ«I650£¨r£©-F2(Xeon 5110/1GB/73GB*2)
 £¤36000Ôª
 ÍÆ¼öÖ¸Êý
 58
@@ -62646,13 +64028,11 @@ arget="_blank">ÖÂÈÙ·þÎñÆ÷
 l'
 target="_blank"
 title='Êï¹â
-ÌìÀ«A620£¨r£©-FY1(Opteron
-2214/1GB/160GB)'>
+ÌìÀ«A620£¨r£©-FY1(Opteron 2214/1GB/160GB)'>
 ->l'
 target="_blank"
 title='Êï¹â
-ÌìÀ«A620£¨r£©-FY1(Opteron
-2214/1GB/160GB)'>
+ÌìÀ«A620£¨r£©-FY1(Opteron 2214/1GB/160GB)'>
 ¸ü¶àÊï¹â·þÎñÆ÷¹Ø×¢TOP8
 Êï¹â
 ÌìÀ«A620£¨r£©-F7
@@ -62671,8 +64051,7 @@ title='Êï¹â
 Êï¹â
 ÌìÀ«A650£¨r£©-F4
 'Êï¹â
-ÌìÀ«A650£¨r£©-F4(Opteron
-2210/1GB/73GB)'>
+ÌìÀ«A650£¨r£©-F4(Opteron 2210/1GB/73GB)'>
 ¸ü¶à·þÎñÆ÷Æ·ÅÆTOP8
 DELL/´÷¶û
 IBM
@@ -64389,8 +65768,7 @@ T1
 ¶Ô²»Æð£¬Äú²éÑ¯µÄ²úÆ·ÔÝÊ±Ã»ÓÐ±¨¼Û£¬ÇëÖØÐÂ²éÑ¯£¡
 ±È
 ÎåÖÛ
-SF5103(Xeon
-5110/1GB/160GB)
+SF5103(Xeon 5110/1GB/160GB)
 £¤11200Ôª
 ÍÆ¼öÖ¸Êý
 54
@@ -64406,8 +65784,7 @@ Xeon
 ÓÐÎÊ±Ø´ð
 ±È
 ÎåÖÛ
-SF5103(Xeon
-5110/1GB/73GB)
+SF5103(Xeon 5110/1GB/73GB)
 £¤12500Ôª
 ÍÆ¼öÖ¸Êý
 54
@@ -64423,8 +65800,7 @@ Xeon
 ÓÐÎÊ±Ø´ð
 ±È
 ÎåÖÛ
-SF5203(Xeon
-5110/1GB/160GB)
+SF5203(Xeon 5110/1GB/160GB)
 £¤11200Ôª
 ÍÆ¼öÖ¸Êý
 54
@@ -64440,8 +65816,7 @@ Xeon
 ÓÐÎÊ±Ø´ð
 ±È
 ÎåÖÛ
-SF5203(Xeon
-5110/1GB/73GB)
+SF5203(Xeon 5110/1GB/73GB)
 £¤12500Ôª
 ÍÆ¼öÖ¸Êý
 54
@@ -64457,8 +65832,7 @@ Xeon
 ÓÐÎÊ±Ø´ð
 ±È
 ÎåÖÛ
-SF5503(Xeon
-5110/1GB/160GB)
+SF5503(Xeon 5110/1GB/160GB)
 £¤10500Ôª
 ÍÆ¼öÖ¸Êý
 54
@@ -64474,8 +65848,7 @@ Xeon
 ÓÐÎÊ±Ø´ð
 ±È
 ÎåÖÛ
-SF5503(Xeon
-5110/1GB/73GB(SCSI))
+SF5503(Xeon 5110/1GB/73GB(SCSI))
 £¤12000Ôª
 ÍÆ¼öÖ¸Êý
 54
@@ -64491,8 +65864,7 @@ Xeon
 ÓÐÎÊ±Ø´ð
 ±È
 ÎåÖÛ
-SF5503(Xeon
-5110/1GB/73GB(SAS))
+SF5503(Xeon 5110/1GB/73GB(SAS))
 £¤14500Ôª
 ÍÆ¼öÖ¸Êý
 54
@@ -64508,8 +65880,7 @@ Xeon
 ÓÐÎÊ±Ø´ð
 ±È
 ÎåÖÛ
-SF6105(Xeon
-5110/1GB/73GB(SCSI))
+SF6105(Xeon 5110/1GB/73GB(SCSI))
 £¤14500Ôª
 ÍÆ¼öÖ¸Êý
 54
@@ -64525,8 +65896,7 @@ Xeon
 ÓÐÎÊ±Ø´ð
 ±È
 ÎåÖÛ
-SF6405(Xeon
-5110/1GB/320GB*16)
+SF6405(Xeon 5110/1GB/320GB*16)
 £¤52800Ôª
 ÍÆ¼öÖ¸Êý
 54
@@ -64542,8 +65912,7 @@ Xeon
 ÓÐÎÊ±Ø´ð
 ±È
 ÎåÖÛ
-SF6605(Xeon
-5110/1GB/320GB*24)
+SF6605(Xeon 5110/1GB/320GB*24)
 £¤88000Ôª
 ÍÆ¼öÖ¸Êý
 54
@@ -64559,8 +65928,7 @@ Xeon
 ÓÐÎÊ±Ø´ð
 ±È
 ÎåÖÛ
-SF3880(Xeon
-5110/1GB/73GB)
+SF3880(Xeon 5110/1GB/73GB)
 £¤9880Ôª
 ÍÆ¼öÖ¸Êý
 53
@@ -64576,8 +65944,7 @@ Xeon
 ÓÐÎÊ±Ø´ð
 ±È
 ÎåÖÛ
-SF3850(Xeon
-5110/1GB/160GB)
+SF3850(Xeon 5110/1GB/160GB)
 £¤8880Ôª
 ÍÆ¼öÖ¸Êý
 51
@@ -64593,8 +65960,7 @@ Xeon
 ÓÐÎÊ±Ø´ð
 ±È
 ÎåÖÛ
-SF6205(Xeon
-5110/1GB/146GB)
+SF6205(Xeon 5110/1GB/146GB)
 £¤16800Ôª
 ÍÆ¼öÖ¸Êý
 56
@@ -64610,9 +65976,7 @@ Xeon
 ÓÐÎÊ±Ø´ð
 ±È
 ÎåÖÛ
-SA4503(AMD
-Opteron
-2210/1GB/160GB)
+SA4503(AMD Opteron 2210/1GB/160GB)
 £¤10800Ôª
 ÍÆ¼öÖ¸Êý
 56
@@ -64628,9 +65992,7 @@ Opteron
 ÓÐÎÊ±Ø´ð
 ±È
 ÎåÖÛ
-SA4503(AMD
-Opteron
-2210/1GB/146GB)
+SA4503(AMD Opteron 2210/1GB/146GB)
 £¤15500Ôª
 ÍÆ¼öÖ¸Êý
 56
@@ -64719,13 +66081,11 @@ SF6405
 l'
 target="_blank"
 title='ÎåÖÛ
-SF6405(Xeon
-5110/1GB*2/160GB)'>
+SF6405(Xeon 5110/1GB*2/160GB)'>
 ->l'
 target="_blank"
 title='ÎåÖÛ
-SF6405(Xeon
-5110/1GB*2/160GB)'>
+SF6405(Xeon 5110/1GB*2/160GB)'>
 ¸ü¶àÎåÖÛ·þÎñÆ÷¹Ø×¢TOP8
 ÎåÖÛ
 SF6105
@@ -64744,8 +66104,7 @@ SA4203
 ÎåÖÛ
 SF3880
 'ÎåÖÛ
-SF3880(Xeon
-5110/1GB/73GB)'>
+SF3880(Xeon 5110/1GB/73GB)'>
 ¸ü¶à·þÎñÆ÷Æ·ÅÆTOP8
 DELL/´÷¶û
 IBM
@@ -65125,9 +66484,7 @@ IIIi
 ±È
 HP
 workstation
-XW8400(Intel
-Xeon
-5110/512MB*2/80GB)
+XW8400(Intel Xeon 5110/512MB*2/80GB)
 £¤14000Ôª
 ÍÆ¼öÖ¸Êý
 69
@@ -65144,9 +66501,7 @@ Xeon
 ±È
 HP
 workstation
-XW8400(Intel
-Xeon
-5150/512MB*2/80GB)
+XW8400(Intel Xeon 5150/512MB*2/80GB)
 £¤18000Ôª
 ÍÆ¼öÖ¸Êý
 69
@@ -65163,10 +66518,7 @@ Xeon
 ±È
 DELL
 Precision
-390(Intel
-Pentium
-4
-3.0GHz/2GB/146GB)
+390(Intel Pentium 4 3.0GHz/2GB/146GB)
 £¤20000Ôª
 ÍÆ¼öÖ¸Êý
 58
@@ -65183,9 +66535,7 @@ Pentium
 ±È
 DELL
 Precision
-690(Intel
-Xeon
-5050/2GB/146GB)
+690(Intel Xeon 5050/2GB/146GB)
 £¤16900Ôª
 ÍÆ¼öÖ¸Êý
 61
@@ -65202,9 +66552,7 @@ Xeon
 ±È
 DELL
 Precision
-490(Intel
-Xeon
-5050/4GB/500GB)
+490(Intel Xeon 5050/4GB/500GB)
 £¤25000Ôª
 ÍÆ¼öÖ¸Êý
 64
@@ -65226,9 +66574,7 @@ Xeon
 ±È
 DELL
 Precision
-490(Intel
-Xeon
-5050/2GB/500GB)
+490(Intel Xeon 5050/2GB/500GB)
 £¤20000Ôª
 ÍÆ¼öÖ¸Êý
 62
@@ -65250,9 +66596,7 @@ Xeon
 ±È
 HP
 workstation
-XW8400(Intel
-Xeon
-5120/512MB*2/80GB)
+XW8400(Intel Xeon 5120/512MB*2/80GB)
 £¤21500Ôª
 ÍÆ¼öÖ¸Êý
 70
@@ -65274,9 +66618,7 @@ Xeon
 ±È
 HP
 workstation
-XW8400(Intel
-Xeon
-5140/512MB*2/80GB)
+XW8400(Intel Xeon 5140/512MB*2/80GB)
 £¤16000Ôª
 ÍÆ¼öÖ¸Êý
 67
@@ -65293,9 +66635,7 @@ Xeon
 ±È
 HP
 workstation
-XW6400(Intel
-Xeon
-5140/512MB*2/80GB)
+XW6400(Intel Xeon 5140/512MB*2/80GB)
 £¤15000Ôª
 ÍÆ¼öÖ¸Êý
 68
@@ -65312,8 +66652,7 @@ Xeon
 ±È
 DELL
 Precision
-M60(P-M
-1.7GHz/512MB/40GB)
+M60(P-M 1.7GHz/512MB/40GB)
 £¤18000Ôª
 ÍÆ¼öÖ¸Êý
 62
@@ -65329,11 +66668,7 @@ Pentium-M\±ê³ÆÖ÷Æµ£¨MHz£©:1700\±ê×¼ÄÚ´æÈÝÁ¿:512MB\ÏÔ´æÈÝÁ¿£¨MB£©:128\ÏÔÊ¾Æ÷³ß´ç:
 ±È
 HP
 workstation
-XW4400(Intel
-Core
-2
-Duo
-E6400/512MB*2/80GB)
+XW4400(Intel Core 2 Duo E6400/512MB*2/80GB)
 £¤8000Ôª
 ÍÆ¼öÖ¸Êý
 71
@@ -65351,11 +66686,7 @@ E6400\±ê³ÆÖ÷Æµ£¨MHz£©:2130\±ê×¼ÄÚ´æÈÝÁ¿:512MB*2\ÏÔ´æÈÝÁ¿£¨MB£©:128\ÏÔÊ¾Æ÷³ß´ç:Ñ¡
 ±È
 DELL
 Precision
-390(Intel
-Core
-2
-Duo
-E6700/2GB/250GB)
+390(Intel Core 2 Duo E6700/2GB/250GB)
 £¤22530Ôª
 ÍÆ¼öÖ¸Êý
 59
@@ -65376,9 +66707,7 @@ E6700\±ê³ÆÖ÷Æµ£¨MHz£©:2660\±ê×¼ÄÚ´æÈÝÁ¿:2GB\ÏÔ´æÈÝÁ¿£¨MB£©:256\ÏÔÊ¾Æ÷³ß´ç:Ñ¡Åä..
 ±È
 DELL
 Precision
-490(Intel
-Xeon
-5080/1GB/160GB)
+490(Intel Xeon 5080/1GB/160GB)
 £¤21000Ôª
 ÍÆ¼öÖ¸Êý
 63
@@ -65400,10 +66729,7 @@ Xeon
 ±È
 DELL
 Precision
-M90(Core
-2
-Duo
-T5600/1G/120GB)
+M90(Core 2 Duo T5600/1G/120GB)
 £¤23000Ôª
 ÍÆ¼öÖ¸Êý
 67
@@ -65421,9 +66747,7 @@ T5600\±ê³ÆÖ÷Æµ£¨MHz£©:1830\±ê×¼ÄÚ´æÈÝÁ¿:1GB\ÏÔ´æÈÝÁ¿£¨MB£©:256\ÏÔÊ¾Æ÷³ß´ç:17Ó¢´ç
 ±È
 DELL
 Precision
-490(Intel
-Xeon
-5060/2GB/160GB)
+490(Intel Xeon 5060/2GB/160GB)
 £¤13000Ôª
 ÍÆ¼öÖ¸Êý
 68
@@ -65525,16 +66849,12 @@ l'
 target="_blank"
 title='HP
 workstation
-XW6600(Intel
-Xeon
-E5410/2GB/500GB)'>
+XW6600(Intel Xeon E5410/2GB/500GB)'>
 ->l'
 target="_blank"
 title='HP
 workstation
-XW6600(Intel
-Xeon
-E5410/2GB/500GB)'>
+XW6600(Intel Xeon E5410/2GB/500GB)'>
 ¸ü¶à¹¤×÷Õ¾¹Ø×¢TOP8
 HP
 workstation
@@ -65562,11 +66882,7 @@ workstation
 XW4400
 'HP
 workstation
-XW4400(Intel
-Core
-2
-Duo
-E6400/512MB*2/80GB)'>
+XW4400(Intel Core 2 Duo E6400/512MB*2/80GB)'>
 ¸ü¶à¹¤×÷Õ¾Æ·ÅÆTOP8
 HP/»ÝÆÕ
 DELL/´÷¶û
@@ -71940,9 +73256,7 @@ AMP
 ÓÐÎÊ±Ø´ð
 ±È
 CommScope
-4Ð¾ÊÒÄÚ¶àÄ£¹âÀÂ(5200
-004A
-MRSL)
+4Ð¾ÊÒÄÚ¶àÄ£¹âÀÂ(5200 004A MRSL)
 £¤20Ôª
 ÍÆ¼öÖ¸Êý
 69
@@ -73195,8 +74509,7 @@ GPS½ÓÊÕÆ÷
 GPSÊÖ³Ö»ú
 GPSµ¼º½ÊÖ»ú
 ³µÔØ×¨ÓÃGPSµ¼º½ÒÇ
-³µÔØ±ãÐ¯GPSµ¼º½ÒÇ£¨PND
-PDA£©
+³µÔØ±ãÐ¯GPSµ¼º½ÒÇ£¨PND PDA£©
 ¸ü¶àÓ¦ÓÃÀàÐÍÏê½â
 Æ·ÅÆÏµÁÐ·ÖÀà
 IBM
@@ -73921,8 +75234,7 @@ GPS½ÓÊÕÆ÷
 GPSÊÖ³Ö»ú
 GPSµ¼º½ÊÖ»ú
 ³µÔØ×¨ÓÃGPSµ¼º½ÒÇ
-³µÔØ±ãÐ¯GPSµ¼º½ÒÇ£¨PND
-PDA£©
+³µÔØ±ãÐ¯GPSµ¼º½ÒÇ£¨PND PDA£©
 ¸ü¶àÓ¦ÓÃÀàÐÍÏê½â
 Æ·ÅÆÏµÁÐ·ÖÀà
 IBM
@@ -74651,8 +75963,7 @@ GPS½ÓÊÕÆ÷
 GPSÊÖ³Ö»ú
 GPSµ¼º½ÊÖ»ú
 ³µÔØ×¨ÓÃGPSµ¼º½ÒÇ
-³µÔØ±ãÐ¯GPSµ¼º½ÒÇ£¨PND
-PDA£©
+³µÔØ±ãÐ¯GPSµ¼º½ÒÇ£¨PND PDA£©
 ¸ü¶àÓ¦ÓÃÀàÐÍÏê½â
 Æ·ÅÆÏµÁÐ·ÖÀà
 IBM
@@ -74989,8 +76300,7 @@ GARMIN
 [¹²39ÆªÏà¹ØÎÄÕÂ]
 ±È
 GARMIN
-ÆæÓö£¨eTrex
-Venture£©
+ÆæÓö£¨eTrex Venture£©
 ¼Û¸ñÃæÒé
 ÍÆ¼öÖ¸Êý
 53
@@ -75009,9 +76319,7 @@ GPSÆæÓöeTrexÌØ¼Û2200Ôª
 [¹²6ÆªÏà¹ØÎÄÕÂ]
 ±È
 GARMIN
-Ææ²Ê£¨eTrex
-Legend
-C£©
+Ææ²Ê£¨eTrex Legend C£©
 £¤4800Ôª
 ÍÆ¼öÖ¸Êý
 52
@@ -75045,8 +76353,7 @@ GPS72
 [¹²1ÆªÏà¹ØÎÄÕÂ]
 ±È
 GARMIN
-¹ð¹Ú£¨eTrex
-Summit£©
+¹ð¹Ú£¨eTrex Summit£©
 £¤3400Ôª
 ÍÆ¼öÖ¸Êý
 52
@@ -75063,8 +76370,7 @@ Summit£©
 [¹²3ÆªÏà¹ØÎÄÕÂ]
 ±È
 GARMIN
-´«Ææ£¨eTrex
-Legend£©
+´«Ææ£¨eTrex Legend£©
 £¤2980Ôª
 ÍÆ¼öÖ¸Êý
 52
@@ -75103,8 +76409,7 @@ Map76CËÍ1GÅÌ
 [¹²7ÆªÏà¹ØÎÄÕÂ]
 ±È
 GARMIN
-Õ¹Íû£¨eTrex
-Vista£©
+Õ¹Íû£¨eTrex Vista£©
 £¤4400Ôª
 ÍÆ¼öÖ¸Êý
 52
@@ -75369,8 +76674,7 @@ GARMIN
 GARMIN
 ÈÎÎÒÓÎ320
 GARMIN
-´«Ææ£¨eTrex
-Legend£©
+´«Ææ£¨eTrex Legend£©
 GARMIN
 ÈÎÎÒÓÎNuvi310
 'GARMIN
@@ -75392,8 +76696,7 @@ GPS½ÓÊÕÆ÷
 GPSÊÖ³Ö»ú
 GPSµ¼º½ÊÖ»ú
 ³µÔØ×¨ÓÃGPSµ¼º½ÒÇ
-³µÔØ±ãÐ¯GPSµ¼º½ÒÇ£¨PND
-PDA£©
+³µÔØ±ãÐ¯GPSµ¼º½ÒÇ£¨PND PDA£©
 ¸ü¶àÓ¦ÓÃÀàÐÍÏê½â
 Æ·ÅÆÏµÁÐ·ÖÀà
 IBM
@@ -75421,1058 +76724,6 @@ WAAS¸ú×ÙÐÔÄÜ
 Êý¾ÝÊäÈë
 ¸ü¶àÊõÓïÏê½â
 ±¾Ò³ÊÇIT168±¨¼ÛÖÐÐÄÎªÄúÌá¹©µÄGARMINGPSÉè±¸¼°Èí¼þ²úÆ·×îÐÂ±¨¼Û£¬ÄÒÀ¨ÁË²ÎÊý¡¢ÆÀ²â¡¢Í¼Æ¬¡¢ÆÀÂÛ¡¢½±ÏîµÈÐÅÏ¢£¬ÊÇGARMINGPSÉè±¸¼°Èí¼þ
-²úÆ·µÄÈ¨ÍþÊý¾Ý¿â¡£ÎÒÃÇ»á¾¡È«Á¦ÎªÄúÌá¹©×¼È·¡¢È«Ãæ
-µÄ²úÆ·ÐÅÏ¢£¬µ«²»¶ÔÐÅÏ¢ÖÐ¿ÉÄÜ³öÏÖµÄ´íÎó»òÒÅÂ©³Ðµ£ÔðÈÎ¡£ÄúÔÚÑ¡¹º²úÆ·Ç°Çë×ÐÏ¸Ñ¯ÎÊ¾­ÏúÉÌÓÐ¹Ø²úÆ·µÄÊµ¼ÊÅäÖÃ¡¢Íâ¹ÛÒÔ¼°¼Û¸ñµÈ¡£
-¹ØÓÚð©³½
-|
-¹ØÓÚIT168
-|
-ºÏ×÷»ï°é
-|
-¹ã¸æ·þÎñ
-|
-Ê¹ÓÃÌõ¿î
-|
-Í¶¸åÖ¸ÄÏ
-|
-³ÏÆ¸¾«Ó¢
-|
-ÁªÏµÎÒÃÇ
-|
-·¨ÂÉ¹ËÎÊ
-|
-ÍøÕ¾µØÍ¼
-|
-·±Ìå°æ
-CopyRight
-1999-2007
-www.it168.com
-All
-Right
-Reserved.
-±±¾©ð©³½ÍøÓòÍøÂçÐÅÏ¢¼¼ÊõÓÐÏÞ¹«Ë¾.
-°æÈ¨ËùÓÐ
-¾©ICPÖ¤:060528ºÅ
--->
-Èü¸ñ³µÊ¥GPSÉè±¸¼°Èí¼þ±¨¼Û
--
-IT168
-Ê×Ò³
-¸öÈË
-ÆóÒµ
-±¨¼ÛÐÐÇé
-¾­ÏúÉÌ
-±Ê¼Ç±¾
-ÊÖ»ú
-ÊýÂëÓ°Ïñ
-Ïû·ÑÊýÂë
-DIYÓ²¼þ
-Í¶Ó°»ú
-¼ÒÓÃµçÄÔ
-ÉÌÓÃµçÄÔ
-°ì¹«
-Çý¶¯
-Íø¿¯
-ÂÛÌ³
-×ÊÑ¶
-ÆÀ²â
-ÏÂÔØ
-¼¼Êõ¿ª·¢
-ÐÅÏ¢»¯
-·þÎñÆ÷
-´æ´¢
-ÍøÂçÍ¨ÐÅ
-°²È«
-GPSµ¼º½
-ÎÞÏßµç
-Êý×Ö¼Òµç
-¼ÒÍ¥×éÍø
-´òÓ¡
-É¨Ãè
-Ñ§Ôº
-Èí¼þ
-µÇÂ¼|×¢²á
-ÐÅÏä
-EÔÓÖ¾
-ÄúµÄÎ»ÖÃ£ºÊ×Ò³
-±¨¼ÛÐÐÇé
-GPSÉè±¸¼°Èí¼þ
-GPSÉè±¸¼°Èí¼þ²úÆ·ÁÐ±í
-Èü¸ñ³µÊ¥GPSÉè±¸¼°Èí¼þ
-²úÆ·ÁÐ±í
-²úÆ·É¸Ñ¡
-Çë¹´Ñ¡»òµã»÷Ïà¹Ø²úÆ·²ÎÊý£¬½øÒ»²½Ñ¡Ôñ·ûºÏÄúÒªÇóµÄ²úÆ·
-Æ·ÅÆ
-AIVITER/°¬Î¬ÌØ
-ALPINE/°¢¶ûÅÉ
-Altina
-ANN
-AOCOS/°Â¿ÉÊÓ
-CARME/¿¨Ã×
-CELL
-CONEXANT
-DECÖÐºã
-E-Road/Â·ÊéÍ¨
-ETO/Ò×Í¼
-eµÀº½
-e¼äµÀ
-eÂ·º½/eroda
-eÎÒÐÐ
-FAC/·ÉÓ¥º½Ì«
-GARMIN
-Gonav
-HAiCOM
-HOLUX
-LOWRANCE/ÂÞÀ¼C
-MAINNAV
-Marbella
-MSI/Î¢ÐÇ
-NASOO
-NavAccess/µ¼º½Í¨...
-Navibe
-NAVICOOL
-NAVMAN
-PAPAGO
-PRETEC
-Rikaline
-ROUTE
-66
-Routee
-RoyalTek/¶¦Ìì
-SONY/Ë÷Äá
-SOTA
-TCL
-Tourmate/Í¾ÃÀ
-VANHE/ÍòºÍ
-VST/ÍþÊËÌØ
-X-PAR
-ZyCast
-°¬¸ñÂê/AGEMA
-°®¹úÕß/aigo
-°ÙÊËÍ¨/BST
-³¤³Ç/Greatwall
-³¤ºçÁìº½Õß
-³Ç¼ÊÍ¨
-µ¼º½È®
-µ¼ÊÀÍ¨/Destinato...
-µÀµÀÍ¨
-µÀÒ×/DAOYI
-¶àÆÕ´ï/dopod
-·½Õý/Founder
-¹ÚÌì/GuideTek
-º«¿á/HANKOOK
-º½ÌìÌìºÏ/Atnav
-»ªË¶/ASUS
-»·Ìì/GlobalSat
-¿¨ÊË´ï/caska
-ÀÊ¶÷/Longhorn
-ÀÊÊÓÍ¨
-ÀöÌ¨/Leadtek
-ÁéÍ¼/LINGTU
-ÂÃÖ®ÐÇ/TravelSta...
-Âó¶à/Meeto
-ÂóÕÜÂ×/Magellan
-Å¦Âü/Newsmy
-Åµ»ùÑÇ/NOKIA
-Æ¤¶û¿¨µ¤
-ÈñÍ¾
-ÈðÍ¼Íò·½/RITU
-Èü¸ñ³µÊ¥
-ÉñÐÐÕß
-Ë¾ÄÏÕë
-Ë÷æ÷
-Ì½ÏÕ¼Ò/COLUMBUS
-Í¬ÖÞ/COSHIP
-ÍòÀû´ï/malata
-Î÷ÃÅ×Ó/SIEMENS
-ÐÂ¿Æ/Shinco
-ÐÅÀû/TRULY
-ÐÇÍøÍ¨
-ÒÀÂ·ÐÐ
-ÒÐÌì/ETEN
-Óî´ïµçÍ¨/Mio
-ÔÁ·å
-Ö¸»Ó¹Ù
-ÖÇº½Í¨/Smarton
-ÖÐÐË/ZTE
-ÖÐÒµÓîÍ¨
-¼Û¸ñÇø¼ä
-1
-Ôª
--
-800
-Ôª
-801
-Ôª
--
-2000
-Ôª
-2001
-Ôª
--
-4000
-Ôª
-4001
-Ôª
--
-6000
-Ôª
-6001
-Ôª
--
-10000
-Ôª
-10001
-Ôª
-ÒÔÉÏ
-²úÆ·ÀàÐÍ
-GPS½ÓÊÕÆ÷
-GPSÄ£¿é
-GPSÈí¼þ
-GPSÕÆÉÏµçÄÔ
-GPSÖÕ¶Ë
-³µÔØGPS
-ÊÖ³ÖGPS
-ÕÆÉÏµçÄÔ¹¦ÄÜ
-²»Ö§³Ö
-Ö§³Ö
-ÊÖ»úÍ¨»°¹¦ÄÜ
-GSMÊÖ»úÍ¨»°
-ÏÔÊ¾¸ü¶àÉ¸Ñ¡Ìõ¼þ£º
-ÕÆÉÏµçÄÔ¹¦ÄÜ
-ÊÖ»úÍ¨»°¹¦ÄÜ
-Çå¿ÕÖØÌî·ûºÏÄãµ±Ç°Ñ¡ÔñµÄÓÐ
-2
-¿î
-²úÆ·ÅÅÐò
-¹Ø×¢¸ß¡úµÍ
-ÍÆ¼öÖ¸Êý¸ß¡úµÍ
-¼Û¸ñ¸ß¡úµÍ
-¼Û¸ñµÍ¡ú¸ß
-ÉÏÊÐÊ±¼äÐÂ¡ú¾É
-ÆÀÂÛ¶à¡úÉÙ
-¾­ÏúÉÌ¶à¡úÉÙ
-¹²2¿î²úÆ·£¬µÚ1Ò³/¹²1Ò³
-¶Ô²»Æð£¬Äú²éÑ¯µÄ²úÆ·ÔÝÊ±Ã»ÓÐ±¨¼Û£¬ÇëÖØÐÂ²éÑ¯£¡
-±È
-Èü¸ñ³µÊ¥
-±±¼«ÐÇPN70
-£¤2400Ôª
-ÍÆ¼öÖ¸Êý
-51
-²úÆ·ÀàÐÍ:³µÔØGPS\ÕÆÉÏµçÄÔ¹¦ÄÜ:Ö§³Ö......
-[¸ü¶à²ÎÊý]
-[Õ÷¼¯ÊÖ²á]
-²é¿´ÉÌ¼Ò±¨¼Û
-±à¼­µãÆÀ
-¹²2ÌõÆÀÂÛ
-ÔÝÎÞ½±Ïî
-ÓÐÎÊ±Ø´ð
-¡¤Ò×ÐÐÌìÏÂ
-Èü¸ñÁ½¿î¶à¹¦ÄÜGPSÆÀ²â
-¡¤Ò×ÐÐÌìÏÂ
-Èü¸ñÁ½¿î¶à¹¦ÄÜGPSÆÀ²â
-[¹²5ÆªÏà¹ØÎÄÕÂ]
-±È
-Èü¸ñ³µÊ¥
-±±¶·ÐÇPN90
-£¤3000Ôª
-ÍÆ¼öÖ¸Êý
-51
-²úÆ·ÀàÐÍ:³µÔØGPS\ÕÆÉÏµçÄÔ¹¦ÄÜ:Ö§³Ö......
-[¸ü¶à²ÎÊý]
-[Õ÷¼¯ÊÖ²á]
-²é¿´ÉÌ¼Ò±¨¼Û
-±à¼­µãÆÀ
-·¢±íÆÀÂÛ
-ÔÝÎÞ½±Ïî
-ÓÐÎÊ±Ø´ð
-¡¤Èü¸ñ³µÊ¥×ÔÖ÷µ¼º½²úÆ·³£¼ûÎÊÌâÓë½â´ð
-[¹²1ÆªÏà¹ØÎÄÕÂ]
-1
-µ½µÚ
-Ò³
-ÆäËû²úÆ·ÏßËÑË÷
-£º
-²úÆ·´óÀà
-Õû»ú
-ÊýÂë
-Ö÷»úÅä¼þ
-Íâ½ÓÅä¼þ
-°ì¹«
-ÍøÂç
-ºÄ²Ä
-ÎÞÏßÍø
-ÍøÂç´æ´¢
-»ú·¿²¼Ïß
-ÒÆ¶¯´æ´¢
-Í¨Ñ¶²úÆ·
-ÏÔÊ¾Éè±¸
-ÓïÒôÊÓÆµ
-×¨ÒµÓ¡ÖÆ
-Æû³µµç×Ó
-Êý×Ö¼Òµç
-Èí¼þ²úÆ·
-²úÆ·Àà±ð
-È«²¿GPSÉè±¸¼°Èí¼þÆ·ÅÆÁÐ±í
-AIVITER(°¬Î¬ÌØ)GP...
-ALPINE(°¢¶ûÅÉ)GPS...
-AltinaGPSÉè±¸¼°Èí...
-ANNGPSÉè±¸¼°Èí¼þ
-AOCOS(°Â¿ÉÊÓ)GPSÉè...
-CARME(¿¨Ã×)GPSÉè±¸...
-CELLGPSÉè±¸¼°Èí¼þ...
-CONEXANTGPSÉè±¸¼°...
-DECÖÐºãGPSÉè±¸¼°Èí...
-E-Road(Â·ÊéÍ¨)GPS...
-ETO(Ò×Í¼)GPSÉè±¸¼°...
-eµÀº½GPSÉè±¸¼°Èí¼þ...
-e¼äµÀGPSÉè±¸¼°Èí¼þ...
-eÂ·º½(eroda)GPSÉè...
-eÎÒÐÐGPSÉè±¸¼°Èí¼þ...
-FAC(·ÉÓ¥º½Ì«)GPSÉè...
-GARMINGPSÉè±¸¼°Èí...
-GonavGPSÉè±¸¼°Èí¼þ...
-HAiCOMGPSÉè±¸¼°Èí...
-HOLUXGPSÉè±¸¼°Èí¼þ...
-LOWRANCE(ÂÞÀ¼C)GP...
-MAINNAVGPSÉè±¸¼°Èí...
-MarbellaGPSÉè±¸¼°...
-MSI(Î¢ÐÇ)GPSÉè±¸¼°...
-NASOOGPSÉè±¸¼°Èí¼þ...
-NavAccess(µ¼º½Í¨)...
-NavibeGPSÉè±¸¼°Èí...
-NAVICOOLGPSÉè±¸¼°...
-NAVMANGPSÉè±¸¼°Èí...
-PAPAGOGPSÉè±¸¼°Èí...
-PRETECGPSÉè±¸¼°Èí...
-RikalineGPSÉè±¸¼°...
-ROUTE
-66GPSÉè±¸¼°...
-RouteeGPSÉè±¸¼°Èí...
-RoyalTek(¶¦Ìì)GPS...
-SONY(Ë÷Äá)GPSÉè±¸...
-SOTAGPSÉè±¸¼°Èí¼þ...
-TCLGPSÉè±¸¼°Èí¼þ
-Tourmate(Í¾ÃÀ)GPS...
-VANHE(ÍòºÍ)GPSÉè±¸...
-VST(ÍþÊËÌØ)GPSÉè±¸...
-X-PARGPSÉè±¸¼°Èí¼þ...
-ZyCastGPSÉè±¸¼°Èí...
-°¬¸ñÂê(AGEMA)GPSÉè...
-°®¹úÕß(aigo)GPSÉè...
-°ÙÊËÍ¨(BST)GPSÉè±¸...
-³¤³Ç(Greatwall)GP...
-³¤ºçÁìº½ÕßGPSÉè±¸...
-³Ç¼ÊÍ¨GPSÉè±¸¼°Èí...
-µ¼º½È®GPSÉè±¸¼°Èí...
-µ¼ÊÀÍ¨(Destinator...
-µÀµÀÍ¨GPSÉè±¸¼°Èí...
-µÀÒ×(DAOYI)GPSÉè±¸...
-¶àÆÕ´ï(dopod)GPSÉè...
-·½Õý(Founder)GPSÉè...
-¹ÚÌì(GuideTek)GPS...
-º«¿á(HANKOOK)GPSÉè...
-º½ÌìÌìºÏ(Atnav)GP...
-»ªË¶(ASUS)GPSÉè±¸...
-»·Ìì(GlobalSat)GP...
-¿¨ÊË´ï(caska)GPSÉè...
-ÀÊ¶÷(Longhorn)GPS...
-ÀÊÊÓÍ¨GPSÉè±¸¼°Èí...
-ÀöÌ¨(Leadtek)GPSÉè...
-ÁéÍ¼(LINGTU)GPSÉè...
-ÂÃÖ®ÐÇ(TravelStar...
-Âó¶à(Meeto)GPSÉè±¸...
-ÂóÕÜÂ×(Magellan)G...
-Å¦Âü(Newsmy)GPSÉè...
-Åµ»ùÑÇ(NOKIA)GPSÉè...
-Æ¤¶û¿¨µ¤GPSÉè±¸¼°...
-ÈñÍ¾GPSÉè±¸¼°Èí¼þ...
-ÈðÍ¼Íò·½(RITU)GPS...
-Èü¸ñ³µÊ¥GPSÉè±¸¼°...
-ÉñÐÐÕßGPSÉè±¸¼°Èí...
-Ë¾ÄÏÕëGPSÉè±¸¼°Èí...
-Ë÷æ÷GPSÉè±¸¼°Èí¼þ...
-Ì½ÏÕ¼Ò(COLUMBUS)G...
-Í¬ÖÞ(COSHIP)GPSÉè...
-ÍòÀû´ï(malata)GPS...
-Î÷ÃÅ×Ó(SIEMENS)GP...
-ÐÂ¿Æ(Shinco)GPSÉè...
-ÐÅÀû(TRULY)GPSÉè±¸...
-ÐÇÍøÍ¨GPSÉè±¸¼°Èí...
-ÒÀÂ·ÐÐGPSÉè±¸¼°Èí...
-ÒÐÌì(ETEN)GPSÉè±¸...
-Óî´ïµçÍ¨(Mio)GPSÉè...
-ÔÁ·åGPSÉè±¸¼°Èí¼þ...
-Ö¸»Ó¹ÙGPSÉè±¸¼°Èí...
-ÖÇº½Í¨(Smarton)GP...
-ÖÐÐË(ZTE)GPSÉè±¸¼°...
-ÖÐÒµÓîÍ¨GPSÉè±¸¼°...
-ÖÐÒµÓîÍ¨GPSÉè±¸¼°Èí¼þ"
-target="_blank">ÖÐÒµÓîÍ¨GPSÉè±¸¼°...
-71-->ÖÐÒµÓîÍ¨GPSÉè±¸¼°Èí¼þ"
-target="_blank">ÖÐÒµÓîÍ¨GPSÉè±¸¼°...
-71-->ÖÐÒµÓîÍ¨GPSÉè±¸¼°Èí¼þ"
-target="_blank">ÖÐÒµÓîÍ¨GPSÉè±¸¼°...
-±¸¼°Èí¼þ"
-target="_blank">ÖÐÒµÓîÍ¨GPSÉè±¸¼°...
-±¸¼°Èí¼þ"
-target="_blank">ÖÐÒµÓîÍ¨GPSÉè±¸¼°...
-¤7„1¤7„1¤7„1¤72-->±¸¼°Èí¼þ"
-target="_blank">ÖÐÒµÓîÍ¨GPSÉè±¸¼°...
-¸ü¶àÈü¸ñ³µÊ¥GPSÉè±¸¼°Èí¼þÐÂÆ·TOP8
-Èü¸ñ³µÊ¥
-±±¼«ÐÇPN70
-Èü¸ñ³µÊ¥
-±±¶·ÐÇPN90
-l'
-target="_blank"
-title='Èü¸ñ³µÊ¥
-±±¶·ÐÇPN90'>
-->l'
-target="_blank"
-title='Èü¸ñ³µÊ¥
-±±¶·ÐÇPN90'>
-¸ü¶àÈü¸ñ³µÊ¥GPSÉè±¸¼°Èí¼þ¹Ø×¢TOP8
-Èü¸ñ³µÊ¥
-±±¼«ÐÇPN70
-Èü¸ñ³µÊ¥
-±±¶·ÐÇPN90
-'Èü¸ñ³µÊ¥
-±±¶·ÐÇPN90'>
-¸ü¶àGPSÉè±¸¼°Èí¼þÆ·ÅÆTOP8
-GARMIN
-Óî´ïµçÍ¨/Mio
-ÐÂ¿Æ/Shinco
-ÉñÐÐÕß
-ÍòÀû´ï/malata
-Åµ»ùÑÇ/NOKIA
-ÂóÕÜÂ×/Magellan
-AOCOS/°Â¿ÉÊÓ
-GPSÉè±¸¼°Èí¼þÑ¡¹º±¦µä
-NEW
-!
-²úÆ·Ó¦ÓÃÀàÐÍ
-GPS½ÓÊÕÆ÷
-GPSÊÖ³Ö»ú
-GPSµ¼º½ÊÖ»ú
-³µÔØ×¨ÓÃGPSµ¼º½ÒÇ
-³µÔØ±ãÐ¯GPSµ¼º½ÒÇ£¨PND
-PDA£©
-¸ü¶àÓ¦ÓÃÀàÐÍÏê½â
-Æ·ÅÆÏµÁÐ·ÖÀà
-IBM
-TÏµÁÐ
-XÏµÁÐ
-RÏµÁÐ
-HP
-PavalionÏµÁÐ
-PresarioÏµÁÐ
-EvoÏµÁÐ
-¸ü¶àÆ·ÅÆÏµÁÐÏê½â
--->
-ÊõÓïÏê½â
-Êý¾Ý½Ó¿Ú
-ÎÞÏßÁ¬½Ó
-AV½Ó¿Ú
-µØÍ¼¹¦ÄÜ
-WAAS¸ú×ÙÐÔÄÜ
-×ø±ê»ù×¼
-½ÓÊÕ»ú
-¶¨Î»Ê±¼ä
-Ë®Æ½¾«¶È
-¶¯Ì¬ÐÔÄÜ
-ËÙ¶È¾«¶È
-Êý¾ÝÊäÈë
-¸ü¶àÊõÓïÏê½â
-±¾Ò³ÊÇIT168±¨¼ÛÖÐÐÄÎªÄúÌá¹©µÄÈü¸ñ³µÊ¥GPSÉè±¸¼°Èí¼þ²úÆ·×îÐÂ±¨¼Û£¬ÄÒÀ¨ÁË²ÎÊý¡¢ÆÀ²â¡¢Í¼Æ¬¡¢ÆÀÂÛ¡¢½±ÏîµÈÐÅÏ¢£¬ÊÇÈü¸ñ³µÊ¥GPSÉè±¸¼°Èí¼þ
-²úÆ·µÄÈ¨ÍþÊý¾Ý¿â¡£ÎÒÃÇ»á¾¡È«Á¦ÎªÄúÌá¹©×¼È·¡¢È«Ãæ
-µÄ²úÆ·ÐÅÏ¢£¬µ«²»¶ÔÐÅÏ¢ÖÐ¿ÉÄÜ³öÏÖµÄ´íÎó»òÒÅÂ©³Ðµ£ÔðÈÎ¡£ÄúÔÚÑ¡¹º²úÆ·Ç°Çë×ÐÏ¸Ñ¯ÎÊ¾­ÏúÉÌÓÐ¹Ø²úÆ·µÄÊµ¼ÊÅäÖÃ¡¢Íâ¹ÛÒÔ¼°¼Û¸ñµÈ¡£
-¹ØÓÚð©³½
-|
-¹ØÓÚIT168
-|
-ºÏ×÷»ï°é
-|
-¹ã¸æ·þÎñ
-|
-Ê¹ÓÃÌõ¿î
-|
-Í¶¸åÖ¸ÄÏ
-|
-³ÏÆ¸¾«Ó¢
-|
-ÁªÏµÎÒÃÇ
-|
-·¨ÂÉ¹ËÎÊ
-|
-ÍøÕ¾µØÍ¼
-|
-·±Ìå°æ
-CopyRight
-1999-2007
-www.it168.com
-All
-Right
-Reserved.
-±±¾©ð©³½ÍøÓòÍøÂçÐÅÏ¢¼¼ÊõÓÐÏÞ¹«Ë¾.
-°æÈ¨ËùÓÐ
-¾©ICPÖ¤:060528ºÅ
--->
-³¤ºçÁìº½ÕßGPSÉè±¸¼°Èí¼þ±¨¼Û
--
-IT168
-Ê×Ò³
-¸öÈË
-ÆóÒµ
-±¨¼ÛÐÐÇé
-¾­ÏúÉÌ
-±Ê¼Ç±¾
-ÊÖ»ú
-ÊýÂëÓ°Ïñ
-Ïû·ÑÊýÂë
-DIYÓ²¼þ
-Í¶Ó°»ú
-¼ÒÓÃµçÄÔ
-ÉÌÓÃµçÄÔ
-°ì¹«
-Çý¶¯
-Íø¿¯
-ÂÛÌ³
-×ÊÑ¶
-ÆÀ²â
-ÏÂÔØ
-¼¼Êõ¿ª·¢
-ÐÅÏ¢»¯
-·þÎñÆ÷
-´æ´¢
-ÍøÂçÍ¨ÐÅ
-°²È«
-GPSµ¼º½
-ÎÞÏßµç
-Êý×Ö¼Òµç
-¼ÒÍ¥×éÍø
-´òÓ¡
-É¨Ãè
-Ñ§Ôº
-Èí¼þ
-µÇÂ¼|×¢²á
-ÐÅÏä
-EÔÓÖ¾
-ÄúµÄÎ»ÖÃ£ºÊ×Ò³
-±¨¼ÛÐÐÇé
-GPSÉè±¸¼°Èí¼þ
-GPSÉè±¸¼°Èí¼þ²úÆ·ÁÐ±í
-³¤ºçÁìº½ÕßGPSÉè±¸¼°Èí¼þ
-²úÆ·ÁÐ±í
-²úÆ·É¸Ñ¡
-Çë¹´Ñ¡»òµã»÷Ïà¹Ø²úÆ·²ÎÊý£¬½øÒ»²½Ñ¡Ôñ·ûºÏÄúÒªÇóµÄ²úÆ·
-Æ·ÅÆ
-AIVITER/°¬Î¬ÌØ
-ALPINE/°¢¶ûÅÉ
-Altina
-ANN
-AOCOS/°Â¿ÉÊÓ
-CARME/¿¨Ã×
-CELL
-CONEXANT
-DECÖÐºã
-E-Road/Â·ÊéÍ¨
-ETO/Ò×Í¼
-eµÀº½
-e¼äµÀ
-eÂ·º½/eroda
-eÎÒÐÐ
-FAC/·ÉÓ¥º½Ì«
-GARMIN
-Gonav
-HAiCOM
-HOLUX
-LOWRANCE/ÂÞÀ¼C
-MAINNAV
-Marbella
-MSI/Î¢ÐÇ
-NASOO
-NavAccess/µ¼º½Í¨...
-Navibe
-NAVICOOL
-NAVMAN
-PAPAGO
-PRETEC
-Rikaline
-ROUTE
-66
-Routee
-RoyalTek/¶¦Ìì
-SONY/Ë÷Äá
-SOTA
-TCL
-Tourmate/Í¾ÃÀ
-VANHE/ÍòºÍ
-VST/ÍþÊËÌØ
-X-PAR
-ZyCast
-°¬¸ñÂê/AGEMA
-°®¹úÕß/aigo
-°ÙÊËÍ¨/BST
-³¤³Ç/Greatwall
-³¤ºçÁìº½Õß
-³Ç¼ÊÍ¨
-µ¼º½È®
-µ¼ÊÀÍ¨/Destinato...
-µÀµÀÍ¨
-µÀÒ×/DAOYI
-¶àÆÕ´ï/dopod
-·½Õý/Founder
-¹ÚÌì/GuideTek
-º«¿á/HANKOOK
-º½ÌìÌìºÏ/Atnav
-»ªË¶/ASUS
-»·Ìì/GlobalSat
-¿¨ÊË´ï/caska
-ÀÊ¶÷/Longhorn
-ÀÊÊÓÍ¨
-ÀöÌ¨/Leadtek
-ÁéÍ¼/LINGTU
-ÂÃÖ®ÐÇ/TravelSta...
-Âó¶à/Meeto
-ÂóÕÜÂ×/Magellan
-Å¦Âü/Newsmy
-Åµ»ùÑÇ/NOKIA
-Æ¤¶û¿¨µ¤
-ÈñÍ¾
-ÈðÍ¼Íò·½/RITU
-Èü¸ñ³µÊ¥
-ÉñÐÐÕß
-Ë¾ÄÏÕë
-Ë÷æ÷
-Ì½ÏÕ¼Ò/COLUMBUS
-Í¬ÖÞ/COSHIP
-ÍòÀû´ï/malata
-Î÷ÃÅ×Ó/SIEMENS
-ÐÂ¿Æ/Shinco
-ÐÅÀû/TRULY
-ÐÇÍøÍ¨
-ÒÀÂ·ÐÐ
-ÒÐÌì/ETEN
-Óî´ïµçÍ¨/Mio
-ÔÁ·å
-Ö¸»Ó¹Ù
-ÖÇº½Í¨/Smarton
-ÖÐÐË/ZTE
-ÖÐÒµÓîÍ¨
-¼Û¸ñÇø¼ä
-1
-Ôª
--
-800
-Ôª
-801
-Ôª
--
-2000
-Ôª
-2001
-Ôª
--
-4000
-Ôª
-4001
-Ôª
--
-6000
-Ôª
-6001
-Ôª
--
-10000
-Ôª
-10001
-Ôª
-ÒÔÉÏ
-²úÆ·ÀàÐÍ
-GPS½ÓÊÕÆ÷
-GPSÄ£¿é
-GPSÈí¼þ
-GPSÕÆÉÏµçÄÔ
-GPSÖÕ¶Ë
-³µÔØGPS
-ÊÖ³ÖGPS
-ÕÆÉÏµçÄÔ¹¦ÄÜ
-²»Ö§³Ö
-Ö§³Ö
-ÊÖ»úÍ¨»°¹¦ÄÜ
-GSMÊÖ»úÍ¨»°
-ÏÔÊ¾¸ü¶àÉ¸Ñ¡Ìõ¼þ£º
-ÕÆÉÏµçÄÔ¹¦ÄÜ
-ÊÖ»úÍ¨»°¹¦ÄÜ
-Çå¿ÕÖØÌî·ûºÏÄãµ±Ç°Ñ¡ÔñµÄÓÐ
-8
-¿î
-²úÆ·ÅÅÐò
-¹Ø×¢¸ß¡úµÍ
-ÍÆ¼öÖ¸Êý¸ß¡úµÍ
-¼Û¸ñ¸ß¡úµÍ
-¼Û¸ñµÍ¡ú¸ß
-ÉÏÊÐÊ±¼äÐÂ¡ú¾É
-ÆÀÂÛ¶à¡úÉÙ
-¾­ÏúÉÌ¶à¡úÉÙ
-¹²8¿î²úÆ·£¬µÚ1Ò³/¹²1Ò³
-¶Ô²»Æð£¬Äú²éÑ¯µÄ²úÆ·ÔÝÊ±Ã»ÓÐ±¨¼Û£¬ÇëÖØÐÂ²éÑ¯£¡
-±È
-³¤ºçÁìº½Õß
-GMP200
-£¤2200Ôª
-ÍÆ¼öÖ¸Êý
-56
-²úÆ·ÀàÐÍ:³µÔØGPS\ÕÆÉÏµçÄÔ¹¦ÄÜ:Ö§³Ö......
-[¸ü¶à²ÎÊý]
-[Õ÷¼¯ÊÖ²á]
-²é¿´ÉÌ¼Ò±¨¼Û
-±à¼­µãÆÀ
-¹²20ÌõÆÀÂÛ
-ÔÝÎÞ½±Ïî
-ÓÐÎÊ±Ø´ð
-¡¤[¹ãÖÝ]Áìº½ÕßGP38À¶ÑÀGPSÂô°×²Ë¼Û!
-¡¤[¹ãÖÝ]³¤ºçÁìº½ÕßGPS
-310Ð¡½µÈÈÏú!
-[¹²16ÆªÏà¹ØÎÄÕÂ]
-±È
-³¤ºçÁìº½Õß
-GPS400
-£¤3480Ôª
-ÍÆ¼öÖ¸Êý
-58
-²úÆ·ÀàÐÍ:³µÔØGPS\ÕÆÉÏµçÄÔ¹¦ÄÜ:Ö§³Ö......
-[¸ü¶à²ÎÊý]
-[Õ÷¼¯ÊÖ²á]
-²é¿´ÉÌ¼Ò±¨¼Û
-±à¼­µãÆÀ
-¹²6ÌõÆÀÂÛ
-ÔÝÎÞ½±Ïî
-ÓÐÎÊ±Ø´ð
-¡¤[ÉÏº£]ÏëÒªµÄ×¥½ô¿©
-ËÄ¿îGPSÇå²Ö´ó´¦Àí...
-¡¤Îª¹úÇòºÈ²Ê
-³¤ºçÁìº½ÕßGPS»ðÈÈ´ÙÏú
-[¹²8ÆªÏà¹ØÎÄÕÂ]
-±È
-³¤ºçÁìº½Õß
-GPS410
-£¤2980Ôª
-ÍÆ¼öÖ¸Êý
-63
-²úÆ·ÀàÐÍ:³µÔØGPS\ÕÆÉÏµçÄÔ¹¦ÄÜ:Ö§³Ö......
-[¸ü¶à²ÎÊý]
-[Õ÷¼¯ÊÖ²á]
-²é¿´ÉÌ¼Ò±¨¼Û
-±à¼­µãÆÀ
-¹²9ÌõÆÀÂÛ
-ÔÝÎÞ½±Ïî
-ÓÐÎÊ±Ø´ð
-¡¤[¹ãÖÝ]³¤ºçÁìº½ÕßGPS411ÄêÄ©³¬Öµ¼Û!
-¡¤[¹ãÖÝ]ÓÖÒ»¾«Æ·!³¤ºçÁìº½ÕßGPS411
-[¹²30ÆªÏà¹ØÎÄÕÂ]
-±È
-³¤ºçÁìº½Õß
-GPS310
-£¤1950Ôª
-ÍÆ¼öÖ¸Êý
-57
-²úÆ·ÀàÐÍ:³µÔØGPS\ÕÆÉÏµçÄÔ¹¦ÄÜ:Ö§³Ö......
-[¸ü¶à²ÎÊý]
-[Õ÷¼¯ÊÖ²á]
-²é¿´ÉÌ¼Ò±¨¼Û
-±à¼­µãÆÀ
-¹²8ÌõÆÀÂÛ
-ÔÝÎÞ½±Ïî
-ÓÐÎÊ±Ø´ð
-¡¤[¹ãÖÝ]¸ßÐÔ¼Û±È!³¤ºçÁìº½ÕßGPS310Ð¡½µ
-¡¤[¹ãÖÝ]ÐÔ¼Û±ÈÖ®Íõ!³¤ºçGPS310¼Û¿ñµø
-[¹²10ÆªÏà¹ØÎÄÕÂ]
-±È
-³¤ºçÁìº½Õß
-GPS600
-£¤3700Ôª
-ÍÆ¼öÖ¸Êý
-58
-²úÆ·ÀàÐÍ:³µÔØGPS\ÕÆÉÏµçÄÔ¹¦ÄÜ:Ö§³Ö......
-[¸ü¶à²ÎÊý]
-[Õ÷¼¯ÊÖ²á]
-²é¿´ÉÌ¼Ò±¨¼Û
-±à¼­µãÆÀ
-¹²3ÌõÆÀÂÛ
-ÔÝÎÞ½±Ïî
-ÓÐÎÊ±Ø´ð
-¡¤[¹ãÖÝ]ºÃ´óÒ»¿éÆÁ!³¤ºçGPS700½ÚÇ°Ð¡½µ
-¡¤[Ö£ÖÝ]³¤ºçÁìº½ÕßGPS600´ÙÏú
-²»×ãËÄÇ§
-[¹²5ÆªÏà¹ØÎÄÕÂ]
-±È
-³¤ºçÁìº½Õß
-GPS401
-£¤3200Ôª
-ÍÆ¼öÖ¸Êý
-57
-²úÆ·ÀàÐÍ:³µÔØGPS\ÕÆÉÏµçÄÔ¹¦ÄÜ:Ö§³Ö......
-[¸ü¶à²ÎÊý]
-[Õ÷¼¯ÊÖ²á]
-²é¿´ÉÌ¼Ò±¨¼Û
-±à¼­µãÆÀ
-¹²2ÌõÆÀÂÛ
-ÔÝÎÞ½±Ïî
-ÓÐÎÊ±Ø´ð
-±È
-³¤ºçÁìº½Õß
-GPS300K
-£¤2450Ôª
-ÍÆ¼öÖ¸Êý
-54
-²úÆ·ÀàÐÍ:³µÔØGPS\ÕÆÉÏµçÄÔ¹¦ÄÜ:Ö§³Ö......
-[¸ü¶à²ÎÊý]
-[Õ÷¼¯ÊÖ²á]
-²é¿´ÉÌ¼Ò±¨¼Û
-±à¼­µãÆÀ
-¹²2ÌõÆÀÂÛ
-ÔÝÎÞ½±Ïî
-ÓÐÎÊ±Ø´ð
-¡¤[¹ãÖÝ]³¤ºç¼Ñ»ªGPS300K×îÐÂ±¨¼Û2998Ôª
-[¹²1ÆªÏà¹ØÎÄÕÂ]
-±È
-³¤ºçÁìº½Õß
-GPS350
-£¤2700Ôª
-ÍÆ¼öÖ¸Êý
-58
-²úÆ·ÀàÐÍ:³µÔØGPS\ÕÆÉÏµçÄÔ¹¦ÄÜ:Ö§³Ö......
-[¸ü¶à²ÎÊý]
-[Õ÷¼¯ÊÖ²á]
-²é¿´ÉÌ¼Ò±¨¼Û
-±à¼­µãÆÀ
-¹²3ÌõÆÀÂÛ
-ÔÝÎÞ½±Ïî
-ÓÐÎÊ±Ø´ð
-1
-µ½µÚ
-Ò³
-ÆäËû²úÆ·ÏßËÑË÷
-£º
-²úÆ·´óÀà
-Õû»ú
-ÊýÂë
-Ö÷»úÅä¼þ
-Íâ½ÓÅä¼þ
-°ì¹«
-ÍøÂç
-ºÄ²Ä
-ÎÞÏßÍø
-ÍøÂç´æ´¢
-»ú·¿²¼Ïß
-ÒÆ¶¯´æ´¢
-Í¨Ñ¶²úÆ·
-ÏÔÊ¾Éè±¸
-ÓïÒôÊÓÆµ
-×¨ÒµÓ¡ÖÆ
-Æû³µµç×Ó
-Êý×Ö¼Òµç
-Èí¼þ²úÆ·
-²úÆ·Àà±ð
-È«²¿GPSÉè±¸¼°Èí¼þÆ·ÅÆÁÐ±í
-AIVITER(°¬Î¬ÌØ)GP...
-ALPINE(°¢¶ûÅÉ)GPS...
-AltinaGPSÉè±¸¼°Èí...
-ANNGPSÉè±¸¼°Èí¼þ
-AOCOS(°Â¿ÉÊÓ)GPSÉè...
-CARME(¿¨Ã×)GPSÉè±¸...
-CELLGPSÉè±¸¼°Èí¼þ...
-CONEXANTGPSÉè±¸¼°...
-DECÖÐºãGPSÉè±¸¼°Èí...
-E-Road(Â·ÊéÍ¨)GPS...
-ETO(Ò×Í¼)GPSÉè±¸¼°...
-eµÀº½GPSÉè±¸¼°Èí¼þ...
-e¼äµÀGPSÉè±¸¼°Èí¼þ...
-eÂ·º½(eroda)GPSÉè...
-eÎÒÐÐGPSÉè±¸¼°Èí¼þ...
-FAC(·ÉÓ¥º½Ì«)GPSÉè...
-GARMINGPSÉè±¸¼°Èí...
-GonavGPSÉè±¸¼°Èí¼þ...
-HAiCOMGPSÉè±¸¼°Èí...
-HOLUXGPSÉè±¸¼°Èí¼þ...
-LOWRANCE(ÂÞÀ¼C)GP...
-MAINNAVGPSÉè±¸¼°Èí...
-MarbellaGPSÉè±¸¼°...
-MSI(Î¢ÐÇ)GPSÉè±¸¼°...
-NASOOGPSÉè±¸¼°Èí¼þ...
-NavAccess(µ¼º½Í¨)...
-NavibeGPSÉè±¸¼°Èí...
-NAVICOOLGPSÉè±¸¼°...
-NAVMANGPSÉè±¸¼°Èí...
-PAPAGOGPSÉè±¸¼°Èí...
-PRETECGPSÉè±¸¼°Èí...
-RikalineGPSÉè±¸¼°...
-ROUTE
-66GPSÉè±¸¼°...
-RouteeGPSÉè±¸¼°Èí...
-RoyalTek(¶¦Ìì)GPS...
-SONY(Ë÷Äá)GPSÉè±¸...
-SOTAGPSÉè±¸¼°Èí¼þ...
-TCLGPSÉè±¸¼°Èí¼þ
-Tourmate(Í¾ÃÀ)GPS...
-VANHE(ÍòºÍ)GPSÉè±¸...
-VST(ÍþÊËÌØ)GPSÉè±¸...
-X-PARGPSÉè±¸¼°Èí¼þ...
-ZyCastGPSÉè±¸¼°Èí...
-°¬¸ñÂê(AGEMA)GPSÉè...
-°®¹úÕß(aigo)GPSÉè...
-°ÙÊËÍ¨(BST)GPSÉè±¸...
-³¤³Ç(Greatwall)GP...
-³¤ºçÁìº½ÕßGPSÉè±¸...
-³Ç¼ÊÍ¨GPSÉè±¸¼°Èí...
-µ¼º½È®GPSÉè±¸¼°Èí...
-µ¼ÊÀÍ¨(Destinator...
-µÀµÀÍ¨GPSÉè±¸¼°Èí...
-µÀÒ×(DAOYI)GPSÉè±¸...
-¶àÆÕ´ï(dopod)GPSÉè...
-·½Õý(Founder)GPSÉè...
-¹ÚÌì(GuideTek)GPS...
-º«¿á(HANKOOK)GPSÉè...
-º½ÌìÌìºÏ(Atnav)GP...
-»ªË¶(ASUS)GPSÉè±¸...
-»·Ìì(GlobalSat)GP...
-¿¨ÊË´ï(caska)GPSÉè...
-ÀÊ¶÷(Longhorn)GPS...
-ÀÊÊÓÍ¨GPSÉè±¸¼°Èí...
-ÀöÌ¨(Leadtek)GPSÉè...
-ÁéÍ¼(LINGTU)GPSÉè...
-ÂÃÖ®ÐÇ(TravelStar...
-Âó¶à(Meeto)GPSÉè±¸...
-ÂóÕÜÂ×(Magellan)G...
-Å¦Âü(Newsmy)GPSÉè...
-Åµ»ùÑÇ(NOKIA)GPSÉè...
-Æ¤¶û¿¨µ¤GPSÉè±¸¼°...
-ÈñÍ¾GPSÉè±¸¼°Èí¼þ...
-ÈðÍ¼Íò·½(RITU)GPS...
-Èü¸ñ³µÊ¥GPSÉè±¸¼°...
-ÉñÐÐÕßGPSÉè±¸¼°Èí...
-Ë¾ÄÏÕëGPSÉè±¸¼°Èí...
-Ë÷æ÷GPSÉè±¸¼°Èí¼þ...
-Ì½ÏÕ¼Ò(COLUMBUS)G...
-Í¬ÖÞ(COSHIP)GPSÉè...
-ÍòÀû´ï(malata)GPS...
-Î÷ÃÅ×Ó(SIEMENS)GP...
-ÐÂ¿Æ(Shinco)GPSÉè...
-ÐÅÀû(TRULY)GPSÉè±¸...
-ÐÇÍøÍ¨GPSÉè±¸¼°Èí...
-ÒÀÂ·ÐÐGPSÉè±¸¼°Èí...
-ÒÐÌì(ETEN)GPSÉè±¸...
-Óî´ïµçÍ¨(Mio)GPSÉè...
-ÔÁ·åGPSÉè±¸¼°Èí¼þ...
-Ö¸»Ó¹ÙGPSÉè±¸¼°Èí...
-ÖÇº½Í¨(Smarton)GP...
-ÖÐÐË(ZTE)GPSÉè±¸¼°...
-ÖÐÒµÓîÍ¨GPSÉè±¸¼°...
-ÖÐÒµÓîÍ¨GPSÉè±¸¼°Èí¼þ"
-target="_blank">ÖÐÒµÓîÍ¨GPSÉè±¸¼°...
-71-->ÖÐÒµÓîÍ¨GPSÉè±¸¼°Èí¼þ"
-target="_blank">ÖÐÒµÓîÍ¨GPSÉè±¸¼°...
-71-->ÖÐÒµÓîÍ¨GPSÉè±¸¼°Èí¼þ"
-target="_blank">ÖÐÒµÓîÍ¨GPSÉè±¸¼°...
-±¸¼°Èí¼þ"
-target="_blank">ÖÐÒµÓîÍ¨GPSÉè±¸¼°...
-±¸¼°Èí¼þ"
-target="_blank">ÖÐÒµÓîÍ¨GPSÉè±¸¼°...
-¤7„1¤7„1¤7„1¤72-->±¸¼°Èí¼þ"
-target="_blank">ÖÐÒµÓîÍ¨GPSÉè±¸¼°...
-¸ü¶à³¤ºçÁìº½ÕßGPSÉè±¸¼°Èí¼þÐÂÆ·TOP8
-³¤ºçÁìº½Õß
-GPS350
-³¤ºçÁìº½Õß
-GPS600
-³¤ºçÁìº½Õß
-GPS410
-³¤ºçÁìº½Õß
-GPS401
-³¤ºçÁìº½Õß
-GPS400
-³¤ºçÁìº½Õß
-GPS310
-³¤ºçÁìº½Õß
-GPS300K
-³¤ºçÁìº½Õß
-GMP200
-l'
-target="_blank"
-title='³¤ºçÁìº½Õß
-GMP200'>
-->l'
-target="_blank"
-title='³¤ºçÁìº½Õß
-GMP200'>
-¸ü¶à³¤ºçÁìº½ÕßGPSÉè±¸¼°Èí¼þ¹Ø×¢TOP8
-³¤ºçÁìº½Õß
-GPS410
-³¤ºçÁìº½Õß
-GPS350
-³¤ºçÁìº½Õß
-GPS400
-³¤ºçÁìº½Õß
-GMP200
-³¤ºçÁìº½Õß
-GPS600
-³¤ºçÁìº½Õß
-GPS300K
-³¤ºçÁìº½Õß
-GPS310
-³¤ºçÁìº½Õß
-GPS401
-'³¤ºçÁìº½Õß
-GPS401'>
-¸ü¶àGPSÉè±¸¼°Èí¼þÆ·ÅÆTOP8
-GARMIN
-Óî´ïµçÍ¨/Mio
-ÐÂ¿Æ/Shinco
-ÉñÐÐÕß
-ÍòÀû´ï/malata
-Åµ»ùÑÇ/NOKIA
-ÂóÕÜÂ×/Magellan
-AOCOS/°Â¿ÉÊÓ
-GPSÉè±¸¼°Èí¼þÑ¡¹º±¦µä
-NEW
-!
-²úÆ·Ó¦ÓÃÀàÐÍ
-GPS½ÓÊÕÆ÷
-GPSÊÖ³Ö»ú
-GPSµ¼º½ÊÖ»ú
-³µÔØ×¨ÓÃGPSµ¼º½ÒÇ
-³µÔØ±ãÐ¯GPSµ¼º½ÒÇ£¨PND
-PDA£©
-¸ü¶àÓ¦ÓÃÀàÐÍÏê½â
-Æ·ÅÆÏµÁÐ·ÖÀà
-IBM
-TÏµÁÐ
-XÏµÁÐ
-RÏµÁÐ
-HP
-PavalionÏµÁÐ
-PresarioÏµÁÐ
-EvoÏµÁÐ
-¸ü¶àÆ·ÅÆÏµÁÐÏê½â
--->
-ÊõÓïÏê½â
-Êý¾Ý½Ó¿Ú
-ÎÞÏßÁ¬½Ó
-AV½Ó¿Ú
-µØÍ¼¹¦ÄÜ
-WAAS¸ú×ÙÐÔÄÜ
-×ø±ê»ù×¼
-½ÓÊÕ»ú
-¶¨Î»Ê±¼ä
-Ë®Æ½¾«¶È
-¶¯Ì¬ÐÔÄÜ
-ËÙ¶È¾«¶È
-Êý¾ÝÊäÈë
-¸ü¶àÊõÓïÏê½â
-±¾Ò³ÊÇIT168±¨¼ÛÖÐÐÄÎªÄúÌá¹©µÄ³¤ºçÁìº½ÕßGPSÉè±¸¼°Èí¼þ²úÆ·×îÐÂ±¨¼Û£¬ÄÒÀ¨ÁË²ÎÊý¡¢ÆÀ²â¡¢Í¼Æ¬¡¢ÆÀÂÛ¡¢½±ÏîµÈÐÅÏ¢£¬ÊÇ³¤ºçÁìº½ÕßGPSÉè±¸¼°Èí¼þ
 ²úÆ·µÄÈ¨ÍþÊý¾Ý¿â¡£ÎÒÃÇ»á¾¡È«Á¦ÎªÄúÌá¹©×¼È·¡¢È«Ãæ
 µÄ²úÆ·ÐÅÏ¢£¬µ«²»¶ÔÐÅÏ¢ÖÐ¿ÉÄÜ³öÏÖµÄ´íÎó»òÒÅÂ©³Ðµ£ÔðÈÎ¡£ÄúÔÚÑ¡¹º²úÆ·Ç°Çë×ÐÏ¸Ñ¯ÎÊ¾­ÏúÉÌÓÐ¹Ø²úÆ·µÄÊµ¼ÊÅäÖÃ¡¢Íâ¹ÛÒÔ¼°¼Û¸ñµÈ¡£
 ¹ØÓÚð©³½

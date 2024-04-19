@@ -1,6 +1,4 @@
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 华语男歌手--QQ音乐
 腾讯网首页
 |
@@ -1329,9 +1327,7 @@ QQ音乐最新单曲
 10
 反方向
 弦子
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 播放器
 -
 QQ音乐
@@ -1459,9 +1455,7 @@ Reserved
 腾讯公司
 版权所有
 腾讯网络文化经营许可证
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 在线首发--QQ音乐
 腾讯网首页
 |
@@ -1505,8 +1499,7 @@ DJ
 周笔畅
 张韶涵
 莫文蔚
-凯莉.米洛(Kylie
-Minogue)
+凯莉.米洛(Kylie Minogue)
 周杰伦
 彩虹乐队
 L’Arc~en~Ciel
@@ -1573,9 +1566,7 @@ Reserved
 腾讯公司
 版权所有
 腾讯网络文化经营许可证
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 歌手介绍--滨崎步(Ayumi.Hamasaki)--QQ音乐
 腾讯网首页
 |
@@ -1629,41 +1620,21 @@ DJ
 滨崎步(Ayumi.Hamasaki)
 全部单曲
 歌手简介：
-日本高中女生信奉的“新领袖”-代言人滨崎步，在1998年4月8日以一首《poker
-face》迈入日本歌坛，她每一次出现在身上的服装、彩绘指甲，甚至是简单的白T恤跟牛仔裤，总是会在日本流行服装界刮起一阵炫风。
-<caption
-class="title">
+日本高中女生信奉的“新领袖”-代言人滨崎步，在1998年4月8日以一首《poker face》迈入日本歌坛，她每一次出现在身上的服装、彩绘指甲，甚至是简单的白T恤跟牛仔裤，总是会在日本流行服装界刮起一阵炫风。
+<caption class="title">
 热门歌曲(按收听量排序)
 </caption>
 <colgroup>
-<col
-class="choose"
-/>
-<col
-class="data"
-/>
-<col
-class="number"
-/>
-<col
-/>
-<col
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
+<col class="choose" />
+<col class="data" />
+<col class="number" />
+<col />
+<col />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
 </colgroup>
 歌曲名
 专辑名
@@ -2349,9 +2320,7 @@ Reserved
 腾讯公司
 版权所有
 腾讯网络文化经营许可证
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 歌手介绍--周笔畅--QQ音乐
 腾讯网首页
 |
@@ -2407,39 +2376,20 @@ DJ
 歌手简介：
 被誉为女版周杰伦，R&amp;B的曲风，完美的真假音转换是周笔畅最大的特点，也是她最大的优势，只要笔笔站在舞台上，你会觉得整个世界都是她的。穿着嘻哈的服装，永远戴着最流行的黑框眼镜，集中着“80后”几乎所有特点。虽然几乎不穿裙子，但是偶尔也会小女生地打扮一下。人称“机器猫”的笔笔，是“超女”三宝之一，搞笑功力可见一斑，好人缘的她，是一个会唱歌的搞怪“机器猫”。BB以其出众的唱功，缓慢而轻盈,坚毅又沉稳,动了身边所有的人，也感动了自己。
 也许周笔畅并不完美，但她依然可爱美丽。是一个单纯的孩子，有着真诚的笑容，静静地在台上，唱着她爱的歌！这就是她自己的风格,也是她独一无二的个性魅力。
-<caption
-class="title">
+<caption class="title">
 热门歌曲(按收听量排序)
 </caption>
 <colgroup>
-<col
-class="choose"
-/>
-<col
-class="data"
-/>
-<col
-class="number"
-/>
-<col
-/>
-<col
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
+<col class="choose" />
+<col class="data" />
+<col class="number" />
+<col />
+<col />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
 </colgroup>
 歌曲名
 专辑名
@@ -2573,9 +2523,7 @@ Reserved
 腾讯公司
 版权所有
 腾讯网络文化经营许可证
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 歌手介绍--飞轮海--QQ音乐
 腾讯网首页
 |
@@ -2630,39 +2578,20 @@ DJ
 全部单曲
 歌手简介：
 可米制作耗时一年，寻遍中港台美加东南亚等华人世界，严选四位各具特色超优质男新人组成严格训练之后，先於戏剧平台露出，小试身手立即不同凡响其中三位成员辰亦儒、汪东城、炎亚纶主演之八大偶像剧《终极一班》，甫一推出立即创下极高收视率，三位主角也备受瞩目，另一位成员吴尊，更是以新人之姿与戏剧天后林依晨，与演技派巨星任达华合挑大梁，主演《东方茱丽叶》引起演艺界高度期待。飞轮海”命名来自于华氏温度Fahrenheit英文的中译名，取其意在四人四样个性如同温度的变化，无形中有着强大力量左右每个人的心灵感受，恰如其份地巧妙形容飞轮海，四款男孩样本，无论在戏剧、广告、演艺事业皆已渐露头角，明星气质与人气指数持续酝酿中。
-<caption
-class="title">
+<caption class="title">
 热门歌曲(按收听量排序)
 </caption>
 <colgroup>
-<col
-class="choose"
-/>
-<col
-class="data"
-/>
-<col
-class="number"
-/>
-<col
-/>
-<col
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
+<col class="choose" />
+<col class="data" />
+<col class="number" />
+<col />
+<col />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
 </colgroup>
 歌曲名
 专辑名
@@ -2762,9 +2691,7 @@ Reserved
 腾讯公司
 版权所有
 腾讯网络文化经营许可证
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 歌手介绍--郑源--QQ音乐
 腾讯网首页
 |
@@ -2820,39 +2747,20 @@ DJ
 歌手简介：
 郑源，被誉为2005年掀起国内歌坛步入情歌原创时代之魅力旋风的少年情歌王子，实际上，从14岁出道的他，一直以来就被公认为音乐神童。年仅20岁签约孔雀唱片，成为孔雀旗下的天才少年。他不仅精通高胡、钢琴、爵士鼓等各类乐器，而且还可以模仿20多位歌星的声音，像张国荣、阿杜、张宇这些声线极具个人特色的大牌唱将，他都能模仿得惟妙惟肖。
 年纪轻轻的郑源，一个懂得用心去唱好歌的人，是个现场表现力极强的歌手，有专业人士称，除了台湾地区的王力宏可与之相比外，国内乐坛尚无人与之匹敌。现在的郑源，网络火热的势头仍在日益攀升，不断刷新的网络点击率，新唱片日均销量过万张的业绩，都在为他的星途推波助澜。
-<caption
-class="title">
+<caption class="title">
 热门歌曲(按收听量排序)
 </caption>
 <colgroup>
-<col
-class="choose"
-/>
-<col
-class="data"
-/>
-<col
-class="number"
-/>
-<col
-/>
-<col
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
+<col class="choose" />
+<col class="data" />
+<col class="number" />
+<col />
+<col />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
 </colgroup>
 歌曲名
 专辑名
@@ -2937,9 +2845,7 @@ Reserved
 腾讯公司
 版权所有
 腾讯网络文化经营许可证
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 歌手介绍--东方神起(TOHOSHINKI)--QQ音乐
 腾讯网首页
 |
@@ -3014,39 +2920,20 @@ DJ
 名：沈昌珉
 生
 日：1988年2月18日
-<caption
-class="title">
+<caption class="title">
 热门歌曲(按收听量排序)
 </caption>
 <colgroup>
-<col
-class="choose"
-/>
-<col
-class="data"
-/>
-<col
-class="number"
-/>
-<col
-/>
-<col
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
+<col class="choose" />
+<col class="data" />
+<col class="number" />
+<col />
+<col />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
 </colgroup>
 歌曲名
 专辑名
@@ -3359,9 +3246,7 @@ Reserved
 腾讯公司
 版权所有
 腾讯网络文化经营许可证
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 歌手介绍--Soulja
 Boy
 Tellem醬爆弟弟--QQ音乐
@@ -3430,39 +3315,20 @@ Dupri、Goodie
 Mob这些艺人纷纷从地方型的知名音乐人跃上全国舞台发光发热，让这个南方大城成为流行音乐重镇！
 从小浸吟在这样的音乐环境激发了年轻的Soulja和他当时的搭档Young
 Kwon的音乐细胞发展﹔「他教导我如何创作音乐，他帮我录制了我写的第一首歌曲，」Soulja回忆道﹕「在他家里的录音室里，他大力指导了我许多音乐方面的知识。」随着对音乐的热爱与日俱增，Soulja开始专心琢磨自己的音乐制作技艺。虽然他空闲的时间很多，但是家里能提供的资源却有限。「成长给我的感觉并不甜美，因为我们很贫穷，」他承认︰「当时我和母亲以及弟弟住在一起，我们没有什么钱。除了上学之外，我也没什么事可以做。我曾经是个很聪明，每一科都拿A的好学生。但是老实说，玩音乐的确影响了我的成绩表现。」
-<caption
-class="title">
+<caption class="title">
 热门歌曲(按收听量排序)
 </caption>
 <colgroup>
-<col
-class="choose"
-/>
-<col
-class="data"
-/>
-<col
-class="number"
-/>
-<col
-/>
-<col
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
+<col class="choose" />
+<col class="data" />
+<col class="number" />
+<col />
+<col />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
 </colgroup>
 歌曲名
 专辑名
@@ -3630,9 +3496,7 @@ Reserved
 腾讯公司
 版权所有
 腾讯网络文化经营许可证
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 歌手介绍--艾薇儿Avril
 Lavigne--QQ音乐
 腾讯网首页
@@ -3689,39 +3553,20 @@ Lavigne
 全部单曲
 歌手简介：
 艾薇儿不但在G-Music风云榜蝉联10周以上的冠军，可说是台湾地区04年暑假唱片市场最畅销的外语专辑，更一举横扫了全球超过10个国家排行榜冠军宝座！
-<caption
-class="title">
+<caption class="title">
 热门歌曲(按收听量排序)
 </caption>
 <colgroup>
-<col
-class="choose"
-/>
-<col
-class="data"
-/>
-<col
-class="number"
-/>
-<col
-/>
-<col
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
+<col class="choose" />
+<col class="data" />
+<col class="number" />
+<col />
+<col />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
 </colgroup>
 歌曲名
 专辑名
@@ -3843,15 +3688,13 @@ Tomorrow
 mid=412572|msong=I
 Can
 Do
-Better(Acoustic
-Version)|msingerid=4417|msinger=艾薇儿Avril
+Better(Acoustic Version)|msingerid=4417|msinger=艾薇儿Avril
 Lavigne|msingerid=4417|malbumid=33349|malbum=Hot(CD-Single)|msize=1600537|minterval=197|mstream=7|mdownload=0
 10
 I
 Can
 Do
-Better(Acoustic
-Version)
+Better(Acoustic Version)
 Hot(CD-Single)
 收录专辑
 按发布日期
@@ -3972,9 +3815,7 @@ Reserved
 腾讯公司
 版权所有
 腾讯网络文化经营许可证
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 歌手介绍--容祖儿--QQ音乐
 腾讯网首页
 |
@@ -4031,39 +3872,20 @@ DJ
 容祖儿的确不算美女，但她有一种从内心向外发散的青春，往那儿一站，没心没肺地笑着，既出跳又很有感染力……
 容祖儿一向快言快语,号称娱乐圈中的女豪杰。经过多年的娱乐圈生涯,祖儿在音乐、电影、电视方面如日中天，很有香港下一代天后的架势，她已经不再是懵懂的小女孩了,而是那个勇敢的挥着翅膀的女孩……容祖儿的歌曲一向高居各卡拉OK的点播率前列，有“卡拉OK天后”之称。
 Joey强调她不是玉女，希望以她本身亲切自然，清新爽朗的性格被大家所接受。她也自嘲自己长得不够美丽，所以才走实力派路线！
-<caption
-class="title">
+<caption class="title">
 热门歌曲(按收听量排序)
 </caption>
 <colgroup>
-<col
-class="choose"
-/>
-<col
-class="data"
-/>
-<col
-class="number"
-/>
-<col
-/>
-<col
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
+<col class="choose" />
+<col class="data" />
+<col class="number" />
+<col />
+<col />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
 </colgroup>
 歌曲名
 专辑名
@@ -4393,9 +4215,7 @@ Reserved
 腾讯公司
 版权所有
 腾讯网络文化经营许可证
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 歌手介绍--S.H.E--QQ音乐
 腾讯网首页
 |
@@ -4449,44 +4269,24 @@ S.H.E人气排名：
 S.H.E
 全部单曲
 歌手简介：
-女声团体S.H.E，三人以其清新自然的形象吸引年轻男女而快速走红。出道虽短，但其多样化的曲风、完美的合声、靓爆镜的造型，在唱片市场一再吹起一股S.H.E风暴。2001年9月首张专辑一经推出即反应甚佳，四个月后即推出第二张专辑，2003年又以《Together》与《Super
-Star》两张专辑合计创下台湾地区唱片销量总冠军，2004年生平的第一场演唱会《奇幻乐园》得到热烈的回响，S.H.E开心到不行，而这也再度奠定其亚洲第一女声团体的地位！
+女声团体S.H.E，三人以其清新自然的形象吸引年轻男女而快速走红。出道虽短，但其多样化的曲风、完美的合声、靓爆镜的造型，在唱片市场一再吹起一股S.H.E风暴。2001年9月首张专辑一经推出即反应甚佳，四个月后即推出第二张专辑，2003年又以《Together》与《Super Star》两张专辑合计创下台湾地区唱片销量总冠军，2004年生平的第一场演唱会《奇幻乐园》得到热烈的回响，S.H.E开心到不行，而这也再度奠定其亚洲第一女声团体的地位！
 踏入歌坛几年的
 S.H.
 E，面对如日中天的演艺事业，与千万歌迷的拥护支持，她们是甚么心境？——“除了感恩一路来所有帮助过我们、支持我们的朋友之外，也希望当初踏入这个圈子时的那份单纯追求梦想的心情永远不要变”。
-<caption
-class="title">
+<caption class="title">
 热门歌曲(按收听量排序)
 </caption>
 <colgroup>
-<col
-class="choose"
-/>
-<col
-class="data"
-/>
-<col
-class="number"
-/>
-<col
-/>
-<col
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
+<col class="choose" />
+<col class="data" />
+<col class="number" />
+<col />
+<col />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
 </colgroup>
 歌曲名
 专辑名
@@ -4650,9 +4450,7 @@ Reserved
 腾讯公司
 版权所有
 腾讯网络文化经营许可证
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 歌手介绍--郑秀文--QQ音乐
 腾讯网首页
 |
@@ -4707,39 +4505,20 @@ DJ
 全部单曲
 歌手简介：
 素来有“平胸天后”、“排骨美人”之称，服饰打扮充满个性魅力，歌坛造型令人惊艳，在电影中也形象百变。郑秀文，始终走在流行最前端。Sammi从1988年香港第七届新秀歌唱大赛获得季军开始进入歌坛，随后的《值得》、《舍不得你》使其成为一名华语歌坛的实力唱将。之后Sammi凭借其独特的声线、靓丽的外表成为华语歌坛天后；并且在电影上也取得了不俗的成绩。郑秀文拥有可塑性极高的外表，优秀的演艺才华，敏锐的潮流触角，加上她个人勇于尝试的性格，使她成为了万千年轻人模仿的对象。从音乐到电影，从体形到衣饰，郑秀文已经成为香港时尚的代名词，我们有理由相信，她会有更多的精彩等待绽放。
-<caption
-class="title">
+<caption class="title">
 热门歌曲(按收听量排序)
 </caption>
 <colgroup>
-<col
-class="choose"
-/>
-<col
-class="data"
-/>
-<col
-class="number"
-/>
-<col
-/>
-<col
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
+<col class="choose" />
+<col class="data" />
+<col class="number" />
+<col />
+<col />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
 </colgroup>
 歌曲名
 专辑名
@@ -4796,13 +4575,11 @@ mid=102561|msong=值得|msingerid=4620|msinger=郑秀文|msingerid=4620|malbumid=8579
 值得
 值得
 mid=142505|msong=独一无二|msingerid=4620|msinger=郑秀文|msingerid=4620|malbumid=12629|malbum=Mi
-Century:登峰造极世纪精选(Disc
-2)|msize=1704913|minterval=209|mstream=1|mdownload=0
+Century:登峰造极世纪精选(Disc 2)|msize=1704913|minterval=209|mstream=1|mdownload=0
 09
 独一无二
 Mi
-Century:登峰造极世纪精选(Disc
-2)
+Century:登峰造极世纪精选(Disc 2)
 mid=97929|msong=终身美丽|msingerid=4620|msinger=郑秀文|msingerid=4620|malbumid=8232|malbum=女人心事|msize=1689365|minterval=205|mstream=10|mdownload=0
 10
 终身美丽
@@ -5125,9 +4902,7 @@ Reserved
 腾讯公司
 版权所有
 腾讯网络文化经营许可证
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 歌手介绍--群星--QQ音乐
 腾讯网首页
 |
@@ -5182,39 +4957,20 @@ DJ
 全部单曲
 歌手简介：
 暂无介绍
-<caption
-class="title">
+<caption class="title">
 热门歌曲(按收听量排序)
 </caption>
 <colgroup>
-<col
-class="choose"
-/>
-<col
-class="data"
-/>
-<col
-class="number"
-/>
-<col
-/>
-<col
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
+<col class="choose" />
+<col class="data" />
+<col class="number" />
+<col />
+<col />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
 </colgroup>
 歌曲名
 专辑名
@@ -6540,9 +6296,7 @@ Reserved
 腾讯公司
 版权所有
 腾讯网络文化经营许可证
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 歌手介绍--张韶涵--QQ音乐
 腾讯网首页
 |
@@ -6597,39 +6351,20 @@ DJ
 全部单曲
 歌手简介：
 有着超时空、童话式包装的张韶涵，一鸣惊人的声音语言，让她在亚洲歌坛独树一格，得到无数专业奖项及销售的肯定，已成为歌坛最受瞩目的新人.直接且具穿透力的声音能量，有着让人深刻戏剧感、游戏化声音的语言，张韶涵的歌声打造了全新的声光世界，一如打开潘多拉的盒子，将带领大家嬉游于童趣的、魔幻的、冒险的、惊奇的、绮丽的、爱情的…..音乐声光世界。
-<caption
-class="title">
+<caption class="title">
 热门歌曲(按收听量排序)
 </caption>
 <colgroup>
-<col
-class="choose"
-/>
-<col
-class="data"
-/>
-<col
-class="number"
-/>
-<col
-/>
-<col
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
+<col class="choose" />
+<col class="data" />
+<col class="number" />
+<col />
+<col />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
 </colgroup>
 歌曲名
 专辑名
@@ -6776,9 +6511,7 @@ Reserved
 腾讯公司
 版权所有
 腾讯网络文化经营许可证
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 歌手介绍--蔡依林--QQ音乐
 腾讯网首页
 |
@@ -6834,39 +6567,20 @@ DJ
 歌手简介：
 纯情少女蔡依林自17岁正式进军歌坛，一路福星照耀，早于1998年便获得
 MTV音乐台“新生卡位战”优胜冠军，第一张大碟《1019》在台湾本土劲卖；第二张又卖到40万。身材小小的她，在美女如云的女歌手中杀出重围，成为台湾新一代少男杀手。更有着“劲爆亚洲歌手”的美誉。
-<caption
-class="title">
+<caption class="title">
 热门歌曲(按收听量排序)
 </caption>
 <colgroup>
-<col
-class="choose"
-/>
-<col
-class="data"
-/>
-<col
-class="number"
-/>
-<col
-/>
-<col
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
+<col class="choose" />
+<col class="data" />
+<col class="number" />
+<col />
+<col />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
 </colgroup>
 歌曲名
 专辑名
@@ -7099,9 +6813,7 @@ Reserved
 腾讯公司
 版权所有
 腾讯网络文化经营许可证
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 歌手介绍--韩国恋曲--QQ音乐
 腾讯网首页
 |
@@ -7156,39 +6868,20 @@ DJ
 全部单曲
 歌手简介：
 暂无介绍
-<caption
-class="title">
+<caption class="title">
 热门歌曲(按收听量排序)
 </caption>
 <colgroup>
-<col
-class="choose"
-/>
-<col
-class="data"
-/>
-<col
-class="number"
-/>
-<col
-/>
-<col
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
+<col class="choose" />
+<col class="data" />
+<col class="number" />
+<col />
+<col />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
 </colgroup>
 歌曲名
 专辑名
@@ -7236,9 +6929,7 @@ Reserved
 腾讯公司
 版权所有
 腾讯网络文化经营许可证
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 歌手介绍--DJ--QQ音乐
 腾讯网首页
 |
@@ -7293,39 +6984,20 @@ DJ
 全部单曲
 歌手简介：
 暂无介绍
-<caption
-class="title">
+<caption class="title">
 热门歌曲(按收听量排序)
 </caption>
 <colgroup>
-<col
-class="choose"
-/>
-<col
-class="data"
-/>
-<col
-class="number"
-/>
-<col
-/>
-<col
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
+<col class="choose" />
+<col class="data" />
+<col class="number" />
+<col />
+<col />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
 </colgroup>
 歌曲名
 专辑名
@@ -7337,11 +7009,9 @@ class="bt"
 <tfoot>
 查看全部11首单曲
 </tfoot>
-mid=414471|msong=摇啊摇(dance
-mix)|msingerid=12330|msinger=DJ|msingerid=12330|malbumid=33498|malbum=DJ舞曲推荐|msize=1834411|minterval=224|mstream=10|mdownload=0
+mid=414471|msong=摇啊摇(dance mix)|msingerid=12330|msinger=DJ|msingerid=12330|malbumid=33498|malbum=DJ舞曲推荐|msize=1834411|minterval=224|mstream=10|mdownload=0
 01
-摇啊摇(dance
-mix)
+摇啊摇(dance mix)
 DJ舞曲推荐
 mid=414479|msong=冰河时代中文版|msingerid=12330|msinger=DJ|msingerid=12330|malbumid=33498|malbum=DJ舞曲推荐|msize=2444223|minterval=300|mstream=3|mdownload=0
 02
@@ -7435,9 +7105,7 @@ Reserved
 腾讯公司
 版权所有
 腾讯网络文化经营许可证
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 歌手介绍--Alizee艾莉婕--QQ音乐
 腾讯网首页
 |
@@ -7495,39 +7163,20 @@ Alizee艾莉婕
 Farmer(玛莲法莫)及其御用制作人Laurent
 Boutonnat的目光，这对超级艺人/制作人组合随即与Alizee签下歌手合约，双方合作录制的处女单曲&quot;Moi…Lolita&quot;推出后风靡欧陆，席卷法国、西班牙、义大利、德国、俄罗斯、以色列、荷兰及波兰等8大国排行冠军宝座，单曲销量不但在法国获颁钻石唱片，包括比利时(双白金)、瑞士(金唱片)、荷兰(金唱片)及德国(金唱片)等欧陆各国都纷纷写下双白金或金唱片的纪录，这些荣耀让Alizee尝到走红的滋味，单曲&quot;Moi…Lolita&quot;同时在英国写下新纪录，成为继法国著名歌星Vanessa
 Paradis(凡妮莎帕拉迪丝)后第二位打进排行榜Top10的法国女艺人。
-<caption
-class="title">
+<caption class="title">
 热门歌曲(按收听量排序)
 </caption>
 <colgroup>
-<col
-class="choose"
-/>
-<col
-class="data"
-/>
-<col
-class="number"
-/>
-<col
-/>
-<col
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
+<col class="choose" />
+<col class="data" />
+<col class="number" />
+<col />
+<col />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
 </colgroup>
 歌曲名
 专辑名
@@ -7657,9 +7306,7 @@ Reserved
 腾讯公司
 版权所有
 腾讯网络文化经营许可证
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 歌手介绍--BigBang(&#48709;&#48197;)--QQ音乐
 腾讯网首页
 |
@@ -7787,39 +7434,20 @@ Seunghyun
 身高:174cm
 体重:57kg
 特长:唱歌、Dance
-<caption
-class="title">
+<caption class="title">
 热门歌曲(按收听量排序)
 </caption>
 <colgroup>
-<col
-class="choose"
-/>
-<col
-class="data"
-/>
-<col
-class="number"
-/>
-<col
-/>
-<col
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
+<col class="choose" />
+<col class="data" />
+<col class="number" />
+<col />
+<col />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
 </colgroup>
 歌曲名
 专辑名
@@ -7882,28 +7510,24 @@ Issue|msize=1828841|minterval=225|mstream=7|mdownload=0
 Hot
 Issue
 mid=416166|msong=Lie
-(English/Korean
-Version)|msingerid=11733|msinger=BigBang(&amp;#48709;&amp;#48197;)|msingerid=11733|malbumid=33646|malbum=For
+(English/Korean Version)|msingerid=11733|msinger=BigBang(&amp;#48709;&amp;#48197;)|msingerid=11733|malbumid=33646|malbum=For
 The
 World|msize=1849869|minterval=228|mstream=5|mdownload=0
 05
 Lie
-(English/Korean
-Version)
+(English/Korean Version)
 For
 The
 World
 mid=416164|msong=Big
 Bang
-(English
-Version)|msingerid=11733|msinger=BigBang(&amp;#48709;&amp;#48197;)|msingerid=11733|malbumid=33646|malbum=For
+(English Version)|msingerid=11733|msinger=BigBang(&amp;#48709;&amp;#48197;)|msingerid=11733|malbumid=33646|malbum=For
 The
 World|msize=1663621|minterval=205|mstream=3|mdownload=0
 06
 Big
 Bang
-(English
-Version)
+(English Version)
 For
 The
 World
@@ -7920,16 +7544,14 @@ Single
 mid=416168|msong=La
 La
 La
-(English
-Version)|msingerid=11733|msinger=BigBang(&amp;#48709;&amp;#48197;)|msingerid=11733|malbumid=33646|malbum=For
+(English Version)|msingerid=11733|msinger=BigBang(&amp;#48709;&amp;#48197;)|msingerid=11733|malbumid=33646|malbum=For
 The
 World|msize=1459349|minterval=180|mstream=7|mdownload=0
 08
 La
 La
 La
-(English
-Version)
+(English Version)
 For
 The
 World
@@ -8028,9 +7650,7 @@ Reserved
 腾讯公司
 版权所有
 腾讯网络文化经营许可证
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 歌手介绍--李圣杰--QQ音乐
 腾讯网首页
 |
@@ -8086,39 +7706,20 @@ DJ
 歌手简介：
 歌唱才能早在学生时代就展露无遗的李圣杰，高中时期便参与各项歌唱比赛，参加了早期的《超级新人王》节目，得到评审鲍比达老师赏识，就此展开他的歌手生涯。虽然一路走来不算顺遂，但他始终没有放弃他的音乐梦，转而到主妇之店、EZ5及Hard
 Rock等地驻唱，透过Live的演出方式来磨练自己，也因此，他卓越的歌唱技巧终于获得制作人黄名伟的青睐，有了再度出发的机会。以最简单直接的感情文字加上抒情动听的旋律，歌唱技巧也无庸置疑，18度的音域，爆发力无限；透过他挥洒自如的歌唱以及充满感情的诠释，曲曲耐听，给我们带来了全然不同的听觉享受。
-<caption
-class="title">
+<caption class="title">
 热门歌曲(按收听量排序)
 </caption>
 <colgroup>
-<col
-class="choose"
-/>
-<col
-class="data"
-/>
-<col
-class="number"
-/>
-<col
-/>
-<col
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
+<col class="choose" />
+<col class="data" />
+<col class="number" />
+<col />
+<col />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
 </colgroup>
 歌曲名
 专辑名
@@ -8216,9 +7817,7 @@ Reserved
 腾讯公司
 版权所有
 腾讯网络文化经营许可证
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 歌手介绍--Kanye
 West肯亚·韦斯特--QQ音乐
 腾讯网首页
@@ -8278,39 +7877,20 @@ West肯亚·韦斯特
 歌手简介：
 Kanye
 West是一名通过不断努力的为其他顶级歌星的唱片录制担任制作人，从而在流行乐界逐渐的显示出自己的实力，形成自己风格并提高自己知名度的说唱歌手兼制作人。
-<caption
-class="title">
+<caption class="title">
 热门歌曲(按收听量排序)
 </caption>
 <colgroup>
-<col
-class="choose"
-/>
-<col
-class="data"
-/>
-<col
-class="number"
-/>
-<col
-/>
-<col
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
+<col class="choose" />
+<col class="data" />
+<col class="number" />
+<col />
+<col />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
 </colgroup>
 歌曲名
 专辑名
@@ -8323,27 +7903,19 @@ class="bt"
 查看全部63首单曲
 </tfoot>
 mid=406639|msong=Homecoming
-(Ft.
-Chris
-Martin)|msingerid=4839|msinger=Kanye
+(Ft. Chris Martin)|msingerid=4839|msinger=Kanye
 West肯亚·韦斯特|msingerid=4839|malbumid=32878|malbum=Graduation|msize=1651605|minterval=203|mstream=9|mdownload=0
 01
 Homecoming
-(Ft.
-Chris
-Martin)
+(Ft. Chris Martin)
 Graduation
 mid=417782|msong=Good
 Life|msingerid=4839|msinger=Kanye
-West肯亚·韦斯特|msingerid=4839|malbumid=33803|malbum=2008葛莱美的喝采(50周年纪念盘)(2008
-Grammy
-Nominees)|msize=1684649|minterval=207|mstream=1|mdownload=0
+West肯亚·韦斯特|msingerid=4839|malbumid=33803|malbum=2008葛莱美的喝采(50周年纪念盘)(2008 Grammy Nominees)|msize=1684649|minterval=207|mstream=1|mdownload=0
 02
 Good
 Life
-2008葛莱美的喝采(50周年纪念盘)(2008
-Grammy
-Nominees)
+2008葛莱美的喝采(50周年纪念盘)(2008 Grammy Nominees)
 mid=406629|msong=Stronger|msingerid=4839|msinger=Kanye
 West肯亚·韦斯特|msingerid=4839|malbumid=32878|malbum=Graduation|msize=2534781|minterval=312|mstream=9|mdownload=0
 03
@@ -8351,14 +7923,12 @@ Stronger
 Graduation
 mid=406631|msong=Good
 Life
-(Ft.
-T-Pain)|msingerid=4839|msinger=Kanye
+(Ft. T-Pain)|msingerid=4839|msinger=Kanye
 West肯亚·韦斯特|msingerid=4839|malbumid=32878|malbum=Graduation|msize=1684649|minterval=207|mstream=9|mdownload=0
 04
 Good
 Life
-(Ft.
-T-Pain)
+(Ft. T-Pain)
 Graduation
 mid=413490|msong=Stronger|msingerid=4839|msinger=Kanye
 West肯亚·韦斯特|msingerid=4839|malbumid=33388|malbum=英国UK单曲榜TOP40(2008)|msize=2540789|minterval=313|mstream=9|mdownload=0
@@ -8371,9 +7941,7 @@ West肯亚·韦斯特|msingerid=4839|malbumid=32228|malbum=Can't
 Tell
 Me
 Nothing
-(The
-Official
-Mixtape)|msize=687321|minterval=83|mstream=10|mdownload=0
+(The Official Mixtape)|msize=687321|minterval=83|mstream=10|mdownload=0
 06
 Stronger
 (Snippet)
@@ -8381,9 +7949,7 @@ Can&#39;t
 Tell
 Me
 Nothing
-(The
-Official
-Mixtape)
+(The Official Mixtape)
 mid=413487|msong=Good
 Life|msingerid=4839|msinger=Kanye
 West肯亚·韦斯特|msingerid=4839|malbumid=33388|malbum=英国UK单曲榜TOP40(2008)|msize=1684649|minterval=207|mstream=9|mdownload=0
@@ -8399,9 +7965,7 @@ West肯亚·韦斯特|msingerid=4839|malbumid=32228|malbum=Can't
 Tell
 Me
 Nothing
-(The
-Official
-Mixtape)|msize=783449|minterval=95|mstream=7|mdownload=0
+(The Official Mixtape)|msize=783449|minterval=95|mstream=7|mdownload=0
 08
 Because
 Of
@@ -8411,9 +7975,7 @@ Can&#39;t
 Tell
 Me
 Nothing
-(The
-Official
-Mixtape)
+(The Official Mixtape)
 mid=406627|msong=Good
 Morning
 (Intro)|msingerid=4839|msinger=Kanye
@@ -8482,9 +8044,7 @@ Reserved
 腾讯公司
 版权所有
 腾讯网络文化经营许可证
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 歌手介绍--艾米&#8226;怀恩豪斯Amy
 Winehouse--QQ音乐
 腾讯网首页
@@ -8544,39 +8104,20 @@ Winehouse
 ‘n’
 Pepa的她，在10岁时组织起白人饶舌团体，13岁获得第一把吉他，同时开启创作与演唱的兴致。就读戏剧学校时，开始探索不同领域音乐，对于乐器弹奏更努力学习不辍。16岁开始就四处登台演出，磨练临场经验与胆识，在朋友Tyler
 James穿针引线下，Amy的DEMO带赢得唱片公司一纸合约，2003年推出首张大碟《Frank》，冲上英国金榜Top13位置，夺下白金销售，入选Echoes「英国年度最佳灵魂乐专辑」。
-<caption
-class="title">
+<caption class="title">
 热门歌曲(按收听量排序)
 </caption>
 <colgroup>
-<col
-class="choose"
-/>
-<col
-class="data"
-/>
-<col
-class="number"
-/>
-<col
-/>
-<col
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
+<col class="choose" />
+<col class="data" />
+<col class="number" />
+<col />
+<col />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
 </colgroup>
 歌曲名
 专辑名
@@ -8589,14 +8130,10 @@ class="bt"
 查看全部20首单曲
 </tfoot>
 mid=417770|msong=Rehab|msingerid=11641|msinger=艾米&amp;#8226;怀恩豪斯Amy
-Winehouse|msingerid=11641|malbumid=33803|malbum=2008葛莱美的喝采(50周年纪念盘)(2008
-Grammy
-Nominees)|msize=1744729|minterval=214|mstream=4|mdownload=0
+Winehouse|msingerid=11641|malbumid=33803|malbum=2008葛莱美的喝采(50周年纪念盘)(2008 Grammy Nominees)|msize=1744729|minterval=214|mstream=4|mdownload=0
 01
 Rehab
-2008葛莱美的喝采(50周年纪念盘)(2008
-Grammy
-Nominees)
+2008葛莱美的喝采(50周年纪念盘)(2008 Grammy Nominees)
 mid=413281|msong=valerie|msingerid=11641|msinger=艾米&amp;#8226;怀恩豪斯Amy
 Winehouse|msingerid=11641|malbumid=33388|malbum=英国UK单曲榜TOP40(2008)|msize=1771765|minterval=218|mstream=6|mdownload=0
 02
@@ -8742,9 +8279,7 @@ Reserved
 腾讯公司
 版权所有
 腾讯网络文化经营许可证
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 歌手介绍--T.R.Y--QQ音乐
 腾讯网首页
 |
@@ -8801,39 +8336,20 @@ T.R.Y
 动感时尚组合T.R.Y
 青春女子组合是孔雀唱片2007年计划强势出击的音乐团体.这是孔雀唱片第一次尝试以原创音乐为基础,结合靓丽的外型和动感时尚的舞蹈,以组合的方式全方位的展现音乐艺术的魅力.组合的成员共3位,音乐的梦想和缘分把她们从不同的地方聚到一起.非常巧合的是,3个人的中文名字和英文名字的缩写:TRY.包含了努力,尝试的意思.这也正是组合和孔雀唱片对音乐的一种态度:不断努力和尝试做更好
 更新的音乐呈献给大家.所以名字由此而来,有取意写身之说.
-<caption
-class="title">
+<caption class="title">
 热门歌曲(按收听量排序)
 </caption>
 <colgroup>
-<col
-class="choose"
-/>
-<col
-class="data"
-/>
-<col
-class="number"
-/>
-<col
-/>
-<col
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
+<col class="choose" />
+<col class="data" />
+<col class="number" />
+<col />
+<col />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
 </colgroup>
 歌曲名
 专辑名
@@ -8877,9 +8393,7 @@ Reserved
 腾讯公司
 版权所有
 腾讯网络文化经营许可证
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 歌手介绍--梁静茹--QQ音乐
 腾讯网首页
 |
@@ -8936,39 +8450,20 @@ S.H.E
 广告里这样诉说：听梁静茹告诉你一段感情故事，听梁静茹告诉你如何去恋爱。
 梁静茹不是那种音色和条件都特别优秀的歌手，她的声音有时候甚至有一点沙哑和带一点点撕裂的感觉，不是最优秀的音乐，也不是最优秀的歌词，有一种歌手是在用她的心和内涵去表述，当你零乱悲伤，心里不平衡，不懂得超然的时候，你可以从她的微笑和声音里寻找你久违的答案，她的声音就是在这样一种平凡中直指人心，直指你爱的世界，她告诉你“你也可以坚强，用微笑祝福离你而去的人，面对一切悲欢。”
 如果受到伤害，遇到感情迷惑，静下心来听听《彩虹》《分手快乐》《第三者》，你也可以体会包容不是为了别人，而是为了自己的快乐。无论是转型大碟《燕尾蝶》的热卖还是作为滚石一姐的风光无限，都证明了梁静茹从一个马来西亚小姑娘到台湾天后的蜕变。
-<caption
-class="title">
+<caption class="title">
 热门歌曲(按收听量排序)
 </caption>
 <colgroup>
-<col
-class="choose"
-/>
-<col
-class="data"
-/>
-<col
-class="number"
-/>
-<col
-/>
-<col
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
+<col class="choose" />
+<col class="data" />
+<col class="number" />
+<col />
+<col />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
 </colgroup>
 歌曲名
 专辑名
@@ -9190,9 +8685,7 @@ Reserved
 腾讯公司
 版权所有
 腾讯网络文化经营许可证
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 歌手介绍--陈楚生--QQ音乐
 腾讯网首页
 |
@@ -9252,39 +8745,20 @@ DJ
 机遇终于来了，2001年上海东方电视台等18家电视台联合举办“亚洲新人大奖赛”，陈楚生报名参加了这次比赛，经过各大赛区1000多名歌手激战，20岁的陈楚生进入了选秀视野。决赛后，幸运之神对他展开了笑颜，陈楚生获得了“亚洲最具潜质新人奖”。
 2003年818日，全国PUB歌手大赛在湖南长沙举行。陈楚生参加了深圳赛区的初赛，但未获得决赛资格，后来接到电话通知到长沙参加决赛，陈楚生带着“丈二和尚摸不着头脑”的心情参加了决赛。面对华纳、滚石、星文、正大、新索等12家华语唱片巨头的老总们演唱，参赛的歌手使出了浑身解数，他们很在意台下的12家唱片公司总裁，唱片巨头们亮出的分值决定他们的命运，他们渴望在这次大赛中被发现。
 陈楚生一直不相信好运会落在他身上。主持人宣布结果，颁奖台上抱着吉他的陈楚生，神情茫然地从礼仪小姐手上接过冠军奖杯和30000元奖金。他走下舞台后，中唱上海公司和CNI唱片公司的人找他谈签约，最后CNI唱片公司跟他签了约。通过那奖进入主流，进入唱片业几乎是凤毛麟角，陈楚生并不觉得这种幸运会改变自己的命运，他现在除了继续唱歌外，更多的是在原创能力、策划制作方面求发展。
-<caption
-class="title">
+<caption class="title">
 热门歌曲(按收听量排序)
 </caption>
 <colgroup>
-<col
-class="choose"
-/>
-<col
-class="data"
-/>
-<col
-class="number"
-/>
-<col
-/>
-<col
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
+<col class="choose" />
+<col class="data" />
+<col class="number" />
+<col />
+<col />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
 </colgroup>
 歌曲名
 专辑名
@@ -9376,9 +8850,7 @@ Reserved
 腾讯公司
 版权所有
 腾讯网络文化经营许可证
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 歌手介绍--西城男孩(WestLife)--QQ音乐
 腾讯网首页
 |
@@ -9449,39 +8921,20 @@ Of
 Our
 Own”在歌迷的期盼下发表了，该辑除了展现他们合音的技巧、音色有绝佳表现外，更加入了灵魂式的唱腔，让Westlife成为了实力派的偶像团体。
 时至今日，Westlife在全世界各地已经卖出了一千多万张专辑，而从南非到亚洲，从中东到大洋洲，他们更拥有总数达五十二白金的傲人销售量。这些成就，让大家不得不点头这五个才华洋溢且有着不同优美歌声的男孩们，确实成功地创造出另一波的偶像奇迹。
-<caption
-class="title">
+<caption class="title">
 热门歌曲(按收听量排序)
 </caption>
 <colgroup>
-<col
-class="choose"
-/>
-<col
-class="data"
-/>
-<col
-class="number"
-/>
-<col
-/>
-<col
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
+<col class="choose" />
+<col class="data" />
+<col class="number" />
+<col />
+<col />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
 </colgroup>
 歌曲名
 专辑名
@@ -9730,9 +9183,7 @@ Reserved
 腾讯公司
 版权所有
 腾讯网络文化经营许可证
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 歌手介绍--vitas--QQ音乐
 腾讯网首页
 |
@@ -9794,39 +9245,20 @@ vitas
 凭借《歌剧２》、《微笑》、《星星》三首作品，分别在２００１、２００２、２００３年度获最佳作曲奖（这是电台组织评选的最高荣誉），并获得国家“民族ＸＵＴ”奖金。迄今为止已经出版了７张ＣＤ，２张ＤＶＤ。
 ２００６年６月８日，ＶＩＴＡＳ
 首次亮相中国，应邀参加ＣＣＴＶ－３《正大综艺》俄罗斯国别年主题晚会，演出２首成名曲：《歌剧２》、《星》。演出瞬间震惊四座，观众的欢呼声几乎掀翻了中央台演播厅顶棚。第二天，百度欧美音乐排行榜，ＶＩＴＡＳ点击率迅速蹿升到第四位，排在迈克尔&#8226;杰克逊之前。据了解，ＶＩＴＡＳ中国歌迷网站注册会员已超过３万。
-<caption
-class="title">
+<caption class="title">
 热门歌曲(按收听量排序)
 </caption>
 <colgroup>
-<col
-class="choose"
-/>
-<col
-class="data"
-/>
-<col
-class="number"
-/>
-<col
-/>
-<col
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
+<col class="choose" />
+<col class="data" />
+<col class="number" />
+<col />
+<col />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
 </colgroup>
 歌曲名
 专辑名
@@ -9956,9 +9388,7 @@ Reserved
 腾讯公司
 版权所有
 腾讯网络文化经营许可证
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 歌手介绍--sweetbox（糖果盒子)--QQ音乐
 腾讯网首页
 |
@@ -10015,12 +9445,7 @@ sweetbox（糖果盒子)
 曾為S.H.E製作多首暢銷歌曲的Sweetbox（糖果盒子），最近竟然在韓國火紅了起來，準備進軍韓劇主題曲市場，這樣的際遇如同3年前他們與
 S.H.E的合作一樣，更讓年僅24歲的主唱Jade大叫：「人生真是奇妙」，因為Jade有一段不為人知的身世，常被誤認黑白混血的她，其實是道地的菲律賓人，在命運的奇妙安排下她整整繞行地球一圈才紅回亞洲。主唱Jade以濃烈激情的嗓音演唱英文版本，歌聲聽起來很成熟，但其實Jade只是和Selina、Ella同年的小女生。Jade的父母是菲律賓人，不過從小出生在美國聖地牙哥的她，幾乎都在美式的環境下求學及成長，加上她深邃的五官，幾乎被認定是黑白混血兒。
 Jade3歲就在日本拍攝她的第一支廣告，小學時就出入百老匯客串表演，在美國洛杉磯，Jade一面攻讀大學，一面在法律事務所打工，晚上還趕場演唱，卻因此碰上了來LA渡假的德國超級製作人GEO，Jade因此得到一張唱片合約，打包飛向歐洲開始Sweetbox樂團的生活。Sweetbox不只在日本受歡迎，在韓國也突破金唱片，贏過了艾薇兒與亞瑟小子，韓國當地的唱片公司正積極安排Sweetbox在夏季為韓國連續劇演唱主題曲。
-由制作人Geo(参与过Ace
-of
-Base、Culture
-Beat、Falco、N-Tune
-&amp;
-Fusion的音乐制作)一手打造、Tina
+由制作人Geo(参与过Ace of Base、Culture Beat、Falco、N-Tune &amp; Fusion的音乐制作)一手打造、Tina
 Harris担纲主唱的知名流行音乐组合“Sweetbox糖果盒子”。从1995年开始推出首支单曲“Booyah
 -
 Here
@@ -10030,39 +9455,20 @@ Gonna
 Be
 Alright”传唱全球，在英国、全欧洲、日本与美国告示牌都登上销售排行。不仅如此，Sweetbox还赢得了日本葛莱美两项大奖-“最佳国际艺人”与“年度最佳歌曲”，该歌曲还在当地电台的国际点播榜Top10中停留了8周之久。如此耀眼的成绩，让Sweetbox
 的专辑被全球47个国家所来发行，一共创下了3千万张的绝佳销售。
-<caption
-class="title">
+<caption class="title">
 热门歌曲(按收听量排序)
 </caption>
 <colgroup>
-<col
-class="choose"
-/>
-<col
-class="data"
-/>
-<col
-class="number"
-/>
-<col
-/>
-<col
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
+<col class="choose" />
+<col class="data" />
+<col class="number" />
+<col />
+<col />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
 </colgroup>
 歌曲名
 专辑名
@@ -10198,9 +9604,7 @@ Reserved
 腾讯公司
 版权所有
 腾讯网络文化经营许可证
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 歌手介绍--黑涩会美眉--QQ音乐
 腾讯网首页
 |
@@ -10255,39 +9659,20 @@ DJ
 全部单曲
 歌手简介：
 被称为台湾版‘早安少女组’—第一批九名“黑涩会美眉”诞生了！
-<caption
-class="title">
+<caption class="title">
 热门歌曲(按收听量排序)
 </caption>
 <colgroup>
-<col
-class="choose"
-/>
-<col
-class="data"
-/>
-<col
-class="number"
-/>
-<col
-/>
-<col
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
+<col class="choose" />
+<col class="data" />
+<col class="number" />
+<col />
+<col />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
 </colgroup>
 歌曲名
 专辑名
@@ -10408,9 +9793,7 @@ Reserved
 腾讯公司
 版权所有
 腾讯网络文化经营许可证
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 歌手介绍--饶天亮--QQ音乐
 腾讯网首页
 |
@@ -10465,39 +9848,20 @@ Twins
 全部单曲
 歌手简介：
 &quot;乐坛黑马&quot;饶天亮的首支单曲《做你的爱人》是一个男人淡淡的忧，轻轻的愁，是一个男人坚守爱情的那份执着。这首歌曲由谢军一手包办词曲及制作，曲风既不缺乏张扬，亦不失内敛，张扬和内敛中涌动着对爱情的激情。这首延续谢军《那一夜》风格的作品，亦是一首难得一见的巅峰之作。《做你的爱人》一经发布，在各大门户网站及音乐网站点击率爆涨,瞬间成为网络上快速飘红的热曲，成为2007年媒体关注的又一颗新星。
-<caption
-class="title">
+<caption class="title">
 热门歌曲(按收听量排序)
 </caption>
 <colgroup>
-<col
-class="choose"
-/>
-<col
-class="data"
-/>
-<col
-class="number"
-/>
-<col
-/>
-<col
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
+<col class="choose" />
+<col class="data" />
+<col class="number" />
+<col />
+<col />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
 </colgroup>
 歌曲名
 专辑名
@@ -10568,9 +9932,7 @@ Reserved
 腾讯公司
 版权所有
 腾讯网络文化经营许可证
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 歌手介绍--潘阳--QQ音乐
 腾讯网首页
 |
@@ -10625,39 +9987,20 @@ DJ
 全部单曲
 歌手简介：
 名笑星潘长江的女儿，才艺双全甜美宝贝，声如淡菊，一点一滴，透露专属少女的小情绪。人如其名，一颦一笑，散发阳光自然“桔”色小幸福，影视歌多栖发展，见证“80一代”多才多艺的自信展现！
-<caption
-class="title">
+<caption class="title">
 热门歌曲(按收听量排序)
 </caption>
 <colgroup>
-<col
-class="choose"
-/>
-<col
-class="data"
-/>
-<col
-class="number"
-/>
-<col
-/>
-<col
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
+<col class="choose" />
+<col class="data" />
+<col class="number" />
+<col />
+<col />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
 </colgroup>
 歌曲名
 专辑名
@@ -10742,9 +10085,7 @@ Reserved
 腾讯公司
 版权所有
 腾讯网络文化经营许可证
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 歌手介绍--戴佩妮--QQ音乐
 腾讯网首页
 |
@@ -10801,39 +10142,20 @@ DJ
 马来西亚（华人）
 小学四年级开始习舞，有11年的舞蹈经验（包括华族及现代舞蹈等），曾多次参与国内外演出，于1997年从事业余舞蹈教育工作。
 创作经历：1995年接触歌曲创作，并积极参与国内外创作比赛，曾获得海螺韵全国校园创作比赛之优秀奖，全柔歌曲创作比赛全场总冠军及最佳演绎，新加坡全国词曲创作比赛冠军，现为指南针创作小组成员。
-<caption
-class="title">
+<caption class="title">
 热门歌曲(按收听量排序)
 </caption>
 <colgroup>
-<col
-class="choose"
-/>
-<col
-class="data"
-/>
-<col
-class="number"
-/>
-<col
-/>
-<col
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
+<col class="choose" />
+<col class="data" />
+<col class="number" />
+<col />
+<col />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
 </colgroup>
 歌曲名
 专辑名
@@ -10971,9 +10293,7 @@ Reserved
 腾讯公司
 版权所有
 腾讯网络文化经营许可证
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 歌手介绍--麦浚龙--QQ音乐
 腾讯网首页
 |
@@ -11052,39 +10372,20 @@ Juno
 喜爱的食物：珍宝珠、中式汤
 讨厌的食物：青豆、蛋治
 乐坛新人麦浚龙的出现是一夜之间的事。年仅１８岁的麦浚龙一向对唱歌充满兴趣，先后向戴思聪、陈洁灵和谭锡禧这三位名师学艺，后被“环球”的陈小宝看中，招揽成为旗下一员。入行后，公司锐意要麦浚龙成为新一代跳舞歌手，安排他到日本，接受日本妈咪级偶像歌手安室奈美惠老公前ＴＲＦ成员阿Ｓａｍ的跳舞特训。
-<caption
-class="title">
+<caption class="title">
 热门歌曲(按收听量排序)
 </caption>
 <colgroup>
-<col
-class="choose"
-/>
-<col
-class="data"
-/>
-<col
-class="number"
-/>
-<col
-/>
-<col
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
+<col class="choose" />
+<col class="data" />
+<col class="number" />
+<col />
+<col />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
 </colgroup>
 歌曲名
 专辑名
@@ -11243,9 +10544,7 @@ Reserved
 腾讯公司
 版权所有
 腾讯网络文化经营许可证
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 歌手介绍--周杰伦--QQ音乐
 腾讯网首页
 |
@@ -11300,39 +10599,20 @@ DJ
 歌手简介：
 周杰伦，英文名字JayChou，七九年出生的他早在念淡江中学音乐科时上“超级新人王”，就被主持人吴宗宪相中而签约。十八岁那年就交出不少亮眼的作品，包括吴宗宪的《屋顶》、王力宏的《打开爱》等。
 周杰伦一出场给人一种爱耍酷的感觉，不喜与媒体亲近。然而作曲、填词、编曲、主唱，样样俱精的他，首张唱碟便给人一种横空出世的感觉，绝对惊喜。随后即得到“音乐新人王”称号，而且周杰伦具有自成一格的R&amp;B演绎方法，桀骜不驯、酷酷的演唱风格，虽然被很多人认为“吐字不清”，但丝毫不影响他的身价一路狂飙，直升到天王级。
-<caption
-class="title">
+<caption class="title">
 热门歌曲(按收听量排序)
 </caption>
 <colgroup>
-<col
-class="choose"
-/>
-<col
-class="data"
-/>
-<col
-class="number"
-/>
-<col
-/>
-<col
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
+<col class="choose" />
+<col class="data" />
+<col class="number" />
+<col />
+<col />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
 </colgroup>
 歌曲名
 专辑名
@@ -11536,9 +10816,7 @@ Reserved
 腾讯公司
 版权所有
 腾讯网络文化经营许可证
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 歌手介绍--凯丽·克莱森
 Kelly
 Clarkson--QQ音乐
@@ -11599,39 +10877,20 @@ Clarkson
 Kelly
 Clarkson真是目前世界上最幸运的人，第一届American
 Idol选秀节目优胜者，首支单曲便成为当年度美国单曲销售冠军，首张专辑也在发行首周空降Billboard冠军，发行三周后达金唱片销量，这一位由几百万美国人从一万名参赛者中投票选出的超级巨星，在获得比其它人更顺利的起步之后，正努力的要破解选秀节目明星昙花一现的魔咒，朝真正的超级巨星之路迈进。
-<caption
-class="title">
+<caption class="title">
 热门歌曲(按收听量排序)
 </caption>
 <colgroup>
-<col
-class="choose"
-/>
-<col
-class="data"
-/>
-<col
-class="number"
-/>
-<col
-/>
-<col
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
+<col class="choose" />
+<col class="data" />
+<col class="number" />
+<col />
+<col />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
 </colgroup>
 歌曲名
 专辑名
@@ -11839,11 +11098,8 @@ Reserved
 腾讯公司
 版权所有
 腾讯网络文化经营许可证
-<?xml
-version="1.0"
-encoding="gb2312"?>
-歌手介绍--后街男孩(Backstreet
-Boys)--QQ音乐
+<?xml version="1.0" encoding="gb2312"?>
+歌手介绍--后街男孩(Backstreet Boys)--QQ音乐
 腾讯网首页
 |
 会员
@@ -11893,18 +11149,13 @@ DJ
 五月天
 您现在的位置：首页
 正版音乐库
-后街男孩(Backstreet
-Boys)
+后街男孩(Backstreet Boys)
 全部单曲
 歌手简介：
 美国超级流行音乐组合。Backstreet
 Boys曾写下七千五百万张全球销售，他们是史上最畅销的流行团体，也曾写下许多男孩团体纪录，先前还创下美国连续两张销售千万的钻石唱片认证纪录。Backstreet
-Boys的第四张专辑《Never
-Gone》将在6月14日发行，这是继2000年的《Black
-and
-Blue》之后，期待已久的新发行。
-《Never
-Gone》的创作与制作阵容坚强，有Five
+Boys的第四张专辑《Never Gone》将在6月14日发行，这是继2000年的《Black and Blue》之后，期待已久的新发行。
+《Never Gone》的创作与制作阵容坚强，有Five
 For
 Fighting的John
 Ondrasik以及Savage
@@ -11921,39 +11172,20 @@ David的演绎。并加上乐队其他成员的和声出现更加使得歌曲显得性感。呈现出了Backstree
 Boys的成熟男人魅力。Over
 Her中的清新自然让我们找回了Backstreet
 Boys最迷人的和声，让所有的后街迷们仿佛找回了当年那五个令人着迷的大男孩。
-<caption
-class="title">
+<caption class="title">
 热门歌曲(按收听量排序)
 </caption>
 <colgroup>
-<col
-class="choose"
-/>
-<col
-class="data"
-/>
-<col
-class="number"
-/>
-<col
-/>
-<col
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
+<col class="choose" />
+<col class="data" />
+<col class="number" />
+<col />
+<col />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
 </colgroup>
 歌曲名
 专辑名
@@ -11965,8 +11197,7 @@ class="bt"
 <tfoot>
 查看全部224首单曲
 </tfoot>
-mid=406470|msong=Inconsolable|msingerid=4405|msinger=后街男孩(Backstreet
-Boys)|msingerid=4405|malbumid=32864|malbum=Unbreakable|msize=1762753|minterval=216|mstream=6|mdownload=0
+mid=406470|msong=Inconsolable|msingerid=4405|msinger=后街男孩(Backstreet Boys)|msingerid=4405|malbumid=32864|malbum=Unbreakable|msize=1762753|minterval=216|mstream=6|mdownload=0
 01
 Inconsolable
 Unbreakable
@@ -11975,8 +11206,7 @@ Long
 As
 You
 Love
-Me|msingerid=4405|msinger=后街男孩(Backstreet
-Boys)|msingerid=4405|malbumid=8213|malbum=Hits-Chapter
+Me|msingerid=4405|msinger=后街男孩(Backstreet Boys)|msingerid=4405|malbumid=8213|malbum=Hits-Chapter
 One|msize=1747121|minterval=213|mstream=8|mdownload=0
 02
 As
@@ -11991,8 +11221,7 @@ mid=97698|msong=I
 Want
 It
 That
-Way|msingerid=4405|msinger=后街男孩(Backstreet
-Boys)|msingerid=4405|malbumid=8213|malbum=Hits-Chapter
+Way|msingerid=4405|msinger=后街男孩(Backstreet Boys)|msingerid=4405|malbumid=8213|malbum=Hits-Chapter
 One|msize=1785055|minterval=217|mstream=6|mdownload=0
 03
 I
@@ -12007,11 +11236,9 @@ Long
 As
 You
 Love
-Me|msingerid=4405|msinger=后街男孩(Backstreet
-Boys)|msingerid=4405|malbumid=25852|malbum=Backstreet's
+Me|msingerid=4405|msinger=后街男孩(Backstreet Boys)|msingerid=4405|malbumid=25852|malbum=Backstreet's
 Back
-(Enhanced
-CD)|msize=1726705|minterval=213|mstream=7|mdownload=0
+(Enhanced CD)|msize=1726705|minterval=213|mstream=7|mdownload=0
 04
 As
 Long
@@ -12021,13 +11248,11 @@ Love
 Me
 Backstreet&#39;s
 Back
-(Enhanced
-CD)
+(Enhanced CD)
 mid=409788|msong=Helpless
 When
 She
-Smiles|msingerid=4405|msinger=后街男孩(Backstreet
-Boys)|msingerid=4405|malbumid=32864|malbum=Unbreakable|msize=1991057|minterval=245|mstream=9|mdownload=0
+Smiles|msingerid=4405|msinger=后街男孩(Backstreet Boys)|msingerid=4405|malbumid=32864|malbum=Unbreakable|msize=1991057|minterval=245|mstream=9|mdownload=0
 05
 Helpless
 When
@@ -12037,8 +11262,7 @@ Unbreakable
 mid=409793|msong=You
 Can
 Let
-Go|msingerid=4405|msinger=后街男孩(Backstreet
-Boys)|msingerid=4405|malbumid=32864|malbum=Unbreakable|msize=1726705|minterval=213|mstream=9|mdownload=0
+Go|msingerid=4405|msinger=后街男孩(Backstreet Boys)|msingerid=4405|malbumid=32864|malbum=Unbreakable|msize=1726705|minterval=213|mstream=9|mdownload=0
 06
 You
 Can
@@ -12049,8 +11273,7 @@ mid=409787|msong=Something
 That
 I
 Already
-Know|msingerid=4405|msinger=后街男孩(Backstreet
-Boys)|msingerid=4405|malbumid=32864|malbum=Unbreakable|msize=1702673|minterval=210|mstream=9|mdownload=0
+Know|msingerid=4405|msinger=后街男孩(Backstreet Boys)|msingerid=4405|malbumid=32864|malbum=Unbreakable|msize=1702673|minterval=210|mstream=9|mdownload=0
 07
 Something
 That
@@ -12060,20 +11283,16 @@ Know
 Unbreakable
 mid=409786|msong=Everything
 But
-Mine|msingerid=4405|msinger=后街男孩(Backstreet
-Boys)|msingerid=4405|malbumid=32864|malbum=Unbreakable|msize=2000069|minterval=246|mstream=9|mdownload=0
+Mine|msingerid=4405|msinger=后街男孩(Backstreet Boys)|msingerid=4405|malbumid=32864|malbum=Unbreakable|msize=2000069|minterval=246|mstream=9|mdownload=0
 08
 Everything
 But
 Mine
 Unbreakable
-mid=97699|msong=Everybody(Backstreet's
-Back)|msingerid=4405|msinger=后街男孩(Backstreet
-Boys)|msingerid=4405|malbumid=8213|malbum=Hits-Chapter
+mid=97699|msong=Everybody(Backstreet's Back)|msingerid=4405|msinger=后街男孩(Backstreet Boys)|msingerid=4405|malbumid=8213|malbum=Hits-Chapter
 One|msize=1859481|minterval=226|mstream=7|mdownload=0
 09
-Everybody(Backstreet&#39;s
-Back)
+Everybody(Backstreet&#39;s Back)
 Hits-Chapter
 One
 mid=98274|msong=As
@@ -12081,8 +11300,7 @@ Long
 as
 You
 Love
-Me|msingerid=4405|msinger=后街男孩(Backstreet
-Boys)|msingerid=4405|malbumid=8253|malbum=BACKSTREET'S
+Me|msingerid=4405|msinger=后街男孩(Backstreet Boys)|msingerid=4405|malbumid=8253|malbum=BACKSTREET'S
 BACK|msize=1747121|minterval=213|mstream=6|mdownload=0
 10
 As
@@ -12283,9 +11501,7 @@ Reserved
 腾讯公司
 版权所有
 腾讯网络文化经营许可证
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 歌手介绍--刘德华--QQ音乐
 腾讯网首页
 |
@@ -12348,39 +11564,20 @@ DJ
 ·92年首次在春晚亮相
 ·95年再上春晚，独唱《忘情水》
 ·2003年，2004年连续荣膺“世界杰出青年”
-<caption
-class="title">
+<caption class="title">
 热门歌曲(按收听量排序)
 </caption>
 <colgroup>
-<col
-class="choose"
-/>
-<col
-class="data"
-/>
-<col
-class="number"
-/>
-<col
-/>
-<col
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
+<col class="choose" />
+<col class="data" />
+<col class="number" />
+<col />
+<col />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
 </colgroup>
 歌曲名
 专辑名
@@ -12910,9 +12107,7 @@ Reserved
 腾讯公司
 版权所有
 腾讯网络文化经营许可证
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 歌手介绍--王力宏--QQ音乐
 腾讯网首页
 |
@@ -13010,42 +12205,21 @@ Neptunes
 喜欢地方：希腊
 喜欢顏色：蓝色
 音乐理想：透过我的音乐和青少年沟通，让我的音乐给年轻人的生命带来感动和啟发。
-事业目标：做一个真正的音乐人(a
-true
-musician)做出有创意，有思想，有内涵，有个人特色的作品。在国际上发展成全方位的艺人，在音乐的领域上能有长远的贡献。
-<caption
-class="title">
+事业目标：做一个真正的音乐人(a true musician)做出有创意，有思想，有内涵，有个人特色的作品。在国际上发展成全方位的艺人，在音乐的领域上能有长远的贡献。
+<caption class="title">
 热门歌曲(按收听量排序)
 </caption>
 <colgroup>
-<col
-class="choose"
-/>
-<col
-class="data"
-/>
-<col
-class="number"
-/>
-<col
-/>
-<col
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
+<col class="choose" />
+<col class="data" />
+<col class="number" />
+<col />
+<col />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
 </colgroup>
 歌曲名
 专辑名
@@ -13284,9 +12458,7 @@ Reserved
 腾讯公司
 版权所有
 腾讯网络文化经营许可证
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 歌手介绍--安七炫--QQ音乐
 腾讯网首页
 |
@@ -13342,39 +12514,20 @@ Jun...
 全部单曲
 歌手简介：
 韩国歌手安七炫凭着自己俊秀的外表和不凡的唱功，成为滚滚韩流中最受内地歌迷喜爱的偶像之一，自从H．O．T解散安七炫单飞后，他以自己的作品向大家显示了非凡的实力，也得到了众多歌迷的认可。但安七炫并不满足于这样的成绩，除了唱歌之外，他表示自己还很想做一个好的作曲家。安七炫通过翻译告诉大家，他现在和另外两个韩国歌手一起做音乐，他负责给他们写歌。不过，在韩国顶尖的音乐人很多，他会更加努力实现自己的目标。虽然也拍过影视作品，但至少到目前为止，这不是他的主要工作。
-<caption
-class="title">
+<caption class="title">
 热门歌曲(按收听量排序)
 </caption>
 <colgroup>
-<col
-class="choose"
-/>
-<col
-class="data"
-/>
-<col
-class="number"
-/>
-<col
-/>
-<col
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
+<col class="choose" />
+<col class="data" />
+<col class="number" />
+<col />
+<col />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
 </colgroup>
 歌曲名
 专辑名
@@ -13401,12 +12554,10 @@ KANGTA
 &amp;
 BEST
 mid=110968|msong=二十三
-(My
-life)|msingerid=4668|msinger=安七炫|msingerid=4668|malbumid=9259|malbum=北极星愿(海外版)|msize=1648333|minterval=203|mstream=4|mdownload=0
+(My life)|msingerid=4668|msinger=安七炫|msingerid=4668|malbumid=9259|malbum=北极星愿(海外版)|msize=1648333|minterval=203|mstream=4|mdownload=0
 03
 二十三
-(My
-life)
+(My life)
 北极星愿(海外版)
 mid=110926|msong=The
 Best|msingerid=4668|msinger=安七炫|msingerid=4668|malbumid=9255|malbum=Kang
@@ -13553,11 +12704,8 @@ Reserved
 腾讯公司
 版权所有
 腾讯网络文化经营许可证
-<?xml
-version="1.0"
-encoding="gb2312"?>
-歌手介绍--凯莉.米洛(Kylie
-Minogue)--QQ音乐
+<?xml version="1.0" encoding="gb2312"?>
+歌手介绍--凯莉.米洛(Kylie Minogue)--QQ音乐
 腾讯网首页
 |
 会员
@@ -13607,8 +12755,7 @@ DJ
 庾澄庆
 您现在的位置：首页
 正版音乐库
-凯莉.米洛(Kylie
-Minogue)
+凯莉.米洛(Kylie Minogue)
 全部单曲
 歌手简介：
 来自澳洲的Kylie
@@ -13624,8 +12771,7 @@ Of
 My
 Head”已是她在英国金榜的第33首Top
 40、第20首Top
-10及第6首傲视群伦的冠军单曲！凯莉去年发表了她加入Parlophone唱片公司的第一张专辑《光年Light
-Year》，这张囊括了
+10及第6首傲视群伦的冠军单曲！凯莉去年发表了她加入Parlophone唱片公司的第一张专辑《光年Light Year》，这张囊括了
 “Spinning
 Around”、
 “On
@@ -13635,39 +12781,20 @@ Like
 This”、
 “Please
 Stay”等多首二000年舞池国歌的多白金专辑更为她赢得澳洲音乐首奖ARIA的“年度最佳流行专辑”，并获得“年度最佳女艺人”、“年度最佳专辑”、“年度最畅销澳洲专辑及单曲”、“年度唱片”等主要奖项的提名，流行后冠的光彩依旧耀眼夺目。
-<caption
-class="title">
+<caption class="title">
 热门歌曲(按收听量排序)
 </caption>
 <colgroup>
-<col
-class="choose"
-/>
-<col
-class="data"
-/>
-<col
-class="number"
-/>
-<col
-/>
-<col
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
+<col class="choose" />
+<col class="data" />
+<col class="number" />
+<col />
+<col />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
 </colgroup>
 歌曲名
 专辑名
@@ -13681,24 +12808,21 @@ class="bt"
 </tfoot>
 mid=412539|msong=In
 My
-Arms|msingerid=669|msinger=凯莉.米洛(Kylie
-Minogue)|msingerid=669|malbumid=32472|malbum=X|msize=1729709|minterval=213|mstream=5|mdownload=0
+Arms|msingerid=669|msinger=凯莉.米洛(Kylie Minogue)|msingerid=669|malbumid=32472|malbum=X|msize=1729709|minterval=213|mstream=5|mdownload=0
 01
 In
 My
 Arms
 X
 mid=412537|msong=2
-Hearts|msingerid=669|msinger=凯莉.米洛(Kylie
-Minogue)|msingerid=669|malbumid=32472|malbum=X|msize=1417293|minterval=174|mstream=5|mdownload=0
+Hearts|msingerid=669|msinger=凯莉.米洛(Kylie Minogue)|msingerid=669|malbumid=32472|malbum=X|msize=1417293|minterval=174|mstream=5|mdownload=0
 02
 2
 Hearts
 X
 mid=412538|msong=Like
 A
-Drug|msingerid=669|msinger=凯莉.米洛(Kylie
-Minogue)|msingerid=669|malbumid=32472|malbum=X|msize=1600537|minterval=197|mstream=5|mdownload=0
+Drug|msingerid=669|msinger=凯莉.米洛(Kylie Minogue)|msingerid=669|malbumid=32472|malbum=X|msize=1600537|minterval=197|mstream=5|mdownload=0
 03
 Like
 A
@@ -13706,50 +12830,43 @@ Drug
 X
 mid=412545|msong=All
 I
-See|msingerid=669|msinger=凯莉.米洛(Kylie
-Minogue)|msingerid=669|malbumid=32472|malbum=X|msize=1498401|minterval=184|mstream=5|mdownload=0
+See|msingerid=669|msinger=凯莉.米洛(Kylie Minogue)|msingerid=669|malbumid=32472|malbum=X|msize=1498401|minterval=184|mstream=5|mdownload=0
 04
 All
 I
 See
 X
-mid=412540|msong=Speakerphone|msingerid=669|msinger=凯莉.米洛(Kylie
-Minogue)|msingerid=669|malbumid=32472|malbum=X|msize=1900937|minterval=234|mstream=5|mdownload=0
+mid=412540|msong=Speakerphone|msingerid=669|msinger=凯莉.米洛(Kylie Minogue)|msingerid=669|malbumid=32472|malbum=X|msize=1900937|minterval=234|mstream=5|mdownload=0
 05
 Speakerphone
 X
-mid=412541|msong=Sensitized|msingerid=669|msinger=凯莉.米洛(Kylie
-Minogue)|msingerid=669|malbumid=32472|malbum=X|msize=1921965|minterval=236|mstream=5|mdownload=0
+mid=412541|msong=Sensitized|msingerid=669|msinger=凯莉.米洛(Kylie Minogue)|msingerid=669|malbumid=32472|malbum=X|msize=1921965|minterval=236|mstream=5|mdownload=0
 06
 Sensitized
 X
 mid=412542|msong=Heart
 Beat
-Rock|msingerid=669|msinger=凯莉.米洛(Kylie
-Minogue)|msingerid=669|malbumid=32472|malbum=X|msize=1654609|minterval=204|mstream=5|mdownload=0
+Rock|msingerid=669|msinger=凯莉.米洛(Kylie Minogue)|msingerid=669|malbumid=32472|malbum=X|msize=1654609|minterval=204|mstream=5|mdownload=0
 07
 Heart
 Beat
 Rock
 X
 mid=412543|msong=The
-One|msingerid=669|msinger=凯莉.米洛(Kylie
-Minogue)|msingerid=669|malbumid=32472|malbum=X|msize=1991057|minterval=244|mstream=5|mdownload=0
+One|msingerid=669|msinger=凯莉.米洛(Kylie Minogue)|msingerid=669|malbumid=32472|malbum=X|msize=1991057|minterval=244|mstream=5|mdownload=0
 08
 The
 One
 X
 mid=412544|msong=No
 More
-Rain|msingerid=669|msinger=凯莉.米洛(Kylie
-Minogue)|msingerid=669|malbumid=32472|malbum=X|msize=1961017|minterval=242|mstream=5|mdownload=0
+Rain|msingerid=669|msinger=凯莉.米洛(Kylie Minogue)|msingerid=669|malbumid=32472|malbum=X|msize=1961017|minterval=242|mstream=5|mdownload=0
 09
 No
 More
 Rain
 X
-mid=412546|msong=Stars|msingerid=669|msinger=凯莉.米洛(Kylie
-Minogue)|msingerid=669|malbumid=32472|malbum=X|msize=1798801|minterval=222|mstream=5|mdownload=0
+mid=412546|msong=Stars|msingerid=669|msinger=凯莉.米洛(Kylie Minogue)|msingerid=669|malbumid=32472|malbum=X|msize=1798801|minterval=222|mstream=5|mdownload=0
 10
 Stars
 X
@@ -13838,9 +12955,7 @@ Reserved
 腾讯公司
 版权所有
 腾讯网络文化经营许可证
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 歌手介绍--Rain（郑智薰）--QQ音乐
 腾讯网首页
 |
@@ -13911,39 +13026,20 @@ RAIN
 将版图跨入广告界跃升为韩国广告新人王以及模特儿舞台，更跃上大荧幕，展现
 RAIN
 完全不同于一般歌手的多样性光芒！
-<caption
-class="title">
+<caption class="title">
 热门歌曲(按收听量排序)
 </caption>
 <colgroup>
-<col
-class="choose"
-/>
-<col
-class="data"
-/>
-<col
-class="number"
-/>
-<col
-/>
-<col
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
+<col class="choose" />
+<col class="data" />
+<col class="number" />
+<col />
+<col />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
 </colgroup>
 歌曲名
 专辑名
@@ -13977,16 +13073,14 @@ It&#39;s
 Raining
 mid=179024|msong=I`M
 Coming
-(Feat.
-Tablo)|msingerid=4706|msinger=Rain（郑智薰）|msingerid=4706|malbumid=15442|malbum=Rain's
+(Feat. Tablo)|msingerid=4706|msinger=Rain（郑智薰）|msingerid=4706|malbumid=15442|malbum=Rain's
 World
 -
 Vol.4|msize=1836979|minterval=223|mstream=5|mdownload=0
 05
 I`M
 Coming
-(Feat.
-Tablo)
+(Feat. Tablo)
 Rain&#39;s
 World
 -
@@ -14149,9 +13243,7 @@ Reserved
 腾讯公司
 版权所有
 腾讯网络文化经营许可证
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 歌手介绍--原来我不帅--QQ音乐
 腾讯网首页
 |
@@ -14209,39 +13301,20 @@ DJ
 更创下单日30万次点阅挤爆的纪录！
 林俊杰第一次献身在《原来我不帅》民视偶像剧的男主角之列，并且发挥他的创作天份，并与《不能说的．秘密》曾恺玹、张勋杰与李玖哲同台演出。改编自网路同名小说，林俊杰帮该剧量身订做一首符合剧情男主角心声的歌曲“期待你的爱”，表达宅男渴望被爱，不靠外表以内涵挂帅的真实主义。
 《原来我不帅》电视原声大碟收录了片头曲“想太多”和片尾曲“期待你的爱”。另一曲“因为你笑了”唱出少年求爱的辛酸血泪，而李玖哲的“快点来爱我”唱出丑男的成长心路历程，道出了宅男的共同的心声。碟内还辑录了金莎主唱的插曲“换季”，以及胡灵的“不爱拉倒”，DVD收录了独家精采剧中NG花絮(35分钟)。
-<caption
-class="title">
+<caption class="title">
 热门歌曲(按收听量排序)
 </caption>
 <colgroup>
-<col
-class="choose"
-/>
-<col
-class="data"
-/>
-<col
-class="number"
-/>
-<col
-/>
-<col
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
+<col class="choose" />
+<col class="data" />
+<col class="number" />
+<col />
+<col />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
 </colgroup>
 歌曲名
 专辑名
@@ -14348,9 +13421,7 @@ Reserved
 腾讯公司
 版权所有
 腾讯网络文化经营许可证
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 歌手介绍--陈慧琳--QQ音乐
 腾讯网首页
 |
@@ -14441,8 +13512,7 @@ Parson
 School
 of
 Design
-(Graphic
-Design)
+(Graphic Design)
 兴趣：
 唱歌、阅读
 最Hit歌曲：
@@ -14480,39 +13550,20 @@ York
 纽约、俄罗斯
 最喜爱季节：
 秋天
-<caption
-class="title">
+<caption class="title">
 热门歌曲(按收听量排序)
 </caption>
 <colgroup>
-<col
-class="choose"
-/>
-<col
-class="data"
-/>
-<col
-class="number"
-/>
-<col
-/>
-<col
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
+<col class="choose" />
+<col class="data" />
+<col class="number" />
+<col />
+<col />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
 </colgroup>
 歌曲名
 专辑名
@@ -14851,9 +13902,7 @@ Reserved
 腾讯公司
 版权所有
 腾讯网络文化经营许可证
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 歌手介绍--Tragédie
 悲剧演唱组--QQ音乐
 腾讯网首页
@@ -14924,39 +13973,20 @@ Silky
 Shai的父母分别是科迪第瓦人（ivoiriens）和留尼汪岛人（réunionnais）。
 Tizy
 Bone出生在马达加斯加。他们俩1999年在法国的南特（Nantes）相识，在一起街头卖唱为生。由于开始合作阶段生活十分艰苦，因此给自己的演唱组取名为《悲剧演唱组》。
-<caption
-class="title">
+<caption class="title">
 热门歌曲(按收听量排序)
 </caption>
 <colgroup>
-<col
-class="choose"
-/>
-<col
-class="data"
-/>
-<col
-class="number"
-/>
-<col
-/>
-<col
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
+<col class="choose" />
+<col class="data" />
+<col class="number" />
+<col />
+<col />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
 </colgroup>
 歌曲名
 专辑名
@@ -15011,9 +14041,7 @@ Reserved
 腾讯公司
 版权所有
 腾讯网络文化经营许可证
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 歌手介绍--李贞贤--QQ音乐
 腾讯网首页
 |
@@ -15071,39 +14099,20 @@ DJ
 /身高：１６３ｃｍ/体重：４０ｋｇ－４２ｋｇ
 /血型：Ｏ型
 /外号：电子音乐女王/兴趣：弹钢琴、欣赏音乐、跳舞/现职：电影演员、艺人、歌手/嗜好：天文观测、写剧本台词、收集芭比娃娃/座右铭：大抱负、大人物、大行动/出演作品：《花瓣》、《七个羹匙》
-<caption
-class="title">
+<caption class="title">
 热门歌曲(按收听量排序)
 </caption>
 <colgroup>
-<col
-class="choose"
-/>
-<col
-class="data"
-/>
-<col
-class="number"
-/>
-<col
-/>
-<col
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
+<col class="choose" />
+<col class="data" />
+<col class="number" />
+<col />
+<col />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
 </colgroup>
 歌曲名
 专辑名
@@ -15289,9 +14298,7 @@ Reserved
 腾讯公司
 版权所有
 腾讯网络文化经营许可证
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 歌手介绍--Super
 Junior--QQ音乐
 腾讯网首页
@@ -15375,39 +14382,20 @@ junior组合主要成员：
 生日：1985年1月17日
 姓名：神童
 生日：1985年9月28日
-<caption
-class="title">
+<caption class="title">
 热门歌曲(按收听量排序)
 </caption>
 <colgroup>
-<col
-class="choose"
-/>
-<col
-class="data"
-/>
-<col
-class="number"
-/>
-<col
-/>
-<col
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
+<col class="choose" />
+<col class="data" />
+<col class="number" />
+<col />
+<col />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
 </colgroup>
 歌曲名
 专辑名
@@ -15458,15 +14446,13 @@ Super
 Junior
 05
 mid=183531|msong=Twins
-(Knock
-Out)|msingerid=5675|msinger=Super
+(Knock Out)|msingerid=5675|msinger=Super
 Junior|msingerid=5675|malbumid=10670|malbum=Super
 Junior
 05|msize=1649953|minterval=201|mstream=8|mdownload=0
 05
 Twins
-(Knock
-Out)
+(Knock Out)
 Super
 Junior
 05
@@ -15513,14 +14499,12 @@ Junior|msingerid=5675|malbumid=18805|malbum=Rokugo|msize=1447333|minterval=177|m
 来过倒
 Rokugo
 mid=411098|msong=&amp;#46024;
-&amp;#46024;!(Don't
-Don)|msingerid=5675|msinger=Super
+&amp;#46024;!(Don't Don)|msingerid=5675|msinger=Super
 Junior|msingerid=5675|malbumid=33227|malbum=Don't
 Don|msize=2033113|minterval=250|mstream=2|mdownload=0
 10
 &#46024;
-&#46024;!(Don&#39;t
-Don)
+&#46024;!(Don&#39;t Don)
 Don&#39;t
 Don
 收录专辑
@@ -15580,9 +14564,7 @@ Reserved
 腾讯公司
 版权所有
 腾讯网络文化经营许可证
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 歌手介绍--海鸣威--QQ音乐
 腾讯网首页
 |
@@ -15637,39 +14619,20 @@ DJ
 全部单曲
 歌手简介：
 他是中央电视台＜梦想中国＞的银蝶得主，他凭借能歌善舞以及惊人的舞台爆发力征服了上亿观众;他是歌神张学友＜雪狼湖＞一百多场巡演中的特邀嘉宾；他酷似张学友的外貌，令他在歌迷心目中人气急剧飙升，他，就是海鸣威，曾任张学友音乐剧《雪狼湖》的特邀艺员，全国街舞大赛冠军，北京电视台模仿秀冠军。
-<caption
-class="title">
+<caption class="title">
 热门歌曲(按收听量排序)
 </caption>
 <colgroup>
-<col
-class="choose"
-/>
-<col
-class="data"
-/>
-<col
-class="number"
-/>
-<col
-/>
-<col
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
+<col class="choose" />
+<col class="data" />
+<col class="number" />
+<col />
+<col />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
 </colgroup>
 歌曲名
 专辑名
@@ -15788,9 +14751,7 @@ Reserved
 腾讯公司
 版权所有
 腾讯网络文化经营许可证
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 歌手介绍--徐誉滕--QQ音乐
 腾讯网首页
 |
@@ -15877,39 +14838,20 @@ DJ
 2006年为安琥量身创作专辑里六首歌曲，并担纲其中四首歌曲的编曲。
 2006年为马来西亚歌手罗宾制作专辑。
 2006年个人单曲《等一分钟》问世
-<caption
-class="title">
+<caption class="title">
 热门歌曲(按收听量排序)
 </caption>
 <colgroup>
-<col
-class="choose"
-/>
-<col
-class="data"
-/>
-<col
-class="number"
-/>
-<col
-/>
-<col
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
+<col class="choose" />
+<col class="data" />
+<col class="number" />
+<col />
+<col />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
 </colgroup>
 歌曲名
 专辑名
@@ -15988,9 +14930,7 @@ Reserved
 腾讯公司
 版权所有
 腾讯网络文化经营许可证
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 歌手介绍--蔡妍--QQ音乐
 腾讯网首页
 |
@@ -16054,39 +14994,20 @@ DJ
 出道专辑：2003年发行第一张专辑
 曾获奖项：2005年SBS歌曲大奖舞曲部奖
 特别经历：通过在日本的广播节目出道
-<caption
-class="title">
+<caption class="title">
 热门歌曲(按收听量排序)
 </caption>
 <colgroup>
-<col
-class="choose"
-/>
-<col
-class="data"
-/>
-<col
-class="number"
-/>
-<col
-/>
-<col
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
+<col class="choose" />
+<col class="data" />
+<col class="number" />
+<col />
+<col />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
 </colgroup>
 歌曲名
 专辑名
@@ -16111,37 +15032,31 @@ M.Net
 mid=119009|msong=危险的演出|msingerid=5484|msinger=蔡妍|msingerid=5484|malbumid=10303|malbum=Best
 &amp;
 Figure
-(Limited
-Edition)|msize=2031923|minterval=250|mstream=1|mdownload=0
+(Limited Edition)|msize=2031923|minterval=250|mstream=1|mdownload=0
 03
 危险的演出
 Best
 &amp;
 Figure
-(Limited
-Edition)
+(Limited Edition)
 mid=180159|msong=第三次的爱
 &amp;#49464;&amp;#48264;&amp;#51704;
-&amp;#49324;&amp;#46993;(Video
-ver.)|msingerid=5484|msinger=蔡妍|msingerid=5484|malbumid=15547|malbum=第三次的爱|msize=1856563|minterval=226|mstream=1|mdownload=0
+&amp;#49324;&amp;#46993;(Video ver.)|msingerid=5484|msinger=蔡妍|msingerid=5484|malbumid=15547|malbum=第三次的爱|msize=1856563|minterval=226|mstream=1|mdownload=0
 04
 第三次的爱
 &#49464;&#48264;&#51704;
-&#49324;&#46993;(Video
-ver.)
+&#49324;&#46993;(Video ver.)
 第三次的爱
 mid=119013|msong=两个人|msingerid=5484|msinger=蔡妍|msingerid=5484|malbumid=10303|malbum=Best
 &amp;
 Figure
-(Limited
-Edition)|msize=1491201|minterval=183|mstream=5|mdownload=0
+(Limited Edition)|msize=1491201|minterval=183|mstream=5|mdownload=0
 05
 两个人
 Best
 &amp;
 Figure
-(Limited
-Edition)
+(Limited Edition)
 mid=186248|msong=My
 Love|msingerid=5484|msinger=蔡妍|msingerid=5484|malbumid=31440|malbum=Vol.4-MyLove|msize=1851813|minterval=228|mstream=3|mdownload=0
 06
@@ -16151,41 +15066,35 @@ Vol.4-MyLove
 mid=119012|msong=也许是爱!|msingerid=5484|msinger=蔡妍|msingerid=5484|malbumid=10303|malbum=Best
 &amp;
 Figure
-(Limited
-Edition)|msize=1488199|minterval=183|mstream=4|mdownload=0
+(Limited Edition)|msize=1488199|minterval=183|mstream=4|mdownload=0
 07
 也许是爱!
 Best
 &amp;
 Figure
-(Limited
-Edition)
+(Limited Edition)
 mid=119004|msong=只有你
 (Remix)|msingerid=5484|msinger=蔡妍|msingerid=5484|malbumid=10303|malbum=Best
 &amp;
 Figure
-(Limited
-Edition)|msize=1578319|minterval=193|mstream=6|mdownload=0
+(Limited Edition)|msize=1578319|minterval=193|mstream=6|mdownload=0
 08
 只有你
 (Remix)
 Best
 &amp;
 Figure
-(Limited
-Edition)
+(Limited Edition)
 mid=119002|msong=都结束了|msingerid=5484|msinger=蔡妍|msingerid=5484|malbumid=10303|malbum=Best
 &amp;
 Figure
-(Limited
-Edition)|msize=1545275|minterval=190|mstream=4|mdownload=0
+(Limited Edition)|msize=1545275|minterval=190|mstream=4|mdownload=0
 09
 都结束了
 Best
 &amp;
 Figure
-(Limited
-Edition)
+(Limited Edition)
 mid=186255|msong=Tell
 Me|msingerid=5484|msinger=蔡妍|msingerid=5484|malbumid=31440|malbum=Vol.4-MyLove|msize=1794737|minterval=190|mstream=10|mdownload=0
 10
@@ -16243,9 +15152,7 @@ Reserved
 腾讯公司
 版权所有
 腾讯网络文化经营许可证
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 歌手介绍--林俊杰--QQ音乐
 腾讯网首页
 |
@@ -16300,39 +15207,20 @@ DJ
 全部单曲
 歌手简介：
 人称“华人乐坛听好看好的新人”的新加坡唱作歌手林俊杰十八岁就成功发表第一首作品，更在两年之中完成个人专辑中的所有创作，首张新专辑《乐行者》在新加坡发行一个月就突破20万张。他的曲风多变，动静皆宜，囊括了时下颇受欢迎的R&amp;B和节奏感强烈的舞曲，还融入多样的音乐风格。干净细腻的嗓音在收尾处又流露出沙哑的余味，仿佛是阿杜、杨坤、周杰伦和张信哲的结合体。林俊杰不仅是同门师兄阿杜专辑的词曲作者兼制作人，还为张惠妹、哈林、可米小子、王心凌等众多歌手创作了包括《记得》、《放手》、《超人心》等30多首歌曲，是近年来难得的年轻唱作人，在业内也有“魔指”之称。
-<caption
-class="title">
+<caption class="title">
 热门歌曲(按收听量排序)
 </caption>
 <colgroup>
-<col
-class="choose"
-/>
-<col
-class="data"
-/>
-<col
-class="number"
-/>
-<col
-/>
-<col
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
+<col class="choose" />
+<col class="data" />
+<col class="number" />
+<col />
+<col />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
 </colgroup>
 歌曲名
 专辑名
@@ -16395,8 +15283,7 @@ mid=95283|msong=江南|msingerid=4286|msinger=林俊杰|msingerid=4286|malbumid=8036|
 时间：
 2008-01-28
 西界
-(J
-F...
+(J F...
 语言：
 国语
 时间：
@@ -16496,12 +15383,9 @@ Reserved
 腾讯公司
 版权所有
 腾讯网络文化经营许可证
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 歌手介绍--宇多田光
-(Utada
-Hikaru)--QQ音乐
+(Utada Hikaru)--QQ音乐
 腾讯网首页
 |
 会员
@@ -16554,44 +15438,24 @@ DJ
 您现在的位置：首页
 正版音乐库
 宇多田光
-(Utada
-Hikaru)
+(Utada Hikaru)
 全部单曲
 歌手简介：
 宇多田光1983年在纽约出生，1990年与家人组成U3乐队，那时她只有7岁。他们计划出唱片，但录音后，因某些原因，计划告吹。1993年9月19日，U3在日本发行他们的首张专辑《STAR》，宇多田光代替母亲成为主唱，U3改为cubicU。
-<caption
-class="title">
+<caption class="title">
 热门歌曲(按收听量排序)
 </caption>
 <colgroup>
-<col
-class="choose"
-/>
-<col
-class="data"
-/>
-<col
-class="number"
-/>
-<col
-/>
-<col
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
+<col class="choose" />
+<col class="data" />
+<col class="number" />
+<col />
+<col />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
 </colgroup>
 歌曲名
 专辑名
@@ -16605,8 +15469,7 @@ class="bt"
 </tfoot>
 mid=417200|msong=Stay
 Gold（花王「アジエンス」新CMソング）|msingerid=5087|msinger=宇多田光
-(Utada
-Hikaru)|msingerid=5087|malbumid=33743|malbum=Heart
+(Utada Hikaru)|msingerid=5087|malbumid=33743|malbum=Heart
 Station／Stay
 Gold|msize=2561817|minterval=316|mstream=2|mdownload=0
 01
@@ -16618,8 +15481,7 @@ Gold
 mid=184562|msong=Flavor
 Of
 Life|msingerid=5087|msinger=宇多田光
-(Utada
-Hikaru)|msingerid=5087|malbumid=15888|malbum=Flavor
+(Utada Hikaru)|msingerid=5087|malbumid=15888|malbum=Flavor
 Of
 Life|msize=2374359|minterval=289|mstream=1|mdownload=0
 02
@@ -16631,8 +15493,7 @@ Of
 Life
 mid=106828|msong=First
 Love|msingerid=5087|msinger=宇多田光
-(Utada
-Hikaru)|msingerid=5087|malbumid=8856|malbum=冠军全纪录Single
+(Utada Hikaru)|msingerid=5087|malbumid=8856|malbum=冠军全纪录Single
 Collection
 1998~2003(Vol.1)|msize=2125063|minterval=259|mstream=8|mdownload=0
 03
@@ -16643,8 +15504,7 @@ Collection
 1998~2003(Vol.1)
 mid=417626|msong=HEART
 STATION|msingerid=5087|msinger=宇多田光
-(Utada
-Hikaru)|msingerid=5087|malbumid=33743|malbum=Heart
+(Utada Hikaru)|msingerid=5087|malbumid=33743|malbum=Heart
 Station／Stay
 Gold|msize=2213353|minterval=272|mstream=1|mdownload=0
 04
@@ -16655,8 +15515,7 @@ Station／Stay
 Gold
 mid=402271|msong=Beautiful
 World|msingerid=5087|msinger=宇多田光
-(Utada
-Hikaru)|msingerid=5087|malbumid=32478|malbum=Beautiful
+(Utada Hikaru)|msingerid=5087|malbumid=32478|malbum=Beautiful
 World
 ／
 Kiss
@@ -16672,8 +15531,7 @@ Kiss
 &amp;
 Cry
 mid=106826|msong=Automatic|msingerid=5087|msinger=宇多田光
-(Utada
-Hikaru)|msingerid=5087|malbumid=8856|malbum=冠军全纪录Single
+(Utada Hikaru)|msingerid=5087|malbumid=8856|malbum=冠军全纪录Single
 Collection
 1998~2003(Vol.1)|msize=2550099|minterval=311|mstream=6|mdownload=0
 06
@@ -16683,8 +15541,7 @@ Collection
 1998~2003(Vol.1)
 mid=190953|msong=First
 Love|msingerid=5087|msinger=宇多田光
-(Utada
-Hikaru)|msingerid=5087|malbumid=16467|malbum=Addicted
+(Utada Hikaru)|msingerid=5087|malbumid=16467|malbum=Addicted
 to
 you|msize=2090189|minterval=257|mstream=4|mdownload=0
 07
@@ -16695,8 +15552,7 @@ to
 you
 mid=182698|msong=First
 Love|msingerid=5087|msinger=宇多田光
-(Utada
-Hikaru)|msingerid=5087|malbumid=15756|malbum=UTADA
+(Utada Hikaru)|msingerid=5087|malbumid=15756|malbum=UTADA
 UNITED
 2006|msize=2228551|minterval=270|mstream=1|mdownload=0
 08
@@ -16708,8 +15564,7 @@ UNITED
 mid=402272|msong=Kiss
 &amp;
 Cry|msingerid=5087|msinger=宇多田光
-(Utada
-Hikaru)|msingerid=5087|malbumid=32478|malbum=Beautiful
+(Utada Hikaru)|msingerid=5087|malbumid=32478|malbum=Beautiful
 World
 ／
 Kiss
@@ -16730,11 +15585,8 @@ Me
 To
 The
 Moon
-（In
-Other
-Words）|msingerid=5087|msinger=宇多田光
-(Utada
-Hikaru)|msingerid=5087|malbumid=32478|malbum=Beautiful
+（In Other Words）|msingerid=5087|msinger=宇多田光
+(Utada Hikaru)|msingerid=5087|malbumid=32478|malbum=Beautiful
 World
 ／
 Kiss
@@ -16746,9 +15598,7 @@ Me
 To
 The
 Moon
-（In
-Other
-Words）
+（In Other Words）
 Beautiful
 World
 ／
@@ -16955,9 +15805,7 @@ Reserved
 腾讯公司
 版权所有
 腾讯网络文化经营许可证
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 歌手介绍--杨宗纬--QQ音乐
 腾讯网首页
 |
@@ -17030,39 +15878,20 @@ DJ
 平常的嗜好：运动，睡觉
 最想做的事：吃冰淇淋，旅行
 对自己的形容：都还OK
-<caption
-class="title">
+<caption class="title">
 热门歌曲(按收听量排序)
 </caption>
 <colgroup>
-<col
-class="choose"
-/>
-<col
-class="data"
-/>
-<col
-class="number"
-/>
-<col
-/>
-<col
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
+<col class="choose" />
+<col class="data" />
+<col class="number" />
+<col />
+<col />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
 </colgroup>
 歌曲名
 专辑名
@@ -17152,9 +15981,7 @@ Reserved
 腾讯公司
 版权所有
 腾讯网络文化经营许可证
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 歌手介绍--水木年华--QQ音乐
 腾讯网首页
 |
@@ -17209,39 +16036,20 @@ DJ
 全部单曲
 歌手简介：
 水木年华最初是由卢庚戌和李健组成的男声组合，2001年9月发行了首张大碟《一生有你》，其清新的曲风，流畅的旋律，略带忧伤的演绎，赢得了广大听众的赞同和一致好评。人员调整后的水木年华，在卢庚戌的智慧和略带伤感的声音外，新成员缪杰带来了动感出色的高音。调整后的水木年华依然充实着卢庚戌独到的音乐理念，与我们再次约会的声音：依然的细腻，依然的感性，却更多了一份激情，一丝摇滚。吸收了以前作品的精华，尝试了今后发展的方向。他们各具特色的声音搭配在一起，简直是天作之合，也是最贴近校园的声音，美妙的歌声占据着人们或烦躁或沉浮或渴望或兴奋的灵魂，久久挥洒不去。
-<caption
-class="title">
+<caption class="title">
 热门歌曲(按收听量排序)
 </caption>
 <colgroup>
-<col
-class="choose"
-/>
-<col
-class="data"
-/>
-<col
-class="number"
-/>
-<col
-/>
-<col
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
+<col class="choose" />
+<col class="data" />
+<col class="number" />
+<col />
+<col />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
 </colgroup>
 歌曲名
 专辑名
@@ -17370,9 +16178,7 @@ Reserved
 腾讯公司
 版权所有
 腾讯网络文化经营许可证
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 歌手介绍--小甜甜布兰妮Britney
 Spears--QQ音乐
 腾讯网首页
@@ -17432,39 +16238,20 @@ Spears
 Jean
 Spears，1981年12月2日出生于美国路易斯安娜州的肯特坞。她的歌唱事业始于8岁。Britney
 Spears对于自己的歌唱事业有着长远的计划。“我希望音乐一直是我生活的一部分”。。。
-<caption
-class="title">
+<caption class="title">
 热门歌曲(按收听量排序)
 </caption>
 <colgroup>
-<col
-class="choose"
-/>
-<col
-class="data"
-/>
-<col
-class="number"
-/>
-<col
-/>
-<col
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
+<col class="choose" />
+<col class="data" />
+<col class="number" />
+<col />
+<col />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
 </colgroup>
 歌曲名
 专辑名
@@ -17692,9 +16479,7 @@ Reserved
 腾讯公司
 版权所有
 腾讯网络文化经营许可证
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 歌手介绍--韩日群星
 影视原声--QQ音乐
 腾讯网首页
@@ -17753,39 +16538,20 @@ DJ
 全部单曲
 歌手简介：
 暂无介绍
-<caption
-class="title">
+<caption class="title">
 热门歌曲(按收听量排序)
 </caption>
 <colgroup>
-<col
-class="choose"
-/>
-<col
-class="data"
-/>
-<col
-class="number"
-/>
-<col
-/>
-<col
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
+<col class="choose" />
+<col class="data" />
+<col class="number" />
+<col />
+<col />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
 </colgroup>
 歌曲名
 专辑名
@@ -17801,15 +16567,13 @@ mid=146625|msong=Never
 Say
 Goodbye〈My
 Girl〉片尾曲|msingerid=6508|msinger=韩日群星
-影视原声|msingerid=6508|malbumid=14902|malbum=《我的女孩》(My
-Girl)-原声大碟|msize=1958091|minterval=238|mstream=8|mdownload=0
+影视原声|msingerid=6508|malbumid=14902|malbum=《我的女孩》(My Girl)-原声大碟|msize=1958091|minterval=238|mstream=8|mdownload=0
 01
 Never
 Say
 Goodbye〈My
 Girl〉片尾曲
-《我的女孩》(My
-Girl)-原声大碟
+《我的女孩》(My Girl)-原声大碟
 mid=130215|msong=对不起我爱你(对不起我爱你)|msingerid=6508|msinger=韩日群星
 影视原声|msingerid=6508|malbumid=11386|malbum=韩剧精选2006|msize=2780847|minterval=339|mstream=3|mdownload=0
 02
@@ -17817,24 +16581,20 @@ mid=130215|msong=对不起我爱你(对不起我爱你)|msingerid=6508|msinger=韩日群星
 韩剧精选2006
 mid=169471|msong=爱上鲨鱼的人鱼-
 &amp;#51312;&amp;#44288;&amp;#50864;(赵冠宇)|msingerid=6508|msinger=韩日群星
-影视原声|msingerid=6508|malbumid=14902|malbum=《我的女孩》(My
-Girl)-原声大碟|msize=2296711|minterval=280|mstream=7|mdownload=0
+影视原声|msingerid=6508|malbumid=14902|malbum=《我的女孩》(My Girl)-原声大碟|msize=2296711|minterval=280|mstream=7|mdownload=0
 03
 爱上鲨鱼的人鱼-
 &#51312;&#44288;&#50864;(赵冠宇)
-《我的女孩》(My
-Girl)-原声大碟
+《我的女孩》(My Girl)-原声大碟
 mid=169469|msong=30次左右
 -
 Kyo(&amp;#53188;)|msingerid=6508|msinger=韩日群星
-影视原声|msingerid=6508|malbumid=14902|malbum=《我的女孩》(My
-Girl)-原声大碟|msize=1845865|minterval=225|mstream=5|mdownload=0
+影视原声|msingerid=6508|malbumid=14902|malbum=《我的女孩》(My Girl)-原声大碟|msize=1845865|minterval=225|mstream=5|mdownload=0
 04
 30次左右
 -
 Kyo(&#53188;)
-《我的女孩》(My
-Girl)-原声大碟
+《我的女孩》(My Girl)-原声大碟
 mid=391192|msong=鹦鹉
 (韩剧‘宫－野蛮王妃’插曲)
 -
@@ -17861,39 +16621,31 @@ mid=130218|msong=我痛苦的爱(人鱼小姐)主题曲|msingerid=6508|msinger=韩日群星
 mid=169474|msong=爱似麻烦-
 &amp;#51060;&amp;#51648;&amp;#49688;
 (李智秀)|msingerid=6508|msinger=韩日群星
-影视原声|msingerid=6508|malbumid=14902|malbum=《我的女孩》(My
-Girl)-原声大碟|msize=1750231|minterval=213|mstream=10|mdownload=0
+影视原声|msingerid=6508|malbumid=14902|malbum=《我的女孩》(My Girl)-原声大碟|msize=1750231|minterval=213|mstream=10|mdownload=0
 08
 爱似麻烦-
 &#51060;&#51648;&#49688;
 (李智秀)
-《我的女孩》(My
-Girl)-原声大碟
+《我的女孩》(My Girl)-原声大碟
 mid=169468|msong=从头开始
 -
 &amp;#50672;&amp;#50864;
 (延宇)|msingerid=6508|msinger=韩日群星
-影视原声|msingerid=6508|malbumid=14902|malbum=《我的女孩》(My
-Girl)-原声大碟|msize=1965787|minterval=239|mstream=4|mdownload=0
+影视原声|msingerid=6508|malbumid=14902|malbum=《我的女孩》(My Girl)-原声大碟|msize=1965787|minterval=239|mstream=4|mdownload=0
 09
 从头开始
 -
 &#50672;&#50864;
 (延宇)
-《我的女孩》(My
-Girl)-原声大碟
+《我的女孩》(My Girl)-原声大碟
 mid=389337|msong=&amp;#48324;
-星(Original
-Dialog
-Ver.)
+星(Original Dialog Ver.)
 -
 &amp;#44608;&amp;#50500;&amp;#51473;(金亚中)|msingerid=6508|msinger=韩日群星
 影视原声|msingerid=6508|malbumid=31461|malbum=丑女大翻身（美女的烦恼）|msize=1029379|minterval=124|mstream=3|mdownload=0
 10
 &#48324;
-星(Original
-Dialog
-Ver.)
+星(Original Dialog Ver.)
 -
 &#44608;&#50500;&#51473;(金亚中)
 丑女大翻身（美女的烦恼）
@@ -18144,8 +16896,7 @@ town20...
 韩语
 时间：
 2006-12-14
-《中天
-&#51473;&#52380;...
+《中天 &#51473;&#52380;...
 语言：
 韩语
 时间：
@@ -18322,9 +17073,7 @@ Reserved
 腾讯公司
 版权所有
 腾讯网络文化经营许可证
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 歌手介绍--Timbaland--QQ音乐
 腾讯网首页
 |
@@ -18386,45 +17135,21 @@ Elliott,
 Aaliyah,
 Jay-Z,
 Ginuwine
-etc.的好评，一些一线艺人（Ludacris,
-Snoop
-Dogg,
-Nas,
-Justin
-Timberlake）也纷纷伸出橄榄枝要求合作曲子。即使黄袍加身满载光环，Timbaland仍然不懈努力，使得自己的作品依旧充满鲜明的个性，展示出了非凡的创作才华。当你聆听他的歌曲，没有一丝他人的痕迹：厚重的低音伴随着高端的打击乐，唱词随着音乐缓缓呢喃而出，节奏十足拍子引起听者内心强烈的共鸣。
-<caption
-class="title">
+etc.的好评，一些一线艺人（Ludacris, Snoop Dogg, Nas, Justin Timberlake）也纷纷伸出橄榄枝要求合作曲子。即使黄袍加身满载光环，Timbaland仍然不懈努力，使得自己的作品依旧充满鲜明的个性，展示出了非凡的创作才华。当你聆听他的歌曲，没有一丝他人的痕迹：厚重的低音伴随着高端的打击乐，唱词随着音乐缓缓呢喃而出，节奏十足拍子引起听者内心强烈的共鸣。
+<caption class="title">
 热门歌曲(按收听量排序)
 </caption>
 <colgroup>
-<col
-class="choose"
-/>
-<col
-class="data"
-/>
-<col
-class="number"
-/>
-<col
-/>
-<col
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
+<col class="choose" />
+<col class="data" />
+<col class="number" />
+<col />
+<col />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
 </colgroup>
 歌曲名
 专辑名
@@ -18458,12 +17183,7 @@ I
 Are
 Shock
 Value
-mid=401037|msong=Anonymous|msingerid=11790|msinger=Timbaland|msingerid=11790|malbumid=32370|malbum=英国UK单曲榜TOP40(07年7月份
-CD(1)|msize=2318493|minterval=286|mstream=4|mdownload=0
-04
-Anonymous
-英国UK单曲榜TOP40(07年7月份
-CD(1)
+mid=401037|msong=Anonymous|msingerid=11790|msinger=Timbaland|msingerid=11790|malbumid=32370|malbum=英国UK单曲榜TOP40(07年7月份 CD(1)|msize=2318493|minterval=286|mstream=4|mdownload=0 04 Anonymous 英国UK单曲榜TOP40(07年7月份 CD(1) 
 mid=403848|msong=Apologize|msingerid=11790|msinger=Timbaland|msingerid=11790|malbumid=32630|malbum=CEM主流音乐月刊
 Vol.7
 2007|msize=1504409|minterval=184|mstream=8|mdownload=0
@@ -18565,9 +17285,7 @@ Reserved
 腾讯公司
 版权所有
 腾讯网络文化经营许可证
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 歌手介绍--Groove
 Coverage舞动精灵乐团--QQ音乐
 腾讯网首页
@@ -18645,39 +17363,20 @@ Newcomer最佳新进艺人!
 最终&quot;舞动精灵乐团
 Groove
 Coverage&quot;获得评审团青睐夺得了&quot;年度最佳舞曲团体&quot;奖项!
-<caption
-class="title">
+<caption class="title">
 热门歌曲(按收听量排序)
 </caption>
 <colgroup>
-<col
-class="choose"
-/>
-<col
-class="data"
-/>
-<col
-class="number"
-/>
-<col
-/>
-<col
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
+<col class="choose" />
+<col class="data" />
+<col class="number" />
+<col />
+<col />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
 </colgroup>
 歌曲名
 专辑名
@@ -18787,15 +17486,13 @@ covergirl
 mid=145922|msong=god
 is
 a
-girl(album
-version))|msingerid=4891|msinger=Groove
+girl(album version))|msingerid=4891|msinger=Groove
 Coverage舞动精灵乐团|msingerid=4891|malbumid=12928|malbum=covergirl|msize=1518219|minterval=184|mstream=8|mdownload=0
 10
 god
 is
 a
-girl(album
-version))
+girl(album version))
 covergirl
 收录专辑
 按发布日期
@@ -18860,9 +17557,7 @@ Reserved
 腾讯公司
 版权所有
 腾讯网络文化经营许可证
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 歌手介绍--高耀太（Koyote）--QQ音乐
 腾讯网首页
 |
@@ -18924,39 +17619,20 @@ University，Raper(说唱手)金丘也是美国马里兰州B.C.V.大学的学生，另外一名女成员目�
 说到申智，出道前获得过仁川青少年歌曲大赛金奖，曾是个超级歌迷，还担任过韩国歌手&quot;金元俊歌友会&quot;会长一职。
 金丘呢，平时喜欢上网浏览，他每天都搜集网上各种资料，担当成同伴的&quot;情报员&quot;角色。借来练歌机在咖啡厅里和歌迷唱歌过生日Party，是对他印象最深的事情。
 车晟说起歌友会更是津津有道，&quot;大人都是对&#39;歌迷会&#39;这个组织很敏感，看不顺眼，但我觉得做完自己该做的事后，只要玩得不过分，那又有何相干&quot;。
-<caption
-class="title">
+<caption class="title">
 热门歌曲(按收听量排序)
 </caption>
 <colgroup>
-<col
-class="choose"
-/>
-<col
-class="data"
-/>
-<col
-class="number"
-/>
-<col
-/>
-<col
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
+<col class="choose" />
+<col class="data" />
+<col class="number" />
+<col />
+<col />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
 </colgroup>
 歌曲名
 专辑名
@@ -18973,8 +17649,7 @@ mid=409080|msong=火花
 BEST
 and
 9.5
-(Disc
-1)|msize=1897933|minterval=234|mstream=9|mdownload=0
+(Disc 1)|msize=1897933|minterval=234|mstream=9|mdownload=0
 01
 火花
 &#48520;&#44867;
@@ -18982,15 +17657,13 @@ DANCE
 BEST
 and
 9.5
-(Disc
-1)
+(Disc 1)
 mid=409046|msong=&amp;#49324;&amp;#46993;&amp;#44277;&amp;#49885;
 爱情公式|msingerid=6492|msinger=高耀太（Koyote）|msingerid=6492|malbumid=33078|malbum=DANCE
 BEST
 and
 9.5
-(Disc
-1)|msize=2075169|minterval=256|mstream=9|mdownload=0
+(Disc 1)|msize=2075169|minterval=256|mstream=9|mdownload=0
 02
 &#49324;&#46993;&#44277;&#49885;
 爱情公式
@@ -18998,8 +17671,7 @@ DANCE
 BEST
 and
 9.5
-(Disc
-1)
+(Disc 1)
 mid=213220|msong=火花|msingerid=6492|msinger=高耀太（Koyote）|msingerid=6492|malbumid=18845|malbum=Koyote
 Vol.6|msize=1894929|minterval=233|mstream=1|mdownload=0
 03
@@ -19011,8 +17683,7 @@ mid=409072|msong=&amp;#54028;&amp;#46976;
 BEST
 and
 9.5
-(Disc
-1)|msize=1855877|minterval=228|mstream=2|mdownload=0
+(Disc 1)|msize=1855877|minterval=228|mstream=2|mdownload=0
 04
 &#54028;&#46976;
 波澜
@@ -19020,16 +17691,14 @@ DANCE
 BEST
 and
 9.5
-(Disc
-1)
+(Disc 1)
 mid=409054|msong=&amp;#49324;&amp;#46993;&amp;#44284;
 &amp;#51204;&amp;#51137;
 爱情与战争|msingerid=6492|msinger=高耀太（Koyote）|msingerid=6492|malbumid=33078|malbum=DANCE
 BEST
 and
 9.5
-(Disc
-1)|msize=1834849|minterval=226|mstream=10|mdownload=0
+(Disc 1)|msize=1834849|minterval=226|mstream=10|mdownload=0
 05
 &#49324;&#46993;&#44284;
 &#51204;&#51137;
@@ -19038,15 +17707,13 @@ DANCE
 BEST
 and
 9.5
-(Disc
-1)
+(Disc 1)
 mid=409088|msong=&amp;#44221;&amp;#44256;
 警告|msingerid=6492|msinger=高耀太（Koyote）|msingerid=6492|malbumid=33080|malbum=DANCE
 BEST
 and
 9.5
-(Disc
-2)|msize=951673|minterval=116|mstream=7|mdownload=0
+(Disc 2)|msize=951673|minterval=116|mstream=7|mdownload=0
 06
 &#44221;&#44256;
 警告
@@ -19054,15 +17721,13 @@ DANCE
 BEST
 and
 9.5
-(Disc
-2)
+(Disc 2)
 mid=409077|msong=&amp;#48708;&amp;#49345;
 悲伤|msingerid=6492|msinger=高耀太（Koyote）|msingerid=6492|malbumid=33078|malbum=DANCE
 BEST
 and
 9.5
-(Disc
-1)|msize=2048133|minterval=252|mstream=6|mdownload=0
+(Disc 1)|msize=2048133|minterval=252|mstream=6|mdownload=0
 07
 &#48708;&#49345;
 悲伤
@@ -19070,15 +17735,13 @@ DANCE
 BEST
 and
 9.5
-(Disc
-1)
+(Disc 1)
 mid=409075|msong=&amp;#48708;&amp;#47805;
 悲梦|msingerid=6492|msinger=高耀太（Koyote）|msingerid=6492|malbumid=33078|malbum=DANCE
 BEST
 and
 9.5
-(Disc
-1)|msize=1636585|minterval=201|mstream=4|mdownload=0
+(Disc 1)|msize=1636585|minterval=201|mstream=4|mdownload=0
 08
 &#48708;&#47805;
 悲梦
@@ -19086,29 +17749,25 @@ DANCE
 BEST
 and
 9.5
-(Disc
-1)
+(Disc 1)
 mid=409085|msong=1.2.3.4|msingerid=6492|msinger=高耀太（Koyote）|msingerid=6492|malbumid=33078|malbum=DANCE
 BEST
 and
 9.5
-(Disc
-1)|msize=1807813|minterval=222|mstream=4|mdownload=0
+(Disc 1)|msize=1807813|minterval=222|mstream=4|mdownload=0
 09
 1.2.3.4
 DANCE
 BEST
 and
 9.5
-(Disc
-1)
+(Disc 1)
 mid=409074|msong=&amp;#50676;&amp;#51221;
 热情|msingerid=6492|msinger=高耀太（Koyote）|msingerid=6492|malbumid=33078|malbum=DANCE
 BEST
 and
 9.5
-(Disc
-1)|msize=1873901|minterval=231|mstream=3|mdownload=0
+(Disc 1)|msize=1873901|minterval=231|mstream=3|mdownload=0
 10
 &#50676;&#51221;
 热情
@@ -19116,8 +17775,7 @@ DANCE
 BEST
 and
 9.5
-(Disc
-1)
+(Disc 1)
 收录专辑
 按发布日期
 按人气热度
@@ -19218,9 +17876,7 @@ Reserved
 腾讯公司
 版权所有
 腾讯网络文化经营许可证
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 歌手介绍--中文舞曲--QQ音乐
 腾讯网首页
 |
@@ -19275,39 +17931,20 @@ DJ
 全部单曲
 歌手简介：
 暂无介绍
-<caption
-class="title">
+<caption class="title">
 热门歌曲(按收听量排序)
 </caption>
 <colgroup>
-<col
-class="choose"
-/>
-<col
-class="data"
-/>
-<col
-class="number"
-/>
-<col
-/>
-<col
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
+<col class="choose" />
+<col class="data" />
+<col class="number" />
+<col />
+<col />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
 </colgroup>
 歌曲名
 专辑名
@@ -19812,9 +18449,7 @@ Reserved
 腾讯公司
 版权所有
 腾讯网络文化经营许可证
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 歌手介绍--舒淇--QQ音乐
 腾讯网首页
 |
@@ -19870,39 +18505,20 @@ DJ
 歌手简介：
 原名林立慧。童年时代家境贫寒，从高中起就不再读书，为了赚钱养家，她当上了业余模特。
 1996年从台湾到香港发展，被王晶发掘，主演三级片《红灯区》、《玉蒲团之玉女心经》等，一脱成名。后接演尔东升的《色情男女》，包揽香港电影金像奖最佳女配角、最佳新人两项大奖，成为香港电影史上唯一一位拍三级片获此殊荣的女星。获奖后人气大增，几年间接演影片达数十部，代表有《基佬四十》（1996）、《飞一般爱情小说》（1997）、《B计划》（1998）、《玻璃之城》（1998）、《风云之雄霸天下》（1998）、《碧血蓝天》（1998）、《洪兴十三妹》（1998，获香港电影金像奖最佳女配角奖）、《行运一条龙》（1998）、《美少年之恋》（1998）、《有时跳舞》（1999）、《半支烟》（1999）、《玻璃樽》（1999）、《小百无禁忌》（2000）、《幽灵人间》（2001）、《北京乐与路》（2001）、《非常人贩》（2002）、《夕阳天使》（2002）、《奇逢敌手》（2002）等。2001年与侯孝贤合作《千禧曼波》，2005年两人再度推出《最好的时光》，舒淇并以此获得第四十二届金马奖最佳女主角奖。
-<caption
-class="title">
+<caption class="title">
 热门歌曲(按收听量排序)
 </caption>
 <colgroup>
-<col
-class="choose"
-/>
-<col
-class="data"
-/>
-<col
-class="number"
-/>
-<col
-/>
-<col
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
+<col class="choose" />
+<col class="data" />
+<col class="number" />
+<col />
+<col />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
 </colgroup>
 歌曲名
 专辑名
@@ -19946,9 +18562,7 @@ Reserved
 腾讯公司
 版权所有
 腾讯网络文化经营许可证
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 歌手介绍--动漫原声--QQ音乐
 腾讯网首页
 |
@@ -20003,39 +18617,20 @@ DJ
 全部单曲
 歌手简介：
 暂无介绍
-<caption
-class="title">
+<caption class="title">
 热门歌曲(按收听量排序)
 </caption>
 <colgroup>
-<col
-class="choose"
-/>
-<col
-class="data"
-/>
-<col
-class="number"
-/>
-<col
-/>
-<col
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
+<col class="choose" />
+<col class="data" />
+<col class="number" />
+<col />
+<col />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
 </colgroup>
 歌曲名
 专辑名
@@ -20085,14 +18680,10 @@ BEST|msize=1602393|minterval=195|mstream=1|mdownload=0
 BLEACH
 THE
 BEST
-mid=169277|msong=《百变小樱》主题曲|msingerid=6997|msinger=动漫原声|msingerid=6997|malbumid=14886|malbum=《百变小樱》《魔卡少女樱》(Card
-Captor
-Sakura)|msize=880291|minterval=107|mstream=8|mdownload=0
+mid=169277|msong=《百变小樱》主题曲|msingerid=6997|msinger=动漫原声|msingerid=6997|malbumid=14886|malbum=《百变小樱》《魔卡少女樱》(Card Captor Sakura)|msize=880291|minterval=107|mstream=8|mdownload=0
 06
 《百变小樱》主题曲
-《百变小樱》《魔卡少女樱》(Card
-Captor
-Sakura)
+《百变小樱》《魔卡少女樱》(Card Captor Sakura)
 mid=169245|msong=《网球王子》Driving
 Myself|msingerid=6997|msinger=动漫原声|msingerid=6997|malbumid=14881|malbum=网球王子|msize=2164563|minterval=264|mstream=5|mdownload=0
 07
@@ -20487,9 +19078,7 @@ Reserved
 腾讯公司
 版权所有
 腾讯网络文化经营许可证
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 歌手介绍--英文舞曲--QQ音乐
 腾讯网首页
 |
@@ -20544,39 +19133,20 @@ DJ
 全部单曲
 歌手简介：
 暂无介绍
-<caption
-class="title">
+<caption class="title">
 热门歌曲(按收听量排序)
 </caption>
 <colgroup>
-<col
-class="choose"
-/>
-<col
-class="data"
-/>
-<col
-class="number"
-/>
-<col
-/>
-<col
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
+<col class="choose" />
+<col class="data" />
+<col class="number" />
+<col />
+<col />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
 </colgroup>
 歌曲名
 专辑名
@@ -21199,9 +19769,7 @@ Reserved
 腾讯公司
 版权所有
 腾讯网络文化经营许可证
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 歌手介绍--香香--QQ音乐
 腾讯网首页
 |
@@ -21277,39 +19845,20 @@ Rain（郑智...
 最喜欢的国家：中国
 自己身体最满意的部位：眉毛
 最喜欢的动物：狗狗
-<caption
-class="title">
+<caption class="title">
 热门歌曲(按收听量排序)
 </caption>
 <colgroup>
-<col
-class="choose"
-/>
-<col
-class="data"
-/>
-<col
-class="number"
-/>
-<col
-/>
-<col
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
+<col class="choose" />
+<col class="data" />
+<col class="number" />
+<col />
+<col />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
 </colgroup>
 歌曲名
 专辑名
@@ -21374,11 +19923,8 @@ Reserved
 腾讯公司
 版权所有
 腾讯网络文化经营许可证
-<?xml
-version="1.0"
-encoding="gb2312"?>
-歌手介绍--幸田来未(Koda
-Kumi)--QQ音乐
+<?xml version="1.0" encoding="gb2312"?>
+歌手介绍--幸田来未(Koda Kumi)--QQ音乐
 腾讯网首页
 |
 会员
@@ -21428,45 +19974,25 @@ DJ
 李孝利
 您现在的位置：首页
 正版音乐库
-幸田来未(Koda
-Kumi)
+幸田来未(Koda Kumi)
 全部单曲
 歌手简介：
 日本新一代性感女神幸田来未，沙哑性感的声音去年人气爆发。
 红到爆的koda在2006年发行第二张精选之后推出了首张单曲。这次她收起了性感的衣裳，走起了清新可爱的路线，讲述了恋爱中的甜蜜心情。PV中她以7套服装再次展现她的百变魅力。
-<caption
-class="title">
+<caption class="title">
 热门歌曲(按收听量排序)
 </caption>
 <colgroup>
-<col
-class="choose"
-/>
-<col
-class="data"
-/>
-<col
-class="number"
-/>
-<col
-/>
-<col
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
+<col class="choose" />
+<col class="data" />
+<col class="number" />
+<col />
+<col />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
 </colgroup>
 歌曲名
 专辑名
@@ -21478,27 +20004,23 @@ class="bt"
 <tfoot>
 查看全部310首单曲
 </tfoot>
-mid=417376|msong=anytime|msingerid=5398|msinger=幸田来未(Koda
-Kumi)|msingerid=5398|malbumid=33762|malbum=anytime|msize=2051137|minterval=253|mstream=8|mdownload=0
+mid=417376|msong=anytime|msingerid=5398|msinger=幸田来未(Koda Kumi)|msingerid=5398|malbumid=33762|malbum=anytime|msize=2051137|minterval=253|mstream=8|mdownload=0
 01
 anytime
 anytime
 mid=417688|msong=Amai
-Wana|msingerid=5398|msinger=幸田来未(Koda
-Kumi)|msingerid=5398|malbumid=33800|malbum=Kingdom|msize=1933981|minterval=238|mstream=2|mdownload=0
+Wana|msingerid=5398|msinger=幸田来未(Koda Kumi)|msingerid=5398|malbumid=33800|malbum=Kingdom|msize=1933981|minterval=238|mstream=2|mdownload=0
 02
 Amai
 Wana
 Kingdom
-mid=417701|msong=anytime|msingerid=5398|msinger=幸田来未(Koda
-Kumi)|msingerid=5398|malbumid=33800|malbum=Kingdom|msize=2021097|minterval=249|mstream=5|mdownload=0
+mid=417701|msong=anytime|msingerid=5398|msinger=幸田来未(Koda Kumi)|msingerid=5398|malbumid=33800|malbum=Kingdom|msize=2021097|minterval=249|mstream=5|mdownload=0
 03
 anytime
 Kingdom
 mid=411494|msong=LAST
 ANGEL
-feat.東方神起|msingerid=5398|msinger=幸田来未(Koda
-Kumi)|msingerid=5398|malbumid=33256|malbum=LAST
+feat.東方神起|msingerid=5398|msinger=幸田来未(Koda Kumi)|msingerid=5398|malbumid=33256|malbum=LAST
 ANGEL
 feat.东方神起|msize=1879909|minterval=232|mstream=9|mdownload=0
 04
@@ -21508,26 +20030,22 @@ feat.東方神起
 LAST
 ANGEL
 feat.东方神起
-mid=403586|msong=爱のうた|msingerid=5398|msinger=幸田来未(Koda
-Kumi)|msingerid=5398|malbumid=32607|malbum=爱のうた|msize=2306477|minterval=283|mstream=5|mdownload=0
+mid=403586|msong=爱のうた|msingerid=5398|msinger=幸田来未(Koda Kumi)|msingerid=5398|malbumid=32607|malbum=爱のうた|msize=2306477|minterval=283|mstream=5|mdownload=0
 05
 爱のうた
 爱のうた
-mid=417377|msong=Bounce|msingerid=5398|msinger=幸田来未(Koda
-Kumi)|msingerid=5398|malbumid=33762|malbum=anytime|msize=1639589|minterval=202|mstream=9|mdownload=0
+mid=417377|msong=Bounce|msingerid=5398|msinger=幸田来未(Koda Kumi)|msingerid=5398|malbumid=33762|malbum=anytime|msize=1639589|minterval=202|mstream=9|mdownload=0
 06
 Bounce
 anytime
-mid=417689|msong=Himitsu|msingerid=5398|msinger=幸田来未(Koda
-Kumi)|msingerid=5398|malbumid=33800|malbum=Kingdom|msize=2129241|minterval=263|mstream=3|mdownload=0
+mid=417689|msong=Himitsu|msingerid=5398|msinger=幸田来未(Koda Kumi)|msingerid=5398|malbumid=33800|malbum=Kingdom|msize=2129241|minterval=263|mstream=3|mdownload=0
 07
 Himitsu
 Kingdom
 mid=417687|msong=LAST
 ANGEL
 feat.
-TOHOSHINKI|msingerid=5398|msinger=幸田来未(Koda
-Kumi)|msingerid=5398|malbumid=33800|malbum=Kingdom|msize=1852873|minterval=228|mstream=1|mdownload=0
+TOHOSHINKI|msingerid=5398|msinger=幸田来未(Koda Kumi)|msingerid=5398|malbumid=33800|malbum=Kingdom|msize=1852873|minterval=228|mstream=1|mdownload=0
 08
 LAST
 ANGEL
@@ -21536,8 +20054,7 @@ TOHOSHINKI
 Kingdom
 mid=417686|msong=Introduction
 For
-Kingdom|msingerid=5398|msinger=幸田来未(Koda
-Kumi)|msingerid=5398|malbumid=33800|malbum=Kingdom|msize=813489|minterval=100|mstream=10|mdownload=0
+Kingdom|msingerid=5398|msinger=幸田来未(Koda Kumi)|msingerid=5398|malbumid=33800|malbum=Kingdom|msize=813489|minterval=100|mstream=10|mdownload=0
 09
 Introduction
 For
@@ -21545,8 +20062,7 @@ Kingdom
 Kingdom
 mid=417719|msong=Koi
 no
-Mahou|msingerid=5398|msinger=幸田来未(Koda
-Kumi)|msingerid=5398|malbumid=33800|malbum=Kingdom|msize=2213353|minterval=272|mstream=8|mdownload=0
+Mahou|msingerid=5398|msinger=幸田来未(Koda Kumi)|msingerid=5398|malbumid=33800|malbum=Kingdom|msize=2213353|minterval=272|mstream=8|mdownload=0
 10
 Koi
 no
@@ -21860,9 +20376,7 @@ Reserved
 腾讯公司
 版权所有
 腾讯网络文化经营许可证
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 歌手介绍--日韩游戏--QQ音乐
 腾讯网首页
 |
@@ -21918,39 +20432,20 @@ DJ
 全部单曲
 歌手简介：
 暂无介绍
-<caption
-class="title">
+<caption class="title">
 热门歌曲(按收听量排序)
 </caption>
 <colgroup>
-<col
-class="choose"
-/>
-<col
-class="data"
-/>
-<col
-class="number"
-/>
-<col
-/>
-<col
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
+<col class="choose" />
+<col class="data" />
+<col class="number" />
+<col />
+<col />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
 </colgroup>
 歌曲名
 专辑名
@@ -21966,15 +20461,13 @@ mid=168705|msong=i
 could
 be
 the
-one（Donna
-Lewis）|msingerid=6998|msinger=日韩游戏|msingerid=6998|malbumid=14832|malbum=劲舞团歌曲2|msize=1855039|minterval=226|mstream=9|mdownload=0
+one（Donna Lewis）|msingerid=6998|msinger=日韩游戏|msingerid=6998|malbumid=14832|malbum=劲舞团歌曲2|msize=1855039|minterval=226|mstream=9|mdownload=0
 01
 i
 could
 be
 the
-one（Donna
-Lewis）
+one（Donna Lewis）
 劲舞团歌曲2
 mid=399995|msong=警告
 -
@@ -22137,9 +20630,7 @@ Reserved
 腾讯公司
 版权所有
 腾讯网络文化经营许可证
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 歌手介绍--张杰--QQ音乐
 腾讯网首页
 |
@@ -22194,39 +20685,20 @@ DJ
 全部单曲
 歌手简介：
 张杰，这个2004年度“我型我秀”舞台上最闪亮的歌者、以一首原创歌曲《北斗星的爱》震撼全场的帅气大男孩，凭着自己对音乐坚定不移的信念，战胜了自己，也打动了别人。比赛的帷幕已徐徐落下，而属于他的音乐旅途，却是刚刚开始。2007年，张杰为了个人的音乐理想重新起步，决定与原来东家上腾解约，参加第一届快乐男声的比赛。。。。
-<caption
-class="title">
+<caption class="title">
 热门歌曲(按收听量排序)
 </caption>
 <colgroup>
-<col
-class="choose"
-/>
-<col
-class="data"
-/>
-<col
-class="number"
-/>
-<col
-/>
-<col
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
+<col class="choose" />
+<col class="data" />
+<col class="number" />
+<col />
+<col />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
 </colgroup>
 歌曲名
 专辑名
@@ -22341,9 +20813,7 @@ Reserved
 腾讯公司
 版权所有
 腾讯网络文化经营许可证
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 歌手介绍--少女时代--QQ音乐
 腾讯网首页
 |
@@ -22398,39 +20868,20 @@ DJ
 全部单曲
 歌手简介：
 韩国SM经纪公司自在网站上公开了9人组合的少女时代组合，近期非常受到媒体们的瞩目，他们的英文名字分别为YOONA、TIFFANY、YURI、HYOYEON、SOOYOUNG、SEOHYUN、TAEYEON、JESSICA、SUNNY。
-<caption
-class="title">
+<caption class="title">
 热门歌曲(按收听量排序)
 </caption>
 <colgroup>
-<col
-class="choose"
-/>
-<col
-class="data"
-/>
-<col
-class="number"
-/>
-<col
-/>
-<col
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
-<col
-class="bt"
-/>
+<col class="choose" />
+<col class="data" />
+<col class="number" />
+<col />
+<col />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
+<col class="bt" />
 </colgroup>
 歌曲名
 专辑名
@@ -22443,12 +20894,10 @@ class="bt"
 查看全部18首单曲
 </tfoot>
 mid=412140|msong=&amp;#49548;&amp;#45376;&amp;#49884;&amp;#45824;
-(Girls'
-Generation)少女时代|msingerid=11809|msinger=少女时代|msingerid=11809|malbumid=33316|malbum=少女时代|msize=1870897|minterval=230|mstream=9|mdownload=0
+(Girls' Generation)少女时代|msingerid=11809|msinger=少女时代|msingerid=11809|malbumid=33316|malbum=少女时代|msize=1870897|minterval=230|mstream=9|mdownload=0
 01
 &#49548;&#45376;&#49884;&#45824;
-(Girls&#39;
-Generation)少女时代
+(Girls&#39; Generation)少女时代
 少女时代
 mid=412144|msong=Kissing
 You|msingerid=11809|msinger=少女时代|msingerid=11809|malbumid=33316|malbum=少女时代|msize=1609549|minterval=198|mstream=3|mdownload=0
@@ -22458,43 +20907,29 @@ You
 少女时代
 mid=402819|msong=&amp;#45796;&amp;#49884;
 &amp;#47564;&amp;#45212;
-&amp;#49464;&amp;#44228;(Into
-The
-New
-World)再次重逢的世界|msingerid=11809|msinger=少女时代|msingerid=11809|malbumid=32537|malbum=再次重逢的世界|msize=2153273|minterval=265|mstream=8|mdownload=0
+&amp;#49464;&amp;#44228;(Into The New World)再次重逢的世界|msingerid=11809|msinger=少女时代|msingerid=11809|malbumid=32537|malbum=再次重逢的世界|msize=2153273|minterval=265|mstream=8|mdownload=0
 03
 &#45796;&#49884;
 &#47564;&#45212;
-&#49464;&#44228;(Into
-The
-New
-World)再次重逢的世界
+&#49464;&#44228;(Into The New World)再次重逢的世界
 再次重逢的世界
 mid=412150|msong=&amp;#45796;&amp;#49884;
 &amp;#47564;&amp;#45212;
 &amp;#49464;&amp;#44228;
-(Into
-The
-New
-World)
+(Into The New World)
 重逢的世界|msingerid=11809|msinger=少女时代|msingerid=11809|malbumid=33316|malbum=少女时代|msize=2159281|minterval=265|mstream=9|mdownload=0
 04
 &#45796;&#49884;
 &#47564;&#45212;
 &#49464;&#44228;
-(Into
-The
-New
-World)
+(Into The New World)
 重逢的世界
 少女时代
 mid=412149|msong=Honey
-(&amp;#49548;&amp;#50896;
-[素媛])|msingerid=11809|msinger=少女时代|msingerid=11809|malbumid=33316|malbum=少女时代|msize=1585517|minterval=195|mstream=8|mdownload=0
+(&amp;#49548;&amp;#50896; [素媛])|msingerid=11809|msinger=少女时代|msingerid=11809|malbumid=33316|malbum=少女时代|msize=1585517|minterval=195|mstream=8|mdownload=0
 05
 Honey
-(&#49548;&#50896;
-[素媛])
+(&#49548;&#50896; [素媛])
 少女时代
 mid=402824|msong=Perfect
 For
@@ -22527,20 +20962,10 @@ Ooh
 La-La!
 少女时代
 mid=412148|msong=7989
-(&amp;#44053;&amp;#53440;
-[Kang
-Ta]
-&amp;
-&amp;#53468;&amp;#50672;
-[泰妍])|msingerid=11809|msinger=少女时代|msingerid=11809|malbumid=33316|malbum=少女时代|msize=1711685|minterval=211|mstream=7|mdownload=0
+(&amp;#44053;&amp;#53440; [Kang Ta] &amp; &amp;#53468;&amp;#50672; [泰妍])|msingerid=11809|msinger=少女时代|msingerid=11809|malbumid=33316|malbum=少女时代|msize=1711685|minterval=211|mstream=7|mdownload=0
 10
 7989
-(&#44053;&#53440;
-[Kang
-Ta]
-&amp;
-&#53468;&#50672;
-[泰妍])
+(&#44053;&#53440; [Kang Ta] &amp; &#53468;&#50672; [泰妍])
 少女时代
 收录专辑
 按发布日期
@@ -22581,9 +21006,7 @@ Reserved
 腾讯公司
 版权所有
 腾讯网络文化经营许可证
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 绿钻专区--首页--QQ音乐
 腾讯网首页
 |
@@ -22675,11 +21098,9 @@ To
 You
 约翰梅尔John
 Mayer
-mid=417376|msong=anytime|msingerid=5398|msinger=幸田来未(Koda
-Kumi)|msingerid=5398|malbumid=33762|malbum=anytime|msize=2051137|minterval=253|mstream=8|mdownload=08
+mid=417376|msong=anytime|msingerid=5398|msinger=幸田来未(Koda Kumi)|msingerid=5398|malbumid=33762|malbum=anytime|msize=2051137|minterval=253|mstream=8|mdownload=08
 anytime
-幸田来未(Koda
-Kumi)
+幸田来未(Koda Kumi)
 绿钻特权
 QQ空间背景音乐免费使用
 QQ空间音乐商城中所有歌曲免费任换，更赠送二代播放器一款，让您的个性空间音乐不断,有"声"有"色"！
@@ -22743,9 +21164,7 @@ Reserved
 腾讯公司
 版权所有
 腾讯网络文化经营许可证
-<?xml
-version="1.0"
-encoding="gb2312"?>
+<?xml version="1.0" encoding="gb2312"?>
 绿钻专区--帮助--QQ音乐
 腾讯网首页
 |
@@ -23159,8 +21578,7 @@ Twins《桐话妍语》全亚洲同步首发
 下载播放器|打开播放器
 王栎鑫
 -
-《天...
-更多首发
+《天... 更多首发 
 主打MV
 01
 Twins
@@ -23469,7 +21887,7 @@ Ang5.0
 02
 周笔畅WOW
 03
-周笔畅-浏阳河2008（QQ音乐在线...
+周笔畅-浏阳河2008（QQ音乐在线... 
 首发首页
 首发行程
 首发看点
@@ -23616,11 +22034,8 @@ PK
 ，《反复》里仅用有限的字来写词，句句连珠的写法，《汗》用幽默好玩的网路述语来写环境保护，《怎样》是笔笔少有的硬摇滚
 ,《猫的冒险》中的摇滚＋BIG
 BAND
-SWING（爵士乐的一种），《
-Oh
-Yes!》展示了神奇的“羊咩”唱腔，
-《傻瓜的天才》带怀旧的舞曲风格，《
-为了认识你》则用了法国式的叠唱，也是笔笔第一次的尝试。
+SWING（爵士乐的一种），《 Oh Yes!》展示了神奇的“羊咩”唱腔，
+《傻瓜的天才》带怀旧的舞曲风格，《 为了认识你》则用了法国式的叠唱，也是笔笔第一次的尝试。
 周笔畅第三张专辑玩一个人的歌剧
 主打《wow》是悬疑舞曲
 周笔畅第三张专辑的同名主打《wow》玩起了歌剧范儿，这支号称中国第一支悬疑侦探舞曲从音乐的结构到歌词的寓意都讲求浓郁的故事性和画面感，这首歌曲从对演唱者的要求来说是高难度的、具有挑战性的。
@@ -23795,8 +22210,7 @@ All
 Rights
 Reserved
 QQ音乐
-张韶涵《Ang
-5.0》亚洲独家首发
+张韶涵《Ang 5.0》亚洲独家首发
 QQ音乐
 首页
 正版音乐库
@@ -23806,8 +22220,7 @@ QQ音乐
 绿钻专区
 下载播放器
 打开播放器
-莫文蔚《L!VE...
-更多首发
+莫文蔚《L!VE... 更多首发  
 主打MV
 01
 QQ音乐
@@ -24486,9 +22899,7 @@ ou金曲
 不喜欢(5)
 专辑介绍：
 偶像剧！...
-用音乐来谈一次恋爱(
-0
-)
+用音乐来谈一次恋爱( 0 )
 播放(125)
 收藏(1)
 出
@@ -24544,9 +22955,7 @@ ou金曲
 家中
 一个人
 平静
-一夜销魂(
-10
-)
+一夜销魂( 10 )
 播放(27035)
 收藏(428)
 出
@@ -25637,9 +24046,7 @@ Rights
 Reserved
 新浪公司
 版权所有
-蔡健雅《Goodbye
-&amp;
-Hello》_乐库_新浪网
+蔡健雅《Goodbye &amp; Hello》_乐库_新浪网
 登录
 |
 注册
@@ -25692,9 +24099,7 @@ SonyBmg
 收藏
 人气
 专辑：
-《Goodbye
-&amp;
-Hello》
+《Goodbye &amp; Hello》
 艺人：
 蔡健雅
 风格：
@@ -25713,9 +24118,7 @@ Hello》
 查看
 蔡健雅
 的所有图片
-《Goodbye
-&amp;
-Hello》歌曲列表
+《Goodbye &amp; Hello》歌曲列表
 歌曲名
 艺人
 铃声
@@ -25764,9 +24167,7 @@ II
 取消
 专辑介绍
 我们总是习惯听着她冷静内敛的唱着所有动人的情歌，在她的旋律里试图投射，在她的歌声里寻求抚慰。正当所有其它歌手以张牙舞爪姿态重击市场，以夸张戏剧模样攻占乐坛时，我们冷眼看待这些虚华浮夸，厌倦那些声光刺激，却未曾忽略内心深处迫切渴望在这华美背后寻求，温度，一种来自音乐感动人的温度。其实，我们用不着害怕在这冷漠孤寂的城市中失去温暖，因为，我们始终，理所当然地在某一个人的音乐世界里取暖，找到赖以存在的生活温度，她，就是蔡健雅。一路以来众人寻求温暖的想望也成了蔡健雅坚持音乐之路的支撑力，她持续不懈地建立自成一格的气味，也在这乐坛拥有独特无可取代的位置。
-2007年是蔡健雅全新、丰盛的一年，更是梦想起飞的起点，正如全新创作专辑名为《Goodbye
-&
-Hello》一样，挥别过往，对以前说Goodbye，往前探索，对未来说声Hello。过去一年，蔡健雅历经生命中几次重大转变：离开合作10年之久的经纪公司、从熟悉的城市新加坡搬迁至台湾、结束一段刻骨铭心的爱情、加盟新东家开创新音乐事业、首次担起专辑制作人大任...，这些生命过程的转弯与改向，对创作力旺盛的她而言，不仅代表蔡健雅积极面对生命中的挑战与试炼，也象征个人音乐路途前进的历程。专辑中11首创作，代表着11种蔡健雅体认人生见证爱情的生活态度。
+2007年是蔡健雅全新、丰盛的一年，更是梦想起飞的起点，正如全新创作专辑名为《Goodbye & Hello》一样，挥别过往，对以前说Goodbye，往前探索，对未来说声Hello。过去一年，蔡健雅历经生命中几次重大转变：离开合作10年之久的经纪公司、从熟悉的城市新加坡搬迁至台湾、结束一段刻骨铭心的爱情、加盟新东家开创新音乐事业、首次担起专辑制作人大任...，这些生命过程的转弯与改向，对创作力旺盛的她而言，不仅代表蔡健雅积极面对生命中的挑战与试炼，也象征个人音乐路途前进的历程。专辑中11首创作，代表着11种蔡健雅体认人生见证爱情的生活态度。
 查看更多MV艺人MV
 晨间新闻
 当你离开的时候
@@ -26001,10 +24402,7 @@ Reserved
 新浪公司
 版权所有
 Kylie
-Minogue《In
-My
-Arms(with
-蔡依林)》_乐库_新浪网
+Minogue《In My Arms(with 蔡依林)》_乐库_新浪网
 登录
 |
 注册
@@ -26057,10 +24455,7 @@ SonyBmg
 收藏
 人气
 专辑：
-《In
-My
-Arms(with
-..》
+《In My Arms(with ..》 
 艺人：
 Kylie
 Mino..
@@ -26082,10 +24477,7 @@ Mi..
 Kylie
 Mi..
 的所有图片
-《In
-My
-Arms(with
-蔡依林)》歌曲列表
+《In My Arms(with 蔡依林)》歌曲列表
 歌曲名
 艺人
 铃声
@@ -26102,8 +24494,7 @@ Minogue
 |
 取消
 专辑介绍
-台湾乐坛天后蔡依林(Jolin)与澳洲性感天后凯丽·米洛(Kylie
-Minogue)将破天荒携手合作，演唱超级舞曲In
+台湾乐坛天后蔡依林(Jolin)与澳洲性感天后凯丽·米洛(Kylie Minogue)将破天荒携手合作，演唱超级舞曲In
 My
 Arms。两大性感天后碰头，斗歌斗舞，肯定会擦出非一般的火花。同时，Jolin近期在乐坛积极进取，面对过气绯闻男友周杰伦来势汹汹，绝对不敢松懈，并希望藉此开拓欧美市场。
 据报道，Jolin一直欣赏Kylie
@@ -26173,8 +24564,7 @@ Rights
 Reserved
 新浪公司
 版权所有
-张韶涵《Ang
-5.0》_乐库_新浪网
+张韶涵《Ang 5.0》_乐库_新浪网
 登录
 |
 注册
@@ -26227,8 +24617,7 @@ SonyBmg
 收藏
 人气
 专辑：
-《Ang
-5.0》
+《Ang 5.0》
 艺人：
 张韶涵
 风格：
@@ -26247,8 +24636,7 @@ SonyBmg
 查看
 张韶涵
 的所有图片
-《Ang
-5.0》歌曲列表
+《Ang 5.0》歌曲列表
 歌曲名
 艺人
 铃声
@@ -26585,8 +24973,7 @@ Rights
 Reserved
 新浪公司
 版权所有
-曹格《Super
-Sunshine》_乐库_新浪网
+曹格《Super Sunshine》_乐库_新浪网
 登录
 |
 注册
@@ -26639,8 +25026,7 @@ SonyBmg
 收藏
 人气
 专辑：
-《Super
-Sunshine》
+《Super Sunshine》
 艺人：
 曹格
 风格：
@@ -26659,8 +25045,7 @@ Sunshine》
 查看
 曹格
 的所有图片
-《Super
-Sunshine》歌曲列表
+《Super Sunshine》歌曲列表
 歌曲名
 艺人
 铃声
@@ -26905,9 +25290,7 @@ SonyBmg
 |
 取消
 专辑介绍
-奶茶私密的真实情事：这一次我竟没有对你说《I
-do》，而是《I’m
-fine》……这时代的爱情谈到天长地久，仿佛就会快速死亡，明明每个人都等待那个可以过一生的人出现，等待点头“say
+奶茶私密的真实情事：这一次我竟没有对你说《I do》，而是《I’m fine》……这时代的爱情谈到天长地久，仿佛就会快速死亡，明明每个人都等待那个可以过一生的人出现，等待点头“say
 yes”。为什么还是自私地逃避责任，无法承担对自己对爱情，没有自信的逃避？
 “相处终究比相爱更困难”，似乎这年头大家都是这样过的，轻易地相爱，轻易地同居，轻易地说出——分手，却绝不轻易地承诺永远。
 仿佛是《生日快乐》的小米的音乐篇章，词中刻意引用《后来》的歌词，无形中也替众人解释了那女孩未完成的后续。
@@ -27452,11 +25835,7 @@ Reserved
 新浪公司
 版权所有
 Michael
-Jackson《The
-Girl
-Is
-Mine
-2008》_乐库_新浪网
+Jackson《The Girl Is Mine 2008》_乐库_新浪网
 登录
 |
 注册
@@ -27509,10 +25888,7 @@ SonyBmg
 收藏
 人气
 专辑：
-《The
-Girl
-Is
-Mine..》
+《The Girl Is Mine..》
 艺人：
 Michael
 Ja..
@@ -27536,11 +25912,7 @@ Michael
 Michael
 ..
 的所有图片
-《The
-Girl
-Is
-Mine
-2008》歌曲列表
+《The Girl Is Mine 2008》歌曲列表
 歌曲名
 艺人
 铃声
@@ -27560,8 +25932,7 @@ Jackson
 取消
 专辑介绍
 Michael
-Jackson第一次用做数字发行的精选集《Thriller
-25》将于2月11号发行，这首“The
+Jackson第一次用做数字发行的精选集《Thriller 25》将于2月11号发行，这首“The
 Girl
 Is
 Mine
@@ -27626,9 +25997,7 @@ Rights
 Reserved
 新浪公司
 版权所有
-阿杜《Do
-The
-Best》_乐库_新浪网
+阿杜《Do The Best》_乐库_新浪网
 登录
 |
 注册
@@ -27681,9 +26050,7 @@ SonyBmg
 收藏
 人气
 专辑：
-《Do
-The
-Best》
+《Do The Best》
 艺人：
 阿杜
 风格：
@@ -27702,9 +26069,7 @@ Best》
 查看
 阿杜
 的所有图片
-《Do
-The
-Best》歌曲列表
+《Do The Best》歌曲列表
 歌曲名
 艺人
 铃声
@@ -27767,9 +26132,7 @@ Waiting
 阿杜
 18
 下雪
-(DJ
-Jet
-Remix)
+(DJ Jet Remix)
 阿杜
 19
 坚持到底
@@ -27780,10 +26143,7 @@ Remix)
 |
 取消
 专辑介绍
-新加坡歌手阿杜(杜成义)自2002年凭《天黑》出道至今，一直以沙哑的嗓音唱出不少男人的爱情心声。《阿杜
-Do
-The
-Best》集结了由2002年《坚持到底》至最新2007年《撤野》的精选歌16首及remix三首。由曾被陈慧琳翻唱的「他一定很爱妳」、至抒情及摇滚的「你就像个小孩」、伤痛的「哈罗」，以及最新摇滚主打歌「撒野」，也是许多乐迷爱听的作品。
+新加坡歌手阿杜(杜成义)自2002年凭《天黑》出道至今，一直以沙哑的嗓音唱出不少男人的爱情心声。《阿杜 Do The Best》集结了由2002年《坚持到底》至最新2007年《撤野》的精选歌16首及remix三首。由曾被陈慧琳翻唱的「他一定很爱妳」、至抒情及摇滚的「你就像个小孩」、伤痛的「哈罗」，以及最新摇滚主打歌「撒野」，也是许多乐迷爱听的作品。
 查看更多MV艺人MV
 差一点
 祝你快乐
@@ -27942,40 +26302,14 @@ SonyBmg
 乐库头条
 贾斯汀格莱美勇夺两奖
 全新MV抢先看
-本届获奖专辑[Rehab
-River…
-Graduation
-Back
-To
-Black]
-历届经典回顾[Taking…
-How
-To…
-Speakerb…
-Come
-Away…]
-第50届格莱美颁奖礼[完全获奖名单
-艾米五奖封后
-郎朗表演]
+本届获奖专辑[Rehab River… Graduation Back To Black]
+历届经典回顾[Taking… How To… Speakerb… Come Away…]
+第50届格莱美颁奖礼[完全获奖名单 艾米五奖封后 郎朗表演]
 蔡依林新专辑再创佳绩
 精彩MV全放送
-新专辑MV[爱情任务
-日不落
-爱无赦
-一个人
-节拍器
-非卖品]
-精彩花絮[浪漫巴黎之行
-苦练钢管舞
-辛苦追逐戏
-口述情节]
-热门专辑[地才
-舞娘
-J-Game
-野蛮游戏
-城堡
-看我72变
-更多]
+新专辑MV[爱情任务 日不落 爱无赦 一个人 节拍器 非卖品]
+精彩花絮[浪漫巴黎之行 苦练钢管舞 辛苦追逐戏 口述情节]
+热门专辑[地才 舞娘 J-Game 野蛮游戏 城堡 看我72变 更多]
 MV热播
 我不会唱歌
 罗志祥
@@ -28146,8 +26480,7 @@ Twins
 苏醒
 《绝对收藏2》
 张信哲
-《Do
-The…》
+《Do The…》
 阿杜
 《我很好》
 刘若英
@@ -28656,9 +26989,7 @@ Go
 碧昂丝
 乐库伴侣全接触：
 [乐库伴侣专题][社区公告]
-[UC2007音乐版][新浪科技下载
-华军软件园
-更多>>]
+[UC2007音乐版][新浪科技下载 华军软件园 更多>>]
 更多>
 >
 网友精选专辑
@@ -29204,40 +27535,14 @@ SonyBmg
 乐库头条
 贾斯汀格莱美勇夺两奖
 全新MV抢先看
-本届获奖专辑[Rehab
-River…
-Graduation
-Back
-To
-Black]
-历届经典回顾[Taking…
-How
-To…
-Speakerb…
-Come
-Away…]
-第50届格莱美颁奖礼[完全获奖名单
-艾米五奖封后
-郎朗表演]
+本届获奖专辑[Rehab River… Graduation Back To Black]
+历届经典回顾[Taking… How To… Speakerb… Come Away…]
+第50届格莱美颁奖礼[完全获奖名单 艾米五奖封后 郎朗表演]
 蔡依林新专辑再创佳绩
 精彩MV全放送
-新专辑MV[爱情任务
-日不落
-爱无赦
-一个人
-节拍器
-非卖品]
-精彩花絮[浪漫巴黎之行
-苦练钢管舞
-辛苦追逐戏
-口述情节]
-热门专辑[地才
-舞娘
-J-Game
-野蛮游戏
-城堡
-看我72变
-更多]
+新专辑MV[爱情任务 日不落 爱无赦 一个人 节拍器 非卖品]
+精彩花絮[浪漫巴黎之行 苦练钢管舞 辛苦追逐戏 口述情节]
+热门专辑[地才 舞娘 J-Game 野蛮游戏 城堡 看我72变 更多]
 MV热播
 我不会唱歌
 罗志祥
@@ -29408,8 +27713,7 @@ Twins
 苏醒
 《绝对收藏2》
 张信哲
-《Do
-The…》
+《Do The…》
 阿杜
 《我很好》
 刘若英
@@ -29918,9 +28222,7 @@ Go
 碧昂丝
 乐库伴侣全接触：
 [乐库伴侣专题][社区公告]
-[UC2007音乐版][新浪科技下载
-华军软件园
-更多>>]
+[UC2007音乐版][新浪科技下载 华军软件园 更多>>]
 更多>
 >
 网友精选专辑
@@ -30368,9 +28670,7 @@ Reserved
 &
 Hello||[ti:当你离开的时候]
 [ar:蔡健雅]
-[al:Goodbye
-&amp;
-Hello]
+[al:Goodbye &amp; Hello]
 [00:17.35]我只能低着头发呆
 [00:20.79]让回忆渗透脑袋
 [00:25.17]渐渐变空白
@@ -30883,8 +29183,7 @@ Jacky
 请输入歌曲名或艺人名,如”北京的冬天”、”老狼”
 添加歌曲
 请输入歌曲名或艺人名,如”北京的冬天”、”老狼”
-俞灏明《如果
-可以爱你》_乐库_新浪网
+俞灏明《如果 可以爱你》_乐库_新浪网
 专辑:如果
 可以爱你||思念
 空气中慢慢的穿行
@@ -31079,7 +29378,7 @@ MV
 花儿乐队
 华人群星
 廖隽嘉
-BOBO（组..
+BOBO（组.. 
 飞儿乐团
 张智霖
 顾晓宇
@@ -31141,8 +29440,7 @@ Cause（让）…I
 Love
 You
 越说越对你在乎
-（It’s
-true是真的）
+（It’s true是真的）
 Cause……I
 Love
 You
@@ -31379,9 +29677,7 @@ MV
 少年游
 -
 魏晨
-越人歌(..
--
-影视原声
+越人歌(..  -  影视原声  
 我可以
 -
 蔡旻佑
@@ -31523,7 +29819,7 @@ Twins歌迷团拜会阿..2008-02-12
 专辑推荐
 更多>>
 专辑：
-金韵奖（..
+金韵奖（..  
 艺人：
 合辑
 专辑：
@@ -31704,7 +30000,7 @@ MV
 蔡依林
 黄昏-王睿
 -
-合辑（内..
+合辑（内..  
 青花
 -
 周传雄
@@ -31906,17 +30202,11 @@ Goodbye
 请输入歌曲名或艺人名,如”北京的冬天”、”老狼”
 容祖儿《陪我长大(国语)》_乐库_新浪网
 专辑:喜欢祖儿4新曲+精选||专辑介绍：
-在各大乐坛成绩中，容祖儿再次展天后本色，再次蝉联并囊括各项音乐颁发礼中的最受欢迎女歌手奖，兼成为最销售的女歌手，实力有目共睹。由2001年起，英皇唱片公司为Joey严选歌曲并辑录为《喜欢．祖儿》精选系列，直至2008年第四张《喜欢祖儿
-4》新曲加精选，当中辑录了由2005年《Bi-
-Heart》
-开始至《Ten
-Most
-Wanted》、《Close
-Up》等好歌，以及“Lucky
+在各大乐坛成绩中，容祖儿再次展天后本色，再次蝉联并囊括各项音乐颁发礼中的最受欢迎女歌手奖，兼成为最销售的女歌手，实力有目共睹。由2001年起，英皇唱片公司为Joey严选歌曲并辑录为《喜欢．祖儿》精选系列，直至2008年第四张《喜欢祖儿 4》新曲加精选，当中辑录了由2005年《Bi- Heart》
+开始至《Ten Most Wanted》、《Close Up》等好歌，以及“Lucky
 Star”、“两败俱伤”及国语歌“陪我长大”等主打歌，双CD
 34首喜欢祖儿精选歌共冶一炉。
-容祖儿于1月演唱会即将展开她的红馆《STARLIGHT
-Joey演唱会》，在2007年9月时特别为新城电台举行“容祖儿唱游大童好世界”，为个唱作预演！以“光”为主题，除了最新主打歌之外，今次Joey主要翻唱如杨千嬅“可人儿”、郑秀文“爱情万岁”、林忆莲“伤痕”、卫兰“离家出走”、陈奕迅“淘汰”等其他歌手的名曲，还有邀请同门师妹帅弟吴浩康、泳儿和洪卓立同台演唱且大合唱一曲“心花怒放”，26首现场作品全收录于新城唱游双CD(已经奉上)内。
+容祖儿于1月演唱会即将展开她的红馆《STARLIGHT Joey演唱会》，在2007年9月时特别为新城电台举行“容祖儿唱游大童好世界”，为个唱作预演！以“光”为主题，除了最新主打歌之外，今次Joey主要翻唱如杨千嬅“可人儿”、郑秀文“爱情万岁”、林忆莲“伤痕”、卫兰“离家出走”、陈奕迅“淘汰”等其他歌手的名曲，还有邀请同门师妹帅弟吴浩康、泳儿和洪卓立同台演唱且大合唱一曲“心花怒放”，26首现场作品全收录于新城唱游双CD(已经奉上)内。
 首页
 |
 社区
@@ -32816,13 +31106,9 @@ GANBADE!
 收藏
 评价
 我不会唱歌
-《舞所不在
-(预售礼)
-》
+《舞所不在 (预售礼) 》
 我秀故我在
-《舞所不在
-(预售礼)
-》
+《舞所不在 (预售礼) 》
 败给你（萧亚轩合唱）
 《无所不在》
 最后的风度
@@ -32830,9 +31116,7 @@ GANBADE!
 一支独秀
 《无所不在》
 蝴蝶秀
-《舞所不在
-(预售礼)
-》
+《舞所不在 (预售礼) 》
 当我们宅一块
 《无所不在》
 做得到
@@ -32846,8 +31130,7 @@ GANBADE!
 取消
 最新专辑
 全部专辑
-专辑：《舞所不在
-(...》
+专辑：《舞所不在 (...》
 风格：流行
 公司：百代音乐
 发行：2007年11月2日
@@ -32872,9 +31155,7 @@ GANBADE!
 当我们宅一块
 最新专辑
 全部专辑
-《舞所不在
-(预售礼)
-》
+《舞所不在 (预售礼) 》
 (2007)
 《无所不在》
 (2007)
@@ -33056,25 +31337,17 @@ Lewis
 好久不见
 《好久不见》
 你的背包
-《你的陈奕迅
-国语精选》
+《你的陈奕迅 国语精选》
 兄弟（刘德华合唱）
-《Listen
-to
-Eason
-Chan》
+《Listen to Eason Chan》
 圣诞节
-《你的陈奕迅
-国语精选》
+《你的陈奕迅 国语精选》
 红玫瑰
 《认了吧》
 富士山下
-《What&#039;s
-Going
-On…》
+《What&#039;s Going On…》
 寂寞让你更快乐
-《你的陈奕迅
-国语精选》
+《你的陈奕迅 国语精选》
 全选
 |
 取消
@@ -33100,8 +31373,7 @@ On…》
 公司：环球音乐
 发行：2007年3月18日
 好久不见
-专辑：《What’s
-Go...》
+专辑：《What’s Go...》
 风格：流行
 公司：环球音乐
 发行：2007年1月25日
@@ -33121,92 +31393,52 @@ Live
 (2007)
 《好久不见》
 (2007)
-《What’s
-Going
-On...》
+《What’s Going On...》
 (2007)
-《Eason&#039;s
-Moving
-O...》
+《Eason&#039;s Moving O...》
 (2007)
-《Listen
-to
-Eason
-...》
+《Listen to Eason ...》
 (2007)
-《你的陈奕迅
-国语精选》
+《你的陈奕迅 国语精选》
 (2007)
-《陈奕迅
-Get
-a
-Lif...》
+《陈奕迅 Get a Lif...》
 (2006)
-《陈奕迅
-Get
-a
-Lif...》
+《陈奕迅 Get a Lif...》
 (2006)
-《陈奕迅
-Get
-a
-Lif...》
+《陈奕迅 Get a Lif...》
 (2006)
 《U87》
 (2006)
-《我的最好时代
-(Di...》
+《我的最好时代 (Di...》 (2006)
+《我的最好时代 (Di...》 (2006)
+《我的最好时代 (Di...》 (2006)
+《Life Continues》
 (2006)
-《我的最好时代
-(Di...》
-(2006)
-《我的最好时代
-(Di...》
-(2006)
-《Life
-Continues》
-(2006)
-《What&#039;s
-Going
-On…》
+《What&#039;s Going On…》
 (2006)
 《怎么样》
 (2005)
-《Live
-For
-Today》
+《Live For Today》
 (2003)
 《黑白灰》
 (2003)
-《Third
-Encounter
-...》
+《Third Encounter ...》
 (2003)
 《七》
 (2003)
-《THE
-LINE-UP》
+《THE LINE-UP》
 (2002)
-《Special
-Thanks
-S...》
+《Special Thanks S...》
 (2002)
-《陈奕迅
-＆
-林子祥...》
+《陈奕迅 ＆ 林子祥...》
 (2002)
-《Eason
-4
-A
-Change...》
+《Eason 4 A Change...》
 (2002)
 《预感》
 (2002)
 《反正是我》
 (2001)
-《The
-Easy
-Ride》
+《The Easy Ride》
 (2001)
 《68分29秒》
 (2000)
@@ -33410,16 +31642,13 @@ SonyBmg
 月牙湾
 《爱·歌姬》
 我们的爱
-《我要飞
-寻梦之途全纪录》
+《我要飞 寻梦之途全纪录》
 爱过
 《爱·歌姬》
 天天夜夜
 《飞行部落》
 Lydia
-(
-钢琴演奏版
-)
+( 钢琴演奏版 )
 《同名专辑》
 三个心愿
 《爱·歌姬》
@@ -33489,8 +31718,7 @@ LOVE3
 (2005)
 《无限》
 (2005)
-《我要飞
-寻梦之途...》
+《我要飞 寻梦之途...》
 (2004)
 《同名专辑》
 (2004)
@@ -33649,8 +31877,7 @@ SonyBmg
 钱钱钱钱
 《最新单曲》
 爱得太迟
-《Human
-我生》
+《Human 我生》
 路边摊
 《幸福号列车》
 好想好想
@@ -33663,8 +31890,7 @@ SonyBmg
 《幸福号列车》
 爱得太迟
 (合唱版)
-《Human
-我生》
+《Human 我生》
 冬天
 《幸福号列车》
 不要说你不知道
@@ -33679,8 +31905,7 @@ SonyBmg
 公司：百代音乐
 发行：2007年5月
 钱钱钱钱
-专辑：《Human
-我生》
+专辑：《Human 我生》
 风格：流行
 公司：百代音乐
 发行：2006年8月25日
@@ -33695,8 +31920,7 @@ SonyBmg
 重复犯错
 不如留低我
 爱美丽
-专辑：《古舞飞杨
-(...》
+专辑：《古舞飞杨 (...》
 风格：流行
 公司：百代音乐
 发行：2006年2月10日
@@ -33714,12 +31938,9 @@ Monica
 全部专辑
 《最新单曲》
 (2007)
-《Human
-我生》
+《Human 我生》
 (2006)
-《古舞飞杨
-(大马演...》
-(2006)
+《古舞飞杨 (大马演...》 (2006)
 《2005劲歌金曲演唱会》
 (2005)
 《劲歌新曲+金曲精选》
@@ -33738,15 +31959,11 @@ Monica
 (2002)
 《恋恋情深＋2001精...》
 (2002)
-《All
-The
-Best
-新...》
+《All The Best 新...》
 (2001)
 《基情年代》
 (2001)
-《New
-Pattern》
+《New Pattern》
 (2001)
 《寻宝》
 (2000)
@@ -33940,8 +32157,7 @@ R
 不得不爱
 《高手》
 玩酷
-《玩酷
-单曲》
+《玩酷 单曲》
 路太弯
 《玩酷》
 我想更懂你
@@ -33953,9 +32169,7 @@ R
 客串情人
 《玩酷》
 快乐崇拜
-《Free
-Style
-Remix》
+《Free Style Remix》
 爱不离
 《玩酷》
 街头诗人
@@ -33980,8 +32194,7 @@ up
 路太弯
 完美故事
 光荣
-专辑：《玩酷
-单曲》
+专辑：《玩酷 单曲》
 风格：流行
 公司：环球音乐
 发行：2007年9月13日
@@ -34004,16 +32217,13 @@ Pan@Sonic
 全部专辑
 《玩酷》
 (2007)
-《玩酷
-单曲》
+《玩酷 单曲》
 (2007)
 《反转地球》
 (2006)
 《高手》
 (2005)
-《Free
-Style
-Remix》
+《Free Style Remix》
 (2005)
 《壁虎漫步》
 (2005)
@@ -34252,9 +32462,7 @@ Angela张韶涵，在戏剧上的表现令人惊艳。无论是《MVP情人》中梦想成真的篮球队经理小�
 一首“Journey”，单纯干净的声音穿透力，张韶涵的第一个声音，从《海豚湾恋人》献声，一出声就让人感受到这个纯净声音的力量，就像剧中漫步在云端的真实声音。
 《海豚湾恋人》剧中片尾曲《遗失的美好》，又展现出张韶涵甜美的嗓音，更唱出年轻人历经恋爱后的甜美与苦涩。这首歌更成为50万人手机音乐下载第一名的最爱。
 让大家久等的张韶涵，在
-2004年终于推出个人第一张国语专辑《Over
-the
-Rainbow》。
+2004年终于推出个人第一张国语专辑《Over the Rainbow》。
 因为小时候听到妈妈唱给她听的“Over
 the
 Rainbow”，所以为了展现张韶涵声音的起点，就有了“Over
@@ -34312,10 +32520,7 @@ MV评论
 浩瀚
 《分手在那个秋天》
 陈奕迅
-《Crying
-in
-the
-Party》
+《Crying in the Party》
 梁静茹
 《爱是》
 周笔畅
@@ -34578,13 +32783,10 @@ MV
 星级视频：
 评论:0
 艺人简介
-中文名（Chinese
-Name)：魏晨
-英文名（English
-Name)：VISION
+中文名（Chinese Name)：魏晨
+英文名（English Name)：VISION
 性别（Sex）：男
-出生日期（Birthda
-y）：
+出生日期（Birthda y）：
 2月22日
 身高（Height）：
 182cm
@@ -34640,7 +32842,7 @@ MV评论
 林俊杰
 好风长..
 -
-合辑（内..
+合辑（内..      
 有一种..
 -
 阿木
@@ -34761,9 +32963,7 @@ Reserved
 741
 人评分
 请您评分
-梁静茹《Cest
-La
-Vie》_乐库_新浪网
+梁静茹《Cest La Vie》_乐库_新浪网
 登录
 |
 注册
@@ -34876,9 +33076,7 @@ HTML嵌入代码：
 梁静茹
 MV
 --
-《Cest
-La
-Vie》
+《Cest La Vie》
 不支持FLASH
 -->
 星级视频：
@@ -34932,8 +33130,7 @@ MV评论
 张超
 《指引》
 王力宏
-《落叶归根
-MV》
+《落叶归根 MV》
 胡灵
 《雏菊》
 李圣杰
@@ -34973,7 +33170,7 @@ P..
 陈慧琳
 竹枝词
 -
-合辑（内..
+合辑（内..    
 放心去飞
 -
 小虎队
@@ -35034,9 +33231,7 @@ Buddy
 黑龙
 更多专辑推荐
 专辑：
-在你身边（台湾..
-艺人：
-张学友
+在你身边（台湾..    艺人： 张学友     
 专辑：
 DOUBLE(双)
 艺人：
@@ -35495,14 +33690,11 @@ MV
 星级视频：
 评论:0
 艺人简介
-中文名（Chinese
-Name)：苏醒
-英文名（English
-Name)：Allen
+中文名（Chinese Name)：苏醒
+英文名（English Name)：Allen
 Su
 性别（Sex）：男
-出生日期（Birth
-day）：
+出生日期（Birth day）：
 3月5日
 身高（Height）：
 175cm
@@ -35819,8 +34011,7 @@ MV评论
 周杰伦
 《夜曲》
 李心洁
-《爱错
-》
+《爱错 》
 梁静茹
 《可惜不是你》
 周笔畅
@@ -36181,7 +34372,7 @@ Hello..
 蔡依林
 我最闪亮
 -
-合辑（内..
+合辑（内..      
 老公老..
 -
 谢雨欣
@@ -36410,8 +34601,7 @@ MV评论
 梁静茹
 《会呼吸的痛》
 李慧珍
-《爱死了昨天
-MV》
+《爱死了昨天 MV》
 更多相关新闻
 刘若英下厨个唱两不误
 春节为家人烹制狮子头
@@ -36460,9 +34650,7 @@ Hello..
 比天空..
 -
 曹方
-宝贝(i..
--
-张悬
+宝贝(i.. - 张悬      
 飞得更高
 -
 汪峰
@@ -36621,9 +34809,7 @@ BOBO《光荣》
 孙燕姿《逆光》
 点击试听更多精彩专辑
 港台部分：
-陈奕迅《认了吧》--2007年，Eason延续上年《What's
-Going
-On...?》广东大碟中的强势，推出国语大碟《认了吧》，碟内特别改编了多首大热的粤语歌为国语主打，包括∶《烟味》(裙下之臣)、《爱情转移》(富士山下)、《月黑风高》(黑择明)和《红玫瑰》(白玫瑰)…[全文]
+陈奕迅《认了吧》--2007年，Eason延续上年《What's Going On...?》广东大碟中的强势，推出国语大碟《认了吧》，碟内特别改编了多首大热的粤语歌为国语主打，包括∶《烟味》(裙下之臣)、《爱情转移》(富士山下)、《月黑风高》(黑择明)和《红玫瑰》(白玫瑰)…[全文]
 张震岳《思念是一种病》--
 这次，张震岳终于甩开摇滚叛逆做了一张流畅悦耳的全情歌专辑，这也让习惯他过去音乐的评审出现了分歧…[全文]
 蔡依林《爱情任务》--
@@ -36638,67 +34824,35 @@ J，Unforgettable!Unimaginable!变幻莫测，情致缠绵，爱情任务(特务J)无限想象的听觉�
 Music的金曲歌王黄立行，在众人的引颈期盼之下推出第六张全新专辑《无神论》。这张专辑的形象概念上，扭转过去大家对黄立行固有怒吼愤怒的黑色形象…[全文]
 孙燕姿《逆光》--
 2007加盟新东家的孙燕姿，是全新历程的开始。孙燕姿第10张全新的音乐作品，怎么开始？如何呈现？这是一张备受瞩目的作品，也将面临市场严格的审视与挑战。再听见孙燕姿…[全文]
-Rihanna《Good
-…》
+Rihanna《Good …》
 林肯公园《Minutes…》
-Eagles《Long
-…》
+Eagles《Long …》
 OST《歌舞青春2》
 Kanye《Graduation》
 Kingston《Sean…》
 点击试听更多精彩专辑
 欧美部分：
-Rihanna《Good
-Girl
-Gone
-Bad》--《Good
-Girl
-Gone
-Bad》是来自巴巴多斯岛的当红女歌手Rihanna出道三年来的第三张个人专辑，在美国发行第一周，本张专辑共售出16万2千张，获得了当周Billboard
+Rihanna《Good Girl Gone Bad》--《Good Girl Gone Bad》是来自巴巴多斯岛的当红女歌手Rihanna出道三年来的第三张个人专辑，在美国发行第一周，本张专辑共售出16万2千张，获得了当周Billboard
 200专辑榜的亚军…[全文]
 Linkin
-Park《Minutes
-To
-Midnight》--
+Park《Minutes To Midnight》--
 出道短短6年即获奖无数，囊括世界音乐奖、葛莱美奖、告示牌音乐奖、MTV音乐大奖，获得滚石杂志所颁发的年度风云人物头衔，并在全球累积逾4000万张总销量的Linkin
 Park，其名字所代表的不仅是音乐界的销售神话，更是一股新浪潮、一系列的文化现象、一种符号图腾、一连串复杂情绪的综合体…[全文]
-Eagles《Long
-Road
-Out
-of
-Eden》--
+Eagles《Long Road Out of Eden》--
 继在此前的英国专辑榜中称霸之后，The
-Eagles近30年来的第一张录音室专辑《Long
-Road
-Out
-of
-Eden》又以71万1千张的销量成绩在当周的Billboard
+Eagles近30年来的第一张录音室专辑《Long Road Out of Eden》又以71万1千张的销量成绩在当周的Billboard
 200专辑榜夺魁…[全文]
-OST《High
-School
-Musical
-2(歌舞青春2)》--
-2006席卷全球的迪士尼原创电视电影《歌舞青春High
-School
-Musical》，不仅收视全球第一，也荣登2006年度全美最畅销专辑冠军宝座，今年夏天，《歌舞青春2
-High
-School
-Musical
-2》再度掀起了“歌舞”旋风…
+OST《High School Musical 2(歌舞青春2)》--
+2006席卷全球的迪士尼原创电视电影《歌舞青春High School Musical》，不仅收视全球第一，也荣登2006年度全美最畅销专辑冠军宝座，今年夏天，《歌舞青春2 High School Musical 2》再度掀起了“歌舞”旋风…
 Kanye
 West《Graduation》--
 《Graduation》是美国Hip-Hop歌手/制作人Kanye
-West的第三张个人专辑，与他上一张专辑《Late
-Registration》相隔整整两年。在美国上市第一周内，这张《Graduation》共售出95万7千张，轻松获得了Billboard
+West的第三张个人专辑，与他上一张专辑《Late Registration》相隔整整两年。在美国上市第一周内，这张《Graduation》共售出95万7千张，轻松获得了Billboard
 200专辑榜冠军…[全文]
 Sean
-Kingston《Sean
-Kingston》--
-由于首支主打单曲《Beautiful
-Girls》在上周的Hot
-100单曲榜中一举夺魁，年仅17岁的R&B新星肖恩·金斯顿（Sean
-Kingston）在一夜之间备受关注，他的同名处子作《Sean
-Kingston》首周上榜就取得了第六名的好成绩…[全文]
+Kingston《Sean Kingston》--
+由于首支主打单曲《Beautiful Girls》在上周的Hot
+100单曲榜中一举夺魁，年仅17岁的R&B新星肖恩·金斯顿（Sean Kingston）在一夜之间备受关注，他的同名处子作《Sean Kingston》首周上榜就取得了第六名的好成绩…[全文]
 椎名林檎《平成風俗》
 中孝介《花间道》
 B'z《ACTION》
@@ -36713,9 +34867,7 @@ B'z《ACTION》
 B'z《ACTION》--
 日本国民乐团B'z的最新专辑《ACTION》终于出现在了歌迷面前。火红的封面就像是燃烧的一团火，带给歌迷全新的ROCK世界。此张专辑对于B'z有不同的意义，因为这个他们出道20周年的纪念专辑。而对于歌迷来说，17首歌曲也是一个不错的享受。B'z的20周年，必定会带给大家不一样的感觉…
 彩虹《KISS》--
-暌违了近两年半，彩虹终于在2007年的年底交出了最新的大碟《KISS》。大碟中收录了今年发行的四张单曲A面主打，还收录的2005年发行的单曲《Link》重新混音的《Link
--KISS
-Mix-》…
+暌违了近两年半，彩虹终于在2007年的年底交出了最新的大碟《KISS》。大碟中收录了今年发行的四张单曲A面主打，还收录的2005年发行的单曲《Link》重新混音的《Link -KISS Mix-》…
 申彗星《Beginning…》--
 神话申彗星的第二张个人专辑“The
 Beginning,
@@ -36739,8 +34891,7 @@ MV给了我们一个更直观的角度感受歌手的歌曲，一个感人的MV总能引起网友们的热情……[�
 周笔畅《梦想在望》[更多]
 最性感专辑封面
 每张唱片最吸引人的是什么？内容？不，没有那么简单。我们在拿到唱片的时候，首先给我们留下印象的，就是一张唱片的封面，于是唱片公司们都想破头，设计一个诱人的封面，好让歌迷们的眼球多停留一会儿……
-徐怀钰《Bad
-Girl》
+徐怀钰《Bad Girl》
 [专辑介绍]
 李慧珍《爱死了》
 [介绍]
@@ -36753,8 +34904,7 @@ Girl》
 张韶涵《百变张韶涵》
 逝去的艺人
 日复一日，年复一年，新人来了，前辈走了，总有那么多的伤感在里面。今年又有几位歌手离开了我们，但是他们的影子却在我们的脑海徘徊。让我们记起他们的辉煌…
-帕瓦罗蒂（Luciano
-Pavarotti）
+帕瓦罗蒂（Luciano Pavarotti）
 北京时间9月6日上午，意大利男高音歌唱家帕瓦罗蒂去世。帕瓦罗蒂被许多人誉为他那一代最伟大男高音…
 [专题]
 坂井泉水（Zard主唱）
@@ -36909,8 +35059,7 @@ music-in乐榜
 [伍思凯为08奥运献礼][黄立行与程怡贴身热舞][孙燕姿现场点评天后宫]
 “艳照”震碎阿娇清纯形象
 传Twins失广告合约
-[陈冠希歌词泄漏自拍癖][阿娇复工录新歌笑对传媒
-谈及不雅照默不作声]
+[陈冠希歌词泄漏自拍癖][阿娇复工录新歌笑对传媒 谈及不雅照默不作声]
 新鲜抢先报
 ·2008网络浪漫主题评选活动
 ·07雪碧原创流行音乐榜全记录
@@ -37082,12 +35231,9 @@ ANG
 详情
 热门试听更多
 <colgroup>
-<col
-width=60>
-<col
-width=87>
-<col
-width=24>
+<col width=60>
+<col width=87>
+<col width=24>
 叶蓓
 优氧深呼吸
 郭易
@@ -37113,12 +35259,9 @@ width=24>
 下辈子嫁给你..
 精彩MV更多
 <colgroup>
-<col
-width=60>
-<col
-width=87>
-<col
-width=24>
+<col width=60>
+<col width=87>
+<col width=24>
 陈冠希
 $$$
 花儿乐队
@@ -37704,8 +35847,7 @@ S.H.E
 [我来说两句]
 [与歌迷互动送惊喜]
 ·《怒放的生命》
-·《北京
-北京》
+·《北京 北京》
 赵薇《天使旅行箱》搜狐首唱会
 赵薇带着自己加盟新东家的新唱片《天使旅行箱》，在世纪坛某酒吧举办了自己的搜狐歌会新歌首唱会。当晚，赵薇一连演唱了包括《天使旅行箱》、《树叶的崇拜》…
 [现场视频]
@@ -37751,23 +35893,14 @@ S.H.E
 ·《暧昧》
 芝华士音乐
 麦克学摇滚搜狐歌会
-以一曲《Take
-Me
-To
-Your
-Heart》唱红中国的麦克学摇滚此次带着新专辑《Upon
-a
-Christmas
-Night》来到了搜狐歌会……
+以一曲《Take Me To Your Heart》唱红中国的麦克学摇滚此次带着新专辑《Upon a Christmas Night》来到了搜狐歌会……
 [现场视频]
 [现场美图]
 [麦克学摇滚说吧]
 [我来说两句]
 [《一无所有》英文版]
 ·《Someday》
-·《It's
-only
-love》
+·《It's only love》
 听，你最爱的声音
 厉娜搜狐歌会
 厉娜的声音，淡淡的充满忧伤，充满思考，充满期待，充满勇气，一起来聆听厉娜带来的最真挚的歌声《广州爱情故事》……
@@ -37785,8 +35918,7 @@ line搜狐歌会
 [现场美图]
 [蔡依林说吧]
 [我来说两句]
-[细数舞娘性感动作
-]
+[细数舞娘性感动作 ]
 ·[首开线上个唱]
 ·[回应胸部整容疑云]
 BOBO组合《光荣》搜狐歌会
@@ -37852,8 +35984,7 @@ BOBO组合《光荣》搜狐歌会
 [我来说两句]
 [详谈身边的三个女人]
 ·《私奔》
-·《长安
-长安》
+·《长安 长安》
 美男组合5566
 搜狐歌会
 12月24日，在近百名粉丝的尖叫声中，"亚洲第一天团"5566帅气亮相搜狐歌会，录制圣诞特别节目，他们超凡的亲和力，让现场粉丝狠狠过了一把瘾……
@@ -37903,14 +36034,10 @@ BOBO组合《光荣》搜狐歌会
 ·演唱《因为是你》
 视频点播排行
 <colgroup>
-<col
-width=58>
-<col
-width=100>
-<col
-width=103>
-<col
-width=5>
+<col width=58>
+<col width=100>
+<col width=103>
+<col width=5>
 赵薇《天使旅行箱》搜狐歌会
 蔡依林搜狐歌友会
 张惠妹《star》搜狐歌会
@@ -38077,24 +36204,15 @@ K
 [中性帅气“范儿”代表者：张广元]
 土家族第一美女用舞姿夺眼球
 [麦乐迪员工周艳的精彩演唱
-][12岁MM参赛
-天籁之音震全场][去她博客看看]
-[春节放歌
-麦乐迪员工集体参赛][12岁MM王嘉江的精彩演绎
+][12岁MM参赛 天籁之音震全场][去她博客看看]
+[春节放歌 麦乐迪员工集体参赛][12岁MM王嘉江的精彩演绎
 ][成为她的粉丝]
 选秀中最有女人味的五类选手
-优质偶像类：[赵莹[博客]
-[写真]
-[作品]]
-[央金[博客]
-[写真]
-[作品]]
-实力唱将类：[逄娜[博客]
-[写真]
-[作品]]
+优质偶像类：[赵莹[博客] [写真] [作品]]
+[央金[博客] [写真] [作品]]
+实力唱将类：[逄娜[博客] [写真] [作品]]
 [盛旭君[博客][写真][作品]]
-勇气可嘉类：[徐浩嘉
-[博客][写真][作品]]
+勇气可嘉类：[徐浩嘉 [博客][写真][作品]]
 [谢春如[博客][写真][作品]]
 [搜狐女声事件汇总]
 参赛趣闻更多
@@ -38204,8 +36322,7 @@ sohu.com/
 赵敏姣[博客]
 《lydia》
 陈姝余[博客]
-《because
-…》
+《because …》
 李斐然[博客]
 《夏天的味道》
 未产生
@@ -38300,8 +36417,7 @@ sohu.com/
 刘亚婷[写真]
 《好想谈恋爱》
 官婷[写真]
-《Life
-goes…》
+《Life goes…》
 李慧[写真]
 《一个人生活》
 阿斯根[写真]
@@ -38327,8 +36443,7 @@ mate
 丹[写真]
 《又见炊烟》
 逢娜[写真]
-《I'm
-gonna…
+《I'm gonna…
 王
 欢[写真]
 《爱你》
@@ -38415,24 +36530,15 @@ K
 温殊用北京话为大家拜年
 解密选秀明星们的成功之路
 [麦乐迪员工周艳的精彩演唱
-][12岁MM参赛
-天籁之音震全场][去她博客看看]
-[春节放歌
-麦乐迪员工集体参赛][12岁MM王嘉江的精彩演绎
+][12岁MM参赛 天籁之音震全场][去她博客看看]
+[春节放歌 麦乐迪员工集体参赛][12岁MM王嘉江的精彩演绎
 ][成为她的粉丝]
 选秀中最有女人味的五类选手
-优质偶像类：[赵莹[博客]
-[写真]
-[作品]]
-[央金[博客]
-[写真]
-[作品]]
-实力唱将类：[逄娜[博客]
-[写真]
-[作品]]
+优质偶像类：[赵莹[博客] [写真] [作品]]
+[央金[博客] [写真] [作品]]
+实力唱将类：[逄娜[博客] [写真] [作品]]
 [盛旭君[博客][写真][作品]]
-勇气可嘉类：[徐浩嘉
-[博客][写真][作品]]
+勇气可嘉类：[徐浩嘉 [博客][写真][作品]]
 [谢春如[博客][写真][作品]]
 [搜狐女声事件汇总]
 参赛趣闻更多
@@ -38542,8 +36648,7 @@ sohu.com/
 赵敏姣[博客]
 《lydia》
 陈姝余[博客]
-《because
-…》
+《because …》
 李斐然[博客]
 《夏天的味道》
 未产生
@@ -38638,8 +36743,7 @@ sohu.com/
 刘亚婷[写真]
 《好想谈恋爱》
 官婷[写真]
-《Life
-goes…》
+《Life goes…》
 李慧[写真]
 《一个人生活》
 阿斯根[写真]
@@ -38665,8 +36769,7 @@ mate
 丹[写真]
 《又见炊烟》
 逢娜[写真]
-《I'm
-gonna…
+《I'm gonna…
 王
 欢[写真]
 《爱你》
@@ -38825,66 +36928,38 @@ Lafite戴佩妮
 《超模》
 郑希怡
 2008-02-02
-《Best..
-》
+《Best.. 》
 陈晓东
 2008-02-01
-《2008..
-》
+《2008.. 》
 游鸿明
 2008-01-30
 《源情歌》
 郑源
 2008-01-29
-《Love..
-》
+《Love.. 》
 容祖儿
 2008-01-25
 《收放自如》
 李圣杰
 2008-01-18
-《我要的自..
-》
+《我要的自.. 》
 叶蓓
 2008-01-17
-《郑秀文极..
-》
+《郑秀文极.. 》
 郑秀文
 2008-01-17
 热门专辑
-《
-桐话妍语
-》Twin..
-《
-Super
-S..
-》曹格
-《
-Do
-The
-..
-》阿杜
-《
-哪里怕
-》棒棒堂
-《
-庆幸拥有蔡淳佳
-》蔡淳佳
-《
-我很好
-》刘若英
-《
-双面飞轮海
-》飞轮海
-《
-喝采
-》5566
-《
-乐天派
-》魏晨
-《
-在这里等你
-》F4
+《 桐话妍语 》Twin..
+《 Super S..  》曹格
+《 Do The ..  》阿杜
+《 哪里怕 》棒棒堂
+《 庆幸拥有蔡淳佳 》蔡淳佳
+《 我很好 》刘若英
+《 双面飞轮海 》飞轮海
+《 喝采 》5566
+《 乐天派 》魏晨
+《 在这里等你 》F4
 音乐随心听是什么？
 推荐歌手
 更多&#160;&#160;热门单曲榜
@@ -39156,8 +37231,7 @@ Username:
 Password:
 SaveCookie
 -Calendar-
-<
-2008>
+< 2008>
 -
 <2>
 日一二三四五六
@@ -39527,9 +37601,7 @@ rights
 reserved.
 搜狐公司
 版权所有
-<filter
-width=590
-height=80>
+<filter width=590 height=80>
 </filter>
 ■
 相关连接
@@ -39746,8 +37818,7 @@ KERAS：
 西瓜卡：
 有朋新专辑里面有没有比较受年轻人喜欢的喜哈曲风？
 苏有朋说：
-有R＆B。我们在录音室和玮松老师玩得很好，玮松老师做制作人。在北京闭关做歌曲，我们每天一方面调整一方面克服困难，想出很多点子让事情变得更好。我们遇到嘻哈的东西很有趣，没想到苏有朋有这样的做法，大家可以听听看，那首歌叫做《零分LUKY
-DAY》，声音跨度高达两个8度，很好玩的。
+有R＆B。我们在录音室和玮松老师玩得很好，玮松老师做制作人。在北京闭关做歌曲，我们每天一方面调整一方面克服困难，想出很多点子让事情变得更好。我们遇到嘻哈的东西很有趣，没想到苏有朋有这样的做法，大家可以听听看，那首歌叫做《零分LUKY DAY》，声音跨度高达两个8度，很好玩的。
 五月：
 我想知道你是怎么安排戏内戏外两种角色身份的呢？
 苏有朋说：
@@ -40067,9 +38138,7 @@ rights
 reserved.
 搜狐公司
 版权所有
-<filter
-width=590
-height=80>
+<filter width=590 height=80>
 </filter>
 ■
 相关连接
@@ -40131,9 +38200,7 @@ IT
 -
 BBS
 -->
-<filter
-width=590
-height=80>
+<filter width=590 height=80>
 </filter>
 搜狐首页
 音乐频道首页
@@ -40419,9 +38486,7 @@ IT
 -
 BBS
 -->
-<filter
-width=590
-height=80>
+<filter width=590 height=80>
 </filter>
 搜狐首页
 音乐频道首页
@@ -40436,7 +38501,7 @@ MUSIC.SOHU.COM
 【
 收藏本文】
 【热点排行】【推荐】【字体：大中小】【打印】【关闭】
-视频：[
+视频：[ 
 1
 ]
 [
@@ -40670,10 +38735,8 @@ reserved.
 ■
 相关连接
 明星话题从姚明开始
-孙楠：我感觉来自小人国(06/12
-11:46)
-点击明星座驾之孙楠：开悍马引来众歌迷(组图)(06/11
-11:00)
+孙楠：我感觉来自小人国(06/12 11:46)
+点击明星座驾之孙楠：开悍马引来众歌迷(组图)(06/11 11:00)
 </^Backfill>
 ■
 请发表您的看法
@@ -40742,7 +38805,7 @@ MUSIC.SOHU.COM
 2004年06月18日10:11
 来源：搜狐音乐
 页面功能【我来说两句】【我要“揪”错】【推荐】【字体：大中小】【打印】【关闭】
-[
+[ 
 现场音频
 ]
 搜狐音乐讯：6月17日，林肯公园乐队将在香港举办演出会。搜狐音乐记者亲赴香港独家专访了林肯公园队乐的成员，为LP歌迷第一时间来带了林肯公园乐队的祝福。
@@ -40750,8 +38813,7 @@ MUSIC.SOHU.COM
 最优秀的现场表演摇滚团体之一。众所周知，巨大的成就并未让林肯公园成员们变得不可一世、恃宠而骄，反之他们一直重视与乐迷之间的互动，所以在他们的现场，最激动人心的就是乐队成员那份如同刚出道的乐队一般倾尽全力的热情，以及真挚而腼腆的他们和歌迷之间像孩子般开心的交流。而乐队双主唱的编制和精妙的配合，也是现场令歌迷血脉贲张的看点，一个是饶舌，另一个是嘶喊式的重摇滚腔，往往先来段饶舌唱白，再接上易入耳易上口的摇滚副歌，就这样一步步将歌迷带入到他们的摇滚世界。
 现场专访：
 关于北京
-DJ乔瑟夫-汉恩（Joseph
-Hahn）见到搜狐音乐特约记者，问：你们是中国人？
+DJ乔瑟夫-汉恩（Joseph Hahn）见到搜狐音乐特约记者，问：你们是中国人？
 记者答：是，我们是从北京来的。
 乔瑟夫：哦，北京的
 记者答：是的，我们来自搜狐，中国最大的门户网站。
@@ -40798,9 +38860,7 @@ rights
 reserved.
 搜狐公司
 版权所有
-<filter
-width=590
-height=80>
+<filter width=590 height=80>
 </filter>
 ■
 相关连接
@@ -40863,9 +38923,7 @@ IT
 -
 BBS
 -->
-<filter
-width=590
-height=80>
+<filter width=590 height=80>
 </filter>
 搜狐首页
 音乐频道首页
@@ -40882,11 +38940,7 @@ MUSIC.SOHU.COM
 收藏本文】
 【热点排行】【推荐】【字体：大中小】【打印】【关闭】
 查看更多图片
-现场视频：[
-1
-][2
-][3
-]
+现场视频：[ 1 ][2 ][3 ]
 搜狐音乐讯：2004年6月24日15时，华纳“美眉”组合做客搜狐音乐频道，与搜狐的广大网友倾心交流。下面是访谈实录全文：
 主持人说:
 各位网友大家好！欢迎光临搜狐嘉宾聊天室，今天来到搜狐做客的是目前国内最好的组合之一的"美眉组合"。
@@ -40948,23 +39002,17 @@ reserved.
 相关连接
 与偶像“亲密”接触
 歌迷邀请林熙回上海做客
-(06/24
-15:19)
+(06/24 15:19)
 预告：品冠本月27日16点将做客搜狐聊天(图)
-(06/24
-12:07)
+(06/24 12:07)
 预告：华纳美眉组合24日将做客搜狐聊天(组图)
-(06/22
-15:53)
+(06/22 15:53)
 预告：华纳美眉组合24日将做客搜狐聊天室(图)
-(06/22
-15:53)
+(06/22 15:53)
 组图：歌手孙楠做客搜狐大聊《刀剑online》
-(06/15
-21:31)
+(06/15 21:31)
 组图：著名歌手孙楠做客搜狐音乐谈《刀剑》
-(06/15
-21:31)
+(06/15 21:31)
 </^Backfill>
 ■
 请发表您的看法
@@ -41070,8 +39118,7 @@ MUSIC.SOHU.COM
 嗓子哑了,是不是唱一些摇滚比较合适？
 品冠：
 如果嗓子哑了以后，唱摇滚会更伤喉咙，因为嗓子哑了以后，没有再好好保护，以后会一直哑下去。
-<MP1
-/>
+<MP1 />
 [1][2][3][4][5][6][7][8][9]下一页
 页面功能【我来说两句】【我要“揪”错】【推荐】【字体：大中小】【打印】【关闭】
 chinaren
@@ -41102,9 +39149,7 @@ rights
 reserved.
 搜狐公司
 版权所有
-<filter
-width=590
-height=80>
+<filter width=590 height=80>
 </filter>
 ■
 相关连接
@@ -41167,9 +39212,7 @@ IT
 -
 BBS
 -->
-<filter
-width=590
-height=80>
+<filter width=590 height=80>
 </filter>
 搜狐首页
 音乐频道首页
@@ -41263,8 +39306,7 @@ MUSIC.SOHU.COM
 我们开设了预先留言的窗口，有好多网友之前留言问到，花儿乐队一点一点长大，以后乐队名字也叫花儿吗？当我们成为黑豹年纪的时候也叫花儿吗？
 张伟说：
 永远叫花儿。
-<MP1
-/>
+<MP1 />
 [1][2][3][4][5]下一页
 页面功能【我来说两句】【热点排行】【推荐】【字体：大中小】【打印】
 【收藏】
@@ -41301,35 +39343,27 @@ reserved.
 相关连接
 摇滚：中国有摇滚吗？
 关于达达、朴树和花儿
-(07/16
-09:21)
+(07/16 09:21)
 王菲演唱会不请嘉宾
 将翻唱朴树《那些花儿》
-(07/27
-01:34)
+(07/27 01:34)
 快讯：花儿乐队现场表演
-(07/24
-21:08)
+(07/24 21:08)
 组图：花儿乐队签战绩骄人
 女歌迷幸运获拥抱
-(07/23
-18:36)
+(07/23 18:36)
 CCTV-MTV音乐盛典抢票举行
 花儿乐队现场助阵
-(07/22
-14:22)
+(07/22 14:22)
 花儿4榜单曲获冠军
 《刚刚好》横扫4大排行榜
-(07/21
-16:57)
+(07/21 16:57)
 花儿西单签名唱片大派送
 千人PARTY喜洋洋(图)
-(07/16
-17:52)
+(07/16 17:52)
 摇滚：中国有摇滚吗？
 关于达达、朴树和花儿
-(07/16
-09:21)
+(07/16 09:21)
 </^Backfill>
 ■
 请发表您的看法
@@ -41680,29 +39714,22 @@ rights
 reserved.
 搜狐公司
 版权所有
-<filter
-width=590
-height=80>
+<filter width=590 height=80>
 </filter>
 ■
 相关连接
 江凯文为音乐偶像剧《最后的童话》唱主题歌
-(05/31
-13:38)
+(05/31 13:38)
 江凯文李湘等人联手打造首部音乐广播偶像剧
-(05/03
-08:31)
+(05/03 08:31)
 快讯：三号新人歌手江凯文演唱《让我照顾你》
-(03/12
-21:23)
+(03/12 21:23)
 内地歌手江凯文个人介绍
-(02/08
-12:51)
+(02/08 12:51)
 让我照顾你
 -
 江凯文
-(02/06
-17:13)
+(02/06 17:13)
 </^Backfill>
 ■
 请发表您的看法
@@ -41762,9 +39789,7 @@ IT
 -
 BBS
 -->
-<filter
-width=590
-height=80>
+<filter width=590 height=80>
 </filter>
 搜狐首页
 音乐频道首页
@@ -42061,35 +40086,27 @@ reserved.
 ■
 相关连接
 沙宝亮详解歌词纠纷：唱《暗香》原是件好事
-(08/10
-16:00)
+(08/10 16:00)
 《暗香》侵权案又起波澜
 沙宝亮愿意奉陪原告
-(08/10
-10:18)
+(08/10 10:18)
 在线试听：沙宝亮全新单曲MV《蒙娜丽莎》(图)
-(08/09
-17:10)
+(08/09 17:10)
 沙宝亮新专辑8月上市
 录音心情日记曝光(组图)
-(08/06
-18:52)
+(08/06 18:52)
 沙宝亮没被负面新闻压垮
 顺利推出第三张专辑
-(08/06
-11:45)
+(08/06 11:45)
 沙宝亮笑看颁奖
 坦言自己从没想过当歌坛一哥
-(08/05
-14:20)
+(08/05 14:20)
 沙宝亮新碟宣传做一天
 发布会成颁奖礼(组图)
-(08/05
-01:54)
+(08/05 01:54)
 组图：沙宝亮新专辑发布会
 众多明星好友捧场
-(08/04
-21:12)
+(08/04 21:12)
 </^Backfill>
 ■
 请发表您的看法
@@ -42149,9 +40166,7 @@ IT
 -
 BBS
 -->
-<filter
-width=590
-height=80>
+<filter width=590 height=80>
 </filter>
 搜狐首页
 音乐频道首页
@@ -42273,13 +40288,7 @@ Faye：
 主持人说：
 说起第一张专辑，在专辑这么漫长的录制过程当中有没有难忘的一些花絮，透露一下给网友。
 Faye：
-想到一首歌，《You
-make
-me
-to
-fall
-in
-love》，其实这首歌我们录了一个礼拜了，其实平均每一首歌大部分平均都用两三天的时间来录，这首歌特别久，不是那么好唱，我跟老师就在录音室里折腾了一个礼拜。我们想要它更好，琢磨了很久。这首歌音域很宽广，在琢磨气、流畅度等等要下工夫。
+想到一首歌，《You make me to fall in love》，其实这首歌我们录了一个礼拜了，其实平均每一首歌大部分平均都用两三天的时间来录，这首歌特别久，不是那么好唱，我跟老师就在录音室里折腾了一个礼拜。我们想要它更好，琢磨了很久。这首歌音域很宽广，在琢磨气、流畅度等等要下工夫。
 主持人说：
 有没有被逼到哭？
 Faye：
@@ -42357,27 +40366,21 @@ reserved.
 相关连接
 组图：F.I.R飞儿乐团召开记者会
 18日做客搜狐
-(08/16
-20:19)
+(08/16 20:19)
 《Lydia》横空出世
 飞儿乐团拯救台湾歌坛
-(08/08
-09:05)
+(08/08 09:05)
 华语：[贴图]飞儿乐团——华语乐坛新的奇迹
-(07/22
-14:23)
+(07/22 14:23)
 飞儿乐团风头盖过刀郎等
 新专辑成销量榜冠军
-(07/06
-08:20)
+(07/06 08:20)
 飞儿乐团成广告新宠
 首张专辑内地将上市(图)
-(06/11
-16:02)
+(06/11 16:02)
 华纳F.I.R飞儿乐团
 令人惊艳的好成绩(组图)
-(05/27
-14:28)
+(05/27 14:28)
 </^Backfill>
 ■
 请发表您的看法
@@ -42437,9 +40440,7 @@ IT
 -
 BBS
 -->
-<filter
-width=590
-height=80>
+<filter width=590 height=80>
 </filter>
 搜狐首页
 音乐频道首页
@@ -42883,8 +40884,7 @@ MUSIC.SOHU.COM
 刚才李蓉提到的这个组合从92年到现在是12年，好多网友认为是20年，正像李蓉所讲的是“黑鸭子”组合是一个品牌，但是随着岁月的变迁肯定要有人员的更迭，如果不新陈代谢的话，很快就会被淘汰，我们现在这个阵容的成员确实是12年，而且我们之前也没有讲，说自己到底和其他的另一组人到底谁真谁假一个概念，“黑鸭子”就是一个品牌，观众给我们的肯定就是一个答案。
 李蓉：
 12年当中，只有我一个人是。郭祁是6年，李伟到现在还不到两年时间。不是说我们原来三个人12年。
-<MP1
-/>
+<MP1 />
 [1][2]下一页
 页面功能【我来说两句】【我要“揪”错】【推荐】【字体：大中小】【打印】【关闭】
 chinaren
@@ -42915,9 +40915,7 @@ rights
 reserved.
 搜狐公司
 版权所有
-<filter
-width=590
-height=80>
+<filter width=590 height=80>
 </filter>
 ■
 相关连接
@@ -43132,9 +41130,7 @@ rights
 reserved.
 搜狐公司
 版权所有
-<filter
-width=590
-height=80>
+<filter width=590 height=80>
 </filter>
 ■
 相关连接
@@ -43297,8 +41293,7 @@ AO”
 现在能干的队伍都在国家的机构里，国家机构能够养着我，大家还不大敢到你这里来，当然现在年轻人不大敢到这里来了。我们用的大部分都是年轻人，因为我觉得年轻人跟我们有共鸣，跟我们的知识、概念非常吻合。
 朱明瑛说：
 我受不了的是，别人用一种老式的东西来看我们，我又无所适从，我又觉得不能这样，但是我觉得这样又是没有出路的，所以现在走的蛮辛苦。
-<MP1
-/>
+<MP1 />
 [1][2]下一页
 页面功能【我来说两句】【我要“揪”错】【推荐】【字体：大中小】【打印】【关闭】
 chinaren
@@ -43329,9 +41324,7 @@ rights
 reserved.
 搜狐公司
 版权所有
-<filter
-width=590
-height=80>
+<filter width=590 height=80>
 </filter>
 ■
 相关连接
@@ -43596,9 +41589,7 @@ rights
 reserved.
 搜狐公司
 版权所有
-<filter
-width=590
-height=80>
+<filter width=590 height=80>
 </filter>
 ■
 相关连接
@@ -43769,9 +41760,7 @@ rights
 reserved.
 搜狐公司
 版权所有
-<filter
-width=590
-height=80>
+<filter width=590 height=80>
 </filter>
 ■
 相关连接
@@ -43833,9 +41822,7 @@ IT
 -
 BBS
 -->
-<filter
-width=590
-height=80>
+<filter width=590 height=80>
 </filter>
 搜狐首页
 音乐频道首页
@@ -43855,8 +41842,7 @@ MUSIC.SOHU.COM
 >>邵兵首张唱片《兵临城下》
 9日劲歌热舞保利开唱
 编者按：
-主持邵兵的聊天，没怎么准备，但早就知道他是一个性情中人，展开话题，想也不难。他的《落花之夜》让很多人惊讶，包括我，那是一种来自于心灵深处的感动，自然而贴切。随行的工作人员带来了邵兵自导自演的MV，在他们离开公司进入电梯的一刹，邵兵回头对我说，“记得看那MV，看我怎么打！”。他说是“看”，我却要“听”，邵兵说自己始终是一个演员，唱歌只是影视作品向外的一种延伸，但我却觉得，他的这一次“歌手”，做得很成功。(搜狐音乐频道
-大鹏)
+主持邵兵的聊天，没怎么准备，但早就知道他是一个性情中人，展开话题，想也不难。他的《落花之夜》让很多人惊讶，包括我，那是一种来自于心灵深处的感动，自然而贴切。随行的工作人员带来了邵兵自导自演的MV，在他们离开公司进入电梯的一刹，邵兵回头对我说，“记得看那MV，看我怎么打！”。他说是“看”，我却要“听”，邵兵说自己始终是一个演员，唱歌只是影视作品向外的一种延伸，但我却觉得，他的这一次“歌手”，做得很成功。(搜狐音乐频道 大鹏)
 主持人说：
 各位搜狐的网友大家下午好！今天下午来到我们搜狐嘉宾聊天室的是影星邵兵，但是这次他是以歌手的身份来到搜狐。邵兵跟大家打一个招呼吧。
 邵兵说：
@@ -43980,8 +41966,7 @@ MUSIC.SOHU.COM
 网友各自欣赏的角度不同，但是至少我们听到的这个《落花之夜》是一个深度，有男人味的东西。
 邵兵说：
 因为我想做的东西，不是很浅的东西。我觉得好的东西，和认真的东西，观众是可以听到的，也可以感觉到的。你在呼吸之间的感觉观众可以体会到。
-<MP1
-/>
+<MP1 />
 [1][2]下一页
 页面功能【我来说两句】【热点排行】【推荐】【字体：大中小】【打印】
 【收藏】
@@ -44247,8 +42232,7 @@ snoopy(说)说:下张专集还会延续这张专集的风格吗？
 其实不会的，在放假的时候会录音，平时的时候就念书
 薇琪说：
 平常我在宿舍唯一的餐具就是杯子，叉子，杯子里面装什么都可以。
-<MP1
-/>
+<MP1 />
 [1][2]下一页
 页面功能【我来说两句】【我要“揪”错】【推荐】【字体：大中小】【打印】【关闭】
 chinaren
@@ -44279,9 +42263,7 @@ rights
 reserved.
 搜狐公司
 版权所有
-<filter
-width=590
-height=80>
+<filter width=590 height=80>
 </filter>
 ■
 相关连接
@@ -44411,8 +42393,7 @@ MUSIC.SOHU.COM
 静茹听说你要在北京有一个签名的活动，能不能介绍一下？
 梁静茹说:
 明天下午四点半，在崇文区搜秀商城九层会有我的签售会,唯一的一场。
-<MP1
-/>
+<MP1 />
 [1][2][3][4][5][6][7]下一页
 页面功能【我来说两句】【我要“揪”错】【推荐】【字体：大中小】【打印】【关闭】
 chinaren
@@ -44443,9 +42424,7 @@ rights
 reserved.
 搜狐公司
 版权所有
-<filter
-width=590
-height=80>
+<filter width=590 height=80>
 </filter>
 ■
 相关连接
@@ -44674,9 +42653,7 @@ rights
 reserved.
 搜狐公司
 版权所有
-<filter
-width=590
-height=80>
+<filter width=590 height=80>
 </filter>
 ■
 相关连接
@@ -44998,15 +42975,12 @@ rights
 reserved.
 搜狐公司
 版权所有
-<filter
-width=590
-height=80>
+<filter width=590 height=80>
 </filter>
 ■
 相关连接
 组图：歌手任真新专辑《魔力咒语》北京发布会
-(05/24
-19:48)
+(05/24 19:48)
 </^Backfill>
 ■
 请发表您的看法
@@ -45154,9 +43128,7 @@ rights
 reserved.
 搜狐公司
 版权所有
-<filter
-width=590
-height=80>
+<filter width=590 height=80>
 </filter>
 ■
 相关连接
@@ -45384,9 +43356,7 @@ rights
 reserved.
 搜狐公司
 版权所有
-<filter
-width=590
-height=80>
+<filter width=590 height=80>
 </filter>
 ■
 相关连接
@@ -45739,9 +43709,7 @@ rights
 reserved.
 搜狐公司
 版权所有
-<filter
-width=590
-height=80>
+<filter width=590 height=80>
 </filter>
 ■
 相关连接
@@ -45847,8 +43815,7 @@ MUSIC.SOHU.COM
 《决爱》现在在搜狐网上做视听，反馈非常不错。在新专辑中我们自己创作的曲目占什么样的比重呢？
 彭亮：
 占整张专辑我们自己创作占60％。另外40％应该是来自韩国、还有香港、英国等地方的歌曲。
-<MP1
-/>
+<MP1 />
 [1][2][3][4][5][6]下一页
 页面功能【我来说两句】【我要“揪”错】【推荐】【字体：大中小】【打印】【关闭】
 chinaren
@@ -45879,9 +43846,7 @@ rights
 reserved.
 搜狐公司
 版权所有
-<filter
-width=590
-height=80>
+<filter width=590 height=80>
 </filter>
 ■
 相关连接
@@ -45944,9 +43909,7 @@ IT
 -
 BBS
 -->
-<filter
-width=590
-height=80>
+<filter width=590 height=80>
 </filter>
 搜狐首页
 音乐频道首页
@@ -46303,9 +44266,7 @@ IT
 -
 BBS
 -->
-<filter
-width=590
-height=80>
+<filter width=590 height=80>
 </filter>
 搜狐首页
 音乐频道首页

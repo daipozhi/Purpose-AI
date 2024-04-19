@@ -13,14 +13,14 @@
 #define SMG_SIZE      300
 
 //------------------------------
-#define ARTI_LINE1    2000000
+#define ARTI_LINE1    10000000
 #define ARTI_LINE2    200000
 
 	 char wd5_buf[ARTI_LINE1][55];
           int wd5_rt[ARTI_LINE1];
 	  int wd5_ptr;
 
-int  wd5_search(char *);
+int  wd5_search(char *,int);
 int  wd5_load(void);
 
 int           wd5_find_rt;
@@ -168,7 +168,6 @@ int wd5_load(void)
 				}
 				k=k+2;
   				if (k>=SMG_SIZE-3) k=SMG_SIZE-3;
-
 				i=i+2;
 			}
 			else
@@ -183,25 +182,29 @@ int wd5_load(void)
 					{
 						ptr=1;
 						k=0;
+						i++;
 					}
 					else
 					{
-						if (ptr==0)  //words
+						if (ptr==0)  //words  //there is 1 bug fixed
 						{
 							m401_l2[k+0]=c1;
-							m401_l2[k+1]=0;
+							m401_l2[k+1]=c2;
+							m401_l2[k+2]=0;
+							k=k+2;
+	  						if (k>=SMG_SIZE-3) k=SMG_SIZE-3;
+							i=i+2;
 						}
 						else   // repeat times
 						{
 							m401_l3[k+0]=c1;
 							m401_l3[k+1]=0;
+							k=k+1;
+	  						if (k>=SMG_SIZE-3) k=SMG_SIZE-3;
+							i=i+1;
 						}
-						k++;
-  						if (k>=SMG_SIZE-3) k=SMG_SIZE-3;
 					}
 				}
-
-				i++;
 			}
 		}
 
@@ -216,7 +219,7 @@ int wd5_load(void)
 
 		strcpy(wd5_buf[wd5_ptr],m401_l2);
 
-		wd5_rt[wd5_ptr]=str2llint(m401_l3);
+		wd5_rt[wd5_ptr]=str2int(m401_l3,SMG_SIZE);
 
 		// test----
 		/*
@@ -237,6 +240,11 @@ int wd5_load(void)
 		*/
 		// end of test ----
 
+		// test 2 ---
+		/*
+		printf("ptr=%d,word=%s,rpt=%d,\n",wd5_ptr,wd5_buf[wd5_ptr],wd5_rt[wd5_ptr]);
+		*/
+		
 		wd5_ptr++;
 
 	}
@@ -248,11 +256,13 @@ int wd5_load(void)
 	return(0);
 }
 
-int wd5_search(char *s_str)
+int wd5_search(char *p_str,int p_str_size)
 {
 	int p1,p2;
 	int i,j;
 	int find;
+
+	if (deb_str_has_null(p_str,p_str_size)!=1) return(0);
 
 	find=0;
 	wd5_find_rt=0;
@@ -268,7 +278,12 @@ int wd5_search(char *s_str)
 		if ( (i<0)||(i>=wd5_ptr)||(i>=ARTI_LINE1) ) return(0);
 		if (i<=p1)
 		{
-			j=strcmp(wd5_buf[i],s_str);
+			//if (strcmp(p_str," %")==0) printf("i<=p1  total=%d,p1=%d,p2=%d,indx=%d,wd5_buf=%s,%s,\n",wd5_ptr,p1,p2,i,p_str,wd5_buf[i]);
+			
+			j=strcmp(wd5_buf[i],p_str);
+
+			//if (strcmp(p_str," %")==0) printf("i<=p1  found=%d,\n",j);
+			
 			if (j==0)
 			{
 				find=1;
@@ -286,7 +301,12 @@ int wd5_search(char *s_str)
 		{
 			if (i>=p2)
 			{
-				j=strcmp(wd5_buf[i],s_str);
+				//if (strcmp(p_str," %")==0) printf("i>=p2  total=%d,p1=%d,p2=%d,indx=%d,wd5_buf=%s,%s,\n",wd5_ptr,p1,p2,i,p_str,wd5_buf[i]);
+			
+				j=strcmp(wd5_buf[i],p_str);
+
+				//if (strcmp(p_str," %")==0) printf("i>=p2  found=%d,\n",j);
+			
 				if (j==0)
 				{
 					find=1;
@@ -302,7 +322,12 @@ int wd5_search(char *s_str)
 			}
 			else
 			{
-				j=strcmp(wd5_buf[i],s_str);
+				//if (strcmp(p_str," %")==0) printf("p1<i<p2  total=%d,p1=%d,p2=%d,indx=%d,wd5_buf=%s,%s,\n",wd5_ptr,p1,p2,i,p_str,wd5_buf[i]);
+			
+				j=strcmp(wd5_buf[i],p_str);
+
+				//if (strcmp(p_str," %")==0) printf("p1<i<p2  found=%d,\n",j);
+			
 				if (j==0)
 				{
 					find=1;
@@ -477,7 +502,10 @@ int load11(void)
 				if (strcmp(m601_l2[j],"$n")==0) m601_ns[j]=(-3); // number
 				else
 				{
-					m=wd5_search(m601_l2[j]);
+					m=wd5_search(m601_l2[j],SMG_SIZE);
+					
+					if (m!=1) printf("found=%d,str=%s,\n",m,m601_l2[j]);
+					
 					if (m==1) m601_ns[j]=wd5_find_ptr;    
 					else
 					{

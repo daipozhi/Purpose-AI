@@ -53,14 +53,14 @@ extern char mc5;
 extern char mc6;
 
 //------------------------------
-#define ARTI_LINE1    2000000
+#define ARTI_LINE1    10000000
 #define ARTI_LINE2    100000
 
 extern 	 char wd5_buf[ARTI_LINE1][55];
 extern           int wd5_rt[ARTI_LINE1];
 extern 	  int wd5_ptr;
 
-extern int  wd5_search(char *);
+extern int  wd5_search(char *,int);
 extern int  wd5_load(void);
 
 extern           int wd5_find_rt;
@@ -611,7 +611,7 @@ int grm16_load(void)
 					if (strcmp(m602_l2[j],"$*")==0) m602_ns[j]=(-2); // number
 					else
 					{
-						m=wd5_search(m602_l2[j]);
+						m=wd5_search(m602_l2[j],SMG_SIZE);
 						if (m==1) m602_ns[j]=wd5_find_ptr;    
 						else
 						{

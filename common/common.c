@@ -603,6 +603,102 @@ int cww1_number_is(char *ps)
   return(1);
 }
 
+int cww1_number_is2(char *ps)
+{
+    int  i,j,k,l,m,n,o,p;
+    int  debug=0;
+    int  debug2=0;
+    char str1[300];
+    
+    if (debug==1) printf("inp=%s,",ps);
+    
+    i=strlen(ps);
+    
+    // step1
+    if (i>=2)
+    {
+        if ((ps[1]==',')||(ps[1]=='.'))
+        {
+          if (debug==1) printf("0\n");
+          return(0);
+        }
+        if ((ps[i-1]==',')||(ps[i-1]=='.'))
+        {
+          if (debug==1) printf("0\n");
+          return(0);
+        }
+    }
+    else
+    {
+      if (debug==1) printf("0\n");
+      return(0);
+    }
+    
+    //step2  //copy number string,don't copy ','
+    str1[0]=0;
+    k=0;
+    
+    for (j=0;j<i;j=j+2)
+    {
+        if (ps[j+1]==',') continue;
+        else
+        {
+            str1[k+0]=ps[j+0];
+            str1[k+1]=ps[j+1];
+            str1[k+2]=0;
+            k=k+2;
+        }
+    }
+    
+    //step3
+    l=cww1_number_is(str1);
+    if (l!=1)
+    {
+      if (debug==1) printf("0\n");
+      return(0);
+    }
+    
+    //step4
+    m=0;
+    n=(-1);
+    
+    for (j=i-2;j>=0;j=j-2)  // last number position
+    {
+      if ((ps[j+1]>='0')||(ps[j+1]<='9')) break;
+    }
+    
+    m=j;
+    
+    for (j=i-2;j>=0;j=j-2) // '.' position
+    {
+      if (ps[j+1]=='.') break;
+    }
+    
+    n=j;
+    if (n<0) n=m+2;  // there isn't '.' ,get last number's position+1
+    
+    for (o=n-2;o>=0;o=o-2) // ',' postion, p-o=n1*4 // n,nnn,nnn.nn
+    {
+      if (ps[o+1]==',')
+      {
+        if (debug2==1) printf("inp=%s,",ps);
+        
+        p=n-o;
+        if ((p/8)*8==p) continue;
+        else
+        {
+          if (debug==1) printf("0\n");
+          if (debug2==1) printf("0\n");
+          return(0);
+        }
+      }
+    }
+    
+    if (debug==1) printf("1\n");
+    if (debug2==1) printf("1\n");
+    return(1);
+}
+
 long long int str2llint(char *pstr)
 {
    char c1;
@@ -1525,5 +1621,12 @@ int deb_filename_dir(char *path)
 
   if (S_ISDIR(deb_m_info.st_mode)) return(1);
   else return(0);
+}
+
+int deb_str_has_null(const char *str,int str_size)
+{
+	int i;
+	for (i=0;i<str_size;i++) if (str[i]==0) return(1);
+	return(0);
 }
 
