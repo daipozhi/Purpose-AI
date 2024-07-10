@@ -73,6 +73,9 @@ char kuo2[100][30];
 int  kuo_ptr1;
 int  kuo_ptr2;
 
+extern int fu_load(void);
+extern int fu_conv(void);
+
 //int pascal WinMain(HINSTANCE ins
 //		  ,HINSTANCE pins
 //		  ,LPSTR cl
@@ -83,6 +86,10 @@ int main(void)
   int   exist;
   char  s1[FLN_LEN];
   int   n1;
+
+  fu_load();
+  
+  //getchar();
 
   f1_load_kuo();
   
@@ -183,7 +190,7 @@ int f1_init_ext(void)
 	mc5='0';
 	mc6='0';
 
-	strcpy(s1,"string1base      .txt");
+	strcpy(s1,"string0base      .txt");
 
 	s1[11]=mc6;
 	s1[12]=mc5;
@@ -215,8 +222,8 @@ int f1_next_ext(void)
 			mc2='0';
 			mc3++;
 			if (mc3>'9')
-            {
-    mc3='0';
+                        {
+        mc3='0';
 	mc4++;
 	if (mc4>'9')
 	{
@@ -227,13 +234,13 @@ int f1_next_ext(void)
 			mc5='0';
 			mc6++;
 			if (mc6>'9') return(1);
+                }
         }
-    }
-            }
+                        }
 		}
 	}
 
-	strcpy(s1,"string1base      .txt");
+	strcpy(s1,"string0base      .txt");
 
 	s1[11]=mc6;
 	s1[12]=mc5;
@@ -253,7 +260,7 @@ int f1_next_ext(void)
 
 int f1_get_fln(char *s1)
 {
-	strcpy(s1,"string1base      .txt");
+	strcpy(s1,"string0base      .txt");
 
 	s1[11]=mc6;
 	s1[12]=mc5;
@@ -268,13 +275,15 @@ int f1_get_fln(char *s1)
 
 int f1_get_fln2(char *s1)
 {
-/*
-	strcpy(s1,"stringbase-fname   .txt");
+	strcpy(s1,"string1base      .txt");
 
-	s1[16]=mc3;
-	s1[17]=mc2;
-	s1[18]=mc1;
-*/
+	s1[11]=mc6;
+	s1[12]=mc5;
+	s1[13]=mc4;
+	s1[14]=mc3;
+	s1[15]=mc2;
+	s1[16]=mc1;
+
 	return(0);
 }
 
@@ -285,11 +294,6 @@ int f1_file(char *fn1,char *fn2)
   int  fh;
   char s1[300];
   char s2[300];
-
-
-  //mydebug=0;
-  //if (strcmp(fn2,"../My-Program-Work-3/www.163.com/19/0711/14/EJQEHKGJ009097SQ-1.html")==0) mydebug=101;
-
 
   fh=open(fn1,O_RDWR,S_IREAD|S_IWRITE);
   if (fh<0) return(1);
@@ -302,10 +306,6 @@ int f1_file(char *fn1,char *fn2)
 
   fp1=fopen(s1,"a");
   if (fp1==NULL) return(1);
-
-  //for debug
-  //fputs(fn2 ,fp1);
-  //fputs("\n",fp1);
 
   f1_sav(fp1);
   
@@ -323,8 +323,10 @@ int f1_file(char *fn1,char *fn2)
 
   fclose(fp2);
 
-  if (f2_pointer>900000)
+  if (f2_pointer>930000)
   {
+  	  fu_conv();
+  	  
 	  f2_pointer=0;
 	  f1_next_ext();
   }
@@ -391,6 +393,7 @@ int f1_sav(FILE *fp1)
 			continue;
 		}
 
+		/*
 		if (strncmp(s1,"&nbsp;",6)==0)
 		{
 			m_buff2[i+0]=0;
@@ -433,7 +436,8 @@ int f1_sav(FILE *fp1)
 			i=i+4;
 			continue;
 		}
-
+		*/
+		
 		if ( strncmp(s1,"<pre",4)==0) j=5;
 		if ( strncmp(s1,"</pre",5)==0) j=5;
 
@@ -717,10 +721,6 @@ int f1_skipword(int ptr,char *kword)
 	j=0;
 	k=(int)strlen(kword);
 
-        //if (mydebug==101)
-        //    printf("skip keyword start,i=%d,%s,\n",i,kword);
-
-
 	while (p<f1_endptr)
 	{
 		p++;
@@ -746,9 +746,6 @@ int f1_skipword(int ptr,char *kword)
 	}
 
 	for (n=i;n<p+k;n++) m_buff2[n]=0;
-
-        //if (mydebug==101)
-        //    printf("skip keyword end,i=%d,p+k=%d,keyword=%s,\n",i,p+k,kword);
 
 	return(p+k);
 }
@@ -910,7 +907,6 @@ int f1_is_pre(char *buf,int ptr,char *word,FILE *fp1,FILE *fp2)
 int f1_skipcmd(int ptr)
 {
 	int  i,j,k;
-//	char s1[20];
 
 	i=ptr;
 	j=0;
@@ -924,14 +920,15 @@ int f1_skipcmd(int ptr)
 			j=1;
 			break;
 		}
-
+		
+		/*
 		//&gt;
 		if ((m_buff2[ptr]=='&')&&(m_buff2[ptr+1]=='g')&&(m_buff2[ptr+2]=='t')&&(m_buff2[ptr+3]==';'))
 		{
 			j=4;
 			break;
 		}
-
+		*/
 	}
 
 	for (k=i;k<ptr+j;k++) m_buff2[k]=0;

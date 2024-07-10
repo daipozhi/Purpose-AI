@@ -9,7 +9,7 @@ How does computer process text,video,audio
  Purpose AI is distributed in the hope that it will be useful,
   but WITHOUT ANY WARRANTY; )
 
-(Apr 19th 2024 update)
+(July 9th 2024 update)
 
 这个工程是小戴人工智能，是开源项目
 
@@ -17,7 +17,7 @@ How does computer process text,video,audio
 
 (本开源软件的授权是LGPL,没有担保)
 
-(2024-04-19 更新)
+(2024-07-09 更新)
 
 
     A, text , words
@@ -29,7 +29,7 @@ How does computer process text,video,audio
         get every sentence ,get every single chinese , and the after
          2 chinese and the after 3 chinese ...
         in this version , max number is 25 , store to memory ,
-        if it is repeated(appear 2 times) , the count plus 1 .
+        if it is repeated(appear 1 times) , the count plus 1 .
 
         chinese word with 1 chinese ,its value is 5 .
         chinese word with 2 chinese  its value should more than chinese
@@ -118,14 +118,15 @@ How does computer process text,video,audio
                   run './app-charset-recgn-fin.exe' to convert result to text file,save in file 'app-charset-recgn.2.txt'
                   
                   its algorithm is: at first, get text from htm file,treat this htm file as its charset is utf-8, convert to gb18030,
-                      separate a sentence by words database,
+                      (because word courseware's charset is gb18030),separate a sentence by words database,
                       every word has its value ,sum these value to variant 1,base on it,separate this sentence by grammar courseware,every
                       grammar has its value ,sum these value, and add with variant 1, store this value in variant 1,
                       at last, get text from htm file ,treat this htm file as its charset is gb18030, separate a sentence by words database,
                       every word has its value ,sum these value to variant 2,base on it,separate this sentence by grammar courseware,every
                       grammar has its value ,sum these value, and add with variant 2, store this value in variant 2,
                       every file only calculate first 30 sentences, sum these sentences value,
-                      if variant 1 is bigger than variant 2, its charset is utf-8,else its charset is gb18030.
+                      if variant 1 is bigger than variant 2( its value is bigger when treat as utf-8), its charset is utf-8,
+                      else its charset is gb18030( its value is bigger whrn treat as GB18030).
                       
                   in text file readme.txt (in webfind66/app) ,it say: 
                       below files are copied from work_dir
@@ -141,8 +142,8 @@ How does computer process text,video,audio
                        character .
 
                   run a-step10-f3-msys.bat (copied from work_dir)(list 'mydir/download' directory again)
-                      (in Ubuntu run a-step10-f3-ubuntu.bat)
-                  run program in 'webfind1d'(copied from work_dir,include "cb_kuo_1.txt" and "cb_kuo_2.txt")('./a-step20')
+                      (in Ubuntu run ./a-step10-f3-ubuntu.bat)
+                  run program in 'webfind1d'(copied from work_dir,include "cb_kuo_1.txt" and "cb_kuo_2.txt" and "fu.txt")('./a-step20')
                       (get text , erase html mark),
                       then copy string1base000???.txt to work_dir,
                       (text's charset is recognize by AI and program read html's <meta charset="xx"> infomation,
@@ -180,8 +181,8 @@ How does computer process text,video,audio
                   run program in  'webfind54'('./a-step100.exe')(get all words ,generate 3rd word database )
 
                   (in here , chinese is coded in GB18030 ,in Windows, you can directly open it , if you are in 
-                   Ubuntu, you need convert chinese to utf8 , you can run program in directory 'tools-3',
-                   ./gb18030-to-utf8.exe myfile.txt ,it will convert chinese to utf8 and copy to myfile.utf8.txt ,
+                   Ubuntu, you need convert chinese to utf-8 , you can run program in directory 'tools-3',
+                   ./gb18030-to-utf8.exe myfile.txt ,it will convert chinese to utf-8 and copy to myfile.utf8.txt ,
                    if you modified a text file in Ubuntu , and want to commit to the program , you can run
                    program in directory 'tools-4' , ./utf8-to-gb18030.exe myfile.utf8.txt , it will convert 
                    chinese to GB18030 and copy to myfile.txt .) 
@@ -269,14 +270,14 @@ How does computer process text,video,audio
                   运行 './app-charset-recgn.bat' 进行识别,
                   运行 './app-charset-recgn-fin.exe' 把结果转化为文本文件,在文件 'app-charset-recgn.2.txt'中,
                   
-                  它的算法是:首先，把htm文件的文本提取出来，当作utf-8字符集 , 转换为gb18030,用词库分解句子,
-                      每个词有它的分数，把这些分数加起来存入变量1,在分词的基础上,用语法课件分解句子，
+                  它的算法是:首先，把htm文件的文本提取出来，当作utf-8字符集 , 转换为GB18030(因为词库是用GB18030编码的),
+                      用词库分解句子,每个词有它的分数，把这些分数加起来存入变量1,在分词的基础上,用语法课件分解句子，
                       每个语法有它的分数，把这些分数加起来，再加上变量1的数值,把他保存在变量1中，
                       最后，把htm文件文本提取出来，当作gb18030字符集 , 用词库分解句子,
                       每个词有它的分数，把这些分数加起来存入变量2,在分词的基础上,用语法课件分解句子，
                       每个语法有它的分数，把这些分数加起来，再加上变量2的数值,把他保存在变量2中，
                       每个文件只计算前面的30句,把30句的分数累计起来,
-                      如果变量1比变量2大，它的字符集是utf-8,否则它的字符集是gb18030。
+                      如果变量1比变量2大(当作utf-8的分数高)，它的字符集是utf-8,否则它的字符集是gb18030(当作GB18030的分数高)。
 
                   在目录webfind66(识别字符集的app)的目录的readme.txt文件中，说： 
                                                           以下文件是从'work_dir'拷贝过来的:
@@ -291,8 +292,8 @@ How does computer process text,video,audio
                        让计算机只比较汉字，而不是比较数字英文。
 
                   运行 a-step10-f3-msys.bat (从 work_dir拷贝过来)(列出 'mydir/download' 目录下所有文件)
-                      (在 Ubuntu 运行 a-step10-f3-ubuntu.bat)
-                  运行程序 'webfind1d'(从 work_dir拷贝过来,包括 "cb_kuo_1.txt" and "cb_kuo_2.txt")('./a-step20')
+                      (在 Ubuntu 运行 './a-step10-f3-ubuntu.bat')
+                  运行程序 'webfind1d'(从 work_dir拷贝过来,包括 "cb_kuo_1.txt" and "cb_kuo_2.txt" and "fu.txt")('./a-step20.exe')
                       (获得文本, 擦除 html 标记),
                       然后拷贝 string1base000???.txt 到 work_dir,
                       (程序用AI算法计算文本的字符集,同时程序读取html文件的标记信息 <meta charset="xx"> ,
@@ -309,14 +310,14 @@ How does computer process text,video,audio
                   (step50)(已经删除)
                   (step60)(已经删除)
                   
-                  run program in  'webfind52'(./a-step60-2.exe')(sort words courseware)
+                  运行 webfind52 目录下的程序  ('./a-step60-2.exe')(词课件排序)
                   
                   (step70)(已经删除)
                   (step80)(已经删除)
 
                   运行 './a-step90-ini.exe 2100 16'
                               ('2100' 是要计算的文件数量, '16' 是使用多少个CPU线程)
-                  运行 webfind53h 目录下的程序 ('./a-step90.exe')(根据词课件和 if a string is repeated 分词)
+                  运行 webfind53h 目录下的程序 ('./a-step90.exe')(根据词课件和是否重复分词)
 				(词课件在words-cw01.txt 和 words-cw02.sort.txt 这两个文件中,
                                  如何制作词课件请看webfind50目录下的readme.txt文件,文本文件
                                  words-cw02.sort.utf8.txt是为了让用户在Ubuntu下浏览词课件,程序
@@ -327,8 +328,8 @@ How does computer process text,video,audio
                   运行 webfind54  目录下的程序 ('./a-step100.exe')(把所有的词汇总，形成第三个词库)
 
                   (在这里的程序里,汉字是用GB18030编码的,在Windows里可以直接浏览,如果你用的
-                   是Ubuntu,要浏览编辑某个文本文件时,需要把它转变为utf8编码,可以使用tools-3
-                   目录里的程序:  ./gb18030-to-utf8.exe myfile.txt ,将转为utf8编码,
+                   是Ubuntu,要浏览编辑某个文本文件时,需要把它转变为utf-8编码,可以使用tools-3
+                   目录里的程序:  ./gb18030-to-utf8.exe myfile.txt ,将转为utf-8编码,
                    并拷贝到 myfile.utf8.txt ,如果你在Ubuntu里修改了某个文本文件,要提交到
                    程序时,可以使用tools-4目录里的程序:  ./utf8-to-gb18030.exe myfile.utf8.txt ,
                    将转为GB18030编码,并拷贝到 myfile.txt  .)
@@ -438,10 +439,10 @@ How does computer process text,video,audio
                              separating app .)
                         (Feb 19th 2023 version add more word/grammar courseware, today's PC is faster, 
                              usually has 12 thread or 16 thread , so I increase parameter ,to get better result , 
-                             but need more cpu time , can add utf8 charset file to sentence database,in before only
+                             but need more cpu time , can add utf-8 charset file to sentence database,in before only
                              can add gb18030 charset file to sentence database ,add file under work_dir/download/My-Program-Work-1 
                              if default charset is gb18030 ,add file under work_dir/download/My-Program-Work-3 
-                             if default charset is utf8 ,sentence files number increase to 400 , passed test on Ubuntu 22.04.1
+                             if default charset is utf-8 ,sentence files number increase to 400 , passed test on Ubuntu 22.04.1
                              and Ubuntu 20.04.5 )
                         (Jun 26th 2023 version add new formula to super pipeline ,its much faster,after increased parameter,
                              its still faster than before ,separate sentence to many part when calculate, so its smaller and faster ,
@@ -452,8 +453,10 @@ How does computer process text,video,audio
                              database is verified by AI.)
                         (Apr 19th 2024 version add more word/grammar courseware,better chiness people's name proccess,
                              better proccess of '(' '[' '{' ')' ']' '}', sentence database files increase to 2100,
-                             remove step50 ,its a beta version )
-
+                             remove step50 and add it into step90 ,its a beta version )
+                        (July 9th 2024 version fixed 4 bugs,better algorithm,better number string recognize,
+                             better special character proccess )
+                             
 
 
     B,文字，语法
@@ -523,6 +526,10 @@ How does computer process text,video,audio
                 目录 'webfind66'是一个自动识别文本字符集的app,识别文本用的是GB18030还是utf-8,
                         对网站编辑可能有用,请阅读这个目录的 readme.txt 文件 .
 
+                主目录的以下文件是分词字符集识别的程序的详细解释:
+                        webfind65-readme.txt
+                        webfind66-readme.txt
+                        
                         (2014-3-21 版本 增加了对语法重复次数的支持,词重复次数的支持,改进了算法 )
                         (2018-2- 1 版本 增加了语法课件 )
                         (2019-1- 1 版本 增加了一个语法部分的新步骤,分解文本,靠语法库(在step210
@@ -539,9 +546,9 @@ How does computer process text,video,audio
                         (2022-01-12 版本 用二分法检索替换了排序二叉树 , 更小更快 ,
                                     放大了参数以便适应各种网页 , 增加了语句分解app .)
                         (2023-02-19 制做了更多的词课件语法课件,现在的PC普遍较快,12线程或16线程,
-                                    我放大了参数以便有更好的结果,但是需要更多CPU时间,可以把utf8字符集的网页
+                                    我放大了参数以便有更好的结果,但是需要更多CPU时间,可以把utf-8字符集的网页
                                     加入到语料库中,以前只能加入GB18030字符集的网页,如果缺省字符集是GB18030
-                                    把网页放到 work_dir/download/My-Program-Work-1 下面,如果缺省字符集是utf8
+                                    把网页放到 work_dir/download/My-Program-Work-1 下面,如果缺省字符集是utf-8
                                     把网页放到 work_dir/download/My-Program-Work-3 下面,语料库的文件个数增加
                                     到了400,在 Ubuntu 22.04.1 Ubuntu 20.04.5 测试通过 .)
                         (2023-06-26 超级管道使用新的数学公式,快了很多,把参数放得很大仍然比以前快,
@@ -553,6 +560,8 @@ How does computer process text,video,audio
                         (2024-04-19 制做了更多的词课件语法课件,可以更好的处理中国人的姓名或称呼,
                                     更好的括号的处理,语料库的文件个数增加到2100个,删除了step50,
                                     把它合并到step90中,这是一个beta版本)
+                        (2024-07-09 改掉了4个错误，有更好的算法，更好的数字字符串识别，
+                                    更好的特殊字符处理 )
 
 
     C,video

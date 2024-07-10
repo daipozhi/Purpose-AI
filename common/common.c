@@ -1,5 +1,15 @@
 
 
+
+//#include "common.h"
+
+
+
+//#include <string.h>
+//#include <stdio.h>
+
+
+
 #include <unistd.h>
 #include <fcntl.h>
 #include <sys/types.h>
@@ -170,11 +180,51 @@ int string_trim_nos(char *pstr) // no space
   return(0);
 }
 
+int string_ltrim(char *p_str,int p_str_size)
+{
+  int  i,j,k,l;
+  //char str1[SMG_SIZE];
+
+  i=deb_str_has_null(p_str,p_str_size);
+  if (i!=1) return(0);
+
+  i=strlen(p_str);
+  k=0;
+
+  for (j=0;j<i;j++)
+  {
+    if ((p_str[j]<0)||(p_str[j]>' ')) break;
+    else
+    {
+      p_str[j]=0;
+      k=1;
+    }
+  }
+
+  if (k==0) return(0);
+
+  p_str[0]=0;
+  l=0;
+
+  for (j=0;j<i;j++)
+  {
+    if (p_str[j]==0) continue;
+    else
+    {
+      p_str[l]=p_str[j];
+      l++;
+    }
+  }
+  
+  p_str[l]=0;
+
+  return(0);
+}
 
 
 
 // courseware of words 1
-
+/*
 char cww1_name[5][55];
 char cww1_incl[5][100][2];
 int  cww1_incl_ptr[5];
@@ -697,6 +747,816 @@ int cww1_number_is2(char *ps)
     if (debug==1) printf("1\n");
     if (debug2==1) printf("1\n");
     return(1);
+}
+*/
+
+static char cmmn03_str1[500][3];
+static char cmmn03_str1_ptr;
+
+int cww1_load21(void)
+{
+  FILE *fp1;
+  int   i;
+  char  str1[300];
+
+  fp1=fopen("words-cw01-21.txt","r");
+  if (fp1==NULL)
+  {
+
+    MessageBox(0,"open file error:words-cw01-21.txt","message",MB_OK);
+    return(1);
+  }
+
+  cmmn03_str1_ptr=0;
+
+  while (!feof(fp1))
+  {
+    str1[0]=0;
+
+    fgets(str1,300,fp1);
+
+    string_trim_nos(str1);
+    
+    if ((str1[0]>=0)&&(str1[0]<' ')) continue; // empty line
+    
+    if (strncmp(str1,"backup",6)==0) continue; // backup line
+    
+    i=(int)strlen(str1);
+    
+    if ((i<0)||(i>2)) continue;
+    
+    strcpy(cmmn03_str1[cmmn03_str1_ptr],str1);
+
+    cmmn03_str1_ptr++;
+  }
+  
+  fclose(fp1);
+
+  printf("cww1_load21() ok,ptr=%d,\n",cmmn03_str1_ptr);
+
+  return(0);
+}
+
+static char cmmn03_str2[100][3];
+static char cmmn03_str2_ptr;
+
+int cww1_load22(void)
+{
+  FILE *fp1;
+  int   i;
+  char  str1[300];
+
+  fp1=fopen("words-cw01-22.txt","r");
+  if (fp1==NULL)
+  {
+
+    MessageBox(0,"open file error:words-cw01-22.txt","message",MB_OK);
+    return(1);
+  }
+
+  cmmn03_str2_ptr=0;
+
+  while (!feof(fp1))
+  {
+    str1[0]=0;
+
+    fgets(str1,300,fp1);
+
+    string_trim_nos(str1);
+    
+    if ((str1[0]>=0)&&(str1[0]<' ')) continue; // empty line
+    
+    if (strncmp(str1,"backup",6)==0) continue; // backup line
+    
+    i=(int)strlen(str1);
+    
+    if ((i<0)||(i>2)) continue;
+    
+    strcpy(cmmn03_str2[cmmn03_str2_ptr],str1);
+
+    cmmn03_str2_ptr++;
+  }
+  
+  fclose(fp1);
+
+  printf("cww1_load22() ok,ptr=%d,\n",cmmn03_str2_ptr);
+
+  return(0);
+}
+
+static char cmmn03_str3[100][5];
+static char cmmn03_str3_ptr;
+
+int cww1_load23(void)
+{
+  FILE *fp1;
+  int   i;
+  char  str1[300];
+
+  fp1=fopen("words-cw01-23.txt","r");
+  if (fp1==NULL)
+  {
+
+    MessageBox(0,"open file error:words-cw01-23.txt","message",MB_OK);
+    return(1);
+  }
+
+  cmmn03_str3_ptr=0;
+
+  while (!feof(fp1))
+  {
+    str1[0]=0;
+
+    fgets(str1,300,fp1);
+
+    string_trim_nos(str1);
+    
+    if ((str1[0]>=0)&&(str1[0]<' ')) continue; // empty line
+    
+    if (strncmp(str1,"backup",6)==0) continue; // backup line
+    
+    i=(int)strlen(str1);
+    
+    if ((i<0)||(i>4)) continue;
+    
+    strcpy(cmmn03_str3[cmmn03_str3_ptr],str1);
+
+    cmmn03_str3_ptr++;
+  }
+  
+  fclose(fp1);
+
+  printf("cww1_load23() ok,ptr=%d,\n",cmmn03_str3_ptr);
+
+  return(0);
+}
+
+int cww1_number_is21(char *pstr) // yi bai er shi san
+{
+  char str1[300];
+  int  i,j,k,l;
+  
+  i=strlen(pstr);
+  j=0;
+  
+  while(j<i)
+  {
+    if (pstr[j]>=0)
+    {
+      str1[0]=pstr[j];
+      str1[1]=0;
+      
+      j++;
+    }
+    else
+    {
+      str1[0]=pstr[j+0];
+      str1[1]=pstr[j+1];
+      str1[2]=0;
+      
+      j=j+2;
+    }
+    
+    l=0;
+      
+    for (k=0;k<cmmn03_str1_ptr;k++)
+    {
+      if (strcmp(str1,cmmn03_str1[k])==0)
+      {
+        l=1;
+        break;
+      }
+    }
+      
+    if (l==0) return(0);
+  }
+  
+  return(1);
+}
+
+int cww1_number_is22(char *pstr) //ji shi
+{
+  int  i,j,k,l,m;
+  char str1[300];
+  char str2[300];
+  
+  i=strlen(pstr);
+  
+  if (pstr[0]>=0) return(0);
+  else
+  {
+    if ((i>=2)&&(i<=50))
+    {
+      str1[0]=pstr[0];
+      str1[1]=pstr[1];
+      str1[2]=0;
+      
+      l=0;
+      
+      for (k=0;k<cmmn03_str2_ptr;k++)
+      {
+        if (strcmp(str1,cmmn03_str2[k])==0)
+        {
+          l=1;
+          break;
+        }
+      }
+      
+      if (l==0) return(0);
+      
+      str2[0]=0;
+      
+      for (j=2;j<i;j++)
+      {
+        str2[j-2+0]=pstr[j];
+        str2[j-2+1]=0;
+      }
+      
+      m=cww1_number_is21(str2);
+      
+      return(m);
+    }
+    else return(0);
+  }
+}
+
+int cww1_number_is23a(char *pstr) // duo ,duo wan 
+{
+  int  i,j,k,l,m,n;
+  char str1[300];
+  char str2[300];
+  
+  i=strlen(pstr);
+  
+  if ((i>=2)&&(i<=50))  //duo
+  {
+    j=0;
+    
+    while (j<i)
+    {
+      if (pstr[j]>=0) j++;
+      else j=j+2;
+      
+      if (i-j<=2) break;
+    }
+    
+    if (i-j<2) return(0);  
+      
+    str1[0]=pstr[j+0];
+    str1[1]=pstr[j+1];
+    str1[2]=0;
+      
+    l=0;
+      
+    for (k=0;k<cmmn03_str3_ptr;k++)
+    {
+      if (strcmp(str1,cmmn03_str3[k])==0)
+      {
+        l=1;
+        break;
+      }
+    }
+      
+    if (l==0) return(0);
+      
+    str2[0]=0;
+      
+    for (n=0;n<j;n++)
+    {
+      str2[n+0]=pstr[n];
+      str2[n+1]=0;
+    }
+      
+    m=cww1_number_is21(str2);
+      
+    return(m);
+  }
+   
+  return(0); 
+}
+
+int cww1_number_is23b(char *pstr) // duo ,duo wan 
+{
+  int  i,j,k,l,m,n;
+  char str1[300];
+  char str2[300];
+  
+  i=strlen(pstr);
+    
+  if ((i>=4)&&(i<=50))
+  {
+    j=0;
+    
+    while (j<i)
+    {
+      if (pstr[j]>=0) j++;
+      else j=j+2;
+      
+      if (i-j<=4) break;
+    }
+    
+    if (i-j<4) return(0);  
+      
+    str1[0]=pstr[j+0];
+    str1[1]=pstr[j+1];
+    str1[2]=pstr[j+2];
+    str1[3]=pstr[j+3];
+    str1[4]=0;
+      
+    l=0;
+      
+    for (k=0;k<cmmn03_str3_ptr;k++)
+    {
+      if (strcmp(str1,cmmn03_str3[k])==0)
+      {
+        l=1;
+        break;
+      }
+    }
+      
+    if (l==0) return(0);
+      
+    str2[0]=0;
+      
+    for (n=0;n<j;n++)
+    {
+      str2[n+0]=pstr[n];
+      str2[n+1]=0;
+    }
+      
+    m=cww1_number_is21(str2);
+      
+    return(m);
+  }
+ 
+  return(0); 
+}
+
+static char cmmn03_str4[500][3];
+static char cmmn03_str4_ptr;
+
+int cww1_load31(void)
+{
+  FILE *fp1;
+  int   i;
+  char  str1[300];
+
+  fp1=fopen("words-cw01-31.txt","r");
+  if (fp1==NULL)
+  {
+
+    MessageBox(0,"open file error:words-cw01-31.txt","message",MB_OK);
+    return(1);
+  }
+
+  cmmn03_str4_ptr=0;
+
+  while (!feof(fp1))
+  {
+    str1[0]=0;
+
+    fgets(str1,300,fp1);
+
+    string_trim_nos(str1);
+    
+    if ((str1[0]>=0)&&(str1[0]<' ')) continue; // empty line
+    
+    if (strncmp(str1,"backup",6)==0) continue; // backup line
+    
+    i=(int)strlen(str1);
+    
+    if ((i<0)||(i>2)) continue;
+    
+    strcpy(cmmn03_str4[cmmn03_str4_ptr],str1);
+
+    cmmn03_str4_ptr++;
+  }
+  
+  fclose(fp1);
+
+  printf("cww1_load31() ok,ptr=%d,\n",cmmn03_str4_ptr);
+
+  return(0);
+}
+
+int cww1_number_is31(char *pstr) // +-123,456.78 
+{
+  int  i,j,k,l;
+  char str1[300];
+  char str2[300];
+  char str3[300];
+  
+  int  p_cntr,p_pos;
+  int  m_cntr,m_pos;
+  int  c_cntr,c_pos;
+  int  d_cntr,d_pos;
+  int  num_start;
+  char c1;
+  
+  i=(int)strlen(pstr); // convert yi er san to 1 2 3
+  
+  if ((i<1)||(i>50)) return(0);
+  
+  j=0;
+  str3[0]=0;
+  
+  while (j<i)
+  {
+    if (pstr[j]>=0)
+    {
+      str1[0]=pstr[j+0];
+      str1[1]=0;
+      
+      j++;
+      
+      strcpy(str2,str1);
+    }
+    else
+    {
+      str1[0]=pstr[j+0];
+      str1[1]=pstr[j+1];
+      str1[2]=0;
+      
+      j=j+2;
+
+      l=(-1);
+      
+      for (k=0;k<cmmn03_str4_ptr;k++)
+      {
+        if (strcmp(str1,cmmn03_str4[k])==0)
+        {
+          l=k;
+          break;
+        }
+      }
+      
+      if (l<0) return(0);
+      
+      str2[0]=0;
+      
+      if (l==0)       str2[0]='0';
+      else if (l==1)  str2[0]='1';
+      else if (l==2)  str2[0]='2';
+      else if (l==3)  str2[0]='3';
+      else if (l==4)  str2[0]='4';
+      else if (l==5)  str2[0]='5';
+      else if (l==6)  str2[0]='6';
+      else if (l==7)  str2[0]='7';
+      else if (l==8)  str2[0]='8';
+      else if (l==9)  str2[0]='9';
+      else if (l==10) str2[0]='0';
+      else if (l==11) str2[0]='1';
+      else if (l==12) str2[0]='2';
+      else if (l==13) str2[0]='3';
+      else if (l==14) str2[0]='4';
+      else if (l==15) str2[0]='5';
+      else if (l==16) str2[0]='6';
+      else if (l==17) str2[0]='7';
+      else if (l==18) str2[0]='8';
+      else if (l==19) str2[0]='9';
+      else if (l==20) str2[0]='2';
+      else if (l==21) str2[0]='+';
+      else if (l==22) str2[0]='-';
+      else if (l==23) str2[0]=',';
+      else if (l==24) str2[0]='.';
+      else            return(0);//str2[0]='*';
+      
+      str2[1]=0;
+    }
+    
+    strcat(str3,str2);
+  }
+  
+  p_cntr=0;    // scan number string
+  m_cntr=0;  
+  c_cntr=0;  
+  d_cntr=0;  
+  
+  p_pos=(-1);
+  m_pos=(-1);
+  c_pos=(-1);
+  d_pos=(-1);
+  
+  num_start=0;
+  
+  i=strlen(str3);
+  j=0;
+  
+  while(j<i)
+  {
+    c1=str3[j];
+    
+    if (c1=='+')
+    {
+      p_cntr++;
+      if (num_start==1) p_pos=2;
+      else p_pos=1;
+    }
+    else if (c1=='-')
+    {
+      m_cntr++;
+      if (num_start==1) m_pos=2;
+      else m_pos=1;
+    }
+    else if ((c1>='0')&&(c1<='9'))
+    {
+      num_start=1;
+      if (d_pos==3) d_pos=2;
+    }
+    else if (c1=='.')
+    {
+      d_cntr++;
+      d_pos=3;
+      if (c_cntr>0)
+      {
+        if (j-c_pos==4) c_pos=(-100);
+        else return(0);
+      }
+    }
+    else if (c1==',')
+    {
+      c_cntr++;
+      if (c_pos<0) c_pos=j;
+      else if (j-c_pos==4)
+      {
+        c_pos=j;
+      }
+      else return(0);
+    }
+    else return(0);
+    
+    j++;
+  }
+  
+  if (num_start!=1) return(0);
+  
+  if (p_cntr==1)
+  {
+    if (p_pos!=1) return(0);
+  }
+  else if (p_cntr>1) return(0);
+
+  if (m_cntr==1)
+  {
+    if (m_pos!=1) return(0);
+  }
+  else if (m_cntr>1) return(0);
+
+  if (d_cntr==1)
+  {
+    if (d_pos!=2) return(0);
+  }
+  else if (d_cntr>1) return(0);
+
+  if ((d_cntr==0)&&(c_cntr>0))
+  {
+    if (j-c_pos!=4) return(0);
+  }
+  
+  return(1);
+}
+
+static char cmmn03_str5[100][5];
+static char cmmn03_str5_ptr;
+
+int cww1_load43(void)
+{
+  FILE *fp1;
+  int   i;
+  char  str1[300];
+
+  fp1=fopen("words-cw01-43.txt","r");
+  if (fp1==NULL)
+  {
+
+    MessageBox(0,"open file error:words-cw01-43.txt","message",MB_OK);
+    return(1);
+  }
+
+  cmmn03_str5_ptr=0;
+
+  while (!feof(fp1))
+  {
+    str1[0]=0;
+
+    fgets(str1,300,fp1);
+
+    string_trim_nos(str1);
+    
+    if ((str1[0]>=0)&&(str1[0]<' ')) continue; // empty line
+    
+    if (strncmp(str1,"backup",6)==0) continue; // backup line
+    
+    i=(int)strlen(str1);
+    
+    if ((i<0)||(i>4)) continue;
+    
+    strcpy(cmmn03_str5[cmmn03_str5_ptr],str1);
+
+    cmmn03_str5_ptr++;
+  }
+  
+  fclose(fp1);
+
+  printf("cww1_load43() ok,ptr=%d,\n",cmmn03_str5_ptr);
+
+  return(0);
+}
+
+int cww1_number_is43a(char *pstr) // 100 duo ,100 duo wan 
+{
+  int  i,j,k,l,m,n;
+  char str1[300];
+  char str2[300];
+  
+  i=(int)strlen(pstr);
+  
+  if ((i>=2)&&(i<=50))  //duo
+  {
+    j=0;
+    
+    while (j<i)
+    {
+      if (pstr[j]>=0) j++;
+      else j=j+2;
+      
+      if (i-j<=2) break;
+    }
+    
+    if (i-j<2) return(0);  
+      
+    str1[0]=pstr[j+0];
+    str1[1]=pstr[j+1];
+    str1[2]=0;
+      
+    l=0;
+      
+    for (k=0;k<cmmn03_str5_ptr;k++)
+    {
+      if (strcmp(str1,cmmn03_str5[k])==0)
+      {
+        l=1;
+        break;
+      }
+    }
+      
+    if (l==0) return(0);
+      
+    str2[0]=0;
+      
+    for (n=0;n<j;n++)
+    {
+      str2[n+0]=pstr[n];
+      str2[n+1]=0;
+    }
+      
+    m=cww1_number_is31(str2);
+      
+    return(m);
+  }
+   
+  return(0); 
+}
+
+int cww1_number_is43b(char *pstr) // 100 duo ,100 duo wan 
+{
+  int  i,j,k,l,m,n;
+  char str1[300];
+  char str2[300];
+  
+  i=(int)strlen(pstr);
+    
+  if ((i>=4)&&(i<=50))
+  {
+    j=0;
+    
+    while (j<i)
+    {
+      if (pstr[j]>=0) j++;
+      else j=j+2;
+      
+      if (i-j<=4) break;
+    }
+    
+    if (i-j<4) return(0);  
+      
+    str1[0]=pstr[j+0];
+    str1[1]=pstr[j+1];
+    str1[2]=pstr[j+2];
+    str1[3]=pstr[j+3];
+    str1[4]=0;
+      
+    l=0;
+      
+    for (k=0;k<cmmn03_str5_ptr;k++)
+    {
+      if (strcmp(str1,cmmn03_str5[k])==0)
+      {
+        l=1;
+        break;
+      }
+    }
+      
+    if (l==0) return(0);
+      
+    str2[0]=0;
+      
+    for (n=0;n<j;n++)
+    {
+      str2[n+0]=pstr[n];
+      str2[n+1]=0;
+    }
+      
+    m=cww1_number_is31(str2);
+      
+    return(m);
+  }
+ 
+  return(0); 
+}
+
+int cww1_load2(void)
+{
+  int i;
+  
+  i=cww1_load21();
+  if (i!=0) return(1);
+  
+  i=cww1_load22();
+  if (i!=0) return(1);
+  
+  i=cww1_load23();
+  if (i!=0) return(1);
+  
+  i=cww1_load31();
+  if (i!=0) return(1);
+  
+  i=cww1_load43();
+  if (i!=0) return(1);
+  
+  return(0);
+}
+
+static int cww1_number_debug=0;
+
+int cww1_number_is2(char *pstr)
+{
+  int i;
+  
+  if (cww1_number_debug==1) deb_record(0,pstr);
+  
+  i=cww1_number_is21(pstr);
+  if (i==1)
+  {
+    if (cww1_number_debug==1) deb_record(0,"          yi bai er shi          1\n");
+    return(1);
+  }
+  
+  i=cww1_number_is22(pstr);
+  if (i==1)
+  {
+    if (cww1_number_debug==1) deb_record(0,"          ji shi          1\n");
+    return(1);
+  }
+  
+  i=cww1_number_is23a(pstr);
+  if (i==1)
+  {
+    if (cww1_number_debug==1) deb_record(0,"           shi duo         1\n");
+    return(1);
+  }
+  
+  i=cww1_number_is23b(pstr);
+  if (i==1)
+  {
+    if (cww1_number_debug==1) deb_record(0,"           shi duo wan         1\n");
+    return(1);
+  }
+  
+  i=cww1_number_is31(pstr);
+  if (i==1)
+  {
+    if (cww1_number_debug==1) deb_record(0,"           +-123,456.78         1\n");
+    return(1);
+  }
+  
+  i=cww1_number_is43a(pstr);
+  if (i==1)
+  {
+    if (cww1_number_debug==1) deb_record(0,"           100 duo         1\n");
+    return(1);
+  }
+  
+  i=cww1_number_is43b(pstr);
+  if (i==1)
+  {
+    if (cww1_number_debug==1) deb_record(0,"           100 duo wan         1\n");
+    return(1);
+  }
+  
+  if (cww1_number_debug==1) deb_record(0,"                    0\n");
+  
+  return(0);
 }
 
 long long int str2llint(char *pstr)
@@ -1628,5 +2488,26 @@ int deb_str_has_null(const char *str,int str_size)
 	int i;
 	for (i=0;i<str_size;i++) if (str[i]==0) return(1);
 	return(0);
+}
+
+int deb_record(int p_id,char *p_str1)
+{
+  char str1[300];
+  FILE *fp;
+  
+  strcpy(str1,"deb_record0.txt");
+  
+  if ((p_id<0)||(p_id>9)) return(1);
+  
+  str1[10]='0'+p_id;
+  
+  fp=fopen(str1,"a");
+  if (fp==NULL) return(1);
+
+  fputs(p_str1,fp);
+
+  fclose(fp);
+
+  return(0);
 }
 

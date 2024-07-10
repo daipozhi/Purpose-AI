@@ -152,6 +152,8 @@ int  spl1_buf_ptr;
 int spl1_add_to_tree(void);
 int spl1_add_to_tree2(void);
 
+int spl1_num_debug=0;
+
 // notice tree 2(t2)
 #define TREE_SIZE_B 6000
 extern int   t2_find_ptr2;
@@ -287,9 +289,9 @@ extern     int   t4_out_list(int);
 //static char         m101_ss1[SMG_SIZE];
 //static char         m101_ss2[SMG_SIZE];
 static char         m101_str1[SMG_SIZE];
-//static char         m101_str2[SMG_SIZE];
+static char         m101_str2[SMG_SIZE];
 static char         m101_str3[3000];
-//static char         m101_str4[SMG_SIZE];
+static char         m101_str4[SMG_SIZE];
 static char	    m101_str5[SMG_SIZE];
 
 static int          m101_p_src;
@@ -373,6 +375,7 @@ int spl1_loop(void)
 	int          find;
 	int	     bigger;
 	int 	     i2,i3,i4,i6,i7;
+	int          j1,j2;
 
 	l=(int)strlen(spl1_in);
 
@@ -453,10 +456,49 @@ int spl1_loop(void)
 			m101_str1[m+0]=spl1_in[m];
 			m101_str1[m+1]=0;
 		}
+		
+		
+		
+		m101_str2[0]=0;
+		j1=strlen(m101_str1);
+		j2=0;
+		
+		while(j2<j1)
+		{
+		  if (m101_str1[j2]==' ')
+		  {
+		    m101_str4[0]=m101_str1[j2+1];
+		    m101_str4[1]=0;
+		  }
+		  else
+		  {
+		    m101_str4[0]=m101_str1[j2+0];
+		    m101_str4[1]=m101_str1[j2+1];
+		    m101_str4[2]=0;
+		  }
+		  
+		  strcat(m101_str2,m101_str4);
+		  
+		  j2=j2+2;
+		}
 
-		nn=cww1_number_is2(m101_str1);
+		if (spl1_num_debug==1)
+		{
+		      deb_record(2,"1---");
+		      deb_record(2,m101_str2);
+		      deb_record(2,"\n");
+		}
+
+
+
+		nn=cww1_number_is2(m101_str2);
 		if (nn==1)
 		{
+			if (spl1_num_debug==1)
+			{
+		        	deb_record(2,"   1   \n");
+			}
+			
 			t2_insert_node(m101_str1,SMG_SIZE);
 
 			find=0;
@@ -970,7 +1012,7 @@ int spl1_loop(void)
 	spl1_step=1;
 	
         m1=1;
-	m2=14;
+	m2=7;
 	
 	while(1)  // separate 1 sentence to many parts,smaller and faster
 	{
@@ -1130,9 +1172,48 @@ int spl1_loop(void)
 					m101_str1[mm+1]=0;
 				}
 
-				nn=cww1_number_is2(m101_str1);
+
+
+				m101_str2[0]=0;
+				j1=strlen(m101_str1);
+				j2=0;
+		
+				while(j2<j1)
+				{
+				  if (m101_str1[j2]==' ')
+				  {
+				    m101_str4[0]=m101_str1[j2+1];
+				    m101_str4[1]=0;
+				  }
+				  else
+				  {
+				    m101_str4[0]=m101_str1[j2+0];
+				    m101_str4[1]=m101_str1[j2+1];
+				    m101_str4[2]=0;
+				  }
+				  
+				  strcat(m101_str2,m101_str4);
+		  
+				  j2=j2+2;
+				}
+
+				if (spl1_num_debug==1)
+				{
+				      deb_record(2,"2---");
+				      deb_record(2,m101_str2);
+				      deb_record(2,"\n");
+				}
+
+
+
+				nn=cww1_number_is2(m101_str2);
 				if (nn==1)
 				{
+					if (spl1_num_debug==1)
+					{
+				        	deb_record(2,"   1   \n");
+					}
+				
 					t2_insert_node(m101_str1,SMG_SIZE);
 
 					find=0;
@@ -1686,11 +1767,13 @@ int spl1_loop(void)
 		}
 		
 		if (m3==0) break;
+		if (m4>=SPL1_KEEP_NUM) break;
 	}
 
 
 
 	if (m3==0) break;
+	if (m4>=SPL1_KEEP_NUM) break;
 	
 	
 	
@@ -1836,7 +1919,6 @@ int spl1_loop(void)
 
 
 	m1=m1+m2;
-	m2=12;
 	
 	spl1_step++;
 	
@@ -1854,6 +1936,12 @@ int spl1_loop(void)
 
 	while (n1<spl1_ptr)
 	{
+		if (spl1_mrk[n1]!=2)
+		{
+		  n1++;
+		  continue;
+		}
+	
 		sf1=/*(*/spl1_val1[n1]/* *1000)/t4_node_v_seg[n1]*/;
 		sf2=/*(*/spl1_val2[n1]/* *1000)/t4_node_v_seg[n1]*/;
 		sf3=/*(*/spl1_val3[n1]/* *1000)/t4_node_v_seg[n1]*/;

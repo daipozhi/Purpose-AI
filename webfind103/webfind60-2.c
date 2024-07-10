@@ -168,43 +168,36 @@ int wd5_load(void)
 				}
 				k=k+2;
   				if (k>=SMG_SIZE-3) k=SMG_SIZE-3;
-
 				i=i+2;
+			}
+			else if (c1<' ')
+			{
+				break;
+			}
+			else if (c1==',')
+			{
+				ptr=1;
+				k=0;
+				i++;
 			}
 			else
 			{
-				if (c1<' ')
+				if (ptr==0)  //words  //there is 1 bug fixed
 				{
-					break;
+					m401_l2[k+0]=c1;
+					m401_l2[k+1]=c2;
+					m401_l2[k+2]=0;
+					k=k+2;
+	  				if (k>SMG_SIZE-3) k=SMG_SIZE-3;
+					i=i+2;
 				}
-				else
+				else   // repeat times
 				{
-					if (c1==',')
-					{
-						ptr=1;
-						k=0;
-						i++;
-					}
-					else
-					{
-						if (ptr==0)  //words  //there is 1 bug fixed
-						{
-							m401_l2[k+0]=c1;
-							m401_l2[k+1]=c2;
-							m401_l2[k+2]=0;
-							k=k+2;
-	  						if (k>SMG_SIZE-3) k=SMG_SIZE-3;
-							i=i+2;
-						}
-						else   // repeat times
-						{
-							m401_l3[k+0]=c1;
-							m401_l3[k+1]=0;
-							k=k+1;
-	  						if (k>SMG_SIZE-3) k=SMG_SIZE-3;
-							i=i+1;
-						}
-					}
+					m401_l3[k+0]=c1;
+					m401_l3[k+1]=0;
+					k=k+1;
+	  				if (k>SMG_SIZE-3) k=SMG_SIZE-3;
+					i=i+1;
 				}
 			}
 		}
@@ -288,47 +281,41 @@ int wd5_search(char *p_str,int p_str_size)
 				break;
 			}
 		}
-		else
+		else if (i>=p2)
 		{
-			if (i>=p2)
+			j=strcmp(wd5_buf[i],p_str);
+			if (j==0)
 			{
-				j=strcmp(wd5_buf[i],p_str);
-				if (j==0)
-				{
-					find=1;
-					wd5_find_rt=wd5_rt[i];
-					wd5_find_ptr=i;
-					break;
-				}
-				else
-				{
-					find=0;
-					break;
-				}
+				find=1;
+				wd5_find_rt=wd5_rt[i];
+				wd5_find_ptr=i;
+				break;
 			}
 			else
 			{
-				j=strcmp(wd5_buf[i],p_str);
-				if (j==0)
-				{
-					find=1;
-					wd5_find_rt=wd5_rt[i];
-					wd5_find_ptr=i;
-					break;
-				}
-				else
-				{
-					if (j>0)
-					{
-						p1=i;
-						continue;
-					}
-					else
-					{
-						p2=i;
-						continue;
-					}
-				}
+				find=0;
+				break;
+			}
+		}
+		else
+		{
+			j=strcmp(wd5_buf[i],p_str);
+			if (j==0)
+			{
+				find=1;
+				wd5_find_rt=wd5_rt[i];
+				wd5_find_ptr=i;
+				break;
+			}
+			else if (j>0)
+			{
+				p1=i;
+				continue;
+			}
+			else
+			{
+				p2=i;
+				continue;
 			}
 		}
 	}
@@ -416,54 +403,43 @@ int load11(void)
   				if (k>=SMG_SIZE-3) k=SMG_SIZE-3;
 				i=i+2;
 			}
+			else if (c1<' ')
+			{
+				break;
+			}
+			else if (c1==',')
+			{
+				q=1;
+				k=0;
+				i=i+2;
+				continue;
+			}
+			else if (c1=='=')
+			{
+				ptr++;
+				k=0;
+				i=i+2;
+				continue;
+			}
 			else
 			{
-				if (c1<' ')
+				if (q==0)  //words
 				{
-					break;
+					m601_l2[ptr][k+0]=c1;
+					m601_l2[ptr][k+1]=c2;
+					m601_l2[ptr][k+2]=0;
+					k=k+2;
+  					if (k>=SMG_SIZE-3) k=SMG_SIZE-3;
+					i=i+2;
 				}
-				else
+				else   // repeat times
 				{
-					if (c1==',')
-					{
-						q=1;
-						k=0;
-						i=i+2;
-						continue;
-					}
-					else
-					{
-						if (c1=='=')
-						{
-							ptr++;
-							k=0;
-							i=i+2;
-							continue;
-						}
-						else
-						{
-							if (q==0)  //words
-							{
-								m601_l2[ptr][k+0]=c1;
-								m601_l2[ptr][k+1]=c2;
-								m601_l2[ptr][k+2]=0;
-								k=k+2;
-  								if (k>=SMG_SIZE-3) k=SMG_SIZE-3;
-								i=i+2;
-							}
-							else   // repeat times
-							{
-								m601_l3[k+0]=c1;
-								m601_l3[k+1]=0;
-								k++;
-  								if (k>=SMG_SIZE-3) k=SMG_SIZE-3;
-								i++;
-							}
-						}
-					}
+					m601_l3[k+0]=c1;
+					m601_l3[k+1]=0;
+					k++;
+  					if (k>=SMG_SIZE-3) k=SMG_SIZE-3;
+					i++;
 				}
-
-
 			}
 		}
 
@@ -476,19 +452,16 @@ int load11(void)
 		for (j=0;j<6;j++)
 		{
 			if (j>=ptr) m601_ns[j]=(-1); // end of grammar
+			else if (strcmp(m601_l2[j],"$n")==0) m601_ns[j]=(-3); // number
 			else
 			{
-				if (strcmp(m601_l2[j],"$n")==0) m601_ns[j]=(-3); // number
+				m=wd5_search(m601_l2[j],SMG_SIZE);
+				if (m==1) m601_ns[j]=wd5_find_ptr;    
 				else
 				{
-					m=wd5_search(m601_l2[j],SMG_SIZE);
-					if (m==1) m601_ns[j]=wd5_find_ptr;    
-					else
-					{
-						strcpy(m601_s4,m601_l2[j]);
-						err=1;
-						break;
-					}
+					strcpy(m601_s4,m601_l2[j]);
+					err=1;
+					break;
 				}
 			}
 		}

@@ -253,45 +253,40 @@ int load12(void)
 				l=l+2;
 				m=m+2;
 			}
+			else if ((c4!=',')&&(c4!=';'))
+			{
+				m101_l4[0]=c4;
+				m101_l4[1]=c5;
+				m101_l4[2]=0;
+				
+	                        if (sent_cb2_in(m101_l4)==1) break;
+
+				m101_l3[m+0]=c4;
+				m101_l3[m+1]=c5;
+				m101_l3[m+2]=0;
+
+				l=l+2;
+				m=m+2;
+			}
 			else
 			{
-
-				if ((c4!=',')&&(c4!=';'))
+				k=wd5_search(m101_l3,600);
+				if (k!=1)
 				{
-					m101_l4[0]=c4;
-					m101_l4[1]=c5;
-					m101_l4[2]=0;
-				
-	                                if (sent_cb2_in(m101_l4)==1) break;
-
-					m101_l3[m+0]=c4;
-					m101_l3[m+1]=c5;
-					m101_l3[m+2]=0;
-
-					l=l+2;
-					m=m+2;
+					//err2=1;
+					//break;
+					m101_ns[n]=(-1000);
 				}
 				else
 				{
-					k=wd5_search(m101_l3,600);
-					if (k!=1)
-					{
-						//err2=1;
-						//break;
-						m101_ns[n]=(-1000);
-					}
-					else
-					{
-						m101_ns[n]=wd5_find_ptr;
-					}
-					
-					n++;
-
-					m=0;
-					m101_l3[0]=0;
-					l=l+2;
+					m101_ns[n]=wd5_find_ptr;
 				}
-	
+					
+				n++;
+
+				m=0;
+				m101_l3[0]=0;
+				l=l+2;
 			}
 		}
 
@@ -637,7 +632,7 @@ int load_cb2(void)
 	if (fp1==NULL)
 	{
 		MessageBox(0,"open cb2.txt fail ","message",MB_OK);
-		return(0);
+		return(1);
 	}
 
 	sent_cb2_ptr=0;

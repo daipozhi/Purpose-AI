@@ -148,6 +148,7 @@ int t3_clear_node(int ptr)
 int t3_search_node(int pn1,int pn2,int pn3,int pn4/*,int pn5*/)
 {
   int i,j;
+  int ret;
 
   if (t3_root_ptr<0)
   {
@@ -159,14 +160,15 @@ int t3_search_node(int pn1,int pn2,int pn3,int pn4/*,int pn5*/)
 
   while (1)
   {
-  
-    if (t3_istrcmp(i,pn1,pn2,pn3,pn4/*,pn5*/)==0)
+    ret=t3_istrcmp(i,pn1,pn2,pn3,pn4/*,pn5*/);
+    
+    if (ret==0)
     {
       t3_find_ptr=i;
       return(0);
     }
 
-    if (t3_istrcmp(i,pn1,pn2,pn3,pn4/*,pn5*/)<0)
+    if (ret<0)
     {
       if (t3_node_ptr[i][2]<0)
       {
@@ -181,7 +183,7 @@ int t3_search_node(int pn1,int pn2,int pn3,int pn4/*,int pn5*/)
       }
     }
     
-    if (t3_istrcmp(i,pn1,pn2,pn3,pn4/*,pn5*/)>0)
+    if (ret>0)
     {
       if (t3_node_ptr[i][1]<0)
       {

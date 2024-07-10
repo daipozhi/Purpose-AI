@@ -23,7 +23,7 @@ cp *.exe ../work_dir
 
 cd ../webfind1d
 rm *.exe
-gcc -o a-step20.exe f1.c f2.c f3.c
+gcc -o a-step20.exe f1.c f2.c f3.c f4.c
 cp a-step20.exe ../work_dir
 
 cd ../webfind52
@@ -89,7 +89,7 @@ cp app-separ.exe ./app
 cd ../webfind66
 rm *.exe
 rm ./app/*.exe
-gcc -o app-charset-recgn.exe webfind66.c my_wd567.c my_grm1516.c my_spl1.c my_spl2.c my_tree2b.c my_btree5.c my_btree6.c my_btree7.c my_btree8.c f1.c f2.c f3.c
+gcc -o app-charset-recgn.exe webfind66.c my_wd567.c my_grm1516.c my_spl1.c my_spl2.c my_tree2b.c my_btree5.c my_btree6.c my_btree7.c my_btree8.c f1.c f2.c f3.c f4.c
 cp app-charset-recgn.exe ./app
 
 gcc -o app-charset-recgn-ini.exe app-charset-recgn-ini.c

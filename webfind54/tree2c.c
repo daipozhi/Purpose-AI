@@ -23,6 +23,8 @@
 
 int   MessageBox(int h1,char *h2,char *h3,int h4);
 
+#define SMG_SIZE		 300
+
 #include <locale.h>
 #include <iconv.h>
 
@@ -90,7 +92,7 @@ int deb_upper_string(char *p_instr);
 
 extern int deb_str_has_null(const char *str,int str_size);
 
-int /*tree2::*/t3_init_tree2(void)
+int  t3_init_tree2(void)
 {
   int i,j;
   for (i=0;i<TREE_SIZE_C;i++)
@@ -102,7 +104,7 @@ int /*tree2::*/t3_init_tree2(void)
   return(0);
 }
 
-int /*tree2::*/t3_new_node(void)
+int  t3_new_node(void)
 {
   int i,j;
 
@@ -118,7 +120,7 @@ int /*tree2::*/t3_new_node(void)
   return(i);
 }
 
-int /*tree2::*/t3_clear_node(int ptr)
+int  t3_clear_node(int ptr)
 {
   int i,j;
   
@@ -132,22 +134,15 @@ int /*tree2::*/t3_clear_node(int ptr)
   }
 
   t3_node_val2[ptr]=0;
-/*
-  for (i=0;i<5;i++)
-	for (j=0;j<3;j++)
-	{
-		t3_node_val3[ptr][i][j]=0;
-	}
 
-  t3_node_val3_ptr[ptr]=0;
-*/
   return(0);
 }
 
-int /*tree2::*/t3_search_node(char *pstr,int pstr_size)
+int  t3_search_node(char *pstr,int pstr_size)
 {
   int i,j;
   int z;
+  int ret;
 
   if (pstr_size>51) z=51;
   else z=pstr_size;
@@ -166,14 +161,15 @@ int /*tree2::*/t3_search_node(char *pstr,int pstr_size)
 
   while (1)
   {
-  
-    if (strcmp(t3_node_val[i],pstr)==0)
+    ret=strcmp(t3_node_val[i],pstr);
+    
+    if (ret==0)
     {
       t3_find_ptr=i;
       return(0);
     }
 
-    if (strcmp(t3_node_val[i],pstr)<0)
+    if (ret<0)
     {
       if (t3_node_ptr[i][2]<0)
       {
@@ -188,7 +184,7 @@ int /*tree2::*/t3_search_node(char *pstr,int pstr_size)
       }
     }
     
-    if (strcmp(t3_node_val[i],pstr)>0)
+    if (ret>0)
     {
       if (t3_node_ptr[i][1]<0)
       {
@@ -207,7 +203,7 @@ int /*tree2::*/t3_search_node(char *pstr,int pstr_size)
 
 }
 
-int /*tree2::*/t3_insert_node(char *pstr,int pstr_size)
+int  t3_insert_node(char *pstr,int pstr_size)
 {
   int i,j;
   int z;
@@ -493,10 +489,15 @@ static char  m03_str1[300];
 static FILE *m03_fp;
 static int   m03_wdn;
 
-int /*tree2::*/t3_after_list(char *fn)
+static char         m101_str2[SMG_SIZE];
+static char         m101_str4[SMG_SIZE];
+static int          m101_num_debug=0;
+
+int  t3_after_list(char *fn)
 {
   int  i,j,k;
   int  nn;
+  int  j1,j2;
   //char str1[300];
 
 
@@ -592,9 +593,45 @@ int /*tree2::*/t3_after_list(char *fn)
       //MessageBox(0,str1,"message",MB_OK);
 
 
-  nn=cww1_number_is2(t3_node_val[k]);
+		m101_str2[0]=0;
+		j1=strlen(t3_node_val[k]);
+		j2=0;
+		
+		while(j2<j1)
+		{
+		  if (t3_node_val[k][j2]==' ')
+		  {
+		    m101_str4[0]=t3_node_val[k][j2+1];
+		    m101_str4[1]=0;
+		  }
+		  else
+		  {
+		    m101_str4[0]=t3_node_val[k][j2+0];
+		    m101_str4[1]=t3_node_val[k][j2+1];
+		    m101_str4[2]=0;
+		  }
+		  
+		  strcat(m101_str2,m101_str4);
+		  
+		  j2=j2+2;
+		}
+
+		if (m101_num_debug==1)
+		{
+		      deb_record(3,"1---");
+		      deb_record(3,m101_str2);
+		      deb_record(3,"\n");
+		}
+
+
+  nn=cww1_number_is2(m101_str2);
   if (nn!=1) 
   {
+    if (m101_num_debug==1)
+    {
+       	deb_record(3,"   0   \n");
+    }
+  
     fputs(t3_node_val[k],m03_fp);
     fputs("," ,m03_fp);
 

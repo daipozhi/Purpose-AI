@@ -11,11 +11,6 @@
 #include <string.h>
 
 #define SMG_SIZE	 300
-#define PY_YIN           1000
-//#define STR_LEN_WORD2    25
-
-//char word8_s[STR_LEN_WORD2];
-//int word8_l1;
 
 int word8(char *);
 
@@ -98,7 +93,7 @@ int word8(char *pstr1)
 	fp1=fopen("words-cw02.sub.txt","r");
 	if (fp1==NULL)
 	{
-		MessageBox(0,"words-cw02.sub.txt","error message : open file error ",MB_OK);
+		MessageBox(0,"words-cw02.sub.txt","error message: open file error ",MB_OK);
 		return(1);
 	}
 

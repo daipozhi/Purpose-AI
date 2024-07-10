@@ -128,6 +128,7 @@ int /*tree2::*/t5_search_node(char *pstr,int pstr_size)
 {
   int i,j;
   int z;
+  int ret;
 
   if (pstr_size>600) z=600;
   else z=pstr_size;
@@ -146,14 +147,15 @@ int /*tree2::*/t5_search_node(char *pstr,int pstr_size)
 
   while (1)
   {
-  
-    if (strcmp(t5_node_val[i],pstr)==0)
+    ret=strcmp(t5_node_val[i],pstr);
+    
+    if (ret==0)
     {
       t5_find_ptr=i;
       return(0);
     }
 
-    if (strcmp(t5_node_val[i],pstr)<0)
+    if (ret<0)
     {
       if (t5_node_ptr[i][2]<0)
       {
@@ -168,7 +170,7 @@ int /*tree2::*/t5_search_node(char *pstr,int pstr_size)
       }
     }
     
-    if (strcmp(t5_node_val[i],pstr)>0)
+    if (ret>0)
     {
       if (t5_node_ptr[i][1]<0)
       {

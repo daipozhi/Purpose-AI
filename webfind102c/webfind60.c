@@ -85,23 +85,29 @@ extern int t3_after_list(void);
 //		  ,int show)
 int main(void)
 {
+	int i;
+	
 	MessageBox(0,"load words-gram-000000.txt , word database, words courseware, write to grammar-base04.sort.txt","message",MB_OK);
 
 	ai_number_g();
 
 	grm10_ini();
 
-	wd5_load();  // word database
+	i=wd5_load();  // word database
+	if (i!=0) return(1);
 
-	wd6_load();  // word courseware 2
+	i=wd6_load();  // word courseware 2
+	if (i!=0) return(1);
 
-	cww1_load(); // word courseware 1
+	i=cww1_load(); // word courseware 1
+	if (i!=0) return(1);
 
 	//load11();  //grammar courseware
 
 	//load12();  //grammar database
 
-        load_cb2();  // load punctuation 2
+        i=load_cb2();  // load punctuation 2
+	if (i!=0) return(1);
 
 	mproc("");
 
@@ -592,40 +598,34 @@ int wd5_load(void)
   				if (k>=SMG_SIZE-3) k=SMG_SIZE-3;
 				i=i+2;
 			}
+			else if (c1<' ')
+			{
+				break;
+			}
+			else if (c1==',')
+			{
+				ptr=1;
+				k=0;
+				i=i+1;
+			}
 			else
 			{
-				if (c1<' ')
+				if (ptr==0)  //words
 				{
-					break;
+					m401_l2[k+0]=c1;
+					m401_l2[k+1]=c2;
+					m401_l2[k+2]=0;
+					k=k+2;
+	  				if (k>=SMG_SIZE-3) k=SMG_SIZE-3;
+					i=i+2;
 				}
-				else
+				else   // repeat times
 				{
-					if (c1==',')
-					{
-						ptr=1;
-						k=0;
-						i=i+1;
-					}
-					else
-					{
-						if (ptr==0)  //words
-						{
-							m401_l2[k+0]=c1;
-							m401_l2[k+1]=c2;
-							m401_l2[k+2]=0;
-							k=k+2;
-	  						if (k>=SMG_SIZE-3) k=SMG_SIZE-3;
-							i=i+2;
-						}
-						else   // repeat times
-						{
-							m401_l3[k+0]=c1;
-							m401_l3[k+1]=0;
-							k=k+1;
-	  						if (k>=SMG_SIZE-3) k=SMG_SIZE-3;
-							i=i+1;
-						}
-					}
+					m401_l3[k+0]=c1;
+					m401_l3[k+1]=0;
+					k=k+1;
+	  				if (k>=SMG_SIZE-3) k=SMG_SIZE-3;
+					i=i+1;
 				}
 			}
 		}
@@ -755,40 +755,34 @@ int wd6_load(void)
   				if (k>=SMG_SIZE-3) k=SMG_SIZE-3;
 				i=i+2;
 			}
+			else if (c1<' ')
+			{
+				break;
+			}
+			else if (c1==',')
+			{
+				ptr=1;
+				k=0;
+				i++;
+			}
 			else
 			{
-				if (c1<' ')
+				if (ptr==0)  //words
 				{
-					break;
+					m501_l2[k+0]=c1;
+					m501_l2[k+1]=c2;
+					m501_l2[k+2]=0;
+					k=k+2;
+					if (k>SMG_SIZE-3) k=SMG_SIZE-3;
+					i=i+2;
 				}
-				else
+				else   // repeat times
 				{
-					if (c1==',')
-					{
-						ptr=1;
-						k=0;
-						i++;
-					}
-					else
-					{
-						if (ptr==0)  //words
-						{
-							m501_l2[k+0]=c1;
-							m501_l2[k+1]=c2;
-							m501_l2[k+2]=0;
-							k=k+2;
-			  				if (k>SMG_SIZE-3) k=SMG_SIZE-3;
-							i=i+2;
-						}
-						else   // repeat times
-						{
-							m501_l3[k+0]=c1;
-							m501_l3[k+1]=0;
-							k=k+1;
-			  				if (k>SMG_SIZE-3) k=SMG_SIZE-3;
-							i=i+1;
-						}
-					}
+					m501_l3[k+0]=c1;
+					m501_l3[k+1]=0;
+					k=k+1;
+					if (k>SMG_SIZE-3) k=SMG_SIZE-3;
+					i=i+1;
 				}
 			}
 		}
@@ -855,8 +849,26 @@ int wd5_search(char *p_str,int p_str_size)
 	while(1)
 	{
 		i=(p1+p2)/2;
+		
 		if ( (i<0)||(i>=wd5_ptr)||(i>=ARTI_LINE1) ) return(0);
+		
 		if (i<=p1)
+		{
+			j=strcmp(wd5_buf[i],p_str);
+			if (j==0)
+			{
+				find=1;
+				wd5_find_rt=wd5_rt[i];
+				wd5_find_ptr=i;
+				break;
+			}
+			else
+			{
+				find=0;
+				break;
+			}
+		}
+		else if (i>=p2)
 		{
 			j=strcmp(wd5_buf[i],p_str);
 			if (j==0)
@@ -874,45 +886,23 @@ int wd5_search(char *p_str,int p_str_size)
 		}
 		else
 		{
-			if (i>=p2)
+			j=strcmp(wd5_buf[i],p_str);
+			if (j==0)
 			{
-				j=strcmp(wd5_buf[i],p_str);
-				if (j==0)
-				{
-					find=1;
-					wd5_find_rt=wd5_rt[i];
-					wd5_find_ptr=i;
-					break;
-				}
-				else
-				{
-					find=0;
-					break;
-				}
+				find=1;
+				wd5_find_rt=wd5_rt[i];
+				wd5_find_ptr=i;
+				break;
+			}
+			else if (j>0)
+			{
+				p1=i;
+				continue;
 			}
 			else
 			{
-				j=strcmp(wd5_buf[i],p_str);
-				if (j==0)
-				{
-					find=1;
-					wd5_find_rt=wd5_rt[i];
-					wd5_find_ptr=i;
-					break;
-				}
-				else
-				{
-					if (j>0)
-					{
-						p1=i;
-						continue;
-					}
-					else
-					{
-						p2=i;
-						continue;
-					}
-				}
+				p2=i;
+				continue;
 			}
 		}
 	}
@@ -938,8 +928,25 @@ int wd6_search(char *p_str,int p_str_size)
 	while(1)
 	{
 		i=(p1+p2)/2;
+		
 		if ( (i<0)||(i>wd6_ptr)||(i>ARTI_LINE2) ) return(0);
+		
 		if (i<=p1)
+		{
+			j=strcmp(wd6_buf[i],p_str);
+			if (j==0)
+			{
+				find=1;
+				wd6_find_rt=wd6_rt[i];
+				break;
+			}
+			else
+			{
+				find=0;
+				break;
+			}
+		}
+		else if (i>=p2)
 		{
 			j=strcmp(wd6_buf[i],p_str);
 			if (j==0)
@@ -956,43 +963,22 @@ int wd6_search(char *p_str,int p_str_size)
 		}
 		else
 		{
-			if (i>=p2)
+			j=strcmp(wd6_buf[i],p_str);
+			if (j==0)
 			{
-				j=strcmp(wd6_buf[i],p_str);
-				if (j==0)
-				{
-					find=1;
-					wd6_find_rt=wd6_rt[i];
-					break;
-				}
-				else
-				{
-					find=0;
-					break;
-				}
+				find=1;
+				wd6_find_rt=wd6_rt[i];
+				break;
+			}
+			else if (j>0)
+			{
+				p1=i;
+				continue;
 			}
 			else
 			{
-				j=strcmp(wd6_buf[i],p_str);
-				if (j==0)
-				{
-					find=1;
-					wd6_find_rt=wd6_rt[i];
-					break;
-				}
-				else
-				{
-					if (j>0)
-					{
-						p1=i;
-						continue;
-					}
-					else
-					{
-						p2=i;
-						continue;
-					}
-				}
+				p2=i;
+				continue;
 			}
 		}
 	}

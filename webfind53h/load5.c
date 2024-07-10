@@ -66,13 +66,7 @@ extern     int   t5_find_side;
 extern     int   t5_list_stack[LIST_SIZE];
 extern     char  t5_list_stack_type[LIST_SIZE];
 extern     int   t5_list_ptr;
-/*
-    char  t5_out_buff[TREE_SIZE][55];
-    int   t5_out_buff2[TREE_SIZE];
 
-    int   t5_out_buff3[TREE_SIZE][5][3];
-    int   t5_out_buff3_ptr[TREE_SIZE];
-*/
 extern     int   t5_out_ptr;
 
 extern     int   t5_init_tree2(void);
@@ -113,25 +107,17 @@ int load5(char *fn)
 
 	t5_init_tree2();
 
-	//f1_get_fln3(s1);
-
-	//strcpy(s2,strpath);
-	//strcpy(s2,s1);
-	
 	fp1=fopen(fn,"r");
 	if (fp1==NULL)
 	{
-		MessageBoxNow(0,s2,"message open file error",MB_OK);
+		MessageBoxNow(0,fn,"message open file error",MB_OK);
 		return(1);
 	}
 
 	while (!feof(fp1))
 	{
-		for (i=0;i<5000;i++)
-		{
-			m102_l1[i]=0;
-			m102_l2[i]=0;
-		}
+		m102_l1[0]=0;
+		m102_l2[0]=0;
 
 		fgets(m102_l1,5000,fp1);
 
@@ -151,20 +137,17 @@ int load5(char *fn)
 				k=k+2;
 				i=i+2;
 			}
+			else if (c1<' ')
+			{
+				break;
+			}
 			else
 			{
-				if (c1<' ')
-				{
-					break;
-				}
-				else
-				{
-					m102_l2[k+0]=' ';
-					m102_l2[k+1]=lower(c1);
-					m102_l2[k+2]=0;
-					k=k+2;
-					i++;
-				}
+				m102_l2[k+0]=' ';
+				m102_l2[k+1]=lower(c1);
+				m102_l2[k+2]=0;
+				k=k+2;
+				i++;
 			}
 		}
 
@@ -177,6 +160,8 @@ int load5(char *fn)
 			for (m=4;m<=50;m=m+2)
 			{
 				if (m+i>l) continue;
+				
+				s3[0]=0;
 				
 				for (n=0;n<m;n++)
 				{

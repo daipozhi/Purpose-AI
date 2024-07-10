@@ -11,15 +11,8 @@
 #include <string.h>
 
 #define SMG_SIZE		 300
-//#define PY_YIN           1000
-//#define STR_LEN_WORD2    25
-
-//char word8_s[STR_LEN_WORD2];
-//int word8_l1;
 
 int word8(char *);
-
-//#define MB_OK 1
 
 //extern int MessageBox(int ,char *,char *,int );
 
@@ -154,6 +147,7 @@ int word8(char *pstr1)
 	while(!feof(fp1))
 	{
 		m201_str1[0]=0;
+		
 		fgets(m201_str1,5000,fp1);
 		
 		rd++;
@@ -196,30 +190,24 @@ int word8(char *pstr1)
 				l=l+2;
 				m=m+2;
 			}
+			else if (c4<' ')
+			{
+				break;
+			}
+			else if (c4=='=')
+			{
+				p++;
+				m=0;
+				l=l+2;
+			}
 			else
 			{
-				if ((c4>=0)&&(c4<' '))
-				{
-					break;
-				}
-				else
-				{
-					if (c4=='=')
-					{
-						p++;
-						m=0;
-						l=l+2;
-					}
-					else
-					{
-						m201_str2[p][m+0]=c4;
-						m201_str2[p][m+1]=c5;
-						m201_str2[p][m+2]=0;
+				m201_str2[p][m+0]=c4;
+				m201_str2[p][m+1]=c5;
+				m201_str2[p][m+2]=0;
 
-						l=l+2;
-						m=m+2;
-					}
-				}
+				l=l+2;
+				m=m+2;
 			}
 		}
 		
@@ -280,6 +268,7 @@ int word8(char *pstr1)
 	while(!feof(fp1))
 	{
 		m201_str1[0]=0;
+		
 		fgets(m201_str1,5000,fp1);
 		
 		/*
@@ -319,21 +308,18 @@ int word8(char *pstr1)
 				l=l+2;
 				m=m+2;
 			}
+			else if (c4<' ')
+			{
+				break;
+			}
 			else
 			{
-				if ((c4>=0)&&(c4<' '))
-				{
-					break;
-				}
-				else
-				{
-					m201_str2[p][m+0]=c4;
-					m201_str2[p][m+1]=c5;
-					m201_str2[p][m+2]=0;
+				m201_str2[p][m+0]=c4;
+				m201_str2[p][m+1]=c5;
+				m201_str2[p][m+2]=0;
 
-					l=l+2;
-					m=m+2;
-				}
+				l=l+2;
+				m=m+2;
 			}
 		}
 		
@@ -382,6 +368,7 @@ int word8(char *pstr1)
 	while(!feof(fp1))
 	{
 		m201_str1[0]=0;
+		
 		fgets(m201_str1,5000,fp1);
 		
 		rd++;
@@ -417,41 +404,35 @@ int word8(char *pstr1)
 				l=l+2;
 				m=m+2;
 			}
-			else
+			else if (c4<' ')
 			{
-				if ((c4>=0)&&(c4<' '))
+				break;
+			}
+			else if (c4!=',')
+			{
+				if (p<1)
 				{
-					break;
+					m201_str2[p][m+0]=c4;
+					m201_str2[p][m+1]=c5;
+					m201_str2[p][m+2]=0;
+
+					l=l+2;
+					m=m+2;
 				}
 				else
 				{
-					if (c4!=',')
-					{
-						if (p<1)
-						{
-							m201_str2[p][m+0]=c4;
-							m201_str2[p][m+1]=c5;
-							m201_str2[p][m+2]=0;
+					m201_str2[p][m+0]=c4;
+					m201_str2[p][m+1]=0;
 
-							l=l+2;
-							m=m+2;
-						}
-						else
-						{
-							m201_str2[p][m+0]=c4;
-							m201_str2[p][m+1]=0;
-
-							l=l+1;
-							m=m+1;
-						}
-					}
-					else
-					{
-						p++;
-						m=0;
-						l=l+1;
-					}
+					l=l+1;
+					m=m+1;
 				}
+			}
+			else
+			{
+				p++;
+				m=0;
+				l=l+1;
 			}
 		}
 		
@@ -611,8 +592,25 @@ int wd6_search(char *p_str,int p_str_size)
 	while(1)
 	{
 		i=(p1+p2)/2;
+		
 		if ( (i<0)||(i>=wd6_ptr)||(i>=ARTI_LINE2) ) return(0);
+		
 		if (i<=p1)
+		{
+			j=strcmp(wd6_buf[i],p_str);
+			if (j==0)
+			{
+				find=1;
+				wd6_find_rt=wd6_rt[i];
+				break;
+			}
+			else
+			{
+				find=0;
+				break;
+			}
+		}
+		else if (i>=p2)
 		{
 			j=strcmp(wd6_buf[i],p_str);
 			if (j==0)
@@ -629,43 +627,22 @@ int wd6_search(char *p_str,int p_str_size)
 		}
 		else
 		{
-			if (i>=p2)
+			j=strcmp(wd6_buf[i],p_str);
+			if (j==0)
 			{
-				j=strcmp(wd6_buf[i],p_str);
-				if (j==0)
-				{
-					find=1;
-					wd6_find_rt=wd6_rt[i];
-					break;
-				}
-				else
-				{
-					find=0;
-					break;
-				}
+				find=1;
+				wd6_find_rt=wd6_rt[i];
+				break;
+			}
+			else if (j>0)
+			{
+				p1=i;
+				continue;
 			}
 			else
 			{
-				j=strcmp(wd6_buf[i],p_str);
-				if (j==0)
-				{
-					find=1;
-					wd6_find_rt=wd6_rt[i];
-					break;
-				}
-				else
-				{
-					if (j>0)
-					{
-						p1=i;
-						continue;
-					}
-					else
-					{
-						p2=i;
-						continue;
-					}
-				}
+				p2=i;
+				continue;
 			}
 		}
 	}

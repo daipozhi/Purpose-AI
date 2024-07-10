@@ -136,11 +136,12 @@ extern char spl1_mrk[SPL1_NUM];
 extern int  spl1_len[SPL1_NUM];
 extern int  spl1_seg[SPL1_NUM];
 
-extern	  char spl1_pat[SPL1_NUM][150][10][2];
-extern	  char spl1_pat_ptr[SPL1_NUM][150];
+extern	  char spl1_grm_map[SPL1_NUM][150][10][2];
+extern	  char spl1_grm_map_ptr[SPL1_NUM][150];
+
 
 //------------------------------
-#define SPL2_NUM      7500
+#define SPL2_NUM      4500
 #define SPL2_KEEP_NUM 1500
 #define SPL2_DEBUG   0
 
@@ -165,8 +166,8 @@ long long int  spl2_val4[SPL2_NUM];
 long long int  spl2_iid[SPL2_NUM];
 long long int  spl2_sval[SPL2_NUM][150][4]; //sub value , every word's value
 /*
-	  char spl2_pat[SPL2_NUM][150][10][2];
-	  char spl2_pat_ptr[SPL2_NUM][150];
+	  char spl2_grm_map[SPL2_NUM][150][10][2];
+	  char spl2_grm_map_ptr[SPL2_NUM][150];
 */
 int  spl2_buf[100];  // check repeated string
 int  spl2_buf_ptr;
@@ -174,8 +175,10 @@ int  spl2_buf_ptr;
 int spl2_add_to_tree(void);
 int spl2_add_to_tree2(void);
 long long int spl2_sum_val(int n1,int ptr);
-int spl2_copy_val(int);
-int spl2_con_val(int);
+//int spl2_copy_val(int);
+//int spl2_con_val(int);
+
+int spl2_num_debug=0;
 
 // notice tree 2(t2)
 #define TREE_SIZE 6000
@@ -245,8 +248,8 @@ extern     int   t7_out_list(int);
     //int   t7_dsp_list(void);
     //int   t7_save_list(char *fn);
 
-#define BTREE8_SIZE   7500
-#define BTREE8_LSIZE  7500
+#define BTREE8_SIZE   4500
+#define BTREE8_LSIZE  4500
 
 extern     char  t8_node_mark[BTREE8_SIZE];
 
@@ -320,6 +323,8 @@ static char  m101_str2[SMG_SIZE];
 static char  m101_str3[3000];
 //static char  m101_str4[SMG_SIZE];
 //static char  m101_str5[SMG_SIZE];
+static char  m101_str6[SMG_SIZE];
+static char  m101_str7[SMG_SIZE];
 
 static  int m101_p_src;
 
@@ -376,6 +381,7 @@ int spl2_loop(void)
 	int          in;
 	int 	     i2,i3,i4,i5;
 	int	     i6,i7;
+	int          j1,j2;
 
 	spl2_ptr=0;
 	spl2_out_ptr=(-1);
@@ -417,7 +423,7 @@ int spl2_loop(void)
 			if (i<2)   i=2;
 			if (i>300) i=300;
 			
-			spl2_val1[spl2_ptr]=0;
+			spl2_val1[spl2_ptr]=i;
 			spl2_val2[spl2_ptr]=(long long int)wd6_find_rt*ai_number[i/2];    // repeat times x ai_num
 			spl2_val3[spl2_ptr]=0;
 			spl2_val4[spl2_ptr]=0;    // repeat times
@@ -427,7 +433,7 @@ int spl2_loop(void)
 			spl2_sval[spl2_ptr][0][2]=spl2_val3[spl2_ptr];
 			spl2_sval[spl2_ptr][0][3]=spl2_val4[spl2_ptr];
 			/*
-			spl2_pat_ptr[spl2_ptr][0]=0;
+			spl2_grm_map_ptr[spl2_ptr][0]=0;
 			*/
 	        	if (i>=l) spl2_mrk[spl2_ptr]=2;
 
@@ -459,9 +465,48 @@ int spl2_loop(void)
 			m101_str1[m+1]=0;
 		}
 
-		nn=cww1_number_is2(m101_str1);
+
+
+		m101_str6[0]=0;
+		j1=strlen(m101_str1);
+		j2=0;
+		
+		while(j2<j1)
+		{
+		  if (m101_str1[j2]==' ')
+		  {
+		    m101_str7[0]=m101_str1[j2+1];
+		    m101_str7[1]=0;
+		  }
+		  else
+		  {
+		    m101_str7[0]=m101_str1[j2+0];
+		    m101_str7[1]=m101_str1[j2+1];
+		    m101_str7[2]=0;
+		  }
+		  
+		  strcat(m101_str6,m101_str7);
+		  
+		  j2=j2+2;
+		}
+
+		if (spl2_num_debug==1)
+		{
+		      deb_record(5,"1---");
+		      deb_record(5,m101_str6);
+		      deb_record(5,"\n");
+		}
+
+
+
+		nn=cww1_number_is2(m101_str6);
 		if (nn==1)
 		{
+			if (spl2_num_debug==1)
+			{
+		        	deb_record(5,"   1   \n");
+			}
+		
 			t2_insert_node(m101_str1,SMG_SIZE);
 
 			find=0;
@@ -490,8 +535,8 @@ int spl2_loop(void)
 			if (i<2)   i=2;
 			if (i>300) i=300;
 			
-			spl2_val1[spl2_ptr]=0;
-			spl2_val2[spl2_ptr]=(long long int)10*ai_number[i/2];    // repeat times x ai_num
+			spl2_val1[spl2_ptr]=i;
+			spl2_val2[spl2_ptr]=(long long int)2*ai_number[i/2];    // repeat times x ai_num
 			spl2_val3[spl2_ptr]=0;
 			spl2_val4[spl2_ptr]=0;    // repeat times
 
@@ -500,7 +545,7 @@ int spl2_loop(void)
 			spl2_sval[spl2_ptr][0][2]=spl2_val3[spl2_ptr];
 			spl2_sval[spl2_ptr][0][3]=spl2_val4[spl2_ptr];
 			/*
-			spl2_pat_ptr[spl2_ptr][0]=0;
+			spl2_grm_map_ptr[spl2_ptr][0]=0;
 			*/
 	        	if (i>=l) spl2_mrk[spl2_ptr]=2;
 
@@ -566,7 +611,7 @@ int spl2_loop(void)
 			
 			spl2_val1[spl2_ptr]=0;
 			spl2_val2[spl2_ptr]=0;    // repeat times
-			spl2_val3[spl2_ptr]=0;
+			spl2_val3[spl2_ptr]=i;
 			spl2_val4[spl2_ptr]=(long long int)wd5_find_rt*ai_number[i/2];    // repeat times x ai_num
 
 			spl2_sval[spl2_ptr][0][0]=spl2_val1[spl2_ptr];
@@ -574,7 +619,7 @@ int spl2_loop(void)
 			spl2_sval[spl2_ptr][0][2]=spl2_val3[spl2_ptr];
 			spl2_sval[spl2_ptr][0][3]=spl2_val4[spl2_ptr];
 			/*
-			spl2_pat_ptr[spl2_ptr][0]=0;
+			spl2_grm_map_ptr[spl2_ptr][0]=0;
 			*/
 	        	if (i>=l) spl2_mrk[spl2_ptr]=2;
 
@@ -626,7 +671,7 @@ int spl2_loop(void)
 			
 		spl2_val1[spl2_ptr]=0;
 		spl2_val2[spl2_ptr]=0;    // repeat times
-		spl2_val3[spl2_ptr]=0;
+		spl2_val3[spl2_ptr]=2;
 
                 if (nn==1) spl2_val4[spl2_ptr]=(long long int)wd5_find_rt*ai_number[1];
 		else spl2_val4[spl2_ptr]=1*ai_number[1];    // repeat times x ai_num
@@ -636,7 +681,7 @@ int spl2_loop(void)
 		spl2_sval[spl2_ptr][0][2]=spl2_val3[spl2_ptr];
 		spl2_sval[spl2_ptr][0][3]=spl2_val4[spl2_ptr];
 		/*
-		spl2_pat_ptr[spl2_ptr][0]=0;
+		spl2_grm_map_ptr[spl2_ptr][0]=0;
 		*/	
 	       	if (2>=l) spl2_mrk[spl2_ptr]=2;
 
@@ -659,7 +704,7 @@ int spl2_loop(void)
 	spl2_step=1;
 	
         m1=1;
-	m2=15;
+	m2=7;
 	
 	while(1)  // separate 1 sentence to many parts,smaller and faster
 	{
@@ -711,14 +756,14 @@ int spl2_loop(void)
 				m101_p_len=spl2_len[n];
 				m101_p_seg=spl2_seg[n];
 				
-				m101_p_val1=spl2_val1[n];
-				m101_p_val2=spl2_val2[n];
-				m101_p_val3=spl2_val3[n];
-				m101_p_val4=spl2_val4[n];
+				m101_p_val1=/*spl2_sum_val(n,0)*/ spl2_val1[n];
+				m101_p_val2=/*spl2_sum_val(n,1)*/ spl2_val2[n];
+				m101_p_val3=/*spl2_sum_val(n,2)*/ spl2_val3[n];
+				m101_p_val4=/*spl2_sum_val(n,3)*/ spl2_val4[n];
 
-				m101_p_ff1=(m101_p_val1*1000)/m101_p_seg /* m101_p_len */ ;
+				m101_p_ff1=(m101_p_val1*1000)/* /m101_p_seg *//* m101_p_len */ ;
 				m101_p_ff2=(m101_p_val2*1000)/m101_p_seg /* m101_p_len */ ;
-				m101_p_ff3=(m101_p_val3*1000)/m101_p_seg /* m101_p_len */ ;
+				m101_p_ff3=(m101_p_val3*1000)/* /m101_p_seg *//* m101_p_len */ ;
 				m101_p_ff4=(m101_p_val4*1000)/m101_p_seg /* m101_p_len */ ;
 
 				m101_p_id=spl2_iid[n];
@@ -737,10 +782,10 @@ int spl2_loop(void)
 			m101_p_len=spl2_len[n];
 			m101_p_seg=spl2_seg[n];
 			
-			m101_p_val1=spl2_val1[n];
-			m101_p_val2=spl2_val2[n];
-			m101_p_val3=spl2_val3[n];
-			m101_p_val4=spl2_val4[n];
+			m101_p_val1=/*spl2_sum_val(n,0)*/ spl2_val1[n];
+			m101_p_val2=/*spl2_sum_val(n,1)*/ spl2_val2[n];
+			m101_p_val3=/*spl2_sum_val(n,2)*/ spl2_val3[n];
+			m101_p_val4=/*spl2_sum_val(n,3)*/ spl2_val4[n];
 	
 			if (m101_p_seg>=150)
 			{
@@ -779,16 +824,16 @@ int spl2_loop(void)
 					if (i<2)   i=2;
 					if (i>300) i=300;
 			
-					m101_p_val1_add=0;
+					m101_p_val1_add=i;
 					m101_p_val2_add=(long long int)wd6_find_rt*ai_number[i/2];
 					m101_p_val3_add=0;
 					m101_p_val4_add=0;
 
 					if (m101_p_len+i>=l) m101_p_mrk=2;
 
-					m101_p_ff1=((m101_p_val1+              0)*1000)/(m101_p_seg+1) /* (m101_p_len+m101_p_len_add) */ ;
+					m101_p_ff1=((m101_p_val1+m101_p_val1_add)*1000)/* /(m101_p_seg+1) *//* (m101_p_len+m101_p_len_add) */ ;
 					m101_p_ff2=((m101_p_val2+m101_p_val2_add)*1000)/(m101_p_seg+1) /* (m101_p_len+m101_p_len_add) */ ;
-					m101_p_ff3=(m101_p_val3*1000)/(m101_p_seg+1) /* (m101_p_len+m101_p_len_add) */ ;
+					m101_p_ff3=(m101_p_val3*1000)/* /(m101_p_seg+1) */ /* (m101_p_len+m101_p_len_add) */ ;
 					m101_p_ff4=(m101_p_val4*1000)/(m101_p_seg+1) /* (m101_p_len+m101_p_len_add) */ ;
 
 					if (SPL2_DEBUG)
@@ -820,9 +865,48 @@ int spl2_loop(void)
 					m101_str1[mm+1]=0;
 				}
 
-				nn=cww1_number_is2(m101_str1);
+
+
+				m101_str6[0]=0;
+				j1=strlen(m101_str1);
+				j2=0;
+		
+				while(j2<j1)
+				{
+				  if (m101_str1[j2]==' ')
+				  {
+				    m101_str7[0]=m101_str1[j2+1];
+				    m101_str7[1]=0;
+				  }
+				  else
+				  {
+				    m101_str7[0]=m101_str1[j2+0];
+				    m101_str7[1]=m101_str1[j2+1];
+				    m101_str7[2]=0;
+				  }
+		  
+				  strcat(m101_str6,m101_str7);
+		  
+				  j2=j2+2;
+				}
+
+				if (spl2_num_debug==1)
+				{
+				      deb_record(5,"2---");
+				      deb_record(5,m101_str6);
+				      deb_record(5,"\n");
+				}
+
+
+
+				nn=cww1_number_is2(m101_str6);
 				if (nn==1)
 				{
+					if (spl2_num_debug==1)
+					{
+				        	deb_record(5,"   1   \n");
+					}
+				
 					t2_insert_node(m101_str1,SMG_SIZE);
 
 					find=0;
@@ -851,16 +935,16 @@ int spl2_loop(void)
 					if (i<2)   i=2;
 					if (i>300) i=300;
 			
-					m101_p_val1_add=0;
-					m101_p_val2_add=10*ai_number[i/2];
+					m101_p_val1_add=i;
+					m101_p_val2_add=2*ai_number[i/2];
 					m101_p_val3_add=0;
 					m101_p_val4_add=0;
 
 					if (m101_p_len+i>=l) m101_p_mrk=2;
 
-					m101_p_ff1=((m101_p_val1+              0)*1000)/(m101_p_seg+1) /* (m101_p_len+m101_p_len_add) */ ;
+					m101_p_ff1=((m101_p_val1+m101_p_val1_add)*1000)/* /(m101_p_seg+1) *//* (m101_p_len+m101_p_len_add) */ ;
 					m101_p_ff2=((m101_p_val2+m101_p_val2_add)*1000)/(m101_p_seg+1) /* (m101_p_len+m101_p_len_add) */ ;
-					m101_p_ff3=(m101_p_val3*1000)/(m101_p_seg+1) /* (m101_p_len+m101_p_len_add) */ ;
+					m101_p_ff3=(m101_p_val3*1000)/* /(m101_p_seg+1) *//* (m101_p_len+m101_p_len_add) */ ;
 					m101_p_ff4=(m101_p_val4*1000)/(m101_p_seg+1) /* (m101_p_len+m101_p_len_add) */ ;
 
 					if (SPL2_DEBUG)
@@ -927,14 +1011,14 @@ int spl2_loop(void)
 			
 					m101_p_val1_add=0;
 					m101_p_val2_add=0;
-					m101_p_val3_add=0;
+					m101_p_val3_add=i;
 					m101_p_val4_add=(long long int)wd5_find_rt*ai_number[i/2];
 
 					if (m101_p_len+i>=l) m101_p_mrk=2;
 
-					m101_p_ff1=(m101_p_val1*1000)/(m101_p_seg+1) /* (m101_p_len+m101_p_len_add) */ ;
+					m101_p_ff1=(m101_p_val1*1000)/* /(m101_p_seg+1) *//* (m101_p_len+m101_p_len_add) */ ;
 					m101_p_ff2=(m101_p_val2*1000)/(m101_p_seg+1) /* (m101_p_len+m101_p_len_add) */ ;
-					m101_p_ff3=((m101_p_val3+              0)*1000)/(m101_p_seg+1) /* (m101_p_len+m101_p_len_add) */ ;
+					m101_p_ff3=((m101_p_val3+m101_p_val3_add)*1000)/* /(m101_p_seg+1) *//* (m101_p_len+m101_p_len_add) */ ;
 					m101_p_ff4=((m101_p_val4+m101_p_val4_add)*1000)/(m101_p_seg+1) /* (m101_p_len+m101_p_len_add) */ ;
 
 					if (SPL2_DEBUG)
@@ -988,16 +1072,16 @@ int spl2_loop(void)
 					
 				m101_p_val1_add=0;
 				m101_p_val2_add=0;
-				m101_p_val3_add=0;
+				m101_p_val3_add=2;
 
                                 if (nn==1) m101_p_val4_add=(long long int)wd5_find_rt*ai_number[1];
 				else m101_p_val4_add=1*ai_number[1];
 
 				if (m101_p_len+2>=l) m101_p_mrk=2;
 
-				m101_p_ff1=(m101_p_val1*1000)/(m101_p_seg+1) /* (m101_p_len+m101_p_len_add) */ ;
+				m101_p_ff1=(m101_p_val1*1000)/* /(m101_p_seg+1) *//* (m101_p_len+m101_p_len_add) */ ;
 				m101_p_ff2=(m101_p_val2*1000)/(m101_p_seg+1) /* (m101_p_len+m101_p_len_add) */ ;
-				m101_p_ff3=((m101_p_val3+              0)*1000)/(m101_p_seg+1) /* (m101_p_len+m101_p_len_add) */ ;
+				m101_p_ff3=((m101_p_val3+m101_p_val3_add)*1000)/* /(m101_p_seg+1) *//* (m101_p_len+m101_p_len_add) */ ;
 				m101_p_ff4=((m101_p_val4+m101_p_val4_add)*1000)/(m101_p_seg+1) /* (m101_p_len+m101_p_len_add) */ ;
 
 				if (SPL2_DEBUG)
@@ -1045,12 +1129,12 @@ int spl2_loop(void)
 					spl2_sval[spl2_ptr][i4][2]=t8_node_v_sval[i2][i4][2];
 					spl2_sval[spl2_ptr][i4][3]=t8_node_v_sval[i2][i4][3];
 					/*
-					spl2_pat_ptr[spl2_ptr][i4]=t8_node_v_pat_ptr[i2][i4];
+					spl2_grm_map_ptr[spl2_ptr][i4]=t8_node_v_pat_ptr[i2][i4];
 					
-					for (t=0;t<spl2_pat_ptr[spl2_ptr][i4];t++)
+					for (t=0;t<spl2_grm_map_ptr[spl2_ptr][i4];t++)
 					{
-						spl2_pat[spl2_ptr][i4][t][0]=t8_node_v_pat[i2][i4][t][0];
-						spl2_pat[spl2_ptr][i4][t][1]=t8_node_v_pat[i2][i4][t][1];
+						spl2_grm_map[spl2_ptr][i4][t][0]=t8_node_v_pat[i2][i4][t][0];
+						spl2_grm_map[spl2_ptr][i4][t][1]=t8_node_v_pat[i2][i4][t][1];
 					}*/					
 				}
 
@@ -1061,13 +1145,14 @@ int spl2_loop(void)
 		}
 
 		if (m3==0) break;
+		if (m4>=SPL2_KEEP_NUM) break;
 	}
 
 
 
-	spl2_copy_val(spl2_step);
+	//spl2_copy_val(spl2_step);
 	
-	spl2_con_val(spl2_step);
+	//spl2_con_val(spl2_step);
 	
 	
 	
@@ -1156,9 +1241,9 @@ int spl2_loop(void)
 		m101_p_val3=sv[2];
 		m101_p_val4=sv[3];
 
-		m101_p_ff1=(m101_p_val1*1000)/q /* /m101_p_seg */ /* m101_p_len */ ;
+		m101_p_ff1=(m101_p_val1*1000)/* /q */ /* /m101_p_seg */ /* m101_p_len */ ;
 		m101_p_ff2=(m101_p_val2*1000)/q /* /m101_p_seg */ /* m101_p_len */ ;
-		m101_p_ff3=(m101_p_val3*1000)/q /* /m101_p_seg */ /* m101_p_len */ ;
+		m101_p_ff3=(m101_p_val3*1000)/* /q */ /* /m101_p_seg */ /* m101_p_len */ ;
 		m101_p_ff4=(m101_p_val4*1000)/q /* /m101_p_seg */ /* m101_p_len */ ;
 				
 		m101_p_id=spl2_iid[k];
@@ -1213,9 +1298,9 @@ int spl2_loop(void)
 
 
 	if (m3==0) break;
+	if (m4>=SPL2_KEEP_NUM) break;
 
 	m1=m1+m2;
-	m2=11;
 	
 	spl2_step++;
 	
@@ -1233,12 +1318,18 @@ int spl2_loop(void)
 
 	while (n1<spl2_ptr)
 	{
+		if (spl2_mrk[n1]!=2)
+		{
+		  n1++;
+		  continue;
+		}
+
 		i=spl2_seg[n1];
 		
-		sf1=spl2_sum_val(n1,0)*1000/i;
-		sf2=spl2_sum_val(n1,1)*1000/i;
-		sf3=spl2_sum_val(n1,2)*1000/i;
-		sf4=spl2_sum_val(n1,3)*1000/i;
+		sf1=/*spl2_sum_val(n1,0)*/spl2_val1[n1]*1000/* /i */;
+		sf2=/*spl2_sum_val(n1,1)*/spl2_val2[n1]*1000/i;
+		sf3=/*spl2_sum_val(n1,2)*/spl2_val3[n1]*1000/* /i */;
+		sf4=/*spl2_sum_val(n1,3)*/spl2_val4[n1]*1000/i;
 
 		bigger=0;
 
@@ -1292,7 +1383,7 @@ int spl2_loop(void)
 
 	return(0);
 }
-
+/*
 long long int spl2_sum_val(int n1,int ptr)
 {
   long long int v;
@@ -1307,7 +1398,7 @@ long long int spl2_sum_val(int n1,int ptr)
   
   return(v);
 }
-
+*/
 int spl2_add_to_tree(void)
 {
 	long long int   ff1,ff2,ff3,ff4;
@@ -1334,12 +1425,12 @@ int spl2_add_to_tree(void)
 				t8_node_v_sval[t8_find_ptr2][i4][2]=spl2_sval[m101_p_src][i4][2];
 				t8_node_v_sval[t8_find_ptr2][i4][3]=spl2_sval[m101_p_src][i4][3];
 				/*
-				t8_node_v_pat_ptr[t8_find_ptr2][i4]=spl2_pat_ptr[m101_p_src][i4];
+				t8_node_v_pat_ptr[t8_find_ptr2][i4]=spl2_grm_map_ptr[m101_p_src][i4];
 
-				for (t=0;t<spl2_pat_ptr[m101_p_src][i4];t++)
+				for (t=0;t<spl2_grm_map_ptr[m101_p_src][i4];t++)
 				{
-					t8_node_v_pat[t8_find_ptr2][i4][t][0]=spl2_pat[m101_p_src][i4][t][0];
-					t8_node_v_pat[t8_find_ptr2][i4][t][1]=spl2_pat[m101_p_src][i4][t][1];
+					t8_node_v_pat[t8_find_ptr2][i4][t][0]=spl2_grm_map[m101_p_src][i4][t][0];
+					t8_node_v_pat[t8_find_ptr2][i4][t][1]=spl2_grm_map[m101_p_src][i4][t][1];
 				}*/					
 			}
 
@@ -1350,10 +1441,10 @@ int spl2_add_to_tree(void)
 			t8_node_v_len[t8_find_ptr2]=spl2_len[m101_p_src];
 			t8_node_v_seg[t8_find_ptr2]=spl2_seg[m101_p_src];
 			
-			t8_node_v_val1[t8_find_ptr2]=spl2_val1[m101_p_src];
-			t8_node_v_val2[t8_find_ptr2]=spl2_val2[m101_p_src];
-			t8_node_v_val3[t8_find_ptr2]=spl2_val3[m101_p_src];
-			t8_node_v_val4[t8_find_ptr2]=spl2_val4[m101_p_src];
+			t8_node_v_val1[t8_find_ptr2]=m101_p_val1 /*spl2_val1[m101_p_src]*/;
+			t8_node_v_val2[t8_find_ptr2]=m101_p_val2 /*spl2_val2[m101_p_src]*/;
+			t8_node_v_val3[t8_find_ptr2]=m101_p_val3 /*spl2_val3[m101_p_src]*/;
+			t8_node_v_val4[t8_find_ptr2]=m101_p_val4 /*spl2_val4[m101_p_src]*/;
 		}
 		else
 		{
@@ -1368,12 +1459,12 @@ int spl2_add_to_tree(void)
 				t8_node_v_sval[t8_find_ptr2][i4][2]=spl2_sval[m101_p_src][i4][2];
 				t8_node_v_sval[t8_find_ptr2][i4][3]=spl2_sval[m101_p_src][i4][3];
 				/*
-				t8_node_v_pat_ptr[t8_find_ptr2][i4]=spl2_pat_ptr[m101_p_src][i4];
+				t8_node_v_pat_ptr[t8_find_ptr2][i4]=spl2_grm_map_ptr[m101_p_src][i4];
 					
-				for (t=0;t<spl2_pat_ptr[m101_p_src][i4];t++)
+				for (t=0;t<spl2_grm_map_ptr[m101_p_src][i4];t++)
 				{
-					t8_node_v_pat[t8_find_ptr2][i4][t][0]=spl2_pat[m101_p_src][i4][t][0];
-					t8_node_v_pat[t8_find_ptr2][i4][t][1]=spl2_pat[m101_p_src][i4][t][1];
+					t8_node_v_pat[t8_find_ptr2][i4][t][0]=spl2_grm_map[m101_p_src][i4][t][0];
+					t8_node_v_pat[t8_find_ptr2][i4][t][1]=spl2_grm_map[m101_p_src][i4][t][1];
 				}*/					
 			}
 
@@ -1503,12 +1594,12 @@ int spl2_add_to_tree(void)
 					t8_node_v_sval[t8_find_ptr2][i4][2]=spl2_sval[m101_p_src][i4][2];
 					t8_node_v_sval[t8_find_ptr2][i4][3]=spl2_sval[m101_p_src][i4][3];
 					/*
-					t8_node_v_pat_ptr[t8_find_ptr2][i4]=spl2_pat_ptr[m101_p_src][i4];
+					t8_node_v_pat_ptr[t8_find_ptr2][i4]=spl2_grm_map_ptr[m101_p_src][i4];
 					
-					for (t=0;t<spl2_pat_ptr[m101_p_src][i4];t++)
+					for (t=0;t<spl2_grm_map_ptr[m101_p_src][i4];t++)
 					{
-						t8_node_v_pat[t8_find_ptr2][i4][t][0]=spl2_pat[m101_p_src][i4][t][0];
-						t8_node_v_pat[t8_find_ptr2][i4][t][1]=spl2_pat[m101_p_src][i4][t][1];
+						t8_node_v_pat[t8_find_ptr2][i4][t][0]=spl2_grm_map[m101_p_src][i4][t][0];
+						t8_node_v_pat[t8_find_ptr2][i4][t][1]=spl2_grm_map[m101_p_src][i4][t][1];
 					}*/					
 				}
 
@@ -1519,10 +1610,10 @@ int spl2_add_to_tree(void)
 				t8_node_v_len[t8_find_ptr2]=spl2_len[m101_p_src];
 				t8_node_v_seg[t8_find_ptr2]=spl2_seg[m101_p_src];
 				
-				t8_node_v_val1[t8_find_ptr2]=spl2_val1[m101_p_src];
-				t8_node_v_val2[t8_find_ptr2]=spl2_val2[m101_p_src];
-				t8_node_v_val3[t8_find_ptr2]=spl2_val3[m101_p_src];
-				t8_node_v_val4[t8_find_ptr2]=spl2_val4[m101_p_src];
+				t8_node_v_val1[t8_find_ptr2]=m101_p_val1 /*spl2_val1[m101_p_src]*/;
+				t8_node_v_val2[t8_find_ptr2]=m101_p_val2 /*spl2_val2[m101_p_src]*/;
+				t8_node_v_val3[t8_find_ptr2]=m101_p_val3 /*spl2_val3[m101_p_src]*/;
+				t8_node_v_val4[t8_find_ptr2]=m101_p_val4 /*spl2_val4[m101_p_src]*/;
 			}
 			else
 			{
@@ -1537,12 +1628,12 @@ int spl2_add_to_tree(void)
 					t8_node_v_sval[t8_find_ptr2][i4][2]=spl2_sval[m101_p_src][i4][2];
 					t8_node_v_sval[t8_find_ptr2][i4][3]=spl2_sval[m101_p_src][i4][3];
 					/*
-					t8_node_v_pat_ptr[t8_find_ptr2][i4]=spl2_pat_ptr[m101_p_src][i4];
+					t8_node_v_pat_ptr[t8_find_ptr2][i4]=spl2_grm_map_ptr[m101_p_src][i4];
 					
 					for (t=0;t<t8_node_v_pat_ptr[t8_find_ptr2][i4];t++)
 					{
-						t8_node_v_pat[t8_find_ptr2][i4][t][0]=spl2_pat[m101_p_src][i4][t][0];
-						t8_node_v_pat[t8_find_ptr2][i4][t][1]=spl2_pat[m101_p_src][i4][t][1];
+						t8_node_v_pat[t8_find_ptr2][i4][t][0]=spl2_grm_map[m101_p_src][i4][t][0];
+						t8_node_v_pat[t8_find_ptr2][i4][t][1]=spl2_grm_map[m101_p_src][i4][t][1];
 					}*/					
 				}
 
@@ -1740,7 +1831,7 @@ int spl2_add_to_tree2(void)
 
 	return(0);
 }
-
+/*
 int spl2_copy_val(int step)
 {
   int i,j,k;
@@ -1771,292 +1862,7 @@ int spl2_copy_val(int step)
   
   return(0);
 }
-
-#define CV2_DEBUG   0
-
-//---------------------
-// connection value
-//---------------------
-int spl2_con_val(int step)
-{
-    	int           i,j,k,l,m,n,o,p,t,u,y;
-	int	      i2,i3,i4,i5;
-	int           m3,m4;
-	int	      n1,n2;
-	
-	long long int   f1,f2,f3,f4;
-	long long int   sf1,sf2,sf3,sf4;
-	long long int   v1,v2,v3,v4;
-        
-	int           err;
-	int	      bigger;
-	int	      ns[10];
-	int           num;
-
-	if (step<1) step=1;
-
-	for (o=0;o<spl2_ptr;o++)
-	{
-		l =spl2_seg[o];
-
-		// test
-		if (CV2_DEBUG)
-		{
-			fputs("for sentence===\n",m_fp1);
-        
-			for (i=0;i<l;i++)
-			{
-				j=spl2_sid[o][i];
-				fputs(t2_node_val[j],m_fp1);
-		
-				if (spl2_mr2[o][i]==1) fputs(";;",m_fp1);
-				else fputs(",,",m_fp1);
-			}
-        	}        
-                
-		for (m4=(step-1)*11;m4<step*11;m4++)
-		{
-			if (CV2_DEBUG)
-			{        
-				fputs("for grammar courseware...\n",m_fp1);
-        
-				for (i=0;i<6;i++)
-				{
-					if (m4+i+1>l) continue;
-				
-					j=spl2_sid[o][m4+i];
-					fputs(t2_node_val[j],m_fp1);
-		
-					if (spl2_mr2[o][m4+i]==1) fputs(";;",m_fp1);
-					else fputs(",,",m_fp1);
-				}
-			}
-			
-			v1=0;
-			v2=0;
-			v3=0;
-			v4=0;
-
-			for (i=6;i>=2;i--)     // bigger ones at first  // add grammar in grammar courseware // number $n
-			{
-				if (m4+i>l) continue;
-
-				err=0;
-				num=0;
-				i3 =0;
-				
-				for (m=0;m<6;m++)
-				{
-					if (m+1>i) ns[m]=(-1);
-					else
-					{
-						j=spl2_sid[o][m4+m];
-							
-						strcpy(m101_str2,t2_node_val[j]);
-		
-						i2=cww1_number_is2(m101_str2);
-						if (i2==1)
-						{
-							k=(-3);
-							num=1;
-		        				i3 =i3 +strlen(m101_str2);
-				                }
-				                else
-				                {
-							y=wd5_search(m101_str2,SMG_SIZE);
-					                if (y==1)
-							{
-								k=wd5_find_ptr;
-		        					i3 =i3 +strlen(m101_str2);
-							}
-					                else
-							{
-								k=(-1000);
-								err=1;
-								break;
-							}
-						}
-					
-						ns[m]=k;
-					}
-				}
-
-				if (err==1) continue;
-				//if (num!=1) continue;
-
-				n=grm16_search(ns[0],ns[1],ns[2],ns[3],ns[4],ns[5]);
-				if (n==1)
-				{
-					/*
-					p=spl2_pat_ptr[o][m4];
-					if (p<8)
-					{
-						spl2_pat[o][m4][p][0]='A';
-						spl2_pat[o][m4][p][1]='0'+i;
-						
-						spl2_pat_ptr[o][m4]++;
-					}
-					*/
-					if (i3<2)   i3=2;
-					if (i3>300) i3=300;
-					
-						if (CV2_DEBUG)
-						{
-					sprintf(m101_str1,"mark= 2-6 grammar\n");
-					fputs(m101_str1,m_fp1);
-					sprintf(m101_str1,"add val=%d,%d,%d,%d,",ai_number[i3/2],grm16_find_rt*(i3/2),0,0);
-					fputs(m101_str1,m_fp1);
-					//fputs("\n",m_fp1);
-						}
-			
-					v1=v1+0;
-					v2=v2+(long long int)grm16_find_rt*ai_number[i3/2];    // repeat times x ai_num
-					
-						if (CV2_DEBUG)
-						{
-					sprintf(m101_str1,"after val=%lld,%lld,%lld,%lld,",v1,v2,v3,v4);
-					fputs(m101_str1,m_fp1);
-					fputs("\n",m_fp1);
-						}
-				}
-			}
-
-			spl2_sval[o][m4][0]=spl2_sval[o][m4][0]+v1;
-			spl2_sval[o][m4][1]=spl2_sval[o][m4][1]+v2;
-			spl2_sval[o][m4][2]=spl2_sval[o][m4][2]+v3;
-			spl2_sval[o][m4][3]=spl2_sval[o][m4][3]+v4;
-		}
-/*
-		for (m4=(step-1)*11;m4<step*11;m4++)
-		{
-			if (CV2_DEBUG)
-			{
-				fputs("for gram...\n",m_fp1);
-
-				for (i=0;i<4;i++)
-				{
-					if (m4+i+1>l) continue;
-				
-					j=spl2_sid[o][m4+i];
-					fputs(t2_node_val[j],m_fp1);
-		
-					if (spl2_mr2[o][m4+i]==1) fputs(";;",m_fp1);
-					else fputs(",,",m_fp1);
-				}
-			}			
-			
-			v1=0;
-			v2=0;
-			v3=0;
-			v4=0;
-
-			for (i=4;i>=2;i--)     // bigger ones at first  // add grammar in grammar database 
-			{
-				if (m4+i>l) continue;
-
-				i4=grm10_ptr1[i];   // mark number
-
-				for (m=0;m<i4;m++) // for every mark
-				{
-					
-					//fputs("for mark...\n",m_fp1);
-					//fputs(grm10_mrk[i][m],m_fp1);
-					//fputs("\n",m_fp1);
-        				
-					err=0;
-					i3=0;
-					
-					for (i5=0;i5<4;i5++) // for every char
-					{
-						if (i5+1>i) ns[i5]=(-1);
-						else if (grm10_mrk[i][m][i5]=='1')
-						{
-							j=spl2_sid[o][m4+i5];
-							
-							strcpy(m101_str2,t2_node_val[j]);
-		
-							//printf("%s,\n",m101_str2);
-		
-							y=wd5_search(m101_str2);
-				        	        if (y==1)
-							{
-								k=wd5_find_ptr;
-	        						i3 =i3 +strlen(m101_str2);
-							}
-				        	        else
-							{
-								k=(-1000);
-								err=1;
-								break;
-							}
-							
-							ns[i5]=k;
-							
-							//printf("y=%d,k=%d,\n",y,k);
-									
-						}
-						else if (grm10_mrk[i][m][i5]=='0')
-						{
-        		                               	ns[i5]=(-2);					//(-2):$* ,any word   (-3):number
-						}
-						else if (grm10_mrk[i][m][i5]==' ') ns[i5]=(-1); //(-1):end of grammar (-1000):not found in word base
-					}
-				
-					if (err==1) continue;
-
-					//printf("grammar=%d,%d,%d,%d,\n",ns[0],ns[1],ns[2],ns[3]);
-
-					n=grm15_search(ns[0],ns[1],ns[2],ns[3]);
-					if (n==1)
-					{
-						//printf("grammar found\n");
-						
-						p=spl2_pat_ptr[o][m4];
-						if (p<8)
-						{
-							spl2_pat[o][m4][p][0]='B';
-							spl2_pat[o][m4][p][1]='0'+i;
-						
-							spl2_pat_ptr[o][m4]++;
-						}
-
-						if (i3<2)   i3=2;
-						if (i3>300) i3=300;
-					
-						if (CV2_DEBUG)
-						{
-					sprintf(m101_str1,"mark=%s,\n",grm10_mrk[i][m]);
-					fputs(m101_str1,m_fp1);
-					sprintf(m101_str1,"add val=%d,%d,%d,%d,",0,0,ai_number[i3/2],grm15_find_rt*(i3/2));
-					fputs(m101_str1,m_fp1);
-					//fputs("\n",m_fp1);
-						}
-						
-						v3=v3+ai_number[i3/2];
-						v4=v4+grm15_find_rt*(i3/2);    // repeat times x len
-						
-						if (CV2_DEBUG)
-						{
-					sprintf(m101_str1,"...after val=%lld,%lld,%lld,%lld,",v1,v2,v3,v4);
-					fputs(m101_str1,m_fp1);
-					fputs("\n",m_fp1);
-						}						
-					}
-					
-					//printf("end\n");
-				}
-			}
-			
-			spl2_sval[o][m4][0]=spl2_sval[o][m4][0]+v1;
-			spl2_sval[o][m4][1]=spl2_sval[o][m4][1]+v2;
-			spl2_sval[o][m4][2]=spl2_sval[o][m4][2]+v3;
-			spl2_sval[o][m4][3]=spl2_sval[o][m4][3]+v4;
-		}
 */
-	}
-
-	return(0);
-}
 
 int spl2_out_sid[150][25];
 int spl2_out_mr2[150][25];
@@ -2067,20 +1873,64 @@ int shortword()
 	int  i,j,k,l,n;
 	char str1[300];
 	char str2[300];
+	char str3[300];
+
+	for (j=0;j<spl1_seg[spl1_out_ptr];j++) // mark grammar's words
+	{
+	  str3[j]=0;
+	}
+
+	for (j=0;j<spl1_seg[spl1_out_ptr];j++) // mark grammar's words
+	{
+	  i=spl1_grm_map_ptr[spl1_out_ptr][j];
+	  
+	  for (k=0;k<i;k++)
+	  {
+	    if (spl1_grm_map[spl1_out_ptr][j][k][0]=='A')
+	    {
+	      l=spl1_grm_map[spl1_out_ptr][j][k][1];
+	      l=l-'0';
+	      
+	      if ((l>=2)&&(l<=6))
+	      {
+	        for (n=0;n<l;n++) str3[j+n]=1;
+	      }
+	    }
+	  }
+	}
 	
 	for (j=0;j<spl1_seg[spl1_out_ptr];j++)
 	{
 		k=spl1_sid[spl1_out_ptr][j];
 		strcpy(spl2_in,t2_node_val[k]);
-		
+
+// -----------------------------step1----step2(is sub)----step2(isn't sub)--
+// mr2 1 word courseware        ;;       ##               ;;
+// mr2 2 number                 ::       %%               ;;
+// mr2 3 xiao lao               ::       %%
+// mr2 4 jing li , zhu ren      ::       %%
+// mr2 5 word base              ,,       ++               ,,
+// mr2 6 chiness people name    ,,       ++
+// mr2 7 1 chiness              ,,       ,,               ,,
+// grammar                               &&               &&
+//--------------------------------------------------------------------------
+
 		n=wd7_sub_search(spl2_in); //in sub words course
-		if ((n==1)||(spl1_mr2[spl1_out_ptr][j]==2)||(spl1_mr2[spl1_out_ptr][j]==3)||(spl1_mr2[spl1_out_ptr][j]==4)||(spl1_mr2[spl1_out_ptr][j]==6)||(spl1_mr2[spl1_out_ptr][j]==7))
+		if ((n==1)||(spl1_mr2[spl1_out_ptr][j]==1)||
+		            (spl1_mr2[spl1_out_ptr][j]==2)||
+		            (spl1_mr2[spl1_out_ptr][j]==3)||
+		            (spl1_mr2[spl1_out_ptr][j]==4)||
+		            (spl1_mr2[spl1_out_ptr][j]==6)||
+		            (spl1_mr2[spl1_out_ptr][j]==7)||
+		            (str3[j]==1))
 		{
 			spl2_out_sid[j][0]=spl1_sid[spl1_out_ptr][j];
 			
 			if ((spl1_mr2[spl1_out_ptr][j]==1)) spl2_out_mr2[j][0]=3;
 			else if ((spl1_mr2[spl1_out_ptr][j]==2)||(spl1_mr2[spl1_out_ptr][j]==3)||(spl1_mr2[spl1_out_ptr][j]==4)) spl2_out_mr2[j][0]=4;
-			else spl2_out_mr2[j][0]=2;
+			else if (str3[j]==1) spl2_out_mr2[j][0]=5;    //grammar's words
+			else if ((spl1_mr2[spl1_out_ptr][j]==5)||(spl1_mr2[spl1_out_ptr][j]==6)) spl2_out_mr2[j][0]=2;
+			else spl2_out_mr2[j][0]=0;
 			
 			spl2_out_sid_ptr[j]=1;
 			

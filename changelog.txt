@@ -1,4 +1,10 @@
-﻿==================================================================================================
+
+July 9th 2024 version
+
+* fixed 4 bugs
+* better algorithm
+* better number string recognize
+* better special character proccess
 
 Apr 19th 2024 version
 
@@ -6,9 +12,21 @@ Apr 19th 2024 version
 * better chiness people's name proccess
 * better proccess of '(' '[' '{' ')' ']' '}'
 * sentence database files increase to 2100
-* remove step50
+* remove step50 , add it to step90
 * its a beta version
 
+Jun 26th 2023 version 
+ 
+ *add new formula to super pipeline ,its much faster,after increased parameter,
+    its still faster than before ,
+ *separate sentence to many part when calculate, so its smaller and faster ,
+ *add more word/grammar courseware, 
+ *removed grammar database,only use grammar courseware,
+ *use 2 level of super pipeline,spl1 and spl2, 
+ *added a app,charset automatic recognize
+    (in directory 'webfind66',get html file's charset by AI and get html file's charset by 
+     read code '<meta charset="xx"> ,if they are same then load to sentence database,so sentence 
+     database is verified by AI.)
 
 Feb 19th 2023 version
     
@@ -23,13 +41,11 @@ Feb 19th 2023 version
 * passed test on Ubuntu 22.04.1
              and Ubuntu 20.04.5
 
-
 Jan 12th 2022 version
 
 * replaced binary tree search by binary search ,smaller and faster
 * increased parameter to be suitable to every kind of web pages  
 * added sentence separating app 
-
 
 July 22th 2021 version
 
@@ -39,14 +55,12 @@ July 22th 2021 version
 * in before,set param SPL1_OUT_NUM to 20,choose the 20 highest word value ones 
     to calculate grammar value , accuracy +1% , now ,set param SPL1_OUT_NUM to 200, accuracy +2%
 
-
 Sep 3rd 2020 version
  
 * better formula of super pipeline 
 * add debug code to super pipeline
 * better punctuation proccess
 * 5 words grammar change to 4 words grammar
-
 
 Sep 25th 2019 version
 
@@ -56,4 +70,5 @@ Sep 25th 2019 version
 *  words/grammar repeat 3 times changed to repeat 2 times 
 *  better name for "wd5..." "wd6..."
 *  "loada7" rename to "load8"...
+
 

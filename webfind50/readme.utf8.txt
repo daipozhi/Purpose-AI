@@ -55,8 +55,8 @@ if you already made courseware , you want add some new words ,goto work_dir,add 
     拷贝到words-cw02_notsort.txt文件 ,再把这个文件拷贝work_dir目录,
       然后运行step60-2.exe,词课件就完成了.
 
-如果你已经制作了词课件,想增加一些新词,在work_dir目录,把新词加入words-cw02_notsort.utf8.txt中,
-    把这个文件转为GB18030编码,拷贝到words-cw02_notsort.txt文件 ,
+如果你已经制作了词课件,想增加一些新词,在work_dir目录,把新词加入words-cw02.notsort.utf8.txt中,
+    把这个文件转为GB18030编码,拷贝到words-cw02.notsort.txt文件 ,
      然后运行step60-2.exe,词课件就完成了.
 
 (在这里的程序里,汉字是用GB18030编码的,在Windows里可以直接浏览,如果你用的

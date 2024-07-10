@@ -11,15 +11,8 @@
 #include <string.h>
 
 #define SMG_SIZE		 300
-//#define PY_YIN           1000
-//#define STR_LEN_WORD2    25
-
-//char word8_s[STR_LEN_WORD2];
-//int word8_l1;
 
 int word8(char *);
-
-//#define MB_OK 1
 
 //extern int MessageBox(int ,char *,char *,int );
 
@@ -202,7 +195,7 @@ int main(void)
 {
 	MessageBox(0,"load words-cww3-000000.txt, write to words03.txt words-cw02rpt03.txt","message",MB_OK);
 
-	cww1_load(); // word courseware 1
+	cww1_load2(); // word courseware 1
 
 	//wd6_load();
 
@@ -214,14 +207,10 @@ int main(void)
 
     	t1_after_list("words03.txt");
   
-    	//t1_save_list("words03.txt");
-
 	load17();
 
     	t3_after_list("words-cw02rpt03.txt");
   
-    	//t3_save_list("words-cw02rpt03.txt");
-
 	MessageBox(0,"words ok","message",MB_OK);
 
 	return(0);
@@ -278,6 +267,7 @@ int word8(char *pstr1)
 			m201_str1[0]=0;
 
 			fgets(m201_str1,5000,fp1);
+			
       			/*
             		j=(int)strlen(m201_str1);
       
@@ -287,6 +277,7 @@ int word8(char *pstr1)
               			else break;
 			}
       			*/
+      			
       			string_trim_nos(m201_str1);
       			
             		l=0;
@@ -307,35 +298,29 @@ int word8(char *pstr1)
 					l=l+2;
 					m=m+2;
 				}
+				else if ((c4!=',')&&(c4!=';')&&(c4!=':'))
+				{
+					m201_str2[m+0]=c4;
+					m201_str2[m+1]=c5;
+					m201_str2[m+2]=0;
+
+					l=l+2;
+					m=m+2;
+				}
 				else
 				{
+					t2_insert_node(m201_str2,5000);
+					t2_node_val2[t2_find_ptr2]=t2_node_val2[t2_find_ptr2]+1;
 
-					if ((c4!=',')&&(c4!=';')&&(c4!=':'))
+					if (c4==';')
 					{
-						m201_str2[m+0]=c4;
-						m201_str2[m+1]=c5;
-						m201_str2[m+2]=0;
-
-						l=l+2;
-						m=m+2;
-					}
-					else
-					{
-
-						t2_insert_node(m201_str2,5000);
-						t2_node_val2[t2_find_ptr2]=t2_node_val2[t2_find_ptr2]+1;
-
-						if (c4==';')
-						{
-							t3_insert_node(m201_str2,5000);
-							t3_node_val2[t3_find_ptr2]=t3_node_val2[t3_find_ptr2]+1;
-						}
-
-						m=0;
-						m201_str2[0]=0;
-						l=l+2;
+						t3_insert_node(m201_str2,5000);
+						t3_node_val2[t3_find_ptr2]=t3_node_val2[t3_find_ptr2]+1;
 					}
 
+					m=0;
+					m201_str2[0]=0;
+					l=l+2;
 				}
 			}
 
@@ -359,7 +344,7 @@ int word8(char *pstr1)
 				c2='0';
 				c3++;
 				if (c3>'9')
-                {
+                		{
             c3='0';
 	    c7++;
 	    if (c7>'9')
@@ -371,9 +356,9 @@ int word8(char *pstr1)
 			    c8='0';
 			    c9++;
 			    if (c9>'9') return(1);
+            	    }
             }
-        }
-                }
+                		}
 			}
 		}
 
@@ -594,6 +579,7 @@ int load17(void)
 	while(!feof(fp1))
 	{
 		m201_str1[0]=0;
+		
 		fgets(m201_str1,5000,fp1);
 		
 		/*
@@ -633,21 +619,18 @@ int load17(void)
 				l=l+2;
 				m=m+2;
 			}
+			else if (c4<' ')
+			{
+				break;
+			}
 			else
 			{
-				if ((c4>=0)&&(c4<' '))
-				{
-					break;
-				}
-				else
-				{
-					m201_str9[p][m+0]=c4;
-					m201_str9[p][m+1]=c5;
-					m201_str9[p][m+2]=0;
+				m201_str9[p][m+0]=c4;
+				m201_str9[p][m+1]=c5;
+				m201_str9[p][m+2]=0;
 
-					l=l+2;
-					m=m+2;
-				}
+				l=l+2;
+				m=m+2;
 			}
 		}
 		
@@ -675,6 +658,7 @@ int load17(void)
 	fclose(fp1);
 
 	printf("load17() words-cw02.sort.txt ok,read=%d,insert=%d,t3_buff_ptr=%d,\n",rd,ins,t3_buff_ptr);
+	
 	return(0);
 }
 

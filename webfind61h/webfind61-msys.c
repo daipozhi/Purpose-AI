@@ -145,11 +145,10 @@ int main(int argc,char **argv)
       printf("bad argument\n");
       return(0);
     }
-
+	
 	MessageBoxNow(0,"load words-cww2-000000.txt , word database, words courseware, grammar database, grammar courseware, write to words-gram-000000.txt","message",MB_OK);
 
 	ai_number_g();
-	ai_number_adjust();
 
 	grm10_ini();
 
@@ -159,7 +158,7 @@ int main(int argc,char **argv)
 	i=wd6_load();  // word courseware 2
 	if (i!=0) return(1);
 
-	i=cww1_load(); // word courseware 1
+	i=cww1_load2(); // word courseware 1
 	if (i!=0) return(1);
 
 	i=wd7_sub_load(); // sub word courseware 
@@ -347,6 +346,7 @@ int f1_init_ext(void)
 	mc5=init_c5;
 	mc6=init_c6;
 */
+
 	mc1=init_c1;
 	mc2=init_c2;
 	mc3=init_c3;
@@ -376,6 +376,7 @@ int f1_next_ext(void)
 
 	return(0);
 */
+
 	mc1++;
 	if (mc1>'9')
 	{
@@ -386,8 +387,8 @@ int f1_next_ext(void)
 			mc2='0';
 			mc3++;
 			if (mc3>'9')
-            {
-    mc3='0';
+		        {
+        mc3='0';
 	mc4++;
 	if (mc4>'9')
 	{
@@ -398,9 +399,9 @@ int f1_next_ext(void)
 			mc5='0';
 			mc6++;
 			if (mc6>'9') return(1);
-        }
-    }
-            }
+        	}
+    	}
+            		}
 		}
 	}
 
@@ -503,8 +504,8 @@ extern char spl1_mrk[SPL1_NUM];
 extern int  spl1_len[SPL1_NUM];
 extern int  spl1_seg[SPL1_NUM];
 
-extern	  char spl1_pat[SPL1_NUM][150][10][2];
-extern	  char spl1_pat_ptr[SPL1_NUM][150];
+extern	  char spl1_grm_map[SPL1_NUM][150][10][2];
+extern	  char spl1_grm_map_ptr[SPL1_NUM][150];
 
 //----spl2--------------------------
 extern	int spl2_out_sid[150][25];
@@ -546,6 +547,7 @@ int frame_loop1(void)
 	int 	     tst1;
 
 	f1_get_fln3(m101_str5);
+	//strcpy(s1,"words-cww2-000000.txt");
 
 	s_fp1=fopen(m101_str5,"r");
 	if (s_fp1==NULL)
@@ -556,6 +558,7 @@ int frame_loop1(void)
 
 
 	f1_get_fln2(m101_s1);
+	//strcpy(s1,"words-gram-000000.txt");
 
 	strcpy(m101_s2,m101_s1);
 
@@ -566,15 +569,12 @@ int frame_loop1(void)
 		return(1);
 	}
 
-	printf("Into %s,\n",m101_s2);
+	printf("%s,\n",m101_s2);
 
 	while (!feof(s_fp1))
 	{
-		for (i=0;i<3000;i++)
-		{
-			m101_l1[i]=0;
-			m101_l2[i]=0;
-		}
+		m101_l1[0]=0;
+		m101_l2[0]=0;
 
 		fgets(m101_l1,3000,s_fp1);
 
@@ -594,20 +594,17 @@ int frame_loop1(void)
 				k=k+2;
 				i=i+2;
 			}
+			else if (c1<' ')
+			{
+				break;
+			}
 			else
 			{
-				if (c1<' ')
-				{
-					break;
-				}
-				else
-				{
-					m101_l2[k+0]=' ';
-					m101_l2[k+1]=lower(c1);
-					m101_l2[k+2]=0;
-					k=k+2;
-					i++;
-				}
+				m101_l2[k+0]=' ';
+				m101_l2[k+1]=lower(c1);
+				m101_l2[k+2]=0;
+				k=k+2;
+				i++;
 			}
 		}
 
@@ -668,7 +665,7 @@ int frame_loop1(void)
 		o=0;
 		for (i=0;i<spl1_seg[spl1_out_ptr];i++)
 		{
-			if (o<spl1_pat_ptr[spl1_out_ptr][i]) o=spl1_pat_ptr[spl1_out_ptr][i];
+			if (o<spl1_grm_map_ptr[spl1_out_ptr][i]) o=spl1_grm_map_ptr[spl1_out_ptr][i];
 		}
 				
 		for (p=0;p<o;p++)
@@ -698,10 +695,10 @@ int frame_loop1(void)
 				for (q=0;q<u+2;q++)
 					if (m101_str6[p][q]<' ') m101_str6[p][q]=' ';
 
-				if (spl1_pat_ptr[spl1_out_ptr][i]>p)
+				if (spl1_grm_map_ptr[spl1_out_ptr][i]>p)
 				{
-					m101_str6[p][u+0]=spl1_pat[spl1_out_ptr][i][p][0];
-					m101_str6[p][u+1]=spl1_pat[spl1_out_ptr][i][p][1];
+					m101_str6[p][u+0]=spl1_grm_map[spl1_out_ptr][i][p][0];
+					m101_str6[p][u+1]=spl1_grm_map[spl1_out_ptr][i][p][1];
 				}
 			}
 		}
@@ -729,6 +726,7 @@ int frame_loop1(void)
 					else if (spl2_out_mr2[i][j]==2) fputs("++",m_fp1);
 					else if (spl2_out_mr2[i][j]==3) fputs("##",m_fp1);
 					else if (spl2_out_mr2[i][j]==4) fputs("%%",m_fp1);
+					else if (spl2_out_mr2[i][j]==5) fputs("&&",m_fp1);
 					else fputs(",,",m_fp1);
 				}
 			}
@@ -750,7 +748,7 @@ int frame_loop1(void)
 	
 	fclose(m_fp1);
 
-	printf("%s Ok,\n",m101_s2);
+	//printf("%s Ok,\n",m101_s2);
 
 	return(0);
 }
@@ -860,7 +858,7 @@ int sent_cb2_in(char *str)
 
 	return(0);
 }
-
+/*
 int f1_get_fln4(char *s1)
 {
 	strcpy(s1,"words03.txt");
@@ -871,7 +869,7 @@ int f1_get_fln4(char *s1)
 
 	return(0);
 }
-
+*/
 char chn_name1[100][10];
 int  chn_name1_ptr;
 

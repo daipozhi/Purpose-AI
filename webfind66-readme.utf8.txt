@@ -390,8 +390,8 @@ int mproc()
 		        }
 		    }
 		    
-		    if (bigger==1) strcpy(m_charset2,"utf-8");     //如果utf-8的分数高则字符集是utf-8
-		    else           strcpy(m_charset2,"gb18030");   //如果gb18030分数高则是gb18030
+		    if (bigger==1) strcpy(m_charset2,"utf-8");     //如果当作utf-8的分数高则字符集是utf-8
+		    else           strcpy(m_charset2,"gb18030");   //如果当作gb18030的分数高则是gb18030
                                                                    //如果是乱码，没有任何含义，和语言的知识体系匹配程度低，所以分数低
                                                                    //如果不是乱码,有一定含义的，和语言的知识体系匹配程度高，所以分数高
 

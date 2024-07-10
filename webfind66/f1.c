@@ -22,7 +22,7 @@
 
 int f1_endptr;
 
-int f1_file(char *fn1,char *fn2);
+int f1_file(char *fn1,char *fn2,char *fn3);
 int f1_1stloadstr(int fh);
 int f1_loadstr(int ptr,char *s1,char *s2);
 int f1_sav(FILE *fp);
@@ -49,8 +49,15 @@ char m_buff2[BUF_LEN];
 extern int f3_file(char *fn);
 int    mydebug;
 
+extern int fu_conv(char *fn1,char *fn2);
 
-int f1_file(char *fn1,char *fn2)
+extern char kuo1[100][30];
+extern char kuo2[100][30];
+
+extern int  kuo_ptr1;
+extern int  kuo_ptr2;
+
+int f1_file(char *fn1,char *fn2,char *fn3)
 {
   FILE *fp1;
 //  int  i,j;
@@ -80,12 +87,14 @@ int f1_file(char *fn1,char *fn2)
   
   fclose(fp1);
 
+  fu_conv(fn2,fn3);
+
   return(0);
 }
 
 int f1_sav(FILE *fp1)
 {
-	int  i,j,k,l,m,n,o,ret,newl,newsp;
+	int  i,j,k,l,m,n,o,p,ret,newl,newsp;
 	int  cc;
 	char s1[300];
 	char s2[300];
@@ -93,11 +102,13 @@ int f1_sav(FILE *fp1)
         char s4[300];
         char s5[300];
         char c1,c2;
+        int  kuo;
 
 	i=0;   // arti ptr
 	cc=0;  // is content
 	newl=1;  // new line
 	newsp=0; // new space
+	kuo=0;
 
 	while (i<f1_endptr)
 	{
@@ -119,10 +130,21 @@ int f1_sav(FILE *fp1)
 			{
 			    if (newl==0)
 			    {
+			      if (kuo>0)
+			      {
+			        fputs(" ",fp1);
+			        //cc=0;
+			        //newl=1;
+			        newsp=0;
+			        f2_pointer++;
+			      }
+			      else
+			      {
 			        fputs("\n",fp1);
 			        cc=0;
 			        newl=1;
 			        newsp=0;
+			      }
 			    }
 			    else
 			    {
@@ -135,7 +157,7 @@ int f1_sav(FILE *fp1)
 			i++;
 			continue;
 		}
-
+/*
 		if (strncmp(s1,"&nbsp;",6)==0)
 		{
 			m_buff2[i+0]=0;
@@ -178,7 +200,7 @@ int f1_sav(FILE *fp1)
 			i=i+4;
 			continue;
 		}
-
+*/
 		if ( strncmp(s1,"<pre",4)==0) j=5;
 		if ( strncmp(s1,"</pre",5)==0) j=5;
 
@@ -358,6 +380,7 @@ int f1_sav(FILE *fp1)
 				cc=0;   // content
 				newl=1; // new line 
 				newsp=0;
+				kuo=0;
 			}
 		}
 		else
@@ -388,8 +411,10 @@ int f1_sav(FILE *fp1)
 						cc=0;
 						newl=1;
 						newsp=0;
+						kuo=0;
 					}
 				}
+				/*
 				else
 				{
 					c1=m_buff2[i+0];
@@ -408,6 +433,60 @@ int f1_sav(FILE *fp1)
 	
 					i++;
 				}
+				*/
+				else
+				{
+					c1=m_buff2[i+0];
+					c2=m_buff2[i+1];
+					
+					if (c1>=0)
+					{
+					  s2[0]=c1;
+					  s2[1]=0;
+
+					  fputs(s2,fp1);
+
+					  cc=1;
+					  newl=0;
+					  newsp=0;
+					  f2_pointer++;
+					  i++;
+					}
+					else
+					{
+					  s2[0]=c1;
+					  s2[1]=c2;
+					  s2[2]=0;
+
+					  fputs(s2,fp1);
+
+					  cc=1;
+					  newl=0;
+					  newsp=0;
+					  f2_pointer=f2_pointer+2;
+					  i=i+2;
+					}
+					
+					for (p=0;p<kuo_ptr1;p++) // if it is < ( [ { 
+					{
+					  if (strcmp(s2,kuo1[p])==0)
+					  {
+					    kuo++;
+					    break;
+					  }
+					}
+					
+					for (p=0;p<kuo_ptr2;p++) // if it is > ) ] }
+					{
+					  if (strcmp(s2,kuo2[p])==0)
+					  {
+					    kuo--;
+					    if (kuo<0) kuo=0;
+					    break;
+					  }
+					}
+				}
+				
 			}
 		}
 	}
@@ -634,13 +713,14 @@ int f1_skipcmd(int ptr)
 			break;
 		}
 
+		/*
 		//&gt;
 		if ((m_buff2[ptr]=='&')&&(m_buff2[ptr+1]=='g')&&(m_buff2[ptr+2]=='t')&&(m_buff2[ptr+3]==';'))
 		{
 			j=4;
 			break;
 		}
-
+		*/
 	}
 
 	for (k=i;k<ptr+j;k++) m_buff2[k]=0;
