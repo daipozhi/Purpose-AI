@@ -356,6 +356,10 @@ static  long long int          m101_p_ff4;
 
 static long long int  m101_p_id;
 static long long int  item_id;
+
+extern int load_glue_word(void);
+extern int glue_word_in(char *str);
+
 //----------------------------------------------------------------
 // spl2 super pipeline level 2 , sparate long word to shorter word
 //----------------------------------------------------------------
@@ -761,6 +765,9 @@ int spl2_loop(void)
 				m101_p_val3=/*spl2_sum_val(n,2)*/ spl2_val3[n];
 				m101_p_val4=/*spl2_sum_val(n,3)*/ spl2_val4[n];
 
+				m101_p_len_add=0;
+				m101_p_seg_add=0;
+
 				m101_p_ff1=(m101_p_val1*1000)/* /m101_p_seg *//* m101_p_len */ ;
 				m101_p_ff2=(m101_p_val2*1000)/m101_p_seg /* m101_p_len */ ;
 				m101_p_ff3=(m101_p_val3*1000)/* /m101_p_seg *//* m101_p_len */ ;
@@ -786,6 +793,9 @@ int spl2_loop(void)
 			m101_p_val2=/*spl2_sum_val(n,1)*/ spl2_val2[n];
 			m101_p_val3=/*spl2_sum_val(n,2)*/ spl2_val3[n];
 			m101_p_val4=/*spl2_sum_val(n,3)*/ spl2_val4[n];
+
+			m101_p_len_add=0;
+			m101_p_seg_add=0;
 	
 			if (m101_p_seg>=150)
 			{
@@ -1874,6 +1884,7 @@ int shortword()
 	char str1[300];
 	char str2[300];
 	char str3[300];
+	char str4[300];
 
 	for (j=0;j<spl1_seg[spl1_out_ptr];j++) // mark grammar's words
 	{
@@ -1914,6 +1925,8 @@ int shortword()
 // mr2 7 1 chiness              ,,       ,,               ,,
 // grammar                               &&               &&
 //--------------------------------------------------------------------------
+//glue word                                                        @@
+//--------------------------------------------------------------------------
 
 		n=wd7_sub_search(spl2_in); //in sub words course
 		if ((n==1)||(spl1_mr2[spl1_out_ptr][j]==1)||
@@ -1947,6 +1960,32 @@ int shortword()
 		else
 		{
 			spl2_loop();
+			
+			l=spl2_seg[spl2_out_ptr];
+			if (l>1)
+			{
+				k=spl2_sid[spl2_out_ptr][l-1];
+				strcpy(str4,t2_node_val[k]);
+				
+				if (glue_word_in(str4)==1)  //its glue word
+				{
+					spl2_out_sid[j][0]=spl1_sid[spl1_out_ptr][j];
+					spl2_out_sid_ptr[j]=1;
+					spl2_out_mr2[j][0]=6;
+					
+					//test
+					/*
+					sprintf(str1,"glue word=1,str=%s,\n",t2_node_val[ spl1_sid[spl1_out_ptr][j] ]);
+					str_gb18030_to_utf8_ini();
+					if (AI_LINUX==1) str_gb18030_to_utf8(str1,str2,SMG_SIZE);
+					else strcpy(str2,str1);
+					str_gb18030_to_utf8_close();
+					printf("%s",str2);
+					*/
+
+					continue;
+				}
+			}
 		
 			for (l=0;l<spl2_seg[spl2_out_ptr];l++)
 			{

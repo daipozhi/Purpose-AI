@@ -1070,6 +1070,9 @@ int spl1_loop(void)
 				m101_p_val3=spl1_val3[n];
 				m101_p_val4=spl1_val4[n];
 
+				m101_p_len_add=0;
+				m101_p_seg_add=0;
+
 				m101_p_ff1=(m101_p_val1*1000)/* /m101_p_seg */ /* m101_p_len */ ;
 				m101_p_ff2=(m101_p_val2*1000)/* /m101_p_seg */ /* m101_p_len */ ;
 				m101_p_ff3=(m101_p_val3*1000)/* /m101_p_seg */ /* m101_p_len */ ;
@@ -1095,6 +1098,9 @@ int spl1_loop(void)
 			m101_p_val2=spl1_val2[n];
 			m101_p_val3=spl1_val3[n];
 			m101_p_val4=spl1_val4[n];
+
+			m101_p_len_add=0;
+			m101_p_seg_add=0;
 	
 			if (m101_p_seg>=150)
 			{

@@ -1,4 +1,12 @@
 
+Dec 5th 2024 version
+
+* fixed 1 bug
+* add more word/grammar courseware,
+* updated document
+* added glue word,in before,'科技,,感','满意,,度' will been separated,
+    now don't separate them.
+
 July 9th 2024 version
 
 * fixed 4 bugs

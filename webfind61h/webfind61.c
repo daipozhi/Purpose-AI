@@ -110,6 +110,9 @@ int chn_xiaolao_in(char *str);
 int load_chn_chenghu(void);
 int chn_chenghu_in(char *str);
 
+int load_glue_word(void);
+int glue_word_in(char *str);
+
 //int pascal WinMain(HINSTANCE ins
 //		  ,HINSTANCE pins
 //		  ,LPSTR cl
@@ -152,6 +155,9 @@ int main(int argc,char **argv)
 	if (i!=0) return(1);
 
 	i=load_chn_chenghu();
+	if (i!=0) return(1);
+	
+	i=load_glue_word();
 	if (i!=0) return(1);
 
 	mproc("");
@@ -653,6 +659,7 @@ int frame_loop1(void)
 					else if (spl2_out_mr2[i][j]==3) fputs("##",m_fp1);
 					else if (spl2_out_mr2[i][j]==4) fputs("%%",m_fp1);
 					else if (spl2_out_mr2[i][j]==5) fputs("&&",m_fp1);
+					else if (spl2_out_mr2[i][j]==6) fputs("@@",m_fp1);
 					else fputs(",,",m_fp1);
 				}
 			}
@@ -847,6 +854,7 @@ int load_chn_name1(void)
 int chn_name1_in(char *str)
 {
 	int i;
+	
 	for (i=0;i<chn_name1_ptr;i++)
 	{
 		if (strcmp(str,chn_name1[i])==0) return(1);
@@ -906,6 +914,7 @@ int load_chn_name2(void)
 int chn_name2_in(char *str)
 {
 	int i;
+	
 	for (i=0;i<chn_name2_ptr;i++)
 	{
 		if (strcmp(str,chn_name2[i])==0) return(1);
@@ -965,6 +974,7 @@ int load_chn_xiaolao(void)
 int chn_xiaolao_in(char *str)
 {
 	int i;
+	
 	for (i=0;i<chn_xiaolao_ptr;i++)
 	{
 		if (strcmp(str,chn_xiaolao[i])==0) return(1);
@@ -1024,9 +1034,71 @@ int load_chn_chenghu(void)
 int chn_chenghu_in(char *str)
 {
 	int i;
+	
 	for (i=0;i<chn_chenghu_ptr;i++)
 	{
 		if (strcmp(str,chn_chenghu[i])==0) return(1);
+	}
+
+	return(0);
+}
+
+char glue_word[600][10];
+int  glue_word_ptr;
+
+int load_glue_word(void)
+{
+	FILE *fp1;
+	int   i,j,k;
+	char  str[300];
+
+	fp1=fopen("glue-word.txt","r");
+	if (fp1==NULL)
+	{
+		MessageBoxNow(0,"open glue-word.txt fail ","message",MB_OK);
+		return(1);
+	}
+
+	glue_word_ptr=0;
+
+	while(!feof(fp1))
+	{
+		str[0]=0;
+
+		fgets(str,300,fp1);
+
+		if (strncmp(str,"backup",6)==0) continue;
+		if (strncmp(str,"//",2)==0) continue;
+
+		for (i=(int)strlen(str)-1;i>=0;i--)
+		{
+			if ((str[i]>0)&&(str[i]<=' ')) str[i]=0;
+			else break;
+		}
+
+		if (str[0]==0) continue;
+
+		strcpy(glue_word[glue_word_ptr],str);
+
+		glue_word_ptr++;
+
+	}
+
+	fclose(fp1);
+
+	printf("load_glue_word():total %d,\n",glue_word_ptr);
+
+	return(0);
+
+}
+
+int glue_word_in(char *str)
+{
+	int i;
+	
+	for (i=0;i<glue_word_ptr;i++)
+	{
+		if (strcmp(str,glue_word[i])==0) return(1);
 	}
 
 	return(0);

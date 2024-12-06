@@ -1426,7 +1426,7 @@ int cww1_number_is43b(char *pstr) // 100 duo ,100 duo wan
   
   i=(int)strlen(pstr);
     
-  if ((i>=4)&&(i<=50))
+  if ((i>=4)&&(i<=50))  //duo wan
   {
     j=0;
     
@@ -1641,12 +1641,12 @@ int ai_number_g(void)
 	//char str1[3000];
 
 	ai_number[0]=0;
-	ai_number[1]=1000;
+	ai_number[1]=5;
 
 	for (i=2;i<=150;i++)
 	{
 
-		ai_number[i]=ai_number[i-1]+ai_number[1]+1000;
+		ai_number[i]=ai_number[i-1]+ai_number[1]+5;
 	}
 /*
 	sprintf(m301_str1," 1=%d\n 2=%d\n 3=%d\n 4=%d\n 5=%d\n 6=%d\n 7=%d\n 8=%d\n 9=%d\n 10=%d\n 11=%d\n 12=%d\n 13=%d\n 14=%d\n 15=%d\n 16=%d\n 17=%d\n 18=%d\n 19=%d\n 20=%d\n 21=%d\n 22=%d\n 23=%d\n 24=%d\n 25=%d\n ",
@@ -2509,5 +2509,44 @@ int deb_record(int p_id,char *p_str1)
   fclose(fp);
 
   return(0);
+}
+
+int strfind(char *p1,int p1_size,char *p2,int p2_size)
+{
+  int i,j;
+  int len1,len2;
+  int state=1;
+
+  i=deb_str_has_null(p1,p1_size);
+  if (i!=1) return(-1);
+
+  i=deb_str_has_null(p2,p2_size);
+  if (i!=1) return(-1);
+
+  len1=strlen(p1);
+
+  //for (i=len2-1;i>=0;i--) if ((p2[i]<0)||(p2[i]>' ')) break;
+  //len2=i+1;
+  
+  string_trim(p2);
+  len2=strlen(p2);
+
+  for (i=0;i<=len1-len2;i++)
+  {
+    state=0;
+    for (j=0;j<len2;j++)
+    {
+      if (p1[i+j]!=p2[j])
+      {
+        state=1;
+        break;
+      }
+    }
+    if (state==0) break;
+  }
+
+  if (state==0) return(i);
+  
+  return(-1);
 }
 

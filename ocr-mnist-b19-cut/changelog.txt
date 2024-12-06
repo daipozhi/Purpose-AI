@@ -1,0 +1,21 @@
+ 
+ocr method final
+
+  1 load repository(already defined dot,line,circle)
+  2 gray scale/color scale
+  3 scan picture (next 1 dot,next 2 dots...,next 50 dots)
+  4 feature1/compare(dot,line,circle)(man li蛮力)
+  5 featrue2/compare(number 1 value,number 2 value...)
+  6 send to spl1
+  7 repeat step 3 to step 6 (just like spl)(like PurposeAI's separate words)
+  
+todo:
+
+  *pin jie 拼接(2 通)
+      2 ways full combine
+  *jie chu 接触(3 通)
+      2 possibilities
+  *chong die 重叠(4 通)
+      3 possibilities
+  
+

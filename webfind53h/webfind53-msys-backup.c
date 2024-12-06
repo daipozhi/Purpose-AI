@@ -154,20 +154,18 @@ int main(int argc,char **argv)
       printf("bad argument\n");
       return(0);
     }
-
-	MessageBoxNow(0,"load string1base000000.txt ,words01.txt ,words courseware, write to words-cww3-000000.txt","message",MB_OK);
+	
+	MessageBoxNow(0,"load string1base000000.txt ,words courseware, write to words-cww3-000000.txt","message",MB_OK);
 
 	ai_number_g();
 
 	i=load_cb();
 	if (i!=0) return(1);
 
-	//wd5_load();
-
 	i=wd6_load();
 	if (i!=0) return(1);
 
-	i=cww1_load();
+	i=cww1_load2();
 	if (i!=0) return(1);
 
         i=f1_load_kuo();
@@ -204,8 +202,6 @@ int mproc(char *strpath)
 
 	i=f1_init_ext();
 	if (i==1) return(0);
-
-	//printf("init_ext ok\n");
 
 	while(1)
 	{
@@ -308,6 +304,7 @@ int f1_init_ext(void)
 	mc5=init_c5;
 	mc6=init_c6;
 */
+
 	mc1=init_c1;
 	mc2=init_c2;
 	mc3=init_c3;
@@ -337,6 +334,7 @@ int f1_next_ext(void)
 
 	return(0);
 */
+
 	mc1++;
 	if (mc1>'9')
 	{
@@ -347,7 +345,7 @@ int f1_next_ext(void)
 			mc2='0';
 			mc3++;
 			if (mc3>'9')
-            {
+            		{
         mc3='0';
 	mc4++;
 	if (mc4>'9')
@@ -361,13 +359,14 @@ int f1_next_ext(void)
 			if (mc6>'9') return(1);
                 }
         }
-            }
+            		}
 		}
 	}
 
     init_n2++;
     if (init_n2<=init_n1) return(0);
     else return(1);
+
 }
 
 int f1_get_fln(char *s1)
@@ -575,28 +574,28 @@ int frame_loop1(void)
 	int          find;
 	int	     bigger;
 	int 	     i2,i3,i4,i5;
-	//float	     ff1,ff2,ff3,ff4;
 
 	f1_get_fln3(m101_s1);
+	//strcpy(m101_s1,"string1base      .txt");
 
 	strcpy(m101_s2,m101_s1);
 	
-	//printf("into frame_loop\n");
-
 	i=trans1(m101_s2);
 	if (i!=0) return(1);
 
-	//printf("trans1 ok\n");
+	// for test
+	//printf("%s,\n",m101_s2);
+	//return(0);
 
 	i=trans2();
 	if (i!=0) return(1);
-	
-	//printf("trans2 ok\n");
 	
 	//test
 	//return(0);
 
 	f1_get_fln2(m101_str5);
+	//strcpy(m101_str5,"words-cww0-      .txt");
+	
 	m101_str5[9]='2';
 	
 	load5(m101_str5);
@@ -608,8 +607,13 @@ int frame_loop1(void)
 		return(1);
 	}
 
-
+	// for test
+	//printf("%s,\n",m101_str5);
+	//fclose(fp1);
+	//return(0);
+	
 	f1_get_fln2(m101_ss1);
+	//strcpy(m101_str5,"words-cww0-      .txt");
 
 	strcpy(m101_ss2,m101_ss1);
 	m101_ss2[9]='3';
@@ -625,11 +629,8 @@ int frame_loop1(void)
 
 	while (!feof(fp1))
 	{
-		for (i=0;i<3000;i++)
-		{
-			m101_l1[i]=0;
-			m101_l2[i]=0;
-		}
+		m101_l1[0]=0;
+		m101_l2[0]=0;
 
 		fgets(m101_l1,3000,fp1);
 
@@ -649,26 +650,23 @@ int frame_loop1(void)
 				k=k+2;
 				i=i+2;
 			}
+			else if (c1<' ')
+			{
+				break;
+			}
 			else
 			{
-				if (c1<' ')
-				{
-					break;
-				}
-				else
-				{
-					m101_l2[k+0]=' ';
-					m101_l2[k+1]=lower(c1);
-					m101_l2[k+2]=0;
-					k=k+2;
-					i++;
-				}
+				m101_l2[k+0]=' ';
+				m101_l2[k+1]=lower(c1);
+				m101_l2[k+2]=0;
+				k=k+2;
+				i++;
 			}
 		}
 
 		l=(int)strlen(m101_l2);
 
-		if (l<2)   continue;
+		if (l<2)    continue;
 		if (l>=300) continue;
 
 		strcpy(spl1_in,m101_l2);
@@ -725,28 +723,30 @@ int trans1(char *pfn)
 	i=sent8(pfn);
 	if (i!=0) return(1);
 
-	//printf("out of trans1 , return 0\n");
-
 	return(0);
 }
 
 char m102_str1[2000000];
 char m102_str2[2000000];
 
+int  m102_num[1000000];
+int  m102_num_len[1000000];
+int  m102_num_ptr;
+
+int  m102_num_debug=0;
+
 int sent8(char *fln)
 {
 	FILE *fp1,*fp2;
-	int  i,j,k,l,m,o,p,q,r;
+	int  i,j,k,l,m,n,o,p,q,r,t,u,v,w,x,y,z;
 	int  n1,n2;
     	int  p1;
 	int  num,kuo;
-	//char str[300];
+	//char str1[300];
 	//char str2[300];
 	char s1[300];
 	char c1,c2;
-	//char str2[20000];
-
-	//printf("into sent8\n");
+	char str3[300];
 
 	fp1=fopen(fln,"r");
 	if (fp1==NULL)
@@ -755,20 +755,22 @@ int sent8(char *fln)
 		return(1);
 	}
 
-	//printf("open file %s ok\n",fln);
-
 	f1_get_fln2(s1);
+	//strcpy(s1,"words-cww0-      .txt");
 	s1[9]='1';
 
 	fp2=fopen(s1,"w");
 	if (fp2==NULL)
 	{
 		MessageBoxNow(0,s1,"message open file error",MB_OK);
-		return(0);
+		return(1);
 	}
 
-	//printf("open file %s ok\n",s1);
-
+	//for test
+	//fclose(fp1);
+	//fclose(fp2);
+	//return(0);
+	
 	r=0;
 	
 	while(!feof(fp1))
@@ -792,6 +794,80 @@ int sent8(char *fln)
 		if (sent_s[0]==0) continue;
 
 		j=(int)strlen(sent_s);
+
+
+
+		m102_num_ptr=0;  // get number position in string
+		y=0;
+		
+		while(y<j)
+		{
+		  z=0; // if there is number
+		  
+		  for (v=25;v>=1;v--)
+		  {
+		    t=y;
+		    n=0; // if within string
+		
+		    for (u=1;u<=v;u++)
+		    {
+		      if (t<j)
+		      {
+		        if (sent_s[t]>=0) t++;
+		        else t=t+2;
+		      }
+		      else
+		      {
+		        n=1;
+		        break;
+		      }
+		    }
+
+		    if (n==1) continue;
+		  
+		    str3[0]=0;
+		  
+		    for (w=y;w<t;w++)
+		    {
+		      str3[w-y+0]=sent_s[w];
+		      str3[w-y+1]=0;
+		    }
+		  
+		    if (m102_num_debug==1)
+		    {
+		      deb_record(1,str3);
+		      deb_record(1,"\n");
+		    }
+		  
+		    x=cww1_number_is2(str3);
+		    if (x==1)
+		    {
+		      if (m102_num_debug==1)
+		      {
+		        deb_record(1,"   1   \n");
+		      }
+		      
+		      m102_num[m102_num_ptr]=y;
+		      m102_num_len[m102_num_ptr]=t-y;
+		      m102_num_ptr++;
+		    
+		      y=t;
+		      z=1;
+		      break;
+		    }
+		  }
+		
+		  if (z==1) continue;
+		  else
+		  {
+		    if (sent_s[y]>=0) y++;
+		    else y=y+2;
+		    
+		    continue;
+		  }
+		}  
+
+
 
 		i=0;
 		p1=0;
@@ -823,69 +899,26 @@ int sent8(char *fln)
 				  }
 				}
 				
-				if ((sent_cb_in(m102_str1)==1)/*||(i>=j-1)*/)
+				if (sent_cb_in(m102_str1)==1)
 				{
+				
+				
+				
 					num=0;
-
-					if ((m102_str1[0]==',')||(m102_str1[0]=='.'))
+					
+					for (u=0;u<m102_num_ptr;u++)
 					{
-					  //if ((sent_s[i+1]>='0')&&(sent_s[i+1]<='9')) num=1;
-					  
-					  for (n1=i+1;n1<j;n1++)  //number string last char
+					  if ((m102_num[u]<=i)&&(i<m102_num[u]+m102_num_len[u]))
 					  {
-					    if (((sent_s[n1]>='0')&&(sent_s[n1]<='9'))||(sent_s[n1]==',')||(sent_s[n1]=='.')) continue;
-					    else
-					    {
-					      n1--;
-					      break;
-					    }
+					    num=1;
+					    break;
 					  }
-					  
-					  for (n2=i-1;n2>=0;n2--) //number string first char
-					  {
-					    if (((sent_s[n2]>='0')&&(sent_s[n2]<='9'))||(sent_s[n2]==',')||(sent_s[n2]=='.')) continue;
-					    else
-					    {
-					      n2++;
-					      break;
-					    }
-					  }
-					  
-					  m102_str2[0]=0;
-					  q=0;
-					  m=n2;
-					  
-					  while (m<=n1) // store to str2
-					  {
-					    c1=sent_s[m+0];
-					    c2=sent_s[m+1];
-					    
-					    if (c1>0)
-					    {
-					      m102_str2[q+0]=' ';
-					      m102_str2[q+1]=c1;
-					      m102_str2[q+2]=0;
-					      q=q+2;
-					      m=m+1;
-					    }
-					    else
-					    {
-					      m102_str2[q+0]=c1;
-					      m102_str2[q+1]=c2;
-					      m102_str2[q+2]=0;
-					      q=q+2;
-					      m=m+2;
-					    }
-					  }
-					  
-					  o=cww1_number_is2(m102_str2); //if its number
-					  if (o==1) num=1;
 					}
-
-					if (num==0)
+				
+				
+					
+					if ((kuo==0)&&(num==0))
 					{
-					  if (kuo==0)
-					  {
 					    sent_s2[0]=0;
 
 					    for (k=p1;k<=i;k++)
@@ -894,7 +927,6 @@ int sent8(char *fln)
 						sent_s2[k-p1+1]=0;
 					    }
 
-					    //sent8add2(sent_s2);
 					    fputs(sent_s2,fp2);
 					    fputs("\n",fp2);
 
@@ -902,7 +934,6 @@ int sent8(char *fln)
 					    p1=i;
 					    
 					    continue;
-					  }
 					}
 				}
 				
@@ -916,7 +947,6 @@ int sent8(char *fln)
 						sent_s2[k-p1+1]=0;
 					}
 
-					//sent8add2(sent_s2);
 					fputs(sent_s2,fp2);
 					fputs("\n",fp2);
 
@@ -953,9 +983,25 @@ int sent8(char *fln)
 				  }
 				}
 				
-				if ((sent_cb_in(m102_str1)==1)/*||(i>=j-1)*/)
+				if (sent_cb_in(m102_str1)==1)
 				{
-				    if (kuo==0)
+				
+				
+				
+				    num=0;
+					
+				    for (u=0;u<m102_num_ptr;u++)
+				    {
+					  if ((m102_num[u]<=i)&&(i<m102_num[u]+m102_num_len[u]))
+					  {
+					    num=1;
+					    break;
+					  }
+				    }
+				
+				
+					
+				    if ((kuo==0)&&(num==0))
 				    {
 					sent_s2[0]=0;
 
@@ -965,7 +1011,6 @@ int sent8(char *fln)
 						sent_s2[k-p1+1]=0;
 					}
 
-					//sent8add2(sent_s2);
 					fputs(sent_s2,fp2);
 					fputs("\n",fp2);
 
@@ -986,7 +1031,6 @@ int sent8(char *fln)
 						sent_s2[k-p1+1]=0;
 					}
 
-					//sent8add2(sent_s2);
 					fputs(sent_s2,fp2);
 					fputs("\n",fp2);
 
@@ -996,7 +1040,7 @@ int sent8(char *fln)
 					continue;
 				}
 				
-				i++;
+				i=i+2;
 			}
 		}
 
@@ -1064,19 +1108,20 @@ int sent9(void)
 	char s1[300];
 
 	f1_get_fln2(s1);
+	//strcpy(s1,"words-cww0-      .txt");
 	s1[9]='1';
 
 	fp1=fopen(s1,"r");
 	if (fp1==NULL)
 	{
-		MessageBoxNow(0,"open file words-cww2-000000.txt fail","message",MB_OK);
+		MessageBoxNow(0,"open file words-cww1-000000.txt fail","message",MB_OK);
 		return(1);
 	}
 
 	while(!feof(fp1))
 	{
 		sent_s[0]=0;
-		sent_s2[0]=0;
+		//sent_s2[0]=0;
 
 		fgets(sent_s,SENT_LEN,fp1);
 
@@ -1089,11 +1134,8 @@ int sent9(void)
 		string_trim(sent_s);
 
 		j=(int)strlen(sent_s);
-		if (j>=300) continue;
+		if ((j<0)||(j>=300)) continue;
 
-		//string_e_space(sent_s);
-
-		//sent9in1();
 		t1_insert_node(sent_s,SENT_LEN);
 	}
 
@@ -1110,13 +1152,14 @@ int sent9wrt1(void)
 	char  s1[300];
 
 	f1_get_fln2(s1);
+	//strcpy(s1,"words-cww0-      .txt");
 	s1[9]='2';
 
 	fp1=fopen(s1,"w");
 	if (fp1==NULL)
 	{
-		MessageBoxNow(0,"open file words-cww2-000000.txt fail ","message",MB_OK);
-		return(0);
+		MessageBoxNow(0,s1,"message",MB_OK);
+		return(1);
 	}
 
 	for (k=0;k<t1_buff_ptr;k++)
@@ -1292,6 +1335,7 @@ int wd5_load(void)
 	return(0);
 }
 */
+/*
 int f1_get_fln4(char *s1)
 {
 	strcpy(s1,"words01.txt");
@@ -1302,7 +1346,7 @@ int f1_get_fln4(char *s1)
 
 	return(0);
 }
-
+*/
 
 static 	char         m501_l1[SMG_SIZE];
 static 	char         m501_l2[SMG_SIZE];
@@ -1492,8 +1536,25 @@ int wd6_search(char *p_str,int p_str_size)
 	while(1)
 	{
 		i=(p1+p2)/2;
+		
 		if ( (i<0)||(i>=wd6_ptr)||(i>=ARTI_LINE2) ) return(0);
+		
 		if (i<=p1)
+		{
+			j=strcmp(wd6_buf[i],p_str);
+			if (j==0)
+			{
+				find=1;
+				wd6_find_rt=wd6_rt[i];
+				break;
+			}
+			else
+			{
+				find=0;
+				break;
+			}
+		}
+		else if (i>=p2)
 		{
 			j=strcmp(wd6_buf[i],p_str);
 			if (j==0)
@@ -1510,43 +1571,22 @@ int wd6_search(char *p_str,int p_str_size)
 		}
 		else
 		{
-			if (i>=p2)
+			j=strcmp(wd6_buf[i],p_str);
+			if (j==0)
 			{
-				j=strcmp(wd6_buf[i],p_str);
-				if (j==0)
-				{
-					find=1;
-					wd6_find_rt=wd6_rt[i];
-					break;
-				}
-				else
-				{
-					find=0;
-					break;
-				}
+				find=1;
+				wd6_find_rt=wd6_rt[i];
+				break;
+			}
+			else if (j>0)
+			{
+				p1=i;
+				continue;
 			}
 			else
 			{
-				j=strcmp(wd6_buf[i],p_str);
-				if (j==0)
-				{
-					find=1;
-					wd6_find_rt=wd6_rt[i];
-					break;
-				}
-				else
-				{
-					if (j>0)
-					{
-						p1=i;
-						continue;
-					}
-					else
-					{
-						p2=i;
-						continue;
-					}
-				}
+				p2=i;
+				continue;
 			}
 		}
 	}

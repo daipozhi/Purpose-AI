@@ -9,7 +9,7 @@ How does computer process text,video,audio
  Purpose AI is distributed in the hope that it will be useful,
   but WITHOUT ANY WARRANTY; )
 
-(July 9th 2024 update)
+(DEC 5th 2024 update)
 
 这个工程是小戴人工智能，是开源项目
 
@@ -17,7 +17,7 @@ How does computer process text,video,audio
 
 (本开源软件的授权是LGPL,没有担保)
 
-(2024-07-09 更新)
+(2024-12-05 更新)
 
 
     A, text , words
@@ -456,6 +456,9 @@ How does computer process text,video,audio
                              remove step50 and add it into step90 ,its a beta version )
                         (July 9th 2024 version fixed 4 bugs,better algorithm,better number string recognize,
                              better special character proccess )
+                        (Dec 5th 2024 version fixed 1 bug,add more word/grammar courseware,updated document,
+                             added glue word,in before,'科技,,感','满意,,度' will been separated,now don't 
+                             separate them.)
                              
 
 
@@ -562,6 +565,8 @@ How does computer process text,video,audio
                                     把它合并到step90中,这是一个beta版本)
                         (2024-07-09 改掉了4个错误，有更好的算法，更好的数字字符串识别，
                                     更好的特殊字符处理 )
+                        (2024-12-05 改掉了1个错误，制做了更多的词课件语法课件,更新了文档,
+                                    增加了胶水词功能,以前'科技,,感','满意,,度'是分开的,现在不再分开)
 
 
     C,video

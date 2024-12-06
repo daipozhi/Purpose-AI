@@ -1,0 +1,1 @@
+gcc om.c /usr/local/lib/libSDLmain.a /usr/local/lib/libSDL-1.2.so.0

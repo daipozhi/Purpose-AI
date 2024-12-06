@@ -284,9 +284,8 @@ int f1_get_one(void)
 */
 int f1_init_ext(void)
 {
-/*
 	int i;
-
+/*
 	mc1='0';
 	mc2='0';
 	mc3='0';
@@ -304,7 +303,6 @@ int f1_init_ext(void)
 	mc5=init_c5;
 	mc6=init_c6;
 */
-
 	mc1=init_c1;
 	mc2=init_c2;
 	mc3=init_c3;
@@ -319,9 +317,8 @@ int f1_init_ext(void)
 
 int f1_next_ext(void)
 {
-/*
 	int i;
-
+/*
 	i=f1_get_one();
 	if (i!=0) return(1);
 
@@ -334,7 +331,6 @@ int f1_next_ext(void)
 
 	return(0);
 */
-
 	mc1++;
 	if (mc1>'9')
 	{
@@ -366,7 +362,6 @@ int f1_next_ext(void)
     init_n2++;
     if (init_n2<=init_n1) return(0);
     else return(1);
-
 }
 
 int f1_get_fln(char *s1)

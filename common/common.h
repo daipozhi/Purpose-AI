@@ -110,3 +110,5 @@ int deb_str_has_null(const char *str,int str_size);
 
 int deb_record(int p_id,char *p_str1);
 
+int strfind(char *p1,int p1_size,char *p2,int p2_size);
+
