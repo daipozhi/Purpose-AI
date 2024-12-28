@@ -238,7 +238,7 @@ int main(int argc,char **argv)
 	i=load_chn_chenghu();    //装入称呼，’经理‘，’主任‘...
 	if (i!=0) return(1);
 
-	i=load_glue_word();        //装入胶水词，（成就）感，（满意）度...
+	i=load_glue_word();        //装入胶水词，（科学）’性‘，（满意）’度‘...
 	if (i!=0) return(1);
 
         i=load_cb();  // load punctuation 1    // 装入1号标点符号库
@@ -481,7 +481,7 @@ int mproc()
 	    }
 	    else
 	    {
-		    bigger=0;              //比较分数的大小，分4级，第一级v1,优先级最高，第二级v2其次......
+		    bigger=0;              //比较分数的大小，分4级，第一级v1，优先级最高，第二级v2其次...
 	    
 		    if (m_utf_v1>m_gb_v1) bigger=1;
 		    else if (m_utf_v1==m_gb_v1)
@@ -501,7 +501,7 @@ int mproc()
 		    else           strcpy(m_charset2,"gb18030");           //如果当作gb18030的分数高则是gb18030
 
                                                                    //如果是乱码，没有任何含义，和语言的知识体系匹配程度低，所以分数低
-                                                                   //如果不是乱码,有一定含义的，和语言的知识体系匹配程度高，所以分数高
+                                                                   //如果不是乱码，有一定含义的，和语言的知识体系匹配程度高，所以分数高
 
 		strcpy(m_charset2a,"                    ");
 	    }
@@ -638,7 +638,7 @@ int f1_get_one(void)         //从文件名列表中取出一个文件名
     return(0);
 }
 
-int f1_init_ext(void)        //打开保存文件名的文件
+int f1_init_ext(void)        //打开保存文件列表的文件
 {
     int i;
 
@@ -674,7 +674,7 @@ int f1_end_ext(void)
 int  grm10_ptr1[6];
 char grm10_mrk[6][20][10];
 
-int grm10_ini(void)   //生成语法模板，如果语句是“小李，开，红色，汽车”，“11”表示“小李，开，”，“111”表示“小李，开，红色，”......
+int grm10_ini(void)   //生成语法模板，如果语句是“小李，开，红色，汽车”，“11”表示“小李，开，”，“111”表示“小李，开，红色，”...
 {
   grm10_ptr1[2]=1;
   strcpy(grm10_mrk[2][0],"11   ");
@@ -847,14 +847,14 @@ int frame_loop1(char *path)
 	i=trans1(m101_str5,m101_str1);        //把多个句子连在一起的行分成多个行，每行一个句子
 	if (i!=0) return(1);
 
-	fp1=fopen(m101_str1,"r");          //打开需要识别的文件
+	fp1=fopen(m101_str1,"r");          //打开需要识别的输入文件
 	if (fp1==NULL)
 	{
 		MessageBoxNow(0,m101_str1,"message open file error",MB_OK);
 		return(1);
 	}
 
-	m_fp1=fopen(m101_str2,"w");
+	m_fp1=fopen(m101_str2,"w");     //打开输出文件
 	if (m_fp1==NULL)
 	{
 		MessageBoxNow(0,m101_str2,"message open file error ",MB_OK);
@@ -878,7 +878,7 @@ int frame_loop1(char *path)
 			c1=m101_l1[i+0];
 			c2=m101_l1[i+1];
 		
-			if (c1<0)
+			if (c1<0)           //如果是汉字则拷贝
 			{
 				m101_l2[k+0]=c1;
 				m101_l2[k+1]=c2;
@@ -886,13 +886,13 @@ int frame_loop1(char *path)
 				k=k+2;
 				i=i+2;
 			}
-			else if (c1<' ')
+			else if (c1<' ')      //如果是一行的末尾则结束
 			{
 				break;
 			}
-			else
+			else               //英文和数字
 			{
-				m101_l2[k+0]=' ';                //英文数字也占用2个字节，和一个汉字一样
+				m101_l2[k+0]=' ';                //英文和数字也占用2个字节，第一个字节是空格
 				m101_l2[k+1]=lower(c1);     //如果有英文转为小写
 				m101_l2[k+2]=0;
 				k=k+2;
@@ -921,7 +921,7 @@ int frame_loop1(char *path)
 			spl2_out_ptr=(-1);
 		}
 
-		if (spl1_out_ptr>=0)       //用某种格式输出
+		if (spl1_out_ptr>=0)       //输出第一步结果
 		{
 			fputs("$1,,",m_fp1);
 				
@@ -944,10 +944,10 @@ int frame_loop1(char *path)
 
 		fputs("\n",m_fp1);
 		
-		// write debug info
+		// write debug info               //输出语法图
 		// aaaa;;bb,,... (outputed sentence)
-		// A4    A2...   (A4: 4 words grammar in grammar courseware)
-		// A2    B2...   (B2: 2 words grammar in grammar database)
+		// A4    A2...   (A4: 4 words grammar in grammar courseware) (  A4 表示当前位置后的4个词是一个语法课件  )
+		// A2    B2...   (B2: 2 words grammar in grammar database) (  B2 表示当前位置后的2个词是语法库中的语法  )
 		// B2
 				
 		n=0;
@@ -1158,7 +1158,7 @@ long sent_l;
 char sent_cb[100][10];
 int  sent_cb_ptr;
 
-int trans1(char *p_fn1,char *p_fn2)       //分解行，每行一句
+int trans1(char *p_fn1,char *p_fn2)      //进行转换，如果一行有多条语句，则分成几行，每行一条语句
 {
 	int i;
 
@@ -1167,7 +1167,8 @@ int trans1(char *p_fn1,char *p_fn2)       //分解行，每行一句
 
 	return(0);
 }
-/*
+/*               //这段代码不再使用
+
 char m102_str1[2000000];
 char m102_str2[2000000];
 
@@ -1384,7 +1385,7 @@ int  m102_num_ptr;
 
 int  m102_num_debug=0;
 
-int sent8(char *fln,char *fln2)
+int sent8(char *fln,char *fln2)       //进行转换，如果一行有多条语句，则分成几行，每行一条语句
 {
 	FILE *fp1,*fp2;
 	int  i,j,k,l,m,n,o,p,q,r,t,u,v,w,x,y,z;
@@ -1397,7 +1398,7 @@ int sent8(char *fln,char *fln2)
 	char c1,c2;
 	char str3[300];
 
-	fp1=fopen(fln,"r");
+	fp1=fopen(fln,"r");         //打开输入文件
 	if (fp1==NULL)
 	{
 		MessageBoxNow(0,fln,"message open file error",MB_OK);
@@ -1408,7 +1409,7 @@ int sent8(char *fln,char *fln2)
 	//strcpy(s1,"words-cww0-      .txt");
 	//s1[9]='1';
 
-	fp2=fopen(fln2,"w");
+	fp2=fopen(fln2,"w");        //打开输出文件
 	if (fp2==NULL)
 	{
 		MessageBoxNow(0,fln2,"message open file error",MB_OK);
@@ -1426,7 +1427,7 @@ int sent8(char *fln,char *fln2)
 	{
 		sent_s[0]=0;
 
-		fgets(sent_s,SENT_LEN,fp1);
+		fgets(sent_s,SENT_LEN,fp1);      //读一行
 		
 		r++;
 
@@ -1438,15 +1439,15 @@ int sent8(char *fln,char *fln2)
 
 		//printf("read line %d ok\n",r);
 		
-		string_trim(sent_s);
+		string_trim(sent_s);         //去除一行末尾的不可见字符
 
-		if (sent_s[0]==0) continue;
+		if (sent_s[0]==0) continue;         //如果是空行则跳过
 
 		j=(int)strlen(sent_s);
 
 
 
-		m102_num_ptr=0;  // get number position in string        //获得字符串中数字的位置
+		m102_num_ptr=0;  // get number position in string        //如果语句中有数字，把它的位置标出来
 		y=0;
 		
 		while(y<j)
@@ -1524,12 +1525,12 @@ int sent8(char *fln,char *fln2)
 
 		while(i<j)
 		{
-			if (sent_s[i]>=0)
+			if (sent_s[i]>=0)              //如果是英文和数字
 			{
 				m102_str1[0]=sent_s[i];
 				m102_str1[1]=0;
 				
-				for (p=0;p<kuo_ptr1;p++) // if it is < ( [ { 
+				for (p=0;p<kuo_ptr1;p++) // if it is < ( [ {          //如果逗号句号在括号里面则不当作新的一行
 				{
 				  if (strcmp(m102_str1,kuo1[p])==0)
 				  {
@@ -1555,7 +1556,7 @@ int sent8(char *fln,char *fln2)
 				
 					num=0;
 					
-					for (u=0;u<m102_num_ptr;u++)
+					for (u=0;u<m102_num_ptr;u++)         //如果逗号句号在数字里面则不当作新的一行
 					{
 					  if ((m102_num[u]<=i)&&(i<m102_num[u]+m102_num_len[u]))
 					  {
@@ -1607,13 +1608,13 @@ int sent8(char *fln,char *fln2)
 				
 				i++;
 			}
-			else
+			else                       //如果是汉字
 			{
 				m102_str1[0]=sent_s[i+0];
 				m102_str1[1]=sent_s[i+1];
 				m102_str1[2]=0;
 				
-				for (p=0;p<kuo_ptr1;p++) // if it is < ( [ { 
+				for (p=0;p<kuo_ptr1;p++) // if it is < ( [ {           //如果逗号句号在括号里面则不当作新的一行
 				{
 				  if (strcmp(m102_str1,kuo1[p])==0)
 				  {
@@ -1639,7 +1640,7 @@ int sent8(char *fln,char *fln2)
 				
 				    num=0;
 					
-				    for (u=0;u<m102_num_ptr;u++)
+				    for (u=0;u<m102_num_ptr;u++)         //如果逗号句号在数字里面则不当作新的一行
 				    {
 					  if ((m102_num[u]<=i)&&(i<m102_num[u]+m102_num_len[u]))
 					  {
@@ -2048,7 +2049,7 @@ int chn_chenghu_in(char *str)        //是否在称呼（经理，主任...）�
 char glue_word[600][10];
 int  glue_word_ptr;
 
-int load_glue_word(void)       //装入胶水词
+int load_glue_word(void)       //装入胶水词，（科学）’性‘，（满意）’度‘...
 {
 	FILE *fp1;
 	int   i,j,k;
@@ -2110,7 +2111,7 @@ int glue_word_in(char *str)          //是否在胶水词当中
 
 
 //第二个程序 ：my_wd567.c
-//装入词库，词课件，查询词库，词课件
+//装入词库、词课件，查询词库、词课件
 
 
 
@@ -2171,7 +2172,7 @@ static	char         m401_s1[SMG_SIZE];
 static	char	     m401_s2[SMG_SIZE];
 static	char	     m401_s3[SMG_SIZE];
 
-int wd5_load(void)
+int wd5_load(void)                //装入词库
 {
 	FILE		*fp1;
     	int         i,j,k;
@@ -2223,7 +2224,7 @@ int wd5_load(void)
 			c1=m401_l1[i+0];
 			c2=m401_l1[i+1];
 
-			if (c1<0)
+			if (c1<0)          //如果是汉字则拷贝
 			{
 				if (ptr==0) // words
 				{
@@ -2241,7 +2242,7 @@ int wd5_load(void)
   				if (k>=SMG_SIZE-3) k=SMG_SIZE-3;
 				i=i+2;
 			}
-			else if (c1<' ')
+			else if (c1<' ')      //如果是一行末尾则结束
 			{
 				break;
 			}
@@ -2251,7 +2252,7 @@ int wd5_load(void)
 				k=0;
 				i++;
 			}
-			else
+			else                   //英文和数字
 			{
 				if (ptr==0)  //words  //there is 1 bug fixed
 				{
@@ -2348,8 +2349,8 @@ int wd5_search(char *p_str,int p_str_size)           // 用二分法查找词
 			j=strcmp(wd5_buf[i],p_str);
 			if (j==0)
 			{
-				find=1;                              //如果找到返回1
-				wd5_find_rt=wd5_rt[i];        //重复次数，和词的索引
+				find=1;                                           //如果找到返回1
+				wd5_find_rt=wd5_rt[i];                    //重复次数和词的索引
 				wd5_find_ptr=i;
 				break;
 			}
@@ -2459,7 +2460,7 @@ int wd6_load(void)                   //装入词课件
 			c1=m501_l1[i+0];
 			c2=m501_l1[i+1];
 
-			if (c1<0)
+			if (c1<0)          //如果是汉字则拷贝
 			{
 				if (ptr==0) // words
 				{
@@ -2477,17 +2478,17 @@ int wd6_load(void)                   //装入词课件
   				if (k>=SMG_SIZE-3) k=SMG_SIZE-3;
 				i=i+2;
 			}
-			else if (c1<' ')
+			else if (c1<' ')       //如果是一行末尾则结束
 			{
 				break;
 			}
-			else if (c1==',')           //在 ',' 后面的是重复次数
+			else if (c1==',')           //在 “,” 后面的是重复次数
 			{
 				ptr=1;
 				k=0;
 				i++;
 			}
-			else
+			else                //英文和数字
 			{
 				if (ptr==0)  //words
 				{
@@ -2518,7 +2519,7 @@ int wd6_load(void)                   //装入词课件
 			continue;
 		}
 
-		strcpy(wd6_buf[wd6_ptr],m501_l2);          //保存词和他的重复次数,这些词是排序排好的
+		strcpy(wd6_buf[wd6_ptr],m501_l2);          //保存词和它的重复次数,这些词是排序排好的
 
 		//wd6_rt[wd6_ptr]=str2llint(m501_l3);
 
@@ -2689,7 +2690,7 @@ int wd7_sub_load(void)            //装入子词课件
 
 		if (feof(fp1)) break;
 
-		string_trim(m601_l1);
+		string_trim(m601_l1);             //去除末尾的不可见字符
 
 		if ((int)strlen(m601_l1)<1 ) continue;        //限制词的长度
 		if ((int)strlen(m601_l1)>50) continue;
@@ -3284,7 +3285,7 @@ static	char	     m602_s3[1000];
 static	char         m602_s4[SMG_SIZE];
 static  int 	     m602_ns[20];
 
-int grm16_load(void)       //装入语法课件
+int grm16_load(void)                 //装入语法课件
 {
 	FILE		*fp1;
     	int         i,j,k,m;
@@ -3338,7 +3339,7 @@ int grm16_load(void)       //装入语法课件
 			c1=m602_l1[i+0];
 			c2=m602_l1[i+1];
 
-			if (c1<0)
+			if (c1<0)        //如果是汉字则拷贝
 			{
 				if (q==0) // words     //装入一个词
 				{
@@ -3356,11 +3357,11 @@ int grm16_load(void)       //装入语法课件
   				if (k>=SMG_SIZE-3) k=SMG_SIZE-3;
 				i=i+2;
 			}
-			else if (c1<' ')
+			else if (c1<' ')     //如果是句子末尾则结束
 			{
 				break;
 			}
-			else if (c1==',')         // ',' 之后是重复次数
+			else if (c1==',')         // “,” 之后是重复次数
 			{
 				q=1;
 				k=0;
@@ -3374,7 +3375,7 @@ int grm16_load(void)       //装入语法课件
 				i=i+2;
 				continue;
 			}
-			else
+			else               //英文和数字
 			{
 				if (q==0)  //words
 				{
@@ -3401,10 +3402,10 @@ int grm16_load(void)       //装入语法课件
 
 		err=0;
 
-		for (j=0;j<6;j++)       //把词转换为整数
+		for (j=0;j<6;j++)       //把词转换为整数（词的编号）
 		{
-			if (j>=ptr) m602_ns[j]=(-1); // end of grammar                               //语法的结束
-			else if (strcmp(m602_l2[j],"$n")==0) m602_ns[j]=(-3); // number     //是数字
+			if (j>=ptr) m602_ns[j]=(-1); // end of grammar                                  //语法的结束
+			else if (strcmp(m602_l2[j],"$n")==0) m602_ns[j]=(-3); // number        //是数字
 			else if (strcmp(m602_l2[j],"$*")==0) m602_ns[j]=(-2); // any string      //可以是任意词
 			else
 			{
@@ -3514,8 +3515,8 @@ int grm16_search(int pn1,int pn2,int pn3,int pn4,int pn5,int pn6)         //用�
 			j=grm16_cmp(i,pn1,pn2,pn3,pn4,pn5,pn6);
 			if (j==0)
 			{
-				find=1;                                                        //找到了返回1
-				grm16_find_rt=grm16_rt[i];  //repaet times  //重复次数
+				find=1;                                                         //找到了返回1
+				grm16_find_rt=grm16_rt[i];  //repaet times    //重复次数
 				grm16_find_ptr=i;                                         //语法编号
 				break;
 			}
@@ -3635,7 +3636,7 @@ int grm16_cmp(int i,int pn1,int pn2,int pn3,int pn4,int pn5,int pn6)        //�
 
 
 //一个句子，词的可能的组合非常多，几万，几十万甚至更多，要找出分数最大的，
-//又要尽可能的快，效率最高，最节省内存,所以我发明了超级管道这样的程序
+//又要尽可能的快，效率最高，最节省内存，所以我发明了超级管道这样的程序
 
 
 #include "../config.h"                           //公共头文件
@@ -4035,7 +4036,7 @@ int spl1_loop(void)
 
 	for (i=50;i>=2;i=i-2)     // bigger ones at first  // add courseware words  //当前位置之后的25字提取出来，看看是不是词课件，如果是则放入内存
 	{                                                                                                             //当前位置之后的24字提取出来，看看是不是词课件，如果是则放入内存
-		if (i>l) continue;                                                                      //......一直到一个字是不是词。
+		if (i>l) continue;                                                                      //...一直到一个字是不是词
 
 		for (m=0;m<i;m++)
 		{
@@ -4047,9 +4048,9 @@ int spl1_loop(void)
 		if (nn==1)                                                    //找到了，是词课件
 		{
 			t2_insert_node(m101_str1,SMG_SIZE);    //在spl1的变量中，不是保存查找到的字符串，而是把字符串插入二叉树，获得编号，在spl1的变量中保存这个编号
-                                                            //这样可以节省内存，加快速度
+                                                                                                            //这样可以节省内存，加快速度
 			spl1_sid[spl1_ptr][0]=t2_find_ptr2;         //t2_find_ptr2就是这个编号
-			spl1_mr2[spl1_ptr][0]=1;                     //mr2为1表示这个词是词课件，而不是词库，
+			spl1_mr2[spl1_ptr][0]=1;                       //mr2为1表示这个词是词课件，而不是词库
 
 			spl1_mrk[spl1_ptr]=1;         //mrk表示这句话还没有完成
 
@@ -4094,7 +4095,7 @@ int spl1_loop(void)
 	}
 
 #if !defined(APP_CHARSET)             //如果是识别字符集，不比较数字
-	for (i=50;i>=2;i=i-2)     // bigger ones at first  // number   //把之后的25个，24个，23个。。。字提取出来，看看是不是数字
+	for (i=50;i>=2;i=i-2)     // bigger ones at first  // number   //把之后的25个，24个，23个...字提取出来，看看是不是数字
 	{
 		if (i>l) continue;
 
@@ -4465,7 +4466,7 @@ int spl1_loop(void)
 				if (v==1) cname=1;
 			}
 
-			if ((i>=6)&&(i<=8))     // if it is chiness people name
+			if ((i>=6)&&(i<=8))     // if it is chiness people name   //是不是中国人姓名
 			{
 				m101_str4[0]=m101_str1[0];
 				m101_str4[1]=m101_str1[1];
@@ -4633,7 +4634,7 @@ int spl1_loop(void)
 
 
 
-        m101_str1[0]=spl1_in[0];    // add 1 chiness     //把只有一个字的词放入spl1变量中，和之前类似 
+        m101_str1[0]=spl1_in[0];    // add 1 chiness     //和之前类似 ，把只有一个字的词放入spl1变量中
 	m101_str1[1]=spl1_in[1];
 	m101_str1[2]=0;
 
@@ -4760,7 +4761,7 @@ int spl1_loop(void)
 				m101_p_seg_add=0;
 					
 				m101_p_ff1=(m101_p_val1*1000)/* /m101_p_seg */ /* m101_p_len */ ;     //四级分数，乘1000是为了比较小数点后的数值
-				m101_p_ff2=(m101_p_val2*1000)/* /m101_p_seg */ /* m101_p_len */ ;    //靠这4级分数插入二叉树
+				m101_p_ff2=(m101_p_val2*1000)/* /m101_p_seg */ /* m101_p_len */ ;     //靠这4级分数插入二叉树
 				m101_p_ff3=(m101_p_val3*1000)/* /m101_p_seg */ /* m101_p_len */ ;
 				m101_p_ff4=(m101_p_val4*1000)/* /m101_p_seg */ /* m101_p_len */ ;
 
@@ -4863,7 +4864,7 @@ int spl1_loop(void)
 						fputs(m101_str3,m_fp1);
 					}
 
-					item_id--;
+					item_id--;                        //记录编号
 					m101_p_id=item_id;
 					if (item_id<0) printf("warning,item_id<0 \n");
 
@@ -4887,7 +4888,7 @@ int spl1_loop(void)
 
 
 
-				m101_str6[0]=0;  //输入的字符串，数字是（空格）+数字，下面的程序把空格删除，以便识别是不是数字
+				m101_str6[0]=0;            //输入的字符串，数字是（空格）+数字，下面的程序把空格删除，以便识别是不是数字
 				j1=strlen(m101_str1);
 				j2=0;
 		
@@ -4990,7 +4991,7 @@ int spl1_loop(void)
 						fputs(m101_str3,m_fp1);
 					}
 
-					item_id--;
+					item_id--;                   //每条记录都有编号
 					m101_p_id=item_id;
 					if (item_id<0) printf("warning,item_id<0 \n");
 
@@ -5465,7 +5466,7 @@ int spl1_loop(void)
 
 
 
-	        	if (m101_p_len+2>l) continue;  // add one chiness         //插入1个字的词，和之前类似
+	        	if (m101_p_len+2>l) continue;  // add one chiness         //和之前类似，插入1个字的词
 
 	        	m101_str1[0]=spl1_in[m101_p_len+0];
 			m101_str1[1]=spl1_in[m101_p_len+1];
@@ -5599,8 +5600,8 @@ int spl1_loop(void)
 	j=(-1);// find shortest line         //经过十几次扩张就告一段落，把分数小的删除，只保留少量分数大的，以便提高效率
 	r=(-1);
 	
-	for (k=0;k<spl1_ptr;k++)   //要删除分数小的，但是每个记录的长度是不一样的,有的很长,有的很短,需要先找出最短的记录,
-	{                                       //计算在最短的长度的区间谁的分数小,从而把它删除.
+	for (k=0;k<spl1_ptr;k++)   //要删除分数小的，但是每个记录的长度是不一样的，有的很长，有的很短，需要先找出最短的记录，
+	{                                       //计算在最短的长度的区间谁的分数小，从而把它删除
 		i3=spl1_seg[k];
 		p=0;
 		
@@ -5885,7 +5886,7 @@ int spl1_add_to_tree(void)         //插入二叉树t6
 			//t6_node_v_iid[t6_find_ptr2]=spl1_iid[m101_p_src];
 
 			t6_node_v_len[t6_find_ptr2]=spl1_len[m101_p_src];     //长度
-			t6_node_v_seg[t6_find_ptr2]=spl1_seg[m101_p_src];   //词个数
+			t6_node_v_seg[t6_find_ptr2]=spl1_seg[m101_p_src];    //词个数
 			
 			t6_node_v_val1[t6_find_ptr2]=m101_p_val1 /*spl1_val1[m101_p_src]*/;    //四级分数
 			t6_node_v_val2[t6_find_ptr2]=m101_p_val2 /*spl1_val2[m101_p_src]*/;
@@ -5941,7 +5942,7 @@ int spl1_add_to_tree(void)         //插入二叉树t6
 			t6_node_v_val3[t6_find_ptr2]=t6_node_v_val3[t6_find_ptr2]+spl1_con_val3;
 			t6_node_v_val4[t6_find_ptr2]=t6_node_v_val4[t6_find_ptr2]+spl1_con_val4;
 			
-			for (i=2;i<=6;i++)      //保存语法分数
+			for (i=2;i<=6;i++)      //保存新增加的词的语法分数
 			{
 			  if (m101_p_seg+1-i<0) continue;
 
@@ -5951,7 +5952,7 @@ int spl1_add_to_tree(void)         //插入二叉树t6
 			  t6_node_v_sval[t6_find_ptr2][m101_p_seg+1-i][3]=t6_node_v_sval[t6_find_ptr2][m101_p_seg+1-i][3]+spl1_con_val_sv[6-i][3];
 			}
 			
-			for (i=2;i<=6;i++)     //保存语法图
+			for (i=2;i<=6;i++)     //保存新增加的词的语法图
 			{
 			  if (m101_p_seg+1-i<0) continue;
 			  
@@ -6062,17 +6063,17 @@ int spl1_add_to_tree(void)         //插入二叉树t6
 			if (m101_p_cur<0)     //已完成的记录，到达句子末尾的记录
 			{
 				i3=m101_p_seg;
-				for (i4=0;i4<i3;i4++)
+				for (i4=0;i4<i3;i4++)      //保存信息
 				{
-					t6_node_v_sid[t6_find_ptr2][i4]=spl1_sid[m101_p_src][i4];
-					t6_node_v_mr2[t6_find_ptr2][i4]=spl1_mr2[m101_p_src][i4];
+					t6_node_v_sid[t6_find_ptr2][i4]=spl1_sid[m101_p_src][i4];        //词的编号
+					t6_node_v_mr2[t6_find_ptr2][i4]=spl1_mr2[m101_p_src][i4];    //是高优先级还是低优先级
 
-					t6_node_v_sval[t6_find_ptr2][i4][0]=spl1_sval[m101_p_src][i4][0];
+					t6_node_v_sval[t6_find_ptr2][i4][0]=spl1_sval[m101_p_src][i4][0];    //各个词的分数
 					t6_node_v_sval[t6_find_ptr2][i4][1]=spl1_sval[m101_p_src][i4][1];
 					t6_node_v_sval[t6_find_ptr2][i4][2]=spl1_sval[m101_p_src][i4][2];
 					t6_node_v_sval[t6_find_ptr2][i4][3]=spl1_sval[m101_p_src][i4][3];
 
-					t6_node_v_pat_ptr[t6_find_ptr2][i4]=spl1_grm_map_ptr[m101_p_src][i4];
+					t6_node_v_pat_ptr[t6_find_ptr2][i4]=spl1_grm_map_ptr[m101_p_src][i4];    //拷贝语法图
 					
 					for (t=0;t<spl1_grm_map_ptr[m101_p_src][i4];t++)
 					{
@@ -6081,14 +6082,14 @@ int spl1_add_to_tree(void)         //插入二叉树t6
 					}					
 				}
 
-				t6_node_v_mrk[t6_find_ptr2]=spl1_mrk[m101_p_src];
+				t6_node_v_mrk[t6_find_ptr2]=spl1_mrk[m101_p_src];     //是否完成
 
 				//t6_node_v_iid[t6_find_ptr2]=spl1_iid[m101_p_src];
 
-				t6_node_v_len[t6_find_ptr2]=spl1_len[m101_p_src];
-				t6_node_v_seg[t6_find_ptr2]=spl1_seg[m101_p_src];
+				t6_node_v_len[t6_find_ptr2]=spl1_len[m101_p_src];     //长度
+				t6_node_v_seg[t6_find_ptr2]=spl1_seg[m101_p_src];   //词个数
 				
-				t6_node_v_val1[t6_find_ptr2]=m101_p_val1 /*spl1_val1[m101_p_src]*/;
+				t6_node_v_val1[t6_find_ptr2]=m101_p_val1 /*spl1_val1[m101_p_src]*/;    //四级分数
 				t6_node_v_val2[t6_find_ptr2]=m101_p_val2 /*spl1_val2[m101_p_src]*/;
 				t6_node_v_val3[t6_find_ptr2]=m101_p_val3 /*spl1_val3[m101_p_src]*/;
 				t6_node_v_val4[t6_find_ptr2]=m101_p_val4 /*spl1_val4[m101_p_src]*/;
@@ -6096,17 +6097,17 @@ int spl1_add_to_tree(void)         //插入二叉树t6
 			else           //没有完成的记录
 			{
 				i3=m101_p_seg;
-				for (i4=0;i4<i3;i4++)
+				for (i4=0;i4<i3;i4++)    //保存信息
 				{
-					t6_node_v_sid[t6_find_ptr2][i4]=spl1_sid[m101_p_src][i4];
-					t6_node_v_mr2[t6_find_ptr2][i4]=spl1_mr2[m101_p_src][i4];
+					t6_node_v_sid[t6_find_ptr2][i4]=spl1_sid[m101_p_src][i4];       //词编号
+					t6_node_v_mr2[t6_find_ptr2][i4]=spl1_mr2[m101_p_src][i4];    //是词课件还是词库
 
-					t6_node_v_sval[t6_find_ptr2][i4][0]=spl1_sval[m101_p_src][i4][0];
+					t6_node_v_sval[t6_find_ptr2][i4][0]=spl1_sval[m101_p_src][i4][0];     //每个词的分数
 					t6_node_v_sval[t6_find_ptr2][i4][1]=spl1_sval[m101_p_src][i4][1];
 					t6_node_v_sval[t6_find_ptr2][i4][2]=spl1_sval[m101_p_src][i4][2];
 					t6_node_v_sval[t6_find_ptr2][i4][3]=spl1_sval[m101_p_src][i4][3];
 
-					t6_node_v_pat_ptr[t6_find_ptr2][i4]=spl1_grm_map_ptr[m101_p_src][i4];
+					t6_node_v_pat_ptr[t6_find_ptr2][i4]=spl1_grm_map_ptr[m101_p_src][i4];   //拷贝语法图
 					
 					for (t=0;t<t6_node_v_pat_ptr[t6_find_ptr2][i4];t++)
 					{
@@ -6115,15 +6116,15 @@ int spl1_add_to_tree(void)         //插入二叉树t6
 					}					
 				}
 
-				t6_node_v_sid[t6_find_ptr2][m101_p_seg]=m101_p_cur;  //save added value
-				t6_node_v_mr2[t6_find_ptr2][m101_p_seg]=m101_p_mr2;
+				t6_node_v_sid[t6_find_ptr2][m101_p_seg]=m101_p_cur;  //save added value       //新增加的词的编号
+				t6_node_v_mr2[t6_find_ptr2][m101_p_seg]=m101_p_mr2;        //是词课件还是词库
 
-				t6_node_v_sval[t6_find_ptr2][m101_p_seg][0]=m101_p_val1_add;
+				t6_node_v_sval[t6_find_ptr2][m101_p_seg][0]=m101_p_val1_add;      //新增加的词的分数
 				t6_node_v_sval[t6_find_ptr2][m101_p_seg][1]=m101_p_val2_add;
 				t6_node_v_sval[t6_find_ptr2][m101_p_seg][2]=m101_p_val3_add;
 				t6_node_v_sval[t6_find_ptr2][m101_p_seg][3]=m101_p_val4_add;
 
-				t6_node_v_pat_ptr[t6_find_ptr2][m101_p_seg]=0;
+				t6_node_v_pat_ptr[t6_find_ptr2][m101_p_seg]=0;        //新增加的词的语法图初始化
 
 				t6_node_v_mrk[t6_find_ptr2]=m101_p_mrk;
 
@@ -6132,17 +6133,17 @@ int spl1_add_to_tree(void)         //插入二叉树t6
 				t6_node_v_len[t6_find_ptr2]=m101_p_len+m101_p_len_add;
 				t6_node_v_seg[t6_find_ptr2]=m101_p_seg+m101_p_seg_add;
 				
-				t6_node_v_val1[t6_find_ptr2]=m101_p_val1+m101_p_val1_add;
+				t6_node_v_val1[t6_find_ptr2]=m101_p_val1+m101_p_val1_add;      //保存词的分数
 				t6_node_v_val2[t6_find_ptr2]=m101_p_val2+m101_p_val2_add;
 				t6_node_v_val3[t6_find_ptr2]=m101_p_val3+m101_p_val3_add;
 				t6_node_v_val4[t6_find_ptr2]=m101_p_val4+m101_p_val4_add;
 				
-				t6_node_v_val1[t6_find_ptr2]=t6_node_v_val1[t6_find_ptr2]+spl1_con_val1;  // save con_val value
+				t6_node_v_val1[t6_find_ptr2]=t6_node_v_val1[t6_find_ptr2]+spl1_con_val1;  // save con_val value //保存语法分数
 				t6_node_v_val2[t6_find_ptr2]=t6_node_v_val2[t6_find_ptr2]+spl1_con_val2;
 				t6_node_v_val3[t6_find_ptr2]=t6_node_v_val3[t6_find_ptr2]+spl1_con_val3;
 				t6_node_v_val4[t6_find_ptr2]=t6_node_v_val4[t6_find_ptr2]+spl1_con_val4;
 			
-				for (i=2;i<=6;i++)
+				for (i=2;i<=6;i++)      //保存新增加的词的语法分数
 				{
 				  if (m101_p_seg+1-i<0) continue;
 
@@ -6152,7 +6153,7 @@ int spl1_add_to_tree(void)         //插入二叉树t6
 				  t6_node_v_sval[t6_find_ptr2][m101_p_seg+1-i][3]=t6_node_v_sval[t6_find_ptr2][m101_p_seg+1-i][3]+spl1_con_val_sv[6-i][3];
 				}
 			
-				for (i=2;i<=6;i++)
+				for (i=2;i<=6;i++)     //保存新增加的词的语法图
 				{
 				  if (m101_p_seg+1-i<0) continue;
 				  
@@ -6198,7 +6199,7 @@ int spl1_add_to_tree(void)         //插入二叉树t6
 	return(0);
 }
 
-int spl1_add_to_tree2(void)      //插入二叉树t5,和t6类似
+int spl1_add_to_tree2(void)      //插入二叉树t5，和t6类似
 {
 	long long int   ff1,ff2,ff3,ff4;
 	int   i4;
@@ -6374,7 +6375,7 @@ int spl1_copy_val(int step)       //在旧版本里有用，可以调整放大�
 */
 #define CV_DEBUG   0
 
-int spl1_con_val_ini(void)  //初始化语法变量
+int spl1_con_val_ini(void)            //初始化语法变量
 {
   int i,j;
   
@@ -6397,7 +6398,7 @@ int spl1_con_val_ini(void)  //初始化语法变量
 // connection value
 //---------------------
 
-int spl1_con_val(void)           //计算语法分数
+int spl1_con_val(void)              //计算语法分数
 {
     	int           i,j,k,l,m,n,o,p,t,u,w,x,y;
 	int	      i2,i3,i4,i5;
@@ -6521,10 +6522,10 @@ int spl1_con_val(void)           //计算语法分数
 					//p=spl1_grm_map_ptr[o][m4+1-i];
 					p=spl1_con_val_map_ptr[6-i];          //设置语法图的变量
 					
-// output grammar map (输出语法图)
+// output grammar map (  输出语法图  )
 // aaaa;;bb,,cc,dd;;... (outputed sentence)
-// A4    A2...   (A4: 4 words grammar in grammar courseware)(A4 表示当前位置后的4个词是一个语法课件)
-// A2    B2...   (B2: 2 words grammar in grammar database)  (B2 表示当前位置后的2个词是语法库中的语法)
+// A4    A2...   (A4: 4 words grammar in grammar courseware)(  A4 表示当前位置后的4个词是一个语法课件  )
+// A2    B2...   (B2: 2 words grammar in grammar database)  (  B2 表示当前位置后的2个词是语法库中的语法  )
 // B2
 					if (p<8)
 					{
@@ -6617,7 +6618,7 @@ int spl1_con_val(void)           //计算语法分数
 
 
 //一个句子，词的可能的组合非常多，几万，几十万甚至更多，要找出分数最大的，
-//又要尽可能的快，效率最高，最节省内存,所以我发明了超级管道这样的程序
+//又要尽可能的快，效率最高，最节省内存，所以我发明了超级管道这样的程序
 
 
 #include "../config.h"                   //公共的头文件，定义一些公共的函数
@@ -7024,7 +7025,7 @@ int spl2_loop(void)
 
 	for (i=50;i>=2;i=i-2)     // bigger ones at first  // add courseware words    //当前位置之后的25字提取出来，看看是不是词课件，如果是则放入内存
 	{                                                                                                               //当前位置之后的24字提取出来，看看是不是词课件，如果是则放入内存
-		if (i>l) continue;                                                                        //......一直到一个字是不是词。
+		if (i>l) continue;                                                                        //...一直到一个字是不是词
 
 		for (m=0;m<i;m++)
 		{
@@ -7271,7 +7272,7 @@ int spl2_loop(void)
 		}
 	}
 
-        m101_str1[0]=spl2_in[0];    // add 1 chiness     //把只有一个字的词放入spl1变量中，和之前类似
+        m101_str1[0]=spl2_in[0];    // add 1 chiness     //和之前类似，把只有一个字的词放入spl1变量中
 	m101_str1[1]=spl2_in[1];
 	m101_str1[2]=0;
 
@@ -7686,7 +7687,7 @@ int spl2_loop(void)
 				}
 			}
 
-	        	if (m101_p_len+2>l) continue;  // add one chiness   //插入1个字的词，和之前类似
+	        	if (m101_p_len+2>l) continue;  // add one chiness   //和之前类似，插入1个字的词
 
 	        	m101_str1[0]=spl2_in[m101_p_len+0];
 			m101_str1[1]=spl2_in[m101_p_len+1];
@@ -7805,8 +7806,8 @@ int spl2_loop(void)
 	j=(-1);// find shortest line     //经过十几次扩张就告一段落，把分数小的删除，只保留少量分数大的，以便提高效率
 	r=(-1);
 	
-	for (k=0;k<spl2_ptr;k++)     //要删除分数小的，但是每个记录的长度是不一样的,有的很长,有的很短,需要先找出最短的记录,
-	{                           	          //计算在最短的长度的区间谁的分数小,从而把它删除.
+	for (k=0;k<spl2_ptr;k++)     //要删除分数小的，但是每个记录的长度是不一样的，有的很长，有的很短，需要先找出最短的记录，
+	{                           	          //计算在最短的长度的区间谁的分数小，从而把它删除.
 		i3=spl2_seg[k];
 		p=0;
 		
@@ -8337,7 +8338,7 @@ int spl2_add_to_tree(void)           //插入二叉树t8
 	return(0);
 }
 
-int spl2_add_to_tree2(void)      //插入二叉树t7,和t8类似
+int spl2_add_to_tree2(void)      //插入二叉树t7，和t8类似
 {
 	long long int   ff1,ff2,ff3,ff4;
 	int   i4;
@@ -8525,7 +8526,7 @@ int shortword()          //在spl1中把一句话分成几个词，但是这些�
 	char str3[300];
 	char str4[300];
 
-	for (j=0;j<spl1_seg[spl1_out_ptr];j++) // mark grammar's words
+	for (j=0;j<spl1_seg[spl1_out_ptr];j++) // mark grammar's words          //如果这个词和其他的词组成了语法，则标记出来，不去分解它
 	{
 	  str3[j]=0;
 	}
@@ -8549,22 +8550,22 @@ int shortword()          //在spl1中把一句话分成几个词，但是这些�
 	  }
 	}
 	
-	for (j=0;j<spl1_seg[spl1_out_ptr];j++)  //spl1的输出的每一个词
+	for (j=0;j<spl1_seg[spl1_out_ptr];j++)                 //spl1的输出的每一个词
 	{
 		k=spl1_sid[spl1_out_ptr][j];
 		strcpy(spl2_in,t2_node_val[k]);
 
 // -----------------------------step1----step2(is sub)----step2(isn't sub)--
-// mr2 1 word courseware        ;;       ##               ;;
-// mr2 2 number                 ::       %%               ;;
-// mr2 3 xiao lao               ::       %%
-// mr2 4 jing li , zhu ren      ::       %%
-// mr2 5 word base              ,,       ++               ,,
-// mr2 6 chiness people name    ,,       ++
-// mr2 7 1 chiness              ,,       ,,               ,,
-// grammar                               &&               &&
+// mr2 1 word courseware        ;;       ##               ;;    词课件
+// mr2 2 number                 ::       %%               ;;       数字
+// mr2 3 xiao lao               ::       %%                          称呼（老，小...）
+// mr2 4 jing li , zhu ren      ::       %%                        称呼（经理，主任...）
+// mr2 5 word base              ,,       ++               ,,       词库
+// mr2 6 chiness people name    ,,       ++                 中国人姓名
+// mr2 7 1 chiness              ,,       ,,               ,,            单个汉字
+// grammar                               &&               &&     语法课件
 //--------------------------------------------------------------------------
-//glue word                                                        @@
+//glue word                                                        @@    胶水词
 //--------------------------------------------------------------------------
 
 		n=wd7_sub_search(spl2_in); //in sub words course       //有些词不应该分成较短的词，就把他放在wd7的库中（子词课件）
@@ -8638,6 +8639,7 @@ int shortword()          //在spl1中把一句话分成几个词，但是这些�
 	
 	return(0);
 }
+
 
 //第11个程序 ：f1.c
 //擦除html标记，获得文本
